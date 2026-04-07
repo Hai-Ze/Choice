@@ -23,8 +23,8 @@ def extract_pdf_by_grades(pdf_path):
     # Lưu ý: Index trong PyMuPDF đếm từ 0, nên trang 79 tương ứng là index 78.
     sections = {
         10: (78, 88), 
-        11: (88, 104),
-        12: (104, 114) 
+        11: (88, 105), # Kéo dài thêm 1 index để lấy nốt phần dư của Lớp 11 bị vắt sang trang 105
+        12: (104, 114) # Lớp 12 cũng bắt đầu xài chung trang 105
     }
     
     grade_texts = {}
@@ -70,7 +70,8 @@ def process_text_with_llm_to_json(text_chunk, grade, api_key):
     ]
     2. CHUYỂN HÓA LATEX: Mọi kí tự toán học (độ, góc, tích phân, giới hạn...) bọc trong dấu `$`. 
     !!CẢNH BÁO JSON!!: TẤT CẢ các dấu backslash (`\\`) trong chuỗi của bạn PHẢI ĐƯỢC NHÂN ĐÔI (ESCAPE) THÀNH `\\\\`. Ví dụ: `"\\\\lim_{{n\\\\to\\\\infty}}"` KHÔNG ĐƯỢC gõ `"\\lim_{{n\\to\\infty}}"`. Dấu xuyệt đơn sẽ làm sập hàm json.loads().
-    3. TUYỆT ĐỐI CHỈ OUTPUT JSON, không có chữ mở đầu/kết thúc hay ```json.
+    3. LOẠI BỎ THỰC HÀNH: TUYỆT ĐỐI BỎ QUA toàn bộ các phần có tiêu đề là "Thực hành", "Hoạt động thực hành", hoặc "HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM". Không đưa chúng vào mảng JSON. Chỉ giữ lại lý thuyết và chuyên đề Toán học. (Bạn cũng phải thông minh lọc bỏ phần thừa của Lớp khác bị dính vào do cắt trang PDF).
+    4. TUYỆT ĐỐI CHỈ OUTPUT JSON, không có chữ mở đầu/kết thúc hay ```json.
 
     Dưới đây là văn bản cần phân tích:
     {text_chunk}
@@ -98,8 +99,8 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
     for grade, text in grade_texts.items():
         print(f"🔧 Đang chạy AI biên dịch chương trình Lớp {grade}...")
         
-        # Thử gọi API (Tối đa 2 lần để né rào cản quá tải của bản Free)
-        for attempt in range(2):
+        # Thử gọi API (Tối đa 4 lần để vượt rào cản quá tải của Server Google)
+        for attempt in range(4):
             try:
                 grade_json = process_text_with_llm_to_json(text, grade, api_key)
                 final_json.extend(grade_json)
@@ -107,30 +108,47 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
                 break
             except Exception as e:
                 error_str = str(e)
-                if "429" in error_str and attempt == 0:
-                    print("⚠️ Hệ thống API báo đầy. Đang đợi 60 giây để gửi lại...")
-                    time.sleep(60)
+                if attempt < 3:
+                    wait_time = 20 * (attempt + 1)
+                    print(f"⚠️ Server hệ thống đang bận (Lỗi {error_str[0:3] if hasattr(error_str, '__getitem__') else ''}). Đang đợi {wait_time} giây để dội bom gửi lại (Lần {attempt+2}/4)...")
+                    time.sleep(wait_time)
                 else:
-                    print(f"❌ Lỗi khi xử lý Lớp {grade}. Chi tiết: {e}")
+                    print(f"❌ Lỗi cực độ khi xử lý Lớp {grade}. Server hoàn toàn không phản hồi: {e}")
                     break
                     
         # Nghỉ nhẹ 10s giữa mỗi Lớp để tránh bị Google block
         if grade != 12:
             time.sleep(10)
             
-    # TÁI CẤU TRÚC: Đánh lại toàn bộ ID để tăng dần từ 1 -> N xuyên suốt toàn bộ Grade
+    # TÁI CẤU TRÚC: Đánh lại toàn bộ ID để tăng dần từ 1 -> N bằng phương pháp đệ quy, đề phòng AI tạo mảng lồng nhau
     current_section_id = 1
-    for item in final_json:
-        item["id_section"] = str(current_section_id)
-        current_subsection_id = 1
-        for content in item.get("content", []):
-            content["id_subsection"] = str(current_subsection_id)
-            current_req_id = 1
-            for req in content.get("requirements", []):
-                req["id_problem"] = f"{current_section_id}_{current_subsection_id}_{current_req_id}"
-                current_req_id += 1
-            current_subsection_id += 1
-        current_section_id += 1
+    def process_sections(node):
+        nonlocal current_section_id
+        if isinstance(node, list):
+            for item in node:
+                process_sections(item)
+        elif isinstance(node, dict):
+            if "section" in node and "content" in node:
+                # Detect được node chứa Section thực sự!
+                node["id_section"] = str(current_section_id)
+                current_subsection_id = 1
+                for content_item in node.get("content", []):
+                    if "subsection" in content_item:
+                        content_item["id_subsection"] = str(current_subsection_id)
+                        current_req_id = 1
+                        for req in content_item.get("requirements", []):
+                            req["id_problem"] = f"{current_section_id}_{current_subsection_id}_{current_req_id}"
+                            current_req_id += 1
+                        current_subsection_id += 1
+                    else:
+                        process_sections(content_item)
+                current_section_id += 1
+            else:
+                for k, v in node.items():
+                    if isinstance(v, (dict, list)):
+                        process_sections(v)
+                        
+    process_sections(final_json)
             
     with open(output_json, 'w', encoding='utf-8') as f:
         json.dump(final_json, f, ensure_ascii=False, indent=2)
@@ -201,10 +219,13 @@ def validate_json_vs_pdf(json_path, pdf_path):
 
 
 if __name__ == "__main__":
-    PDF_FILE = "3__CT_Toan_59b5e.pdf"
-    OUTPUT_JSON = "KhungChuongTrinh_Moi.json"
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    PDF_FILE = os.path.join(BASE_DIR, "3__CT_Toan_59b5e.pdf")
+    OUTPUT_JSON = os.path.join(BASE_DIR, "KhungChuongTrinh_Moi.json")
     
     # Đã giấu API KEY sang file .env để tránh bị lộ khi đẩy lên Git
+    env_path = os.path.join(BASE_DIR, ".env")
+    load_dotenv(env_path)
     YOUR_GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
     
     if not YOUR_GEMINI_API_KEY:
