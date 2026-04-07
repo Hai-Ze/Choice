@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+
+# Ignore temporary preview and test files generated during dev
+inspect_pdf.py
+list_models.py
+pdf_preview*.txt
+report_validation.txt
+
+# Python cache
+__pycache__/
+*.pyc
