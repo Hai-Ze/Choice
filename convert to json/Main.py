@@ -47,21 +47,21 @@ def process_text_with_llm_to_json(text_chunk, grade, api_key):
     Hãy phân tích đoạn văn bản thô (được trích xuất từ PDF) của Lớp {grade} dưới đây và chuyển đổi nó về ĐÚNG MỘT KHỐI JSON ARRAY.
     
     YÊU CẦU BẮT BUỘC (CRITICAL):
-    1. Trả về đúng cấu trúc (Cách 1). Ví dụ:
+    1. Trả về đúng cấu trúc. Chú ý cách xác định Topic, Section, Subsection từ bảng trong PDF.
     [
       {{
         "grade": {grade},
-        "topic": "Đại số" (tương ứng thuộc nội dung nào),
-        "section": "Tên chương lớn/Nội dung chính",
+        "topic": "Đại số", // LƯU Ý: Topic là các dòng chủ đề phụ in nghiêng (VD: Đại số, Một số yếu tố giải tích, Hình học không gian...). KHÔNG lấy các tiêu đề lớn in hoa toàn bộ như "ĐẠI SỐ VÀ MỘT SỐ YẾU TỐ GIẢI TÍCH" làm topic.
+        "section": "Hàm số lượng giác và phương trình lượng giác", // LƯU Ý: Section tương ứng với Cột 1 của bảng (Chủ đề chính/Mạch kiến thức).
         "id_section": "1",
         "content": [
           {{
-            "subsection": "Tên tiết học/Chủ đề nhỏ",
+            "subsection": "Góc lượng giác. Số đo của góc lượng giác...", // LƯU Ý: Subsection tương ứng với Cột 2 của bảng (Nội dung chi tiết).
             "id_subsection": "1",
-            "requirements": [
+            "requirements": [ // LƯU Ý: Mỗi gạch đầu dòng (-) ở Cột 3 (Yêu cầu cần đạt) được tách riêng thành một object.
               {{
                  "id_problem": "1_1_1",
-                 "description": "Nội dung mô tả (fix lỗi chính tả nếu có)"
+                 "description": "Nhận biết được các khái niệm cơ bản về góc lượng giác..."
               }}
             ]
           }}
@@ -71,14 +71,15 @@ def process_text_with_llm_to_json(text_chunk, grade, api_key):
     2. CHUYỂN HÓA LATEX: Mọi kí tự toán học (độ, góc, tích phân, giới hạn...) bọc trong dấu `$`. 
     !!CẢNH BÁO JSON!!: TẤT CẢ các dấu backslash (`\\`) trong chuỗi của bạn PHẢI ĐƯỢC NHÂN ĐÔI (ESCAPE) THÀNH `\\\\`. Ví dụ: `"\\\\lim_{{n\\\\to\\\\infty}}"` KHÔNG ĐƯỢC gõ `"\\lim_{{n\\to\\infty}}"`. Dấu xuyệt đơn sẽ làm sập hàm json.loads().
     3. LOẠI BỎ THỰC HÀNH: TUYỆT ĐỐI BỎ QUA toàn bộ các phần có tiêu đề là "Thực hành", "Hoạt động thực hành", hoặc "HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM". Không đưa chúng vào mảng JSON. Chỉ giữ lại lý thuyết và chuyên đề Toán học. (Bạn cũng phải thông minh lọc bỏ phần thừa của Lớp khác bị dính vào do cắt trang PDF).
-    4. TUYỆT ĐỐI CHỈ OUTPUT JSON, không có chữ mở đầu/kết thúc hay ```json.
+    4. MẢNG PHẲNG 1 CẤP SECTION: Array ngoài cùng phải là list các Section độc lập. Tuyệt đối không lồng các Section vào bên trong bất kỳ mảng Content nào khác.
+    5. TUYỆT ĐỐI CHỈ OUTPUT JSON, không có chữ mở đầu/kết thúc hay ```json.
 
     Dưới đây là văn bản cần phân tích:
     {text_chunk}
     """
     
     response = client.models.generate_content(
-        model='gemini-2.5-flash',
+        model='gemini-1.5-flash',
         contents=prompt,
     )
     raw_response = response.text.strip()
@@ -99,8 +100,8 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
     for grade, text in grade_texts.items():
         print(f"🔧 Đang chạy AI biên dịch chương trình Lớp {grade}...")
         
-        # Thử gọi API (Tối đa 4 lần để vượt rào cản quá tải của Server Google)
-        for attempt in range(4):
+        # Thử gọi API (Tối đa 5 lần, chờ lâu hơn để vượt Rate Limit 429)
+        for attempt in range(5):
             try:
                 grade_json = process_text_with_llm_to_json(text, grade, api_key)
                 final_json.extend(grade_json)
@@ -108,17 +109,19 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
                 break
             except Exception as e:
                 error_str = str(e)
-                if attempt < 3:
-                    wait_time = 20 * (attempt + 1)
-                    print(f"⚠️ Server hệ thống đang bận (Lỗi {error_str[0:3] if hasattr(error_str, '__getitem__') else ''}). Đang đợi {wait_time} giây để dội bom gửi lại (Lần {attempt+2}/4)...")
+                if attempt < 4:
+                    # Chờ lâu hơn nhiều để Rate Limit tự reset (60/90/120/150 giây)
+                    wait_time = 60 * (attempt + 1)
+                    print(f"⚠️ Server hệ thống đang bận (Lỗi {error_str[0:3] if hasattr(error_str, '__getitem__') else ''}). Đang đợi {wait_time} giây để thử lại (Lần {attempt+2}/5)...")
                     time.sleep(wait_time)
                 else:
-                    print(f"❌ Lỗi cực độ khi xử lý Lớp {grade}. Server hoàn toàn không phản hồi: {e}")
+                    print(f"❌ Lỗi khi xử lý Lớp {grade}: {e}")
                     break
                     
-        # Nghỉ nhẹ 10s giữa mỗi Lớp để tránh bị Google block
+        # Nghỉ 60s giữa mỗi Lớp để tránh bị Google block Rate Limit
         if grade != 12:
-            time.sleep(10)
+            print(f"⏳ Nghỉ 60 giây trước khi xử lý lớp tiếp theo...")
+            time.sleep(60)
             
     # TÁI CẤU TRÚC: Đánh lại toàn bộ ID để tăng dần từ 1 -> N bằng phương pháp đệ quy, đề phòng AI tạo mảng lồng nhau
     current_section_id = 1
