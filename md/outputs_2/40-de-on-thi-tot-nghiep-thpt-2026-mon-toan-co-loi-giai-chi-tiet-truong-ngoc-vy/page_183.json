@@ -1,0 +1,441 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      710,
+      95,
+      1019,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      149,
+      1450,
+      195
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      944,
+      268
+    ],
+    "category": "Text",
+    "text": "Câu 1. Tập nghiệm của phương trình $\\log_2(x^2 - 1) = 3$ là"
+  },
+  {
+    "bbox": [
+      205,
+      292,
+      424,
+      355
+    ],
+    "category": "List-item",
+    "text": "A. $\\{-\\sqrt{10}; \\sqrt{10}\\}$"
+  },
+  {
+    "bbox": [
+      556,
+      301,
+      691,
+      346
+    ],
+    "category": "List-item",
+    "text": "B. $\\{-3; 3\\}$"
+  },
+  {
+    "bbox": [
+      906,
+      301,
+      1015,
+      346
+    ],
+    "category": "List-item",
+    "text": "C. $\\{-3\\}$"
+  },
+  {
+    "bbox": [
+      1255,
+      301,
+      1345,
+      346
+    ],
+    "category": "List-item",
+    "text": "D. $\\{3\\}$"
+  },
+  {
+    "bbox": [
+      807,
+      380,
+      924,
+      418
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      439,
+      277,
+      476
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      160,
+      496,
+      827,
+      550
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_2(x^2 - 1) = 3 \\Leftrightarrow x^2 - 1 = 8 \\Leftrightarrow x^2 = 9 \\Leftrightarrow x = \\pm 3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      571,
+      942,
+      617
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      445,
+      654,
+      1281,
+      870
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      889,
+      1087,
+      935
+    ],
+    "category": "Text",
+    "text": "Tổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      205,
+      954,
+      285,
+      988
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      556,
+      954,
+      627,
+      988
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      906,
+      954,
+      980,
+      988
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1255,
+      954,
+      1336,
+      988
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      807,
+      1013,
+      924,
+      1051
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1070,
+      277,
+      1108
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      1122,
+      725,
+      1167
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên của hàm số ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      1188,
+      755,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to -\\infty} f(x) = 0 \\Rightarrow y = 0 \\text{ là một tiệm cận ngang}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1268,
+      755,
+      1322
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} f(x) = 5 \\Rightarrow y = 5 \\text{ là một tiệm cận ngang}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1349,
+      755,
+      1403
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to 1^{-}} f(x) = -\\infty \\Rightarrow x = 1 \\text{ là một tiệm cận đứng}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1422,
+      829,
+      1468
+    ],
+    "category": "Text",
+    "text": "Vậy đồ thị hàm số có tổng số đường tiệm cận là 3."
+  },
+  {
+    "bbox": [
+      155,
+      1485,
+      1103,
+      1533
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho dãy số $(u_n)$ với $u_n = 2n + 1$ số hạng thứ 2016 của dãy là"
+  },
+  {
+    "bbox": [
+      205,
+      1560,
+      334,
+      1594
+    ],
+    "category": "List-item",
+    "text": "A. 4053."
+  },
+  {
+    "bbox": [
+      556,
+      1560,
+      685,
+      1594
+    ],
+    "category": "List-item",
+    "text": "B. 2027."
+  },
+  {
+    "bbox": [
+      906,
+      1560,
+      1037,
+      1594
+    ],
+    "category": "List-item",
+    "text": "C. 4052."
+  },
+  {
+    "bbox": [
+      1255,
+      1560,
+      1382,
+      1594
+    ],
+    "category": "List-item",
+    "text": "D. 2026."
+  },
+  {
+    "bbox": [
+      807,
+      1619,
+      924,
+      1657
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1676,
+      277,
+      1714
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1737,
+      591,
+      1777
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_{2026} = 2 \\cdot 2026 + 1 = 4053$."
+  },
+  {
+    "bbox": [
+      155,
+      1800,
+      1249,
+      1858
+    ],
+    "category": "Text",
+    "text": "Câu 4. Phương trình $2\\sin(2x - 40^\\circ) = \\sqrt{3}$ có số nghiệm thuộc $(-180^\\circ; 180^\\circ)$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      1885,
+      285,
+      1919
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      556,
+      1885,
+      635,
+      1919
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      944,
+      1885,
+      1025,
+      1919
+    ],
+    "category": "List-item",
+    "text": "C. 6."
+  },
+  {
+    "bbox": [
+      1255,
+      1885,
+      1336,
+      1919
+    ],
+    "category": "List-item",
+    "text": "D. 7."
+  },
+  {
+    "bbox": [
+      807,
+      1944,
+      924,
+      1982
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2003,
+      277,
+      2041
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      2058,
+      1197,
+      2151
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } 2\\sin(2x - 40^\\circ) = \\sqrt{3} \\Leftrightarrow \\sin(2x - 40^\\circ) = \\frac{\\sqrt{3}}{2} \\Leftrightarrow \\sin(2x - 40^\\circ) = \\sin 60^\\circ\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

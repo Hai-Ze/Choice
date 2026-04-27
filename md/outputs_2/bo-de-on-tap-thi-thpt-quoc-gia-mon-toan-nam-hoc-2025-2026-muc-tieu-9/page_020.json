@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      648,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad (x - 1)^2 + (y - 2)^2 + z^2 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      182,
+      566,
+      226
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad x^2 + (y - 2)^2 + z^2 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      226,
+      730,
+      272
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad (x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 9.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      287,
+      1548,
+      375
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** *Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai*"
+  },
+  {
+    "bbox": [
+      154,
+      394,
+      1548,
+      614
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một công ty tổ chức chương trình bốc thăm trúng thưởng nhân迎dịp nghỉ lễ 30/4 và 1/5 cho 100 nhân viên. Trong hộp có 100 vé, trong đó có 4 vé trúng thưởng tour du lịch miễn phí ở Thái Lan, 10 vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng và 20 vé trúng thưởng tour du lịch miễn phí tại Cửa Lò (Nghệ An), các vé còn lại trúng thưởng năm triệu đồng. Lần lượt từng nhân viên lên bốc ngẫu nhiên một vé (không hoàn lại)."
+  },
+  {
+    "bbox": [
+      202,
+      631,
+      1482,
+      682
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      154,
+      693,
+      1548,
+      781
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{13}{20}$, biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng."
+  },
+  {
+    "bbox": [
+      202,
+      798,
+      1454,
+      848
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      154,
+      861,
+      1548,
+      1041
+    ],
+    "category": "Text",
+    "text": "d) Để tạo bất ngờ cho người bốc thăm tiếp theo, sau khi người thứ nhất bốc thăm, người dẫn chương trình giữ lại vé và không công bố kết quả. Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      154,
+      1056,
+      1548,
+      1275
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong một phòng thí nghiệm có máy đo nồng độ khí $CO_2$ cho thấy: nồng độ khí $CO_2$ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{2000t}{t^2+5}$ (ppm), với $t \\ge 0$ (Khi nói nồng độ khí $CO_2$ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí $CO_2$). Các explem định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      202,
+      1292,
+      1157,
+      1337
+    ],
+    "category": "Text",
+    "text": "a) Nồng độ khí $CO_2$ trong phòng tại thời điểm $t = 0$ là 400 (ppm)."
+  },
+  {
+    "bbox": [
+      202,
+      1350,
+      668,
+      1405
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } f'(t) = \\frac{-2000t^2 - 10000}{(t^2+5)^2} \\text{ với } t \\ge 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1422,
+      871,
+      1464
+    ],
+    "category": "Text",
+    "text": "c) Nghiệm của phương trình $f'(t) = 0$ là $t = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      1481,
+      1548,
+      1569
+    ],
+    "category": "Text",
+    "text": "d) Nồng độ khí $CO_2$ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 947 (ppm)."
+  },
+  {
+    "bbox": [
+      154,
+      1586,
+      1548,
+      1717
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một đồ lưu niệm bằng thủy tinh có chiều cao bằng 14 (cm), được thiết kế gồm hai phần, phần dưới là một khối lập phương cạnh bằng 8 (cm) và phần trên là một phần của khối cầu có đường kính bằng 8 (cm) (được mô hình hóa bởi hình vẽ bên cạnh)."
+  },
+  {
+    "bbox": [
+      495,
+      1723,
+      1192,
+      2182
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "20"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu dầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

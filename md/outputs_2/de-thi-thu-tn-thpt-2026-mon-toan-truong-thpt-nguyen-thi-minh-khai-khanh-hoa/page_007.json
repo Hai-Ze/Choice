@@ -1,0 +1,330 @@
+[
+  {
+    "bbox": [
+      115,
+      100,
+      1245,
+      151
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P)$: $y+2z-1=0$ có một vectơ pháp tuyến là: $\\vec{n} = (0;1;2)$. $\\rightarrow$ Chọn A."
+  },
+  {
+    "bbox": [
+      115,
+      158,
+      771,
+      199
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Phương trình: $\\cos x = 0$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      154,
+      199,
+      482,
+      286
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } S = \\left\\{ \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\right\\}.\n$$"
+  },
+  {
+    "bbox": [
+      510,
+      199,
+      773,
+      286
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } S = \\{k\\pi, k \\in \\mathbb{Z}\\}.\n$$"
+  },
+  {
+    "bbox": [
+      867,
+      199,
+      1205,
+      286
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } S = \\{\\pi + k2\\pi, k \\in \\mathbb{Z}\\}.\n$$"
+  },
+  {
+    "bbox": [
+      1223,
+      199,
+      1565,
+      286
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } S = \\left\\{ \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z} \\right\\}.\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      301,
+      219,
+      337
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      119,
+      357,
+      1440,
+      443
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos x = 0 \\Leftrightarrow x = \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\Rightarrow \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\Rightarrow \\text{Tập nghiệm là } S = \\left\\{ \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\right\\} \\rightarrow \\text{Chọn A.}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      485,
+      1596,
+      568
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình集合 $ABCD \\cdot A'B'C'D'$ (xem hình dưới). Đường thẳng $CC'$ song song với mặt phẳng nào sau đây?"
+  },
+  {
+    "bbox": [
+      165,
+      578,
+      482,
+      826
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      832,
+      929,
+      876
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $CC'$ song song với mặt phẳng nào sau đây?"
+  },
+  {
+    "bbox": [
+      154,
+      879,
+      331,
+      924
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } (ABCD).\n$$"
+  },
+  {
+    "bbox": [
+      510,
+      879,
+      706,
+      924
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } (BCC'B').\n$$"
+  },
+  {
+    "bbox": [
+      867,
+      879,
+      1062,
+      924
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } (ABB'A').\n$$"
+  },
+  {
+    "bbox": [
+      1223,
+      879,
+      1422,
+      924
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } (ACC'A').\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      941,
+      219,
+      977
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      119,
+      997,
+      832,
+      1165
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} CC' // AA' \\\\ AA' \\subset (ABB'A') \\Rightarrow CC' // (ABB'A') \\rightarrow \\text{Chọn C.} \\\\ CC' \\not\\subset (ABB'A') \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1173,
+      740,
+      1217
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nguyên hàm của hàm số $y = 3^x$ là"
+  },
+  {
+    "bbox": [
+      154,
+      1230,
+      237,
+      1287
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } 3^x.\n$$"
+  },
+  {
+    "bbox": [
+      510,
+      1230,
+      623,
+      1313
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\frac{3^x}{\\ln x}.\n$$"
+  },
+  {
+    "bbox": [
+      867,
+      1230,
+      1007,
+      1287
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } 3^x \\cdot \\ln 3.\n$$"
+  },
+  {
+    "bbox": [
+      1223,
+      1230,
+      1334,
+      1313
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\frac{3^x}{\\ln 3}.\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1324,
+      219,
+      1360
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      119,
+      1388,
+      520,
+      1471
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int 3^x dx = \\frac{3^x}{\\ln 3} + C \\rightarrow \\text{Chọn D.}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1513,
+      742,
+      1553
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình集合 $S.ABC$ (xem hình bên)."
+  },
+  {
+    "bbox": [
+      168,
+      1564,
+      482,
+      1866
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1872,
+      963,
+      1916
+    ],
+    "category": "Text",
+    "text": "Gọi $G$ là trọng tâm $\\Delta ABC$. Phát biểu nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      154,
+      1916,
+      452,
+      1961
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } \\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{O}.\n$$"
+  },
+  {
+    "bbox": [
+      510,
+      1916,
+      828,
+      1961
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{SG}.\n$$"
+  },
+  {
+    "bbox": [
+      867,
+      1916,
+      1193,
+      1961
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } \\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG}.\n$$"
+  },
+  {
+    "bbox": [
+      1223,
+      1916,
+      1556,
+      1961
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 2\\overrightarrow{SG}.\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1972,
+      219,
+      2008
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      1232,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2 – Đáp Án Mãpend 0101"
+  }
+]

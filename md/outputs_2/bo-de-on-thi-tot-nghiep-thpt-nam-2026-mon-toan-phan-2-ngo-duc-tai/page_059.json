@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      193,
+      51,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      51,
+      858,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      54,
+      1448,
+      96
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1473,
+      259
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, đường thẳng đi qua hai điểm $P(1; -1; 2)$ và $Q(2; 0; 1)$ có phương trình tham số là"
+  },
+  {
+    "bbox": [
+      222,
+      267,
+      457,
+      441
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\begin{cases} x = 2 + t \\\\ y = t \\\\ z = 1 - t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      267,
+      784,
+      441
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\begin{cases} x = 1 + t \\\\ y = -1 + t. \\\\ z = 2 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      267,
+      1058,
+      441
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\begin{cases} x = 2 - t \\\\ y = t \\\\ z = 1 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      1126,
+      267,
+      1383,
+      441
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\begin{cases} x = 1 + t \\\\ y = -1 - t. \\\\ z = 2 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      464,
+      1454,
+      565
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Vường bách thú Thủ Lệ ở Hà Nội ghi lại tuổi thọ (đơn vị: năm) của 20 con hổ và thu được kết quả như bảng sau"
+  },
+  {
+    "bbox": [
+      404,
+      590,
+      1243,
+      703
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[14; 15)</td><td>[15; 16)</td><td>[16; 17)</td><td>[17; 18)</td><td>[18; 19)</td></tr><tr><td>Tần số</td><td>1</td><td>3</td><td>8</td><td>6</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      732,
+      1231,
+      778
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tư phân vị thứ ba của mẫu số liệu ghép nhóm đã cho là"
+  },
+  {
+    "bbox": [
+      222,
+      796,
+      387,
+      836
+    ],
+    "category": "List-item",
+    "text": "A. [15; 16)."
+  },
+  {
+    "bbox": [
+      524,
+      796,
+      689,
+      836
+    ],
+    "category": "List-item",
+    "text": "B. [16; 17)."
+  },
+  {
+    "bbox": [
+      825,
+      796,
+      986,
+      836
+    ],
+    "category": "List-item",
+    "text": "C. [14; 15)."
+  },
+  {
+    "bbox": [
+      1126,
+      796,
+      1291,
+      836
+    ],
+    "category": "List-item",
+    "text": "D. [17; 18)."
+  },
+  {
+    "bbox": [
+      193,
+      859,
+      1276,
+      917
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình集合 $ABCD.A'B'C'D'$. Véc-tơ $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ bằng"
+  },
+  {
+    "bbox": [
+      222,
+      922,
+      333,
+      973
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      524,
+      922,
+      648,
+      973
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{AD'}$."
+  },
+  {
+    "bbox": [
+      825,
+      922,
+      945,
+      973
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{AC'}$."
+  },
+  {
+    "bbox": [
+      1126,
+      922,
+      1243,
+      973
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{AB'}$."
+  },
+  {
+    "bbox": [
+      193,
+      1005,
+      1454,
+      1161
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho vật thể ($T$) nằm giữa hai mặt phẳng $x = 0, x = 1$. Tính thể tích $V$ của ($T$) biết rằng khi cắt ($T$) bởi mặt phẳng vuông góc trục $Ox$ tại điểm có hoành độ bằng $x$, $(0 \\le x \\le 1)$ ta được thiết diện là một tam giác đều có cạnh bằng $\\sqrt{1 + x}$."
+  },
+  {
+    "bbox": [
+      222,
+      1164,
+      426,
+      1254
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\frac{3\\sqrt{3}}{8}$."
+  },
+  {
+    "bbox": [
+      524,
+      1164,
+      754,
+      1254
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\frac{3\\sqrt{3}}{8}\\pi$."
+  },
+  {
+    "bbox": [
+      825,
+      1164,
+      979,
+      1254
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      1126,
+      1164,
+      1305,
+      1254
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\frac{3}{2}\\pi$."
+  },
+  {
+    "bbox": [
+      193,
+      1268,
+      1454,
+      1372
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình集合 $ABCD.A'B'C'D'$. Мặt phẳng ($ABCD$) song song với mặt phẳng nào sau đây?"
+  },
+  {
+    "bbox": [
+      222,
+      1386,
+      422,
+      1431
+    ],
+    "category": "List-item",
+    "text": "A. ($ABB'A'$)."
+  },
+  {
+    "bbox": [
+      524,
+      1386,
+      746,
+      1431
+    ],
+    "category": "List-item",
+    "text": "B. ($A'B'C'D'$)."
+  },
+  {
+    "bbox": [
+      825,
+      1386,
+      1019,
+      1431
+    ],
+    "category": "List-item",
+    "text": "C. ($BCC'B'$)."
+  },
+  {
+    "bbox": [
+      1126,
+      1386,
+      1330,
+      1431
+    ],
+    "category": "List-item",
+    "text": "D. ($ACC'A'$)."
+  },
+  {
+    "bbox": [
+      193,
+      1496,
+      1454,
+      1616
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      193,
+      1647,
+      1454,
+      1749
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty bất động sản ước tính rằng lợi nhuận $P$ (tỉ đồng) thu được từ việc xây dựng $x$ căn hộ cao cấp trong một dự án được cho bởi hàm số"
+  },
+  {
+    "bbox": [
+      479,
+      1788,
+      1164,
+      1837
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = -x^3 + 9x^2 - 15x - 50(\\text{với } 0 < x < 8).\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1935,
+      1448,
+      2037
+    ],
+    "category": "List-item",
+    "text": "a) Nếu công ty không xây dựng căn hộ nào ($x = 0$) thì công ty vẫn chịu chi phí cố định (lỗ vốn) là 50 tỉ đồng."
+  },
+  {
+    "bbox": [
+      222,
+      2046,
+      948,
+      2093
+    ],
+    "category": "List-item",
+    "text": "b) Hàm lợi nhuận đồng biến trên khoảng (1; 5)."
+  },
+  {
+    "bbox": [
+      222,
+      2102,
+      968,
+      2147
+    ],
+    "category": "List-item",
+    "text": "c) Lợi nhuận đạt cực tiểu khi xây dựng 5 căn hộ."
+  },
+  {
+    "bbox": [
+      222,
+      2156,
+      1154,
+      2203
+    ],
+    "category": "List-item",
+    "text": "d) Để đạt lợi nhuận lớn nhất, công ty nên xây dựng 5 căn hộ."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      475,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1454,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 58"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "bbox": [
+      656,
+      134,
+      1043,
+      429
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      443,
+      628,
+      485
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      249,
+      490,
+      496,
+      531
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{SA} + \\overline{SB} = 2\\overline{SO}$."
+  },
+  {
+    "bbox": [
+      905,
+      490,
+      1135,
+      531
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{SB} + \\overline{SD} = \\overline{SO}$."
+  },
+  {
+    "bbox": [
+      249,
+      536,
+      496,
+      577
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{SA} + \\overline{SC} = 2\\overline{SO}$."
+  },
+  {
+    "bbox": [
+      905,
+      536,
+      1285,
+      577
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{SA} + \\overline{SB} + \\overline{SC} + \\overline{SD} = 2\\overline{SO}$."
+  },
+  {
+    "bbox": [
+      217,
+      597,
+      925,
+      721
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Tập xác định của hàm số $y = \\frac{2025}{\\sqrt{2} \\sin\\left(x - \\frac{\\pi}{4}\\right)}$ là"
+  },
+  {
+    "bbox": [
+      249,
+      734,
+      566,
+      817
+    ],
+    "category": "List-item",
+    "text": "A. $D = \\mathbb{R} \\setminus \\left\\{\\frac{k\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      905,
+      734,
+      1272,
+      817
+    ],
+    "category": "List-item",
+    "text": "B. $D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{4} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      249,
+      822,
+      634,
+      905
+    ],
+    "category": "List-item",
+    "text": "C. $D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{4} + k2\\pi \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      905,
+      822,
+      1277,
+      905
+    ],
+    "category": "List-item",
+    "text": "D. $D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{4} + \\frac{k\\pi}{2} \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      217,
+      923,
+      1484,
+      965
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Thời gian truy cập internet mỗi buổi tối của một số học sinh lớp 12 được cho trong bảng sau"
+  },
+  {
+    "bbox": [
+      253,
+      962,
+      1448,
+      1061
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[9,5; 12,5)</td><td>[12,5; 15,5)</td><td>[15,5; 18,5)</td><td>[18,5; 21,5)</td><td>[21,5; 24,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>12</td><td>15</td><td>24</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      217,
+      1061,
+      856,
+      1104
+    ],
+    "category": "Text",
+    "text": "Số trung vị $M_e$ của mẫu số liệu ghép nhóm này là"
+  },
+  {
+    "bbox": [
+      249,
+      1114,
+      328,
+      1147
+    ],
+    "category": "List-item",
+    "text": "A. 18."
+  },
+  {
+    "bbox": [
+      577,
+      1114,
+      681,
+      1147
+    ],
+    "category": "List-item",
+    "text": "B. 18,1."
+  },
+  {
+    "bbox": [
+      905,
+      1114,
+      1009,
+      1147
+    ],
+    "category": "List-item",
+    "text": "C. 18,2."
+  },
+  {
+    "bbox": [
+      1233,
+      1114,
+      1337,
+      1147
+    ],
+    "category": "List-item",
+    "text": "D. 18,3."
+  },
+  {
+    "bbox": [
+      217,
+      1161,
+      1016,
+      1204
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Cho hàm số $y = f(x)$ có đồ thị như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      675,
+      1227,
+      1061,
+      1614
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      1632,
+      1061,
+      1674
+    ],
+    "category": "Text",
+    "text": "Tiệm cận ngang của đồ thị hàm số là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      249,
+      1696,
+      403,
+      1775
+    ],
+    "category": "List-item",
+    "text": "A. $x = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      577,
+      1696,
+      694,
+      1752
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      905,
+      1696,
+      1058,
+      1775
+    ],
+    "category": "List-item",
+    "text": "C. $y = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      1233,
+      1696,
+      1350,
+      1752
+    ],
+    "category": "List-item",
+    "text": "D. $y = 1$."
+  },
+  {
+    "bbox": [
+      217,
+      1792,
+      1456,
+      1835
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Một khối chóp có đường cao $h = 3a$ và diện tích đáy $B = a^2$. Thế tích khối chóp đó bằng"
+  },
+  {
+    "bbox": [
+      249,
+      1843,
+      344,
+      1924
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{a^3}{2}$."
+  },
+  {
+    "bbox": [
+      577,
+      1843,
+      673,
+      1900
+    ],
+    "category": "List-item",
+    "text": "B. $3a^3$."
+  },
+  {
+    "bbox": [
+      905,
+      1843,
+      1012,
+      1924
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{3a^3}{2}$."
+  },
+  {
+    "bbox": [
+      1233,
+      1843,
+      1319,
+      1900
+    ],
+    "category": "List-item",
+    "text": "D. $a^3$."
+  },
+  {
+    "bbox": [
+      217,
+      1939,
+      1486,
+      2039
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Mỗi ngày bác Minh đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Minh trong 20 ngày được thống kê lại ở bảng sau"
+  },
+  {
+    "bbox": [
+      1198,
+      2076,
+      1486,
+      2117
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/5 - Mã đề 101"
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      125,
+      1016,
+      200
+    ],
+    "category": "Text",
+    "text": "Đường cong trong hình vẽ là đồ thị của hàm số nào dưới đây"
+  },
+  {
+    "bbox": [
+      1042,
+      130,
+      1553,
+      487
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      476,
+      653,
+      685,
+      697
+    ],
+    "category": "List-item",
+    "text": "A $y = \\log_{0,4} x$."
+  },
+  {
+    "bbox": [
+      749,
+      653,
+      944,
+      697
+    ],
+    "category": "List-item",
+    "text": "B $y = (0,8)^x$."
+  },
+  {
+    "bbox": [
+      1022,
+      653,
+      1208,
+      697
+    ],
+    "category": "List-item",
+    "text": "C $y = \\log_2 x$."
+  },
+  {
+    "bbox": [
+      1294,
+      647,
+      1495,
+      703
+    ],
+    "category": "List-item",
+    "text": "D $y = (\\sqrt{2})^x$."
+  },
+  {
+    "bbox": [
+      447,
+      756,
+      1174,
+      812
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      840,
+      1069,
+      886
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x) = \\ln(4e x - x^2)$."
+  },
+  {
+    "bbox": [
+      478,
+      905,
+      646,
+      940
+    ],
+    "category": "List-item",
+    "text": "a) $f(e) = 3$."
+  },
+  {
+    "bbox": [
+      478,
+      944,
+      968,
+      982
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số có tập xác định là $[0; 4e]$."
+  },
+  {
+    "bbox": [
+      478,
+      985,
+      1147,
+      1022
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ có một nghiệm $x = 2e$."
+  },
+  {
+    "bbox": [
+      478,
+      1025,
+      1550,
+      1098
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số đã cho trên đoạn $[1; 3e]$ có dạng $a \\ln 2 + b$ thì $a + b = 4$."
+  },
+  {
+    "bbox": [
+      447,
+      1159,
+      1555,
+      1313
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một khinh khí cầu bay theo phương thẳng đứng. Tại thời điểm $t$ phút, vận tốc thay đổi độ cao của khinh khí cầu (tính bằng mét/phút) được cho bởi hàm số $v(t) = -0,12t^2 + 1,2t$. Biết rằng tại thời điểm xuất phát ($t = 0$), khinh khí cầu ở độ cao 520 m so với mực nước biển."
+  },
+  {
+    "bbox": [
+      478,
+      1334,
+      1011,
+      1373
+    ],
+    "category": "List-item",
+    "text": "a) $h(t) = -0,04t^3 + 0,6t^2$ ($0 \\le t \\le 29$)."
+  },
+  {
+    "bbox": [
+      478,
+      1376,
+      1376,
+      1414
+    ],
+    "category": "List-item",
+    "text": "b) Tại thời điểm $t = 3$ phút, độ cao của khinh khí cầu là 524,32 m."
+  },
+  {
+    "bbox": [
+      478,
+      1417,
+      1193,
+      1455
+    ],
+    "category": "List-item",
+    "text": "c) độ cao tối đa của khinh khí cầu khi bay là 540 m."
+  },
+  {
+    "bbox": [
+      478,
+      1458,
+      1550,
+      1533
+    ],
+    "category": "List-item",
+    "text": "d) Sau 15 phút từ khi xuất phát thì khinh khí cầu trở lại độ cao khi bắt đầu xuất phát."
+  },
+  {
+    "bbox": [
+      447,
+      1591,
+      1555,
+      1708
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một bệnh truyền nhiễm có xác suất truyền bệnh là 0,7 nếu tiếp xúc với người bệnh mà không đeo khẩu trang và 0,2 nếu tiếp xúc với người bệnh mà đeo khẩu trang."
+  },
+  {
+    "bbox": [
+      447,
+      1708,
+      1555,
+      1784
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “nhiễm bệnh nếu tiếp xúc với người bệnh mà không đeo khẩu trang”."
+  },
+  {
+    "bbox": [
+      447,
+      1784,
+      1456,
+      1822
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố: “nhiễm bệnh nếu tiếp xúc với người bệnh mà đeo khẩu trang”."
+  },
+  {
+    "bbox": [
+      447,
+      1822,
+      1555,
+      1898
+    ],
+    "category": "Text",
+    "text": "$C$ là biến cố: “không bị lây bệnh khi tiếp xúc với người bệnh 2 lần đều không mang khẩu trang”."
+  },
+  {
+    "bbox": [
+      447,
+      1898,
+      1555,
+      1974
+    ],
+    "category": "Text",
+    "text": "$D$ là biến cố: “ít nhất một lần bị lây bệnh khi tiếp xúc với người bệnh 2 lần, trong đó có 1 lần không mang khẩu trang và có 1 lần mang khẩu trang”."
+  },
+  {
+    "bbox": [
+      478,
+      1993,
+      681,
+      2034
+    ],
+    "category": "List-item",
+    "text": "a) $P(A) = 0,7$."
+  },
+  {
+    "bbox": [
+      749,
+      1993,
+      964,
+      2034
+    ],
+    "category": "List-item",
+    "text": "b) $P(\\bar{B}) = 0,8$."
+  },
+  {
+    "bbox": [
+      1022,
+      1993,
+      1242,
+      2034
+    ],
+    "category": "List-item",
+    "text": "c) $P(C) = 0,04$."
+  },
+  {
+    "bbox": [
+      1294,
+      1993,
+      1514,
+      2034
+    ],
+    "category": "List-item",
+    "text": "d) $P(D) = 0,76$."
+  },
+  {
+    "bbox": [
+      447,
+      2091,
+      1555,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$ (đơn vị trên mỗi trục tọa độ là ki-lô-mét), một máy bay đang ở vị trí $A(4; -0,5; 0,5)$ và sẽ hạeanh ở vị trí $B(3; 2,5; 0)$ ở trên đường băng $EG$ (hình vẽ). Có một lớp mây được mô phỏng bởi mặt phẳng ($\\alpha$) đi qua ba điểm $M(8; 0; 0)$, $N(0; -8; 0)$ và $P(0; 0; 0,8)$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "392 Bùi Tịnh Minh Lâm"
+  }
+]

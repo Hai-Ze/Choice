@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      153,
+      122,
+      1431,
+      442
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Người ta lát gạch trang trí một mảnh sân hình chữ nhật có kích thước $28m \\times 16m$ như hình vẽ bên dưới, trong đó $(P_1), (P_2)$ là hai parabol đối xứng trục với nhau qua trục đối xứng vuông góc với chiều dài của mảnh sân, $(C)$ là đường tròn có tâm trùng với tâm của mảnh sân và lần lượt có duy nhất một điểm chung với các parabol đó (tham khảo hình vẽ). Chi phí cho phần lát gạch là 240 nghìn đồng một mét vuông. Trong trường hợp hình tròn $(C)$ có diện tích lớn nhất thì chi phí lát gạch là bao nhiêu triệu đồng? (kết quả làm tròn tới hàng phần chục)"
+  },
+  {
+    "bbox": [
+      311,
+      452,
+      1327,
+      969
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      734,
+      998,
+      851,
+      1036
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      1038,
+      347,
+      1077
+    ],
+    "category": "Text",
+    "text": "Trả lời: 32,2."
+  },
+  {
+    "bbox": [
+      610,
+      1102,
+      1064,
+      1721
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1777,
+      1310,
+      1825
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta gắn trục tọa độ như hình vẽ. Gọi $r$ là bán kính đường tròn tâm $O(0;0)$."
+  },
+  {
+    "bbox": [
+      138,
+      1835,
+      1068,
+      1899
+    ],
+    "category": "Text",
+    "text": "Phương trình đường tròn $(C)$ là: $x^2 + y^2 = r^2$. Suy ra $y = \\pm\\sqrt{r^2 - x^2}$"
+  },
+  {
+    "bbox": [
+      138,
+      1905,
+      1249,
+      1955
+    ],
+    "category": "Text",
+    "text": "Parabol $(P_1)$ có dạng $y = ax^2 + c$ đi qua điểm $A(0; -r)$, $B(8;14)$ nên ta có $c = -r$"
+  },
+  {
+    "bbox": [
+      146,
+      1962,
+      954,
+      2042
+    ],
+    "category": "Text",
+    "text": "và $14 = 64a - r \\Leftrightarrow a = \\frac{r+14}{64}$. Vì vậy $(P_1)$ là $y = \\frac{r+14}{64}x^2 - r$"
+  },
+  {
+    "bbox": [
+      138,
+      2042,
+      986,
+      2089
+    ],
+    "category": "Text",
+    "text": "Xét phương trình hoành độ giao điểm của $(P_1)$ với đường tròn:"
+  },
+  {
+    "bbox": [
+      143,
+      2098,
+      835,
+      2188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{r^2 - x^2} = \\frac{r+14}{64}x^2 - r \\Leftrightarrow r^2 - x^2 = \\left(\\frac{r+14}{64}x^2 - r\\right)^2\n$$"
+  }
+]

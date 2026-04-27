@@ -1,0 +1,287 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      120,
+      1556,
+      234
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian $Oxyz$, một viên đạn được bắn ra từ vị trí $A(1; 2; 3)$ hướng đến vị trí $B(0; 1; -6)$, bia chắn là mặt phẳng ($P$): $4x - y + 2z + 13 = 0$, đơn vị là kilomet."
+  },
+  {
+    "bbox": [
+      478,
+      238,
+      933,
+      277
+    ],
+    "category": "Text",
+    "text": "a) Diểm $B$ thuộc mặt phẳng ($P$)."
+  },
+  {
+    "bbox": [
+      478,
+      279,
+      1549,
+      394
+    ],
+    "category": "Text",
+    "text": "b) Giả sử viên đạn chuyển động thẳng đều theo hướng vecto $\\vec{v} = (-2; -2; -18)$ với vận tốc 800 m/s (bỏ qua mọi lực cản và chướng ngại vật), sau một phút viên đạn bắn ra đi qua điểm $B$."
+  },
+  {
+    "bbox": [
+      478,
+      396,
+      1549,
+      469
+    ],
+    "category": "Text",
+    "text": "c) Góc giữa đường thẳng $AB$ và mặt phẳng ($P$) (làm tròn đến hàng đơn vị) là $60^\\circ$."
+  },
+  {
+    "bbox": [
+      478,
+      475,
+      1235,
+      515
+    ],
+    "category": "Text",
+    "text": "d) Hình chiếu vuông góc của $A$ trên ($Oxy$) là $H(0; 2; 3)$."
+  },
+  {
+    "bbox": [
+      448,
+      534,
+      1556,
+      688
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một vật đang ở nhiệt độ $100^\\circ\\text{C}$ thì được đặt vào môi trường $X$ có nhiệt độ $25^\\circ\\text{C}$. Kể từ đó, nhiệt độ của vật giảm dần theo tốc độ $T'(t) = -150 \\cdot e^{-2t}$ ($^\\circ\\text{C}$/phút), trong đó $T(t)$ là nhiệt độ tính theo $^\\circ\\text{C}$ tại thời điểm $t$ phút kể từ khi được đặt trong môi trường $X$. Khi đó"
+  },
+  {
+    "bbox": [
+      478,
+      690,
+      807,
+      730
+    ],
+    "category": "Text",
+    "text": "a) $T(t) = 75 \\cdot e^{-2t} + 20$."
+  },
+  {
+    "bbox": [
+      478,
+      730,
+      1374,
+      813
+    ],
+    "category": "Text",
+    "text": "b) Nhiệt độ của vật tại thời điểm $t = 3$ phút là $T(t) = \\int_{0}^{3} T'(t) \\, dt$."
+  },
+  {
+    "bbox": [
+      478,
+      807,
+      968,
+      881
+    ],
+    "category": "Text",
+    "text": "c) $T(t) = \\int T'(t) \\, dt$ với $T(0) = 100$."
+  },
+  {
+    "bbox": [
+      478,
+      879,
+      1248,
+      918
+    ],
+    "category": "Text",
+    "text": "d) Tốc độ giảm nhiệt độ của vật tăng dần theo thời gian."
+  },
+  {
+    "bbox": [
+      464,
+      938,
+      1248,
+      992
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1002,
+      1556,
+      1157
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một集合 chứa 4 viên bi màu đỏ được đánh số từ 1 đến 4, 6 viên bi màu xanh được đánh số từ 1 đến 6, 8 viên bi màu vàng được đánh số từ 1 đến 8. Lấy ngẫu nhiên 3 viên bi trong集合. Gọi $p$ là xác suất để 3 viên bi lấy ra vừa khác màu, vừa khác số. Tính $8160p$."
+  },
+  {
+    "bbox": [
+      1333,
+      1122,
+      1381,
+      1155
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      1115,
+      1554,
+      1166
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1183,
+      1556,
+      1490
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian với hệ trục tọa độ cho trước, đơn vị đo trên các trục là kilomet, một ra đa phát hiện một máy bay chiến đấu di chuyển với vận tốc và hướng không đổi từ điểm $M(1000; 600; 14)$ đến điểm $N$ trong 30 phút. Nếu đến $N$ máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 10 phút tiếp theo là $Q(1400; 800; 16)$. Biết một khẩu pháo ở tọa độ vị trí điểm $E(100; 150; 9,5)$ được bắn ra với vận tốc không đổi cấp 5 lần vận tốc máy bay nhằm bắn trúng máy bay tại vị trí điểm $N$. Sau bao nhiêu phút khi máy bay bay từ $M$ thì người điều Rent pháo phải bắn?"
+  },
+  {
+    "bbox": [
+      1333,
+      1455,
+      1381,
+      1488
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      1448,
+      1554,
+      1499
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1516,
+      1556,
+      1676
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ có mặt đáy $ABCD$ là hình vuông, cạnh bên $AA' = 12$. Gọi $M, O$ lần lượt là trung điểm của $A'B'$ và $A'C'$. Biết thể tích tức diện $AMOB'$ bằng 36, tính khoảng cách giữa hai đường thẳng $AM, CO$ (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1333,
+      1641,
+      1381,
+      1674
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      1634,
+      1554,
+      1685
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1718,
+      1030,
+      2026
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một khu đất có hình dạng là một nửa hình tròn bán kính 18 m. Người ta muốn xây dựng một khu vui chơi hình chữ nhật ở bên trong nửa đường tròn đó, biết rằng một cạnh của hình chữ nhật nằm dọc trên đường kính của nửa đường tròn (tham khảo hình vẽ). Tính diện tích lớn nhất của khu vui chơi có thể xây dựng."
+  },
+  {
+    "bbox": [
+      1059,
+      1728,
+      1538,
+      1974
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1333,
+      2029,
+      1381,
+      2062
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      2022,
+      1554,
+      2073
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      2091,
+      1556,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Một chủ cửa hàng kinh doanh phần ăn uống đồng giá có chiến lược kinh doanh như sau: Phí cố định được ước tính trong một năm là 60 triệu đồng; chi phí một lần ăn ước tính khoảng 25 nghìn đồng; giá niêm yết trên thực đơn là 35 nghìn đồng. Giả định rằng tất cả các phần ăn chế biến sẵn đều được bán hết và kí hiệu $x$"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "424 Bùi Tịnh Minh Lâm"
+  }
+]

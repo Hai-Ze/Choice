@@ -1,0 +1,330 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      101,
+      892,
+      148
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm $S$ của phương trình $3^{x^2-2x} = 27$."
+  },
+  {
+    "bbox": [
+      205,
+      170,
+      390,
+      215
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\{1;3\\}$."
+  },
+  {
+    "bbox": [
+      555,
+      170,
+      756,
+      215
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\{-3;1\\}$."
+  },
+  {
+    "bbox": [
+      906,
+      170,
+      1132,
+      215
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\{-3;-1\\}$."
+  },
+  {
+    "bbox": [
+      1255,
+      170,
+      1459,
+      215
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\{-1;3\\}$."
+  },
+  {
+    "bbox": [
+      807,
+      242,
+      924,
+      281
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      300,
+      279,
+      338
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      356,
+      752,
+      452
+    ],
+    "category": "Text",
+    "text": "Ta có: $3^{x^2-2x} = 27 \\Leftrightarrow x^2 - 2x = 3 \\Leftrightarrow \\begin{cases} x = -1 \\\\ x = 3 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      156,
+      481,
+      1008,
+      532
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm $S$ của phương trình $3^{x^2-2x} = 27$ là $S = \\{-1;3\\}$."
+  },
+  {
+    "bbox": [
+      156,
+      558,
+      1573,
+      673
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Gọi $S$ là diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành, đường thẳng $x = a, x = b$ (như hình vẽ bên). Hỏi cách tính $S$ nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      664,
+      698,
+      1044,
+      881
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      908,
+      451,
+      1004
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      906,
+      904,
+      1312,
+      1004
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\left| \\int_{a}^{c} f(x) dx + \\int_{c}^{b} f(x) dx \\right|$."
+  },
+  {
+    "bbox": [
+      205,
+      1029,
+      626,
+      1125
+    ],
+    "category": "List-item",
+    "text": "C. $S = -\\int_{a}^{c} f(x) dx + \\int_{c}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      906,
+      1029,
+      1304,
+      1125
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{a}^{c} f(x) dx + \\int_{c}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      807,
+      1152,
+      924,
+      1191
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1210,
+      277,
+      1248
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      162,
+      1268,
+      521,
+      1364
+    ],
+    "category": "Formula",
+    "text": "$$\nS = -\\int_{a}^{c} f(x) dx + \\int_{c}^{b} f(x) dx\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1389,
+      946,
+      1430
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$ cạnh $a$."
+  },
+  {
+    "bbox": [
+      664,
+      1449,
+      1066,
+      1791
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1808,
+      545,
+      1854
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      205,
+      1874,
+      464,
+      1917
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{AC} + \\overrightarrow{A'C'} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      906,
+      1874,
+      1250,
+      1917
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'} = \\overrightarrow{BD'}$."
+  },
+  {
+    "bbox": [
+      205,
+      1938,
+      424,
+      2001
+    ],
+    "category": "List-item",
+    "text": "C. $|\\overrightarrow{BD'}| = a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      906,
+      1938,
+      1120,
+      2001
+    ],
+    "category": "List-item",
+    "text": "D. $|\\overrightarrow{BD}| = a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      803,
+      2026,
+      926,
+      2065
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2084,
+      279,
+      2122
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      162,
+      2141,
+      459,
+      2186
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AC} + \\overrightarrow{A'C'} = 2\\overrightarrow{AC} \\neq \\vec{0}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2203,
+      1436,
+      2248
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Công thức tính thể tích của một khối trụ có bán kính đáy là $R$ và chiều cao bằng $h$ là"
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

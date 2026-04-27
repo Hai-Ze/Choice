@@ -1,0 +1,254 @@
+[
+  {
+    "bbox": [
+      94,
+      42,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      123,
+      1194,
+      227
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng tour du lịch miễn phí tại Đà Nẵng là $\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      124,
+      223,
+      1194,
+      440
+    ],
+    "category": "List-item",
+    "text": "d) Để tạo bất ngờ cho người bốc thăm tiếp theo, sau khi người thứ nhất bốc thăm, người dẫn chương trình giữ lại vé và không công bố kết quả. Người bốc thăm thứ hai bốc được vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng là $\\frac{9}{99}$."
+  },
+  {
+    "bbox": [
+      110,
+      486,
+      893,
+      541
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      603,
+      803,
+      1141
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty logistics đang thử nghiệm hệ thống giao hàng tự động bằng máy bay không người lái (drone). Trong không gian $Oxyz$, mỗi đơn vị trên các trục tương ứng với 1 mét trên thực tế. Мặt ngoài của một toà nhà cao tầng được xem là một phần của mặt phẳng ($P$) thẳng đứng, đỉ qua hai điểm $C(50; -30; 0)$ và $D(70; 10; 0)$. Vị trí giao hàng là điểm $B$ nằm trên mặt phẳng ($P$). Drone bắt đầu bay từ kho hàng tại gốc tọa độ $O(0; 0; 0)$. Ban đầu, nó bay theo một đường thẳng đến vị trí $A(75; 25; 50)$. Từ vị trí $A$, drone thay đổi đường bay, di chuyển theo phương vuông góc với mặt phẳng ($P$) đến vị trí giao hàng $B$. Tính khoảng cách từ $O$ đến $B$ (làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      830,
+      619,
+      1196,
+      902
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      578,
+      1105,
+      629,
+      1139
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      636,
+      1098,
+      800,
+      1150
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1197,
+      1197,
+      1276
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một nhà máy sản xuất sản phẩm A có tỷ lệ sản phẩm bị lõi là 2%. Nhà máy sử dụng hai hệ thống kiểm tra chất lượng độc lập để phát hiện lõi:"
+  },
+  {
+    "bbox": [
+      94,
+      1276,
+      1197,
+      1351
+    ],
+    "category": "Text",
+    "text": "Hệ thống 1: Xác suất phát hiện chính xác sản phẩm lõi là 95%. Xác suất báo lõi nhầm trên một sản phẩm không lõi là 1%."
+  },
+  {
+    "bbox": [
+      94,
+      1351,
+      1197,
+      1426
+    ],
+    "category": "Text",
+    "text": "Hệ thống 2: Xác suất phát hiện chính xác sản phẩm lõi là 90%. Xác suất báo lõi nhầm trên một sản phẩm không lõi là 5%."
+  },
+  {
+    "bbox": [
+      94,
+      1426,
+      1197,
+      1582
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một sản phẩm. Biết rằng sản phẩm này bị cả hai hệ thống kiểm tra đều báo lõi. Tính xác suất để sản phẩm này thực tế không bị lõi. Kết quả xác suất này sau khi đã làm tròn đến hàng phần nghìn là số có dạng $0,0ab$ (ví dụ nếu kết quả là $0,024$ thì $a = 2, b = 4$). Tính giá trị của $a + b$."
+  },
+  {
+    "bbox": [
+      979,
+      1548,
+      1030,
+      1582
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1540,
+      1196,
+      1591
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1640,
+      1197,
+      1908
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một nhà đầu tư có số vốn là 4 tỷ đồng (4 000 triệu đồng) để phân bổ vào quỹ cổ phiếu $A$ và quỹ trái phiếu $B$. Các thông tin và điều kiện đầu tư như sau: Quỹ Cổ phiếu $A$ có tỷ suất sinh lời là $16,5\\%$/ năm. Quỹ trái phiếu $B$ có tỷ suất sinh lời là $8\\%$/ năm. Tổng số tiền đầu tư không vượt quá 4 000 triệu đồng. Phải đầu tư ít nhất 600 triệu đồng vào quỹ trái phiếu $B$. Không đầu tư quá 2 800 triệu đồng vào quỹ cổ phiếu $A$. Với các điều kiện trên thì nhà đầu tư có thể đạt được tổng lợi nhuận hằng năm lớn nhất là bao nhiêu triệu đồng (làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      105,
+      1916,
+      156,
+      1950
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      163,
+      1908,
+      325,
+      1960
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2010,
+      1197,
+      2243
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một bể bơi với mặt nước khi đầy có dạng hình chữ nhật với chiều rộng 12 m và chiều dài 25 m. Các thành bể xung quanh thẳng đứng và đáy là một mặt phẳng nghiêng. Chiều sâu tại một đầu bể là 1,0 m và tăng dẫn đều đến 1,8 m ở đầu kia của bể (xem hình vẽ). Ban đầu bể không chứa nước. Người ta sử dụng một máy bơm công suất lớn để bơm nước vào bể với tốc độ không đổi là $60 \\text{ m}^3/\\text{giờ}$. Hỏi sau bao nhiêu giờ thì máy bơm bơm đầy bể nước?"
+  },
+  {
+    "bbox": [
+      979,
+      2210,
+      1030,
+      2243
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      2202,
+      1196,
+      2253
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2261,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 399"
+  }
+]

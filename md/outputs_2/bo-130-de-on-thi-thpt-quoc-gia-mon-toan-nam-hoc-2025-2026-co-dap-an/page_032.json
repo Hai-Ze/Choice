@@ -1,0 +1,337 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      573,
+      120,
+      1428,
+      365
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nguồn âm thanh</td><td>Khoảng cách từ nguồn âm (m)</td><td>Múc cáp suất âm thanh (dB)</td></tr></thead><tbody><tr><td>Xe xăng</td><td>10</td><td>60 ~ 90</td></tr><tr><td>Xe hybrid</td><td>10</td><td>50 ~ 60</td></tr><tr><td>Xe điện</td><td>10</td><td>40</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      447,
+      390,
+      1553,
+      466
+    ],
+    "category": "Text",
+    "text": "Được biết, áp suất âm thanh thực tế đo được ở khoảng cách 10 m so với xe xăng, xe hybrid, xe điện lần lượt là $p_1, p_2, p_3$. Từ đây suy ra:"
+  },
+  {
+    "bbox": [
+      477,
+      468,
+      632,
+      505
+    ],
+    "category": "List-item",
+    "text": "a) $p_1 \\ge p_2$."
+  },
+  {
+    "bbox": [
+      750,
+      468,
+      931,
+      505
+    ],
+    "category": "List-item",
+    "text": "b) $p_2 > 10p_3$."
+  },
+  {
+    "bbox": [
+      1022,
+      468,
+      1220,
+      505
+    ],
+    "category": "List-item",
+    "text": "c) $p_3 = 100p_0$."
+  },
+  {
+    "bbox": [
+      1295,
+      468,
+      1493,
+      505
+    ],
+    "category": "List-item",
+    "text": "d) $p_1 \\le 100p_2$."
+  },
+  {
+    "bbox": [
+      464,
+      521,
+      1246,
+      575
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      583,
+      1553,
+      776
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một bệnh viện xét nghiệm một loại bệnh hiểm gặp. Tỷ lệ người bị bệnh trong dân số là 1%. Xét nghiệm này có độ chính xác 95%, nghĩa là nếu một người bị bệnh, khả năng xét nghiệm cho kết quả dương tính là 95%, và nếu một người không bị bệnh, khả năng xét nghiệm cho kết quả âm tính là 95%. Nếu một người được xét nghiệm và cho kết quả dương tính, xác suất người đó thực sự bị bệnh là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      459,
+      776,
+      680,
+      823
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      447,
+      837,
+      1553,
+      1033
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một tấm kim loại hình chữ nhật có chiều dài 10 mét và chiều rộng 5 mét. Mật độ của tấm kim loại thay đổi theo vị trí dọc theo chiều dài và được biểu thị bởi hàm $f(x) = 0,1x + 2$, với $x$ là khoảng cách tính từ đầu tấm kim loại (tính bằng mét) dọc theo chiều dài, mật độ $f(x)$ tính theo đơn vị kg/m. Hãy tính khối lượng của tấm kim loại."
+  },
+  {
+    "bbox": [
+      1333,
+      992,
+      1553,
+      1043
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      447,
+      1057,
+      1553,
+      1175
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Xét một lò xo đồng chất. Giả sử cần một lực 10 N (theo hướng âm) để nén lò xo 0,2 m từ vị trí cân bằng. Hỏi cần bao nhiêu công để kéo dãn lò xo 0,5 m từ vị trí cân bằng?"
+  },
+  {
+    "bbox": [
+      1333,
+      1133,
+      1553,
+      1184
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      447,
+      1196,
+      1553,
+      1344
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Xác định $R$ là vùng được giới hạn phía trên bởi đồ thị của $f(x) = \\frac{1}{2}x + \\cos x$ và phía dưới bởi trục hoành trên đoạn $[2, 4]$. Tìm thể tích của vật thể xoay được tạo ra khi quay vùng $R$ quanh trục $y$."
+  },
+  {
+    "bbox": [
+      1333,
+      1302,
+      1553,
+      1353
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      447,
+      1366,
+      1553,
+      1518
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Một người cao 1,84 mét đi ra xa từ một cột đèn cao 3,22 mét với tốc độ không đổi là 0,92 mét/giây. Hỏi tốc độ mà đầu bóng của người đó di chuyển xa dẫn khỏi bóng灯 khi người đó cách cột灯 2,45 mét? Coi như bóng灯 trên đầu cột灯."
+  },
+  {
+    "bbox": [
+      1333,
+      1479,
+      1553,
+      1530
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      447,
+      1544,
+      1553,
+      1662
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Một doanh nghiệp sản xuất các sản phẩm có giới hạn tối đa là 1000 sản phẩm. Nếu doanh nghiệp sản xuất $x$ sản phẩm ($1 \\le x \\le 1000$), thì doanh thu khi bán hết số sản phẩm đó được cho bởi hàm"
+  },
+  {
+    "bbox": [
+      726,
+      1689,
+      1276,
+      1731
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = x^3 - 2500x^2 + 1500000x + 500000\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1760,
+      1318,
+      1798
+    ],
+    "category": "Text",
+    "text": "(đơn vị: đồng). Chi phí sản xuất trung bình cho mỗi sản phẩm là"
+  },
+  {
+    "bbox": [
+      794,
+      1825,
+      1201,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\nG(x) = -4x + 11200 + \\frac{500000}{x}\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1922,
+      1553,
+      2003
+    ],
+    "category": "Text",
+    "text": "(đơn vị: đồng). Doanh nghiệp cần sản xuất bao nhiêu sản phẩm để lợi nhuận đạt giá trị lớn nhất?"
+  },
+  {
+    "bbox": [
+      1333,
+      1961,
+      1553,
+      2012
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      908,
+      2034,
+      948,
+      2069
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      967,
+      2034,
+      1043,
+      2069
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      1062,
+      2034,
+      1102,
+      2069
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2261,
+      173,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "30"
+  },
+  {
+    "bbox": [
+      213,
+      2261,
+      426,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  }
+]

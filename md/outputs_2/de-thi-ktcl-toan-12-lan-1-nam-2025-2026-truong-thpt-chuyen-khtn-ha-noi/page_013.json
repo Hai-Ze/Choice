@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      251,
+      115,
+      1337,
+      161
+    ],
+    "category": "Text",
+    "text": "Dấu “=” xảy ra khi và chỉ khi $k = 0$. Suy ra phương trình đường thẳng $d: y = 1$."
+  },
+  {
+    "bbox": [
+      251,
+      166,
+      1534,
+      256
+    ],
+    "category": "Text",
+    "text": "Vậy diện tích trồng Hoa Hồng đạt giá trị nhỏ nhất khi dảiđèn LED được thiết kế nằm ngang (song song với trục hoành)."
+  },
+  {
+    "bbox": [
+      251,
+      260,
+      375,
+      299
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      251,
+      306,
+      1423,
+      425
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } S_{HH} = 2S_{CN} \\Rightarrow S_{HH} = \\frac{2}{3}S = \\frac{2}{3} \\cdot \\frac{32}{3} = \\frac{64}{9} \\Leftrightarrow \\frac{(\\sqrt{k^2+12})^3}{6} = \\frac{64}{9} \\Leftrightarrow \\sqrt{k^2+12} = \\sqrt[3]{\\frac{128}{3}}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      436,
+      1165,
+      654
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } \\begin{cases} x_2 - x_1 = \\sqrt[3]{\\frac{128}{3}} \\\\ k^2 = \\left(\\sqrt[3]{\\frac{128}{3}}\\right)^2 - 12 \\end{cases}. \\text{ Tọa độ } A(x_1; kx_1 + 1) \\text{ và } B(x_2; kx_2 + 1).\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      665,
+      1161,
+      735
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } AB = \\sqrt{(x_2 - x_1)^2 + k^2 (x_2 - x_1)^2} = \\sqrt{(x_2 - x_1)^2 (k^2 + 1)} \\approx 3,84\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      741,
+      1534,
+      832
+    ],
+    "category": "Text",
+    "text": "Khi diện tích trồng Hoa Hồng cấp đối diện tích trồng Cỏ Nhật, chiều dài của dảiđèn LED (tính bằng độ dài đoạn thẳng $AB$) xấp xỉ 3,84 mét (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      114,
+      851,
+      1534,
+      959
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian $Oxyz$, cho mặt phẳng $(P): x - y + z - 2 = 0$ và hai điểm $A(1; 2; -1)$; $B(2; 3; 0)$."
+  },
+  {
+    "bbox": [
+      251,
+      995,
+      745,
+      1040
+    ],
+    "category": "Text",
+    "text": "a) Doạn thẳng $AB$ có độ dài bằng 3."
+  },
+  {
+    "bbox": [
+      251,
+      1043,
+      1035,
+      1092
+    ],
+    "category": "Text",
+    "text": "b) Hai điểm $A, B$ nằm cùng phía đối với mặt phẳng $(P)$."
+  },
+  {
+    "bbox": [
+      251,
+      1103,
+      1058,
+      1152
+    ],
+    "category": "Text",
+    "text": "c) Hình chiếu vuông góc của $B$ trên $(P)$ có tung độ bằng 2."
+  },
+  {
+    "bbox": [
+      251,
+      1163,
+      1125,
+      1216
+    ],
+    "category": "Text",
+    "text": "d) Xét điểm $M \\in (P)$, giá trị nhỏ nhất của $MA + MB$ bằng $3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      836,
+      1231,
+      951,
+      1270
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1274,
+      341,
+      1313
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      251,
+      1319,
+      891,
+      1375
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overrightarrow{AB} = (1; 1; 1) \\Rightarrow AB = \\sqrt{1^2 + 1^2 + 1^2} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1388,
+      375,
+      1427
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      251,
+      1432,
+      1381,
+      1528
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay tọa độ điểm } A, B \\text{ vào phương trình mặt phẳng } (P) \\text{ ta có } \\begin{cases} 1 - 2 - 1 - 2 = -4 \\\\ 2 - 3 + 0 - 2 = -3 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1537,
+      958,
+      1584
+    ],
+    "category": "Text",
+    "text": "Suy ra $A, B$ nằm cùng phía đối với mặt phẳng $(P)$."
+  },
+  {
+    "bbox": [
+      251,
+      1598,
+      341,
+      1637
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      251,
+      1642,
+      1165,
+      1691
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $B$ trên $(P)$. Khi đó $BH \\perp (P)$."
+  },
+  {
+    "bbox": [
+      251,
+      1704,
+      1136,
+      1758
+    ],
+    "category": "Text",
+    "text": "Suy ra đường thẳng $BH$ có vecto chỉ phương $\\vec{u} = \\vec{n}_{(P)} = (1; -1; 1)$."
+  },
+  {
+    "bbox": [
+      251,
+      1774,
+      1143,
+      1920
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình tham số của đường thẳng } BH \\text{ là } \\begin{cases} x = 2 + t \\\\ y = 3 - t, (t \\in \\mathbb{R}). \\\\ z = t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1931,
+      1359,
+      1980
+    ],
+    "category": "Text",
+    "text": "Do $H = BH \\cap (P)$, nên tọa độ điểm $H$ ứng với tham số $t$ là nghiệm phương trình"
+  },
+  {
+    "bbox": [
+      587,
+      1995,
+      1199,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n2 + t - (3 - t) + t - 2 = 0 \\Leftrightarrow t = 1 \\Rightarrow H(3; 2; 1).\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      2052,
+      1079,
+      2100
+    ],
+    "category": "Text",
+    "text": "Vậy hình chiếu vuông góc của $B$ trên $(P)$ có tung độ bằng 3."
+  },
+  {
+    "bbox": [
+      251,
+      2112,
+      341,
+      2151
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  }
+]

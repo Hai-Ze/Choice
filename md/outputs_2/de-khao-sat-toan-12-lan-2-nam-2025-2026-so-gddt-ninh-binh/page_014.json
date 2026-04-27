@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      114,
+      114,
+      1534,
+      199
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Bảng sau đây biểu diễn mẫu số liệu ghép nhóm về cân nặng (đơn vị: kilôgam) của 40 học sinh lớp 10A trong một trường trung học phổ thông."
+  },
+  {
+    "bbox": [
+      436,
+      243,
+      1227,
+      368
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td><td>[60; 70)</td></tr><tr><td>Tần số</td><td>2</td><td>14</td><td>16</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      114,
+      425,
+      871,
+      470
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên bằng"
+  },
+  {
+    "bbox": [
+      156,
+      481,
+      246,
+      515
+    ],
+    "category": "List-item",
+    "text": "A. 70."
+  },
+  {
+    "bbox": [
+      503,
+      481,
+      589,
+      515
+    ],
+    "category": "List-item",
+    "text": "B. 30."
+  },
+  {
+    "bbox": [
+      850,
+      481,
+      938,
+      515
+    ],
+    "category": "List-item",
+    "text": "C. 40."
+  },
+  {
+    "bbox": [
+      1197,
+      481,
+      1283,
+      515
+    ],
+    "category": "List-item",
+    "text": "D. 10."
+  },
+  {
+    "bbox": [
+      114,
+      533,
+      1405,
+      584
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ tọa độ $Oxyz$, cho vecto $\\vec{u} = (2; -1; 3)$. Tìm toạ độ của vecto $3\\vec{u}$."
+  },
+  {
+    "bbox": [
+      156,
+      602,
+      397,
+      652
+    ],
+    "category": "List-item",
+    "text": "A. $3\\vec{u} = (5; -3; 6)$."
+  },
+  {
+    "bbox": [
+      503,
+      602,
+      742,
+      652
+    ],
+    "category": "List-item",
+    "text": "B. $3\\vec{u} = (2; -1; 9)$."
+  },
+  {
+    "bbox": [
+      850,
+      602,
+      1087,
+      652
+    ],
+    "category": "List-item",
+    "text": "C. $3\\vec{u} = (6; -3; 9)$."
+  },
+  {
+    "bbox": [
+      1197,
+      602,
+      1434,
+      652
+    ],
+    "category": "List-item",
+    "text": "D. $3\\vec{u} = (6; -1; 3)$."
+  },
+  {
+    "bbox": [
+      114,
+      670,
+      1183,
+      760
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình lập phương $ABCD.A'B'C'D'$ (xem hình bên). Vecto $\\overrightarrow{AB}$ bằng vecto nào sau đây?"
+  },
+  {
+    "bbox": [
+      1216,
+      668,
+      1497,
+      875
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      772,
+      262,
+      815
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      850,
+      772,
+      949,
+      815
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      156,
+      831,
+      272,
+      875
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{A'B'}$."
+  },
+  {
+    "bbox": [
+      850,
+      831,
+      949,
+      875
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      114,
+      891,
+      1534,
+      1045
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số bậc hai $f(x)$. Biết đồ thị hàm số $y = f(x)$ cắt đường thẳng $y = 9x + 8$ tại hai điểm $A, B$ phân biệt có hoành độ lần lượt là $x_A = -1, x_B = 4$. Tính $I = \\int_{-1}^{4} f'(x)dx$."
+  },
+  {
+    "bbox": [
+      156,
+      1059,
+      294,
+      1095
+    ],
+    "category": "List-item",
+    "text": "A. $I = 45$."
+  },
+  {
+    "bbox": [
+      503,
+      1059,
+      639,
+      1095
+    ],
+    "category": "List-item",
+    "text": "B. $I = 30$."
+  },
+  {
+    "bbox": [
+      850,
+      1059,
+      968,
+      1095
+    ],
+    "category": "List-item",
+    "text": "C. $I = 5$."
+  },
+  {
+    "bbox": [
+      1197,
+      1059,
+      1335,
+      1095
+    ],
+    "category": "List-item",
+    "text": "D. $I = 43$."
+  },
+  {
+    "bbox": [
+      114,
+      1113,
+      1534,
+      1221
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(\\alpha): 3x + 2y - 4z + 1 = 0$. Vecto nào sau đây là một vecto pháp tuyến của mặt phẳng $(\\alpha)$?"
+  },
+  {
+    "bbox": [
+      156,
+      1237,
+      388,
+      1289
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (3; 2; -4)$."
+  },
+  {
+    "bbox": [
+      503,
+      1237,
+      740,
+      1289
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_4 = (-4; 2; 3)$."
+  },
+  {
+    "bbox": [
+      850,
+      1237,
+      1079,
+      1289
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_3 = (3; -4; 1)$."
+  },
+  {
+    "bbox": [
+      1197,
+      1237,
+      1427,
+      1289
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_2 = (2; -4; 1)$."
+  },
+  {
+    "bbox": [
+      114,
+      1351,
+      1534,
+      1433
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      114,
+      1503,
+      589,
+      1576
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\cos^2 \\frac{x}{2}$."
+  },
+  {
+    "bbox": [
+      156,
+      1594,
+      560,
+      1673
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\int f(x)dx = \\frac{x}{2} - \\frac{1}{2}\\sin x + C.\n$$"
+  },
+  {
+    "bbox": [
+      121,
+      1691,
+      1534,
+      1836
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} \\text{ Nếu } F(x) \\text{ là một nguyên hàm của hàm số } f(x) \\text{ trên khoảng } (-\\infty; +\\infty) \\text{ và thỏa mãn } F(0) = 3 \\text{ thì } F\\left(\\frac{\\pi}{6}\\right) = \\frac{\\pi}{12} + \\frac{11}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1856,
+      875,
+      1975
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\int_{0}^{\\frac{\\pi}{2}} f(x)dx = a + b\\pi \\ (a, b \\in \\mathbb{Q}), \\text{ trong đó } a^2 + b = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      2001,
+      1534,
+      2159
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} \\text{ Diện tích của hình phẳng giới hạn bởi đồ thị hàm số } y = f(x), y = x^2 - 4 + \\cos^2 \\frac{x}{2} \\text{ và hai đường thẳng } x = 0, x = 3 \\text{ bằng } \\frac{23}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      1164,
+      2207,
+      1534,
+      2250
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 – Mã đề thi 0107"
+  }
+]

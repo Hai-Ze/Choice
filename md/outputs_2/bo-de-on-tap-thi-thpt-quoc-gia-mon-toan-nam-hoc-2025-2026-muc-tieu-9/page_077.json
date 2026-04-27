@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      152,
+      141,
+      1547,
+      358
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một xưởng sản xuất nước mắm, mỗi lít nước mắm loại I cần 3 kg cá và 2 giờ công lao động,呈 lại mức lãi là 50 000 đồng; mỗi lít nước mắm loại II cần 2 kg cá và 3 giờ công lao động,呈 lại mức lãi là 40 000 đồng. Xưởng có không quá 230 kg cá và thời gian làm việc tối đa 220 giờ. Biết rằng xưởng đó sản xuất $a$ (lít) nước mắm loại I và $b$ (lít) nước mắm loại II thì thu được lợi nhuận lớn nhất. Tính $a + b$."
+  },
+  {
+    "bbox": [
+      152,
+      374,
+      1547,
+      477
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $x, y$ lần lượt là số lít nước mắm loại I, II xưởng đó sản xuất. Theo đề bài ta có hệ bất phương trình sau:"
+  },
+  {
+    "bbox": [
+      717,
+      489,
+      950,
+      696
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 3x + 2y \\le 230 \\\\ 2x + 3y \\le 220 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      704,
+      1442,
+      747
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm trong hệ phương trình được biểu diễn là miền không bị gạch trong hình sau:"
+  },
+  {
+    "bbox": [
+      554,
+      758,
+      1134,
+      1568
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1605,
+      1547,
+      1690
+    ],
+    "category": "Text",
+    "text": "Như vậy chúng ta có bài toán tìm giá trị lớn nhất của hàm $F = 50000x + 40000y$ với $x, y$ thỏa mãn hệ bất phương trình trên."
+  },
+  {
+    "bbox": [
+      152,
+      1710,
+      1547,
+      1795
+    ],
+    "category": "Text",
+    "text": "Do đó chúng ta xét giá trị của $F = 50000x + 40000y$ tại các định $O, A, B, C$ và suy ra giá trị lớn nhất của $F$ là 4 100 000 đồng tại $A(50; 40)$."
+  },
+  {
+    "bbox": [
+      152,
+      1814,
+      1547,
+      1899
+    ],
+    "category": "Text",
+    "text": "Vậy để thu được lãi nhiều nhất thì xưởng đó nên sản xuất 50 lít nước mắm loại I và 40 lít nước mắm loại II."
+  },
+  {
+    "bbox": [
+      202,
+      1919,
+      1035,
+      1959
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Yêu cầu bài toán ta tìm được } a = 50, b = 40 \\Rightarrow a + b = 90\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1981,
+      1547,
+      2201
+    ],
+    "category": "Text",
+    "text": "Bài 5. Một hồ nước được hình thành giữa một lớp đất đá, hồ có độ sâu lớn nhất bằng 6 mét và chiều dài lớn nhất theo phương ngang là 9 mét. Trên hệ toạ độ $Oxy$, đơn vị trên mỗi trục tính bằng mét, đường ranh giới giữa hồ nước và lớp đất được mô hình hoá qua hàm số $f(x) = ax^3 - bx^2$ ($a, b \\in \\mathbb{R}$), trong đó hai bên bờ là điểm $H(0; 0)$ và $P(9; 0)$ (tham khảo như hình vẽ). Các nhà khoa học cần đặt một camera tại điểm $Q(0; h)$ để ghi lại hình ảnh của hồ nước. Nhà khoa học cần đặt"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "77"
+  }
+]

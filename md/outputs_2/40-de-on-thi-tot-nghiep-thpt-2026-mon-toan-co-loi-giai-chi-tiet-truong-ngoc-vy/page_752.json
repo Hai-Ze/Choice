@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      160,
+      99,
+      1084,
+      264
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n&= 2ME^2 + 4\\overline{ME} \\cdot \\overline{EA} + 2EA^2 + 3ME^2 + 6\\overline{ME} \\cdot \\overline{EB} + 3EB^2 \\\\\n&= 5ME^2 + 2EA^2 + 3EB^2 + 2\\overline{ME} \\cdot \\left( \\underbrace{2\\overline{EA} + 3\\overline{EB}}_{\\text{o}} \\right) = 5ME^2 + 2EA^2 + 3EB^2\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      284,
+      1102,
+      330
+    ],
+    "category": "Text",
+    "text": "Biểu thức P đạt giá trị nhỏ nhất khi và chỉ khi $ME$ đạt giá trị nhỏ nhất."
+  },
+  {
+    "bbox": [
+      156,
+      346,
+      1084,
+      401
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{IE} = (-1;1;0) \\Rightarrow IE = \\sqrt{2} < R$ suy ra $E$ nằm trong mặt cầu nên"
+  },
+  {
+    "bbox": [
+      160,
+      422,
+      858,
+      477
+    ],
+    "category": "Formula",
+    "text": "$$\nME_{\\min} = R - IE = \\sqrt{5} - \\sqrt{2} \\text{ với } EB = 2\\sqrt{3}, EA = 3\\sqrt{3}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      504,
+      1229,
+      571
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P_{\\min} = 5ME_{\\min}^2 + 2EA^2 + 3EB^2 = 5(\\sqrt{5} - \\sqrt{2})^2 + 2(2\\sqrt{3})^2 + 3(3\\sqrt{3})^2 \\approx 108\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      650,
+      1574,
+      755
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một loại xét nghiệm nhanh cúm夏季 cho kết quả dương tính với 76,2% các ca thực sự nhiễm vius và"
+  },
+  {
+    "bbox": [
+      156,
+      772,
+      1574,
+      881
+    ],
+    "category": "Text",
+    "text": "kết quả âm tính với 99,1% các ca thực sự không nhiễm vius. Giả sử tỉ lệ người nhiễm vius cúm夏季 trong một"
+  },
+  {
+    "bbox": [
+      156,
+      894,
+      963,
+      940
+    ],
+    "category": "Text",
+    "text": "cộng đồng là 1%. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      156,
+      953,
+      1272,
+      999
+    ],
+    "category": "Text",
+    "text": "a) Xác suất xét nghiệm cho kết quả âm tính của các ca thực sự nhiễm vius là: 0,23."
+  },
+  {
+    "bbox": [
+      156,
+      1018,
+      1429,
+      1064
+    ],
+    "category": "Text",
+    "text": "b) Xác suất xét nghiệm cho kết quả dương tính của các ca thực sự không nhiễm vius là: 0,009."
+  },
+  {
+    "bbox": [
+      156,
+      1083,
+      1054,
+      1128
+    ],
+    "category": "Text",
+    "text": "c) Xác suất người làm xét nghiệm có kết quả dương tính là: 0,015."
+  },
+  {
+    "bbox": [
+      156,
+      1147,
+      1574,
+      1256
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng đã có kết quả chuẩn đoán là dương tính, xác suất để người đó thực sự bị bệnh là 0,46 (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      807,
+      1275,
+      924,
+      1314
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1328,
+      972,
+      1450
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1452,
+      218,
+      1490
+    ],
+    "category": "Text",
+    "text": "Gọi:"
+  },
+  {
+    "bbox": [
+      156,
+      1505,
+      751,
+      1548
+    ],
+    "category": "Text",
+    "text": "- $V$ là biến cố người nhiễm vius cúm夏季."
+  },
+  {
+    "bbox": [
+      156,
+      1563,
+      834,
+      1608
+    ],
+    "category": "Text",
+    "text": "- $K$ là biến cố người không nhiễm vius cúm夏季."
+  },
+  {
+    "bbox": [
+      156,
+      1621,
+      856,
+      1666
+    ],
+    "category": "Text",
+    "text": "- $DT$ là biến cố xét nghiệm cho kết quả dương tính."
+  },
+  {
+    "bbox": [
+      156,
+      1678,
+      809,
+      1723
+    ],
+    "category": "Text",
+    "text": "- $AT$ là biến cố xét nghiệm cho kết quả âm tính."
+  },
+  {
+    "bbox": [
+      156,
+      1742,
+      402,
+      1778
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, ta có:"
+  },
+  {
+    "bbox": [
+      156,
+      1799,
+      963,
+      1849
+    ],
+    "category": "Text",
+    "text": "- Xác suất người nhiễm vius cúm夏季: $P(V) = 1\\% = 0,01$."
+  },
+  {
+    "bbox": [
+      156,
+      1874,
+      1134,
+      1924
+    ],
+    "category": "Text",
+    "text": "- Xác suất người không nhiễm vius cúm夏季: $P(K) = 1 - P(V) = 0,99$."
+  },
+  {
+    "bbox": [
+      156,
+      1951,
+      1244,
+      1999
+    ],
+    "category": "Text",
+    "text": "- Xác suất xét nghiệm dương tính khi nhiễm vius: $P(DT | V) = 76,2\\% = 0,762$."
+  },
+  {
+    "bbox": [
+      156,
+      2026,
+      1285,
+      2074
+    ],
+    "category": "Text",
+    "text": "- Xác suất xét nghiệm âm tính khi không nhiễm vius: $P(AT | K) = 99,1\\% = 0,991$."
+  },
+  {
+    "bbox": [
+      156,
+      2095,
+      1186,
+      2140
+    ],
+    "category": "Text",
+    "text": "a) Xác suất xét nghiệm cho kết quả âm tính của các ca thực sự nhiễm vius là:"
+  },
+  {
+    "bbox": [
+      160,
+      2160,
+      795,
+      2207
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AT | V) = 1 - P(DT | V) = 1 - 0,762 = 0,238.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

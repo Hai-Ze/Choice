@@ -1,0 +1,189 @@
+[
+  {
+    "bbox": [
+      114,
+      81,
+      617,
+      121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } AB = vt = 4,5 \\cdot 180 = 810 \\ (m)\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      121,
+      474,
+      160
+    ],
+    "category": "Text",
+    "text": "d) Ta có $\\vec{u}_{AB} = (2; -2; 1)$"
+  },
+  {
+    "bbox": [
+      114,
+      158,
+      779,
+      200
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(Oxy)$: $z = 0$ suy ra $VTPT \\vec{n} (0; 0; 1)$"
+  },
+  {
+    "bbox": [
+      114,
+      198,
+      803,
+      264
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc giữa và $(Oxy)$ ta có $\\sin \\alpha = \\frac{|\\vec{u} \\cdot \\vec{n}|}{|\\vec{u}||\\vec{n}|} = \\frac{1}{3}$"
+  },
+  {
+    "bbox": [
+      114,
+      258,
+      260,
+      297
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III"
+  },
+  {
+    "bbox": [
+      114,
+      304,
+      1534,
+      400
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hình chóp $S.ABC$ có $SA \\perp (ABC)$ và $AB = 3$, $BC = 7$, $CA = 8$. Khoảng cách giữa hai đường thẳng $SA$ và $BC$ bằng bao nhiêu? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      855,
+      402,
+      968,
+      439
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      292,
+      439,
+      470,
+      475
+    ],
+    "category": "Text",
+    "text": "Trả lời: 2,97"
+  },
+  {
+    "bbox": [
+      675,
+      483,
+      1116,
+      854
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      854,
+      913,
+      898
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $A$ trên $BC$."
+  },
+  {
+    "bbox": [
+      252,
+      898,
+      1488,
+      991
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có $\\begin{cases} AH \\perp SA \\\\ AH \\perp BC \\end{cases}$ nên suy ra $d(SA, BC) = AH = \\frac{2S_{\\Delta ABC}}{BC} = \\frac{2\\sqrt{9 \\cdot 6 \\cdot 2 \\cdot 1}}{7} = \\frac{12\\sqrt{3}}{7} \\approx 2,97$."
+  },
+  {
+    "bbox": [
+      114,
+      995,
+      1534,
+      1144
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một khu wèn hình elip $(E)$, có độ dài trục lớn bằng 10 m và trục nhỏ bằng 8 m (như hình vẽ). Khu vực $A$ để trồng hoa; khu vực $B$ để trồng cỏ, là nửa hình tròn có tâm là một tiêu điểm của elip $(E)$, bán kính bằng 1 m; còn lại là khu vực $C$ (phần tô Đm) người ta lát gạch."
+  },
+  {
+    "bbox": [
+      670,
+      1171,
+      1015,
+      1386
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      1416,
+      1342,
+      1462
+    ],
+    "category": "Text",
+    "text": "Diện tích phần lát gạch bằng bao nhiêu $m^2$? (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      836,
+      1491,
+      950,
+      1527
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      252,
+      1553,
+      430,
+      1595
+    ],
+    "category": "Text",
+    "text": "Đáp số: 7,38"
+  },
+  {
+    "bbox": [
+      223,
+      1618,
+      1088,
+      1663
+    ],
+    "category": "Text",
+    "text": "Gắn tình huống bài toán vào mặt phẳng tọa độ $Oxy$ như hình vẽ:"
+  },
+  {
+    "bbox": [
+      530,
+      1728,
+      1118,
+      2117
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      2181,
+      694,
+      2266
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình elip là: } \\frac{x^2}{25} + \\frac{y^2}{16} = 1\n$$"
+  }
+]

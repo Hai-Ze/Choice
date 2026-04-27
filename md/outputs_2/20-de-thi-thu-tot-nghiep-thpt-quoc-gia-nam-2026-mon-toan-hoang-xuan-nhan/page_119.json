@@ -1,0 +1,396 @@
+[
+  {
+    "bbox": [
+      104,
+      56,
+      1591,
+      102
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Bạn An rất thích nháy hiện đại. Thời gian tập nháy mỗi ngày của bạn An được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      224,
+      110,
+      1304,
+      204
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[20;25)</td><td>[25;30)</td><td>[30;35)</td><td>[35;40)</td><td>[40;45)</td></tr><tr><td>Số ngày</td><td>6</td><td>6</td><td>4</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      216,
+      214,
+      1378,
+      259
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm có giá trị gần nhất với giá trị nào dưới đây?"
+  },
+  {
+    "bbox": [
+      216,
+      264,
+      355,
+      299
+    ],
+    "category": "List-item",
+    "text": "A. 31,25."
+  },
+  {
+    "bbox": [
+      569,
+      264,
+      704,
+      299
+    ],
+    "category": "List-item",
+    "text": "B. 31,26."
+  },
+  {
+    "bbox": [
+      921,
+      264,
+      1026,
+      299
+    ],
+    "category": "List-item",
+    "text": "C. 5,4."
+  },
+  {
+    "bbox": [
+      1273,
+      264,
+      1375,
+      299
+    ],
+    "category": "List-item",
+    "text": "D. 5,6."
+  },
+  {
+    "bbox": [
+      104,
+      307,
+      902,
+      356
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $y = f(x)$ có đồ thị như hình dưới đây."
+  },
+  {
+    "bbox": [
+      216,
+      358,
+      1055,
+      404
+    ],
+    "category": "Text",
+    "text": "Đường tiệm cận xiên của đồ thị hàm số đã cho là đường thẳng"
+  },
+  {
+    "bbox": [
+      216,
+      410,
+      388,
+      446
+    ],
+    "category": "List-item",
+    "text": "A. $y = x - 1$."
+  },
+  {
+    "bbox": [
+      569,
+      410,
+      757,
+      446
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x - 1$."
+  },
+  {
+    "bbox": [
+      216,
+      454,
+      388,
+      491
+    ],
+    "category": "List-item",
+    "text": "C. $y = x + 1$."
+  },
+  {
+    "bbox": [
+      569,
+      454,
+      757,
+      491
+    ],
+    "category": "List-item",
+    "text": "D. $y = -x + 1$."
+  },
+  {
+    "bbox": [
+      1198,
+      319,
+      1561,
+      641
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      104,
+      651,
+      1591,
+      747
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Nếu cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 3$ và công bội $q = 3$ thì số hạng tổng quát $u_n$ của cấp số nhân đó bằng"
+  },
+  {
+    "bbox": [
+      216,
+      751,
+      307,
+      787
+    ],
+    "category": "List-item",
+    "text": "A. $3^n$."
+  },
+  {
+    "bbox": [
+      569,
+      747,
+      675,
+      787
+    ],
+    "category": "List-item",
+    "text": "B. $3^{n-1}$."
+  },
+  {
+    "bbox": [
+      921,
+      747,
+      1021,
+      787
+    ],
+    "category": "List-item",
+    "text": "C. $3^{n+1}$."
+  },
+  {
+    "bbox": [
+      1273,
+      747,
+      1490,
+      795
+    ],
+    "category": "List-item",
+    "text": "D. $3 + (n-1) \\cdot 3$."
+  },
+  {
+    "bbox": [
+      104,
+      804,
+      1298,
+      951
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian $Oxyz$, điểm nào dưới đây thuộc đường thẳng $d$: $$ \\begin{cases} x = 1 - t \\\\ y = 5 + t \\\\ z = 2 + 3t \\end{cases} $$ ?"
+  },
+  {
+    "bbox": [
+      216,
+      961,
+      428,
+      1005
+    ],
+    "category": "List-item",
+    "text": "A. $Q(-1; 1; 3)$."
+  },
+  {
+    "bbox": [
+      569,
+      961,
+      761,
+      1005
+    ],
+    "category": "List-item",
+    "text": "B. $P(1; 2; 5)$."
+  },
+  {
+    "bbox": [
+      921,
+      961,
+      1122,
+      1005
+    ],
+    "category": "List-item",
+    "text": "C. $M(1; 1; 3)$."
+  },
+  {
+    "bbox": [
+      1273,
+      961,
+      1476,
+      1005
+    ],
+    "category": "List-item",
+    "text": "D. $N(1; 5; 2)$."
+  },
+  {
+    "bbox": [
+      104,
+      1014,
+      1044,
+      1062
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình hợp $ABCD.A'B'C'D'$. Ta có $\\overline{A'B} + \\overline{A'D} + \\overline{AA'}$ bằng"
+  },
+  {
+    "bbox": [
+      216,
+      1064,
+      334,
+      1107
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AC'}$."
+  },
+  {
+    "bbox": [
+      216,
+      1111,
+      334,
+      1154
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{A'C}$."
+  },
+  {
+    "bbox": [
+      216,
+      1160,
+      334,
+      1203
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AB'}$."
+  },
+  {
+    "bbox": [
+      216,
+      1207,
+      334,
+      1250
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AD'}$."
+  },
+  {
+    "bbox": [
+      1278,
+      1031,
+      1583,
+      1337
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      533,
+      1337,
+      1168,
+      1380
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      104,
+      1382,
+      990,
+      1592
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Một mô hình trò chơi vòng quay ở công viên có chiều cao tối đa $23 \\text{ m}$ so với mặt đất, bán kính vòng quay là $20 \\text{ m}$. Hai bạn Hoa và Mai cùng chơi chung lượt quay và ngồi trong hai ca bin $B, C$ mà góc $BOC = 90^\\circ$ (hình vẽ); $\\alpha$ là một góc lượng giác hợp bởi tia đầu $OA$, tia cuối $OB$."
+  },
+  {
+    "bbox": [
+      1026,
+      1399,
+      1341,
+      1768
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1341,
+      1399,
+      1596,
+      1768
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1768,
+      1596,
+      1987
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các性能 đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Chiều cao của $B$ so với mặt đất là $h_B = 23 + 20 \\sin \\alpha$ (mét).</td><td>☐</td><td>☐</td></tr><tr><td>b) Khi $\\alpha = 45^\\circ$ thì chiều cao của $B$ so với mặt đất là $37,14 \\text{ m}$ (làm tròn kết quả đến hàng phần trăm).</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      167,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      505,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1144,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      2017,
+      1442,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2017,
+      1565,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

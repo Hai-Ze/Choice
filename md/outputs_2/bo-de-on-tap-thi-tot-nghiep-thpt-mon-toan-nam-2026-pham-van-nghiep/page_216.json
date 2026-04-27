@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      251,
+      111,
+      1289,
+      199
+    ],
+    "category": "Text",
+    "text": "Vận dụng quy tắc tính đạo hàm, ta có: $y' = f'(x) = \\frac{-x^2 - 2x + 3}{(x+1)^2}; \\forall x \\neq -1$."
+  },
+  {
+    "bbox": [
+      209,
+      208,
+      301,
+      246
+    ],
+    "category": "Section-header",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      209,
+      248,
+      1299,
+      295
+    ],
+    "category": "Text",
+    "text": "Giả sử đường thẳng $y = ax + b(a \\neq 0)$ là đường tiệm cận xiên của đồ thị (C)"
+  },
+  {
+    "bbox": [
+      251,
+      302,
+      342,
+      337
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      303,
+      348,
+      799,
+      435
+    ],
+    "category": "Formula",
+    "text": "$$\na = \\lim_{x \\to +\\infty} \\frac{f(x)}{x} = \\lim_{x \\to +\\infty} \\frac{-x^2 + x - 2}{x(x+1)} = -1\n$$"
+  },
+  {
+    "bbox": [
+      303,
+      448,
+      772,
+      528
+    ],
+    "category": "Formula",
+    "text": "$$\nb = \\lim_{x \\to +\\infty} [f(x) + x] = \\lim_{x \\to +\\infty} \\frac{2x - 2}{x + 1} = 2\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      536,
+      868,
+      616
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tương tự, } \\lim_{x \\to -\\infty} \\frac{f(x)}{x} = -1, \\lim_{x \\to +\\infty} [f(x) + x] = 2\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      620,
+      1343,
+      666
+    ],
+    "category": "Text",
+    "text": "Kết luận: Đồ thị hàm số (C) nhận đường thẳng $y = -x + 2$ là tiệm cận xiên."
+  },
+  {
+    "bbox": [
+      213,
+      675,
+      298,
+      713
+    ],
+    "category": "Section-header",
+    "text": "c) Sai"
+  },
+  {
+    "bbox": [
+      213,
+      719,
+      684,
+      806
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = 0 \\Leftrightarrow \\frac{-x^2 - 2x + 3}{(x+1)^2} = 0\n$$"
+  },
+  {
+    "bbox": [
+      315,
+      815,
+      573,
+      855
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -x^2 - 2x + 3 = 0\n$$"
+  },
+  {
+    "bbox": [
+      315,
+      858,
+      464,
+      954
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x = 1 \\\\ x = -3 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      962,
+      619,
+      1003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có } f(1) = -1; f(-3) = 7\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1010,
+      1037,
+      1052
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số (C) có 2 điểm cực trị là $A(1; -1), B(-3; 7)$"
+  },
+  {
+    "bbox": [
+      251,
+      1058,
+      1264,
+      1115
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khoảng cách giữa 2 điểm cực trị là } AB = \\sqrt{[1 - (-3)]^2 + [(-1) - 7]^2} = 4\\sqrt{5}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1124,
+      304,
+      1162
+    ],
+    "category": "Section-header",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      213,
+      1169,
+      594,
+      1210
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tiệm cận đứng: } \\Delta_1 : x = -1\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1220,
+      633,
+      1262
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tiệm cận xiên: } \\Delta_2 : y = -x + 2\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1274,
+      888,
+      1361
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) = \\frac{-x^2 + x - 2}{x + 1} = -x + 2 - \\frac{4}{x + 1}; \\forall x \\neq -1\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1367,
+      1172,
+      1463
+    ],
+    "category": "Formula",
+    "text": "$$\nM\\left(x_0; -x_0 + 2 - \\frac{4}{x_0 + 1}\\right) \\text{ có tung độ và hoành độ là các số nguyên}\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1469,
+      1084,
+      1615
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x_0 \\in \\mathbb{Z} \\\\ -x_0 + 2 - \\frac{4}{x_0 + 1} \\in \\mathbb{Z} \\Leftrightarrow -\\frac{4}{x_0 + 1} \\in \\mathbb{Z} \\Leftrightarrow x_0 + 1 \\text{ là ước của 4} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1623,
+      821,
+      1928
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x_0 + 1 = -4 \\\\ x_0 + 1 = -2 \\\\ x_0 + 1 = -1 \\\\ x_0 + 1 = 1 \\\\ x_0 + 1 = 2 \\\\ x_0 + 1 = 4 \\end{cases} \\Leftrightarrow \\begin{cases} x_0 = -5 \\\\ x_0 = -3 \\\\ x_0 = -2 \\\\ x_0 = 0 \\\\ x_0 = 1 \\\\ x_0 = 3 \\end{cases} \\Leftrightarrow \\begin{cases} M_1(-5; 8) \\\\ M_2(-3; 7) \\\\ M_3(-2; 8) \\\\ M_4(0; -2) \\\\ M_5(1; -1) \\\\ M_6(3; -2) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1937,
+      1275,
+      2034
+    ],
+    "category": "Text",
+    "text": "Phương trình tiếp tuyến của đồ thị tại $M\\left(x_0; -x_0 + 2 - \\frac{4}{x_0 + 1}\\right)$ có dạng:"
+  },
+  {
+    "bbox": [
+      257,
+      2041,
+      943,
+      2152
+    ],
+    "category": "Formula",
+    "text": "$$\ny = \\left(-1 + \\frac{4}{(x_0 + 1)^2}\\right)(x - x_0) - x_0 + 2 - \\frac{4}{x_0 + 1}, x_0 \\neq -1\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1507,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

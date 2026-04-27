@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      721,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Vì } P(A|B) = \\frac{8}{35} \\text{ nên } P(\\bar{A}|B) = 1 - \\frac{8}{35} = \\frac{27}{35}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      197,
+      919,
+      244
+    ],
+    "category": "Text",
+    "text": "Gọi $C$ là biến cố “tung lần thứ tư tiếp tục xuất hiện mặt ngửa”"
+  },
+  {
+    "bbox": [
+      82,
+      263,
+      1074,
+      346
+    ],
+    "category": "Formula",
+    "text": "$$\nP(C) = P(C|A) \\cdot P(A|B) + P(C|\\bar{A}) \\cdot P(\\bar{A}|B) = \\frac{1}{2} \\cdot \\frac{8}{35} + \\frac{3}{4} \\cdot \\frac{27}{35} = \\frac{97}{140} \\approx 0,69\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      421,
+      727,
+      462
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      485,
+      1171,
+      567
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Mộtđèn pha dạng parabol có đường biên (mặt cắt) cho bởi $f(x) = \\frac{3}{2}\\sqrt{x}$"
+  },
+  {
+    "bbox": [
+      461,
+      604,
+      904,
+      987
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1023,
+      1494,
+      1128
+    ],
+    "category": "Text",
+    "text": "Chiều dài chóa là 4 cm. Hỏi thể tích không khí bên trong là bao nhiêu $cm^3$? (làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      76,
+      1145,
+      414,
+      1182
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1204,
+      843,
+      1243
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1261,
+      268,
+      1300
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 56,6"
+  },
+  {
+    "bbox": [
+      76,
+      1321,
+      609,
+      1365
+    ],
+    "category": "Text",
+    "text": "Thể tích khối tròn xoay quanh trục $Ox$:"
+  },
+  {
+    "bbox": [
+      76,
+      1386,
+      746,
+      1597
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} V &= \\pi \\int_{0}^{4} (f(x))^{2} dx = \\pi \\int_{0}^{4} \\left(\\frac{3}{2}\\sqrt{x}\\right)^{2} dx = \\pi \\int_{0}^{4} \\frac{9}{4} x dx \\\\ &= \\pi \\left[ \\frac{9}{8} x^{2} \\right]_{0}^{4} = \\pi \\cdot \\frac{9}{8} \\cdot 16 = \\pi \\cdot 18 \\approx 56,6 cm^{3} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1616,
+      1494,
+      1721
+    ],
+    "category": "Text",
+    "text": "Ghi chú: Nếu quay đồ thị quanh trục thẳng đứng thay vì trục $Ox$, ta cũng tính được thể tích khối tròn xoay, nhưng cần chọn hệ trục sao cho trục $Ox$ hướng lên trên."
+  },
+  {
+    "bbox": [
+      76,
+      1735,
+      1494,
+      2016
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một công ty chuyên sản xuất dụng cụ thể thao nhận được đơn đặt hàng sản xuất 9000 quả bóng rổ. Công ty có một số máy móc, mỗi máy có khả năng sản xuất 36 quả bóng rổ trong một giờ. Chi phí thiết lập mỗi máy là 250 nghìn đồng. Sau khi thiết lập, quá trình sản xuất sẽ diễn ra hoàn toàn tự động và chỉ cần có người giám sát. Chi phí trả cho người giám sát là 225 nghìn đồng mỗi giờ. Số máy móc công ty cần sử dụng để chi phí hoạt động đạt mức thấp nhất là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      76,
+      2034,
+      414,
+      2071
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2092,
+      843,
+      2131
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2149,
+      236,
+      2188
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 15"
+  },
+  {
+    "bbox": [
+      76,
+      2203,
+      1251,
+      2249
+    ],
+    "category": "Text",
+    "text": "Gọi số máy móc công ty cần sử dụng để sản xuất 9000 quả bóng rổ là: $x$ ($x \\ge 1; x \\in \\mathbb{Z}$)."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

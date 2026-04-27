@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      99,
+      562,
+      153
+    ],
+    "category": "Text",
+    "text": "Ta có: $V = B.h = 3.1 = 3(m^3)$."
+  },
+  {
+    "bbox": [
+      155,
+      179,
+      1574,
+      303
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian $Oxyz$ cho hai điểm $A(1;3;2)$ và $B(4;5;6)$. Gọi $a$ là góc giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$. Giá trị của $\\cos a$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      328,
+      351,
+      421
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{4\\sqrt{29}}{29}$."
+  },
+  {
+    "bbox": [
+      555,
+      341,
+      655,
+      421
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{16}{29}$."
+  },
+  {
+    "bbox": [
+      906,
+      328,
+      1045,
+      421
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\sqrt{337}}{29}$."
+  },
+  {
+    "bbox": [
+      1254,
+      341,
+      1356,
+      421
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{13}{29}$."
+  },
+  {
+    "bbox": [
+      807,
+      444,
+      924,
+      483
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      502,
+      279,
+      541
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      558,
+      1022,
+      609
+    ],
+    "category": "Text",
+    "text": "Chọn vecto chỉ phương của đường thẳng $AB$ là $\\vec{u} = \\overrightarrow{AB}(3;2;4)$."
+  },
+  {
+    "bbox": [
+      155,
+      638,
+      1337,
+      751
+    ],
+    "category": "Text",
+    "text": "Chọn vecto pháp tuyến của mặt phẳng $(Oxy)$ là $\\vec{n} = (0;0;1) \\Rightarrow \\cos(\\vec{u}, \\vec{n}) = \\frac{\\vec{u} \\cdot \\vec{n}}{|\\vec{u}| \\cdot |\\vec{n}|} = \\frac{4}{\\sqrt{29}}$."
+  },
+  {
+    "bbox": [
+      155,
+      774,
+      1065,
+      823
+    ],
+    "category": "Text",
+    "text": "Khi đó, gọi $a$ là góc giữa đường thẳng $AB$ và mặt phẳng $(Oxy)$ thì"
+  },
+  {
+    "bbox": [
+      160,
+      847,
+      1024,
+      944
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin a = |\\cos(\\vec{u}, \\vec{n})| = \\frac{4}{\\sqrt{29}} \\Rightarrow \\cos a = \\sqrt{1 - \\sin^2 a} = \\sqrt{1 - \\frac{16}{29}} = \\frac{\\sqrt{377}}{29}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1022,
+      1572,
+      1125
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      155,
+      1145,
+      1574,
+      1293
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{ax^2 + bx + c}{mx + n}$ ($a \\neq 0, m \\neq 0$) với $a, b, c, m, n$ là các số thực và có đồ thị là (C) có dạng như hình vẽ sau."
+  },
+  {
+    "bbox": [
+      658,
+      1321,
+      1074,
+      1748
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1776,
+      1574,
+      1901
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trong khoảng $(-\\infty;1)$ và $(3;+\\infty)$, đồng biến trong khoảng $(1;2)$ và $(2;3)$."
+  },
+  {
+    "bbox": [
+      155,
+      1928,
+      1258,
+      1978
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $y = f(x)$ có tiệm cận đứng là $x = 2$ và tiệm cận xiên là $y = x+1$."
+  },
+  {
+    "bbox": [
+      155,
+      2003,
+      1139,
+      2055
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số $y = f(x)$ có điểm cực đại $(1;1)$ và điểm cực tiểu $(3;5)$."
+  },
+  {
+    "bbox": [
+      155,
+      2079,
+      1083,
+      2131
+    ],
+    "category": "Text",
+    "text": "d) Trên khoảng $(2;+\\infty)$, hàm số $y = f(x)$ không có giá trị nhỏ nhất."
+  },
+  {
+    "bbox": [
+      807,
+      2156,
+      924,
+      2195
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

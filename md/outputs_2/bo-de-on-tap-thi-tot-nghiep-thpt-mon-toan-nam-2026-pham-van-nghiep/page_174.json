@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      110,
+      421,
+      147
+    ],
+    "category": "Text",
+    "text": "Theo đề ta có"
+  },
+  {
+    "bbox": [
+      211,
+      157,
+      988,
+      203
+    ],
+    "category": "Text",
+    "text": "- Có 40% bệnh nhân bị heavy da dày nên $P(A) = 0,4$."
+  },
+  {
+    "bbox": [
+      211,
+      213,
+      1114,
+      258
+    ],
+    "category": "Text",
+    "text": "- Có 30% bệnh nhân thường xuyên bị stress nên $P(B) = 0,3$."
+  },
+  {
+    "bbox": [
+      211,
+      268,
+      1445,
+      311
+    ],
+    "category": "Text",
+    "text": "- Trong số các bệnh nhân thường xuyên bị stress có 80% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      211,
+      313,
+      1150,
+      356
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được bệnh nhân thường xuyên bị stress là 0,3."
+  },
+  {
+    "bbox": [
+      211,
+      362,
+      1254,
+      407
+    ],
+    "category": "Text",
+    "text": "Theo đề ta có 30% bệnh nhân thường xuyên bị stress nên $P(B) = 0,3$."
+  },
+  {
+    "bbox": [
+      225,
+      413,
+      421,
+      456
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      211,
+      462,
+      1572,
+      547
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được bệnh nhân bị heavy da dày, biết bệnh nhân đó thường xuyên bị stress, là 0,8."
+  },
+  {
+    "bbox": [
+      211,
+      557,
+      1500,
+      600
+    ],
+    "category": "Text",
+    "text": "$A|B$: “chọn được bệnh nhân bị heavy da dày, biết bệnh nhân đó thường xuyên bị stress”"
+  },
+  {
+    "bbox": [
+      211,
+      606,
+      1163,
+      649
+    ],
+    "category": "Text",
+    "text": "$AB$: “bệnh nhân vừa thường xuyên bị stress vừa bị heavy da dày”."
+  },
+  {
+    "bbox": [
+      211,
+      651,
+      642,
+      698
+    ],
+    "category": "Text",
+    "text": "Ta có $P(AB) = 0,3 \\times 0,8 = 0,24$."
+  },
+  {
+    "bbox": [
+      211,
+      708,
+      1069,
+      804
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes ta có $P(A|B) = \\frac{P(AB)}{P(B)} = \\frac{0,24}{0,3} = 0,8$."
+  },
+  {
+    "bbox": [
+      225,
+      809,
+      421,
+      852
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      211,
+      856,
+      1509,
+      900
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được bệnh nhân vừa thường xuyên bị stress vừa bị heavy da dày là 0,24."
+  },
+  {
+    "bbox": [
+      211,
+      908,
+      642,
+      954
+    ],
+    "category": "Text",
+    "text": "Ta có $P(AB) = 0,3 \\times 0,8 = 0,24$."
+  },
+  {
+    "bbox": [
+      225,
+      959,
+      421,
+      1002
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      211,
+      1008,
+      1572,
+      1094
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được bệnh nhân thường xuyên bị stress, biết bệnh nhân đó bị heavy da dày, là 0,6."
+  },
+  {
+    "bbox": [
+      211,
+      1104,
+      1572,
+      1197
+    ],
+    "category": "Text",
+    "text": "Ta có: $B|A$: “chọn được bệnh nhân thường xuyên bị stress, biết bệnh nhân đó bị heavy da dày”."
+  },
+  {
+    "bbox": [
+      211,
+      1197,
+      1069,
+      1293
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes ta có $P(B|A) = \\frac{P(AB)}{P(A)} = \\frac{0,24}{0,4} = 0,6$."
+  },
+  {
+    "bbox": [
+      225,
+      1298,
+      421,
+      1341
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      74,
+      1341,
+      1192,
+      1391
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      1395,
+      1563,
+      1544
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Cho $\\int_a^b |x| dx = ma^2 + nb^2$, với $m, n, a, b$ là các hằng số thực và $a < 0 < b$. Giá trị của biểu thức $m+n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      764,
+      1546,
+      884,
+      1588
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1590,
+      358,
+      1627
+    ],
+    "category": "Text",
+    "text": "Trả lời: 1."
+  },
+  {
+    "bbox": [
+      211,
+      1637,
+      1358,
+      1745
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int_a^b |x| dx = \\int_a^0 (-x) dx + \\int_0^b (x) dx = -\\frac{x^2}{2} \\Big|_a^0 + \\frac{x^2}{2} \\Big|_0^b = 0 - \\left(-\\frac{a^2}{2}\\right) + \\frac{b^2}{2} - 0 = \\frac{1}{2}a^2 + \\frac{1}{2}b^2$."
+  },
+  {
+    "bbox": [
+      211,
+      1755,
+      719,
+      1838
+    ],
+    "category": "Text",
+    "text": "Suy ra $m = \\frac{1}{2}, n = \\frac{1}{2}$ hay $m+n=1$."
+  },
+  {
+    "bbox": [
+      74,
+      1844,
+      1572,
+      2197
+    ],
+    "category": "List-item",
+    "text": "Câu 2: Công ty M có 2 nhà máy $M_1$ và $M_2$ sản xuất 18000 sản phẩm. Nhà máy $M_1$ sản xuất 3000 sản phẩm và có tỉ lệ sản phẩm lỗ là 2%, nhà máy $M_2$ có tỉ lệ sản phẩm lỗ là 6%. Một thiết bị dùng để phát hiện sản phẩm lỗ cho các sản phẩm trên, thiết bị này chỉ ra được sản phẩm lỗ hay không lỗ. Biết rằng nếu một sản phẩm lỗ đi qua thiết bị này thì thiết bị báo sản phẩm bị lỗ với tỉ lệ 97%, thiết bị dự đoán kết quả chính xác được 94%. Chọn ngẫu nhiên 1 sản phẩm rồi cho đi qua thiết bị kiểm tra lỗ. Xác suất để sản phẩm được chọn là của nhà máy $M_1$ biết rằng sản phẩm được chọn được"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

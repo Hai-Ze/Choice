@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      750,
+      192
+    ],
+    "category": "Text",
+    "text": "Xác suất An lấy bi xanh là $P(\\bar{A}) = \\frac{7}{15}$"
+  },
+  {
+    "bbox": [
+      212,
+      198,
+      1573,
+      282
+    ],
+    "category": "Text",
+    "text": "a) **Sai** Xác suất để An lấy được viên bi xanh biết Bình lấy được viên bi xanh có số thứ tự lớn hơn 15:"
+  },
+  {
+    "bbox": [
+      218,
+      288,
+      665,
+      387
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A} | \\bar{B}_2) = \\frac{P(\\bar{B}_2 | \\bar{A}) \\cdot P(\\bar{A})}{P(\\bar{B}_2)} = \\frac{189}{509}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      396,
+      1346,
+      481
+    ],
+    "category": "Text",
+    "text": "b) **Đúng** Xác suất để Bình lấy được viên bi xanh $P(B) = \\frac{11}{18} \\cdot \\frac{8}{15} + \\frac{9}{20} \\cdot \\frac{7}{15} = \\frac{1447}{2700}$"
+  },
+  {
+    "bbox": [
+      212,
+      485,
+      1573,
+      613
+    ],
+    "category": "Text",
+    "text": "c) **Đúng** Xác suất để Bình lấy được viên bi đỏ biết An lấy được viên bi xanh là:\n$P(B | \\bar{A}) = \\frac{11}{20}$."
+  },
+  {
+    "bbox": [
+      212,
+      620,
+      1093,
+      703
+    ],
+    "category": "Text",
+    "text": "d) **Sai** Xác suất để bạn An lấy được viên xanh là: $P(\\bar{A}) = \\frac{7}{15}$."
+  },
+  {
+    "bbox": [
+      74,
+      710,
+      1313,
+      805
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $f(x) = \\left( \\sin \\frac{x}{2} + \\cos \\frac{x}{2} \\right)^2$. Xét tính đúng sai của các мыnhi đề sau:"
+  },
+  {
+    "bbox": [
+      212,
+      818,
+      1230,
+      892
+    ],
+    "category": "Text",
+    "text": "a) Trên đoạn $[0; 2\\pi]$ phương trình $f'(x) = 0$ có đúng một nghiệm $\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      900,
+      384,
+      944
+    ],
+    "category": "Text",
+    "text": "b) $f(0) = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      954,
+      473,
+      998
+    ],
+    "category": "Text",
+    "text": "c) $f(x) = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      212,
+      1008,
+      1082,
+      1060
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số đã cho trên đoạn $[0; 2\\pi]$ là 2."
+  },
+  {
+    "bbox": [
+      833,
+      1070,
+      953,
+      1111
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1115,
+      1383,
+      1257
+    ],
+    "category": "Text",
+    "text": "a) **Chọn SAI.** Ta có: $f(x) = \\left( \\sin \\frac{x}{2} + \\cos \\frac{x}{2} \\right)^2 = \\sin^2 \\frac{x}{2} + \\cos^2 \\frac{x}{2} + 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2} = 1 + \\sin x$\n$f'(x) = \\cos x$"
+  },
+  {
+    "bbox": [
+      212,
+      1263,
+      959,
+      1454
+    ],
+    "category": "Text",
+    "text": "Trên đoạn $[0; 2\\pi]$: $f'(x) = 0 \\Leftrightarrow \\cos x = 0 \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{2} \\\\ x = \\frac{3\\pi}{2} \\end{cases}$."
+  },
+  {
+    "bbox": [
+      212,
+      1460,
+      602,
+      1510
+    ],
+    "category": "Text",
+    "text": "b) **Chọn ĐÚNG.** $f(0) = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1519,
+      925,
+      1615
+    ],
+    "category": "Text",
+    "text": "c) **Chọn ĐÚNG.** $f(x) = \\left( \\sin \\frac{x}{2} + \\cos \\frac{x}{2} \\right)^2 = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      212,
+      1621,
+      971,
+      1708
+    ],
+    "category": "Text",
+    "text": "d) **Chọn ĐÚNG.** Ta có: $f(0) = f(2\\pi) = 1$; $f(\\frac{\\pi}{2}) = 2$."
+  },
+  {
+    "bbox": [
+      212,
+      1718,
+      1103,
+      1770
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị lớn nhất của hàm số đã cho trên đoạn $[0; 2\\pi]$ là 2."
+  },
+  {
+    "bbox": [
+      74,
+      1776,
+      1576,
+      1943
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trong không gian $Oxyz$ và đơn vị độ dài trên mỗi trục tính theo kilômét, một trạm thu phát sóng điện thoại di động được đặt ở vị trí có tọa độ là $I\\ 1;3;7$. Trạm thu phát sóng đó được thiết kế với bán kính phủ sóng là 3 km."
+  },
+  {
+    "bbox": [
+      728,
+      1938,
+      1154,
+      2183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

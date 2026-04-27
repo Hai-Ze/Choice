@@ -1,0 +1,506 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1150,
+      275
+    ],
+    "category": "Section-header",
+    "text": "# BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      308,
+      275,
+      982,
+      332
+    ],
+    "category": "Text",
+    "text": "## ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 46"
+  },
+  {
+    "bbox": [
+      508,
+      332,
+      783,
+      384
+    ],
+    "category": "Text",
+    "text": "### ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      281,
+      389,
+      1013,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      110,
+      511,
+      1162,
+      568
+    ],
+    "category": "Section-header",
+    "text": "## 1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      575,
+      1196,
+      686
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ thỏa mãn $\\lim_{x \\to 5} \\frac{f(x) - f(5)}{x - 5} = 7$. Kết quả đúng là"
+  },
+  {
+    "bbox": [
+      123,
+      686,
+      300,
+      726
+    ],
+    "category": "List-item",
+    "text": "(A) $f'(5) = 7$."
+  },
+  {
+    "bbox": [
+      395,
+      686,
+      572,
+      726
+    ],
+    "category": "List-item",
+    "text": "(B) $f'(5) = 6$."
+  },
+  {
+    "bbox": [
+      668,
+      686,
+      846,
+      726
+    ],
+    "category": "List-item",
+    "text": "(C) $f'(5) = 3$."
+  },
+  {
+    "bbox": [
+      941,
+      686,
+      1118,
+      726
+    ],
+    "category": "List-item",
+    "text": "(D) $f'(5) = 2$."
+  },
+  {
+    "bbox": [
+      94,
+      746,
+      1196,
+      826
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình bên. Giá trị nhỏ nhất của hàm số $y = f(x)$ trên $[-1; 1]$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      826,
+      218,
+      865
+    ],
+    "category": "List-item",
+    "text": "(A) $-3$."
+  },
+  {
+    "bbox": [
+      395,
+      826,
+      489,
+      865
+    ],
+    "category": "List-item",
+    "text": "(B) $-1$."
+  },
+  {
+    "bbox": [
+      668,
+      826,
+      762,
+      865
+    ],
+    "category": "List-item",
+    "text": "(C) $-2$."
+  },
+  {
+    "bbox": [
+      941,
+      826,
+      1013,
+      865
+    ],
+    "category": "List-item",
+    "text": "(D) $1$."
+  },
+  {
+    "bbox": [
+      264,
+      910,
+      1032,
+      1182
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$-2$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1234,
+      1196,
+      1313
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $2a$. Khoảng cách từ $A'$ đến $(ABCD)$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1313,
+      202,
+      1374
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{a}{2}$."
+  },
+  {
+    "bbox": [
+      395,
+      1313,
+      482,
+      1374
+    ],
+    "category": "List-item",
+    "text": "(B) $2a$."
+  },
+  {
+    "bbox": [
+      668,
+      1313,
+      742,
+      1374
+    ],
+    "category": "List-item",
+    "text": "(C) $a$."
+  },
+  {
+    "bbox": [
+      941,
+      1313,
+      1032,
+      1374
+    ],
+    "category": "List-item",
+    "text": "(D) $3a$."
+  },
+  {
+    "bbox": [
+      94,
+      1386,
+      832,
+      1452
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Heo nghiệm của phương trình $\\tan 2x = \\tan \\frac{\\pi}{4}$ là"
+  },
+  {
+    "bbox": [
+      123,
+      1446,
+      463,
+      1511
+    ],
+    "category": "List-item",
+    "text": "(A) $x = -\\frac{\\pi}{8} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      668,
+      1446,
+      980,
+      1511
+    ],
+    "category": "List-item",
+    "text": "(B) $x = \\frac{\\pi}{6} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      123,
+      1511,
+      446,
+      1576
+    ],
+    "category": "List-item",
+    "text": "(C) $x = \\pm\\frac{\\pi}{4} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      668,
+      1511,
+      972,
+      1576
+    ],
+    "category": "List-item",
+    "text": "(D) $x = \\frac{\\pi}{8} + \\frac{k\\pi}{2}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      94,
+      1604,
+      856,
+      1718
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[-2; 2]$ và có đồ thị là đường cong trong hình bên. Hàm số $y = f(x)$ đạt cực tiểu tại điểm"
+  },
+  {
+    "bbox": [
+      123,
+      1718,
+      252,
+      1757
+    ],
+    "category": "List-item",
+    "text": "(A) $y = 1$."
+  },
+  {
+    "bbox": [
+      310,
+      1718,
+      463,
+      1757
+    ],
+    "category": "List-item",
+    "text": "(B) $y = -1$."
+  },
+  {
+    "bbox": [
+      496,
+      1718,
+      626,
+      1757
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 1$."
+  },
+  {
+    "bbox": [
+      683,
+      1718,
+      813,
+      1757
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 0$."
+  },
+  {
+    "bbox": [
+      889,
+      1619,
+      1169,
+      1912
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1926,
+      1196,
+      2006
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Khảo sát thời gian tập thể dục của một số học sinh khối 12 thu được mẫu số liệu ghép nhóm sau"
+  },
+  {
+    "bbox": [
+      232,
+      2036,
+      1062,
+      2136
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0; 20)</td><td>[20; 40)</td><td>[40; 60)</td><td>[60; 80)</td><td>[80; 10)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      2170,
+      383,
+      2206
+    ],
+    "category": "Text",
+    "text": "Khoảng_tứ phân vị là"
+  },
+  {
+    "bbox": [
+      123,
+      2206,
+      248,
+      2245
+    ],
+    "category": "List-item",
+    "text": "(A) 38,78."
+  },
+  {
+    "bbox": [
+      395,
+      2206,
+      522,
+      2245
+    ],
+    "category": "List-item",
+    "text": "(B) 42,87."
+  },
+  {
+    "bbox": [
+      668,
+      2206,
+      776,
+      2245
+    ],
+    "category": "List-item",
+    "text": "(C) 39,9."
+  },
+  {
+    "bbox": [
+      941,
+      2206,
+      1032,
+      2245
+    ],
+    "category": "List-item",
+    "text": "(D) 40."
+  },
+  {
+    "bbox": [
+      1235,
+      142,
+      1596,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      357,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1322,
+      568,
+      1503,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      788,
+      1596,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 233"
+  }
+]

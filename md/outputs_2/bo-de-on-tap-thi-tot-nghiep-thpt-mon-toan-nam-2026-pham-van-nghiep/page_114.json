@@ -1,0 +1,492 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      1012,
+      168
+    ],
+    "category": "Text",
+    "text": "Dựa vào đồ thị, ta có $\\lim_{x \\to +\\infty} y = +\\infty$, loại phương án C."
+  },
+  {
+    "bbox": [
+      212,
+      176,
+      1512,
+      223
+    ],
+    "category": "Text",
+    "text": "Xét phương án D có $y' = 3x^2 + 2 > 0, \\forall x \\in \\mathbb{R}$, hàm số không có cực tri, loại phương án D."
+  },
+  {
+    "bbox": [
+      212,
+      234,
+      1566,
+      402
+    ],
+    "category": "Text",
+    "text": "Xét phương án B có $y' = 3x^2 - 4x$ và $y'$ đổi dấu khi đi qua các điểm $x = 0, x = \\frac{4}{3}$ nên hàm số đạt cực tri tại $x = 0, x = \\frac{4}{3}$, loại phương án B."
+  },
+  {
+    "bbox": [
+      74,
+      408,
+      1287,
+      459
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Cho cấp số nhân $(u_n)$ có $u_3 = 5$ và $u_6 = 40$. Số hạng $u_4$ của cấp số nhân là"
+  },
+  {
+    "bbox": [
+      212,
+      472,
+      393,
+      514
+    ],
+    "category": "List-item",
+    "text": "A. $u_4 = -15$."
+  },
+  {
+    "bbox": [
+      547,
+      472,
+      722,
+      514
+    ],
+    "category": "List-item",
+    "text": "B. $u_4 = -10$."
+  },
+  {
+    "bbox": [
+      862,
+      472,
+      1017,
+      514
+    ],
+    "category": "List-item",
+    "text": "C. $u_4 = 15$."
+  },
+  {
+    "bbox": [
+      1176,
+      472,
+      1336,
+      514
+    ],
+    "category": "List-item",
+    "text": "D. $u_4 = 10$."
+  },
+  {
+    "bbox": [
+      833,
+      523,
+      954,
+      565
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      569,
+      415,
+      608
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      212,
+      611,
+      732,
+      748
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} u_3 = u_1q^2 \\\\ u_6 = u_1q^5 \\end{cases} \\Leftrightarrow \\begin{cases} u_1 = \\frac{5}{4} \\\\ q = 2 \\end{cases} \\Rightarrow u_4 = 10$"
+  },
+  {
+    "bbox": [
+      74,
+      758,
+      854,
+      808
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Họ nguyên hàm của hàm số $f(x) = \\sin x$ là"
+  },
+  {
+    "bbox": [
+      212,
+      841,
+      398,
+      877
+    ],
+    "category": "List-item",
+    "text": "A. $\\cos x + C$."
+  },
+  {
+    "bbox": [
+      547,
+      841,
+      752,
+      877
+    ],
+    "category": "List-item",
+    "text": "B. $-\\cos x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      841,
+      1065,
+      877
+    ],
+    "category": "List-item",
+    "text": "C. $-\\sin x + C$."
+  },
+  {
+    "bbox": [
+      1176,
+      823,
+      1401,
+      902
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{2}\\sin^2 x + C$."
+  },
+  {
+    "bbox": [
+      833,
+      908,
+      954,
+      950
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      955,
+      409,
+      993
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      212,
+      993,
+      519,
+      1052
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int \\sin x dx = -\\cos x + C\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1061,
+      857,
+      1111
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Nghiệm của phương trình $\\log_3(x+1) = 2$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1124,
+      340,
+      1160
+    ],
+    "category": "List-item",
+    "text": "A. $x = 7$."
+  },
+  {
+    "bbox": [
+      547,
+      1124,
+      669,
+      1160
+    ],
+    "category": "List-item",
+    "text": "B. $x = 8$."
+  },
+  {
+    "bbox": [
+      862,
+      1124,
+      982,
+      1160
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1176,
+      1124,
+      1304,
+      1160
+    ],
+    "category": "List-item",
+    "text": "D. $x = 6$."
+  },
+  {
+    "bbox": [
+      833,
+      1168,
+      954,
+      1210
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1213,
+      579,
+      1251
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{ĐKXĐ } x+1>0 \\Leftrightarrow x>-1.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1256,
+      881,
+      1308
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ } \\log_3(x+1) = 2 \\Leftrightarrow x+1=9 \\Leftrightarrow x=8 \\text{ (TMĐK).}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1318,
+      1133,
+      1362
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Cho hình lăng trụ $ABC.A'B'C'$ phát biểu nào sau đây là đúng"
+  },
+  {
+    "bbox": [
+      212,
+      1362,
+      592,
+      1409
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{B'C} = -\\overrightarrow{AA'} + \\overrightarrow{AB} - \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      862,
+      1362,
+      1238,
+      1409
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{B'C} = -\\overrightarrow{AA'} - \\overrightarrow{AB} + \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      212,
+      1411,
+      592,
+      1462
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{B'C} = -\\overrightarrow{AA'} - \\overrightarrow{AB} - \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      862,
+      1411,
+      1224,
+      1462
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{B'C} = \\overrightarrow{AA'} - \\overrightarrow{AB} + \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      833,
+      1470,
+      954,
+      1512
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1517,
+      409,
+      1555
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      212,
+      1555,
+      879,
+      1606
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overrightarrow{B'C} = \\overrightarrow{B'B} + \\overrightarrow{BA} + \\overrightarrow{AC} = -\\overrightarrow{AA'} - \\overrightarrow{AB} + \\overrightarrow{AC}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1614,
+      1489,
+      1697
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Trong không gian tọa độ $Oxyz$, cho đường thẳng $(d)$ có phương trình $\\frac{x+1}{-2} = \\frac{2-y}{3} = \\frac{z}{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      1702,
+      1165,
+      1751
+    ],
+    "category": "Text",
+    "text": "Vecto nào sau đây là một vecto chỉ phương của đường thẳng $(d)$"
+  },
+  {
+    "bbox": [
+      212,
+      1759,
+      455,
+      1816
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u} = (-2; -3; 2)$"
+  },
+  {
+    "bbox": [
+      547,
+      1759,
+      763,
+      1816
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u} = (-2; 3; 2)$"
+  },
+  {
+    "bbox": [
+      862,
+      1759,
+      1098,
+      1816
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u} = (2; -3; -2)$"
+  },
+  {
+    "bbox": [
+      1176,
+      1759,
+      1439,
+      1816
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u} = (-2; -3; -2)$"
+  },
+  {
+    "bbox": [
+      833,
+      1828,
+      954,
+      1870
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1875,
+      415,
+      1913
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      212,
+      1918,
+      1572,
+      2059
+    ],
+    "category": "Text",
+    "text": "Từ phương trình $\\frac{x+1}{-2} = \\frac{2-y}{3} = \\frac{z}{2} \\Leftrightarrow \\frac{x+1}{-2} = \\frac{y-2}{-3} = \\frac{z}{2}$ khi đó một véc tơ chỉ phương của đường thẳng $(d)$ là $\\vec{u} = (-2; -3; 2)$. Chọn đáp án A"
+  },
+  {
+    "bbox": [
+      74,
+      2070,
+      787,
+      2112
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Cho hàm số có đồ thị như hình vẽ bên:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

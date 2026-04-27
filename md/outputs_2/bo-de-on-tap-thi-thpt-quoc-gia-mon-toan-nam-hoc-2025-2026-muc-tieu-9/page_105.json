@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      202,
+      139,
+      1002,
+      181
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố \"không có hai người đứng cạnh nhau\"."
+  },
+  {
+    "bbox": [
+      586,
+      194,
+      1114,
+      731
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      776,
+      1548,
+      946
+    ],
+    "category": "Text",
+    "text": "Quan sát hình vẽ, ta thấy nếu có 5 người đứng thì sẽ luôn có hai người đứng cạnh nhau, do đó để không có hai người đứng cạnh nhau thì số người đứng phải nhỏ hơn hoặc bằng 4. Ta đi tìm số cách sắp xếp số người đứng này vào trong bàn 8 người sao cho không có hai người đứng cạnh nhau."
+  },
+  {
+    "bbox": [
+      195,
+      980,
+      744,
+      1017
+    ],
+    "category": "List-item",
+    "text": "* TH1: Không có ai đứng: Có 1 cách."
+  },
+  {
+    "bbox": [
+      195,
+      1035,
+      809,
+      1078
+    ],
+    "category": "List-item",
+    "text": "* TH2: Có 1 người đứng: Có $C_8^1 = 8$ cách."
+  },
+  {
+    "bbox": [
+      195,
+      1094,
+      1546,
+      1223
+    ],
+    "category": "List-item",
+    "text": "* TH3: Có 2 người đứng: Có $C_8^2 = 28$ cách chọn ra 2 người đứng trong 8 người, trong đó có 8 TH hai người đứng cạnh nhau (ở các gặp vị trí $1-2, 2-3, 3-4, 4-5, 5-6, 6-7, 7-8, 8-1$). Suy ra số cách để 2 người đứng và không ai đứng cạnh nhau là $28 - 8 = 20$ cách."
+  },
+  {
+    "bbox": [
+      195,
+      1240,
+      1548,
+      1548
+    ],
+    "category": "List-item",
+    "text": "* TH4: Có 3 người đứng: Có $C_8^3 = 56$ cách chọn ra 3 người đứng trong 8 người, trong đó: Trường hợp chỉ có 2 người đứng cạnh nhau là $8 \\cdot C_4^1 = 32$ cách (vì 2 người đứng cạnh nhau thì 1 người còn lại chỉ có thể chọn 1 trong 4 chỗ để đứng (lưu ý là 3 người không đứng cạnh nhau): ví dụ khi hai người đứng cạnh nhau ở vị trí 1 và 2 thì người đứng còn lại chỉ có thể đứng ở 1 trong bốn vị trí 4, 5, 6, 7). Trường hợp 3 người đứng cạnh nhau là 8 cách (ở các vị trí là $1-2-3, 2-3-4, 3-4-5, 4-5-6, 5-6-7, 6-7-8, 7-8-1, 8-1-2$). Suy ra số cách để 3 người đứng và không ai đứng cạnh nhau là $56 - 32 - 8 = 16$ cách."
+  },
+  {
+    "bbox": [
+      195,
+      1565,
+      1546,
+      1651
+    ],
+    "category": "List-item",
+    "text": "* TH5: Có 4 người đứng: Khi này ta chỉ có 2 cách để không có hai người đứng cạnh nhau (4 người đứng ở các vị trí 1, 3, 5, 7 hoặc 2, 4, 6, 8)."
+  },
+  {
+    "bbox": [
+      202,
+      1678,
+      1544,
+      1721
+    ],
+    "category": "Text",
+    "text": "Suy ra tổng số cách để không có hai người đứng cạnh nhau là $n(A) = 1 + 8 + 20 + 16 + 2 = 47$."
+  },
+  {
+    "bbox": [
+      202,
+      1736,
+      933,
+      1791
+    ],
+    "category": "Text",
+    "text": "Suy ra xác suất cần tính là $P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{47}{256} = \\frac{a}{b}$."
+  },
+  {
+    "bbox": [
+      202,
+      1806,
+      649,
+      1848
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a^2 + b = 47^2 + 256 = 2465.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1868,
+      1548,
+      2043
+    ],
+    "category": "Text",
+    "text": "Bài 5. Một bể nước có dạng hình chóp cụt tức giác đều có chiều cao $h = 40$ cm, đáy bể là hình vuông cạnh 10 cm và miếng bể là hình vuông cạnh 20 cm. Một viên bi sixth hình cầu không nổi bán kính $r = 4$ cm đặt dưới đáy bể nước. Ban đầu bể cạn, sau đó nước được đổ vào bể với tốc độ không đổi $20 \\text{ cm}^3/\\text{s}$. Tốc độ dâng lên của mực nước trong bể khi viên bi sixth ngập một nửa trong"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "105"
+  }
+]

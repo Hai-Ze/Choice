@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      710,
+      95,
+      1019,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      150,
+      1450,
+      195
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      214,
+      1177,
+      263
+    ],
+    "category": "Text",
+    "text": "Câu 1.Find the set $S$ of the basic program $\\log_3(2x+3) < \\log_3(1-x)$"
+  },
+  {
+    "bbox": [
+      205,
+      289,
+      396,
+      378
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\frac{2}{3}; +\\infty)$"
+  },
+  {
+    "bbox": [
+      556,
+      289,
+      747,
+      378
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\frac{3}{2}; -\\frac{2}{3})$"
+  },
+  {
+    "bbox": [
+      906,
+      289,
+      1063,
+      378
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\frac{3}{2}; 1)$"
+  },
+  {
+    "bbox": [
+      1255,
+      289,
+      1438,
+      378
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -\\frac{2}{3})$"
+  },
+  {
+    "bbox": [
+      807,
+      404,
+      924,
+      443
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      463,
+      269,
+      501
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      155,
+      518,
+      668,
+      614
+    ],
+    "category": "Text",
+    "text": "Điều kiện : $\\begin{cases} 2x+3 > 0 \\\\ 1-x > 0 \\end{cases} \\Leftrightarrow -\\frac{3}{2} < x < 1$."
+  },
+  {
+    "bbox": [
+      160,
+      643,
+      883,
+      724
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_3(2x+3) < \\log_3(1-x) \\Leftrightarrow 2x+3 < 1-x \\Leftrightarrow x < -\\frac{2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      746,
+      1189,
+      835
+    ],
+    "category": "Text",
+    "text": "So với điều kiện, ta được tập nghiệm của bất phương trình là $S = \\left(-\\frac{3}{2}; -\\frac{2}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      155,
+      858,
+      1255,
+      907
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho cấp số nhân $(u_n)$ với $u_1 = 3$ và công bội $q = 4$. Giá trị của $u_2$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      958,
+      304,
+      992
+    ],
+    "category": "List-item",
+    "text": "A. 64."
+  },
+  {
+    "bbox": [
+      556,
+      958,
+      644,
+      992
+    ],
+    "category": "List-item",
+    "text": "B. 81."
+  },
+  {
+    "bbox": [
+      906,
+      958,
+      994,
+      992
+    ],
+    "category": "List-item",
+    "text": "C. 12."
+  },
+  {
+    "bbox": [
+      1255,
+      937,
+      1341,
+      1017
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      807,
+      1042,
+      924,
+      1080
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1100,
+      279,
+      1138
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      1159,
+      510,
+      1201
+    ],
+    "category": "Text",
+    "text": "Ta có $u_2 = u_1 \\cdot q = 3 \\cdot 4 = 12$."
+  },
+  {
+    "bbox": [
+      155,
+      1228,
+      1510,
+      1311
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = \\frac{ax+b}{cx+d}$ ($c \\neq 0$, $ad-bc \\neq 0$) liên tục trên tập xác định và có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      635,
+      1337,
+      1086,
+      1797
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1816,
+      870,
+      1861
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đã cho có đường tiệm cận ngang bằng:"
+  },
+  {
+    "bbox": [
+      205,
+      1881,
+      336,
+      1915
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2$."
+  },
+  {
+    "bbox": [
+      556,
+      1881,
+      679,
+      1915
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      944,
+      1881,
+      1067,
+      1915
+    ],
+    "category": "List-item",
+    "text": "C. $y = 1$."
+  },
+  {
+    "bbox": [
+      1255,
+      1881,
+      1386,
+      1915
+    ],
+    "category": "List-item",
+    "text": "D. $y = 2$."
+  },
+  {
+    "bbox": [
+      807,
+      1944,
+      924,
+      1982
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2003,
+      279,
+      2041
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      2054,
+      1081,
+      2099
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị hàm số ta thấy: hàm số đã cho có một tiệm cận ngang $y = 1$"
+  },
+  {
+    "bbox": [
+      155,
+      2124,
+      1446,
+      2221
+    ],
+    "category": "Text",
+    "text": "Câu 4. Cho hàm số $f(x)$ liên tục trên $R$ và có $\\int_{0}^{2} f(x)dx = 9$; $\\int_{2}^{4} f(x)dx = 4$. Tính $I = \\int_{0}^{4} f(x)dx$."
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

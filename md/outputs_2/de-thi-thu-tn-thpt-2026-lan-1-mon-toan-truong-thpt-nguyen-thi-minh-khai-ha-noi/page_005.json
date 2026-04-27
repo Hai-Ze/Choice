@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      635,
+      115,
+      1030,
+      167
+    ],
+    "category": "Section-header",
+    "text": "HƯỚNG DÃN GIẢI"
+  },
+  {
+    "bbox": [
+      113,
+      301,
+      1549,
+      391
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Trắc nghiệm 4 phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh trả lời một phương án."
+  },
+  {
+    "bbox": [
+      113,
+      412,
+      1021,
+      461
+    ],
+    "category": "Text",
+    "text": "Câu 1: Cho hàm số $f(x)$ có bảng xét dấu của đạo hàm như sau:"
+  },
+  {
+    "bbox": [
+      415,
+      503,
+      1385,
+      677
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$0$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      684,
+      979,
+      728
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      251,
+      734,
+      402,
+      782
+    ],
+    "category": "List-item",
+    "text": "A. $(-3;0)$."
+  },
+  {
+    "bbox": [
+      586,
+      734,
+      745,
+      782
+    ],
+    "category": "List-item",
+    "text": "B. $(0;+\\infty)$."
+  },
+  {
+    "bbox": [
+      901,
+      734,
+      1035,
+      782
+    ],
+    "category": "List-item",
+    "text": "C. $(0;2)$."
+  },
+  {
+    "bbox": [
+      1215,
+      734,
+      1390,
+      782
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty;-3)$."
+  },
+  {
+    "bbox": [
+      843,
+      796,
+      956,
+      834
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      840,
+      1048,
+      890
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(x)$ nghịch biến trên khoảng $(-3;0)$ và $(2;+\\infty)$."
+  },
+  {
+    "bbox": [
+      113,
+      920,
+      1486,
+      969
+    ],
+    "category": "Text",
+    "text": "Câu 2: Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và công bội $q = 3$. Tìm số hạng thứ tư của cấp số nhân đó."
+  },
+  {
+    "bbox": [
+      251,
+      1011,
+      346,
+      1045
+    ],
+    "category": "List-item",
+    "text": "A. 24."
+  },
+  {
+    "bbox": [
+      586,
+      1011,
+      678,
+      1045
+    ],
+    "category": "List-item",
+    "text": "B. 54."
+  },
+  {
+    "bbox": [
+      901,
+      1011,
+      1009,
+      1045
+    ],
+    "category": "List-item",
+    "text": "C. 162."
+  },
+  {
+    "bbox": [
+      1215,
+      1011,
+      1307,
+      1045
+    ],
+    "category": "List-item",
+    "text": "D. 48."
+  },
+  {
+    "bbox": [
+      843,
+      1057,
+      956,
+      1095
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1103,
+      651,
+      1145
+    ],
+    "category": "Text",
+    "text": "Ta có $u_4 = u_1 \\cdot q^3 = 2 \\cdot 3^3 = 54$."
+  },
+  {
+    "bbox": [
+      113,
+      1176,
+      1061,
+      1224
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho hàm số $f(x) = x^2 + 4$. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      251,
+      1270,
+      625,
+      1353
+    ],
+    "category": "Formula",
+    "text": "A. $\\int f(x)dx = \\frac{x^3}{3} + 4x + C$."
+  },
+  {
+    "bbox": [
+      901,
+      1284,
+      1268,
+      1342
+    ],
+    "category": "Formula",
+    "text": "B. $\\int f(x)dx = x^3 + 4x + C$."
+  },
+  {
+    "bbox": [
+      251,
+      1362,
+      562,
+      1419
+    ],
+    "category": "Formula",
+    "text": "C. $\\int f(x)dx = 2x + C$."
+  },
+  {
+    "bbox": [
+      901,
+      1362,
+      1268,
+      1419
+    ],
+    "category": "Formula",
+    "text": "D. $\\int f(x)dx = x^2 + 4x + C$."
+  },
+  {
+    "bbox": [
+      843,
+      1431,
+      956,
+      1468
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1476,
+      584,
+      1561
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int f(x)dx = \\frac{x^3}{3} + 4x + C.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1590,
+      1549,
+      1699
+    ],
+    "category": "Text",
+    "text": "Câu 4: Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 3x - z + 2 = 0$. Vectơ nào sau đây là một vectơ pháp tuyến của $(P)$?"
+  },
+  {
+    "bbox": [
+      251,
+      1742,
+      481,
+      1788
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (0;3;-1)$."
+  },
+  {
+    "bbox": [
+      586,
+      1742,
+      822,
+      1788
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2 = (3;-1;2)$."
+  },
+  {
+    "bbox": [
+      901,
+      1742,
+      1133,
+      1788
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_3 = (3;0;-1)$."
+  },
+  {
+    "bbox": [
+      1215,
+      1742,
+      1451,
+      1788
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_4 = (3;-1;0)$."
+  },
+  {
+    "bbox": [
+      843,
+      1802,
+      956,
+      1840
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1848,
+      832,
+      1896
+    ],
+    "category": "Text",
+    "text": "$(P): 3x - z + 2 = 0$ có VTPT $\\vec{n}_3 = (3;0;-1)$."
+  },
+  {
+    "bbox": [
+      113,
+      1920,
+      805,
+      1966
+    ],
+    "category": "Text",
+    "text": "Câu 5: Bảng biến thiên sau đây của hàm số nào?"
+  }
+]

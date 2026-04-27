@@ -1,0 +1,339 @@
+[
+  {
+    "bbox": [
+      91,
+      55,
+      1594,
+      139
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Một bộ phận kiểm tra chất lượng sản phẩm đã dùng máy chuyên dụng để đo độ dày của một số chi tiết máy (độ chính xác đến 0,001 mm). Kết quả họ thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      234,
+      136,
+      1234,
+      262
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Độ dày (mm)</td><td>[18; 19)</td><td>[19; 20)</td><td>[20; 21)</td><td>[21; 22)</td><td>[22; 23)</td></tr><tr><td>Số chi tiết máy</td><td>3</td><td>7</td><td>18</td><td>20</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      216,
+      262,
+      1216,
+      303
+    ],
+    "category": "Text",
+    "text": "Độ dày trung bình của một chi tiết máy dựa vào mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      216,
+      309,
+      415,
+      345
+    ],
+    "category": "List-item",
+    "text": "A. 20,12 mm."
+  },
+  {
+    "bbox": [
+      568,
+      309,
+      766,
+      345
+    ],
+    "category": "List-item",
+    "text": "B. 20,32 mm."
+  },
+  {
+    "bbox": [
+      920,
+      309,
+      1121,
+      345
+    ],
+    "category": "List-item",
+    "text": "C. 20,72 mm."
+  },
+  {
+    "bbox": [
+      1272,
+      309,
+      1474,
+      345
+    ],
+    "category": "List-item",
+    "text": "D. 20,24 mm."
+  },
+  {
+    "bbox": [
+      91,
+      360,
+      1404,
+      407
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, phương trình mặt cầu có tâm $I(2; -1; 2)$, bán kính bằng 3 là"
+  },
+  {
+    "bbox": [
+      216,
+      418,
+      692,
+      471
+    ],
+    "category": "Formula",
+    "text": "A. $(x-2)^2 + (y-1)^2 + (z-2)^2 = 3$."
+  },
+  {
+    "bbox": [
+      920,
+      418,
+      1396,
+      471
+    ],
+    "category": "Formula",
+    "text": "B. $(x+2)^2 + (y+1)^2 + (z+2)^2 = 3$."
+  },
+  {
+    "bbox": [
+      216,
+      484,
+      694,
+      537
+    ],
+    "category": "Formula",
+    "text": "C. $(x+2)^2 + (y-1)^2 + (z+2)^2 = 9$."
+  },
+  {
+    "bbox": [
+      920,
+      484,
+      1396,
+      537
+    ],
+    "category": "Formula",
+    "text": "D. $(x-2)^2 + (y+1)^2 + (z-2)^2 = 9$."
+  },
+  {
+    "bbox": [
+      91,
+      548,
+      1415,
+      641
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Thể tích của khối chóp tức giác đều có chiều cao bằng $\\frac{a\\sqrt{6}}{3}$ và cạnh đáy bằng $a\\sqrt{3}$ bằng"
+  },
+  {
+    "bbox": [
+      216,
+      643,
+      373,
+      735
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{3a^3\\sqrt{6}}{2}$."
+  },
+  {
+    "bbox": [
+      568,
+      643,
+      723,
+      735
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{3a^3\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      920,
+      643,
+      1077,
+      735
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{3a^3\\sqrt{2}}{4}$."
+  },
+  {
+    "bbox": [
+      1272,
+      643,
+      1415,
+      735
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{a^3\\sqrt{6}}{3}$."
+  },
+  {
+    "bbox": [
+      91,
+      740,
+      1594,
+      823
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Một công ty đã thống kê lại số lượng đơn đặt hàng của sản phẩm X sau 18 giờ cho ra mắt theo mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      218,
+      820,
+      1472,
+      989
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm (giờ)</td><td>[0; 3)</td><td>[3; 6)</td><td>[6; 9)</td><td>[9; 12)</td><td>[12; 15)</td><td>[15; 18)</td></tr><tr><td>Số đơn hàng</td><td>12</td><td>25</td><td>37</td><td>55</td><td>60</td><td>71</td></tr></table>"
+  },
+  {
+    "bbox": [
+      216,
+      1003,
+      1290,
+      1048
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm gần nhất với giá trị nào sau đây?"
+  },
+  {
+    "bbox": [
+      216,
+      1065,
+      340,
+      1101
+    ],
+    "category": "List-item",
+    "text": "A. 6,95."
+  },
+  {
+    "bbox": [
+      568,
+      1065,
+      692,
+      1101
+    ],
+    "category": "List-item",
+    "text": "B. 6,96."
+  },
+  {
+    "bbox": [
+      920,
+      1065,
+      1044,
+      1101
+    ],
+    "category": "List-item",
+    "text": "C. 6,97."
+  },
+  {
+    "bbox": [
+      1272,
+      1065,
+      1396,
+      1101
+    ],
+    "category": "List-item",
+    "text": "D. 6,98."
+  },
+  {
+    "bbox": [
+      533,
+      1155,
+      1169,
+      1198
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      91,
+      1198,
+      1594,
+      1354
+    ],
+    "category": "List-item",
+    "text": "**Câu 13.** Nếu đứng trước biển và nhìn ra xa, người ta sẽ thấy một đường giao giữa mặt biển và bầu trời, đó là đường chân trời đối với người quan sát. Ta có thể hình dung rằng nếu người quan sát ở tại đinh của một chiếc nón và trái đất được “thả” vào trong chiếc nón ấy thì đường chân trời là đường “chạm” giữa trái đất và chiếc nón."
+  },
+  {
+    "bbox": [
+      216,
+      1354,
+      901,
+      1605
+    ],
+    "category": "Text",
+    "text": "Trong không gian $Oxyz$, giả sử bề mặt trái đất ($S$) có phương trình $x^2 + y^2 + z^2 = 1$ và người quan sát ở vị trí $B(1; 1; -1)$; $A$ là một vị trí bất kì trên đường chân trời đối với người quan sát ở vị trí $B$ ($AB$ là tiếp tuyến của mặt cầu ($S$))."
+  },
+  {
+    "bbox": [
+      934,
+      1331,
+      1194,
+      1561
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1210,
+      1331,
+      1377,
+      1561
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1437,
+      1331,
+      1584,
+      1561
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1607,
+      1596,
+      1956
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Khoảng cách từ vị trí $B$ đến tâm của trái đất là $\\sqrt{3}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Khoảng cách hai điểm $A, B$ là $\\sqrt{2}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Phương trình mặt cầu đường kính $OB$ là $(x-\\frac{1}{2})^2 + (y-\\frac{1}{2})^2 + (z-\\frac{1}{2})^2 = \\frac{3}{4}$.</td><td>☐</td><td>☐</td></tr><tr><td>d)úp $A$ luôn thuộc mặt phẳng cố định $x+y-z-1=0$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1545,
+      2021,
+      1564,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

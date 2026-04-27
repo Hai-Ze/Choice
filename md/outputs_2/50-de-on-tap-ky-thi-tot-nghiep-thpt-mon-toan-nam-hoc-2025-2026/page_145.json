@@ -1,0 +1,299 @@
+[
+  {
+    "bbox": [
+      211,
+      43,
+      1044,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      22,
+      0,
+      221,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      745,
+      161,
+      1069,
+      431
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      433,
+      765,
+      472
+    ],
+    "category": "Text",
+    "text": "Điểm cực đại của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      250,
+      479,
+      379,
+      515
+    ],
+    "category": "List-item",
+    "text": "A. $x=1$."
+  },
+  {
+    "bbox": [
+      587,
+      479,
+      712,
+      515
+    ],
+    "category": "List-item",
+    "text": "B. $x=2$."
+  },
+  {
+    "bbox": [
+      901,
+      479,
+      1032,
+      515
+    ],
+    "category": "List-item",
+    "text": "C. $x=0$."
+  },
+  {
+    "bbox": [
+      1216,
+      479,
+      1369,
+      515
+    ],
+    "category": "List-item",
+    "text": "D. $x=-2$."
+  },
+  {
+    "bbox": [
+      114,
+      523,
+      919,
+      574
+    ],
+    "category": "Text",
+    "text": "» Câu 11. Nghiệm của phương trình $\\log_3(4x-7) = 2$ là"
+  },
+  {
+    "bbox": [
+      250,
+      587,
+      399,
+      666
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{13}{4}$."
+  },
+  {
+    "bbox": [
+      587,
+      587,
+      716,
+      666
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      901,
+      606,
+      1030,
+      642
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1216,
+      606,
+      1347,
+      642
+    ],
+    "category": "List-item",
+    "text": "D. $x = 4$."
+  },
+  {
+    "bbox": [
+      114,
+      674,
+      1411,
+      724
+    ],
+    "category": "Text",
+    "text": "» Câu 12. Trong các hàm số cho dưới đây, hàm số nào đồng biến trên khoảng $(-\\infty; +\\infty)$?"
+  },
+  {
+    "bbox": [
+      250,
+      752,
+      521,
+      798
+    ],
+    "category": "List-item",
+    "text": "A. $y = -x^3 + 3x + 1$."
+  },
+  {
+    "bbox": [
+      587,
+      752,
+      838,
+      798
+    ],
+    "category": "List-item",
+    "text": "B. $y = 2x^3 + x - 5$."
+  },
+  {
+    "bbox": [
+      901,
+      752,
+      1060,
+      798
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\sqrt{x}$."
+  },
+  {
+    "bbox": [
+      1216,
+      737,
+      1411,
+      817
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{2x-1}{x+1}$."
+  },
+  {
+    "bbox": [
+      64,
+      824,
+      493,
+      866
+    ],
+    "category": "Section-header",
+    "text": "B. Câu hỏi – Trả lời đúng/sai"
+  },
+  {
+    "bbox": [
+      114,
+      868,
+      1562,
+      956
+    ],
+    "category": "Text",
+    "text": "» Câu 13. Kết quả điểm thi khảo sát học kì I môn Toán của hai khối 10, 11 ở một trường THPT tỉnh Hưng Yên được biểu diễn bởi mẫu số liệu ghép nhóm ở bảng sau:"
+  },
+  {
+    "bbox": [
+      250,
+      954,
+      1569,
+      1112
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Nhóm</th><th>[1;2)</th><th>[2;3)</th><th>[3;4)</th><th>[4;5)</th><th>[5;6)</th><th>[6;7)</th><th>[7;8)</th><th>[8;9)</th><th>[9;10)</th></tr></thead><tbody><tr><td>Khối 11</td><td>11</td><td>52</td><td>118</td><td>121</td><td>95</td><td>62</td><td>47</td><td>27</td><td>7</td></tr><tr><td>Khối 10</td><td>1</td><td>4</td><td>35</td><td>86</td><td>117</td><td>112</td><td>102</td><td>64</td><td>19</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      250,
+      1118,
+      363,
+      1152
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      250,
+      1154,
+      1602,
+      1536
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M event</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Điểm trung bình của toán khối 11 là 4,83 (kết quả làm tròn đến hàng phần trăm).</td><td></td><td></td></tr><tr><td>(b)</td><td>Khoảng tức phân vị của mẫu số liệu ghép nhóm khối 10 là $\\Delta Q_{K10} = 2,41$ (kết quả làm tròn đến hàng phần trăm).</td><td></td><td></td></tr><tr><td>(c)</td><td>Nếu so sánh theo độ lệch chuẩn của mẫu số liệu ghép nhóm thì học sinh khối 10 có điểm tổng đều hơn điểm của học sinh khối 11.</td><td></td><td></td></tr><tr><td>(d)</td><td>Khoảng biến thiên của mẫu số liệu ghép nhóm là $R=9$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      1536,
+      1562,
+      1671
+    ],
+    "category": "Text",
+    "text": "» Câu 14. Khảo sát một nhóm 50 học sinh ở một trường THPT người ta thấy rằng: Có 20 học sinh giải ngoại ngữ, 15 học sinh giải Tin học, 10 học sinh giải cả ngoại ngữ và Tin học. Chọn ngẫu nhiên một học sinh từ nhóm 50 học sinh trở lên. Khi đó:"
+  },
+  {
+    "bbox": [
+      250,
+      1667,
+      1602,
+      1997
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M event</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Xác suất để chọn được học sinh chỉ giải một môn ngoại ngữ là 0,3.</td><td></td><td></td></tr><tr><td>(b)</td><td>Xác suất để chọn được học sinh giải cả ngoại ngữ và Tin học bằng 0,2.</td><td></td><td></td></tr><tr><td>(c)</td><td>Xác suất để chọn được học sinh giải ngoại ngữ bằng 0,4.</td><td></td><td></td></tr><tr><td>(d)</td><td>Xác suất để chọn được học sinh giải ngoại ngữ hoặc Tin học bằng 0,7.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      2004,
+      1165,
+      2084
+    ],
+    "category": "Text",
+    "text": "» Câu 15. Cho hàm số $f(x) = \\frac{x-2}{x-1}$ có đồ thị là đường cong (C). Khi đó:"
+  },
+  {
+    "bbox": [
+      250,
+      2082,
+      1602,
+      2194
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M event</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Hàm số đồng biến trên khoảng $(-\\infty; +\\infty)$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      2248,
+      615,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1313,
+      2252,
+      1482,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 144"
+  },
+  {
+    "bbox": [
+      1482,
+      2163,
+      1646,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

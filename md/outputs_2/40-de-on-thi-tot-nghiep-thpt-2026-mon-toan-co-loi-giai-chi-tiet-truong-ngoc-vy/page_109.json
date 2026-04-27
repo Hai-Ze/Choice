@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      220,
+      95,
+      1345,
+      458
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>1/e</td><td>1</td><td>e<sup>2</sup></td></tr><tr><td>f'(x)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>f(x)</td><td>-e-1/e</td><td>-1</td><td>2-e<sup>2</sup></td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      479,
+      1491,
+      639
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên dễ dàng thấy trên đoạn $\\left[\\frac{1}{e};e^2\\right]$ giá trị nhỏ nhất không phải là $-1$ mà là $2-e^2$ tại $x = e^2$"
+  },
+  {
+    "bbox": [
+      75,
+      658,
+      1004,
+      708
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$, $B(-2;1;1)$"
+  },
+  {
+    "bbox": [
+      75,
+      734,
+      843,
+      822
+    ],
+    "category": "Text",
+    "text": "a) **Điểm** $I\\left(-\\frac{1}{2};\\frac{3}{2};2\\right)$ là trung điểm của đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      75,
+      847,
+      229,
+      885
+    ],
+    "category": "Text",
+    "text": "b) $AB = 4$."
+  },
+  {
+    "bbox": [
+      75,
+      908,
+      1207,
+      1004
+    ],
+    "category": "Text",
+    "text": "c) Phương trình mặt cầu đường kính $AB$ là $(S):\\left(x+\\frac{1}{2}\\right)^2 + \\left(y-\\frac{3}{2}\\right)^2 + (z-2)^2 = 14$."
+  },
+  {
+    "bbox": [
+      75,
+      1028,
+      1487,
+      1148
+    ],
+    "category": "Text",
+    "text": "d) Xét các điểm $M$ thuộc mặt phẳng $(Oxz)$ thỏa mãn $\\widehat{AMB} = 90^\\circ$. Giá trị nhỏ nhất của đoạn $OM$ không vượt quá 1."
+  },
+  {
+    "bbox": [
+      727,
+      1167,
+      843,
+      1206
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1221,
+      893,
+      1343
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1402,
+      716,
+      1451
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Gọi $I(x; y; z)$ là trung điểm của $AB$."
+  },
+  {
+    "bbox": [
+      75,
+      1476,
+      398,
+      1745
+    ],
+    "category": "Text",
+    "text": "Ta có:\n$$ \\begin{cases} x = \\frac{1-2}{2} = -\\frac{1}{2} \\\\ y = \\frac{2+1}{2} = \\frac{3}{2} \\\\ z = \\frac{3+1}{2} = 2 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      75,
+      1770,
+      862,
+      1859
+    ],
+    "category": "Text",
+    "text": "Nên điểm $I\\left(-\\frac{1}{2};\\frac{3}{2};2\\right)$ là trung điểm của đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      75,
+      1884,
+      468,
+      1937
+    ],
+    "category": "Text",
+    "text": "b) $AB = \\sqrt{3^2 + 1^2 + 2^2} = \\sqrt{14}$."
+  },
+  {
+    "bbox": [
+      75,
+      1958,
+      1487,
+      2053
+    ],
+    "category": "Text",
+    "text": "c) Мặt cầu đường kính $AB$ nhận trung điểm $I\\left(-\\frac{1}{2};\\frac{3}{2};2\\right)$ của $AB$ làm tâm và bán kính $R = \\frac{AB}{2} = \\frac{\\sqrt{14}}{2}$."
+  },
+  {
+    "bbox": [
+      75,
+      2082,
+      1152,
+      2177
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt cầu đường kính $AB$ là $(S):\\left(x+\\frac{1}{2}\\right)^2 + \\left(y-\\frac{3}{2}\\right)^2 + (z-2)^2 = \\frac{7}{2}$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

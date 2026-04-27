@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      152,
+      75,
+      1575,
+      207
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một hội nghị quốc tế có 12 đại biểu đến từ ba đoàn, đoàn Việt Nam có 5 người, đoàn Nhật Bản có 4 người và đoàn Hàn Quốc có 3 người, trong mỗi đoàn đều có 1 trưởng đoàn. Công ty tổ chức cần sắp xếp 12 đại biểu ngồi trên một hàng ghế dài có 12 chỗ ngồi, thỏa mãn các yêu cầu:"
+  },
+  {
+    "bbox": [
+      152,
+      202,
+      1332,
+      249
+    ],
+    "category": "Text",
+    "text": "+ Các đại biểu cùng quốc tịch phải ngồi cạnh nhau, tạo thành một nhóm liên tiếp."
+  },
+  {
+    "bbox": [
+      152,
+      245,
+      863,
+      290
+    ],
+    "category": "Text",
+    "text": "+ Không có hai trưởng đoàn nào ngồi cạnh nhau."
+  },
+  {
+    "bbox": [
+      152,
+      290,
+      1380,
+      371
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là tổng số cách sắp xếp thỏa mãn các yêu cầu trên, giá trị $\\frac{N}{24}$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      152,
+      371,
+      1575,
+      632
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Công ty tài chính X chuẩn bị giải ngân cho một dự án đầu tư. Để thẩm định lại toàn bộ hồ sơ một cách minh bạch nhất, Ban giám đốc quyết định thành lập một \"Hội đồng Kiểm toán đặc biệt\" bằng cách chọn ngẫu nhiên 6 người từ danh sách 12 chuyên gia. Trong 12 chuyên gia này có đúng 2 cặp汉 vợ chồng. Để đảm bảo tính khách quan, quy chế yêu cầu hội đồng được chọn không chứa bất kỳ cặp汉 vợ chồng nào. Gọi $p$ là xác suất để hội đồng được chọn thỏa mãn quy chế, giá trị của $1980p$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      152,
+      632,
+      1545,
+      802
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một hợp tác xã nông nghiệp dự định sử dụng một khu nhà màng có diện tích tối đa là $750 \\, m^2$ để trồng hai loại nông sản giá trị cao: Dưa lưới và Cà chua bi. Hợp tác xã đang cân nhắc việc phân bổ diện tích trồng sao cho thu được lợi nhuận cao nhất, dựa trên các điều kiện thực tế sau:"
+  },
+  {
+    "bbox": [
+      152,
+      800,
+      1566,
+      890
+    ],
+    "category": "Text",
+    "text": "+ Về nhân công: Để chăm sóc $100 \\, m^2$ dưa lưới trong một vụ cần 20 ngày công; đối với cà chua bi là 30 ngày công. Hợp tác xã chỉ có thể huy động tối đa 180 ngày công cho vụ夏季 này."
+  },
+  {
+    "bbox": [
+      152,
+      885,
+      1561,
+      974
+    ],
+    "category": "Text",
+    "text": "+ Về vốn đầu tư (giống, vật tư): Chi phí đầu tư cho $100 \\, m^2$ dưa lưới là 30 triệu đồng; cho cà chua bi là 20 triệu đồng. Tổng số vốn hợp tác xã có thể giải ngân tối đa là 210 triệu đồng."
+  },
+  {
+    "bbox": [
+      152,
+      969,
+      1558,
+      1057
+    ],
+    "category": "Text",
+    "text": "+ Về lợi nhuận dự kiến: Sau khi thu hoạch, mỗi $100 \\, m^2$ dưa lưới mang lại mức lợi nhuận 50 triệu đồng, và mỗi $100 \\, m^2$ cà chua bi mang lại 40 triệu đồng."
+  },
+  {
+    "bbox": [
+      152,
+      1051,
+      1558,
+      1140
+    ],
+    "category": "Text",
+    "text": "Ban chủ nhiệm hợp tác xã cần quyết định diện tích trồng mỗi loại nông sản để tổng lợi nhuận thu được là lớn nhất, lợi nhuận lớn nhất đó là bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      152,
+      1135,
+      1533,
+      1279
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Công ty vận tải biển X cần tính toán tốc độ di chuyển tối ưu cho một tàu hàng chạy trên tuyến đường biển dài $S(km)$ để tiếtni量 nhiên liệu nhất. Theo thông số kỹ thuật, tổng lượng nhiên liệu tiêu hao của tàu bao gồm hai phần:"
+  },
+  {
+    "bbox": [
+      152,
+      1274,
+      1488,
+      1362
+    ],
+    "category": "Text",
+    "text": "+ Phần tiêu hao cho hệ thống điện và sinh hoạt cố định theo thời gian: Tiêu thụ đều đặn 650 lít/giờ."
+  },
+  {
+    "bbox": [
+      152,
+      1357,
+      1521,
+      1492
+    ],
+    "category": "Text",
+    "text": "+ Phần tiêu hao cho động cơ đẩy (chi phí vận hành theo quăng đường): Do lực cản của nước, lượng nhiên liệu động cơ tiêu thụ trên mỗi km tỷ lệ thuận với bình phương vận tốc của tàu. Cụ thể, hàm tiêu thụ là $0,05v^2$ lít/km (với $v$ là vận tốc của tàu, tính bằng km/h, $v > 0$)."
+  },
+  {
+    "bbox": [
+      152,
+      1492,
+      1539,
+      1581
+    ],
+    "category": "Text",
+    "text": "Thuyền trưởng cần điều剂kiển tàu chạy với vận tốc $v$ bằng bao nhiêu km/h để tổng lượng nhiên liệu tiêu hao trên toàn bộ chuyển đi là thấp nhất? (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      742,
+      1576,
+      982,
+      1618
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      317,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 9122"
+  },
+  {
+    "bbox": [
+      1439,
+      2236,
+      1573,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/4"
+  }
+]

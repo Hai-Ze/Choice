@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      156,
+      131,
+      377,
+      210
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b}).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      222,
+      1547,
+      308
+    ],
+    "category": "Text",
+    "text": "## Part II. Câu trắc nghiệm đúng sai\nThí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      156,
+      330,
+      1547,
+      503
+    ],
+    "category": "Text",
+    "text": "### 1. bài 1. Đại dịch cúm hàng năm vừa bắt đầu ở Việt Nam. Từ những báo cáo đầu tiên nhận được, các nhà dịch tế học tại trung tâm kiểm soát dịch bệnh đã mô hình hóa hàm dự báo số người mắc bệnh bằng công thức $N(t) = (6t - t^2)e^{t-6}$ ($t \\ge 0$), trong đó $t$ tính bằng tuần kể từ lúc có ca bệnh đầu tiên, $N(t)$ là số người mắc bệnh tính bằng triệu người."
+  },
+  {
+    "bbox": [
+      193,
+      524,
+      693,
+      563
+    ],
+    "category": "List-item",
+    "text": "a. Dịch bệnh kéo dài trong 6 tuần."
+  },
+  {
+    "bbox": [
+      193,
+      581,
+      1506,
+      623
+    ],
+    "category": "List-item",
+    "text": "b. Tốc độ lây lan dịch bệnh được xác định bởi $N'(t) = (8t - t^2 + 6)e^{t-6}$ (nghìn người/tuần)."
+  },
+  {
+    "bbox": [
+      193,
+      640,
+      1547,
+      725
+    ],
+    "category": "List-item",
+    "text": "c. Số người mắc bệnh cúm lớn nhất bằng 1,87 triệu người (làm tròn kết quả đến hàng phần trăm của triệu người)."
+  },
+  {
+    "bbox": [
+      193,
+      742,
+      1547,
+      826
+    ],
+    "category": "List-item",
+    "text": "d. Tốc độ lây lan dịch bệnh lớn nhất vào một thời điểm nằm trong tuần thứ 4 kể từ lúc có ca bệnh đầu tiên."
+  },
+  {
+    "bbox": [
+      156,
+      845,
+      198,
+      882
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      843,
+      608,
+      906
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      156,
+      906,
+      1105,
+      1034
+    ],
+    "category": "Text",
+    "text": "Dịch bệnh hết khi không còn người mắc bệnh tức $N(t) = 0$ ($t \\ne 0$)\n$\\Leftrightarrow (6t - t^2)e^{t-6} = 0 \\Leftrightarrow 6t - t^2 = 0 \\Leftrightarrow t(6 - t) = 0 \\Leftrightarrow t = 6$.\nVậy dịch bệnh kéo dài trong 6 tuần."
+  },
+  {
+    "bbox": [
+      203,
+      1057,
+      312,
+      1096
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      156,
+      1100,
+      775,
+      1139
+    ],
+    "category": "Text",
+    "text": "Tốc độ lây lan dịch bệnh được xác định bởi"
+  },
+  {
+    "bbox": [
+      156,
+      1143,
+      726,
+      1363
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nN'(t) &= (6t - t^2)'e^{t-6} + (6t - t^2)(e^{t-6})' \\\\\n&= (6 - 2t)e^{t-6} + (6t - t^2) \\cdot e^{t-6} \\cdot (t - 6)' \\\\\n&= (6 - 2t)e^{t-6} + (6t - t^2) \\cdot e^{t-6} \\cdot 1 \\\\\n&= e^{t-6}(6 - 2t + 6t - t^2) \\\\\n&= e^{t-6}(-t^2 + 4t + 6) \\text{ (triệu người/tuần).}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1384,
+      347,
+      1423
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      156,
+      1425,
+      1547,
+      1512
+    ],
+    "category": "Text",
+    "text": "Để tìm ra số người mắc bệnh cúm lớn nhất, ta đi tìm giá trị lớn nhất của hàm số $N(t)$ trên đoạn $[0; 6]$."
+  },
+  {
+    "bbox": [
+      156,
+      1516,
+      635,
+      1824
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } N'(t) &= 0 \\\\\n\\Leftrightarrow e^{t-6}(-t^2 + 4t + 6) &= 0 \\\\\n\\Leftrightarrow -t^2 + 4t + 6 &= 0 \\\\\n\\Leftrightarrow \\begin{cases} t = 2 + \\sqrt{10} \\in [0; 6] & (tm) \\\\ t = 2 - \\sqrt{10} \\notin [0; 6] & (L) \\end{cases} \\\\\nN(0) &= N(6) = 0; \\\\\nN(2 + \\sqrt{10}) &\\approx 1,87 \\text{ (triệu người).}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1829,
+      1016,
+      1869
+    ],
+    "category": "Text",
+    "text": "Vậy số người mắc bệnh cúm lớn nhất bằng 1,87 triệu người."
+  },
+  {
+    "bbox": [
+      203,
+      1890,
+      312,
+      1929
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      156,
+      1931,
+      1547,
+      2019
+    ],
+    "category": "Text",
+    "text": "Để tìm ra tốc độ lây lan lớn nhất, ta đi tìm giá trị lớn nhất của hàm số $f(t) = N'(t) = e^{t-6}(-t^2 + 4t + 6)$ trên đoạn $[0; 6]$."
+  },
+  {
+    "bbox": [
+      156,
+      2019,
+      804,
+      2197
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } f'(t) &= [e^{t-6}(-t^2 + 4t + 6)]' \\\\\n&= (e^{t-6})'(-t^2 + 4t + 6) + e^{t-6}(-t^2 + 4t + 6)' \\\\\n&= e^{t-6} \\cdot (t - 6)'(-t^2 + 4t + 6) + e^{t-6}(-2t + 4) \\\\\n&= e^{t-6}(-t^2 + 4t + 6) + e^{t-6}(-2t + 4)\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2255,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2251,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "137"
+  }
+]

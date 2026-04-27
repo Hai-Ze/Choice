@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      214,
+      111,
+      686,
+      528
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      547,
+      303,
+      583
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      212,
+      588,
+      875,
+      634
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài trục lớn bằng } 10m \\Rightarrow 2a = 10 \\Leftrightarrow a = 5.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      638,
+      877,
+      683
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài trục nhỏ bằng } 8m \\text{ nên } 2b = 8 \\Leftrightarrow b = 4.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      688,
+      762,
+      741
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Tiêu cự: } 2c = 2\\sqrt{a^2 - b^2} = 6 \\Leftrightarrow c = 3\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      747,
+      1388,
+      842
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Phương trình chính tắc của elip là: } \\frac{x^2}{25} + \\frac{y^2}{16} = 1 \\Leftrightarrow y^2 = 16\\left(1 - \\frac{x^2}{25}\\right) = \\frac{16}{25}(25 - x^2)\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      854,
+      498,
+      934
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = \\pm \\frac{4}{5}\\sqrt{25 - x^2}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      941,
+      650,
+      985
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow$ Diện tích phần lát gạch là:"
+  },
+  {
+    "bbox": [
+      217,
+      988,
+      749,
+      1073
+    ],
+    "category": "Formula",
+    "text": "$$\nS = 2\\int_{3}^{5} \\frac{4}{5}\\sqrt{25 - x^2}dx - \\frac{\\pi \\cdot 1^2}{2} \\approx 7,38 (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1080,
+      805,
+      1124
+    ],
+    "category": "Text",
+    "text": "Vậy diện tích phần lát gạch là: $S \\approx 7,38$."
+  },
+  {
+    "bbox": [
+      74,
+      1128,
+      1576,
+      1281
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thang vuông tại $A$ và $B$, $SA$ vuông góc với mặt phẳng $(ABCD)$ và $AB = BC = 2$, $AD = 6$, $SA = 2\\sqrt{3}$. Tính khoảng cách từ $A$ đến mặt phẳng $(SCD)$. (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      1290,
+      953,
+      1332
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1335,
+      403,
+      1377
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2,12"
+  },
+  {
+    "bbox": [
+      212,
+      1377,
+      902,
+      1929
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1940,
+      668,
+      1980
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là điểm thỏa mãn $CI // AB$."
+  },
+  {
+    "bbox": [
+      212,
+      1992,
+      984,
+      2036
+    ],
+    "category": "Text",
+    "text": "Khi đó $ABCI$ là hình vuông cạnh 2. Suy ra $CI \\perp AD$."
+  },
+  {
+    "bbox": [
+      212,
+      2046,
+      594,
+      2092
+    ],
+    "category": "Text",
+    "text": "Hạ $AE \\perp CD$; $AK \\perp SE$ (1)"
+  },
+  {
+    "bbox": [
+      212,
+      2110,
+      1125,
+      2157
+    ],
+    "category": "Text",
+    "text": "Do $DE \\perp AE$; $DE \\perp SA$ nên suy ra $DE \\perp (SAE) \\Rightarrow DE \\perp AK$ (2)"
+  },
+  {
+    "bbox": [
+      212,
+      2171,
+      1028,
+      2219
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2) suy ra $AF \\perp (SCD)$ hay $d(A, (SCD)) = AK$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

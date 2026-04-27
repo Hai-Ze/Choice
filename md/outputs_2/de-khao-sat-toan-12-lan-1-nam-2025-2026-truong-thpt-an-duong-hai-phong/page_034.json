@@ -1,0 +1,100 @@
+[
+  {
+    "bbox": [
+      678,
+      98,
+      1140,
+      447
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      852,
+      842,
+      966,
+      879
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      269,
+      903,
+      464,
+      941
+    ],
+    "category": "Text",
+    "text": "Đáp án : 46,9"
+  },
+  {
+    "bbox": [
+      565,
+      962,
+      1248,
+      1487
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      269,
+      1506,
+      626,
+      1547
+    ],
+    "category": "Text",
+    "text": "Đặt các điểm như hình vẽ."
+  },
+  {
+    "bbox": [
+      269,
+      1572,
+      1407,
+      1654
+    ],
+    "category": "Text",
+    "text": "Đặt $DF = x$, $x > 0$, ta có $\\Delta ADF$ đồng dạng với $\\Delta BED$ nên $\\frac{EB}{ED} = \\frac{AF}{DF} \\Rightarrow EB = \\frac{ab}{x}$"
+  },
+  {
+    "bbox": [
+      269,
+      1683,
+      1304,
+      1777
+    ],
+    "category": "Text",
+    "text": "Gọi $l$ là chiều dài của que sào, ta có $l^2 = AB^2 = (x+b)^2 + \\left(a+\\frac{ab}{x}\\right)^2 = f(x)$."
+  },
+  {
+    "bbox": [
+      269,
+      1810,
+      1527,
+      1904
+    ],
+    "category": "Text",
+    "text": "Đạo hàm: $f'(x) = 2(x+b) - 2\\frac{ab}{x^2}\\left(a+\\frac{ab}{x}\\right) = 2(x+b)\\left(1-\\frac{a^2b}{x^3}\\right)$; $f'(x) = 0 \\Leftrightarrow x = \\sqrt[3]{a^2b} = 18$."
+  },
+  {
+    "bbox": [
+      269,
+      1922,
+      908,
+      1969
+    ],
+    "category": "Text",
+    "text": "Dễ dàng suy ra được $\\min f(x) = f(18) = 2197$"
+  },
+  {
+    "bbox": [
+      269,
+      2002,
+      1115,
+      2052
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của que sào là $l = \\sqrt{2197} = 13\\sqrt{13} \\approx 46,9$."
+  }
+]

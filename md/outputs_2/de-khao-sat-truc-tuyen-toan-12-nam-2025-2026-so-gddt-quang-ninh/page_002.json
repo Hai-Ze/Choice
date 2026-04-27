@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      814,
+      50,
+      834,
+      81
+    ],
+    "category": "Page-header",
+    "text": "2"
+  },
+  {
+    "bbox": [
+      115,
+      125,
+      859,
+      173
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Heo nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      252,
+      206,
+      555,
+      251
+    ],
+    "category": "Formula",
+    "text": "A. $F(x) = 2025^x + C$."
+  },
+  {
+    "bbox": [
+      901,
+      186,
+      1247,
+      277
+    ],
+    "category": "Formula",
+    "text": "B. $F(x) = \\frac{2025^x}{\\ln(2025)} + C$."
+  },
+  {
+    "bbox": [
+      252,
+      286,
+      630,
+      332
+    ],
+    "category": "Formula",
+    "text": "C. $F(x) = 2025 \\cdot 2024^x + C$."
+  },
+  {
+    "bbox": [
+      901,
+      286,
+      1196,
+      332
+    ],
+    "category": "Formula",
+    "text": "D. $F(x) = 2025x + C$."
+  },
+  {
+    "bbox": [
+      115,
+      351,
+      1533,
+      430
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Kết quả kiểm tra điểm môn Toán của học sinh lớp 12A1 được cho bởi mẫu số liệu ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      317,
+      430,
+      1332,
+      530
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm điểm</td><td>[0;2)</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td></tr><tr><td>Tần số</td><td>4</td><td>5</td><td>6</td><td>25</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      252,
+      544,
+      1226,
+      589
+    ],
+    "category": "Text",
+    "text": "Trung vị của mẫu số liệu ghép nhóm trên thuộc vào nhóm nào dưới đây?"
+  },
+  {
+    "bbox": [
+      252,
+      618,
+      381,
+      663
+    ],
+    "category": "Formula",
+    "text": "A. $[6;8)$."
+  },
+  {
+    "bbox": [
+      587,
+      618,
+      712,
+      663
+    ],
+    "category": "Formula",
+    "text": "B. $[2;4)$."
+  },
+  {
+    "bbox": [
+      901,
+      618,
+      1032,
+      663
+    ],
+    "category": "Formula",
+    "text": "C. $[4;6)$."
+  },
+  {
+    "bbox": [
+      1216,
+      618,
+      1354,
+      663
+    ],
+    "category": "Formula",
+    "text": "D. $[8;10)$."
+  },
+  {
+    "bbox": [
+      115,
+      688,
+      1085,
+      735
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Trong không gian $Oxyz$, mặt phẳng $(Oxz)$ có phương trình là"
+  },
+  {
+    "bbox": [
+      252,
+      746,
+      381,
+      783
+    ],
+    "category": "Formula",
+    "text": "A. $y = 0$."
+  },
+  {
+    "bbox": [
+      587,
+      746,
+      712,
+      783
+    ],
+    "category": "Formula",
+    "text": "B. $z = 0$."
+  },
+  {
+    "bbox": [
+      901,
+      746,
+      1032,
+      783
+    ],
+    "category": "Formula",
+    "text": "C. $x = 0$."
+  },
+  {
+    "bbox": [
+      1216,
+      746,
+      1440,
+      783
+    ],
+    "category": "Formula",
+    "text": "D. $x + y + z = 0$."
+  },
+  {
+    "bbox": [
+      115,
+      808,
+      1533,
+      932
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Trong không gian $Oxyz$, cho đường thẳng $d: \\frac{x-2}{1} = \\frac{y-1}{-2} = \\frac{z+1}{3}$.úp đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      252,
+      936,
+      427,
+      981
+    ],
+    "category": "Formula",
+    "text": "A. $Q(2;1;1)$."
+  },
+  {
+    "bbox": [
+      587,
+      936,
+      772,
+      981
+    ],
+    "category": "Formula",
+    "text": "B. $M(1;2;3)$."
+  },
+  {
+    "bbox": [
+      901,
+      936,
+      1094,
+      981
+    ],
+    "category": "Formula",
+    "text": "C. $P(2;1;-1)$."
+  },
+  {
+    "bbox": [
+      1216,
+      936,
+      1419,
+      981
+    ],
+    "category": "Formula",
+    "text": "D. $N(1;-2;3)$."
+  },
+  {
+    "bbox": [
+      115,
+      1004,
+      1529,
+      1096
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Trong không gian $Oxyz$, phương trình mặt cầu $(S)$ tâm $I(-2;1;0)$ và có đường kính bằng 8 là"
+  },
+  {
+    "bbox": [
+      252,
+      1102,
+      712,
+      1154
+    ],
+    "category": "Formula",
+    "text": "A. $(S): (x+2)^2 + (y-1)^2 + z^2 = 8$."
+  },
+  {
+    "bbox": [
+      901,
+      1102,
+      1375,
+      1154
+    ],
+    "category": "Formula",
+    "text": "B. $(S): (x+2)^2 + (y-1)^2 + z^2 = 16$."
+  },
+  {
+    "bbox": [
+      252,
+      1162,
+      731,
+      1214
+    ],
+    "category": "Formula",
+    "text": "C. $(S): (x-2)^2 + (y+1)^2 + z^2 = 64$."
+  },
+  {
+    "bbox": [
+      901,
+      1162,
+      1375,
+      1214
+    ],
+    "category": "Formula",
+    "text": "D. $(S): (x+2)^2 + (y-1)^2 + z^2 = 64$."
+  },
+  {
+    "bbox": [
+      115,
+      1226,
+      1533,
+      1314
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      115,
+      1322,
+      740,
+      1407
+    ],
+    "category": "Text",
+    "text": "**Câu 13:** Cho hàm số $y = f(x) = \\frac{x^2 - x - 12}{x - 2}$."
+  },
+  {
+    "bbox": [
+      252,
+      1415,
+      828,
+      1465
+    ],
+    "category": "Text",
+    "text": "a) Đồ thị hàm số $f(x)$ đi qua điểm $(4;0)$."
+  },
+  {
+    "bbox": [
+      252,
+      1506,
+      1235,
+      1555
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $f(x)$ có đường tiệm cận xiên là đường thẳng $y = x - 1$."
+  },
+  {
+    "bbox": [
+      252,
+      1596,
+      1015,
+      1645
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số $f(x)$ có tâm đối xứng là điểm $I(2;3)$."
+  },
+  {
+    "bbox": [
+      252,
+      1686,
+      1512,
+      1787
+    ],
+    "category": "Text",
+    "text": "d) Phương trình đường tiếp tuyến của đồ thị hàm số $f(x)$ tại điểm $x = 3$ có dạng $y = mx + n$, giá trị $m - n$ bằng 50."
+  },
+  {
+    "bbox": [
+      115,
+      1816,
+      1533,
+      2088
+    ],
+    "category": "Text",
+    "text": "**Câu 14:** Trong một nhà máy, tốc độ tiêu thụ điện năng của một dây chuyền sản xuất sau khi khởi động có xu hướng giảm dần theo thời gian và tiến về mức ổn định. Giả sử sau khi bắt đầu vận hành được $t$ giờ, tốc độ tiêu thụ điện năng của dây chuyền sản xuất này được mô hình bởi hàm số $E'(t) = A + e^{-0,4t}$ (đơn vị: kWh/giờ) ($0 \\le t \\le 8$), trong đó $E(t)$ (kWh) là lượng điện năng tiêu thụ tính từ lúc bắt đầu vận hành. Biết rằng trong 8 giờ đầu tiên, dây chuyền đã tiêu thụ tổng cộng 120 kWh."
+  }
+]

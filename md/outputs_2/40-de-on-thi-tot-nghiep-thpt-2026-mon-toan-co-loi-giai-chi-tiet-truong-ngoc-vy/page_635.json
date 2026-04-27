@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1494,
+      194
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      628,
+      269
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x) = (x^2 - 2)e^{2x}$."
+  },
+  {
+    "bbox": [
+      76,
+      296,
+      564,
+      350
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = -2; f(\\ln 2) = 4(\\ln^2 2 - 2)$."
+  },
+  {
+    "bbox": [
+      76,
+      376,
+      832,
+      430
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = (x^2 + x - 2)e^{2x}$"
+  },
+  {
+    "bbox": [
+      76,
+      452,
+      790,
+      497
+    ],
+    "category": "Formula",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ là 1."
+  },
+  {
+    "bbox": [
+      76,
+      521,
+      928,
+      572
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của hàm số đã cho trên đoạn $[-1; 2]$ là $-e^{-2}$."
+  },
+  {
+    "bbox": [
+      727,
+      597,
+      843,
+      635
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      650,
+      894,
+      772
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      832,
+      968,
+      888
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = (0^2 - 2)e^{2 \\cdot 0} = -2; f(\\ln 2) = (\\ln^2 2 - 2)e^{2 \\ln 2} = 4(\\ln^2 2 - 2)$."
+  },
+  {
+    "bbox": [
+      76,
+      912,
+      1135,
+      969
+    ],
+    "category": "Formula",
+    "text": "b) Ta có: $f(x) = (x^2 - 2)e^{2x} \\Rightarrow f'(x) = 2(x^2 - 2)e^{2x} + 2xe^{2x} = 2(x^2 + x - 2)e^{2x}$"
+  },
+  {
+    "bbox": [
+      76,
+      993,
+      963,
+      1102
+    ],
+    "category": "Formula",
+    "text": "c) $f'(x) = 0 \\Leftrightarrow 2(x^2 + x - 2)e^{2x} = 0 \\Leftrightarrow \\begin{cases} e^{2x} = 0 \\text{ (voly)} \\\\ x^2 + x - 2 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = -2 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      76,
+      1125,
+      907,
+      1171
+    ],
+    "category": "Formula",
+    "text": "Vậy tổng các nghiệm của phương trình $f'(x) = 0$ là $1 - 2 = -1$"
+  },
+  {
+    "bbox": [
+      76,
+      1192,
+      751,
+      1242
+    ],
+    "category": "Formula",
+    "text": "d) Hàm số đã cho xác định và liên tục trên $[-1; 2]$."
+  },
+  {
+    "bbox": [
+      82,
+      1268,
+      478,
+      1379
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\begin{cases} x = 1 \\in [-1; 2] \\\\ x = -2 \\notin [-1; 2] \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1403,
+      646,
+      1453
+    ],
+    "category": "Formula",
+    "text": "Và $f(-1) = -e^{-2}; f(2) = 2e^4; f(1) = -e^2$"
+  },
+  {
+    "bbox": [
+      76,
+      1478,
+      1212,
+      1534
+    ],
+    "category": "Formula",
+    "text": "Giá trị nhỏ nhất của hàm số $f(x) = (x^2 - 2)e^{2x}$ trên đoạn $[-1; 2]$ bằng $-e^2$ tại $x = 1$."
+  },
+  {
+    "bbox": [
+      76,
+      1555,
+      1494,
+      1894
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một chất điểm $A$ xuất phát từ $O$, chuyển động thẳng với vận tốc biến thiên theo thời gian bởi quy luật $v(t) = \\frac{1}{100}t^2 + \\frac{13}{30}t$ ($m/s$), trong đó $t$ (giây) khoảng thời gian tính từ lúc $A$ bắt đầu chuyển động. Từ trạng thái nghỉ, một chất điểm $B$ cũng xuất phát từ $O$, chuyển động thẳng cùng hướng với $A$ nhưng chậm hơn 10 giây so với $A$ và có gia tốc $a$ ($m/s^2$) ($a$ là hằng số). Sau khi $B$ xuất phát được 15 giây thì đổi kịp $A$."
+  },
+  {
+    "bbox": [
+      76,
+      1911,
+      1494,
+      2026
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của chất điểm $B$ là $v_B(t) = at$ trong đó $t$ (giây) khoảng thời gian tính từ lúc $B$ bắt đầu chuyển động."
+  },
+  {
+    "bbox": [
+      76,
+      2041,
+      957,
+      2086
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chất điểm $A$ đi được trong 10 giây đầu là $25m$."
+  },
+  {
+    "bbox": [
+      76,
+      2110,
+      974,
+      2192
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chất điểm $B$ đi được trong 15 giây đầu là $\\frac{225}{2}m$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

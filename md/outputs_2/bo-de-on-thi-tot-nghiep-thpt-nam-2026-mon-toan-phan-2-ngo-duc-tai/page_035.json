@@ -1,0 +1,209 @@
+[
+  {
+    "bbox": [
+      193,
+      51,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      51,
+      858,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      54,
+      1448,
+      96
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      241,
+      156,
+      911,
+      204
+    ],
+    "category": "List-item",
+    "text": "- Gọi $B$ là biến cố: “Bộ phận thứ hai hỏng”."
+  },
+  {
+    "bbox": [
+      241,
+      236,
+      939,
+      282
+    ],
+    "category": "List-item",
+    "text": "- Gọi $H$ là biến cố: “Mạch không hoạt động”."
+  },
+  {
+    "bbox": [
+      223,
+      315,
+      507,
+      355
+    ],
+    "category": "Formula",
+    "text": "a) $P(AB) = 0,921$."
+  },
+  {
+    "bbox": [
+      223,
+      365,
+      909,
+      414
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(H|A) = P(H|B)$."
+  },
+  {
+    "bbox": [
+      223,
+      420,
+      918,
+      467
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất để mạch background làm việc là 0,068."
+  },
+  {
+    "bbox": [
+      223,
+      471,
+      1448,
+      653
+    ],
+    "category": "List-item",
+    "text": "d) Ở một thời điểm trong khoảng thời gian trên người ta thấy mạch điện background làm việc (do bộ phận nào đó hỏng). Xác suất để chỉ bộ phận thứ hai hỏng là $\\frac{19}{69}$."
+  },
+  {
+    "bbox": [
+      193,
+      663,
+      305,
+      700
+    ],
+    "category": "Section-header",
+    "text": "Câu 3."
+  },
+  {
+    "bbox": [
+      193,
+      714,
+      1137,
+      1110
+    ],
+    "category": "Text",
+    "text": "Mặt cắt ngang của một ống dẫn nước nóng là hình vành khuyến như hình vẽ. Bán kính ngoài là $r$ cm và bán kính trong là 2 cm ($r > 2$). Bên trong ống, nhiệt độ nước được duy trì ở mức 100°C. Bên trong kim loại, nhiệt độ giảm dần từ bên trong ra bên ngoài. Biết rằng nhiệt độ $T$ (°C) tại điểm $A$ trên thành ống là hàm số của khoảng cách $x$ (cm) từ $A$ đến tâm của mặt cắt và thoả mãn $T'(x) = -\\frac{10}{x}$, với $2 \\le x \\le r$."
+  },
+  {
+    "bbox": [
+      1157,
+      716,
+      1448,
+      1008
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1225,
+      1031,
+      1377,
+      1070
+    ],
+    "category": "Caption",
+    "text": "Mặt cắt ống"
+  },
+  {
+    "bbox": [
+      223,
+      1124,
+      836,
+      1170
+    ],
+    "category": "Formula",
+    "text": "a) $T(x) = -10 \\ln x + C$ với $C$ là hằng số."
+  },
+  {
+    "bbox": [
+      223,
+      1170,
+      589,
+      1246
+    ],
+    "category": "Formula",
+    "text": "b) $T(x) = 100 - 10 \\ln \\frac{x}{2}$."
+  },
+  {
+    "bbox": [
+      223,
+      1242,
+      1448,
+      1342
+    ],
+    "category": "List-item",
+    "text": "c) Nếu bán kính ngoài là $r = 4$ cm thì nhiệt độ bề mặt ngoài của ống là 93,1°C (kết quả làm tròn đến hàng phần trăm của °C)."
+  },
+  {
+    "bbox": [
+      223,
+      1344,
+      1448,
+      1498
+    ],
+    "category": "List-item",
+    "text": "d) Để nhiệt độ bề mặt ngoài của ống không vượt quá 90°C thì nên thiết kế ống với bán kính ngoài tối thiểu là 5,5 cm (làm tròn kết quả đến hàng phần mười của cm)."
+  },
+  {
+    "bbox": [
+      193,
+      1520,
+      1455,
+      1729
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trên một sường đồi, người ta trồng một trụ điện và muốn giữ nó thẳng đứng bằng hai sợi dây neo $AC$ và $BC$. Hai sợi dây này được kéo căng thành hai đoạn thẳng có chung điểm $C$ trên trụ điện và hai đầu $A, B$ được neo trên sường đồi (tham khảo hình minh họa)."
+  },
+  {
+    "bbox": [
+      565,
+      1746,
+      1080,
+      2187
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 34"
+  }
+]

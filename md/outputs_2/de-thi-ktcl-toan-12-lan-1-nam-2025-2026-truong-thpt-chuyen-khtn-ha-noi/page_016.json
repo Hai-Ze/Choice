@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      762,
+      161
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ Oxy như hình vẽ."
+  },
+  {
+    "bbox": [
+      251,
+      198,
+      1154,
+      248
+    ],
+    "category": "Text",
+    "text": "Viết phương trình parabol $(P_1)$ đi qua đỉnh $I(0;30)$ và $A(30;-30)$"
+  },
+  {
+    "bbox": [
+      255,
+      288,
+      557,
+      335
+    ],
+    "category": "Formula",
+    "text": "$$\n(P_1): y = ax^2 + bx + c.\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      376,
+      797,
+      423
+    ],
+    "category": "Formula",
+    "text": "$$\nI(0;30) \\in (P_1) \\Rightarrow c = 30 \\Rightarrow y = ax^2 + 30\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      466,
+      603,
+      548
+    ],
+    "category": "Formula",
+    "text": "$$\nx_I = 0 \\Rightarrow \\frac{-b}{2a} = 0 \\Rightarrow b = 0\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      588,
+      1251,
+      671
+    ],
+    "category": "Formula",
+    "text": "$$\nA(30;-30) \\in (P_1) \\Rightarrow 30^2 \\cdot a + 30 = -30 \\Leftrightarrow a = \\frac{-1}{15} \\Rightarrow (P_1): y = \\frac{-1}{15}x^2 + 30.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      709,
+      594,
+      754
+    ],
+    "category": "Text",
+    "text": "Gọi hàm chi phí là: $C(x)$"
+  },
+  {
+    "bbox": [
+      255,
+      797,
+      818,
+      883
+    ],
+    "category": "Formula",
+    "text": "$$\nM \\in (P_1) \\Rightarrow M \\left( x_1; \\frac{-1}{15}x_1^2 + 30 \\right) \\quad 0 \\le x_1 \\le 30\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      925,
+      1217,
+      1012
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Chiều rộng của HCN là: } 2x_1. \\text{Chiều dài của HCN là: } 2 \\cdot \\left( \\frac{-1}{15}x_1^2 + 30 \\right)\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1053,
+      610,
+      1140
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow S_{hcn} = 4x_1 \\cdot \\left( \\frac{-1}{15}x_1^2 + 30 \\right)\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1181,
+      1359,
+      1233
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow C(x) = 8 \\cdot S_{hcn} + 20 \\cdot (S_{vuong} - S_{hcn}) = 8 \\cdot S_{hcn} + 20 \\cdot (3600 - S_{hcn}) = -12S_{hcn} + 72000\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1275,
+      1308,
+      1362
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow C(x) = -48x_1 \\left( \\frac{-1}{15}x_1^2 + 30 \\right) + 72000 = \\frac{16}{5}x_1^3 - 1440x_1 + 72000 \\quad (0 \\le x_1 \\le 30)\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1374,
+      965,
+      1490
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow C'(x) = \\frac{48}{5}x_1^2 - 1440 = 0 \\Leftrightarrow \\begin{cases} x_1 = 5\\sqrt{6} \\in [0;30] \\\\ x_1 = -5\\sqrt{6} \\notin [0;30] \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1528,
+      908,
+      1589
+    ],
+    "category": "Formula",
+    "text": "$$\nC(5\\sqrt{6}) \\approx 60242,4 \\text{ (đồng)} \\approx 60,2 \\text{ (nghìn đồng)}\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1627,
+      897,
+      1677
+    ],
+    "category": "Formula",
+    "text": "$$\nC(30) = 115200 \\text{ (đồng), } C(0) = 72000 \\text{ (đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1713,
+      1328,
+      1759
+    ],
+    "category": "Text",
+    "text": "Vậy chi phí nguyên liệu thấp nhất để sản xuất một viên gạch là 60,2 nghìn đồng."
+  },
+  {
+    "bbox": [
+      113,
+      1787,
+      1535,
+      2008
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Một công ty năng lượng đang xây dựng một bể chứa khí thiên nhiên hóa lỏng (LNG) có dạng hình cầu với bán kính 20 mét. Để đảm bảo an toàn và dễ dàng trong việc lắp đặt hệ thống đường ống, phần đáy và phần đỉnh của bể được cắt phẳng. Phần đáy bị cắt bởi một mặt phẳng cách tâm bể 18 mét, phần đỉnh bị cắt bởi một mặt phẳng cách tâm 15 mét (tâm nằm giữa hai mặt phẳng). Hỏi thể tích bể đó là bao nhiêu nghìn mét khối? (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      251,
+      2037,
+      413,
+      2079
+    ],
+    "category": "Text",
+    "text": "Đáp số: 32."
+  },
+  {
+    "bbox": [
+      836,
+      2085,
+      950,
+      2124
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

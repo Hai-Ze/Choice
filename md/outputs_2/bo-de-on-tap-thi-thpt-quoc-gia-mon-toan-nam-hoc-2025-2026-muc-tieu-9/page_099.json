@@ -1,0 +1,229 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1548,
+      270
+    ],
+    "category": "Text",
+    "text": "(ppm), với $t \\ge 0$ (Khi nói nồng độ khí CO₂ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí CO₂). Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      202,
+      288,
+      1158,
+      332
+    ],
+    "category": "Text",
+    "text": "a) Nồng độ khí CO₂ trong phòng tại thời điểm $t = 0$ là 400 (ppm)."
+  },
+  {
+    "bbox": [
+      202,
+      346,
+      668,
+      402
+    ],
+    "category": "Text",
+    "text": "b) $f'(t) = \\frac{-2000t^2-10000}{(t^2+5)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      202,
+      417,
+      871,
+      458
+    ],
+    "category": "Text",
+    "text": "c) Nghiệm của phương trình $f'(t) = 0$ là $t = 2$."
+  },
+  {
+    "bbox": [
+      153,
+      477,
+      1548,
+      564
+    ],
+    "category": "Text",
+    "text": "d) Nồng độ khí CO₂ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 947 (ppm)."
+  },
+  {
+    "bbox": [
+      153,
+      579,
+      199,
+      622
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      579,
+      603,
+      642
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      638,
+      1377,
+      689
+    ],
+    "category": "Text",
+    "text": "Nồng độ khí CO₂ trong phòng tại thời điểm $t = 0$ là $f(0) = 400 + \\frac{2000 \\cdot 0}{0^2+5} = 400$ (ppm)."
+  },
+  {
+    "bbox": [
+      202,
+      702,
+      306,
+      742
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      740,
+      931,
+      797
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(t) = \\frac{2000(t^2+5)-2000t \\cdot 2t}{(t^2+5)^2} = \\frac{-2000t^2+10000}{(t^2+5)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      202,
+      809,
+      302,
+      847
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      847,
+      1165,
+      893
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(t) = 0 \\Rightarrow -2000t^2 + 10000 = 0 \\Leftrightarrow t^2 = 5 \\Leftrightarrow t = \\sqrt{5}$ (do $t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      153,
+      893,
+      871,
+      938
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm của phương trình $f'(t) = 0$ là $t = \\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      202,
+      958,
+      306,
+      997
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      1001,
+      1001,
+      1044
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên của hàm số $f(t)$ trên $[0; +\\infty)$ ta được:"
+  },
+  {
+    "bbox": [
+      525,
+      1049,
+      1169,
+      1378
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$t$</td><td>0</td><td>$\\sqrt{5}$</td><td>$+\\infty$</td></tr><tr><td>$f'(t)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(t)$</td><td>400</td><td>847</td><td>400</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1395,
+      1176,
+      1442
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, ta được $\\max_{[0;+\\infty)} f(t) = f(\\sqrt{5}) \\approx 847$ (ppm)."
+  },
+  {
+    "bbox": [
+      153,
+      1459,
+      1548,
+      1546
+    ],
+    "category": "Text",
+    "text": "Khi đó nồng độ khí CO₂ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 847 (ppm)."
+  },
+  {
+    "bbox": [
+      153,
+      1568,
+      191,
+      1605
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      1566,
+      1548,
+      1696
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một đồ lưu niệm bằng thủy tinh có chiều cao bằng 14 (cm), được thiết kế gồm hai phần, phần dưới là một khối lập phương cạnh bằng 8 (cm) và phần trên là một phần của khối cầu có đường kính bằng 8 (cm) (được mô hình hóa bởi hình vẽ bên cạnh)."
+  },
+  {
+    "bbox": [
+      496,
+      1700,
+      1192,
+      2159
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "99"
+  }
+]

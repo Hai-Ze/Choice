@@ -1,0 +1,176 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      75,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      123,
+      1555,
+      200
+    ],
+    "category": "Text",
+    "text": "**Can**: Xác định Can của năm, bằng cách lấy số cuối của năm Dương lịch, sau đó đối chiếu với bảng sau:"
+  },
+  {
+    "bbox": [
+      486,
+      222,
+      1512,
+      324
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số quy ước</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>Can</td><td>Canh</td><td>Tân</td><td>Nhâm</td><td>Quý</td><td>Giáp</td><td>Ất</td><td>Bính</td><td>Đinh</td><td>Mâu</td><td>Kỷ</td></tr></table>"
+  },
+  {
+    "bbox": [
+      448,
+      349,
+      1555,
+      426
+    ],
+    "category": "Text",
+    "text": "**Chi**: Xác định Chi của năm, bằng cách lấy năm Dương lịch chia cho 12 tìm số dư và đối chiếu với bảng dưới đây:"
+  },
+  {
+    "bbox": [
+      453,
+      448,
+      1548,
+      548
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quy ước</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>Chi</td><td>Thân</td><td>Dâu</td><td>Tuất</td><td>Hợi</td><td>Tý</td><td>Sửu</td><td>Dần</td><td>Mão</td><td>Thìn</td><td>Tụ</td><td>Ngọ</td><td>Mùi</td></tr></table>"
+  },
+  {
+    "bbox": [
+      448,
+      580,
+      1555,
+      754
+    ],
+    "category": "Text",
+    "text": "Theo gia phả của dòng họ X, tính từ Cụ Ông sinh năm 1300 đến nay, mỗi năm đều có một thành viên mới được ghi tên vào gia phả (được sinh ra hoặc chuyển vào). Chọn bất kì một tên trong gia phả kể từ năm 1300, xác suất để được một người có tuổi Tân Mùi là $\\frac{a}{b}$, trong đó $(a, b) = 1$. Giá trị của $b - a$"
+  },
+  {
+    "bbox": [
+      1333,
+      704,
+      1382,
+      737
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      695,
+      1553,
+      747
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      908,
+      774,
+      948,
+      806
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      967,
+      774,
+      1044,
+      806
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      1062,
+      774,
+      1102,
+      806
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      173,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "36"
+  },
+  {
+    "bbox": [
+      213,
+      2260,
+      426,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  }
+]

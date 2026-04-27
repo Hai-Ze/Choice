@@ -1,0 +1,429 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      75,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      120,
+      1553,
+      201
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Bảng sau biểu diễn mẫu số liệu ghép nhóm về số tiền (đơn vị: nghìn đồng) mà 50 khách hàng mua nước giải khát ở một cửa hàng trong một ngày."
+  },
+  {
+    "bbox": [
+      883,
+      240,
+      1119,
+      582
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Tần số</td></tr></thead><tbody><tr><td>[15; 20)</td><td>4</td></tr><tr><td>[20; 25)</td><td>15</td></tr><tr><td>[25; 30)</td><td>19</td></tr><tr><td>[30; 35)</td><td>7</td></tr><tr><td>[35; 40)</td><td>5</td></tr><tr><td></td><td>n = 50</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      448,
+      622,
+      1146,
+      659
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm đó là"
+  },
+  {
+    "bbox": [
+      477,
+      661,
+      563,
+      702
+    ],
+    "category": "List-item",
+    "text": "(A) 15."
+  },
+  {
+    "bbox": [
+      750,
+      661,
+      821,
+      702
+    ],
+    "category": "List-item",
+    "text": "(B) 5."
+  },
+  {
+    "bbox": [
+      1023,
+      661,
+      1108,
+      702
+    ],
+    "category": "List-item",
+    "text": "(C) 25."
+  },
+  {
+    "bbox": [
+      1295,
+      661,
+      1378,
+      702
+    ],
+    "category": "List-item",
+    "text": "(D) 50."
+  },
+  {
+    "bbox": [
+      448,
+      725,
+      1553,
+      806
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Một silu thị thống kê số tiền (đơn vị: chục nghìn đồng) mà 44 khách hàng mua hàng ở silu thị đó trong một ngày. Số liệu được cho ở Bảng."
+  },
+  {
+    "bbox": [
+      768,
+      845,
+      1233,
+      1236
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Giá trị đại diện</td><td>Tần số</td></tr></thead><tbody><tr><td>[40; 45)</td><td>42,5</td><td>4</td></tr><tr><td>[45; 50)</td><td>47,5</td><td>14</td></tr><tr><td>[50; 55)</td><td>52,5</td><td>8</td></tr><tr><td>[55; 60)</td><td>57,5</td><td>10</td></tr><tr><td>[60; 65)</td><td>62,5</td><td>6</td></tr><tr><td>[65; 70)</td><td>67,5</td><td>2</td></tr><tr><td></td><td></td><td>n = 44</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      448,
+      1276,
+      1553,
+      1347
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm trên (làm tròn kết quả đến hàng phần mười) là"
+  },
+  {
+    "bbox": [
+      477,
+      1351,
+      586,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(A) 53,2."
+  },
+  {
+    "bbox": [
+      750,
+      1351,
+      859,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(B) 46,1."
+  },
+  {
+    "bbox": [
+      1023,
+      1351,
+      1108,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(C) 30."
+  },
+  {
+    "bbox": [
+      1295,
+      1351,
+      1378,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(D) 11."
+  },
+  {
+    "bbox": [
+      448,
+      1417,
+      1553,
+      1494
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Trong không gian $Oxyz$, cho $\\vec{u} = (1; 3; -2)$ và $\\vec{v} = (2; 1; -1)$. Toạ độ véc-tơ $\\vec{u} - \\vec{v}$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1498,
+      652,
+      1539
+    ],
+    "category": "List-item",
+    "text": "(A) $(3; 4; -3)$."
+  },
+  {
+    "bbox": [
+      750,
+      1498,
+      949,
+      1539
+    ],
+    "category": "List-item",
+    "text": "(B) $(-1; 2; -3)$."
+  },
+  {
+    "bbox": [
+      1023,
+      1498,
+      1220,
+      1539
+    ],
+    "category": "List-item",
+    "text": "(C) $(-1; 2; -1)$."
+  },
+  {
+    "bbox": [
+      1295,
+      1498,
+      1472,
+      1539
+    ],
+    "category": "List-item",
+    "text": "(D) $(1; -2; 1)$."
+  },
+  {
+    "bbox": [
+      448,
+      1562,
+      1579,
+      1642
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian $Oxyz$, phương trình của mặt phẳng đi qua điểm $A(3; 0; -1)$ và có véc-tơ pháp tuyến $\\vec{n} = (4; -2; -3)$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1644,
+      812,
+      1685
+    ],
+    "category": "List-item",
+    "text": "(A) $4x - 2y + 3z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      1023,
+      1644,
+      1372,
+      1685
+    ],
+    "category": "List-item",
+    "text": "(B) $4x - 2y - 3z - 15 = 0$."
+  },
+  {
+    "bbox": [
+      477,
+      1687,
+      744,
+      1728
+    ],
+    "category": "List-item",
+    "text": "(C) $3x - z - 15 = 0$."
+  },
+  {
+    "bbox": [
+      1023,
+      1687,
+      1372,
+      1728
+    ],
+    "category": "List-item",
+    "text": "(D) $4x - 2y - 3z + 15 = 0$."
+  },
+  {
+    "bbox": [
+      448,
+      1748,
+      1553,
+      1857
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, đường thẳng $d$: $\\frac{x+3}{1} = \\frac{y-1}{-1} = \\frac{z-5}{2}$ có một véc-tơ chỉ phương là"
+  },
+  {
+    "bbox": [
+      477,
+      1859,
+      734,
+      1900
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{u}_1 = (3; -1; 5)$."
+  },
+  {
+    "bbox": [
+      1023,
+      1859,
+      1302,
+      1900
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{u}_4 = (-1; 1; -2)$."
+  },
+  {
+    "bbox": [
+      477,
+      1902,
+      734,
+      1943
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{u}_2 = (-3; 1; 5)$."
+  },
+  {
+    "bbox": [
+      1023,
+      1902,
+      1302,
+      1943
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{u}_3 = (1; -1; -2)$."
+  },
+  {
+    "bbox": [
+      448,
+      1966,
+      1553,
+      2047
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Trong không gian $Oxyz$, cho mặt cầu $(S)$: $x^2+y^2+z^2-8x+10y-6z+49 = 0$. Tính bán kính $R$ của mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      477,
+      2047,
+      611,
+      2088
+    ],
+    "category": "List-item",
+    "text": "(A) $R = 1$."
+  },
+  {
+    "bbox": [
+      750,
+      2047,
+      885,
+      2088
+    ],
+    "category": "List-item",
+    "text": "(B) $R = 7$."
+  },
+  {
+    "bbox": [
+      1023,
+      2047,
+      1211,
+      2088
+    ],
+    "category": "List-item",
+    "text": "(C) $R = \\sqrt{151}$."
+  },
+  {
+    "bbox": [
+      1295,
+      2047,
+      1472,
+      2088
+    ],
+    "category": "List-item",
+    "text": "(D) $R = \\sqrt{99}$."
+  },
+  {
+    "bbox": [
+      448,
+      2112,
+      1172,
+      2166
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      2178,
+      1375,
+      2255
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{dx + e}$ có bảng biến thiên sau."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "208 Bùi Tịnh Minh Lâm"
+  }
+]

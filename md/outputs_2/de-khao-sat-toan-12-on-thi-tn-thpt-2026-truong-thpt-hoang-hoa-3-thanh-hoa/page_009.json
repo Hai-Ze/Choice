@@ -1,0 +1,290 @@
+[
+  {
+    "bbox": [
+      914,
+      102,
+      1031,
+      141
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      336,
+      147,
+      449,
+      184
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      197,
+      220,
+      1371,
+      314
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Cho hàm số $y = \\left(\\frac{3}{5}\\right)^{x^2-2x+3}$. Trong các khẳng định sau khẳng định nào đúng?"
+  },
+  {
+    "bbox": [
+      336,
+      322,
+      737,
+      366
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đồng biến trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      989,
+      322,
+      1409,
+      366
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số nghịch biến trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      336,
+      373,
+      910,
+      422
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đồng biến trên khoảng $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      989,
+      373,
+      1561,
+      422
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đồng biến trên khoảng $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      934,
+      437,
+      1047,
+      475
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      336,
+      505,
+      449,
+      542
+    ],
+    "category": "Section-header",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      336,
+      570,
+      630,
+      609
+    ],
+    "category": "Text",
+    "text": "Tập xác định $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      336,
+      638,
+      1082,
+      732
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } y' = (2x-2) \\cdot \\left(\\frac{3}{5}\\right)^{x^2-2x+3} \\cdot \\ln\\left(\\frac{3}{5}\\right) \\Rightarrow y' = 0 \\Leftrightarrow x = 1.\n$$"
+  },
+  {
+    "bbox": [
+      336,
+      762,
+      561,
+      806
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      706,
+      852,
+      1270,
+      1143
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      1192,
+      1047,
+      1286
+    ],
+    "category": "Text",
+    "text": "Do đó hàm số $y = \\left(\\frac{3}{5}\\right)^{x^2-2x+3}$ đồng biến trên $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      197,
+      1315,
+      1328,
+      1360
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình bên?"
+  },
+  {
+    "bbox": [
+      850,
+      1365,
+      1125,
+      1621
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      1652,
+      544,
+      1696
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^3 - 3x$."
+  },
+  {
+    "bbox": [
+      672,
+      1652,
+      896,
+      1696
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x^3 + 3x$."
+  },
+  {
+    "bbox": [
+      989,
+      1652,
+      1211,
+      1696
+    ],
+    "category": "List-item",
+    "text": "C. $y = x^4 - 2x^2$."
+  },
+  {
+    "bbox": [
+      1305,
+      1652,
+      1546,
+      1696
+    ],
+    "category": "List-item",
+    "text": "D. $y = -x^4 + 2x^2$."
+  },
+  {
+    "bbox": [
+      914,
+      1709,
+      1031,
+      1747
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      336,
+      1754,
+      449,
+      1791
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      197,
+      1820,
+      1604,
+      1872
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Trong không gian $Oxyz$, cho hai vecto $\\vec{u} = (1; 2; 0)$ và $\\vec{v} = (-2; 1; 3)$. Tọa độ của vecto $\\vec{u} + \\vec{v}$ là"
+  },
+  {
+    "bbox": [
+      336,
+      1888,
+      528,
+      1932
+    ],
+    "category": "List-item",
+    "text": "A. $(-3; 1; -3)$."
+  },
+  {
+    "bbox": [
+      672,
+      1888,
+      854,
+      1932
+    ],
+    "category": "List-item",
+    "text": "B. $(-2; 2; 0)$."
+  },
+  {
+    "bbox": [
+      989,
+      1888,
+      1139,
+      1932
+    ],
+    "category": "List-item",
+    "text": "C. $(1; 3; 3)$."
+  },
+  {
+    "bbox": [
+      1305,
+      1888,
+      1485,
+      1932
+    ],
+    "category": "List-item",
+    "text": "D. $(-1; 3; 3)$."
+  },
+  {
+    "bbox": [
+      914,
+      1948,
+      1031,
+      1986
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      336,
+      1993,
+      449,
+      2030
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      96,
+      414,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      155,
+      843,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      241,
+      252
+    ],
+    "category": "Text",
+    "text": "Đáp án: 40"
+  },
+  {
+    "bbox": [
+      76,
+      265,
+      1494,
+      370
+    ],
+    "category": "Text",
+    "text": "+ Để đi hết các con đường (ngắn nhất) thì du khách chỉ có thể xuất phát từ B và kết thúc tại C hoặc xuất phát từ C và kết thúc tại B (do đồ thị chỉ có 2 level này bậc lẻ)."
+  },
+  {
+    "bbox": [
+      76,
+      381,
+      1494,
+      485
+    ],
+    "category": "Text",
+    "text": "+ Yêu cầu bài toán lúc này trở thành: Tìm đường đi ngắn nhất để trở về điểm xuất phát, suy ra cần đi: $B \\to E \\to C$ hoặc $C \\to E \\to B$, tuy nhiên nó đều có khoảng cách bằng $8km$."
+  },
+  {
+    "bbox": [
+      76,
+      498,
+      841,
+      544
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất có độ dài là: $32+8 = 40km$."
+  },
+  {
+    "bbox": [
+      76,
+      558,
+      1494,
+      957
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục tọa độ $Oxyz$, mỗi đơn vị trên hệ trục ứng với 10 km, trạm kiểm soát không lưu đang theo dõi hai máy bay. máy bay thứ nhất ban đầu ở tọa độ $A(25;-10;1)$ và bay theo hướng vecto $\\vec{v}_1 = (-3;-4;0)$ với tốc độ không đổi là 750 km/h. máy bay thứ hai ban đầu ở tọa độ $B(30;-25;1,1)$ và bay theo hướng vecto $\\vec{v}_2 = (-4;3;0)$ với tốc độ không đổi là 900 km/h. trên máy bay thứ nhất có gắn radar tránh va chạm với bán kính hoạt động là 50 km. Hỏi thời gian máy bay thứ hai xuất hiện trên màn hình của radar máy bay thứ nhất là bao nhiêu phút (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      406,
+      976,
+      1128,
+      1368
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1396,
+      414,
+      1432
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1455,
+      843,
+      1493
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1512,
+      266,
+      1551
+    ],
+    "category": "Text",
+    "text": "Đáp án: 4,91"
+  },
+  {
+    "bbox": [
+      76,
+      1576,
+      567,
+      1639
+    ],
+    "category": "Text",
+    "text": "Máy bay 1: $\\vec{v}_1 = (-3;-4;0) \\Rightarrow |\\vec{v}_1| = 5$"
+  },
+  {
+    "bbox": [
+      76,
+      1662,
+      1098,
+      1751
+    ],
+    "category": "Text",
+    "text": "Vecto chỉ phương của máy bay 1 là $\\left(-\\frac{3.750}{5};-\\frac{4.750}{5};0\\right) = (-450;-600;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      1776,
+      567,
+      1839
+    ],
+    "category": "Text",
+    "text": "Máy bay 2: $\\vec{v}_2 = (-4;3;0) \\Rightarrow |\\vec{v}_2| = 5$."
+  },
+  {
+    "bbox": [
+      76,
+      1864,
+      1059,
+      1953
+    ],
+    "category": "Text",
+    "text": "Vecto chỉ phương của máy bay 2 là $\\left(-\\frac{4.900}{5};\\frac{3.900}{5};0\\right) = (-720;540;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      1979,
+      864,
+      2128
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng máy bay 1 là $\\begin{cases} x = 250 - 450t \\\\ y = -100 - 600t \\\\ z = 10 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

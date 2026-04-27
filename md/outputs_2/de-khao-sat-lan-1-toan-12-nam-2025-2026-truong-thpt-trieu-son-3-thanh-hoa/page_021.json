@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      836,
+      121,
+      951,
+      158
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      158,
+      782,
+      205
+    ],
+    "category": "Text",
+    "text": "a) $f'(x) = 3x^2 - 3$. Suy raoormenh đề sai."
+  },
+  {
+    "bbox": [
+      252,
+      214,
+      692,
+      260
+    ],
+    "category": "Text",
+    "text": "b) $f'(x) = 3x^2 - 3 = 0 \\Leftrightarrow x = \\pm 1$."
+  },
+  {
+    "bbox": [
+      252,
+      265,
+      475,
+      307
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      267,
+      332,
+      1025,
+      602
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      604,
+      1336,
+      652
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của $f(x)$ trên khoảng $(-1; +\\infty)$ bằng 0. Suy raoormenh đề đúng."
+  },
+  {
+    "bbox": [
+      252,
+      658,
+      1082,
+      707
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đồng biến trên khoảng $(-\\infty; 1)$, suy raoormenh đề sai."
+  },
+  {
+    "bbox": [
+      252,
+      716,
+      1308,
+      779
+    ],
+    "category": "Text",
+    "text": "d)Điểm cực đại là $A(-1; 4) \\Rightarrow OA = \\sqrt{(-1)^2 + 4^2} = \\sqrt{17}$. Suy raoormenh đề đúng."
+  },
+  {
+    "bbox": [
+      114,
+      784,
+      1534,
+      958
+    ],
+    "category": "Text",
+    "text": "Câu 2: Trong không gian chọn hệ trục tọa độ $Oxyz$ cho trước, trong đó xem mặt phẳng ($Oxy$) là mặt đất, mỗi đơn vị trên trục tương ứng với 1 km, một ra đa được đặt tại vị trí gốc tọa độ $O$ phát hiện một máy bay chiến đấu di chuyển với vận tốc và hướng không đổi từ điểm $M(500; 200; 10)$ đến điểm $N(200; 700; 10)$ trong 40 phút."
+  },
+  {
+    "bbox": [
+      252,
+      960,
+      1268,
+      1004
+    ],
+    "category": "Text",
+    "text": "a) [1] máy bay chiến đấu khi bay từ $M$ đến $N$ luôn cách mặt đất là 20 km."
+  },
+  {
+    "bbox": [
+      252,
+      1004,
+      773,
+      1054
+    ],
+    "category": "Text",
+    "text": "b) [1] Khoảng cách $MN = 100\\sqrt{34}$ km."
+  },
+  {
+    "bbox": [
+      252,
+      1058,
+      1534,
+      1162
+    ],
+    "category": "Text",
+    "text": "c) [2] Góc $\\widehat{MON}$ được gọi là góc quét của ra đa khi quan sát máy bay chiến đấu bay từ $M$ đến $N$. Trong tình huống trên góc quét $\\widehat{MON}$ nhỏ hơn $60^\\circ$."
+  },
+  {
+    "bbox": [
+      252,
+      1160,
+      1534,
+      1243
+    ],
+    "category": "Text",
+    "text": "d) [3] Khi đến $N$ máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 8 phút tiếp theo là $Q(a; b; c)$ với $a + b + c = 870$."
+  },
+  {
+    "bbox": [
+      836,
+      1250,
+      951,
+      1287
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1288,
+      344,
+      1324
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      252,
+      1328,
+      1329,
+      1381
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\overline{MN}(-300; 500; 0)$, nên $MN = \\sqrt{(-300)^2 + 500^2} = 100\\sqrt{34}$ nên b) đúng."
+  },
+  {
+    "bbox": [
+      252,
+      1389,
+      1424,
+      1544
+    ],
+    "category": "Text",
+    "text": "c) Ta có $\\cos \\widehat{MON} = \\frac{\\overline{OM} \\cdot \\overline{ON}}{\\overline{OM} \\cdot \\overline{ON}} = \\frac{500 \\cdot 200 + 200 \\cdot 700 + 10 \\cdot 10}{\\sqrt{500^2 + 200^2 + 10^2} \\cdot \\sqrt{200^2 + 700^2 + 10^2}} \\approx 0,61 > \\cos 60^\\circ$\ndo đó nên $\\widehat{MON} < 60^\\circ$. vậy c) đúng."
+  },
+  {
+    "bbox": [
+      252,
+      1542,
+      1534,
+      1672
+    ],
+    "category": "Text",
+    "text": "d) Nếu tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 4 phút tiếp theo là $Q(a; b; c)$, và có tỉ lệ $\\frac{MN}{NQ} = \\frac{40}{8} = 5 \\Rightarrow MN = 5NQ \\Rightarrow \\overline{MN} = 5\\overline{NQ}$"
+  },
+  {
+    "bbox": [
+      252,
+      1676,
+      988,
+      1942
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\begin{cases} a - 200 = \\frac{1}{5} \\cdot (-300) \\\\ b - 700 = \\frac{1}{5} \\cdot 500 \\\\ c - 10 = \\frac{1}{5} \\cdot 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = 140 \\\\ b = 800 \\\\ c = 10 \\end{cases} \\Rightarrow Q(140; 800; 10).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1950,
+      885,
+      1988
+    ],
+    "category": "Text",
+    "text": "Vậy $a + b + c = 140 + 800 + 10 = 950$ nên d) sai."
+  },
+  {
+    "bbox": [
+      114,
+      1988,
+      755,
+      2036
+    ],
+    "category": "Text",
+    "text": "Câu 3: Xét hàm số $f(x) = x + \\cos x$ trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      252,
+      2040,
+      958,
+      2085
+    ],
+    "category": "Text",
+    "text": "a) [1] Đạo hàm của hàm số $f(x)$ là $f'(x) = 1 - \\sin x$."
+  },
+  {
+    "bbox": [
+      252,
+      2093,
+      1247,
+      2179
+    ],
+    "category": "Text",
+    "text": "b) [1] Hàm số $F(x) = \\frac{x^2}{2} - \\sin x + 5$ là một nguyên hàm của hàm số $f(x)$."
+  }
+]

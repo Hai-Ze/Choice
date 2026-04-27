@@ -1,0 +1,257 @@
+[
+  {
+    "bbox": [
+      152,
+      142,
+      191,
+      178
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      142,
+      1548,
+      314
+    ],
+    "category": "Text",
+    "text": "Bài 2. Người ta trang trí một bảng ô vuông $4 \\times 4$ bởi các state sao và các bông hoa giống nhau. Mỗi ô vuông nhỏ được dán một state sao hoặc một bông hoa, sao cho trong mỗi hàng hoặc mỗi cột của bảng ô vuông đều có 2 state sao và 2 bông hoa. Có tất cả bao nhiêu cách trang trí bảng ô vuông thỏa mãn yêu cầu trên?"
+  },
+  {
+    "bbox": [
+      152,
+      332,
+      197,
+      368
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      330,
+      445,
+      392
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      564,
+      399,
+      820,
+      656
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      645,
+      681,
+      740,
+      710
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      879,
+      399,
+      1134,
+      656
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      960,
+      681,
+      1054,
+      710
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      152,
+      751,
+      1548,
+      882
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 2 vị trí đặt state sao trong 4 ô của một hàng là $C_4^2 = 6$ cách. Gọi 6 cách sắp xếp này là các vectơ hàng. Ta có thể chia chúng thành 3 cặp vectơ đối nhau (tổng mỗi cặp là một hàng toàn sao):"
+  },
+  {
+    "bbox": [
+      195,
+      903,
+      725,
+      944
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Cặp 1: } A = \\{(1, 1, 0, 0), (0, 0, 1, 1)\\}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      962,
+      725,
+      1003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Cặp 2: } B = \\{(1, 0, 1, 0), (0, 1, 0, 1)\\}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1020,
+      725,
+      1061
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Cặp 3: } C = \\{(1, 0, 0, 1), (0, 1, 1, 0)\\}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1078,
+      1548,
+      1166
+    ],
+    "category": "Text",
+    "text": "Để mỗi cột có đúng 2 state sao, tổng của 4 vectơ hàng phải bằng $(2, 2, 2, 2)$. Điều này xảy ra trong hai trường hợp:"
+  },
+  {
+    "bbox": [
+      205,
+      1186,
+      1138,
+      1227
+    ],
+    "category": "Text",
+    "text": "Trường hợp 1: Sử dụng một cặp đối nhau, mỗi vectơ lặp lại 2 lần."
+  },
+  {
+    "bbox": [
+      195,
+      1247,
+      809,
+      1288
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Chọn 1 trong 3 cặp đối nhau: có 3 cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1303,
+      1548,
+      1386
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Với mỗi cặp đã chọn, số cách sắp xếp 4 hàng (gồm 2 hàng loại này, 2 hàng loại kia) là } \\frac{4!}{2!2!} = 6 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1406,
+      593,
+      1446
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Số cách: } 3 \\times 6 = 18 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1467,
+      1406,
+      1509
+    ],
+    "category": "Text",
+    "text": "Trường hợp 2: Sử dụng hai cặp đối nhau khác nhau, mỗi vectơ xuất hiện đúng 1 lần."
+  },
+  {
+    "bbox": [
+      195,
+      1528,
+      890,
+      1571
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Chọn 2 trong 3 cặp đối nhau: có } C_3^2 = 3 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1588,
+      1437,
+      1629
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Với mỗi bộ 4 vectơ hàng khác nhau đã chọn, số cách sắp xếp thứ tự là } 4! = 24 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1646,
+      611,
+      1687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Số cách: } 3 \\times 24 = 72 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1706,
+      1233,
+      1747
+    ],
+    "category": "Text",
+    "text": "Vậy tổng số cách trang trí bảng thỏa mãn yêu cầu là $18 + 72 = 90$ cách."
+  },
+  {
+    "bbox": [
+      152,
+      1774,
+      191,
+      1805
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1768,
+      1548,
+      2164
+    ],
+    "category": "Text",
+    "text": "Bài 3. Sau khi một loại thuốc kháng sinh được tiêm vào cơ thể thì nồng độ của thuốc trong 血u sẽ giảm dần theo thời gian do quá trình chuyển hóa. Nồng độ thuốc trong 血u sau $t$ giờ kể từ khi tiêm được mô hình hóa bởi công thức $C(t) = C_0 \\cdot e^{-rt}$ (mg/lít). Trong đó $C_0$ là nồng độ thuốc trong 血u ngay sau khi tiêm, $r$ là hằng số dương đo tốc độ phân hủy của thuốc, $e \\approx 2,718$. Biết rằng ngay sau khi tiêm, nồng độ thuốc trong 血u là 15 mg/lít và sau đó 4 giờ nồng độ thuốc giảm còn 10 mg/lít. Để đạt hiệu quả điều trị, bác sĩ sẽ tiêm lại một liều mới khi nồng độ thuốc trong 血u của bệnh nhân giảm xuống và còn ít nhất 6 mg/lít. Theo mô hình trên, để đạt hiệu quả điều trị thì khoảng thời gian nhiều nhất giữa hai lần tiêm thuốc là bao nhiêu giờ (kết quả làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "172"
+  },
+  {
+    "bbox": [
+      828,
+      2255,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "bbox": [
+      74,
+      52,
+      491,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ Đề Ôn Thi Đại Học – Đề 1 đến 15"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1541,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      921,
+      161
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số $y = f(x)$ đạt giá trị cực tiểu bằng $m$."
+  },
+  {
+    "bbox": [
+      212,
+      171,
+      933,
+      223
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số $y = f(x)$ đạt giá trị nhỏ nhất bằng $m$."
+  },
+  {
+    "bbox": [
+      212,
+      233,
+      915,
+      283
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số $y = f(x)$ đạt giá trị cực đại bằng $m$."
+  },
+  {
+    "bbox": [
+      74,
+      294,
+      705,
+      338
+    ],
+    "category": "List-item",
+    "text": "Câu 8. Đạo hàm của hàm số $y = \\cos x$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      349,
+      402,
+      389
+    ],
+    "category": "List-item",
+    "text": "A. $y' = \\sin x$."
+  },
+  {
+    "bbox": [
+      549,
+      349,
+      760,
+      389
+    ],
+    "category": "List-item",
+    "text": "B. $y' = -\\sin x$."
+  },
+  {
+    "bbox": [
+      862,
+      349,
+      1054,
+      389
+    ],
+    "category": "List-item",
+    "text": "C. $y' = \\cos x$."
+  },
+  {
+    "bbox": [
+      1174,
+      349,
+      1392,
+      389
+    ],
+    "category": "List-item",
+    "text": "D. $y' = -\\cos x$."
+  },
+  {
+    "bbox": [
+      74,
+      395,
+      1572,
+      487
+    ],
+    "category": "List-item",
+    "text": "Câu 9. Xét mẫu số liệu ghép nhóm cho bởi Bảng 1. Số trung bình cộng của mẫu số liệu ghép nhóm đó bằng:"
+  },
+  {
+    "bbox": [
+      498,
+      494,
+      1137,
+      775
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Giá trị đại diện</td><td>Tần số</td></tr></thead><tbody><tr><td>$[a_1; a_2)$</td><td>$x_1$</td><td>$n_1$</td></tr><tr><td>$[a_2; a_3)$</td><td>$x_2$</td><td>$n_2$</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>$[a_m; a_{m+1})$</td><td>$x_m$</td><td>$n_m$</td></tr><tr><td></td><td></td><td>$n$</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      774,
+      783,
+      873,
+      825
+    ],
+    "category": "Caption",
+    "text": "Bảng 1"
+  },
+  {
+    "bbox": [
+      212,
+      827,
+      655,
+      926
+    ],
+    "category": "List-item",
+    "text": "A. $\\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{m}}$."
+  },
+  {
+    "bbox": [
+      862,
+      827,
+      1301,
+      926
+    ],
+    "category": "List-item",
+    "text": "B. $\\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{n}}$."
+  },
+  {
+    "bbox": [
+      212,
+      940,
+      623,
+      1020
+    ],
+    "category": "List-item",
+    "text": "C. $\\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{m}$."
+  },
+  {
+    "bbox": [
+      862,
+      940,
+      1276,
+      1020
+    ],
+    "category": "List-item",
+    "text": "D. $\\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{n}$."
+  },
+  {
+    "bbox": [
+      74,
+      1027,
+      1574,
+      1131
+    ],
+    "category": "List-item",
+    "text": "Câu 10. Cho các biến cố $A$ và $B$ thỏa mãn $P(A)>0, P(B)>0$. Khi đó, $P(A|B)$ bằng biểu thức nào dưới đây?"
+  },
+  {
+    "bbox": [
+      212,
+      1133,
+      490,
+      1234
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{P(A) \\cdot P(B|A)}{P(B)}$."
+  },
+  {
+    "bbox": [
+      549,
+      1133,
+      819,
+      1234
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{P(B) \\cdot P(B|A)}{P(A)}$."
+  },
+  {
+    "bbox": [
+      862,
+      1133,
+      1137,
+      1234
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{P(B)}{P(A) \\cdot P(B|A)}$."
+  },
+  {
+    "bbox": [
+      1174,
+      1133,
+      1448,
+      1234
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{P(A)}{P(B) \\cdot P(B|A)}$."
+  },
+  {
+    "bbox": [
+      74,
+      1244,
+      1574,
+      1387
+    ],
+    "category": "List-item",
+    "text": "Câu 11. Độ cao các bậc cầu thang so với mặt sàn tầng 1 của một căn nhà theo thứ tự lập thành một cấp số cộng với công sai $d = 16\\text{cm}$, bậc thứ nhất có độ cao $u_1 = 16\\text{cm}$. Bạc thứ năm có độ cao so với mặt sàn tầng 1 bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1391,
+      351,
+      1426
+    ],
+    "category": "List-item",
+    "text": "A. $21\\text{cm}$."
+  },
+  {
+    "bbox": [
+      549,
+      1391,
+      688,
+      1426
+    ],
+    "category": "List-item",
+    "text": "B. $80\\text{cm}$."
+  },
+  {
+    "bbox": [
+      862,
+      1391,
+      1001,
+      1426
+    ],
+    "category": "List-item",
+    "text": "C. $96\\text{cm}$."
+  },
+  {
+    "bbox": [
+      1174,
+      1391,
+      1313,
+      1426
+    ],
+    "category": "List-item",
+    "text": "D. $64\\text{cm}$."
+  },
+  {
+    "bbox": [
+      74,
+      1439,
+      1574,
+      1535
+    ],
+    "category": "List-item",
+    "text": "Câu 12. Một đồ chơi có dạng khối chóp cụt tức giác đều với độ dài hai cạnh đáy lần lượt là $2\\text{cm}$ và $12\\text{cm}$, chiều cao là $18\\text{cm}$. Thế tích của đồ chơi đó bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1547,
+      402,
+      1586
+    ],
+    "category": "List-item",
+    "text": "A. $9288\\text{cm}^3$."
+  },
+  {
+    "bbox": [
+      549,
+      1547,
+      726,
+      1586
+    ],
+    "category": "List-item",
+    "text": "B. $1048\\text{cm}^3$."
+  },
+  {
+    "bbox": [
+      862,
+      1547,
+      1042,
+      1586
+    ],
+    "category": "List-item",
+    "text": "C. $3096\\text{cm}^3$."
+  },
+  {
+    "bbox": [
+      1174,
+      1547,
+      1355,
+      1586
+    ],
+    "category": "List-item",
+    "text": "D. $1032\\text{cm}^3$."
+  },
+  {
+    "bbox": [
+      74,
+      1593,
+      789,
+      1644
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Câu trắc nghiệm chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      1644,
+      1015,
+      1690
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Trong không gian tọa độ $Oxyz$, cho hai đường thẳng:"
+  },
+  {
+    "bbox": [
+      218,
+      1700,
+      928,
+      1783
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Delta_1 : \\frac{x-1}{2} = \\frac{y-2}{1} = \\frac{z-3}{-2} \\text{ và } \\Delta_2 : \\frac{x-4}{-1} = \\frac{y-5}{-2} = \\frac{z-6}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1789,
+      1071,
+      1839
+    ],
+    "category": "List-item",
+    "text": "a) Vecto có tọa độ $(1;2;3)$ là một vecto chỉ phương của $\\Delta_1$."
+  },
+  {
+    "bbox": [
+      212,
+      1849,
+      1081,
+      1900
+    ],
+    "category": "List-item",
+    "text": "b) Vecto có tọa độ $(4;5;6)$ là một vecto chỉ phương của $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      212,
+      1914,
+      1210,
+      1994
+    ],
+    "category": "List-item",
+    "text": "c) Côsin góc giữa hai vecto $\\vec{u}_1 = (2;1;-2)$ và $\\vec{u}_2 = (-1;-2;2)$ bằng $-\\frac{8}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      2002,
+      1569,
+      2050
+    ],
+    "category": "List-item",
+    "text": "d) Góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$ (làm tròn kết quả đến hàng đơn vị của độ) bằng $132^\\circ$."
+  },
+  {
+    "bbox": [
+      74,
+      2058,
+      633,
+      2103
+    ],
+    "category": "List-item",
+    "text": "Câu 2. Cho hàm số $y = x^3 - 3x^2 + 2$."
+  },
+  {
+    "bbox": [
+      212,
+      2115,
+      905,
+      2160
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm số đã cho là: $y' = 3x^2 - 6x$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      737,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1520,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 36 -"
+  }
+]

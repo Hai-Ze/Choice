@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      146,
+      71,
+      1586,
+      159
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một nhóm nghiên cứu quan sát sự phát triển của một whần thể vi khuẩn trong môi trường nuôi cấy hạn chế."
+  },
+  {
+    "bbox": [
+      146,
+      165,
+      1586,
+      263
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 1 (từ $t = 0$ đến $t = 3$ giờ): Số lượng vi khuẩn tăng trưởng theo hàm mũ $N(t) = 50e^{0,8t}$ (với $t$ tính bằng giờ, $N$ tính bằng triệu cá thể)."
+  },
+  {
+    "bbox": [
+      146,
+      263,
+      1586,
+      359
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 2 (sau 3 giờ): Do nguồn dinh dưỡng cạn kiệt, tốc độ tăng trưởng giảm dần. Từ thời điểm này, số lượng vi khuẩn lúc này tuân theo hàm số $M(t) = A - Be^{-0,6t}$."
+  },
+  {
+    "bbox": [
+      196,
+      363,
+      1024,
+      409
+    ],
+    "category": "Text",
+    "text": "a) Số lượng vi khuẩn tại thời điểm bắt đầu là 50 triệu cá thể."
+  },
+  {
+    "bbox": [
+      196,
+      409,
+      1336,
+      455
+    ],
+    "category": "Text",
+    "text": "b) Tốc độ tăng trưởng của vi khuẩn tại thời điểm $t = 3$ lớn hơn 440 triệu cá thể/giờ."
+  },
+  {
+    "bbox": [
+      196,
+      462,
+      478,
+      545
+    ],
+    "category": "Text",
+    "text": "c) Giá trị $B = \\frac{200}{3}$."
+  },
+  {
+    "bbox": [
+      196,
+      549,
+      1586,
+      641
+    ],
+    "category": "Text",
+    "text": "d) Số lượng vi khuẩn tối đa (ngưỡng bão hòa) mà môi trường này có thể duy trì 1285 triệu cá thể (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      146,
+      647,
+      1529,
+      699
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x+1)^2 + (y-2)^2 + (z-1)^2 = 9$ và điểm $A(1;-2;5)$."
+  },
+  {
+    "bbox": [
+      196,
+      707,
+      953,
+      757
+    ],
+    "category": "Text",
+    "text": "a) Mặt cầu $(S)$ có tâm $I(-1;2;-1)$ và bán kính $R = 3$."
+  },
+  {
+    "bbox": [
+      196,
+      763,
+      638,
+      809
+    ],
+    "category": "Text",
+    "text": "b)úp $A$ nằm ngoài mặt cầu."
+  },
+  {
+    "bbox": [
+      196,
+      813,
+      1424,
+      863
+    ],
+    "category": "Text",
+    "text": "c) Phương trình mặt phẳng tiếp xúc với mặt cầu $(S)$ tại $T(-2;0;3)$ là $x+2y-2z+8=0$."
+  },
+  {
+    "bbox": [
+      196,
+      874,
+      1586,
+      977
+    ],
+    "category": "Text",
+    "text": "d) Xét các điểm $M$ thuộc $(S)$ sao cho đường thẳng $AM$ tiếp xúc với $(S)$, điểm $M$ luôn thuộc một mặt phẳng cố định có phương trình là $2x-4y+4z+3=0$."
+  },
+  {
+    "bbox": [
+      146,
+      981,
+      1586,
+      1134
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho đồ thị biểu diễn vận tốc của hai xe A và B khởi hành cùng một lúc, bên cạnh nhau và trên cùng một con đường. Biết đồ thị biểu diễn vận tốc của xe A là $v_A(t)$ ($km/h$) một đường parabol, đồ thị biểu diễn vận tốc của xe B là một đường thẳng $v_B(t)$ ($km/h$) ở hình bên."
+  },
+  {
+    "bbox": [
+      730,
+      1139,
+      995,
+      1385
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      1391,
+      856,
+      1435
+    ],
+    "category": "Text",
+    "text": "a) Phương trình vận tốc của xe B là $v_B(t) = 15t$."
+  },
+  {
+    "bbox": [
+      196,
+      1443,
+      1121,
+      1488
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc lớn nhất của xe A trong 4 giờ đầu di chuyển là $80km/h$."
+  },
+  {
+    "bbox": [
+      196,
+      1492,
+      972,
+      1536
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường xe A đi được trong 3 giờ đầu là $120km$."
+  },
+  {
+    "bbox": [
+      196,
+      1542,
+      1208,
+      1625
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách lớn nhất giữa hai xe trong 4 giờ đầu di chuyển là $\\frac{160}{3}km$."
+  },
+  {
+    "bbox": [
+      146,
+      1629,
+      767,
+      1671
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      146,
+      1681,
+      1586,
+      1827
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình chóp tam giác $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, cạnh bên $SA$ vuông góc với mặt phẳng đáy. Biết $AB = \\sqrt{3}$, $BC = 1$ và $[S,BC,A] = 60^\\circ$. Tan của góc giữa đường thẳng $SC$ và mặt phẳng $(ABC)$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      146,
+      1831,
+      1586,
+      2002
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nhânep Noen, gia đình bạn An cùng nhau trang trí nhà cửa. tại góc phòng khách, bạn An dự kiến để một cây thông Noen ở vị trí M cách haitt cức là $1m$, $2m$. Để cho căn phòng sáng hơn, bạn An sẽ lấp thêm dây đen led $AB$ dưới sàn nhà, đi qua vị trí đặt cây thông, hai đầu dây đen chạm vào tường. Hỏi độ dài dây đen ngắn nhất bạn An cần dùng là bao nhiêu mét? (kết quả làm tròn đến hàng phần chục)."
+  }
+]

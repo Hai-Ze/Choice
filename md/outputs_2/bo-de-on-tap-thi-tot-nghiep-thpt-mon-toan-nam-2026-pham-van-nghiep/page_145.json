@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1174,
+      208
+    ],
+    "category": "Text",
+    "text": "- Why diện tích cần tính là: $S_{CT} = \\int_{0}^{A} B - \\sqrt{1-(x-1)^2} - \\sqrt{x} \\approx 0,66(km^2)$"
+  },
+  {
+    "bbox": [
+      74,
+      212,
+      1575,
+      399
+    ],
+    "category": "List-item",
+    "text": "**Câu 22:** Diền ngẫu nhiên các số 0; 1; 2; 3; 4; 5; 6; 7; 8 vào các ô của một bảng ô vuông kích thước 3x3 sao cho mỗi số được điền vào đúng một ô. Tính xác suất để số 1 được điền vào ô chính giữa, biết rằng tổng của các số hàng dưới cùng là một số lẻ và số 0 được điền vào ô góc trên cùng bên trái của bảng ô vuông. (Kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      787,
+      403,
+      993,
+      612
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      765,
+      632,
+      884,
+      673
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      677,
+      404,
+      718
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,14"
+  },
+  {
+    "bbox": [
+      212,
+      720,
+      1573,
+      809
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố số 1 được điền vào ô chính giữa; $B$ là biến cố tổng của các số trên hàng thứ ba là một số lẻ; $C$ là biến cố số 0 được điền vào ô góc trên cùng bên trái."
+  },
+  {
+    "bbox": [
+      212,
+      812,
+      1355,
+      905
+    ],
+    "category": "Text",
+    "text": "Xác suất tổng 3 số ngẫu nhiên từ tập này là số lẻ là: $P(B|C) = \\frac{C_4^1 \\cdot C_4^2 + C_4^3 \\cdot 1}{C_8^3} = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      212,
+      911,
+      1575,
+      1055
+    ],
+    "category": "Text",
+    "text": "Hàng thứ ba có 3 ô. Các số được điền vào hàng này là 3 số khác nhau từ tập $\\{1,2,3,4,5,6,7,8\\}$ (4 số lẻ, 4 số ch巧). Tổng của 3 số là lẻ khi có (1 số lẻ, 2 số ch巧) hoặc (3 số lẻ, 0 số ch巧)."
+  },
+  {
+    "bbox": [
+      212,
+      1059,
+      1268,
+      1153
+    ],
+    "category": "Text",
+    "text": "Xác suất tổng 3 số ngẫu nhiên từ tập này là số lẻ là: $P(B|AC) = \\frac{C_3^1 \\cdot C_4^2}{C_7^3} = \\frac{19}{35}$"
+  },
+  {
+    "bbox": [
+      212,
+      1159,
+      1368,
+      1239
+    ],
+    "category": "Text",
+    "text": "Xác suất để số 1 điền ở ô chính giữa và số 0 ở góc trên bên trái là: $P(A|C) = \\frac{1}{8}$"
+  },
+  {
+    "bbox": [
+      212,
+      1244,
+      1465,
+      1288
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất số 1 ở giữa và tổng hàng thứ ba là số lẻ khi 0 ở góc trên cùng bên trái là:"
+  },
+  {
+    "bbox": [
+      576,
+      1290,
+      1205,
+      1371
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AB|C) = P(A|C) \\cdot P(B|AC) = \\frac{1}{8} \\cdot \\frac{19}{35} = \\frac{19}{280}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1377,
+      1321,
+      1538
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất cần tìm là: $P(A|BC) = \\frac{P(ABC)}{P(BC)} = \\frac{P(AB|C)}{P(B|C)} = \\frac{\\frac{19}{280}}{\\frac{1}{2}} = \\frac{19}{140} \\approx 0,14$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1521,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 12 -"
+  }
+]

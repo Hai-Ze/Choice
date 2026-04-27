@@ -1,0 +1,244 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      110,
+      117,
+      894,
+      171
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      181,
+      1198,
+      267
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = e^{x^2-x-2}$. Giá trị nhỏ nhất của hàm số trên đoạn $[0; 2]$ có dạng $ae^m$ ($n > 0$). Hãy tính giá trị biểu thức $T = a + m + n$. **KQ:**"
+  },
+  {
+    "bbox": [
+      94,
+      288,
+      1198,
+      366
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Từ năm 2004 đến năm 2019, doanh thu $R(t)$ (triệu đô la) của McDonald's có thể được mô hình hóa bởi:"
+  },
+  {
+    "bbox": [
+      213,
+      395,
+      1080,
+      437
+    ],
+    "category": "Formula",
+    "text": "$$\nR(t) = -130,769t^3 + 2296,47t^2 - 11493,5t + 35493 \\quad (4 \\le t \\le 19),\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      467,
+      1198,
+      581
+    ],
+    "category": "Text",
+    "text": "trong đó $t$ là đại diện cho năm, với $t = 4$ tương ứng với năm 2004. Biết rằng $R'(t)$ là hàm tốc độ doanh thu theo thời gian. Tốc độ thay đổi doanh thu của McDonald's lớn nhất vào năm nào? (Kết quả làm tròn đến hàng đơn vị). **KQ:**"
+  },
+  {
+    "bbox": [
+      94,
+      603,
+      1198,
+      895
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Khi di chuyển, một vận động viên đưa xe motor chịu tác động của 4 lực: trọng lực, phản lực của trọng lực, lực cản của không khí và lực đẩy của động cơ. Lực cản của không khí逆ward hướng với lực đẩy của động cơ và có độ lớn tỉ lệ thuận với bình phương vận tốc xe. Một vận động viên đưa xe tăng vận tốc từ 250 km/h lên 300 km/h. Lực cản của không khí khi xe đạt vận tốc 250 km/h và 300 km/h lần lượt biểu diễn bởi hai vecto $\\vec{F}_1$ và $\\vec{F}_2$ với $\\vec{F}_1 + \\frac{a}{b}\\vec{F}_2 = \\vec{0}$ ($a \\in \\mathbb{Z}, b \\in \\mathbb{N}^*$). Tính giá trị của biểu thức $T = a + b$. **KQ:**"
+  },
+  {
+    "bbox": [
+      94,
+      918,
+      1198,
+      1078
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một chiếc máy bay đang bay trong không gian $Oxyz$, với tọa độ hiện tại là $M(40; 10; 40)$. Đường bay mong muốn của máy bay đi qua hai điểm $A(0; 10; 0)$ và $B(20; 0; 10)$. Hãy tìm khoảng cách ngắn nhất từ vị trí hiện tại của máy bay đến đường bay mong muốn này. (Kết quả làm tròn đến hàng phần mười). **KQ:**"
+  },
+  {
+    "bbox": [
+      94,
+      1107,
+      1198,
+      1221
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Ông An làm lan can ban công của ngôi nhà bằng một miếng kính cường lực. Miếng kính này là một phần của mặt xung quanh của một hình trụ như hình bên dưới."
+  },
+  {
+    "bbox": [
+      458,
+      1247,
+      836,
+      1423
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1446,
+      1198,
+      1580
+    ],
+    "category": "Text",
+    "text": "Biết $AB = 4m$, $\\widehat{AEB} = 150^\\circ$ ($E$ là điểm chính giữa cung $AB$) và $DA = 1,4m$. Giá tiền của $1m^2$ kính là 2.000.000 đồng. Ông An phải trả bao nhiêu triệu đồng? (Kết quả làm tròn đến hàng phần chục). **KQ:**"
+  },
+  {
+    "bbox": [
+      94,
+      1602,
+      1198,
+      1757
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Hai phân xưởng I, II cùng sản xuất một lô áo với số sản phẩm chiếm tỉ lệ lần lượt là 40% và 60%. Thông qua dữ liệu thống kê từ trước, tỉ lệ áo bị lõi của phân xưởng I và II tương ứng là 2% và 3%. Lấy ngẫu nhiên một chiếc áo trong lô hàng. Tính xác suất lấy trúng áo bị lõi. (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      105,
+      1764,
+      156,
+      1797
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      163,
+      1757,
+      325,
+      1808
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      555,
+      1834,
+      594,
+      1864
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      614,
+      1825,
+      691,
+      1864
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      708,
+      1834,
+      747,
+      1864
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      167,
+      1595,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "291"
+  }
+]

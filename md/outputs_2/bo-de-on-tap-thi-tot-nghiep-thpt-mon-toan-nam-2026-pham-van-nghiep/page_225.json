@@ -1,0 +1,512 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      99
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      833,
+      111,
+      953,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      156,
+      1359,
+      203
+    ],
+    "category": "Text",
+    "text": "Quan sát đồ thị của hàm số ta thấy điểm có tọa độ $(-1; 4)$ là điểm cực đại của đồ thị hàm số."
+  },
+  {
+    "bbox": [
+      74,
+      211,
+      1197,
+      307
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Biết $\\int_{0}^{1} f(x)dx = 3$ và $\\int_{0}^{1} g(x)dx = -2$. Khi đó $\\int_{0}^{1} [f(x) + g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      317,
+      311,
+      352
+    ],
+    "category": "List-item",
+    "text": "A. -6."
+  },
+  {
+    "bbox": [
+      547,
+      317,
+      639,
+      352
+    ],
+    "category": "List-item",
+    "text": "B. -1."
+  },
+  {
+    "bbox": [
+      862,
+      317,
+      935,
+      352
+    ],
+    "category": "List-item",
+    "text": "C. 5."
+  },
+  {
+    "bbox": [
+      1177,
+      317,
+      1250,
+      352
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      833,
+      360,
+      953,
+      402
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      218,
+      405,
+      926,
+      500
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{1} [f(x) + g(x)]dx = \\int_{0}^{1} f(x)dx + \\int_{0}^{1} g(x)dx = 3 - 2 = 1\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      505,
+      1575,
+      607
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian với hệ toạ độ $Oxyz$, cho hai vecto $\\vec{a}$ và $\\vec{b}$ có cùng độ dài bằng 1. Biết góc giữa hai vecto này bằng $120^\\circ$. Hãy tính $T = \\vec{a} \\cdot \\vec{b}$."
+  },
+  {
+    "bbox": [
+      212,
+      607,
+      393,
+      697
+    ],
+    "category": "List-item",
+    "text": "A. $T = \\frac{-\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      547,
+      617,
+      685,
+      697
+    ],
+    "category": "List-item",
+    "text": "B. $T = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      862,
+      617,
+      1016,
+      697
+    ],
+    "category": "List-item",
+    "text": "C. $T = \\frac{-1}{2}$."
+  },
+  {
+    "bbox": [
+      1177,
+      607,
+      1339,
+      697
+    ],
+    "category": "List-item",
+    "text": "D. $T = \\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      833,
+      705,
+      953,
+      746
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      750,
+      886,
+      829
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } T = \\vec{a} \\cdot \\vec{b} = |\\vec{a}| \\cdot |\\vec{b}| \\cdot \\cos(\\vec{a}, \\vec{b}) = 1 \\cdot 1 \\cdot \\cos 120^\\circ = \\frac{-1}{2}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      835,
+      1575,
+      984
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABC$ có $SA$ vuông góc với mặt phẳng $(ABC)$ và đáy $ABC$ vuông tại $B$. Gọi $M$ là trung điểm của $SB$. Đường thẳng đi qua hai điểm nào sau đây vuông góc với mặt phẳng $(SAB)$."
+  },
+  {
+    "bbox": [
+      212,
+      994,
+      339,
+      1033
+    ],
+    "category": "List-item",
+    "text": "A. $A; C$."
+  },
+  {
+    "bbox": [
+      547,
+      994,
+      678,
+      1033
+    ],
+    "category": "List-item",
+    "text": "B. $M; C$."
+  },
+  {
+    "bbox": [
+      862,
+      994,
+      976,
+      1033
+    ],
+    "category": "List-item",
+    "text": "C. $S; C$."
+  },
+  {
+    "bbox": [
+      1177,
+      994,
+      1304,
+      1033
+    ],
+    "category": "List-item",
+    "text": "D. $B; C$."
+  },
+  {
+    "bbox": [
+      833,
+      1043,
+      953,
+      1084
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1088,
+      1077,
+      1135
+    ],
+    "category": "Text",
+    "text": "Vì $SA \\perp (ABC)$ nên $SA \\perp BC$ mà $AB \\perp BC$ nên $BC \\perp (SAB)$"
+  },
+  {
+    "bbox": [
+      74,
+      1145,
+      988,
+      1191
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Tập nghiệm của bất phương trình $\\log_{2}(3x-1) < 3$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1197,
+      358,
+      1289
+    ],
+    "category": "List-item",
+    "text": "A. $\\left(\\frac{1}{3}; 3\\right)$."
+  },
+  {
+    "bbox": [
+      547,
+      1219,
+      701,
+      1265
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 3)$."
+  },
+  {
+    "bbox": [
+      862,
+      1199,
+      1031,
+      1287
+    ],
+    "category": "List-item",
+    "text": "C. $\\left(\\frac{1}{3}; \\frac{10}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1199,
+      1367,
+      1287
+    ],
+    "category": "List-item",
+    "text": "D. $\\left(-\\infty; \\frac{10}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      833,
+      1295,
+      953,
+      1336
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1342,
+      947,
+      1421
+    ],
+    "category": "Text",
+    "text": "Điều kiện xác định của hàm số: $3x-1 > 0 \\Leftrightarrow x > \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      218,
+      1427,
+      865,
+      1474
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{2}(3x-1) < 3 \\Leftrightarrow 3x-1 < 2^{3} \\Leftrightarrow 3x < 9 \\Leftrightarrow x < 3.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1482,
+      1188,
+      1571
+    ],
+    "category": "Text",
+    "text": "Kết hợp điều kiện. Vì vậy tập nghiệm bất phương trình là: $S = \\left(\\frac{1}{3}; 3\\right)$"
+  },
+  {
+    "bbox": [
+      74,
+      1577,
+      1147,
+      1625
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho cấp số cộng $(u_n)$ với $u_1 = 9$ công sai $d = 2$. Giá trị $u_2$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      1653,
+      293,
+      1690
+    ],
+    "category": "List-item",
+    "text": "A. 7."
+  },
+  {
+    "bbox": [
+      547,
+      1653,
+      635,
+      1690
+    ],
+    "category": "List-item",
+    "text": "B. 18."
+  },
+  {
+    "bbox": [
+      862,
+      1653,
+      947,
+      1690
+    ],
+    "category": "List-item",
+    "text": "C. 11."
+  },
+  {
+    "bbox": [
+      1177,
+      1635,
+      1266,
+      1715
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      833,
+      1721,
+      953,
+      1762
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1766,
+      624,
+      1805
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_2 = u_1 + d = 9 + 2 = 11$."
+  },
+  {
+    "bbox": [
+      74,
+      1817,
+      1077,
+      1861
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Hàm số nào dưới đây đồng biến trên tập xác định của nó."
+  },
+  {
+    "bbox": [
+      212,
+      1867,
+      393,
+      1957
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\left(\\frac{2}{3}\\right)^x$."
+  },
+  {
+    "bbox": [
+      547,
+      1887,
+      737,
+      1934
+    ],
+    "category": "List-item",
+    "text": "B. $y = (0,5)^x$."
+  },
+  {
+    "bbox": [
+      862,
+      1887,
+      1048,
+      1934
+    ],
+    "category": "List-item",
+    "text": "C. $y = (\\sqrt{3})^x$."
+  },
+  {
+    "bbox": [
+      1177,
+      1867,
+      1367,
+      1957
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\left(\\frac{1}{\\pi}\\right)^x$."
+  },
+  {
+    "bbox": [
+      833,
+      1965,
+      953,
+      2006
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2014,
+      1575,
+      2127
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = a^x$ đồng biến khi $a > 1$ nghịch biến khi $0 < a < 1 \\Rightarrow y = (\\sqrt{3})^x$ là hàm số đồng biến trên tập xác định của nó."
+  },
+  {
+    "bbox": [
+      74,
+      2123,
+      1575,
+      2219
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

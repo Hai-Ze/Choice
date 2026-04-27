@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      255,
+      105,
+      829,
+      189
+    ],
+    "category": "Formula",
+    "text": "$$\nu_{n+1} = u_n \\cdot q \\Rightarrow q = \\frac{u_{n+1}}{u_n} \\Rightarrow q = \\frac{u_4}{u_3} = \\frac{8}{4} = 2.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      193,
+      949,
+      239
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tập nghiệm của bất phương trình $\\log_{0,5}(x-1) > 1$ là"
+  },
+  {
+    "bbox": [
+      252,
+      258,
+      436,
+      337
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -\\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      586,
+      258,
+      710,
+      337
+    ],
+    "category": "List-item",
+    "text": "B. $[1; \\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      900,
+      258,
+      1034,
+      337
+    ],
+    "category": "List-item",
+    "text": "C. $(1; \\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      1216,
+      258,
+      1376,
+      337
+    ],
+    "category": "List-item",
+    "text": "D. $(\\frac{3}{2}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      836,
+      366,
+      950,
+      403
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      422,
+      741,
+      465
+    ],
+    "category": "Text",
+    "text": "Điều kiện xác định $x-1 > 0 \\Leftrightarrow x > 1$"
+  },
+  {
+    "bbox": [
+      255,
+      475,
+      1199,
+      554
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{0,5}(x-1) > 1 \\Leftrightarrow x-1 < (0,5)^1 \\Leftrightarrow x-1 < 0,5 \\Leftrightarrow x < 1+0,5 \\Leftrightarrow x < \\frac{3}{2}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      554,
+      1074,
+      600
+    ],
+    "category": "Text",
+    "text": "Kết hợp nghiệm vừa tìm được với điều kiện xác định ($x > 1$):"
+  },
+  {
+    "bbox": [
+      762,
+      602,
+      1023,
+      738
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x > 1 \\\\ x < \\frac{3}{2} \\end{cases} \\Leftrightarrow 1 < x < \\frac{3}{2}\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      747,
+      1006,
+      834
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình là khoảng $\\left(1; \\frac{3}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      114,
+      839,
+      871,
+      887
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = f(x)$ có đồ thị như hình bên."
+  },
+  {
+    "bbox": [
+      565,
+      935,
+      1208,
+      1279
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1330,
+      981,
+      1378
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đạt giá trị nhỏ nhất trên đoạn $[-1;1]$ tại"
+  },
+  {
+    "bbox": [
+      252,
+      1415,
+      397,
+      1452
+    ],
+    "category": "List-item",
+    "text": "A. $x = -1$."
+  },
+  {
+    "bbox": [
+      614,
+      1415,
+      744,
+      1452
+    ],
+    "category": "List-item",
+    "text": "B. $x = 0$."
+  },
+  {
+    "bbox": [
+      914,
+      1415,
+      1059,
+      1452
+    ],
+    "category": "List-item",
+    "text": "C. $x = -4$."
+  },
+  {
+    "bbox": [
+      1214,
+      1415,
+      1337,
+      1452
+    ],
+    "category": "List-item",
+    "text": "D. $x = 1$."
+  },
+  {
+    "bbox": [
+      836,
+      1479,
+      950,
+      1516
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1537,
+      1466,
+      1585
+    ],
+    "category": "Text",
+    "text": "Dựa vào đồ thị ta thấy hàm số đã cho đạt giá trị nhỏ nhất trên đoạn $[-1;1]$ tại điểm $x = -1$."
+  },
+  {
+    "bbox": [
+      114,
+      1624,
+      1501,
+      1763
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình chóp $S.ABC$ có $SA \\perp (ABC)$, $SA = \\frac{3a}{2}$, đáy $ABC$ là tam giác đều cạnh $a$. Tính số đo của góc nhị diện $[S, BC, A]$."
+  },
+  {
+    "bbox": [
+      252,
+      1802,
+      359,
+      1843
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      614,
+      1802,
+      716,
+      1843
+    ],
+    "category": "List-item",
+    "text": "B. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      914,
+      1802,
+      1038,
+      1843
+    ],
+    "category": "List-item",
+    "text": "C. $120^\\circ$."
+  },
+  {
+    "bbox": [
+      1214,
+      1802,
+      1324,
+      1843
+    ],
+    "category": "List-item",
+    "text": "D. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      836,
+      1884,
+      950,
+      1921
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  }
+]

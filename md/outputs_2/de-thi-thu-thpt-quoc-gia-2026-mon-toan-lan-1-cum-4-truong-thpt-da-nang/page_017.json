@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      158,
+      122,
+      1622,
+      481
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Để chuẩn bị cho hành trình học đại học sau khi tốt nghiệp phổ thông, ngay từ đầu năm lớp 10, được sự đồng ý của cha mẹ, bạn Hùng vừa đi học vừa đi làm thêm ngoài giờ để có thể giảm gánh nặng kinh tế cho gia đình. Tháng đầu tiên đi làm, bạn Hùng được ông chủ trả 3 triệu đồng, nhờ siêng năng làm việc nên cứ mỗi tháng ông chủ lại tăng 7% lương so với tiền lương tháng liền trước (Công việc không thay đổi và không bị gián đoạn trong suốt thời gian 3 năm học phổ thông). Mỗi khi lĩnh lương bạn Hùng đều cất đi phần lương tăng so với tháng trước. Hỏi sau 3 năm kể từ khi bắt đầu đi làm thêm thì bạn Hùng tiếtniem được bao nhiêu triệu đồng? (Kết quả làm tròn đến chữ số hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      160,
+      507,
+      321,
+      541
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** 29."
+  },
+  {
+    "bbox": [
+      160,
+      549,
+      398,
+      592
+    ],
+    "category": "Text",
+    "text": "**Hướng dẫn giải:**"
+  },
+  {
+    "bbox": [
+      160,
+      604,
+      681,
+      650
+    ],
+    "category": "Formula",
+    "text": "Lương tháng thứ 1: $u_1 = 3$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      160,
+      667,
+      746,
+      716
+    ],
+    "category": "Formula",
+    "text": "Lương tháng thứ 2: $u_2 = u_1 + r.u_1 = (1+r).u_1$"
+  },
+  {
+    "bbox": [
+      160,
+      734,
+      1557,
+      854
+    ],
+    "category": "Formula",
+    "text": "Lương tháng thứ 3: $u_3 = u_2 + r.u_2 = (1+r).u_2 \\dots$ Như vậy tiền lương mỗi tháng bạn Hùng nhận được lập thành CSN $(U_n)$ có $u_1 = 3$ và công bội $q = 1+r$, với $r = 7\\% = 0,07$"
+  },
+  {
+    "bbox": [
+      160,
+      861,
+      1089,
+      907
+    ],
+    "category": "Text",
+    "text": "Bạn Hùng chỉ cất phần lương tăng, nên số tiền bạn Hùng tiếtniem là:"
+  },
+  {
+    "bbox": [
+      160,
+      913,
+      1563,
+      1003
+    ],
+    "category": "Formula",
+    "text": "$$\nT = r.u_1 + r.u_2 + \\dots + r.u_{35} = r(u_1 + u_2 + u_3 + \\dots + u_{35}) = r \\cdot \\left( u_1 \\cdot \\frac{q^{35} - 1}{q - 1} \\right) = 0,07 \\cdot \\left( 3 \\cdot \\frac{1,07^{35} - 1}{1,07 - 1} \\right) = 29,0297 \\approx 29\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1013,
+      1545,
+      1058
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Một cái bể nước hình nón để ngược như hình vẽ, có chiều cao $51\\text{cm}$, bán kính đáy bằng $50\\text{cm}$."
+  },
+  {
+    "bbox": [
+      286,
+      1118,
+      1508,
+      1718
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1811,
+      1625,
+      1957
+    ],
+    "category": "Text",
+    "text": "Một vòi nước ch exactly vào bể sao cho sau mỗi giây chiều cao mực nước tăng đều lên $2\\text{cm}$ cho đến khi đầy bể. Hãy tính tốc độ tăng thể tích $(m^3/s)$ của nước trong khoảng thời gian một giây ngay trước khi bể đầy. (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      160,
+      1957,
+      346,
+      1992
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** 0,02."
+  },
+  {
+    "bbox": [
+      160,
+      1998,
+      398,
+      2041
+    ],
+    "category": "Text",
+    "text": "**Hướng dẫn giải:**"
+  },
+  {
+    "bbox": [
+      160,
+      2047,
+      1622,
+      2099
+    ],
+    "category": "Text",
+    "text": "**Cách 1:** Gọi $h(t)(\\text{cm})$ là chiều cao mực nước tại thời điểm $t$ bất kỳ, $r(t)(\\text{cm})$ là bán kính mặt nước, ta có"
+  }
+]

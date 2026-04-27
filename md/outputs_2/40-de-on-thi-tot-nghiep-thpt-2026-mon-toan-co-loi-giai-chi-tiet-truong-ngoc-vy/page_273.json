@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      96,
+      1484,
+      146
+    ],
+    "category": "Text",
+    "text": "-úp $B_1$ là vị trí thuyền lúc $t = 0$ có tọa độ $(0; -40; 0)$ vì thuyền cách $P$ $40m$ theo phương Nam"
+  },
+  {
+    "bbox": [
+      155,
+      172,
+      1573,
+      286
+    ],
+    "category": "Text",
+    "text": "-úp $C_1$ vị trí ô tô lúc $t = 0$ có tọa độ $(-30; 0; 20)$ vì ô tô cách $Q$ $30m$ về phía Tây và cao $20m$ so với mặt nước."
+  },
+  {
+    "bbox": [
+      155,
+      305,
+      422,
+      346
+    ],
+    "category": "Text",
+    "text": "Khi $t$ giây trôi qua:"
+  },
+  {
+    "bbox": [
+      155,
+      364,
+      1122,
+      414
+    ],
+    "category": "Text",
+    "text": "- Thuyền đi lên Bắc với vận tốc $10m/s \\Rightarrow$ vị trí $B(t) = (0; -40+10t; 0)$"
+  },
+  {
+    "bbox": [
+      155,
+      439,
+      1168,
+      490
+    ],
+    "category": "Text",
+    "text": "- ô tô chạy về Đông với vận tốc $20m/s \\Rightarrow$ vị trí $C(t) = (-30+20t; 0; 20)$."
+  },
+  {
+    "bbox": [
+      155,
+      509,
+      813,
+      556
+    ],
+    "category": "Text",
+    "text": "Khoảng cách bình phương giữa thuyền và ô tô là"
+  },
+  {
+    "bbox": [
+      160,
+      575,
+      1371,
+      632
+    ],
+    "category": "Formula",
+    "text": "$$\nD^2(t) = (x_C - x_B)^2 + (y_C - y_B)^2 + (z_C - z_B)^2 = (-30+20t)^2 + (0-(-40+10t))^2 + (20-0)^2.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      656,
+      1306,
+      703
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } D^2(t) = 400t^2 - 1200t + 900 + 100t^2 - 800t + 1600 + 400 = 500t^2 - 2000t + 2900.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      729,
+      1236,
+      812
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Hàm } D^2(t) \\text{ là hàm bậc hai nên đạt cực tiểu tại } t_0 = \\frac{-(-2000)}{2 \\cdot 500} = \\frac{2000}{1000} = 2 \\text{ (giây).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      834,
+      1552,
+      886
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giá trị nhỏ nhất: } D_{\\min}^2 = 500 \\cdot (2)^2 - 2000 \\cdot 2 + 2900 = 2000 - 4000 + 2900 = 900 \\rightarrow D_{\\min} = \\sqrt{900} = 30(m).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      905,
+      632,
+      949
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách nhỏ nhất là $30m$."
+  },
+  {
+    "bbox": [
+      155,
+      964,
+      1573,
+      1133
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ có $AB = 6, AD = 9$. Lấy $M$ là trung điểm của $CD, N$ thuộc cạnh $BC$ sao cho $NB = 2NC$. Khoảng cách giữa hai đường thẳng $AA'$ và $MN$ bằng bao nhiêu? (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      155,
+      1148,
+      493,
+      1186
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1207,
+      924,
+      1247
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1264,
+      347,
+      1305
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 8,49"
+  },
+  {
+    "bbox": [
+      607,
+      1321,
+      1110,
+      1827
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1850,
+      235,
+      1885
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      160,
+      1907,
+      588,
+      1946
+    ],
+    "category": "Formula",
+    "text": "$$\nBN = 6, CN = 3, CM = DM = 3;\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1970,
+      647,
+      2019
+    ],
+    "category": "Formula",
+    "text": "$$\nAN = 6\\sqrt{2}, MN = 3\\sqrt{2}, AM = 3\\sqrt{10};\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2046,
+      989,
+      2091
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } AM^2 = 90 = AN^2 + MN^2 \\text{ nên tam giác } AMN \\text{ vuông tại } N.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2107,
+      1239,
+      2149
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } AN \\perp AA' \\text{ và } AN \\perp MN \\text{ nên } AN \\text{ là đoạn vuông góc chung của } AA' \\text{ và } MN.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2167,
+      694,
+      2218
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } d(AA', MN) = AN = 6\\sqrt{2} \\approx 8,49\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      649,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

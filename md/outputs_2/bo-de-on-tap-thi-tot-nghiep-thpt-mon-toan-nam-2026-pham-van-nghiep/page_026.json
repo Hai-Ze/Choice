@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      74,
+      52,
+      491,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ Đề Ôn Thi Đại Học – Đề 1 đến 15"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1541,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      542,
+      113,
+      1248,
+      398
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>-∞</td><td>0</td><td>2</td><td>+∞</td></tr><tr><td>f'(x)</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>f(x)</td><td>-∞</td><td>-4</td><td>-8</td><td>+∞</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      411,
+      1165,
+      456
+    ],
+    "category": "Text",
+    "text": "Tổng giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      462,
+      309,
+      496
+    ],
+    "category": "List-item",
+    "text": "A. -8."
+  },
+  {
+    "bbox": [
+      547,
+      462,
+      639,
+      496
+    ],
+    "category": "List-item",
+    "text": "B. -4."
+  },
+  {
+    "bbox": [
+      862,
+      462,
+      938,
+      496
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1177,
+      462,
+      1291,
+      496
+    ],
+    "category": "List-item",
+    "text": "D. -12."
+  },
+  {
+    "bbox": [
+      74,
+      506,
+      1565,
+      604
+    ],
+    "category": "List-item",
+    "text": "**Câu 8:** Trong không gian với hệ tọa độ $Oxyz$, cho điểm $A(1;2;4)$, $B(2;4;-1)$. Tìm tọa độ trọng tâm $G$ của tam giác $OAB$."
+  },
+  {
+    "bbox": [
+      212,
+      608,
+      398,
+      652
+    ],
+    "category": "List-item",
+    "text": "A. $G(3;2;1)$."
+  },
+  {
+    "bbox": [
+      547,
+      608,
+      721,
+      652
+    ],
+    "category": "List-item",
+    "text": "B. $G(1;2;1)$."
+  },
+  {
+    "bbox": [
+      862,
+      608,
+      1062,
+      652
+    ],
+    "category": "List-item",
+    "text": "C. $G(1;2;-1)$."
+  },
+  {
+    "bbox": [
+      1177,
+      608,
+      1364,
+      652
+    ],
+    "category": "List-item",
+    "text": "D. $G(6;3;3)$."
+  },
+  {
+    "bbox": [
+      74,
+      662,
+      1573,
+      756
+    ],
+    "category": "List-item",
+    "text": "**Câu 9:** Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Ta đặt $\\overline{AB} = \\vec{b}$, $\\overline{AC} = \\vec{c}$ và $\\overline{AD} = \\vec{d}$. Khẳng định nào sau đây **đúng**?"
+  },
+  {
+    "bbox": [
+      700,
+      760,
+      1083,
+      1183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1194,
+      524,
+      1272
+    ],
+    "category": "Formula",
+    "text": "A. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b})$."
+  },
+  {
+    "bbox": [
+      547,
+      1194,
+      854,
+      1272
+    ],
+    "category": "Formula",
+    "text": "B. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c})$."
+  },
+  {
+    "bbox": [
+      212,
+      1279,
+      524,
+      1357
+    ],
+    "category": "Formula",
+    "text": "C. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d})$."
+  },
+  {
+    "bbox": [
+      547,
+      1279,
+      857,
+      1357
+    ],
+    "category": "Formula",
+    "text": "D. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$."
+  },
+  {
+    "bbox": [
+      74,
+      1361,
+      1573,
+      1451
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Mỗi ngày thây Trung đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của thây Trung trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      328,
+      1448,
+      1463,
+      1568
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7;3,0)</td><td>[3,0;3,3)</td><td>[3,3;3,6)</td><td>[3,6;3,9)</td><td>[3,9;4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1568,
+      1345,
+      1614
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm trên gần nhất với số nào sau đây?"
+  },
+  {
+    "bbox": [
+      212,
+      1619,
+      324,
+      1653
+    ],
+    "category": "List-item",
+    "text": "A. 0,35."
+  },
+  {
+    "bbox": [
+      547,
+      1619,
+      638,
+      1653
+    ],
+    "category": "List-item",
+    "text": "B. 0,5."
+  },
+  {
+    "bbox": [
+      862,
+      1619,
+      954,
+      1653
+    ],
+    "category": "List-item",
+    "text": "C. 0,4."
+  },
+  {
+    "bbox": [
+      1177,
+      1619,
+      1265,
+      1653
+    ],
+    "category": "List-item",
+    "text": "D. 0,1"
+  },
+  {
+    "bbox": [
+      74,
+      1662,
+      1565,
+      1764
+    ],
+    "category": "List-item",
+    "text": "**Câu 11:** Cho hai biến cố $A$ và $B$ là hai biến cố độc lập với $P(A) = 0,4, P(B) = 0,45$. Khi đó, $P(A|B)$ bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1770,
+      322,
+      1804
+    ],
+    "category": "List-item",
+    "text": "A. 0,4."
+  },
+  {
+    "bbox": [
+      547,
+      1770,
+      671,
+      1804
+    ],
+    "category": "List-item",
+    "text": "B. 0,45."
+  },
+  {
+    "bbox": [
+      862,
+      1770,
+      964,
+      1804
+    ],
+    "category": "List-item",
+    "text": "C. 0,3."
+  },
+  {
+    "bbox": [
+      1177,
+      1770,
+      1300,
+      1804
+    ],
+    "category": "List-item",
+    "text": "D. 0,18."
+  },
+  {
+    "bbox": [
+      74,
+      1813,
+      1573,
+      1917
+    ],
+    "category": "List-item",
+    "text": "**Câu 12:** Thế tich khối tròn xoay tạo thành khi cho hình phẳng giới hạn bởi đồ thị hàm số $f(x) = \\sqrt{x}$, trục hoành và hai đường thẳng $x = 0, x = 2$ quay quanh trục $Ox$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1919,
+      398,
+      2012
+    ],
+    "category": "Formula",
+    "text": "A. $\\pi \\int_{0}^{2} \\sqrt{x} \\, dx$."
+  },
+  {
+    "bbox": [
+      547,
+      1919,
+      702,
+      2012
+    ],
+    "category": "Formula",
+    "text": "B. $\\pi \\int_{0}^{2} x \\, dx$."
+  },
+  {
+    "bbox": [
+      862,
+      1919,
+      1022,
+      2012
+    ],
+    "category": "Formula",
+    "text": "C. $\\int_{0}^{2} \\sqrt{x} \\, dx$."
+  },
+  {
+    "bbox": [
+      1177,
+      1919,
+      1311,
+      2012
+    ],
+    "category": "Formula",
+    "text": "D. $\\int_{0}^{2} x \\, dx$."
+  },
+  {
+    "bbox": [
+      74,
+      2014,
+      788,
+      2064
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Câu trắc nghiệm chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      737,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1520,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 26 -"
+  }
+]

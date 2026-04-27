@@ -1,0 +1,341 @@
+[
+  {
+    "bbox": [
+      648,
+      85,
+      1074,
+      460
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      465,
+      379,
+      506
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^3 - 4$."
+  },
+  {
+    "bbox": [
+      556,
+      465,
+      761,
+      506
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x^2 - 4$."
+  },
+  {
+    "bbox": [
+      921,
+      465,
+      1110,
+      506
+    ],
+    "category": "List-item",
+    "text": "C. $y = x^2 - 4$."
+  },
+  {
+    "bbox": [
+      1284,
+      465,
+      1564,
+      506
+    ],
+    "category": "List-item",
+    "text": "D. $y = -x^3 + 3x^2 - 4$."
+  },
+  {
+    "bbox": [
+      154,
+      516,
+      1014,
+      565
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** He tất cả các nguyên hàm của hàm số $f(x) = 2x + 6$ là"
+  },
+  {
+    "bbox": [
+      192,
+      576,
+      398,
+      615
+    ],
+    "category": "List-item",
+    "text": "A. $x^2 + 6x + C$."
+  },
+  {
+    "bbox": [
+      556,
+      576,
+      783,
+      615
+    ],
+    "category": "List-item",
+    "text": "B. $2x^2 + 6x + C$."
+  },
+  {
+    "bbox": [
+      921,
+      576,
+      1069,
+      615
+    ],
+    "category": "List-item",
+    "text": "C. $x^2 + C$."
+  },
+  {
+    "bbox": [
+      1284,
+      576,
+      1445,
+      615
+    ],
+    "category": "List-item",
+    "text": "D. $2x^2 + C$."
+  },
+  {
+    "bbox": [
+      154,
+      618,
+      1543,
+      757
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Giả sử sự lây lan của một loại virus ở một địa phương có thể được mô hình hóa bằng hàm số $N(t) = -t^3 + 12t^2$, $0 \\le t \\le 12$, trong đó $N$ là số người bị nhiễm bệnh (tính bằng trăm người) và $t$ là thời gian (tuần). Hỏi số người bị nhiễm bệnh tăng trong khoảng thời gian nào?"
+  },
+  {
+    "bbox": [
+      192,
+      760,
+      323,
+      804
+    ],
+    "category": "List-item",
+    "text": "A. (0;10)"
+  },
+  {
+    "bbox": [
+      556,
+      760,
+      697,
+      804
+    ],
+    "category": "List-item",
+    "text": "B. (8;12)."
+  },
+  {
+    "bbox": [
+      921,
+      760,
+      1063,
+      804
+    ],
+    "category": "List-item",
+    "text": "C. (8;10)."
+  },
+  {
+    "bbox": [
+      1284,
+      760,
+      1415,
+      804
+    ],
+    "category": "List-item",
+    "text": "D. (0;8)."
+  },
+  {
+    "bbox": [
+      154,
+      811,
+      1572,
+      889
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      154,
+      893,
+      928,
+      940
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = 2\\cos x - x + \\pi + 2026$."
+  },
+  {
+    "bbox": [
+      154,
+      940,
+      414,
+      985
+    ],
+    "category": "Formula",
+    "text": "a) $f(\\pi) = 2024$."
+  },
+  {
+    "bbox": [
+      154,
+      982,
+      854,
+      1025
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 2\\sin x - 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1030,
+      1042,
+      1121
+    ],
+    "category": "Formula",
+    "text": "c) Số nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[\\frac{-\\pi}{2}; \\frac{\\pi}{2}\\right]$ là 2."
+  },
+  {
+    "bbox": [
+      154,
+      1126,
+      1025,
+      1215
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $\\left[\\frac{-\\pi}{2}; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{2} + 2026$."
+  },
+  {
+    "bbox": [
+      154,
+      1253,
+      1550,
+      1337
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Kết quả điều tra về số giờ làm thêm trong một tuần của sinh viên một trường đại học X được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      162,
+      1340,
+      1333,
+      1445
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số giờ làm thêm</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10)</td><td>[10; 12)</td></tr><tr><td>Số sinh viên</td><td>12</td><td>20</td><td>37</td><td>21</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1452,
+      612,
+      1495
+    ],
+    "category": "Text",
+    "text": "a) Mốt của mẫu số liệu trên là 7,5."
+  },
+  {
+    "bbox": [
+      154,
+      1493,
+      1247,
+      1536
+    ],
+    "category": "Text",
+    "text": "b) Số giờ làm thêm trung bình của mỗi sinh viên trường đại học X không ít hơn 6."
+  },
+  {
+    "bbox": [
+      154,
+      1534,
+      638,
+      1573
+    ],
+    "category": "Text",
+    "text": "c) Số sinh viên được điều tra là 100."
+  },
+  {
+    "bbox": [
+      154,
+      1571,
+      816,
+      1614
+    ],
+    "category": "Text",
+    "text": "d) Tứ phân vị thứ hai của dãy số liệu lớn hơn 6,5."
+  },
+  {
+    "bbox": [
+      154,
+      1645,
+      1564,
+      1829
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Hai chất điểm chuyển động behind chiều nhau thì xảy ra va chạm, hai chất điểm tiếp tục di chuyển theo chiều ban đầu thêm một quăng đường nữa thì停止 hắn. Biết rằng sau khi va chạm, một chất điểm di chuyển tiếp với vận tốc $v_1(t) = 6 - 3t$ (m/s), chất điểm còn lại di chuyển với vận tốc $v_2(t) = 12 - 4t$ (m/s)."
+  },
+  {
+    "bbox": [
+      154,
+      1831,
+      1572,
+      1965
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường chất điểm thứ nhất di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_1(t) = 6t - \\frac{3t^2}{2} + C$ (m)."
+  },
+  {
+    "bbox": [
+      154,
+      1965,
+      1572,
+      2055
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chất điểm thứ hai di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_2(t) = 12t - 2t^2 + C$ (m)."
+  },
+  {
+    "bbox": [
+      154,
+      2057,
+      1134,
+      2102
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chất điểm thứ nhất di chuyển sau khi va chạm là 18 (m)."
+  },
+  {
+    "bbox": [
+      154,
+      2102,
+      888,
+      2147
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách hai chất điểm khi đã停止 hắn 12 (m)."
+  },
+  {
+    "bbox": [
+      154,
+      2232,
+      298,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 312"
+  },
+  {
+    "bbox": [
+      1439,
+      2236,
+      1572,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

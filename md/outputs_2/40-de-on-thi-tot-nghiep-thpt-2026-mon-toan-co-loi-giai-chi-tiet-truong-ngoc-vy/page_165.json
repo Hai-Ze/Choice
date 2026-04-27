@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      525,
+      136
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      157,
+      433,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b}) .\n$$"
+  },
+  {
+    "bbox": [
+      475,
+      157,
+      781,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c}) .\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      157,
+      1133,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d}) .\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      157,
+      1486,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b}) .\n$$"
+  },
+  {
+    "bbox": [
+      723,
+      262,
+      849,
+      300
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      321,
+      198,
+      358
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      376,
+      164,
+      411
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      80,
+      436,
+      321,
+      525
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{MP} = \\frac{\\overrightarrow{MC} + \\overrightarrow{MD}}{2} .\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      550,
+      495,
+      632
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{1}{2}(\\overrightarrow{MA} + \\overrightarrow{AC}) + \\frac{1}{2}(\\overrightarrow{MA} + \\overrightarrow{AD})\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      638,
+      567,
+      727
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{1}{2}\\left(\\frac{1}{2}\\overrightarrow{BA} + \\overrightarrow{AC}\\right) + \\frac{1}{2}\\left(\\frac{1}{2}\\overrightarrow{BA} + \\overrightarrow{AD}\\right) .\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      739,
+      557,
+      820
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{1}{2}(\\overrightarrow{BA} + \\overrightarrow{AC} + \\overrightarrow{AD}) = \\frac{1}{2}(\\vec{b} + \\vec{c} + \\vec{d})\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      842,
+      1493,
+      1001
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, đường thẳng $d$ đi qua điểm $M(1;-1;3)$ và song song với đường thẳng $d_1$: $\\frac{x-2}{2} = \\frac{y+1}{1} = \\frac{z+3}{-1}$ có phương trình là"
+  },
+  {
+    "bbox": [
+      125,
+      1024,
+      331,
+      1171
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t \\\\ z = 3 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      475,
+      1024,
+      674,
+      1171
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\begin{cases} x = 1 + 2t \\\\ y = 1 + t \\\\ z = 3 - t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      1024,
+      1041,
+      1171
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } \\begin{cases} x = 2 + t \\\\ y = 1 - t \\\\ z = -1 + 3t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      1024,
+      1378,
+      1171
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t \\\\ z = 3 - t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      1199,
+      843,
+      1237
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1258,
+      198,
+      1295
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1314,
+      537,
+      1367
+    ],
+    "category": "Text",
+    "text": "Vì $d // d_1$ nên $\\overrightarrow{u_d} = \\overrightarrow{u_{d_1}} = (2;1;-1)$."
+  },
+  {
+    "bbox": [
+      76,
+      1393,
+      635,
+      1540
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $d$: $\\begin{cases} x = 1 + 2t \\\\ y = -1 + t \\\\ z = 3 - t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      76,
+      1564,
+      1493,
+      1672
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình chóp $S.ABCD$. Đường nối trọng tâm hai tam giác $SAB, SAD$ song song với đường nào sau đây?"
+  },
+  {
+    "bbox": [
+      125,
+      1691,
+      236,
+      1726
+    ],
+    "category": "List-item",
+    "text": "A. $AC$."
+  },
+  {
+    "bbox": [
+      475,
+      1691,
+      579,
+      1726
+    ],
+    "category": "List-item",
+    "text": "B. $BD$."
+  },
+  {
+    "bbox": [
+      825,
+      1691,
+      927,
+      1726
+    ],
+    "category": "List-item",
+    "text": "C. $SC$."
+  },
+  {
+    "bbox": [
+      1174,
+      1691,
+      1285,
+      1726
+    ],
+    "category": "List-item",
+    "text": "D. $AD$."
+  },
+  {
+    "bbox": [
+      727,
+      1751,
+      843,
+      1789
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1808,
+      198,
+      1845
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2257,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

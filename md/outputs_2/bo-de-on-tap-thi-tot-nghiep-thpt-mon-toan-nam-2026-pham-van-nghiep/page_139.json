@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      416,
+      103,
+      1369,
+      530
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      533,
+      1079,
+      575
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để vận động viên được chọn thuộc đội I là 0,56"
+  },
+  {
+    "bbox": [
+      212,
+      583,
+      1570,
+      663
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để vận động viên này không胜hành được huy chương vàng nếu thuộc đội II là 0,94"
+  },
+  {
+    "bbox": [
+      212,
+      674,
+      1234,
+      717
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để vận động viên này勝hành được huy chương vàng là 0,1"
+  },
+  {
+    "bbox": [
+      212,
+      722,
+      1570,
+      808
+    ],
+    "category": "Text",
+    "text": "d) Giả sử vận động viên được chọn勝hành huy chương vàng. Xác suất để vận động viên này thuộc đội I là 0,48"
+  },
+  {
+    "bbox": [
+      833,
+      818,
+      953,
+      859
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      862,
+      1176,
+      942
+    ],
+    "category": "Text",
+    "text": "a) Sai: Xác suất để vận động viên chọn ra thuộc đội I là $\\frac{7}{16} \\approx 0,43$."
+  },
+  {
+    "bbox": [
+      212,
+      945,
+      1572,
+      1028
+    ],
+    "category": "Text",
+    "text": "b) Đúng: Xác suất không đạt huy chương vàng của mỗi vận động viên đội II là $1 - 0,06 = 0,94$"
+  },
+  {
+    "bbox": [
+      212,
+      1037,
+      1572,
+      1126
+    ],
+    "category": "Text",
+    "text": "c) Sai: Gọi $A$ là biến cố: “Vận động viên đạt huy chương vàng”, $B$ là biến cố: “Thành viên đội I” thì biến cố đối của $B$ là $\\bar{B}$: “Thành viên đội II”."
+  },
+  {
+    "bbox": [
+      212,
+      1131,
+      1092,
+      1212
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó: } P(B) = \\frac{7}{16}; P(\\bar{B}) = \\frac{9}{16} ; P(A|B) = 0,07; P(A|\\bar{B}) = 0,06\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1217,
+      807,
+      1259
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần ta có"
+  },
+  {
+    "bbox": [
+      387,
+      1261,
+      1396,
+      1343
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(B) \\cdot P(A|B) + P(\\bar{B}) \\cdot P(A|\\bar{B}) = \\frac{7}{16} \\cdot 0,07 + \\frac{9}{16} \\cdot 0,06 = \\frac{103}{1600} \\approx 0,06\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1348,
+      1130,
+      1509
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Đúng : Ta có } P(B|A) = \\frac{P(B) \\cdot P(A|B)}{P(A)} = \\frac{\\frac{7}{16} \\cdot 0,07}{\\frac{103}{1600}} = \\frac{49}{103} \\approx 0,48\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1516,
+      1575,
+      2096
+    ],
+    "category": "List-item",
+    "text": "**Câu 16:**\n\nTại một nút giao thông của một khu vực đông dân cư với tốc độ tối đa cho phép đối với ô tô là 50(km/h), người ta gắn một camera phạm nguội tại điểm $S(0;0;14)$ trong không gian $Oxyz$ (đơn vị trên mỗi trục tọa độ là mét), mặt phẳng $Oxy$ song song với mặt đường và chứa vùng nhận diện biển số xe của các phương tiện tham gia giao thông. Biết rằng camera nhận diện tốt nhất các biển số của các phương tiện tham gia giao thông là khi biển số của chúng nằm trong hình thang cân $ABCD$ với $SA = SB = 27(m)$, $OD = OC = 5(m)$, $AB = 14(m)$, $CD = 9,6(m)$ và tia $Ox$ nằm trên đường trung trực của đoạn thẳng $AB$ và $DC$ (xem hình minh họa). Giả sử tại thời điểm $9h00'$ (được xem là thời điểm xuất phát) một ô tô chuyển động thẳng đều theo phương song song với trục $Ox$, hướng về phía trục $Oy$ và có vị trí của biển số xe là $M(60; -6; 0)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

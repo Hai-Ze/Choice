@@ -1,0 +1,340 @@
+[
+  {
+    "bbox": [
+      152,
+      140,
+      1548,
+      314
+    ],
+    "category": "Text",
+    "text": "09:00, mực nước tại整面积的cọc cao hơn mặt bùn $3,3m$ (tức là $h(0) = 3,3$). Khi Ngô Quyền phát lệch phản công, ông biết rằng thuyền dịch sẽ quay đầu tháo chạy và mất 12 phút để tới整面积的cọc. Ngô Quyền muốn đúng lúc thuyền dịch tới整面积的cọc thì đầu cọc vừa nhô lên khỏi mặt nước $0,5m$. Xét tính đúng sai của các nghĩ đề sau:"
+  },
+  {
+    "bbox": [
+      188,
+      333,
+      855,
+      377
+    ],
+    "category": "List-item",
+    "text": "a) $h(t) = 3,3 - 0,125t^2 - 0,05t(m)$ trên $[0; 4]$."
+  },
+  {
+    "bbox": [
+      188,
+      388,
+      975,
+      431
+    ],
+    "category": "List-item",
+    "text": "b) Từ 09:00 đến 10:00, mực nước giảm đúng $0,19m$."
+  },
+  {
+    "bbox": [
+      188,
+      443,
+      1548,
+      530
+    ],
+    "category": "List-item",
+    "text": "c) Sau 149 phút kể từ thời điểm 09:00 (làm tròn đến hàng đơn vị của phút) thì đầu cọc vừa chạm mặt nước."
+  },
+  {
+    "bbox": [
+      188,
+      544,
+      1532,
+      588
+    ],
+    "category": "List-item",
+    "text": "d) Ngô Quyền phải phát lệch phản công vào lúc 10:26 (làm tròn đến hàng đơn vị của phút)."
+  },
+  {
+    "bbox": [
+      152,
+      603,
+      199,
+      642
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      603,
+      445,
+      665
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      188,
+      682,
+      338,
+      722
+    ],
+    "category": "List-item",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      234,
+      722,
+      1239,
+      770
+    ],
+    "category": "Text",
+    "text": "Ta có $h(t) = \\int h'(t)dt = \\int(-0,25t - 0,05)dt = -0,125t^2 - 0,05t + C$."
+  },
+  {
+    "bbox": [
+      234,
+      770,
+      1289,
+      811
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $h(0) = 3,3 \\Rightarrow -0,125 \\cdot 0^2 - 0,05 \\cdot 0 + C = 3,3 \\Rightarrow C = 3,3$."
+  },
+  {
+    "bbox": [
+      234,
+      813,
+      1007,
+      856
+    ],
+    "category": "Text",
+    "text": "Vậy $h(t) = 3,3 - 0,125t^2 - 0,05t (m)$ trên đoạn $[0; 4]$."
+  },
+  {
+    "bbox": [
+      188,
+      871,
+      297,
+      910
+    ],
+    "category": "List-item",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      234,
+      914,
+      695,
+      955
+    ],
+    "category": "Text",
+    "text": "Thời điểm 10:00 ứng với $t = 1$."
+  },
+  {
+    "bbox": [
+      234,
+      957,
+      1353,
+      1000
+    ],
+    "category": "Text",
+    "text": "Độ sâu mực nước lúc 10:00 là $h(1) = 3,3 - 0,125(1)^2 - 0,05(1) = 3,125 (m)$."
+  },
+  {
+    "bbox": [
+      234,
+      1004,
+      1189,
+      1045
+    ],
+    "category": "Text",
+    "text": "Lượng nước giảm là $\\Delta h = h(0) - h(1) = 3,3 - 3,125 = 0,175 (m)$."
+  },
+  {
+    "bbox": [
+      234,
+      1047,
+      928,
+      1089
+    ],
+    "category": "Text",
+    "text": "Vậy mực nước giảm $0,175m$, không phải $0,19m$."
+  },
+  {
+    "bbox": [
+      188,
+      1104,
+      338,
+      1143
+    ],
+    "category": "List-item",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      234,
+      1145,
+      1438,
+      1188
+    ],
+    "category": "Text",
+    "text": "Đầu cọc chạm mặt nước khi độ sâu mực nước bằng chiều cao cọc, tức là $h(t) = 2,4$."
+  },
+  {
+    "bbox": [
+      234,
+      1190,
+      1105,
+      1233
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 3,3 - 0,125t^2 - 0,05t = 2,4 \\Leftrightarrow 0,125t^2 + 0,05t - 0,9 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1229,
+      1548,
+      1357
+    ],
+    "category": "Text",
+    "text": "Giải phương trình bậc hai (với $t > 0$), ta được $t = \\frac{-0,05 + \\sqrt{0,05^2 - 4 \\cdot 0,125 \\cdot (-0,9)}}{2 \\cdot 0,125} \\approx 2,4907$ (giờ)."
+  },
+  {
+    "bbox": [
+      234,
+      1357,
+      819,
+      1402
+    ],
+    "category": "Text",
+    "text": "Đổi ra phút: $2,4907 \\times 60 \\approx 149,44$ phút."
+  },
+  {
+    "bbox": [
+      234,
+      1404,
+      796,
+      1446
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng đơn vị là 149 phút."
+  },
+  {
+    "bbox": [
+      188,
+      1461,
+      297,
+      1500
+    ],
+    "category": "List-item",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      234,
+      1504,
+      1488,
+      1547
+    ],
+    "category": "Text",
+    "text": "Đầu cọc nhô lên khỏi mặt nước $0,5m$ khi độ sâu mực nước là $h = 2,4 - 0,5 = 1,9 (m)$."
+  },
+  {
+    "bbox": [
+      234,
+      1547,
+      1105,
+      1590
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 3,3 - 0,125t^2 - 0,05t = 1,9 \\Leftrightarrow 0,125t^2 + 0,05t - 1,4 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1592,
+      1034,
+      1635
+    ],
+    "category": "Text",
+    "text": "Giải phương trình (với $t > 0$), ta được $t \\approx 3,1526$ (giờ)."
+  },
+  {
+    "bbox": [
+      234,
+      1635,
+      819,
+      1678
+    ],
+    "category": "Text",
+    "text": "Đổi ra phút: $3,1526 \\times 60 \\approx 189,16$ phút."
+  },
+  {
+    "bbox": [
+      234,
+      1680,
+      1178,
+      1723
+    ],
+    "category": "Text",
+    "text": "Thời điểm thuyền dịch tới整面积的cọc là: 09:00 + 189 phút = 12:09."
+  },
+  {
+    "bbox": [
+      234,
+      1725,
+      1548,
+      1812
+    ],
+    "category": "Text",
+    "text": "Vì thuyền dịch mất 12 phút để tới整面积的cọc nên thời điểm Ngô Quyền phát lệch phản công là: 12:09 - 12 phút = 11:57."
+  },
+  {
+    "bbox": [
+      234,
+      1814,
+      551,
+      1857
+    ],
+    "category": "Text",
+    "text": "Kết quả 10:26 là sai."
+  },
+  {
+    "bbox": [
+      152,
+      1878,
+      191,
+      1915
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      199,
+      1876,
+      1548,
+      2141
+    ],
+    "category": "Text",
+    "text": "Bài 3. Hệ thống lọc nước bể bơi vô cùng quan trọng để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon và thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ liên tục trên đoạn $[0; 12]$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "72"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

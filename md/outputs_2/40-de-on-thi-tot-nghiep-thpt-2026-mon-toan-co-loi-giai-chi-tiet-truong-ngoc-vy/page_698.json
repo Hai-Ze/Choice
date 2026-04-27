@@ -1,0 +1,142 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1087,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      96,
+      414,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      155,
+      843,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      268,
+      251
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,05"
+  },
+  {
+    "bbox": [
+      76,
+      278,
+      1113,
+      325
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $B$: “An đi xe buýt”; $\\overline{B}$: “An đi xe đạp”; $M$: “An đi học muộn”."
+  },
+  {
+    "bbox": [
+      76,
+      345,
+      563,
+      392
+    ],
+    "category": "Text",
+    "text": "Xác suất An đi xe buýt $P(B) = 0,5$."
+  },
+  {
+    "bbox": [
+      76,
+      421,
+      552,
+      478
+    ],
+    "category": "Text",
+    "text": "Xác suất An đi xe đạp $P(\\overline{B}) = 0,5$."
+  },
+  {
+    "bbox": [
+      76,
+      506,
+      1052,
+      553
+    ],
+    "category": "Text",
+    "text": "Do xác suất An đi học muộn khi đi xe buýt là 6% nên $P(M | B) = 0,06$."
+  },
+  {
+    "bbox": [
+      76,
+      582,
+      1040,
+      639
+    ],
+    "category": "Text",
+    "text": "Do xác suất An đi học muộn khi đi xe đạp là 4% nên $P(M | \\overline{B}) = 0,04$."
+  },
+  {
+    "bbox": [
+      76,
+      662,
+      452,
+      705
+    ],
+    "category": "Text",
+    "text": "Xác suất An bị muộn học là"
+  },
+  {
+    "bbox": [
+      81,
+      726,
+      1050,
+      783
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M) = P(B) \\cdot P(M | B) + P(\\overline{B}) \\cdot P(M | \\overline{B}) = 0,5 \\cdot 0,06 + 0,5 \\cdot 0,04 = 0,05.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

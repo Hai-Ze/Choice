@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      218,
+      94,
+      809,
+      364
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} \\frac{x_K + 12}{2} = 12 \\\\ \\frac{y_K + 0}{2} = 0 \\\\ \\frac{z_K + 7}{2} = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x_K = 12 \\\\ y_K = 0 \\\\ z_K = -7 \\end{cases} \\Rightarrow K(12; 0; -7).\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      368,
+      1291,
+      409
+    ],
+    "category": "Text",
+    "text": "Xét hai tam giác vuông $\\Delta CC'B$ và $\\Delta C'BK$, ta có $CC' = C'K$. $C'B$ : cạnh chung"
+  },
+  {
+    "bbox": [
+      214,
+      411,
+      928,
+      463
+    ],
+    "category": "Text",
+    "text": "Suy ra $\\Delta CC'B = \\Delta KC'B(c - g - c)$. $\\Rightarrow \\widehat{CBC'} = \\widehat{KBC'}$"
+  },
+  {
+    "bbox": [
+      214,
+      469,
+      1573,
+      560
+    ],
+    "category": "Text",
+    "text": "hay $\\alpha_2 = \\alpha_3$. Mà $\\alpha_1 = \\alpha_2$ (theo tính chất phản xạ của ánh sáng) nên $\\alpha_1 = \\alpha_3$ (hai góc ở vị trí đối định)."
+  },
+  {
+    "bbox": [
+      214,
+      557,
+      696,
+      601
+    ],
+    "category": "Text",
+    "text": "Do đó ba điểm $C', B, A$ thẳng hàng."
+  },
+  {
+    "bbox": [
+      214,
+      605,
+      928,
+      659
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB} = k \\overline{AK} \\Leftrightarrow (x_B; y_B - 6; -5) = k(12; -6; -12)$"
+  },
+  {
+    "bbox": [
+      218,
+      663,
+      979,
+      933
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x_B = 12k \\\\ y_B - 6 = -6k \\\\ -5 = -12k \\end{cases} \\Leftrightarrow \\begin{cases} x_B = 12 \\cdot \\frac{5}{12} = 5 \\\\ y_B = -6 \\cdot \\frac{5}{12} + 6 = \\frac{7}{2} \\\\ k = \\frac{5}{12} \\end{cases} \\Rightarrow B\\left(5; \\frac{7}{2}; 0\\right).\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      940,
+      337,
+      979
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      214,
+      979,
+      1162,
+      1105
+    ],
+    "category": "Text",
+    "text": "Ta có $AB = \\sqrt{5^2 + \\left(\\frac{7}{2} - 6\\right)^2 + (-5)^2} = \\frac{15}{2}$; $SA = 3$. Suy ra $\\frac{AB}{SA} = \\frac{\\frac{15}{2}}{3} = \\frac{5}{2}$"
+  },
+  {
+    "bbox": [
+      218,
+      1111,
+      922,
+      1201
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 2\\overline{AB} = 5\\overline{SA}. \\Leftrightarrow 2\\left(5; -\\frac{5}{2}; -5\\right) = 5(-a; 6-b; 5-c)\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1207,
+      1221,
+      1414
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} 2 \\cdot 5 = -5a \\\\ 2 \\cdot \\left(-\\frac{5}{2}\\right) = 5 \\cdot (6-b) \\\\ 2 \\cdot (-5) = 5 \\cdot (5-c) \\end{cases} \\Leftrightarrow \\begin{cases} 10 = -5a \\\\ -5 = 30 - 5b \\\\ -10 = 25 - 5c \\end{cases} \\Leftrightarrow \\begin{cases} a = -2 \\\\ b = 7 \\\\ c = 7 \\end{cases}. \\text{Vậy } a+b+c=12.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1459,
+      1162,
+      1505
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      1505,
+      1066,
+      1550
+    ],
+    "category": "Text",
+    "text": "**Câu 17.** Hình bên mô tả một mặt cắt ngang của một toà nhà cao tầng."
+  },
+  {
+    "bbox": [
+      530,
+      1550,
+      1294,
+      2009
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      2011,
+      1573,
+      2205
+    ],
+    "category": "Text",
+    "text": "Một chiếc thang từ xe cứu hóa lên đến mặt tường phía trước của toà nhà phải vượt qua phần mái che cao 10m so với mặt đất và vùng mái này nhô ra 12m so với tường. Giả sử, độ cao từ mặt sàn đặt thang của xe cứu hóa là $1,2\\text{m}$, hãy tìm độ dài ngắn nhất của chiếc thang để các lính cứu hóa có thể thực hiện nhiệm vụ này (làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      856,
+      2210,
+      968,
+      2248
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

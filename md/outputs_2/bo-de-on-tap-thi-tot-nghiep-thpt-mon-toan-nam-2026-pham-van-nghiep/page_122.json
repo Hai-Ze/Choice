@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      99
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      117,
+      1554,
+      254
+    ],
+    "category": "Text",
+    "text": "khi biết cả hai lần trước đó đều ra mặt 6 là $\\frac{p}{q}$ với p,q là các số nguyên dương và số nguyên tố cùng nhau. Tính $p+q$."
+  },
+  {
+    "bbox": [
+      833,
+      254,
+      954,
+      296
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      300,
+      391,
+      341
+    ],
+    "category": "Text",
+    "text": "Đáp án: 547"
+  },
+  {
+    "bbox": [
+      211,
+      341,
+      908,
+      384
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố chọn được con xúc xắc cân đối"
+  },
+  {
+    "bbox": [
+      218,
+      389,
+      850,
+      437
+    ],
+    "category": "Text",
+    "text": "$\\bar{A}$ là biến cố chọn được con xúc xắc còn lại"
+  },
+  {
+    "bbox": [
+      211,
+      441,
+      780,
+      482
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố lần trước đều ra mặt 6"
+  },
+  {
+    "bbox": [
+      211,
+      486,
+      673,
+      525
+    ],
+    "category": "Text",
+    "text": "C là biến cố lần thứ ba ra mặt 1"
+  },
+  {
+    "bbox": [
+      218,
+      535,
+      465,
+      615
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(\\bar{A}) = \\frac{1}{2}\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      622,
+      613,
+      705
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{1}{2} \\cdot \\frac{1}{6} \\cdot \\frac{1}{6} + \\frac{1}{2} \\cdot \\frac{2}{3} \\cdot \\frac{2}{3} = \\frac{17}{72}\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      712,
+      892,
+      877
+    ],
+    "category": "Formula",
+    "text": "$$\nP(C | B) = \\frac{P(CB)}{P(B)} = \\frac{\\frac{1}{2} \\cdot \\frac{1}{6} \\cdot \\frac{1}{6} \\cdot \\frac{1}{6} + \\frac{1}{2} \\cdot \\frac{2}{3} \\cdot \\frac{2}{3} \\cdot \\frac{1}{15}}{\\frac{17}{72}} = \\frac{37}{510}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      883,
+      542,
+      925
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } p = 37 ; q = 510\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      935,
+      470,
+      977
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } p + q = 547\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      983,
+      1566,
+      1213
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Một khu đất trống bằng phẳng hình chữ nhật $ABCD$ như hình vẽ. Từ vị trí A, anh An chạy bộ theo đường gấp khúc $ABEFA$ để quay lại vị trí A (trong đó E,F là hai vị trí bất kì trên đoạn CD). Vận tốc của anh An trên đoạn AB và EF bằng $10\\text{km/h}$, vận tốc của anh An trên đoạn BE và AF là $6\\text{km/h}$. Thời gian ngắn nhất mà anh An di chuyển từ A theo cách trên rồi quay lại A là bao nhiêu phút, biết khoảng cách $AB = 1\\text{km}$ và $AD = 0,6\\text{km}$"
+  },
+  {
+    "bbox": [
+      521,
+      1230,
+      1123,
+      1567
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1581,
+      954,
+      1624
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1626,
+      396,
+      1668
+    ],
+    "category": "Text",
+    "text": "Đáp số: 21,6"
+  },
+  {
+    "bbox": [
+      211,
+      1670,
+      948,
+      1722
+    ],
+    "category": "Text",
+    "text": "Khi đó gọi $EC = x \\ (0 < x < 1)$ và $DF = y \\ (0 < y < 1)$."
+  },
+  {
+    "bbox": [
+      211,
+      1735,
+      927,
+      1816
+    ],
+    "category": "Text",
+    "text": "Quăng đường đi từ A đến B là $AB = 1 \\Rightarrow t_1 = \\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      211,
+      1821,
+      1180,
+      1917
+    ],
+    "category": "Text",
+    "text": "Quăng đường đi từ B đến E là $BE = \\sqrt{0,6^2 + x^2} \\Rightarrow t_2 = \\frac{\\sqrt{0,6^2 + x^2}}{6}$."
+  },
+  {
+    "bbox": [
+      211,
+      1922,
+      1191,
+      2021
+    ],
+    "category": "Text",
+    "text": "Quăng đường đi từ F đến A là $FA = \\sqrt{0,6^2 + y^2} \\Rightarrow t_3 = \\frac{\\sqrt{0,6^2 + y^2}}{6}$."
+  },
+  {
+    "bbox": [
+      211,
+      2026,
+      1150,
+      2118
+    ],
+    "category": "Text",
+    "text": "Và quăng đường đi E đến F là $EF = 1 - (x + y) \\Rightarrow t_4 = \\frac{1 - (x + y)}{10}$."
+  },
+  {
+    "bbox": [
+      211,
+      2125,
+      864,
+      2169
+    ],
+    "category": "Text",
+    "text": "Vậy tổng thời gian An đi là $t = t_1 + t_2 + t_3 + t_4$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1518,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

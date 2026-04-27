@@ -1,0 +1,329 @@
+[
+  {
+    "bbox": [
+      191,
+      132,
+      1518,
+      216
+    ],
+    "category": "List-item",
+    "text": "c) Quỹ đạo chuyển động của tàu là một đường hypebol có phương trình là $\\frac{x^2}{400^2} - \\frac{y^2}{300^2} = 1$."
+  },
+  {
+    "bbox": [
+      188,
+      219,
+      1462,
+      261
+    ],
+    "category": "List-item",
+    "text": "d) Khi con tàu cách gốc tọa độ $O$ một khoảng 800 km thì hoành độ của nó nhỏ hơn 600."
+  },
+  {
+    "bbox": [
+      154,
+      277,
+      198,
+      316
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      277,
+      569,
+      339
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      340,
+      1546,
+      467
+    ],
+    "category": "Text",
+    "text": "Vì \"con tàu luôn nhận tín hiệu từ trạm $A$ trước tín hiệu từ trạm $B$ một khoảng là 0,002 giây\" nên thời gian nhận tín hiệu từ trạm $A$ ít hơn thời gian nhận tín hiệu từ trạm $B$ là 0,002 giây $\\Longleftrightarrow t_2 - t_1 = 0,002$."
+  },
+  {
+    "bbox": [
+      203,
+      490,
+      352,
+      529
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      532,
+      1194,
+      572
+    ],
+    "category": "Text",
+    "text": "$PA, PB$ lần lượt là khoảng cách giữa con tàu tại vị trí $P$ đến trạm $A, B$."
+  },
+  {
+    "bbox": [
+      154,
+      575,
+      1496,
+      618
+    ],
+    "category": "Text",
+    "text": "Ta có tốc độ truyền tín hiệu từ 2 trạm $A, B$ đến con tàu là $v = 3 \\cdot 10^8$ (m/s) $= 3 \\cdot 10^5$ (km/s)."
+  },
+  {
+    "bbox": [
+      154,
+      620,
+      1434,
+      661
+    ],
+    "category": "Text",
+    "text": "Lại có $t_1, t_2$ (giây) lần lượt là thời gian truyền tín hiệu từ trạm $A$ và trạm $B$ đến con tàu."
+  },
+  {
+    "bbox": [
+      154,
+      663,
+      1336,
+      853
+    ],
+    "category": "Text",
+    "text": "Nên $\\begin{cases} PA = v \\cdot t_1 = 3 \\cdot 10^5 t_1 \\\\ PB = v \\cdot t_2 = 3 \\cdot 10^5 t_2 \\end{cases}$\n$\\Rightarrow |PA - PB| = |3 \\cdot 10^5 t_1 - 3 \\cdot 10^5 t_2| = 3 \\cdot 10^5 |t_1 - t_2| = 3 \\cdot 10^5 \\cdot 0,002 = 600$ (km).\nVậy hiệu khoảng cách giữa tàu với trạm $A$ và trạm $B$ là $|PA - PB| = 600$ (km)."
+  },
+  {
+    "bbox": [
+      203,
+      875,
+      308,
+      914
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      917,
+      1546,
+      1002
+    ],
+    "category": "Text",
+    "text": "Từ phần b, ta có $|PA - PB| = 600$ (km). Theo định nghĩa, quỹ đạo của tàu là một nhánh của đường hypebol với $2a = 600 \\Rightarrow a = 300$."
+  },
+  {
+    "bbox": [
+      154,
+      1008,
+      1175,
+      1047
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai tiêu cự (hai trạm) là $2c = AB = 1000 \\Rightarrow c = 500$."
+  },
+  {
+    "bbox": [
+      154,
+      1050,
+      894,
+      1089
+    ],
+    "category": "Text",
+    "text": "Ta có $b^2 = c^2 - a^2 = 500^2 - 300^2 = 400^2 \\Rightarrow b = 400$."
+  },
+  {
+    "bbox": [
+      154,
+      1083,
+      969,
+      1166
+    ],
+    "category": "Text",
+    "text": "Phương trình chính tắc của hypebol là: $\\frac{x^2}{300^2} - \\frac{y^2}{400^2} = 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1158,
+      1012,
+      1240
+    ],
+    "category": "Text",
+    "text": "Mind đề ghi $\\frac{x^2}{400^2} - \\frac{y^2}{300^2} = 1$ là sai (nhầm lẫn giữa $a$ và $b$)."
+  },
+  {
+    "bbox": [
+      203,
+      1255,
+      352,
+      1294
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1297,
+      1232,
+      1338
+    ],
+    "category": "Text",
+    "text": "Giả sử tọa độ $P(x_0; y_0)$. Vì tàu cách gốc tọa độ $O$ một khoảng 800 km nên:"
+  },
+  {
+    "bbox": [
+      154,
+      1338,
+      1244,
+      1387
+    ],
+    "category": "Formula",
+    "text": "$$\nOP = 800 \\Longleftrightarrow \\sqrt{x_0^2 + y_0^2} = 800 \\Longleftrightarrow x_0^2 + y_0^2 = 800^2 \\Longleftrightarrow y_0^2 = 800^2 - x_0^2.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1382,
+      1232,
+      1463
+    ],
+    "category": "Text",
+    "text": "Vì $P$ thuộc vào hypebol $\\frac{x^2}{300^2} - \\frac{y^2}{400^2} = 1$, thay tọa độ điểm $P$ vào ta được:"
+  },
+  {
+    "bbox": [
+      154,
+      1455,
+      1239,
+      1618
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\frac{x_0^2}{300^2} - \\frac{800^2 - x_0^2}{400^2} &= 1 \\Longleftrightarrow \\frac{16x_0^2 - 9(800^2 - x_0^2)}{1440000} = 1 \\\\ \\Longleftrightarrow 25x_0^2 - 9 \\cdot 800^2 &= 1440000 \\Longleftrightarrow 25x_0^2 = 1440000 + 5760000 = 7200000. \\\\ \\Longleftrightarrow x_0^2 &= 288000 \\Rightarrow |x_0| = \\sqrt{288000} \\approx 536,656 < 600. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1620,
+      769,
+      1659
+    ],
+    "category": "Text",
+    "text": "Vậy hoành độ của nó nhỏ hơn 600 là đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1685,
+      190,
+      1717
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1678,
+      1546,
+      1853
+    ],
+    "category": "Text",
+    "text": "Bài 3. Tốc độ phát triển của một loại nấm mốc trên một sàn nhà tỷ lệ thuận với lượng nấm mốc hiện tại. Diện tích nấm mốc trên sàn lúc đầu ($t = 0$) là 2 cm² và sau 2 ngày là 9 cm². Gọi $A(t)$ là diện tích nấm mốc tại thời điểm $t$ thì $A'(t) = k \\cdot A(t)$ (với $k$ là hằng số). Cho biết $A(t) = e^{g(t)}$. Các mind đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      191,
+      1873,
+      823,
+      1914
+    ],
+    "category": "List-item",
+    "text": "a) $g(t) = e^{kt} + C$ với $C$ là hằng số xác định."
+  },
+  {
+    "bbox": [
+      191,
+      1919,
+      392,
+      1998
+    ],
+    "category": "List-item",
+    "text": "b) $k = \\frac{1}{2} \\ln \\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      191,
+      2000,
+      418,
+      2039
+    ],
+    "category": "List-item",
+    "text": "c) $g(0) = 2 \\ln 2$."
+  },
+  {
+    "bbox": [
+      191,
+      2049,
+      1403,
+      2092
+    ],
+    "category": "List-item",
+    "text": "d) Sau 3 ngày (tính từ thời điểm $t = 0$), diện tích nấm mốc bao phủ lớn hơn 20 cm²."
+  },
+  {
+    "bbox": [
+      154,
+      2110,
+      198,
+      2145
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      2108,
+      444,
+      2170
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      203,
+      2183,
+      308,
+      2222
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      149,
+      2255,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "99"
+  }
+]

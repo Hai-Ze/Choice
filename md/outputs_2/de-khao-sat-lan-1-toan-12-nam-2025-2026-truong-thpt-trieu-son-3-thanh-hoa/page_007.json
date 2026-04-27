@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      161,
+      114,
+      1131,
+      160
+    ],
+    "category": "Text",
+    "text": "a) máy bay chiến đấu khi bay từ $M$ đến $N$ luôn cách mặt đất là 20 km."
+  },
+  {
+    "bbox": [
+      161,
+      175,
+      641,
+      224
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách $MN = 100\\sqrt{34}$ km."
+  },
+  {
+    "bbox": [
+      153,
+      245,
+      1534,
+      344
+    ],
+    "category": "Text",
+    "text": "c) Góc $\\widehat{MON}$ được gọi là góc quét của ra đa khi quan sát máy bay chiến đấu bay từ $M$ đến $N$. Trong tình huống trên góc quét $\\widehat{MON}$ nhỏ hơn $60^\\circ$."
+  },
+  {
+    "bbox": [
+      153,
+      353,
+      1534,
+      440
+    ],
+    "category": "Text",
+    "text": "d) Khi đến $N$ máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 8 phút tiếp theo là $Q(a;b;c)$ với $a+b+c=870$."
+  },
+  {
+    "bbox": [
+      153,
+      459,
+      764,
+      510
+    ],
+    "category": "Text",
+    "text": "Câu 2. Xét hàm số $f(x) = x + \\cos x$ trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      161,
+      536,
+      561,
+      622
+    ],
+    "category": "Text",
+    "text": "a) $\\int f(x)dx = \\frac{x^2}{2} - \\sin x + C$."
+  },
+  {
+    "bbox": [
+      161,
+      645,
+      1116,
+      732
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $F(x) = \\frac{x^2}{2} - \\sin x + 5$ là một nguyên hàm của hàm số $f(x)$."
+  },
+  {
+    "bbox": [
+      161,
+      746,
+      826,
+      795
+    ],
+    "category": "Text",
+    "text": "c) Đạo hàm của hàm số $f(x)$ là $f'(x) = 1 - \\sin x$."
+  },
+  {
+    "bbox": [
+      161,
+      818,
+      1486,
+      905
+    ],
+    "category": "Text",
+    "text": "d) Gọi $G(x)$ là một nguyên hàm của hàm số $f(x)$ và thỏa mãn $G(0) = 1$. Khi đó $G(\\pi) = \\frac{\\pi^2}{2} + 1$."
+  },
+  {
+    "bbox": [
+      153,
+      922,
+      954,
+      973
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = f(x) = x^3 - 3x + 2$ có đồ thị là (C)."
+  },
+  {
+    "bbox": [
+      161,
+      994,
+      956,
+      1044
+    ],
+    "category": "Text",
+    "text": "a) Giá trị nhỏ nhất của $f(x)$ trên khoảng $(-1; +\\infty)$ bằng 0."
+  },
+  {
+    "bbox": [
+      161,
+      1065,
+      859,
+      1116
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 3x^2 - 3x$."
+  },
+  {
+    "bbox": [
+      161,
+      1137,
+      736,
+      1187
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đồng biến trên khoảng $(-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      161,
+      1208,
+      1147,
+      1258
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách từ điểm cực đại của đồ thị (C) đến gốc tọa độ bằng $\\sqrt{17}$."
+  },
+  {
+    "bbox": [
+      153,
+      1275,
+      1534,
+      1398
+    ],
+    "category": "Text",
+    "text": "Câu 4. Hai xạ thủ mỗi người một viên đạn bắn vào bia với xác suất bắn trúng của người thứ nhất là 0,85 và của người thứ hai là 0,8. Biết rằng kết quả bắn trúng hoặc không trúng bia của hai xạ thủ là độc lập với nhau."
+  },
+  {
+    "bbox": [
+      161,
+      1407,
+      906,
+      1453
+    ],
+    "category": "Text",
+    "text": "a) Khả năng xạ thủ thứ hai không bắn trúng bia là 15%."
+  },
+  {
+    "bbox": [
+      161,
+      1463,
+      833,
+      1508
+    ],
+    "category": "Text",
+    "text": "b) Khả năng cả hai viên đạn đều trúng bia là 68%."
+  },
+  {
+    "bbox": [
+      161,
+      1518,
+      854,
+      1563
+    ],
+    "category": "Text",
+    "text": "c) Xác suất có đúng 1 viên đạn bắn trúng bia là 0,3."
+  },
+  {
+    "bbox": [
+      161,
+      1573,
+      914,
+      1619
+    ],
+    "category": "Text",
+    "text": "d) Khả năng có ít nhất 1 viên đạn bắn trúng bia là 97%."
+  },
+  {
+    "bbox": [
+      153,
+      1629,
+      1534,
+      1714
+    ],
+    "category": "Text",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6. Kết quả là một số có tối đa 4 ký tự, bao gồm cả dấu trừ (-) và dấu phấy (,)."
+  },
+  {
+    "bbox": [
+      153,
+      1723,
+      1534,
+      1964
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho một nhóm 15 học sinh có chiều cao khác nhau gồm 5 học sinh nữ có chiều cao tăng dẫn ký hiệu lần lượt là $G_1, G_2, G_3, G_4, G_5$ và 10 học sinh nam. Hỏi có bao nhiêu cách xếp 15 học sinh đó thành một hàng ngang sao cho nếu tính từ trái sang phải thì các học sinh nữ có chiều cao tăng dẫn, các học sinh nam cũng có chiều cao tăng dẫn; giữa học sinh $G_1$ và $G_2$ có ít nhất 3 học sinh nam, giữa học sinh $G_4$ và $G_5$ có ít nhất 1 học sinh nam và nhiều nhất 4 học sinh nam?"
+  },
+  {
+    "bbox": [
+      153,
+      1981,
+      1534,
+      2151
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một bài thi trắc nghiệm gồm 10 câu hỏi, mỗi câu có 4 phương án trả lời, trong đó chỉ có một phương án đúng. Mỗi câu trả lời đúng được 4 điểm, mỗi câu trả lời sai trừ 1 điểm. Một thí sinh làm bài bằng cách ở mỗi câu hỏi chọn ngẫu nhiên một phương án trả lời. Gọi $p$ là xác suất khi thí sinh đó có kết quả 10 điểm. Giá trị của $100p$ bằng bao nhiêu? (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      153,
+      2278,
+      316,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1212"
+  },
+  {
+    "bbox": [
+      1400,
+      2283,
+      1534,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

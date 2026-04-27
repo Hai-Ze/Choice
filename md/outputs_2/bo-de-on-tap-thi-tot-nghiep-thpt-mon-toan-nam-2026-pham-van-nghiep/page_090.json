@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      106,
+      1245,
+      154
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức trên với $n = 5$; $T_5 = 1000000000$; $r = 7\\% = 0,07$ ta có:"
+  },
+  {
+    "bbox": [
+      217,
+      166,
+      1276,
+      350
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n1000000000 &= \\frac{m}{0,07}[(1+0,07)^5 - 1](1+0,07) \\Leftrightarrow 70000000 = m(1,07^5 - 1)1,07 \\\\\n\\Leftrightarrow m &= \\frac{70000000}{1,07(1,07^5 - 1)} \\approx 163 \\text{ triệu đồng.}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      1249,
+      397,
+      1593,
+      479
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>1</td><td>6</td><td>3</td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      477,
+      1575,
+      574
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Ở các độ cao khác nhau trong khí quyển Trái Đất thì âm thanh di chuyển với tốc độ khác nhau. Tốc độ âm thanh $s(x)$ (tính bằng giây) được mô hình hóa bằng phương trình a):"
+  },
+  {
+    "bbox": [
+      272,
+      605,
+      763,
+      971
+    ],
+    "category": "Formula",
+    "text": "$$\ns(x) = \\begin{cases} -4x + 341 & 0 \\le x < 11,5 \\\\ 295 & 11,5 \\le x < 22 \\\\ \\frac{3}{4}x + 278,5 & 22 \\le x < 32 \\\\ \\frac{3}{2}x + 254,5 & 32 \\le x < 50 \\\\ -\\frac{3}{2}x + 404,5 & 50 \\le x \\le 80 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1004,
+      509,
+      1040
+    ],
+    "category": "Text",
+    "text": "a)"
+  },
+  {
+    "bbox": [
+      861,
+      589,
+      1559,
+      992
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1194,
+      1002,
+      1228,
+      1040
+    ],
+    "category": "Text",
+    "text": "b)"
+  },
+  {
+    "bbox": [
+      212,
+      1043,
+      1573,
+      1136
+    ],
+    "category": "Text",
+    "text": "Trong đó $x$ là độ cao trung bình (tính bằng kilomet) minh họa như hình b). Hỏi tốc độ âm thanh trung bình trong khoảng $[0;80]$ bằng bao nhiêu? (Đơn vị: m/s)"
+  },
+  {
+    "bbox": [
+      833,
+      1147,
+      953,
+      1188
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1192,
+      394,
+      1232
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 308"
+  },
+  {
+    "bbox": [
+      212,
+      1236,
+      970,
+      1279
+    ],
+    "category": "Text",
+    "text": "Ta chia thành năm phần rồi tính tích phân như sau:"
+  },
+  {
+    "bbox": [
+      217,
+      1283,
+      1030,
+      1379
+    ],
+    "category": "Formula",
+    "text": "$$\nI_1 = \\int_{0}^{11,5} s(x)dx = \\int_{0}^{11,5} (-4x + 341)dx = [-2x^2 + 341x]_{0}^{11,5} = 3657\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1386,
+      856,
+      1483
+    ],
+    "category": "Formula",
+    "text": "$$\nI_2 = \\int_{11,5}^{22} s(x)dx = \\int_{11,5}^{22} 495dx = [495x]_{11,5}^{22} = 3097,5\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1496,
+      1069,
+      1594
+    ],
+    "category": "Formula",
+    "text": "$$\nI_3 = \\int_{22}^{32} s(x)dx = \\int_{22}^{32} \\left(\\frac{3}{4}x + 278,5\\right)dx = \\left[\\frac{3}{8}x^2 + 278,5x\\right]_{22}^{32} = 2987,5\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1602,
+      1044,
+      1700
+    ],
+    "category": "Formula",
+    "text": "$$\nI_4 = \\int_{32}^{50} s(x)dx = \\int_{32}^{50} \\left(\\frac{3}{2}x + 254,5\\right)dx = \\left[\\frac{3}{4}x^2 + 254,5x\\right]_{32}^{50} = 5688\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1708,
+      1086,
+      1806
+    ],
+    "category": "Formula",
+    "text": "$$\nI_5 = \\int_{50}^{80} s(x)dx = \\int_{50}^{80} \\left(-\\frac{3}{2}x + 404,5\\right)dx = \\left[-\\frac{3}{4}x^2 + 404,5x\\right]_{50}^{80} = 9210\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1815,
+      1458,
+      1911
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } I = \\int_{0}^{80} s(x)dx = I_1 + I_2 + I_3 + I_4 + I_5 = 3657 + 3097,5 + 2987,5 + 5688 + 9210 = 24640\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1917,
+      1568,
+      2013
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy tốc độ âm thanh trung bình từ độ 0 đến 80km là: } v_{TB} = \\frac{1}{80} \\int_{0}^{80} s(x)dx = \\frac{1}{80} \\cdot 24640 = 308 \\text{ (m/s)}\n$$"
+  },
+  {
+    "bbox": [
+      1249,
+      2062,
+      1593,
+      2143
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>3</td><td>0</td><td>8</td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      2147,
+      1557,
+      2191
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một phần sân trường được định vị bởi các điểm $A, B, C, D$ minh họa như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

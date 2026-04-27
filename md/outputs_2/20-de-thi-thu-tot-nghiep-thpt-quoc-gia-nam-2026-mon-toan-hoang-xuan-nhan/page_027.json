@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      168,
+      58,
+      1596,
+      252
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>c) Nếu cos AIB bằng $\\frac{a}{b}$ (phân số tối giản) thì giá trị $a^2 + b^2 = 82$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Một con kiến bò từ vị trí A đến vị trí B trên quả bóng với tốc độ 2 cm/s; thời gian ngắn nhất cho chuyển đi này là 21 giây (làm tròn đến hàng đơn vị).</td><td>☐</td><td>☐</td></tr></table>"
+  },
+  {
+    "bbox": [
+      727,
+      252,
+      954,
+      294
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      218,
+      290,
+      472,
+      333
+    ],
+    "category": "Section-header",
+    "text": "a) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      333,
+      1284,
+      383
+    ],
+    "category": "Text",
+    "text": "Mặt ngoài quả bóng là mặt cầu $(S)$ có tâm $I(2; -1; -1)$ và bán kính $R = \\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      218,
+      387,
+      439,
+      430
+    ],
+    "category": "Section-header",
+    "text": "b) Mindh đề sai."
+  },
+  {
+    "bbox": [
+      218,
+      432,
+      1490,
+      514
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d$: $\\frac{x+2}{2} = \\frac{y+1}{-3} = \\frac{z}{1}$ qua $M(-2; -1; 0)$ và có vecto chỉ phương $\\vec{u}_d = (2; -3; 1)$."
+  },
+  {
+    "bbox": [
+      218,
+      516,
+      859,
+      578
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{MI} = (4; 0; -1)$; $[\\vec{u}_d, \\overrightarrow{MI}] = (3; 6; 12)$."
+  },
+  {
+    "bbox": [
+      218,
+      586,
+      965,
+      716
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } d(I, d) = \\frac{[\\vec{u}_d, \\overrightarrow{MI}]}{|\\vec{u}_d|} = \\frac{\\sqrt{3^2 + 6^2 + 12^2}}{\\sqrt{2^2 + (-3)^2 + 1^2}} = \\frac{3\\sqrt{6}}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      718,
+      472,
+      762
+    ],
+    "category": "Section-header",
+    "text": "c) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      762,
+      928,
+      852
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là hình chiếu của $I$ trên $d$ thì $KI = \\frac{3\\sqrt{6}}{2}$ và"
+  },
+  {
+    "bbox": [
+      223,
+      858,
+      703,
+      940
+    ],
+    "category": "Formula",
+    "text": "$$\nKA \\perp IA; \\text{ suy ra } \\cos AIK = \\frac{IA}{IK} = \\frac{2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      950,
+      756,
+      1089
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Do vậy } \\cos AIB &= 2\\cos^2 AIK - 1 \\\\ &= 2 \\times \\left(\\frac{2}{3}\\right)^2 - 1 = -\\frac{1}{9} = \\frac{a}{b} \\Rightarrow a^2 + b^2 = 82. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      967,
+      737,
+      1483,
+      1096
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      218,
+      1092,
+      475,
+      1136
+    ],
+    "category": "Section-header",
+    "text": "d) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      1136,
+      1352,
+      1223
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài cung tròn bé nhất mà con kiến có thể đi: } l_{AB} = R \\times AIB = \\sqrt{6} \\times \\arccos\\left(-\\frac{1}{9}\\right) \\approx 4,12 \\text{ dm.}\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1231,
+      969,
+      1318
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thời gian tối少 để kiến đến nơi là } \\frac{l_{AB} \\times 10}{2} \\approx 21 \\text{ giây.}\n$$"
+  },
+  {
+    "bbox": [
+      92,
+      1355,
+      1326,
+      1620
+    ],
+    "category": "List-item",
+    "text": "Câu 15. Ở nhiệt độ 37°C, một phản ứng hóa học từ chất đầu $A$, chuyển hóa thành chất sản phẩm $B$ theo phương trình: $A \\rightarrow B$. Giả sử $y(x)$ là nồng độ chất $A$ (đơn vị mol $L^{-1}$) tại thời điểm $x$ (giây), $y(x) > 0$ với $x \\ge 0$, thỏa mãn hệ thức: $y'(x) = -7.10^{-4} y(x)$ với $x \\ge 0$. Biết rằng tại $x = 0$, nồng độ (đầu) của $A$ là 0,05 mol $L^{-1}$. Xét hàm số $f(x) = \\ln y(x)$ với $x \\ge 0$."
+  },
+  {
+    "bbox": [
+      1349,
+      1358,
+      1594,
+      1715
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      168,
+      1715,
+      1596,
+      1967
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các mindh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) $f'(x) = -7.10^{-4}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) $f(x) = -7.10^{-4}x + \\ln(0,05)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) $y(30) - y(15) = -6.10^{-4}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      135,
+      2017,
+      505,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1564,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

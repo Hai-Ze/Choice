@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      94,
+      42,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      36,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      123,
+      1199,
+      427
+    ],
+    "category": "Text",
+    "text": "$(10 < x < 80)$ thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = x^3 - 4x^2 + 10x + 20$ (triệu đồng). Trong đó chi phí vận hành máy móc cho $x$ sản phẩm là $G(x) = 2x^2 + 5x + 5$ (triệu đồng). Tổng chi phí mua nguyên vật liệu là $H(x) = 2x^3 + x - 4$ (triệu đồng) nhưng do doanh nghiệp đó mua nguyên vật liệu số lượng lớn nên được giảm 10% cho 10 sản phẩm đầu tiên doanh nghiệp sản xuất và giảm 20% cho số sản phẩm còn lại. Hỏi doanh nghiệp cần sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất, giả sử bán hết $x$ sản phẩm đã sản xuất (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      979,
+      392,
+      1032,
+      425
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      385,
+      1197,
+      436
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      465,
+      689,
+      886
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một vật trang trí có dạng một khối tròn xoay được tạo thành khi quay�iền $(R)$ (phần gạch chéo trong hình vẽ) quanh trục $MN$. Biết rằng $ABCD$ là hình chữ nhật với $AB = 6$ cm, $AD = 10$ cm, $M, N$ lần lượt là trung điểm của $AD, BC$, hai đường cong là đường elip có hình chữ nhật cơ sở là $ABCD$ và đường tròn tiếp xúc với hai cạnh $AD$ và $BC$ (tham khảo hình vẽ). Tính thể tích của vật trang trí đó (đơn vị $cm^3$, kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      731,
+      485,
+      1171,
+      779
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      891,
+      1032,
+      923
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      882,
+      1197,
+      933
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      948,
+      1199,
+      1146
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Một vật có trọng lượng 300 N được treo bằng ba sợi dây cáp không dã có chiều dài bằng nhau, mỗi dây cáp có một đầu được gắn tại một trong các điểm sau $P(4; 0; 0)$, $Q(-2; 2\\sqrt{3}; 0)$, $R(-2; -2\\sqrt{3}; 0)$ còn đầu kia gắn với vật tại điểm $S(0; 0; -4\\sqrt{3})$ như hình vẽ. Gọi $\\vec{F}_1(x_1; y_1; z_1)$, $\\vec{F}_2(x_2; y_2; z_2)$, $\\vec{F}_3(x_3; y_3; z_3)$ lần lượt là lực căng trên các sợi dây cáp $RS, QS$ và $PS$. Tính $0,3(x_1^2 + y_1^2 + z_1^2)$."
+  },
+  {
+    "bbox": [
+      281,
+      1174,
+      993,
+      1626
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      1667,
+      1032,
+      1700
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1659,
+      1197,
+      1710
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1725,
+      1199,
+      2070
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Một người ốm bị nghi mắc một trong hai loại bệnh là $A$ và $B$. Thống kê tình hình mắc bệnh trong nhiều năm cho thấy xác suất mắc bệnh $A$ cao gấp đối xác suất mắc bệnh $B$. bệnh viện thực hiện hai xét nghiệm y học $T_1$ và $T_2$ một cách độc lập cho bệnh nhân. Biết rằng nếu có bệnh $A$ thì xét nghiệm $T_1$ cho kết quả dương tính với xác suất 0,9, còn xét nghiệm $T_2$ cho kết quả dương tính với xác suất 0,75. Trong trường hợp bị bệnh $B$, xét nghiệm $T_1$ cho kết quả dương tính với xác suất 0,05 và xét nghiệm $T_2$ cho kết quả dương tính với xác suất 0,1. Giả sử cả hai xét nghiệm $T_1$ và $T_2$ đều dương tính. Xác suất mắc bệnh $A$ của người bệnh kết quả làm tròn đến hàng phần nghìn dạng $0,abc$. Khi đó, $abc$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      979,
+      2036,
+      1032,
+      2069
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      2027,
+      1197,
+      2078
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      555,
+      2103,
+      594,
+      2136
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      614,
+      2096,
+      691,
+      2136
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      708,
+      2103,
+      747,
+      2136
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 143"
+  }
+]

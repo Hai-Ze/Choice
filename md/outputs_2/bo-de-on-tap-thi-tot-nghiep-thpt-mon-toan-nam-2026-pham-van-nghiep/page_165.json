@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1252,
+      153
+    ],
+    "category": "Text",
+    "text": "Vì vậy $OI = a$ và $OI \\parallel B'C'$ hay $OI = a$ và $OI \\perp A'B'$ (vì $B'C' \\perp A'B'$)."
+  },
+  {
+    "bbox": [
+      212,
+      159,
+      1574,
+      256
+    ],
+    "category": "Text",
+    "text": "Vì $AO \\perp (A'B'C'D')$ nên $OI$ là hình chiếu của $AI$ trên $(A'B'C'D')$ mà $OI \\perp A'B'$ nên $AI \\perp A'B'$"
+  },
+  {
+    "bbox": [
+      212,
+      260,
+      1275,
+      415
+    ],
+    "category": "Text",
+    "text": "Ta có $\\left. \\begin{array}{l} AI \\subset (AA'B'), \\quad AI \\perp A'B' \\\\ OI \\subset (C'A'B'), \\quad OI \\perp A'B' \\end{array} \\right\\} \\Rightarrow$ góc nhị diện $[A, A'B', C'] = AIO = \\varphi$ + Tính góc $\\varphi$"
+  },
+  {
+    "bbox": [
+      212,
+      421,
+      608,
+      501
+    ],
+    "category": "Text",
+    "text": "Ta có: $A'O = \\frac{1}{2} A'C' = a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      505,
+      1382,
+      585
+    ],
+    "category": "Text",
+    "text": "Vì $\\Delta AOA'$ vuông tại $O$ có $A'O = a\\sqrt{2}$, $AA' = a\\sqrt{3}$ nên $AO = \\sqrt{(a\\sqrt{3})^2 - (a\\sqrt{2})^2} = a$"
+  },
+  {
+    "bbox": [
+      212,
+      592,
+      1424,
+      637
+    ],
+    "category": "Text",
+    "text": "Vì $\\Delta AOI$ vuông tại $O$ có $AO = a$, $IO = a$ nên $\\Delta AOI$ vuông cân tại $O$ suy ra $\\varphi = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      212,
+      643,
+      949,
+      690
+    ],
+    "category": "Text",
+    "text": "Vậy, góc nhị diện $[A, A'B', C']$ có số đo bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      74,
+      700,
+      1574,
+      1061
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** MộtchiếcmáymáygiặttạicửahàngĐiệnmáyXanhniêmyếtgiá15,79triệuđồng.Tuynhiên, người mua có thể chọn hình thức mua trả tiền ngay lập tức 15,79 triệu đồng hoặc theo hình thức trả trước 20%, còn lại 80% trả theo hình thức trả góp với lãi suất là 1%/tháng, sau đúng một tháng kể từ thời điểm mua, người mua bắt đầu trả nợ, hai lần trả nợ liên tiếp cách nhau đúng một tháng, số tiền phải trả mỗi tháng là như nhau và người mua phải trả hết nợ sau đúng 1 năm từ thời điểm mua, tiền lãi tính theo số nợ thực tế. Hỏi nếu mua theo hình thức trả góp, số tiền phải trả nhiều hơn là bao nhiêu triệu đồng so với giá niêm yết (kết quả làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      829,
+      1065,
+      957,
+      1106
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      212,
+      1108,
+      407,
+      1150
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,77"
+  },
+  {
+    "bbox": [
+      212,
+      1154,
+      981,
+      1197
+    ],
+    "category": "Text",
+    "text": "Số tiền đã trả trước là: $15,79 \\times 20\\% = 3,158$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      212,
+      1201,
+      1185,
+      1244
+    ],
+    "category": "Text",
+    "text": "Số tiền nợ còn lại cần phải trả là: $15,79 - 3,158 = 12,632$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      212,
+      1248,
+      1087,
+      1291
+    ],
+    "category": "Text",
+    "text": "Bây giờ, ta áp dụng công thức vay trả góp cho bài toán này:"
+  },
+  {
+    "bbox": [
+      217,
+      1297,
+      654,
+      1379
+    ],
+    "category": "Formula",
+    "text": "$$\nS_n = A(1 + r\\%)^n - X \\cdot \\frac{(1 + r\\%)^n - 1}{r\\%}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1388,
+      360,
+      1428
+    ],
+    "category": "Text",
+    "text": "Trong đó:"
+  },
+  {
+    "bbox": [
+      217,
+      1432,
+      876,
+      1473
+    ],
+    "category": "Text",
+    "text": "$A = 12,632$ (triệu đồng) là số tiền nợ ban đầu."
+  },
+  {
+    "bbox": [
+      217,
+      1477,
+      581,
+      1519
+    ],
+    "category": "Text",
+    "text": "$r\\% = 1\\%$ là lãi suất/tháng."
+  },
+  {
+    "bbox": [
+      212,
+      1523,
+      1574,
+      1656
+    ],
+    "category": "Text",
+    "text": "$n = 12$ (tháng) là khoảng thời gian trả nợ (Do sau đúng một tháng kể từ thời điểm mua, người mua bắt đầu trả nợ, mà người đó cần phải trả hết nợ trong 12 tháng, nên số tháng phải trả hết nợ theo lãi suất là 12 tháng)."
+  },
+  {
+    "bbox": [
+      212,
+      1660,
+      1574,
+      1754
+    ],
+    "category": "Text",
+    "text": "$S_{12} = 0$ (đồng) là số tiền nợ còn lại sau 11 tháng. (Do cần phải trả hết nợ nên số nợ còn lại là 0 (đồng))."
+  },
+  {
+    "bbox": [
+      212,
+      1758,
+      814,
+      1799
+    ],
+    "category": "Text",
+    "text": "Thay số và áp dụng công thức trên ta có:"
+  },
+  {
+    "bbox": [
+      217,
+      1803,
+      1396,
+      1935
+    ],
+    "category": "Formula",
+    "text": "$$\n0 = 12,632 \\cdot (1 + 1\\%)^{12} - X \\cdot \\frac{(1 + 1\\%)^{12} - 1}{1\\%} \\Rightarrow X = \\frac{12,632 \\cdot (1 + 1\\%)^{12}}{\\frac{(1 + 1\\%)^{12} - 1}{1\\%}} \\approx 1,12233 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1941,
+      1574,
+      1984
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền phải trả nếu mua theo hình thức trả góp là:"
+  },
+  {
+    "bbox": [
+      217,
+      1988,
+      1342,
+      2029
+    ],
+    "category": "Formula",
+    "text": "$$\nM = \\text{Tiền gốc} + \\text{Tiền trả theo lãi suất} = 1,12233 \\cdot 12 + 3,158 = 16,62596 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2035,
+      1127,
+      2078
+    ],
+    "category": "Text",
+    "text": "Số tiền chênh lệch khi mua trả góp và mua trả ngay lập tức là:"
+  },
+  {
+    "bbox": [
+      217,
+      2082,
+      776,
+      2123
+    ],
+    "category": "Formula",
+    "text": "$$\n16,62596 - 15,79 = 0,83596 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2127,
+      1041,
+      2170
+    ],
+    "category": "Text",
+    "text": "Kết quả làm tròn đến hàng phần trăm: 0,84 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

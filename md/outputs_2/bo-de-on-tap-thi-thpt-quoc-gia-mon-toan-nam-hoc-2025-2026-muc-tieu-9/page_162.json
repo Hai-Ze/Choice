@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      202,
+      141,
+      560,
+      181
+    ],
+    "category": "Text",
+    "text": "Vậy $a + b = 6 + 37 = 43$."
+  },
+  {
+    "bbox": [
+      152,
+      202,
+      1548,
+      420
+    ],
+    "category": "Text",
+    "text": "Bài 6. Trong bộ môn billiards 9 bóng (các bóng được đánh số từ 1 đến 9) có 3 quả bóng mục tiêu là 1, 4 và 8. Cơ thủ X chọn ngẫu nhiên 3 quả, sau đó cơ thủ Y chọn ngẫu nhiên 3 quả từ các quả còn lại. Biết rằng sau khi chọn, cơ thủ X đang có lợi thế hơn cơ thủ Y (tức là số bóng mục tiêu của X nhiều hơn của Y). Hãy tính xác suất để cơ thủ Y không giữ bất kỳ quả bóng mục tiêu nào (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      152,
+      435,
+      1548,
+      539
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tập hợp các quả bóng là $\\{1, 2, \\dots, 9\\}$. Nhóm bóng mục tiêu $T = \\{1, 4, 8\\}$ (3 quả), nhóm bóng thường $N$ gồm 6 quả còn lại."
+  },
+  {
+    "bbox": [
+      202,
+      557,
+      1279,
+      599
+    ],
+    "category": "Text",
+    "text": "Gọi $X_t$ và $Y_t$ lần lượt là số bóng mục tiêu cơ thủ X và cơ thủ Y nhận được."
+  },
+  {
+    "bbox": [
+      152,
+      618,
+      1550,
+      708
+    ],
+    "category": "Text",
+    "text": "Xác suất được tính trên không gian mẫu là các trường hợp X chọn 3 quả và Y chọn 3 quả từ 6 quả còn lại: $n(\\Omega) = C_9^3 \\cdot C_6^3 = 1680$."
+  },
+  {
+    "bbox": [
+      202,
+      724,
+      1546,
+      766
+    ],
+    "category": "Text",
+    "text": "Biến cố điều kiện $A$: \"Cơ thủ X có lợi thế hơn cơ thủ Y\" ($X_t > Y_t$). Các trường hợp thỏa mãn:"
+  },
+  {
+    "bbox": [
+      195,
+      784,
+      927,
+      830
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond X_t = 1, Y_t = 0: C_3^1 C_6^2 \\cdot C_2^0 C_4^3 = 45 \\cdot 4 = 180 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      842,
+      943,
+      888
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond X_t = 2, Y_t = 0: C_3^2 C_6^1 \\cdot C_1^0 C_5^3 = 18 \\cdot 10 = 180 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      901,
+      943,
+      947
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond X_t = 2, Y_t = 1: C_3^2 C_6^1 \\cdot C_1^1 C_5^2 = 18 \\cdot 10 = 180 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      959,
+      912,
+      1005
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond X_t = 3, Y_t = 0: C_3^3 C_6^0 \\cdot C_0^0 C_6^3 = 1 \\cdot 20 = 20 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1020,
+      1219,
+      1062
+    ],
+    "category": "Text",
+    "text": "Số kết quả thuận lợi cho biến cố $A$ là: $n(A) = 180 + 180 + 180 + 20 = 560$."
+  },
+  {
+    "bbox": [
+      202,
+      1081,
+      1156,
+      1124
+    ],
+    "category": "Text",
+    "text": "Biến cố $B$: \"Cơ thủ Y không giữ quả bóng mục tiêu nào\" ($Y_t = 0$)."
+  },
+  {
+    "bbox": [
+      202,
+      1143,
+      1063,
+      1185
+    ],
+    "category": "Text",
+    "text": "Các kết quả thuận lợi cho cả $A$ và $B$ ($X_t > Y_t$ và $Y_t = 0$) là:"
+  },
+  {
+    "bbox": [
+      266,
+      1202,
+      1432,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\nn(A \\cap B) = 180(X_t = 1, Y_t = 0) + 180(X_t = 2, Y_t = 0) + 20(X_t = 3, Y_t = 0) = 380.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1250,
+      447,
+      1289
+    ],
+    "category": "Text",
+    "text": "Xác suất cần tìm là:"
+  },
+  {
+    "bbox": [
+      519,
+      1292,
+      1179,
+      1377
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{n(A \\cap B)}{n(A)} = \\frac{380}{560} = \\frac{19}{28} \\approx 0,67857\\dots\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1380,
+      927,
+      1421
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm, ta được kết quả: 0,68."
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "162"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      836,
+      102,
+      951,
+      140
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      168,
+      391,
+      206
+    ],
+    "category": "Section-header",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      252,
+      211,
+      1494,
+      328
+    ],
+    "category": "Text",
+    "text": "Gọi $x(km)$, $x > 0$ là khoảng cách từ tàu cảnh sát biển cách radar $O$ về phía đông. Khi đó toạ độ của tàu cảnh sát biển là $C(15; x; 0)$. Ta có $OC = \\sqrt{15^2 + x^2 + 0^2} = \\sqrt{x^2 + 225}$."
+  },
+  {
+    "bbox": [
+      252,
+      358,
+      1037,
+      404
+    ],
+    "category": "Text",
+    "text": "Để radar phát hiện được tàu cảnh sát biển thì $OC \\le 30 km$."
+  },
+  {
+    "bbox": [
+      252,
+      437,
+      1189,
+      490
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\sqrt{x^2 + 225} \\le 30 \\Leftrightarrow x^2 + 225 \\le 900 \\Leftrightarrow x^2 \\le 675 \\Leftrightarrow x \\le 15\\sqrt{3} \\text{ km.}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      523,
+      1244,
+      573
+    ],
+    "category": "Text",
+    "text": "Vậy tàu cảnh sát biển cần di chuyển về phía đông cách $O$ tối đa $15\\sqrt{3} km$."
+  },
+  {
+    "bbox": [
+      252,
+      606,
+      391,
+      645
+    ],
+    "category": "Section-header",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      301,
+      653,
+      1510,
+      770
+    ],
+    "category": "Text",
+    "text": "Ta có $OB = \\sqrt{(-20)^2 + 15^2 + 0^2} = 25 km < 30 km$ nên radar phát hiện ra tàu đánh cá tại vị trí $B$."
+  },
+  {
+    "bbox": [
+      252,
+      802,
+      391,
+      840
+    ],
+    "category": "Section-header",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      252,
+      840,
+      1502,
+      996
+    ],
+    "category": "Text",
+    "text": "Một chiếc tàu thám hiểm tại vị trí $A$ ở độ sâu $10 km$ so với mặt nước biển, cách $O$ $25 km$ về phía nam và $15 km$ về phía Tây nên ta có toạ độ tàu thám hiểm là điểm toạ độ điểm $A(25; -15; -10)$. Khi đó khoảng cách từ chiếc tàu thám hiểm đến radar bằng"
+  },
+  {
+    "bbox": [
+      256,
+      1011,
+      817,
+      1077
+    ],
+    "category": "Formula",
+    "text": "$$\nOA = \\sqrt{25^2 + (-15)^2 + (-10)^2} = 5\\sqrt{38} \\text{ km.}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1113,
+      391,
+      1152
+    ],
+    "category": "Section-header",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      252,
+      1157,
+      1457,
+      1260
+    ],
+    "category": "Text",
+    "text": "Ta thấy $OA = 5\\sqrt{38} km \\approx 30,82 km$, mà phạm vi theo dõi của radar là $30 km$ nên radar không phát hiện được tàu thám hiểm đặt tại vị trí $A$."
+  },
+  {
+    "bbox": [
+      114,
+      1291,
+      1138,
+      1376
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = \\frac{2x^2 - 5x + 9}{x - 5}$. Các мыnhi đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      252,
+      1381,
+      1069,
+      1463
+    ],
+    "category": "List-item",
+    "text": "a) Đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $-\\frac{9}{5}$."
+  },
+  {
+    "bbox": [
+      252,
+      1465,
+      817,
+      1514
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số nghịch biến trên khoảng $(1; 9)$."
+  },
+  {
+    "bbox": [
+      252,
+      1516,
+      1017,
+      1561
+    ],
+    "category": "List-item",
+    "text": "c) Có đúng một điểm trên đồ thị cách đều hai trục tọa độ."
+  },
+  {
+    "bbox": [
+      252,
+      1557,
+      851,
+      1601
+    ],
+    "category": "List-item",
+    "text": "d) Đồ thị hàm số có tiệm cận đứng là $y = 5$."
+  },
+  {
+    "bbox": [
+      767,
+      1607,
+      881,
+      1645
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1673,
+      370,
+      1712
+    ],
+    "category": "Section-header",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      1736,
+      587,
+      1817
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } x = 0 \\Rightarrow f(0) = -\\frac{9}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      285,
+      1846,
+      1124,
+      1928
+    ],
+    "category": "Text",
+    "text": "Vậy đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $-\\frac{9}{5}$."
+  },
+  {
+    "bbox": [
+      252,
+      1994,
+      339,
+      2031
+    ],
+    "category": "Section-header",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      252,
+      2031,
+      1487,
+      2125
+    ],
+    "category": "Text",
+    "text": "Tập xác định của hàm số là $R \\setminus \\{5\\}$ suy ra hàm số đã cho không xác định $\\forall x \\in (1; 9)$ nên kết luận b sai."
+  },
+  {
+    "bbox": [
+      252,
+      2121,
+      606,
+      2167
+    ],
+    "category": "Text",
+    "text": "Để cụ thể hơn ta xem tiếp:"
+  }
+]

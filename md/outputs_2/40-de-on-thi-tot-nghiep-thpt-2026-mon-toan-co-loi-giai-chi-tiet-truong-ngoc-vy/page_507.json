@@ -1,0 +1,260 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      615,
+      137
+    ],
+    "category": "Text",
+    "text": "c) Xác suất có điều kiện $P(A|B) = 0,7$."
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      1494,
+      257
+    ],
+    "category": "Text",
+    "text": "d) Trong số những bài viết bị phần mềm cảnh báo là đạo văn, có nhiều khả năng là bài viết chính chủ hơn là đạo văn."
+  },
+  {
+    "bbox": [
+      727,
+      278,
+      843,
+      316
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      331,
+      894,
+      453
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      453,
+      365,
+      493
+    ],
+    "category": "Text",
+    "text": "Ta có sơ đồ hình cây:"
+  },
+  {
+    "bbox": [
+      102,
+      516,
+      369,
+      740
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      762,
+      847,
+      806
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta có: Xác suất $P(A) = 0,01$ và $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      76,
+      828,
+      591,
+      872
+    ],
+    "category": "Text",
+    "text": "Do $A, B$ là hai biến cố độc lập nên có:"
+  },
+  {
+    "bbox": [
+      76,
+      896,
+      1042,
+      939
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất } P(B) = P(A \\cap B) + P(\\bar{A} \\cap B) = 0,01 \\cdot 0,98 + 0,99 \\cdot 0,03 = 0,0395.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      968,
+      1008,
+      1051
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất có điều kiện } P(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0,01 \\cdot 0,98}{0,0395} = 0,25 \\neq 0,7.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1080,
+      1494,
+      1226
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\begin{cases} 0,99 \\cdot 0,03 = 0,0297 \\\\ 0,01 \\cdot 0,98 = 0,0098 \\\\ 0,0297 > 0,0098 \\end{cases} \\Rightarrow \\text{Trong số những bài viết bị phần mềm cảnh báo là đạo văn, có nhiều khả năng là bài viết chính chủ hơn là đạo văn.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1248,
+      634,
+      1292
+    ],
+    "category": "Text",
+    "text": "năng là bài viết chính chủ hơn là đạo văn."
+  },
+  {
+    "bbox": [
+      76,
+      1365,
+      727,
+      1404
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      1428,
+      1174,
+      1473
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Mái church đối xứng qua trục, có biên dạng $f(x) = 6 \\cdot e^{-0,5x} + 1$, $0 \\le x \\le 6$"
+  },
+  {
+    "bbox": [
+      527,
+      1528,
+      1031,
+      1821
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1845,
+      701,
+      1887
+    ],
+    "category": "Text",
+    "text": "Cổng church dạng parabol, rộng 4 m và cao 3 m."
+  },
+  {
+    "bbox": [
+      76,
+      1903,
+      542,
+      1944
+    ],
+    "category": "Text",
+    "text": "Mối cửa sổ kích thước $1m \\times 0,5m$."
+  },
+  {
+    "bbox": [
+      76,
+      1968,
+      926,
+      2012
+    ],
+    "category": "Text",
+    "text": "Mặt tiền phía trước của mặt sẽ được sơn màu vàng dày $0,1mm$."
+  },
+  {
+    "bbox": [
+      76,
+      2030,
+      1067,
+      2075
+    ],
+    "category": "Text",
+    "text": "Hỏi: Cần bao nhiêu lít nước sơn? (làm tròn kết quản đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      76,
+      2094,
+      413,
+      2129
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2153,
+      843,
+      2191
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2211,
+      251,
+      2248
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2,5"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

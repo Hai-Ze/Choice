@@ -1,0 +1,177 @@
+[
+  {
+    "bbox": [
+      211,
+      43,
+      1044,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      23,
+      0,
+      220,
+      186
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      166,
+      1565,
+      307
+    ],
+    "category": "List-item",
+    "text": "» **Câu 15.** Một nhóm nghiên cứu tiến hành khảo sát 10 000 người và nhận thấy những người hút thuốc lá có nguy cơ bị ung thư phổi cao hơn so với người không hút thuốc lá. Kết quả khảo sát của nhóm nghiên cứu được trình bày trong bảng dữ liệu thống kê $2 \\times 2$ sau đây:"
+  },
+  {
+    "bbox": [
+      313,
+      304,
+      1464,
+      457
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Mắc ung thư phổi</td><td>Không mắc ung thư phổi</td></tr></thead><tbody><tr><td>Hút thuốc lá</td><td>1 124 người</td><td>1 126 người</td></tr><tr><td>Không hút thuốc lá</td><td>276 người</td><td>7 474 người</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      251,
+      459,
+      1299,
+      504
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một người trong 10 000 người được khảo sát. Khi đó:"
+  },
+  {
+    "bbox": [
+      251,
+      501,
+      1602,
+      857
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>M�ngh đề</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>(a)</td><td>Xác suất để người đó hút thuốc lá là 14%.</td><td></td><td></td></tr><tr><td>(b)</td><td>Nếu người đó bị ung thư phổi thì xác suất người đó hút thuốc lá lớn hơn 80%.</td><td></td><td></td></tr><tr><td>(c)</td><td>Xác suất để người đó bị ung thư phổi là 14%.</td><td></td><td></td></tr><tr><td>(d)</td><td>Dựa theo kết quả khảo sát trên ta thấy, người hút thuốc lá có nguy cơ mắc bệnh ung thư phổi cao cấp khoảng 14 lần (kết quả làm tròn đến hàng đơn vị) so với người không hút thuốc lá.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      859,
+      1227,
+      1210
+    ],
+    "category": "List-item",
+    "text": "» **Câu 16.** Hình vẽ minh họa đường bay của một chiếc trực thăng $H$ cất cánh từ một sân bay. Xét hệ trực tọa độ $Oxyz$ có gốc tọa độ $O$ là chân tháp điều剂 của sân bay; trục $Ox$ là hướng đông, trục $Oy$ là hướng bắc và trục $Oz$ là trục thẳng đứng, đơn vị trên mỗi trục là kilomet. Trực thăng cất cánh từ điểm $G$. Véc tơ $\\vec{r}$ chỉ vị trí của trực thăng tại thời điểm $t$ phút sau khi cất cánh ($t \\ge 0$) có tọa độ là $\\vec{r} = (1+t; 0,5+2t; 2t)$. Khi đó:"
+  },
+  {
+    "bbox": [
+      1244,
+      867,
+      1618,
+      1118
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1213,
+      1602,
+      1635
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>M�ngh đề</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>(a)</td><td>Tọa độ điểm $G(1;0,5;0)$.</td><td></td><td></td></tr><tr><td>(b)</td><td>Phương trình đường thẳng $GH$ là $\\frac{x-1}{1} = \\frac{0,5-y}{2} = \\frac{z}{2}$.</td><td></td><td></td></tr><tr><td>(c)</td><td>Hình chiếu của đường thẳng $GH$ xuống mặt đất là đường thẳng đi qua điểm $I(2;2,5;0)$.</td><td></td><td></td></tr><tr><td>(d)</td><td>Giả sử một đỉnh núi tại $M(5;4,5;3)$. Khi $HM \\perp GH$ thì khoảng cách từ trực thăng đến đỉnh núi bằng $\\sqrt{5}$ (km).</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      65,
+      1635,
+      439,
+      1680
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      113,
+      1680,
+      1562,
+      1816
+    ],
+    "category": "List-item",
+    "text": "» **Câu 17.** Ba số dương có tổng bằng 21 và tạo nên một cấp số cộng. Nếu bớt đi 1 ở số hàng thứ nhất, thêm 1 ở số hạng thứ hai và thêm 7 vào số hạng thứ ba thì được ba số mới lập thành cấp số nhân. Tìm tích ba số đã cho (điền cả 3 số)"
+  },
+  {
+    "bbox": [
+      1089,
+      1821,
+      1231,
+      1856
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      1812,
+      1562,
+      1861
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1865,
+      1227,
+      2192
+    ],
+    "category": "List-item",
+    "text": "» **Câu 18.** Trong cơ khí chế tạo, một chi tiết máy hình đĩa tròn có dạng như hình vẽ, nhận $AB$ và $CD$ làm các trục đối xứng. Người ta cần phủ sơn cả hai mặt của chi tiết. Biết rằng đường tròn lớn có bán kính $5\\text{dm}$, các đường tròn nhỏ đều có bán kính bằng $2\\text{dm}$, $AB = CD = 4\\text{dm}$ và chi phí sơn là $82.000$ đồng/$m^2$. Chi phí để sơn hoàn thiện chi tiết máy bằng bao nhiêu nghìn đồng (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      1258,
+      1865,
+      1579,
+      2190
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      2248,
+      616,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1313,
+      2253,
+      1458,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 78"
+  },
+  {
+    "bbox": [
+      1481,
+      2164,
+      1652,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

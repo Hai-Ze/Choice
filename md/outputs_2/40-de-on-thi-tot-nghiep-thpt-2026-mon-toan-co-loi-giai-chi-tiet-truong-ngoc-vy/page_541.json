@@ -1,0 +1,371 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      660,
+      102,
+      1072,
+      457
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      475,
+      573,
+      519
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      205,
+      536,
+      348,
+      599
+    ],
+    "category": "List-item",
+    "text": "A. $|\\vec{u}| = a$."
+  },
+  {
+    "bbox": [
+      555,
+      536,
+      711,
+      599
+    ],
+    "category": "List-item",
+    "text": "B. $|\\vec{u}| = 4a$."
+  },
+  {
+    "bbox": [
+      906,
+      536,
+      1065,
+      599
+    ],
+    "category": "List-item",
+    "text": "C. $|\\vec{u}| = 6a$."
+  },
+  {
+    "bbox": [
+      1254,
+      536,
+      1413,
+      599
+    ],
+    "category": "List-item",
+    "text": "D. $|\\vec{u}| = 2a$."
+  },
+  {
+    "bbox": [
+      807,
+      624,
+      924,
+      663
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      682,
+      277,
+      721
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      739,
+      954,
+      916
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Vì } \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD} = 0 \\text{ nên } \\vec{u} = \\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'} \\\\\n= \\overrightarrow{OO'} + \\overrightarrow{O'A'} + \\overrightarrow{OO'} + \\overrightarrow{O'B} + \\overrightarrow{OO'} + \\overrightarrow{O'C'} + \\overrightarrow{OO'} + \\overrightarrow{O'D'} \\\\\n= 4\\overrightarrow{OO'}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      939,
+      486,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } |\\vec{u}| = 4|\\overrightarrow{OO'}| = 4a.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1025,
+      1239,
+      1074
+    ],
+    "category": "Text",
+    "text": "Câu 9. Trong không gian $Oxyz$, mặt phẳng $(Oyz)$ có một vecto pháp tuyến là"
+  },
+  {
+    "bbox": [
+      205,
+      1101,
+      383,
+      1152
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_3(1;1;1)$."
+  },
+  {
+    "bbox": [
+      555,
+      1101,
+      750,
+      1152
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2(0;0;0)$."
+  },
+  {
+    "bbox": [
+      906,
+      1101,
+      1094,
+      1152
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_4(1;0;0)$."
+  },
+  {
+    "bbox": [
+      1254,
+      1101,
+      1436,
+      1152
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_1(0;1;1)$."
+  },
+  {
+    "bbox": [
+      807,
+      1179,
+      924,
+      1218
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1237,
+      277,
+      1276
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      1295,
+      924,
+      1346
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(Oyz)$ có một vecto pháp tuyến là $\\vec{n}_4(1;0;0)$."
+  },
+  {
+    "bbox": [
+      156,
+      1375,
+      1573,
+      1518
+    ],
+    "category": "Text",
+    "text": "Câu 10. Trong không gian với hệ trục tọa độ $Oxyz$, đường thẳng $d: \\frac{x-3}{1} = \\frac{y+2}{3} = \\frac{z-1}{2}$ đi qua điểm nào dưới đây?"
+  },
+  {
+    "bbox": [
+      205,
+      1538,
+      425,
+      1585
+    ],
+    "category": "List-item",
+    "text": "A. $M(3;-2;1)$."
+  },
+  {
+    "bbox": [
+      555,
+      1538,
+      796,
+      1585
+    ],
+    "category": "List-item",
+    "text": "B. $M(-3;2;-1)$."
+  },
+  {
+    "bbox": [
+      906,
+      1538,
+      1102,
+      1585
+    ],
+    "category": "List-item",
+    "text": "C. $M(1;3;2)$."
+  },
+  {
+    "bbox": [
+      1254,
+      1538,
+      1487,
+      1585
+    ],
+    "category": "List-item",
+    "text": "D. $M(2;-5;2)$."
+  },
+  {
+    "bbox": [
+      807,
+      1612,
+      924,
+      1651
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1670,
+      277,
+      1708
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      1728,
+      1075,
+      1810
+    ],
+    "category": "Text",
+    "text": "Ta có điểm $M(3;-2;1)$ thuộc đường thẳng $d: \\frac{x-3}{1} = \\frac{y+2}{3} = \\frac{z-1}{2}$."
+  },
+  {
+    "bbox": [
+      156,
+      1832,
+      1573,
+      1941
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Gọi $M$ và $N$ theo thứ tự là trung điểm của cạnh $SA$, $SD$. Mặt phẳng nào sau đây song song với mặt phẳng $(MNO)$"
+  },
+  {
+    "bbox": [
+      205,
+      1972,
+      358,
+      2019
+    ],
+    "category": "List-item",
+    "text": "A. $(SCD)$."
+  },
+  {
+    "bbox": [
+      555,
+      1972,
+      704,
+      2019
+    ],
+    "category": "List-item",
+    "text": "B. $(SBC)$."
+  },
+  {
+    "bbox": [
+      906,
+      1972,
+      1055,
+      2019
+    ],
+    "category": "List-item",
+    "text": "C. $(SAB)$."
+  },
+  {
+    "bbox": [
+      1254,
+      1972,
+      1413,
+      2019
+    ],
+    "category": "List-item",
+    "text": "D. $(SAD)$."
+  },
+  {
+    "bbox": [
+      807,
+      2046,
+      924,
+      2085
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2104,
+      277,
+      2143
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      627,
+      153,
+      1022,
+      205
+    ],
+    "category": "Section-header",
+    "text": "HƯỚNG DÃN GIẢI"
+  },
+  {
+    "bbox": [
+      114,
+      300,
+      1531,
+      385
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu thí sinh chỉ chọn một phương án"
+  },
+  {
+    "bbox": [
+      114,
+      394,
+      1220,
+      440
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình vẽ?"
+  },
+  {
+    "bbox": [
+      503,
+      443,
+      1292,
+      1029
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1043,
+      444,
+      1126
+    ],
+    "category": "Formula",
+    "text": "A. $y = \\frac{2x-1}{2x+1}$"
+  },
+  {
+    "bbox": [
+      586,
+      1043,
+      762,
+      1126
+    ],
+    "category": "Formula",
+    "text": "B. $y = \\frac{x+1}{x-1}$"
+  },
+  {
+    "bbox": [
+      901,
+      1043,
+      1091,
+      1126
+    ],
+    "category": "Formula",
+    "text": "C. $y = \\frac{2x+1}{2x-1}$"
+  },
+  {
+    "bbox": [
+      1215,
+      1043,
+      1407,
+      1126
+    ],
+    "category": "Formula",
+    "text": "D. $y = \\frac{2x+1}{x-1}$"
+  },
+  {
+    "bbox": [
+      836,
+      1135,
+      950,
+      1172
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1175,
+      695,
+      1218
+    ],
+    "category": "Text",
+    "text": "Đồ thị có tiệm cận đứng là $x=1$."
+  },
+  {
+    "bbox": [
+      251,
+      1227,
+      1321,
+      1308
+    ],
+    "category": "Text",
+    "text": "Đồ thị có tiệm cận ngang là $y=1$ nên đồ thị trên là đồ thị của hàm số $y = \\frac{x+1}{x-1}$."
+  },
+  {
+    "bbox": [
+      114,
+      1329,
+      1533,
+      1413
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình hộp $ABCD.A'B'C'D'$ tâm $O$. Gọi $I, I'$ lần lượt là tâm của hình bình hành $ABCD, A'B'C'D'$ (hình vẽ). Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      664,
+      1424,
+      1133,
+      1772
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1788,
+      602,
+      1830
+    ],
+    "category": "Formula",
+    "text": "A. $\\overline{AC'} = \\overline{AB} + \\overline{AD} + \\overline{AA'}$."
+  },
+  {
+    "bbox": [
+      901,
+      1788,
+      1120,
+      1830
+    ],
+    "category": "Formula",
+    "text": "B. $\\overline{OI} + \\overline{OI'} = \\overline{O}$."
+  },
+  {
+    "bbox": [
+      251,
+      1838,
+      605,
+      1884
+    ],
+    "category": "Formula",
+    "text": "C. $\\overline{AB} + \\overline{AA'} = \\overline{AD} + \\overline{DD'}$."
+  },
+  {
+    "bbox": [
+      901,
+      1841,
+      1421,
+      1884
+    ],
+    "category": "Formula",
+    "text": "D. $\\overline{AB} + \\overline{BC} + \\overline{CC'} = \\overline{AD'} + \\overline{D'O} + \\overline{OC'}$."
+  },
+  {
+    "bbox": [
+      836,
+      1892,
+      950,
+      1929
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1932,
+      575,
+      1975
+    ],
+    "category": "Text",
+    "text": "Lời giải chi tiết bài toán"
+  },
+  {
+    "bbox": [
+      251,
+      1982,
+      949,
+      2026
+    ],
+    "category": "Formula",
+    "text": "A. $\\overline{AC'} = \\overline{AB} + \\overline{AD} + \\overline{AA'}$ **đúng** do quy tắc hình hộp"
+  },
+  {
+    "bbox": [
+      251,
+      2033,
+      915,
+      2077
+    ],
+    "category": "Formula",
+    "text": "B. $\\overline{OI} + \\overline{OI'} = \\overline{O}$ **đúng** do $I$ là trung điểm của $II'$"
+  },
+  {
+    "bbox": [
+      251,
+      2084,
+      719,
+      2127
+    ],
+    "category": "Formula",
+    "text": "C. $\\overline{AB} + \\overline{AA'} = \\overline{AD} + \\overline{DD'}$ là **sai** do"
+  },
+  {
+    "bbox": [
+      258,
+      2136,
+      471,
+      2178
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB} + \\overline{AA'} = \\overline{AB'}\n$$"
+  },
+  {
+    "bbox": [
+      258,
+      2187,
+      646,
+      2229
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AD} + \\overline{DD'} = \\overline{AD} + \\overline{AA'} = \\overline{AD'}\n$$"
+  }
+]

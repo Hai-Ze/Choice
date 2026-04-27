@@ -1,0 +1,256 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      123,
+      1195,
+      201
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ lan truyền tin đồn lớn nhất sau 9,2 giờ (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      124,
+      201,
+      1195,
+      279
+    ],
+    "category": "List-item",
+    "text": "d) Tại thời điểm tin đồn lan truyền với tốc độ lớn nhất thì có 50% dân số biết tin đồn (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      94,
+      294,
+      1198,
+      488
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hai hình trụ có cùng bán kính bằng 3 được đặt lồng vào nhau sao cho trục của hai hình trụ vuông góc với nhau và cắt nhau tại $O$ (hình 1). Gọi ($H$) là phần giao của hai hình trụ (hình 2). Chọn trục $Ox$ vuông góc với hai trục của hình trụ như hình vẽ. Cắt khối ($H$) bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ ($-3 \\le x \\le 3$), ta được thiết diện có diện tích là $S(x)$."
+  },
+  {
+    "bbox": [
+      171,
+      504,
+      731,
+      921
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      411,
+      946,
+      490,
+      973
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      786,
+      511,
+      1124,
+      867
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      915,
+      946,
+      993,
+      973
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      94,
+      1004,
+      616,
+      1039
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai của các мыn đề sau"
+  },
+  {
+    "bbox": [
+      124,
+      1041,
+      671,
+      1079
+    ],
+    "category": "List-item",
+    "text": "a) Hình khối ($H$) là một khối tròn xoay."
+  },
+  {
+    "bbox": [
+      124,
+      1081,
+      903,
+      1199
+    ],
+    "category": "List-item",
+    "text": "b) Công thức tính thể tích khối ($H$) là $V = \\pi \\int_{-3}^{3} S^2(x) dx$."
+  },
+  {
+    "bbox": [
+      124,
+      1201,
+      1005,
+      1243
+    ],
+    "category": "List-item",
+    "text": "c) Diện tích $S(x)$ được xác định bởi công thức $S(x) = 2(9 - x^2)$."
+  },
+  {
+    "bbox": [
+      124,
+      1241,
+      696,
+      1281
+    ],
+    "category": "List-item",
+    "text": "d) Thể tích của khối ($H$) bằng 144 (dvtt)."
+  },
+  {
+    "bbox": [
+      110,
+      1296,
+      893,
+      1349
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1357,
+      1198,
+      1476
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông cân tại $A$, tam giác $SBC$ là tam giác đều cạnh 1 và thuộc mặt phẳng vuông góc với đáy. Tính khoảng cách giữa hai đường thẳng $SA$ và $BC$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      94,
+      1485,
+      1198,
+      1792
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Hai tên cớp bịt mặt tấn công 1 ngân hàng. Tuy nhiên, người thu ngân đã kịp thờiress chông báo động và khóa cửa ra vào. Các tên cớp nhận ra rằng chúng đã mặc kẹt, vì vậy quyết định cởi mặt nạ và trà trộn vào đám đông. Đối mặt với 40 người trong ngân hàng đều tự nhận mình vô tội, cảnh sát quyết định sử dụng máy phát hiện nói dối. Giả sử xác suất 1 người phạm tội bị máy phát hiện nói dối báo động là 0,85, xác suất 1 người vô tội bị máy báo động là 0,08. Tính xác suất Tuấn là 1 trong 2 tên cớp, biết rằng Tuấn bị máy phát hiện nói dối báo động. Kết quả làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      94,
+      1829,
+      828,
+      2136
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một vật trang trí có dạng một khối tròn xoay được tạo thành khi quay miền ($R$) (phần được tô màu trong hình vẽ bên) quanh trục $AB$. Miền ($R$) được giới hạn bởi các cạnh $AB$, $AD$ của hình vuông $ABCD$ và các cung phần tư của các đường tròn bán kính bằng 1 cm với tâm lần lượt là trung điểm của các cạnh $AD$, $AB$. Tính thể tích của vật trang trí đó, làm tròn kết quả đến hàng phần mười của centimet khối."
+  },
+  {
+    "bbox": [
+      871,
+      1846,
+      1171,
+      2151
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2165,
+      1198,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong một phần mềm 3D mô phỏng một trò chơi điện tử, có hai chất điểm $A, B$ luôn chuyển động trên một mặt cầu ($S$) và cách nhau một khoảng không đổi"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1460,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "153"
+  }
+]

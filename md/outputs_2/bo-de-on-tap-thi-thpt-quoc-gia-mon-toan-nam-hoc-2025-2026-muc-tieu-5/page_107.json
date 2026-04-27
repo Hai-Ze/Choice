@@ -1,0 +1,270 @@
+[
+  {
+    "bbox": [
+      521,
+      138,
+      1156,
+      664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      726,
+      1192,
+      768
+    ],
+    "category": "Text",
+    "text": "d) Chiều dài đoạn đường hầm nằm trong lớp than đá lớn hơn 80 mét."
+  },
+  {
+    "bbox": [
+      154,
+      783,
+      199,
+      822
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      783,
+      569,
+      845
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      859,
+      1204,
+      902
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E$) đi qua 3 điểm $A, B, C$ nên có cặp vectơ chỉ phương là:"
+  },
+  {
+    "bbox": [
+      202,
+      912,
+      793,
+      963
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB} = (140; 150; 120); \\overrightarrow{AC} = (100; 90; 80).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      981,
+      1152,
+      1025
+    ],
+    "category": "Text",
+    "text": "Chọn $\\vec{u}_1(14; 15; 12)$, $\\vec{u}_2(10; 9; 8)$ là cặp VTCP của mặt phẳng ($E$)."
+  },
+  {
+    "bbox": [
+      202,
+      1042,
+      1384,
+      1086
+    ],
+    "category": "Text",
+    "text": "Khi đó, một vectơ pháp tuyến của mặt phẳng ($E$) là $\\vec{n}_E = [\\vec{u}_1, \\vec{u}_2] = (12; 8; -24)$."
+  },
+  {
+    "bbox": [
+      202,
+      1103,
+      1439,
+      1146
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E$) đi qua $A(-20; 30; -200)$ và có VTPT $\\vec{n}_1 = (3; 2; -6)$ có phương trình:"
+  },
+  {
+    "bbox": [
+      202,
+      1166,
+      1208,
+      1208
+    ],
+    "category": "Formula",
+    "text": "$$\n3(x + 20) + 2(y - 30) - 6(z + 200) = 0 \\iff 3x + 2y - 6z - 1200 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1228,
+      352,
+      1269
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      1286,
+      1053,
+      1329
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E'$) đi qua 3 điểm $A', B', C'$ nên có cặp VTCP:"
+  },
+  {
+    "bbox": [
+      202,
+      1339,
+      822,
+      1390
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{A'B'} = (140; 150; 116); \\overrightarrow{A'C'} = (100; 90; 76).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1400,
+      1556,
+      1453
+    ],
+    "category": "Text",
+    "text": "Suy ra một VTPT của mặt phẳng ($E'$) là $\\vec{n}_{E'} = [\\overrightarrow{A'B'}, \\overrightarrow{A'C'}] = (960; 960; -2400) = 480(2; 2; -5)$."
+  },
+  {
+    "bbox": [
+      202,
+      1468,
+      1185,
+      1513
+    ],
+    "category": "Text",
+    "text": "Suy ra $\\vec{n}_2 = (2; 2; -5)$ là một vectơ pháp tuyến của mặt phẳng ($E'$)."
+  },
+  {
+    "bbox": [
+      202,
+      1534,
+      308,
+      1574
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      1592,
+      1366,
+      1635
+    ],
+    "category": "Text",
+    "text": "Đường hầm $d$ đi qua $T(-200; 200; 0)$ theo hướng $\\vec{v} = (2; -1; -1)$ có PT tham số:"
+  },
+  {
+    "bbox": [
+      202,
+      1647,
+      636,
+      1814
+    ],
+    "category": "Formula",
+    "text": "$$\nd: \\begin{cases} x = -200 + 2t \\\\ y = 200 - t \\\\ z = -t \\end{cases} \\quad (t \\in \\mathbb{R}).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1830,
+      1131,
+      1872
+    ],
+    "category": "Text",
+    "text": "Thay vào PT mặt phẳng ($E$) : $3x + 2y - 6z - 1200 = 0$, ta được:"
+  },
+  {
+    "bbox": [
+      202,
+      1891,
+      1375,
+      1933
+    ],
+    "category": "Formula",
+    "text": "$$\n3(-200 + 2t) + 2(200 - t) - 6(-t) - 1200 = 0 \\iff 10t - 1400 = 0 \\iff t = 140.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1952,
+      1185,
+      1993
+    ],
+    "category": "Text",
+    "text": "Vị trí đầu tiên gặp lớp than là $M(80; 60; -140)$. Khi đó $a = 80 < 90$."
+  },
+  {
+    "bbox": [
+      202,
+      2015,
+      313,
+      2055
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      2073,
+      1324,
+      2116
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E'$) đi qua $C'(80; 120; -160)$ có VTPT $\\vec{n}_2 = (2; 2; -5)$ nên có PT:"
+  },
+  {
+    "bbox": [
+      202,
+      2136,
+      1227,
+      2178
+    ],
+    "category": "Formula",
+    "text": "$$\n2(x - 80) + 2(y - 120) - 5(z + 160) = 0 \\iff 2x + 2y - 5z - 1200 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2181,
+      807,
+      2222
+    ],
+    "category": "Text",
+    "text": "Thay PT đường hầm $d$ vào PT ($E'$), ta được:"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "107"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      96,
+      1248,
+      145
+    ],
+    "category": "Text",
+    "text": "Nếu số thùng sữa loại II là $x$ thùng ($x \\in N$) thì số thùng sữa loại I là $1,5x$ thùng."
+  },
+  {
+    "bbox": [
+      156,
+      173,
+      856,
+      257
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } P(A) = \\frac{1,5x}{1,5x + x} = \\frac{3}{5}; P(\\bar{A}) = 1 - P(A) = \\frac{2}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      277,
+      1181,
+      324
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $B$ là biến cố chọn được “10 hộp lấy ra có đúng 2 hộp sữa giả”."
+  },
+  {
+    "bbox": [
+      163,
+      344,
+      685,
+      437
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{C_5^2 \\cdot C_{43}^8}{C_{48}^{10}}; P(B|\\bar{A}) = \\frac{C_3^2 \\cdot C_{45}^8}{C_{48}^{10}}.\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      464,
+      1240,
+      558
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = \\frac{3}{5} \\cdot \\frac{C_5^2 \\cdot C_{43}^8}{C_{48}^{10}} + \\frac{2}{5} \\cdot \\frac{C_3^2 \\cdot C_{45}^8}{C_{48}^{10}} = \\frac{2052}{11891} \\approx 0,17.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

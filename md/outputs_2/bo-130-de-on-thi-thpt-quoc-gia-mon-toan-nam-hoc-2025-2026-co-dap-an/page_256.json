@@ -1,0 +1,457 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      326,
+      153
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      158,
+      1194,
+      199
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Đồ thị hàm số nào sau đây có dạng như hình vẽ."
+  },
+  {
+    "bbox": [
+      478,
+      199,
+      704,
+      237
+    ],
+    "category": "List-item",
+    "text": "(A) $y = x^3 - 2x^2$."
+  },
+  {
+    "bbox": [
+      872,
+      199,
+      1151,
+      237
+    ],
+    "category": "List-item",
+    "text": "(B) $y = x^4 - 3x^2 + 1$."
+  },
+  {
+    "bbox": [
+      478,
+      241,
+      693,
+      281
+    ],
+    "category": "List-item",
+    "text": "(C) $y = 3x - x^3$."
+  },
+  {
+    "bbox": [
+      872,
+      241,
+      1084,
+      281
+    ],
+    "category": "List-item",
+    "text": "(D) $y = x^3 - 3x$."
+  },
+  {
+    "bbox": [
+      1281,
+      175,
+      1544,
+      468
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      478,
+      952,
+      519
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Mệnh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      478,
+      517,
+      811,
+      593
+    ],
+    "category": "List-item",
+    "text": "(A) $\\int 5^{2x} dx = \\frac{5^{2x}}{\\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      517,
+      1394,
+      593
+    ],
+    "category": "List-item",
+    "text": "(B) $\\int 5^{2x} dx = \\frac{5^{2x+1}}{2x+1} + C$."
+  },
+  {
+    "bbox": [
+      478,
+      593,
+      825,
+      668
+    ],
+    "category": "List-item",
+    "text": "(C) $\\int 5^{2x} dx = \\frac{5^{2x}}{\\ln 25} + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      593,
+      1372,
+      668
+    ],
+    "category": "List-item",
+    "text": "(D) $\\int 5^{2x} dx = \\frac{5^x}{\\ln 25} + C$."
+  },
+  {
+    "bbox": [
+      448,
+      681,
+      1553,
+      798
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho $\\int_0^1 [f(x) - 2g(x)]dx = 12$ và $\\int_0^1 g(x)dx = 5$. Khi đó $\\int_0^1 f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      478,
+      798,
+      572,
+      836
+    ],
+    "category": "List-item",
+    "text": "(A) -2."
+  },
+  {
+    "bbox": [
+      750,
+      798,
+      835,
+      836
+    ],
+    "category": "List-item",
+    "text": "(B) 12."
+  },
+  {
+    "bbox": [
+      1023,
+      798,
+      1108,
+      836
+    ],
+    "category": "List-item",
+    "text": "(C) 22."
+  },
+  {
+    "bbox": [
+      1295,
+      798,
+      1367,
+      836
+    ],
+    "category": "List-item",
+    "text": "(D) 2."
+  },
+  {
+    "bbox": [
+      448,
+      855,
+      1553,
+      933
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Diện tích của hình phẳng giới hạn bởi đồ thị hàm số $y = 3x^2 + 1$, trục hoành và hai đường thẳng $x = 0, x = 2$ là"
+  },
+  {
+    "bbox": [
+      478,
+      933,
+      548,
+      971
+    ],
+    "category": "List-item",
+    "text": "(A) 8."
+  },
+  {
+    "bbox": [
+      750,
+      933,
+      835,
+      971
+    ],
+    "category": "List-item",
+    "text": "(B) 12."
+  },
+  {
+    "bbox": [
+      1023,
+      933,
+      1108,
+      971
+    ],
+    "category": "List-item",
+    "text": "(C) 10."
+  },
+  {
+    "bbox": [
+      1295,
+      933,
+      1367,
+      971
+    ],
+    "category": "List-item",
+    "text": "(D) 9."
+  },
+  {
+    "bbox": [
+      448,
+      990,
+      1553,
+      1068
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Biết ba số $x^2$; 8; $x$ theo thứ tự lập thành cấp số nhân. Giá trị của $x$ bằng"
+  },
+  {
+    "bbox": [
+      478,
+      1068,
+      604,
+      1106
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 4$."
+  },
+  {
+    "bbox": [
+      750,
+      1068,
+      878,
+      1106
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 5$."
+  },
+  {
+    "bbox": [
+      1023,
+      1068,
+      1151,
+      1106
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 2$."
+  },
+  {
+    "bbox": [
+      1295,
+      1068,
+      1423,
+      1106
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 1$."
+  },
+  {
+    "bbox": [
+      448,
+      1125,
+      1173,
+      1179
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1188,
+      1372,
+      1228
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Bảng dưới đây thống kê cự li ném tạ của một vận động viên."
+  },
+  {
+    "bbox": [
+      568,
+      1253,
+      1433,
+      1352
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cự li (m)</td><td>[19; 19,5)</td><td>[19,5; 20)</td><td>[20; 20,5)</td><td>[20,5; 21)</td><td>[21; 21,5)</td></tr><tr><td>Tần số</td><td>13</td><td>45</td><td>24</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      478,
+      1381,
+      878,
+      1417
+    ],
+    "category": "List-item",
+    "text": "a) Cỡ của mẫu số liệu là 105."
+  },
+  {
+    "bbox": [
+      478,
+      1421,
+      1219,
+      1457
+    ],
+    "category": "List-item",
+    "text": "b) Số trung bình của mẫu số liệu ghép nhóm là 20,015."
+  },
+  {
+    "bbox": [
+      478,
+      1461,
+      1241,
+      1497
+    ],
+    "category": "List-item",
+    "text": "c) Phương sai của mẫu số liệu ghép nhóm gần với 0,277."
+  },
+  {
+    "bbox": [
+      478,
+      1501,
+      1549,
+      1576
+    ],
+    "category": "List-item",
+    "text": "d) Độ lệch chuẩn của mẫu số liệu ghép nhóm làm tròn đến hàng phần trăm là 0,85."
+  },
+  {
+    "bbox": [
+      448,
+      1595,
+      973,
+      1824
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian với hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là kilômét) một trạm phát sóng điện thoại của nhà mạng Viettel được đặt ở vị trí $I(1; 2; 4)$ và được thiết kế bán kính phủ sóng là 4 km."
+  },
+  {
+    "bbox": [
+      1010,
+      1605,
+      1535,
+      1938
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      478,
+      1938,
+      1549,
+      2014
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình mặt cầu để mô tả ranh giới bên ngoài vùng phủ sóng trong không gian là $(x - 1)^2 + (y - 2)^2 + (z - 4)^2 = 4$."
+  },
+  {
+    "bbox": [
+      478,
+      2016,
+      1549,
+      2091
+    ],
+    "category": "List-item",
+    "text": "b) Bạn An có vị trí tọa độ là $A(-1; 0; 0)$ có thể sử dụng được dịch vụ của trạm này."
+  },
+  {
+    "bbox": [
+      478,
+      2095,
+      1549,
+      2170
+    ],
+    "category": "List-item",
+    "text": "c) Bạn Bình có vị trí tọa độ là $B(2; 0; 2)$ có thể sử dụng được dịch vụ của trạm này."
+  },
+  {
+    "bbox": [
+      478,
+      2174,
+      1549,
+      2249
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử bạn An đến nhà bạn Bình theo con đường là một đường thẳng. Bạn An có thể bắt được sóng trạm này khi đi được 2,38 km."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "254 Bùi Tịnh Minh Lâm"
+  }
+]

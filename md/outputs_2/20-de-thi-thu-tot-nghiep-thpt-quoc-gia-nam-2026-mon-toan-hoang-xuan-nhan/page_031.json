@@ -1,0 +1,219 @@
+[
+  {
+    "bbox": [
+      92,
+      56,
+      982,
+      254
+    ],
+    "category": "List-item",
+    "text": "**Câu 20.** Một cái hồ có dạng hình vuông $ABCD$ với cạnh bằng 200 m, mặt hồ có thể chia ra làm hai phần: một phần hoàn toàn là mặt nước, phần còn lại là cỏ lau được giới hạn tam giác $BCF$ với $F$ là trung điểm $CD$. Một chiếc truyền xuất phát từ vị trí $E$ là trung điểm $AB$ để đến vị trí $C$."
+  },
+  {
+    "bbox": [
+      217,
+      252,
+      982,
+      343
+    ],
+    "category": "List-item",
+    "text": "* Khi truyền đi trong vùng nước, nó có vận tốc $v_1 = 100$ m/phút."
+  },
+  {
+    "bbox": [
+      217,
+      350,
+      982,
+      444
+    ],
+    "category": "List-item",
+    "text": "* Khi truyền đi trong vùng toàn cỏ lau thì có vận tốc $v_2 = 80$ m/phút."
+  },
+  {
+    "bbox": [
+      217,
+      451,
+      962,
+      542
+    ],
+    "category": "Text",
+    "text": "Hỏi thời gian ngắn nhất để truyền đi từ $E$ đến $C$ là bao nhiêu phút (làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      217,
+      542,
+      542,
+      595
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      217,
+      599,
+      389,
+      642
+    ],
+    "category": "Text",
+    "text": "Đáp số: 2,51"
+  },
+  {
+    "bbox": [
+      1027,
+      60,
+      1581,
+      646
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      740,
+      644,
+      966,
+      687
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      687,
+      1234,
+      730
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxy$ sao cho $A$ trùng gốc $O$, tia $Ox$ qua $B$, tia $Oy$ qua $D$."
+  },
+  {
+    "bbox": [
+      217,
+      736,
+      1302,
+      783
+    ],
+    "category": "Text",
+    "text": "Ta có: $A(0; 0)$, $B(200; 0)$, $C(200; 200)$, $D(0; 200)$, $E(100; 0)$, $F(100; 200)$."
+  },
+  {
+    "bbox": [
+      217,
+      796,
+      1533,
+      956
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $BF$ qua $B$ và có vecto chỉ phương $\\overrightarrow{BF} = (-100; 200)$ nên có phương trình tham số\n$$ \\begin{cases} x = 200 - 100t \\\\ y = 200t \\end{cases} . \\text{ Gọi } M(200 - 100t; 200t) \\in BF . $$"
+  },
+  {
+    "bbox": [
+      217,
+      962,
+      820,
+      1007
+    ],
+    "category": "Text",
+    "text": "Tổng thời gian đề truyền máy đi từ $E$ đến $C$:"
+  },
+  {
+    "bbox": [
+      221,
+      1011,
+      1194,
+      1166
+    ],
+    "category": "Formula",
+    "text": "$$\nT(t) = \\frac{EM}{100} + \\frac{MC}{80} = \\frac{\\sqrt{(100-100t)^2 + (200t)^2}}{100} + \\frac{\\sqrt{(100t)^2 + (200-200t)^2}}{80} \\\\ T'(t) = 0 \\Rightarrow t \\approx 0,55. \\text{ Khi đó: } T_{\\min} \\approx 2,51 \\text{ (phút).}\n$$"
+  },
+  {
+    "bbox": [
+      92,
+      1178,
+      1593,
+      1283
+    ],
+    "category": "List-item",
+    "text": "**Câu 21.** Tại một nhà máy, một bồn chứa khí có dạng hình cầu $(S)$ được đặt trong hệ trục tọa độ không gian $Oxyz$ (đơn vị: mét). Bề mặt bồn được mô tả bởi mặt cầu $(S)$: $(x+1)^2 + (y-2)^2 + (z+5)^2 = 9$. Trong"
+  },
+  {
+    "bbox": [
+      217,
+      1292,
+      1376,
+      1439
+    ],
+    "category": "Text",
+    "text": "khu vực đó có một đường ống kỹ thuật chạy theo đường thẳng $d$: $$ \\begin{cases} x = 2 + 4t \\\\ y = 2 + t \\quad (t \\in \\mathbb{R}) \\\\ z = -1 - 3t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      217,
+      1447,
+      1593,
+      1552
+    ],
+    "category": "Text",
+    "text": "Để gia cố, người ta lắp hai tấm giằng phẳng $(P)$ và $(Q)$ sao cho cùng chứa đường ống $d$ và vừa chậm (tiếp xúc) với bồn chứa khí $(S)$, lần lượt tại hai điểm $B$ và $C$."
+  },
+  {
+    "bbox": [
+      217,
+      1558,
+      1593,
+      1695
+    ],
+    "category": "Text",
+    "text": "Một robot kiểm tra bề mặt bồn đang đứng tại điểm $A$ di chuyển trên mặt cầu $(S)$. Kỹ sư muốn xét tam giác $ABC$ tạo bởi vị trí robot và hai điểm tiếp xúc $B$, $C$ để thiết kế một tấm che dạng tam giác. Diện tích lớn nhất của tam giác $ABC$ bằng bao nhiêu (làm tròn kết quả đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      225,
+      1701,
+      633,
+      1982
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      675,
+      1693,
+      1061,
+      1980
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1564,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "8"
+  }
+]

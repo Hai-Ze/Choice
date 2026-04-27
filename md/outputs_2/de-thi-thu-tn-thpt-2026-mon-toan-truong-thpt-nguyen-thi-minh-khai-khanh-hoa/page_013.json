@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      66,
+      93,
+      1602,
+      356
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trong một trò chơi “giải mật mã tại ngày hội khoa học”, ban tổ chức chuẩn bị một集合 chứa 9 tấm thẻ được ghi các số từ các số $\\{1;2;3;4;5;6;7;8;9\\}$. Một người chơi rút ngẫu nhiên 5 tấm thẻ khác nhau từ集合. Sau đó các số được sắp xếp theo thứ tự tăng dần thành $a<b<c<d<e$. Người chơi được coi là giải được mật mã nếu trong năm số này tồn tại bốn số liên tiếp tạo thành một cấp số cộng. Biết xác suất để người chơi giải được mật mã là $A$. Giá trị $\\frac{1}{A}$ là bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      115,
+      358,
+      219,
+      395
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      399,
+      600,
+      446
+    ],
+    "category": "Text",
+    "text": "Không gian mẫu: $n(\\Omega) = C_9^5 = 126$."
+  },
+  {
+    "bbox": [
+      115,
+      448,
+      1256,
+      493
+    ],
+    "category": "Text",
+    "text": "Cấp số cộng là khoảng cách giữa các số luôn bằng nhau, giả sử khoảng cách đó là $r$."
+  },
+  {
+    "bbox": [
+      115,
+      493,
+      864,
+      542
+    ],
+    "category": "Text",
+    "text": "Nếu $r=1 \\rightarrow$ Có 6 bộ $(1;2;3;4);(2;3;4;5).....(6;7;8;9)$."
+  },
+  {
+    "bbox": [
+      115,
+      549,
+      841,
+      598
+    ],
+    "category": "Text",
+    "text": "Nếu $r=2 \\rightarrow$ Có 3 bộ $(1;3;7;7);(2;4;6;8);(3;5;7;9)$."
+  },
+  {
+    "bbox": [
+      115,
+      602,
+      543,
+      645
+    ],
+    "category": "Text",
+    "text": "Nếu $r>2 \\rightarrow$ Không có bộ nào."
+  },
+  {
+    "bbox": [
+      115,
+      643,
+      1451,
+      686
+    ],
+    "category": "Text",
+    "text": "Có tất cả 9 bộ, mỗi bộ chọn thêm 1 số để được 5 số thoả yêu cầu bài toán, nghĩa là có $9 \\times 5 = 45$ (bộ)."
+  },
+  {
+    "bbox": [
+      115,
+      686,
+      1128,
+      734
+    ],
+    "category": "Text",
+    "text": "Tuy nhiên có 5 bộ trùng nhau: $(1;2;3;4)$ thêm số 5 và $(2;3;4;5)$ thêm số 1."
+  },
+  {
+    "bbox": [
+      514,
+      742,
+      1136,
+      791
+    ],
+    "category": "Text",
+    "text": "$(2;3;4;5)$ thêm số 6 và $(3;4;5;6)$ thêm số 2."
+  },
+  {
+    "bbox": [
+      514,
+      798,
+      1136,
+      847
+    ],
+    "category": "Text",
+    "text": "$(3;4;5;6)$ thêm số 7 và $(4;5;6;7)$ thêm số 3."
+  },
+  {
+    "bbox": [
+      514,
+      855,
+      1136,
+      904
+    ],
+    "category": "Text",
+    "text": "$(4;5;6;7)$ thêm số 8 và $(5;6;7;8)$ thêm số 4."
+  },
+  {
+    "bbox": [
+      514,
+      912,
+      1136,
+      961
+    ],
+    "category": "Text",
+    "text": "$(5;6;7;8)$ thêm số 9 và $(6;7;8;9)$ thêm số 5."
+  },
+  {
+    "bbox": [
+      115,
+      969,
+      440,
+      1008
+    ],
+    "category": "Text",
+    "text": "Nên có $45-5=40$ (bộ)"
+  },
+  {
+    "bbox": [
+      115,
+      1010,
+      709,
+      1091
+    ],
+    "category": "Text",
+    "text": "Xác suất là $A = \\frac{40}{126} = \\frac{20}{63} \\Rightarrow \\frac{1}{A} = \\frac{63}{20} = 3,15$."
+  },
+  {
+    "bbox": [
+      99,
+      1127,
+      1124,
+      1486
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một cơ sở thủ công mỹ nghệ ở Khánh Hòa sản xuất các chân đế kim loại để trưng bày quả cầu pha lê trong cửa hàng lưu niệm. Ban đầu, người ta đúc một khối kim loại hình trụ đặc có đường kính đáy $12 \\text{ cm}$ và chiều cao $10 \\text{ cm}$. Sau đó, để đặt vừa quả cầu pha lê, người thợ khoét ở mặt trên của khối trụ một phần của khối cầu bán kính $5 \\text{ cm}$. Partn của khối cầu nhô lên khỏi mặt trên của khối trụ $4 \\text{ cm}$ như hình minh họa. Biết thể tích kim loại còn lại của chân đế sau khi khoét là $m\\pi (\\text{cm}^3)$. Giá trị của $m$ là bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      115,
+      1528,
+      219,
+      1565
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      1571,
+      803,
+      1664
+    ],
+    "category": "Text",
+    "text": "Thể tích khối trụ: $V_{tru} = \\pi \\cdot (\\frac{12}{2})^2 \\cdot 10 = 360\\pi (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      115,
+      1669,
+      1592,
+      1717
+    ],
+    "category": "Text",
+    "text": "Phần chõm cầu chìm trong khối trụ có chiều cao là $10-4=6 (\\text{cm})$ nên thể tích phần bị chìm trong khối trụ là"
+  },
+  {
+    "bbox": [
+      115,
+      1729,
+      759,
+      1815
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\frac{\\pi \\cdot h^2}{3} (3R - h) = \\frac{\\pi \\cdot 6^2}{3} (3.5 - 6) = 108\\pi (\\text{cm}^3)\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1815,
+      929,
+      1858
+    ],
+    "category": "Text",
+    "text": "Thể tích kim loại còn lại là $360\\pi - 108\\pi = 252\\pi \\rightarrow m = 252$."
+  },
+  {
+    "bbox": [
+      1197,
+      1172,
+      1589,
+      1568
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1232,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8 – Đáp Án Mã Đề 0101"
+  }
+]

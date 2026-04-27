@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      154,
+      75,
+      1130,
+      140
+    ],
+    "category": "Section-header",
+    "text": "# PHẦN I: Trắc nghiệm nhiều phương án chọn"
+  },
+  {
+    "bbox": [
+      154,
+      137,
+      1038,
+      176
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hình chóp S.ABCD có đáy ABCD là hình bình hành."
+  },
+  {
+    "bbox": [
+      205,
+      176,
+      1038,
+      223
+    ],
+    "category": "List-item",
+    "text": "* **Phân tích:** Trong hình bình hành ABCD, ta có $\\overline{BA} = \\overline{CD}$."
+  },
+  {
+    "bbox": [
+      205,
+      223,
+      1025,
+      271
+    ],
+    "category": "List-item",
+    "text": "* **Kiểm tra đáp án C:** $\\overline{SA} = \\overline{SB} + \\overline{BA} = \\overline{SB} + \\overline{CD}$. **Chọn C.**"
+  },
+  {
+    "bbox": [
+      154,
+      267,
+      785,
+      310
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Diện tích đáy $B = 10$, chiều cao $h = 6$."
+  },
+  {
+    "bbox": [
+      205,
+      313,
+      762,
+      392
+    ],
+    "category": "List-item",
+    "text": "* **Công thức:** $V = \\frac{1}{3}Bh = \\frac{1}{3} \\cdot 10 \\cdot 6 = 20$."
+  },
+  {
+    "bbox": [
+      205,
+      397,
+      378,
+      434
+    ],
+    "category": "List-item",
+    "text": "* **Chọn D.**"
+  },
+  {
+    "bbox": [
+      154,
+      430,
+      933,
+      475
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Khoảng biến thiên $R$ của mẫu số liệu ghép nhóm."
+  },
+  {
+    "bbox": [
+      205,
+      475,
+      823,
+      518
+    ],
+    "category": "List-item",
+    "text": "* **Công thức:** $R = x_{max} - x_{min} = 41 - 16 = 25$."
+  },
+  {
+    "bbox": [
+      205,
+      524,
+      378,
+      563
+    ],
+    "category": "List-item",
+    "text": "* **Chọn C.**"
+  },
+  {
+    "bbox": [
+      154,
+      565,
+      1071,
+      646
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Vecto chỉ phương của đường thẳng $d: \\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z+2}{3}$."
+  },
+  {
+    "bbox": [
+      205,
+      646,
+      1241,
+      690
+    ],
+    "category": "List-item",
+    "text": "* **Phân tích:** Các hệ số ở mẫu số là tọa độ vecto chỉ phương: $\\vec{u} = (2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      205,
+      695,
+      378,
+      734
+    ],
+    "category": "List-item",
+    "text": "* **Chọn B.**"
+  },
+  {
+    "bbox": [
+      154,
+      734,
+      745,
+      779
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Nguyên hàm của hàm số $f(x) = 5^x$."
+  },
+  {
+    "bbox": [
+      205,
+      789,
+      664,
+      873
+    ],
+    "category": "List-item",
+    "text": "* **Công thức:** $\\int 5^x dx = \\frac{5^x}{\\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      205,
+      878,
+      378,
+      915
+    ],
+    "category": "List-item",
+    "text": "* **Chọn B.**"
+  },
+  {
+    "bbox": [
+      154,
+      913,
+      749,
+      959
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cấp số nhân $(u_n)$ có $u_1 = 3, u_4 = 24$."
+  },
+  {
+    "bbox": [
+      205,
+      967,
+      945,
+      1013
+    ],
+    "category": "List-item",
+    "text": "* **Tìm $q$:** $u_4 = u_1 \\cdot q^3 \\Rightarrow 24 = 3 \\cdot q^3 \\Rightarrow q^3 = 8 \\Rightarrow q = 2$."
+  },
+  {
+    "bbox": [
+      205,
+      1021,
+      701,
+      1063
+    ],
+    "category": "List-item",
+    "text": "* **Tính $u_5$:** $u_5 = u_4 \\cdot q = 24 \\cdot 2 = 48$."
+  },
+  {
+    "bbox": [
+      205,
+      1072,
+      378,
+      1110
+    ],
+    "category": "List-item",
+    "text": "* **Chọn A.**"
+  },
+  {
+    "bbox": [
+      154,
+      1112,
+      649,
+      1192
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Cho $\\cos x = \\frac{1}{3}$. Tính $\\cos 2x$."
+  },
+  {
+    "bbox": [
+      205,
+      1198,
+      1039,
+      1279
+    ],
+    "category": "List-item",
+    "text": "* **Công thức:** $\\cos 2x = 2\\cos^2 x - 1 = 2 \\cdot (\\frac{1}{3})^2 - 1 = \\frac{2}{9} - 1 = -\\frac{7}{9}$."
+  },
+  {
+    "bbox": [
+      205,
+      1283,
+      378,
+      1320
+    ],
+    "category": "List-item",
+    "text": "* **Chọn D.**"
+  },
+  {
+    "bbox": [
+      154,
+      1320,
+      1073,
+      1366
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Số điểm cực trị của hàm số có $f'(x) = (x-1)(x-2)^2(x-3)^3$."
+  },
+  {
+    "bbox": [
+      205,
+      1366,
+      961,
+      1411
+    ],
+    "category": "List-item",
+    "text": "* **Phân tích:** Điều cực trị là nghiệm bội lẻ của $f'(x)$."
+  },
+  {
+    "bbox": [
+      305,
+      1416,
+      745,
+      1455
+    ],
+    "category": "List-item",
+    "text": "  * $x = 1$ (bộc 1 - lẻ): Có cực trị."
+  },
+  {
+    "bbox": [
+      305,
+      1455,
+      881,
+      1495
+    ],
+    "category": "List-item",
+    "text": "  * $x = 2$ (bộc 2 - chẫn): Không có cực trị."
+  },
+  {
+    "bbox": [
+      305,
+      1495,
+      745,
+      1535
+    ],
+    "category": "List-item",
+    "text": "  * $x = 3$ (bộc 3 - lẻ): Có cực trị."
+  },
+  {
+    "bbox": [
+      205,
+      1531,
+      520,
+      1574
+    ],
+    "category": "List-item",
+    "text": "* **Số điểm cực trị:** 2."
+  },
+  {
+    "bbox": [
+      205,
+      1574,
+      378,
+      1613
+    ],
+    "category": "List-item",
+    "text": "* **Chọn C.**"
+  },
+  {
+    "bbox": [
+      154,
+      1615,
+      692,
+      1696
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Tiệm cận ngang của $y = \\frac{3x-1}{x-2}$."
+  },
+  {
+    "bbox": [
+      205,
+      1700,
+      634,
+      1782
+    ],
+    "category": "List-item",
+    "text": "* **Công thức:** $\\lim_{x \\to \\pm\\infty} \\frac{3x-1}{x-2} = 3$."
+  },
+  {
+    "bbox": [
+      205,
+      1786,
+      378,
+      1823
+    ],
+    "category": "List-item",
+    "text": "* **Chọn A.**"
+  },
+  {
+    "bbox": [
+      154,
+      1819,
+      974,
+      1863
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Xác suất 3 lần xuất hiện mặt ngửa khi gieo đồng xu."
+  },
+  {
+    "bbox": [
+      205,
+      1863,
+      647,
+      1945
+    ],
+    "category": "List-item",
+    "text": "* **Tính toán:** $P = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}$."
+  },
+  {
+    "bbox": [
+      205,
+      1949,
+      378,
+      1986
+    ],
+    "category": "List-item",
+    "text": "* **Chọn A.**"
+  },
+  {
+    "bbox": [
+      154,
+      1989,
+      703,
+      2069
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Cho $4^a = 3^b = 6^c$. Tính $\\frac{c}{a} + \\frac{2c}{b}$."
+  },
+  {
+    "bbox": [
+      205,
+      2073,
+      1135,
+      2119
+    ],
+    "category": "List-item",
+    "text": "* **Biến đổi:** Đặt $4^a = 3^b = 6^c = k \\Rightarrow a = \\log_4 k, b = \\log_3 k, c = \\log_6 k$."
+  }
+]

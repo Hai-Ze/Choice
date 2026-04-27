@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      251,
+      136
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,5"
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      1338,
+      201
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “Trong 3 viên bi lấy ra từ套合 hai có 2 viên bi từ套合 thứ nhất chuyển sang”."
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      885,
+      259
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố “Ba viên bi lấy ra từ套合 hai là màu trắng”"
+  },
+  {
+    "bbox": [
+      76,
+      272,
+      1135,
+      318
+    ],
+    "category": "Text",
+    "text": "Trường hợp 1: 2 viên bi từ套合 thứ nhất chuyển sang là 2 viên bi trắng. Khi đó:"
+  },
+  {
+    "bbox": [
+      81,
+      336,
+      388,
+      431
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{C_7^2}{C_{12}^2} \\cdot \\frac{C_6^3}{C_{12}^3} = \\frac{7}{242}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      449,
+      1098,
+      495
+    ],
+    "category": "Text",
+    "text": "Trường hợp 2: 2 viên bi từ套合 thứ nhất chuyển sang là 2 viên bi đỏ. Khi đó:"
+  },
+  {
+    "bbox": [
+      81,
+      514,
+      386,
+      609
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{C_5^2}{C_{12}^2} \\cdot \\frac{C_4^3}{C_{12}^3} = \\frac{1}{363}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      627,
+      1342,
+      673
+    ],
+    "category": "Text",
+    "text": "Trường hợp 3: 2 viên bi từ套合 thứ nhất chuyển sang là 1 viên bi trắng và 1 viên bi đỏ. Khi đó:"
+  },
+  {
+    "bbox": [
+      81,
+      692,
+      432,
+      787
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{C_7^1 \\cdot C_5^1}{C_{12}^2} \\cdot \\frac{C_5^3}{C_{12}^3} = \\frac{35}{1452}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      810,
+      171,
+      847
+    ],
+    "category": "Text",
+    "text": "Do đó,"
+  },
+  {
+    "bbox": [
+      81,
+      871,
+      581,
+      1032
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{\\frac{7}{242}}{\\frac{14}{27}} = \\frac{14}{27} \\approx 0,5.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

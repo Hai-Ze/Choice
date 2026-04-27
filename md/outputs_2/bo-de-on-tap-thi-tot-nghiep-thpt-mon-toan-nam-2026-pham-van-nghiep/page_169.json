@@ -1,0 +1,572 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      162,
+      106,
+      692,
+      242
+    ],
+    "category": "Page-header",
+    "text": "Lớp Toán Thầy Phạm Văn Nghiệp\n— 0965.07.27.67 —\nLuyên thi Đại Học, giảng dạy Toán 10; 11; 12"
+  },
+  {
+    "bbox": [
+      761,
+      102,
+      1523,
+      151
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI TỐT NGHIỆP THPT NĂM 2026"
+  },
+  {
+    "bbox": [
+      1044,
+      153,
+      1241,
+      193
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      781,
+      200,
+      1502,
+      244
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      748,
+      238,
+      899,
+      284
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ SỐ 10"
+  },
+  {
+    "bbox": [
+      74,
+      282,
+      1572,
+      380
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      74,
+      380,
+      1098,
+      427
+    ],
+    "category": "Text",
+    "text": "Câu 1. Hàm số $F(x) = e^{-2x}$ là nguyên hàm của hàm số nào sau đây?"
+  },
+  {
+    "bbox": [
+      212,
+      434,
+      446,
+      521
+    ],
+    "category": "List-item",
+    "text": "A. $f_1(x) = \\frac{e^{-2x}}{-2}$."
+  },
+  {
+    "bbox": [
+      550,
+      454,
+      772,
+      504
+    ],
+    "category": "List-item",
+    "text": "B. $f_2(x) = e^{-2x}$."
+  },
+  {
+    "bbox": [
+      862,
+      454,
+      1094,
+      504
+    ],
+    "category": "List-item",
+    "text": "C. $f_3(x) - 2e^{-2x}$."
+  },
+  {
+    "bbox": [
+      1173,
+      454,
+      1391,
+      504
+    ],
+    "category": "List-item",
+    "text": "D. $f_4 = -2e^{-2x}$."
+  },
+  {
+    "bbox": [
+      765,
+      529,
+      884,
+      570
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      574,
+      334,
+      613
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      212,
+      624,
+      1559,
+      685
+    ],
+    "category": "Text",
+    "text": "Ta có $[F(x)]' = (e^{-2x})' = -2e^{-2x}$ nên hàm số $F(x) = e^{-2x}$ là nguyên hàm của hàm số $f_4 = -2e^{-2x}$"
+  },
+  {
+    "bbox": [
+      74,
+      692,
+      640,
+      742
+    ],
+    "category": "Text",
+    "text": "Câu 2. Tọa độ của vecto $\\vec{u} = \\vec{k} - \\vec{j}$ là"
+  },
+  {
+    "bbox": [
+      212,
+      750,
+      386,
+      798
+    ],
+    "category": "List-item",
+    "text": "A. $(0;-1;1)$."
+  },
+  {
+    "bbox": [
+      550,
+      750,
+      694,
+      798
+    ],
+    "category": "List-item",
+    "text": "B. $(0;1;1)$."
+  },
+  {
+    "bbox": [
+      862,
+      750,
+      1019,
+      798
+    ],
+    "category": "List-item",
+    "text": "C. $(1;0;0)$."
+  },
+  {
+    "bbox": [
+      1173,
+      750,
+      1353,
+      798
+    ],
+    "category": "List-item",
+    "text": "D. $(-1;0;0)$."
+  },
+  {
+    "bbox": [
+      765,
+      810,
+      884,
+      851
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      853,
+      334,
+      892
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      212,
+      896,
+      1166,
+      951
+    ],
+    "category": "Text",
+    "text": "Ta có $\\vec{u} = x\\vec{i} + y\\vec{j} + z\\vec{k} \\Leftrightarrow \\vec{u} = (x;y;z)$ nên $\\vec{u} = \\vec{k} - \\vec{j} \\Leftrightarrow \\vec{u} = (0;-1;1)$."
+  },
+  {
+    "bbox": [
+      74,
+      962,
+      855,
+      1043
+    ],
+    "category": "Text",
+    "text": "Câu 3. Tập xác định của hàm số $y = x - 1 + \\frac{3}{x+2}$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1049,
+      360,
+      1097
+    ],
+    "category": "List-item",
+    "text": "A. $\\mathbb{R} \\setminus \\{1\\}$."
+  },
+  {
+    "bbox": [
+      550,
+      1049,
+      714,
+      1097
+    ],
+    "category": "List-item",
+    "text": "B. $\\mathbb{R} \\setminus \\{-1\\}$."
+  },
+  {
+    "bbox": [
+      862,
+      1049,
+      1019,
+      1097
+    ],
+    "category": "List-item",
+    "text": "C. $\\mathbb{R} \\setminus \\{2\\}$."
+  },
+  {
+    "bbox": [
+      1173,
+      1049,
+      1349,
+      1097
+    ],
+    "category": "List-item",
+    "text": "D. $\\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      765,
+      1108,
+      884,
+      1149
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1153,
+      334,
+      1192
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      212,
+      1198,
+      1397,
+      1244
+    ],
+    "category": "Text",
+    "text": "Hàm số xác định khi $x+2 \\neq 0 \\Leftrightarrow x \\neq -2$ nên tập xác định của hàm số là $\\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      74,
+      1252,
+      782,
+      1294
+    ],
+    "category": "Text",
+    "text": "Câu 4. Giá trị lớn nhất của hàm số $y = \\sin x$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1302,
+      294,
+      1340
+    ],
+    "category": "List-item",
+    "text": "A. $\\pi$."
+  },
+  {
+    "bbox": [
+      550,
+      1302,
+      649,
+      1340
+    ],
+    "category": "List-item",
+    "text": "B. $2\\pi$."
+  },
+  {
+    "bbox": [
+      862,
+      1302,
+      932,
+      1340
+    ],
+    "category": "List-item",
+    "text": "C. $1$."
+  },
+  {
+    "bbox": [
+      1173,
+      1302,
+      1272,
+      1340
+    ],
+    "category": "List-item",
+    "text": "D. $-1$."
+  },
+  {
+    "bbox": [
+      765,
+      1348,
+      884,
+      1389
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1393,
+      334,
+      1432
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      212,
+      1438,
+      1247,
+      1478
+    ],
+    "category": "Text",
+    "text": "Ta có $-1 \\le \\sin x \\le 1$ với mọi $x \\in \\mathbb{R}$ nên GTLN của hàm số $y = \\sin x$ là 1."
+  },
+  {
+    "bbox": [
+      74,
+      1486,
+      1178,
+      1541
+    ],
+    "category": "Text",
+    "text": "Câu 5. Nếu hàm số $y = f(x)$ thỏa mãn $\\lim_{x \\to -\\infty} f(x) = -1$ và $\\lim_{x \\to +\\infty} f(x) = 1$ thì:"
+  },
+  {
+    "bbox": [
+      212,
+      1549,
+      1135,
+      1591
+    ],
+    "category": "List-item",
+    "text": "A. Đồ thị hàm số có 2 đường tiệm cận đứng là $x = -1$ và $x = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1595,
+      1536,
+      1637
+    ],
+    "category": "List-item",
+    "text": "B. Đồ thị hàm số có 1 đường tiệm cận đứng là $x = -1$ và 1 đường tiệm cận ngang là $y = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1643,
+      1532,
+      1685
+    ],
+    "category": "List-item",
+    "text": "C. Đồ thị hàm số có 1 đường tiệm cận ngang là $y = -1$ và 1 đường tiệm cận đứng là $x = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1691,
+      1156,
+      1735
+    ],
+    "category": "List-item",
+    "text": "D. Đồ thị hàm số có 2 đường tiệm cận ngang là $y = -1$ và $y = 1$."
+  },
+  {
+    "bbox": [
+      765,
+      1743,
+      884,
+      1784
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1788,
+      334,
+      1827
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      212,
+      1835,
+      467,
+      1876
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa:"
+  },
+  {
+    "bbox": [
+      212,
+      1876,
+      1572,
+      1984
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ thỏa mãn $\\lim_{x \\to -\\infty} f(x) = -1$ hoặc $\\lim_{x \\to +\\infty} f(x) = -1$ thì đường thẳng $y = -1$ là tiệm cận ngang của đồ thị hàm số;"
+  },
+  {
+    "bbox": [
+      212,
+      1984,
+      1572,
+      2092
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ thỏa mãn $\\lim_{x \\to -\\infty} f(x) = 1$ hoặc $\\lim_{x \\to +\\infty} f(x) = 1$ thì đường thẳng $y = 1$ là tiệm cận ngang của đồ thị hàm số;"
+  },
+  {
+    "bbox": [
+      74,
+      2092,
+      1423,
+      2141
+    ],
+    "category": "Text",
+    "text": "Câu 6. Trong không gian $Oxyz$, mặt phẳng $(P): 2x - y - 3 = 0$ có một vecto pháp tuyến là"
+  },
+  {
+    "bbox": [
+      212,
+      2147,
+      437,
+      2203
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (2;-1)$."
+  },
+  {
+    "bbox": [
+      550,
+      2147,
+      788,
+      2203
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2 = (2;-1;3)$."
+  },
+  {
+    "bbox": [
+      862,
+      2147,
+      1099,
+      2203
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_3 = (2;-1;0)$."
+  },
+  {
+    "bbox": [
+      1173,
+      2147,
+      1418,
+      2203
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_4 = (-2;1;3)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1504,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 1 -"
+  }
+]

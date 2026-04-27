@@ -1,0 +1,298 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      119,
+      1158,
+      203
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hàm số $y = x^3 - 3x^2 - 2025$. Hàm số đã cho nghịch biến trên khoảng\n(A) (0; 2). (B) $(-\\infty; 0)$. (C) $(-\\infty; +\\infty)$. (D) (2; +\\infty)."
+  },
+  {
+    "bbox": [
+      94,
+      215,
+      1197,
+      295
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho tức diện $S.ABC$ có các cạnh $SA, SB, SC$ đối một vuông góc, $SA = SB = SC = 1$. Gọi $\\alpha$ là góc phẳng nhị diện $[S, BC, A]$. Tính $\\cos \\alpha$."
+  },
+  {
+    "bbox": [
+      451,
+      313,
+      844,
+      654
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      671,
+      1061,
+      750
+    ],
+    "category": "Text",
+    "text": "(A) $\\frac{2}{5}$. (B) $\\frac{\\sqrt{3}}{3}$. (C) $\\frac{1}{3}$. (D) $\\frac{2\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      108,
+      756,
+      824,
+      810
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      818,
+      975,
+      861
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $f(x) = -2x^4 + 4x^2 + 1$ có đồ thị $(C)$. Khi đó"
+  },
+  {
+    "bbox": [
+      123,
+      861,
+      419,
+      913
+    ],
+    "category": "Formula",
+    "text": "a) $\\lim_{x \\to -\\infty} f(x) = -\\infty$."
+  },
+  {
+    "bbox": [
+      123,
+      913,
+      900,
+      952
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = -8x^3 + 8x + 1$."
+  },
+  {
+    "bbox": [
+      123,
+      954,
+      939,
+      994
+    ],
+    "category": "Formula",
+    "text": "c) Tập nghiệm của phương trình $f'(x) = 0$ là $S = \\{-1; 0; 1\\}$."
+  },
+  {
+    "bbox": [
+      123,
+      994,
+      526,
+      1034
+    ],
+    "category": "Formula",
+    "text": "d) Hàm số không có cực tiểu."
+  },
+  {
+    "bbox": [
+      94,
+      1048,
+      1197,
+      1237
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một bể chứa dầu ban đầu có 50 000 lít dầu. Gọi $V(t)$ là thể tích dầu (lít) trong bể tại thời điểm $t$, trong đó $t$ tính theo giờ $0 \\le t \\le 24$. Trong quá trình bơm dầu vào bể, thể tích dầu tăng theo tốc độ được biểu diễn bởi hàm số $V'(t) = k \\cdot \\sqrt{t}$, với $k$ là hằng số dương. Sau 4 giờ bơm liên tục, thể tích dầu trong bể đạt 58 000 lít."
+  },
+  {
+    "bbox": [
+      123,
+      1237,
+      956,
+      1281
+    ],
+    "category": "Formula",
+    "text": "a) Hàm số $V(t)$ là một nguyên hàm của hàm số $f(t) = k \\cdot \\sqrt{t}$."
+  },
+  {
+    "bbox": [
+      123,
+      1281,
+      954,
+      1351
+    ],
+    "category": "Formula",
+    "text": "b) $V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + C$, với $0 \\le t \\le 24$ và $k, C$ là các hằng số."
+  },
+  {
+    "bbox": [
+      123,
+      1349,
+      1071,
+      1386
+    ],
+    "category": "Formula",
+    "text": "c) Sau 16 giờ bơm liên tục, thể tích dầu trong bể đạt được 148 000 lít."
+  },
+  {
+    "bbox": [
+      123,
+      1388,
+      1194,
+      1499
+    ],
+    "category": "Formula",
+    "text": "d) Trong quá trình bơm dầu, nếu sau mỗi giờ lượng dầu bị rò rỉ đều đặn với tốc độ 500 lít/giờ, thì tại thời điểm $t$ bằng 9 giờ, thể tích dầu trong bể là 72 500 lít."
+  },
+  {
+    "bbox": [
+      94,
+      1517,
+      1197,
+      1634
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một nghiên cứu tại một trường đại học cho biết tỉ lệ sinh viên dùng cà phê để duy trì tỉnh táo khi học vào ban 昨日 là 70%. Giả sử chọn ngẫu nhiên 3 sinh viên từ nhóm khảo sát trên phỏng vấn."
+  },
+  {
+    "bbox": [
+      123,
+      1634,
+      1131,
+      1672
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất để cả 3 sinh viên đều dùng cà phê để duy trì tỉnh táo là 0,343."
+  },
+  {
+    "bbox": [
+      123,
+      1674,
+      1192,
+      1713
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất trong 3 sinh viên có ít nhất 1 sinh viên không dùng cà phê là 0,657."
+  },
+  {
+    "bbox": [
+      123,
+      1715,
+      1084,
+      1753
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất trong 3 sinh viên có đúng 1 sinh viên dùng cà phê là 0,189."
+  },
+  {
+    "bbox": [
+      123,
+      1755,
+      1194,
+      1834
+    ],
+    "category": "Formula",
+    "text": "d) Xác suất trong 3 sinh viên có đúng 2 sinh viên dùng cà phê và 1 sinh viên không dùng cà phê lớn hơn 0,45."
+  },
+  {
+    "bbox": [
+      94,
+      1848,
+      1197,
+      2078
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một radar phòng không được đặt tại vị trí gốc tọa độ $O(0; 0; 0)$ trong không gian $Oxyz$, mỗi đơn vị trên các trục tọa độ ứng với 1 km. Radar này có khả năng phát hiện các mục tiêu bay trong bán kính 250 km. Một máy bay không người lái (UAV) đang bay thẳng đều từ vị trí điểm $A(300; -400; 100)$ đến điểm $B(-300; 400; 100)$. UAV bay với vận tốc không đổi 900 km/h và mang theo thiết bị gây nhiều chủ động có tầm hiệu quả 50 km tính từ UAV."
+  },
+  {
+    "bbox": [
+      123,
+      2078,
+      877,
+      2117
+    ],
+    "category": "Formula",
+    "text": "a) Radar không thể phát hiện UAV khi UAV ở vị trí $A$."
+  },
+  {
+    "bbox": [
+      123,
+      2117,
+      1154,
+      2251
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình tham số của đường bay của UAV là $$ \\begin{cases} x = 300 - 3t \\\\ y = -400 + 4t, t \\in \\mathbb{R}. \\\\ z = 0 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 467"
+  }
+]

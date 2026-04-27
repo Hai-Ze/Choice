@@ -1,0 +1,92 @@
+[
+  {
+    "bbox": [
+      251,
+      121,
+      955,
+      284
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{gathered}\n\\text{Ta có } y' = 3x^2 - 6(m+1)x + 3(m^2 + 2m) \\\\\ny' = 0 \\Leftrightarrow x^2 - 2(m+1)x + m^2 + 2m = 0 \\Leftrightarrow \\begin{bmatrix} x = m \\\\ x = m + 2 \\end{bmatrix}\n\\end{gathered}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      291,
+      467,
+      334
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      457,
+      383,
+      1325,
+      685
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>-∞</td><td>m</td><td>m+2</td><td>+∞</td></tr><tr><td>y'</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>y</td><td colspan=\"5\">y<sub>CD</sub> &rarr; +∞, y<sub>CT</sub> &rarr; -∞</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      697,
+      1144,
+      800
+    ],
+    "category": "Text",
+    "text": "Để hàm số có giá trị lớn nhất trên khoảng $(-\\infty; 0)$ thì $\\begin{cases} m < 0 \\\\ y_{CD} \\ge y(0) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      251,
+      812,
+      330,
+      847
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      318,
+      859,
+      1293,
+      1087
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\ny_{CD} &= y(m) = m^3 - 3(m+1)m^2 + 3m(m^2 + 2m) - 2025 = m^3 + 3m^2 - 2025 \\\\\ny(0) &= -2025 \\\\\ny_{CD} \\ge y(0) &\\Leftrightarrow m^3 + 3m^2 - 2025 \\ge -2025 \\Leftrightarrow m^3 + 3m^2 \\ge 0 \\Leftrightarrow m \\ge -3 \\\\\n&\\Rightarrow -3 \\le m < 0\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1100,
+      634,
+      1146
+    ],
+    "category": "Text",
+    "text": "Vì $m \\in \\mathbb{Z} \\Rightarrow m \\in \\{-3; -2; -1\\}$"
+  },
+  {
+    "bbox": [
+      251,
+      1154,
+      920,
+      1199
+    ],
+    "category": "Text",
+    "text": "Vậy có 3 giá trị nguyên của tham số $m$ thoả mãn."
+  },
+  {
+    "bbox": [
+      113,
+      1216,
+      1536,
+      1614
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Một căn phòng có dạng hình集合 chữ nhật với chiều dài 4 m, chiều rộng 3 m và chiều cao 3 m. Xét hệ trục tọa độ $Oxyz$ có gốc $O$ trùng với một góc phòng và mặt phẳng $(Oxy)$ trùng với mặt sàn (xem hình vẽ), đơn vị đo được lấy theo mét. Trênttường thuộc mặt phẳng $(Oyz)$ có một cột dạng hình集合 chữ nhật nhô ra với chiều dài 0,4 m, chiều rộng 0,2 m. Bác Nam lắp một bóngđèn trên tường tại vị trí điểm $A(1;0;2,5)$ và công tắc bóngđèn đặt tại điểm $B(0,5;4;1)$. Dây cấp điện cho bóngđèn được đấu từ công tắc điện dọc theo cácttường (không đi qua trần nhà, sàn nhà) và nối đến bóngđèn. Hỏi bác phải dùng đoạn dây điện có độ dài tối thiểu là bao nhiêu mét (kết quả làm tròn đến hàng phần trăm)?"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      98,
+      347,
+      136
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 8,94"
+  },
+  {
+    "bbox": [
+      156,
+      164,
+      1123,
+      231
+    ],
+    "category": "Text",
+    "text": "Diện tích mặt cắt của chậu là $S(x) = \\pi(10 + \\sqrt{x})^2 = \\pi(100 + x + 20\\sqrt{x})$"
+  },
+  {
+    "bbox": [
+      156,
+      259,
+      1192,
+      357
+    ],
+    "category": "Text",
+    "text": "Thể tích của chậu là $V = \\int_{0}^{16} S(x) dx = \\pi \\left( 100x + \\frac{x^2}{2} + 20 \\cdot \\frac{2}{3} \\cdot \\sqrt{x^3} \\right) \\bigg|_{0}^{16} = \\frac{7744}{3} \\pi$."
+  },
+  {
+    "bbox": [
+      156,
+      382,
+      550,
+      421
+    ],
+    "category": "Text",
+    "text": "Dung tích nước trong chậu là"
+  },
+  {
+    "bbox": [
+      156,
+      443,
+      742,
+      540
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{nuoc} = \\int_{0}^{x} S(x) dx = \\pi \\left( 100x + \\frac{x^2}{2} + \\frac{40}{3} \\cdot \\sqrt{x^3} \\right)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      568,
+      949,
+      648
+    ],
+    "category": "Text",
+    "text": "Để dung tích nước trong chậu bằng $\\frac{1}{2}$ thể tích của chậu thì"
+  },
+  {
+    "bbox": [
+      156,
+      674,
+      1269,
+      767
+    ],
+    "category": "Formula",
+    "text": "$$\n\\pi \\left( 100x + \\frac{x^2}{2} + \\frac{40}{3} \\cdot \\sqrt{x^3} \\right) = \\frac{3872}{3} \\pi \\Leftrightarrow 100x + \\frac{x^2}{2} + \\frac{40}{3} \\cdot \\sqrt{x^3} = \\frac{3872}{3} \\Leftrightarrow x \\approx 8,94 (\\text{cm})\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      798,
+      1574,
+      911
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một vật chuyển động theo hàm quăng đường $s(t)$ (tính theo mét), vật đi được sau khoảng thời gian $t$ (tính theo giây), $t \\ge 0$, được mô tả là một hàm số bậc ba có đồ thị như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      627,
+      931,
+      1118,
+      1473
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1489,
+      1454,
+      1534
+    ],
+    "category": "Text",
+    "text": "Hỏi trong 10 giây đầu tiên, khoảng thời gian vật chuyển động nhanh enough kéo dài bao nhiêu giây?"
+  },
+  {
+    "bbox": [
+      156,
+      1552,
+      493,
+      1588
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1612,
+      924,
+      1650
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1669,
+      301,
+      1707
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 8"
+  },
+  {
+    "bbox": [
+      156,
+      1729,
+      680,
+      1778
+    ],
+    "category": "Text",
+    "text": "Giả sử $s(t) = at^3 + bt^2 + ct + d$ ($a \\neq 0$)."
+  },
+  {
+    "bbox": [
+      156,
+      1802,
+      1349,
+      1892
+    ],
+    "category": "Text",
+    "text": "Vì đồ thị hàm số $s(t)$ đi qua các điểm $(0;0)$, $(4;\\frac{8}{3})$, $(8;\\frac{112}{3})$ và $(10;\\frac{260}{3})$ nên ta có"
+  },
+  {
+    "bbox": [
+      156,
+      1918,
+      680,
+      2234
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 64a + 16b + 4c = \\frac{8}{3} \\\\ 512a + 64b + 8c = \\frac{112}{3} \\\\ 1000a + 100b + 10c = \\frac{260}{3} \\\\ d = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{1}{6} \\\\ b = -1 \\\\ c = 2 \\\\ d = 0 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

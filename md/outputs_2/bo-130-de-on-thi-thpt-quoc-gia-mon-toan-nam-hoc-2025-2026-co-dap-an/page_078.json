@@ -1,0 +1,428 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      122,
+      1553,
+      275
+    ],
+    "category": "Text",
+    "text": "giới hạn bởi đồ thị hàm số $y = f(x)$ và trục $Ox$. Biết rằng $f(x) \\le 0, \\forall x \\in [x_1; x_2]$, giá trị của $\\int_{x_1}^{x_2} f(x) \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      279,
+      677,
+      321
+    ],
+    "category": "List-item",
+    "text": "(A) $(x_1 - x_2)S$."
+  },
+  {
+    "bbox": [
+      750,
+      279,
+      827,
+      321
+    ],
+    "category": "List-item",
+    "text": "(B) $S$."
+  },
+  {
+    "bbox": [
+      1022,
+      279,
+      1220,
+      321
+    ],
+    "category": "List-item",
+    "text": "(C) $(x_2 - x_1)S$."
+  },
+  {
+    "bbox": [
+      1294,
+      279,
+      1395,
+      321
+    ],
+    "category": "List-item",
+    "text": "(D) $-S$."
+  },
+  {
+    "bbox": [
+      447,
+      343,
+      1553,
+      424
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Chi phí cho giáo dục mỗi năm của một số hộ gia đình ở một khu vực được ghi lại ở bảng sau (đơn vị: triệu đồng)."
+  },
+  {
+    "bbox": [
+      593,
+      465,
+      1406,
+      564
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chi phí</td><td>[15; 20)</td><td>[20; 25)</td><td>[25; 30)</td><td>[30; 35)</td><td>[35; 40)</td></tr><tr><td>Số hộ gia đình</td><td>12</td><td>24</td><td>16</td><td>8</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      447,
+      605,
+      1466,
+      642
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm trên thuộc nửa khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      477,
+      644,
+      629,
+      686
+    ],
+    "category": "List-item",
+    "text": "(A) [20; 24)."
+  },
+  {
+    "bbox": [
+      750,
+      644,
+      899,
+      686
+    ],
+    "category": "List-item",
+    "text": "(B) [24; 28)."
+  },
+  {
+    "bbox": [
+      1022,
+      644,
+      1169,
+      686
+    ],
+    "category": "List-item",
+    "text": "(C) [28; 32)."
+  },
+  {
+    "bbox": [
+      1294,
+      644,
+      1445,
+      686
+    ],
+    "category": "List-item",
+    "text": "(D) [32; 36)."
+  },
+  {
+    "bbox": [
+      447,
+      707,
+      1383,
+      750
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hình hộ ABCD. $A'B'C'D'$, gọi $O$ là tâm của hình hộ."
+  },
+  {
+    "bbox": [
+      741,
+      796,
+      1261,
+      1228
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1281,
+      842,
+      1318
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      477,
+      1316,
+      698,
+      1359
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{BD'} = 2\\overrightarrow{BO}$."
+  },
+  {
+    "bbox": [
+      1022,
+      1316,
+      1296,
+      1359
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{A'C} + \\overrightarrow{DB'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      477,
+      1359,
+      745,
+      1405
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{OB'} + \\overrightarrow{OD} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      1022,
+      1359,
+      1309,
+      1405
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{AA'} + \\overrightarrow{AC} = \\overrightarrow{AC'}$."
+  },
+  {
+    "bbox": [
+      447,
+      1429,
+      1553,
+      1511
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho các vecto $\\vec{a} = (2; -1; 2)$; $\\vec{b} = (-3; 1; -1)$ và $\\vec{c} = (1; -1; 3)$. Biết rằng $\\vec{c} = x\\vec{a} + y\\vec{b}$ với $x; y$ là các số thực. Khi đó $x + y$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1511,
+      548,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(A) 3."
+  },
+  {
+    "bbox": [
+      750,
+      1511,
+      821,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(B) 1."
+  },
+  {
+    "bbox": [
+      1022,
+      1511,
+      1093,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(C) 2."
+  },
+  {
+    "bbox": [
+      1294,
+      1511,
+      1367,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      447,
+      1574,
+      1553,
+      1682
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x-1}{2} = \\frac{y-2}{-1} = \\frac{z-3}{2}$. Miệt phẳng ($P$) vuông góc với đường thẳng $d$ có một vecto pháp tuyến là"
+  },
+  {
+    "bbox": [
+      477,
+      1682,
+      735,
+      1724
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{n}_2 = (2; -1; 2)$."
+  },
+  {
+    "bbox": [
+      1022,
+      1682,
+      1327,
+      1724
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{n}_3 = (-1; -2; -3)$."
+  },
+  {
+    "bbox": [
+      477,
+      1724,
+      708,
+      1768
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{n}_1 = (1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      1022,
+      1724,
+      1252,
+      1768
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{n}_4 = (2; 1; 2)$."
+  },
+  {
+    "bbox": [
+      447,
+      1791,
+      1173,
+      1846
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1856,
+      1120,
+      1927
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Xét hàm số $f(x) = x - \\frac{1}{x} + 2 \\ln x$. Khi đó"
+  },
+  {
+    "bbox": [
+      477,
+      1927,
+      1240,
+      1965
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trên tập xác định của nó."
+  },
+  {
+    "bbox": [
+      477,
+      1965,
+      1316,
+      2036
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số $y = x - \\frac{1}{x} + 2 \\ln x$ không có đường tiệm cận."
+  },
+  {
+    "bbox": [
+      477,
+      2036,
+      1361,
+      2103
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $f(x)$ thoả mãn hệ thức $f\\left(\\frac{1}{x}\\right) = -f(x), \\forall x \\in (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      477,
+      2103,
+      1549,
+      2215
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình $f(\\sin x + 2) + f\\left(\\frac{1}{\\cos x + 2}\\right) = 0$ có ba nghiệm phân biệt thuộc đoạn $[0; 2\\pi]$."
+  },
+  {
+    "bbox": [
+      135,
+      2261,
+      173,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "76"
+  },
+  {
+    "bbox": [
+      212,
+      2261,
+      426,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  }
+]

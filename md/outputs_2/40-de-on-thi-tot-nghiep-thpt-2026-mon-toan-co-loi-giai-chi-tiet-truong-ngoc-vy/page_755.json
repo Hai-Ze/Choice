@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      98,
+      763,
+      201
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(0) = 8$; $f\\left(\\frac{2\\sqrt{3}}{3}\\right) = 4 + 2\\sqrt{3}$; $f(4) = 4\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      75,
+      226,
+      633,
+      295
+    ],
+    "category": "Text",
+    "text": "Do đó, $\\min_{[0;4]} f(x) = 4\\sqrt{3} + 2 \\approx 7,46 (km)$."
+  },
+  {
+    "bbox": [
+      75,
+      314,
+      1495,
+      594
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cô Hồng Nhung gửi tiếtniêm vào một ngân hàng với lãi suất 6,1% / năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào vốn để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm, cô Hồng Nhung thu được (cả số tiền gửi ban đầu và lãi) gấp double số tiền gửi ban đầu, giả định trong khoảng thời gian này lãi suất không thay đổi và cô Hồng Nhung không rút tiền ra?"
+  },
+  {
+    "bbox": [
+      585,
+      610,
+      979,
+      858
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      876,
+      414,
+      913
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      935,
+      843,
+      974
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      993,
+      238,
+      1033
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 12"
+  },
+  {
+    "bbox": [
+      75,
+      1056,
+      1493,
+      1178
+    ],
+    "category": "Text",
+    "text": "Đây là bài toán lãi kép, Áp dụng công thức $A_n = A_0(1+r)^n$ với $n$ là số kỳ hạn, $A_0$ là số tiền ban đầu, $A_n$ là số tiền có được sau $n$ kỳ hạn, $r$ là lãi suất."
+  },
+  {
+    "bbox": [
+      75,
+      1209,
+      1072,
+      1303
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo giả thiết } 2A = A\\left(1+\\frac{6,1}{100}\\right)^n \\Leftrightarrow 2 = \\left(1+\\frac{6,1}{100}\\right)^n \\Leftrightarrow n = \\log_{(1,061)} 2 \\approx 11,7\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1322,
+      1024,
+      1368
+    ],
+    "category": "Text",
+    "text": "Vậy sau ít nhất 12 năm Cô Hồng Nhung thu được số tiền thỏa yêu cầu."
+  },
+  {
+    "bbox": [
+      75,
+      1381,
+      1495,
+      1545
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một máy phát tín hiệu P được đặt cố định ở một địa điểm và ta có thể nhận được tín hiệu của máy phát này trong phạm vi của một mặt cầu với bán kính $R$ của nó. Một người cầm máy dò tín hiệu $A$ chuyển động trên đường thẳng $d$ (như hình vẽ)"
+  },
+  {
+    "bbox": [
+      588,
+      1578,
+      967,
+      2206
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

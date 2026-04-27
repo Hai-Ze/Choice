@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      288,
+      108,
+      840,
+      491
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      527,
+      728,
+      582
+    ],
+    "category": "Formula",
+    "text": "$$\n[S, BC, D] = [S, BC, A] = \\widehat{SBA} = 45^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      611,
+      1242,
+      656
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Thống kê nhiệt độ tại một địa điểm trong 40 ngày, ta có bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      288,
+      658,
+      1392,
+      771
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhiệt độ (°C)</td><td>[19;22)</td><td>[22;25)</td><td>[25;28)</td><td>[28;31)</td></tr><tr><td>Số ngày</td><td>7</td><td>15</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      269,
+      775,
+      583,
+      813
+    ],
+    "category": "Text",
+    "text": "Nhiệt độ trung bình là?"
+  },
+  {
+    "bbox": [
+      269,
+      841,
+      427,
+      876
+    ],
+    "category": "List-item",
+    "text": "A. 25,456."
+  },
+  {
+    "bbox": [
+      269,
+      893,
+      427,
+      929
+    ],
+    "category": "List-item",
+    "text": "B. 24,775."
+  },
+  {
+    "bbox": [
+      269,
+      944,
+      427,
+      980
+    ],
+    "category": "List-item",
+    "text": "C. 23,021."
+  },
+  {
+    "bbox": [
+      269,
+      995,
+      427,
+      1031
+    ],
+    "category": "List-item",
+    "text": "D. 22,036."
+  },
+  {
+    "bbox": [
+      852,
+      1047,
+      966,
+      1085
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      269,
+      1114,
+      381,
+      1152
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      269,
+      1180,
+      662,
+      1219
+    ],
+    "category": "Text",
+    "text": "Ta có bảng giá trị đại diện là:"
+  },
+  {
+    "bbox": [
+      288,
+      1243,
+      1392,
+      1407
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhiệt độ (°C)</td><td>[19;22)</td><td>[22;25)</td><td>[25;28)</td><td>[28;31)</td></tr><tr><td>Số ngày</td><td>7</td><td>15</td><td>12</td><td>6</td></tr><tr><td>Giá trị đại diện</td><td>20,5</td><td>23,5</td><td>26,5</td><td>29,5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      269,
+      1412,
+      1181,
+      1492
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nhiệt độ trung bình là: } \\frac{7 \\cdot 20,5 + 15 \\cdot 23,5 + 12 \\cdot 26,5 + 6 \\cdot 29,5}{40} = 24,775\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      1526,
+      1540,
+      1573
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình hợp chữ nhật $ABCD.A'B'C'D'$. Khi đó vectơ bằng vectơ $\\overrightarrow{AB}$ là vectơ nào dưới đây?"
+  },
+  {
+    "bbox": [
+      269,
+      1580,
+      402,
+      1624
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{D'C'}$."
+  },
+  {
+    "bbox": [
+      269,
+      1656,
+      372,
+      1698
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{BA}$."
+  },
+  {
+    "bbox": [
+      269,
+      1732,
+      377,
+      1774
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      269,
+      1808,
+      399,
+      1850
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{B'A'}$."
+  },
+  {
+    "bbox": [
+      852,
+      1882,
+      966,
+      1920
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      269,
+      1949,
+      381,
+      1985
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  }
+]

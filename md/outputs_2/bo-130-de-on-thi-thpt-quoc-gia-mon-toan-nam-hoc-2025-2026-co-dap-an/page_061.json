@@ -1,0 +1,508 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      131,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      47,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      47,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      47,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      93,
+      158,
+      919,
+      238
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Cho hàm số có đồ thị như hình vẽ. Hàm số đã cho nghịch biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      123,
+      238,
+      311,
+      278
+    ],
+    "category": "List-item",
+    "text": "A $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      324,
+      238,
+      488,
+      278
+    ],
+    "category": "List-item",
+    "text": "B $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      526,
+      238,
+      675,
+      278
+    ],
+    "category": "List-item",
+    "text": "C $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      727,
+      238,
+      854,
+      278
+    ],
+    "category": "List-item",
+    "text": "D $(0; 2)$."
+  },
+  {
+    "bbox": [
+      949,
+      175,
+      1171,
+      447
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      456,
+      1196,
+      537
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho một cấp số cộng $(u_n)$ có $u_1 = 4$ và tổng của 50 số hạng đầu bằng 3 875. Tổng của 100 số hạng đầu của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      123,
+      537,
+      356,
+      577
+    ],
+    "category": "List-item",
+    "text": "A $S_{100} = 15\\,250$."
+  },
+  {
+    "bbox": [
+      395,
+      537,
+      630,
+      577
+    ],
+    "category": "List-item",
+    "text": "B $S_{100} = 15\\,520$."
+  },
+  {
+    "bbox": [
+      668,
+      537,
+      901,
+      577
+    ],
+    "category": "List-item",
+    "text": "C $S_{100} = 12\\,550$."
+  },
+  {
+    "bbox": [
+      940,
+      537,
+      1169,
+      577
+    ],
+    "category": "List-item",
+    "text": "D $S_{100} = 15\\,521$."
+  },
+  {
+    "bbox": [
+      93,
+      617,
+      584,
+      847
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Một doanh nghiệp sản xuất với số lượng $x$ sản phẩm, và thu được lợi nhuận $f(x)$ được biểu thị bởi bảng biến thiến như sau. Hỏi doanh nghiệp sản xuất bao nhiêu sản phẩm trở đi thì lợi nhuận bắt đầu giảm?"
+  },
+  {
+    "bbox": [
+      123,
+      847,
+      226,
+      887
+    ],
+    "category": "List-item",
+    "text": "A 201."
+  },
+  {
+    "bbox": [
+      242,
+      847,
+      345,
+      887
+    ],
+    "category": "List-item",
+    "text": "B 200."
+  },
+  {
+    "bbox": [
+      361,
+      847,
+      464,
+      887
+    ],
+    "category": "List-item",
+    "text": "C 101."
+  },
+  {
+    "bbox": [
+      480,
+      847,
+      581,
+      887
+    ],
+    "category": "List-item",
+    "text": "D 100."
+  },
+  {
+    "bbox": [
+      613,
+      628,
+      1196,
+      885
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>200</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">100</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      902,
+      1196,
+      1094
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Một trường THPT có 500 học sinh, trong đó có 225 học sinh nam, còn lại là học sinh nữ. Tổng kết học kỳ $II$, có 302 học sinh đạt danh hiệu học sinh好气, trong đó có 142 học sinh nam và 160 học sinh nữ. Chọn ra ngẫu nhiên một học sinh trong số 500 học sinh đó. Tính xác suất để học sinh được chọn có danh hiệu học sinh好气 và là nữ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      123,
+      1094,
+      234,
+      1134
+    ],
+    "category": "List-item",
+    "text": "A 0,58."
+  },
+  {
+    "bbox": [
+      395,
+      1094,
+      506,
+      1134
+    ],
+    "category": "List-item",
+    "text": "B 0,64."
+  },
+  {
+    "bbox": [
+      668,
+      1094,
+      777,
+      1134
+    ],
+    "category": "List-item",
+    "text": "C 0,32."
+  },
+  {
+    "bbox": [
+      940,
+      1094,
+      1051,
+      1134
+    ],
+    "category": "List-item",
+    "text": "D 0,55."
+  },
+  {
+    "bbox": [
+      93,
+      1152,
+      1196,
+      1345
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Một người gửi tiết kiêm số tiền 500 triệu đồng tại ngân hàng $X$ với kì hạn 3 tháng, lãi suất 5,2% một năm, lãi nhập gốc (nghĩa là sau 3 tháng mà người đó không rút tiền thì tiền lãi sẽ nhập vào gốc ban đầu). Để có số tiền ít nhất là 561 triệu đồng thì người đó phải gửi ngân hàng bao nhiêu tháng? (kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      123,
+      1345,
+      295,
+      1385
+    ],
+    "category": "List-item",
+    "text": "A 25 tháng."
+  },
+  {
+    "bbox": [
+      395,
+      1345,
+      568,
+      1385
+    ],
+    "category": "List-item",
+    "text": "B 26 tháng."
+  },
+  {
+    "bbox": [
+      668,
+      1345,
+      841,
+      1385
+    ],
+    "category": "List-item",
+    "text": "C 27 tháng."
+  },
+  {
+    "bbox": [
+      940,
+      1345,
+      1113,
+      1385
+    ],
+    "category": "List-item",
+    "text": "D 28 tháng."
+  },
+  {
+    "bbox": [
+      93,
+      1403,
+      1196,
+      1631
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Một cơ sở chuyên thiết kế sản xuất áo phông thời trang, chi phí để sản xuất một chiếc áo là 95 nghìn đồng. Với giá bán 165 nghìn đồng một chiếc áo, mỗi tháng cơ sở bán được 15 000 chiếc áo. Sau một thời gian, chủ cơ sở muốn tăng giá bán để tăng thêm lợi nhuận, biết rằng cứ 1 lần tăng giá 10 nghìn đồng thì mỗi tháng số áo bán được giảm đi 1 000 chiếc áo. Hỏi cơ sở phải tăng giá bán bao nhiêu lần để có lợi nhuận nhiều nhất."
+  },
+  {
+    "bbox": [
+      123,
+      1631,
+      195,
+      1671
+    ],
+    "category": "List-item",
+    "text": "A 6."
+  },
+  {
+    "bbox": [
+      395,
+      1631,
+      482,
+      1671
+    ],
+    "category": "List-item",
+    "text": "B 10."
+  },
+  {
+    "bbox": [
+      668,
+      1631,
+      741,
+      1671
+    ],
+    "category": "List-item",
+    "text": "C 5."
+  },
+  {
+    "bbox": [
+      940,
+      1631,
+      1013,
+      1671
+    ],
+    "category": "List-item",
+    "text": "D 4."
+  },
+  {
+    "bbox": [
+      93,
+      1689,
+      1196,
+      1806
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Một chiếc lều có dạng hình chóp tư giác đều với cạnh đáy bằng 80 cm và cạnh bên bằng 120 cm có thể tích là bao nhiêu $dm^3$ (làm tròn đến hàng đơn vị). Tính thể tích $V$ của hình chóp $S.ABCD$."
+  },
+  {
+    "bbox": [
+      123,
+      1806,
+      291,
+      1846
+    ],
+    "category": "List-item",
+    "text": "A 226 $dm^3$."
+  },
+  {
+    "bbox": [
+      395,
+      1806,
+      564,
+      1846
+    ],
+    "category": "List-item",
+    "text": "B 225 $dm^3$."
+  },
+  {
+    "bbox": [
+      668,
+      1806,
+      835,
+      1846
+    ],
+    "category": "List-item",
+    "text": "C 677 $dm^3$."
+  },
+  {
+    "bbox": [
+      940,
+      1806,
+      1123,
+      1846
+    ],
+    "category": "List-item",
+    "text": "D 6773 $dm^3$."
+  },
+  {
+    "bbox": [
+      108,
+      1865,
+      823,
+      1919
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1927,
+      1196,
+      2046
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty sản xuất một sản phẩm. Bộ phận tài chính của công ty đưa ra hàm giá bán là $p(x) = 1\\,000 - 25x$, trong đó $p(x)$ (triệu đồng) là giá bán của mỗi sản phẩm mà tại giá bán này có $x$ sản phẩm được bán ra."
+  },
+  {
+    "bbox": [
+      123,
+      2046,
+      794,
+      2086
+    ],
+    "category": "List-item",
+    "text": "a) Hàm doanh thu của công ty là $f(x) = x \\cdot p(x)$."
+  },
+  {
+    "bbox": [
+      123,
+      2086,
+      1048,
+      2126
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $f(x) = -25x^2 + 1\\,000x$ có đạo hàm $f'(x) = -50x + 1\\,000$."
+  },
+  {
+    "bbox": [
+      123,
+      2126,
+      1193,
+      2201
+    ],
+    "category": "List-item",
+    "text": "c) Nếu $f(x) = x \\cdot p(x)$ là hàm doanh thu thì phương trình $f'(x) = 0$ có nghiệm là $x = 2$."
+  },
+  {
+    "bbox": [
+      123,
+      2201,
+      821,
+      2241
+    ],
+    "category": "List-item",
+    "text": "d) Hàm doanh thu đạt giá trị lớn nhất bằng 10 000."
+  },
+  {
+    "bbox": [
+      1227,
+      2259,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1475,
+      2259,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "59"
+  }
+]

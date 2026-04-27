@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      97,
+      1374,
+      195
+    ],
+    "category": "Text",
+    "text": "Diện tích phần sân chơi $S_1 = \\int_{0}^{40} [-g(x)] dx = \\int_{0}^{40} \\left[ -\\left( \\frac{1}{700}x^3 - \\frac{3}{35}x^2 + \\frac{39}{28}x - 20 \\right) \\right] dx = 600 \\text{ m}^2$"
+  },
+  {
+    "bbox": [
+      155,
+      214,
+      526,
+      259
+    ],
+    "category": "Text",
+    "text": "Diện tích phần trồng hoa là"
+  },
+  {
+    "bbox": [
+      160,
+      276,
+      1138,
+      375
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = \\int_{0}^{40} [f(x) + 60] dx = \\int_{0}^{40} \\left[ \\frac{1}{700}x^3 - \\frac{3}{35}x^2 + \\frac{39}{28}x - 30 + 60 \\right] dx = 1400 \\text{ m}^2.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      401,
+      500,
+      489
+    ],
+    "category": "Text",
+    "text": "Vậy tỉ số $\\frac{S_1}{S_2} = \\frac{600}{1400} = \\frac{3}{7}$."
+  },
+  {
+    "bbox": [
+      160,
+      514,
+      521,
+      551
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2m + 3n = 2.3 + 3.7 = 27\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      567,
+      1575,
+      776
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử tỷ lệ sinh của Tỉnh A tuân theo quy luật logistic được mô hình hóa bằng hàm số $f(t) = \\frac{200}{1+4e^{-t}}; t \\ge 0, t \\in N$, trong đó thời gian $t$ được tính bằng tháng. Khi đó đạo hàm $f'(t)$ sẽ biểu thị tốc độ tăng dân số của tỉnh A. Hỏi sau bao nhiêu tháng tốc độ tăng trưởng của dân số tỉnh A là lớn nhất?"
+  },
+  {
+    "bbox": [
+      155,
+      794,
+      494,
+      831
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      852,
+      924,
+      892
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      910,
+      343,
+      949
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1,39"
+  },
+  {
+    "bbox": [
+      155,
+      979,
+      559,
+      1065
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f(t) = \\frac{200}{1+4e^{-t}} = \\frac{200e^t}{e^t + 4}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1090,
+      486,
+      1195
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } f'(t) = \\frac{800e^t}{(e^t + 4)^2}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1222,
+      900,
+      1341
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f''(t) = \\frac{800e^t(4 - e^t)}{(e^t + 4)^3}. \\text{ Khi đó } f''(t) = 0 \\Leftrightarrow t = \\ln 4.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1362,
+      486,
+      1406
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên"
+  },
+  {
+    "bbox": [
+      155,
+      1421,
+      1199,
+      1719
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>t</td><td>0</td><td>ln 4</td><td>+∞</td></tr><tr><td>f''(t)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>f'(t)</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1742,
+      1575,
+      1915
+    ],
+    "category": "Text",
+    "text": "Vậy tốc độ tăng trưởng của dân số tỉnh A lớn nhất là $f'(\\ln 4) = \\frac{800e^{\\ln 4}}{(e^{\\ln 4} + 4)^2} = \\frac{800 \\cdot 4}{(4 + 4)^2} = \\frac{3200}{64} = 50$ tại thời điểm $t = \\ln 4 \\approx 1,39$"
+  },
+  {
+    "bbox": [
+      155,
+      1936,
+      1575,
+      2099
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người gửi 50 triệu đồng vào một ngân hàng với lãi suất 6% / năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào gốc để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm người đó nhận được số tiền nhiều hơn 100 triệu đồng bao gồm gốc và lãi?"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

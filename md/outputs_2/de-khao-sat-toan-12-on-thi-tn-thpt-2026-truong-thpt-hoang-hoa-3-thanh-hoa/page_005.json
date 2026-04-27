@@ -1,0 +1,111 @@
+[
+  {
+    "bbox": [
+      334,
+      108,
+      1626,
+      402
+    ],
+    "category": "Text",
+    "text": "Một khán giả ngồi tại vị trí $M$ của khán đài A, có hình chiếu vuông góc lên mặt phẳng chứa sân là một điểm thuộc $Ox$. Góc hợp bởi $OM$ và mặt sân là $\\alpha$ với $\\sin \\alpha = \\frac{1}{3}$, nếu người này di chuyển $10$ ($m$) trên hàng ngang đó đến ngồi tại một vị trí $N$ thì góc hợp bởi $ON$ và mặt sân là $\\beta$ với $\\sin \\beta = \\frac{\\sqrt{10}}{10}$. Gọi $h(m)$ là độ cao tại $M$ so với mặt sân."
+  },
+  {
+    "bbox": [
+      665,
+      420,
+      1334,
+      915
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      334,
+      951,
+      763,
+      996
+    ],
+    "category": "List-item",
+    "text": "a)úp $M$ có cao độ bằng 0."
+  },
+  {
+    "bbox": [
+      334,
+      1025,
+      525,
+      1066
+    ],
+    "category": "List-item",
+    "text": "b) $OM = 3h$."
+  },
+  {
+    "bbox": [
+      334,
+      1091,
+      916,
+      1136
+    ],
+    "category": "List-item",
+    "text": "c)úp $N$ có cùng tung độ với điểm $M$."
+  },
+  {
+    "bbox": [
+      334,
+      1142,
+      509,
+      1183
+    ],
+    "category": "List-item",
+    "text": "d) $h = 10m$."
+  },
+  {
+    "bbox": [
+      197,
+      1207,
+      854,
+      1248
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      197,
+      1255,
+      1614,
+      1445
+    ],
+    "category": "List-item",
+    "text": "Câu 1: Cho lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác vuông và $AB = BC = a$, $AA' = a\\sqrt{2}$, $M$ là trung điểm của $BC$. Khoảng cách $d$ giữa hai đường thẳng $AM$ và $B'C$ được viết dưới dạng $d = \\frac{a\\sqrt{m}}{n}$, $m; n \\in \\mathbb{Z}$. Khi đó tổng $m+n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      197,
+      1450,
+      1600,
+      1583
+    ],
+    "category": "List-item",
+    "text": "Câu 2: Phòng chăm sóc khách hàng của công ty A làm việc từ 8h00 sáng đến 20h00 mỗi ngày. Nhân viên trực tổng đài làm việc theo 2 ca, mỗi ca 8 tiếng, ca I từ 8h00 đến 16h00 và ca II từ 12h00 đến 20h00. Tiền lương của nhân viên được tính theo giờ (bảng dưới đây):"
+  },
+  {
+    "bbox": [
+      501,
+      1627,
+      1312,
+      1768
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Khoảng thời gian làm việc</td><td>Tiền lương/giờ</td></tr></thead><tbody><tr><td>8h00 – 16h00</td><td>32 000 đồng</td></tr><tr><td>12h00 – 20h00</td><td>30 000 đồng</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      334,
+      1808,
+      1617,
+      2032
+    ],
+    "category": "Text",
+    "text": "Để chăm sóc khách hàng tốt nhất thì cần tối thiểu 2 nhân viên trong khoảng từ 12h00 – 20h00, tối thiểu 10 nhân viên trong giờ cao điểm từ 12h00 – 16h00 và không quá 9 nhân viên trong khoảng từ 8h00 – 16h00. Do lượng khách hàng trong khoảng 8h00 – 16h00 thường đông hơn nên phòng chăm sóc khách hàng cần số nhân viên ca I ít nhất phải gấp 1,5 lần số nhân viên của ca II. Em hãy giúp công ty A chỉ ra cách huy động số lượng nhân viên cho mỗi ca sao cho chi"
+  }
+]

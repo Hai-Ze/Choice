@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      82,
+      100,
+      341,
+      179
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow x = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      198,
+      291,
+      243
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      392,
+      272,
+      1164,
+      537
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>0</td><td>1/2</td><td>1</td><td>e<sup>2</sup></td><td>+∞</td></tr><tr><td>f'(x)</td><td>+</td><td>0</td><td>-</td><td></td><td></td></tr><tr><td>f(x)</td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      574,
+      1261,
+      646
+    ],
+    "category": "Text",
+    "text": "Trong đoạn $[1;e^2]$ hàm số giảm. Vậy $\\max_{[1;e^2]} f(x) = f(1) = -2$; $\\min_{[1;e^2]} f(x) = f(e^2) = 2 - 2e^4$."
+  },
+  {
+    "bbox": [
+      76,
+      672,
+      762,
+      744
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\max_{[1;e^2]} f(x) + \\min_{[1;e^2]} f(x) = -2 + 2 - 2e^4 = -2e^4.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      771,
+      655,
+      851
+    ],
+    "category": "Text",
+    "text": "b) Thấy hàm số có một điểm cực trị $x = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      875,
+      1129,
+      963
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đồng biến trong khoảng $\\left(0, \\frac{1}{2}\\right)$ nghịch biến trong khoảng $\\left(\\frac{1}{2}, +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      76,
+      983,
+      768,
+      1028
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số luôn đồng biến trên tập xác định là Sai."
+  },
+  {
+    "bbox": [
+      76,
+      1048,
+      466,
+      1092
+    ],
+    "category": "Formula",
+    "text": "d) $f(1) = -2$; $f(e^2) = 2 - 2e^4$."
+  },
+  {
+    "bbox": [
+      76,
+      1117,
+      1495,
+      1439
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một khinh khí cầu bay với độ cao (so với mực nước biển) tại thời điểm $t(0 \\le t \\le 29)$ là $h(t)$, trong đó $t$ tính bằng phút, $h(t)$ tính bằng mét. Tốc độ bay của khinh khí cầu được cho bởi hàm số $v(t) = at^2 + bt$ ($a, b \\in \\mathbb{R}$), với $t$ tính bằng phút, $v(t)$ tính bằng mét/phút. Tại thời điểm xuất phát, khinh khí cầu đã ở độ cao 530 m. Khinh khí cầu sẽ trở lại độ cao khi xuất phát sau 15 phút."
+  },
+  {
+    "bbox": [
+      76,
+      1459,
+      301,
+      1506
+    ],
+    "category": "Formula",
+    "text": "a) $h(0) = 520$ m."
+  },
+  {
+    "bbox": [
+      76,
+      1535,
+      1074,
+      1629
+    ],
+    "category": "Formula",
+    "text": "b) Độ cao của khinh khí cầu tại thời điểm $t(0 \\le t \\le 29)$ là $h(t) = \\int_{0}^{t} v(t) dt$."
+  },
+  {
+    "bbox": [
+      76,
+      1648,
+      1241,
+      1695
+    ],
+    "category": "Text",
+    "text": "c) Giai đoạn khinh khí cầu tăng độ cao kéo dài trong 10 phút kể từ thời điểm xuất phát."
+  },
+  {
+    "bbox": [
+      76,
+      1707,
+      670,
+      1751
+    ],
+    "category": "Text",
+    "text": "d) độ cao tối đa của khinh khí cầu là 540 m."
+  },
+  {
+    "bbox": [
+      727,
+      1772,
+      843,
+      1808
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1824,
+      893,
+      1946
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2009,
+      301,
+      2054
+    ],
+    "category": "Formula",
+    "text": "a) $h(0) = 520$ m."
+  },
+  {
+    "bbox": [
+      76,
+      2083,
+      1328,
+      2177
+    ],
+    "category": "Formula",
+    "text": "b) độ cao của khinh khí cầu là $h(t) = \\int_{0}^{t} v(t) dt = \\frac{1}{3}at^3 + \\frac{1}{2}bt^2 + c$. $\\Rightarrow h(t) = \\frac{1}{3}at^3 + \\frac{1}{2}bt^2 + 520$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "bbox": [
+      188,
+      139,
+      1224,
+      182
+    ],
+    "category": "List-item",
+    "text": "a) Một chu kì sản xuất, xưởng mộc phải nhập về $5x$ đơn vị nguyên liệu."
+  },
+  {
+    "bbox": [
+      188,
+      194,
+      1418,
+      237
+    ],
+    "category": "List-item",
+    "text": "b) Chi phí để lưu trữ nguyên liệu trong $x$ ngày của một chu kì sản xuất là $50x^2$ USD."
+  },
+  {
+    "bbox": [
+      190,
+      242,
+      1419,
+      322
+    ],
+    "category": "List-item",
+    "text": "c) Hàm chi phí trung bình mỗi ngày trong một chu kì sản xuất là $c(x) = 50x + \\frac{5625}{x}$."
+  },
+  {
+    "bbox": [
+      188,
+      327,
+      1546,
+      414
+    ],
+    "category": "List-item",
+    "text": "d) Để chi phí trung bình mỗi ngày của một chu kì sản xuất là ít nhất thì xưởng mộc nên nhập hàng mỗi 15 ngày và mỗi lần nhập về 75 đơn vị nguyên liệu."
+  },
+  {
+    "bbox": [
+      154,
+      431,
+      198,
+      468
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      428,
+      1185,
+      492
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét trong một chu kì sản xuất dài $x$ ngày ($x > 0$):"
+  },
+  {
+    "bbox": [
+      195,
+      511,
+      224,
+      544
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      510,
+      381,
+      549
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      234,
+      566,
+      1546,
+      653
+    ],
+    "category": "Text",
+    "text": "Vì mỗi ngày xưởng sản xuất 5 chiếc bàn, nên trong $x$ ngày, lượng nguyên liệu cần thiết (một đơn vị nguyên liệu cho một chiếc bàn) là: $5 \\cdot x = 5x$ (đơn vị)."
+  },
+  {
+    "bbox": [
+      195,
+      673,
+      224,
+      706
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      671,
+      345,
+      710
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      234,
+      727,
+      1010,
+      768
+    ],
+    "category": "List-item",
+    "text": "- Lượng nguyên liệu tồn kho đầu kì là $5x$, cuối kì là 0."
+  },
+  {
+    "bbox": [
+      234,
+      775,
+      1332,
+      855
+    ],
+    "category": "List-item",
+    "text": "- Lượng nguyên liệu lưu trữ trung bình mỗi ngày là: $\\frac{5x + 0}{2} = 2,5x$ (đơn vị)."
+  },
+  {
+    "bbox": [
+      234,
+      864,
+      1002,
+      905
+    ],
+    "category": "List-item",
+    "text": "- Chi phí lưu trữ mỗi ngày là: $2,5x \\cdot 10 = 25x$ (USD)."
+  },
+  {
+    "bbox": [
+      234,
+      920,
+      1299,
+      964
+    ],
+    "category": "List-item",
+    "text": "- Tổng chi phí lưu trữ trong một chu kì ($x$ ngày) là: $25x \\cdot x = 25x^2$ (USD)."
+  },
+  {
+    "bbox": [
+      195,
+      984,
+      224,
+      1017
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      982,
+      341,
+      1021
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      234,
+      1038,
+      1344,
+      1080
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí trong một chu kì bao gồm chi phí vận chuyển và chi phí lưu trữ:"
+  },
+  {
+    "bbox": [
+      234,
+      1097,
+      632,
+      1139
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = 5625 + 25x^2 \\text{ (USD).}\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1156,
+      760,
+      1197
+    ],
+    "category": "Text",
+    "text": "Hàm chi phí trung bình mỗi ngày là:"
+  },
+  {
+    "bbox": [
+      234,
+      1204,
+      953,
+      1287
+    ],
+    "category": "Formula",
+    "text": "$$\nc(x) = \\frac{C(x)}{x} = \\frac{5625 + 25x^2}{x} = 25x + \\frac{5625}{x} \\text{ (USD).}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1301,
+      224,
+      1334
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      1300,
+      384,
+      1339
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      234,
+      1354,
+      1546,
+      1471
+    ],
+    "category": "Text",
+    "text": "Để chi phí trung bình mỗi ngày là ít nhất, ta cần tìm giá trị nhỏ nhất của hàm số $c(x) = 25x + \\frac{5625}{x}$ trên $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      234,
+      1476,
+      1099,
+      1555
+    ],
+    "category": "Text",
+    "text": "Áp dụng bấtCO-si thức: $\\frac{5625}{x}$"
+  },
+  {
+    "bbox": [
+      234,
+      1562,
+      1159,
+      1647
+    ],
+    "category": "Formula",
+    "text": "$$\nc(x) = 25x + \\frac{5625}{x} \\geq 2\\sqrt{25x \\cdot \\frac{5625}{x}} = 2\\sqrt{140625} = 2 \\cdot 375 = 750.\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1652,
+      1295,
+      1733
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Dấu \"=\"} \\text{xay ra khi } 25x = \\frac{5625}{x} \\Leftrightarrow x^2 = \\frac{5625}{25} = 225 \\Leftrightarrow x = 15 \\text{ (vì } x > 0\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1742,
+      1193,
+      1783
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi } x = 15, \\text{ lượng nguyên liệu mỗi lần nhập là } 5 \\cdot 15 = 75 \\text{ (đơn vị).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1806,
+      190,
+      1841
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      195,
+      1803,
+      1546,
+      1933
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một túi chứa ba quả bóng được đánh số 1, 2 và 3. Bạn An chọn ngẫu nhiên một trong các quả bóng này và ghi lại số trên quả bóng được chọn. Sau đó, An tung một số đồng xu cân đối đồng chất bằng với số trên quả bóng đã chọn."
+  },
+  {
+    "bbox": [
+      188,
+      1944,
+      988,
+      2023
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để không có mặt ngửa nào xuất hiện là $\\frac{7}{24}$."
+  },
+  {
+    "bbox": [
+      188,
+      2025,
+      1393,
+      2102
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để 2 đồng xu xuất hiện mặt ngửa và 1 đồng xu xuất hiện mặt sấp là $\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      188,
+      2106,
+      1358,
+      2184
+    ],
+    "category": "List-item",
+    "text": "c) Biết rằng không có mặt ngửa nào xuất hiện, xác suất An tung 2 đồng xu là $\\frac{2}{7}$."
+  },
+  {
+    "bbox": [
+      158,
+      2256,
+      183,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      2252,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1599,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "49"
+  }
+]

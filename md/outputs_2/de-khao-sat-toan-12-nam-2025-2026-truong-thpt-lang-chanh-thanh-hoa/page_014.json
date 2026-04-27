@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      113,
+      76,
+      1533,
+      158
+    ],
+    "category": "Text",
+    "text": "chủng virus V20 thì có 50% bị biến chứng. Rút ngẫu nhiên một bệnh án của bệnh nhân nhiễm bệnh X, các phát biểu sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      113,
+      154,
+      1083,
+      198
+    ],
+    "category": "Text",
+    "text": "a) Xác suất của nhiễm bệnh X do chủng virus V19 bị biến chứng là 0,3."
+  },
+  {
+    "bbox": [
+      113,
+      200,
+      1083,
+      244
+    ],
+    "category": "Text",
+    "text": "b) Xác suất của nhiễm bệnh X do chủng virus V20 bị biến chứng là 0,5."
+  },
+  {
+    "bbox": [
+      113,
+      244,
+      745,
+      288
+    ],
+    "category": "Text",
+    "text": "c) Xác suất của bệnh án bị biến chứng là 32%."
+  },
+  {
+    "bbox": [
+      113,
+      286,
+      1338,
+      412
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng bệnh án rút ra bị biến chứng, xác suất bệnh án đó của bệnh nhân nhiễm bệnh X do chủng virus V19 là $\\frac{7}{12}$."
+  },
+  {
+    "bbox": [
+      834,
+      416,
+      948,
+      454
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      113,
+      454,
+      691,
+      494
+    ],
+    "category": "Text",
+    "text": "Đáp án: A Đúng, B Đúng, C Sai, D Đúng."
+  },
+  {
+    "bbox": [
+      113,
+      490,
+      739,
+      533
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố bệnh án rút ra bị biến chứng."
+  },
+  {
+    "bbox": [
+      113,
+      529,
+      1201,
+      571
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố bệnh án rút ra của bệnh nhân nhiễm bệnh X do chủng virus V19."
+  },
+  {
+    "bbox": [
+      113,
+      571,
+      1255,
+      619
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\overline{B}$ là biến cố bệnh án rút ra của bệnh nhân nhiễm bệnh X do chủng virus V20."
+  },
+  {
+    "bbox": [
+      113,
+      615,
+      235,
+      654
+    ],
+    "category": "Text",
+    "text": "Theo đề:"
+  },
+  {
+    "bbox": [
+      314,
+      656,
+      1326,
+      704
+    ],
+    "category": "List-item",
+    "text": "- Xác suất bệnh nhân nhiễm bệnh X do chủng virus V19 là: $P(B) = 0,7$."
+  },
+  {
+    "bbox": [
+      314,
+      710,
+      1527,
+      806
+    ],
+    "category": "List-item",
+    "text": "- Xác suất bị biến chứng trong nhiễm bệnh X do chủng virus V19 là 30% = 0,3 $\\Rightarrow P(A|B) = 0,3 \\Rightarrow A$ đúng."
+  },
+  {
+    "bbox": [
+      314,
+      814,
+      1305,
+      872
+    ],
+    "category": "List-item",
+    "text": "- Xác suất bệnh nhân nhiễm bệnh X do chủng virus V20 là $P(\\overline{B}) = 0,3$."
+  },
+  {
+    "bbox": [
+      314,
+      878,
+      1527,
+      986
+    ],
+    "category": "List-item",
+    "text": "- Xác suất bị biến chứng trong nhiễm bệnh X do chủng virus V20 là 50% = 0,5 $\\Rightarrow P(A|\\overline{B}) = 0,5 \\Rightarrow B$ đúng."
+  },
+  {
+    "bbox": [
+      113,
+      990,
+      610,
+      1034
+    ],
+    "category": "Text",
+    "text": "Xác suất biến bệnh án bị biến chứng:"
+  },
+  {
+    "bbox": [
+      119,
+      1034,
+      1128,
+      1092
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(B) \\cdot P(A|B) + P(\\overline{B}) \\cdot P(A|\\overline{B}) = 0,3 \\cdot 0,7 + 0,5 \\cdot 0,3 = 36\\% \\Rightarrow C \\text{ sai.}\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1096,
+      1301,
+      1140
+    ],
+    "category": "Text",
+    "text": "Xác suất của bệnh án bị biến chứng là của bệnh nhân nhiễm bệnh X do chủng virus V19:"
+  },
+  {
+    "bbox": [
+      119,
+      1140,
+      831,
+      1236
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{P(B) \\cdot P(A|B)}{P(A)} = \\frac{0,7 \\cdot 0,3}{0,36} = \\frac{7}{12} \\Rightarrow D \\text{ đúng.}\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1240,
+      1501,
+      1363
+    ],
+    "category": "Text",
+    "text": "Câu 4: Trong không gian với hệ tọa độ Oxyz, một cabin cáp treo xuất phát từ điểm A(10; 3; 0) và chuyển động đều theo đường cáp có véc tơ chỉ phương $\\vec{u} = (2; -2; 1)$ (hướng chuyển động cùng chiều với hướng véc tơ $\\vec{u}$ với tốc độ là 4,5 (m/s); (đơn vị trên mỗi trục là mét)."
+  },
+  {
+    "bbox": [
+      113,
+      1371,
+      982,
+      1519
+    ],
+    "category": "Text",
+    "text": "a) Phương trình tham số của đường cáp là: $\\begin{cases} x = 10 + 2t \\\\ y = 3 - 2t \\\\ z = t \\end{cases}$ ($t \\in \\mathbb{R}$)"
+  },
+  {
+    "bbox": [
+      113,
+      1523,
+      1448,
+      1626
+    ],
+    "category": "Text",
+    "text": "b) Giả sử sau thời gian t (s) kể từ khi xuất phát ($t \\ge 0$), cabin đến điểm M. Khi đó tọa độ điểm M là $(3t + 10; -3t + 3; \\frac{3t}{2})$."
+  },
+  {
+    "bbox": [
+      113,
+      1622,
+      1230,
+      1664
+    ],
+    "category": "Text",
+    "text": "c) Cabin止止 ở điểm B có hoành độ $x_B = 550$, khi đó quăng đường AB dài 800m."
+  },
+  {
+    "bbox": [
+      113,
+      1660,
+      872,
+      1704
+    ],
+    "category": "Text",
+    "text": "d) Đường cáp AB tạo với mặt phẳng (Oxy) một góc 30°"
+  },
+  {
+    "bbox": [
+      767,
+      1704,
+      881,
+      1741
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      215,
+      1738,
+      1136,
+      1821
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a</td><td>b</td><td>c</td><td>d</td></tr><tr><td>Đúng</td><td>Đúng</td><td>Sai</td><td>Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      113,
+      1856,
+      1098,
+      1900
+    ],
+    "category": "Text",
+    "text": "a) Phương trình tham số của đường thẳng d qua A(10; 3; 0) và có VTCP"
+  },
+  {
+    "bbox": [
+      119,
+      1900,
+      684,
+      2051
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{u} = (2; -2; 1) \\text{ là: } \\begin{cases} x = 10 + 2t \\\\ y = 3 - 2t \\\\ z = t \\end{cases} \\quad (t \\in \\mathbb{R})\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      2057,
+      1521,
+      2151
+    ],
+    "category": "Text",
+    "text": "b) Ta có độ dài $AM = vt$. Vì M thuộc đường thẳng d nên $M(10 + 2m; 3 - 2m; m)$, Vậy $\\overrightarrow{AM} = (2m; -2m; m)$ mà $\\overrightarrow{AM}$ cùng hướng với véc tơ $\\vec{u}$ có $m \\ge 0$. Suy ra $AM = 3m$."
+  },
+  {
+    "bbox": [
+      113,
+      2149,
+      973,
+      2209
+    ],
+    "category": "Text",
+    "text": "Vậy $3m = 4,5t$ suy ra $m = 1,5t$. Vậy $(3t + 10; -3t + 3; \\frac{3t}{2})$"
+  },
+  {
+    "bbox": [
+      113,
+      2205,
+      1023,
+      2247
+    ],
+    "category": "Text",
+    "text": "c) Từ ý b, thấy khi $x_B = 550$ tức tà $3t + 10 = 550$ suy ra $t = 180$ (s)"
+  }
+]

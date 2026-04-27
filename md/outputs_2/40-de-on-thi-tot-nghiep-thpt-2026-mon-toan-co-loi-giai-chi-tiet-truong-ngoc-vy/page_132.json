@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      93,
+      1496,
+      195
+    ],
+    "category": "Text",
+    "text": "Vì $M$ là điểm gần nhất thuộc khu vực nguy hiểm trên đường đi của tàu ngầm nên $M$ là giao điểm của đường thẳng $\\Delta$ với mặt cầu"
+  },
+  {
+    "bbox": [
+      75,
+      215,
+      551,
+      262
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } M(50+3t; -20-4t; 10+t) \\in \\Delta\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      282,
+      1496,
+      444
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Bạn Hoàng Huy chọn ngẫu nhiên một bóng den led trên quầy. Trên quầy có hai loại den màu trắng và màu vàng có hình thức và kích thước như nhau. Trong đó màu trắng chiếm 60%. Bóng den màu trắng có tỉ lệ hỏng là 3%, bóng den màu vàng có tỉ lệ hỏng là 2%. Xác suất để Huy chọn được"
+  },
+  {
+    "bbox": [
+      75,
+      459,
+      532,
+      500
+    ],
+    "category": "List-item",
+    "text": "a) Một bóng den màu vàng là 0,6."
+  },
+  {
+    "bbox": [
+      75,
+      514,
+      827,
+      559
+    ],
+    "category": "List-item",
+    "text": "b) Một bóng den không hỏng, biết nó màu trắng là 0,97."
+  },
+  {
+    "bbox": [
+      75,
+      573,
+      822,
+      617
+    ],
+    "category": "List-item",
+    "text": "c) Một bóng den không hỏng, biết nó màu vàng là 0,98."
+  },
+  {
+    "bbox": [
+      75,
+      633,
+      592,
+      674
+    ],
+    "category": "List-item",
+    "text": "d) Một bóng den không hỏng là 0,974."
+  },
+  {
+    "bbox": [
+      726,
+      692,
+      844,
+      732
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      746,
+      894,
+      869
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      922,
+      1496,
+      1025
+    ],
+    "category": "Text",
+    "text": "a) Bóng màu trắng chiếm 60% nên bóng den màu vàng chiếm 40%. Vậy xác suất để lấy được bóng den vàng là 0,4."
+  },
+  {
+    "bbox": [
+      75,
+      1038,
+      320,
+      1081
+    ],
+    "category": "Text",
+    "text": "b) Xét hai biến cố"
+  },
+  {
+    "bbox": [
+      75,
+      1095,
+      559,
+      1141
+    ],
+    "category": "Text",
+    "text": "A: “lấy được bóng den màu trắng”."
+  },
+  {
+    "bbox": [
+      75,
+      1154,
+      571,
+      1200
+    ],
+    "category": "Text",
+    "text": "B: “lấy được bóng den không hỏng”."
+  },
+  {
+    "bbox": [
+      75,
+      1219,
+      520,
+      1265
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } P(B|A) = 1 - 3\\% = 0,97.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1294,
+      529,
+      1352
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Ta có } P(B|\\bar{A}) = 1 - 2\\% = 0,98.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1381,
+      1138,
+      1438
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Ta có } P(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,6 \\cdot 0,97 + 0,4 \\cdot 0,98 = 0,974.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1517,
+      726,
+      1559
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      75,
+      1574,
+      1496,
+      1798
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nếu cắt chậu nước có hình dạng như hình bên bằng mặt phẳng song song và cách mặt đáy $x$ (cm) ($0 \\le x \\le 16$) thì mặt cắt là hình tròn có bán kính $R = 10 + \\sqrt{x}$ (cm). Tìm $x$ (đơn vị cm, làm tròn kết quả đến hàng phần trăm) để dung tích nước trong chậu bằng $\\frac{1}{2}$ thể tích của chậu?"
+  },
+  {
+    "bbox": [
+      455,
+      1840,
+      1125,
+      2090
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2116,
+      414,
+      2153
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      726,
+      2176,
+      844,
+      2215
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2254,
+      842,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

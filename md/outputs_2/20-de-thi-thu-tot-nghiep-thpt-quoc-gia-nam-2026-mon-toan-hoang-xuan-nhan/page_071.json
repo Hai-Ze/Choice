@@ -1,0 +1,409 @@
+[
+  {
+    "bbox": [
+      217,
+      56,
+      1128,
+      102
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu gốc thuộc nhóm nào dưới đây?"
+  },
+  {
+    "bbox": [
+      217,
+      118,
+      391,
+      165
+    ],
+    "category": "List-item",
+    "text": "A. [70; 80)."
+  },
+  {
+    "bbox": [
+      568,
+      118,
+      743,
+      165
+    ],
+    "category": "List-item",
+    "text": "B. [50; 60)."
+  },
+  {
+    "bbox": [
+      921,
+      118,
+      1095,
+      165
+    ],
+    "category": "List-item",
+    "text": "C. [60; 70)."
+  },
+  {
+    "bbox": [
+      1273,
+      118,
+      1447,
+      165
+    ],
+    "category": "List-item",
+    "text": "D. [40; 50)."
+  },
+  {
+    "bbox": [
+      92,
+      174,
+      1593,
+      218
+    ],
+    "category": "List-item",
+    "text": "**Câu 8.** Có bao nhiêu cách sắp xếp 18 thí sinh vào một phòng thi có 18 bàn phân biệt, mỗi bàn có một thí sinh?"
+  },
+  {
+    "bbox": [
+      217,
+      222,
+      309,
+      258
+    ],
+    "category": "List-item",
+    "text": "A. 18."
+  },
+  {
+    "bbox": [
+      568,
+      222,
+      641,
+      258
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      921,
+      222,
+      1035,
+      258
+    ],
+    "category": "List-item",
+    "text": "C. $18^{18}$."
+  },
+  {
+    "bbox": [
+      1273,
+      222,
+      1373,
+      258
+    ],
+    "category": "List-item",
+    "text": "D. $18!$."
+  },
+  {
+    "bbox": [
+      92,
+      263,
+      1593,
+      346
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Mỗi ngày Thầy Nam đều đi bộ để rèn luyện sức khoẻ. Quăng đường đi bộ mỗi ngày (đơn vị: km) của thầy được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      224,
+      344,
+      1376,
+      442
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Tần số</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      217,
+      456,
+      779,
+      501
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      217,
+      517,
+      328,
+      553
+    ],
+    "category": "List-item",
+    "text": "A. 1,39."
+  },
+  {
+    "bbox": [
+      568,
+      517,
+      695,
+      553
+    ],
+    "category": "List-item",
+    "text": "B. 1,623."
+  },
+  {
+    "bbox": [
+      921,
+      517,
+      1066,
+      553
+    ],
+    "category": "List-item",
+    "text": "C. 0,1314."
+  },
+  {
+    "bbox": [
+      1273,
+      517,
+      1379,
+      553
+    ],
+    "category": "List-item",
+    "text": "D. 0,36."
+  },
+  {
+    "bbox": [
+      92,
+      562,
+      1453,
+      674
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho hai điểm $M(-1; -1; 2)$ và $N(1; 3; 4)$. Đường thẳng $MN$ có phương trình chính tắc là"
+  },
+  {
+    "bbox": [
+      217,
+      692,
+      554,
+      773
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{x-1}{2} = \\frac{y-1}{4} = \\frac{z+2}{2}$."
+  },
+  {
+    "bbox": [
+      921,
+      692,
+      1252,
+      773
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{x+1}{1} = \\frac{y+1}{2} = \\frac{z-2}{1}$."
+  },
+  {
+    "bbox": [
+      217,
+      785,
+      554,
+      866
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{x-1}{2} = \\frac{y-1}{2} = \\frac{z+2}{1}$."
+  },
+  {
+    "bbox": [
+      921,
+      785,
+      1263,
+      866
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{x+1}{2} = \\frac{y+3}{4} = \\frac{z+4}{2}$."
+  },
+  {
+    "bbox": [
+      92,
+      875,
+      1593,
+      985
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Cho hình phẳng ($H$) giới hạn bởi các đường $y = \\sqrt{x}$, $x = 0$, $x = 1$ và trục hoành. Tính thể tích $V$ của khối tròn xoay sinh bởi hình ($H$) khi quay nó quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      217,
+      1001,
+      302,
+      1076
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      568,
+      1001,
+      651,
+      1076
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      921,
+      1001,
+      1001,
+      1076
+    ],
+    "category": "List-item",
+    "text": "C. $\\pi$."
+  },
+  {
+    "bbox": [
+      1273,
+      1001,
+      1376,
+      1076
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{\\pi}$."
+  },
+  {
+    "bbox": [
+      92,
+      1088,
+      1141,
+      1176
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{x^2 - 3x + 2}{x - 3}$ đi qua điểm"
+  },
+  {
+    "bbox": [
+      217,
+      1180,
+      378,
+      1227
+    ],
+    "category": "List-item",
+    "text": "A. $(2; -1)$."
+  },
+  {
+    "bbox": [
+      568,
+      1180,
+      705,
+      1227
+    ],
+    "category": "List-item",
+    "text": "B. $(1; 2)$."
+  },
+  {
+    "bbox": [
+      921,
+      1180,
+      1048,
+      1227
+    ],
+    "category": "List-item",
+    "text": "C. $(1; 1)$."
+  },
+  {
+    "bbox": [
+      1273,
+      1180,
+      1436,
+      1227
+    ],
+    "category": "List-item",
+    "text": "D. $(3; -3)$."
+  },
+  {
+    "bbox": [
+      360,
+      1280,
+      999,
+      1324
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      92,
+      1324,
+      1242,
+      1490
+    ],
+    "category": "List-item",
+    "text": "**Câu 13.** Tại một vùng biển, độ lệch chiều cao của mỗi con sóng so với mực nước trung bình tại thời điểm $t$ (giây) được cho bởi hàm số $h(t) = 45 \\sin \\frac{\\pi t}{6}$ (cm), $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      1263,
+      1307,
+      1596,
+      1525
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1558,
+      1596,
+      1954
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các性能 đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) tại thời điểm $t = 2$ (giây) thì sóng cao khoảng 38,97 cm so với mực nước biển trung bình (kết quả làm tròn đến hàng phần trăm).</td><td>☐</td><td>☐</td></tr><tr><td>b) Chiều cao tối đa của sóng (tức là khoảng cách theo phương thẳng đứng giữa đáy và đỉnh sóng) bằng 45 cm.</td><td>☐</td><td>☐</td></tr><tr><td>c) Chu kỳ của sóng bằng 6 giây.</td><td>☐</td><td>☐</td></tr><tr><td>d) Trong khoảng 20 giây đầu tiên thì sẽ có 2 dao động toàn phần được thực hiện bởi các con sóng.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      167,
+      2054
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      505,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1144,
+      2054
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      2017,
+      1443,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2017,
+      1565,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      166,
+      54,
+      624,
+      85
+    ],
+    "category": "Page-header",
+    "text": "TH - THCS - THPT LÊ THÁNH TÔNG"
+  },
+  {
+    "bbox": [
+      1307,
+      58,
+      1534,
+      88
+    ],
+    "category": "Page-header",
+    "text": "Hoàng Trọng Nghĩa"
+  },
+  {
+    "bbox": [
+      161,
+      91,
+      1527,
+      623
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Đ</td><td>S</td></tr></thead><tbody><tr><td>Diện tích thực tế của cửa lều là 7,5 m².</td><td>☐</td><td>☐</td></tr><tr><td>Khi treo bone ở độ cao $a = 3m$, một người nằm trong vùng có ánh sáng chiếu vào cách bóng bone xa nhất là 6,18m. (làm tròn đến hàng phần trăm)</td><td>☐</td><td>☐</td></tr><tr><td>Để ánh sáng phủ trọn hết chiều dài tấm thảm đỏ 6m, kỹ thuật viên phải treo bone ở độ cao $2 < a \\le 2,4m$.</td><td>☐</td><td>☐</td></tr><tr><td>Ban quản lý yêu cầu vùng sáng phải phủ kín thảm đỏ nhưng tuyệt đối không được catch vào mép nước hồ bơi (để tránh chói mắt khách bơi). Khi đó, độ cao treo bone $a$ chỉ có thể nằm trong khoảng $\\left(\\frac{16}{7}; 2,4\\right]$ mét.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      161,
+      655,
+      1014,
+      991
+    ],
+    "category": "Text",
+    "text": "**Câu 3. [HTN]** Trước thèm trận siêu kinh điện (El Clasico) giữa Barcelona và Real Madrid, Đài truyền hình Marca thực hiện phỏng vấn ngẫu nhiên một lượng người hâm mộ (biết rằng trong số những người được phỏng vấn, số người đang mặc áo thi đấu của hai đội chiếm 20%). Kết quả khảo sát cho thấy rằng 60% người trả lời sẽ xem, 40% người còn lại trả lời sẽ không xem. Tuy nhiên, số liệu thực tế sau trận đấu cho thấy có sự sai lệch giữa câu trả lời và hành động thực:"
+  },
+  {
+    "bbox": [
+      1031,
+      675,
+      1527,
+      945
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      258,
+      993,
+      1206,
+      1033
+    ],
+    "category": "List-item",
+    "text": "- Trong số những người trả lời \"có xem\", tỉ lệ người thực sự xem là 90%."
+  },
+  {
+    "bbox": [
+      258,
+      1035,
+      1254,
+      1075
+    ],
+    "category": "List-item",
+    "text": "- Trong số những người trả lời \"không xem\", tỉ lệ người thực sự xem là 15%."
+  },
+  {
+    "bbox": [
+      161,
+      1096,
+      982,
+      1138
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố \"Người được phỏng vấn thực sự xem trận đấu\"."
+  },
+  {
+    "bbox": [
+      161,
+      1159,
+      1006,
+      1202
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố \"Người được phỏng vấn trả lời sẽ xem trận đấu\"."
+  },
+  {
+    "bbox": [
+      161,
+      1259,
+      1527,
+      1683
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Đ</td><td>S</td></tr></thead><tbody><tr><td>Tỉ lệ người được phỏng vấn thực sự xem trận đấu là 60%.</td><td>☐</td><td>☐</td></tr><tr><td>Trong số những người thực sự xem trận đấu, số người đã trả lời \"không xem\" khi phỏng vấn chiếm tỉ lệ 10%.</td><td>☐</td><td>☐</td></tr><tr><td>Trong số những người mặc áo thi đấu tỉ lệ người thực sự xem trận đấu là 85%, thì tỉ lệ người thực sự xem trận đấu trong những người không mặc áo thi đấu là 53,75%.</td><td>☐</td><td>☐</td></tr><tr><td>Gọi $E$ là biến cố \"Người trả lời sai sự thật\" (trả lời có và không xem hoặcledo lại). Biết rằng trong nhóm mặc áo thi đấu, xác suất xảy ra biến cố $E$ là 10%. Khi đó, xác suất để một người trả lời đúng sự thật trong nhóm không mặc áo thi đấu là 87,5%.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      161,
+      1753,
+      1548,
+      1852
+    ],
+    "category": "Text",
+    "text": "**Câu 3. [HTN]** Gọi $S$ là diện tích của hình phẳng giới hạn bởi đồ thị ($C$) của hàm số $y = f(x) = ax^3 + bx^2 + c$, các đường thẳng $x = -1, x = 2$ và trục hoành (miền gạch chéo trong hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      1244,
+      2114,
+      1512,
+      2149
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4 - Mã đề : 2000"
+  }
+]

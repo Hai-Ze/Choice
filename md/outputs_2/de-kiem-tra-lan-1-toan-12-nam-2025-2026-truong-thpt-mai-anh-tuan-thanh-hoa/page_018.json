@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      152,
+      74,
+      1556,
+      220
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường chất điểm thứ nhất di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_1(t) = 6t - \\frac{3t^2}{2} + C(\\text{m})$."
+  },
+  {
+    "bbox": [
+      152,
+      220,
+      1538,
+      321
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chất điểm thứ hai di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_2(t) = 12t - 2t^2 + C(\\text{m})$."
+  },
+  {
+    "bbox": [
+      152,
+      321,
+      1282,
+      375
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chất điểm thứ nhất di chuyển sau khi va chạm là 18(m)."
+  },
+  {
+    "bbox": [
+      152,
+      375,
+      992,
+      426
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách hai chất điểm khi đã停止 hắn 12(m)."
+  },
+  {
+    "bbox": [
+      152,
+      462,
+      278,
+      507
+    ],
+    "category": "Section-header",
+    "text": "Đáp án"
+  },
+  {
+    "bbox": [
+      796,
+      535,
+      928,
+      578
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      152,
+      574,
+      1570,
+      626
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Đúng</td><td>c) Sai</td><td>d) Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      711,
+      1495,
+      852
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường người thứ nhất di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_1(t) = \\int v_1(t)dt = \\int (6-3t)dt = 6t - \\frac{3t^2}{2} + C(\\text{m})$"
+  },
+  {
+    "bbox": [
+      152,
+      852,
+      389,
+      903
+    ],
+    "category": "Text",
+    "text": "Suy ra ĐÚNG."
+  },
+  {
+    "bbox": [
+      152,
+      945,
+      1482,
+      1052
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường người thứ hai di chuyển sau khi va chạm được biểu diễn bởi hàm số $s_2(t) = \\int v_2(t)dt = \\int (12-4t)dt = 12t - 2t^2 + C(\\text{m})$"
+  },
+  {
+    "bbox": [
+      152,
+      1052,
+      389,
+      1102
+    ],
+    "category": "Text",
+    "text": "Suy ra ĐÚNG."
+  },
+  {
+    "bbox": [
+      152,
+      1144,
+      1395,
+      1196
+    ],
+    "category": "Text",
+    "text": "c) Thời gian người thứ nhất di chuyển sau khi va chạm là: $6-3t = 0 \\Leftrightarrow t = 2$ giây."
+  },
+  {
+    "bbox": [
+      152,
+      1192,
+      1079,
+      1241
+    ],
+    "category": "Text",
+    "text": "Quăng đường người thứ nhất di chuyển sau khi va chạm là:"
+  },
+  {
+    "bbox": [
+      152,
+      1241,
+      696,
+      1352
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\int_0^2 (6-3t)dt = \\left(6t - \\frac{3t^2}{2}\\right)\\bigg|_0^2 = 6 \\text{ mét.}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1357,
+      340,
+      1402
+    ],
+    "category": "Text",
+    "text": "Suy ra SAI."
+  },
+  {
+    "bbox": [
+      152,
+      1444,
+      1398,
+      1496
+    ],
+    "category": "Text",
+    "text": "d) Thời gian người thứ hai di chuyển sau khi va chạm là: $12-4t = 0 \\Leftrightarrow t = 3$ giây."
+  },
+  {
+    "bbox": [
+      152,
+      1492,
+      1061,
+      1541
+    ],
+    "category": "Text",
+    "text": "Quăng đường người thứ hai di chuyển sau khi va chạm là:"
+  },
+  {
+    "bbox": [
+      152,
+      1541,
+      721,
+      1640
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = \\int_0^3 (12-4t)dt = \\left(12t - 2t^2\\right)\\bigg|_0^3 = 18 \\text{ mét.}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1640,
+      1186,
+      1693
+    ],
+    "category": "Text",
+    "text": "Khoảng cách hai xe khi đã停止 hắn là: $S = S_1 + S_2 = 6 + 18 = 24$ mét."
+  },
+  {
+    "bbox": [
+      152,
+      1701,
+      340,
+      1746
+    ],
+    "category": "Text",
+    "text": "Suy ra SAI."
+  },
+  {
+    "bbox": [
+      152,
+      1746,
+      1526,
+      1847
+    ],
+    "category": "Text",
+    "text": "Câu 4: Kết quả điều tra về số giờ làm thêm trong một tuần của sinh viên một trường đại học X được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      162,
+      1855,
+      1333,
+      1962
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số giờ làm thêm</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10)</td><td>[10; 12)</td></tr><tr><td>Số sinh viên</td><td>12</td><td>20</td><td>37</td><td>21</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      195,
+      1976,
+      754,
+      2024
+    ],
+    "category": "Text",
+    "text": "a) Số sinh viên được điều tra là 100."
+  },
+  {
+    "bbox": [
+      195,
+      2028,
+      1450,
+      2076
+    ],
+    "category": "Text",
+    "text": "b) Số giờ làm thêm trung bình của mỗi sinh viên trường đại học X không ít hơn 6."
+  },
+  {
+    "bbox": [
+      195,
+      2078,
+      729,
+      2126
+    ],
+    "category": "Text",
+    "text": "c) Mốt của mẫu số liệu trên là 7,5."
+  },
+  {
+    "bbox": [
+      195,
+      2130,
+      955,
+      2179
+    ],
+    "category": "Text",
+    "text": "d) Tứ phân vị thứ hai của dãy số liệu lớn hơn 6,5."
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      298,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1422,
+      2235,
+      1568,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8/13"
+  }
+]

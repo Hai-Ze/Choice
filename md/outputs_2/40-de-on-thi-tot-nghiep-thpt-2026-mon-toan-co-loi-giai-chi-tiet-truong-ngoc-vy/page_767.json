@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1496,
+      202
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình lăng trụ tam giác $ABC.A'B'C'$, gọi $M$ là trung điểm cạnh bên $BB'$. Đặt $\\overline{CA} = \\vec{a}, \\overline{CB} = \\vec{b}, \\overline{CC'} = \\vec{c}$."
+  },
+  {
+    "bbox": [
+      592,
+      228,
+      976,
+      624
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      643,
+      526,
+      688
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      708,
+      431,
+      789
+    ],
+    "category": "Formula",
+    "text": "A. $\\overline{AM} = -\\vec{a} + \\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      474,
+      708,
+      776,
+      789
+    ],
+    "category": "Formula",
+    "text": "B. $\\overline{AM} = -\\frac{1}{2}\\vec{a} + \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      825,
+      708,
+      1112,
+      789
+    ],
+    "category": "Formula",
+    "text": "C. $\\overline{AM} = \\vec{a} + \\frac{1}{2}\\vec{b} - \\vec{c}$."
+  },
+  {
+    "bbox": [
+      1174,
+      708,
+      1442,
+      789
+    ],
+    "category": "Formula",
+    "text": "D. $\\overline{AM} = \\vec{a} - \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      723,
+      812,
+      850,
+      850
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      870,
+      199,
+      908
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      930,
+      935,
+      1011
+    ],
+    "category": "Formula",
+    "text": "Ta có $\\overline{AM} = \\overline{AC} + \\overline{CB} + \\overline{BM} = -\\overline{CA} + \\overline{CB} + \\frac{1}{2}\\overline{CC'} = -\\vec{a} + \\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      76,
+      1034,
+      1496,
+      1148
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho hai điểm $A(0;0;1)$ và $B(1;2;3)$. Mặt phẳng đi qua $A$ và vuông góc với $AB$ có phương trình là"
+  },
+  {
+    "bbox": [
+      125,
+      1165,
+      439,
+      1205
+    ],
+    "category": "Formula",
+    "text": "A. $2x + y + 2z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      474,
+      1165,
+      794,
+      1205
+    ],
+    "category": "Formula",
+    "text": "B. $2x + y + 4z - 17 = 0$."
+  },
+  {
+    "bbox": [
+      825,
+      1165,
+      1131,
+      1205
+    ],
+    "category": "Formula",
+    "text": "C. $2x + y + 4z - 4 = 0$."
+  },
+  {
+    "bbox": [
+      1174,
+      1165,
+      1484,
+      1205
+    ],
+    "category": "Formula",
+    "text": "D. $x + 2y + 2z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      727,
+      1231,
+      844,
+      1269
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1289,
+      199,
+      1327
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1346,
+      491,
+      1395
+    ],
+    "category": "Text",
+    "text": "Gọi $(\\alpha)$ là mặt phẳng cần tìm."
+  },
+  {
+    "bbox": [
+      76,
+      1422,
+      969,
+      1474
+    ],
+    "category": "Text",
+    "text": "Do $(\\alpha) \\perp AB$ nên $(\\alpha)$ có 1 vecto pháp tuyến là $\\vec{n} = \\overline{AB} = (1; 2; 2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1501,
+      1496,
+      1627
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(\\alpha)$ đi qua điểm $A(0;0;1)$ và có 1 vecto pháp tuyến $\\vec{n} = (1; 2; 2)$ nên có phương trình là $(x-0) + 2(y-0) + 2(z-1) = 0 \\Leftrightarrow x + 2y + 2z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1654,
+      1496,
+      1842
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình lập phương $ABCD.A'B'C'D'$ cạnh $a$. Мặt phẳng $(\\alpha)$ qua $AC$ và song song với $BB'$. Các đường khép kín tạo bởi các giao tuyến của mặt phẳng $(\\alpha)$ với các mặt của hình lập phương $ABCD.A'B'C'D'$ là một đa giác. Tính chu vi đa giác đó theo $a$."
+  },
+  {
+    "bbox": [
+      125,
+      1861,
+      318,
+      1922
+    ],
+    "category": "Formula",
+    "text": "A. $(1+\\sqrt{2})a$."
+  },
+  {
+    "bbox": [
+      474,
+      1861,
+      565,
+      1922
+    ],
+    "category": "Formula",
+    "text": "B. $a^3$."
+  },
+  {
+    "bbox": [
+      825,
+      1861,
+      962,
+      1922
+    ],
+    "category": "Formula",
+    "text": "C. $a^2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1174,
+      1861,
+      1375,
+      1922
+    ],
+    "category": "Formula",
+    "text": "D. $2(1+\\sqrt{2})a$."
+  },
+  {
+    "bbox": [
+      727,
+      1948,
+      844,
+      1986
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2006,
+      199,
+      2044
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2257,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

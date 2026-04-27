@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1576,
+      582
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một cuộc thử tên lửa, Triều Tiên đã cho phóng một quả tên lửa có gắn đầu đạn hạt nhân với vận tốc $v(t) = \\frac{1}{90000000}t^3 + \\frac{1}{500}t + 1$ (m/s) trong đó $t$ đơn vị giây tính từ lúc tên lửa Triều Tiên bắt đầu phóng và dự định sẽ rơi xuống một vùng biến. Đi được 1 giờ thì bay ngang qua vùng biển thuộc chủ quyền của Nhật Bản ngay lập tức Rađa nhận được tín hiệu và gửi tín hiệu về căn cứ quân đội. Khi nhận được tín hiệu của rađa sau 30 phút quân đội Nhật Bản đã cho phóng một quả têm lửa tầm trung đã được xác định sẵn mục tiêu đi với gia tốc $a(t_1) = \\frac{1}{4500}t_1 + \\frac{n}{100}$ (m/s²), $n > 0$ trong đó $t_1$ đơn vị giây tính từ lúc tên lửa tầm trung bắt đầu phóng."
+  },
+  {
+    "bbox": [
+      580,
+      594,
+      1146,
+      910
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      932,
+      1493,
+      1014
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của tên lửa tầm trung được biểu thị dưới hàm $v(t) = \\frac{1}{90000000}t^3 + \\frac{1}{500}t + 1$ (m/s), $n > 0$."
+  },
+  {
+    "bbox": [
+      155,
+      1029,
+      1574,
+      1133
+    ],
+    "category": "Text",
+    "text": "b) Kể từ khi bị Rađa phát hiện đến lúc Nhật Bản phóng tên lửa thì quả tên lửa gắn đầu đạn hạt nhân đi được 1913,4 km."
+  },
+  {
+    "bbox": [
+      155,
+      1160,
+      1564,
+      1306
+    ],
+    "category": "Text",
+    "text": "c) Sau 15 phút phóng lên thì tên lửa tầm trung hạ được mục tiêu biết quăng đường nó đi được bằng $\\frac{1}{2}$ quăng đường tên lửa Triều Tiên đi được trong 15 phút đó khi đó giá trị của $n > 100$."
+  },
+  {
+    "bbox": [
+      155,
+      1324,
+      1574,
+      1527
+    ],
+    "category": "Text",
+    "text": "d) Giả sử hàm số $h(t) = \\frac{-5m}{648}t^2 + \\frac{500m}{9}t + a$, ($m > 0, a \\in \\mathbb{R}$) (đơn vị: mét) thể hiện độ cao của quả tên lửa gắn đầu đạn hạt nhân so với mực nước biển. Khi quả tên lửa của Triều Tiên đạt độ cao lớn nhất thì quăng đường nó đi được là 476,11 km."
+  },
+  {
+    "bbox": [
+      807,
+      1552,
+      924,
+      1590
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1605,
+      971,
+      1727
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1780,
+      698,
+      1826
+    ],
+    "category": "Text",
+    "text": "a) Ta có vận tốc của tên lửa tầm trung là"
+  },
+  {
+    "bbox": [
+      161,
+      1844,
+      817,
+      1932
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = \\int \\left( \\frac{1}{4500} t_1 + \\frac{n}{100} \\right) dt_1 = \\frac{1}{9000} t_1^2 + \\frac{n}{100} t_1 + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1961,
+      748,
+      2008
+    ],
+    "category": "Text",
+    "text": "Vì khi $t_1 = 0$ thì $v(t_1) = 0$ nên suy ra $C = 0$."
+  },
+  {
+    "bbox": [
+      155,
+      2037,
+      558,
+      2117
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } v(t) = \\frac{1}{9000} t_1^2 + \\frac{n}{100} t_1.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2134,
+      1574,
+      2238
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường quả tên lửa gắn đầu đạn hạt nhân đi được kể từ khi bị Rađa phát hiện đến khi Nhật Bản phóng quả tên lửa là"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

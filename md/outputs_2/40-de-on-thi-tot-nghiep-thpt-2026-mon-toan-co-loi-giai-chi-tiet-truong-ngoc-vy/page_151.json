@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      418,
+      148
+    ],
+    "category": "Text",
+    "text": "c) $\\overline{AB}(1;-2;3)$ là VTCP."
+  },
+  {
+    "bbox": [
+      76,
+      175,
+      827,
+      263
+    ],
+    "category": "Text",
+    "text": "d) Xét điểm $\\overline{KA} - 4\\overline{KB} - 3\\overline{KC} = \\vec{0}$. Khi đó $K\\left(\\frac{8}{3};\\frac{2}{3};\\frac{1}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      76,
+      287,
+      1051,
+      382
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\overline{MA} - 4\\overline{MB} - 3\\overline{MC}| = |6\\overline{MK}| \\text{ nhỏ nhất bằng } 6d(K;\\alpha) = 6 \\cdot \\frac{\\sqrt{21}}{42} = \\frac{\\sqrt{21}}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      456,
+      727,
+      497
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      513,
+      1495,
+      690
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty đã đặt hàng việc xây dựng logo doanh nghiệp của mình bằng gỗ và đồng thiết kế theo mẫu bên dưới. Hình tròn sẽ làm bằng gỗ có tâm tại điểm $O(0;0)$. Phần làm bằng đồng (là phần tô Đật) được giới hạn bởi đồ thị hàm số $y = x^3 - x$ và đường thẳng có phương trình $y = x$. (1 đơn vị = 1m)."
+  },
+  {
+    "bbox": [
+      594,
+      706,
+      971,
+      1088
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1103,
+      1495,
+      1326
+    ],
+    "category": "Text",
+    "text": "Biết rằng 1 mét vuông tấm đồng có giá 600000 đồng và không bị hao phí; chi phí nhân công làm phần đồng là 30% so với giá tiền tấm đồng, và chi phí cho hình tròn bằng gỗ, vận chuyển và lắp đặt tại chỗ là một khoản cố định là 2700000 đồng. Hỏi công ty phải trả bao nhiêu triệu đồng cho việc chế tạo và lắp đặt logo doanh nghiệp của mình?"
+  },
+  {
+    "bbox": [
+      76,
+      1343,
+      414,
+      1380
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1401,
+      843,
+      1441
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1459,
+      269,
+      1499
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 4,26"
+  },
+  {
+    "bbox": [
+      76,
+      1524,
+      680,
+      1629
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } x^3 - x = x \\Leftrightarrow x^3 - 2x = 0 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = \\pm\\sqrt{2} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1654,
+      940,
+      1778
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích phần đồng là: } S = 2 \\int_{0}^{\\sqrt{2}} (2x - x^3)dx = 2 \\left[ x^2 - \\frac{x^4}{4} \\right]_{0}^{\\sqrt{2}} = 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1796,
+      736,
+      1843
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số tiền phần đồng là: } 600000 \\cdot 2 = 1200000 \\text{ đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1856,
+      980,
+      1903
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số tiền nhân công làm phần đồng là: } 1200000 \\cdot 30\\% = 360000 \\text{ đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1915,
+      503,
+      1961
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền công ty phải trả là:"
+  },
+  {
+    "bbox": [
+      76,
+      1974,
+      958,
+      2019
+    ],
+    "category": "Formula",
+    "text": "$$\n1200000 + 360000 + 2700000 = 4260000 \\text{ đồng} = 4,26 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2038,
+      1495,
+      2142
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình vuông $ABCD$ có cạnh bằng 4m, chính giữa có một hình vuông đồng tâm với hình vuông $ABCD$ (xem hình vẽ). Biết rằng bốn tam giác tô màu trên hình là bốn tam giác cân. Người ta cần"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

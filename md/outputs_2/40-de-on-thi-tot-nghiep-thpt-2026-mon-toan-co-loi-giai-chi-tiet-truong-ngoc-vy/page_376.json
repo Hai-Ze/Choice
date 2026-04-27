@@ -1,0 +1,122 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      727,
+      98,
+      843,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      270,
+      194
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,92"
+  },
+  {
+    "bbox": [
+      76,
+      221,
+      955,
+      268
+    ],
+    "category": "Text",
+    "text": "Số cách sắp xếp chỗ ngồi cho 9 học sinh là: $n(\\Omega) = 9! = 362880$."
+  },
+  {
+    "bbox": [
+      76,
+      290,
+      972,
+      336
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “3 học sinh lớp 10 không ngồi 3 ghế liền nhau”."
+  },
+  {
+    "bbox": [
+      76,
+      349,
+      1433,
+      395
+    ],
+    "category": "Text",
+    "text": "Tổng có 9 ghế, coi 3 ghế mà 3 học sinh lớp 10 ngồi là một ghế: Có $3!$ cách xếp 3 học sinh lớp 10."
+  },
+  {
+    "bbox": [
+      76,
+      408,
+      582,
+      454
+    ],
+    "category": "Text",
+    "text": "Khi đó số cách sắp xếp 7 vị trí là $7!$."
+  },
+  {
+    "bbox": [
+      76,
+      474,
+      552,
+      558
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } P(A) = \\frac{3! \\times 7!}{9!} = \\frac{2 \\times 3}{8 \\times 9} = \\frac{1}{12}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      581,
+      1488,
+      665
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để 3 học sinh lớp 10 không ngồi 3 ghế liền nhau là $P(\\bar{A}) = 1 - P(A) = 1 - \\frac{1}{12} = \\frac{11}{12} \\approx 0,92$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 22"
+  }
+]

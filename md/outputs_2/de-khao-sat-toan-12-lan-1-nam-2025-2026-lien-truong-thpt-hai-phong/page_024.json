@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      251,
+      145,
+      1431,
+      192
+    ],
+    "category": "Text",
+    "text": "Số tiền tiếtniệm được của anh Huy sau năm thứ $n$ là: $T_n = 120 \\cdot 1,12^{n-2} \\cdot 0,12$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      200,
+      924,
+      245
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền tiếtniệm của anh Huy sau $n$ năm là:"
+  },
+  {
+    "bbox": [
+      251,
+      251,
+      1069,
+      411
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nT &= T_2 + T_3 + \\dots + T_n = 120 \\cdot 0,12 \\left(1 + 1,12 + 1,12^2 + \\dots + 1,12^{n-2}\\right) = \\\\\n&= 120 \\cdot 0,12 \\cdot \\frac{1,12^{n-1} - 1}{1,12 - 1} = 120 \\cdot \\left(1,12^{n-1} - 1\\right) \\text{ (triệu đồng).}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      419,
+      675,
+      463
+    ],
+    "category": "Text",
+    "text": "Để anh Huy đủ tiền mua xe thì:"
+  },
+  {
+    "bbox": [
+      446,
+      469,
+      1343,
+      556
+    ],
+    "category": "Formula",
+    "text": "$$\nT \\geq 340 \\Rightarrow 120 \\cdot \\left(1,12^{n-1} - 1\\right) \\geq 340 \\Rightarrow n-1 \\geq \\log_{1,12} \\left(\\frac{23}{6}\\right) \\Rightarrow n \\geq 12,8.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      564,
+      1282,
+      608
+    ],
+    "category": "Text",
+    "text": "Vậy tính từ khi đi làm, phải ít nhất 13 năm thì anh Huy mới đủ tiền mua ô tô."
+  },
+  {
+    "bbox": [
+      114,
+      608,
+      1532,
+      919
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Hai chiếc flycam được điều�nkiển cùng bay lên tại một địa điểm. Sau một thời gian bay, chiếc flycam thứ nhất cách điểm xuất phát về phía Bắc $20(m)$ và về phía Tây $10(m)$, đồng thời cách mặt đất $0,7(m)$. chiếc flycam thứ hai cách điểm xuất phát về phía Nam $30(m)$ và về phía Đông $25(m)$, đồng thời cách mặt đất $1(m)$. Trên mặt đất người ta xác định một vị trí sao cho tổng khoảng cách từ đó đến hai chiếc flycam ngắn nhất. Tính khoảng cách $(m)$ từ điểm xuất phát đến vị trí vừa xác định được. (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      836,
+      919,
+      950,
+      956
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      952,
+      428,
+      993
+    ],
+    "category": "Text",
+    "text": "Đáp số: 4,45"
+  },
+  {
+    "bbox": [
+      251,
+      1002,
+      1106,
+      1049
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$, đơn vị trên mỗi trục tọa độ là $1(m)$."
+  },
+  {
+    "bbox": [
+      256,
+      1063,
+      629,
+      1111
+    ],
+    "category": "Text",
+    "text": "$O(0;0;0)$ là điểm xuất phát."
+  },
+  {
+    "bbox": [
+      251,
+      1121,
+      535,
+      1164
+    ],
+    "category": "Text",
+    "text": "Trục $Ox$: hướng Bắc."
+  },
+  {
+    "bbox": [
+      251,
+      1171,
+      533,
+      1210
+    ],
+    "category": "Text",
+    "text": "Trục $Oy$: hướng Tây."
+  },
+  {
+    "bbox": [
+      251,
+      1215,
+      572,
+      1254
+    ],
+    "category": "Text",
+    "text": "Trục $Oz$ hướng lên trên."
+  },
+  {
+    "bbox": [
+      251,
+      1261,
+      643,
+      1308
+    ],
+    "category": "Text",
+    "text": "Mặt đất là mặt phẳng $(Oxy)$."
+  },
+  {
+    "bbox": [
+      251,
+      1323,
+      1505,
+      1433
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, sau một thời gian bay, chiếc flycam thứ nhất có toạ độ là $A(20;10;0,7)$, chiếc flycam thứ hai có toạ độ là $B(-30;-25;1)$."
+  },
+  {
+    "bbox": [
+      251,
+      1448,
+      1293,
+      1497
+    ],
+    "category": "Text",
+    "text": "Gọi $A'$ là điểm đối xứng với $A$ qua mặt phẳng $(Oxy)$. Ta có $A'(20;10;-0,7)$."
+  },
+  {
+    "bbox": [
+      251,
+      1511,
+      820,
+      1558
+    ],
+    "category": "Text",
+    "text": "Gọi $C$ là điểm trên mặt đất thì $C(x;y;0)$."
+  },
+  {
+    "bbox": [
+      251,
+      1568,
+      1402,
+      1614
+    ],
+    "category": "Text",
+    "text": "Khi đó, ta có: $CA + CB = CA' + CB \\geq A'B$. Dấu bằng xảy ra khi $A', C, B$ thẳng hàng."
+  },
+  {
+    "bbox": [
+      251,
+      1621,
+      1052,
+      1671
+    ],
+    "category": "Text",
+    "text": "Mặt khác $\\overline{A'C} = (x-20; y-10; 0,7)$; $\\overline{A'B} = (-50;-35;1,7)$."
+  },
+  {
+    "bbox": [
+      251,
+      1685,
+      1347,
+      1732
+    ],
+    "category": "Text",
+    "text": "Điều kiện để 3 điểm $A', C, B$ thẳng hàng là tồn tại $k \\in \\mathbb{R}$ sao cho: $\\overline{A'C} = k\\overline{A'B}$"
+  },
+  {
+    "bbox": [
+      256,
+      1738,
+      973,
+      2007
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x-20 = -50k \\\\ y-10 = -35k \\\\ 0,7 = 1,7k \\end{cases} \\Leftrightarrow \\begin{cases} k = \\frac{7}{17} \\\\ x = -\\frac{10}{17} \\\\ y = -\\frac{75}{17} \\end{cases} \\Leftrightarrow C\\left(-\\frac{10}{17}; -\\frac{75}{17}; 0\\right).\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      2020,
+      1472,
+      2158
+    ],
+    "category": "Text",
+    "text": "Vậy $C\\left(-\\frac{10}{17}; -\\frac{75}{17}; 0\\right)$ là vị trí trên mặt đất có tổng khoảng cách từ đó đến hai chiếc flycam ngắn nhất."
+  }
+]

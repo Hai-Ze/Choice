@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      640,
+      112,
+      1177,
+      645
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      656,
+      798,
+      698
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      212,
+      706,
+      982,
+      799
+    ],
+    "category": "Text",
+    "text": "Ta có $H(0;0;0)$, $D(\\frac{1}{2};2;0)$, $B(-\\frac{1}{2};0;0)$, $C(-\\frac{1}{2};2;0)$"
+  },
+  {
+    "bbox": [
+      212,
+      808,
+      512,
+      858
+    ],
+    "category": "Text",
+    "text": "Đặt $A'H = c$ ($c > 0$)."
+  },
+  {
+    "bbox": [
+      212,
+      869,
+      469,
+      920
+    ],
+    "category": "Text",
+    "text": "Do đó $A'(0;0;c)$."
+  },
+  {
+    "bbox": [
+      212,
+      930,
+      796,
+      1022
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\overrightarrow{A'B} = (-\\frac{1}{2};0;-c)$, $\\overrightarrow{BC} = (0;2;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1030,
+      1430,
+      1096
+    ],
+    "category": "Text",
+    "text": "Suy ra một vecto pháp tuyến của mặt phẳng $(A'BC)$ là $\\vec{n}_1 = [\\overrightarrow{A'B}, \\overrightarrow{BC}] = (2c;0;-1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1103,
+      1236,
+      1195
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng $(A'BC)$ là $2c\\left(x+\\frac{1}{2}\\right)-z=0 \\Leftrightarrow 2cx-z+c=0$."
+  },
+  {
+    "bbox": [
+      212,
+      1207,
+      1575,
+      1287
+    ],
+    "category": "Text",
+    "text": "Do khoảng cách từ $D$ đến $(A'BC)$ là $\\frac{2}{5}$ nên ta có"
+  },
+  {
+    "bbox": [
+      218,
+      1292,
+      866,
+      1435
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{|2c \\cdot \\frac{1}{2} + c|}{\\sqrt{4c^2 + 1}} = \\frac{2}{5} \\Rightarrow 25 \\cdot 4c^2 = 4(4c^2 + 1) \\Leftrightarrow c = \\frac{1}{\\sqrt{21}}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1445,
+      490,
+      1540
+    ],
+    "category": "Text",
+    "text": "Vậy $A'(0;0;\\frac{1}{\\sqrt{21}})$."
+  },
+  {
+    "bbox": [
+      212,
+      1550,
+      1032,
+      1646
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{A'B} = (-\\frac{1}{2};0;-\\frac{1}{\\sqrt{21}})$; $\\overrightarrow{AC} = (-1;2;0)$; $\\overrightarrow{BC} = (0;2;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1655,
+      955,
+      1798
+    ],
+    "category": "Text",
+    "text": "Khi đó $d(A'B, AC) = \\frac{|[\\overrightarrow{A'B}, \\overrightarrow{AC}] \\cdot \\overrightarrow{BC}|}{|[\\overrightarrow{A'B}, \\overrightarrow{AC}]|} = \\frac{\\sqrt{26}}{13} = 0,39$."
+  },
+  {
+    "bbox": [
+      74,
+      1805,
+      1549,
+      1912
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Một hoa văn hình tròn tâm $O$, ngoại tiếp tam giác đều $ABC$ có cạnh $AB = 2\\sqrt{3}$ cm. Đường cong qua ba điểm $A, B, C$ là một phần của parabol (xem hình vẽ)."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

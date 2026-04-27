@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      705,
+      192
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } C'(x) = -\\frac{38400000}{x^3} + \\frac{81000}{(x+3000)^2}\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      220,
+      669,
+      315
+    ],
+    "category": "Formula",
+    "text": "$$\nC'(x) = 0 \\Leftrightarrow \\frac{38400000}{x^3} = \\frac{81000}{(x+3000)^2}\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      345,
+      722,
+      397
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 12800(x+3000)^2 = 27x^3 \\Leftrightarrow x = 2400.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      418,
+      449,
+      461
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên"
+  },
+  {
+    "bbox": [
+      170,
+      485,
+      998,
+      851
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>1</td><td>2400</td><td>+∞</td></tr><tr><td>y'</td><td>-</td><td>0</td><td>+</td></tr><tr><td>y</td><td colspan=\"3\"></td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      884,
+      1291,
+      929
+    ],
+    "category": "Text",
+    "text": "Vậy chi phí đặt hàng và vận chuyển cho mỗi linh kiện trên là nhỏ nhất khi $x = 2400$."
+  },
+  {
+    "bbox": [
+      155,
+      943,
+      1575,
+      1228
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Anh Tính gửi 100 triệu đồng vào ngân hàng ACB với lãi suất 0,6%/tháng. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi tháng, số tiền lãi sẽ được nhập làm vốn ban đầu để tính lãi cho tháng tiếp theo. Hỏi sau ít nhất bao nhiêu tháng, anh Tính được lĩnh số tiền không ít hơn 110 triệu đồng (cả vốn ban đầu và lãi), biết rằng trong suốt thời gian gửi tiền anh Tính không rút tiền và lãi suất không thay đổi?"
+  },
+  {
+    "bbox": [
+      470,
+      1268,
+      1258,
+      1596
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1646,
+      493,
+      1682
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1705,
+      924,
+      1744
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1764,
+      317,
+      1801
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 16"
+  },
+  {
+    "bbox": [
+      155,
+      1827,
+      1572,
+      1948
+    ],
+    "category": "Text",
+    "text": "Đây là bài toán lãi kép, Áp dụng công thức $A_n = A_0(1+r)^n$ với $n$ là số kỳ hạn, $A_0$ là số tiền ban đầu, $A_n$ là số tiền có được sau $n$ kỳ hạn, $r$ là lãi suất."
+  },
+  {
+    "bbox": [
+      155,
+      1978,
+      1136,
+      2030
+    ],
+    "category": "Text",
+    "text": "Sau $n$ tháng, anh Tính lĩnh được số tiền là: $100(1+0,6\\%)^n$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      2050,
+      1394,
+      2095
+    ],
+    "category": "Text",
+    "text": "Sau $n$ tháng, anh Tính được lĩnh số tiền không ít hơn 110 triệu đồng (cả vốn ban đầu và lãi)"
+  },
+  {
+    "bbox": [
+      155,
+      2116,
+      847,
+      2199
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 100(1+0,6\\%)^n \\geq 110 \\Leftrightarrow n \\geq \\log_{1+0,6\\%} \\frac{11}{10} \\approx 15,9.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

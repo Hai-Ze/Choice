@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      213,
+      110,
+      407,
+      151
+    ],
+    "category": "List-item",
+    "text": "A. $S^2 = 46,2$."
+  },
+  {
+    "bbox": [
+      547,
+      110,
+      749,
+      151
+    ],
+    "category": "List-item",
+    "text": "B. $S^2 = 46,12$."
+  },
+  {
+    "bbox": [
+      862,
+      110,
+      1070,
+      151
+    ],
+    "category": "List-item",
+    "text": "C. $S^2 = 46,21$."
+  },
+  {
+    "bbox": [
+      1177,
+      110,
+      1367,
+      151
+    ],
+    "category": "List-item",
+    "text": "D. $S^2 = 46,1$."
+  },
+  {
+    "bbox": [
+      833,
+      163,
+      952,
+      204
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      207,
+      1466,
+      296
+    ],
+    "category": "Text",
+    "text": "Sử dụng công thức tính phương sai cho mẫu số liệu ghép nhóm: $S^2 = \\frac{1}{n} \\sum_{i=1}^{k} n_i (x_i - \\bar{X})^2$."
+  },
+  {
+    "bbox": [
+      213,
+      300,
+      1333,
+      348
+    ],
+    "category": "Text",
+    "text": "Trong đó $n = 44$, $\\bar{X} = 53,18$, $n_i$ là tần số và $x_i$ là giá trị đại diện của mỗi lớp."
+  },
+  {
+    "bbox": [
+      213,
+      355,
+      851,
+      399
+    ],
+    "category": "Text",
+    "text": "Các giá trị đại diện $x_i$ và tần số $n_i$ từ bảng:"
+  },
+  {
+    "bbox": [
+      213,
+      409,
+      638,
+      451
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [40;45): } x_1 = 42,5, n_1 = 4\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      461,
+      659,
+      503
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [45;50): } x_2 = 47,5, n_2 = 14\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      513,
+      638,
+      555
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [50;55): } x_3 = 52,5, n_3 = 8\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      565,
+      659,
+      607
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [55;60): } x_4 = 57,5, n_4 = 10\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      617,
+      643,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [60;65): } x_5 = 62,5, n_5 = 6\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      669,
+      643,
+      711
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lớp [65;70): } x_6 = 67,5, n_6 = 2\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      717,
+      1162,
+      953
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Tính } S^2 &= \\frac{\\sum n_i (x_i - \\bar{X})^2}{N} \\\\ &\\quad 4(42,5 - 53,18)^2 + 14(47,5 - 53,18)^2 + 8(52,5 - 53,18)^2 + \\\\ &\\quad 10(57,5 - 53,18)^2 + 6(62,5 - 53,18)^2 + 2(67,5 - 53,18)^2 \\\\ S^2 &= \\frac{10(57,5 - 53,18)^2 + 6(62,5 - 53,18)^2 + 2(67,5 - 53,18)^2}{44} \\approx 46,126 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      959,
+      949,
+      1005
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần mười, ta được $S^2 \\approx 46,1$."
+  },
+  {
+    "bbox": [
+      74,
+      1012,
+      1573,
+      1141
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Trên khoảng $(-\\infty; +\\infty)$, hàm số $F(x) = \\frac{1}{2}\\sin 2x$ là một nguyên hàm của hàm số nào dưới đây?"
+  },
+  {
+    "bbox": [
+      213,
+      1145,
+      483,
+      1203
+    ],
+    "category": "List-item",
+    "text": "A. $f_1(x) = -\\cos 2x$."
+  },
+  {
+    "bbox": [
+      547,
+      1145,
+      844,
+      1222
+    ],
+    "category": "List-item",
+    "text": "B. $f_4(x) = -\\frac{1}{4}\\cos 2x$."
+  },
+  {
+    "bbox": [
+      862,
+      1145,
+      1155,
+      1222
+    ],
+    "category": "List-item",
+    "text": "C. $f_3(x) = -\\frac{1}{2}\\cos 2x$."
+  },
+  {
+    "bbox": [
+      1177,
+      1145,
+      1430,
+      1203
+    ],
+    "category": "List-item",
+    "text": "D. $f_2(x) = \\cos 2x$."
+  },
+  {
+    "bbox": [
+      833,
+      1230,
+      952,
+      1271
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1279,
+      1239,
+      1374
+    ],
+    "category": "Text",
+    "text": "Từ định nghĩa của nguyên hàm ta có $f(x) = F'(x) = \\left(\\frac{1}{2}\\sin 2x\\right)' = \\cos 2x$."
+  },
+  {
+    "bbox": [
+      74,
+      1382,
+      1573,
+      1510
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Trong không gian $Oxyz$, cho đường thẳng $d: \\frac{x-3}{2} = \\frac{y-4}{-5} = \\frac{z+1}{3}$ vecto nào dưới đây là một vecto chỉ phương của $d$"
+  },
+  {
+    "bbox": [
+      213,
+      1510,
+      457,
+      1560
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u_2} = (2;4;-1)$."
+  },
+  {
+    "bbox": [
+      547,
+      1510,
+      762,
+      1560
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u_4} = (3;4;1)$."
+  },
+  {
+    "bbox": [
+      862,
+      1510,
+      1079,
+      1560
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u_3} = (2;5;3)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1510,
+      1419,
+      1560
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u_1} = (2;-5;3)$."
+  },
+  {
+    "bbox": [
+      833,
+      1572,
+      952,
+      1613
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1613,
+      1472,
+      1709
+    ],
+    "category": "Text",
+    "text": "Theo lý thuyết phương trình chắc của đường thẳng ta có một vecto chỉ phương của $d$ là $\\vec{u_1} = (2;-5;3)$."
+  },
+  {
+    "bbox": [
+      74,
+      1717,
+      831,
+      1759
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Cho đồ thị hàm số $y = f(x)$ như hình vẽ:"
+  },
+  {
+    "bbox": [
+      676,
+      1773,
+      1114,
+      2142
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      2145,
+      714,
+      2185
+    ],
+    "category": "Text",
+    "text": "Điểm cực đại của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      213,
+      2191,
+      363,
+      2237
+    ],
+    "category": "List-item",
+    "text": "A. $(-1;4)$."
+  },
+  {
+    "bbox": [
+      547,
+      2191,
+      668,
+      2237
+    ],
+    "category": "List-item",
+    "text": "B. $(1;0)$."
+  },
+  {
+    "bbox": [
+      862,
+      2191,
+      1002,
+      2237
+    ],
+    "category": "List-item",
+    "text": "C. $x = -1$."
+  },
+  {
+    "bbox": [
+      1177,
+      2191,
+      1302,
+      2237
+    ],
+    "category": "List-item",
+    "text": "D. $y = 4$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      261,
+      115,
+      749,
+      159
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm: 13,01"
+  },
+  {
+    "bbox": [
+      252,
+      164,
+      372,
+      203
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      208,
+      1464,
+      353
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình hoành độ giao điểm với trục hoành ($y = 0$): $4,8 \\sin\\left(\\frac{x}{9}\\right) = 0 \\Rightarrow \\frac{x}{9} = k\\pi$\nTại $O$, $x = 0$. Điều $A$ ứng với $k = 1$ (nghiệm dương nhỏ nhất), suy ra $x_A = 9\\pi$."
+  },
+  {
+    "bbox": [
+      252,
+      359,
+      825,
+      405
+    ],
+    "category": "Text",
+    "text": "Chiều rộng水流: $OA = 9\\pi \\approx 28,274$ mét."
+  },
+  {
+    "bbox": [
+      252,
+      411,
+      788,
+      456
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần mười: 28,3 m."
+  },
+  {
+    "bbox": [
+      252,
+      463,
+      805,
+      507
+    ],
+    "category": "Text",
+    "text": "Vậy định cầu cao 4,8 m so với mặt nước."
+  },
+  {
+    "bbox": [
+      114,
+      580,
+      1533,
+      717
+    ],
+    "category": "List-item",
+    "text": "Câu 2. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông cân tại $A$, cạnh $AB = a$, các cạnh bên $SA = SB = SC = \\frac{a\\sqrt{6}}{2}$. Gọi $H$ là trung điểm của $BC$."
+  },
+  {
+    "bbox": [
+      252,
+      722,
+      496,
+      771
+    ],
+    "category": "Formula",
+    "text": "a) $SH \\perp (ABC)$"
+  },
+  {
+    "bbox": [
+      252,
+      802,
+      851,
+      895
+    ],
+    "category": "Formula",
+    "text": "b) Thể tích của khối chóp $S.ABC$ bằng $\\frac{a^3}{2}$."
+  },
+  {
+    "bbox": [
+      252,
+      905,
+      446,
+      945
+    ],
+    "category": "Formula",
+    "text": "c) $AH \\perp SB$."
+  },
+  {
+    "bbox": [
+      252,
+      966,
+      1126,
+      1065
+    ],
+    "category": "Formula",
+    "text": "d) Khoảng cách từ điểm $C$ đến mặt phẳng $(SAB)$ bằng $\\frac{2\\sqrt{5}}{5}a$."
+  },
+  {
+    "bbox": [
+      836,
+      1075,
+      950,
+      1113
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      681,
+      1126,
+      1113,
+      1675
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1683,
+      347,
+      1724
+    ],
+    "category": "Text",
+    "text": "a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      203,
+      1731,
+      1153,
+      1788
+    ],
+    "category": "Text",
+    "text": "Xét $\\triangle ABC$ vuông cân tại $A$, nên có $BC = \\sqrt{AB^2 + AC^2} = a\\sqrt{2}$, và"
+  },
+  {
+    "bbox": [
+      257,
+      1798,
+      1373,
+      1898
+    ],
+    "category": "Formula",
+    "text": "$$\nHA = HB = HC = \\frac{BC}{2} = \\frac{a\\sqrt{2}}{2}. \\text{ Do đó } H \\text{ là tâm đường trong ngoại tiếp } \\triangle ABC.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1903,
+      1483,
+      2003
+    ],
+    "category": "Text",
+    "text": "Hình chóp $S.ABC$ có $SA = SB = SC$, nên hình chiếu của $S$ lên đáy là tâm của đường tròn ngoại tiếp $\\triangle ABC$. Suy ra $SH \\perp (ABC)$."
+  },
+  {
+    "bbox": [
+      203,
+      2016,
+      298,
+      2053
+    ],
+    "category": "Text",
+    "text": "b) SAI"
+  },
+  {
+    "bbox": [
+      203,
+      2062,
+      935,
+      2156
+    ],
+    "category": "Formula",
+    "text": "Xét $\\triangle ABC$ vuông tại $A$, có $S_{\\triangle ABC} = \\frac{1}{2} \\cdot AB \\cdot AC = \\frac{a^2}{2}$"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      141,
+      413,
+      345
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      70,
+      446,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "L winh mai thanh tài, miет mai tait gioi."
+  },
+  {
+    "bbox": [
+      141,
+      568,
+      327,
+      602
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1192,
+      124,
+      1554,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1504,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      674,
+      275,
+      1328,
+      332
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 7"
+  },
+  {
+    "bbox": [
+      818,
+      332,
+      1186,
+      385
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO - BTT"
+  },
+  {
+    "bbox": [
+      635,
+      388,
+      1368,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      511,
+      1517,
+      567
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      576,
+      1094,
+      618
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Nguyên hàm của hàm số $f(x) = \\sin x$ là"
+  },
+  {
+    "bbox": [
+      477,
+      628,
+      657,
+      669
+    ],
+    "category": "List-item",
+    "text": "(A) $\\cos x + C$."
+  },
+  {
+    "bbox": [
+      749,
+      628,
+      959,
+      669
+    ],
+    "category": "List-item",
+    "text": "(B) $-\\cos x + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      615,
+      1207,
+      686
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{1}{\\cos x} + C$."
+  },
+  {
+    "bbox": [
+      1294,
+      615,
+      1483,
+      686
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{1}{\\sin x} + C$."
+  },
+  {
+    "bbox": [
+      449,
+      698,
+      1554,
+      775
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Tính diện tích hình phẳng giới hạn bởi $y = x^3$ và $y = x$ từ $x = 0$ đến $x = 1$."
+  },
+  {
+    "bbox": [
+      477,
+      771,
+      556,
+      838
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      749,
+      768,
+      828,
+      838
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      1023,
+      768,
+      1099,
+      838
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      1294,
+      768,
+      1373,
+      838
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      449,
+      852,
+      1499,
+      894
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Hai mẫu số liệu ghép nhóm $A_1, A_2$ có bảng tần số ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      650,
+      921,
+      1351,
+      1123
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">A<sub>1</sub></td><td>Nhóm</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Tần số</td><td>2</td><td>3</td><td>5</td><td>4</td><td>6</td></tr><tr><td rowspan=\"2\">A<sub>2</sub></td><td>Nhóm</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Tần số</td><td>4</td><td>6</td><td>10</td><td>8</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1152,
+      1554,
+      1229
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $A_1, A_2$. Phát biểu nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      477,
+      1227,
+      629,
+      1269
+    ],
+    "category": "List-item",
+    "text": "(A) $s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      749,
+      1227,
+      919,
+      1269
+    ],
+    "category": "List-item",
+    "text": "(B) $s_1 = 3s_2$."
+  },
+  {
+    "bbox": [
+      1023,
+      1227,
+      1189,
+      1269
+    ],
+    "category": "List-item",
+    "text": "(C) $3s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      1294,
+      1227,
+      1460,
+      1269
+    ],
+    "category": "List-item",
+    "text": "(D) $s_1 = 4s_2$."
+  },
+  {
+    "bbox": [
+      449,
+      1287,
+      1554,
+      1366
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của đường thẳng đi qua điểm $A(2; 1; -4)$ và có một vecto chỉ phương $\\vec{v}(3; -2; 2)$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1364,
+      842,
+      1435
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{x-2}{3} = \\frac{y+1}{-2} = \\frac{z+4}{2}$."
+  },
+  {
+    "bbox": [
+      1023,
+      1364,
+      1383,
+      1435
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{x-2}{3} = \\frac{y-1}{-2} = \\frac{z+4}{2}$."
+  },
+  {
+    "bbox": [
+      477,
+      1431,
+      842,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{x+2}{3} = \\frac{y-1}{-2} = \\frac{z-4}{2}$."
+  },
+  {
+    "bbox": [
+      1023,
+      1431,
+      1383,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{x-2}{3} = \\frac{y+1}{-2} = \\frac{z-4}{2}$."
+  },
+  {
+    "bbox": [
+      449,
+      1518,
+      1135,
+      1626
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hàm số $y = \\frac{2x+3}{4x+5}$ có đồ thị như hình vẽ bên. Tiệm cận ngang của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      477,
+      1624,
+      604,
+      1681
+    ],
+    "category": "List-item",
+    "text": "(A) $y = 1$."
+  },
+  {
+    "bbox": [
+      645,
+      1624,
+      778,
+      1681
+    ],
+    "category": "List-item",
+    "text": "(B) $y = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      813,
+      1624,
+      942,
+      1681
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 1$."
+  },
+  {
+    "bbox": [
+      981,
+      1624,
+      1132,
+      1681
+    ],
+    "category": "List-item",
+    "text": "(D) $y = -1$."
+  },
+  {
+    "bbox": [
+      1169,
+      1542,
+      1491,
+      1838
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      449,
+      1852,
+      1258,
+      1894
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Tập nghiệm của bất phương trình $\\log_3(x + 2) \\le 2$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1892,
+      663,
+      1934
+    ],
+    "category": "List-item",
+    "text": "(A) $(-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      749,
+      1892,
+      893,
+      1934
+    ],
+    "category": "List-item",
+    "text": "(B) $(-2; 7]$."
+  },
+  {
+    "bbox": [
+      1023,
+      1892,
+      1161,
+      1934
+    ],
+    "category": "List-item",
+    "text": "(C) $[-2; 7]$."
+  },
+  {
+    "bbox": [
+      1294,
+      1892,
+      1443,
+      1934
+    ],
+    "category": "List-item",
+    "text": "(D) $(-2; 5)$."
+  },
+  {
+    "bbox": [
+      449,
+      1952,
+      1554,
+      2069
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng ($P$) có phương trình $2x + y - 4z - 10 = 0$. Vecto nào sau đây là một vecto pháp tuyến của mặt phẳng ($P$)?"
+  },
+  {
+    "bbox": [
+      477,
+      2067,
+      685,
+      2109
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{n}_1(2; 1; -4)$."
+  },
+  {
+    "bbox": [
+      749,
+      2067,
+      931,
+      2109
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{n}_2(2; 1; 1)$."
+  },
+  {
+    "bbox": [
+      1023,
+      2067,
+      1220,
+      2109
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{n}_3(2; 1; 10)$."
+  },
+  {
+    "bbox": [
+      1294,
+      2067,
+      1500,
+      2109
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{n}_4(1; 2; -4)$."
+  },
+  {
+    "bbox": [
+      449,
+      2127,
+      1554,
+      2206
+    ],
+    "category": "Text",
+    "text": "CÂU 8. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông và $SA \\perp (ABCD)$. Miặt phẳng nào sau đây vuông góc với mặt phẳng ($ABCD$)?"
+  },
+  {
+    "bbox": [
+      477,
+      2204,
+      629,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(A) ($SBD$)."
+  },
+  {
+    "bbox": [
+      749,
+      2204,
+      893,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(B) ($SBC$)."
+  },
+  {
+    "bbox": [
+      1023,
+      2204,
+      1161,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(C) ($SCD$)."
+  },
+  {
+    "bbox": [
+      1294,
+      2204,
+      1443,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(D) ($SAD$)."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "28 Bùi Tịnh Minh Lâm"
+  }
+]

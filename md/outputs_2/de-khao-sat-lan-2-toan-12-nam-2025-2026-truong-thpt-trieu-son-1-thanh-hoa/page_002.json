@@ -1,0 +1,370 @@
+[
+  {
+    "bbox": [
+      217,
+      93,
+      1306,
+      141
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số bậc ba $y = f(x)$ có đồ thị là đường cong trong hình vẽ dưới đây."
+  },
+  {
+    "bbox": [
+      323,
+      188,
+      853,
+      235
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng"
+  },
+  {
+    "bbox": [
+      323,
+      245,
+      468,
+      288
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      323,
+      297,
+      468,
+      340
+    ],
+    "category": "List-item",
+    "text": "B. $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      323,
+      348,
+      489,
+      392
+    ],
+    "category": "List-item",
+    "text": "C. $(-4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      323,
+      401,
+      492,
+      444
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      1111,
+      152,
+      1487,
+      530
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      530,
+      1523,
+      623
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình hộp $ABCD.A'B'C'D'$. Đặt $\\overline{AB} = \\vec{a}$, $\\overline{AD} = \\vec{b}$, $\\overline{AA'} = \\vec{c}$. Phân tích vecto $\\overline{AC'}$ theo $\\vec{a}, \\vec{b}, \\vec{c}$?"
+  },
+  {
+    "bbox": [
+      346,
+      635,
+      618,
+      677
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AC'} = -\\vec{a} + \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      662,
+      635,
+      912,
+      677
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AC'} = \\vec{a} + \\vec{b} - \\vec{c}$."
+  },
+  {
+    "bbox": [
+      960,
+      635,
+      1211,
+      677
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AC'} = \\vec{a} + \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      1256,
+      635,
+      1506,
+      677
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AC'} = \\vec{a} - \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      217,
+      685,
+      1523,
+      770
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho hai điểm $A(1; -2; 3)$ và $B(3; 1; 1)$. Đường thẳng $AB$ có phương trình chính tắc là"
+  },
+  {
+    "bbox": [
+      346,
+      774,
+      662,
+      849
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{x-1}{4} = \\frac{y+2}{-1} = \\frac{z-3}{4}$."
+  },
+  {
+    "bbox": [
+      960,
+      774,
+      1256,
+      849
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{x-3}{1} = \\frac{y-1}{-2} = \\frac{z-1}{3}$."
+  },
+  {
+    "bbox": [
+      346,
+      855,
+      662,
+      930
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{x-1}{2} = \\frac{y+2}{3} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      960,
+      855,
+      1272,
+      930
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{x-2}{2} = \\frac{y-3}{3} = \\frac{z+2}{-2}$."
+  },
+  {
+    "bbox": [
+      217,
+      930,
+      1523,
+      1003
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Khảo sát thời gian tập thể dục của một số học sinh khối 12 thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      438,
+      1010,
+      1426,
+      1133
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0;20)</td><td>[20;40)</td><td>[40;60)</td><td>[60;80)</td><td>[80;100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      346,
+      1135,
+      1039,
+      1176
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tử phân vị thứ nhất của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      346,
+      1176,
+      499,
+      1219
+    ],
+    "category": "List-item",
+    "text": "A. [40;60)."
+  },
+  {
+    "bbox": [
+      662,
+      1176,
+      815,
+      1219
+    ],
+    "category": "List-item",
+    "text": "B. [20;40)."
+  },
+  {
+    "bbox": [
+      960,
+      1176,
+      1124,
+      1219
+    ],
+    "category": "List-item",
+    "text": "C. [80;100)."
+  },
+  {
+    "bbox": [
+      1256,
+      1176,
+      1407,
+      1219
+    ],
+    "category": "List-item",
+    "text": "D. [60;80)."
+  },
+  {
+    "bbox": [
+      217,
+      1227,
+      1523,
+      1313
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y = e^x$, $y = 0$, $x = 0$, $x = 2$. MIndh đề nào dưới đây đúng ?"
+  },
+  {
+    "bbox": [
+      346,
+      1313,
+      562,
+      1400
+    ],
+    "category": "Formula",
+    "text": "A. $S = \\pi \\int_{0}^{2} e^{2x} dx$."
+  },
+  {
+    "bbox": [
+      662,
+      1313,
+      848,
+      1400
+    ],
+    "category": "Formula",
+    "text": "B. $S = \\int_{0}^{2} e^{x} dx$."
+  },
+  {
+    "bbox": [
+      960,
+      1313,
+      1164,
+      1400
+    ],
+    "category": "Formula",
+    "text": "C. $S = \\pi \\int_{0}^{2} e^{x} dx$."
+  },
+  {
+    "bbox": [
+      1256,
+      1313,
+      1464,
+      1400
+    ],
+    "category": "Formula",
+    "text": "D. $S = \\pi \\int_{0}^{2} e^{x} dx$."
+  },
+  {
+    "bbox": [
+      217,
+      1402,
+      1523,
+      1492
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 13 đến câu 16. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      217,
+      1500,
+      1483,
+      1546
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Cho hàm số bậc ba $y = f(x) = ax^3 + bx^2 + cx + d$ có bảng biến thiên như hình vẽ dưới đây"
+  },
+  {
+    "bbox": [
+      674,
+      1570,
+      1192,
+      1827
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      346,
+      1840,
+      882,
+      1885
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đồng biến trên khoảng $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      346,
+      1893,
+      843,
+      1938
+    ],
+    "category": "List-item",
+    "text": "b)úp của hàm số là $A(0;4)$."
+  },
+  {
+    "bbox": [
+      346,
+      1946,
+      1112,
+      1991
+    ],
+    "category": "List-item",
+    "text": "c)Giá trị nhỏ nhất của hàm số trên khoảng $(-\\infty; -1)$ bằng 0."
+  },
+  {
+    "bbox": [
+      346,
+      2001,
+      908,
+      2046
+    ],
+    "category": "List-item",
+    "text": "d)Điểm uốn của đồ thị hàm số là $U(-1; 2)$."
+  },
+  {
+    "bbox": [
+      1246,
+      2076,
+      1518,
+      2115
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - Mã đề 1201"
+  }
+]

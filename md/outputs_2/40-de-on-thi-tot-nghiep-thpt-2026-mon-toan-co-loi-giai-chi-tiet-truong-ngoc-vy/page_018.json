@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1495,
+      313
+    ],
+    "category": "Text",
+    "text": "Biết giá bán của mỗi sản phẩm là một hàm số phụ thuộc vào số lượng sản phẩm $x$ và được cho bởi công thức $p(x) = 2000 - 9x$ (nghìn đồng). Hỏi mỗi tháng nhà máy sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất? Biết rằng kết quả khảo sát thị trường cho thấy sản phẩm sản xuất ra sẽ được tiêu thụ hết."
+  },
+  {
+    "bbox": [
+      75,
+      335,
+      415,
+      372
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      394,
+      843,
+      433
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      451,
+      254,
+      490
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 100"
+  },
+  {
+    "bbox": [
+      75,
+      505,
+      1096,
+      551
+    ],
+    "category": "Text",
+    "text": "Gọi số sản phẩm mỗi tháng nhà máy sản xuất là: $x$ (sản phẩm, $1 \\le x \\le 200$)."
+  },
+  {
+    "bbox": [
+      75,
+      569,
+      498,
+      608
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận nhà máy thu được là"
+  },
+  {
+    "bbox": [
+      80,
+      628,
+      1084,
+      758
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL(x) &= x \\cdot p(x) - C(x) = x(2000 - 9x) - (20000 + 800x - 3,6x^2 + 0,004x^3). \\\\\n\\Rightarrow L(x) &= -0,004x^3 - 5,4x^2 + 1200x - 20000.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      785,
+      599,
+      832
+    ],
+    "category": "Text",
+    "text": "Ta có $L'(x) = -0,012x^2 - 10,8x + 1200$"
+  },
+  {
+    "bbox": [
+      80,
+      861,
+      368,
+      908
+    ],
+    "category": "Formula",
+    "text": "$$\nL'(x) = 0 \\Leftrightarrow x = 100.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      929,
+      291,
+      972
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      88,
+      993,
+      848,
+      1330
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>100</td><td>200</td></tr><tr><td>$L'$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$L$</td><td colspan=\"3\">$L_{\\max}$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1370,
+      366,
+      1415
+    ],
+    "category": "Text",
+    "text": "Suy ra $L_{\\max} = L(100)$"
+  },
+  {
+    "bbox": [
+      75,
+      1436,
+      1021,
+      1481
+    ],
+    "category": "Text",
+    "text": "Vậy mỗi tháng nhà máy sản xuất 100 sản phẩm thì lợi nhuận lớn nhất."
+  },
+  {
+    "bbox": [
+      75,
+      1494,
+      1495,
+      1844
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhà đầu tư có số vốn là 5 tỷ đồng (5000 triệu đồng) để phân bổ vào Quỹ cổ phiếu A và quỹ trái phiếu B. Các thông tin và điều kiện đầu tư được xác định như sau: Quỹ Cổ phiếu A có tỷ suất sinh lời là 17% / năm. Quỹ trái phiếu B có tỷ suất sinh lời là 8% / năm. Tổng số tiền đầu tư không vượt quá 5000 triệu đồng. Phải đầu tư ít nhất 1200 triệu đồng vào quỹ trái phiếu B. Không đầu tư quá 3200 triệu đồng vào quỹ cổ phiếu A. Với các điều kiện trên thì nhà đầu tư có thể đạt được tổng lợi nhuận hàng năm lớn nhất là bao nhiêu triệu đồng (làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      75,
+      1861,
+      415,
+      1898
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1920,
+      843,
+      1958
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1977,
+      256,
+      2016
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 688"
+  },
+  {
+    "bbox": [
+      75,
+      2031,
+      1374,
+      2078
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ (triệu đồng) lần lượt là số tiền phân bổ vào cổ phiếu A và quỹ trái phiếu B, $x \\ge 0, y \\ge 0$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

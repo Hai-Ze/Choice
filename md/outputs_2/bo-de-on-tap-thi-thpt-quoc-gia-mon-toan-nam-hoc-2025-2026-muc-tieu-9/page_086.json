@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      202,
+      129,
+      1204,
+      211
+    ],
+    "category": "Text",
+    "text": "b) Ta có $e^{-t} > 0$ với mọi $t \\ge 0 \\Rightarrow 1 + 69e^{-t} > 1 \\Rightarrow \\frac{7000}{1 + 69e^{-t}} < 7000$."
+  },
+  {
+    "bbox": [
+      202,
+      219,
+      998,
+      301
+    ],
+    "category": "Text",
+    "text": "Mặt khác, $\\lim_{t \\to +\\infty} f(t) = \\lim_{t \\to +\\infty} \\frac{7000}{1 + 69e^{-t}} = \\frac{7000}{1 + 0} = 7000$."
+  },
+  {
+    "bbox": [
+      153,
+      312,
+      1547,
+      397
+    ],
+    "category": "Text",
+    "text": "Như vậy, tổng số áo bán ra tăng dần theo thời gian nhưng không bao giờ vượt quá ngưỡng 7000chiếc."
+  },
+  {
+    "bbox": [
+      202,
+      418,
+      585,
+      461
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định b) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      480,
+      919,
+      522
+    ],
+    "category": "Text",
+    "text": "c) Ngày phát hành đầu tiên tương ứng với $t = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      532,
+      894,
+      614
+    ],
+    "category": "Formula",
+    "text": "$$\nf(0) = \\frac{7000}{1 + 69e^0} = \\frac{7000}{1 + 69} = \\frac{7000}{70} = 100 \\text{ (chiếc).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      627,
+      581,
+      670
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định c) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      688,
+      868,
+      731
+    ],
+    "category": "Text",
+    "text": "d) Tốc độ phát hành là đạo hàm $v(t) = f'(t)$."
+  },
+  {
+    "bbox": [
+      202,
+      743,
+      1371,
+      831
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(t) = (7000(1 + 69e^{-t})^{-1})' = 7000 \\cdot (-1)(1 + 69e^{-t})^{-2} \\cdot (-69e^{-t}) = \\frac{483000e^{-t}}{(1 + 69e^{-t})^2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      845,
+      477,
+      885
+    ],
+    "category": "Text",
+    "text": "Đặt $u = 69e^{-t} > 0$."
+  },
+  {
+    "bbox": [
+      202,
+      895,
+      551,
+      979
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } f'(t) = \\frac{7000u}{(1 + u)^2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      990,
+      1398,
+      1073
+    ],
+    "category": "Text",
+    "text": "Áp dụng bất đẳng thức Cô-si cho mẫu số: $(1 + u)^2 \\ge (2\\sqrt{u})^2 = 4u \\Rightarrow \\frac{u}{(1 + u)^2} \\le \\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      202,
+      1087,
+      1462,
+      1132
+    ],
+    "category": "Text",
+    "text": "Giá trị lớn nhất đạt được khi $u = 1 \\Leftrightarrow 69e^{-t} = 1 \\Leftrightarrow e^t = 69 \\Leftrightarrow t = \\ln(69) \\approx 4,23$ (ngày)."
+  },
+  {
+    "bbox": [
+      202,
+      1142,
+      930,
+      1221
+    ],
+    "category": "Text",
+    "text": "Đổi thời gian đề bài cho: $360 \\text{ giờ} = \\frac{360}{24} = 15 \\text{ ngày.}$"
+  },
+  {
+    "bbox": [
+      153,
+      1232,
+      1547,
+      1318
+    ],
+    "category": "Text",
+    "text": "Vì $4,23 \\ne 15$ nên tốc độ phát hành không đạt cực đại vào thời điểm sau 360 giờ. Vậy khẳng định d) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      1338,
+      1547,
+      1647
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một lớp than đá hình lăng trụ tam giác có các mặt phẳng giới hạn trên và dưới là ($E$) và ($E'$), tiếp giáp với các lớp đất xung quanh. Trên hệ trục tọa độ $Oxyz$, đơn vị trên mỗi trục tính bằng mét, mặt đất là mặt phẳng ($Oxy$). Các kĩ sư thực hiện ba lần khoan thăm dò, lần thứ nhất cắt mặt ($E$) và ($E'$) lần lượt tại điểm $A(-20; 30; -200)$, $A'(-20; 30; -236)$; lần thứ hai cắt mặt ($E$) và ($E'$) lần lượt tại điểm $B(120; 180; -80)$, $B'(120; 180; -120)$; lần thứ ba cắt mặt ($E$) và ($E'$) lần lượt tại điểm $C(80; 120; -120)$, $C'(80; 120; -160)$. Từ điểm $T(-200; 200; 0)$, một đường hầm được đào theo hướng của $\\vec{v} = (2; -1; -1)$."
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      101,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "86"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

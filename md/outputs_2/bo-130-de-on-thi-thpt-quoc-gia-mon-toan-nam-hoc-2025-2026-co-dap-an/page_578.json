@@ -1,0 +1,628 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      41,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      397,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation của�, miệt\nmài tất好."
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      652,
+      275,
+      1349,
+      331
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 114"
+  },
+  {
+    "bbox": [
+      802,
+      331,
+      1197,
+      377
+    ],
+    "category": "Text",
+    "text": "SỞ KHÁNH HÒA - 2025"
+  },
+  {
+    "bbox": [
+      636,
+      381,
+      1367,
+      424
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      448,
+      504,
+      1516,
+      561
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      570,
+      1412,
+      611
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Cho mẫu số liệu ghép nhóm có bảng tần số ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      586,
+      642,
+      1415,
+      741
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[40; 45)</td><td>[45; 50)</td><td>[50; 55)</td><td>[55; 60)</td><td>[60; 65)</td><td>[65; 70)</td></tr><tr><td>Tần số</td><td>4</td><td>11</td><td>7</td><td>8</td><td>8</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      448,
+      773,
+      1553,
+      848
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm trên (làm tròn kết quả đến hàng phần mười) là"
+  },
+  {
+    "bbox": [
+      477,
+      848,
+      586,
+      890
+    ],
+    "category": "List-item",
+    "text": "(A) 53,9."
+  },
+  {
+    "bbox": [
+      750,
+      848,
+      859,
+      890
+    ],
+    "category": "List-item",
+    "text": "(B) 53,6."
+  },
+  {
+    "bbox": [
+      1023,
+      848,
+      1132,
+      890
+    ],
+    "category": "List-item",
+    "text": "(C) 51,2."
+  },
+  {
+    "bbox": [
+      1295,
+      848,
+      1387,
+      890
+    ],
+    "category": "List-item",
+    "text": "(D) 7,2."
+  },
+  {
+    "bbox": [
+      448,
+      910,
+      1553,
+      988
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Trong không gian $Oxyz$, đường thẳng đi qua điểm $M(1; 3; -2)$ và nhận vecto $\\vec{u} = (2; 1; -1)$ làm vecto chỉ phương có phương trình tham số là"
+  },
+  {
+    "bbox": [
+      477,
+      990,
+      705,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(A)} \\begin{cases} x = 1 - 2t \\\\ y = 3 - t \\\\ z = -2 - t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      750,
+      990,
+      992,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(B)} \\begin{cases} x = 2 + t \\\\ y = 1 + 3t \\\\ z = -1 - 2t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      990,
+      1269,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(C)} \\begin{cases} x = -1 + 2t \\\\ y = -3 + t \\\\ z = 2 - t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      1295,
+      990,
+      1523,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(D)} \\begin{cases} x = 1 + 2t \\\\ y = 3 + t \\\\ z = -2 - t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      1140,
+      1553,
+      1218
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Cho cấp số nhân $(u_n)$ với $u_1 = 20$ và công bội $q = -2$. Giá trị của $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1218,
+      548,
+      1259
+    ],
+    "category": "List-item",
+    "text": "(A) 5."
+  },
+  {
+    "bbox": [
+      750,
+      1218,
+      835,
+      1259
+    ],
+    "category": "List-item",
+    "text": "(B) 16."
+  },
+  {
+    "bbox": [
+      1023,
+      1218,
+      1108,
+      1259
+    ],
+    "category": "List-item",
+    "text": "(C) 80."
+  },
+  {
+    "bbox": [
+      1295,
+      1218,
+      1419,
+      1259
+    ],
+    "category": "List-item",
+    "text": "(D) -320."
+  },
+  {
+    "bbox": [
+      448,
+      1279,
+      1092,
+      1320
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Nguyên hàm của hàm số $f(x) = \\sin x$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1320,
+      686,
+      1361
+    ],
+    "category": "List-item",
+    "text": "(A) $-\\cos x + C$."
+  },
+  {
+    "bbox": [
+      750,
+      1320,
+      955,
+      1361
+    ],
+    "category": "List-item",
+    "text": "(B) $-\\sin x + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      1320,
+      1197,
+      1361
+    ],
+    "category": "List-item",
+    "text": "(C) $\\sin x + C$."
+  },
+  {
+    "bbox": [
+      1295,
+      1320,
+      1478,
+      1361
+    ],
+    "category": "List-item",
+    "text": "(D) $\\cos x + C$."
+  },
+  {
+    "bbox": [
+      448,
+      1381,
+      1553,
+      1459
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông, $SA \\perp (ABCD)$, $SA = 6a$ và $AB = 3a$. Thể tích khối chóp $S.ABCD$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1459,
+      591,
+      1500
+    ],
+    "category": "List-item",
+    "text": "(A) $54a^3$."
+  },
+  {
+    "bbox": [
+      750,
+      1459,
+      864,
+      1500
+    ],
+    "category": "List-item",
+    "text": "(B) $18a^3$."
+  },
+  {
+    "bbox": [
+      1023,
+      1459,
+      1137,
+      1500
+    ],
+    "category": "List-item",
+    "text": "(C) $27a^3$."
+  },
+  {
+    "bbox": [
+      1295,
+      1459,
+      1396,
+      1500
+    ],
+    "category": "List-item",
+    "text": "(D) $6a^3$."
+  },
+  {
+    "bbox": [
+      448,
+      1519,
+      1553,
+      1597
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Cho hình lập phương $ABCD.A'B'C'D'$. Góc giữa hai đường thẳng $A'C'$ và $CD$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1597,
+      576,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(A) $60^\\circ$."
+  },
+  {
+    "bbox": [
+      750,
+      1597,
+      852,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(B) $90^\\circ$."
+  },
+  {
+    "bbox": [
+      1023,
+      1597,
+      1122,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(C) $45^\\circ$."
+  },
+  {
+    "bbox": [
+      1295,
+      1597,
+      1396,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(D) $30^\\circ$."
+  },
+  {
+    "bbox": [
+      448,
+      1659,
+      1553,
+      1737
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Trong không gian $Oxyz$, cho mặt cầu $(S)$ có phương trình $(S): x^2 + y^2 + z^2 + 4x - 2y + 2z - 11 = 0$. Tâm $I$ của mặt cầu $(S)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      477,
+      1737,
+      668,
+      1779
+    ],
+    "category": "List-item",
+    "text": "(A) $I(4; -2; 2)$."
+  },
+  {
+    "bbox": [
+      750,
+      1737,
+      964,
+      1779
+    ],
+    "category": "List-item",
+    "text": "(B) $I(-2; 1; -1)$."
+  },
+  {
+    "bbox": [
+      1023,
+      1737,
+      1212,
+      1779
+    ],
+    "category": "List-item",
+    "text": "(C) $I(2; -1; 1)$."
+  },
+  {
+    "bbox": [
+      1295,
+      1737,
+      1506,
+      1779
+    ],
+    "category": "List-item",
+    "text": "(D) $I(-4; 2; -2)$."
+  },
+  {
+    "bbox": [
+      448,
+      1798,
+      1553,
+      1913
+    ],
+    "category": "Text",
+    "text": "CÂU 8. Cho hai hàm số $y = f(x)$, $y = g(x)$ liên tục trên đoạn $[a, b]$. Diện tích hình phẳng giới hạn bởi đồ thị của hai hàm số $y = f(x)$, $y = g(x)$ và hai đường thẳng $x = a$, $x = b$ được tính bởi công thức"
+  },
+  {
+    "bbox": [
+      477,
+      1913,
+      874,
+      2032
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(A)} S = \\int_{a}^{b} (|f(x)| - |g(x)|) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1913,
+      1382,
+      2032
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(B)} S = \\int_{a}^{b} |f(x) - g(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      2032,
+      896,
+      2147
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(C)} S = \\int_{a}^{b} f(x) \\, dx + \\int_{a}^{b} g(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      2032,
+      1382,
+      2147
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(D)} S = \\int_{a}^{b} |f(x) + g(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      2165,
+      1149,
+      2206
+    ],
+    "category": "Text",
+    "text": "CÂU 9. Nghiệm của phương trình $\\log_3(x + 1) = 2$ là"
+  },
+  {
+    "bbox": [
+      477,
+      2206,
+      622,
+      2247
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 10$."
+  },
+  {
+    "bbox": [
+      750,
+      2206,
+      878,
+      2247
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 7$."
+  },
+  {
+    "bbox": [
+      1023,
+      2206,
+      1149,
+      2247
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 9$."
+  },
+  {
+    "bbox": [
+      1295,
+      2206,
+      1423,
+      2247
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 8$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "576 Bùi Tịnh Minh Lâm"
+  }
+]

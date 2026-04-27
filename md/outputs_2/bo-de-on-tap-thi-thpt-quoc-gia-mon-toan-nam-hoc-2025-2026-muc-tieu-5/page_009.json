@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      573,
+      249
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 3"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1022,
+      185,
+      1247,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1529,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      154,
+      535,
+      1456,
+      577
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và có bảng xét dấu của $f'(x)$ như sau:"
+  },
+  {
+    "bbox": [
+      540,
+      583,
+      1157,
+      714
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$1$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td colspan=\"5\">$- \\quad 0 \\quad + \\quad 0 \\quad + \\quad 0 \\quad -$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      734,
+      716,
+      777
+    ],
+    "category": "Text",
+    "text": "Số điểm cực trị của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      191,
+      796,
+      274,
+      838
+    ],
+    "category": "List-item",
+    "text": "A 2."
+  },
+  {
+    "bbox": [
+      535,
+      796,
+      617,
+      838
+    ],
+    "category": "List-item",
+    "text": "B 1."
+  },
+  {
+    "bbox": [
+      879,
+      796,
+      961,
+      838
+    ],
+    "category": "List-item",
+    "text": "C 3."
+  },
+  {
+    "bbox": [
+      1224,
+      796,
+      1304,
+      838
+    ],
+    "category": "List-item",
+    "text": "D 0."
+  },
+  {
+    "bbox": [
+      154,
+      850,
+      1251,
+      943
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho $\\int_{1}^{2} f(x)dx = 3$; $\\int_{2}^{5} f(x)dx = 4$. Tính $I = \\int_{1}^{5} \\left[f(x) - \\frac{x}{2}\\right] dx$."
+  },
+  {
+    "bbox": [
+      191,
+      953,
+      334,
+      995
+    ],
+    "category": "List-item",
+    "text": "A $I = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      953,
+      679,
+      995
+    ],
+    "category": "List-item",
+    "text": "B $I = 7$."
+  },
+  {
+    "bbox": [
+      879,
+      953,
+      1022,
+      995
+    ],
+    "category": "List-item",
+    "text": "C $I = 5$."
+  },
+  {
+    "bbox": [
+      1224,
+      953,
+      1389,
+      995
+    ],
+    "category": "List-item",
+    "text": "D $I = -1$."
+  },
+  {
+    "bbox": [
+      154,
+      1014,
+      1546,
+      1101
+    ],
+    "category": "Text",
+    "text": "Câu 3. Trong không gian $Oxyz$, phương trình của mặt phẳng ($P$) đi qua điểm $A(2; 1; -3)$, đồng thời vuông góc với hai mặt phẳng ($Q$) : $x + y + 3z = 0$ và ($R$) : $2x - y + z = 0$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1120,
+      553,
+      1162
+    ],
+    "category": "List-item",
+    "text": "A $4x + 5y - 3z - 4 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1120,
+      1253,
+      1162
+    ],
+    "category": "List-item",
+    "text": "B $4x + 5y - 3z - 22 = 0$."
+  },
+  {
+    "bbox": [
+      191,
+      1164,
+      568,
+      1206
+    ],
+    "category": "List-item",
+    "text": "C $4x - 5y - 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1164,
+      1241,
+      1206
+    ],
+    "category": "List-item",
+    "text": "D $4x - 5y - 3z - 8 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1218,
+      1496,
+      1268
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian $Oxyz$, cho hai điểm $A(1; 1; -1)$, $B(2; 3; 2)$. Vectơ $\\overrightarrow{AB}$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      191,
+      1286,
+      360,
+      1329
+    ],
+    "category": "List-item",
+    "text": "A $(1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      535,
+      1286,
+      702,
+      1329
+    ],
+    "category": "List-item",
+    "text": "B $(3; 4; 1)$."
+  },
+  {
+    "bbox": [
+      879,
+      1286,
+      1096,
+      1329
+    ],
+    "category": "List-item",
+    "text": "C $(-1; -2; 3)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1286,
+      1417,
+      1329
+    ],
+    "category": "List-item",
+    "text": "D $(2; 3; -2)$."
+  },
+  {
+    "bbox": [
+      154,
+      1347,
+      1546,
+      1430
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hàm số $y = f(x)$ có đạo hàm $f'(x)$ liên tục trên $[-2; 3]$. Đồ thị hàm số $y = f'(x)$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      617,
+      1438,
+      1072,
+      1805
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1811,
+      1118,
+      1902
+    ],
+    "category": "Text",
+    "text": "Biết $\\int_{-2}^{1} f'(x)dx = 3$ và diện tích $S = \\frac{5}{3}$. Giá trị $f(3) - f(-2)$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      1913,
+      301,
+      1963
+    ],
+    "category": "List-item",
+    "text": "A $-\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      1913,
+      619,
+      1963
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      879,
+      1913,
+      1001,
+      1963
+    ],
+    "category": "List-item",
+    "text": "C $-\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      1224,
+      1913,
+      1317,
+      1963
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      1975,
+      1499,
+      2025
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho $F(x)$ là nguyên hàm của hàm số $f(x) = 6x^5 + \\frac{1}{x^3}$ thỏa mãn $F(1) = 0$. Tìm $F(x)$."
+  },
+  {
+    "bbox": [
+      191,
+      2036,
+      541,
+      2086
+    ],
+    "category": "List-item",
+    "text": "A $F(x) = x^6 - \\frac{1}{2x^2} + \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      876,
+      2036,
+      1228,
+      2086
+    ],
+    "category": "List-item",
+    "text": "B $F(x) = x^6 + \\frac{1}{2x^2} - \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      191,
+      2080,
+      541,
+      2130
+    ],
+    "category": "List-item",
+    "text": "C $F(x) = x^6 - \\frac{1}{2x^2} - \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      876,
+      2080,
+      1212,
+      2130
+    ],
+    "category": "List-item",
+    "text": "D $F(x) = x^6 - \\frac{3}{x^2} + 2$."
+  },
+  {
+    "bbox": [
+      154,
+      2142,
+      1546,
+      2186
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hàm số $y = f(x)$ liên tục trên $[-3; 2]$ và có bảng biến thiên như hình vẽ. Gọi $M, m$"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1568,
+      2251,
+      1591,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "9"
+  }
+]

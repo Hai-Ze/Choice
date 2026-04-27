@@ -1,0 +1,218 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      136,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      590,
+      212,
+      1107,
+      680
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      708,
+      1546,
+      793
+    ],
+    "category": "Text",
+    "text": "Gọi $O$ là tâm của đáy $ABCD$. Ta có hình chóp $S.ABCD$ là hình chóp tức giác đều. Suy ra $SO \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      203,
+      814,
+      956,
+      854
+    ],
+    "category": "Text",
+    "text": "Ta có $AD // BC$ mà $BC \\subset (SBC)$ nên $AD // (SBC)$."
+  },
+  {
+    "bbox": [
+      203,
+      875,
+      1193,
+      916
+    ],
+    "category": "Text",
+    "text": "Khi đó $d(AD, SC) = d(AD, (SBC)) = d(A, (SBC)) = 2d(O, (SBC))$."
+  },
+  {
+    "bbox": [
+      203,
+      934,
+      943,
+      976
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của $BC$, kẻ $OH \\perp SM$ tại $H$."
+  },
+  {
+    "bbox": [
+      203,
+      991,
+      978,
+      1097
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\begin{cases} BC \\perp OM \\\\ BC \\perp SO \\end{cases} \\Rightarrow BC \\perp (SOM) \\Rightarrow BC \\perp OH.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1118,
+      698,
+      1157
+    ],
+    "category": "Text",
+    "text": "Mà $OH \\perp SM$ nên $OH \\perp (SBC)$."
+  },
+  {
+    "bbox": [
+      203,
+      1170,
+      698,
+      1256
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } OM = \\frac{AB}{2} = \\frac{4\\sqrt{2}}{2} = 2\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1265,
+      602,
+      1352
+    ],
+    "category": "Formula",
+    "text": "$$\nOC = \\frac{AC}{2} = \\frac{4\\sqrt{2} \\cdot \\sqrt{2}}{2} = 4.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1363,
+      1127,
+      1419
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } SO = \\sqrt{SC^2 - OC^2} = \\sqrt{(2\\sqrt{6})^2 - 4^2} = \\sqrt{24 - 16} = 2\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1438,
+      724,
+      1475
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SOM$ vuông tại $O$, có:"
+  },
+  {
+    "bbox": [
+      448,
+      1482,
+      1250,
+      1567
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{OH^2} = \\frac{1}{SO^2} + \\frac{1}{OM^2} = \\frac{1}{(2\\sqrt{2})^2} + \\frac{1}{(2\\sqrt{2})^2} = \\frac{1}{8} + \\frac{1}{8} = \\frac{1}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1587,
+      431,
+      1624
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } OH = 2.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1647,
+      609,
+      1685
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(AD, SC) = 2OH = 4.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1712,
+      189,
+      1743
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      1709,
+      290,
+      1743
+    ],
+    "category": "Section-header",
+    "text": "## Bài 2."
+  },
+  {
+    "bbox": [
+      154,
+      1768,
+      1546,
+      1853
+    ],
+    "category": "Text",
+    "text": "Một mô hình khối tròn xoay có trục là đường thẳng $MN$, khi ta cắt khối tròn xoay đó bởi một mặt phẳng đi qua trục của khối tròn xoay thì ta được mặt cắt có dạng như hình vẽ dưới đây."
+  },
+  {
+    "bbox": [
+      720,
+      1867,
+      976,
+      2174
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "102"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1499,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

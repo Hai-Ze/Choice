@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      111,
+      956,
+      210
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số là $f'(x) = \\frac{3x^2 - 6x}{(x^3 - 3x^2 + 4)\\ln 5}$"
+  },
+  {
+    "bbox": [
+      211,
+      217,
+      1037,
+      265
+    ],
+    "category": "Text",
+    "text": "c) Phương trình $f'(x) = 0$ có hai nghiệm trên đoạn $[1;2]$"
+  },
+  {
+    "bbox": [
+      211,
+      272,
+      757,
+      314
+    ],
+    "category": "Text",
+    "text": "d) Hàm số đã cho có hai điểm cực trị"
+  },
+  {
+    "bbox": [
+      833,
+      320,
+      953,
+      362
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      362,
+      1322,
+      457
+    ],
+    "category": "Text",
+    "text": "a) Sai: Điều kiện xác định: $x^3 - 3x^2 + 4 > 0 \\Leftrightarrow (x-2)^2(x+1) > 0 \\Leftrightarrow \\begin{cases} -1 < x < 2 \\\\ x > 2 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      211,
+      465,
+      806,
+      564
+    ],
+    "category": "Text",
+    "text": "b) Đúng: Ta có: $f'(x) = \\frac{3x^2 - 6x}{(x^3 - 3x^2 + 4)\\ln 5}$."
+  },
+  {
+    "bbox": [
+      211,
+      571,
+      1575,
+      724
+    ],
+    "category": "Text",
+    "text": "c) Phương trình $f'(x) = \\frac{3x^2 - 6x}{(x^3 - 3x^2 + 4)\\ln 5} = 0 \\Rightarrow \\begin{cases} x = 0 \\\\ x = 2 \\end{cases}$ nên trên đoạn $[1;2]$ thì phương trình chỉ có một nghiệm là $x = 2$"
+  },
+  {
+    "bbox": [
+      211,
+      726,
+      556,
+      769
+    ],
+    "category": "Text",
+    "text": "d) Sai: Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      579,
+      771,
+      1201,
+      1047
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-1$</td><td>$0$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      211,
+      1059,
+      1082,
+      1103
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta thấy hàm số đã cho có 1 điểm cực trị."
+  },
+  {
+    "bbox": [
+      74,
+      1103,
+      1575,
+      1323
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Giả sửchi� c non rộng vành sau có thể mô hình hóa bằng cách cho hình phẳng ($H$) giới hạn bởi đồ thị hàm số $y = \\begin{cases} x^3 + 1 & \\text{khi } 0 < x \\le 1 \\\\ \\sqrt{1-x^2} & \\text{khi } -1 \\le x \\le 0 \\end{cases}$, trục $Ox$ và các đường thẳng $x = -1$ và $x = 1$ quay quanh trục $Ox$ (đơn vị trên trục là dm). (Kết quả đều làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      511,
+      1318,
+      1279,
+      1769
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1769,
+      881,
+      1818
+    ],
+    "category": "Text",
+    "text": "a) Diện tích hình phẳng ($H$) là $S = 3,57 \\text{ dm}^2$."
+  },
+  {
+    "bbox": [
+      211,
+      1827,
+      1357,
+      1907
+    ],
+    "category": "Text",
+    "text": "b) Diện tích thiết diện qua trục đối xứng của khối tròn xoay trên là $\\frac{\\pi + 5}{2} \\text{ dm}^2$."
+  },
+  {
+    "bbox": [
+      211,
+      1912,
+      1457,
+      2011
+    ],
+    "category": "Text",
+    "text": "c) Công thức tính thể tích khối tròn xoay trên là $V = \\pi \\int_{0}^{-1} (x^2 - 1)dx + \\pi \\int_{0}^{1} (x^6 + 2x^3 + 1)dx$."
+  },
+  {
+    "bbox": [
+      211,
+      2022,
+      1500,
+      2099
+    ],
+    "category": "Text",
+    "text": "d) Nếu thể tích của khối tròn xoay có dạng $\\frac{a\\pi}{b}$ với $\\frac{a}{b}$ là phân số tối简 thì $a+b=139$."
+  },
+  {
+    "bbox": [
+      833,
+      2107,
+      953,
+      2148
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

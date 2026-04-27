@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      191,
+      140,
+      1501,
+      182
+    ],
+    "category": "List-item",
+    "text": "c) Thời gian tính từ lúc cất cânh đến khi vừa ra khỏi lớp mây của máy bay này là 10 phút."
+  },
+  {
+    "bbox": [
+      188,
+      194,
+      1546,
+      281
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử vận tốc máy bay không đổi trong quá trình bay thì sau 30 phút nó ở vị trí cách điểm cất cânh một khoảng lớn hơn 80 km."
+  },
+  {
+    "bbox": [
+      154,
+      297,
+      199,
+      336
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      297,
+      570,
+      359
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      371,
+      1544,
+      420
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{AB} = (-4; 4; 2)$. Chọn $\\vec{u}_{AB} = (2; -2; -1)$ là một vectơ chỉ phương của đường thẳng $AB$."
+  },
+  {
+    "bbox": [
+      154,
+      437,
+      1546,
+      555
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AB$ đi qua điểm $A(8; 8; 4)$ và có vectơ chỉ phương $\\vec{u}_{AB} = (2; -2; -1)$ có phương trình chính tắc là $\\frac{x-8}{2} = \\frac{y-8}{-2} = \\frac{z-4}{-1}$."
+  },
+  {
+    "bbox": [
+      202,
+      571,
+      352,
+      611
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      626,
+      1484,
+      734
+    ],
+    "category": "Text",
+    "text": "Gọi $C$ là điểm máy bay cất cânh. Khi đó $\\begin{cases} C \\in (Oxy) : z = 0 \\\\ C \\in AB \\end{cases}$ suy ra $C = (Oxy) \\cap AB$."
+  },
+  {
+    "bbox": [
+      202,
+      747,
+      1340,
+      829
+    ],
+    "category": "Text",
+    "text": "Thay $z = 0$ vào phương trình đường thẳng $AB$, ta được $\\frac{x-8}{2} = \\frac{y-8}{-2} = \\frac{0-4}{-1}$"
+  },
+  {
+    "bbox": [
+      154,
+      838,
+      1546,
+      1021
+    ],
+    "category": "Formula",
+    "text": "$$\n\\iff \\frac{x-8}{2} = \\frac{y-8}{-2} = 4 \\iff \\begin{cases} \\frac{x-8}{2} = 4 \\\\ \\frac{y-8}{-2} = 4 \\end{cases} \\iff \\begin{cases} x-8 = 8 \\\\ y-8 = -8 \\end{cases} \\iff \\begin{cases} x = 16 \\\\ y = 0 \\end{cases} \\Rightarrow C(16; 0; 0).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1040,
+      966,
+      1082
+    ],
+    "category": "Text",
+    "text": "Vậy máy bay cất cânh tại điểm có hoành độ bằng 16."
+  },
+  {
+    "bbox": [
+      202,
+      1104,
+      348,
+      1144
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1161,
+      1546,
+      1279
+    ],
+    "category": "Text",
+    "text": "Vì vận tốc của máy bay là không đổi nên thời gian tính từ lúc cất cânh (tại điểm $C$) đến khi vừa ra khỏi lớp mây (tức tại điểm $Q$) của máy bay là $t = \\frac{CQ}{v}$."
+  },
+  {
+    "bbox": [
+      202,
+      1294,
+      754,
+      1334
+    ],
+    "category": "Text",
+    "text": "**Bước 1:** Tính quăng đường $CQ$ (km)."
+  },
+  {
+    "bbox": [
+      202,
+      1351,
+      1418,
+      1395
+    ],
+    "category": "Text",
+    "text": "Vì $Q$ là điểm kết thúc lớp mây nên có độ cao 10 km nên cao độ của điểm $Q$ bằng 10."
+  },
+  {
+    "bbox": [
+      202,
+      1414,
+      1279,
+      1457
+    ],
+    "category": "Text",
+    "text": "Mà $Q \\in AB$ nên thay $z_Q = 10$ vào phương trình đường thẳng $AB$, ta được:"
+  },
+  {
+    "bbox": [
+      202,
+      1467,
+      1376,
+      1706
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x-8}{2} = \\frac{y-8}{-2} = \\frac{10-4}{-1} \\iff \\frac{x-8}{2} = \\frac{y-8}{-2} = -6 \\\\ \\iff \\begin{cases} \\frac{x-8}{2} = -6 \\\\ \\frac{y-8}{-2} = -6 \\end{cases} \\iff \\begin{cases} x-8 = -12 \\\\ y-8 = 12 \\end{cases} \\iff \\begin{cases} x = -4 \\\\ y = 20 \\end{cases} \\Rightarrow Q(-4; 20; 10).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1718,
+      1122,
+      1767
+    ],
+    "category": "Text",
+    "text": "Suy ra quăng đường $CQ = \\sqrt{(-4-16)^2 + 20^2 + 10^2} = 30$ (km)."
+  },
+  {
+    "bbox": [
+      202,
+      1784,
+      722,
+      1825
+    ],
+    "category": "Text",
+    "text": "**Bước 2:** Tính vận tốc của máy bay."
+  },
+  {
+    "bbox": [
+      202,
+      1844,
+      1164,
+      1885
+    ],
+    "category": "Text",
+    "text": "Vì máy bay đi từ $A$ đến $B$ mất 2 phút nên vận tốc của máy bay là:"
+  },
+  {
+    "bbox": [
+      202,
+      1897,
+      925,
+      1985
+    ],
+    "category": "Formula",
+    "text": "$$\nv = \\frac{AB}{2} = \\frac{\\sqrt{(-4)^2 + 4^2 + 2^2}}{2} = \\frac{6}{2} = 3 \\text{ (km/phút).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1992,
+      1446,
+      2071
+    ],
+    "category": "Text",
+    "text": "Suy ra thời gian tính từ lúc cất cânh đến khi vừa ra khỏi lớp mây là $t = \\frac{30}{3} = 10$ phút."
+  },
+  {
+    "bbox": [
+      202,
+      2085,
+      352,
+      2125
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      2146,
+      652,
+      2187
+    ],
+    "category": "Text",
+    "text": "**Nhận xét:** Trong 30 phút bay:"
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "86"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1501,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

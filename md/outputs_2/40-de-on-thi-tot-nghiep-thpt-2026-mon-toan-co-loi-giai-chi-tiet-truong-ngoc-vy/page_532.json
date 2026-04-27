@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Page-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      154,
+      349,
+      194
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,62"
+  },
+  {
+    "bbox": [
+      156,
+      215,
+      1574,
+      324
+    ],
+    "category": "Text",
+    "text": "Không gian mẫu là số cách sắp xếp 5 hành khách lên 3 toa tàu. Vì mỗi hành khách có 3 cách chọn toa nên có $3^5$ cách xếp."
+  },
+  {
+    "bbox": [
+      156,
+      342,
+      946,
+      392
+    ],
+    "category": "Text",
+    "text": "Suy ra số phần tử của không gian mẫu là $n(\\Omega) = 3^5 = 243$."
+  },
+  {
+    "bbox": [
+      156,
+      414,
+      1574,
+      587
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố \"5 hành khách bước lên tàu mà mỗi toa có ít nhất 1 hành khách\". Để tìm số phần tử của biến cố $A$ ta đi tìm số phần tử của biến cố $\\bar{A}$, tức có toa không có hành khách nào bước lên tàu, có 2 khả năng sau:"
+  },
+  {
+    "bbox": [
+      156,
+      602,
+      1033,
+      647
+    ],
+    "category": "Text",
+    "text": "- Trường hợp thứ nhất: Có 2 toa không có hành khách bước lên."
+  },
+  {
+    "bbox": [
+      156,
+      666,
+      1033,
+      714
+    ],
+    "category": "Text",
+    "text": "+) Chọn 2 trong 3 toa để không có khách bước lên, có $C_3^2$ cách."
+  },
+  {
+    "bbox": [
+      156,
+      739,
+      872,
+      779
+    ],
+    "category": "Text",
+    "text": "+) Sau đó cả 5 hành khách lên toa còn lại, có 1 cách."
+  },
+  {
+    "bbox": [
+      156,
+      801,
+      695,
+      848
+    ],
+    "category": "Text",
+    "text": "Do đó trường hợp này có $C_3^2 \\cdot 1 = 3$ cách."
+  },
+  {
+    "bbox": [
+      156,
+      873,
+      1007,
+      915
+    ],
+    "category": "Text",
+    "text": "- Trường hợp thứ hai: Có 1 toa không có hành khách bước lên."
+  },
+  {
+    "bbox": [
+      156,
+      934,
+      1018,
+      982
+    ],
+    "category": "Text",
+    "text": "+) Chọn 1 trong 3 toa để không có khách bước lên, có $C_3^1$ cách."
+  },
+  {
+    "bbox": [
+      156,
+      1007,
+      1506,
+      1056
+    ],
+    "category": "Text",
+    "text": "+) Hai toa còn lại ta cần xếp 5 hành khách lên và mỗi toa có ít nhất 1 hành khách, có $2^5 - C_2^1 \\cdot 1 = 30$."
+  },
+  {
+    "bbox": [
+      156,
+      1082,
+      731,
+      1130
+    ],
+    "category": "Text",
+    "text": "Do đó trường hợp này có $C_3^1 \\cdot 30 = 90$ cách."
+  },
+  {
+    "bbox": [
+      156,
+      1155,
+      893,
+      1214
+    ],
+    "category": "Text",
+    "text": "Suy ra số phần tử của biến cố $\\bar{A}$ là $n(\\bar{A}) = 3 + 90 = 93$."
+  },
+  {
+    "bbox": [
+      156,
+      1242,
+      1146,
+      1302
+    ],
+    "category": "Text",
+    "text": "Suy ra số phần tử của biến cố $A$ là $n(A) = n(\\Omega) - n(\\bar{A}) = 243 - 93 = 150$."
+  },
+  {
+    "bbox": [
+      156,
+      1330,
+      907,
+      1428
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất cần tính $P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{150}{243} = \\frac{50}{81} \\approx 0,62$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

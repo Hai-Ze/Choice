@@ -1,0 +1,330 @@
+[
+  {
+    "bbox": [
+      202,
+      140,
+      685,
+      182
+    ],
+    "category": "Text",
+    "text": "Khi đó $A'(0; 0; 3a)$ và $B'(a; 0; 3a)$."
+  },
+  {
+    "bbox": [
+      202,
+      190,
+      688,
+      243
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB'} = (a; 0; 3a) \\Rightarrow |\\overrightarrow{AB'}| = a\\sqrt{10}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      251,
+      747,
+      310
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{A'C} = \\left(\\frac{a}{2}; \\frac{a\\sqrt{3}}{2}; -3a\\right) \\Rightarrow |\\overrightarrow{A'C}| = a\\sqrt{10}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      318,
+      1272,
+      376
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tích vô hướng } \\overrightarrow{AB'} \\cdot \\overrightarrow{A'C} = a \\cdot \\frac{a}{2} + 0 \\cdot \\frac{a\\sqrt{3}}{2} + 3a \\cdot (-3a) = \\frac{a^2}{2} - 9a^2 = -\\frac{17a^2}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      384,
+      940,
+      455
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cosin góc giữa hai vectơ là } \\cos \\theta = \\frac{-\\frac{17a^2}{2}}{a\\sqrt{10} \\cdot a\\sqrt{10}} = -\\frac{17}{20}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      469,
+      1547,
+      563
+    ],
+    "category": "Text",
+    "text": "Lấy giá trị tuyệt đối cho góc giữa các cạnh (nếu câu hỏi ám chỉ góc giữa đường thẳng) hoặc dựa vào các đáp án dương, ta chọn đáp án $\\frac{17}{20}$."
+  },
+  {
+    "bbox": [
+      153,
+      573,
+      1547,
+      660
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** *Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai*"
+  },
+  {
+    "bbox": [
+      153,
+      681,
+      1547,
+      766
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một cơ sở sản xuất hàng thủ công thống kê về số lượng sản phẩm $X$ bán được trong 30 ngày như sau:"
+  },
+  {
+    "bbox": [
+      276,
+      772,
+      1423,
+      888
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số lượng sản phẩm</td><td>[100; 140)</td><td>[140; 180)</td><td>[180; 220)</td><td>[220; 260)</td><td>[260; 300)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>12</td><td>6</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      189,
+      914,
+      940,
+      955
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu đã cho là 200."
+  },
+  {
+    "bbox": [
+      189,
+      969,
+      930,
+      1010
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng tức phân vị của mẫu số liệu đã cho là 60."
+  },
+  {
+    "bbox": [
+      189,
+      1024,
+      1063,
+      1067
+    ],
+    "category": "List-item",
+    "text": "c) Trung bình số sản phẩm bán được trong một ngày là 220."
+  },
+  {
+    "bbox": [
+      189,
+      1081,
+      854,
+      1122
+    ],
+    "category": "List-item",
+    "text": "d) Phương sai của mẫu số liệu đã cho là 1920."
+  },
+  {
+    "bbox": [
+      153,
+      1138,
+      198,
+      1178
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1138,
+      445,
+      1201
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      189,
+      1216,
+      1547,
+      1299
+    ],
+    "category": "List-item",
+    "text": "a) **Đúng.** Khoảng biến thiên là hiệu giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên: $R = 300 - 100 = 200$."
+  },
+  {
+    "bbox": [
+      189,
+      1317,
+      688,
+      1360
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng.** Tổng số ngày là $n = 30$."
+  },
+  {
+    "bbox": [
+      259,
+      1378,
+      1307,
+      1420
+    ],
+    "category": "List-item",
+    "text": "☆ Tứ phân vị thứ nhất $Q_1$: Giá trị thứ $n/4 = 7,5$ thuộc nhóm [140; 180)."
+  },
+  {
+    "bbox": [
+      289,
+      1420,
+      733,
+      1499
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 140 + \\frac{7,5 - 3}{6} \\cdot 40 = 170.\n$$"
+  },
+  {
+    "bbox": [
+      259,
+      1503,
+      1307,
+      1544
+    ],
+    "category": "List-item",
+    "text": "☆ Tứ phân vị thứ ba $Q_3$: Giá trị thứ $3n/4 = 22,5$ thuộc nhóm [220; 260)."
+  },
+  {
+    "bbox": [
+      289,
+      1544,
+      763,
+      1623
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 220 + \\frac{22,5 - 21}{6} \\cdot 40 = 230.\n$$"
+  },
+  {
+    "bbox": [
+      259,
+      1627,
+      1074,
+      1668
+    ],
+    "category": "List-item",
+    "text": "☆ Khoảng tức phân vị: $\\Delta Q = Q_3 - Q_1 = 230 - 170 = 60$."
+  },
+  {
+    "bbox": [
+      189,
+      1684,
+      1221,
+      1725
+    ],
+    "category": "List-item",
+    "text": "c) **Sai.** Giá trị đại diện của các nhóm lần lượt là: 120; 160; 200; 240; 280."
+  },
+  {
+    "bbox": [
+      235,
+      1733,
+      1338,
+      1814
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{3 \\cdot 120 + 6 \\cdot 160 + 12 \\cdot 200 + 6 \\cdot 240 + 3 \\cdot 280}{30} = 200 \\neq 220.\n$$"
+  },
+  {
+    "bbox": [
+      189,
+      1822,
+      925,
+      1865
+    ],
+    "category": "List-item",
+    "text": "d) **Đúng.** Phương sai $s^2$ được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      235,
+      1873,
+      1221,
+      1958
+    ],
+    "category": "Formula",
+    "text": "$$\ns^2 = \\frac{3 \\cdot 120^2 + 6 \\cdot 160^2 + 12 \\cdot 200^2 + 6 \\cdot 240^2 + 3 \\cdot 280^2}{30} - 200^2 = 1920.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1972,
+      198,
+      2010
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      1970,
+      1081,
+      2012
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hàm số $y = x^3 - 3x^2 + 5$ có đồ thị là (C). Khi đó:"
+  },
+  {
+    "bbox": [
+      189,
+      2030,
+      895,
+      2071
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho nghịch biến trên khoảng (0; 2)."
+  },
+  {
+    "bbox": [
+      189,
+      2085,
+      737,
+      2126
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đã cho có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      189,
+      2140,
+      1165,
+      2183
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị nhỏ nhất của hàm số đã cho trên khoảng (0; $+\\infty$) bằng 2."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "92"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

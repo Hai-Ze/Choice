@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      253,
+      75,
+      471,
+      118
+    ],
+    "category": "Text",
+    "text": "Chọn a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      253,
+      162,
+      1335,
+      225
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\overline{AB} = (848; -106; 424)$. Suy ra $AB = \\sqrt{(848)^2 + (-106)^2 + (424)^2} = 954$"
+  },
+  {
+    "bbox": [
+      253,
+      274,
+      428,
+      311
+    ],
+    "category": "Text",
+    "text": "Chọn b) SAI"
+  },
+  {
+    "bbox": [
+      253,
+      355,
+      1281,
+      437
+    ],
+    "category": "Text",
+    "text": "c) Ta có $|\\overline{AB}| = \\sqrt{848^2 + (-106)^2 + 424^2} = 954$ (mét), suy ra $t = \\frac{954}{6} = 159$ (s)"
+  },
+  {
+    "bbox": [
+      253,
+      482,
+      1055,
+      527
+    ],
+    "category": "Text",
+    "text": "Thời gian cabin cáp treo đi từ $A$ đến $B$ là 2 phút 39 giây."
+  },
+  {
+    "bbox": [
+      253,
+      562,
+      471,
+      605
+    ],
+    "category": "Text",
+    "text": "Chọn c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      253,
+      648,
+      1629,
+      777
+    ],
+    "category": "Text",
+    "text": "d) Giả sử sau khi di chuyển từ $A$ được 1 phút thì cabin cáp treo ở vị trí $H$. Vận tốc của cáp treo là $6$ m/s nên độ dài $|\\overline{AH}| = 6 \\cdot 60 = 360$ m."
+  },
+  {
+    "bbox": [
+      253,
+      825,
+      1188,
+      871
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB}$ và $\\overline{AH}$ cùng hướng và $53\\overline{AH} = 20\\overline{AB}$ nên $53\\overline{AH} = 20\\overline{AB}$."
+  },
+  {
+    "bbox": [
+      253,
+      913,
+      1237,
+      1079
+    ],
+    "category": "Text",
+    "text": "Gọi $H(a; b; c)$ và $53\\overline{AH} = 20\\overline{AB} \\Rightarrow \\begin{cases} 53(a+40) = 20 \\cdot 848 \\\\ 53(b-5) = 20 \\cdot (-106) \\\\ 53(c-2) = 20 \\cdot 424 \\end{cases} \\Leftrightarrow \\begin{cases} a = 280 \\\\ b = -35 \\\\ c = 162 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      253,
+      1128,
+      1318,
+      1174
+    ],
+    "category": "Text",
+    "text": "Vậy sau khi di chuyển từ $A$ được 1 phút, cabin cáp treo cách mặt đất $162$ mét."
+  },
+  {
+    "bbox": [
+      253,
+      1209,
+      471,
+      1252
+    ],
+    "category": "Text",
+    "text": "Chọn d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      115,
+      1287,
+      1166,
+      1332
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      115,
+      1337,
+      1608,
+      1548
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng ($x \\in \\mathbb{N}^*; 1 \\le x \\le 3000$) thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0,02x^2 + 300x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{2000}{x} + 200$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết."
+  },
+  {
+    "bbox": [
+      115,
+      1555,
+      1589,
+      1645
+    ],
+    "category": "Text",
+    "text": "Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 50 triệu đồng?"
+  },
+  {
+    "bbox": [
+      885,
+      1651,
+      999,
+      1689
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      115,
+      1696,
+      307,
+      1737
+    ],
+    "category": "Text",
+    "text": "Đáp án: 590."
+  },
+  {
+    "bbox": [
+      253,
+      1742,
+      1128,
+      1794
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận khi bán hết $x$ sản phẩm với ($x \\in \\mathbb{N}^*; 1 \\le x \\le 3000$) là:"
+  },
+  {
+    "bbox": [
+      258,
+      1809,
+      1001,
+      1924
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL(x) &= F(x) - x \\cdot G(x) = -0,02x^2 + 300x - 2000 - 200x \\\\\n&\\Rightarrow L(x) = -0,02x^2 + 100x - 2000 \\text{ (nghìn đồng).}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      253,
+      1937,
+      1178,
+      1982
+    ],
+    "category": "Text",
+    "text": "Để lợi nhuận thu được lớn hơn 50 triệu đồng = 50000 (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      258,
+      1991,
+      1097,
+      2106
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\Rightarrow L(x) > 50000 &\\Leftrightarrow -0,02x^2 + 100x - 2000 > 50000 \\\\\n&\\Leftrightarrow -0,02x^2 + 100x - 52000 > 0 \\Leftrightarrow 589,502\\dots < x < 4410,497\\dots\n\\end{aligned}\n$$"
+  }
+]

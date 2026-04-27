@@ -1,0 +1,139 @@
+[
+  {
+    "bbox": [
+      203,
+      139,
+      903,
+      182
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng ($\\alpha$) đi qua $D(0; 2; 0)$ là:"
+  },
+  {
+    "bbox": [
+      203,
+      203,
+      1018,
+      244
+    ],
+    "category": "Formula",
+    "text": "$$\n1(x - 0) + 1(y - 2) + 2(z - 0) = 0 \\Leftrightarrow x + y + 2z - 2 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      255,
+      940,
+      342
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(BM, SD) = \\frac{|1 + 0 + 2 \\cdot 0 - 2|}{\\sqrt{1^2 + 1^2 + 2^2}} = \\frac{1}{\\sqrt{6}} \\approx 0,41.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      356,
+      1547,
+      620
+    ],
+    "category": "Text",
+    "text": "Bài 2. Hai vật $A$ và $B$ được ném thẳng đứng xuống dưới từ độ cao khác nhau và tại cùng một thời điểm với vận tốc ban đầu là $v_0$ (m/s) và chuyển động với gia tốc trọng trường $g = 9,8 \\text{ m/s}^2$. Theo phương $Os$, ban đầu vật $B$ có hình chiếu trên trục $Os$ là điểm $M$. Sau 5 giây, vật $B$ chuyển động được 137,5 mét; hình chiếu của $A$ lên $Os$ đã đi qua vị trí $M$ và cách $M$ một khoảng 17,5 mét (tham khảo như hình vẽ). Biết rằng vật $B$ tiếp đất sau 10 giây, khi đó vật $A$ tiếp đất sau vật $B$ bao nhiêu giây (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      526,
+      635,
+      1169,
+      1173
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1205,
+      199,
+      1244
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1205,
+      445,
+      1268
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      203,
+      1278,
+      1242,
+      1356
+    ],
+    "category": "Text",
+    "text": "Công thức quăng đường vật đi được sau thời gian $t$ là: $s(t) = v_0t + \\frac{1}{2}gt^2$."
+  },
+  {
+    "bbox": [
+      203,
+      1367,
+      1052,
+      1409
+    ],
+    "category": "Text",
+    "text": "Vì vật $B$ chuyển động được 137,5 mét sau 5 giây nên ta có:"
+  },
+  {
+    "bbox": [
+      282,
+      1416,
+      1417,
+      1495
+    ],
+    "category": "Formula",
+    "text": "$$\n137,5 = v_0 \\cdot 5 + \\frac{1}{2} \\cdot 9,8 \\cdot 5^2 \\Leftrightarrow 137,5 = 5v_0 + 122,5 \\Leftrightarrow 5v_0 = 15 \\Leftrightarrow v_0 = 3 \\text{ (m/s).}\n$$"
+  },
+  {
+    "bbox": [
+      513,
+      1511,
+      1188,
+      2050
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      2084,
+      1545,
+      2168
+    ],
+    "category": "Text",
+    "text": "Giả sử $O$ là hình chiếu ban đầu của vật $A$ lên $Os$, $A'$ là vị trí của vật $A$ sau 5 giây và $K$ là hình chiếu của $A'$ lên $Os$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "157"
+  }
+]

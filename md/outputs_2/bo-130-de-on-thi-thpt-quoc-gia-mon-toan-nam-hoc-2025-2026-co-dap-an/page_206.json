@@ -1,0 +1,244 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      120,
+      1555,
+      276
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một máy bay đang di chuyển về phía sân bay. Tại thời điểm hiện tại, vị trí của máy bay là $B(150; 150; 5000)$ (trong đó 5000 m là độ cao của máy bay so với mặt đất). máy bay đang di chuyển thẳng tới sân bay với vận tốc 700 (km/h). Sân bay có tọa độ $C(0; 0; 0)$ và máy bay đang tiến dẫn đến vị trí hạ Rayscanh tại sân bay."
+  },
+  {
+    "bbox": [
+      478,
+      276,
+      1551,
+      443
+    ],
+    "category": "Text",
+    "text": "a) Phương trình tham số của đường thẳng mà máy bay di chuyển theo là\n$$ \\begin{cases} x = 150 - 150t \\\\ y = 150 - 150t \\\\ z = 5000 - 5000t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      478,
+      445,
+      1551,
+      521
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách từ vị trí hiện tại của máy bay $B(150; 150; 5000)$ đến sân bay $C(0; 0; 0)$ là $\\sqrt{15250000} \\approx 3905,6$ (km)."
+  },
+  {
+    "bbox": [
+      478,
+      521,
+      1551,
+      600
+    ],
+    "category": "Text",
+    "text": "c) Với vận tốc của máy bay là 700 (km/h), thời gian để máy bay hạ Rayscanh là khoảng 5,5 giờ."
+  },
+  {
+    "bbox": [
+      478,
+      600,
+      1551,
+      713
+    ],
+    "category": "Text",
+    "text": "d) Nếu hệ thống kiểm soát không lưu yêu cầu liên lạc với máy bay khi nó còn cách sân bay 40 km thì khi máy bay ở vị trí $(6; 6; 200)$ nó còn cách sân bay là 40 km."
+  },
+  {
+    "bbox": [
+      464,
+      734,
+      1247,
+      788
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      798,
+      1555,
+      948
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh bằng 1, $SA$ vuông góc với mặt phẳng ($ABCD$) và $SA = \\frac{\\sqrt{3}}{3}$. Khoảng cách từ điểm $A$ đến mặt phẳng ($SCD$) bằng bao nhiêu? (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      1333,
+      952,
+      1382,
+      988
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      946,
+      1553,
+      998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1012,
+      1555,
+      1206
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một nhân viên của bảo tàng nghệ thuật đang có kế hoạch giới thiệu nội dung cuộc triển lâm của bảo tàng đến ba trường học trong khu vực. Người đó muốn đến từng trường và quay trở lại bảo tàng sau khi tham cả ba trường. Thời gian di chuyển (đơn vị: phút) giữa các trường học và giữa bảo tàng với mỗi trường học được mô tả trong hình vẽ. Tìm thời gian đi ít nhất để thực hiện chu trình trên."
+  },
+  {
+    "bbox": [
+      765,
+      1241,
+      1239,
+      1654
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1333,
+      1701,
+      1382,
+      1735
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      1693,
+      1553,
+      1745
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1760,
+      1555,
+      1915
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một chiếc máy bay không người lái bay lên tại một điểm. Sau một thời gian bay, chiếc máy bay cách điểm xuất phát về phía Bắc 50 (km) và về phía Tây 20 (km), đồng thời cách mặt đất 1 (km). Xác định khoảng cách của chiếc máy bay với vị trí tại điểm xuất phát của nó."
+  },
+  {
+    "bbox": [
+      797,
+      1938,
+      1201,
+      2071
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1333,
+      2107,
+      1382,
+      2141
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      2099,
+      1553,
+      2151
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      2165,
+      1555,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một gia đình thiết kế chiếc cổng có dạng là một parabol ($P$) có kích thước như hình vẽ, biết chiều cao cổng bằng chiều rộng của cổng và bằng 4 m. Người ta"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "204 Bùi Tịnh Minh Lâm"
+  }
+]

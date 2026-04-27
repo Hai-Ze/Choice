@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      1435,
+      181
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = \\frac{ax+b}{cx+d}$ ($c \\neq 0$, $ad-bc \\neq 0$) liên tục trên tập xác định và có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      474,
+      195,
+      1093,
+      743
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      755,
+      776,
+      801
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đã cho có đường tiệm cận đứng bằng:"
+  },
+  {
+    "bbox": [
+      126,
+      821,
+      250,
+      855
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      476,
+      821,
+      621,
+      855
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      864,
+      821,
+      988,
+      855
+    ],
+    "category": "List-item",
+    "text": "C. $x = 0$."
+  },
+  {
+    "bbox": [
+      1175,
+      821,
+      1321,
+      855
+    ],
+    "category": "List-item",
+    "text": "D. $y = -1$."
+  },
+  {
+    "bbox": [
+      727,
+      884,
+      843,
+      922
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      943,
+      198,
+      981
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      994,
+      984,
+      1039
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị hàm số ta thấy: hàm số đã cho có một tiệm cận đứng $x = 1$"
+  },
+  {
+    "bbox": [
+      76,
+      1052,
+      1495,
+      1156
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Ghi lại tốc độ bóng trong 200 lần giao bóng của một vận động viên môn quần vợt cho kết quả như bảng bên."
+  },
+  {
+    "bbox": [
+      539,
+      1169,
+      1032,
+      1595
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Tốc độ $v(km/h)$</td><td>Số lần</td></tr></thead><tbody><tr><td>$150 \\le v < 155$</td><td>18</td></tr><tr><td>$155 \\le v < 160$</td><td>28</td></tr><tr><td>$160 \\le v < 165$</td><td>35</td></tr><tr><td>$165 \\le v < 170$</td><td>43</td></tr><tr><td>$170 \\le v < 175$</td><td>41</td></tr><tr><td>$175 \\le v < 180$</td><td>35</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1592,
+      736,
+      1637
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      126,
+      1655,
+      237,
+      1689
+    ],
+    "category": "List-item",
+    "text": "A. 12,6."
+  },
+  {
+    "bbox": [
+      476,
+      1655,
+      583,
+      1689
+    ],
+    "category": "List-item",
+    "text": "B. 11,5."
+  },
+  {
+    "bbox": [
+      827,
+      1655,
+      933,
+      1689
+    ],
+    "category": "List-item",
+    "text": "C. 14,3."
+  },
+  {
+    "bbox": [
+      1177,
+      1655,
+      1287,
+      1689
+    ],
+    "category": "List-item",
+    "text": "D. 16,8."
+  },
+  {
+    "bbox": [
+      727,
+      1713,
+      843,
+      1751
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1772,
+      198,
+      1808
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1825,
+      343,
+      1863
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu là $n = 200$."
+  },
+  {
+    "bbox": [
+      76,
+      1894,
+      1495,
+      2185
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất $Q_1$ là $\\frac{x_{50} + x_{51}}{2}$. Do $x_{50}, x_{51}$ đều thuộc nhóm $[160;165)$ nên nhóm này chứa $Q_1$. Do đó, $p = 3$; $a_3 = 160$; $m_3 = 35$; $m_1 + m_2 = 18 + 28 = 46$; $a_4 - a_3 = 165 - 160 = 5$ và ta có $Q_1 = 160 + \\frac{\\frac{200}{35} - 46}{5} \\approx 160,57$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      155,
+      131
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      82,
+      158,
+      322,
+      203
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 3 - 5 \\sin x\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      228,
+      666,
+      288
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f(x) = \\int (3 - 5 \\sin x) dx = 3x + 5 \\cos x + C\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      311,
+      748,
+      360
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $f(0) = 10$ nên $5 + C = 10 \\Rightarrow C = 5$."
+  },
+  {
+    "bbox": [
+      76,
+      389,
+      452,
+      434
+    ],
+    "category": "Text",
+    "text": "Vậy $f(x) = 3x + 5 \\cos x + 5$."
+  },
+  {
+    "bbox": [
+      82,
+      465,
+      328,
+      510
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f(\\pi) = 3\\pi + 10\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      536,
+      455,
+      572
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow a = 3; b = 10 \\Rightarrow a + b = 13\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      601,
+      916,
+      649
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho cấp số nhân $(u_n)$ biết $u_1 = 3^n$. Công bội $q$ bằng"
+  },
+  {
+    "bbox": [
+      126,
+      679,
+      228,
+      733
+    ],
+    "category": "List-item",
+    "text": "A. $-3$."
+  },
+  {
+    "bbox": [
+      476,
+      679,
+      557,
+      757
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      826,
+      698,
+      926,
+      733
+    ],
+    "category": "List-item",
+    "text": "C. $\\pm 3$."
+  },
+  {
+    "bbox": [
+      1175,
+      698,
+      1249,
+      733
+    ],
+    "category": "List-item",
+    "text": "D. $3$."
+  },
+  {
+    "bbox": [
+      727,
+      783,
+      842,
+      820
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      841,
+      198,
+      877
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      82,
+      900,
+      359,
+      990
+    ],
+    "category": "Formula",
+    "text": "$$\nq = \\frac{u_{n+1}}{u_n} = \\frac{3^{n+1}}{3^n} = 3.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1018,
+      749,
+      1104
+    ],
+    "category": "Text",
+    "text": "**Câu 5.**解题步骤：$\\sqrt{3} \\tan\\left(3x + \\frac{3\\pi}{5}\\right) = 0$."
+  },
+  {
+    "bbox": [
+      126,
+      1138,
+      429,
+      1212
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{8} + k \\frac{\\pi}{4}; k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      826,
+      1138,
+      1150,
+      1212
+    ],
+    "category": "List-item",
+    "text": "B. $x = -\\frac{\\pi}{5} + k \\frac{\\pi}{4}; k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      126,
+      1243,
+      455,
+      1318
+    ],
+    "category": "List-item",
+    "text": "C. $x = -\\frac{\\pi}{5} + k \\frac{\\pi}{2}; k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      826,
+      1243,
+      1150,
+      1318
+    ],
+    "category": "List-item",
+    "text": "D. $x = -\\frac{\\pi}{5} + k \\frac{\\pi}{3}; k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      727,
+      1344,
+      842,
+      1381
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1402,
+      198,
+      1438
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1459,
+      1288,
+      1546
+    ],
+    "category": "Text",
+    "text": "Ta có $\\sqrt{3} \\tan\\left(3x + \\frac{3\\pi}{5}\\right) = 0 \\Leftrightarrow \\tan\\left(3x + \\frac{3\\pi}{5}\\right) = 0 \\Leftrightarrow 3x + \\frac{3\\pi}{5} = k\\pi \\Leftrightarrow x = -\\frac{\\pi}{5} + \\frac{k\\pi}{3}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      76,
+      1567,
+      1493,
+      1669
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong buổi thực hành, một nhóm 20 học sinh dùng một thiết bị đo đường kính của một nhân tế培修的"
+  },
+  {
+    "bbox": [
+      208,
+      1684,
+      1359,
+      1816
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Kết quả đo (μm)</td><td>[4,5;5)</td><td>[5;5,5)</td><td>[5,5;6)</td><td>[6;6,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>8</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1872,
+      609,
+      1915
+    ],
+    "category": "Text",
+    "text": "Tính số trung bình của mẫu số liệu trên."
+  },
+  {
+    "bbox": [
+      126,
+      1935,
+      249,
+      1970
+    ],
+    "category": "List-item",
+    "text": "A. 4,44."
+  },
+  {
+    "bbox": [
+      476,
+      1935,
+      592,
+      1970
+    ],
+    "category": "List-item",
+    "text": "B. 5,45."
+  },
+  {
+    "bbox": [
+      826,
+      1935,
+      948,
+      1970
+    ],
+    "category": "List-item",
+    "text": "C. 4,45."
+  },
+  {
+    "bbox": [
+      1175,
+      1935,
+      1298,
+      1970
+    ],
+    "category": "List-item",
+    "text": "D. 6,44."
+  },
+  {
+    "bbox": [
+      727,
+      2000,
+      842,
+      2037
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2058,
+      198,
+      2094
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      2111,
+      654,
+      2154
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu ghép nhóm với giá trị đại diện:"
+  },
+  {
+    "bbox": [
+      208,
+      2170,
+      1359,
+      2241
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Kết quả đo (μm)</td><td>[4,5;5)</td><td>[5;5,5)</td><td>[5,5;6)</td><td>[6;6,5)</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

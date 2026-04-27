@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      96,
+      94,
+      1473,
+      226
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số tiền (triệu đồng)</td><td>[5;10)</td><td>[10;15)</td><td>[15;20)</td><td>[20;25)</td><td>[25;30)</td></tr><tr><td>Số tháng đầu tư vào lĩnh vực A</td><td>5</td><td>10</td><td>30</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      280,
+      1299,
+      325
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của số tiền thu được hàng tháng khi Anh Bảo Toàn đầu tư vào lĩnh vực A là:"
+  },
+  {
+    "bbox": [
+      125,
+      344,
+      231,
+      379
+    ],
+    "category": "List-item",
+    "text": "A. 4,5."
+  },
+  {
+    "bbox": [
+      476,
+      344,
+      552,
+      379
+    ],
+    "category": "List-item",
+    "text": "B. 5."
+  },
+  {
+    "bbox": [
+      826,
+      344,
+      928,
+      379
+    ],
+    "category": "List-item",
+    "text": "C. 5,5."
+  },
+  {
+    "bbox": [
+      1175,
+      344,
+      1253,
+      379
+    ],
+    "category": "List-item",
+    "text": "D. 6."
+  },
+  {
+    "bbox": [
+      727,
+      408,
+      843,
+      447
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      467,
+      196,
+      505
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      75,
+      518,
+      724,
+      562
+    ],
+    "category": "Text",
+    "text": "Chọn giá trị đại diện cho các nhóm số liệu ta có:"
+  },
+  {
+    "bbox": [
+      96,
+      577,
+      1473,
+      771
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số tiền (triệu đồng)</td><td>[5;10)</td><td>[10;15)</td><td>[15;20)</td><td>[20;25)</td><td>[25;30)</td></tr><tr><td>Giá trị đại diện</td><td>7,5</td><td>12,5</td><td>17,5</td><td>22,5</td><td>27,5</td></tr><tr><td>Số tháng đầu tư vào lĩnh vực A</td><td>5</td><td>10</td><td>30</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      825,
+      1099,
+      870
+    ],
+    "category": "Text",
+    "text": "Số tiền trung bình thu được khi Anh Bảo Toàn đầu tư vào các lĩnh vực A là:"
+  },
+  {
+    "bbox": [
+      80,
+      890,
+      563,
+      971
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x}_A = \\frac{1}{60} (5 \\cdot 7,5 + \\dots + 5 \\cdot 27,5) = 17,5\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      987,
+      1359,
+      1033
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của số tiền thu được hàng tháng khi Anh Bảo Toàn đầu tư vào các lĩnh vực A là:"
+  },
+  {
+    "bbox": [
+      80,
+      1053,
+      697,
+      1144
+    ],
+    "category": "Formula",
+    "text": "$$\ns_A = \\sqrt{\\frac{1}{60} (5 \\cdot 7,5^2 + \\dots + 5 \\cdot 27,5^2) - (17,5)^2} = 5\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1166,
+      1148,
+      1216
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho cấp số cộng $(u_n)$ với $u_1 = 1$ và $u_4 = -26$. Công sai của $(u_n)$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      1249,
+      239,
+      1286
+    ],
+    "category": "List-item",
+    "text": "A. -27."
+  },
+  {
+    "bbox": [
+      476,
+      1249,
+      567,
+      1286
+    ],
+    "category": "List-item",
+    "text": "B. -9."
+  },
+  {
+    "bbox": [
+      826,
+      1249,
+      936,
+      1286
+    ],
+    "category": "List-item",
+    "text": "C. -26."
+  },
+  {
+    "bbox": [
+      1175,
+      1242,
+      1310,
+      1286
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt[3]{-26}$."
+  },
+  {
+    "bbox": [
+      727,
+      1314,
+      843,
+      1352
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1372,
+      196,
+      1409
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      75,
+      1429,
+      746,
+      1472
+    ],
+    "category": "Text",
+    "text": "Ta có $u_4 = u_1 + 3d \\Rightarrow 3d = u_4 - u_1 = -26 - 1 = -27$."
+  },
+  {
+    "bbox": [
+      80,
+      1500,
+      312,
+      1578
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d = \\frac{-27}{3} = -9.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1606,
+      1088,
+      1648
+    ],
+    "category": "Text",
+    "text": "Câu 6. Nghiệm của phương trình $\\tan(2x - 15^\\circ) = 1$, với $-90^\\circ < x < 90^\\circ$ là"
+  },
+  {
+    "bbox": [
+      125,
+      1674,
+      287,
+      1711
+    ],
+    "category": "List-item",
+    "text": "A. $x = -30^\\circ$"
+  },
+  {
+    "bbox": [
+      476,
+      1674,
+      636,
+      1711
+    ],
+    "category": "List-item",
+    "text": "B. $x = -60^\\circ$"
+  },
+  {
+    "bbox": [
+      843,
+      1674,
+      982,
+      1711
+    ],
+    "category": "List-item",
+    "text": "C. $x = 30^\\circ$"
+  },
+  {
+    "bbox": [
+      1175,
+      1674,
+      1446,
+      1718
+    ],
+    "category": "List-item",
+    "text": "D. $x = -60^\\circ, x = 30^\\circ$"
+  },
+  {
+    "bbox": [
+      727,
+      1744,
+      843,
+      1782
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1802,
+      190,
+      1840
+    ],
+    "category": "Section-header",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      80,
+      1860,
+      1273,
+      1903
+    ],
+    "category": "Formula",
+    "text": "$$\n\\tan(2x - 15^\\circ) = 1 \\Leftrightarrow 2x - 15^\\circ = 45^\\circ + k \\cdot 180^\\circ \\Leftrightarrow 2x = 60^\\circ + k \\cdot 180^\\circ \\Leftrightarrow x = 30^\\circ + k \\cdot 90^\\circ \\ (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1930,
+      860,
+      1972
+    ],
+    "category": "Text",
+    "text": "Xét $x = 30^\\circ + k \\cdot 90^\\circ$: Vì $-90^\\circ < x < 90^\\circ$ nên $x = 30^\\circ$ ($k \\in \\mathbb{Z}$)"
+  },
+  {
+    "bbox": [
+      75,
+      1999,
+      1493,
+      2121
+    ],
+    "category": "Text",
+    "text": "Câu 7. Diện tích của hình phẳng được giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ ($a < b$) (phần tô đâm trong hình vẽ) tính theo công thức nào dưới đây ?"
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      138,
+      143,
+      804,
+      255
+    ],
+    "category": "Page-header",
+    "text": "SỞ GIÁO DỤC & ĐÀO TẠO TP HCM\nTRƯỜNG TH-THCS-THPT LÊ THÁNH TÔNG\nĐỀ CHÍNH THỨC"
+  },
+  {
+    "bbox": [
+      357,
+      288,
+      521,
+      327
+    ],
+    "category": "Page-header",
+    "text": "Mã đề: 611"
+  },
+  {
+    "bbox": [
+      825,
+      143,
+      1504,
+      255
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ KIỂM TRA ĐỊNH KỲ MÔN TOÁN KHỐI 12\nNĂM HỌC: 2025 - 2026\nMÔN: TOÁN"
+  },
+  {
+    "bbox": [
+      988,
+      258,
+      1387,
+      333
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút\nNgày thi 08 tháng 02 năm 2026"
+  },
+  {
+    "bbox": [
+      612,
+      367,
+      1096,
+      404
+    ],
+    "category": "Text",
+    "text": "*(Thí sinh không được sử dụng tài liệu)*"
+  },
+  {
+    "bbox": [
+      162,
+      402,
+      1479,
+      441
+    ],
+    "category": "Text",
+    "text": "Họ, tên thí sinh:................................................................................... Số báo danh:...................................."
+  },
+  {
+    "bbox": [
+      162,
+      497,
+      1382,
+      540
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      162,
+      559,
+      1473,
+      601
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Thống kê điểm kiểm tra giữa kỳ môn Toán của 30 học sinh lớp 11C5 được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      404,
+      601,
+      1374,
+      721
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td></tr><tr><td>Số học sinh</td><td>4</td><td>8</td><td>11</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      292,
+      723,
+      1303,
+      769
+    ],
+    "category": "Text",
+    "text": "Trung vị $Q_2$ của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      292,
+      800,
+      409,
+      852
+    ],
+    "category": "List-item",
+    "text": "A. $[2;4)$."
+  },
+  {
+    "bbox": [
+      608,
+      800,
+      722,
+      852
+    ],
+    "category": "List-item",
+    "text": "B. $[4;6)$."
+  },
+  {
+    "bbox": [
+      905,
+      800,
+      1022,
+      852
+    ],
+    "category": "List-item",
+    "text": "C. $[6;8)$."
+  },
+  {
+    "bbox": [
+      1202,
+      800,
+      1336,
+      852
+    ],
+    "category": "List-item",
+    "text": "D. $[8;10)$."
+  },
+  {
+    "bbox": [
+      162,
+      890,
+      1107,
+      966
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Tìm hệ số $b, c$ để hàm số $y = \\frac{2}{cx + b}$ có đồ thị như hình vẽ sau:"
+  },
+  {
+    "bbox": [
+      670,
+      979,
+      1000,
+      1314
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      292,
+      1321,
+      458,
+      1424
+    ],
+    "category": "List-item",
+    "text": "A. $\\begin{cases} b = 2 \\\\ c = -1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      608,
+      1321,
+      771,
+      1424
+    ],
+    "category": "List-item",
+    "text": "B. $\\begin{cases} b = 1 \\\\ c = -1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      905,
+      1321,
+      1045,
+      1424
+    ],
+    "category": "List-item",
+    "text": "C. $\\begin{cases} b = 2 \\\\ c = 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      1202,
+      1321,
+      1372,
+      1424
+    ],
+    "category": "List-item",
+    "text": "D. $\\begin{cases} b = -2 \\\\ c = 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      162,
+      1455,
+      785,
+      1507
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Nguyên hàm của hàm số $f(x) = 4^x$ là"
+  },
+  {
+    "bbox": [
+      292,
+      1522,
+      484,
+      1604
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{4^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      608,
+      1522,
+      801,
+      1604
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{4^x}{2 \\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      905,
+      1522,
+      1063,
+      1604
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{4^x}{x} + C$."
+  },
+  {
+    "bbox": [
+      1202,
+      1541,
+      1398,
+      1579
+    ],
+    "category": "List-item",
+    "text": "D. $x \\cdot 4^{x-1} + C$."
+  },
+  {
+    "bbox": [
+      162,
+      1634,
+      1541,
+      1771
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian với hệ trục tọa độ $Oxyz$, cho ba điểm $A(2;1;3)$, $B(1;0;1)$, $C(-1;1;2)$. Phương trình nào dưới đây là phương trình chính tắc của đường thẳng đi qua $A$ và song song với đường thẳng $BC$"
+  },
+  {
+    "bbox": [
+      292,
+      1776,
+      510,
+      1929
+    ],
+    "category": "Formula",
+    "text": "$$\nA. \\begin{cases} x = -2t \\\\ y = -1 + t \\\\ z = 3 + t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      1835,
+      1155,
+      1873
+    ],
+    "category": "Formula",
+    "text": "$$\nB. x - 2y + z = 0.\n$$"
+  },
+  {
+    "bbox": [
+      292,
+      1968,
+      650,
+      2044
+    ],
+    "category": "Formula",
+    "text": "$$\nC. \\frac{x - 2}{-2} = \\frac{y - 1}{1} = \\frac{z - 3}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      1968,
+      1207,
+      2044
+    ],
+    "category": "Formula",
+    "text": "$$\nD. \\frac{x - 1}{-2} = \\frac{y}{1} = \\frac{z - 1}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      2138,
+      669,
+      2177
+    ],
+    "category": "Page-footer",
+    "text": "ĐỀ KTĐK MÔN TOÁN K12 (08-02-2026)"
+  },
+  {
+    "bbox": [
+      1399,
+      2116,
+      1493,
+      2149
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

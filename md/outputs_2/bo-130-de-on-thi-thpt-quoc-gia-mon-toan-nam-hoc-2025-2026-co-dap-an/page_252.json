@@ -1,0 +1,297 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      608,
+      118,
+      1392,
+      378
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$6$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$3$</td><td>$0$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      478,
+      402,
+      946,
+      440
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có $y_{CD} = 3$ và $y_{CT} = 0$."
+  },
+  {
+    "bbox": [
+      478,
+      440,
+      1223,
+      514
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số $y = \\frac{1}{f(x) - 2}$ có bốn đường tiệm cận."
+  },
+  {
+    "bbox": [
+      478,
+      514,
+      1549,
+      591
+    ],
+    "category": "List-item",
+    "text": "c) Nếu gọi $A, B$ là hai điểm cực trị của đồ thị hàm số $y = f(x)$ thì diện tích tam giác $OAB$ bằng 9 (với $O$ là gốc tọa độ)."
+  },
+  {
+    "bbox": [
+      478,
+      591,
+      1494,
+      661
+    ],
+    "category": "List-item",
+    "text": "d) Hàm số $y = f(x^2 - 2x - 1)$ đạt giá trị nhỏ nhất trên đoạn $[0; 3]$ bằng $\\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      448,
+      681,
+      1135,
+      795
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hàm số $y = f(x)$ liên tục và có đạo hàm trên $[-2; 3]$. Đồ thị hàm số $y = f'(x)$ trên $[-2; 3]$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      478,
+      797,
+      1067,
+      837
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trên $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      478,
+      839,
+      1129,
+      916
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ có ba điểm cực trị trên $[-2; 3]$."
+  },
+  {
+    "bbox": [
+      478,
+      919,
+      780,
+      977
+    ],
+    "category": "List-item",
+    "text": "c) $\\min_{[-1;1]} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      478,
+      979,
+      1129,
+      1054
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình $f(x) = f(a)$ có 3 nghiệm phân biệt trên $[-2; 3]$."
+  },
+  {
+    "bbox": [
+      1191,
+      692,
+      1526,
+      1054
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1067,
+      1555,
+      1297
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Có ba集合. Hộp thứ nhất có 7 viên phấn trắng và 3 viên phấn vàng;集合 thứ hai có 16 viên trắng và 4 viên vàng;集合 thứ ba có 22 viên trắng và 8 viên vàng. Ta tung đồng thời ba đồng xu cân đối và đồng chất. Nếu được cả ba mặt sấp thì chọn集合 thứ nhất; nếu được một mặt sấp và hai mặt ngửa thì chọn集合 thứ hai; các trường hợp còn lại thì chọn集合 thứ ba. Từ集合 đã chọn ta lấy ngẫu nhiên ra một viên phấn. Gọi"
+  },
+  {
+    "bbox": [
+      482,
+      1314,
+      1069,
+      1351
+    ],
+    "category": "List-item",
+    "text": "A₁ là biến cố “Chọn được集合 thứ nhất”."
+  },
+  {
+    "bbox": [
+      482,
+      1373,
+      1046,
+      1410
+    ],
+    "category": "List-item",
+    "text": "A₂ là biến cố “Chọn được集合 thứ hai”."
+  },
+  {
+    "bbox": [
+      482,
+      1432,
+      1039,
+      1469
+    ],
+    "category": "List-item",
+    "text": "A₃ là biến cố “Chọn được集合 thứ ba”."
+  },
+  {
+    "bbox": [
+      482,
+      1491,
+      1159,
+      1529
+    ],
+    "category": "List-item",
+    "text": "B là biến cố “Chọn được viên phấn màu trắng”."
+  },
+  {
+    "bbox": [
+      478,
+      1541,
+      684,
+      1609
+    ],
+    "category": "List-item",
+    "text": "a) $P(A_2) = \\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      1024,
+      1541,
+      1293,
+      1609
+    ],
+    "category": "List-item",
+    "text": "b) $P(B | A_2) = \\frac{11}{15}$."
+  },
+  {
+    "bbox": [
+      478,
+      1605,
+      696,
+      1676
+    ],
+    "category": "List-item",
+    "text": "c) $P(B) = \\frac{181}{240}$."
+  },
+  {
+    "bbox": [
+      1024,
+      1605,
+      1305,
+      1676
+    ],
+    "category": "List-item",
+    "text": "d) $P(A_1 | B) = \\frac{18}{181}$."
+  },
+  {
+    "bbox": [
+      464,
+      1684,
+      1247,
+      1737
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1747,
+      1555,
+      1901
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho một tấm nhôm hình chữ nhật có kích thước 15 cm và 24 cm. Người ta cắt bỏ 4 góc của tấm tôn 4 miếng hình vuông bằng nhau rồi gò lại thành một hình集合 chữ nhật không có nắp. Để thể tích của hình集合 đó lớn nhất thì độ dài cạnh hình vuông của các miếng tôn bị cắt bỏ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      797,
+      1920,
+      1213,
+      2231
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "250 Bùi Tịnh Minh Lâm"
+  }
+]

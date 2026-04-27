@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      251,
+      118,
+      913,
+      171
+    ],
+    "category": "Text",
+    "text": "Nhận thấy $OA = \\sqrt{4^2 + 2^2 + 1^2} = \\sqrt{21} \\approx 4,582 > 3$;"
+  },
+  {
+    "bbox": [
+      255,
+      175,
+      894,
+      281
+    ],
+    "category": "Formula",
+    "text": "$$\nOB = \\sqrt{(-1)^2 + \\left(\\frac{-1}{2}\\right)^2 + \\left(\\frac{7}{2}\\right)^2} = \\frac{3\\sqrt{6}}{2} \\approx 3,67 > 3.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      281,
+      1126,
+      328
+    ],
+    "category": "Text",
+    "text": "Suy ra hai điểm $A, B$ nằm ngoài tầm phát hiện của trạm theo dõi."
+  },
+  {
+    "bbox": [
+      251,
+      332,
+      854,
+      421
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overrightarrow{AB} = \\left(-5; \\frac{-5}{2}; \\frac{5}{2}\\right) = \\frac{5}{2}(-2; -1; 1) = \\frac{5}{2}\\vec{u}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      426,
+      1488,
+      508
+    ],
+    "category": "Text",
+    "text": "Gọi $M(x, y, z)$ là vị trí của vệ tinh trên đoạn $AB$ trong phạm vi phát hiện của trạm theo dõi."
+  },
+  {
+    "bbox": [
+      251,
+      510,
+      1007,
+      561
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có $\\overrightarrow{AM} = \\vec{u}$, với $t > 0 \\Rightarrow M(4-2t; 2-t; 1+t)$"
+  },
+  {
+    "bbox": [
+      255,
+      568,
+      972,
+      615
+    ],
+    "category": "Formula",
+    "text": "$$\nOM \\le 3 \\Leftrightarrow (4-2t)^2 + (2-t)^2 + (1+t)^2 \\le 9 \\Leftrightarrow 1 \\le t \\le 2.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      624,
+      553,
+      666
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = 1 \\Rightarrow M_1(2; 1; 2)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      676,
+      564,
+      720
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = 2 \\Rightarrow M_2(0; 0; 3)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      726,
+      1533,
+      826
+    ],
+    "category": "Text",
+    "text": "Vậy vị trí đầu tiên vệ tinh bị theo dõi là $M_1(2; 1; 2)$ và vị trí cuối cùng trước khi ra khỏi phạm vi theo dõi là $M_2(0; 0; 3)$"
+  },
+  {
+    "bbox": [
+      251,
+      832,
+      1449,
+      889
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } M_1M_2 = \\sqrt{2^2 + 1^2 + 1^2} = \\sqrt{6} \\text{ nên khoảng cách thực tế giữa } M_1 \\text{ và } M_2 \\text{ là } 10\\sqrt{6} \\text{ km}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      893,
+      1507,
+      986
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra thời gian vệ tinh bay trong vùng do thám là } t = \\frac{10\\sqrt{6}}{80} \\text{ (giờ)} = \\frac{10\\sqrt{6}}{80} \\times 60 \\approx 18,4 \\text{ (phút).}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      986,
+      1533,
+      1107
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một tập đoàn năng lượng cần xây dựng tuyến ống dẫn dầu cỡ lớn chạy theo một đường thẳng dài 720km để dẫn dầu đi qua một vùng hoang mạc rộng lớn. Hai trạm bơm công suất lớn ở hai đầu tuyến đã xây xong, phần việc còn lại là:"
+  },
+  {
+    "bbox": [
+      251,
+      1101,
+      1090,
+      1145
+    ],
+    "category": "Text",
+    "text": "+) Lắp đặt ống dẫn dầu giữa hai trạm bơm công suất lớn đã có."
+  },
+  {
+    "bbox": [
+      251,
+      1138,
+      1533,
+      1222
+    ],
+    "category": "Text",
+    "text": "+) Xây thêm một số trạm bơm tăng áp nằm trên tuyến ống dẫn dầu để tăng hiệu quả dẫn dầu sao cho các trạm bơm tăng áp này chia toàn bộ tuyến ống dẫn dầu thành các đoạn có độ dài bằng nhau."
+  },
+  {
+    "bbox": [
+      251,
+      1217,
+      967,
+      1260
+    ],
+    "category": "Text",
+    "text": "Đơn vị thiết kế lập dự toán phần việc còn lại như sau:"
+  },
+  {
+    "bbox": [
+      251,
+      1257,
+      978,
+      1303
+    ],
+    "category": "Text",
+    "text": "+) Chi phí xây 1 trạm bơm tăng áp là 108 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      1300,
+      1533,
+      1406
+    ],
+    "category": "Text",
+    "text": "+) Chi phí xây đoạn ống dẫn dầu nối giữa hai trạm bơm kề nhau với khoảng cách $x$ km là $x(2+\\sqrt{x})$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      1411,
+      1533,
+      1533
+    ],
+    "category": "Text",
+    "text": "Hỏi cần xây thêm bao nhiêu trạm bơm tăng áp để tổng chi phí phần việc còn lại theo dự toán như trên là nhỏ nhất? Coi kích thước của các trạm bơm tăng áp là không đáng kể so với chiều dài toàn tuyến ống dẫn dầu."
+  },
+  {
+    "bbox": [
+      836,
+      1533,
+      950,
+      1571
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1566,
+      406,
+      1610
+    ],
+    "category": "Text",
+    "text": "Đáp số: 19"
+  },
+  {
+    "bbox": [
+      251,
+      1605,
+      775,
+      1649
+    ],
+    "category": "Text",
+    "text": "Gọi số trạm tăng áp cần xây thêm là $n$."
+  },
+  {
+    "bbox": [
+      251,
+      1651,
+      1470,
+      1732
+    ],
+    "category": "Text",
+    "text": "Khi đó toàn tuyến được chia thành $n+1$ đoạn bằng nhau, nên $(n+1)x = 720 \\Rightarrow n = \\frac{720}{x} - 1$."
+  },
+  {
+    "bbox": [
+      251,
+      1732,
+      501,
+      1775
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí gồm:"
+  },
+  {
+    "bbox": [
+      251,
+      1775,
+      704,
+      1816
+    ],
+    "category": "Text",
+    "text": "- Chi phí xây trạm tăng áp: $108n$;"
+  },
+  {
+    "bbox": [
+      251,
+      1816,
+      935,
+      1866
+    ],
+    "category": "Text",
+    "text": "- Chi phí xây ống cho $n+1$ đoạn: $(n+1)(2+\\sqrt{x})x$."
+  },
+  {
+    "bbox": [
+      251,
+      1866,
+      781,
+      1920
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } y = f(x) = 108n + (n+1)(2+\\sqrt{x})x.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1926,
+      497,
+      2008
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay } n = \\frac{720}{x} - 1,\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      2012,
+      887,
+      2200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f(x) &= 108\\left(\\frac{720}{x} - 1\\right) + \\left(\\frac{720}{x} - 1 + 1\\right)(2 + \\sqrt{x})x \\\\ &= \\frac{77760}{x} + 720\\sqrt{x} + 1332 \\end{aligned}\n$$"
+  }
+]

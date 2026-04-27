@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      154,
+      140,
+      392,
+      181
+    ],
+    "category": "Formula",
+    "text": "$(R = IA = IH).$"
+  },
+  {
+    "bbox": [
+      415,
+      195,
+      1284,
+      552
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      575,
+      1198,
+      622
+    ],
+    "category": "Text",
+    "text": "Áp dụng định lý Py-tha-go, ta có $OM = \\sqrt{OH^2 + HM^2} = \\sqrt{3^2 + 4^2} = 5$."
+  },
+  {
+    "bbox": [
+      202,
+      633,
+      753,
+      689
+    ],
+    "category": "Formula",
+    "text": "Ta có $\\sin \\widehat{HOM} = \\sin \\widehat{IOA} = \\frac{HM}{OM} = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      202,
+      701,
+      1345,
+      756
+    ],
+    "category": "Formula",
+    "text": "Lại có $\\sin \\widehat{IOA} = \\frac{IA}{OI} \\Leftrightarrow \\frac{4}{5} = \\frac{R}{OI} \\Leftrightarrow OI = \\frac{5R}{4}$. $\\Rightarrow OH = OI + IH = \\frac{5R}{4} + R = \\frac{9R}{4}$."
+  },
+  {
+    "bbox": [
+      202,
+      765,
+      918,
+      817
+    ],
+    "category": "Formula",
+    "text": "Mà $OH = 3 \\Leftrightarrow \\frac{9R}{4} = 3 \\Leftrightarrow 9R = 12 \\Leftrightarrow R = \\frac{12}{9} = \\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      202,
+      826,
+      1412,
+      881
+    ],
+    "category": "Formula",
+    "text": "Vậy thể tích nước tràn lớn nhất ở TH1 là: $V_1 = \\frac{4}{3}\\pi R^3 = \\frac{4}{3}\\pi \\left(\\frac{4}{3}\\right)^3 \\approx 9,9 (\\text{dm}^3) \\approx 9,9 \\text{ l}$."
+  },
+  {
+    "bbox": [
+      202,
+      891,
+      1481,
+      935
+    ],
+    "category": "Text",
+    "text": "TH2: Quả cầu chìm một phần. Phần thể tích nước tràn ra ngoài bằng thể tích chỏm cầu."
+  },
+  {
+    "bbox": [
+      202,
+      952,
+      1503,
+      1002
+    ],
+    "category": "Text",
+    "text": "Nhắc lại: Công thức tính thể tích chỏm cầu: $V = \\pi h^2 \\left(R - \\frac{h}{3}\\right)$ với $h$ là chiều cao chỏm cầu."
+  },
+  {
+    "bbox": [
+      491,
+      1013,
+      1205,
+      1440
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1467,
+      848,
+      1517
+    ],
+    "category": "Text",
+    "text": "Tương tự như TH1, ta cũng tính được $OI = \\frac{5R}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      1531,
+      1546,
+      1624
+    ],
+    "category": "Formula",
+    "text": "Ta có $EH = EK - HK = 2R - HK = 2R - (OK - OH) = 2R - [(OI + IK) - 3] = 2R - \\left[\\left(\\frac{5R}{4} + R\\right) - 3\\right] = 2R - \\left(\\frac{9R}{4} - 3\\right) = -\\frac{R}{4} + 3$."
+  },
+  {
+    "bbox": [
+      202,
+      1633,
+      856,
+      1684
+    ],
+    "category": "Formula",
+    "text": "Điều kiện: $EH > 0 \\Leftrightarrow -\\frac{R}{4} + 3 > 0 \\Leftrightarrow R < 12$."
+  },
+  {
+    "bbox": [
+      154,
+      1693,
+      1546,
+      1805
+    ],
+    "category": "Formula",
+    "text": "Thể tích khối chỏm cầu là $V_2 = \\pi h^2 \\left(R - \\frac{h}{3}\\right)$ với $h = -\\frac{R}{4} + 3$: $V_2 = \\pi \\left(-\\frac{R}{4} + 3\\right)^2 \\left(R - \\frac{-\\frac{R}{4}+3}{3}\\right) = \\frac{\\pi}{192}(12 - R)^2(13R - 12)$."
+  },
+  {
+    "bbox": [
+      202,
+      1817,
+      1117,
+      1867
+    ],
+    "category": "Formula",
+    "text": "Xét hàm số $f(R) = \\frac{\\pi}{192}(12 - R)^2(13R - 12)$ trên khoảng $(0; 12)$."
+  },
+  {
+    "bbox": [
+      202,
+      1881,
+      1237,
+      1992
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(R) = \\frac{\\pi}{192}(12 - R)(-39R + 180). f'(R) = 0 \\Leftrightarrow \\begin{cases} R = 12 \\notin (0; 12) \\\\ R = \\frac{180}{39} = \\frac{60}{13} \\in (0; 12) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2007,
+      969,
+      2058
+    ],
+    "category": "Formula",
+    "text": "Lập bảng biến thiên ta thấy $V_2 \\max = f\\left(\\frac{180}{39}\\right) \\approx 42,8$."
+  },
+  {
+    "bbox": [
+      202,
+      2069,
+      856,
+      2112
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích nước tràn ra lớn nhất là 42,8 lít."
+  },
+  {
+    "bbox": [
+      154,
+      2133,
+      1546,
+      2218
+    ],
+    "category": "Text",
+    "text": "Bài 6. Trong hệ tọa độ Oxy, đơn vị trên mỗi trục là km. Dường đi trên một ngọn núi được mô phỏng bằng đồ thị của hàm số $f(x) = a + b \\cdot 2^{-x^2}$ (với $-3 \\le x \\le 3$). Biết rằng đinh núi cao"
+  },
+  {
+    "bbox": [
+      154,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "145"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      96,
+      1575,
+      353
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong hệ trục tọa độ $Oxyz$ cho trước (đơn vị trên trục là mét), một trạm thu phát sóng 5G có bán kính vùng phủ sóng của trạm ở ngưỡng 600m được đặt tại vị trí $I(200;450;60)$. Vào lúc 5 giờ 00 phút sáng, bạn Minh Hiền đi bộ từ vị trí $A(-100;50;0)$ đến vị trí $B(-100;1250;0)$ trên một đường thẳng với vận tốc không đổi trong thời gian 15 phút."
+  },
+  {
+    "bbox": [
+      326,
+      365,
+      1402,
+      957
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      971,
+      1575,
+      1076
+    ],
+    "category": "Text",
+    "text": "a) Tại thời điểm 5 giờ 10 phút sáng, bạn Minh Hiền ở vị trí mà điện thoại không thể sử dụng dịch vụ của trạm thu phát sóng này."
+  },
+  {
+    "bbox": [
+      154,
+      1084,
+      1575,
+      1191
+    ],
+    "category": "Text",
+    "text": "b) Thời điểm muộn nhất mà điện thoại của bạn Minh Hiền có thể sử dụng dịch vụ của trạm thu phát sóng này là 5 giờ 12 phút sáng."
+  },
+  {
+    "bbox": [
+      154,
+      1207,
+      1575,
+      1324
+    ],
+    "category": "Text",
+    "text": "c) Khi bạn Minh Hiền đang ở vị trí $A(-100;50;0)$ thì điện thoại của bạn Minh Hiền có thể sử dụng dịch vụ của trạm thu phát sóng này."
+  },
+  {
+    "bbox": [
+      154,
+      1336,
+      1575,
+      1455
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu mô tả ranh giới bên ngoài và bên trong của vùng phủ sóng là $(x-200)^2 + (y-450)^2 + (z+60)^2 = 360000$."
+  },
+  {
+    "bbox": [
+      807,
+      1479,
+      925,
+      1519
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1534,
+      971,
+      1655
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1659,
+      912,
+      1741
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vecto vận tốc: } \\overrightarrow{AB} = (0;1200;0) \\Rightarrow \\vec{v} = \\frac{1}{15} \\overrightarrow{AB} = (0;80;0)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1762,
+      1001,
+      1803
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Quảng đường đi: } AB = 1200 \\Rightarrow s(1) = 80 \\text{ (m) hay } s(t) = 80t \\text{ (m)}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1822,
+      1373,
+      1869
+    ],
+    "category": "Text",
+    "text": "a) Tại thời điểm 5h10, Minh Hiền đi được 10 phút.框 này Minh Hiền ở tại điểm $M$ thỏa"
+  },
+  {
+    "bbox": [
+      160,
+      1887,
+      921,
+      2026
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\overrightarrow{AM} &= \\frac{10}{15} \\overrightarrow{AB} = (0;800;0) \\Rightarrow M(-100;850;0) \\\\ \\Rightarrow IM &= \\sqrt{300^2 + 400^2 + 60^2} = 20\\sqrt{634} \\approx 503,6 < 600 \\text{ m.} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2044,
+      1368,
+      2090
+    ],
+    "category": "Text",
+    "text": "b) Tại thời điểm 5h12, Minh Hiền đi được 12 phút.框 này Minh Hiền ở tại điểm $N$ thỏa"
+  },
+  {
+    "bbox": [
+      160,
+      2111,
+      752,
+      2250
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\overrightarrow{AN} &= \\frac{12}{15} \\overrightarrow{AB} = (0;960;0) \\Rightarrow M(-100;910;0) \\\\ \\Rightarrow IM &= \\sqrt{300^2 + 410^2 + 60^2} \\approx 638 > 600 \\text{ m.} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

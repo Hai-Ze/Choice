@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      113,
+      75,
+      1499,
+      159
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Khi thống kê điểm môn toán của 30 học sinh lớp 11, ta thu được mẫu số liệu ghép nhóm được cho ở bảng sau"
+  },
+  {
+    "bbox": [
+      125,
+      164,
+      1522,
+      251
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[0; 2)</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10]</td></tr><tr><td>Số học sinh</td><td>2</td><td>4</td><td>4</td><td>13</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      113,
+      263,
+      543,
+      302
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tử phân vị thứ ba là"
+  },
+  {
+    "bbox": [
+      113,
+      302,
+      238,
+      340
+    ],
+    "category": "List-item",
+    "text": "A. [2; 4)."
+  },
+  {
+    "bbox": [
+      476,
+      302,
+      594,
+      340
+    ],
+    "category": "List-item",
+    "text": "B. [4; 6)."
+  },
+  {
+    "bbox": [
+      838,
+      302,
+      956,
+      340
+    ],
+    "category": "List-item",
+    "text": "C. [6; 8)."
+  },
+  {
+    "bbox": [
+      1198,
+      302,
+      1333,
+      340
+    ],
+    "category": "List-item",
+    "text": "D. [8; 10]."
+  },
+  {
+    "bbox": [
+      113,
+      342,
+      1509,
+      426
+    ],
+    "category": "Text",
+    "text": "**Phần 2 ( 4 điểm ) . Trắc nghiệm dạng đúng/ sai** (Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.)"
+  },
+  {
+    "bbox": [
+      113,
+      424,
+      939,
+      472
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho phương trình lượng giác $2\\cos x = \\sqrt{2}$ (1). Khi đó:"
+  },
+  {
+    "bbox": [
+      113,
+      504,
+      981,
+      578
+    ],
+    "category": "Text",
+    "text": "a) Phương trình (1) tương đương với phương trình $\\cos x = \\cos \\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      113,
+      603,
+      1045,
+      683
+    ],
+    "category": "Text",
+    "text": "b) Phương trình (1) có nghiệm là: $x = \\frac{\\pi}{4} + k2\\pi$; $x = \\frac{3\\pi}{4} + k2\\pi$ ($k \\in \\mathbb{Z}$)."
+  },
+  {
+    "bbox": [
+      113,
+      713,
+      842,
+      787
+    ],
+    "category": "Text",
+    "text": "c) Phương trình (1) có nghiệm âm lớn nhất bằng $-\\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      113,
+      811,
+      1074,
+      898
+    ],
+    "category": "Text",
+    "text": "d) Số nghiệm của phương trình (1) trong khoảng $\\left(0; \\frac{\\pi}{2}\\right)$ là hai nghiệm."
+  },
+  {
+    "bbox": [
+      113,
+      922,
+      861,
+      969
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho bất phương trình: $\\log_{0,5}(4x+3) \\ge \\log_{0,5}(5x)$"
+  },
+  {
+    "bbox": [
+      113,
+      993,
+      818,
+      1037
+    ],
+    "category": "Text",
+    "text": "a) Điều kiện xác định của bất phương trình là $x > 0$."
+  },
+  {
+    "bbox": [
+      113,
+      1051,
+      799,
+      1096
+    ],
+    "category": "Text",
+    "text": "b) Bất phương trình tương đương với: $4x + 3 \\ge 5x$."
+  },
+  {
+    "bbox": [
+      113,
+      1110,
+      796,
+      1156
+    ],
+    "category": "Text",
+    "text": "c) Tập nghiệm của bất phương trình là $S = [3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      113,
+      1174,
+      879,
+      1219
+    ],
+    "category": "Text",
+    "text": "d) $x = 4$ thuộc miền nghiệm của bất phương trình đã cho."
+  },
+  {
+    "bbox": [
+      113,
+      1243,
+      1534,
+      1335
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh bằng $a$, $SA$ vuông góc với mặt phẳng $(ABCD)$ và $SA = a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      113,
+      1351,
+      287,
+      1391
+    ],
+    "category": "Text",
+    "text": "a) $SA \\perp SC$."
+  },
+  {
+    "bbox": [
+      113,
+      1401,
+      385,
+      1449
+    ],
+    "category": "Text",
+    "text": "b) $(SAC) \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      113,
+      1465,
+      972,
+      1513
+    ],
+    "category": "Text",
+    "text": "c) Góc giữa đường thẳng $SD$ và mặt phẳng $(ABCD)$ bằng $60^\\circ$."
+  },
+  {
+    "bbox": [
+      113,
+      1527,
+      924,
+      1577
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai đường thẳng $AB$ và $SD$ bằng $a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      113,
+      1577,
+      1509,
+      1695
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một vật chuyển động với vận tốc ban đầu là $v_0(m/s)$ sau đó停止 lại, phương trình quăng đường của vật là $s = s(t) = -t^3 + 9t^2 + 21t$ trong đó $t$ tính bằng giây và $s$ tính bằng mét."
+  },
+  {
+    "bbox": [
+      113,
+      1713,
+      820,
+      1757
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của vật tại thời điểm $t = 3s$ là $v = 48 m/s$."
+  },
+  {
+    "bbox": [
+      113,
+      1783,
+      983,
+      1829
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của vật tại thời điểm $t$ là $v(t) = -3t^2 + 18t - 21(m/s)$."
+  },
+  {
+    "bbox": [
+      113,
+      1847,
+      759,
+      1893
+    ],
+    "category": "Text",
+    "text": "c) Vật đạt vận tốc lớn nhất tại thời điểm $t = 6(s)$"
+  },
+  {
+    "bbox": [
+      113,
+      1911,
+      1212,
+      1957
+    ],
+    "category": "Text",
+    "text": "d) Vật停止 lại sau khoảng thời gian kể từ lúc bắt đầu chuyển động là $t = 7s$ giây."
+  },
+  {
+    "bbox": [
+      113,
+      1971,
+      1035,
+      2017
+    ],
+    "category": "Text",
+    "text": "**Phần 3 ( 3 điểm ) . Trả lời ngắn** (Thí sinh trả lời từ câu 1 đến câu 6)"
+  },
+  {
+    "bbox": [
+      113,
+      2011,
+      1524,
+      2172
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một loại thuốc được dùng mỗi ngày một lần. Lúc đầu nồng độ thuốc trong máu của bệnh nhân tăng nhanh, nhưng mỗi liều kế tiếp có tác dụng ít hơn liều trước đó. Lượng thuốc trong máu ở ngày thứ nhất là $50mg$, và mỗi ngày sau đó giảm chỉ còn một half so với ngày kề trước đó. Tính tổng lượng thuốc"
+  },
+  {
+    "bbox": [
+      726,
+      2269,
+      871,
+      2309
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 122"
+  },
+  {
+    "bbox": [
+      1513,
+      2276,
+      1532,
+      2307
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

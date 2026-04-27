@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      152,
+      79,
+      1569,
+      346
+    ],
+    "category": "Text",
+    "text": "**Câu 22.** Trong cuộc gặp mặt dặn dò trước khi lên đường tham gia kì thi học sinh giải, có 10 bạn trong đội tuyển gồm 2 bạn đến từ lớp 12A, 3 bạn từ lớp 12B, 5 bạn còn lại đến từ 5 lớp khác (mối lớp một bạn). Thầy giáo xếp ngẫu nhiên các bạn kể trên ngồi vào một bàn dài có 10 ghế mà mỗi bên có 5 ghế xếp đối diện nhau. Xác suất để không có học sinh nào cùng lớp ngồi đối diện nhau bằng $\\frac{a}{b}$ (với $\\frac{a}{b}$ là phân số tối giản). Tính $a-b$"
+  },
+  {
+    "bbox": [
+      826,
+      351,
+      939,
+      390
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      291,
+      418,
+      486,
+      457
+    ],
+    "category": "Text",
+    "text": "Đáp án: -25."
+  },
+  {
+    "bbox": [
+      291,
+      475,
+      1573,
+      558
+    ],
+    "category": "Text",
+    "text": "Số cách xếp 10 bạn học sinh trong đội tuyển thi HSG vào một bàn dài mà mỗi bên có 5 ghế đối diện nhau là $10! \\Rightarrow n(\\Omega) = 10!$."
+  },
+  {
+    "bbox": [
+      291,
+      581,
+      1303,
+      626
+    ],
+    "category": "Text",
+    "text": "Xét các biến cố: $A$ : \"Không có học sinh nào cùng lớp ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      371,
+      646,
+      1006,
+      694
+    ],
+    "category": "Text",
+    "text": "$\\bar{A}$ : \"Có học sinh cùng lớp ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      371,
+      714,
+      956,
+      760
+    ],
+    "category": "Text",
+    "text": "$A_1$ : \"Học sinh lớp 12A ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      371,
+      788,
+      965,
+      835
+    ],
+    "category": "Text",
+    "text": "$A_2$ : \"Học sinh lớp 12B ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      371,
+      862,
+      1465,
+      910
+    ],
+    "category": "Text",
+    "text": "$A_1 \\cap A_2$ : \"Học sinh 12A ngồi đối diện nhau và học sinh 12B ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      291,
+      939,
+      1014,
+      997
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\bar{A} = A_1 \\cup A_2 \\Rightarrow n(\\bar{A}) = n(A_1) + n(A_2) - n(A_1 \\cap A_2).\n$$"
+  },
+  {
+    "bbox": [
+      291,
+      1021,
+      1573,
+      1116
+    ],
+    "category": "Text",
+    "text": "Sắp xếp 2 hs lớp 12A ngồi vào hai ghế đối diện nhau, hoán đổi vị trí của 2 hs, sau đó sắp xếp 8 hs còn lại $\\Rightarrow n(A_1) = C_5^1 \\cdot 2! \\cdot 8!$."
+  },
+  {
+    "bbox": [
+      291,
+      1141,
+      1573,
+      1223
+    ],
+    "category": "Text",
+    "text": "Từ 3 hs lớp 12B, chọn ra 2 hs sắp xếp 2 hs này ngồi vào hai ghế đối diện, sau đó sắp xếp 8 hs còn lại"
+  },
+  {
+    "bbox": [
+      291,
+      1246,
+      576,
+      1295
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A_2) = A_3^2 \\cdot C_5^1 \\cdot 8!.\n$$"
+  },
+  {
+    "bbox": [
+      272,
+      1320,
+      1379,
+      1366
+    ],
+    "category": "Text",
+    "text": "Sự kiện cả 12A và 12B đều có một cặp ngồi đối diện (các cặp ghế phải khác nhau):"
+  },
+  {
+    "bbox": [
+      254,
+      1382,
+      666,
+      1427
+    ],
+    "category": "Text",
+    "text": "Chọn cặp ghế cho 12A: 5 cách."
+  },
+  {
+    "bbox": [
+      254,
+      1443,
+      794,
+      1488
+    ],
+    "category": "Text",
+    "text": "Chọn cặp ghế khác cho 12B: còn 4 cách."
+  },
+  {
+    "bbox": [
+      254,
+      1510,
+      1012,
+      1558
+    ],
+    "category": "Text",
+    "text": "Chọn 2 trong 3 học sinh 12B để tạo cặp đối diện: $C_3^2 = 3$"
+  },
+  {
+    "bbox": [
+      254,
+      1580,
+      909,
+      1627
+    ],
+    "category": "Text",
+    "text": "Sắp xếp trong mỗi cập: $2!$ cho 12A và $2!$ cho 12B."
+  },
+  {
+    "bbox": [
+      254,
+      1643,
+      950,
+      1688
+    ],
+    "category": "Text",
+    "text": "Các 6 học sinh còn lại sắp xếp vào 6 ghế còn lại: $6!$."
+  },
+  {
+    "bbox": [
+      291,
+      1709,
+      351,
+      1748
+    ],
+    "category": "Text",
+    "text": "Vậy"
+  },
+  {
+    "bbox": [
+      291,
+      1776,
+      860,
+      1825
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A_1 \\cap A_2) = 5 \\cdot 4 \\cdot C_3^2 = 3 \\cdot 2! \\cdot 2! \\cdot 6!.\n$$"
+  },
+  {
+    "bbox": [
+      291,
+      1856,
+      959,
+      1914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(\\bar{A}) = n(A_1) + n(A_2) - n(A_1 \\cap A_2) = 1440000.\n$$"
+  },
+  {
+    "bbox": [
+      291,
+      1945,
+      1273,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A) = n(\\Omega) - n(\\bar{A}) = 2188800 \\Rightarrow P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{38}{63} \\Rightarrow a-b = -25.\n$$"
+  }
+]

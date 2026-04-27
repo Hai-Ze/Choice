@@ -1,0 +1,340 @@
+[
+  {
+    "bbox": [
+      165,
+      114,
+      698,
+      195
+    ],
+    "category": "Page-header",
+    "text": "TRƯỜNG THPT THẠCH THÀNH I\nTỔ TOÁN - TIN"
+  },
+  {
+    "bbox": [
+      317,
+      195,
+      544,
+      422
+    ],
+    "category": "Page-header",
+    "text": "THPT THẠCH THÀNH I - THÀNH HOÁ\n1965"
+  },
+  {
+    "bbox": [
+      291,
+      422,
+      569,
+      505
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ CHÍNH THỨC\n(Đề có 5 trang)"
+  },
+  {
+    "bbox": [
+      817,
+      114,
+      1483,
+      195
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THI KSCL LẦN 2 NĂM HỌC 2025 - 2026\nMôn TOÁN - LỚP 12."
+  },
+  {
+    "bbox": [
+      782,
+      230,
+      1517,
+      276
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      133,
+      556,
+      1207,
+      601
+    ],
+    "category": "Text",
+    "text": "Họ tên thí sinh: .................................................... Số báo danh: ...................."
+  },
+  {
+    "bbox": [
+      1273,
+      546,
+      1472,
+      584
+    ],
+    "category": "Text",
+    "text": "Mã đề thi 121"
+  },
+  {
+    "bbox": [
+      154,
+      643,
+      1233,
+      688
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Từ câu 1 đến câu 12, mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      154,
+      706,
+      765,
+      751
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Heo nguyên hàm của hàm số $y = 2^x$ là"
+  },
+  {
+    "bbox": [
+      154,
+      765,
+      355,
+      824
+    ],
+    "category": "List-item",
+    "text": "A. $\\ln 2 \\cdot 2^x + C$."
+  },
+  {
+    "bbox": [
+      486,
+      787,
+      631,
+      824
+    ],
+    "category": "List-item",
+    "text": "B. $2^x + C$."
+  },
+  {
+    "bbox": [
+      819,
+      765,
+      982,
+      849
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{2^x}{\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      1142,
+      765,
+      1319,
+      849
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{2^x}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      154,
+      869,
+      1533,
+      975
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ được tính theo công thức"
+  },
+  {
+    "bbox": [
+      154,
+      984,
+      406,
+      1083
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      511,
+      984,
+      752,
+      1083
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      832,
+      984,
+      1089,
+      1083
+    ],
+    "category": "List-item",
+    "text": "C. $S = -\\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      1155,
+      984,
+      1406,
+      1083
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{b}^{a} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      154,
+      1103,
+      1533,
+      1191
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng):"
+  },
+  {
+    "bbox": [
+      456,
+      1213,
+      1369,
+      1305
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      291,
+      1329,
+      1446,
+      1374
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      291,
+      1374,
+      432,
+      1421
+    ],
+    "category": "List-item",
+    "text": "A. [7; 9)."
+  },
+  {
+    "bbox": [
+      626,
+      1374,
+      777,
+      1421
+    ],
+    "category": "List-item",
+    "text": "B. [9; 11)."
+  },
+  {
+    "bbox": [
+      940,
+      1374,
+      1101,
+      1421
+    ],
+    "category": "List-item",
+    "text": "C. [11; 13)."
+  },
+  {
+    "bbox": [
+      1254,
+      1374,
+      1422,
+      1421
+    ],
+    "category": "List-item",
+    "text": "D. [13; 15)."
+  },
+  {
+    "bbox": [
+      154,
+      1446,
+      1533,
+      1575
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Cho hàm số $y = \\frac{ax+b}{cx+d}$ có đồ thị là đường cong trong hình vẽ bên. Tọa độ giao điểm của đồ thị hàm số đã cho và trục hoành là"
+  },
+  {
+    "bbox": [
+      291,
+      1607,
+      442,
+      1652
+    ],
+    "category": "List-item",
+    "text": "A. (0; -2)."
+  },
+  {
+    "bbox": [
+      291,
+      1662,
+      421,
+      1707
+    ],
+    "category": "List-item",
+    "text": "B. (2; 0)."
+  },
+  {
+    "bbox": [
+      291,
+      1719,
+      442,
+      1764
+    ],
+    "category": "List-item",
+    "text": "C. (-2; 0)."
+  },
+  {
+    "bbox": [
+      291,
+      1776,
+      421,
+      1821
+    ],
+    "category": "List-item",
+    "text": "D. (0; 2)."
+  },
+  {
+    "bbox": [
+      1148,
+      1545,
+      1485,
+      1909
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1863,
+      933,
+      1911
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      619,
+      1913,
+      1191,
+      2207
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1188,
+      2231,
+      1533,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề thi 121 - Trang 1/5"
+  }
+]

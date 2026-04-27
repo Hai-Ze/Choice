@@ -1,0 +1,92 @@
+[
+  {
+    "bbox": [
+      115,
+      82,
+      440,
+      163
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giải: } \\frac{m}{20} = \\frac{12960}{20} = 648\n$$"
+  },
+  {
+    "bbox": [
+      916,
+      257,
+      1032,
+      293
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      296,
+      446,
+      332
+    ],
+    "category": "Text",
+    "text": "Đáp án: 648."
+  },
+  {
+    "bbox": [
+      115,
+      374,
+      1601,
+      461
+    ],
+    "category": "Text",
+    "text": "+ Đánh số 10 cái ghế từ 1 đến 10 từ trái sang phải. Giữa 2 bạn nữ gần nhau có đúng 2 bạn nam khi và chỉ khi 4 bạn nữ ngồi ở ghế số 1, 4, 7, 10. Khi đó ta xét các trường hợp:"
+  },
+  {
+    "bbox": [
+      115,
+      486,
+      1605,
+      623
+    ],
+    "category": "Text",
+    "text": "TH1: Na ngồi ghế số 1. Khi đó 3 bạn nữ còn lại có $3!$ cách xếp vào ghế số 4, 7, 10. Sắp Cường ngồi vào hàng, vì Cường không ngồi gần Na nên có 5 cách chọn chỗ cho Cường. Khi đó 5 bạn còn lại được xếp vào 5 ghế trống, có $5!$ cách. Theo quy tắc nhân ta có $3! \\cdot 5 \\cdot 5! = 3600$ cách."
+  },
+  {
+    "bbox": [
+      115,
+      644,
+      1621,
+      736
+    ],
+    "category": "Text",
+    "text": "TH2: Na ngồi ghế số 4. Khi đó 3 bạn nữ còn lại có $3!$ cách xếp vào ghế số 4, 7, 10. Có 4 cách xếp Cường vào hàng, còn 5 bạn nam có $5!$ cách xếp. Suy ra có $5! \\cdot 4 \\cdot 5 = 2880$"
+  },
+  {
+    "bbox": [
+      115,
+      757,
+      900,
+      801
+    ],
+    "category": "Text",
+    "text": "TH3: Huyền ngồi ghế số 7. Tương tự TH2 có 2880 cách."
+  },
+  {
+    "bbox": [
+      115,
+      822,
+      910,
+      866
+    ],
+    "category": "Text",
+    "text": "TH4: Huyền ngồi ghế số 10. Tương tự TH1 có 3600 cách."
+  },
+  {
+    "bbox": [
+      115,
+      894,
+      1025,
+      975
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy có } 2(3600 + 2880) = 12960 \\Rightarrow m = 12960 \\Rightarrow \\frac{m}{20} = \\frac{12960}{20} = 648\n$$"
+  }
+]

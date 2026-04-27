@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      153,
+      99,
+      1041,
+      148
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng đi qua 2 điểm cực trị $2x + y = 0$ ($d$)"
+  },
+  {
+    "bbox": [
+      153,
+      153,
+      1300,
+      202
+    ],
+    "category": "Text",
+    "text": "Hai điểm $A, B$ nằm cùng phía đối với $d$. Gọi $A'$ là điểm đối xứng với $A$ qua $d$."
+  },
+  {
+    "bbox": [
+      153,
+      207,
+      701,
+      246
+    ],
+    "category": "Text",
+    "text": "Khi đó $MA + MB = MA' + MB \\ge A'B$."
+  },
+  {
+    "bbox": [
+      153,
+      249,
+      1160,
+      298
+    ],
+    "category": "Text",
+    "text": "Do đó $MA + MB$ ngắn nhất thì $M, A', B$ thẳng hàng hay $M = A'B \\cap d$."
+  },
+  {
+    "bbox": [
+      153,
+      303,
+      779,
+      352
+    ],
+    "category": "Text",
+    "text": "$\\Delta$ là đường thẳng đi qua $A$ và vuông góc $d$"
+  },
+  {
+    "bbox": [
+      153,
+      357,
+      761,
+      406
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{PT } \\Delta (x-1) - 2(y-2) = 0 \\Leftrightarrow x - 2y + 3 = 0\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      418,
+      999,
+      506
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là giao điểm của $d$ và $\\Delta \\Rightarrow I\\left(-\\frac{3}{5}; \\frac{6}{5}\\right) \\Rightarrow A'\\left(-\\frac{11}{5}; \\frac{2}{5}\\right)$."
+  },
+  {
+    "bbox": [
+      153,
+      518,
+      786,
+      606
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{A'B} = \\left(\\frac{21}{5}; \\frac{3}{5}\\right) \\Rightarrow \\text{VTPT của } A'B \\text{ là } \\vec{n}(3; -21)\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      618,
+      891,
+      667
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{PT } A'B: 3(x-2) - 21(y-1) = 0 \\Leftrightarrow 3x - 21y + 15 = 0\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      679,
+      788,
+      767
+    ],
+    "category": "Formula",
+    "text": "$$\nM = A'B \\cap d \\Rightarrow M\\left(-\\frac{1}{3}; \\frac{2}{3}\\right) \\text{nên } a = -\\frac{1}{3}; b = \\frac{2}{3}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      779,
+      550,
+      866
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } b - a = \\frac{2}{3} - \\left(-\\frac{1}{3}\\right) = 1.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      871,
+      1372,
+      923
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một công ty sản xuất mỹ phẩm ước tính chi phí để sản xuất $x$ (sản phẩm) là"
+  },
+  {
+    "bbox": [
+      623,
+      936,
+      1069,
+      987
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = 300x + 50 \\text{ (nghìn đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1013,
+      1467,
+      1150
+    ],
+    "category": "Text",
+    "text": "Khi đó $f(x) = \\frac{C(x)}{x}$ là chi phí sản xuất trung bình cho mỗi sản phẩm. Hỏi chi phí sản xuất trung bình cho mỗi sản phẩm không thấp hơn bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      782,
+      1164,
+      906,
+      1207
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      1222,
+      371,
+      1265
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 300."
+  },
+  {
+    "bbox": [
+      153,
+      1281,
+      884,
+      1364
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f(x) = \\frac{300x + 50}{x}, x \\in \\mathbb{N}^* \\Leftrightarrow f(x) = 300 + \\frac{50}{x}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1384,
+      1533,
+      1513
+    ],
+    "category": "Text",
+    "text": "Thấy $f'(x) = -\\frac{50}{x^2} < 0, \\forall x \\neq 0 \\Rightarrow$ Hàm số $f(x)$ luôn nghịch biến (giảm) trên mỗi khoảng xác định. Do đó chi phí sản xuất trung bình cho mỗi sản phẩm sẽ giảm khi số lượng sản phẩm tăng."
+  },
+  {
+    "bbox": [
+      153,
+      1526,
+      999,
+      1617
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\lim_{x \\to +\\infty} f(x) = \\lim_{x \\to +\\infty} \\left( 300 + \\frac{50}{x} \\right) = \\lim_{x \\to +\\infty} 300 + \\lim_{x \\to +\\infty} \\frac{50}{x} = 300.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1634,
+      1408,
+      1685
+    ],
+    "category": "Text",
+    "text": "Do đó chi phí sản xuất trung bình cho mỗi sản phẩm không thấp hơn 300 (nghìn đồng)"
+  },
+  {
+    "bbox": [
+      153,
+      1689,
+      1533,
+      1946
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{2x - 1}{x + 1}$ có đồ thị $(C)$ và $I$ là giao điểm của hai đường tiệm cận. Giả sử $M(x_0; y_0)$ là điểm trên đồ thị $(C)$ có hoành độ dương sao cho tiếp tuyến tại $M$ với $(C)$ cắt tiệm cận đứng và tiệm cận ngang lần lượt tại hai điểm $A, B$ thỏa mãn $IA^2 + IB^2 = 40$. Tính giá trị của biểu thức $P = x_0^2 + y_0^2 + x_0y_0$ ?"
+  },
+  {
+    "bbox": [
+      153,
+      1957,
+      278,
+      1999
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      162,
+      2011,
+      1446,
+      2097
+    ],
+    "category": "Text",
+    "text": "Đồ thị $(C)$: $y = \\frac{2x - 1}{x + 1}$ có tiệm cận đứng $x = -1$ và tiệm cận ngang $y = 2$ nên $I(-1; 2)$."
+  },
+  {
+    "bbox": [
+      153,
+      2106,
+      759,
+      2210
+    ],
+    "category": "Text",
+    "text": "Vì $M \\in (C)$ nên $M\\left(x_0; \\frac{2x_0 - 1}{x_0 + 1}\\right)$, $(x_0 > 0)$"
+  },
+  {
+    "bbox": [
+      1515,
+      2243,
+      1533,
+      2272
+    ],
+    "category": "Page-footer",
+    "text": "5"
+  }
+]

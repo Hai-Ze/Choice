@@ -1,0 +1,130 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      678,
+      112,
+      1105,
+      670
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      682,
+      846,
+      762
+    ],
+    "category": "Text",
+    "text": "Thể tích của hộp $V = \\pi r^2 h = 330 \\Rightarrow h = \\frac{330}{\\pi r^2}$."
+  },
+  {
+    "bbox": [
+      212,
+      768,
+      634,
+      812
+    ],
+    "category": "Text",
+    "text": "Diện tích toàn phần của hộp"
+  },
+  {
+    "bbox": [
+      218,
+      815,
+      929,
+      1225
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\nS &= 2\\pi r^2 + 2\\pi rh \\\\\n&= 2\\pi r^2 + 2\\pi r \\cdot \\frac{330}{\\pi r^2} \\\\\n&= 2\\pi r^2 + 2 \\cdot \\frac{330}{r} \\\\\n&= 2\\pi r^2 + \\frac{330}{r} + \\frac{330}{r} \\\\\n&\\geq 3\\sqrt[3]{2\\pi r^2 \\cdot \\frac{330}{r} \\cdot \\frac{330}{r}} = 3\\sqrt[3]{2\\pi(330)^2} \\approx 364,36(\\text{cm}^2)\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1234,
+      1574,
+      1279
+    ],
+    "category": "Text",
+    "text": "Chi phí nhỏ nhất khi diện tích toàn phần của hộp là nhỏ nhất, điều này xảy ra khi"
+  },
+  {
+    "bbox": [
+      218,
+      1281,
+      786,
+      1361
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\pi r^2 = \\frac{330}{r} \\Leftrightarrow r^3 = \\frac{330}{2\\pi} \\Leftrightarrow r \\approx 3,74 (\\text{cm}).\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1366,
+      1574,
+      1545
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Viên gạch men dùng để lát nền nhà là một hình vuông có cạnh bằng 80 cm (xem hình bên dưới). Mỗi viên gạch có 4 bông hoa, mỗi bông hoa gồm 4信杆. Mỗi信杆 (phần màu xanh) là phần giao nhau của hai hình tròn có cùng bán kính và khoảng cách giữa hai tâm là $20\\sqrt{2}$ cm."
+  },
+  {
+    "bbox": [
+      627,
+      1547,
+      1155,
+      2062
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      2067,
+      1574,
+      2157
+    ],
+    "category": "Text",
+    "text": "Ước tính ở công đoạn tráng men, phần màu xanh có chi phí 50 nghìn đồng trên một mét vuông, còn phần màu trắng có chi phí 30 nghìn đồng trên một mét vuông. Tính chi phí (đơn"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1517,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

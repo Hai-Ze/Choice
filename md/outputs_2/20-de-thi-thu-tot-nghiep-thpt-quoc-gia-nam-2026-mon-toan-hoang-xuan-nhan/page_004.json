@@ -1,0 +1,381 @@
+[
+  {
+    "bbox": [
+      91,
+      64,
+      747,
+      164
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nếu $\\int_{-1}^{2} f(x)dx = 5$ thì $\\int_{-1}^{2} 4f(x)dx$ bằng:"
+  },
+  {
+    "bbox": [
+      216,
+      186,
+      314,
+      222
+    ],
+    "category": "List-item",
+    "text": "A. 20."
+  },
+  {
+    "bbox": [
+      568,
+      186,
+      661,
+      222
+    ],
+    "category": "List-item",
+    "text": "B. 10."
+  },
+  {
+    "bbox": [
+      920,
+      168,
+      1008,
+      248
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      1273,
+      168,
+      1357,
+      248
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      91,
+      258,
+      1235,
+      308
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho dãy số $(u_n)$ thoả mãn $u_1 = 2; u_{n+1} = 3u_n, \\forall n \\in \\mathbb{N}^*$. Giá trị của $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      216,
+      338,
+      296,
+      374
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      568,
+      319,
+      652,
+      399
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      920,
+      338,
+      1015,
+      374
+    ],
+    "category": "List-item",
+    "text": "C. 18."
+  },
+  {
+    "bbox": [
+      1273,
+      338,
+      1367,
+      374
+    ],
+    "category": "List-item",
+    "text": "D. 12."
+  },
+  {
+    "bbox": [
+      91,
+      408,
+      920,
+      463
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Hàm số $y = \\sqrt{-x^2 + 2x}$ đồng biến trên khoảng nào?"
+  },
+  {
+    "bbox": [
+      216,
+      471,
+      353,
+      517
+    ],
+    "category": "List-item",
+    "text": "A. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      568,
+      471,
+      705,
+      517
+    ],
+    "category": "List-item",
+    "text": "B. $(1; 2)$."
+  },
+  {
+    "bbox": [
+      920,
+      471,
+      1087,
+      517
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      1273,
+      471,
+      1447,
+      517
+    ],
+    "category": "List-item",
+    "text": "D. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      91,
+      535,
+      1103,
+      621
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $y = \\frac{x^2 - 3x + 4}{x+1}$. Tiệm cận đứng của đồ thị hàm số là:"
+  },
+  {
+    "bbox": [
+      216,
+      627,
+      344,
+      663
+    ],
+    "category": "List-item",
+    "text": "A. $y = 1$."
+  },
+  {
+    "bbox": [
+      568,
+      627,
+      711,
+      663
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      920,
+      627,
+      1046,
+      663
+    ],
+    "category": "List-item",
+    "text": "C. $x = 1$."
+  },
+  {
+    "bbox": [
+      1273,
+      627,
+      1418,
+      663
+    ],
+    "category": "List-item",
+    "text": "D. $y = -1$."
+  },
+  {
+    "bbox": [
+      91,
+      671,
+      1592,
+      761
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Một người đã thống kê lại thời gian thực hiện các cuộc điện thoại của người đó trong một tuần ở bảng sau. Hãy tìm khoảng tức phân vị của mẫu số liệu ghép nhóm này? Làm tròn kết quả đến hàng đơn vị."
+  },
+  {
+    "bbox": [
+      216,
+      761,
+      1447,
+      905
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (đơn vị: giây)</td><td>[0;60)</td><td>[60;120)</td><td>[120;180)</td><td>[180;240)</td><td>[240;300)</td><td>[300;360)</td></tr><tr><td>Số cuộc gọi</td><td>8</td><td>10</td><td>7</td><td>5</td><td>2</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      216,
+      907,
+      327,
+      943
+    ],
+    "category": "List-item",
+    "text": "A. 100."
+  },
+  {
+    "bbox": [
+      568,
+      907,
+      679,
+      943
+    ],
+    "category": "List-item",
+    "text": "B. 110."
+  },
+  {
+    "bbox": [
+      920,
+      907,
+      1033,
+      943
+    ],
+    "category": "List-item",
+    "text": "C. 116."
+  },
+  {
+    "bbox": [
+      1273,
+      907,
+      1379,
+      943
+    ],
+    "category": "List-item",
+    "text": "D. 130."
+  },
+  {
+    "bbox": [
+      91,
+      955,
+      1592,
+      1062
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Xét hình phẳng $(H)$ giới hạn bởi đồ thị các hàm số $y = x^2 - 4x + 4$, trục tung, trục hoành và đường thẳng $x = 3$. Tính thể tích khối tròn xoay khi quay hình $(H)$ quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      216,
+      1092,
+      314,
+      1128
+    ],
+    "category": "List-item",
+    "text": "A. 33."
+  },
+  {
+    "bbox": [
+      568,
+      1072,
+      666,
+      1152
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{33}{5}$."
+  },
+  {
+    "bbox": [
+      920,
+      1072,
+      1042,
+      1152
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{33\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      1273,
+      1092,
+      1385,
+      1128
+    ],
+    "category": "List-item",
+    "text": "D. $33\\pi$."
+  },
+  {
+    "bbox": [
+      533,
+      1201,
+      1169,
+      1247
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      91,
+      1290,
+      1250,
+      1419
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Dân của một thị trấn sau $t$ năm kể từ năm 2000 được mô tả bởi hàm số $N(t) = \\frac{25t+10}{t+5}, t \\ge 0$. Trong đó $N(t)$ được tính bằng nghìn người."
+  },
+  {
+    "bbox": [
+      1271,
+      1290,
+      1595,
+      1482
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      166,
+      1482,
+      1595,
+      1831
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các性能 đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Dân số của thị trấn đó năm 2000 là 2000 người.</td><td>☐</td><td>☐</td></tr><tr><td>b) Dân số của thị trấn đó năm 2015 là 19200 người.</td><td>☐</td><td>☐</td></tr><tr><td>c) Hàm số $N'(t) = \\frac{115}{(t+5)^2}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Dân số của thị trấn đó luôn tăng nhưng không vượt quá 25000 người.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      133,
+      2016,
+      506,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2016,
+      1443,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1545,
+      2020,
+      1564,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

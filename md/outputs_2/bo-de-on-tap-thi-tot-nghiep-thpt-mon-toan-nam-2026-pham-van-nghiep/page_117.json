@@ -1,0 +1,270 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      957,
+      162
+    ],
+    "category": "Text",
+    "text": "Vậy đường thẳng $\\Delta$ đi qua điểm có tọa độ $(3;1;-1)$"
+  },
+  {
+    "bbox": [
+      212,
+      173,
+      447,
+      215
+    ],
+    "category": "Text",
+    "text": "Suy ra **d) đúng**."
+  },
+  {
+    "bbox": [
+      74,
+      217,
+      1526,
+      312
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $y = f(x)$ xác định và có đạo hàm trên $\\mathbb{R}$. Hàm số $y = f'(x)$ có bảng biến thiên như dưới đây"
+  },
+  {
+    "bbox": [
+      342,
+      332,
+      1224,
+      581
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      588,
+      482,
+      646
+    ],
+    "category": "List-item",
+    "text": "a) $\\min_{[0;2]} f(x) = f(1)$."
+  },
+  {
+    "bbox": [
+      212,
+      654,
+      988,
+      706
+    ],
+    "category": "List-item",
+    "text": "b) Trên $[-2;2]$, hàm số đạt giá trị lớn nhất tại $x = 0$."
+  },
+  {
+    "bbox": [
+      212,
+      716,
+      1181,
+      767
+    ],
+    "category": "List-item",
+    "text": "c) $\\forall m \\ge f(-2)$, phương trình $f(x) = m$ luôn có nghiệm trên $[0;2]$."
+  },
+  {
+    "bbox": [
+      212,
+      777,
+      1194,
+      829
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của $g(x) = f(x) - \\sin^2 x$ trên đoạn $[-1;1]$ là $f(0)$."
+  },
+  {
+    "bbox": [
+      833,
+      840,
+      953,
+      880
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      382,
+      879,
+      1266,
+      929
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Sai</td><td>b) Đúng</td><td>c) Sai</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      276,
+      977,
+      1510,
+      1027
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên của hàm số $y = f'(x)$ ta suy ra bảng biến thiên của hàm số"
+  },
+  {
+    "bbox": [
+      526,
+      1074,
+      1515,
+      1436
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      238,
+      1441,
+      485,
+      1490
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) \\text{ như sau}\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      1503,
+      626,
+      1561
+    ],
+    "category": "List-item",
+    "text": "a) **Đúng**. Ta có: $\\min_{[0;2]} f(x) = f(2)$"
+  },
+  {
+    "bbox": [
+      212,
+      1570,
+      406,
+      1611
+    ],
+    "category": "Text",
+    "text": "Suy ra **a) sai**."
+  },
+  {
+    "bbox": [
+      163,
+      1614,
+      1052,
+      1657
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng**. Dựa vào bảng biến thiên của hàm số $y = f(x)$ ta có:"
+  },
+  {
+    "bbox": [
+      218,
+      1667,
+      452,
+      1728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\max_{[-2;2]} f(x) = f(0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1737,
+      447,
+      1779
+    ],
+    "category": "Text",
+    "text": "Suy ra **b) đúng**."
+  },
+  {
+    "bbox": [
+      163,
+      1781,
+      1573,
+      1882
+    ],
+    "category": "List-item",
+    "text": "c) **Sai**. Vì $f'(x) = a(x+2)x(x-2) = ax(x^2-4)$ nên $y = f(x)$ là hàm bậc bốn trùng phương $\\Rightarrow f(-2) = f(2)$"
+  },
+  {
+    "bbox": [
+      212,
+      1890,
+      1408,
+      1941
+    ],
+    "category": "Text",
+    "text": "Phương trình $f(x) = m$ có nghiệm trên $[0;2] \\Leftrightarrow f(2) \\le m \\le f(0) \\Leftrightarrow f(-2) \\le m \\le f(0)$"
+  },
+  {
+    "bbox": [
+      212,
+      1953,
+      406,
+      1994
+    ],
+    "category": "Text",
+    "text": "Suy ra **c) sai**."
+  },
+  {
+    "bbox": [
+      163,
+      1998,
+      1048,
+      2111
+    ],
+    "category": "List-item",
+    "text": "d) **Đúng**. Ta có: $g(x) = f(x) - \\sin^2 x \\le f(x), \\forall x \\in [-1;1]$"
+  },
+  {
+    "bbox": [
+      212,
+      2118,
+      957,
+      2221
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta suy ra $f(x) \\le f(0), \\forall x \\in [-1;1] \\Rightarrow \\max_{[-1;1]} g(x) = f(0)$ đạt được khi $\\begin{cases} x = 0 \\\\ \\sin^2 x = 0 \\end{cases} \\Leftrightarrow x = 0$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

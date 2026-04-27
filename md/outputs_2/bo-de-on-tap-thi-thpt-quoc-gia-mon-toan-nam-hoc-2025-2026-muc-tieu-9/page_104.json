@@ -1,0 +1,209 @@
+[
+  {
+    "bbox": [
+      154,
+      138,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      135,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      614,
+      213,
+      1082,
+      717
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      764,
+      1400,
+      804
+    ],
+    "category": "Text",
+    "text": "Gọi $R_h = 10$ mm là độ dài kim giờ ($OA$) và $R_m = 15$ mm là độ dài kim phút ($OB$)."
+  },
+  {
+    "bbox": [
+      195,
+      816,
+      1000,
+      894
+    ],
+    "category": "List-item",
+    "text": "◇ Tốc độ góc của kim phút: $\\omega_m = \\frac{2\\pi}{60} = \\frac{\\pi}{30}$ (rad/phút)."
+  },
+  {
+    "bbox": [
+      195,
+      900,
+      1053,
+      979
+    ],
+    "category": "List-item",
+    "text": "◇ Tốc độ góc của kim giờ: $\\omega_h = \\frac{2\\pi}{12 \\times 60} = \\frac{\\pi}{360}$ (rad/phút)."
+  },
+  {
+    "bbox": [
+      154,
+      991,
+      766,
+      1034
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai kim tại thời điểm $t$ (phút) là:"
+  },
+  {
+    "bbox": [
+      480,
+      1042,
+      1217,
+      1120
+    ],
+    "category": "Formula",
+    "text": "$$\n\\theta(t) = |(\\omega_m - \\omega_h)t| = \\left|\\left(\\frac{\\pi}{30} - \\frac{\\pi}{360}\\right)t\\right| = \\frac{11\\pi}{360}t \\text{ (rad).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1123,
+      886,
+      1162
+    ],
+    "category": "Text",
+    "text": "Diện tích tam giác $OAB$ được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      310,
+      1169,
+      1386,
+      1250
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{\\triangle OAB} = \\frac{1}{2} \\cdot OA \\cdot OB \\cdot \\sin(\\theta(t)) = \\frac{1}{2} \\cdot 10 \\cdot 15 \\cdot \\sin\\left(\\frac{11\\pi}{360}t\\right) = 75 \\sin\\left(\\frac{11\\pi}{360}t\\right).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1257,
+      980,
+      1298
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, ta cần tìm $t$ đầu tiên sao cho $S_{\\triangle OAB} = 37,5$:"
+  },
+  {
+    "bbox": [
+      472,
+      1308,
+      1227,
+      1390
+    ],
+    "category": "Formula",
+    "text": "$$\n75 \\sin\\left(\\frac{11\\pi}{360}t\\right) = 37,5 \\iff \\sin\\left(\\frac{11\\pi}{360}t\\right) = \\frac{37,5}{75} = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1395,
+      774,
+      1437
+    ],
+    "category": "Text",
+    "text": "Thời điểm $t$ đầu tiên ứng với góc nhỏ nhất:"
+  },
+  {
+    "bbox": [
+      544,
+      1444,
+      1156,
+      1523
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{11\\pi}{360}t = \\frac{\\pi}{6} \\implies t = \\frac{360}{11 \\cdot 6} = \\frac{60}{11} \\approx 5,4545\\dots\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1523,
+      914,
+      1565
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần chục, ta được $t \\approx 5,5$ phút."
+  },
+  {
+    "bbox": [
+      154,
+      1585,
+      1548,
+      1765
+    ],
+    "category": "Text",
+    "text": "### 88 **Bài 4.** Có tám người ngồi quanh một bàn tròn. Mỗi người được đưa cho một đồng xu cân đối và đồng chất. Cả tám người cùng tung đồng xu của mình, ai tung được mặt ngửa thì đứng dậy, còn ai tung được mặt sấp thì vẫn ngồi yên. Biết rằng xác suất để không có hai người đứng cạnh nhau là $\\frac{a}{b}$ ($\\frac{a}{b}$ là phân số tối简, $a, b \\in \\mathbb{N}^*$). Tính $a^2 + b$."
+  },
+  {
+    "bbox": [
+      154,
+      1779,
+      198,
+      1816
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      1778,
+      439,
+      1841
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      154,
+      1781,
+      1548,
+      1881
+    ],
+    "category": "Text",
+    "text": "Vì mỗi người đều có 2 TH xảy ra là đứng hoặc ngồi nên số phần tử của không gian mẫu là $n(\\Omega) = 2^8 = 256$."
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "104"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

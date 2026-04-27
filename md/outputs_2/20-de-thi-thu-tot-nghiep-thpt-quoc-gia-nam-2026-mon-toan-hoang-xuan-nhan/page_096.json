@@ -1,0 +1,118 @@
+[
+  {
+    "bbox": [
+      102,
+      183,
+      1261,
+      320
+    ],
+    "category": "List-item",
+    "text": "**Câu 14.** Một túi chứa ba **đồng xu công bằng** (fair coin - tức đồng xu có đủ hai mặt sấp ngửa) và một **đồng xu có hai mặt ngửa** (double-headed coin). Một đồng xu được chọn ngẫu nhiên từ túi và được gieo để xem mặt hiện ra là ngửa hay sấp."
+  },
+  {
+    "bbox": [
+      1284,
+      203,
+      1597,
+      397
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      397,
+      1597,
+      930
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Xác suất để đồng xu công bằng được chọn và mặt sấp xuất hiện bằng $\\frac{1}{2}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Xác suất xuất hiện mặt ngửa bằng $\\frac{5}{8}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Nếu biết mặt ngửa đã xuất hiện, xác suất đồng xu có hai mặt ngửa đã được chọn bằng $\\frac{3}{5}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Nếu gieo đồng xu lần đầu xuất hiện mặt ngửa, xác suất để khi gieo đồng xu đó lần thứ hai vẫn xuất hiện mặt ngửa bằng $\\frac{7}{10}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      91,
+      1182,
+      1239,
+      1338
+    ],
+    "category": "List-item",
+    "text": "**Câu 15.** Khi đun nước, nhiệt độ ban đầu của nước trong ấm là 20°C và nó tăng dần với tốc độ $T'_{1} = 75e^{-t}$ (°C / phút), $t \\ge 0$; trong đó $t$ (phút) là thời gian tính từ lúc batch được basic lên."
+  },
+  {
+    "bbox": [
+      216,
+      1338,
+      1239,
+      1510
+    ],
+    "category": "Text",
+    "text": "Khi nước trong ấm đạt 85°C, thì batch được tắt đi; nhiệt độ (°C) của nước trong ấm lúc này được xác định theo công thức $T_{2} = 15 + ae^{-\\frac{t}{20}}$, ($t \\ge 0$), trong đó $a$ là hằng số và $t$ (phút) là thời gian tính từ lúc tắt batch."
+  },
+  {
+    "bbox": [
+      1258,
+      1200,
+      1597,
+      1532
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1532,
+      1597,
+      1897
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) $T_{1} = -75e^{-t} + 95$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Giá trị của $a$ bằng 75.</td><td>☐</td><td>☐</td></tr><tr><td>c) Sau khoảng 125 giây (làm tròn kết quả đến hàng đơn vị) kể từ lúc basic batch thì nước trong ấm đạt 85°C.</td><td>☐</td><td>☐</td></tr><tr><td>d) Sau khoảng 21 phút (làm tròn kết quả đến hàng đơn vị) kể từ lúc basic batch thì nhiệt độ của nước trong ấm giảm xuống tới 40°C.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      165,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      506,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1142,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      2017,
+      1442,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2021,
+      1563,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

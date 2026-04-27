@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1496,
+      329
+    ],
+    "category": "Text",
+    "text": "sản phẩm được biểu diễn bởi công thức $P(x) = 50 - 0,001x^2$ (triệu đồng). Chi phí đề A sản xuất $x$ tấn sản phẩm trong một tháng là $C(x) = 95 + 35x$ (triệu đồng). Hỏi lợi nhuận lớn nhất nhà máy A có thể thu được trong một tháng khi bán hàng cho nhà máy B là bao nhiêu triệu đồng (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      75,
+      346,
+      415,
+      384
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      405,
+      843,
+      444
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      462,
+      258,
+      501
+    ],
+    "category": "Text",
+    "text": "Đáp án: 612"
+  },
+  {
+    "bbox": [
+      75,
+      515,
+      1289,
+      562
+    ],
+    "category": "Text",
+    "text": "Doanh thu trong một tháng của nhà máy A khi cung cấp $x$ tấn sản phẩm cho nhà máy B là:"
+  },
+  {
+    "bbox": [
+      82,
+      582,
+      763,
+      636
+    ],
+    "category": "Formula",
+    "text": "$$\nD(x) = x \\cdot P(x) = x \\cdot (50 - 0,001x^2) = -0,001x^3 + 50x\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      659,
+      1148,
+      701
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận nhà máy A thu được trong một tháng khi bán hàng cho nhà máy B là:"
+  },
+  {
+    "bbox": [
+      82,
+      722,
+      717,
+      763
+    ],
+    "category": "Formula",
+    "text": "$$\nL(x) = D(x) - C(x) = -0,001x^3 + 50x - 95 - 35x\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      790,
+      442,
+      831
+    ],
+    "category": "Formula",
+    "text": "$$\nL(x) = -0,001x^3 + 15x - 95\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      856,
+      725,
+      971
+    ],
+    "category": "Text",
+    "text": "Ta có: $L'(x) = -0,003x^2 + 15 = 0 \\Leftrightarrow \\begin{cases} x = 50\\sqrt{2} \\\\ x = -50\\sqrt{2} \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      993,
+      1496,
+      1112
+    ],
+    "category": "Text",
+    "text": "Do $x \\in [0;100]$ nên $x = 50\\sqrt{2}$ thì $L(x)$ đạt giá trị lớn nhất. Khi đó, lợi nhuận lớn nhất nhà máy A có thể thu được trong một tháng khi bán hàng cho nhà máy B là:"
+  },
+  {
+    "bbox": [
+      82,
+      1127,
+      643,
+      1179
+    ],
+    "category": "Formula",
+    "text": "$$\nL(50\\sqrt{2}) = 500\\sqrt{2} - 95 \\approx 612 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1256,
+      1496,
+      1535
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một đợt dã ngoại, một trường học cần thuê xe chở 140 người và 9 tấn hàng. Nơi thuê xe có hai loại xe A và B, trong đó xe A có 10 chiếc và xe B có 9 chiếc. Một xe loại A cho thuê với giá 4 triệu đồng và một xe loại B cho thuê với giá 3 triệu đồng. Biết rằng mỗi xe loại A có thể chở tối đa 20 người và 0,6 tấn hàng, mỗi xe loại B có thể chở tối đa 10 người và 1,5 tấn hàng. Gọi $a$ là số xe loại A và $b$ là số xe loại B được thuê sao cho chi phí thuê là thấp nhất. Tính $2a - b$."
+  },
+  {
+    "bbox": [
+      75,
+      1552,
+      415,
+      1589
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1612,
+      843,
+      1651
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1668,
+      224,
+      1707
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6"
+  },
+  {
+    "bbox": [
+      75,
+      1728,
+      1365,
+      1777
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ lần lượt là số xe loại A và B. Khi đó, số tiền cần bỏ ra để thuê xe là $f(x; y) = 4x + 3y$"
+  },
+  {
+    "bbox": [
+      75,
+      1798,
+      1451,
+      1907
+    ],
+    "category": "Text",
+    "text": "Ta có $x$ xe loại A chở được $20x$ người và $0,6x$ tấn hàng; $y$ xe loại B chở được $10y$ người và $1,5y$ tấn hàng."
+  },
+  {
+    "bbox": [
+      75,
+      1922,
+      1271,
+      1968
+    ],
+    "category": "Text",
+    "text": "Suy ra $x$ xe loại A và $y$ xe loại B chở được $20x + 10y$ người và $0,6x + 1,5y$ tấn hàng."
+  },
+  {
+    "bbox": [
+      75,
+      1988,
+      1024,
+      2187
+    ],
+    "category": "Text",
+    "text": "Ta có hệ bất phương trình sau: $$ \\begin{cases} 20x + 10y \\ge 140 \\\\ 0,6x + 1,5y \\ge 9 \\\\ 0 \\le x \\le 10 \\\\ 0 \\le y \\le 9 \\end{cases} \\Leftrightarrow \\begin{cases} 2x + y \\ge 14 \\\\ 2x + 5y \\ge 30 \\\\ 0 \\le x \\le 10 \\\\ 0 \\le y \\le 9 \\end{cases} (*) $$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

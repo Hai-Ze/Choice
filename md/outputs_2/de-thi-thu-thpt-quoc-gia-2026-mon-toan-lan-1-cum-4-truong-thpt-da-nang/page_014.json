@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      694,
+      89,
+      1080,
+      424
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      297,
+      437,
+      966,
+      486
+    ],
+    "category": "Text",
+    "text": "a) Độ dài cạnh đáy của cái套p là $(12-2x)(cm)$."
+  },
+  {
+    "bbox": [
+      297,
+      496,
+      1176,
+      547
+    ],
+    "category": "Text",
+    "text": "b) Thể tích cái套p được tính theo công thức $V(x) = 4x^3 + 144x$."
+  },
+  {
+    "bbox": [
+      297,
+      558,
+      1076,
+      608
+    ],
+    "category": "Text",
+    "text": "c) Đạo hàm của hàm thể tích là $V'(x) = 12x^2 - 96x + 144$."
+  },
+  {
+    "bbox": [
+      297,
+      612,
+      858,
+      657
+    ],
+    "category": "Text",
+    "text": "d) Cái套p có thể tích lớn nhất khi $x = 2$."
+  },
+  {
+    "bbox": [
+      902,
+      657,
+      1018,
+      696
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      297,
+      701,
+      865,
+      742
+    ],
+    "category": "Text",
+    "text": "a) độ dài cạnh đáy của cái套p là $12-2x$."
+  },
+  {
+    "bbox": [
+      297,
+      742,
+      492,
+      786
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      297,
+      794,
+      910,
+      846
+    ],
+    "category": "Text",
+    "text": "b) $V = S.h = (12-2x)^2 \\cdot x = 4x^3 - 48x^2 + 144x$."
+  },
+  {
+    "bbox": [
+      297,
+      859,
+      450,
+      898
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      297,
+      905,
+      673,
+      955
+    ],
+    "category": "Text",
+    "text": "c) $V'(x) = 12x^2 - 96x + 144$"
+  },
+  {
+    "bbox": [
+      297,
+      964,
+      485,
+      1008
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      297,
+      1012,
+      1378,
+      1109
+    ],
+    "category": "Text",
+    "text": "d) Ta có $V' = 12x^2 - 96x + 144$. Do đó $V' = 0 \\Leftrightarrow 12x^2 - 96x + 144 = 0 \\Leftrightarrow \\begin{cases} x = 2 \\\\ x = 6 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      297,
+      1149,
+      1485,
+      1198
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên, ta được $V_{max}$ khi $x = 2$. vậy để thể tích套p lớn nhất thì $x = 2$ cm."
+  },
+  {
+    "bbox": [
+      297,
+      1228,
+      492,
+      1272
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      159,
+      1276,
+      1101,
+      1321
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho tức diện đều $ABCD$, gọi $M$ là trung điểm của cạnh $BC$."
+  },
+  {
+    "bbox": [
+      297,
+      1351,
+      1478,
+      1398
+    ],
+    "category": "Text",
+    "text": "a) Có 4 vecto có điểm đầu là $A$ và điểm cuối là một trong các định còn lại của tức diện."
+  },
+  {
+    "bbox": [
+      297,
+      1424,
+      577,
+      1465
+    ],
+    "category": "Text",
+    "text": "b) $\\overline{AB} + \\overline{AD} = 2\\overline{AM}$."
+  },
+  {
+    "bbox": [
+      297,
+      1492,
+      1623,
+      1580
+    ],
+    "category": "Text",
+    "text": "c) Gọi $G$ là trọng tâm tam giác $BCD$ và $I$ là điểm thuộc đoạn thẳng $AG$ sao cho $\\overline{AI} = 3\\overline{IG}$. Khi đó $\\overline{IA} + \\overline{IB} + \\overline{IC} + \\overline{ID} = \\overline{0}$."
+  },
+  {
+    "bbox": [
+      297,
+      1611,
+      618,
+      1708
+    ],
+    "category": "Text",
+    "text": "d) $\\cos(AB, DM) = \\frac{\\sqrt{3}}{6}$."
+  },
+  {
+    "bbox": [
+      776,
+      1738,
+      1005,
+      1781
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải"
+  }
+]

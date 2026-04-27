@@ -1,0 +1,370 @@
+[
+  {
+    "bbox": [
+      665,
+      115,
+      1096,
+      440
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      342,
+      454,
+      1017,
+      499
+    ],
+    "category": "Text",
+    "text": "Tập giá trị của hàm số $y = f(x)$ trên đoạn $[-1;5]$ là"
+  },
+  {
+    "bbox": [
+      342,
+      529,
+      476,
+      567
+    ],
+    "category": "List-item",
+    "text": "A. $[-1;5]$."
+  },
+  {
+    "bbox": [
+      661,
+      529,
+      765,
+      567
+    ],
+    "category": "List-item",
+    "text": "B. $[1;3]$."
+  },
+  {
+    "bbox": [
+      958,
+      529,
+      1089,
+      567
+    ],
+    "category": "List-item",
+    "text": "C. $[-1;3]$."
+  },
+  {
+    "bbox": [
+      1255,
+      529,
+      1363,
+      567
+    ],
+    "category": "List-item",
+    "text": "D. $[1;5]$."
+  },
+  {
+    "bbox": [
+      212,
+      579,
+      1520,
+      657
+    ],
+    "category": "List-item",
+    "text": "Câu 9. Mỗi ngày bác Bình đều đi bộ để rèn luyện sức khoẻ. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Bình trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      286,
+      655,
+      1353,
+      754
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quảng đường</td><td>$[2,7;3,0)$</td><td>$[3,0;3,3)$</td><td>$[3,3;3,6)$</td><td>$[3,6;3,9)$</td><td>$[3,9;4,2)$</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      275,
+      752,
+      990,
+      792
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên bằng"
+  },
+  {
+    "bbox": [
+      350,
+      814,
+      447,
+      847
+    ],
+    "category": "List-item",
+    "text": "A. 1,2."
+  },
+  {
+    "bbox": [
+      661,
+      814,
+      793,
+      847
+    ],
+    "category": "List-item",
+    "text": "B. 0,362."
+  },
+  {
+    "bbox": [
+      958,
+      814,
+      1073,
+      847
+    ],
+    "category": "List-item",
+    "text": "C. 3,39."
+  },
+  {
+    "bbox": [
+      1255,
+      814,
+      1353,
+      847
+    ],
+    "category": "List-item",
+    "text": "D. 1,5."
+  },
+  {
+    "bbox": [
+      212,
+      867,
+      1485,
+      960
+    ],
+    "category": "List-item",
+    "text": "Câu 10. Trong không gian $Oxyz$, cho hai điểm $A(1;1;2)$ và $B(3;1;0)$. Trung điểm của đoạn thẳng $AB$ có toạ độ là"
+  },
+  {
+    "bbox": [
+      342,
+      978,
+      476,
+      1015
+    ],
+    "category": "List-item",
+    "text": "A. $(2;1;1)$."
+  },
+  {
+    "bbox": [
+      661,
+      978,
+      802,
+      1015
+    ],
+    "category": "List-item",
+    "text": "B. $(4;2;2)$."
+  },
+  {
+    "bbox": [
+      958,
+      978,
+      1128,
+      1015
+    ],
+    "category": "List-item",
+    "text": "C. $(2;0;-2)$."
+  },
+  {
+    "bbox": [
+      1255,
+      978,
+      1420,
+      1015
+    ],
+    "category": "List-item",
+    "text": "D. $(1;0;-1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1051,
+      1094,
+      1134
+    ],
+    "category": "List-item",
+    "text": "Câu 11. Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{x^2 + 2x - 2}{x - 2}$ là"
+  },
+  {
+    "bbox": [
+      342,
+      1154,
+      547,
+      1188
+    ],
+    "category": "List-item",
+    "text": "A. $y = -x + 3$."
+  },
+  {
+    "bbox": [
+      661,
+      1154,
+      841,
+      1188
+    ],
+    "category": "List-item",
+    "text": "B. $y = x + 3$."
+  },
+  {
+    "bbox": [
+      958,
+      1154,
+      1138,
+      1188
+    ],
+    "category": "List-item",
+    "text": "C. $y = x - 3$."
+  },
+  {
+    "bbox": [
+      1255,
+      1154,
+      1440,
+      1188
+    ],
+    "category": "List-item",
+    "text": "D. $y = x + 4$."
+  },
+  {
+    "bbox": [
+      212,
+      1203,
+      1522,
+      1302
+    ],
+    "category": "List-item",
+    "text": "Câu 12. Trong không gian $Oxyz$, cho điểm $A(-3;1;-4)$, $B(1;-5;2)$. Đường thẳng $AB$ cắt mặt phẳng $(Oxy)$ tại điểm"
+  },
+  {
+    "bbox": [
+      342,
+      1332,
+      581,
+      1405
+    ],
+    "category": "List-item",
+    "text": "A. $M(-\\frac{1}{3};-3;0)$."
+  },
+  {
+    "bbox": [
+      661,
+      1332,
+      838,
+      1405
+    ],
+    "category": "List-item",
+    "text": "B. $N(\\frac{1}{3};3;0)$."
+  },
+  {
+    "bbox": [
+      958,
+      1349,
+      1122,
+      1386
+    ],
+    "category": "List-item",
+    "text": "C. $P(0;3;1)$."
+  },
+  {
+    "bbox": [
+      1255,
+      1349,
+      1440,
+      1386
+    ],
+    "category": "List-item",
+    "text": "D. $Q(-3;1;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1420,
+      1487,
+      1498
+    ],
+    "category": "Text",
+    "text": "PHẦN 2. (4,0 điểm, mỗi câu 1 điểm) Trắc nghiệm đúng - sai. (Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c) d) ở mỗi câu, thí sinh chọn đúng hoặc sai)."
+  },
+  {
+    "bbox": [
+      212,
+      1494,
+      1171,
+      1536
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và có bảng biến thiên như sau."
+  },
+  {
+    "bbox": [
+      595,
+      1558,
+      1239,
+      1828
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      306,
+      1840,
+      990,
+      1881
+    ],
+    "category": "List-item",
+    "text": "a) Đồ thị hàm số đã cho có hai đường tiệm cận ngang."
+  },
+  {
+    "bbox": [
+      306,
+      1888,
+      1013,
+      1930
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị nhỏ nhất của hàm số trên $(-\\infty;+\\infty)$ bằng 8."
+  },
+  {
+    "bbox": [
+      306,
+      1941,
+      741,
+      1982
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đồng biến trên $(8;38)$."
+  },
+  {
+    "bbox": [
+      306,
+      2005,
+      922,
+      2047
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số trên $\\mathbb{R}$ bằng 142."
+  },
+  {
+    "bbox": [
+      212,
+      2106,
+      715,
+      2142
+    ],
+    "category": "Page-footer",
+    "text": "ĐỀ ĐGĐK – MÔN TOÁN 12(09/11/2025)"
+  },
+  {
+    "bbox": [
+      1210,
+      2106,
+      1514,
+      2142
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 – Mã đề 0911"
+  }
+]

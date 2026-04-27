@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1496,
+      402
+    ],
+    "category": "Text",
+    "text": "20 km/h. Hai giây sau đó, xe máy bắt đầu giảm tốc với vận tốc $v_1(t) = at + b$ (m/s) ($a, b \\in \\mathbb{R}, a < 0$), trong đó $t$ là thời gian tính bằng giây kể từ khi xe bắt đầu giảm tốc độ. Khi xe máy vừa đến vị trí đặt biển báo thì tốc độ của xe máy bằng 18 km/h và giữ vận tốc $v_2(t_1) = mt_1 + n$, trong đó $t_1$ là thời gian tính bằng giây kể từ khi xe máy vừa ra khỏi công trường. Biết rằng đúng 4 giây sau khi tăng tốc, xe máy đạt vận tốc 54 km/h."
+  },
+  {
+    "bbox": [
+      75,
+      421,
+      1445,
+      467
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường máy đi xe được từ khi phát hiện biển báo giới hạn tốc độ đến khi giảm tốc độ là 20 m"
+  },
+  {
+    "bbox": [
+      75,
+      489,
+      213,
+      528
+    ],
+    "category": "Text",
+    "text": "b) $b = 15$."
+  },
+  {
+    "bbox": [
+      75,
+      543,
+      1280,
+      590
+    ],
+    "category": "Text",
+    "text": "c) Xe máy đến đến vị trí đặt biển báo tốc độ tối đa cho phép sau 4 giây kể từ khi giảm tốc."
+  },
+  {
+    "bbox": [
+      75,
+      604,
+      1272,
+      650
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường xe máy đi được kể từ khi tăng tốc đến khi đạt vận tốc 54 km/h là 44 m."
+  },
+  {
+    "bbox": [
+      727,
+      673,
+      844,
+      713
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      726,
+      894,
+      850
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      909,
+      927,
+      952
+    ],
+    "category": "Text",
+    "text": "Ta có $36 \\text{ km/h} = 10 \\text{ m/s}$, $20 \\text{ km/h} = 5,56 \\text{ m/s}$, $18 \\text{ km/h} = 5 \\text{ m/s}$"
+  },
+  {
+    "bbox": [
+      75,
+      976,
+      1384,
+      1024
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường xe máy đi được từ khi phát hiện biển báo đến khi giảm tốc độ là $2 \\cdot 10 = 20$ (m/s)."
+  },
+  {
+    "bbox": [
+      75,
+      1050,
+      997,
+      1101
+    ],
+    "category": "Text",
+    "text": "b) Khi xe bắt đầu giảm tốc $t = 0$, ta có $v_1(0) = a \\cdot 0 + b = 10 \\Rightarrow b = 10$."
+  },
+  {
+    "bbox": [
+      75,
+      1122,
+      1494,
+      1229
+    ],
+    "category": "Text",
+    "text": "c) At thời điểm $t$, xe đến vị trí đặt biển báo, vận tốc của xe là $18 \\text{ km/h} = 5 \\text{ m/s}$ nên ta có: $at + 10 = 5 \\Rightarrow at = -5$."
+  },
+  {
+    "bbox": [
+      75,
+      1251,
+      1494,
+      1423
+    ],
+    "category": "Text",
+    "text": "Quăng đường đi được từ khi giảm tốc đến khi gặp biển báo là $50 - 20 = 30$ (m), nên ta có $\\int_{0}^{t} (at + 10) dt = \\frac{at^2}{2} + 10t = 30$, thay $at = -5$ ta có $t = 4$ (s)."
+  },
+  {
+    "bbox": [
+      75,
+      1449,
+      432,
+      1493
+    ],
+    "category": "Text",
+    "text": "d) Ta có $54 \\text{ km/h} = 15 \\text{ m/s}$"
+  },
+  {
+    "bbox": [
+      75,
+      1517,
+      951,
+      1566
+    ],
+    "category": "Formula",
+    "text": "$$\nv_2(0) = m \\cdot 0 + n = 5 \\Rightarrow n = 5, \\text{ ta có } v_2(4) = 4m + 5 = 15 \\Rightarrow m = 2,5\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1593,
+      398,
+      1641
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } v_2(t_1) = 2,5t_1 + 5\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1665,
+      1488,
+      1764
+    ],
+    "category": "Text",
+    "text": "Quăng đường xe máy đi được kể từ khi tăng tốc đến khi đạt vận tốc 54 km/h là $\\int_{0}^{4} (2,5t_1 + 5) dt_1 = 40$ (m)."
+  },
+  {
+    "bbox": [
+      75,
+      1790,
+      1402,
+      1873
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, cho $A(0;0;2)$, $B(1;1;0)$ và mặt cầu $(S): x^2 + y^2 + (z-1)^2 = \\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      75,
+      1897,
+      797,
+      1979
+    ],
+    "category": "Text",
+    "text": "a) Мặt cầu $(S)$ có tâm $I(0; 0; 1)$ và bán kính $R = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      75,
+      1999,
+      565,
+      2048
+    ],
+    "category": "Text",
+    "text": "b)úp A nằm ngoài mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      75,
+      2076,
+      1011,
+      2129
+    ],
+    "category": "Text",
+    "text": "c) Phương trình mặt cầu tâm $A$ và đi qua $B$ là: $x^2 + y^2 + (z-2)^2 = 4$"
+  },
+  {
+    "bbox": [
+      75,
+      2156,
+      1236,
+      2238
+    ],
+    "category": "Text",
+    "text": "d)úp M thay đổi thuộc $(S)$, giá trị nhỏ nhất của biểu thức $MA^2 + 2MB^2$ bằng $\\frac{15}{4}$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      93,
+      1414,
+      137
+    ],
+    "category": "Text",
+    "text": "Chi phí thiết lập mỗi máy là 250 nghìn đồng nên chi phí thiết lập $x$ máy là $250x$ nghìn đồng."
+  },
+  {
+    "bbox": [
+      155,
+      150,
+      1500,
+      197
+    ],
+    "category": "Text",
+    "text": "Do mỗi máy sản xuất trong 1h được 36 quả bóng rổ nên $x$ máy trong 1h sẽ sản xuất được $36x$ quả."
+  },
+  {
+    "bbox": [
+      155,
+      216,
+      855,
+      299
+    ],
+    "category": "Text",
+    "text": "Để sản xuất 9000 quả bóng thì cần $\\frac{9000}{36x} = \\frac{250}{x}$ (h)."
+  },
+  {
+    "bbox": [
+      155,
+      316,
+      1571,
+      362
+    ],
+    "category": "Text",
+    "text": "Chi phí trả cho người giám sát là 225 nghìn đồng 1h nên chi phí cần trả cho người giám sát là:"
+  },
+  {
+    "bbox": [
+      162,
+      381,
+      446,
+      463
+    ],
+    "category": "Formula",
+    "text": "$$\n225 \\cdot \\frac{250}{x} \\text{ nghìn đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      486,
+      1172,
+      569
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí phải trả đề sản xuất 9000 quả bóng là: $f(x) = 250x + \\frac{225 \\cdot 250}{x}$"
+  },
+  {
+    "bbox": [
+      155,
+      590,
+      1032,
+      687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f'(x) = 250 - \\frac{225 \\cdot 250}{x^2} = \\frac{250x^2 - 225 \\cdot 250}{x^2} = 0 \\Leftrightarrow \\begin{cases} x = -15 \\\\ x = 15 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      711,
+      234,
+      746
+    ],
+    "category": "Text",
+    "text": "BBT:"
+  },
+  {
+    "bbox": [
+      416,
+      772,
+      1307,
+      1090
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>1</td><td>15</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td colspan=\"3\"></td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1105,
+      808,
+      1150
+    ],
+    "category": "Text",
+    "text": "Từ BBT ta có $f(x)$ đạt giá trị bé nhất tại $x = 15$."
+  },
+  {
+    "bbox": [
+      155,
+      1169,
+      1271,
+      1215
+    ],
+    "category": "Text",
+    "text": "Vậy số máy móc công ty cần sử dụng để chi phí hoạt động đạt mức thấp nhất là 15."
+  },
+  {
+    "bbox": [
+      155,
+      1228,
+      1575,
+      1619
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một phân xưởng có hai máy chuyên dụng I và II để sản xuất hai loại sản phẩm A, B theo đơn đặt hàng. Nếu sản xuất một tấn sản phẩm A thì phân xưởng phải dùng máy I trong 3 giờ, máy II trong 1 giờ và thu được lãi 2 triệu đồng. Nếu sản xuất một tấn sản phẩm loại B thì phân xưởng phải dùng máy I trong 1 giờ, máy II trong 1 giờ và thu được lãi 1,6 triệu đồng. Một máy không thể dùng để sản xuất đồng thời hai loại sản phẩm. Мáy I làm việc không quá 6 giờ một ngày, máy II làm việc không quá 4 giờ một ngày. Hỏi số tiền lãi lớn nhất mà phân xưởng đó có thể thu được trong một ngày là bao nhiêu triệu đồng (kết quả làm tròn đến hàng phần mười) ?"
+  },
+  {
+    "bbox": [
+      155,
+      1636,
+      493,
+      1673
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1695,
+      924,
+      1734
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1753,
+      330,
+      1792
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6,8"
+  },
+  {
+    "bbox": [
+      155,
+      1817,
+      1575,
+      1933
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ lần lượt là số tấn sản phẩm loại A, loại B sản xuất được trong một ngày $(x, y \\ge 0)$. Khi đó số tiền lãi là $L = 2x + 1,6y$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      1956,
+      881,
+      1998
+    ],
+    "category": "Text",
+    "text": "Thời gian làm việc của máy I trong một ngày: $3x + y$."
+  },
+  {
+    "bbox": [
+      155,
+      2022,
+      878,
+      2063
+    ],
+    "category": "Text",
+    "text": "Thời gian làm việc của máy II trong một ngày: $x + y$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

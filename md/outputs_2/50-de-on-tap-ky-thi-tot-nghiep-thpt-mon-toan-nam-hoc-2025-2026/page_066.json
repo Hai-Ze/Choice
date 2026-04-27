@@ -1,0 +1,119 @@
+[
+  {
+    "bbox": [
+      178,
+      43,
+      1015,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      188,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      166,
+      1538,
+      534
+    ],
+    "category": "List-item",
+    "text": "» Câu 15. Theo định luật làm mat của Newton thì tốc độ làm mat của một vật tỉ lệ thuận với chênh lệch nhiệt độ giữa vật đó và môi trường xung quanh, với điều kiện là chênh lệch này không quá lớn. Giả sử $T(t)$ là nhiệt độ của vật thể (đơn vị: độ C) tại thời điểm $t$ (đơn vị: phút) và $T_s$ là nhiệt độ của môi trường xung quanh, chênh lệch giữa nhiệt độ của vật thể và môi trường xung quanh là $y(t)=T(t)-T_s$ thì $y'(t)=k \\cdot y(t)$ với $k$ là hằng số. Một cốc nước đang ở nhiệt độ phòng là 22°C được đưa vào ngăn mat tử慢hạnh có nhiệt độ là 5°C. Sau 30 phút, nhiệt độ của cốc nước được đo lại là 16°C. Cho $f(t) = e^{y(t)}$, khi đó:"
+  },
+  {
+    "bbox": [
+      221,
+      538,
+      1571,
+      862
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Mindh đề</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>(a)</td><td>$y(t) = e^{kt+C} (t \\ge 0)$ với $C$ là một hằng số cố định.</td><td></td><td></td></tr><tr><td>(b)</td><td>$C = \\ln 17$.</td><td></td><td></td></tr><tr><td>(c)</td><td>$k = \\ln \\frac{17}{11}$</td><td></td><td></td></tr><tr><td>(d)</td><td>Nhiệt độ của cốc nước sau 1 giờ trong tử慢hạnh xấp xỉ 12°C (làm tròn kết quả đến hàng đơn vị)</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      82,
+      864,
+      1538,
+      1239
+    ],
+    "category": "List-item",
+    "text": "» Câu 16. Một thiết bị bay không người lái (drone) hoạt động trong một vùng không gian an toàn bên trong và trên mặt cầu $(S): (x-2)^2 + (y-1)^2 + (z-3)^2 = 9$. Hai trạm thu phát tín hiệu được đặt cố định tại các vị trí $A(1;1;3)$ và $B(21;9;-13)$. Do ảnh hưởng của suy hao tín hiệu, chi phí vận hành của drone tại vị trí $M$ được giả thiết tỉ lệ với bình phương khoảng cách đến các trạm thu phát. Trạm $A$ là trạm chính nên có mức ưu tiên cao hơn. Vì vậy, chi phí vận hành (tính bằng triệu đồng) tại vị trí $M$ được mô hình bởi biểu thức $F(M) = 3MA^2 + MB^2$. Khi đó:"
+  },
+  {
+    "bbox": [
+      221,
+      1239,
+      1571,
+      1815
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Mindh đề</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>(a)</td><td>Drone được đề xuất hoạt động tại vị trí $M(3;3;3)$. Vị trí này thuộc vùng không gian an toàn $(S)$</td><td></td><td></td></tr><tr><td>(b)</td><td>Đường bay thẳng nối hai trạm thu phát $A$ và $B$ đi xuyên qua vùng không gian an toàn $(S)$</td><td></td><td></td></tr><tr><td>(c)</td><td>Khi drone di chuyển trên bề mặt vùng không gian an toàn $(S)$, các vị trí có cùng khoảng cách đến đường thẳng $AB$ thì có chi phí vận hành bằng nhau.</td><td></td><td></td></tr><tr><td>(d)</td><td>Trong các vị trí mà drone được phép hoạt động trên bề mặt vùng trên mặt cầu $(S)$ chi phí vận hành nhỏ nhất mà drone phải trả là 432 triệu đồng.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      33,
+      1817,
+      410,
+      1861
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      82,
+      1861,
+      1266,
+      2138
+    ],
+    "category": "List-item",
+    "text": "» Câu 17. Một khối gỗ có dạng hình hộp bị mọt hỏng một góc như hình vẽ, người thợ mộc đo được $QD = 1,5m$. Do khối gỗ nặng nên việc di chuyển khó khăn, người thợ mộc phải cắt phần gỗ ở phía không bị mọt trước và dự kiến cắt khúc gỗ bởi một mặt cắt phẳng đi qua ba điểm $M; N; P$ trên ba cạnh bên để loại bỏ phần gỗ hỏng và giữ lại nhiều phần gỗ còn tốt. Biết $AM = 2m, BN = 2,5m, CP = 1,8m$. Để giúp người thợ tính toán xem đã"
+  },
+  {
+    "bbox": [
+      1286,
+      1868,
+      1556,
+      2183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      2248,
+      584,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1284,
+      2252,
+      1428,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Trang 65"
+  },
+  {
+    "bbox": [
+      1450,
+      2181,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

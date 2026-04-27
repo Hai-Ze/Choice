@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      253,
+      83,
+      1161,
+      138
+    ],
+    "category": "Text",
+    "text": "Giao với điều kiện $(x \\in \\mathbb{N}^*; 1 \\le x \\le 3000) \\Rightarrow x_{\\min} = 590$ (sản phẩm)"
+  },
+  {
+    "bbox": [
+      253,
+      147,
+      991,
+      193
+    ],
+    "category": "Text",
+    "text": "Vậy doanh nghiệp cần sản xuất ít nhất 590 (sản phẩm)"
+  },
+  {
+    "bbox": [
+      114,
+      198,
+      1629,
+      471
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một phân xưởng có hai máy chuyên dụng I và II để sản xuất hai loại sản phẩm A, B theo đơn đặt hàng. Nếu sản xuất một tấn sản phẩm A thì phân xưởng phải dùng máy I trong 3 giờ, máy II trong 1 giờ và thu được lãi 2 triệu đồng. Nếu sản xuất một tấn sản phẩm loại B thì phân xưởng phải dùng máy I trong 1 giờ, máy II trong 1 giờ và thu được lãi 1,6 triệu đồng. Một máy không thể dùng để sản xuất đồng thời hai loại sản phẩm. máy I làm việc không quá 6 giờ một ngày, máy II làm việc không quá 4 giờ một ngày. Hỏi số tiền lãi lớn nhất mà phân xưởng đó có thể thu được trong một ngày là bao nhiêu triệu đồng (kết quả làm tròn đến hàng phần mười) ?"
+  },
+  {
+    "bbox": [
+      884,
+      473,
+      1000,
+      511
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      530,
+      815,
+      1171
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1196,
+      307,
+      1235
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6,8."
+  },
+  {
+    "bbox": [
+      253,
+      1267,
+      1627,
+      1367
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ lần lượt là số tấn sản phẩm loại A, loại B sản xuất được trong một ngày $(x, y \\ge 0)$. Khi đó số tiền lãi là $L = 2x+1,6y$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      253,
+      1396,
+      972,
+      1437
+    ],
+    "category": "Text",
+    "text": "Thời gian làm việc của máy I trong một ngày: $3x + y$."
+  },
+  {
+    "bbox": [
+      253,
+      1467,
+      970,
+      1508
+    ],
+    "category": "Text",
+    "text": "Thời gian làm việc của máy II trong một ngày: $x + y$."
+  },
+  {
+    "bbox": [
+      253,
+      1536,
+      943,
+      1734
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có hệ bất phương trình: $$ \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 3x + y \\le 6 \\\\ x + y \\le 4 \\end{cases} \\quad (I). $$"
+  },
+  {
+    "bbox": [
+      253,
+      1764,
+      1606,
+      2004
+    ],
+    "category": "Text",
+    "text": "Khi đó bài toán trở thành tìm hai số $x, y$ thỏa $$ \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 3x + y \\le 6 \\\\ x + y \\le 4 \\end{cases} $$ sao cho biểu thức $L = 2x+1,6y$ đạt giá trị lớn nhất."
+  },
+  {
+    "bbox": [
+      253,
+      2034,
+      1518,
+      2083
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ $(I)$ là tức giác $OABC$ kể cả biên, với $O(0;0)$; $A(0;4)$; $B(1;3)$; $C(2;0)$."
+  }
+]

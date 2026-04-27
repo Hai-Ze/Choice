@@ -1,0 +1,477 @@
+[
+  {
+    "bbox": [
+      153,
+      130,
+      479,
+      182
+    ],
+    "category": "Text",
+    "text": "$\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      196,
+      301,
+      244
+    ],
+    "category": "List-item",
+    "text": "A $\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      535,
+      196,
+      617,
+      244
+    ],
+    "category": "List-item",
+    "text": "B 3."
+  },
+  {
+    "bbox": [
+      879,
+      196,
+      985,
+      244
+    ],
+    "category": "List-item",
+    "text": "C $\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      1224,
+      196,
+      1348,
+      244
+    ],
+    "category": "List-item",
+    "text": "D $2\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      258,
+      199,
+      299
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      258,
+      1244,
+      321
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo quy tắc hình hộp, ta có $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'} = \\overrightarrow{AC'}$."
+  },
+  {
+    "bbox": [
+      204,
+      331,
+      1343,
+      383
+    ],
+    "category": "Text",
+    "text": "Độ dài vecto $|\\overrightarrow{AC'}|$ chính là độ dài đường chéo của hình lập phương cạnh $a = 1$:"
+  },
+  {
+    "bbox": [
+      204,
+      396,
+      596,
+      442
+    ],
+    "category": "Formula",
+    "text": "$$\nAC' = \\sqrt{1^2 + 1^2 + 1^2} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      464,
+      431,
+      502
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án C."
+  },
+  {
+    "bbox": [
+      153,
+      524,
+      1548,
+      609
+    ],
+    "category": "Text",
+    "text": "Câu 5. Xét mẫu số liệu ghép nhóm có tức phân vị thứ nhất, tức phân vị thứ hai, tức phân vị thứ ba lần lượt là $Q_1, Q_2$ và $Q_3$. Khoảng tức phân vị của mẫu số liệu ghép nhóm đó bằng"
+  },
+  {
+    "bbox": [
+      191,
+      629,
+      468,
+      671
+    ],
+    "category": "List-item",
+    "text": "A $Q_3 - 2Q_2 + Q_1$."
+  },
+  {
+    "bbox": [
+      877,
+      629,
+      1060,
+      671
+    ],
+    "category": "List-item",
+    "text": "B $Q_2 - Q_1$."
+  },
+  {
+    "bbox": [
+      191,
+      675,
+      372,
+      715
+    ],
+    "category": "List-item",
+    "text": "C $Q_3 - Q_2$."
+  },
+  {
+    "bbox": [
+      877,
+      675,
+      1060,
+      715
+    ],
+    "category": "List-item",
+    "text": "D $Q_3 - Q_1$."
+  },
+  {
+    "bbox": [
+      153,
+      717,
+      199,
+      758
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      717,
+      1548,
+      817
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo định nghĩa, khoảng tức phân vị của mẫu số liệu được tính bằng công thức $\\Delta_Q = Q_3 - Q_1$."
+  },
+  {
+    "bbox": [
+      204,
+      821,
+      431,
+      859
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án D."
+  },
+  {
+    "bbox": [
+      153,
+      881,
+      1543,
+      966
+    ],
+    "category": "Text",
+    "text": "Câu 6. Trong không gian với hệ toạ độ $Oxyz$, cho vecto $\\vec{u} = (3; -1; 2)$ và điểm $A(0; -1; 1)$. Toạ độ điểm $B$ thoả mãn $\\overrightarrow{AB} = \\vec{u}$ là"
+  },
+  {
+    "bbox": [
+      191,
+      986,
+      385,
+      1028
+    ],
+    "category": "List-item",
+    "text": "A $(6; -1; 3)$."
+  },
+  {
+    "bbox": [
+      535,
+      986,
+      755,
+      1028
+    ],
+    "category": "List-item",
+    "text": "B $(-3; 2; -3)$."
+  },
+  {
+    "bbox": [
+      877,
+      986,
+      1096,
+      1028
+    ],
+    "category": "List-item",
+    "text": "C $(-3; 0; -1)$."
+  },
+  {
+    "bbox": [
+      1224,
+      986,
+      1417,
+      1028
+    ],
+    "category": "List-item",
+    "text": "D $(3; -2; 3)$."
+  },
+  {
+    "bbox": [
+      153,
+      1042,
+      199,
+      1083
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1042,
+      1462,
+      1105
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $B(x; y; z)$. Ta có $\\overrightarrow{AB} = (x - 0; y - (-1); z - 1) = (x; y + 1; z - 1)$."
+  },
+  {
+    "bbox": [
+      204,
+      1117,
+      1315,
+      1283
+    ],
+    "category": "Text",
+    "text": "Vì $\\overrightarrow{AB} = \\vec{u} = (3; -1; 2)$ nên: $\\begin{cases} x = 3 \\\\ y + 1 = -1 \\\\ z - 1 = 2 \\end{cases} \\Rightarrow \\begin{cases} x = 3 \\\\ y = -2 \\\\ z = 3 \\end{cases}$.因此 $B(3; -2; 3)$."
+  },
+  {
+    "bbox": [
+      204,
+      1303,
+      431,
+      1341
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án D."
+  },
+  {
+    "bbox": [
+      153,
+      1353,
+      1543,
+      1446
+    ],
+    "category": "Text",
+    "text": "Câu 7. Trong không gian với hệ toạ độ $Oxyz$, cho điểm $M$ thoả mãn $\\overrightarrow{OM} = -2\\vec{i} + \\vec{j} + 3\\vec{k}$. Toạ độ điểm $M$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1466,
+      412,
+      1508
+    ],
+    "category": "List-item",
+    "text": "A $(2; -1; -3)$."
+  },
+  {
+    "bbox": [
+      535,
+      1466,
+      702,
+      1508
+    ],
+    "category": "List-item",
+    "text": "B $(2; 1; 3)$."
+  },
+  {
+    "bbox": [
+      877,
+      1466,
+      1074,
+      1508
+    ],
+    "category": "List-item",
+    "text": "C $(-2; 1; 3)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1466,
+      1443,
+      1508
+    ],
+    "category": "List-item",
+    "text": "D $(-2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      153,
+      1522,
+      199,
+      1563
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1522,
+      1473,
+      1585
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Toạ độ của điểm $M$ tương ứng với hệ số của các vecto đơn vị $\\vec{i}, \\vec{j}, \\vec{k}$."
+  },
+  {
+    "bbox": [
+      204,
+      1595,
+      823,
+      1647
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ } \\overrightarrow{OM} = -2\\vec{i} + \\vec{j} + 3\\vec{k} \\Rightarrow M(-2; 1; 3).\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1667,
+      431,
+      1705
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án C."
+  },
+  {
+    "bbox": [
+      153,
+      1727,
+      1543,
+      1812
+    ],
+    "category": "Text",
+    "text": "Câu 8. Xét mẫu số liệu ghép nhóm có phương sai bằng 9. Độ lệch chuẩn của mẫu số liệu đó bằng"
+  },
+  {
+    "bbox": [
+      191,
+      1832,
+      273,
+      1874
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      535,
+      1832,
+      617,
+      1874
+    ],
+    "category": "List-item",
+    "text": "B 9."
+  },
+  {
+    "bbox": [
+      877,
+      1832,
+      985,
+      1874
+    ],
+    "category": "List-item",
+    "text": "C $\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      1224,
+      1832,
+      1304,
+      1874
+    ],
+    "category": "List-item",
+    "text": "D 6."
+  },
+  {
+    "bbox": [
+      153,
+      1888,
+      199,
+      1929
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1888,
+      1445,
+      1951
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Độ lệch chuẩn $s$ là căn bậc hai của phương sai $s^2$. Ta có $s = \\sqrt{9} = 3$."
+  },
+  {
+    "bbox": [
+      204,
+      1971,
+      431,
+      2009
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án A."
+  },
+  {
+    "bbox": [
+      153,
+      2029,
+      1315,
+      2067
+    ],
+    "category": "Text",
+    "text": "Câu 9. Kết quả đo chiều cao của 45 học sinh lớp 12A được thống kê như sau:"
+  },
+  {
+    "bbox": [
+      302,
+      2075,
+      1395,
+      2189
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao (cm)</td><td>[155; 160)</td><td>[160; 165)</td><td>[165; 170)</td><td>[170; 175)</td><td>[175; 180)</td></tr><tr><td>Số học sinh</td><td>10</td><td>18</td><td>9</td><td>5</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      111,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "96"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

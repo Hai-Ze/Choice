@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      451,
+      181
+    ],
+    "category": "Text",
+    "text": "trình mặt cầu ($S$) là"
+  },
+  {
+    "bbox": [
+      188,
+      199,
+      729,
+      244
+    ],
+    "category": "List-item",
+    "text": "A $(x + 1)^2 + (y + 2)^2 + (z - 1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      188,
+      244,
+      729,
+      288
+    ],
+    "category": "List-item",
+    "text": "B $(x + 1)^2 + (y + 2)^2 + (z - 1)^2 = 3$."
+  },
+  {
+    "bbox": [
+      188,
+      288,
+      729,
+      332
+    ],
+    "category": "List-item",
+    "text": "C $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      188,
+      332,
+      729,
+      376
+    ],
+    "category": "List-item",
+    "text": "D $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      395,
+      1499,
+      437
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho cấp số nhân ($u_n$) với $u_1 = -8$ và $u_4 = 1$. Công bội của cấp số nhân đã cho bằng"
+  },
+  {
+    "bbox": [
+      191,
+      448,
+      280,
+      525
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      535,
+      467,
+      642,
+      507
+    ],
+    "category": "List-item",
+    "text": "B $-2$."
+  },
+  {
+    "bbox": [
+      879,
+      467,
+      960,
+      507
+    ],
+    "category": "List-item",
+    "text": "C $2$."
+  },
+  {
+    "bbox": [
+      1224,
+      448,
+      1337,
+      525
+    ],
+    "category": "List-item",
+    "text": "D $-\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      538,
+      1547,
+      624
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (x - 2)^2(1 - x)$ với mọi $x \\in \\mathbb{R}$. Hàm số đã cho đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      191,
+      643,
+      372,
+      687
+    ],
+    "category": "List-item",
+    "text": "A $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      535,
+      643,
+      713,
+      687
+    ],
+    "category": "List-item",
+    "text": "B $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      879,
+      643,
+      1060,
+      687
+    ],
+    "category": "List-item",
+    "text": "C $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1224,
+      643,
+      1359,
+      687
+    ],
+    "category": "List-item",
+    "text": "D $(1; 2)$."
+  },
+  {
+    "bbox": [
+      153,
+      706,
+      1547,
+      791
+    ],
+    "category": "Text",
+    "text": "Câu 11. Thời gian đàm thoại của một số cuộc gọi bởi một nhân viên sale được cho kết quả như bảng sau:"
+  },
+  {
+    "bbox": [
+      602,
+      797,
+      1092,
+      1138
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Thời gian $t$ (phút)</td><td>Số cuộc gọi</td></tr></thead><tbody><tr><td>$0 \\le t < 1$</td><td>21</td></tr><tr><td>$1 \\le t < 2$</td><td>23</td></tr><tr><td>$2 \\le t < 3$</td><td>24</td></tr><tr><td>$3 \\le t < 4$</td><td>17</td></tr><tr><td>$4 \\le t < 5$</td><td>15</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1148,
+      1499,
+      1190
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tức phân vị của mẫu số liệu ghép nhóm trên (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      191,
+      1208,
+      319,
+      1252
+    ],
+    "category": "List-item",
+    "text": "A $2, 37$."
+  },
+  {
+    "bbox": [
+      535,
+      1208,
+      663,
+      1252
+    ],
+    "category": "List-item",
+    "text": "B $2, 28$."
+  },
+  {
+    "bbox": [
+      879,
+      1208,
+      1007,
+      1252
+    ],
+    "category": "List-item",
+    "text": "C $2, 38$."
+  },
+  {
+    "bbox": [
+      1224,
+      1208,
+      1349,
+      1252
+    ],
+    "category": "List-item",
+    "text": "D $2, 24$."
+  },
+  {
+    "bbox": [
+      153,
+      1261,
+      1547,
+      1356
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho hình lập phương $ABCD.A'B'C'D'$. Đặt $\\overrightarrow{AA'} = \\vec{a}$, $\\overrightarrow{AB} = \\vec{b}$, $\\overrightarrow{AD} = \\vec{c}$. Gọi $M, N$ lần lượt là trung điểm của $AB$ và $DD'$. Phát biểu nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      623,
+      1370,
+      1074,
+      1790
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1861,
+      571,
+      1938
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{MN} = \\frac{1}{2}\\vec{a} - \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      877,
+      1861,
+      1283,
+      1938
+    ],
+    "category": "List-item",
+    "text": "B $\\overrightarrow{MN} = -\\frac{1}{2}\\vec{a} + \\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      191,
+      1932,
+      548,
+      2009
+    ],
+    "category": "List-item",
+    "text": "C $\\overrightarrow{MN} = \\vec{a} + \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      877,
+      1932,
+      1256,
+      2009
+    ],
+    "category": "List-item",
+    "text": "D $\\overrightarrow{MN} = \\frac{1}{2}\\vec{a} + \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      153,
+      2021,
+      1547,
+      2107
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      2128,
+      1547,
+      2213
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một công ty kim cương thống kê có 60% người mua kim cương là nam, có 40% số người mua kim cương là nam trên 50 tuổi và 30% số người mua kim cương là nữ trên 50 tuổi (giả sử chỉ"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "29"
+  }
+]

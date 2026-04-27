@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      193,
+      51,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      51,
+      858,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      54,
+      1448,
+      96
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      157,
+      1455,
+      311
+    ],
+    "category": "Text",
+    "text": "Giả sử trong một hệ trục tọa độ $Oxyz$ phù hợp (có đơn vị các trục tọa độ là mét), gốc trụ điện đặt tại gốc tọa độ $O$, đầu các sợi dây neo có tọa độ lần lượt là $A(-3; 4; 2)$, $B(4; 2; 1)$ và $C(0; 0; 5)$."
+  },
+  {
+    "bbox": [
+      222,
+      322,
+      633,
+      364
+    ],
+    "category": "List-item",
+    "text": "a) Trụ điện cao hơn 5 mét."
+  },
+  {
+    "bbox": [
+      222,
+      373,
+      1080,
+      421
+    ],
+    "category": "List-item",
+    "text": "b) Tổng chiều dài hai sợi dây neo là gần bằng 11,83 mét."
+  },
+  {
+    "bbox": [
+      222,
+      427,
+      1080,
+      476
+    ],
+    "category": "List-item",
+    "text": "c) Hai sợi dây neo tạo với nhau một góc gần bằng $76,8^\\circ$."
+  },
+  {
+    "bbox": [
+      222,
+      481,
+      1448,
+      668
+    ],
+    "category": "List-item",
+    "text": "d) Để gia cố trụ điện, người ta cần thêm sợi dây neo thứ ba. Giả sử, dây neo thứ 3 này được kéo căng tạo thành đoạn thẳng $CD$ thỏa ba điểm $A, B$ và $D$ thẳng hàng. Sợi dây neo thứ 3 có độ dài ngắn nhất bằng $\\frac{2\\sqrt{435}}{9}$ mét."
+  },
+  {
+    "bbox": [
+      213,
+      716,
+      1382,
+      769
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      193,
+      804,
+      1455,
+      960
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình chóp $S.ABCD$ có đáy là hình thoi, $AC = BC = 2$, $SAB$ là tam giác đều, số đo của góc nhị diện $[S, CD, B]$ bằng $60^\\circ$. Thể tích khối chóp $S.ABCD$ bằng bao nhiêu? (Làm tròn kết quả đến hàng phần mười). KQ: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      193,
+      983,
+      1455,
+      1467
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một cơ sở sản xuất sữa hạt chất lượng cao có thể sản xuất được tối đa 300 lít mỗi ngày. Chi phí sản xuất $x$ lít sữa mỗi ngày bao gồm: chi phí nhân công là 1 triệu đồng/ngày; chi phí nguyên vật liệu, đóng chai, bao bì là 35 nghìn đồng cho một lít sữa; chi phí bảo dưỡng máy móc là $C_b(x) = 0,00001x^2$ (triệu đồng). Ngoài ra, nếu $x$ lít sữa sản xuất mỗi ngày vượt 200 lít thì phát sinh thêm chi phí vận hành quá tải là $C_v(x) = 0,00003(x - 200)^3$ (triệu đồng). Giá bán mỗi lít sữa là 60 nghìn đồng. Biết cơ sở bán hết lượng sữa sản xuất trong ngày. Hỏi mỗi ngày cơ sở có lợi nhuận (đơn vị: triệu đồng) đạt được nhiều nhất là bao nhiêu (kết quả làm tròn đến hàng phần trăm)? KQ: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      193,
+      1510,
+      882,
+      1831
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một tiết thực hành về quan sát quả địa cầu có một nhóm học sinh cầm một quả địa cầu sao cho nó không scanned vào mặt bàn. Trên mặt bàn có một tờ giấy hình tam giác $ABC$. Xét trong không gian $Oxyz$, tam giác $ABC$ có $A(3; 0; 0)$, $B(0; 5; 0)$, $C(0; 5; 1)$."
+  },
+  {
+    "bbox": [
+      891,
+      1510,
+      1448,
+      1905
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1915,
+      1455,
+      2200
+    ],
+    "category": "Text",
+    "text": "Giả sử bề mặt quả địa cầu là mặt cầu $(S): x^2 + y^2 + (z - 3)^2 = \\frac{49}{20}$. Cô giáo strang định trên quả địa cầu $(S)$ tồn tại duy nhất một điểm $M(a; b; c)$ sao cho biểu thức $T = MA^2 + MB^2 + MC^2$ đạt giá trị lớn nhất và yêu cầu nhóm học sinh đó đi tìm điểm $M$ nêu trên. Tổng $a + b + c$ bằng bao nhiêu (làm tròn kết quả đến hàng phần trăm)? KQ: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 35"
+  }
+]

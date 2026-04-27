@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      99,
+      465,
+      179
+    ],
+    "category": "List-item",
+    "text": "A. $f(1) = \\frac{4+\\ln 2}{\\ln 2}$."
+  },
+  {
+    "bbox": [
+      555,
+      99,
+      807,
+      179
+    ],
+    "category": "List-item",
+    "text": "B. $f(1) = \\frac{1+\\ln 2}{2\\ln 2}$."
+  },
+  {
+    "bbox": [
+      943,
+      99,
+      1198,
+      179
+    ],
+    "category": "List-item",
+    "text": "C. $f(1) = \\frac{2+\\ln 2}{2\\ln 2}$."
+  },
+  {
+    "bbox": [
+      1254,
+      99,
+      1509,
+      179
+    ],
+    "category": "List-item",
+    "text": "D. $f(1) = \\frac{4+\\ln 2}{2\\ln 2}$."
+  },
+  {
+    "bbox": [
+      807,
+      204,
+      924,
+      241
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      262,
+      278,
+      300
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      157,
+      322,
+      438,
+      367
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(x) = 2^x + x$"
+  },
+  {
+    "bbox": [
+      160,
+      398,
+      667,
+      483
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f(x) = \\int (2^x + x) dx = \\frac{2^x}{\\ln 2} + \\frac{x^2}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      508,
+      675,
+      588
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $f(0) = \\frac{1}{\\ln 2}$ nên $C = 0$."
+  },
+  {
+    "bbox": [
+      157,
+      615,
+      447,
+      700
+    ],
+    "category": "Text",
+    "text": "Vậy $f(x) = \\frac{2^x}{\\ln 2} + \\frac{x^2}{2}$"
+  },
+  {
+    "bbox": [
+      160,
+      724,
+      533,
+      805
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f(1) = \\frac{2}{\\ln 2} + \\frac{1}{2} = \\frac{4+\\ln 2}{2\\ln 2}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      823,
+      1566,
+      925
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Chiều dài của 40 bé trai sơ sinh 12 ngày tuổi chọn ngẫu nhiên ở một bệnh viện được nhà nghiên cứu thống kê trong Bảng dưới đây:"
+  },
+  {
+    "bbox": [
+      144,
+      941,
+      1587,
+      1072
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều dài (cm)</td><td>[44;46)</td><td>[46;48)</td><td>[48;50)</td><td>[50;52)</td><td>[52;54)</td><td>[54;56)</td></tr><tr><td>Số trẻ</td><td>3</td><td>3</td><td>10</td><td>15</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1127,
+      1461,
+      1172
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của chiều dài nhóm 40 bé trai sơ sinh (làm tròn kết quả đến hàng phần nghìn)."
+  },
+  {
+    "bbox": [
+      205,
+      1191,
+      326,
+      1225
+    ],
+    "category": "List-item",
+    "text": "A. 2,58."
+  },
+  {
+    "bbox": [
+      555,
+      1191,
+      678,
+      1225
+    ],
+    "category": "List-item",
+    "text": "B. 2,43."
+  },
+  {
+    "bbox": [
+      906,
+      1191,
+      1031,
+      1225
+    ],
+    "category": "List-item",
+    "text": "C. 2,23."
+  },
+  {
+    "bbox": [
+      1257,
+      1191,
+      1378,
+      1225
+    ],
+    "category": "List-item",
+    "text": "D. 2,78."
+  },
+  {
+    "bbox": [
+      807,
+      1255,
+      924,
+      1293
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1314,
+      278,
+      1352
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      1366,
+      570,
+      1408
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu với giá trị đại diện"
+  },
+  {
+    "bbox": [
+      144,
+      1425,
+      1587,
+      1617
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều dài (cm)</td><td>[44;46)</td><td>[46;48)</td><td>[48;50)</td><td>[50;52)</td><td>[52;54)</td><td>[54;56)</td></tr><tr><td>Giá trị đại diện</td><td>45</td><td>47</td><td>49</td><td>51</td><td>53</td><td>55</td></tr><tr><td>Số trẻ</td><td>3</td><td>3</td><td>10</td><td>15</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1615,
+      856,
+      1657
+    ],
+    "category": "Text",
+    "text": "Từ mẫu số liệu đã cho, ta tính được số trung bình là:"
+  },
+  {
+    "bbox": [
+      472,
+      1678,
+      1260,
+      1758
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{3.45 + 3.47 + 10.49 + 15.51 + 7.53 + 2.55}{40} = \\frac{2012}{40} = 50,3.\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1777,
+      935,
+      1821
+    ],
+    "category": "Text",
+    "text": "$\\bar{x}$ không phải là số nguyên nên để tính phương sai ta tính:"
+  },
+  {
+    "bbox": [
+      472,
+      1842,
+      1253,
+      1929
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x}^2 = \\frac{3.45^2 + 3.47^2 + 10.49^2 + 15.51^2 + 7.53^2 + 2.55^2}{40} = 2536.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1952,
+      974,
+      2003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } s^2 = \\bar{x}^2 - (\\bar{x})^2 = 2536 - 50,3^2 = 2536 - 2530,09 = 5,91.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      2028,
+      1302,
+      2078
+    ],
+    "category": "Text",
+    "text": "Vậy mẫu số liệu về chiều dài của 40 trẻ sơ sinh có độ lệch chuẩn là $s = \\sqrt{5,91} \\approx 2,43$."
+  },
+  {
+    "bbox": [
+      157,
+      2106,
+      1351,
+      2149
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Diện tích của hình phẳng giới hạn bởi các đường $y = 2^x$, $y = 0$, $x = 0$, $x = 2$ là"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      647,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      818,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

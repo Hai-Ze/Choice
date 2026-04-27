@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1244,
+      136
+    ],
+    "category": "Text",
+    "text": "b) Xác suất xét nghiệm cho kết quả dương tính của các ca thực sự không nhiễm vius là:"
+  },
+  {
+    "bbox": [
+      82,
+      157,
+      828,
+      203
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AT |V) = 1 - P(AT |K) = 1 - 99,1\\% = 0,991 = 0,009.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      224,
+      871,
+      269
+    ],
+    "category": "Text",
+    "text": "c) Xác suất người làm xét nghiệm có kết quả dương tính là:"
+  },
+  {
+    "bbox": [
+      82,
+      290,
+      1216,
+      337
+    ],
+    "category": "Formula",
+    "text": "$$\nP(DT) = P(DT |V) \\cdot P(V) + P(DT |K) \\cdot P(K) = 0,762 \\cdot 0,01 + 0,009 \\cdot 0,99 = 0,01653.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      364,
+      1487,
+      412
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng đã có kết quả chuẩn đoán là dương tính, xác suất để người đó thực sự bị bệnh là: $P(V |DT)$."
+  },
+  {
+    "bbox": [
+      76,
+      439,
+      1247,
+      534
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Sử dụng định lý Bayes: } P(V |DT) = \\frac{P(DT |V) \\cdot P(V)}{P(DT)} = \\frac{0,762 \\cdot 0,01}{0,1653} = \\frac{0,00762}{0,01653} \\approx 0,46.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      614,
+      726,
+      655
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      671,
+      1495,
+      975
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một vật trang trí có dạng một khối tròn xoay được tạo thành khi quay miền ($R$) (phần gạch chéo trong hình vẽ) quanh trục $MN$. Biết rằng $ABCD$ là hình chữ nhật với $AB = 6\\text{cm}$, $AD = 10\\text{cm}$ và $M, N$ lần lượt là trung điểm của $AB, CD$. Hai đường cong là đường Elip có hình chữ nhật cơ sở là $ABCD$ và đường tròn tiếp xúc với hai cạnh $AD$ và $BC$ (tham khảo hình vẽ). Tính thể tích của vật trang trí đó (kết quả làm tròn đến hàng phần chục theo đơn vị $\\text{cm}^3$)."
+  },
+  {
+    "bbox": [
+      488,
+      1019,
+      1079,
+      1389
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1460,
+      413,
+      1496
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1518,
+      842,
+      1557
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1575,
+      239,
+      1615
+    ],
+    "category": "Text",
+    "text": "Đáp án: 75"
+  },
+  {
+    "bbox": [
+      471,
+      1637,
+      1101,
+      2077
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2092,
+      1495,
+      2201
+    ],
+    "category": "Text",
+    "text": "Gắn vào hình chữ nhật $ABCD$ hệ trục tọa độ $Oxy$ với gốc $O$ trùng với giao hai đường chéo, các điểm $M, N$ nằm trên $Ox$ (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

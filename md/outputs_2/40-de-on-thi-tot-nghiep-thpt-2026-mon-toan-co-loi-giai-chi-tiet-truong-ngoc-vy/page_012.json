@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      969,
+      136
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố “Người được phỏng vấn trả lời sẽ xem trận đấu”."
+  },
+  {
+    "bbox": [
+      76,
+      157,
+      305,
+      203
+    ],
+    "category": "Formula",
+    "text": "a) $P(AB) = 0,6$."
+  },
+  {
+    "bbox": [
+      76,
+      224,
+      947,
+      269
+    ],
+    "category": "Text",
+    "text": "b) Tỉ lệ người được phỏng vấn thực sự sẽ xem trận đấu là 72,5%."
+  },
+  {
+    "bbox": [
+      76,
+      282,
+      1477,
+      327
+    ],
+    "category": "Text",
+    "text": "c) Trong số người được phỏng vấn thực sự sẽ xem có 17% người trả lời không xem khi được phỏng vấn."
+  },
+  {
+    "bbox": [
+      76,
+      340,
+      1494,
+      443
+    ],
+    "category": "Text",
+    "text": "d) Trong số những người mặc áo đội bóng có 30% người phỏng vấn thực sự sẽ không xem trận đấu biết rằng số người được phỏng vấn thực sự sẽ xem trận đấu mặc áo đội bóng là 14 người."
+  },
+  {
+    "bbox": [
+      727,
+      462,
+      843,
+      500
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      515,
+      894,
+      637
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      697,
+      450,
+      736
+    ],
+    "category": "Text",
+    "text": "a) Từ bài ra, ta có bảng sau:"
+  },
+  {
+    "bbox": [
+      198,
+      751,
+      1458,
+      1005
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Thực tế<br>Phỏng vấn</th><th>Người xem thật</th><th>Người không xem thật</th></tr></thead><tbody><tr><td>Người trả lời sẽ xem (75)</td><td>0,8 · 75 = 60</td><td>75 – 60 = 15</td></tr><tr><td>Người trả lời sẽ không xem (25)</td><td>0,2 · 25 = 5</td><td>25 – 5 = 20</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      82,
+      1066,
+      1212,
+      1113
+    ],
+    "category": "Text",
+    "text": "AB là tập hợp người được phỏng vấn trả lời sẽ xem và xem thật, do đó $n(AB) = 60$."
+  },
+  {
+    "bbox": [
+      76,
+      1142,
+      420,
+      1223
+    ],
+    "category": "Formula",
+    "text": "Vậy $P(AB) = \\frac{60}{100} = 0,6$."
+  },
+  {
+    "bbox": [
+      76,
+      1247,
+      1494,
+      1404
+    ],
+    "category": "Text",
+    "text": "b) A là tập hợp người được phỏng vấn xem thật trận đấu nên $n(A) = 60 + 5 = 65$, do đó $P(A) = \\frac{65}{100} = 0,65$. vậy tỉ lệ người được phỏng vấn thực sự sẽ xem trận đấu là 65%."
+  },
+  {
+    "bbox": [
+      76,
+      1428,
+      1187,
+      1475
+    ],
+    "category": "Text",
+    "text": "Ngoài ra, ta có thể thực hiện tìm $P(A)$ theo công thức xác suất toàn phần như sau:"
+  },
+  {
+    "bbox": [
+      76,
+      1503,
+      1115,
+      1561
+    ],
+    "category": "Formula",
+    "text": "Theo bài ra ta có: $P(B) = 0,75$; $P(\\bar{B}) = 0,25$; $P(A|B) = 0,8$; $P(A|\\bar{B}) = 0,2$."
+  },
+  {
+    "bbox": [
+      76,
+      1588,
+      1138,
+      1647
+    ],
+    "category": "Formula",
+    "text": "Do đó, $P(A) = P(B) \\cdot P(A|B) + P(\\bar{B}) \\cdot P(A|\\bar{B}) = 0,75 \\cdot 0,8 + 0,25 \\cdot 0,2 = 0,65$."
+  },
+  {
+    "bbox": [
+      76,
+      1668,
+      1494,
+      1774
+    ],
+    "category": "Text",
+    "text": "c) Tổng số người được phỏng vấn thực sự sẽ xem thật trận đấu là 65 người. Số người trả lời không xem khi được phỏng vấn là 5 người."
+  },
+  {
+    "bbox": [
+      76,
+      1787,
+      1494,
+      1934
+    ],
+    "category": "Text",
+    "text": "Tỉ lệ người trả lời không xem khi được phỏng vấn trong số những người thực sự xem trận đấu là $\\frac{5}{65} \\approx 7,69\\%$."
+  },
+  {
+    "bbox": [
+      76,
+      1951,
+      1494,
+      2097
+    ],
+    "category": "Text",
+    "text": "d) Tỉ lệ người phỏng vấn thực sự sẽ không xem trận đấu trong số những người mặc áo đội bóng là $\\frac{20-14}{20} = 30\\%$."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

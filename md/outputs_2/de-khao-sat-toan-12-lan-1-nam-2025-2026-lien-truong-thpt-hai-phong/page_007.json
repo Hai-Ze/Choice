@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      608,
+      77,
+      1121,
+      450
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      178,
+      450,
+      1055,
+      498
+    ],
+    "category": "Text",
+    "text": "a) Khoảng cách từ chiếc tàu thám hiểm đến radar bằng $3\\sqrt{58} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      153,
+      505,
+      1574,
+      657
+    ],
+    "category": "Text",
+    "text": "b) Một chiếc tàu của cảnh sát biển đang tuần tra trên biển di chuyển đến vị trí $C$ cách $O$ $15 \\text{ km}$ về phía nam. Để tàu cảnh sát biển trong phạm vi theo dõi của radar thì tàu cảnh sát biển cần di chuyển về phía đông cách $O$ tối đa $15\\sqrt{3} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      178,
+      671,
+      784,
+      712
+    ],
+    "category": "Text",
+    "text": "c) Radar phát hiện ra tàu đánh cá tại vị trí $B$."
+  },
+  {
+    "bbox": [
+      178,
+      716,
+      1015,
+      761
+    ],
+    "category": "Text",
+    "text": "d) Radar **không** phát hiện được tàu thám hiểm đặt tại vị trí $A$."
+  },
+  {
+    "bbox": [
+      153,
+      767,
+      1336,
+      865
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho phương trình $\\cos\\left(4x - \\frac{3\\pi}{8}\\right) = -1$. Xét tính **đúng, sai** của cácoorngh thê sau:"
+  },
+  {
+    "bbox": [
+      178,
+      873,
+      1475,
+      919
+    ],
+    "category": "Text",
+    "text": "a) Tất cả nghiệm của phương trình đã cho được biểu diễn bởi 4 điểm trên đường tròn lượng giác."
+  },
+  {
+    "bbox": [
+      178,
+      923,
+      1253,
+      1011
+    ],
+    "category": "Text",
+    "text": "b) Tổng các nghiệm trên khoảng $\\left(\\frac{\\pi}{4}; \\frac{19\\pi}{2}\\right)$ của phương trình đã cho là $\\frac{6061\\pi}{32}$."
+  },
+  {
+    "bbox": [
+      178,
+      1025,
+      1304,
+      1106
+    ],
+    "category": "Text",
+    "text": "c) Tổng nghiệm dương nhỏ nhất và nghiệm âm lớn nhất của phương trình bằng $\\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      178,
+      1118,
+      874,
+      1198
+    ],
+    "category": "Text",
+    "text": "d) $x = \\frac{11\\pi}{32}$ là một nghiệm của phương trình đã cho."
+  },
+  {
+    "bbox": [
+      153,
+      1210,
+      1188,
+      1295
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x) = \\frac{2x^2 - 5x + 9}{x - 5}$. Cácoorngh thê sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      178,
+      1298,
+      1047,
+      1344
+    ],
+    "category": "Text",
+    "text": "a) Có đúng một điểm trên đồ thị hàm số cách đều hai trục tọa độ."
+  },
+  {
+    "bbox": [
+      178,
+      1349,
+      747,
+      1397
+    ],
+    "category": "Text",
+    "text": "b) Hàm số nghịch biến trên khoảng $(1; 9)$."
+  },
+  {
+    "bbox": [
+      178,
+      1405,
+      860,
+      1451
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số có đường tiệm cận đứng là $y = 5$."
+  },
+  {
+    "bbox": [
+      178,
+      1463,
+      991,
+      1544
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $-\\frac{9}{5}$."
+  },
+  {
+    "bbox": [
+      153,
+      1550,
+      1574,
+      1719
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hình vuông $ABCD$ có cạnh bằng 4. Lấy $H, K$ lần lượt trên các cạnh $AB, AD$ sao cho $BH = 3HA, AK = 3KD$. Trên đường thẳng vuông góc với mặt phẳng $(ABCD)$ tại $H$ lấy điểm $S$ sao cho $\\widehat{SBH} = 30^\\circ$. Xét tính đúng, sai của cáckhẳng định sau:"
+  },
+  {
+    "bbox": [
+      153,
+      1731,
+      1563,
+      1908
+    ],
+    "category": "Text",
+    "text": "a) Gọi $E$ là giao điểm của $CH$ và $BK$, cosin của góc giữa hai đường thẳng $SE$ và $BC$ bằng $\\frac{m}{n\\sqrt{39}}$ với $m \\in \\mathbb{Z}; n \\in \\mathbb{N}^*; \\frac{m}{n}$ là phân số tối简. Giá trị của biểu thức $T = 2m - n = 31$."
+  },
+  {
+    "bbox": [
+      178,
+      1916,
+      822,
+      2010
+    ],
+    "category": "Text",
+    "text": "b) Thể tích của khối chóp $S.ABC$ bằng $\\frac{16\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      178,
+      2016,
+      355,
+      2066
+    ],
+    "category": "Text",
+    "text": "c) $SH = \\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      178,
+      2074,
+      811,
+      2167
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa $AB$ và $SD$ bằng $\\frac{4\\sqrt{57}}{19}$."
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      298,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 202"
+  },
+  {
+    "bbox": [
+      1479,
+      2236,
+      1611,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      256,
+      121,
+      423,
+      166
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 3x^2 - 3.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      194,
+      1027,
+      304
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } y' = 0 \\Leftrightarrow \\begin{bmatrix} x = 1 & (L) \\\\ x = -1 & (L) \\end{bmatrix} \\text{ (do không thuộc đoạn } [2;4] \\text{)}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      335,
+      582,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } y(2) = 7; y(4) = 57\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      414,
+      464,
+      472
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy min}_{[2;4]} y = 7.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      496,
+      1551,
+      586
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Trắc nghiệm chọn đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      114,
+      602,
+      1551,
+      803
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Trong một gian triển lãm nghệ thuật, người ta thiết kế một không gian hình集合 chữ nhật $ABCD.A'B'C'D'$ có kích thước $AD = 20m$; $AB = 10m$; $AA' = 5m$ và được gắn vào hệ trục tọa độ $Oxyz$ sao cho gốc tọa độ $O$ trùng với điểm $A$, tia $Ox$ chứa điểm $D$, tia $Oy$ chứa điểm $B$, tia $Oz$ chứa điểm $A'$ như hình vẽ. Đơn vị trên mỗi trục tọa độ là mét."
+  },
+  {
+    "bbox": [
+      657,
+      844,
+      1227,
+      1249
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1283,
+      1551,
+      1371
+    ],
+    "category": "Text",
+    "text": "Người ta căng hai sợi dây cáp phát sáng vào hai đường chéo của hình集合 là $A'C$ và $BD'$. Giá sợi dây cáp là 100 nghìn đồng/mét."
+  },
+  {
+    "bbox": [
+      251,
+      1377,
+      1196,
+      1426
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ các điểm $B(0;10;0)$, $C(20;10;0)$, $A'(0;0;5)$, $D'(20;0;5)$."
+  },
+  {
+    "bbox": [
+      251,
+      1433,
+      1528,
+      1524
+    ],
+    "category": "Text",
+    "text": "b) Tổng số tiền cần để mua hai sợi dây cáp phát sáng nói trên là 2613 nghìn đồng (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      251,
+      1529,
+      1037,
+      1578
+    ],
+    "category": "Text",
+    "text": "c) Mặt phẳng $(A'BC)$ có phương trình là: $y + 2z - 10 = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      1586,
+      1544,
+      1770
+    ],
+    "category": "Text",
+    "text": "d) Trên dây $A'C$ một điểm sáng $M$ chuyển động đều từ $A'$ đến $C$ với vận tốc $3m/s$. Đồng thời, trên dây $BD'$, điểm sáng $N$ chuyển động đều từ $B$ đến $D'$ với vận tốc $2m/s$. Tính từ khi hai điểm sáng bắt đầu chuyển động đến khi có ít nhất một điểm sáng về đích thì khoảng cách nhỏ nhất giữa hai điểm sáng $M$ và $N$ bằng $3,77m$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      843,
+      1782,
+      957,
+      1820
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1822,
+      389,
+      1862
+    ],
+    "category": "Text",
+    "text": "a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      1866,
+      717,
+      1909
+    ],
+    "category": "Text",
+    "text": "Quan sát hệ tọa độ ta thấy a) đúng"
+  },
+  {
+    "bbox": [
+      251,
+      1913,
+      348,
+      1951
+    ],
+    "category": "Text",
+    "text": "b) SAI"
+  },
+  {
+    "bbox": [
+      251,
+      1957,
+      339,
+      1992
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      256,
+      2004,
+      705,
+      2069
+    ],
+    "category": "Formula",
+    "text": "$$\nA'C = \\sqrt{20^2 + 10^2 + (-5)^2} = \\sqrt{525}\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      2082,
+      735,
+      2148
+    ],
+    "category": "Formula",
+    "text": "$$\nBD' = \\sqrt{20^2 + (-10)^2 + (5)^2} = \\sqrt{525}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      2162,
+      1499,
+      2212
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền cần để mua hai sợi dây cáp phát sáng nói trên là: $2\\sqrt{525} \\cdot 100 \\approx 4583$ nghìn đồng"
+  }
+]

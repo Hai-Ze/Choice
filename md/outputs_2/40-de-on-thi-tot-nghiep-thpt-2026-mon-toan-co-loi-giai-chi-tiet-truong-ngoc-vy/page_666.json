@@ -1,0 +1,402 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      630,
+      95,
+      936,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      1373,
+      195
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      216,
+      430,
+      298
+    ],
+    "category": "Text",
+    "text": "Câu 1. $\\lim_{x \\to +\\infty} \\frac{x-2}{x^2+1}$ bằng"
+  },
+  {
+    "bbox": [
+      126,
+      321,
+      206,
+      355
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      476,
+      321,
+      545,
+      355
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      826,
+      321,
+      905,
+      355
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1175,
+      321,
+      1273,
+      355
+    ],
+    "category": "List-item",
+    "text": "D. -2."
+  },
+  {
+    "bbox": [
+      727,
+      381,
+      843,
+      418
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      438,
+      190,
+      475
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      82,
+      498,
+      465,
+      657
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} \\frac{x-2}{x^2+1} = \\lim_{x \\to +\\infty} \\frac{\\frac{1}{x} - \\frac{2}{x^2}}{1 + \\frac{1}{x^2}} = 0\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      682,
+      1055,
+      769
+    ],
+    "category": "Text",
+    "text": "Câu 2. Số nghiệm của phương trình: $\\sin\\left(x+\\frac{\\pi}{4}\\right) = 1$ với $\\pi \\le x \\le 5\\pi$ là"
+  },
+  {
+    "bbox": [
+      126,
+      797,
+      196,
+      831
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      476,
+      797,
+      545,
+      831
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      826,
+      797,
+      895,
+      831
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1175,
+      797,
+      1244,
+      831
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      727,
+      854,
+      843,
+      891
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      913,
+      198,
+      950
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      82,
+      970,
+      884,
+      1056
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin\\left(x+\\frac{\\pi}{4}\\right) = 1 \\Leftrightarrow x+\\frac{\\pi}{4} = \\frac{\\pi}{2} + k2\\pi \\Leftrightarrow x = \\frac{\\pi}{4} + k2\\pi \\ (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1084,
+      926,
+      1166
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } \\pi \\le x \\le 5\\pi \\Rightarrow \\pi \\le \\frac{\\pi}{4} + k2\\pi \\le 5\\pi \\Leftrightarrow \\frac{3}{8} \\le k \\le \\frac{19}{8} \\Rightarrow k \\in \\{1; 2\\}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1193,
+      687,
+      1238
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình có 2 nghiệm trong $[\\pi; 5\\pi]$."
+  },
+  {
+    "bbox": [
+      76,
+      1263,
+      1039,
+      1337
+    ],
+    "category": "Text",
+    "text": "Câu 3. Tập nghiệm của bất phương trình $\\log_{\\frac{\\pi}{4}}(x+1) > \\log_{\\frac{\\pi}{4}}(2x-5)$ là"
+  },
+  {
+    "bbox": [
+      126,
+      1382,
+      261,
+      1426
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; 6)$"
+  },
+  {
+    "bbox": [
+      476,
+      1361,
+      610,
+      1446
+    ],
+    "category": "List-item",
+    "text": "B. $\\left(\\frac{5}{2}; 6\\right)$"
+  },
+  {
+    "bbox": [
+      826,
+      1382,
+      968,
+      1426
+    ],
+    "category": "List-item",
+    "text": "C. $(6; +\\infty)$"
+  },
+  {
+    "bbox": [
+      1175,
+      1382,
+      1319,
+      1426
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; 6)$"
+  },
+  {
+    "bbox": [
+      727,
+      1474,
+      843,
+      1511
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1531,
+      190,
+      1568
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      76,
+      1587,
+      984,
+      1684
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } \\frac{\\pi}{4} < 1 \\text{ nên } \\log_{\\frac{\\pi}{4}}(x+1) > \\log_{\\frac{\\pi}{4}}(2x-5) \\Leftrightarrow \\begin{cases} x+1 > 0 \\\\ x+1 < 2x-5 \\end{cases} \\Leftrightarrow x > 6.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1703,
+      998,
+      1747
+    ],
+    "category": "Text",
+    "text": "Câu 4. Hàm số nào sau đây có bảng biến thiên như hình dưới đây?"
+  },
+  {
+    "bbox": [
+      476,
+      1770,
+      1089,
+      2020
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>0</td><td>2</td><td>+∞</td></tr><tr><td>y'</td><td>-</td><td>-</td><td>-</td></tr><tr><td>y</td><td>2</td><td>+∞</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      126,
+      2051,
+      324,
+      2131
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{2x-7}{x-2}$."
+  },
+  {
+    "bbox": [
+      476,
+      2051,
+      666,
+      2131
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{2x+1}{x+2}$."
+  },
+  {
+    "bbox": [
+      826,
+      2051,
+      1019,
+      2131
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{2x+1}{x-2}$."
+  },
+  {
+    "bbox": [
+      1175,
+      2051,
+      1370,
+      2131
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{1-2x}{x-2}$."
+  },
+  {
+    "bbox": [
+      727,
+      2156,
+      843,
+      2193
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2214,
+      198,
+      2251
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

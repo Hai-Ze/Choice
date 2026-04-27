@@ -1,0 +1,258 @@
+[
+  {
+    "bbox": [
+      156,
+      76,
+      1539,
+      283
+    ],
+    "category": "Text",
+    "text": "giám tốc. Khi xc máy đến den tín hiệu, den vẫn còn đỏ và xe stop hắn. Sau khi den chuyển xanh, xe tiếp tục di chuyển với tốc độ $v_2(t) = mt^2 + nt(m/s), (m, n \\in \\mathbb{R}, m < 0)$ trong đó $t$ là thời gian (tính bằng giây) kể từ lúc den chuyển xanh. Cuối cùng xe máy stop hắn tại một cửa hàng bên đường. Biết rằng thời gian xe máy đi từ vị trí den tín hiệu đến cửa hàng hết 20 giây và vận tốc lớn nhất trên đoạn đường này là $54km/h$."
+  },
+  {
+    "bbox": [
+      174,
+      286,
+      967,
+      329
+    ],
+    "category": "Text",
+    "text": "a) Khoảng cách từ vị trí den tín hiệu đến cửa hàng là 200 m."
+  },
+  {
+    "bbox": [
+      174,
+      329,
+      557,
+      372
+    ],
+    "category": "Text",
+    "text": "b) Giá trị của hệ số $b$ là 36."
+  },
+  {
+    "bbox": [
+      174,
+      365,
+      1542,
+      448
+    ],
+    "category": "Text",
+    "text": "c) Quảng đường xe máy đi được từ lúc bắt đầu giảm tốc lần thứ nhất đến khi stop tại vị trí den tín hiệu giao thông là 50 m."
+  },
+  {
+    "bbox": [
+      174,
+      446,
+      1343,
+      490
+    ],
+    "category": "Text",
+    "text": "d) Xe máy stop tại vị trí den tín hiệu sau 10 giây kể từ khi bắt đầu giảm tốc lần thứ nhất."
+  },
+  {
+    "bbox": [
+      161,
+      484,
+      1506,
+      562
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Bảng sau thống kê lại tổng số giờ năng trong tháng 6 của các năm từ 2002 đến 2021 tại hai trạm quan trắc đặt ở Nha Trang và Quy Nhơn."
+  },
+  {
+    "bbox": [
+      163,
+      559,
+      1476,
+      682
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Số giờ năng</td><td>[130;160)</td><td>[160;190)</td><td>[190;220)</td><td>[220;250)</td><td>[250;280)</td><td>[280;310)</td></tr></thead><tbody><tr><td>Số năm ở Nha Trang</td><td>1</td><td>1</td><td>1</td><td>8</td><td>7</td><td>2</td></tr><tr><td>Số năm ở Quy Nhơn</td><td>0</td><td>1</td><td>2</td><td>4</td><td>10</td><td>3</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      164,
+      680,
+      547,
+      721
+    ],
+    "category": "Text",
+    "text": "(Nguồn: Tổng cycle Thống kê)"
+  },
+  {
+    "bbox": [
+      164,
+      721,
+      573,
+      762
+    ],
+    "category": "Text",
+    "text": "Các мыnhi đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      181,
+      761,
+      1450,
+      804
+    ],
+    "category": "Text",
+    "text": "a) Nếu so sánh theo khoảng tử phân vị thì số giờ năng trong tháng 6 của Quy Nhơn đồng đều hơn"
+  },
+  {
+    "bbox": [
+      181,
+      799,
+      1540,
+      878
+    ],
+    "category": "Text",
+    "text": "b) Xét số liệu của Quy Nhơn ta có độ lệch chuẩn của mẫu số liệu ghép nhóm (làm tròn kết quả đến hàng phần trăm) là: 30,59"
+  },
+  {
+    "bbox": [
+      181,
+      876,
+      1406,
+      919
+    ],
+    "category": "Text",
+    "text": "c) Nếu so sánh theo độ lệch chuẩn thì số giờ năng trong tháng 6 của Nha Trang đồng đều hơn."
+  },
+  {
+    "bbox": [
+      181,
+      914,
+      1286,
+      956
+    ],
+    "category": "Text",
+    "text": "d) Số liệu ghép nhóm của Nha Trang và Quy Nhơn có khoảng biến thiên bằng nhau."
+  },
+  {
+    "bbox": [
+      164,
+      950,
+      1182,
+      991
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      161,
+      986,
+      1537,
+      1286
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Một doanh nghiệp sản xuất độc quyền một loại sản phẩm. Giả sử khi sản xuất và bán hết $x$ sản phẩm ($0 < x < 2000$), tổng số tiền doanh nghiệp thu được là $F(x) = 2000x - x^2$ (chục nghìn đồng) và tổng chi phí doanh nghiệp bỏ ra là $G(x) = x^2 + 1440x + 50$ (chục nghìn đồng). Công ty cũng phải chịu mức thuế phụ thu cho 1 đơn vị sản phẩm bán được là $t$ (chục nghìn đồng) ($0 < t < 300$). Mức thuế phụ thu $t$ (trên một đơn vị sản phẩm) là bao nhiêu sao cho nhà nước thu được số tiền thuế phụ thu lớn nhất và doanh nghiệp cũng thu được lợi nhuận nhiều nhất theo đúng mức thuế phụ thu đó (đơn vị là chục nghìn đồng, kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      161,
+      1285,
+      1521,
+      1407
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hình chóp $S.ABCD$ có cạnh đáy $SA$ vuông góc với đáy, $ABCD$ là hình vuông cạnh $10cm$. Biết góc giữa $SB$ và mặt đáy bằng $60^\\circ$. Tính hoảng cách giữa hai đường thẳng $BD$ và $SC$? (đơn vị là $cm$, kết quả làm tròn đến hàng phần trăm.)?"
+  },
+  {
+    "bbox": [
+      156,
+      1405,
+      1528,
+      1558
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trong hệ trục tọa độ $Oxyz$ cho 3 điểm $A(5;-2;0), B(4;5;-2)$ và $C(0;3;2)$.úp $M$ di chuyển trên trục $Ox$. Đặt $Q = 2|\\overline{MA} + \\overline{MB} + \\overline{MC}| + 3|\\overline{MB} + \\overline{MC}|$. Biết giá trị nhỏ nhất của $Q$ có dạng $a\\sqrt{b}$ trong đó $a,b \\in \\mathbb{N}$ và $b$ là số nguyên tố. Tính $a+b$."
+  },
+  {
+    "bbox": [
+      156,
+      1556,
+      1534,
+      1719
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một tấm kính làm mặt bàn (H1) có hình đáng tam giác đều với 3 đinh được làm cong (H2). Biết cạnh tấm kính tam giác ban đầu bằng 12(dm). Để cắt góc bàn được đẹp thì người ta cắt theo đường cong là đường Parabol (P): $y = -\\frac{\\sqrt{3}}{4}x^2 + 5\\sqrt{3}$ (H3) có hai nhánh tiếp giáp với hai cạnh của tam giác (H4)"
+  },
+  {
+    "bbox": [
+      256,
+      1726,
+      530,
+      1966
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      357,
+      2000,
+      394,
+      2026
+    ],
+    "category": "Caption",
+    "text": "H1"
+  },
+  {
+    "bbox": [
+      648,
+      1728,
+      900,
+      1941
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      729,
+      1992,
+      763,
+      2018
+    ],
+    "category": "Caption",
+    "text": "H2"
+  },
+  {
+    "bbox": [
+      1006,
+      1743,
+      1199,
+      1956
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1065,
+      1992,
+      1098,
+      2018
+    ],
+    "category": "Caption",
+    "text": "H3"
+  },
+  {
+    "bbox": [
+      1319,
+      1720,
+      1557,
+      1932
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1397,
+      1997,
+      1433,
+      2023
+    ],
+    "category": "Caption",
+    "text": "H4"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      95,
+      1034,
+      144
+    ],
+    "category": "Text",
+    "text": "Ta có: $MO + OI \\geq MI \\Rightarrow MO \\geq MI - OI \\Leftrightarrow MO \\geq 6 - \\sqrt{14} \\approx 2,26$"
+  },
+  {
+    "bbox": [
+      155,
+      165,
+      870,
+      210
+    ],
+    "category": "Text",
+    "text": "Đẳng thức xảy ra khi 3 điểm $M, O, I$ thẳng hàng."
+  },
+  {
+    "bbox": [
+      155,
+      287,
+      808,
+      329
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      344,
+      1575,
+      571
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một ly thủy tinh có hình dạng phần chứa nước là một hình parabol tròn xoay. Hình dạng này được tạo ra bằng cách quay một phần của đường parabol quanh trục đối xứng của nó. Biết phần chứa nước của ly có chiều cao tính từ đáy ly lên đến miệng ly là 10 cm, đường kính miệng ly là 8 cm (chỉ tính phần chứa nước, không tính phần thủy tinh)."
+  },
+  {
+    "bbox": [
+      517,
+      583,
+      1215,
+      934
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      958,
+      1572,
+      1038
+    ],
+    "category": "Text",
+    "text": "Ban đầu, người ta đổ vào ly một lượng nước có thể tích bằng $\\frac{1}{4}$ thể tích của ly khi nó chứa đầy nước."
+  },
+  {
+    "bbox": [
+      155,
+      1054,
+      1575,
+      1217
+    ],
+    "category": "Text",
+    "text": "Sau đó, người ta đổ thêm vào ly một lượng nước có thể tích bằng với lượng nước đã đổ ban đầu. Hỏi sau khi đổ thêm, chiều cao của mực nước trong ly đã tăng thêm bao nhiêu centimet so với lúc ban đầu (làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      155,
+      1234,
+      493,
+      1271
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      808,
+      1293,
+      924,
+      1332
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1351,
+      348,
+      1391
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 2,07"
+  },
+  {
+    "bbox": [
+      701,
+      1431,
+      1028,
+      1679
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1707,
+      244,
+      1742
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      1767,
+      350,
+      1808
+    ],
+    "category": "Formula",
+    "text": "$$\n(P) : y^2 = 2px\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1821,
+      669,
+      1903
+    ],
+    "category": "Formula",
+    "text": "$$\nx = 10, y = 4 \\Rightarrow p = \\frac{4}{5} \\Rightarrow (P) : y^2 = \\frac{8}{5}x\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1925,
+      1022,
+      2031
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích nước trong ly: } V = \\pi \\int_{0}^{10} y^2 dx = \\pi \\int_{0}^{10} \\frac{8}{5} x dx = \\frac{4\\pi x^2}{5} \\Big|_{0}^{10} = 80\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2057,
+      1096,
+      2155
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Chiều cao của nước ban đầu: } \\pi \\int_{0}^{h_1} \\frac{8}{5} x dx = \\frac{1}{4} \\cdot 80\\pi \\Leftrightarrow \\frac{4h_1^2}{5} = 20 \\Leftrightarrow h_1 = 5.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

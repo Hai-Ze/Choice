@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      648,
+      99,
+      1107,
+      548
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      581,
+      493,
+      617
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      640,
+      924,
+      678
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      697,
+      319,
+      735
+    ],
+    "category": "Text",
+    "text": "Đáp án: 52"
+  },
+  {
+    "bbox": [
+      156,
+      751,
+      1193,
+      796
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng tấm gỗ có phương trình $x + 2y + 2z = 10$ nên có VTPT là $\\vec{n}(1; 2; 2)$"
+  },
+  {
+    "bbox": [
+      156,
+      815,
+      1491,
+      861
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng tấm gỗ cắt với các trục $Ox, Oy, Oz$ tại $A, B, C$ nên ta có: $A(10; 0; 0), B(0; 5; 0), C(0; 0; 5)$"
+  },
+  {
+    "bbox": [
+      156,
+      886,
+      697,
+      1033
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } \\overrightarrow{AB} = (-10; 5; 0) \\Rightarrow AB: \\begin{cases} x = 10 - 10t \\\\ y = 0 + 5t \\\\ z = 0 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1063,
+      535,
+      1109
+    ],
+    "category": "Formula",
+    "text": "$$\nF \\in AB \\Rightarrow F(10 - 10t; 5t; 0)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1137,
+      1461,
+      1219
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Điều kiện } \\overrightarrow{CF} \\perp \\overrightarrow{AB} \\text{ nên } (10 - 10t) \\cdot (-10) + 5t \\cdot 5 + 0 \\cdot 0 = 0 \\Leftrightarrow -100 + 125t = 0 \\Rightarrow t = \\frac{4}{5} \\Rightarrow F(2; 4; 0)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1236,
+      1574,
+      1283
+    ],
+    "category": "Text",
+    "text": "Vì quả cầu tiếp xúc với mặt phẳng tấm gỗ tại $C$ nên $\\vec{n}(1; 2; 2)$ là vecto chỉ phương của đường thẳng đi"
+  },
+  {
+    "bbox": [
+      156,
+      1308,
+      1064,
+      1454
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{qua tâm quả cầu, khi đó đường thẳng tìm được là } \\begin{cases} x = s \\\\ y = 2s \\\\ z = 5 + 2s \\end{cases} \\quad (s > 0)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1482,
+      979,
+      1528
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } MC = 3 \\Leftrightarrow s^2 + 4s^2 + 4s^2 = 9 \\Leftrightarrow s = 1 \\text{ suy ra } M(1; 2; 7)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1555,
+      1335,
+      1602
+    ],
+    "category": "Text",
+    "text": "Quả cầu lăn theo đường thẳng qua $C$ và $F$, nhận $\\overrightarrow{CF} = (2; 4; -5)$ làm vecto chỉ phương"
+  },
+  {
+    "bbox": [
+      156,
+      1627,
+      1230,
+      1775
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy quỹ đạo tâm mặt cầu là đường thẳng có phương trình là: } \\begin{cases} x = 1 + 2t \\\\ y = 2 + 4t \\\\ z = 7 - 5t \\end{cases} \\quad (t \\in \\mathbb{R})\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1796,
+      875,
+      1842
+    ],
+    "category": "Text",
+    "text": "Cuối cùng quả cầu đặt xuống mặt phẳng $Oxy$ ($z = 3$)"
+  },
+  {
+    "bbox": [
+      156,
+      1861,
+      845,
+      1907
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi tiếp xúc } Oxy: z = r = 3 \\Rightarrow 7 - 5t = 3 \\Rightarrow t = 0,8.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1932,
+      765,
+      2020
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P\\left(\\frac{13}{5}; \\frac{26}{5}; 0\\right) \\text{ là điểm tiếp xúc với } Oxy.\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      2047,
+      582,
+      2128
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 10a + 5b = 10 \\cdot \\frac{13}{5} + 5 \\cdot \\frac{26}{5} = 52\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "bbox": [
+      188,
+      139,
+      1041,
+      181
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để Phương trả lời đúng cả ba câu hỏi là 0,084."
+  },
+  {
+    "bbox": [
+      191,
+      194,
+      1259,
+      236
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để Phương trả lời đúng ít nhất một trong ba câu hỏi là 0,916."
+  },
+  {
+    "bbox": [
+      188,
+      249,
+      1549,
+      337
+    ],
+    "category": "List-item",
+    "text": "d) Nếu Phương chọn \"Ngôi sao hy vọng\" ở câu hỏi thuộc lĩnh vực Tự nhiên thì xác suất để Phương trở thành quán quân của cuộc thi này là 0,736."
+  },
+  {
+    "bbox": [
+      153,
+      352,
+      198,
+      392
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      352,
+      1547,
+      455
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $A, B, C$ lần lượt là các biến cố Phương trả lời đúng các câu hỏi thuộc lĩnh vực Tự nhiên, Xã hội và Tiếng Anh. Các biến cố này độc lập với nhau."
+  },
+  {
+    "bbox": [
+      202,
+      474,
+      944,
+      516
+    ],
+    "category": "Text",
+    "text": "Theo đề bài: $P(A) = 0,7$; $P(B) = 0,4$; $P(C) = 0,3$."
+  },
+  {
+    "bbox": [
+      202,
+      533,
+      1199,
+      577
+    ],
+    "category": "Text",
+    "text": "Xác suất trả lời sai tương ứng: $P(\\bar{A}) = 0,3$; $P(\\bar{B}) = 0,6$; $P(\\bar{C}) = 0,7$."
+  },
+  {
+    "bbox": [
+      195,
+      604,
+      1322,
+      646
+    ],
+    "category": "List-item",
+    "text": "◇ **Câu a): Đúng.** Xác suất trả lời sai câu Tự nhiên là $P(\\bar{A}) = 1 - 0,7 = 0,3$."
+  },
+  {
+    "bbox": [
+      195,
+      663,
+      1536,
+      705
+    ],
+    "category": "List-item",
+    "text": "◇ **Câu b): Đúng.** Xác suất trả lời đúng cả 3 câu là: $P(A \\cap B \\cap C) = 0,7 \\cdot 0,4 \\cdot 0,3 = 0,084$."
+  },
+  {
+    "bbox": [
+      195,
+      722,
+      1387,
+      762
+    ],
+    "category": "List-item",
+    "text": "◇ **Câu c): Sai.** Xác suất để Phương trả lời sai cả ba câu là $0,3 \\cdot 0,6 \\cdot 0,7 = 0,126$."
+  },
+  {
+    "bbox": [
+      235,
+      779,
+      1089,
+      820
+    ],
+    "category": "Text",
+    "text": "Xác suất trả lời đúng ít nhất một câu là $1 - 0,126 = 0,874$."
+  },
+  {
+    "bbox": [
+      195,
+      837,
+      1547,
+      968
+    ],
+    "category": "List-item",
+    "text": "◇ **Câu d): Đúng.**úp của bạn cao nhất hiện tại là Bình (200 điểm). Để Phương (đang có 190 điểm) trở thành quán quân, Phương cần tổng điểm > 200 (tức là phần thi cuối phải tăng thêm > 10 điểm)."
+  },
+  {
+    "bbox": [
+      235,
+      987,
+      1547,
+      1071
+    ],
+    "category": "Text",
+    "text": "Phương dùng \"Ngôi sao hy vọng\" ở câu Tự nhiên: Đúng được +40, Sai bị -20. Hai câu còn lại: Đúng +20, Sai -10."
+  },
+  {
+    "bbox": [
+      260,
+      1088,
+      1547,
+      1217
+    ],
+    "category": "Text",
+    "text": "★ TH1: Phương đúng câu Tự nhiên ($XS = 0,7$). Số điểm hiện có là $190 + 40 = 230$. Ngay cả khi Phương sai cả 2 câu còn lại, điểm số sẽ là $230 - 10 - 10 = 210 > 200$. Vậy chắc chắn thẳng. Xác suất: 0,7."
+  },
+  {
+    "bbox": [
+      260,
+      1226,
+      1547,
+      1358
+    ],
+    "category": "Text",
+    "text": "★ TH2: Phương sai câu Tự nhiên ($XS = 0,3$). Số điểm hiện có là $190 - 20 = 170$. Để thẳng, Phương cần thêm > 30 điểm từ 2 câu còn lại. Cách duy nhất là Phương phải đúng cả 2 câu còn lại ($170 + 20 + 20 = 210 > 200$). Xác suất: $0,3 \\cdot 0,4 \\cdot 0,3 = 0,036$."
+  },
+  {
+    "bbox": [
+      235,
+      1373,
+      1262,
+      1415
+    ],
+    "category": "Text",
+    "text": "Tổng xác suất để Phương trở thành quán quân là: $0,7 + 0,036 = 0,736$."
+  },
+  {
+    "bbox": [
+      153,
+      1446,
+      190,
+      1482
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1444,
+      1547,
+      1842
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một nhà khoa học đang nghiên cứu tác dụng của chất $X$ lên sự phát triển của loài hoa Kaiserkrone. Bằng cách trồng hai cây hoa đều cao 10 cm ở một môi trường có chất $X$ và một môi trường không có chất $X$ sau đó đánh giá. Sau 15 ngày trồng hoa, nhà khoa học nhận ra hoa được trồng trong môi trường không có chất $X$ phát triển với tốc độ $h'_1(t) = e^{0,1t}$, hoa được trồng trong môi trường có chất $X$ phát triển với tốc độ $h'_2(t) = a \\cdot e^{-0,1t}$ ($a \\in \\mathbb{R}$) trong đó $t$ tính bằng ngày, $h'$ tính bằng cm/ngày, $0 \\le t \\le 15$. Biết rằng ở thời điểm ban đầu, tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ gấp 4 lần cây hoa trong môi trường không có chất $X$. Theo đánh giá của nhà khoa học, chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu sau 15 ngày chiều cao của cây lớn hơn so với trồng thông thường."
+  },
+  {
+    "bbox": [
+      191,
+      1863,
+      323,
+      1901
+    ],
+    "category": "List-item",
+    "text": "a) $a = 4$."
+  },
+  {
+    "bbox": [
+      188,
+      1916,
+      1547,
+      2003
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_1(t) = 10e^{0,1t} + 10$ (cm) (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      191,
+      2018,
+      1099,
+      2058
+    ],
+    "category": "List-item",
+    "text": "c) Chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      188,
+      2071,
+      1547,
+      2157
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng sau $t_0$ ngày ($0 < t_0 < 15$), hai cây hoa có chiều cao bằng nhau. Khi đó chiều cao của chúng bằng nhau và bằng 40 cm."
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      173,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "181"
+  }
+]

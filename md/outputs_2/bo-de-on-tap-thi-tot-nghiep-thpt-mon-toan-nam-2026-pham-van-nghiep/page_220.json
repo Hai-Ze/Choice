@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      207,
+      110,
+      938,
+      163
+    ],
+    "category": "Text",
+    "text": "Ta có $2d(M;\\alpha) = d_1 + d_2$ và $2d(N;\\alpha) = d_2 + d_3$."
+  },
+  {
+    "bbox": [
+      207,
+      171,
+      1574,
+      259
+    ],
+    "category": "Text",
+    "text": "Gọi $G\\left(2; -\\frac{4}{3}; \\frac{5}{3}\\right)$ là trọng tâm tam giác $MNC$."
+  },
+  {
+    "bbox": [
+      207,
+      267,
+      1008,
+      321
+    ],
+    "category": "Text",
+    "text": "Khi đó $T = 2d(M;\\alpha) + 2d(N;\\alpha) + 2d_3 = 6d(G;\\alpha)$."
+  },
+  {
+    "bbox": [
+      207,
+      329,
+      1574,
+      382
+    ],
+    "category": "Text",
+    "text": "Do đó $T = 6d(G;\\alpha) \\le 6d(G;Oy)$."
+  },
+  {
+    "bbox": [
+      207,
+      390,
+      1423,
+      479
+    ],
+    "category": "Text",
+    "text": "Gọi $H(0;t;0)$ là hình chiếu của $G$ lên đường thẳng $Oy$, ta có $\\overline{GH} = \\left(-2;t+\\frac{4}{3};\\frac{-5}{3}\\right)$"
+  },
+  {
+    "bbox": [
+      207,
+      486,
+      771,
+      574
+    ],
+    "category": "Text",
+    "text": "Nên $\\overrightarrow{GH} \\cdot \\vec{j} = 0 \\Leftrightarrow 1 \\cdot \\left(t+\\frac{4}{3}\\right) = 0 \\Leftrightarrow t = -\\frac{4}{3}$"
+  },
+  {
+    "bbox": [
+      207,
+      582,
+      1362,
+      689
+    ],
+    "category": "Text",
+    "text": "Vậy $T_{\\max} = 6GH = 6\\sqrt{(2)^2 + \\left(\\frac{5}{3}\\right)^2} = 2\\sqrt{61} = a\\sqrt{b} \\Rightarrow \\begin{cases} a = 2 \\\\ b = 61 \\end{cases} \\Rightarrow S = 98a + 99b = 6235$."
+  },
+  {
+    "bbox": [
+      74,
+      693,
+      1574,
+      833
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** [3] Một biển广宣 có dạng hình vuông $ABCD$ cạnh bằng $4m$ và $I$ là trung điểm của đoạn thẳng $CD$. Trên tấm biển đó có đường parabol đinh $I$ đi qua $A, B$ và cắt đường chéo $BD$ tại $M$ ($M$ khác $B$, tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      656,
+      838,
+      1114,
+      1265
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1285,
+      1574,
+      1434
+    ],
+    "category": "Text",
+    "text": "Chi phí sơn phần hình gạch sọc (có diện tích $S_1$) là $200.000$ đồng/m², chi phí sơn phần tô Đâm (có diện tích $S_2$) là $180.000$ đồng/m² và phần còn lại là $150.000$ đồng/m². Số tiền cần chi trả để sơn täm biển广宣 là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      764,
+      1436,
+      884,
+      1478
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1480,
+      422,
+      1523
+    ],
+    "category": "Text",
+    "text": "Đáp số: 2810."
+  },
+  {
+    "bbox": [
+      640,
+      1523,
+      1160,
+      2024
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      2028,
+      1574,
+      2121
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxy$ như hình vẽ, với $O$ là trung điểm của $BD$ và hai trục lần lượt song song với hai cạnh $AB, AD$."
+  },
+  {
+    "bbox": [
+      211,
+      2125,
+      1574,
+      2229
+    ],
+    "category": "Text",
+    "text": "Ta có Toa độ các điểm $A(-2;-2)$, $B(2;-2)$ và $I(0;2)$; Phương trình của đường parabol có dạng $y = ax^2 + b$ thay tọa độ các điểm $B, I$ ta có được $b = 2$ và $-2 = a \\cdot 2^2 + 2 \\Leftrightarrow a = -1$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

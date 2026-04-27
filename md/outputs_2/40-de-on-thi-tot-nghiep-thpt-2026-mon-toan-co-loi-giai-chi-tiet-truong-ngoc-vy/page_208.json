@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      99,
+      457,
+      146
+    ],
+    "category": "Formula",
+    "text": "d) $T(t) = 65 \\cdot e^{-2t} + 35$."
+  },
+  {
+    "bbox": [
+      807,
+      173,
+      924,
+      211
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      226,
+      971,
+      348
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      406,
+      911,
+      466
+    ],
+    "category": "Formula",
+    "text": "a) Ta có: $T(t) = \\int T'(t)dt = \\int (-130 \\cdot e^{-2t})dt = 65 \\cdot e^{-2t} + C$."
+  },
+  {
+    "bbox": [
+      156,
+      491,
+      601,
+      538
+    ],
+    "category": "Formula",
+    "text": "Khi $t = 0$, $T(0) = 100 \\Rightarrow C = 35$."
+  },
+  {
+    "bbox": [
+      156,
+      566,
+      1145,
+      646
+    ],
+    "category": "Formula",
+    "text": "Nhiệt độ của vật tại thời điểm $t = 2$ phút là $T(2) = 65 \\cdot e^{-2 \\cdot 2} + 35 = \\frac{65}{e^4} + 35$."
+  },
+  {
+    "bbox": [
+      156,
+      669,
+      1558,
+      719
+    ],
+    "category": "Formula",
+    "text": "b) $T'(t) = -130 \\cdot e^{-2t} \\Rightarrow T''(t) = 260 \\cdot e^{-2t} > 0, \\forall t$. Vậy tốc độ giảm nhiệt độ của vật tăng dẫn theo thời gian."
+  },
+  {
+    "bbox": [
+      156,
+      743,
+      946,
+      803
+    ],
+    "category": "Formula",
+    "text": "c) d) Ta có: $T(t) = \\int T'(t)dt = \\int (-130 \\cdot e^{-2t})dt = 65 \\cdot e^{-2t} + C$."
+  },
+  {
+    "bbox": [
+      156,
+      828,
+      601,
+      875
+    ],
+    "category": "Formula",
+    "text": "Khi $t = 0$, $T(0) = 100 \\Rightarrow C = 35$."
+  },
+  {
+    "bbox": [
+      156,
+      902,
+      483,
+      949
+    ],
+    "category": "Formula",
+    "text": "Vậy $T(t) = 65 \\cdot e^{-2t} + 35$."
+  },
+  {
+    "bbox": [
+      156,
+      970,
+      1575,
+      1665
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Ngày nay, nhờ vào hệ thống định vị toàn cầu GPS (Global Positioning System), việc di chuyển của con người hết sức thuận lợi dù bằng đường bộ, đường sixth, đường hàng không hay đường biển. Nếu có thiết bị bắt sóng GPS, bạn luôn có thể kết nối được đến bốn vệ tinh GPS dù ở bất kìdotrên Trái Đất. Khi thiết bị của bạn biết khoảng cách từ ít nhất ba vệ tinh đến nó, máy sẽ tính toán ra vị trí hiện tại của bạn bằng một quy trình gọi là Trilateration. Cho biết Trái Đất có dạng hình cầu bán kính bằng $\\sqrt{41} \\cdot 10^3$ km. Bạn An đang đứng trên mặt đất. Có ba vệ tinh báo về máy chủ tiếp nhận thông tin rằng vệ tinh thứ nhất đang cách An $3 \\cdot 10^3$ km, vệ tinh thứ hai cách An $5 \\cdot 10^3$ km và vệ tinh thứ ba đang cách An $4 \\cdot 10^3$ km. Chọn hệ trục tọa độ $Oxyz$ với $O$ là tâm Trái Đất và đơn vị độ dài trên mỗi trục là $10^3$ km. Tại thời điểm vệ tinh thông báo về máy chủ thì tọa độ các vệ tinh lần lượt là $I_1(4;4;6)$, $I_2(4;9;3)$ và $I_3(8;4;3)$. Xem vị trí của An là điểm $A$ và An cần di chuyển thẳng đến nhà Bình là điểm $B(4;4;3,01)$ với tốc độ không đổi là $20$ km/h."
+  },
+  {
+    "bbox": [
+      156,
+      1683,
+      957,
+      1732
+    ],
+    "category": "Text",
+    "text": "a) **Điểm A** nằm trên mặt cầu tâm $O$ bán kính $\\sqrt{41} \\cdot 10^3$ km."
+  },
+  {
+    "bbox": [
+      156,
+      1756,
+      1430,
+      1805
+    ],
+    "category": "Text",
+    "text": "b) Phương trình mặt cầu mô tả ranh giới bên trong và bên ngoài Trái Đất là $x^2 + y^2 + z^2 = \\sqrt{41}$."
+  },
+  {
+    "bbox": [
+      156,
+      1827,
+      1572,
+      1938
+    ],
+    "category": "Text",
+    "text": "c) **Điểm A** chính là giao điểm của bốn mặt cầu: Trái Đất và ba mặt cầu tâm lần lượt $I_1, I_2, I_3$ có bán kính lần lượt là khoảng cách từ các vệ tinh đến An."
+  },
+  {
+    "bbox": [
+      156,
+      1952,
+      744,
+      1996
+    ],
+    "category": "Text",
+    "text": "d) Thời gian An đi đến nhà Bình là 30 phút."
+  },
+  {
+    "bbox": [
+      807,
+      2016,
+      924,
+      2054
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2070,
+      971,
+      2191
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      2191,
+      1301,
+      2239
+    ],
+    "category": "Text",
+    "text": "a) **Điểm A** là vị trí của bạn An, nên $A$ nằm trên mặt cầu tâm $O$ bán kính $\\sqrt{41} \\cdot 10^3$ km."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

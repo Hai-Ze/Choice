@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      74,
+      97,
+      1497,
+      373
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, một con chim bay từ vị trí $M(0;1;0)$ với vận tốc không đổi và vecto vận tốc là $\\vec{v}_1 = (1;-1;2)$. cùng thời điểm đó, bạn Minh Hiền núp ở gốc cây và bắn ra một viên đạn từ điểm $N(1;2;-2)$, đầu đạn đi với vận tốc không đổi và có vecto vận tốc là $\\vec{v}_2 = (5;1;-2)$. Biết bạn Minh Hiền bắn trúng con chim ở toạ độ $A(x; y; z)$, hãy giá trị biểu thức $T = 3x + 6y + 9z$."
+  },
+  {
+    "bbox": [
+      505,
+      446,
+      1064,
+      842
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      913,
+      415,
+      951
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      726,
+      973,
+      843,
+      1013
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      1029,
+      244,
+      1070
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** -4"
+  },
+  {
+    "bbox": [
+      74,
+      1087,
+      1125,
+      1238
+    ],
+    "category": "Text",
+    "text": "Phương trình mô tả quỹ đạo chuyển động của con chim là: $$ \\begin{cases} x = t \\\\ y = 1 - t \\\\ z = 2t \\end{cases} \\quad (t \\in \\mathbb{R}) $$"
+  },
+  {
+    "bbox": [
+      74,
+      1263,
+      1165,
+      1414
+    ],
+    "category": "Text",
+    "text": "Phương trình mô tả quỹ đạo chuyển động của viên đạn là: $$ \\begin{cases} x = 1 + 5t' \\\\ y = 2 + t' \\\\ z = -2 - 2t' \\end{cases} \\quad (t' \\in \\mathbb{R}) $$"
+  },
+  {
+    "bbox": [
+      74,
+      1439,
+      1325,
+      1803
+    ],
+    "category": "Text",
+    "text": "Toạ độ $A(x; y; z)$ là nghiệm của hệ phương trình $$ \\begin{cases} t = 1 + 5t' \\\\ 1 - t = 2 + t' \\\\ 2t = -2 - 2t' \\end{cases} \\Leftrightarrow \\begin{cases} t - 5t' = 1 \\\\ -t - t' = 1 \\\\ 2t + 2t' = -2 \\end{cases} \\Leftrightarrow \\begin{cases} t = -\\frac{2}{3} \\\\ t' = -\\frac{1}{3} \\end{cases} $$\n$\\Rightarrow A\\left(-\\frac{2}{3}; \\frac{5}{3}; -\\frac{4}{3}\\right)$\n$\\Rightarrow T = 3x + 6y + 9z = -4$"
+  },
+  {
+    "bbox": [
+      74,
+      1826,
+      1495,
+      1992
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $B$, $AB = 4$, $AC = 5$, $AA' = 6$. Khoảng cách giữa hai đường thẳng $AB$ và $CB'$ bằng bao nhiêu? (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      74,
+      2008,
+      415,
+      2046
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      726,
+      2067,
+      843,
+      2107
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2123,
+      253,
+      2164
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 2,7"
+  },
+  {
+    "bbox": [
+      74,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2254,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

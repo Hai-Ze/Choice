@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1572,
+      153
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x+1)^2 + (y-1)^2 + (z+2)^2 = 9$ và điểm $A(0;2;-3)$."
+  },
+  {
+    "bbox": [
+      155,
+      177,
+      1019,
+      228
+    ],
+    "category": "Text",
+    "text": "a) Phương trình mặt cầu $(S)$ có tâm $I(1;-1;2)$, bán kính $R = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      253,
+      697,
+      302
+    ],
+    "category": "Text",
+    "text": "b) điểm $A(0;2;-3)$ nằm ngoài mặt cầu."
+  },
+  {
+    "bbox": [
+      155,
+      330,
+      1171,
+      479
+    ],
+    "category": "Text",
+    "text": "c) Phương trình đường thẳng đi qua tâm $I$ và điểm $A$ là:\n$$ \\begin{cases} x = -1+t \\\\ y = 1+t \\\\ z = -2+t \\end{cases} \\quad (t \\in \\mathbb{R}) $$"
+  },
+  {
+    "bbox": [
+      155,
+      505,
+      1574,
+      620
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt phẳng $(Q)$ đi qua tâm $I$ và song song với mặt phẳng $(P): x + y + z - 3 = 0$ có dạng $ax + by + z + d = 0$. Khi đó $2025a + 2026b + d = 4053$"
+  },
+  {
+    "bbox": [
+      807,
+      645,
+      924,
+      683
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      697,
+      972,
+      821
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      881,
+      682,
+      936
+    ],
+    "category": "Formula",
+    "text": "a) $(S): (x+1)^2 + (y-1)^2 + (z+2)^2 = 9$"
+  },
+  {
+    "bbox": [
+      155,
+      960,
+      891,
+      1008
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt cầu tâm $I(-1;1;-2)$, bán kính $R = 3$"
+  },
+  {
+    "bbox": [
+      155,
+      1036,
+      1286,
+      1091
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $(0+1)^2 + (2-1)^2 + (-3+2)^2 = 3 = R = 3$, do đó điểm $A$ nằm trên mặt cầu."
+  },
+  {
+    "bbox": [
+      155,
+      1115,
+      698,
+      1168
+    ],
+    "category": "Formula",
+    "text": "c) $I(-1;1;-2), A(0;2;-3) \\Rightarrow \\overrightarrow{IA} = (1;1;1)$"
+  },
+  {
+    "bbox": [
+      155,
+      1193,
+      1373,
+      1341
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng đi qua tâm $I$ và có vecto chỉ phương $\\overrightarrow{IA}$ là:\n$$ \\begin{cases} x = -1+t \\\\ y = 1+t \\\\ z = -2+t \\end{cases} \\quad (t \\in \\mathbb{R}) $$"
+  },
+  {
+    "bbox": [
+      155,
+      1369,
+      1458,
+      1419
+    ],
+    "category": "Text",
+    "text": "d) mặt phẳng $(Q)$ song song với mặt phẳng nên phương trình mặt phẳng $(Q)$ là $x + y + z + D = 0$"
+  },
+  {
+    "bbox": [
+      155,
+      1446,
+      707,
+      1494
+    ],
+    "category": "Formula",
+    "text": "Mà $I \\in (Q) \\Rightarrow -1+1-2+D = 0 \\Rightarrow D = 2$"
+  },
+  {
+    "bbox": [
+      155,
+      1520,
+      887,
+      1568
+    ],
+    "category": "Text",
+    "text": "Do đó phương trình mặt phẳng $(Q)$ là $x + y + z + 2 = 0$"
+  },
+  {
+    "bbox": [
+      155,
+      1593,
+      551,
+      1630
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2025a + 2026b + d = 4053\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1704,
+      1574,
+      1985
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một hệ thống AI được sử dụng để kiểm tra đạo văn trong các bài viết học sinh nộp. Theo thống kê: có 1% bài viết là đạo văn, 99% bài viết là chính chủ (không đạo văn). Phần mềm kiểm tra có độ chính xác như sau: Nếu bài viết là đạo văn, phần mềm phát hiện đúng với xác suất 98%; Nếu bài viết là chính chủ, phần mềm nhầm là đạo văn với xác suất 3%. Kiểm tra ngẫu nhiên một bài viết của học sinh nộp."
+  },
+  {
+    "bbox": [
+      155,
+      1997,
+      789,
+      2042
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: \"Bài viết thực sự là đạo văn\"."
+  },
+  {
+    "bbox": [
+      155,
+      2053,
+      880,
+      2099
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: \"Phần mềm báo bài viết là đạo văn\"."
+  },
+  {
+    "bbox": [
+      155,
+      2113,
+      531,
+      2157
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(B) = 0,0395$."
+  },
+  {
+    "bbox": [
+      155,
+      2181,
+      715,
+      2227
+    ],
+    "category": "Text",
+    "text": "b) Xác suất $P(A) = 0,01$ và $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

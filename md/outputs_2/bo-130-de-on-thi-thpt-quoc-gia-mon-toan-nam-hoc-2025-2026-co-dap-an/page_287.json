@@ -1,0 +1,227 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1263,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1597,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      361,
+      125,
+      926,
+      620
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      692,
+      448,
+      768
+    ],
+    "category": "Formula",
+    "text": "a) $\\int f(x) \\, dx = x^3 + C$."
+  },
+  {
+    "bbox": [
+      124,
+      768,
+      813,
+      806
+    ],
+    "category": "Text",
+    "text": "b) Giá trị trung bình của $g(x)$ trên đoạn $[2; 4]$ là 1."
+  },
+  {
+    "bbox": [
+      124,
+      806,
+      1002,
+      925
+    ],
+    "category": "Formula",
+    "text": "c) Diện tích phần tô đâm được tính bởi $S = \\int_{0}^{4} (3x^2 + x - 4) \\, dx$."
+  },
+  {
+    "bbox": [
+      124,
+      920,
+      1193,
+      993
+    ],
+    "category": "Text",
+    "text": "d) Vật thể tròn xoay khi phần tô đâm quay quanh trục $Ox$ có thể tích bằng $\\frac{54\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      94,
+      1028,
+      1198,
+      1108
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một công ty truyền thông đấu thầu 2 dự án. Gọi $A, B$ lần lượt là biến cố thẳng thầu dự án 1 và dự án 2."
+  },
+  {
+    "bbox": [
+      124,
+      1121,
+      574,
+      1158
+    ],
+    "category": "Text",
+    "text": "a) $A$ và $B$ là hai biến cố độc lập."
+  },
+  {
+    "bbox": [
+      124,
+      1161,
+      979,
+      1200
+    ],
+    "category": "Text",
+    "text": "b) Biết thẳng thầu dự án 1, xác suất thẳng thầu dự án 2 là 0,8."
+  },
+  {
+    "bbox": [
+      124,
+      1203,
+      760,
+      1241
+    ],
+    "category": "Text",
+    "text": "c) Xác suất công ty thẳng đúng 1 dự án là 0,3."
+  },
+  {
+    "bbox": [
+      124,
+      1243,
+      1073,
+      1282
+    ],
+    "category": "Text",
+    "text": "d) Biết không thẳng thầu dự án 1, xác suất thẳng thầu dự án 2 là 0,8."
+  },
+  {
+    "bbox": [
+      94,
+      1360,
+      798,
+      1942
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Nhóm nhà khoa học có chế tạo ra một vật thể điện tử, họ rất hy vọng và đặt tên nó là CHÚ ONG THÔNG MINH. Với các công nghệ hiện có và để kiểm nghiệm chú ong này thông minh đến mức nào, các nhà khoa học nhốt chú ong trong một một cái lồng lưới (chú ong này tất nhiên không bay ra ngoài được), lồng có hình dạng là hình chóp tức giác đều $S.ABCD$, và hình chóp này được gắn vào hệ trục tọa độ $Oxyz$ như hình vẽ, trong đó $O$ là tâm hình vuông $ABCD$ và $OA = OB = 20$ và $OS = 30$ (đơn vị mét). Mỗi ngày, chú ong này phải bay 5 vòng, mỗi vòng từ trung điểm $M$ của cạnh $AB$, catch đến một điểm trên mặt $SCD$, trở về điểm $B$, rồi quay về điểm xuất phát $M$ (mối quá trình bay đều theo các đoạn thẳng)."
+  },
+  {
+    "bbox": [
+      124,
+      1948,
+      593,
+      1990
+    ],
+    "category": "Text",
+    "text": "a) Độ dài cạnh $AB = 20\\sqrt{2}$ (mét)."
+  },
+  {
+    "bbox": [
+      124,
+      1990,
+      924,
+      2125
+    ],
+    "category": "Text",
+    "text": "b) Dường thẳng $AB$ có phương trình $\\begin{cases} x = -20 - t \\\\ y = t \\\\ z = 0 \\end{cases}$, $t \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      124,
+      2125,
+      954,
+      2164
+    ],
+    "category": "Text",
+    "text": "c) Mặt phẳng ($SCD$) có phương trình $3x + 3y + 2z - 60 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      2167,
+      986,
+      2206
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường bay ngắn nhất mỗi ngày là 336 mét (làm tròn)."
+  },
+  {
+    "bbox": [
+      838,
+      1378,
+      1170,
+      1688
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 285"
+  }
+]

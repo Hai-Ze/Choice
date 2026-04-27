@@ -1,0 +1,392 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      136
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      156,
+      156,
+      1450,
+      201
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      156,
+      217,
+      1049,
+      262
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Hàm số $y = x^3 - 3x^2 - 9x + 1$ đồng biến trên mỗi khoảng:"
+  },
+  {
+    "bbox": [
+      205,
+      289,
+      507,
+      336
+    ],
+    "category": "List-item",
+    "text": "A. $(-1;3)$ và $(3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      905,
+      289,
+      1198,
+      336
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty;-1)$ và $(1;3)$."
+  },
+  {
+    "bbox": [
+      205,
+      364,
+      519,
+      411
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty;3)$ và $(3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      905,
+      364,
+      1234,
+      411
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty;-1)$ và $(3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      438,
+      924,
+      477
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      496,
+      279,
+      535
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      552,
+      774,
+      649
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = 3x^2 - 6x - 9$ nên $y' = 0 \\Leftrightarrow \\begin{cases} x = -1 \\\\ x = 3 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      156,
+      669,
+      469,
+      714
+    ],
+    "category": "Text",
+    "text": "Bảng xét dấu của $y'$ là"
+  },
+  {
+    "bbox": [
+      242,
+      794,
+      1510,
+      922
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$3$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      981,
+      1006,
+      1031
+    ],
+    "category": "Text",
+    "text": "Do đó hàm số đồng biến trên mỗi khoảng $(-\\infty;-1)$ và $(3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      156,
+      1058,
+      1572,
+      1213
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nếu hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và có $f'(x) = \\frac{1}{e^{2026x}} - e^{2026x}$, $\\forall x \\in \\mathbb{R}$ thì giá trị nhỏ nhất của hàm số $y = f(x)$ trên đoạn $[2;3]$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      1239,
+      350,
+      1326
+    ],
+    "category": "List-item",
+    "text": "A. $f(\\frac{5}{2})$."
+  },
+  {
+    "bbox": [
+      555,
+      1261,
+      688,
+      1308
+    ],
+    "category": "List-item",
+    "text": "B. $f(2)$."
+  },
+  {
+    "bbox": [
+      905,
+      1261,
+      1038,
+      1308
+    ],
+    "category": "List-item",
+    "text": "C. $f(3)$."
+  },
+  {
+    "bbox": [
+      1254,
+      1261,
+      1490,
+      1308
+    ],
+    "category": "List-item",
+    "text": "D. Không tồn tại."
+  },
+  {
+    "bbox": [
+      807,
+      1353,
+      924,
+      1392
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1411,
+      279,
+      1450
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      1469,
+      1572,
+      1624
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\frac{1}{e^{2026x}} - e^{2026x} < 0, \\forall x \\in [2;3] \\Rightarrow f'(x) < 0, \\forall x \\in [2;3] \\Rightarrow$ hàm số $y = f(x)$ luôn nghịch biến trên đoạn $[2;3]$"
+  },
+  {
+    "bbox": [
+      156,
+      1651,
+      662,
+      1712
+    ],
+    "category": "Text",
+    "text": "Vậy $\\max_{[2;3]} y = f(2)$ và $\\min_{[2;3]} y = f(3)$."
+  },
+  {
+    "bbox": [
+      156,
+      1738,
+      1430,
+      1788
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 2$ và công bội $q = -2$. Giá trị của $u_6$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1815,
+      299,
+      1852
+    ],
+    "category": "List-item",
+    "text": "A. 32."
+  },
+  {
+    "bbox": [
+      555,
+      1815,
+      648,
+      1852
+    ],
+    "category": "List-item",
+    "text": "B. 64."
+  },
+  {
+    "bbox": [
+      905,
+      1815,
+      1002,
+      1852
+    ],
+    "category": "List-item",
+    "text": "C. 42."
+  },
+  {
+    "bbox": [
+      1254,
+      1815,
+      1369,
+      1852
+    ],
+    "category": "List-item",
+    "text": "D. -64."
+  },
+  {
+    "bbox": [
+      807,
+      1873,
+      924,
+      1912
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1933,
+      279,
+      1972
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      1989,
+      599,
+      2036
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_6 = u_1 \\cdot q^5 = 2(-2)^5 = -64$."
+  },
+  {
+    "bbox": [
+      156,
+      2060,
+      944,
+      2101
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Heo nghiệm của phương trình $\\tan 2x - \\tan x = 0$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      2128,
+      460,
+      2203
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{-\\pi}{6} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      555,
+      2128,
+      789,
+      2203
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\pi}{3} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      905,
+      2128,
+      1138,
+      2203
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\pi}{6} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      1254,
+      2141,
+      1434,
+      2178
+    ],
+    "category": "List-item",
+    "text": "D. $k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

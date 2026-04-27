@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1495,
+      196
+    ],
+    "category": "Text",
+    "text": "thông; mỗi học sinh lớp 12C trồng được 5 cây thông. Biết số học sinh lớp 12A bằng trung bình cộng số học sinh lớp 12B và 12C. Hỏi tổng số học sinh ba lớp 12A, 12B, 12C bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      75,
+      215,
+      414,
+      251
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      274,
+      843,
+      312
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      331,
+      239,
+      369
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 96"
+  },
+  {
+    "bbox": [
+      75,
+      443,
+      1229,
+      489
+    ],
+    "category": "Text",
+    "text": "Gọi số học sinh của ba lớp 12A, 12B, 12C lần lượt là $x, y, z$ (học sinh) ($x, y, z \\in \\mathbb{Z}$)."
+  },
+  {
+    "bbox": [
+      75,
+      507,
+      318,
+      547
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      564,
+      1173,
+      609
+    ],
+    "category": "Text",
+    "text": "- Số học sinh lớp 12A bằng trung bình cộng số học sinh lớp 12B và 12C, suy ra:"
+  },
+  {
+    "bbox": [
+      81,
+      635,
+      471,
+      711
+    ],
+    "category": "Formula",
+    "text": "$$\nx = \\frac{y + z}{2} \\Rightarrow 2x - y - z = 0(1)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      728,
+      1184,
+      774
+    ],
+    "category": "Text",
+    "text": "- Số cây bạch đàn mỗi học sinh lớp 12A, 12B trồng được lần lượt là: 3, 2. Suy ra:"
+  },
+  {
+    "bbox": [
+      81,
+      796,
+      309,
+      840
+    ],
+    "category": "Formula",
+    "text": "$$\n3x + 2y = 164(2)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      861,
+      1488,
+      907
+    ],
+    "category": "Text",
+    "text": "- Số cây thông mỗi học sinh lớp 12A, 12B, 12C trồng được lần lượt là: 2, 3, 5. Suy ra:"
+  },
+  {
+    "bbox": [
+      81,
+      930,
+      373,
+      975
+    ],
+    "category": "Formula",
+    "text": "$$\n2x + 3y + 5z = 316(2)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1003,
+      885,
+      1150
+    ],
+    "category": "Text",
+    "text": "Từ (1), (2) và (3) ta có hệ phương trình:\n$$ \\begin{cases} 2x - y - z = 0 \\\\ 3x + 2y = 164 \\\\ 2x + 3y + 5z = 316 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      75,
+      1172,
+      927,
+      1216
+    ],
+    "category": "Text",
+    "text": "Giải hệ này ta được $x = 32, y = 34, z = 30$ (thoả mãn điều kiện)."
+  },
+  {
+    "bbox": [
+      75,
+      1230,
+      1083,
+      1275
+    ],
+    "category": "Text",
+    "text": "Vậy số học sinh của ba lớp 12A, 12B, 12C lần lượt là 32, 34, 30 học sinh."
+  },
+  {
+    "bbox": [
+      75,
+      1289,
+      1161,
+      1334
+    ],
+    "category": "Text",
+    "text": "Do đó, tổng số học sinh ba lớp 12A, 12B, 12C bằng $32+34+30 = 96$ học sinh."
+  },
+  {
+    "bbox": [
+      75,
+      1349,
+      1495,
+      1526
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hình vuông OABC cạnh bằng 8, điểm M nằm trong hình vuông sao cho khoảng cách từ M đến các cạnh OA, OC cùng bằng 3. Parabol ($P_1$) đi qua các điểm O, A, M, Parabol ($P_2$) đi qua các điểm O, C, M. Tính diện tích phần tô đâm (hình vẽ bên). (kết quả làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      588,
+      1550,
+      979,
+      1950
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1972,
+      414,
+      2008
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2031,
+      843,
+      2069
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2088,
+      239,
+      2126
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 32"
+  },
+  {
+    "bbox": [
+      75,
+      2147,
+      1048,
+      2187
+    ],
+    "category": "Text",
+    "text": "Cho hệ trục tọa độ Oxy sao cho tia Ox trùng tia OA, tia Oy trùng tia OB."
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

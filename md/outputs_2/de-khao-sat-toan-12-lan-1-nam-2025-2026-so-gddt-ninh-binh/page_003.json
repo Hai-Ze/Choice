@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      114,
+      120,
+      1535,
+      228
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Trong không gian với hệ trục tọa độ $Oxyz$, cho tam giác $ABC$ với $A(3;0;0)$, $B(0;6;0)$, $C(0;0;-9)$."
+  },
+  {
+    "bbox": [
+      251,
+      252,
+      1001,
+      299
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ trọng tâm $G$ của tam giác $ABC$ là $(1;2;-3)$."
+  },
+  {
+    "bbox": [
+      251,
+      322,
+      699,
+      374
+    ],
+    "category": "List-item",
+    "text": "b) Tọa độ của $\\overline{GA}$ là $(-2;2;-3)$."
+  },
+  {
+    "bbox": [
+      251,
+      394,
+      440,
+      442
+    ],
+    "category": "List-item",
+    "text": "c) $GA = \\sqrt{17}$."
+  },
+  {
+    "bbox": [
+      251,
+      466,
+      544,
+      551
+    ],
+    "category": "List-item",
+    "text": "d) $\\cos AGB = \\frac{1}{\\sqrt{442}}$."
+  },
+  {
+    "bbox": [
+      114,
+      568,
+      1535,
+      658
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Thống kê thời gian trung bình sử dụng máy vi tính trong một ngày của nhân viên công ty X cho bởi bảng số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      335,
+      658,
+      1517,
+      776
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian sử dụng (phút)</td><td>[30; 60)</td><td>[60; 90)</td><td>[90; 120)</td><td>[120; 150)</td><td>[150; 180)</td></tr><tr><td>Số nhân viên</td><td>3</td><td>5</td><td>5</td><td>25</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      782,
+      982,
+      828
+    ],
+    "category": "List-item",
+    "text": "a) Số phần tử (cỡ mẫu) của mẫu số liệu trên là $n = 40$."
+  },
+  {
+    "bbox": [
+      251,
+      841,
+      995,
+      887
+    ],
+    "category": "List-item",
+    "text": "b) Số trung bình cộng của mẫu số liệu trên bằng $118,5$."
+  },
+  {
+    "bbox": [
+      251,
+      903,
+      862,
+      949
+    ],
+    "category": "List-item",
+    "text": "c) Phương sai của mẫu số liệu trên bằng $945$."
+  },
+  {
+    "bbox": [
+      251,
+      965,
+      948,
+      1013
+    ],
+    "category": "List-item",
+    "text": "d) Độ lệch chuẩn của mẫu số liệu trên bằng $3\\sqrt{105}$."
+  },
+  {
+    "bbox": [
+      114,
+      1025,
+      744,
+      1071
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Học sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      1081,
+      1535,
+      1167
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Một công ty thống kê tuổi của các nhân viên và kết quả được cho trong bảng số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      403,
+      1173,
+      1331,
+      1290
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[23; 26)</td><td>[26; 29)</td><td>[29; 32)</td><td>[32; 35)</td><td>[35; 38)</td></tr><tr><td>Tần số</td><td>23</td><td>40</td><td>56</td><td>33</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1296,
+      1535,
+      1383
+    ],
+    "category": "Text",
+    "text": "Khoảng tử phân vị của mẫu số liệu ghép nhóm trên *(làm tròn đến hàng phần mười)* là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      1397,
+      1535,
+      1488
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Tại phòng thí nghiệm Sinh học, nhóm nghiên cứu nuôi cấy không liên tục Vi�uẩn $E.Coli$ ở điều kiện tối ưu. sự sinh trưởng của一周 thể vi�uẩn bao gồm 4 pha cơ bản:"
+  },
+  {
+    "bbox": [
+      251,
+      1496,
+      1535,
+      1586
+    ],
+    "category": "Text",
+    "text": "- Pha tiêm phát (pha lag): Vi�uẩn cần thích nghi với môi trường, tổng hợp vật chất chuẩn bị cho sự phân chia."
+  },
+  {
+    "bbox": [
+      251,
+      1596,
+      1535,
+      1687
+    ],
+    "category": "Text",
+    "text": "- Pha luỹ thua (pha log): Phân chia mạnh me theo tiêm năng, số lượng tế bào tăng theo luỹ thua và đạt đến cực đại ở cuối pha."
+  },
+  {
+    "bbox": [
+      251,
+      1695,
+      1098,
+      1741
+    ],
+    "category": "Text",
+    "text": "- Pha cân bằng: Lượng tế bào sinh ra bằng lượng tế bào chết đi."
+  },
+  {
+    "bbox": [
+      251,
+      1751,
+      1535,
+      1842
+    ],
+    "category": "Text",
+    "text": "- Pha suy vong: Số lượng tế bào trong一周 thể ngày càng giảm do chất dinh dưỡng cạn kiệt, chất độc hại tích luỹ ngày càng nhiều."
+  },
+  {
+    "bbox": [
+      251,
+      1852,
+      1535,
+      2048
+    ],
+    "category": "Text",
+    "text": "Giả sử trong giai đoạn **“Pha luỹ thua (pha log)”**, số lượng của một一周 thể vi�uẩn $E.Coli$ được xác định bởi công thức $P(t) = 100e^{0,1t}$, trong đó thời gian $t$ được tính bằng phút. tại thời điểm $t = 20$, tốc độ tăng trưởng tức thời của一周 thể vi�uẩn $E.Coli$ là bao nhiêu vi�uẩn/phút? *(làm tròn kết quả đến hàng đơn vị).*"
+  },
+  {
+    "bbox": [
+      114,
+      2064,
+      1535,
+      2168
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Hàm số $y = \\log_2(x^2 + 3x)$ nghịch biến trên khoảng $(-\\infty; a)$. Giá trị lớn nhất của $a$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1235,
+      2248,
+      1535,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 0101"
+  }
+]

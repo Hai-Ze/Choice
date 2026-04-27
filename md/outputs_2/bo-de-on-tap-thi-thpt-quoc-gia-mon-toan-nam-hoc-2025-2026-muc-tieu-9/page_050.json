@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1498,
+      184
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho hàm số $y = f(x)$ liên tục và có bảng biến thiên trên đoạn $[-1; 3]$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      525,
+      188,
+      1170,
+      509
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-1$</td><td>0</td><td>2</td><td>3</td></tr><tr><td>$y'$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$y$</td><td>0</td><td>5</td><td>1</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      528,
+      601,
+      571
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      189,
+      590,
+      552,
+      635
+    ],
+    "category": "List-item",
+    "text": "A) $\\max_{[-1;3]} f(x) = f(0)$."
+  },
+  {
+    "bbox": [
+      876,
+      590,
+      1239,
+      635
+    ],
+    "category": "List-item",
+    "text": "B) $\\max_{[-1;3]} f(x) = f(3)$."
+  },
+  {
+    "bbox": [
+      189,
+      635,
+      552,
+      680
+    ],
+    "category": "List-item",
+    "text": "C) $\\max_{[-1;3]} f(x) = f(2)$."
+  },
+  {
+    "bbox": [
+      876,
+      635,
+      1264,
+      680
+    ],
+    "category": "List-item",
+    "text": "D) $\\max_{[-1;3]} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      153,
+      696,
+      1547,
+      783
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho mẫu số liệu ghép nhóm với bộ ba tức phân vị lần lượt là $Q_1 = 11,5$; $Q_2 = 14,5$; $Q_3 = 21,3$. Khi đó khoảng tức phân vị của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      189,
+      800,
+      402,
+      845
+    ],
+    "category": "List-item",
+    "text": "A) $\\Delta Q = 3,0$."
+  },
+  {
+    "bbox": [
+      535,
+      800,
+      746,
+      845
+    ],
+    "category": "List-item",
+    "text": "B) $\\Delta Q = 6,8$."
+  },
+  {
+    "bbox": [
+      876,
+      800,
+      1086,
+      845
+    ],
+    "category": "List-item",
+    "text": "C) $\\Delta Q = 9,8$."
+  },
+  {
+    "bbox": [
+      1223,
+      800,
+      1447,
+      845
+    ],
+    "category": "List-item",
+    "text": "D) $\\Delta Q = 32,8$."
+  },
+  {
+    "bbox": [
+      153,
+      862,
+      1547,
+      949
+    ],
+    "category": "Text",
+    "text": "Câu 11. Trong không gian với hệ tọa độ $Oxyz$, khoảng cách từ điểm $M(1; 0; 1)$ đến mặt phẳng $(P) : 2x - y + 2z - 3 = 0$ bằng"
+  },
+  {
+    "bbox": [
+      189,
+      960,
+      281,
+      1039
+    ],
+    "category": "List-item",
+    "text": "A) $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      960,
+      626,
+      1039
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      876,
+      960,
+      961,
+      1039
+    ],
+    "category": "List-item",
+    "text": "C) 1."
+  },
+  {
+    "bbox": [
+      1223,
+      960,
+      1309,
+      1039
+    ],
+    "category": "List-item",
+    "text": "D) $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      1049,
+      895,
+      1092
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trên $\\mathbb{R}$, đạo hàm của hàm số $y = \\pi^x$ là"
+  },
+  {
+    "bbox": [
+      189,
+      1120,
+      415,
+      1165
+    ],
+    "category": "List-item",
+    "text": "A) $y' = \\pi^x \\ln \\pi$."
+  },
+  {
+    "bbox": [
+      876,
+      1101,
+      1069,
+      1181
+    ],
+    "category": "List-item",
+    "text": "B) $y' = \\frac{\\pi^x}{\\ln \\pi}$."
+  },
+  {
+    "bbox": [
+      189,
+      1174,
+      429,
+      1218
+    ],
+    "category": "List-item",
+    "text": "C) $y' = \\pi \\cdot x^{\\pi-1}$."
+  },
+  {
+    "bbox": [
+      876,
+      1174,
+      1118,
+      1218
+    ],
+    "category": "List-item",
+    "text": "D) $y' = x \\cdot \\pi^{x-1}$."
+  },
+  {
+    "bbox": [
+      153,
+      1235,
+      1547,
+      1322
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      1338,
+      1547,
+      1785
+    ],
+    "category": "Text",
+    "text": "Bài 1. Trong vòng chung kết của cuộc thi ĐƯỜNG ĐẾN VINH QUANG có 4 thí sinh An, Bình, Toàn và Phương tham gia thi đấu. Sau khi An, Bình và Toàn hoàn thành phần thi cuối của mình, điểm số của ba bạn đạt được lần lượt là 180 điểm, 200 điểm và 170 điểm. Bạn Phương là thí sinh cuối cùng bước vào phần thi cuối với điểm số hiện có là 190 điểm. Tại phần thi cuối, mỗi thí sinh phải trả lời 3 câu hỏi thuộc ba lĩnh vực: Tự nhiên, Xã hội và Tiếng Anh. Mỗi câu trả lời đúng được 20 điểm, trả lời sai hoặc không trả lời bị trừ 10 điểm. Thí sinh có quyền sử dụng \"Ngôi sao hy vọng\" tối đa một lần cho một trong ba câu hỏi, nếu trả lời đúng nhận được 40 điểm, trả lời sai hoặc không trả lời bị trừ 20 điểm. Biết xác suất Phương trả lời đúng câu hỏi thuộc lĩnh vực Tự nhiên, Xã hội và Tiếng Anh lần lượt là 0,7; 0,4 và 0,3. Giả thiết rằng việc trả lời đúng mỗi câu hỏi không làm thay đổi xác suất trả lời đúng hoặc sai các câu hỏi còn lại."
+  },
+  {
+    "bbox": [
+      189,
+      1802,
+      1245,
+      1847
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để Phương trả lời sai câu hỏi thuộc lĩnh vực Tự nhiên là 0,3."
+  },
+  {
+    "bbox": [
+      189,
+      1858,
+      1040,
+      1903
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để Phương trả lời đúng cả ba câu hỏi là 0,084."
+  },
+  {
+    "bbox": [
+      189,
+      1914,
+      1258,
+      1959
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để Phương trả lời đúng ít nhất một trong ba câu hỏi là 0,916."
+  },
+  {
+    "bbox": [
+      189,
+      1970,
+      1547,
+      2057
+    ],
+    "category": "List-item",
+    "text": "d) Nếu Phương chọn \"Ngôi sao hy vọng\" ở câu hỏi thuộc lĩnh vực Tự nhiên thì xác suất để Phương trở thành quán quân của cuộc thi này là 0,736."
+  },
+  {
+    "bbox": [
+      153,
+      2076,
+      1547,
+      2207
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một nhà khoa học đang nghiên cứu tác dụng của chất $X$ lên sự phát triển của loài hoa Kaiserkrone. Bằng cách trồng hai cây hoa đều cao 10 cm ở một môi trường có chất $X$ và một môi trường không có chất $X$ sau đó đánh giá. Sau 15 ngày trồng hoa, nhà khoa học nhận ra hoa được"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "50"
+  },
+  {
+    "bbox": [
+      828,
+      2250,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "bbox": [
+      133,
+      75,
+      705,
+      117
+    ],
+    "category": "Page-header",
+    "text": "TÀI LIỆU LUYỆN THI THPT QUỐC GIA 2026"
+  },
+  {
+    "bbox": [
+      1226,
+      75,
+      1542,
+      117
+    ],
+    "category": "Page-header",
+    "text": "40 ĐỀ MINH HỌA 2026"
+  },
+  {
+    "bbox": [
+      114,
+      154,
+      1534,
+      335
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** [PNL] Có hai phác đồ điều trị A và B cho một loại bệnh. Phác đồ A có xác suất chữa khỏi bệnh là 60% và xác suất gây tác dụng phụ nghiêm trọng là 5%. Phác đồ B có xác suất chữa khỏi bệnh là 70% và xác suất gây tác dụng phụ nghiêm trọng là 10%. Một bệnh nhân được điều trị ngẫu nhiên bằng một trong hai phác đồ với xác suất chọn mỗi phác đồ là 50%."
+  },
+  {
+    "bbox": [
+      252,
+      349,
+      1536,
+      846
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Xác suất bệnh nhân điều trị bằng phác đồ A và được chữa khỏi bệnh là 0,6</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Xác suất để bệnh nhân bị tác dụng phụ nghiêm trọng là 0,075</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Nếu biết bệnh nhân này gặp tác dụng phụ nghiêm trọng thì xác suất bệnh nhân đã được điều trị bằng phác đồ B lớn hơn 0,65</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Biết rằng trong mỗi phác đồ điều trị thì biến cố “Bệnh nhân được chữa khỏi bệnh” và biến cố “Bệnh nhân không bị tác dụng phụ nghiêm trọng” là độc lập với nhau. Xác suất bệnh nhân khỏi bệnh và không bị tác dụng phụ nghiêm trọng là 0,6</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      844,
+      1161,
+      887
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      889,
+      1534,
+      1134
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** [PNL] Cho hình chóp $S.ABCD$ có đáy là half lục giác đều tâm $H$, cạnh bằng $a$, $AD = 2a$. $\\Delta SAD$ là tam giác đều và nằm trong mặt phẳng vuông góc với đáy. Điều $I$ thuộc $SH$ sao cho $\\overline{IS} = -3\\overline{IH}$. Gọi $M$ là giao điểm của $DI$ và $SA$. Biết $d(M,(SCD)) = \\frac{ma\\sqrt{n}}{p}$ với $m, n, p$ là các số nguyên dương và $m < n < p < 30$. Tính giá trị biểu thức $T = m+n+p$."
+  },
+  {
+    "bbox": [
+      252,
+      1144,
+      361,
+      1177
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      1264,
+      1177,
+      1532,
+      1245
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1243,
+      1534,
+      1558
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** [PNL] Một chiếc xe máy điện đang nạp pin, thời gian pin nạp được tính theo dung lượng pin nạp $Q$ (mAh) theo công thức như sau: $t = -\\frac{2}{3}\\ln\\left(1-\\frac{Q}{Q_0}\\right)$, với $t$ là khoảng thời gian (đơn vị: giờ) tính từ lúc bắt đầu nạp từ lúc cạn sạch pin và $Q_0$ là dung lượng nạp tối đa. Hãy tính số % dung lượng pin của xe $\\left(\\frac{Q}{Q_0} \\cdot 100\\%\\right)$ khi đã nạp được thời gian 40 phút (Kết quả làm tròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      638,
+      1575,
+      1143,
+      1865
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1895,
+      361,
+      1928
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      1264,
+      1928,
+      1532,
+      1996
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1996,
+      1534,
+      2218
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** [PNL] Một công ty công nghệ muốn thiết kế chính sách hoa hồng cho đội ngũ kinh doanh chủ lực của mình. Công ty sẽ đưa ra một mức hoa hồng là $r$ (tính bằng %) trên tổng doanh thu mà đội ngũ kinh doanh mang về. Sau khi phân tích dữ liệu kinh doanh và chi phí hoạt động trong nhiều quý người ta nhận thấy rằng để tạo ra doanh thu thì đội ngũ bán hàng phải chi trả các chi phí hoạt động như đi lại, gặp gỡ,... Nếu đội kinh doanh tiếp cận $x$ khách hàng tiêm năng thì tổng"
+  },
+  {
+    "bbox": [
+      821,
+      2261,
+      853,
+      2301
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      861,
+      2268,
+      1439,
+      2301
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SDT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      1514,
+      2268,
+      1534,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "bbox": [
+      94,
+      42,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      157,
+      769,
+      576
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Ở một thị trấn nọ có 8 địa điểm $A, B, C, D, E, F, G, H$ được minh họa trong hình bên. Mỗi số nằm trong ô vuông (giao nhau giữa hàng và cột) thể hiện giữa hai đị điểm ấy có đường đi và độ dài (đơn vị km) của đường đi ấy đúng bằng số ấy. Ví dụ từ $A$ ta chỉ có thể đi đến $B$, hoặc đến $E$, hoặc đến $F$; từ $E$ chỉ có thể đi đến $F$, hoặc đến $G$. Quảng đường ngắn nhất mà một người xuất phát từ địa điểm $A$ và kết thúc tại địa điểm $H$ (không nhất thiết phải đi qua tất cả 8 địa điểm) là bao nhiêu km?"
+  },
+  {
+    "bbox": [
+      797,
+      168,
+      1176,
+      554
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th></tr></thead><tbody><tr><th>A</th><td>3</td><td></td><td></td><td>5</td><td>1</td><td></td><td></td></tr><tr><th>B</th><td></td><td>13</td><td></td><td></td><td>5</td><td></td><td></td></tr><tr><th>C</th><td></td><td></td><td></td><td></td><td>15</td><td>9</td><td>10</td></tr><tr><th>D</th><td></td><td></td><td></td><td>7</td><td></td><td>2</td><td>4</td></tr><tr><th>E</th><td></td><td></td><td></td><td></td><td>3</td><td>4</td><td></td></tr><tr><th>F</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><th>G</th><td></td><td></td><td></td><td></td><td></td><td></td><td>7</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      979,
+      576,
+      1032,
+      608
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      566,
+      1196,
+      619
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      633,
+      1198,
+      848
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Một chú bảo vệ có một chùm chìa khóa gồm 20 chiếc của cùng một loại ổ khóa, trong đó chỉ có đúng 2 chiếc mở được ổ khóa của nhà kho. Do lâu rồi không mở ổ khóa này nên chú ấy phải lần lượt thử từng chìa một. Biết xác suất đến lần thứ 3 chú bảo vệ mới mở được ổ khóa bằng $\\frac{a}{b}$, với $\\frac{a}{b}$ là phân số tối简 và $a, b$ nguyên tố cùng nhau. Tính $b - a$?"
+  },
+  {
+    "bbox": [
+      979,
+      814,
+      1032,
+      846
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      804,
+      1196,
+      857
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      554,
+      881,
+      594,
+      913
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      613,
+      873,
+      691,
+      913
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      881,
+      747,
+      913
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1236,
+      166,
+      1596,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 225"
+  }
+]

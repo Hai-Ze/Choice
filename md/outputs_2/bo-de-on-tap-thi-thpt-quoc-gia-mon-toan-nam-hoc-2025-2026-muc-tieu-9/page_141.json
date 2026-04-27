@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      194,
+      138,
+      1141,
+      183
+    ],
+    "category": "Text",
+    "text": "◇ **d) Sai.** Đồ thị hàm số có hai điểm cực trị là $A(1; 4)$ và $B(3; 0)$."
+  },
+  {
+    "bbox": [
+      235,
+      198,
+      515,
+      240
+    ],
+    "category": "Text",
+    "text": "Gốc tọa độ $O(0; 0)$."
+  },
+  {
+    "bbox": [
+      235,
+      258,
+      951,
+      298
+    ],
+    "category": "Text",
+    "text": "Diện tích tam giác $OAB$ được tính bởi công thức:"
+  },
+  {
+    "bbox": [
+      492,
+      303,
+      1286,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{OAB} = \\frac{1}{2} |x_A y_B - x_B y_A| = \\frac{1}{2} |1 \\cdot 0 - 3 \\cdot 4| = \\frac{1}{2} \\cdot 12 = 6.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      396,
+      1101,
+      440
+    ],
+    "category": "Section-header",
+    "text": "### Phần III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      461,
+      1547,
+      590
+    ],
+    "category": "Text",
+    "text": "☞ **Bài 1.** Cho hình chóp $S.ABCD$ đáy là hình chữ nhật, $AB = 6$, $AD = 3$. Hình chiếu của $S$ lên mặt phẳng ($ABCD$) là trung điểm $H$ của $AB$, $SC$ tạo với đáy một góc $45^\\circ$. Khoảng cách $h$ từ điểm $A$ đến mặt phẳng ($SCD$) bằng bao nhiêu? (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      153,
+      606,
+      198,
+      646
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      606,
+      445,
+      668
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      588,
+      682,
+      1111,
+      1181
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1224,
+      1248,
+      1267
+    ],
+    "category": "Text",
+    "text": "Vì $SH \\perp (ABCD) \\Rightarrow HC$ là hình chiếu vuông góc của $SC$ lên ($ABCD$)."
+  },
+  {
+    "bbox": [
+      202,
+      1278,
+      739,
+      1328
+    ],
+    "category": "Text",
+    "text": "Suy ra $(SC, (ABCD)) = \\widehat{SCA} = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      202,
+      1341,
+      1253,
+      1388
+    ],
+    "category": "Text",
+    "text": "Tam giác $HBC$ vuông tại $B$ có: $HC = \\sqrt{HB^2 + BC^2} = \\sqrt{3^2 + 3^2} = 3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      202,
+      1403,
+      1005,
+      1449
+    ],
+    "category": "Text",
+    "text": "Tam giác $SHC$ vuông cân tại $H$ nên $SH = HC = 3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      202,
+      1469,
+      1089,
+      1512
+    ],
+    "category": "Text",
+    "text": "Vì $AB // CD \\Rightarrow AB // (SCD) \\Rightarrow d(A, (SCD)) = d(H, (SCD))$."
+  },
+  {
+    "bbox": [
+      202,
+      1528,
+      1172,
+      1572
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là trung điểm $CD$; $I$ là hình chiếu vuông góc của $H$ lên $SK$."
+  },
+  {
+    "bbox": [
+      153,
+      1585,
+      1545,
+      1732
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\begin{cases} CD \\perp HK \\\\ CD \\perp SH \\end{cases} \\Rightarrow CD \\perp (SHK) \\Rightarrow CD \\perp HI$, mà $HI \\perp SK \\Rightarrow HI \\perp (SCD) \\Rightarrow HI = d(H, (SCD))$."
+  },
+  {
+    "bbox": [
+      202,
+      1742,
+      1224,
+      1823
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SHK$ vuông tại $H$ có: $\\frac{1}{HI^2} = \\frac{1}{SH^2} + \\frac{1}{HK^2} \\Rightarrow HI = \\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      202,
+      1830,
+      662,
+      1877
+    ],
+    "category": "Text",
+    "text": "Vậy, $d(A, (SCD)) = \\sqrt{6} \\approx 2,45$."
+  },
+  {
+    "bbox": [
+      153,
+      1898,
+      1547,
+      2071
+    ],
+    "category": "Text",
+    "text": "☞ **Bài 2.** Một nhóm sinh viên tham gia một trò chơi như sau, mỗi đội gồm 10 người được phát cho 10 chiếc áo được đánh số 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, mỗi bạn mặc 1 chiếc áo. Các đội trưởng phải sắp xếp 10 thành viên của đội mình thành 1 hàng ngang và sẽ dành chiến thắng nếu mỗi 3 bạn đứng liền kề bất kì có tổng các chữ số ghi trên các chiếc áo 3 bạn đó mặc là một số chia hết cho"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "141"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      679,
+      112,
+      1123,
+      584
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      611,
+      1573,
+      708
+    ],
+    "category": "Text",
+    "text": "Tính diện tích của phần hình phẳng giới hạn bởi đường tròn và parabol (phần không gạch) theo đơn vị $cm^2$ (kết quả làm tròn đến chữ số thập phân thứ hai)."
+  },
+  {
+    "bbox": [
+      833,
+      710,
+      953,
+      751
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      754,
+      400,
+      797
+    ],
+    "category": "Text",
+    "text": "Đáp án: 3,18"
+  },
+  {
+    "bbox": [
+      598,
+      815,
+      1202,
+      1343
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1350,
+      761,
+      1396
+    ],
+    "category": "Text",
+    "text": "Gắn hệ trục tọa độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      211,
+      1402,
+      733,
+      1469
+    ],
+    "category": "Text",
+    "text": "Khi đó $A(-\\sqrt{3};0), B(\\sqrt{3};0), C(0;3)$."
+  },
+  {
+    "bbox": [
+      211,
+      1475,
+      1573,
+      1596
+    ],
+    "category": "Text",
+    "text": "Parabol đi qua ba điểm $A(-\\sqrt{3};0), B(\\sqrt{3};0), C(0;3)$ nên parabol có phương trình là $y = -x^2 + 3$."
+  },
+  {
+    "bbox": [
+      211,
+      1605,
+      1573,
+      1724
+    ],
+    "category": "Text",
+    "text": "Đường tròn ngoại tiếp tam giác $ABC$ có tâm $O(0;1)$ và bán kính $R = 2$ nên có phương trình là $x^2 + (y-1)^2 = 4$."
+  },
+  {
+    "bbox": [
+      211,
+      1730,
+      960,
+      1788
+    ],
+    "category": "Text",
+    "text": "Suy ra $y = 1 - \\sqrt{4 - x^2}$ (Phần nằm dưới trục hoành)."
+  },
+  {
+    "bbox": [
+      211,
+      1794,
+      991,
+      1871
+    ],
+    "category": "Text",
+    "text": "Diện tích phần gạch là $S = \\int_{-\\sqrt{3}}^{\\sqrt{3}} -x^2 + 3 - (1 - \\sqrt{4 - x^2}) dx$"
+  },
+  {
+    "bbox": [
+      211,
+      1881,
+      1110,
+      1937
+    ],
+    "category": "Text",
+    "text": "Do đó diện tích phần không gạch là $S' = \\pi \\cdot 2^2 - S = 3,18 (cm^2)$."
+  },
+  {
+    "bbox": [
+      74,
+      1945,
+      1555,
+      2125
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Bạn A có hai quân xúc xắc 6 mặt. Một xúc xắc cân đối có xác suất ra các mặt đều như nhau. Xúc xắc còn lại có xác suất ra mặt 6 là $\\frac{2}{3}$ và xác suất ra các mặt còn lại bằng nhau. Bạn A chọn ngẫu nhiên một trong hai xúc sắc và tung nó ba lần. Xác suất để lần thứ ba ra mặt 1"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

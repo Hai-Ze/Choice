@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      831,
+      181
+    ],
+    "category": "Text",
+    "text": "6 giờ sáng đến 6 giờ chiều được cho bởi hàm số"
+  },
+  {
+    "bbox": [
+      553,
+      186,
+      1140,
+      354
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\begin{cases} 100t, & 0 \\le t \\le 3 \\\\ -200t + a, & 3 \\le t \\le 6, (a \\in \\mathbb{R}). \\\\ 100t - 900, & 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      358,
+      853,
+      401
+    ],
+    "category": "Text",
+    "text": "Với mốc thời gian $t = 0$ tại thời điểm 6 giờ sáng."
+  },
+  {
+    "bbox": [
+      189,
+      418,
+      1330,
+      462
+    ],
+    "category": "List-item",
+    "text": "a) Tại thời điểm 9 giờ sáng, nước trong bể đang tăng với tốc độ 600 gallon/giờ."
+  },
+  {
+    "bbox": [
+      189,
+      476,
+      523,
+      516
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $a = 900$."
+  },
+  {
+    "bbox": [
+      189,
+      530,
+      1375,
+      574
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ thay đổi lượng nước trong bể bằng 0 vào lúc 11 giờ trưa và 15 giờ chiều."
+  },
+  {
+    "bbox": [
+      189,
+      586,
+      1546,
+      672
+    ],
+    "category": "List-item",
+    "text": "d) Lượng nước trong bể lớn nhất trong khoảng thời gian từ 9 giờ sáng đến 18 giờ chiều là 700 gallon nước."
+  },
+  {
+    "bbox": [
+      153,
+      688,
+      1546,
+      778
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai Do $t = 0$ tại thời điểm 6 giờ sáng nên tại thời điểm 9 giờ sáng thì $t = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      787,
+      694,
+      828
+    ],
+    "category": "Text",
+    "text": "Ta có $f(3) = 100 \\cdot 3 = 300$ gallon/giờ."
+  },
+  {
+    "bbox": [
+      202,
+      847,
+      1205,
+      888
+    ],
+    "category": "Text",
+    "text": "b) Đúng Với $t = 3$, $100t = -200t + a \\Leftrightarrow -600 + a = 300 \\Leftrightarrow a = 900$."
+  },
+  {
+    "bbox": [
+      153,
+      906,
+      1546,
+      994
+    ],
+    "category": "Text",
+    "text": "c) Sai Tại 11 giờ trưa (tương đương $t = 5$), tốc độ thay đổi lượng nước trong bể là $f(5) = -200 \\cdot 5 + 900 = -100$ gallon/giờ."
+  },
+  {
+    "bbox": [
+      153,
+      994,
+      1546,
+      1084
+    ],
+    "category": "Text",
+    "text": "Tại 15 giờ chiều (tương đương $t = 9$), tốc độ thay đổi lượng nước trong bể là $f(9) = 100 \\cdot 9 - 900 = 0$ gallon/giờ."
+  },
+  {
+    "bbox": [
+      202,
+      1102,
+      1048,
+      1144
+    ],
+    "category": "Text",
+    "text": "d) Đúng Từ 9 giờ sáng đến 18 giờ chiều tức là $3 \\le t \\le 12$."
+  },
+  {
+    "bbox": [
+      153,
+      1146,
+      753,
+      1188
+    ],
+    "category": "Text",
+    "text": "Từ $3 \\le t \\le 9$, lượng nước đang giảm về 0."
+  },
+  {
+    "bbox": [
+      153,
+      1190,
+      957,
+      1232
+    ],
+    "category": "Text",
+    "text": "Lượng nước trong bể bắt đầu tăng trở lại từ $9 \\le t \\le 12$."
+  },
+  {
+    "bbox": [
+      153,
+      1234,
+      955,
+      1277
+    ],
+    "category": "Text",
+    "text": "Lượng nước trong bể từ 15 giờ chiều đến 18 giờ chiều là"
+  },
+  {
+    "bbox": [
+      621,
+      1283,
+      1077,
+      1374
+    ],
+    "category": "Formula",
+    "text": "$$\n250 + \\int_{9}^{12} (100t - 900)dt = 700.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1394,
+      1546,
+      1613
+    ],
+    "category": "Text",
+    "text": "Bài 4. Khi trả lời câu hỏi trong một bài thi trắc nghiệm, học sinh có thể biết đáp án hoặc dự đoán đáp án. Các câu hỏi trắc nghiệm có 4 đáp án nhưng chỉ có 1 đáp án đúng. Giả sử với mỗi câu hỏi bạn Tuấn có xác suất biết đáp án đúng là 0,6 và xác suất Tuấn không biết đáp án đúng là 0,4. Trong trường hợp không biết đáp án Tuấn sẽ dự đoán đáp án đúng bằng cách chọn ngẫu nhiên một trong 4 đáp án của đề thi. Giả sử Tuấn gặp một câu hỏi trắc nghiệm."
+  },
+  {
+    "bbox": [
+      153,
+      1615,
+      866,
+      1656
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: \"Câu trả lời của Tuấn là đúng\"."
+  },
+  {
+    "bbox": [
+      153,
+      1658,
+      915,
+      1700
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố: \"Câu hỏi đó Tuấn đã biết đáp án\"."
+  },
+  {
+    "bbox": [
+      189,
+      1719,
+      594,
+      1762
+    ],
+    "category": "List-item",
+    "text": "a) $P(B) = 0,6, P(\\bar{B}) = 0,4$."
+  },
+  {
+    "bbox": [
+      189,
+      1774,
+      1007,
+      1818
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có điều kiện: $P(A|B) = 0,5; P(A|\\bar{B}) = 0,25$."
+  },
+  {
+    "bbox": [
+      189,
+      1830,
+      902,
+      1873
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để câu trả lời của Tuấn đúng là 72%."
+  },
+  {
+    "bbox": [
+      189,
+      1885,
+      1546,
+      2002
+    ],
+    "category": "List-item",
+    "text": "d) Với câu trắc nghiệm mà câu trả lời của Tuấn là đúng, xác suất để câu đó là câu mà Tuấn biết đáp án đúng là $\\frac{6}{7}$."
+  },
+  {
+    "bbox": [
+      153,
+      2014,
+      1546,
+      2117
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng. Vì câu hỏi bạn Tuấn có xác suất biết đáp án đúng là 0,6 và xác suất Tuấn không biết đáp án đúng là 0,4 nên $P(B) = 0,6, P(\\bar{B}) = 0,4$."
+  },
+  {
+    "bbox": [
+      153,
+      2135,
+      1546,
+      2221
+    ],
+    "category": "Text",
+    "text": "b) Sai. Xác suất câu trả lời của Tuấn là đúng khi Tuấn đã biết đáp án bằng $P(A|B) = 1$. Xác suất câu trả lời của Tuấn là đúng khi Tuấn chưa biết đáp án bằng $P(A|\\bar{B}) = 0,25$ (do Tuấn"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "73"
+  }
+]

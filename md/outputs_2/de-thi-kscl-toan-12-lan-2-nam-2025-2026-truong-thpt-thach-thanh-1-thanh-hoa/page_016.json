@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      286,
+      115,
+      1496,
+      207
+    ],
+    "category": "Text",
+    "text": "mãn: Chồng thứ nhất có 1 chiếc ghế, từ chồng thứ hai trở đi mỗi chồng nhiều hơn chồng liền trước 1 chiếc ghế. Tính số chồng ghế mà chàng lực sĩ xếp được."
+  },
+  {
+    "bbox": [
+      834,
+      233,
+      948,
+      271
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      286,
+      301,
+      1443,
+      347
+    ],
+    "category": "Text",
+    "text": "Giả sử $u_n$ là số ghế của chồng thứ $n$, $m$ là số học sinh. Điều kiện: $n, m \\in \\mathbb{Z}^+, m < 20$."
+  },
+  {
+    "bbox": [
+      286,
+      385,
+      1138,
+      433
+    ],
+    "category": "Text",
+    "text": "Dễ thấy $(u_n)$ là một cấp số cộng có $u_1 = 1$ và công sai là $d = 1$."
+  },
+  {
+    "bbox": [
+      286,
+      471,
+      729,
+      561
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\frac{n(u_1 + u_n)}{2} + (m - 1) = 140.\n$$"
+  },
+  {
+    "bbox": [
+      286,
+      596,
+      694,
+      686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tức là } m = 141 - \\frac{n(1+n)}{2} \\text{ (*).}\n$$"
+  },
+  {
+    "bbox": [
+      286,
+      720,
+      1494,
+      823
+    ],
+    "category": "Text",
+    "text": "Do $m < 20$ nên ta cần phải có $n^2 + n - 242 > 0$. Kết hợp với $n$ là số nguyên dương, ta tìm được $n \\in \\{16; 17; 18; \\dots\\}$."
+  },
+  {
+    "bbox": [
+      286,
+      861,
+      406,
+      899
+    ],
+    "category": "Text",
+    "text": "Thử lại:"
+  },
+  {
+    "bbox": [
+      286,
+      927,
+      1117,
+      968
+    ],
+    "category": "Text",
+    "text": "+ Với $n = 16$, thay vào (*) ta được $m = 5$. Thỏa mãn bài toán."
+  },
+  {
+    "bbox": [
+      286,
+      997,
+      1202,
+      1038
+    ],
+    "category": "Text",
+    "text": "+ Với $n \\ge 17$, thay vào (*) ta được $m < 0$. Không thỏa mãn bài toán."
+  },
+  {
+    "bbox": [
+      286,
+      1061,
+      851,
+      1107
+    ],
+    "category": "Text",
+    "text": "Tóm lại, số chồng ghế đã xếp được là 16."
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      94,
+      1576,
+      567
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hình chỏm cầu có một đáy là một phần của hình cầu bị chia bởi một mặt phẳng. Một rađa có thể phát hiện các mục tiêu trong khu vực của một hình chỏm cầu với chiều rộng trên mặt đất là một hình tròn với bán kính 450 km và chiều cao 30 km. Chọn hệ trục tọa độ $Oxyz$ với mặt phẳng $Oxy$ là mặt đất (xem mặt đất là mặt phẳng), trục $Oz$ hướng lên cao và gốc tọa độ $O$ trùng với vị trí của rađa (tham khảo hình vẽ bên), mỗi đơn vị trên trục là 1 km. Một tên lửa được phóng lên cao, bắt đầu từ vị trí $A(30; -780; 60)$, dự định bay thẳng với vận tốc không đổi 7 km/ giây hướng thẳng đến vị trí của rađa. Thời gian dự kiến từ khi tên lửa bị rađa phát hiện đến khi nó bắn trúng rađa là bao nhiêu giây? (làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      288,
+      597,
+      724,
+      978
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      729,
+      593,
+      1451,
+      981
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      997,
+      493,
+      1033
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1057,
+      924,
+      1095
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      1114,
+      319,
+      1153
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 37"
+  },
+  {
+    "bbox": [
+      514,
+      1182,
+      1202,
+      1552
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1581,
+      1545,
+      1707
+    ],
+    "category": "Text",
+    "text": "Giả sử trục $Oz$ cắt mặt cầu tại điểm $B(0; 0; 30)$; trục $Oy$ cắt mặt cầu tại điểm $C(0; 450; 0)$ như hình vẽ. Gọi mặt cầu là $(S)$ và có tâm là $I(0; 0; a)$ với $a < 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1735,
+      1573,
+      1873
+    ],
+    "category": "Text",
+    "text": "Ta có $IB^2 = IC^2 \\Leftrightarrow (30 - a)^2 = 450^2 + a^2 \\Leftrightarrow a = -3360$. Suy ra mặt cầu $(S)$ có tâm $I(0; 0; -3360)$ và $R = 3390$ nên có phương trình là $x^2 + y^2 + (z + 3360)^2 = 3390^2$."
+  },
+  {
+    "bbox": [
+      154,
+      1901,
+      815,
+      2049
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AO$ có phương trình là $\\begin{cases} x = -30t \\\\ y = 780t \\\\ z = -60t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      154,
+      2071,
+      1061,
+      2116
+    ],
+    "category": "Text",
+    "text": "Thay $x = -30t$; $y = 780t$; $z = -60t$ vào phương trình mặt cầu ta được"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

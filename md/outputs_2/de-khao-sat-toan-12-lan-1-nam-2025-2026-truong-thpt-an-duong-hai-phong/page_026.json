@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      268,
+      98,
+      449,
+      145
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      268,
+      160,
+      416,
+      207
+    ],
+    "category": "List-item",
+    "text": "C. $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      268,
+      222,
+      400,
+      269
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      852,
+      283,
+      966,
+      321
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      268,
+      351,
+      382,
+      388
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      268,
+      417,
+      1452,
+      527
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta thấy: Hàm số đã cho nghịch biến trên các khoảng $(-1; 0)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      130,
+      546,
+      1485,
+      649
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = f(x)$ có đồ thị $(C)$ như hình vẽ. Tiệm cận đứng của đồ thị hàm số là đường thẳng ?"
+  },
+  {
+    "bbox": [
+      696,
+      655,
+      1102,
+      1059
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      268,
+      1061,
+      402,
+      1098
+    ],
+    "category": "List-item",
+    "text": "A. $y = 2$."
+  },
+  {
+    "bbox": [
+      268,
+      1106,
+      393,
+      1140
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      268,
+      1146,
+      418,
+      1183
+    ],
+    "category": "List-item",
+    "text": "C. $y = -2$."
+  },
+  {
+    "bbox": [
+      268,
+      1191,
+      416,
+      1227
+    ],
+    "category": "List-item",
+    "text": "D. $x = -1$."
+  },
+  {
+    "bbox": [
+      852,
+      1230,
+      966,
+      1268
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      268,
+      1269,
+      382,
+      1306
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      130,
+      1335,
+      1541,
+      1431
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một chất điểm chuyển động thẳng được xác định bởi phương trình $s = t^3 - 3t^2 + 5t + 2$, trong đó $t$ tính bằng giây và $s$ tính bằng mét. Gia tốc của chuyển động khi $t = 3$ là:"
+  },
+  {
+    "bbox": [
+      268,
+      1439,
+      418,
+      1479
+    ],
+    "category": "List-item",
+    "text": "A. $12m/s^2$."
+  },
+  {
+    "bbox": [
+      268,
+      1512,
+      418,
+      1551
+    ],
+    "category": "List-item",
+    "text": "B. $17m/s^2$."
+  },
+  {
+    "bbox": [
+      268,
+      1584,
+      422,
+      1623
+    ],
+    "category": "List-item",
+    "text": "C. $24m/s^2$."
+  },
+  {
+    "bbox": [
+      268,
+      1658,
+      418,
+      1697
+    ],
+    "category": "List-item",
+    "text": "D. $14m/s^2$."
+  },
+  {
+    "bbox": [
+      847,
+      1729,
+      969,
+      1767
+    ],
+    "category": "Section-header",
+    "text": "Lời giải:"
+  },
+  {
+    "bbox": [
+      268,
+      1796,
+      382,
+      1833
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      231,
+      1862,
+      998,
+      1908
+    ],
+    "category": "Text",
+    "text": "Ta có: Vận tốc của chuyển động $v(t) = s'(t) = 3t^2 - 6t + 5$."
+  },
+  {
+    "bbox": [
+      231,
+      1943,
+      1216,
+      1988
+    ],
+    "category": "Text",
+    "text": "Gia tốc của chuyển động $a(t) = v'(t) = 6t - 6$. Khi $t = 3 \\Rightarrow a(t) = 12m/s^2$."
+  },
+  {
+    "bbox": [
+      130,
+      2019,
+      831,
+      2070
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nghiệm của phương trình $\\cot x + \\sqrt{3} = 0$ là:"
+  },
+  {
+    "bbox": [
+      268,
+      2085,
+      497,
+      2160
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{3} + k2\\pi$."
+  }
+]

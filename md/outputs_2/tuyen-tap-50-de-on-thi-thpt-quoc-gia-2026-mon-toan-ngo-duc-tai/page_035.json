@@ -1,0 +1,350 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      221,
+      158,
+      461,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\begin{cases} x = 1 + 2t \\\\ y = 2t \\\\ z = 1 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      158,
+      746,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\begin{cases} x = 1 + t \\\\ y = t \\\\ z = 1 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      158,
+      1046,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\begin{cases} x = 1 - t \\\\ y = t \\\\ z = 1 + t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      158,
+      1348,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\begin{cases} x = 1 + t \\\\ y = t \\\\ z = 1 - t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      354,
+      1456,
+      508
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều, $AB = 1$, cạnh bên $SB$ vuông góc với mặt phẳng đáy và $SB = 1$. Tích vô hướng của hai vecto $\\overrightarrow{SA}$ và $\\overrightarrow{SB}$ bằng"
+  },
+  {
+    "bbox": [
+      630,
+      543,
+      1018,
+      978
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      221,
+      1046,
+      302,
+      1084
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      524,
+      1040,
+      634,
+      1084
+    ],
+    "category": "List-item",
+    "text": "B. $\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      827,
+      1046,
+      906,
+      1084
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1128,
+      1019,
+      1244,
+      1108
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      1123,
+      971,
+      1249
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Nếu $\\int_{0}^{2} f(x) \\, dx = 4$ thì $\\int_{0}^{2} [f(x) - 3] \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      1267,
+      329,
+      1305
+    ],
+    "category": "List-item",
+    "text": "A. -4."
+  },
+  {
+    "bbox": [
+      524,
+      1267,
+      603,
+      1305
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      827,
+      1267,
+      931,
+      1305
+    ],
+    "category": "List-item",
+    "text": "C. -2."
+  },
+  {
+    "bbox": [
+      1128,
+      1267,
+      1207,
+      1305
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      193,
+      1336,
+      1454,
+      1383
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cân nặng của một số quả mít trong khu vường được thống kê ở bảng sau"
+  },
+  {
+    "bbox": [
+      385,
+      1406,
+      1261,
+      1520
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng (kg)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td></tr><tr><td>Số quả mít</td><td>6</td><td>12</td><td>19</td><td>9</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      1547,
+      1063,
+      1593
+    ],
+    "category": "Text",
+    "text": "Số quả mít có cân nặng ít hơn 10 kg trong bảng trên là"
+  },
+  {
+    "bbox": [
+      221,
+      1614,
+      319,
+      1652
+    ],
+    "category": "List-item",
+    "text": "A. 19."
+  },
+  {
+    "bbox": [
+      524,
+      1614,
+      622,
+      1652
+    ],
+    "category": "List-item",
+    "text": "B. 46."
+  },
+  {
+    "bbox": [
+      827,
+      1614,
+      925,
+      1652
+    ],
+    "category": "List-item",
+    "text": "C. 40."
+  },
+  {
+    "bbox": [
+      1128,
+      1614,
+      1226,
+      1652
+    ],
+    "category": "List-item",
+    "text": "D. 37."
+  },
+  {
+    "bbox": [
+      193,
+      1676,
+      1446,
+      1730
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Tập nghiệm của bất phương trình $5^{x^2} \\le 25^x$ chứa bao nhiêu số nguyên?"
+  },
+  {
+    "bbox": [
+      221,
+      1748,
+      302,
+      1786
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      524,
+      1748,
+      603,
+      1786
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      827,
+      1748,
+      906,
+      1786
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1128,
+      1748,
+      1207,
+      1786
+    ],
+    "category": "List-item",
+    "text": "D. 4."
+  },
+  {
+    "bbox": [
+      193,
+      1856,
+      1454,
+      1974
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      193,
+      2008,
+      1454,
+      2106
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong hệ toạ độ $Oxyz$, cho các điểm $A(5;3;4)$, $B(1;2;1)$, $C(8;-3;2)$. Gọi $D(a;b;c)$ là chân đường phân giác trong kẻ từ định $A$ của tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      221,
+      2106,
+      1085,
+      2186
+    ],
+    "category": "List-item",
+    "text": "a) Trọng tâm của tam giác $ABC$ có tọa độ $G\\left(\\frac{14}{3};\\frac{2}{3};\\frac{7}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1454,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

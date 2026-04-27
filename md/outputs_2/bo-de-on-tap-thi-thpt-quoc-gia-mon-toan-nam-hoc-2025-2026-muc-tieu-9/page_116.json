@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      199,
+      176
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      136,
+      633,
+      198
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải. a): Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      212,
+      1043,
+      296
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình vi phân: $m'(t) = k \\cdot m(t) \\Leftrightarrow \\frac{m'(t)}{m(t)} = k$."
+  },
+  {
+    "bbox": [
+      202,
+      309,
+      1313,
+      395
+    ],
+    "category": "Text",
+    "text": "Lấy nguyên hàm hai vế theo biến $t$: $\\int \\frac{m'(t)}{m(t)} dt = \\int k dt \\Rightarrow \\ln|m(t)| = kt + C$."
+  },
+  {
+    "bbox": [
+      202,
+      409,
+      948,
+      452
+    ],
+    "category": "Text",
+    "text": "Vì $m(t) > 0$ nên $\\ln(m(t)) = kt + C \\Rightarrow m(t) = e^{kt+C}$."
+  },
+  {
+    "bbox": [
+      202,
+      473,
+      343,
+      513
+    ],
+    "category": "Text",
+    "text": "b) và c):"
+  },
+  {
+    "bbox": [
+      202,
+      533,
+      416,
+      572
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết:"
+  },
+  {
+    "bbox": [
+      195,
+      592,
+      1078,
+      635
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{Tại } t = 8: m(8) = e^{8k+C} = 4 \\Rightarrow 8k + C = \\ln 4 = 2 \\ln 2 \\quad (1).\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      650,
+      1026,
+      693
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{Tại } t = 16: m(16) = e^{16k+C} = 2 \\Rightarrow 16k + C = \\ln 2 \\quad (2).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      706,
+      1045,
+      785
+    ],
+    "category": "Text",
+    "text": "Lấy (2) – (1) ta được: $8k = \\ln 2 - 2 \\ln 2 = -\\ln 2 \\Rightarrow k = -\\frac{\\ln 2}{8}$."
+  },
+  {
+    "bbox": [
+      202,
+      794,
+      369,
+      834
+    ],
+    "category": "Text",
+    "text": "⇒ b) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      847,
+      1297,
+      972
+    ],
+    "category": "Text",
+    "text": "Thay $k$ vào (1): $8 \\cdot \\left(-\\frac{\\ln 2}{8}\\right) + C = 2 \\ln 2 \\Rightarrow -\\ln 2 + C = 2 \\ln 2 \\Rightarrow C = 3 \\ln 2$.\n⇒ c) Đúng."
+  },
+  {
+    "bbox": [
+      214,
+      993,
+      335,
+      1033
+    ],
+    "category": "Text",
+    "text": "d): Sai."
+  },
+  {
+    "bbox": [
+      202,
+      1046,
+      747,
+      1093
+    ],
+    "category": "Text",
+    "text": "Hàm khối lượng là $m(t) = e^{-\\frac{\\ln 2}{8}t+3 \\ln 2}$."
+  },
+  {
+    "bbox": [
+      202,
+      1112,
+      506,
+      1152
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 24$:"
+  },
+  {
+    "bbox": [
+      202,
+      1168,
+      898,
+      1215
+    ],
+    "category": "Formula",
+    "text": "$$\nm(24) = e^{-\\frac{\\ln 2}{8} \\cdot 24 + 3 \\ln 2} = e^{-3 \\ln 2 + 3 \\ln 2} = e^0 = 1 \\text{ mg.}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1236,
+      1253,
+      1277
+    ],
+    "category": "Text",
+    "text": "Vì $1 > 0,8$ nên khối lượng I-131 còn lại tại $t = 24$ không nhỏ hơn 0,8 mg."
+  },
+  {
+    "bbox": [
+      154,
+      1296,
+      1545,
+      1383
+    ],
+    "category": "Text",
+    "text": "Cách giải nhanh: ghi thấy cứ sau 8 ngày khối lượng giảm đi một half (từ 4mg về 2mg), nên sau 8 ngày tiếp theo (tức $t = 24$) khối lượng sẽ còn 2 : 2 = 1 mg."
+  },
+  {
+    "bbox": [
+      202,
+      1400,
+      1150,
+      1443
+    ],
+    "category": "Section-header",
+    "text": "Phần III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      154,
+      1465,
+      1547,
+      1638
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông với $AB = 6$. Biết rằng hình chiếu vuông góc của $S$ trên mặt phẳng ($ABCD$) là trọng tâm $H$ của tam giác $ABC$ và $SH = 3\\sqrt{2}$. Khoảng cách giữa hai đường thẳng $AC$ và $SD$ bằng bao nhiêu? (Không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "116"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

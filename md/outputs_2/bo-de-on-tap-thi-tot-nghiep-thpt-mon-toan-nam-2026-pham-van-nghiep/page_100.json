@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      217,
+      113,
+      973,
+      195
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 0,1 = \\frac{1}{3} \\cdot 0,15 + P(A \\mid \\bar{B}) \\cdot 0,85 \\Rightarrow P(A \\mid \\bar{B}) = \\frac{1}{17} \\approx 0,06\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      195,
+      1306,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Phương trình $\\sin 2x = \\sqrt{3} \\cos x$ có bao nhiêu nghiệm thuộc đoạn $[-\\pi; 2\\pi]$?"
+  },
+  {
+    "bbox": [
+      765,
+      264,
+      884,
+      306
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      310,
+      347,
+      345
+    ],
+    "category": "Text",
+    "text": "Trả lời: 4"
+  },
+  {
+    "bbox": [
+      217,
+      351,
+      806,
+      419
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin 2x = \\sqrt{3} \\cos x \\Leftrightarrow \\cos x(2 \\sin x - \\sqrt{3}) = 0\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      427,
+      1089,
+      700
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} \\cos x = 0 \\\\ 2 \\sin x - \\sqrt{3} = 0 \\end{cases} \\Leftrightarrow \\begin{cases} \\cos x = \\cos \\frac{\\pi}{2} \\\\ \\sin x = \\sin \\frac{\\pi}{3} \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{2} + k\\pi \\\\ x = \\frac{\\pi}{3} + k2\\pi \\\\ x = \\frac{2\\pi}{3} + k2\\pi \\end{cases} \\quad (k \\in \\mathbb{Z});\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      706,
+      413,
+      758
+    ],
+    "category": "Text",
+    "text": "Xét $[-\\pi; 2\\pi]$:"
+  },
+  {
+    "bbox": [
+      212,
+      766,
+      1144,
+      859
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet -\\pi \\le \\frac{\\pi}{2} + k\\pi \\le 2\\pi \\Leftrightarrow -1 \\le k \\le \\frac{3}{2} \\Leftrightarrow k \\in \\{-1; 0; 1\\} \\Rightarrow x \\in \\{-\\frac{\\pi}{2}; \\frac{\\pi}{2}; \\frac{3\\pi}{2}\\}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      866,
+      986,
+      960
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet -\\pi \\le \\frac{\\pi}{3} + k2\\pi \\le 2\\pi \\Leftrightarrow -\\frac{2}{3} \\le k \\le \\frac{5}{6} \\Leftrightarrow k \\in \\{0\\} \\Rightarrow x \\in \\{\\frac{\\pi}{3}\\}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      967,
+      1023,
+      1061
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet -\\pi \\le \\frac{2\\pi}{3} + k2\\pi \\le 2\\pi \\Leftrightarrow -\\frac{5}{6} \\le k \\le \\frac{2}{3} \\Leftrightarrow k \\in \\{0\\} \\Rightarrow x \\in \\{\\frac{2\\pi}{3}\\}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1068,
+      1023,
+      1162
+    ],
+    "category": "Text",
+    "text": "Suy ra các nghiệm: $\\{-\\frac{\\pi}{2}; \\frac{\\pi}{2}; \\frac{3\\pi}{2}; \\frac{\\pi}{3}; \\frac{2\\pi}{3}\\} \\Rightarrow$ có 5 nghiệm."
+  },
+  {
+    "bbox": [
+      74,
+      1170,
+      1574,
+      1322
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$, $B(7;10;6)$. Hai điểm $M, N$ thay đổi trên mặt phẳng $Oxy$ sao cho $MN = 4$. Khi $AM + BN$ nhỏ nhất, tính hiệu của hoành độ điểm $M$ và hoành độ của điểm $N$."
+  },
+  {
+    "bbox": [
+      765,
+      1328,
+      884,
+      1370
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1373,
+      383,
+      1410
+    ],
+    "category": "Text",
+    "text": "Trả lời: -2,4"
+  },
+  {
+    "bbox": [
+      631,
+      1407,
+      1176,
+      1700
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1704,
+      1574,
+      1754
+    ],
+    "category": "Text",
+    "text": "Hình chiếu vuông góc của hai điểm $A(1;2;3)$, $B(7;10;6)$ lên $(Oxy)$: $H(1;2;0)$, $K(7;10;0)$;"
+  },
+  {
+    "bbox": [
+      217,
+      1764,
+      492,
+      1801
+    ],
+    "category": "Formula",
+    "text": "$$\nHK = 10 > MN = 4;\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1808,
+      646,
+      1858
+    ],
+    "category": "Formula",
+    "text": "$$\nd(A, Oxy) = 3 < d(B, Oxy) = 6;\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1869,
+      624,
+      1907
+    ],
+    "category": "Text",
+    "text": "Khi $AM + BN$ nhỏ nhất thì:"
+  },
+  {
+    "bbox": [
+      217,
+      1913,
+      736,
+      1969
+    ],
+    "category": "Text",
+    "text": "$M, N \\in HK$, $\\overrightarrow{HM}, \\overrightarrow{HN}$ cùng hướng."
+  },
+  {
+    "bbox": [
+      217,
+      1976,
+      1566,
+      2128
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{HK} = (6;8;0), \\quad M \\in HK: \\begin{cases} x = 1 + 6t \\\\ y = 2 + 8t \\\\ z = 0 \\end{cases}; N(1 + 6t'; 2 + 8t'; 0), MN = 4\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      2140,
+      1012,
+      2223
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{(6t' - 6t)^2 + (8t' - 8t)^2 + 0} = 4 \\Leftrightarrow 10|t' - t| = 4 \\Leftrightarrow |t' - t| = \\frac{2}{5}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

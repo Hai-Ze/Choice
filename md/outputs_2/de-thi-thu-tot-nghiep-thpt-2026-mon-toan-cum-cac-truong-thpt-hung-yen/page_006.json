@@ -1,0 +1,361 @@
+[
+  {
+    "bbox": [
+      126,
+      103,
+      412,
+      158
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_2 = (3;-1;-1)$."
+  },
+  {
+    "bbox": [
+      493,
+      103,
+      726,
+      158
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_3 = (2;1;1)$."
+  },
+  {
+    "bbox": [
+      860,
+      103,
+      1118,
+      158
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_4 = (-2;1;1)$."
+  },
+  {
+    "bbox": [
+      1226,
+      103,
+      1501,
+      158
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_1 = (-2;1;-1)$."
+  },
+  {
+    "bbox": [
+      95,
+      165,
+      1394,
+      217
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Hàm số nào sau đây **không** là một nguyên hàm của hàm số $f(x) = 3x^2 - 2x - 1$."
+  },
+  {
+    "bbox": [
+      126,
+      226,
+      460,
+      275
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = x^3 - x^2 - 1$."
+  },
+  {
+    "bbox": [
+      821,
+      226,
+      1262,
+      275
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = x^3 - x^2 - x + 2026$."
+  },
+  {
+    "bbox": [
+      126,
+      284,
+      510,
+      333
+    ],
+    "category": "List-item",
+    "text": "C. $F(x) = x^3 - x^2 - x - 1$."
+  },
+  {
+    "bbox": [
+      821,
+      284,
+      1159,
+      333
+    ],
+    "category": "List-item",
+    "text": "D. $F(x) = x^3 - x^2 - x$."
+  },
+  {
+    "bbox": [
+      95,
+      342,
+      764,
+      388
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Phương trình $3^{x-1} = 27$ có nghiệm là"
+  },
+  {
+    "bbox": [
+      126,
+      390,
+      272,
+      426
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2$."
+  },
+  {
+    "bbox": [
+      493,
+      390,
+      636,
+      426
+    ],
+    "category": "List-item",
+    "text": "B. $x = 4$."
+  },
+  {
+    "bbox": [
+      860,
+      390,
+      1003,
+      426
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1226,
+      390,
+      1367,
+      426
+    ],
+    "category": "List-item",
+    "text": "D. $x = 1$."
+  },
+  {
+    "bbox": [
+      95,
+      429,
+      1245,
+      478
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      388,
+      487,
+      1256,
+      709
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-7$</td><td>$-4$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td>$-6$</td><td>$-3$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      95,
+      712,
+      662,
+      763
+    ],
+    "category": "Text",
+    "text": "Điểm cực tiểu của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      126,
+      772,
+      294,
+      808
+    ],
+    "category": "List-item",
+    "text": "A. $x = -4$."
+  },
+  {
+    "bbox": [
+      493,
+      772,
+      658,
+      808
+    ],
+    "category": "List-item",
+    "text": "B. $x = -3$."
+  },
+  {
+    "bbox": [
+      860,
+      772,
+      1029,
+      808
+    ],
+    "category": "List-item",
+    "text": "C. $x = -6$."
+  },
+  {
+    "bbox": [
+      1226,
+      772,
+      1394,
+      808
+    ],
+    "category": "List-item",
+    "text": "D. $x = -7$."
+  },
+  {
+    "bbox": [
+      95,
+      849,
+      1554,
+      940
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai (4,0 điểm).**"
+  },
+  {
+    "bbox": [
+      95,
+      974,
+      1523,
+      1071
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$, có nguyên hàm trên $\\mathbb{R}$ là hàm số $y = F(x)$. Hàm số $y = f(x)$ có đồ thị như hình vẽ bên dưới:"
+  },
+  {
+    "bbox": [
+      609,
+      1071,
+      1038,
+      1381
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      95,
+      1376,
+      1162,
+      1422
+    ],
+    "category": "Text",
+    "text": "Biết diện tích hai phần gạch chéo $S_1$; $S_2$ lần lượt là 6 và 14. Cho $F(4) = 3$."
+  },
+  {
+    "bbox": [
+      126,
+      1424,
+      490,
+      1462
+    ],
+    "category": "Formula",
+    "text": "a) $2 F(1) + 3 F(-1) = 67$"
+  },
+  {
+    "bbox": [
+      126,
+      1467,
+      383,
+      1569
+    ],
+    "category": "Formula",
+    "text": "b) $\\int_{-1}^{1} f(x)dx = 6$."
+  },
+  {
+    "bbox": [
+      126,
+      1574,
+      412,
+      1676
+    ],
+    "category": "Formula",
+    "text": "c) $\\int_{-1}^{4} |f(x)|dx = 20$."
+  },
+  {
+    "bbox": [
+      126,
+      1683,
+      404,
+      1785
+    ],
+    "category": "Formula",
+    "text": "d) $\\int_{-1}^{4} f(x)dx = 20$."
+  },
+  {
+    "bbox": [
+      95,
+      1792,
+      796,
+      1849
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $y = f(x) = (x^2 - 4x + 1)e^x$."
+  },
+  {
+    "bbox": [
+      126,
+      1856,
+      1432,
+      1907
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty; 2)$ và đồng biến trên khoảng $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      126,
+      1914,
+      921,
+      1965
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = (2x - 4)e^x$."
+  },
+  {
+    "bbox": [
+      126,
+      1972,
+      1447,
+      2023
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị lớn nhất và nhỏ nhất của hàm số $y = f(x)$ trên đoạn $[0; 3]$ lần lượt là 1 và $-2e^3$."
+  },
+  {
+    "bbox": [
+      126,
+      2030,
+      322,
+      2079
+    ],
+    "category": "List-item",
+    "text": "d) $f(0) = 1$."
+  },
+  {
+    "bbox": [
+      95,
+      2082,
+      1554,
+      2213
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Bạn An và bạn Bình làm thí nghiệm trồng cây. Mỗi bạn trồng 40 cây cần Tây trong cốc, phần gốc của các cây khi bắt đầu trồng đều dài 4cm. Bảng 1 và Bảng 2 lần lượt biểu diễn mẫu số liệu ghép nhóm về số liệu thống kê chiều cao của các cây (đơn vị: centimét) mà bạn An và bạn Bình"
+  },
+  {
+    "bbox": [
+      1232,
+      2213,
+      1554,
+      2251
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - Mã đề 1002"
+  }
+]

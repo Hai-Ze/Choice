@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      114,
+      75,
+      1492,
+      173
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số câu học sinh đó trả lời đúng. Theo yêu cầu bài toán thí sinh đó nhận điểm không lớn hơn $1 \\Rightarrow 5x - 2 \\cdot (12 - x) \\le 4 \\Leftrightarrow 7x \\le 28 \\Leftrightarrow x \\le 4$. Do đó học sinh này phải trả lời đúng không quá bốn câu."
+  },
+  {
+    "bbox": [
+      114,
+      208,
+      981,
+      300
+    ],
+    "category": "Text",
+    "text": "Trường hợp 1: Học sinh trả lời đúng 4 câu: $P_1 = C_{12}^4 \\left(\\frac{1}{4}\\right)^4 \\cdot \\left(\\frac{3}{4}\\right)^8$."
+  },
+  {
+    "bbox": [
+      114,
+      334,
+      981,
+      426
+    ],
+    "category": "Text",
+    "text": "Trường hợp 2: Học sinh trả lời đúng 3 câu: $P_2 = C_{12}^3 \\left(\\frac{1}{4}\\right)^3 \\cdot \\left(\\frac{3}{4}\\right)^9$."
+  },
+  {
+    "bbox": [
+      114,
+      459,
+      997,
+      551
+    ],
+    "category": "Text",
+    "text": "Trường hợp 3: Học sinh trả lời đúng 2 câu: $P_3 = C_{12}^2 \\left(\\frac{1}{4}\\right)^2 \\cdot \\left(\\frac{3}{4}\\right)^{10}$."
+  },
+  {
+    "bbox": [
+      114,
+      586,
+      981,
+      678
+    ],
+    "category": "Text",
+    "text": "Trường hợp 4: Học sinh trả lời đúng 1 câu: $P_4 = C_{12}^1 \\left(\\frac{1}{4}\\right)^1 \\cdot \\left(\\frac{3}{4}\\right)^{11}$."
+  },
+  {
+    "bbox": [
+      114,
+      712,
+      985,
+      804
+    ],
+    "category": "Text",
+    "text": "Trường hợp 5: Học sinh trả lời không đúng câu nào: $P_5 = \\left(\\frac{3}{4}\\right)^{12}$."
+  },
+  {
+    "bbox": [
+      114,
+      838,
+      856,
+      887
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất cần tìm là $P = P_1 + P_2 + P_3 + P_4 + P_5 \\approx 0,84$"
+  },
+  {
+    "bbox": [
+      114,
+      980,
+      1629,
+      1153
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nhóm học sinh gồm 5 học sinh nam trong đó có Hoàng và 5 học sinh nữ trong đó có Lan được xếp thành một hàng dọc. Gọi $m$ là số cách xếp thỏa mãn các học sinh nam nữ đứng xen kẽ nhau sao cho Hoàng và Lan không đứng liên tiếp nhau. Giá trị $\\frac{m}{32}$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      808,
+      1182,
+      932,
+      1221
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      114,
+      1248,
+      307,
+      1289
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 576."
+  },
+  {
+    "bbox": [
+      114,
+      1295,
+      885,
+      1339
+    ],
+    "category": "Text",
+    "text": "Số cách xếp 10 học sinh đứng xen kẽ nam, nữ là $2 \\cdot 5! \\cdot 5!$"
+  },
+  {
+    "bbox": [
+      114,
+      1343,
+      1326,
+      1388
+    ],
+    "category": "Text",
+    "text": "+ Ta đum số cách xếp 10 học sinh đứng xen kẽ nam nữ mà Hoàng đứng liên tiếp với Lan."
+  },
+  {
+    "bbox": [
+      114,
+      1393,
+      1270,
+      1438
+    ],
+    "category": "Text",
+    "text": "Ta sắp 8 học sinh (Không có Hoàng và Lan) đứng xen kẽ. Khi đó có hai trường hợp:"
+  },
+  {
+    "bbox": [
+      114,
+      1441,
+      1627,
+      1585
+    ],
+    "category": "Text",
+    "text": "TH1: Học sinh nam đứng đầu hàng. Số cách xếp là $4! \\cdot 4!$. Ta sắp Hoàng và Lan vào một trong 9 vị trí gồm 7 vị trí ở giữa 2 học sinh liền nhau và 2 vị trí đầu hàng và cuối hàng. Mỗi vị trí chỉ có 1 cách xếp Hoàng và Lan sao cho hàng có 10 học sinh xen kẽ nam nữ. Suy ra có $9 \\cdot 4! \\cdot 4!$."
+  },
+  {
+    "bbox": [
+      114,
+      1589,
+      1599,
+      1684
+    ],
+    "category": "Text",
+    "text": "TH2: Học sinh nữ đứng đầu hàng. Tương tự trường hợp 1 có $9 \\cdot 4! \\cdot 4!$. Suy ra có $2 \\cdot 9 \\cdot 4! \\cdot 4!$ cách xếp mà Hoàng đứng liên tiếp Lan. Vậy số cách xếp thỏa mãn là $2 \\cdot 5! \\cdot 5! - 2 \\cdot 9 \\cdot 4! \\cdot 4! = 18432$"
+  },
+  {
+    "bbox": [
+      114,
+      1753,
+      608,
+      1837
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } m = 18432 \\Rightarrow \\frac{m}{32} = \\frac{18432}{32} = 576\n$$"
+  }
+]

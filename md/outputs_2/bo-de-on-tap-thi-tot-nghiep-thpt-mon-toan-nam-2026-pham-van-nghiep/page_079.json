@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1249,
+      221
+    ],
+    "category": "Text",
+    "text": "Do đó, diện tích thiết diện là $S(x) = 2[L(x)]^2 = 2\\left[\\frac{\\sqrt{2}}{50}(x-17,5)^2 + \\frac{55\\sqrt{2}}{8}\\right]^2$."
+  },
+  {
+    "bbox": [
+      212,
+      230,
+      1446,
+      341
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của toà nhà là $V = \\int_{0}^{30} S(x) dx = \\int_{0}^{30} 2\\left[\\frac{\\sqrt{2}}{50}(x-17,5)^2 + \\frac{55\\sqrt{2}}{8}\\right]^2 dx \\approx 8976m^3$."
+  },
+  {
+    "bbox": [
+      74,
+      343,
+      1576,
+      605
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một nhà đầu tư có số vốn là 5 tỷ đồng (5000 triệu đồng) để phân bổ vào Quỹ cổ phiếu A và quỹ trái phiếu B. Các thông tin và điều kiện đầu tư được xác định như sau: Quỹ Cổ phiếu A có tỷ suất sinh lời là 17%/ năm. Quỹ trái phiếu B có tỷ suất sinh lời là 8%/ năm. Tổng số tiền đầu tư không vượt quá 5000 triệu đồng. Phải đầu tư ít nhất 1200 triệu đồng vào quỹ trái phiếu B. Không đầu tư quá 3200 triệu đồng vào quỹ cổ phiếu A. Với các điều kiện trên thì nhà đầu tư có thể đạt được tổng lợi nhuận hàng năm lớn nhất là bao nhiêu triệu đồng (làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      834,
+      605,
+      949,
+      642
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      642,
+      394,
+      681
+    ],
+    "category": "Text",
+    "text": "Đáp án: 688"
+  },
+  {
+    "bbox": [
+      212,
+      678,
+      1506,
+      724
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ (triệu đồng) lần lượt là số tiền phân bổ vào cổ phiếu A và quỹ trái phiếu B, $x \\ge 0, y \\ge 0$."
+  },
+  {
+    "bbox": [
+      212,
+      729,
+      661,
+      876
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:\n$$ \\begin{cases} x + y \\le 5000 \\\\ 0 \\le x \\le 3200. \\\\ y \\ge 1200 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      887,
+      883,
+      932
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận hàng năm là: $F(x; y) = 0,17x + 0,08y$."
+  },
+  {
+    "bbox": [
+      212,
+      938,
+      815,
+      985
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm giá trị lớn nhất của hàm $F(x; y)$."
+  },
+  {
+    "bbox": [
+      212,
+      993,
+      1105,
+      1038
+    ],
+    "category": "Text",
+    "text": "Vẽ các đường thẳng $d_1: x + y = 5000$, $d_2: x = 3200$, $d_3: y = 1200$."
+  },
+  {
+    "bbox": [
+      561,
+      1069,
+      1182,
+      1645
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1688,
+      862,
+      1732
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ trên là miền tức giác ABCD."
+  },
+  {
+    "bbox": [
+      218,
+      1732,
+      1574,
+      1835
+    ],
+    "category": "Text",
+    "text": "Giá trị lớn nhất của biết thức $F(x; y) = 0,17x + 0,08y$ chỉ đạt được tại các điểm $A(0; 5000), B(0; 1200), C(3200; 1200), D(3200; 1800)$."
+  },
+  {
+    "bbox": [
+      218,
+      1840,
+      1574,
+      1934
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ các điểm $A, B, C, D$ vào $F(x; y) = 0,17x + 0,08y$ ta được các giá trị lần lượt là 400; 96; 640; 688."
+  },
+  {
+    "bbox": [
+      212,
+      1944,
+      1574,
+      2044
+    ],
+    "category": "Text",
+    "text": "Vậy $\\max F(x; y) = 688$ tại $D(3200; 1800)$. Do đó nhà đầu tư có thể đạt được tổng lợi nhuận hàng năm lớn nhất là 688 triệu đồng."
+  },
+  {
+    "bbox": [
+      74,
+      2040,
+      1576,
+      2168
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Một bể bơi với mặt nước khi đầy có dạng hình chữ nhật với chiều rộng $14m$ và chiều dài $30m$. Các thành bể xung quanh thẳng đứng và đáy là một mặt phẳng nghiêng. Chiều sâu tại một đầu bể là $1,2m$ và tăng dẫn đều đến $2,0m$ ở đầu kia của bể (xem hình vẽ). Ban đầu bể không chứa nước. Người ta sử"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

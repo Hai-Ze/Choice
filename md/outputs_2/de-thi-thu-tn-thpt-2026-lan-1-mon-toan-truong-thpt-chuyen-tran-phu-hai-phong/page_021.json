@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      251,
+      117,
+      1532,
+      600
+    ],
+    "category": "Text",
+    "text": "Khi đó: $\\cos(\\vec{u}, \\vec{v}) = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}| \\cdot |\\vec{v}|} \\Leftrightarrow \\cos 60^{\\circ} = \\frac{1-m\\sqrt{2}}{2\\sqrt{1+m^2}} \\Leftrightarrow \\frac{1-m\\sqrt{2}}{2\\sqrt{1+m^2}} = \\frac{1}{2} \\Leftrightarrow 2(1-m\\sqrt{2}) = 2\\sqrt{1+m^2}$\n$\\Leftrightarrow 1-m\\sqrt{2} = \\sqrt{1+m^2} \\Leftrightarrow \\begin{cases} 1-m\\sqrt{2} \\ge 0 \\\\ (1-m\\sqrt{2})^2 = 1+m^2 \\end{cases} \\Leftrightarrow \\begin{cases} m \\le \\frac{1}{\\sqrt{2}} \\\\ 1-2m\\sqrt{2}+2m^2 = 1+m^2 \\end{cases} \\Leftrightarrow \\begin{cases} m \\le \\frac{1}{\\sqrt{2}} \\\\ m^2-2m\\sqrt{2}=0 \\end{cases}$\n$\\Leftrightarrow \\begin{cases} m \\le \\frac{1}{\\sqrt{2}} \\\\ m=0 \\\\ m=2\\sqrt{2} \\end{cases} \\Leftrightarrow m = 2\\sqrt{2}.$"
+  },
+  {
+    "bbox": [
+      251,
+      612,
+      519,
+      652
+    ],
+    "category": "Text",
+    "text": "Vậy có 1 giá trị $m$."
+  },
+  {
+    "bbox": [
+      114,
+      675,
+      1104,
+      758
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Số điểm cực tiểu của đồ thị hàm số $y = \\frac{1}{5}x^5 - \\frac{3}{4}x^4 + \\frac{2}{3}x^3 + \\frac{1}{2}$ là"
+  },
+  {
+    "bbox": [
+      251,
+      762,
+      320,
+      796
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      586,
+      762,
+      652,
+      796
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      901,
+      762,
+      967,
+      796
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1215,
+      762,
+      1283,
+      796
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      836,
+      806,
+      950,
+      844
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      867,
+      441,
+      901
+    ],
+    "category": "Text",
+    "text": "TXĐ: $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      928,
+      822,
+      980
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = x^4 - 3x^3 + 2x^2 = x^2(x^2 - 3x + 2)$"
+  },
+  {
+    "bbox": [
+      256,
+      1010,
+      480,
+      1157
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 0 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = 1 \\\\ x = 2 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1183,
+      474,
+      1226
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      543,
+      1261,
+      1246,
+      1502
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>1</td><td>2</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>+</td><td>0</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$y$</td><td colspan=\"7\">$\\rightarrow$ $\\rightarrow$ $\\rightarrow$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1529,
+      1065,
+      1574
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta thấy đồ thị hàm số có 1 điểm cực tiểu."
+  },
+  {
+    "bbox": [
+      114,
+      1599,
+      1532,
+      1647
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho vecto $\\overline{MN} = (2;-1;5)$ và điểm $N(0;3;-1)$.úp $M$ có tọa độ là:"
+  },
+  {
+    "bbox": [
+      251,
+      1657,
+      452,
+      1703
+    ],
+    "category": "List-item",
+    "text": "A. $(-2;4;-6)$."
+  },
+  {
+    "bbox": [
+      586,
+      1657,
+      804,
+      1703
+    ],
+    "category": "List-item",
+    "text": "B. $(-2;-2;-4)$."
+  },
+  {
+    "bbox": [
+      901,
+      1657,
+      1079,
+      1703
+    ],
+    "category": "List-item",
+    "text": "C. $(2;-4;6)$."
+  },
+  {
+    "bbox": [
+      1215,
+      1657,
+      1375,
+      1703
+    ],
+    "category": "List-item",
+    "text": "D. $(2;2;4)$."
+  },
+  {
+    "bbox": [
+      836,
+      1717,
+      950,
+      1755
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1780,
+      472,
+      1825
+    ],
+    "category": "Text",
+    "text": "Gọi $M(x; y; z)$."
+  },
+  {
+    "bbox": [
+      251,
+      1856,
+      819,
+      2003
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có: $\\begin{cases} -x = 2 \\\\ 3 - y = -1 \\\\ -1 - z = 5 \\end{cases} \\Leftrightarrow \\begin{cases} x = -2 \\\\ y = 4 \\\\ z = -6 \\end{cases}.$"
+  },
+  {
+    "bbox": [
+      251,
+      2036,
+      511,
+      2082
+    ],
+    "category": "Text",
+    "text": "Vậy $M(-2;4;-6)$."
+  }
+]

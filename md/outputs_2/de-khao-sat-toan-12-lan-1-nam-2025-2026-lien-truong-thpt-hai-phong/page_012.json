@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      627,
+      96,
+      1022,
+      149
+    ],
+    "category": "Section-header",
+    "text": "HƯỚNG DẪN GIẢI"
+  },
+  {
+    "bbox": [
+      114,
+      252,
+      1530,
+      377
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      114,
+      411,
+      1436,
+      548
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Trong không gian với hệ tọa độ $Oxyz$, cho ba điểm không thẳng hàng $A(-12;10;-2)$, $B(-4;6;9)$ và $E(6;-6;4)$. Để tức giác $ABEF$ là hình bình hành thì tọa độ điểm $F$ là:\nA. $(-14;10;-15)$. B. $(-10;10;11)$. C. $(-22;22;3)$. D. $(-2;-2;-7)$."
+  },
+  {
+    "bbox": [
+      835,
+      552,
+      951,
+      590
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      257,
+      613,
+      871,
+      658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB} = (-4 - (-12); 6 - 10; 9 - (-2)) = (8; -4; 11).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      665,
+      1304,
+      712
+    ],
+    "category": "Text",
+    "text": "Gọi tọa độ điểm $F$ là $(x; y; z)$. Khi đó vecto $\\overrightarrow{FE}$ là $\\overrightarrow{FE} = (6 - x; -6 - y; 4 - z)$."
+  },
+  {
+    "bbox": [
+      252,
+      717,
+      1077,
+      763
+    ],
+    "category": "Text",
+    "text": "Để tức giác $ABEF$ là hình bình hành thì ta phải có $\\overrightarrow{AB} = \\overrightarrow{FE}$."
+  },
+  {
+    "bbox": [
+      616,
+      763,
+      1145,
+      911
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 8 = 6 - x \\\\ -4 = -6 - y \\\\ 11 = 4 - z \\end{cases} \\Leftrightarrow \\begin{cases} x = 6 - 8 \\\\ y = -6 + 4 \\\\ z = 4 - 11 \\end{cases} \\Leftrightarrow \\begin{cases} x = -2 \\\\ y = -2 \\\\ z = -7 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      264,
+      915,
+      743,
+      959
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ điểm $F$ là $(-2;-2;-7)$."
+  },
+  {
+    "bbox": [
+      114,
+      959,
+      960,
+      1004
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Đồ thị có hình vẽ dưới đây là của đồ thị hàm số nào?"
+  },
+  {
+    "bbox": [
+      627,
+      1038,
+      1025,
+      1485
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1542,
+      456,
+      1623
+    ],
+    "category": "Formula",
+    "text": "A. $y = \\frac{-x+2}{x+1}$."
+  },
+  {
+    "bbox": [
+      572,
+      1546,
+      747,
+      1623
+    ],
+    "category": "Formula",
+    "text": "B. $y = \\frac{-x}{x+1}$."
+  },
+  {
+    "bbox": [
+      855,
+      1542,
+      1052,
+      1623
+    ],
+    "category": "Formula",
+    "text": "C. $y = \\frac{-x+1}{x+1}$."
+  },
+  {
+    "bbox": [
+      1138,
+      1542,
+      1351,
+      1623
+    ],
+    "category": "Formula",
+    "text": "D. $y = \\frac{-2x+1}{2x+1}$."
+  },
+  {
+    "bbox": [
+      835,
+      1656,
+      951,
+      1694
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1711,
+      971,
+      1755
+    ],
+    "category": "Text",
+    "text": "Dựa vào đồ thị hàm số, ta phân tích các đặc điểm sau:"
+  },
+  {
+    "bbox": [
+      252,
+      1752,
+      1482,
+      1848
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng: Đồ thị nhận đường thẳng $x = -1$ làm tiệm cận đứng và đường thẳng $y = -1$ làm tiệm cận ngang, cắt $Ox, Oy$ lần lượt tại $(1;0)$ và $(0;1)$."
+  },
+  {
+    "bbox": [
+      114,
+      1852,
+      998,
+      1898
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Công bội của cấp số nhân $(u_n)$ biết $u_3 = 4$ và $u_4 = 8$ là"
+  },
+  {
+    "bbox": [
+      252,
+      1936,
+      403,
+      1974
+    ],
+    "category": "Formula",
+    "text": "A. $q = -4$."
+  },
+  {
+    "bbox": [
+      587,
+      1936,
+      714,
+      1974
+    ],
+    "category": "Formula",
+    "text": "B. $q = 2$."
+  },
+  {
+    "bbox": [
+      901,
+      1916,
+      1037,
+      1995
+    ],
+    "category": "Formula",
+    "text": "C. $q = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      1216,
+      1936,
+      1345,
+      1974
+    ],
+    "category": "Formula",
+    "text": "D. $q = 4$."
+  },
+  {
+    "bbox": [
+      835,
+      2083,
+      951,
+      2121
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

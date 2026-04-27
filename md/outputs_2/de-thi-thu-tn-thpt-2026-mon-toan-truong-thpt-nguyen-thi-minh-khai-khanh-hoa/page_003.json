@@ -1,0 +1,278 @@
+[
+  {
+    "bbox": [
+      66,
+      73,
+      1616,
+      157
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Trong một buổi học liên môn Toán – Lịch sử, thầy giáo nhớ lại chiến công intelectual của nghĩa quân Tây Sơn do Quang Trung lãnh đạo trong夏季年 Kỷ Dậu. Thầy đọc may câu thơ mở đầu buổi học:"
+  },
+  {
+    "bbox": [
+      113,
+      157,
+      625,
+      238
+    ],
+    "category": "Text",
+    "text": "Xuân Kỷ Dậu trống vang trời,\nTây Sơn thần tốc rạng ngời non sông."
+  },
+  {
+    "bbox": [
+      113,
+      238,
+      697,
+      314
+    ],
+    "category": "Text",
+    "text": "Đống Đa giặc vỡ từng dòng,\nQuang Trung đại thẳng, núi sông yên bình."
+  },
+  {
+    "bbox": [
+      113,
+      312,
+      1062,
+      486
+    ],
+    "category": "Text",
+    "text": "Để minh họa cho việc một đại lượng thay đổi theo thời gian trong một mô hình toán học đơn giản, thầy giả sử hàm số $y(t)$ (với $t > 0$, $t$ tính bằng ngày) biểu diễn mức suy giảm sức chống cự của quân dịch theo thời gian kể từ khi nghĩa quân Tây Sơn mở cuộc tiến công."
+  },
+  {
+    "bbox": [
+      113,
+      484,
+      1095,
+      607
+    ],
+    "category": "Text",
+    "text": "Sau khi phân tích dữ liệu mô phỏng, người ta nhận thấy đại lượng này có dạng $y(t)$ với $y'(t) = \\frac{a}{t}$ ($a$ là các hằng số thực)."
+  },
+  {
+    "bbox": [
+      123,
+      607,
+      721,
+      650
+    ],
+    "category": "Text",
+    "text": "Biết rằng, mô hình thu được các dữ liệu sau:"
+  },
+  {
+    "bbox": [
+      113,
+      650,
+      1055,
+      704
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t=1$ (ngày) và $t = e^2$ (ngày) thì $y(1)=5$ và $y(e^2)=1$."
+  },
+  {
+    "bbox": [
+      113,
+      706,
+      582,
+      750
+    ],
+    "category": "Text",
+    "text": "Các khẳng định sau đúng hay sai ?"
+  },
+  {
+    "bbox": [
+      113,
+      752,
+      612,
+      802
+    ],
+    "category": "Formula",
+    "text": "a) $y(t) = at + b$ ($b$ là hằng số thực)."
+  },
+  {
+    "bbox": [
+      113,
+      813,
+      262,
+      851
+    ],
+    "category": "Formula",
+    "text": "b) $a = -2$."
+  },
+  {
+    "bbox": [
+      113,
+      859,
+      389,
+      905
+    ],
+    "category": "Formula",
+    "text": "c) $y(t) = -2\\ln t + 5$."
+  },
+  {
+    "bbox": [
+      113,
+      907,
+      909,
+      953
+    ],
+    "category": "Formula",
+    "text": "d) Sau 10 ngày, sức chống cự của quân dịch nhỏ hơn 0,4."
+  },
+  {
+    "bbox": [
+      1136,
+      157,
+      1624,
+      881
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      66,
+      953,
+      1626,
+      1148
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trước khi tham gia thi trung học phổ thông (THPT) quốc gia 2026, trường THPT X khảo sát 500 thí sinh về việc tham gia xét tuyển đại học bằng học bạ. Kết quả thống kê như sau: chỉ có 360 học sinh trả lời \"sẽ xét học bạ\", số còn lại trả lời \"không xét học bạ\". Kinh nghiệm mỗi năm của trường THPT X cho thấy tỉ lệ học sinh tham gia xét tuyển học bạ tương ứng với những cách trả lời \"sẽ xét học bạ\" và \"không xét học bạ\" lần lượt là 70% và 20%."
+  },
+  {
+    "bbox": [
+      113,
+      1148,
+      765,
+      1192
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố \"Học sinh thực sự xét học bạ\"."
+  },
+  {
+    "bbox": [
+      113,
+      1212,
+      747,
+      1257
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố \"Học sinh trả lời xét học bạ\"."
+  },
+  {
+    "bbox": [
+      113,
+      1283,
+      649,
+      1365
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(B) = \\frac{18}{25}$ và $P(\\bar{B}) = \\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      113,
+      1371,
+      665,
+      1427
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(A | \\bar{B}) = 0,7$."
+  },
+  {
+    "bbox": [
+      113,
+      1438,
+      463,
+      1486
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất $P(A) = 0,56$."
+  },
+  {
+    "bbox": [
+      113,
+      1488,
+      871,
+      1572
+    ],
+    "category": "Formula",
+    "text": "d) Trong số những học sinh thực sự xét học bạ có ít hơn 80% học sinh đã trả lời sẽ xét học bạ."
+  },
+  {
+    "bbox": [
+      910,
+      1132,
+      1604,
+      1581
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      66,
+      1610,
+      996,
+      1901
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong hệ trục $Oxyz$ (đơn vị trên mỗi trục là km), một số người gặp nạn đã chế tạo ra máy phát tín hiệu cứu nạn đặt tại vị trí $T(-2;1;4)$ với bán kính phát tín hiệu tối đa là 10 km. Cách đó có một chiếc trực thăng tuần tra của cảnh sát không gian đang bay từ vị trí $P(8;3;14)$ theo phương vecto $\\vec{u} = (5;-2;1)$ với tốc độ 200 (km/h). (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      113,
+      1907,
+      582,
+      1951
+    ],
+    "category": "Text",
+    "text": "Các khẳng định sau đúng hay sai ?"
+  },
+  {
+    "bbox": [
+      113,
+      1951,
+      800,
+      1993
+    ],
+    "category": "Text",
+    "text": "a) Phương trình đường bay của cảnh sát tuần tra là"
+  },
+  {
+    "bbox": [
+      121,
+      1995,
+      419,
+      2075
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x-8}{5} = \\frac{y-3}{-2} = \\frac{z-14}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      1191,
+      1637,
+      1565,
+      1794
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1033,
+      1869,
+      1224,
+      2044
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1306,
+      2075,
+      1628,
+      2115
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/5 – Mã Đề 0101"
+  }
+]

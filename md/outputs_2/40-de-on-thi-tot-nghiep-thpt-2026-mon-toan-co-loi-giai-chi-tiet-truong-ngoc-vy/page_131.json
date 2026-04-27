@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      568,
+      93,
+      1159,
+      419
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      439,
+      1326,
+      487
+    ],
+    "category": "Text",
+    "text": "a) Vec tơ chỉ phương của đường di chuyển $\\Delta$ vuông góc với $\\overline{OC}$, với $O$ là gốc tọa độ."
+  },
+  {
+    "bbox": [
+      156,
+      505,
+      1033,
+      555
+    ],
+    "category": "Text",
+    "text": "b) Đường di chuyển $\\Delta$ nằm trong mặt phẳng $(P): 4x + 3y = 140$."
+  },
+  {
+    "bbox": [
+      156,
+      581,
+      795,
+      630
+    ],
+    "category": "Text",
+    "text": "c) Tàu ngầm sẽ đi vào khu vực nguy hiểm $(S)$."
+  },
+  {
+    "bbox": [
+      156,
+      649,
+      1573,
+      829
+    ],
+    "category": "Text",
+    "text": "d) Gọi $M$ là điểm gần nhất thuộc khu vực nguy hiểm trên đường đi của tàu ngầm. Biết rằng tốc độ tàu ngầm không đổi là $5m/s$. Thời gian để tàu ngầm di chuyển từ vị trí hiện tại $A(50; -20; 10)$ đến điểm $M$ là 63,5 giây (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      807,
+      854,
+      924,
+      892
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      907,
+      971,
+      1029
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1032,
+      1047,
+      1083
+    ],
+    "category": "Text",
+    "text": "a) Vec tơ chỉ phương của $\\Delta$: $\\vec{u}_{\\Delta} = (3; -4; 1)$; $\\overline{OC} = (200; -300; 60)$."
+  },
+  {
+    "bbox": [
+      156,
+      1107,
+      1298,
+      1160
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{u}_{\\Delta} \\cdot \\overline{OC} = 3 \\cdot 200 + (-4) \\cdot (-300) + 1 \\cdot 60 = 1860 \\neq 0 \\Rightarrow \\vec{u}_{\\Delta}, \\overline{OC} \\text{ không vuông góc với nhau.}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1189,
+      692,
+      1235
+    ],
+    "category": "Text",
+    "text": "b) Ta có $B(50+3t; -20-4t; 10+t) \\in \\Delta$."
+  },
+  {
+    "bbox": [
+      156,
+      1261,
+      1573,
+      1387
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ điểm $B$ vào phương trình $(P)$ ta được: $4(50+3t)+3(-20-4t)=140$ $140=140$, đúng $\\forall t$.\nVậy $\\Delta \\subset (P)$."
+  },
+  {
+    "bbox": [
+      156,
+      1413,
+      1573,
+      1539
+    ],
+    "category": "Text",
+    "text": "c) Gọi $B(50+3t; -20-4t; 10+t) \\in \\Delta$ là hình chiếu vuông góc của $C$ trên $\\Delta$.\n$\\overline{CB} = (-150+3t; 280-4t; -50+t)$."
+  },
+  {
+    "bbox": [
+      156,
+      1567,
+      1225,
+      1648
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{u}_{\\Delta} \\perp \\overline{CB} \\Leftrightarrow \\vec{u}_{\\Delta} \\cdot \\overline{CB} = 0 \\Leftrightarrow 3(-150+3t) - 4(280-4t) + (-50+t) = 0 \\Leftrightarrow t = \\frac{810}{13}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1670,
+      907,
+      1760
+    ],
+    "category": "Text",
+    "text": "Suy ra: $B(\\frac{3080}{13}; \\frac{-3500}{13}; \\frac{940}{13})$; $\\overline{CB} = (\\frac{480}{13}; \\frac{400}{13}; \\frac{160}{13})$"
+  },
+  {
+    "bbox": [
+      156,
+      1784,
+      924,
+      1890
+    ],
+    "category": "Formula",
+    "text": "$$\nCB = \\sqrt{\\left(\\frac{480}{13}\\right)^2 + \\left(\\frac{400}{13}\\right)^2 + \\left(\\frac{160}{13}\\right)^2} = \\frac{80\\sqrt{65}}{13} \\approx 49,6 < R.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1910,
+      746,
+      1956
+    ],
+    "category": "Text",
+    "text": "Vậy tàu ngầm sẽ đi vào khu vực nguy hiểm."
+  },
+  {
+    "bbox": [
+      156,
+      1974,
+      1051,
+      2023
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu tâm $C(200; -300; 60)$, bán kính $R = 80$ là"
+  },
+  {
+    "bbox": [
+      156,
+      2051,
+      714,
+      2105
+    ],
+    "category": "Formula",
+    "text": "$$\n(x-200)^2 + (y+300)^2 + (z-60)^2 = 6400\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2131,
+      1341,
+      2196
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } AC = \\sqrt{(50-200)^2 + (-20+300)^2 + (10-60)^2} \\approx 322 > 80 \\Rightarrow A \\text{ nằm ngoài mặt cầu}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

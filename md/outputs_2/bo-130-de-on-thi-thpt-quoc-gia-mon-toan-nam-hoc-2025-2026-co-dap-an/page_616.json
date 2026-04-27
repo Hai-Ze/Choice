@@ -1,0 +1,458 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      75,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      48,
+      382,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      983,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      398,
+      520
+    ],
+    "category": "Text",
+    "text": "L winh mai thanh tài, miет mai tít gòi."
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..../..../........"
+  },
+  {
+    "bbox": [
+      497,
+      196,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      652,
+      275,
+      1348,
+      332
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 122"
+  },
+  {
+    "bbox": [
+      577,
+      332,
+      1424,
+      390
+    ],
+    "category": "Text",
+    "text": "CHUYÊN PHAN BỘI CHÂU HÀ TÌNH - LẦN 1 - 2025"
+  },
+  {
+    "bbox": [
+      636,
+      390,
+      1367,
+      429
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      516,
+      1516,
+      572
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      586,
+      1488,
+      627
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      558,
+      682,
+      1443,
+      1002
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-7$</td><td>$4$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$-6$</td><td>$-3$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1059,
+      946,
+      1098
+    ],
+    "category": "Text",
+    "text": "Điểm cực đại của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1102,
+      631,
+      1142
+    ],
+    "category": "List-item",
+    "text": "(A) $x = -7$."
+  },
+  {
+    "bbox": [
+      750,
+      1102,
+      901,
+      1142
+    ],
+    "category": "List-item",
+    "text": "(B) $x = -6$."
+  },
+  {
+    "bbox": [
+      1023,
+      1102,
+      1171,
+      1142
+    ],
+    "category": "List-item",
+    "text": "(C) $x = -3$."
+  },
+  {
+    "bbox": [
+      1295,
+      1102,
+      1423,
+      1142
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 4$."
+  },
+  {
+    "bbox": [
+      449,
+      1169,
+      1186,
+      1241
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Nguyên hàm $F(x)$ của hàm số $f(x) = \\frac{1}{x} + e$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1241,
+      827,
+      1310
+    ],
+    "category": "List-item",
+    "text": "(A) $F(x) = -\\frac{1}{x^2} + e^x + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      1254,
+      1401,
+      1296
+    ],
+    "category": "List-item",
+    "text": "(B) $F(x) = \\ln|x| + e \\cdot x + C$."
+  },
+  {
+    "bbox": [
+      477,
+      1307,
+      829,
+      1350
+    ],
+    "category": "List-item",
+    "text": "(C) $F(x) = \\ln|x| + e^x + C$."
+  },
+  {
+    "bbox": [
+      1023,
+      1307,
+      1345,
+      1350
+    ],
+    "category": "List-item",
+    "text": "(D) $F(x) = \\ln x + e + C$."
+  },
+  {
+    "bbox": [
+      449,
+      1378,
+      1553,
+      1457
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Một công ty cung cấp nước sạch thống kê lượng nước các hộ gia đình trong một khu vực tiêu pun trong một tháng ở bảng sau:"
+  },
+  {
+    "bbox": [
+      556,
+      1510,
+      1445,
+      1610
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Lượng nước tiêu pun (m³)</td><td>[3; 6)</td><td>[6; 9)</td><td>[9; 12)</td><td>[12; 15)</td><td>[15; 18)</td></tr><tr><td>Số hộ gia đình</td><td>20</td><td>60</td><td>40</td><td>32</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1660,
+      1165,
+      1697
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      477,
+      1701,
+      611,
+      1741
+    ],
+    "category": "List-item",
+    "text": "(A) 20 m³."
+  },
+  {
+    "bbox": [
+      750,
+      1701,
+      884,
+      1741
+    ],
+    "category": "List-item",
+    "text": "(B) 15 m³."
+  },
+  {
+    "bbox": [
+      1023,
+      1701,
+      1139,
+      1741
+    ],
+    "category": "List-item",
+    "text": "(C) 3 m³."
+  },
+  {
+    "bbox": [
+      1295,
+      1701,
+      1429,
+      1741
+    ],
+    "category": "List-item",
+    "text": "(D) 18 m³."
+  },
+  {
+    "bbox": [
+      449,
+      1772,
+      1553,
+      1929
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Cho hàm số $F(x)$ là một nguyên hàm của $f(x)$. Biết $F(1) = -3$, $F(-2) = 12$. Tính $I = \\int_{-2}^{1} f(x) dx$."
+  },
+  {
+    "bbox": [
+      477,
+      1937,
+      643,
+      1977
+    ],
+    "category": "List-item",
+    "text": "(A) $I = -15$."
+  },
+  {
+    "bbox": [
+      750,
+      1937,
+      877,
+      1977
+    ],
+    "category": "List-item",
+    "text": "(B) $I = 9$."
+  },
+  {
+    "bbox": [
+      1023,
+      1937,
+      1162,
+      1977
+    ],
+    "category": "List-item",
+    "text": "(C) $I = 15$."
+  },
+  {
+    "bbox": [
+      1295,
+      1937,
+      1459,
+      1977
+    ],
+    "category": "List-item",
+    "text": "(D) $I = -36$."
+  },
+  {
+    "bbox": [
+      449,
+      2008,
+      1553,
+      2086
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Trong không gian $Oxyz$, mặt phẳng ($P$): $2x + y - 1 = 0$ có một vectơ pháp tuyến là"
+  },
+  {
+    "bbox": [
+      477,
+      2090,
+      730,
+      2130
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{n}_1 = (2; 1; 0)$."
+  },
+  {
+    "bbox": [
+      1023,
+      2090,
+      1298,
+      2130
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{n}_2 = (2; 1; -1)$."
+  },
+  {
+    "bbox": [
+      477,
+      2134,
+      730,
+      2174
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{n}_3 = (1; 2; 0)$."
+  },
+  {
+    "bbox": [
+      1023,
+      2134,
+      1322,
+      2174
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{n}_4 = (-2; -1; 1)$."
+  },
+  {
+    "bbox": [
+      449,
+      2204,
+      549,
+      2241
+    ],
+    "category": "Text",
+    "text": "CÂU 6."
+  },
+  {
+    "bbox": [
+      135,
+      2261,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "614 Bùi Tịnh Minh Lâm"
+  }
+]

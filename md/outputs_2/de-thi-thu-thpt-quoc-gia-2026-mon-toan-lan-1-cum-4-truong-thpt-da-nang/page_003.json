@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      153,
+      56,
+      1573,
+      138
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Qua khảo sát, thời gian hoàn thành một bài thi thử tốt nghiệp của một số học sinh lớp 12 của hai trường X và Y được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      193,
+      134,
+      1532,
+      262
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[65; 70)</td><td>[70; 75)</td><td>[75; 80)</td><td>[80; 85)</td><td>[85; 90]</td></tr><tr><td>Số học sinh trường X</td><td>7</td><td>10</td><td>15</td><td>30</td><td>45</td></tr><tr><td>Số học sinh trường Y</td><td>5</td><td>13</td><td>18</td><td>35</td><td>31</td></tr></table>"
+  },
+  {
+    "bbox": [
+      158,
+      260,
+      1500,
+      346
+    ],
+    "category": "Text",
+    "text": "a) Phương sai của mẫu số liệu ghép nhóm của trường X (Làm tròn đến chữ số hàng phần chục) là 37,8."
+  },
+  {
+    "bbox": [
+      193,
+      354,
+      1440,
+      399
+    ],
+    "category": "Text",
+    "text": "b) Nếu so sánh theo khoảng tức phân vị thì học sinh trường Y có tốc độ làm bài đồng đều hơn."
+  },
+  {
+    "bbox": [
+      158,
+      399,
+      1537,
+      487
+    ],
+    "category": "Text",
+    "text": "c) độ lệch chuẩn của mẫu số liệu ghép nhóm của trường Y (Làm tròn đến chữ số hàng phần chục) là 33,9."
+  },
+  {
+    "bbox": [
+      193,
+      495,
+      879,
+      540
+    ],
+    "category": "Text",
+    "text": "d) Khoảng biến thiên của mẫu số liệu trên bằng 25."
+  },
+  {
+    "bbox": [
+      153,
+      540,
+      1069,
+      586
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho tức diện đều $ABCD$, gọi $M$ là trung điểm của cạnh $BC$."
+  },
+  {
+    "bbox": [
+      158,
+      592,
+      1551,
+      692
+    ],
+    "category": "Text",
+    "text": "a) Gọi $G$ là trọng tâm tam giác $BCD$ và $I$ là điểm thuộc đoạn thẳng $AG$ sao cho $\\overline{AI} = 3\\overline{IG}$. Khi đó $\\overline{IA} + \\overline{IB} + \\overline{IC} + \\overline{ID} = \\overline{0}$."
+  },
+  {
+    "bbox": [
+      193,
+      702,
+      517,
+      795
+    ],
+    "category": "Formula",
+    "text": "b) $\\cos(AB, DM) = \\frac{\\sqrt{3}}{6}$."
+  },
+  {
+    "bbox": [
+      193,
+      805,
+      470,
+      853
+    ],
+    "category": "Formula",
+    "text": "c) $\\overline{AB} + \\overline{AD} = 2\\overline{AM}$."
+  },
+  {
+    "bbox": [
+      193,
+      855,
+      1355,
+      901
+    ],
+    "category": "Text",
+    "text": "d) Có 4 vecto có điểm đầu là $A$ và điểm cuối là một trong các định còn lại của tức diện."
+  },
+  {
+    "bbox": [
+      153,
+      908,
+      1573,
+      1000
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và $f'(x)$ là hàm số bậc ba có đồ thị là đường cong trong hình vẽ."
+  },
+  {
+    "bbox": [
+      670,
+      1000,
+      1053,
+      1391
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1393,
+      743,
+      1441
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      193,
+      1453,
+      1061,
+      1552
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $g(x) = \\frac{\\sqrt{x}}{f'(x)+2}$ có 3 đường tiệm cận đứng."
+  },
+  {
+    "bbox": [
+      193,
+      1566,
+      905,
+      1618
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $y = f(x)$ đồng biến trên khoảng $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      193,
+      1632,
+      407,
+      1680
+    ],
+    "category": "Formula",
+    "text": "d) $f'(2) = 16$."
+  },
+  {
+    "bbox": [
+      153,
+      1688,
+      1270,
+      1735
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu hỏi trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ Câu 1 đến Câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      1767,
+      900,
+      1850
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một cái bể nước hình nón để ngược như hình vẽ, có chiều cao $51\\text{cm}$, bán kính đáy bằng $50\\text{cm}$."
+  },
+  {
+    "bbox": [
+      153,
+      1846,
+      900,
+      2068
+    ],
+    "category": "Text",
+    "text": "Một vòi nước drain vào bể sao cho sau mỗi giây chiều cao mực nước tăng đều lên $2\\text{cm}$ cho đến khi đầy bể. Hãy tính tốc độ tăng thể tích $(\\text{m}^3/\\text{s})$ của nước trong khoảng thời gian một giây ngay trước khi bể đầy. (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      981,
+      1783,
+      1560,
+      2192
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      2259,
+      313,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1001"
+  },
+  {
+    "bbox": [
+      1441,
+      2264,
+      1571,
+      2302
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

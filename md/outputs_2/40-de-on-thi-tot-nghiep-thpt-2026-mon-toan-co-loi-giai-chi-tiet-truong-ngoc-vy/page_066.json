@@ -1,0 +1,422 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      618,
+      95,
+      951,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      135,
+      1373,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      198,
+      1101,
+      285
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Số nghiệm của phương trình: $\\sqrt{2} \\cos\\left(x + \\frac{\\pi}{3}\\right) = 1$ với $0 \\le x \\le 2\\pi$ là"
+  },
+  {
+    "bbox": [
+      125,
+      312,
+      207,
+      345
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      476,
+      312,
+      555,
+      345
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      864,
+      312,
+      932,
+      345
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1175,
+      312,
+      1251,
+      345
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      727,
+      371,
+      843,
+      408
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      429,
+      196,
+      466
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      80,
+      488,
+      1368,
+      665
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{2} \\cos\\left(x + \\frac{\\pi}{3}\\right) = 1 \\Leftrightarrow \\cos\\left(x + \\frac{\\pi}{3}\\right) = \\frac{1}{\\sqrt{2}} \\Leftrightarrow \\begin{cases} x + \\frac{\\pi}{3} = \\frac{\\pi}{4} + k2\\pi \\\\ x + \\frac{\\pi}{3} = -\\frac{\\pi}{4} + k2\\pi \\end{cases} \\Leftrightarrow \\begin{cases} x = -\\frac{\\pi}{12} + k2\\pi \\quad (1) \\\\ x = -\\frac{7\\pi}{12} + k2\\pi \\quad (2) \\end{cases}, (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      673,
+      1141,
+      753
+    ],
+    "category": "Text",
+    "text": "$0 \\le x \\le 2\\pi$ nên từ (1) ta được $0 \\le -\\frac{\\pi}{12} + k2\\pi \\le 2\\pi \\Leftrightarrow \\frac{1}{24} \\le k \\le \\frac{25}{24}$, chọn $k=1$."
+  },
+  {
+    "bbox": [
+      76,
+      777,
+      1082,
+      859
+    ],
+    "category": "Text",
+    "text": "Tương tự từ (2) ta được $0 \\le -\\frac{7\\pi}{12} + k2\\pi \\le 2\\pi \\Leftrightarrow \\frac{7}{24} \\le k \\le \\frac{31}{24}$, chọn $k=1$."
+  },
+  {
+    "bbox": [
+      76,
+      885,
+      1355,
+      930
+    ],
+    "category": "Text",
+    "text": "Do các nghiệm của họ (1) và họ (2) không trùng nhau nên phương trình đã cho có hai nghiệm."
+  },
+  {
+    "bbox": [
+      76,
+      959,
+      817,
+      1031
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nghiệm của phương trình $\\log_{\\frac{1}{2}}(2x-1) = 0$ là"
+  },
+  {
+    "bbox": [
+      125,
+      1078,
+      250,
+      1111
+    ],
+    "category": "List-item",
+    "text": "A. $x=1$."
+  },
+  {
+    "bbox": [
+      476,
+      1058,
+      608,
+      1135
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      827,
+      1058,
+      960,
+      1135
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1058,
+      1307,
+      1135
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      727,
+      1161,
+      843,
+      1199
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1220,
+      196,
+      1257
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1275,
+      803,
+      1410
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } \\log_{\\frac{1}{2}}(2x-1) = 0 \\Leftrightarrow \\begin{cases} 2x-1=1 \\\\ 2x-1>0 \\end{cases} \\Leftrightarrow \\begin{cases} x=1 \\\\ x>\\frac{1}{2} \\end{cases} \\Leftrightarrow x=1.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1435,
+      641,
+      1473
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm phương trình đã cho là $x=1$."
+  },
+  {
+    "bbox": [
+      76,
+      1489,
+      1178,
+      1534
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Xác định $x$ để 3 số $x-1$; 3; $x+1$ theo thứ tự lập thành một cấp số nhân:"
+  },
+  {
+    "bbox": [
+      125,
+      1558,
+      288,
+      1605
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      476,
+      1558,
+      621,
+      1605
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      827,
+      1558,
+      982,
+      1605
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\sqrt{10}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1569,
+      1298,
+      1605
+    ],
+    "category": "List-item",
+    "text": "D. $x = 3$."
+  },
+  {
+    "bbox": [
+      727,
+      1632,
+      843,
+      1669
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1690,
+      196,
+      1727
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1743,
+      849,
+      1787
+    ],
+    "category": "Text",
+    "text": "Ba số $x-1$; 3; $x+1$ theo thứ tự lập thành một cấp số nhân"
+  },
+  {
+    "bbox": [
+      80,
+      1808,
+      662,
+      1863
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow (x-1)(x+1) = 3^2 \\Leftrightarrow x^2 = 10 \\Leftrightarrow x = \\sqrt{10}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1889,
+      1494,
+      1987
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $f(x)$ liên tục trên đoạn $[0;10]$ và $\\int_{0}^{10} f(x)dx = 7$; $\\int_{2}^{6} f(x)dx = 3$. Tính"
+  },
+  {
+    "bbox": [
+      80,
+      2013,
+      437,
+      2109
+    ],
+    "category": "Formula",
+    "text": "$$\nP = \\int_{0}^{2} f(x)dx + \\int_{6}^{10} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      125,
+      2135,
+      250,
+      2168
+    ],
+    "category": "List-item",
+    "text": "A. $P = 4$"
+  },
+  {
+    "bbox": [
+      476,
+      2135,
+      608,
+      2168
+    ],
+    "category": "List-item",
+    "text": "B. $P = 10$"
+  },
+  {
+    "bbox": [
+      827,
+      2135,
+      946,
+      2168
+    ],
+    "category": "List-item",
+    "text": "C. $P = 7$"
+  },
+  {
+    "bbox": [
+      1175,
+      2135,
+      1312,
+      2168
+    ],
+    "category": "List-item",
+    "text": "D. $P = -4$"
+  },
+  {
+    "bbox": [
+      727,
+      2195,
+      843,
+      2232
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2258,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

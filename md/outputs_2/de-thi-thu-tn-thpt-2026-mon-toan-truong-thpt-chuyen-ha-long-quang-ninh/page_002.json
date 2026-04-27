@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      165,
+      87,
+      1435,
+      129
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Khảo sát thời gian tập thể dục của một số học sinh thu được mẫu số liệu ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      208,
+      132,
+      1580,
+      214
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0;10)</td><td>[10;20)</td><td>[20;30)</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td></tr><tr><td>Số học sinh</td><td>10</td><td>15</td><td>22</td><td>26</td><td>20</td><td>17</td></tr></table>"
+  },
+  {
+    "bbox": [
+      205,
+      214,
+      1135,
+      256
+    ],
+    "category": "Text",
+    "text": "Tìm trung vị của mẫu số liệu trên (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      205,
+      256,
+      309,
+      290
+    ],
+    "category": "List-item",
+    "text": "A. 32,2"
+  },
+  {
+    "bbox": [
+      523,
+      256,
+      639,
+      290
+    ],
+    "category": "List-item",
+    "text": "B. 33,2."
+  },
+  {
+    "bbox": [
+      860,
+      256,
+      963,
+      290
+    ],
+    "category": "List-item",
+    "text": "C. 32,1."
+  },
+  {
+    "bbox": [
+      1204,
+      256,
+      1305,
+      290
+    ],
+    "category": "List-item",
+    "text": "D. 33,1."
+  },
+  {
+    "bbox": [
+      165,
+      295,
+      1246,
+      337
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Tính thể tích khối chóp tam giác đều có cạnh đáy $2a$ và độ dài đường cao $a$."
+  },
+  {
+    "bbox": [
+      205,
+      337,
+      336,
+      428
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{a^3\\sqrt{3}}{12}$."
+  },
+  {
+    "bbox": [
+      523,
+      337,
+      649,
+      428
+    ],
+    "category": "List-item",
+    "text": "B. $a^3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      860,
+      337,
+      987,
+      428
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{a^3\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      1204,
+      337,
+      1335,
+      428
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{a^3\\sqrt{3}}{4}$."
+  },
+  {
+    "bbox": [
+      165,
+      435,
+      942,
+      511
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Đồ thị hàm số $y = \\frac{2x-3}{x-1}$ có đường tiệm cận ngang là"
+  },
+  {
+    "bbox": [
+      205,
+      516,
+      336,
+      552
+    ],
+    "category": "List-item",
+    "text": "A. $y = -2$."
+  },
+  {
+    "bbox": [
+      523,
+      516,
+      649,
+      552
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      860,
+      516,
+      976,
+      552
+    ],
+    "category": "List-item",
+    "text": "C. $y = 2$."
+  },
+  {
+    "bbox": [
+      1204,
+      516,
+      1328,
+      552
+    ],
+    "category": "List-item",
+    "text": "D. $x = 1$."
+  },
+  {
+    "bbox": [
+      165,
+      559,
+      783,
+      601
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Tính đạo hàm của hàm số $y = e^x + \\log x$."
+  },
+  {
+    "bbox": [
+      205,
+      608,
+      457,
+      684
+    ],
+    "category": "List-item",
+    "text": "A. $y = e^x + \\frac{1}{x \\ln 10}$."
+  },
+  {
+    "bbox": [
+      860,
+      608,
+      1042,
+      684
+    ],
+    "category": "List-item",
+    "text": "B. $y = e^x + \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      205,
+      689,
+      389,
+      765
+    ],
+    "category": "List-item",
+    "text": "C. $y = e^x - \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      860,
+      689,
+      1112,
+      765
+    ],
+    "category": "List-item",
+    "text": "D. $y = e^x - \\frac{1}{x \\ln 10}$."
+  },
+  {
+    "bbox": [
+      165,
+      765,
+      997,
+      808
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình hợp $ABCD.A'B'C'D'$. Khẳng định nào đúng?"
+  },
+  {
+    "bbox": [
+      563,
+      805,
+      924,
+      1087
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1092,
+      546,
+      1128
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AB} + \\overline{AD} + \\overline{AA'} = \\overline{AC'}$."
+  },
+  {
+    "bbox": [
+      205,
+      1133,
+      546,
+      1169
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AB} + \\overline{AD} + \\overline{AA'} = \\overline{AC}$."
+  },
+  {
+    "bbox": [
+      205,
+      1174,
+      538,
+      1210
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AB} + \\overline{AD} + \\overline{AA'} = \\overline{AB'}$."
+  },
+  {
+    "bbox": [
+      205,
+      1215,
+      546,
+      1251
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AB} + \\overline{AD} + \\overline{AA'} = \\overline{AD'}$."
+  },
+  {
+    "bbox": [
+      165,
+      1251,
+      1447,
+      1293
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Khảo sát thời gian tập thể dục của một số học sinh thu được mẫu số liệu ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      211,
+      1296,
+      1583,
+      1376
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0;10)</td><td>[10;20)</td><td>[20;30)</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td></tr><tr><td>Số học sinh</td><td>10</td><td>15</td><td>22</td><td>26</td><td>20</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      205,
+      1376,
+      1308,
+      1416
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      205,
+      1419,
+      293,
+      1455
+    ],
+    "category": "List-item",
+    "text": "A. 15."
+  },
+  {
+    "bbox": [
+      533,
+      1419,
+      621,
+      1455
+    ],
+    "category": "List-item",
+    "text": "B. 13."
+  },
+  {
+    "bbox": [
+      860,
+      1419,
+      950,
+      1455
+    ],
+    "category": "List-item",
+    "text": "C. 14."
+  },
+  {
+    "bbox": [
+      1188,
+      1419,
+      1276,
+      1455
+    ],
+    "category": "List-item",
+    "text": "D. 12."
+  },
+  {
+    "bbox": [
+      165,
+      1489,
+      1537,
+      1568
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng (Đ) hoặc sai (S)"
+  },
+  {
+    "bbox": [
+      165,
+      1604,
+      633,
+      1649
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = x - \\ln x$."
+  },
+  {
+    "bbox": [
+      205,
+      1652,
+      774,
+      1694
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là: $D = (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      205,
+      1701,
+      566,
+      1777
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm $f'(x) = 1 + \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      205,
+      1780,
+      891,
+      1826
+    ],
+    "category": "List-item",
+    "text": "c) Phường trình $f'(x) = 0$ có nghiệm duy nhất $x = 1$."
+  },
+  {
+    "bbox": [
+      205,
+      1833,
+      1080,
+      1922
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[\\frac{1}{3}; 2]$ bằng $\\frac{1}{3} + \\ln 3$."
+  },
+  {
+    "bbox": [
+      192,
+      2094,
+      469,
+      2129
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - Mã đề 0101"
+  }
+]

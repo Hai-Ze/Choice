@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      86,
+      104,
+      1586,
+      211
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II: Câu trắc nghiệm Đúng, Sai. (Thí sinh trả lời câu hỏi từ câu 1 đến câu 4. Trong mỗi ý a) b) c) d) ở mỗi câu, thí sinh chỉ chọn Đúng hoặc Sai)"
+  },
+  {
+    "bbox": [
+      86,
+      251,
+      1367,
+      301
+    ],
+    "category": "Text",
+    "text": "Câu 1. Trong không gian với hệ trục tọa độ Oxyz, cho ba điểm $A(1;2;3)$, $B(2;1;5)$, $C(2;4;2)$."
+  },
+  {
+    "bbox": [
+      126,
+      313,
+      721,
+      402
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ trung điểm của $AB$ là $\\left(\\frac{3}{2};\\frac{3}{2};4\\right)$."
+  },
+  {
+    "bbox": [
+      126,
+      414,
+      536,
+      466
+    ],
+    "category": "List-item",
+    "text": "b) $\\overline{OA} + \\overline{OB} + \\overline{OC} = (5;7;10)$."
+  },
+  {
+    "bbox": [
+      126,
+      479,
+      832,
+      526
+    ],
+    "category": "List-item",
+    "text": "c) Góc giữa hai đường thẳng $AB$ và $AC$ bằng $30^\\circ$."
+  },
+  {
+    "bbox": [
+      126,
+      530,
+      1612,
+      642
+    ],
+    "category": "List-item",
+    "text": "d)úp điểm $I(a;b;c)$ nằm trên mặt phẳng $(Oxz)$ thỏa mãn $T = |3\\overline{IB} - \\overline{IC}|$ đạt giá trị nhỏ nhất. Khi đó $a - 2b + 2c = 15$."
+  },
+  {
+    "bbox": [
+      86,
+      661,
+      1612,
+      946
+    ],
+    "category": "Text",
+    "text": "Câu 2. tại một cơ sở sản xuất nước tinh khiết, nhân viên phụ trách sản xuất cho biết, nếu mỗi ngày cơ sở này sản xuất $x (m^3)$ nước tinh khiết thì phải chi phí các khoản sau: 5 triệu đồng chi phí cố định; 0,15 triệu đồng cho mỗi mét khối sản phẩm; $0,0005x^2$ triệu đồng chi phí bảo dưỡng máy móc. Biết công suất tối đa mỗi ngày của cơ sở này là $200m^3$. Gọi $C(x)$ (triệu đồng) là chi phí sản suất $x (m^3)$ sản phẩm mỗi ngày và $\\bar{c}(x)$ (triệu đồng) là chi phí trung bình mỗi mét khối sản phẩm. Khi đó:"
+  },
+  {
+    "bbox": [
+      126,
+      951,
+      582,
+      998
+    ],
+    "category": "Formula",
+    "text": "a) $C(x) = 0,0005x^2 + 0,15x + 10$."
+  },
+  {
+    "bbox": [
+      126,
+      1011,
+      928,
+      1058
+    ],
+    "category": "List-item",
+    "text": "b) Chi phí sản suất $100m^3$ nước tinh khiết là 25 triệu đồng."
+  },
+  {
+    "bbox": [
+      126,
+      1065,
+      536,
+      1147
+    ],
+    "category": "Formula",
+    "text": "c) $\\bar{c}(x) = 0,0005x + 0,15 + \\frac{5}{x}$."
+  },
+  {
+    "bbox": [
+      126,
+      1157,
+      1492,
+      1204
+    ],
+    "category": "List-item",
+    "text": "d) Chi phí trung bình giảm xuống khi sản lượng nước tính khiết trong ngày không vượt quá $100 m^3$."
+  },
+  {
+    "bbox": [
+      86,
+      1223,
+      1608,
+      1272
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = f(x)$ có bảng biến thiên như hàm số dưới đây. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      474,
+      1287,
+      1261,
+      1568
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$-1$</td><td>$3$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$-$</td><td>$-$</td><td>$+$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$-4$</td><td>$-\\infty$</td><td>$0$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      126,
+      1605,
+      812,
+      1654
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho nghịch biến trên khoảng $(-2;0)$"
+  },
+  {
+    "bbox": [
+      126,
+      1684,
+      711,
+      1731
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số đã cho có tiệm cận ngang"
+  },
+  {
+    "bbox": [
+      126,
+      1756,
+      672,
+      1806
+    ],
+    "category": "List-item",
+    "text": "c)úp điểm cực đại của hàm số là $(-2;-4)$"
+  },
+  {
+    "bbox": [
+      126,
+      1836,
+      623,
+      1883
+    ],
+    "category": "List-item",
+    "text": "d) Hàm số có giá trị lớn nhất trên $\\mathbb{R}$"
+  },
+  {
+    "bbox": [
+      86,
+      1907,
+      752,
+      1994
+    ],
+    "category": "Text",
+    "text": "Câu 4. Cho hàm số $y = \\frac{x^2 - x + 1}{x + 1}$ có đồ thị $(C)$."
+  },
+  {
+    "bbox": [
+      126,
+      1999,
+      550,
+      2044
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có cực đại, cực tiểu."
+  },
+  {
+    "bbox": [
+      1517,
+      2067,
+      1612,
+      2100
+    ],
+    "category": "Page-footer",
+    "text": "2690/3"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      96,
+      1574,
+      213
+    ],
+    "category": "Text",
+    "text": "đạp phanh và xe chuyển động chậm dần đều với vận tốc $v(t) = 10 - 5t$ (m/s), trong đó là khoảng thời gian tính bằng giây kể từ lúc đạp phanh."
+  },
+  {
+    "bbox": [
+      154,
+      231,
+      858,
+      285
+    ],
+    "category": "Text",
+    "text": "a) Gia tốc tức thời của chuyển động này là $5$ (m/s$^2$)."
+  },
+  {
+    "bbox": [
+      154,
+      306,
+      1081,
+      352
+    ],
+    "category": "Text",
+    "text": "b) Thời gian kể từ lúc đạp phanh đến khi xe máy停止 hắn là 2 giây."
+  },
+  {
+    "bbox": [
+      154,
+      364,
+      1154,
+      410
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường xe máy đi được sau 0,5 giây kể từ lúc đạp phanh là 6 m."
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1572,
+      533
+    ],
+    "category": "Text",
+    "text": "d) Để giữ khoảng cách an toàn, người điều whey xe máy phải bắt đầu đạp phanh khi cách xe đang停止 phía trước tối thiểu một khoảng 11 m (giả sử ngay lúc đạp phanh thì xe phía trước đang đứng yên)."
+  },
+  {
+    "bbox": [
+      807,
+      556,
+      924,
+      595
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      610,
+      971,
+      732
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      792,
+      1012,
+      846
+    ],
+    "category": "Text",
+    "text": "a) Gia tốc tức thời của chuyển động là $a(t) = v'(t) = -5$ (m/s$^2$)."
+  },
+  {
+    "bbox": [
+      154,
+      872,
+      1388,
+      921
+    ],
+    "category": "Text",
+    "text": "b) Thời gian kể từ lúc đạp phanh đến khi xe máy停止 hắn là $v(t) = 0 \\Leftrightarrow 10 - 5t = 0 \\Leftrightarrow t = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      942,
+      1075,
+      988
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường xe máy đi được sau 0,5 giây kể từ lúc đạp phanh là"
+  },
+  {
+    "bbox": [
+      160,
+      1013,
+      680,
+      1112
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{0,5} v(t)dt = \\int_{0}^{0,5} (10 - 5t)dt = 4,375 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1131,
+      1243,
+      1177
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường xe máy đi được kể từ lúc bắt đầu đạp phanh đến khi停止 hắn là"
+  },
+  {
+    "bbox": [
+      160,
+      1195,
+      594,
+      1292
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{2} v(t)dt = \\int_{0}^{2} (10 - 5t)dt = 10 \\text{ m}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1313,
+      1518,
+      1358
+    ],
+    "category": "Text",
+    "text": "Do đó xe máy phải đạp phanh khi cách xe đang停止 phía trước một khoảng tối少 là $10 + 1 = 11$ m."
+  },
+  {
+    "bbox": [
+      154,
+      1377,
+      1574,
+      1598
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trường THPT X có 800 học sinh, trong đó có 360 học sinh tham gia câu lạc bộ thể thao. Trong số các học sinh tham gia câu lạc bộ thể thao của trường có 188 học sinh biết bơi. Trong số các học sinh của trường không tham gia câu lạc bộ thể thao có 132 học sinh biết bơi. Chọn ngẫu nhiên một học sinh của trường THPT X."
+  },
+  {
+    "bbox": [
+      154,
+      1611,
+      1053,
+      1656
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: “Chọn được học sinh thuộc câu lạc bộ thể thao”."
+  },
+  {
+    "bbox": [
+      154,
+      1669,
+      822,
+      1714
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “Chọn được học sinh biết bơi”."
+  },
+  {
+    "bbox": [
+      154,
+      1732,
+      504,
+      1782
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(A) = 0,45$."
+  },
+  {
+    "bbox": [
+      154,
+      1807,
+      701,
+      1867
+    ],
+    "category": "Text",
+    "text": "b) Xác suất có điều kiện $P(B|\\bar{A}) = 0,2$."
+  },
+  {
+    "bbox": [
+      154,
+      1893,
+      504,
+      1943
+    ],
+    "category": "Text",
+    "text": "c) Xác suất $P(B) = 0,45$."
+  },
+  {
+    "bbox": [
+      154,
+      1962,
+      1574,
+      2075
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được học sinh thuộc câu lạc bộ thể thao mà học sinh đó biết bơi bằng 0,58 (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      807,
+      2092,
+      924,
+      2131
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2145,
+      971,
+      2208
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

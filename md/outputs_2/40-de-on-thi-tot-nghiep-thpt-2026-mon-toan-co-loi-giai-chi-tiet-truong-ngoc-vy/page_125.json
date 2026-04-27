@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      155,
+      1450,
+      201
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      217,
+      913,
+      267
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      436,
+      295,
+      1289,
+      523
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      547,
+      1096,
+      593
+    ],
+    "category": "Text",
+    "text": "Tổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      205,
+      611,
+      285,
+      645
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      555,
+      611,
+      632,
+      645
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      906,
+      611,
+      974,
+      645
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1255,
+      611,
+      1335,
+      645
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      807,
+      670,
+      924,
+      708
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      728,
+      279,
+      766
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      162,
+      788,
+      749,
+      843
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} f(x) = 3 \\text{ ta được tiệm cận ngang } y = 3\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      872,
+      803,
+      936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to (-2)^-} f(x) = +\\infty \\text{ ta được tiệm cận đứng } x = -2\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      968,
+      967,
+      1043
+    ],
+    "category": "Text",
+    "text": "Câu 2.统一 nguyên hàm $F(x)$ của hàm số $f(x) = \\cos^2 \\frac{x}{2}$"
+  },
+  {
+    "bbox": [
+      205,
+      1074,
+      506,
+      1148
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } F(x) = 2\\cos\\frac{x}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1070,
+      1263,
+      1148
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } F(x) = \\frac{1}{2}(1+\\sin x) + C\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1180,
+      500,
+      1254
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } F(x) = 2\\sin\\frac{x}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1176,
+      1263,
+      1254
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } F(x) = \\frac{1}{2}(1-\\sin x) + C\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      1279,
+      924,
+      1317
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1337,
+      277,
+      1375
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      1397,
+      1424,
+      1477
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f(x) = \\cos^2 \\frac{x}{2} \\Rightarrow F(x) = \\int \\cos^2 \\frac{x}{2} dx = \\int \\frac{1+\\cos x}{2} dx = \\frac{1}{2} \\int (1+\\cos x) dx = \\frac{1}{2}(1+\\sin x) + C\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1497,
+      1263,
+      1543
+    ],
+    "category": "Text",
+    "text": "Câu 3. Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      434,
+      1571,
+      1287,
+      1693
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">M<sub>1</sub></td><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>6</td><td>4</td><td>8</td><td>6</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      434,
+      1738,
+      1287,
+      1860
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">M<sub>2</sub></td><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>9</td><td>6</td><td>12</td><td>9</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1882,
+      1564,
+      1929
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      205,
+      1978,
+      367,
+      2016
+    ],
+    "category": "List-item",
+    "text": "A. $s_1 = 2s_2$."
+  },
+  {
+    "bbox": [
+      555,
+      1978,
+      697,
+      2016
+    ],
+    "category": "List-item",
+    "text": "B. $s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      906,
+      1957,
+      1074,
+      2037
+    ],
+    "category": "List-item",
+    "text": "C. $s_2 = \\frac{3}{2}s_1$."
+  },
+  {
+    "bbox": [
+      1255,
+      1957,
+      1424,
+      2037
+    ],
+    "category": "List-item",
+    "text": "D. $s_1 = \\frac{3}{2}s_2$."
+  },
+  {
+    "bbox": [
+      807,
+      2062,
+      924,
+      2100
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2120,
+      277,
+      2158
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

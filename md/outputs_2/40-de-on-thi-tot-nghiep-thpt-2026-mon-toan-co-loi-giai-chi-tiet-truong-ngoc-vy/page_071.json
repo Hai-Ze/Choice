@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      154,
+      925,
+      244
+    ],
+    "category": "Text",
+    "text": "Điều kiện xác định: $5 - 4x \\ge 0 \\Leftrightarrow x \\le \\frac{5}{4}$ hay $x \\in (-\\infty; \\frac{5}{4}]$"
+  },
+  {
+    "bbox": [
+      154,
+      268,
+      686,
+      320
+    ],
+    "category": "Text",
+    "text": "Suy ra hàm số xác định với $\\forall x \\in [-1;1]$"
+  },
+  {
+    "bbox": [
+      154,
+      342,
+      686,
+      391
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(x)$ liên tục trên đoạn $[-1;1]$"
+  },
+  {
+    "bbox": [
+      154,
+      417,
+      1276,
+      504
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = \\frac{-2}{\\sqrt{5-4x}} < 0, \\forall x \\in [-1;1]$. Suy ra hàm số nghịch biến trên khoảng $(-1;1)$."
+  },
+  {
+    "bbox": [
+      154,
+      528,
+      709,
+      589
+    ],
+    "category": "Text",
+    "text": "Do đó $\\max_{[-1;1]} y = y(-1) = 3$; $\\min_{[-1;1]} y = y(1) = 1$"
+  },
+  {
+    "bbox": [
+      154,
+      607,
+      1575,
+      830
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có hai phác đồ điều trị $A$ và $B$ cho một loại bệnh. Phác đồ $A$ có xác suất chữa khỏi bệnh là 60% và xác xuất gây tác dụng phụ nghiêm trọng là 5%. Phác đồ $B$ có xác xuất chữa khỏi bệnh là 70% và xác suất gây tác dụng phụ nghiêm trọng là 10%. Một bệnh nhân được điều trị ngẫu nhiên bằng một trong hai phác đồ (xác suất chọn mỗi phác đồ là 50%)."
+  },
+  {
+    "bbox": [
+      154,
+      842,
+      1219,
+      889
+    ],
+    "category": "Text",
+    "text": "a) Xác suất bệnh nhân điều trị bằng phác đồ $A$ và được chữa khỏi bệnh là 0,6."
+  },
+  {
+    "bbox": [
+      154,
+      908,
+      1036,
+      954
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để bệnh nhân bị tác dụng phụ nghiêm trọng là 0,075."
+  },
+  {
+    "bbox": [
+      154,
+      971,
+      1573,
+      1076
+    ],
+    "category": "Text",
+    "text": "c) Nếu biết bệnh nhân này gặp tác dụng phụ nghiêm trọng thì xác suất bệnh nhân đã được điều trị bằng phác đồ $B$ lớn hơn 0,65."
+  },
+  {
+    "bbox": [
+      154,
+      1094,
+      1573,
+      1256
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng trong mỗi phác đồ điều trị thì biến cố “bccccn nhân được chữa khỏi bệnh” và biến cố “bccccn nhân không bị tác dụng phụ nghiêm trọng” là độc lập với nhau. Xác suất bệnh nhân khỏi bệnh và không bị tác dụng phụ nghiêm trọng là 0,6."
+  },
+  {
+    "bbox": [
+      807,
+      1281,
+      925,
+      1320
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      1333,
+      972,
+      1457
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1455,
+      1321,
+      1499
+    ],
+    "category": "Text",
+    "text": "Gọi X: “Phác đồ A chữa khỏi bệnh” và Y: “phác đồ A gây tác dụng phụ nghiêm trọng”"
+  },
+  {
+    "bbox": [
+      154,
+      1517,
+      633,
+      1566
+    ],
+    "category": "Text",
+    "text": "Ta có $P(X) = 0,6$ và $P(Y) = 0,05$"
+  },
+  {
+    "bbox": [
+      154,
+      1584,
+      1324,
+      1632
+    ],
+    "category": "Text",
+    "text": "Gọi M: “Phác đồ B chữa khỏi bệnh” và N: “phác đồ B gây tác dụng phụ nghiêm trọng”"
+  },
+  {
+    "bbox": [
+      154,
+      1650,
+      625,
+      1698
+    ],
+    "category": "Text",
+    "text": "Ta có $P(M) = 0,7$ và $P(N) = 0,1$"
+  },
+  {
+    "bbox": [
+      154,
+      1716,
+      1573,
+      1829
+    ],
+    "category": "Text",
+    "text": "a) Vì xác suất chọn được phác đồ $A$ là 0,5 và xác suất phác đồ $A$ chữa khỏi bệnh là 0,6 nên xác xuất bệnh nhân được điều trị bằng phác đồ $A$ và chữa khỏi bệnh là $0,5 \\times 0,6 = 0,3$."
+  },
+  {
+    "bbox": [
+      154,
+      1851,
+      1573,
+      2031
+    ],
+    "category": "Text",
+    "text": "b) Xác suất sử dụng phác đồ $A$ gây tác dụng phụ nghiêm trọng là $P(Y) = 0,05$ và xác suất để chọn được phác đồ $A$ là 0,5 nên xác suất chọn được phác đồ $A$ và bệnh nhân bị tác dụng phụ nghiêm trọng là $0,5 \\times 0,05 = 0,025$."
+  },
+  {
+    "bbox": [
+      154,
+      2055,
+      1573,
+      2235
+    ],
+    "category": "Text",
+    "text": "Xác suất sử dụng phác đồ $B$ gây tác dụng phụ nghiêm trọng là $P(N) = 0,1$ và xác suất để chọn được phác đồ $B$ là 0,5 nên xác suất chọn được phác đồ $B$ và bệnh nhân bị tác dụng phụ nghiêm trọng là $0,5 \\times 0,1 = 0,05$."
+  },
+  {
+    "bbox": [
+      154,
+      2256,
+      649,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

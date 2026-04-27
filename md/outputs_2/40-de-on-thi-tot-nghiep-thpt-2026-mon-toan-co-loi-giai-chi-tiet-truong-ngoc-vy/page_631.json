@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      538,
+      95,
+      1034,
+      635
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      648,
+      440,
+      692
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      115,
+      712,
+      871,
+      759
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho nghịch biến trên khoảng $(-\\infty; -2026)$."
+  },
+  {
+    "bbox": [
+      115,
+      786,
+      796,
+      835
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho đồng biến trên khoảng $(-3; -1)$."
+  },
+  {
+    "bbox": [
+      115,
+      862,
+      819,
+      911
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho nghịch biến trên khoảng $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      115,
+      938,
+      777,
+      985
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đã cho đồng biến trên khoảng $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      727,
+      1014,
+      842,
+      1052
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1073,
+      198,
+      1110
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1123,
+      388,
+      1166
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có"
+  },
+  {
+    "bbox": [
+      76,
+      1187,
+      942,
+      1235
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên các khoảng $(-\\infty; -3)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      1262,
+      898,
+      1311
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên các khoảng $(-3; -1)$ và $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      76,
+      1338,
+      1124,
+      1435
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho $\\int_{0}^{2} f(x)dx = 3$, $\\int_{0}^{2} g(x)dx = -1$ thì $\\int_{0}^{2} [f(x) - 5g(x) + x]dx$ bằng:"
+  },
+  {
+    "bbox": [
+      125,
+      1460,
+      217,
+      1495
+    ],
+    "category": "List-item",
+    "text": "A. 12."
+  },
+  {
+    "bbox": [
+      476,
+      1460,
+      554,
+      1495
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      864,
+      1460,
+      938,
+      1495
+    ],
+    "category": "List-item",
+    "text": "C. 8."
+  },
+  {
+    "bbox": [
+      1175,
+      1460,
+      1252,
+      1495
+    ],
+    "category": "List-item",
+    "text": "D. 10"
+  },
+  {
+    "bbox": [
+      727,
+      1520,
+      842,
+      1558
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1578,
+      198,
+      1616
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1635,
+      1028,
+      1732
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{2} [f(x) - 5g(x) + x]dx = \\int_{0}^{2} f(x)dx - 5\\int_{0}^{2} g(x)dx + \\int_{0}^{2} xdx = 3 + 5 + 2 = 10\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1752,
+      1493,
+      1855
+    ],
+    "category": "Text",
+    "text": "Câu 6.úp thi môn Toán (thang điểm 100, điểm được làm tròn đến 1) của 60 thí sinh được cho mẫu số liệu ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      143,
+      1869,
+      1425,
+      2129
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[0;9,5)</td><td>[9,5;19,5)</td><td>[19,5;29,5)</td><td>[29,5;39,5)</td><td>[39,5;49,5)</td></tr><tr><td>Số thí sinh</td><td>1</td><td>2</td><td>4</td><td>6</td><td>15</td></tr><tr><td>Điểm</td><td>[49,5;59,5)</td><td>[59,5;69,5)</td><td>[69,5;79,5)</td><td>[79,5;89,5)</td><td>[89,5;99,5)</td></tr><tr><td>Số thí sinh</td><td>12</td><td>10</td><td>6</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2184,
+      1229,
+      2229
+    ],
+    "category": "Text",
+    "text": "Tính khoảng tức phân vị của mẫu số liệu ghép nhóm (kết quả làm tròn đến phần mười)."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

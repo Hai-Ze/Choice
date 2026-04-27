@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      213,
+      111,
+      329,
+      149
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      213,
+      156,
+      566,
+      195
+    ],
+    "category": "Text",
+    "text": "Đồ thị có TCĐ là: $x = 2$."
+  },
+  {
+    "bbox": [
+      74,
+      205,
+      1123,
+      249
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Hàm số nào sau đây là một nguyên hàm của hàm số $y = 10^x$?"
+  },
+  {
+    "bbox": [
+      213,
+      258,
+      1358,
+      345
+    ],
+    "category": "Text",
+    "text": "A. $y = 10^x \\ln 10$. B. $y = 10^x$. C. $y = \\frac{10^{x+1}}{x+1}$. D. $y = \\frac{10^x}{\\ln 10}$."
+  },
+  {
+    "bbox": [
+      765,
+      351,
+      884,
+      392
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      396,
+      333,
+      434
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      213,
+      443,
+      766,
+      528
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int 10^x dx = \\frac{10^x}{\\ln 10} + C$ nên chọn D"
+  },
+  {
+    "bbox": [
+      74,
+      533,
+      1491,
+      579
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, khoảng cách giữa hai điểm $A(x_1; y_1; z_1)$ và $B(x_2; y_2; z_2)$ bằng:"
+  },
+  {
+    "bbox": [
+      213,
+      588,
+      1382,
+      752
+    ],
+    "category": "Text",
+    "text": "A. $|x_2 - x_1| + |y_2 - y_1| + |z_2 - z_1|$.\nB. $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$.\nC. $\\frac{|x_2 - x_1| + |y_2 - y_1| + |z_2 - z_1|}{3}$.\nD. $\\sqrt{\\frac{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}{3}}$."
+  },
+  {
+    "bbox": [
+      765,
+      761,
+      884,
+      802
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      808,
+      329,
+      846
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      181,
+      851,
+      710,
+      908
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      916,
+      1572,
+      1014
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Trong không gian $Oxyz$, mặt phẳng đi qua điểm $I(x_0; y_0; z_0)$ và nhận $\\vec{n} = (a; b; c)$ làm vecto pháp tuyến có phương trình là:"
+  },
+  {
+    "bbox": [
+      213,
+      1017,
+      1382,
+      1114
+    ],
+    "category": "Text",
+    "text": "A. $c(x - x_0) + b(y - y_0) + a(z - z_0) = 0$.\nB. $b(x - x_0) + a(y - y_0) + c(z - z_0) = 0$.\nC. $c(x - x_0) + a(y - y_0) + b(z - z_0) = 0$.\nD. $a(x - x_0) + b(y - y_0) + c(z - z_0) = 0$."
+  },
+  {
+    "bbox": [
+      765,
+      1125,
+      884,
+      1166
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1171,
+      333,
+      1209
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      74,
+      1214,
+      1429,
+      1258
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong không gian $Oxyz$, mặt cầu tâm $I(x_0; y_0; z_0)$ bán kính $R$ có phương trình là:"
+  },
+  {
+    "bbox": [
+      213,
+      1265,
+      1412,
+      1368
+    ],
+    "category": "Text",
+    "text": "A. $(x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 = R^2$.\nB. $(x - x_0)^2 + (y - y_0)^2 - (z - z_0)^2 = R^2$.\nC. $(x - x_0)^2 - (y - y_0)^2 + (z - z_0)^2 = R^2$.\nD. $-(x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      765,
+      1377,
+      884,
+      1418
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1422,
+      333,
+      1460
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      74,
+      1467,
+      1572,
+      1569
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nếu hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ thỏa mãn $f(x) \\ge m, \\forall x \\in \\mathbb{R}$ và tồn tại $a \\in \\mathbb{R}$ sao cho $f(a) = m$ thì:"
+  },
+  {
+    "bbox": [
+      213,
+      1578,
+      928,
+      1627
+    ],
+    "category": "Text",
+    "text": "A. Hàm số $y = f(x)$ đạt giá trị lớn nhất bằng $m$."
+  },
+  {
+    "bbox": [
+      213,
+      1636,
+      922,
+      1685
+    ],
+    "category": "Text",
+    "text": "B. Hàm số $y = f(x)$ đạt giá trị cực tiểu bằng $m$."
+  },
+  {
+    "bbox": [
+      213,
+      1694,
+      935,
+      1743
+    ],
+    "category": "Text",
+    "text": "C. Hàm số $y = f(x)$ đạt giá trị nhỏ nhất bằng $m$."
+  },
+  {
+    "bbox": [
+      213,
+      1752,
+      917,
+      1801
+    ],
+    "category": "Text",
+    "text": "D. Hàm số $y = f(x)$ đạt giá trị cực đại bằng $m$."
+  },
+  {
+    "bbox": [
+      765,
+      1812,
+      884,
+      1853
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1857,
+      329,
+      1895
+    ],
+    "category": "Section-header",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      213,
+      1902,
+      697,
+      1943
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa, chọn đáp án C."
+  },
+  {
+    "bbox": [
+      74,
+      1947,
+      702,
+      1986
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Đạo hàm của hàm số $y = \\cos x$ là:"
+  },
+  {
+    "bbox": [
+      213,
+      1995,
+      1387,
+      2036
+    ],
+    "category": "Text",
+    "text": "A. $y' = \\sin x$. B. $y' = -\\sin x$. C. $y' = \\cos x$. D. $y' = -\\cos x$."
+  },
+  {
+    "bbox": [
+      765,
+      2045,
+      884,
+      2086
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2090,
+      329,
+      2128
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      213,
+      2141,
+      536,
+      2194
+    ],
+    "category": "Text",
+    "text": "Ta có $(\\cos x)' = -\\sin x$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

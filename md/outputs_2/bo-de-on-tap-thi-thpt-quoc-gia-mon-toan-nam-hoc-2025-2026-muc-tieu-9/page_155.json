@@ -1,0 +1,169 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1547,
+      227
+    ],
+    "category": "Text",
+    "text": "Khi đó chiều dài thanh chống bị rút ngắn là $CC' = CH - C'H = 15 - C'H$ (vì cao độ của $C$ bằng 15 nên chiều cao thanh chống ban đầu bằng 15)."
+  },
+  {
+    "bbox": [
+      153,
+      238,
+      1547,
+      331
+    ],
+    "category": "Text",
+    "text": "Ta có $\\tan \\widehat{C'AH} = \\frac{C'H}{HA} \\Rightarrow C'H = HA \\cdot \\tan \\widehat{C'AH} = 11,25 \\cdot \\tan \\widehat{C'AH}$ (với $HA = 16,25 - 5 = 11,25$)."
+  },
+  {
+    "bbox": [
+      202,
+      343,
+      1211,
+      394
+    ],
+    "category": "Text",
+    "text": "Mà $\\widehat{C'AH}$ bằng góc giữa mặt phẳng tấm chắn mới với mặt đất (Oxy)."
+  },
+  {
+    "bbox": [
+      514,
+      398,
+      1187,
+      867
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      906,
+      1547,
+      997
+    ],
+    "category": "Text",
+    "text": "Dựa vào tính chất tiếp tuyến, ta có $\\Delta IF'A' = \\Delta IH'A' \\Rightarrow \\widehat{F'A'I} = \\widehat{IA'H'}$. Khi đó $\\widehat{C'AH} = 2\\widehat{IA'H'}$."
+  },
+  {
+    "bbox": [
+      202,
+      1012,
+      1019,
+      1070
+    ],
+    "category": "Text",
+    "text": "Ta có $IH' = 5, H'A' = 11,25 \\Rightarrow \\tan \\widehat{IA'H'} = \\frac{IH'}{A'H'} = \\frac{5}{11,25}$."
+  },
+  {
+    "bbox": [
+      202,
+      1082,
+      508,
+      1131
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\widehat{IA'H'} \\approx 23,9624^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1143,
+      746,
+      1200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow C'H = 11,25 \\cdot \\tan(2 \\cdot \\widehat{IA'H'}) = \\frac{162}{13}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1208,
+      1233,
+      1261
+    ],
+    "category": "Text",
+    "text": "Vậy chiều dài thanh chống bị rút ngắn đi là $CC' = 15 - \\frac{162}{13} \\approx 2,54$ (m)."
+  },
+  {
+    "bbox": [
+      202,
+      1271,
+      1151,
+      1315
+    ],
+    "category": "Text",
+    "text": "**Phần III. Câu trả lời ngắn** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      1336,
+      1547,
+      1509
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật $AB = 1, AD = 2, SA$ vuông góc với mặt phẳng đáy và $SA = 1$. Gọi $M$ là trung điểm của $AD$. Tính khoảng cách giữa hai đường thẳng $BM$ và $SD$ (không làm tròn các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      153,
+      1524,
+      198,
+      1562
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1524,
+      445,
+      1587
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      202,
+      1601,
+      982,
+      1645
+    ],
+    "category": "Text",
+    "text": "Cách 1: Sử dụng phương pháp hình học cổ điểm"
+  },
+  {
+    "bbox": [
+      576,
+      1657,
+      1123,
+      2164
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "155"
+  }
+]

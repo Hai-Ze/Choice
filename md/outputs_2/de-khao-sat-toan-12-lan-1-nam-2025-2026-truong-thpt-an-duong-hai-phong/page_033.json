@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      148,
+      107,
+      601,
+      715
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      646,
+      724,
+      734,
+      761
+    ],
+    "category": "Text",
+    "text": "a) Sai"
+  },
+  {
+    "bbox": [
+      131,
+      790,
+      219,
+      827
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      131,
+      856,
+      979,
+      1023
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Tam giác } ABC \\text{ vuông tại } A \\Rightarrow AB &= \\sqrt{BC^2 - AB^2} = \\sqrt{13-4} = 3 \\\\\n\\Rightarrow V_{ltru} &= \\frac{1}{2} \\cdot 2 \\cdot 3 \\cdot 4 = 12\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      1056,
+      248,
+      1095
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      131,
+      1122,
+      1029,
+      1295
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Góc giữa đường thẳng } A'B \\text{ và mặt phẳng đáy } (ABC) \\text{ bằng } A'BA \\\\\n\\Rightarrow \\cos \\widehat{A'BA} = \\frac{AB}{A'B} = \\frac{2}{\\sqrt{4+16}} = \\frac{1}{\\sqrt{5}}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      1329,
+      219,
+      1366
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      131,
+      1391,
+      1288,
+      1503
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Khoảng cách giữa hai đường thẳng } A'B \\text{ và } CE \\text{ bằng khoảng cách giữa } A'B \\text{ và } (EFC) \\\\\n\\Rightarrow d(A'B, CE) = d(A'B, (EFC)) = d(B; (EFC)) = d(A; (EFC)) = AK\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      1531,
+      997,
+      1574
+    ],
+    "category": "Text",
+    "text": "Với H là hình chiếu của A lên EC, K là hình chiếu của A lên FH."
+  },
+  {
+    "bbox": [
+      131,
+      1604,
+      925,
+      1687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\frac{1}{AK^2} = \\frac{1}{AC^2} + \\frac{1}{AE^2} + \\frac{1}{AF^2} = \\frac{1}{9} + \\frac{1}{1} + \\frac{1}{4} = \\frac{49}{36} \\Rightarrow AK = \\frac{6}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      131,
+      1713,
+      285,
+      1752
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III."
+  },
+  {
+    "bbox": [
+      131,
+      1761,
+      1509,
+      1892
+    ],
+    "category": "Text",
+    "text": "**Câu 17.** Cho hàm số $y = \\frac{2x-3}{x+1}$. Gọi đường thẳng tiệm cận đứng và tiệm cận ngang của đồ thị hàm số lần lượt có phương trình: $x = a$; $y = b$. Khi đó tổng $a + 3b$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      852,
+      1920,
+      967,
+      1958
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      181,
+      1964,
+      325,
+      2002
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 5**"
+  },
+  {
+    "bbox": [
+      131,
+      2017,
+      1527,
+      2151
+    ],
+    "category": "Text",
+    "text": "**Câu 18.** Để chặn đường hành lang hình chữ L, người ta dùng một que sào thẳng dài đặt kín những điểm catch với hành lang (như hình vẽ). Biết $a = 27m$ và $b = 8m$. Hỏi cái sào thỏa mãn điều kiện trên có chiều dài tối thiểu là bao nhiêu mét ? Làm tròn đến hàng phần chục?"
+  }
+]

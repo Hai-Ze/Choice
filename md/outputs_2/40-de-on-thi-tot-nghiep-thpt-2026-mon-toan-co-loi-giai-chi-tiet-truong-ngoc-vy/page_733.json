@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1495,
+      311
+    ],
+    "category": "Text",
+    "text": "nghìn đồng/ngày. Thời gian bảo quản tối đa 10 ngày. Biết rằng, kể từ ngày đầu tiên nhập hàng, đại lý sẽ phân phối tới các của hàng 25 tạ trái cây mỗi ngày. Mỗi lần nhập hàng, đại lý phải nhập đủ trái cây cho bao nhiêu ngày phân phối để chi phí trung bình cho mỗi ngày thấp nhất (bao gồm chi phí vận chuyển và chi phí bảo quản trong kho)?"
+  },
+  {
+    "bbox": [
+      75,
+      327,
+      414,
+      364
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      386,
+      843,
+      425
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      444,
+      222,
+      483
+    ],
+    "category": "Text",
+    "text": "Đáp án: 5"
+  },
+  {
+    "bbox": [
+      75,
+      502,
+      912,
+      543
+    ],
+    "category": "Text",
+    "text": "Giả sử đại lý phải nhập đủ trái cây cho $x$ ngày. Đk: $1 \\le x \\le 10$."
+  },
+  {
+    "bbox": [
+      75,
+      555,
+      717,
+      602
+    ],
+    "category": "Text",
+    "text": "⇒ khối lượng trái cây cần nhập khẩu là $25x$ tạ."
+  },
+  {
+    "bbox": [
+      75,
+      615,
+      545,
+      661
+    ],
+    "category": "Text",
+    "text": "Chi phí vận chuyển 25 triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      680,
+      1078,
+      728
+    ],
+    "category": "Text",
+    "text": "Chi phí bảo dưỡng trong ngày đầu là $0,08 \\cdot (25x - 25) = 2(x - 1)$ triệu đồng"
+  },
+  {
+    "bbox": [
+      75,
+      755,
+      1129,
+      803
+    ],
+    "category": "Text",
+    "text": "Chi phí bảo dưỡng trong ngày thứ hai là $0,08 \\cdot (25x - 50) = 2(x - 2)$ triệu đồng"
+  },
+  {
+    "bbox": [
+      75,
+      841,
+      113,
+      866
+    ],
+    "category": "Text",
+    "text": "..."
+  },
+  {
+    "bbox": [
+      75,
+      888,
+      1155,
+      938
+    ],
+    "category": "Text",
+    "text": "Chi phí bảo dưỡng trong ngày thứ $x-1$ là $0,08 \\cdot (25x - 25(x-1)) = 2$ triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      958,
+      635,
+      1004
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí bảo dưỡng và vận chuyển là"
+  },
+  {
+    "bbox": [
+      75,
+      1022,
+      968,
+      1110
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = 2(x-1+x-2+\\dots+1)+25 = 2 \\cdot \\frac{x(x-1)}{2} + 25 = x(x-1)+25\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1132,
+      941,
+      1222
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Chi phí trung bình cho mỗi ngày } \\bar{C}(x) = \\frac{C(x)}{x} = \\frac{x^2 - x + 25}{x}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1246,
+      518,
+      1334
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\bar{C}'(x) = \\frac{x^2 - 25}{x^2} = 0 \\Leftrightarrow x = 5.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1350,
+      715,
+      1396
+    ],
+    "category": "Text",
+    "text": "Vậy đại lý cần nhận số trái cây đủ trong 5 ngày."
+  },
+  {
+    "bbox": [
+      75,
+      1450,
+      1495,
+      1676
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty vận tải cần giao hàng đến tất cả các thành phố $A, B, C, D, E$ (hình vẽ bên dưới). Chi phí di chuyển giữa các thành phố được mô tả trên hình (đơn vị tính: triệu đồng). Xe giao hàng của công ty xuất phát từ một thành phố trong năm thành phố trên đi qua tất cả các thành phố còn lại đúng một lần sau đó trở lại thành phố ban đầu. Tìm chi phí thấp nhất của xe giao hàng."
+  },
+  {
+    "bbox": [
+      510,
+      1715,
+      1021,
+      2100
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2124,
+      414,
+      2161
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2183,
+      843,
+      2222
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

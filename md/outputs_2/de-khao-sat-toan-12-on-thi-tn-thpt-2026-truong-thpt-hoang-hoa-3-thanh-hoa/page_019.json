@@ -1,0 +1,91 @@
+[
+  {
+    "bbox": [
+      346,
+      106,
+      1016,
+      592
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      335,
+      632,
+      1434,
+      712
+    ],
+    "category": "Text",
+    "text": "Ta có: $EK = MK \\cdot \\cos 60^{\\circ} = 50 \\cdot \\frac{1}{2} = 25m \\Rightarrow z_M = OE = OK + KE = 50 + 25 = 75m$."
+  },
+  {
+    "bbox": [
+      335,
+      742,
+      1322,
+      835
+    ],
+    "category": "Text",
+    "text": "Ta có: $ME = MK \\cdot \\sin 60^{\\circ} = 50 \\cdot \\frac{\\sqrt{3}}{2} = 25\\sqrt{3}$. Suy ra $OH = ME = 25\\sqrt{3} m$."
+  },
+  {
+    "bbox": [
+      335,
+      860,
+      1021,
+      906
+    ],
+    "category": "Text",
+    "text": "Gọi P, Q lần lượt là hình chiếu của M lên $Ox, Oy$."
+  },
+  {
+    "bbox": [
+      335,
+      937,
+      1014,
+      1030
+    ],
+    "category": "Text",
+    "text": "Vì $(\\vec{i}; \\overline{OH}) = 45^{\\circ} \\Rightarrow OP = OQ = OH \\cdot \\frac{\\sqrt{2}}{2} = \\frac{25\\sqrt{6}}{2}$."
+  },
+  {
+    "bbox": [
+      335,
+      1060,
+      922,
+      1164
+    ],
+    "category": "Text",
+    "text": "Vậy điểm H có tọa độ $\\left(\\frac{25\\sqrt{6}}{2}; \\frac{25\\sqrt{6}}{2}, 0\\right)$."
+  },
+  {
+    "bbox": [
+      335,
+      1199,
+      1081,
+      1361
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\begin{cases} H\\left(\\frac{25\\sqrt{6}}{2}; \\frac{25\\sqrt{6}}{2}, 0\\right) \\Rightarrow M\\left(\\frac{25\\sqrt{6}}{2}; \\frac{25\\sqrt{6}}{2}, 75\\right). \\\\ OE = 75 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      335,
+      1395,
+      641,
+      1437
+    ],
+    "category": "Text",
+    "text": "Suy ra $a+b+c \\approx 136$."
+  },
+  {
+    "bbox": [
+      196,
+      1458,
+      1644,
+      1737
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Ông Duy có một mảnh vường hình vuông cạnh bằng 8 m. Ông dự định xây một cái bể bơi đặc biệt (phần kẻ sọc trong hình vẽ bên). Biết $AM = \\frac{AB}{4}$, phần đường cong đi qua các điểm $C, M, N$ là một phần của đường Parabol có trục đối xứng là $MP(MP // AD)$ và chi phí để làm bể bơi là 5 triệu đồng/1m². Số tiền ông Duy phải trả để xây cái bể bơi đó là bao nhiêu triệu đồng? (làm tròn kết quả đến hàng đơn vị)."
+  }
+]

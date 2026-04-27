@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      205,
+      81,
+      1186,
+      169
+    ],
+    "category": "Formula",
+    "text": "$$\nP = \\frac{\\log_6 k}{\\log_4 k} + \\frac{2\\log_6 k}{\\log_3 k} = \\log_6 4 + 2\\log_6 3 = \\log_6 4 + \\log_6 9 = \\log_6 36 = 2.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      176,
+      378,
+      213
+    ],
+    "category": "Text",
+    "text": "- **Chọn A.**"
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      884,
+      253
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Góc giữa AB và A'C' trong hình lập phương."
+  },
+  {
+    "bbox": [
+      205,
+      261,
+      1102,
+      301
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phân tích: } A'C' // AC \\Rightarrow (AB, A'C') = (AB, AC) = BAC = 45^\\circ.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      310,
+      378,
+      347
+    ],
+    "category": "Text",
+    "text": "- **Chọn A.**"
+  },
+  {
+    "bbox": [
+      155,
+      344,
+      852,
+      406
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II: Trắc nghiệm đúng sai"
+  },
+  {
+    "bbox": [
+      155,
+      406,
+      1121,
+      450
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Chuyển động ô tô. $v_0 = 90 \\text{ km/h} = 25 \\text{ m/s}$. Gia tốc $a = -2 \\text{ m/s}^2$."
+  },
+  {
+    "bbox": [
+      205,
+      461,
+      712,
+      501
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } v(t) = v_0 + at = 25 - 2t. \\text{ (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      510,
+      1312,
+      591
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Khi } v = 30 \\text{ km/h} = \\frac{25}{3} \\text{ m/s. Thời gian: } 25 - 2t = \\frac{25}{3} \\Rightarrow t = \\frac{25}{3} \\approx 8,33 \\text{ s. (Sai)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      597,
+      1292,
+      678
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Quăng đường: } S = \\int_{0}^{25/3} (25 - 2t)dt = \\left(25t - t^2\\right)\\bigg|_{0}^{25/3} = 138,88 \\approx 139 \\text{ m. (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      685,
+      1065,
+      725
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Khoảng cách còn lại: } 400 - (25 \\cdot 4) - 139 = 161 \\text{ m. (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      730,
+      595,
+      774
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Hàm số $y = x^3 - 3x^2 + 4$."
+  },
+  {
+    "bbox": [
+      205,
+      776,
+      775,
+      821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Nhánh cuối đi lên} \\Rightarrow a > 0. \\text{ (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      818,
+      693,
+      859
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Nghịch biến trên } (0; 2). \\text{ (Sai)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      868,
+      836,
+      911
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) } y' = 3x^2 - 6x = 0 \\Leftrightarrow x = 0, x = 2. \\text{ (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      920,
+      926,
+      998
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Diện tích } S = \\int_{-1}^{2} (x^3 - 3x^2 + 4)dx = \\frac{27}{4}. \\text{ (Đúng)}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      999,
+      1459,
+      1047
+    ],
+    "category": "Text",
+    "text": "**CÂU 3:** Trong không gian Oxyz, cho $A(4;5;6)$, $B(2;4;9)$ và mặt phẳng $(P): 2x + y - z + 3 = 0$."
+  },
+  {
+    "bbox": [
+      205,
+      1047,
+      1124,
+      1092
+    ],
+    "category": "Text",
+    "text": "- **a) Một vecto pháp tuyến của mặt phẳng $(P)$ là $\\vec{n} = (4; 2; -2)$**."
+  },
+  {
+    "bbox": [
+      305,
+      1097,
+      1518,
+      1146
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Từ phương trình mặt phẳng $(P)$, ta có vecto pháp tuyến cơ bản là $\\vec{n}_0 = (2;1;-1)$."
+  },
+  {
+    "bbox": [
+      305,
+      1153,
+      1089,
+      1203
+    ],
+    "category": "List-item",
+    "text": "  - Xét vecto $\\vec{n} = (4;2;-2)$. Ta thấy $\\vec{n} = 2 \\cdot (2;1;-1) = 2\\vec{n}_0$."
+  },
+  {
+    "bbox": [
+      305,
+      1208,
+      1337,
+      1258
+    ],
+    "category": "List-item",
+    "text": "  - Vì $\\vec{n}$ cùng phương với $\\vec{n}_0$ nên $\\vec{n}$ cũng là một vecto pháp tuyến của $(P)$."
+  },
+  {
+    "bbox": [
+      305,
+      1261,
+      607,
+      1305
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      205,
+      1308,
+      1072,
+      1387
+    ],
+    "category": "Text",
+    "text": "- **b) Tọa độ trọng tâm $G$ của tam giác OAB là $G(3; \\frac{9}{2}; \\frac{15}{2})$**."
+  },
+  {
+    "bbox": [
+      305,
+      1387,
+      1589,
+      1431
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:**úp $O$ là gốc tọa độ $O(0;0;0)$. Trọng tâm $G$ của $\\triangle OAB$ được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      361,
+      1438,
+      798,
+      1518
+    ],
+    "category": "Formula",
+    "text": "$$\nx_G = \\frac{x_O + x_A + x_B}{3} = \\frac{0 + 4 + 2}{3} = 2\n$$"
+  },
+  {
+    "bbox": [
+      361,
+      1525,
+      802,
+      1605
+    ],
+    "category": "Formula",
+    "text": "$$\ny_G = \\frac{y_O + y_A + y_B}{3} = \\frac{0 + 5 + 4}{3} = 3\n$$"
+  },
+  {
+    "bbox": [
+      361,
+      1612,
+      791,
+      1690
+    ],
+    "category": "Formula",
+    "text": "$$\nz_G = \\frac{z_O + z_A + z_B}{3} = \\frac{0 + 6 + 9}{3} = 5\n$$"
+  },
+  {
+    "bbox": [
+      305,
+      1695,
+      756,
+      1735
+    ],
+    "category": "List-item",
+    "text": "  - Vì tọa độ đúng là $G(2;3;5)$."
+  },
+  {
+    "bbox": [
+      305,
+      1735,
+      565,
+      1777
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: SAI.**"
+  },
+  {
+    "bbox": [
+      205,
+      1777,
+      1450,
+      1818
+    ],
+    "category": "Text",
+    "text": "- **c) Phương trình mặt phẳng $(Q)$ đi qua $A$ và song song với $(P)$ là $2x + y - z + 7 = 0$**."
+  },
+  {
+    "bbox": [
+      305,
+      1823,
+      1234,
+      1863
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Vì $(Q) \\parallel (P)$ nên $(Q)$ có dạng: $2x + y - z + D = 0$ ($D \\neq 3$)."
+  },
+  {
+    "bbox": [
+      305,
+      1863,
+      1251,
+      1951
+    ],
+    "category": "List-item",
+    "text": "  -� $Q$ đi qua $A(4;5;6)$, thay tọa độ $A$ vào phương trình: $2(4) + 1(5) - 1(6) + D = 0 \\Rightarrow 8 + 5 - 6 + D = 0 \\Rightarrow 7 + D = 0 \\Rightarrow D = -7$"
+  },
+  {
+    "bbox": [
+      305,
+      1954,
+      1042,
+      1998
+    ],
+    "category": "List-item",
+    "text": "  - Phương trình mặt phẳng $(Q)$ là: $2x + y - z - 7 = 0$."
+  },
+  {
+    "bbox": [
+      305,
+      1998,
+      987,
+      2042
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: SAI.** (Do sai dấu của số hạng tự do)."
+  }
+]

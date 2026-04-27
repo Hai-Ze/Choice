@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      554,
+      113,
+      1016,
+      540
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      591,
+      414,
+      627
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      651,
+      843,
+      689
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      708,
+      274,
+      747
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2932"
+  },
+  {
+    "bbox": [
+      76,
+      763,
+      599,
+      804
+    ],
+    "category": "Text",
+    "text": "Đổi: 500 m = 0,5 km, 400 m = 0,4 km."
+  },
+  {
+    "bbox": [
+      76,
+      826,
+      478,
+      868
+    ],
+    "category": "Text",
+    "text": "Đặt tên các điểm như hình vẽ."
+  },
+  {
+    "bbox": [
+      550,
+      905,
+      1018,
+      1364
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1404,
+      755,
+      1446
+    ],
+    "category": "Text",
+    "text": "Dễ dàng tính được: $AI = AH - DK = 1 - 0,4 = 0,6$."
+  },
+  {
+    "bbox": [
+      81,
+      1471,
+      662,
+      1526
+    ],
+    "category": "Formula",
+    "text": "$$\nHK = ID = \\sqrt{AD^2 - AI^2} = \\sqrt{1^2 - 0,6^2} = 0,8.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1546,
+      1066,
+      1589
+    ],
+    "category": "Text",
+    "text": "Đặt $HB = x(\\text{km})$ suy ra $CK = HK - HC = 0,3 - x$, điều kiện: $0 \\le x \\le 0,3$."
+  },
+  {
+    "bbox": [
+      76,
+      1612,
+      744,
+      1654
+    ],
+    "category": "Text",
+    "text": "Quăng đường mà bạn Trúc Linh chạy mỗi sáng là"
+  },
+  {
+    "bbox": [
+      81,
+      1674,
+      1297,
+      1737
+    ],
+    "category": "Formula",
+    "text": "$$\nAB + BC + CD + DA = \\sqrt{x^2 + 1} + 1,5 + \\sqrt{(0,3 - x)^2 + 0,4^2} = \\sqrt{x^2 + 1} + \\sqrt{x^2 - 0,6x + 0,25} + 1,5.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1763,
+      967,
+      1823
+    ],
+    "category": "Text",
+    "text": "Xét hàm $f(x) = \\sqrt{x^2 + 1} + \\sqrt{x^2 - 0,6x + 0,25} + 1,5$ với $x \\in [0; 0,3]$."
+  },
+  {
+    "bbox": [
+      81,
+      1851,
+      569,
+      1942
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = \\frac{x}{\\sqrt{x^2 + 1}} + \\frac{x - 0,3}{\\sqrt{x^2 - 0,6x + 0,25}}\n$$"
+  },
+  {
+    "bbox": [
+      81,
+      1970,
+      356,
+      2050
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow x = \\frac{3}{14}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2070,
+      297,
+      2112
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

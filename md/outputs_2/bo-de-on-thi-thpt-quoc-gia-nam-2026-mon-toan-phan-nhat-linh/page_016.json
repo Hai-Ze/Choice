@@ -1,0 +1,100 @@
+[
+  {
+    "bbox": [
+      133,
+      75,
+      705,
+      117
+    ],
+    "category": "Page-header",
+    "text": "TÀI LIỆU LUYỆN THI THPT QUỐC GIA 2026"
+  },
+  {
+    "bbox": [
+      1226,
+      75,
+      1542,
+      117
+    ],
+    "category": "Page-header",
+    "text": "40 ĐỀ MINH HỌA 2026"
+  },
+  {
+    "bbox": [
+      113,
+      157,
+      1535,
+      465
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** [PNL] Một công ty công nghệ có hai chi nhánh đặt tại Hà Nội và TP Hồ Chí Minh. Chi nhánh tại Hà Nội có 60 nhân viên, trong đó có 24 nhân viên nữ. Chi nhánh TP Hồ Chí Minh có 40 nhân viên, trong đó có 4 nhân viên nữ. Công ty quyết định thành lập một đội ngũ dịch vụ khách hàng gồm 4 người bằng cách chọn ngẫu nhiên từ mỗi chi nhánh 2 nhân viên và chọn ngẫu nhiên một nhân viên trong 4 nhân viên này để làm trưởng nhóm. Gọi $A$ là biến cố “Trưởng nhóm được chọn là nhân viên nữ” và $B$ là biến cố “Trưởng nhóm được chọn là nhân viên đến từ chi nhánh Hà Nội”"
+  },
+  {
+    "bbox": [
+      252,
+      467,
+      1535,
+      811
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>$P(B) = 0,5$</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>$P(A|B) = 0,4$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>$P(A) = 0,3$</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>$P(B|A) = 0,8$</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      811,
+      1535,
+      958
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** [PNL] Trong một cảnh dựng phim có một卧i nhà, mái nhà là hình chóp tứ giác đều $S.ABCD$ có chiều cao là 2 mét. Trong hệ tọa độ $Oxyz$ (đơn vị đo trên các trục tính bằng mét) với các điểm ở đáy là $A(6;4;2)$, $B(6;6;2)$, $C(4;6;2)$ và $D(4;4;2)$, trong đó $S$ là đỉnh của mái nhà"
+  },
+  {
+    "bbox": [
+      428,
+      984,
+      1359,
+      1616
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1626,
+      1535,
+      2219
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Đáy của mái nhà nằm trên mặt phẳng $z - 2 = 0$</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Tọa độ đỉnh của mái nhà là $S(5;4;5)$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Mặt nghiêng của mái nhà ($SBC$) tạo với mặt phẳng ($Oxz$) một góc $\\varphi$ thì $\\cos \\varphi = \\frac{2}{\\sqrt{5}}$</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Mộtpenen xiau sng diem duoc deat tia $L(5;10;2)$ de xiau sng mái nhà tia benn phai. Monean chuan deat trung vio met phang (Oxz), trai do se xuat hienc bong của mái nhà vio chiec bong do se dien tich bang 10 m²</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      821,
+      2261,
+      853,
+      2301
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      860,
+      2268,
+      1439,
+      2301
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SDT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      1513,
+      2268,
+      1533,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

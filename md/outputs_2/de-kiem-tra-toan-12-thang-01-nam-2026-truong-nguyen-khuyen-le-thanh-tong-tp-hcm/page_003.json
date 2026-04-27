@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      533,
+      55,
+      1171,
+      100
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      92,
+      106,
+      649,
+      155
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x) = e^x - 2x + e$."
+  },
+  {
+    "bbox": [
+      168,
+      164,
+      1596,
+      483
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các性能 đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Tập xác định của hàm số $f(x)$ là $D = \\mathbb{R}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Đạo hàm của hàm số $f(x)$ là $f'(x) = e^x - 2$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[0; 2]$ bằng $e^2 + e$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Đường cong $y = f(x)$ cắt đường thẳng $y = -2x$ tại hai điểm phân biệt.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      92,
+      526,
+      757,
+      703
+    ],
+    "category": "Text",
+    "text": "Câu 2. Bạch Đằng sóng场 một trời đông,\nCọc ngầm dựng thẳng khóa muôn dòng.\nNam Hán truyền tan theo triều xuống,\nToàn quân đại thẳng giữ non水"
+  },
+  {
+    "bbox": [
+      216,
+      703,
+      945,
+      1013
+    ],
+    "category": "Text",
+    "text": "Chiến thẳng Bạch Đằng năm 938 là định cao nghệ thuật quân sự, khi Ngô Quyền đã đoán định chính xác nhịp lên, xuống của thủy triều để nhử thủy quân Nam Hán vào sâu bên trong, rồi phản công đúng thời khắc nước rút, qua đó đánh xuống được giặc xâm lăng ra khỏi bờ cõi. Để mô hình hóa chiến thuật “canh con nước” ấy dưới lăng kính解题, ta xét bài toán sau:"
+  },
+  {
+    "bbox": [
+      965,
+      571,
+      1557,
+      970
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      216,
+      1036,
+      1554,
+      1124
+    ],
+    "category": "Text",
+    "text": "Xét một bãi cọc được đóng sâu xuống bùn theo phương thẳng đứng; chiều cao mỗi cọc (tính từ mặt bùn đến đầu cọc) là 2,4 m."
+  },
+  {
+    "bbox": [
+      216,
+      1136,
+      1593,
+      1355
+    ],
+    "category": "Text",
+    "text": "Gọi $h(t)$ (tính bằng mét) là độ sâu mực nước tại bãi cọc (tính từ mặt bùn đến mặt nước) ở thời điểm $t$ giờ, trong đó $t = 0$ ứng với thời điểm 09:00 trong ngày với $0 \\le t \\le 4$. Thời gian này, mực nước rút nên $h(t)$ giảm theo quy luật $h'(t) = -0,25t - 0,05$ (mét/giờ). Biết rằng vào lúc 09:00, mực nước tại bãi cọc cao hơn mặt bùn 3,3 m (tức là $h(0) = 3,3$ (m))."
+  },
+  {
+    "bbox": [
+      216,
+      1362,
+      1548,
+      1496
+    ],
+    "category": "Text",
+    "text": "Khi Ngô Quyền phát lệch phản công, ông biết rằng truyền dịch sẽ quay đầu tháo chạy và **mất 12 phút** để tới bãi cọc. Ngô Quyền muốn đúng lúc truyền dịch tới bãi cọc thì **đầu cọc còn chìm dưới mặt nước 0,5 m**."
+  },
+  {
+    "bbox": [
+      168,
+      1498,
+      1596,
+      1866
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các性能 đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) $h(t) = 3,3 - 0,125t^2 - 0,05t$ (m) trên $[0; 4]$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Từ 09:00 đến 10:00, mực nước giảm đúng 0,19 (m).</td><td>☐</td><td>☐</td></tr><tr><td>c) Sau 149 phút kể từ thời điểm 09:00 (làm tròn đến hàng đơn vị của phút) thì đầu cọc vừa chậm mặt nước.</td><td>☐</td><td>☐</td></tr><tr><td>d) Ngô Quyền phải phát lệch phản công vào lúc 10:26 (làm tròn đến hàng đơn vị của phút).</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1499,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 703"
+  },
+  {
+    "bbox": [
+      1540,
+      2021,
+      1557,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

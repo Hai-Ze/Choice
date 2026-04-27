@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1006,
+      181
+    ],
+    "category": "Text",
+    "text": "lần lượt là diện tích của các phần hình phẳng được tô màu."
+  },
+  {
+    "bbox": [
+      354,
+      192,
+      1334,
+      751
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      770,
+      760,
+      811
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      831,
+      886,
+      873
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ đạt cực tiểu tại điểm $x = 7$."
+  },
+  {
+    "bbox": [
+      190,
+      887,
+      942,
+      929
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của hàm số tại $x = 10$ là $f(10) = S_1 - S_2$."
+  },
+  {
+    "bbox": [
+      190,
+      942,
+      942,
+      984
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $y = f(x)$ nghịch biến trên khoảng $(7; 10)$."
+  },
+  {
+    "bbox": [
+      190,
+      998,
+      1164,
+      1040
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình $f(x) = 0$ có đúng hai nghiệm phân biệt trên $[0; 14]$."
+  },
+  {
+    "bbox": [
+      153,
+      1059,
+      1547,
+      1188
+    ],
+    "category": "Text",
+    "text": "Bài 2. Giả sử bệnh hiểm nghèo $X$ có tỉ lệ nhiễm bệnh là 0,5%, xét nghiệm loại bệnh này có tỉ lệ dương tính giả là 4%. Khi xét nghiệm cho một người, ta gọi $A$ là biến cố “Người được chọn không nhiễm bệnh” và $B$ là biến cố “người được chọn có phản ứng dương tính”."
+  },
+  {
+    "bbox": [
+      190,
+      1210,
+      1077,
+      1250
+    ],
+    "category": "List-item",
+    "text": "a) Người được chọn không nhiễm bệnh có tỉ lệ $P(A) = 0,995$."
+  },
+  {
+    "bbox": [
+      190,
+      1264,
+      1547,
+      1348
+    ],
+    "category": "List-item",
+    "text": "b) Tỉ lệ người không nhiễm bệnh trong số những người có phản ứng dương tính là $P(B|A) = 0,04$."
+  },
+  {
+    "bbox": [
+      190,
+      1361,
+      1525,
+      1405
+    ],
+    "category": "List-item",
+    "text": "c) Tỉ lệ người nhiễm bệnh trong số những người có phản ứng dương tính là $P(B|\\bar{A}) = 0,005$."
+  },
+  {
+    "bbox": [
+      190,
+      1412,
+      1383,
+      1490
+    ],
+    "category": "List-item",
+    "text": "d) Khả năng nhiễm bệnh của một người có phản ứng dương tính là $P(\\bar{A}|B) = \\frac{25}{224}$."
+  },
+  {
+    "bbox": [
+      153,
+      1503,
+      1547,
+      1766
+    ],
+    "category": "Text",
+    "text": "Bài 3. Trong không gian $Oxyz$ cho trước với mặt nước phẳng lặng trùng với mặt phẳng $(Oxy)$, đơn vị trên mỗi trục là mét; có hai con chim bói cá ở các vị trí $A(90; 0; 25)$ và $B(80; 30; 15)$ trên các cành cây đang cùng ngắm mục tiêu là một chú cá đang bơi trên mặt hồ. Khi cá nằm im ở vị trí $C(20; 10; 0)$ thì hai con chim quyết định tấn công mục tiêu của mình. Chim bói cá ở vị trí $A$ xuất phát trước con còn lại 1 giây và bay về phía con cá với vận tốc 12 (m/s); chim bói cá còn lại cũng tấn công mục tiêu với vận tốc 15 (m/s)."
+  },
+  {
+    "bbox": [
+      628,
+      1811,
+      1017,
+      2173
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1552,
+      2251,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "19"
+  }
+]

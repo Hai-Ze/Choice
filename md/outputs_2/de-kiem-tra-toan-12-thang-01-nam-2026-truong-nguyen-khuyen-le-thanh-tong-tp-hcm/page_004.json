@@ -1,0 +1,90 @@
+[
+  {
+    "bbox": [
+      92,
+      56,
+      1124,
+      219
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trong không gian $Oxyz$ thuộc hệ thống định vị GPS, bề mặt Trái Đất được mô hình hoá bởi mặt cầu $(x-1)^2 + (y-2)^2 + (z-2)^2 = 9$. Hai vệ tinh truyền tín hiệu có vị trí $M(4; -4; 2)$, $N(6; 0; 6)$."
+  },
+  {
+    "bbox": [
+      1143,
+      63,
+      1593,
+      306
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      168,
+      308,
+      1595,
+      826
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các性能 đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Vệ tinh ở vị trí $M$ gần tâm mặt cầu hơn so với vệ tinh ở vị trí $N$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Một tín hiệu được truyền đi từ vệ tinh ở $M$ đến vệ tinh ở $N$ là đường thẳng có phương trình chính tắc $\\frac{x-4}{1} = \\frac{y+4}{2} = \\frac{z-2}{2}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Mặt phẳng đi qua tâm Trái Đất và hai điểm $M, N$ có phương trình $2x + y - 2z = 0$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Giả sử đơn vị trên mỗi trục là 2100 km, một tín hiệu có tốc độ $3 \\cdot 10^5$ km/s được truyền từ vệ tinh $M$ đến điểm gần nhất thuộc bề mặt Trái Đất mất khoảng 0,026 giây (làm tròn đến hàng phần nghìn của giây).</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      92,
+      910,
+      1593,
+      1089
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Anh Việt có một tấm nhôm hình tam giác đều $ABC$ với cạnh bằng 6 (dm).Ben trong tấm nhôm này, anh vẽ thêm tam giác đều $DEF$ sao cho hai tam giác có cùng trọng tâm, đồng thời các cạnh tương ứng song song nhau. Anh Việt muốn làm một chậu待用 nước dạng **hình chóp cụt tam giác đều** với đáy nhỏ là $DEF$ và đáy lớn để hở."
+  },
+  {
+    "bbox": [
+      216,
+      1091,
+      1564,
+      1186
+    ],
+    "category": "Text",
+    "text": "Anh cắt bỏ ba hình bình hành ở ba góc của tam giác $ABC$ là $AMDN, BPEQ, CSFR$ (như hình). Kẻ đường cao $AH$ và gọi $O$ là trọng tâm tam giác $ABC$. Đặt $x = DN = DM$ ($0 < x < 2$)."
+  },
+  {
+    "bbox": [
+      402,
+      1205,
+      1418,
+      1621
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      168,
+      1626,
+      1595,
+      1967
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các性能 đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) $NP = QR = SM = 6 - 2x$ (dm).</td><td>☐</td><td>☐</td></tr><tr><td>b) $AH = 3\\sqrt{3}$ (dm) và $OA = 2\\sqrt{3}$ (dm).</td><td>☐</td><td>☐</td></tr><tr><td>c) $AD = x\\sqrt{3}$ (dm) và $DE = 6 - 3x$ (dm).</td><td>☐</td><td>☐</td></tr><tr><td>d) Sau khi gập hình và dùng keo dán kín các đoạn gập vào nhau gồm $DM$ với $DN, EP$ với $EQ, FS$ với $FR$, sức chứa tối đa của chậu xấp xỉ 4,54 (lít).</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1497,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 703"
+  },
+  {
+    "bbox": [
+      1539,
+      2022,
+      1558,
+      2051
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

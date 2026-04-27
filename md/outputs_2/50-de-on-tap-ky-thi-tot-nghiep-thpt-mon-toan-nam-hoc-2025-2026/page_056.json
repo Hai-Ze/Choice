@@ -1,0 +1,577 @@
+[
+  {
+    "bbox": [
+      0,
+      0,
+      188,
+      187
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      181,
+      44,
+      1015,
+      88
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      283,
+      161,
+      509,
+      349
+    ],
+    "category": "Page-header",
+    "text": "ttt\nTOAN TU TAM"
+  },
+  {
+    "bbox": [
+      778,
+      158,
+      1462,
+      205
+    ],
+    "category": "Page-header",
+    "text": "KỲ THI TỐT NGHIỆP THPT – MÔN TOÁN"
+  },
+  {
+    "bbox": [
+      896,
+      205,
+      1346,
+      274
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP SỐ 12"
+  },
+  {
+    "bbox": [
+      761,
+      281,
+      1487,
+      325
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      97,
+      358,
+      1028,
+      396
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh:...................................................................."
+  },
+  {
+    "bbox": [
+      97,
+      403,
+      1028,
+      439
+    ],
+    "category": "Text",
+    "text": "SBD:...................................................................................................."
+  },
+  {
+    "bbox": [
+      797,
+      438,
+      959,
+      482
+    ],
+    "category": "Text",
+    "text": "PHẦN ĐỀ"
+  },
+  {
+    "bbox": [
+      33,
+      490,
+      514,
+      534
+    ],
+    "category": "Section-header",
+    "text": "A. Câu hỏi – Trả lời trắc nghiệm"
+  },
+  {
+    "bbox": [
+      84,
+      540,
+      467,
+      623
+    ],
+    "category": "List-item",
+    "text": "» Câu 1. Tính $\\lim_{n \\to \\infty} \\frac{1}{2026n}$."
+  },
+  {
+    "bbox": [
+      222,
+      630,
+      352,
+      664
+    ],
+    "category": "List-item",
+    "text": "A. 2026."
+  },
+  {
+    "bbox": [
+      556,
+      630,
+      625,
+      664
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      870,
+      630,
+      970,
+      664
+    ],
+    "category": "List-item",
+    "text": "C. $+\\infty$."
+  },
+  {
+    "bbox": [
+      1185,
+      630,
+      1269,
+      664
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      84,
+      674,
+      1534,
+      778
+    ],
+    "category": "List-item",
+    "text": "» Câu 2. Cho cấp số cộng $(u_n)$ có $u_4 = -12$, $u_{14} = 18$. Tính tổng 16 số hạng đầu tiên của cấp số cộng này."
+  },
+  {
+    "bbox": [
+      222,
+      782,
+      409,
+      822
+    ],
+    "category": "List-item",
+    "text": "A. $S_{16} = -24$."
+  },
+  {
+    "bbox": [
+      556,
+      782,
+      717,
+      822
+    ],
+    "category": "List-item",
+    "text": "B. $S_{16} = 26$."
+  },
+  {
+    "bbox": [
+      870,
+      782,
+      1055,
+      822
+    ],
+    "category": "List-item",
+    "text": "C. $S_{16} = -25$."
+  },
+  {
+    "bbox": [
+      1185,
+      782,
+      1352,
+      822
+    ],
+    "category": "List-item",
+    "text": "D. $S_{16} = 24$."
+  },
+  {
+    "bbox": [
+      84,
+      834,
+      1534,
+      881
+    ],
+    "category": "List-item",
+    "text": "» Câu 3. Với mọi số thực dương $a, b$ thỏa mãn $\\log_3 a^3 + \\log_3 b = 2$, khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      222,
+      892,
+      377,
+      930
+    ],
+    "category": "List-item",
+    "text": "A. $a^3b = 2$."
+  },
+  {
+    "bbox": [
+      556,
+      892,
+      705,
+      930
+    ],
+    "category": "List-item",
+    "text": "B. $a^3b = 9$."
+  },
+  {
+    "bbox": [
+      870,
+      892,
+      1055,
+      930
+    ],
+    "category": "List-item",
+    "text": "C. $a^3 + b = 2$."
+  },
+  {
+    "bbox": [
+      1185,
+      892,
+      1374,
+      930
+    ],
+    "category": "List-item",
+    "text": "D. $a^3 + b = 9$."
+  },
+  {
+    "bbox": [
+      84,
+      940,
+      826,
+      1039
+    ],
+    "category": "List-item",
+    "text": "» Câu 4. Cho hàm số $y = f(x)$ có đồ thị như hình. Số điểm cực trị của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      222,
+      1047,
+      288,
+      1081
+    ],
+    "category": "List-item",
+    "text": "A. 3"
+  },
+  {
+    "bbox": [
+      222,
+      1093,
+      278,
+      1127
+    ],
+    "category": "List-item",
+    "text": "B. 1"
+  },
+  {
+    "bbox": [
+      222,
+      1138,
+      288,
+      1172
+    ],
+    "category": "List-item",
+    "text": "C. 2"
+  },
+  {
+    "bbox": [
+      222,
+      1183,
+      290,
+      1217
+    ],
+    "category": "List-item",
+    "text": "D. 4"
+  },
+  {
+    "bbox": [
+      1131,
+      954,
+      1501,
+      1213
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      1227,
+      1150,
+      1324
+    ],
+    "category": "List-item",
+    "text": "» Câu 5. Cho $\\int_{1}^{2} f(x)dx = 3$; $\\int_{1}^{2} g(x)dx = -2$. Khi đó $\\int_{1}^{2} [f(x) - g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      222,
+      1332,
+      301,
+      1366
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      556,
+      1332,
+      648,
+      1366
+    ],
+    "category": "List-item",
+    "text": "B. -5."
+  },
+  {
+    "bbox": [
+      870,
+      1332,
+      963,
+      1366
+    ],
+    "category": "List-item",
+    "text": "C. -1."
+  },
+  {
+    "bbox": [
+      1185,
+      1332,
+      1256,
+      1366
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      84,
+      1372,
+      1537,
+      1469
+    ],
+    "category": "List-item",
+    "text": "» Câu 6. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh 3, $SA \\perp ABCD$ và $SC = 3\\sqrt{3}$. Tính thể tích khối chóp $S.ABCD$."
+  },
+  {
+    "bbox": [
+      222,
+      1495,
+      288,
+      1529
+    ],
+    "category": "List-item",
+    "text": "A. 9"
+  },
+  {
+    "bbox": [
+      556,
+      1495,
+      637,
+      1529
+    ],
+    "category": "List-item",
+    "text": "B. 27"
+  },
+  {
+    "bbox": [
+      870,
+      1473,
+      940,
+      1556
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{9}{2}$"
+  },
+  {
+    "bbox": [
+      1185,
+      1473,
+      1276,
+      1556
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{27}{2}$"
+  },
+  {
+    "bbox": [
+      84,
+      1562,
+      1349,
+      1612
+    ],
+    "category": "List-item",
+    "text": "» Câu 7. Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như hình vẽ sau"
+  },
+  {
+    "bbox": [
+      611,
+      1618,
+      1144,
+      1784
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      222,
+      1792,
+      1021,
+      1841
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      222,
+      1852,
+      405,
+      1902
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      556,
+      1852,
+      705,
+      1902
+    ],
+    "category": "List-item",
+    "text": "B. $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      870,
+      1852,
+      1027,
+      1902
+    ],
+    "category": "List-item",
+    "text": "C. $(-2; 4)$."
+  },
+  {
+    "bbox": [
+      1185,
+      1852,
+      1356,
+      1902
+    ],
+    "category": "List-item",
+    "text": "D. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      84,
+      1910,
+      1278,
+      1994
+    ],
+    "category": "List-item",
+    "text": "» Câu 8. Cho hình lập phương $ABCD.A'B'C'D'$ cạnh $a$. Khẳng định nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      222,
+      2002,
+      430,
+      2071
+    ],
+    "category": "List-item",
+    "text": "A. $|\\overrightarrow{BD}| = a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      870,
+      2002,
+      1083,
+      2071
+    ],
+    "category": "List-item",
+    "text": "B. $|\\overrightarrow{BD'}| = a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      222,
+      2077,
+      475,
+      2125
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{AC} + \\overrightarrow{A'C'} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      870,
+      2077,
+      1222,
+      2125
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'} = \\overrightarrow{BD'}$."
+  },
+  {
+    "bbox": [
+      1303,
+      1916,
+      1522,
+      2125
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      2133,
+      868,
+      2183
+    ],
+    "category": "List-item",
+    "text": "» Câu 9. Nghiệm của phương trình $\\log_2(x-2) = 3$ là"
+  },
+  {
+    "bbox": [
+      81,
+      2248,
+      584,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1284,
+      2253,
+      1428,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 55"
+  },
+  {
+    "bbox": [
+      1451,
+      2163,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

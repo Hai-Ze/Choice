@@ -1,0 +1,309 @@
+[
+  {
+    "bbox": [
+      202,
+      141,
+      459,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n \\equiv 2 \\pmod{5}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      204,
+      404,
+      240
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n = 2 + 5k\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      263,
+      567,
+      302
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } 0 < 4n - 1 \\le 9000\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      324,
+      606,
+      365
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 0 < 4(2 + 5k) - 1 \\le 9000\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      386,
+      468,
+      425
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 0 \\le k \\le 449,65\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      446,
+      612,
+      484
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Chuỗi A có tất cả 450 số.}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      507,
+      442,
+      547
+    ],
+    "category": "Text",
+    "text": "+) Tìm chuỗi B:"
+  },
+  {
+    "bbox": [
+      202,
+      566,
+      938,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số hạng tổng quát của cấp số nhân là } b_n = 2 \\cdot 3^{n-1}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      627,
+      877,
+      669
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Để số đó chia hết cho 6 thì } n - 1 \\ge 1 \\Rightarrow n \\ge 2.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      689,
+      518,
+      730
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } 2 \\cdot 3^{n-1} \\le 9000\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      752,
+      435,
+      791
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2 \\le n \\le 8,56\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      812,
+      484,
+      850
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Chuỗi B có 7 số.}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      873,
+      770,
+      913
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy có tất cả } 450 + 7 = 457 \\text{ số cần tìm.}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      935,
+      192,
+      972
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      935,
+      1547,
+      1065
+    ],
+    "category": "Text",
+    "text": "**Bài 4.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$. tại định $A$ có một con sâu, mỗi lần di chuyển, nó bò theo cạnh của hình集合 chữ nhật và đi đến định kề với định nó đang đứng. Tính xác suất sao cho sau 9 lần di chuyển, nó đứng tại định $C'$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      665,
+      1079,
+      1035,
+      1374
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1415,
+      196,
+      1452
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1415,
+      1544,
+      1477
+    ],
+    "category": "Text",
+    "text": "*Hướng dẫn giải.* Mỗi lần sâu di chuyển từ một định, nó có 3 lựa chọn để đi đến 3 định kề bên."
+  },
+  {
+    "bbox": [
+      202,
+      1492,
+      802,
+      1532
+    ],
+    "category": "Text",
+    "text": "Do đó, số phần tử của không gian mẫu là"
+  },
+  {
+    "bbox": [
+      707,
+      1547,
+      987,
+      1588
+    ],
+    "category": "Formula",
+    "text": "$$\nn(\\Omega) = 3^9 = 19\\,683.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1598,
+      1147,
+      1641
+    ],
+    "category": "Text",
+    "text": "Không mất tính tổng quát, giả sử tọa độ định $A(0; 0; 0)$ và $C'(1; 1; 1)$."
+  },
+  {
+    "bbox": [
+      152,
+      1659,
+      1547,
+      1746
+    ],
+    "category": "Text",
+    "text": "M社区每次深沉地移动，与事件的公共部分1个单位到1个单位在3个位置中，平衡度或高度（根据模型2）."
+  },
+  {
+    "bbox": [
+      152,
+      1763,
+      1547,
+      1850
+    ],
+    "category": "Text",
+    "text": "Để sau 9 lần di chuyển sâu đứng tại vị trí (1; 1; 1), thì mỗi thành phần tọa độ phải được thay đổi một số lẻ lần."
+  },
+  {
+    "bbox": [
+      202,
+      1869,
+      1427,
+      1912
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y, z$ lần lượt là số lần di chuyển theo chiều hoành độ, tung độ và cao độ. Ta có:"
+  },
+  {
+    "bbox": [
+      560,
+      1929,
+      1135,
+      1970
+    ],
+    "category": "Formula",
+    "text": "$$\nx + y + z = 9, \\text{ với } x, y, z \\in \\{1; 3; 5; 7; 9\\}.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1978,
+      815,
+      2020
+    ],
+    "category": "Text",
+    "text": "Các bộ số $(x, y, z)$ thỏa mãn điều kiện trên là:"
+  },
+  {
+    "bbox": [
+      196,
+      2039,
+      903,
+      2083
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Bộ } (3; 3; 3): \\text{ Có } C_9^3 \\cdot C_6^3 \\cdot C_3^3 = 1680 \\text{ trường hợp.}\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      2097,
+      1261,
+      2141
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Bộ hoán vị của } (1; 3; 5): \\text{ Có } 3! \\cdot C_9^5 \\cdot C_4^3 \\cdot C_1^1 = 6 \\cdot 504 = 3024 \\text{ trường hợp.}\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      2149,
+      1237,
+      2228
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Bộ hoán vị của } (7; 1; 1): \\text{ Có } \\frac{3!}{2!} \\cdot C_9^7 \\cdot C_2^1 \\cdot C_1^1 = 3 \\cdot 72 = 216 \\text{ trường hợp.}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1542,
+      2250,
+      1596,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "131"
+  }
+]

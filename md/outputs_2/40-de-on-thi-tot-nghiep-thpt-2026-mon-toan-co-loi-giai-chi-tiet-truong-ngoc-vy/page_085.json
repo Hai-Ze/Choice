@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      136
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      156,
+      156,
+      1450,
+      201
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      156,
+      221,
+      1558,
+      339
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Tập nghiệm của bất phương trình $5^{x-1} \\ge 5^{x^2-x-9}$ là\n\nA. $[-2;4]$.\nB. $[-4;2]$.\nC. $(-\\infty;-2] \\cup [4;+\\infty)$.\nD. $(-\\infty;-4] \\cup [2;+\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      365,
+      924,
+      403
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      422,
+      271,
+      460
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      160,
+      482,
+      1039,
+      528
+    ],
+    "category": "Formula",
+    "text": "$$\n5^{x-1} \\ge 5^{x^2-x-9} \\Leftrightarrow x-1 \\ge x^2-x-9 \\Leftrightarrow x^2-2x-8 \\le 0 \\Leftrightarrow -2 \\le x \\le 4.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      549,
+      814,
+      598
+    ],
+    "category": "Text",
+    "text": "Vậy Tập nghiệm của bất phương trình là $[-2;4]$."
+  },
+  {
+    "bbox": [
+      156,
+      627,
+      1573,
+      779
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hàm số $F(x)$ là một nguyên hàm của hàm số $y = \\frac{1}{x}$ trên $(-\\infty;0)$ thỏa mãn $F(-2) = 0$. Tính $F(-2e)$."
+  },
+  {
+    "bbox": [
+      205,
+      808,
+      1501,
+      888
+    ],
+    "category": "Text",
+    "text": "A. $F(-2e) = -1$.\nB. $F(-2e) = 1$.\nC. $F(-2e) = \\frac{1}{2}$.\nD. $F(-2e) = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      807,
+      911,
+      924,
+      950
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      970,
+      277,
+      1008
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1029,
+      1006,
+      1108
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } F(x) = \\int \\frac{1}{x} dx = \\ln|x| + C = \\ln(-x) + C \\text{ với } \\forall x \\in (-\\infty; 0).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1135,
+      789,
+      1181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có } F(-2) = 0 \\Leftrightarrow \\ln 2 + C = 0 \\Leftrightarrow C = -\\ln 2.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1208,
+      681,
+      1296
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } F(x) = \\ln(-x) - \\ln 2 = \\ln\\left(\\frac{-x}{2}\\right).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1331,
+      634,
+      1419
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } F(x) = \\ln\\left(\\frac{-x}{2}\\right) \\quad \\forall x \\in (-\\infty; 0).\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1445,
+      486,
+      1533
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow F(-2e) = \\ln\\left(\\frac{2e}{2}\\right) = 1\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1607,
+      1361,
+      1655
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho cấp số cộng $(u_n)$ với $u_1 = 3$; $u_2 = 9$. Công sai của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1717,
+      1336,
+      1754
+    ],
+    "category": "Text",
+    "text": "A. 6.\nB. 3.\nC. 12.\nD. -6."
+  },
+  {
+    "bbox": [
+      807,
+      1777,
+      924,
+      1816
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1836,
+      277,
+      1874
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      1893,
+      979,
+      1942
+    ],
+    "category": "Text",
+    "text": "Cấp số cộng $(u_n)$ có số hạng tổng quát là: $u_n = u_1 + (n-1)d$;"
+  },
+  {
+    "bbox": [
+      156,
+      1963,
+      697,
+      2010
+    ],
+    "category": "Text",
+    "text": "(Với $u_1$ là số hạng đầu và $d$ là công sai)."
+  },
+  {
+    "bbox": [
+      156,
+      2035,
+      751,
+      2077
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra có: } u_2 = u_1 + d \\Leftrightarrow 9 = 3 + d \\Leftrightarrow d = 6.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2096,
+      755,
+      2142
+    ],
+    "category": "Text",
+    "text": "Vậy công sai của cấp số cộng đã cho bằng 6."
+  },
+  {
+    "bbox": [
+      156,
+      2170,
+      831,
+      2243
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Phương trình $\\tan \\frac{x}{2} = \\tan x$ có nghiệm là"
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      75,
+      81,
+      1129,
+      130
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $f(x) = 3^x + \\sin x$. Một nguyên hàm của $f(x)$ trên $\\mathbb{R}$ là"
+  },
+  {
+    "bbox": [
+      114,
+      142,
+      1493,
+      226
+    ],
+    "category": "Text",
+    "text": "A. $F(x) = 3^x \\ln 3 + \\cos x$. B. $F(x) = \\frac{3^x}{\\ln 3} - \\sin x$. C. $F(x) = \\frac{3^x}{\\ln 3} - \\cos x$. D. $F(x) = 3^x + \\sin x$."
+  },
+  {
+    "bbox": [
+      75,
+      226,
+      1573,
+      306
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Một người chia thời lượng (đơn vị: giây) thực hiện các cuộc gọi điện thoại của mình trong một tuần thành 6 nhóm và lập bảng tần số ghép nhóm như sau."
+  },
+  {
+    "bbox": [
+      175,
+      304,
+      1474,
+      393
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[0;40)</td><td>[40;80)</td><td>[80;120)</td><td>[120;160)</td><td>[160;200)</td><td>[200;240)</td></tr><tr><td>Tần số</td><td>11</td><td>10</td><td>6</td><td>8</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      393,
+      1066,
+      439
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba $Q_3$ (đơn vị: giây) của mẫu số liệu ghép nhóm trên bằng"
+  },
+  {
+    "bbox": [
+      114,
+      447,
+      1306,
+      481
+    ],
+    "category": "Text",
+    "text": "A. 145. B. 130. C. 140. D. 135."
+  },
+  {
+    "bbox": [
+      75,
+      485,
+      969,
+      533
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho cấp số cộng $(u_n)$ có $u_1 = 5$, $u_{12} = 38$ thì công sai $d$ là"
+  },
+  {
+    "bbox": [
+      114,
+      541,
+      1339,
+      576
+    ],
+    "category": "Text",
+    "text": "A. $d = 1$. B. $d = 3$. C. $d = 2$. D. $d = 4$."
+  },
+  {
+    "bbox": [
+      75,
+      609,
+      1500,
+      654
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thi sinh trả lời từ câu 1 đến 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      75,
+      668,
+      1500,
+      712
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một bác tài xế thống kê lại độ dài quăng đường bác đã lái xe mỗi ngày trong một tháng ở bảng sau:"
+  },
+  {
+    "bbox": [
+      131,
+      710,
+      1514,
+      798
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Độ dài quăng đường (km)</td><td>[50;100)</td><td>[100;150)</td><td>[150;200)</td><td>[200;250)</td><td>[250;300)</td></tr><tr><td>Số ngày</td><td>5</td><td>10</td><td>9</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      114,
+      798,
+      808,
+      839
+    ],
+    "category": "Text",
+    "text": "a) Số trung bình của mẫu số liệu ghép nhóm là 145."
+  },
+  {
+    "bbox": [
+      114,
+      837,
+      945,
+      878
+    ],
+    "category": "Text",
+    "text": "b) Khoảng biến thiên của mẫu số liệu ghép nhóm là 250 (km)."
+  },
+  {
+    "bbox": [
+      114,
+      874,
+      1455,
+      917
+    ],
+    "category": "Text",
+    "text": "c) Khoảng tứ phân vị của mẫu số liệu ghép nhóm bằng 79,17 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      114,
+      913,
+      1403,
+      956
+    ],
+    "category": "Text",
+    "text": "d) độ lệch chuẩn của mẫu số liệu ghép nhóm bằng 55,68 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      75,
+      988,
+      1573,
+      1143
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một kho chứa hàng có dạng hình lăng trụ đứng ABFPE.DCGQH với ABFE là hình chữ nhật và EFP là tam giác cân tại P. Gọi T là trung điểm của DC. Các kích thước của kho chứa lần lượt là $AB = 6\\text{m}$; $AE = 5\\text{m}$; $AD = 8\\text{m}$; $QT = 7\\text{m}$. Người ta mô hình hoá nhà kho bằng cách chọn hệ trục toạ độ có gốc toạ độ là điểm O thuộc đoạn AD sao cho $OA = 2\\text{m}$ và các trục toạ độ tương ứng như hình vẽ dưới đây. Khi đó:"
+  },
+  {
+    "bbox": [
+      627,
+      1143,
+      1035,
+      1588
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1586,
+      504,
+      1629
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ điểm Q là $(-6;3;5)$."
+  },
+  {
+    "bbox": [
+      114,
+      1633,
+      596,
+      1676
+    ],
+    "category": "Text",
+    "text": "b) Véc tơ $\\overline{OC}$ có toạ độ là $(-6;6;0)$."
+  },
+  {
+    "bbox": [
+      75,
+      1672,
+      1563,
+      1798
+    ],
+    "category": "Text",
+    "text": "c) Người ta muốn lắp camera quan sát trong nhà kho tại vị trí trung điểm của FG và đầu thu dữ liệu đặt tại vị trí O. Người ta thiết kế đường dây cáp nối từ O đến K sau đó nối thẳng đến camera. độ dài đoạn cáp nối tối thiểu bằng $5+2\\sqrt{10}$ m."
+  },
+  {
+    "bbox": [
+      75,
+      1798,
+      1547,
+      1919
+    ],
+    "category": "Text",
+    "text": "d) Mái nhà được lợp bằng tôn Hoa Sen, giá tiền mỗi mét vuông tôn là 130.000 đồng. Số tiền cần bỏ ra để mua tôn lợp mái nhà là 3.750.000 đồng (không kể hao phí do việc cắt và ghép các miếng tôn, làm tròn kết quả đến hàng nghìn)."
+  },
+  {
+    "bbox": [
+      75,
+      1952,
+      767,
+      1997
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = -x^3 + 3x^2 + 4$ có đồ thị (C)."
+  },
+  {
+    "bbox": [
+      114,
+      2003,
+      654,
+      2046
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có đạo hàm là $y' = -3x^2 + 6x$"
+  },
+  {
+    "bbox": [
+      114,
+      2054,
+      652,
+      2102
+    ],
+    "category": "Text",
+    "text": "b) Hàm số đồng biến trên khoảng $(0;2)$"
+  },
+  {
+    "bbox": [
+      114,
+      2106,
+      1258,
+      2151
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị (C) có hai điểm cực trị và đường thẳng qua hai điểm cực trị là $2x + y - 4 = 0$"
+  },
+  {
+    "bbox": [
+      114,
+      2155,
+      1056,
+      2199
+    ],
+    "category": "Text",
+    "text": "d) Diện tích $\\Delta AOB$ bằng 4 trong đó A và B là hai điểm cực trị của (C)"
+  },
+  {
+    "bbox": [
+      75,
+      2233,
+      234,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1400,
+      2237,
+      1532,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

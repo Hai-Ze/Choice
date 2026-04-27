@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      917,
+      136
+    ],
+    "category": "Text",
+    "text": "Ta cần diện tích mặt tiền trừ diện tích cổng và ba cửa sổ."
+  },
+  {
+    "bbox": [
+      156,
+      156,
+      1172,
+      235
+    ],
+    "category": "Formula",
+    "text": "$$\n1) \\text{Diện tích mặt tiền } A_1 = 2 \\int_{0}^{6} (6e^{-0,5x} + 1) dx = 2 \\left[ -12e^{-0,5x} + x \\right]_{0}^{6} \\approx 34,81 m^2\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      252,
+      577,
+      297
+    ],
+    "category": "Text",
+    "text": "2) Phương trình, diện tích cổng"
+  },
+  {
+    "bbox": [
+      156,
+      318,
+      1251,
+      398
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giả sử } g(x) = ax^2 + b. \\text{ Điều kiện: } g(0) = 3 \\Rightarrow b = 3, g'(0) = 0, g(2) = 0 \\Rightarrow a = -\\frac{3}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      424,
+      463,
+      503
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } g(x) = -\\frac{3}{4}x^2 + 3.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      529,
+      1026,
+      635
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích cổng: } A_2 = 2 \\int_{0}^{2} \\left( -\\frac{3}{4}x^2 + 3 \\right) dx = 2 \\left[ -\\frac{1}{4}x^3 + 3x \\right]_{0}^{2} = 8 m^2\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      660,
+      644,
+      705
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ba cửa sổ, mỗi cái } 0,5 m^2 \\Rightarrow 1,5 m^2.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      734,
+      1129,
+      781
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy diện tích cần sơn vàng } A = A_1 - A_2 - 1,5 = 34,81 - 8 - 1,5 = 25,31 m^2.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      802,
+      445,
+      844
+    ],
+    "category": "Text",
+    "text": "4) Thể tích nước sơn:"
+  },
+  {
+    "bbox": [
+      161,
+      866,
+      812,
+      912
+    ],
+    "category": "Formula",
+    "text": "$$\n25,31 m^2 = 253100 cm^2, \\quad \\text{dày } 0,1 mm = 0,01 cm.\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      925,
+      833,
+      971
+    ],
+    "category": "Formula",
+    "text": "$$\nV = A \\cdot \\text{dày} = 253100 \\cdot 0,01 = 2531 cm^3 (\\approx 2,5 \\text{ lít}).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      988,
+      1575,
+      1157
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Tìm chiều dài bé nhất của cái thang để nó có thể tựa vào tường và mặt đất, ngang qua cột đỡ cao $4m$, song song và cách tường $0,5m$ kể từ gốc của cột đỡ như hình vẽ (kết quả làm tròn đến hàng phần chục của mét)."
+  },
+  {
+    "bbox": [
+      181,
+      1189,
+      1555,
+      1607
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1640,
+      493,
+      1675
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1698,
+      924,
+      1737
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1756,
+      330,
+      1794
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 5,6"
+  },
+  {
+    "bbox": [
+      156,
+      1821,
+      677,
+      1859
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đặt } HC = x > 0. \\text{ Suy ra } BC = x + 0,5.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1887,
+      851,
+      1970
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Áp dụng định lí Thales, ta có } \\frac{HC}{BC} = \\frac{MH}{AB} = \\frac{x}{x+0,5}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1998,
+      454,
+      2078
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } AB = \\frac{4(x+0,5)}{x}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2105,
+      1347,
+      2192
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do tam giác } ABC \\text{ vuông tại } B \\text{ nên suy ra } AC^2 = AB^2 + BC^2 = (x+0,5)^2 + \\frac{16(x+0,5)^2}{x^2}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

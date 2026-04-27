@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1575,
+      313
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** At một trường THPT có 30% học sinh tham gia câu lạc bộ thể thao. Trong số những học sinh này có 70% học sinh biết bơi. Ngoài ra, có 20% số học sinh không tham gia câu lạc bộ thể thao cũng biết bơi. Chọn ngẫu nhiên một học sinh của trường. Xét các biến cố: A: \"Chọn được học sinh thuộc câu lạc bộ thể thao\"; B: \"Chọn được học sinh biết bơi\"."
+  },
+  {
+    "bbox": [
+      155,
+      329,
+      1123,
+      374
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được học sinh thuộc câu lạc bộ thể thao là $P(A) = 0,3$."
+  },
+  {
+    "bbox": [
+      155,
+      391,
+      1575,
+      503
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được học sinh biết bơi, biết học sinh đó không thuộc câu lạc bộ thể thao là $P(B|\\bar{A}) = 0,2$."
+  },
+  {
+    "bbox": [
+      155,
+      522,
+      907,
+      567
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được học sinh biết bơi là $P(B) = 0,21$."
+  },
+  {
+    "bbox": [
+      155,
+      586,
+      1575,
+      690
+    ],
+    "category": "Text",
+    "text": "d) Giả sử chọn được học sinh biết bơi. Xác suất chọn được học sinh thuộc câu lạc bộ thể thao là $P(A|B) = 0,6$."
+  },
+  {
+    "bbox": [
+      807,
+      715,
+      924,
+      754
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      767,
+      972,
+      891
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      946,
+      1272,
+      990
+    ],
+    "category": "Text",
+    "text": "a) Do trường THPT có 30% học sinh tham gia câu lạc bộ thể thao nên $P(A) = 0,3$."
+  },
+  {
+    "bbox": [
+      155,
+      1014,
+      270,
+      1054
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      155,
+      1072,
+      1366,
+      1121
+    ],
+    "category": "Text",
+    "text": "Do 20% số học sinh không tham gia câu lạc bộ thể thao cũng biết bơi nên $P(B|\\bar{A}) = 0,2$."
+  },
+  {
+    "bbox": [
+      155,
+      1139,
+      1478,
+      1186
+    ],
+    "category": "Text",
+    "text": "c) Vì trong số học sinh tham gia câu lạc bộ thể thao, có 70% học sinh biết bơi nên $P(B|A) = 0,7$."
+  },
+  {
+    "bbox": [
+      155,
+      1210,
+      1229,
+      1268
+    ],
+    "category": "Text",
+    "text": "Xác suất học sinh không tham gia câu lạc bộ thể thao là $P(\\bar{A}) = 1 - P(A) = 0,7$."
+  },
+  {
+    "bbox": [
+      155,
+      1289,
+      688,
+      1334
+    ],
+    "category": "Text",
+    "text": "Xác suất chọn được học sinh biết bơi là"
+  },
+  {
+    "bbox": [
+      162,
+      1353,
+      1059,
+      1412
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,3 \\cdot 0,7 + 0,7 \\cdot 0,2 = 0,35.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1435,
+      952,
+      1480
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được học sinh thuộc câu lạc bộ thể thao là"
+  },
+  {
+    "bbox": [
+      162,
+      1497,
+      878,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{0,3 \\cdot 0,7}{0,35} = 0,6.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1673,
+      807,
+      1714
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      1735,
+      1575,
+      1990
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Thầy Hùng có một mảnh đất hình chữ nhật $ABCD$ với $AB = 2\\pi(m)$ và $AD = 4(m)$ và được quy hoạch như hình vẽ bên dưới. Biết đường cong là đường sin của hàm số dạng $y = a \\sin(bx)$. Phần tô đâm (giới hạn bởi đường cong và đoạn $MN$) được sử dụng để trồng hoa. Tính diện tích phần còn lại của mảnh vường (đơn vị $m^2$, làm tròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

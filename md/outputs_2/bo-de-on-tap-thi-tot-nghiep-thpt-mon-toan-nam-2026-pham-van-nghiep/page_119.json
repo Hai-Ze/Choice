@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      1195,
+      152
+    ],
+    "category": "Text",
+    "text": "c) Xác suất người làm xét nghiệm có kết quả dương tính là: 0,015."
+  },
+  {
+    "bbox": [
+      212,
+      154,
+      1573,
+      246
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng đã có kết quả chuẩn đoán là dương tính, xác suất để người đó thực sự bị bệnh là 0,46 (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      250,
+      952,
+      290
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      382,
+      288,
+      1266,
+      337
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Sai</td><td>b) Đúng</td><td>c) Sai</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      343,
+      278,
+      380
+    ],
+    "category": "Text",
+    "text": "Gọi:"
+  },
+  {
+    "bbox": [
+      212,
+      383,
+      866,
+      428
+    ],
+    "category": "Text",
+    "text": "- $V$ là biến cố người nhiễm viruts cúm夏季."
+  },
+  {
+    "bbox": [
+      212,
+      428,
+      955,
+      474
+    ],
+    "category": "Text",
+    "text": "- $K$ là biến cố người không nhiễm virus cúm夏季."
+  },
+  {
+    "bbox": [
+      212,
+      476,
+      974,
+      520
+    ],
+    "category": "Text",
+    "text": "- $DT$ là biến cố xét nghiệm cho kết quả dương tính."
+  },
+  {
+    "bbox": [
+      212,
+      522,
+      925,
+      565
+    ],
+    "category": "Text",
+    "text": "- $AT$ là biến cố xét nghiệm cho kết quả âm tính."
+  },
+  {
+    "bbox": [
+      212,
+      568,
+      475,
+      606
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, ta có:"
+  },
+  {
+    "bbox": [
+      212,
+      614,
+      1078,
+      663
+    ],
+    "category": "Text",
+    "text": "- Xác suất người nhiễm viruts cúm夏季: $P(V)=1\\% = 0,01$."
+  },
+  {
+    "bbox": [
+      212,
+      674,
+      1254,
+      725
+    ],
+    "category": "Text",
+    "text": "- Xác suất người không nhiễm viruts cúm夏季: $P(K)=1-P(V)=0,99$."
+  },
+  {
+    "bbox": [
+      212,
+      736,
+      1376,
+      786
+    ],
+    "category": "Text",
+    "text": "- Xác suất xét nghiệm dương tính khi nhiễm viruts: $P(DT| V) = 76,2\\% = 0,762$."
+  },
+  {
+    "bbox": [
+      212,
+      798,
+      1418,
+      847
+    ],
+    "category": "Text",
+    "text": "- Xác suất xét nghiệm âm tính khi không nhiễm viruts: $P(AT| K) = 99,1\\% = 0,991$."
+  },
+  {
+    "bbox": [
+      212,
+      856,
+      1573,
+      955
+    ],
+    "category": "Text",
+    "text": "a) **Sai.** Xác suất xét nghiệm cho kết quả âm tính của các ca thực sự nhiễm vius là: $P(AT| V)=1-P(DT| V)=1-0,762 = 0,238$. Suy ra **a) sai**."
+  },
+  {
+    "bbox": [
+      212,
+      963,
+      1573,
+      1048
+    ],
+    "category": "Text",
+    "text": "b) **Đúng.** Xác suất xét nghiệm cho kết quả dương tính của các ca thực sự không nhiễm vius là:"
+  },
+  {
+    "bbox": [
+      212,
+      1056,
+      1212,
+      1107
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AT| V) = 1 - P(AT| K) = 1 - 99,1\\% = 0,991 = 0,009. \\text{ Suy ra b) đúng.}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1117,
+      1147,
+      1162
+    ],
+    "category": "Text",
+    "text": "c) **Sai.** Xác suất người làm xét nghiệm có kết quả dương tính là:"
+  },
+  {
+    "bbox": [
+      212,
+      1162,
+      1559,
+      1215
+    ],
+    "category": "Formula",
+    "text": "$$\nP(DT) = P(DT| V) \\cdot P(V) + P(DT| K) \\cdot P(K) = 0,762 \\cdot 0,01 + 0,009 \\cdot 0,99 = 0,01653. \\text{ Suy ra c) sai.}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1225,
+      351,
+      1268
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.**"
+  },
+  {
+    "bbox": [
+      212,
+      1268,
+      1573,
+      1366
+    ],
+    "category": "Text",
+    "text": "Biết rằng đã có kết quả chuẩn đoán là dương tính, xác suất để người đó thực sự bị bệnh là: $P(V| DT)$."
+  },
+  {
+    "bbox": [
+      212,
+      1376,
+      1438,
+      1477
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Sử dụng định lý Bayes: } P(V| DT) = \\frac{P(DT| V) \\cdot P(V)}{P(DT)} = \\frac{0,762 \\cdot 0,01}{0,01653} = \\frac{0,00762}{0,01653} \\approx 0,46.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1480,
+      1383,
+      1528
+    ],
+    "category": "Text",
+    "text": "PHẦN III. TRẮC NGHIỆM TRẢ LỜI NGẮN. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      1533,
+      1569,
+      1780
+    ],
+    "category": "Text",
+    "text": "Câu 1: Cho hình lăng trụ $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình chữ nhật với $AB=1$, $AD = 2$, tam giác $A'AB$ cân tại $A'$ và nằm trong mặt phẳng vuông góc với mặt phẳng ($ABCD$). Khoảng cách từ $D$ đến ($A'BC$) bằng $\\frac{2}{5}$. Tính khoảng cách giữa hai đường thẳng $A'B$ và $AC$ (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      1782,
+      952,
+      1824
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1828,
+      399,
+      1869
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,39"
+  },
+  {
+    "bbox": [
+      212,
+      1871,
+      655,
+      1914
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là trung điểm của $AB$."
+  },
+  {
+    "bbox": [
+      212,
+      1914,
+      1573,
+      2013
+    ],
+    "category": "Text",
+    "text": "Do tam giác $A'AB$ cân tại $A'$ và nằm trong mặt phẳng vuông góc với đáy nên $A'H \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1496,
+      344
+    ],
+    "category": "Text",
+    "text": "$T(x)$ là tổng chi phí (xuất bản và phát hành) cho $x$ cuốn tạp chí, được gọi là chi phí trung bình cho một cuốn tạp chí khi xuất bản $x$ cuốn. Khi số lượng cuốn tạp chí phát hành cực lớn thì chi phí trung bình cho mỗi cuốn tạp chí $M(x)$ sẽ tiệm cận với đường thẳng có phương trình dạng $y = ax + b$. Tính $P = 68a + 3b + 800$."
+  },
+  {
+    "bbox": [
+      75,
+      364,
+      415,
+      402
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      423,
+      843,
+      462
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      480,
+      274,
+      520
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 6868"
+  },
+  {
+    "bbox": [
+      75,
+      535,
+      355,
+      579
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      597,
+      730,
+      648
+    ],
+    "category": "Formula",
+    "text": "$$\nT(x) = C(x) + 4000x = x^2 + 2000x + 10^8 \\text{ (đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      674,
+      511,
+      763
+    ],
+    "category": "Formula",
+    "text": "$$\nM(x) = \\frac{T(x)}{x} = x + \\frac{10^8}{x} + 2000.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      784,
+      1139,
+      884
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} [M(x) - (x + 2000)] = \\lim_{x \\to +\\infty} \\left[ x + \\frac{10^8}{x} + 2000 - (x + 2000) \\right] = \\lim_{x \\to +\\infty} \\left[ \\frac{10^8}{x} \\right] = 0.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      912,
+      1162,
+      999
+    ],
+    "category": "Text",
+    "text": "Khi đó đồ thị hàm số $M(x) = x + \\frac{10^8}{x} + 2000$ có 1 tiệm cận xiên là $y = x + 2000$."
+  },
+  {
+    "bbox": [
+      75,
+      1019,
+      1496,
+      1138
+    ],
+    "category": "Text",
+    "text": "Khi số lượng cuốn tạp chí phát hành cực lớn thì chi phí trung bình cho mỗi cuốn tạp chí $M(x)$ sẽ tiệm cận với đường thẳng $y = x + 2000$."
+  },
+  {
+    "bbox": [
+      75,
+      1158,
+      328,
+      1257
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\begin{cases} a = 1 \\\\ b = 2000 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1279,
+      809,
+      1321
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P = 68a + 3b + 800 = 68 \\cdot 1 + 3 \\cdot 2000 + 800 = 6868.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1334,
+      1496,
+      1615
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thầy Khương gửi 300 triệu đồng vào một ngân hàng với lãi suất 7% / năm. Biết rằng nếu không rút tiền khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào gốc để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm, Thầy Khương nhận được số tiền nhiều hơn 600 triệu đồng bao gồm cả gốc và lãi? Giả định trong suốt thời gian gửi, lãi suất không đổi và Thầy Khương không rút tiền ra."
+  },
+  {
+    "bbox": [
+      646,
+      1632,
+      922,
+      1927
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1954,
+      415,
+      1992
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2013,
+      843,
+      2052
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2071,
+      238,
+      2111
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 11"
+  },
+  {
+    "bbox": [
+      75,
+      2126,
+      1496,
+      2247
+    ],
+    "category": "Text",
+    "text": "Kí hiệu số tiền gửi ban đầu là $A$, lãi suất một kì hạn là $r$ thì số tiền cả gốc và lãi có được sau $n$ kì hạn là $A(1+r)^n$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1575,
+      203
+    ],
+    "category": "Text",
+    "text": "vị: tỉ đồng) của công đoạn tráng men này, khi cơ sở dự định sản xuất 100000 viên gạch như thế (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      206,
+      953,
+      247
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      250,
+      398,
+      292
+    ],
+    "category": "Text",
+    "text": "Đáp số: 2,65"
+  },
+  {
+    "bbox": [
+      723,
+      305,
+      1050,
+      616
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      628,
+      1124,
+      708
+    ],
+    "category": "Text",
+    "text": "Xét $\\frac{1}{16}$ viên gạch men (vùng hình vuông chứa một cánh hoa)."
+  },
+  {
+    "bbox": [
+      212,
+      714,
+      1575,
+      854
+    ],
+    "category": "Text",
+    "text": "Vì phần cánh hoa (màu xanh) là phần giao nhau của các đường tròn có khoảng cách giữa các tâm là $20\\sqrt{2}$ nên một cánh hoa là phần giao của hai phần tư hình tròn tâm $A, B$ (hình vẽ), có bán kính $r = 20$."
+  },
+  {
+    "bbox": [
+      212,
+      858,
+      1069,
+      937
+    ],
+    "category": "Text",
+    "text": "Mối phần tư hình tròn tâm $A, B$ có diện tích $S = \\frac{1}{4}\\pi \\cdot 20^2$."
+  },
+  {
+    "bbox": [
+      212,
+      943,
+      996,
+      989
+    ],
+    "category": "Text",
+    "text": "Diện tích hình vuông có $AB$ là đường chéo: $S_v = 20^2$."
+  },
+  {
+    "bbox": [
+      212,
+      995,
+      1287,
+      1082
+    ],
+    "category": "Text",
+    "text": "Suy ra diện tích của một cánh hoa là $2S - S_v = \\frac{1}{2}\\pi \\cdot 20^2 - 20^2 = \\left(\\frac{\\pi}{2} - 1\\right) \\cdot 20^2$."
+  },
+  {
+    "bbox": [
+      212,
+      1094,
+      308,
+      1129
+    ],
+    "category": "Text",
+    "text": "Do đó"
+  },
+  {
+    "bbox": [
+      264,
+      1135,
+      1093,
+      1223
+    ],
+    "category": "List-item",
+    "text": "- ☑ Diện tích phần màu xanh là $S_1 = 16\\left(\\frac{\\pi}{2} - 1\\right) \\cdot 20^2$ (cm²)."
+  },
+  {
+    "bbox": [
+      264,
+      1229,
+      976,
+      1278
+    ],
+    "category": "List-item",
+    "text": "- ☑ Diện tích phần màu trắng $S_2 = 80^2 - S_1$ (cm²)."
+  },
+  {
+    "bbox": [
+      212,
+      1284,
+      1228,
+      1329
+    ],
+    "category": "Text",
+    "text": "Số tiền tráng men một viên gạch là $T = 5S_1 + 3S_2 = 26506,19298$ đồng."
+  },
+  {
+    "bbox": [
+      494,
+      1337,
+      1289,
+      1427
+    ],
+    "category": "Text",
+    "text": "Để sản xuất 100000 viên gạch thì số tiền tráng men là $100000T = 2650619298$ (đồng) $\\approx 2,65$ (tỉ đồng)."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1521,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 12 -"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      137,
+      96,
+      1514,
+      142
+    ],
+    "category": "Text",
+    "text": "Câu 8: Xét mẫu số liệu ghép nhóm cho bởi Bảng. Số trung bình cộng của mẫu số liệu ghép nhóm đó bằng"
+  },
+  {
+    "bbox": [
+      471,
+      136,
+      1186,
+      418
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Giá trị đại diện</td><td>Tần số</td></tr></thead><tbody><tr><td>[a₁;a₂)</td><td>x₁</td><td>n₁</td></tr><tr><td>[a₂;a₃)</td><td>x₂</td><td>n₂</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>[aₘ;aₘ₊₁)</td><td>xₘ</td><td>nₘ</td></tr><tr><td></td><td></td><td>n</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      270,
+      418,
+      704,
+      511
+    ],
+    "category": "Formula",
+    "text": "$$\nA. \\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{m}}\n$$"
+  },
+  {
+    "bbox": [
+      895,
+      418,
+      1327,
+      511
+    ],
+    "category": "Formula",
+    "text": "$$\nB. \\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{n}}\n$$"
+  },
+  {
+    "bbox": [
+      270,
+      521,
+      671,
+      597
+    ],
+    "category": "Formula",
+    "text": "$$\nC. \\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{m}\n$$"
+  },
+  {
+    "bbox": [
+      895,
+      521,
+      1294,
+      597
+    ],
+    "category": "Formula",
+    "text": "$$\nD. \\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{n}\n$$"
+  },
+  {
+    "bbox": [
+      137,
+      605,
+      1514,
+      702
+    ],
+    "category": "Text",
+    "text": "Câu 9: Cho các biến cố A và B thỏa mãn $P(A)>0, P(B)>0$. Khi đó $P(A|B)$ bằng biểu thức nào dưới đây?"
+  },
+  {
+    "bbox": [
+      270,
+      702,
+      524,
+      801
+    ],
+    "category": "Formula",
+    "text": "$$\nA. \\frac{P(A) \\cdot P(B|A)}{P(B)}\n$$"
+  },
+  {
+    "bbox": [
+      597,
+      702,
+      838,
+      801
+    ],
+    "category": "Formula",
+    "text": "$$\nB. \\frac{P(B) \\cdot P(B|A)}{P(A)}\n$$"
+  },
+  {
+    "bbox": [
+      895,
+      702,
+      1138,
+      801
+    ],
+    "category": "Formula",
+    "text": "$$\nC. \\frac{P(B)}{P(A) \\cdot P(B|A)}\n$$"
+  },
+  {
+    "bbox": [
+      1197,
+      702,
+      1443,
+      801
+    ],
+    "category": "Formula",
+    "text": "$$\nD. \\frac{P(A)}{P(B) \\cdot P(B|A)}\n$$"
+  },
+  {
+    "bbox": [
+      137,
+      807,
+      1509,
+      907
+    ],
+    "category": "Text",
+    "text": "Câu 10: Nếu hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ thỏa mãn $f(x) \\ge m, \\forall x \\in \\mathbb{R}$ và tồn tại $a \\in \\mathbb{R}$ sao cho $f(a) = m$ thì"
+  },
+  {
+    "bbox": [
+      270,
+      911,
+      917,
+      958
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số $y = f(x)$ đạt giá trị lớn nhất bằng $m$."
+  },
+  {
+    "bbox": [
+      270,
+      964,
+      910,
+      1011
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số $y = f(x)$ đạt giá trị cực tiểu bằng $m$."
+  },
+  {
+    "bbox": [
+      270,
+      1017,
+      923,
+      1064
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số $y = f(x)$ đạt giá trị nhỏ nhất bằng $m$."
+  },
+  {
+    "bbox": [
+      270,
+      1070,
+      901,
+      1117
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số $y = f(x)$ đạt giá trị cực đại bằng $m$."
+  },
+  {
+    "bbox": [
+      137,
+      1123,
+      1509,
+      1227
+    ],
+    "category": "Text",
+    "text": "Câu 11: Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$. Gọi S là diện tích hình phẳng giới hạn bởi các đường $y = f(x), y = 0, x = -1$ và $x = 5$ (như hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      607,
+      1247,
+      1064,
+      1546
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      270,
+      1542,
+      638,
+      1585
+    ],
+    "category": "Text",
+    "text": "Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      270,
+      1585,
+      653,
+      1681
+    ],
+    "category": "Formula",
+    "text": "$$\nA. S = -\\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      895,
+      1585,
+      1256,
+      1681
+    ],
+    "category": "Formula",
+    "text": "$$\nB. S = \\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      270,
+      1685,
+      638,
+      1781
+    ],
+    "category": "Formula",
+    "text": "$$\nC. S = \\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      895,
+      1685,
+      1276,
+      1781
+    ],
+    "category": "Formula",
+    "text": "$$\nD. S = -\\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      137,
+      1781,
+      1509,
+      1862
+    ],
+    "category": "Text",
+    "text": "Câu 12: Khi thống kê chiều cao (đơn vị: centimét) của học sinh lớp 12A, người ta thu được mẫu số liệu ghép nhóm như Bảng. Khoảng biến thiên của mẫu số liệu ghép nhóm đó bằng:"
+  },
+  {
+    "bbox": [
+      759,
+      1864,
+      1023,
+      2104
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Tần số</td></tr></thead><tbody><tr><td>[155; 160)</td><td>2</td></tr><tr><td>[160; 165)</td><td>5</td></tr><tr><td>[165; 170)</td><td>21</td></tr><tr><td>[170; 175)</td><td>11</td></tr><tr><td>[175; 180)</td><td>1</td></tr><tr><td></td><td>n = 40</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      270,
+      2111,
+      406,
+      2144
+    ],
+    "category": "List-item",
+    "text": "A. 25cm."
+  },
+  {
+    "bbox": [
+      597,
+      2111,
+      710,
+      2144
+    ],
+    "category": "List-item",
+    "text": "B. 5cm."
+  },
+  {
+    "bbox": [
+      895,
+      2111,
+      1033,
+      2144
+    ],
+    "category": "List-item",
+    "text": "C. 20cm."
+  },
+  {
+    "bbox": [
+      1197,
+      2111,
+      1344,
+      2144
+    ],
+    "category": "List-item",
+    "text": "D. 180cm."
+  },
+  {
+    "bbox": [
+      817,
+      2205,
+      835,
+      2234
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      585,
+      127,
+      1076,
+      621
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      232,
+      630,
+      1492,
+      715
+    ],
+    "category": "Text",
+    "text": "Hỏi tổng diện tích thuộc về viên gạch được tô màu đâm là bao nhiêu cm vuông? Kết quả được làm tròn đến hàng đơn vị của cm vuông."
+  },
+  {
+    "bbox": [
+      836,
+      715,
+      950,
+      752
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      752,
+      456,
+      789
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1545."
+  },
+  {
+    "bbox": [
+      603,
+      808,
+      1179,
+      1337
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1360,
+      522,
+      1399
+    ],
+    "category": "Text",
+    "text": "Đặt $A_1B_1 = a$, ta có:"
+  },
+  {
+    "bbox": [
+      252,
+      1411,
+      856,
+      1455
+    ],
+    "category": "Text",
+    "text": "* Diện tích hình vuông $A_1B_1C_1D_1$ là $S_{V1} = a^2$."
+  },
+  {
+    "bbox": [
+      252,
+      1466,
+      1520,
+      1560
+    ],
+    "category": "Text",
+    "text": "Bán kính hình tròn $(C_1)$ là $R_1 = \\frac{A_1B_1}{2} = \\frac{a}{2} \\Rightarrow$ Diện tích hình tròn $(C_1)$ là $S_{T1} = \\pi \\cdot \\left(\\frac{a}{2}\\right)^2 = \\frac{\\pi a^2}{4}$."
+  },
+  {
+    "bbox": [
+      252,
+      1569,
+      1394,
+      1755
+    ],
+    "category": "Text",
+    "text": "* Hình vuông $A_2B_2C_2D_2$ có đường chéo $A_2C_2 = 2R_1 = a \\Rightarrow$ Cạnh $A_2B_2 = \\frac{A_2C_2}{\\sqrt{2}} = \\frac{a}{\\sqrt{2}}$\n$\\Rightarrow$ Diện tích hình vuông $A_2B_2C_2D_2$ là $S_{V2} = \\left(\\frac{a}{\\sqrt{2}}\\right)^2 = \\frac{a^2}{2}$."
+  },
+  {
+    "bbox": [
+      252,
+      1766,
+      997,
+      1953
+    ],
+    "category": "Text",
+    "text": "Bán kính hình tròn $(C_2)$ là $R_2 = \\frac{A_2B_2}{2} = \\frac{a}{2\\sqrt{2}}$\n$\\Rightarrow$ Diện tích hình tròn $(C_2)$ là $S_{T2} = \\pi \\cdot \\left(\\frac{a}{2\\sqrt{2}}\\right)^2 = \\frac{\\pi a^2}{8}$."
+  },
+  {
+    "bbox": [
+      252,
+      1966,
+      1415,
+      2151
+    ],
+    "category": "Text",
+    "text": "* Hình vuông $A_3B_3C_3D_3$ có đường chéo $A_3C_3 = 2R_2 = \\frac{a}{\\sqrt{2}} \\Rightarrow$ Cạnh $A_3B_3 = \\frac{a}{\\sqrt{2} \\cdot \\sqrt{2}} = \\frac{a}{2}$\n$\\Rightarrow$ Diện tích hình vuông $A_3B_3C_3D_3$ là $S_{V3} = \\left(\\frac{a}{2}\\right)^2 = \\frac{a^2}{4}$"
+  }
+]

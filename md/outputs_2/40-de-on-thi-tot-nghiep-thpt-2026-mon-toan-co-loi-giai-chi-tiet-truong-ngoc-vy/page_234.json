@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      100,
+      512,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } S_{\\Delta ABC} = \\frac{1}{2} \\cdot CH \\cdot AB\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      201,
+      431,
+      295
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\frac{\\sqrt{3}}{2} = \\frac{1}{2} \\cdot CH \\cdot \\sqrt{7}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      315,
+      444,
+      409
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow CH = \\frac{\\sqrt{21}}{7} \\approx 0,7.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      425,
+      1576,
+      529
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nhà đầu tư xem xét đầu tư vào hai loại tài sản: cổ phiếu và trái phiếu. Qua nghiên cứu thị trường có hai clean book sau có thể xảy ra:"
+  },
+  {
+    "bbox": [
+      155,
+      541,
+      1574,
+      702
+    ],
+    "category": "Text",
+    "text": "Kinh bản kinh tế tăng trưởng: xác suất xảy ra kinh tế tăng trưởng trong năm tới là 60%. Trong clean book này, xác suất cổ phiếu mang lại lợi nhuận cao là 80% và xác suất trái phiếu mang lại lợi nhuận cao là 30%."
+  },
+  {
+    "bbox": [
+      155,
+      718,
+      1574,
+      878
+    ],
+    "category": "Text",
+    "text": "Kinh bản kinh tế suy thoái: xác suất xảy ra clean book kinh tế suy thoái trong năm tới là 40%. Trong clean book này, xác suất cổ phiếu mang lại lợi nhuận cao là 10% và xác suất trái phiếu mang lại lợi nhuận cao là 70%."
+  },
+  {
+    "bbox": [
+      155,
+      894,
+      1574,
+      999
+    ],
+    "category": "Text",
+    "text": "Vào cuối năm, nhà đầu tư nhận thấy rằng trái phiếu đã mang lại lợi nhuận cao. Tính xác suất để clean book kinh tế trong năm đó là suy thoái (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      1015,
+      494,
+      1052
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1075,
+      924,
+      1114
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1131,
+      347,
+      1171
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,61"
+  },
+  {
+    "bbox": [
+      155,
+      1191,
+      998,
+      1237
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: “clean book kinh tế trong năm đó là suy thoái”"
+  },
+  {
+    "bbox": [
+      155,
+      1248,
+      920,
+      1294
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “trái phiếu đã mang lại lợi nhuận cao”"
+  },
+  {
+    "bbox": [
+      155,
+      1307,
+      1193,
+      1353
+    ],
+    "category": "Text",
+    "text": "Xác suất clean book kinh tế suy thoái và trái phiếu đã mang lại lợi nhuận cao là:"
+  },
+  {
+    "bbox": [
+      160,
+      1373,
+      522,
+      1419
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AB) = 40\\%.70\\% = 0,28\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1440,
+      763,
+      1486
+    ],
+    "category": "Text",
+    "text": "Xác suất trái phiếu mang lại lợi nhuận cao là:"
+  },
+  {
+    "bbox": [
+      160,
+      1505,
+      658,
+      1551
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = 40\\%.70\\% + 60\\%.30\\% = 0,46\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1572,
+      1574,
+      1672
+    ],
+    "category": "Text",
+    "text": "Xác suất để clean book kinh tế trong năm đó là suy thoái với điều kiện trái phiếu đã mang lại lợi nhuận cao là:"
+  },
+  {
+    "bbox": [
+      160,
+      1694,
+      591,
+      1781
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{0,28}{0,46} = 0,61\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      649,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

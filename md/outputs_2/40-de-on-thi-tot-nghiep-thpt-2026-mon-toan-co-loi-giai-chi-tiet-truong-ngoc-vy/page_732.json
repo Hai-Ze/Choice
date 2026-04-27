@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      94,
+      1575,
+      301
+    ],
+    "category": "Text",
+    "text": "tiệm cận đứng và tiệm cận ngang của đồ thị hàm số này đều cách điểm $A$ một khoảng bằng $5$ m. Đồ thị giao với cạnh $AB$ tại điểm $E$ thỏa mãn $\\frac{AE}{AB} = \\frac{7}{15}$. Diện tích phần in nội dung广ảng cáo là bao nhiêu mét vuông (làm tròn kết quả đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      637,
+      312,
+      1082,
+      637
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      659,
+      493,
+      695
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      718,
+      924,
+      756
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      775,
+      347,
+      814
+    ],
+    "category": "Text",
+    "text": "Đáp án: 73,5"
+  },
+  {
+    "bbox": [
+      446,
+      861,
+      1317,
+      1471
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1496,
+      1425,
+      1540
+    ],
+    "category": "Text",
+    "text": "Gán hệ trục tọa độ $Oxy$ như hình vẽ. Đồ thị hàm số có $TCD$ là: $x = 0,TCN$ là: $y = 0$ nên ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      1565,
+      399,
+      1658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} d = 0 \\\\ a = 0 \\end{cases} \\Rightarrow y = \\frac{b}{cx}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1685,
+      984,
+      1768
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\frac{AE}{AB} = \\frac{7}{15} \\Leftrightarrow AE = \\frac{7}{15} \\cdot AB = \\frac{7}{15} \\cdot 12 = 5,6 \\Rightarrow E(0,6;-5).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1792,
+      1183,
+      1875
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đồ thị hàm số đi qua điểm } E(0,6;-5) \\text{ nên } -5 = \\frac{b}{c \\cdot 0,6} \\Leftrightarrow \\frac{b}{c} = -3 \\Rightarrow y = -\\frac{3}{x}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1902,
+      952,
+      1988
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } S = \\int_{-5}^{-1} \\left( 5 + \\frac{3}{x} \\right) dx = 20 - 3 \\ln 5, S' = \\int_{0,6}^{7} \\frac{3}{x} dx = 3 \\ln \\frac{35}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2018,
+      1503,
+      2098
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích phần in nội dung广ảng cáo bằng: } S_{ABCD} - S - S' = 12.8 - (20 - 3 \\ln 5) - 3 \\ln \\frac{35}{3} \\approx 73,5(\\text{dvdt}).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2116,
+      1573,
+      2219
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một đại lý nhập khẩu trái cây tương để phân phối cho các cửa hàng. Mỗi lần nhập khẩu trái cây, khoảng chi phí vận chuyển (không đổi) là 25 triệu đồng. Chi phí bảo quản mỗi tạ trái cây trong kho là 80"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

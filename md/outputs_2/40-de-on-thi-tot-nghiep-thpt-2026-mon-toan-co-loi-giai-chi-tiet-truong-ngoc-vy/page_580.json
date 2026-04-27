@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      954,
+      145
+    ],
+    "category": "Text",
+    "text": "là $(3;11), (5;3), (8;21)$ có phương trình dạng: $v(t) = at^2 + bt + c$."
+  },
+  {
+    "bbox": [
+      76,
+      172,
+      745,
+      318
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta có: $$ \\begin{cases} 9a + 3b + c = 11 \\\\ 25a + 5b + c = 3 \\\\ 64a + 8b + c = 21 \\end{cases} \\Leftrightarrow \\begin{cases} a = 2 \\\\ b = -20 \\\\ c = 53 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      76,
+      346,
+      607,
+      394
+    ],
+    "category": "Text",
+    "text": "Do đó: $v(t) = 2t^2 - 20t + 53 \\ (3 \\le t \\le 8)$."
+  },
+  {
+    "bbox": [
+      76,
+      418,
+      859,
+      458
+    ],
+    "category": "Text",
+    "text": "Quăng đường ca nô đi được trong khoảng thời gian này là:"
+  },
+  {
+    "bbox": [
+      82,
+      477,
+      996,
+      575
+    ],
+    "category": "Formula",
+    "text": "$$\nS_3 = \\int_{3}^{8} v(t) dt = \\int_{3}^{8} (2t^2 - 20t + 53) dt = \\left. \\left( \\frac{2t^3}{3} - 10t^2 + 53t \\right) \\right|_{3}^{8} = \\frac{115}{3} \\ (m)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      602,
+      1260,
+      685
+    ],
+    "category": "Text",
+    "text": "Vận tốc trung bình của ca nô trong khoảng thời gian này là: $v_{tb} = \\frac{S_3}{5} = \\frac{23}{3} \\approx 7,67 \\ (m/s)$."
+  },
+  {
+    "bbox": [
+      76,
+      709,
+      1495,
+      861
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, cho đường thẳng $d: \\frac{x+1}{1} = \\frac{y+3}{2} = \\frac{z+2}{2}$ và mặt cầu $(S)$ có tâm $I(3;2;0)$. Đường thẳng $d$ cắt mặt cầu $(S)$ tại hai điểm $A, B$ sao cho $AB = 8$."
+  },
+  {
+    "bbox": [
+      76,
+      885,
+      1495,
+      1001
+    ],
+    "category": "Text",
+    "text": "a) Phương trình mặt phẳng $(P)$ đi qua điểm $I(3;2;0)$ và vuông góc với đường thẳng $d$ có phương trình là $x+2y+2z+7=0$."
+  },
+  {
+    "bbox": [
+      76,
+      1024,
+      1101,
+      1074
+    ],
+    "category": "Text",
+    "text": "b) Gọi $H$ là hình chiếu vuông của $I$ trên đường thẳng $d$. Khi đó $H(1;1;2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1099,
+      539,
+      1147
+    ],
+    "category": "Text",
+    "text": "c) Мặt cầu $(S)$ có bán kính $R = 4$."
+  },
+  {
+    "bbox": [
+      76,
+      1176,
+      851,
+      1228
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu $(S)$: $(x-3)^2 + (y-2)^2 + z^2 = 16$"
+  },
+  {
+    "bbox": [
+      727,
+      1255,
+      843,
+      1294
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1308,
+      894,
+      1431
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1488,
+      1495,
+      1610
+    ],
+    "category": "Text",
+    "text": "a) Đúng: Phương trình mặt phẳng $(P)$ đi qua $I(3;2;0)$ và vuông góc với đường thẳng $d$ nhận $\\vec{u} = (1;2;2)$ là vecto pháp tuyến có phương trình:"
+  },
+  {
+    "bbox": [
+      413,
+      1638,
+      1154,
+      1685
+    ],
+    "category": "Formula",
+    "text": "$$\n1(x-3) + 2(y-2) + 2(z-0) = 0 \\Leftrightarrow x + 2y + 2z - 7 = 0\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1711,
+      932,
+      1759
+    ],
+    "category": "Text",
+    "text": "b) Gọi $H = d \\cap (P)$ khi đó $H \\in d \\Rightarrow H(-1+t; -3+2t; -2+2t)$"
+  },
+  {
+    "bbox": [
+      76,
+      1785,
+      1193,
+      1834
+    ],
+    "category": "Text",
+    "text": "Mặt khác $H \\in (P) \\Rightarrow -1+t+2(-3+2t)+2(-2+2t)-7=0 \\Rightarrow t=2$ nên $H(1;1;2)$"
+  },
+  {
+    "bbox": [
+      76,
+      1858,
+      1228,
+      1962
+    ],
+    "category": "Text",
+    "text": "c) Ta có $IH = \\sqrt{(3-1)^2 + (2-1)^2 + (0-2)^2} = 3 \\Rightarrow R = \\sqrt{IH^2 + \\left(\\frac{AB}{2}\\right)^2} = \\sqrt{3^2 + 4^2} = 5$"
+  },
+  {
+    "bbox": [
+      76,
+      1985,
+      775,
+      2034
+    ],
+    "category": "Text",
+    "text": "d) mặt cầu $(S)$ có tâm $I(3;2;0)$ và bán kính $R = 5$."
+  },
+  {
+    "bbox": [
+      76,
+      2061,
+      585,
+      2119
+    ],
+    "category": "Text",
+    "text": "nên $(S): (x-3)^2 + (y-2)^2 + z^2 = 25$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

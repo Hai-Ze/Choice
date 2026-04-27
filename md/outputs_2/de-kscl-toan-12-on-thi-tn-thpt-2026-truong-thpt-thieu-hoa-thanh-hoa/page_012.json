@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      662,
+      90,
+      1028,
+      130
+    ],
+    "category": "Section-header",
+    "text": "HD ĐỀ KSCL PHẦN VD"
+  },
+  {
+    "bbox": [
+      114,
+      135,
+      1533,
+      225
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng (Đ) hoặc sai (S)."
+  },
+  {
+    "bbox": [
+      114,
+      232,
+      929,
+      281
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      461,
+      297,
+      1326,
+      624
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$3$</td><td>$-1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      214,
+      631,
+      636,
+      675
+    ],
+    "category": "Text",
+    "text": "Cácoorh trắc nghiệm sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      214,
+      680,
+      625,
+      776
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{a) [NB]} \\quad f'(x) = 0 \\Leftrightarrow \\begin{bmatrix} x = -1 \\\\ x = 1 \\end{bmatrix}.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      782,
+      702,
+      827
+    ],
+    "category": "Text",
+    "text": "b) [TH] Cực tiểu của hàm số bằng 1"
+  },
+  {
+    "bbox": [
+      214,
+      833,
+      1086,
+      882
+    ],
+    "category": "Text",
+    "text": "c) [TH] Đồ thị hàm số $y = f(x)$ cắt trục $Ox$ tại 3 điểm phân biệt."
+  },
+  {
+    "bbox": [
+      214,
+      897,
+      902,
+      948
+    ],
+    "category": "Text",
+    "text": "d) [VD] Hàm số $y = f(2-x)$ đồng biến trên $(1;3)$."
+  },
+  {
+    "bbox": [
+      837,
+      962,
+      951,
+      1000
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1005,
+      732,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } f'(x) = 0 \\Leftrightarrow \\begin{bmatrix} x = -1 \\\\ x = 1 \\end{bmatrix}. \\text{Vậy a) đúng.}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1106,
+      832,
+      1152
+    ],
+    "category": "Text",
+    "text": "b) Cực tiểu của hàm số bằng $-1$. Suy ra b) sai."
+  },
+  {
+    "bbox": [
+      214,
+      1152,
+      1544,
+      1259
+    ],
+    "category": "Text",
+    "text": "c) Ta có: $-1 < 0 < 3 \\Rightarrow$ Đường thẳng $y = 0$ cắt đồ thị hàm số tại 3 điểm phân biệt hay đồ thị hàm số $y = f(x)$ cắt trục $Ox$ tại 3 điểm phân biệt. vậy c) đúng."
+  },
+  {
+    "bbox": [
+      214,
+      1273,
+      334,
+      1312
+    ],
+    "category": "Text",
+    "text": "d) Ta có:"
+  },
+  {
+    "bbox": [
+      214,
+      1327,
+      1070,
+      1450
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Hàm số } y = f(2-x) \\text{ đồng biến} &\\Leftrightarrow (f(2-x))' > 0 \\\\ &\\Leftrightarrow -f'(2-x) > 0 \\Leftrightarrow f'(2-x) < 0 \\Leftrightarrow -1 < 2-x < 1 \\Leftrightarrow 1 < x < 3. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1465,
+      846,
+      1515
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số $y = f(2-x)$ đồng biến trên $(1;3)$."
+  },
+  {
+    "bbox": [
+      214,
+      1529,
+      422,
+      1568
+    ],
+    "category": "Text",
+    "text": "Suy ra d) đúng"
+  },
+  {
+    "bbox": [
+      114,
+      1568,
+      1575,
+      1896
+    ],
+    "category": "Text",
+    "text": "**Câu 14:** Kim tự tháp Cheops là kim tự tháp lớn nhất trong các kim tự tháp ở Ai Cập, được xây dựng vào thế kỉ thứ 26 trước Công nguyên và là một trong bày kì quan của thế giới cổ đại. Kim tự tháp có dạng hình chóp $S.ABCD$ với đáy là hình vuông $ABCD$ tâm $H$ và cạnh đáy dài $262\\text{ m}$, các cạnh bên bằng nhau và dài $230\\text{ m}$ (kích thước hiện nay). (Theo britannica.com). Biết căn phòng chứa待用 thông tin khảo cổ có dạng hình lập phương với thể tích $64\\text{ m}^3$ ngay tại trung tâm, có cạnh đáy song song với cạnh đáy của kim tự tháp và $H$ cũng là tâm của mặt sàn căn phòng. Các nhà khảo cổ muốn tạo một lỗ khoan từ bên ngoài vào căn phòng này."
+  }
+]

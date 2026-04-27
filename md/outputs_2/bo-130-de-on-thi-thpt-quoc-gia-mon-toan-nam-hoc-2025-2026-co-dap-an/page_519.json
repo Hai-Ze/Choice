@@ -1,0 +1,256 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1261,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1564,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      118,
+      600,
+      162
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hàm số $f(x) = 3^{x^3-3x+1}$."
+  },
+  {
+    "bbox": [
+      124,
+      164,
+      294,
+      201
+    ],
+    "category": "Formula",
+    "text": "a) $f(1) = 3$."
+  },
+  {
+    "bbox": [
+      124,
+      201,
+      946,
+      245
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = (3x^2 - 3)3^{x^2-3x+1}$."
+  },
+  {
+    "bbox": [
+      124,
+      247,
+      733,
+      287
+    ],
+    "category": "Formula",
+    "text": "c) $f'(x) = 0$ có hai nghiệm trên đoạn $[-1; 2]$."
+  },
+  {
+    "bbox": [
+      124,
+      287,
+      892,
+      327
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $[-1; 2]$ lớn hơn 1."
+  },
+  {
+    "bbox": [
+      109,
+      344,
+      894,
+      397
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      427,
+      807,
+      769
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho bvert điểm $A, B, C, D, E, F, G$ có $ABCD$ là hình chữ nhật, $F$ là trung điểm $AD$, độ dài các cạnh được ghi trên hình vẽ (đơn vị độ dài). Một trò chơi được quy định như sau: xuất phát từ một điểm bất kỳ trong bvert điểm trên đi qua hết tất cả các cạnh trên hình vẽ mỗi cạnh ít nhất một lần rồi quay lại điểm xuất phát. Người chơi là người thẳng cuộc nếu tổng độ dài đường đi là ngắn nhất. Tính tổng độ dài đường đi đó."
+  },
+  {
+    "bbox": [
+      848,
+      446,
+      1171,
+      838
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      900,
+      841,
+      1197,
+      902
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      916,
+      1197,
+      1135
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian với hệ trục tọa độ $Oxyz$, mặt phẳng ($P$) chứa đường thẳng $d$: $\\frac{x-1}{2} = \\frac{y+1}{-1} = \\frac{z}{2}$ và tạo với đường thẳng $\\Delta$: $\\begin{cases} x = 2 + t \\\\ y = 3 \\\\ z = -1 + 8t \\end{cases}$ một góc lớn nhất, có phương trình là $ax + by + cz - 5 = 0$. Tính $a + b + c$."
+  },
+  {
+    "bbox": [
+      900,
+      1132,
+      1197,
+      1193
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1219,
+      894,
+      1526
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một viên gạch hình vuông cạnh 4 dm. Người thiết kế sử dụng bốn đường parabol chung định tại tâm viên gạch để tạo ra bốn carnh hoa (được tô màu đen) như hình vẽ. Giả sử để hoàn thiện sơn và phủ bóng phủ viên gạch thì chi phí phần carnh hoa (màu đen) là 400 nghìn/m², chi phí phần còn lại (màu trắng) là 300 nghìn/m². Tính chi phí (đơn vị nghìn đồng) để sơn và phủ bóng cả viên gạch (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      927,
+      1229,
+      1185,
+      1489
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      900,
+      1522,
+      1197,
+      1583
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1610,
+      796,
+      1841
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một mái nhà được tạo bởi hai nửa lục giác đều $ABCD, A'BC'D'$ và hai tam giác bằng nhau $ADD', BCC'$. Biết $CDD'C'$ là hình chữ nhật và $AB \\parallel CD \\parallel C'D', CD = C'D' = 2AB = 6$ m, $DD' = 4$ m. Tìm số đo góc nhị diện $[D', AD, C]$. (Làm tròn kết quả đến hàng đơn vị của độ)."
+  },
+  {
+    "bbox": [
+      837,
+      1627,
+      1171,
+      1845
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      900,
+      1849,
+      1197,
+      1910
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1924,
+      1197,
+      2193
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Một集合 chứa 10 viên bi đỏ và 5 viên bi xanh. Bạn An lấy ngẫu nhiên một lượt 2 viên bi từ集合, xem màu, rồi đặt lại vào集合. Nếu trong 2 viên bi An lấy ra có ít nhất một bi màu đỏ thì bạn Bình sẽ lấy ngẫu nhiên 2 viên bi từ集合; còn nếu trong 2 viên bi An lấy ra không có viên bi nào màu đỏ thì Bình sẽ lấy ngẫu nhiên 3 viên bi từ集合. Tính xác suất để An lấy được ít nhất 1 viên bi màu đỏ, biết rằng tất cả viên bi hai bạn lấy ra đều có đủ hai màu (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      900,
+      2193,
+      1197,
+      2254
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 517"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      119,
+      1198,
+      261
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $f(x) = x^2 + ax + b$ ($a, b \\in \\mathbb{R}$). Biết diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$ và trục hoành bằng $\\frac{4}{3}$. Giá trị nhỏ nhất của $f(1)$ là"
+  },
+  {
+    "bbox": [
+      123,
+      283,
+      219,
+      325
+    ],
+    "category": "List-item",
+    "text": "(A) -1."
+  },
+  {
+    "bbox": [
+      395,
+      283,
+      468,
+      325
+    ],
+    "category": "List-item",
+    "text": "(B) 1."
+  },
+  {
+    "bbox": [
+      668,
+      283,
+      763,
+      325
+    ],
+    "category": "List-item",
+    "text": "(C) -4."
+  },
+  {
+    "bbox": [
+      941,
+      283,
+      1014,
+      325
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      94,
+      386,
+      1198,
+      600
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho mặt cầu ($S$): $x^2+y^2+z^2-2x+6y+2z+3 = 0$. Viết phương trình mặt phẳng ($P$) vuông góc với đường thẳng $d$: $\\frac{x-2}{3} = \\frac{y+1}{-1} = \\frac{z+3}{-2}$, đồng thời cắt ($S$) theo giao tuyến là một đường tròn có diện tích hình tròn giới hạn bởi đường tròn đó bằng $8\\pi$."
+  },
+  {
+    "bbox": [
+      123,
+      619,
+      442,
+      661
+    ],
+    "category": "List-item",
+    "text": "(A) $x - 3y - z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      619,
+      984,
+      661
+    ],
+    "category": "List-item",
+    "text": "(B) $3x - y - 2z + 8 = 0$."
+  },
+  {
+    "bbox": [
+      123,
+      663,
+      426,
+      705
+    ],
+    "category": "List-item",
+    "text": "(C) $x - 3y - z - 8 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      663,
+      984,
+      705
+    ],
+    "category": "List-item",
+    "text": "(D) $3x - y - 2z - 8 = 0$."
+  },
+  {
+    "bbox": [
+      94,
+      766,
+      1198,
+      847
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Kết quả điều tra về khối lượng của 30 củ khoai Tây (đơn vị: gam) thu hoạch tại nông trường."
+  },
+  {
+    "bbox": [
+      402,
+      984,
+      891,
+      1375
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Tần số</td><td>Tần số tích lũy</td></tr></thead><tbody><tr><td>[74; 80)</td><td>5</td><td>5</td></tr><tr><td>[80; 86)</td><td>7</td><td>12</td></tr><tr><td>[86; 92)</td><td>3</td><td>15</td></tr><tr><td>[92; 98)</td><td>4</td><td>19</td></tr><tr><td>[98; 104)</td><td>3</td><td>22</td></tr><tr><td>[104; 110)</td><td>8</td><td>30</td></tr><tr><td></td><td>$n = 30$</td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1493,
+      1198,
+      1570
+    ],
+    "category": "Text",
+    "text": "Khoảng_tứ phân vị của mẫu số liệu ghép nhóm trên là (kết quả làm tròn tới hàng phần nghìn)"
+  },
+  {
+    "bbox": [
+      123,
+      1588,
+      264,
+      1630
+    ],
+    "category": "List-item",
+    "text": "(A) 23,125."
+  },
+  {
+    "bbox": [
+      395,
+      1588,
+      536,
+      1630
+    ],
+    "category": "List-item",
+    "text": "(B) 24,025."
+  },
+  {
+    "bbox": [
+      668,
+      1588,
+      811,
+      1630
+    ],
+    "category": "List-item",
+    "text": "(C) 22,232."
+  },
+  {
+    "bbox": [
+      941,
+      1588,
+      1079,
+      1630
+    ],
+    "category": "List-item",
+    "text": "(D) 24,225."
+  },
+  {
+    "bbox": [
+      110,
+      1693,
+      823,
+      1746
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1777,
+      1198,
+      1933
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty dược phẩm tiến hành nghiên cứu về hiệu quả và độ an toàn của một loại thuốc mới. Khi thuốc được dùng một lần dưới dạng viên nén, sự thay đổi theo thời gian của nồng độ hoạt chất trong máu của bệnh nhân được mô hình hóa thông qua hàm số"
+  },
+  {
+    "bbox": [
+      535,
+      1995,
+      757,
+      2073
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = \\frac{4x}{(x + 1)^2},\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      2168,
+      1198,
+      2246
+    ],
+    "category": "Text",
+    "text": "trong đó $x$ là thời gian tính bằng giờ kể từ khi uống viên thuốc ($x \\ge 0$) và $f(x)$ là nồng độ hóa chất trong máu bệnh nhân, đo bằng mg/lít."
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 177"
+  }
+]

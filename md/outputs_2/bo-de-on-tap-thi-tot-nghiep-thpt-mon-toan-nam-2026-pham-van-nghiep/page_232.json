@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      664,
+      124,
+      1071,
+      599
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      642,
+      1528,
+      690
+    ],
+    "category": "Text",
+    "text": "Mặt cầu $(S)$ có tâm $I$ luôn qua $A, B$ cố định suy ra $I \\in (\\alpha)$: là mặt phẳng trung trực $AB$."
+  },
+  {
+    "bbox": [
+      212,
+      700,
+      303,
+      736
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      218,
+      743,
+      1102,
+      830
+    ],
+    "category": "Formula",
+    "text": "$$\nM\\left(\\frac{3-1}{2}; \\frac{5+3}{2}; \\frac{-2+2}{2}\\right) = (1; 4; 0) \\text{ và } \\overrightarrow{AB} = (-4; -2; 4) = 2(2; 1; -2)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      838,
+      1221,
+      888
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng $(\\alpha)$ đi qua điểm $M$ và nhận $\\overrightarrow{AB}$ làm vtpt:"
+  },
+  {
+    "bbox": [
+      254,
+      898,
+      750,
+      945
+    ],
+    "category": "Formula",
+    "text": "$$\n(\\alpha): 2(x-1)+1(y-4)-2(z-0) = 0\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      955,
+      572,
+      1000
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow (\\alpha): 2x + y - 2z - 6 = 0\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1010,
+      665,
+      1058
+    ],
+    "category": "Text",
+    "text": "Ta thấy $(\\alpha) // (P)$ và $AB \\perp (P)$"
+  },
+  {
+    "bbox": [
+      218,
+      1065,
+      904,
+      1184
+    ],
+    "category": "Formula",
+    "text": "$$\nd(\\alpha, P) = d(I, P) = IC = \\frac{|9-(-6)|}{\\sqrt{2^2+1^2+(-2)^2}} = \\frac{15}{3} = 5\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1189,
+      591,
+      1288
+    ],
+    "category": "Formula",
+    "text": "$$\nMA = \\frac{AB}{2} = \\frac{\\sqrt{4^2 + 2^2 + 4^2}}{2} = 3\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1292,
+      747,
+      1352
+    ],
+    "category": "Formula",
+    "text": "$$\nMI = CJ = \\sqrt{R_{cau}^2 - MA^2} = \\sqrt{5^2 - 3^2} = 4\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1358,
+      1574,
+      1507
+    ],
+    "category": "Text",
+    "text": "Ta có: $J = AB \\cap (P)$ suy ra phương trình đường thẳng $AB$: $\\begin{cases} x = -1 + 2t \\\\ y = 3 + t \\\\ z = 2 - 2t \\end{cases}$ thay vào phương"
+  },
+  {
+    "bbox": [
+      525,
+      1517,
+      971,
+      1564
+    ],
+    "category": "Formula",
+    "text": "$$\n2(-1+2t)+3+t-2(2-t)+9 = 0\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1564,
+      485,
+      1607
+    ],
+    "category": "Text",
+    "text": "trình $(P)$ ta được:"
+  },
+  {
+    "bbox": [
+      494,
+      1576,
+      798,
+      1655
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 9t + 6 = 0 \\Leftrightarrow t = \\frac{-2}{3}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1661,
+      1399,
+      1808
+    ],
+    "category": "Text",
+    "text": "Thay $t = \\frac{-2}{3}$ vào phương trình đường thẳng $AB$: $\\begin{cases} x = -1 + 2t \\\\ y = 3 + t \\\\ z = 2 - 2t \\end{cases}$ suy ra $J\\left(\\frac{-7}{3}; \\frac{7}{3}; \\frac{10}{3}\\right)$"
+  },
+  {
+    "bbox": [
+      212,
+      1820,
+      1059,
+      1864
+    ],
+    "category": "Text",
+    "text": "Suy ra quỹ tích $C$ là đường tròn tâm $J$ có bán kính $r = 4$"
+  },
+  {
+    "bbox": [
+      705,
+      1872,
+      1069,
+      2149
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      218,
+      2170,
+      1015,
+      2226
+    ],
+    "category": "Formula",
+    "text": "$$\nd(O; P) = 3, OJ = \\sqrt{22}, JH = \\sqrt{OJ^2 - OH^2} = \\sqrt{22-9} = \\sqrt{13}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1522,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

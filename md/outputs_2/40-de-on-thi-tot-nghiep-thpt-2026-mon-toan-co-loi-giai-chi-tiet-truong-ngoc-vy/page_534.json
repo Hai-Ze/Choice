@@ -1,0 +1,310 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1017,
+      136
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Bảng dưới đây thống kê cự li ném tạ của một vận động viên."
+  },
+  {
+    "bbox": [
+      160,
+      151,
+      1407,
+      283
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cự li (m)</td><td>[19;19,5)</td><td>[19,5;20)</td><td>[20;20,5)</td><td>[20,5;21)</td><td>[21;21,5)</td></tr><tr><td>Tần số</td><td>13</td><td>45</td><td>24</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      337,
+      1419,
+      384
+    ],
+    "category": "Text",
+    "text": "Hãy tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả được làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      125,
+      402,
+      248,
+      438
+    ],
+    "category": "List-item",
+    "text": "A. 0,43."
+  },
+  {
+    "bbox": [
+      476,
+      402,
+      593,
+      438
+    ],
+    "category": "List-item",
+    "text": "B. 0,53."
+  },
+  {
+    "bbox": [
+      826,
+      402,
+      949,
+      438
+    ],
+    "category": "List-item",
+    "text": "C. 0,47."
+  },
+  {
+    "bbox": [
+      1177,
+      402,
+      1302,
+      438
+    ],
+    "category": "List-item",
+    "text": "D. 0,57."
+  },
+  {
+    "bbox": [
+      76,
+      466,
+      1495,
+      590
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$. Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = 0$, $x = -1$ và $x = 5$ (như hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      522,
+      632,
+      1068,
+      980
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      996,
+      453,
+      1041
+    ],
+    "category": "Text",
+    "text": "Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      1060,
+      524,
+      1156
+    ],
+    "category": "Formula",
+    "text": "A. $S = -\\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx$."
+  },
+  {
+    "bbox": [
+      826,
+      1060,
+      1198,
+      1156
+    ],
+    "category": "Formula",
+    "text": "B. $S = \\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx$."
+  },
+  {
+    "bbox": [
+      125,
+      1179,
+      504,
+      1276
+    ],
+    "category": "Formula",
+    "text": "C. $S = \\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx$."
+  },
+  {
+    "bbox": [
+      826,
+      1179,
+      1222,
+      1276
+    ],
+    "category": "Formula",
+    "text": "D. $S = -\\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx$."
+  },
+  {
+    "bbox": [
+      76,
+      1294,
+      1495,
+      1405
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Gọi $O$ và $O'$ lần lượt là tâm của hình vuông $ABCD$ và $A'B'C'D'$. Đặt $\\vec{u} = \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD} + \\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}$."
+  },
+  {
+    "bbox": [
+      579,
+      1430,
+      986,
+      1785
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1801,
+      492,
+      1847
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      1864,
+      268,
+      1926
+    ],
+    "category": "Formula",
+    "text": "A. $|\\vec{u}| = a$."
+  },
+  {
+    "bbox": [
+      476,
+      1864,
+      631,
+      1926
+    ],
+    "category": "Formula",
+    "text": "B. $|\\vec{u}| = 4a$."
+  },
+  {
+    "bbox": [
+      826,
+      1864,
+      979,
+      1926
+    ],
+    "category": "Formula",
+    "text": "C. $|\\vec{u}| = 6a$."
+  },
+  {
+    "bbox": [
+      1177,
+      1864,
+      1332,
+      1926
+    ],
+    "category": "Formula",
+    "text": "D. $|\\vec{u}| = 2a$."
+  },
+  {
+    "bbox": [
+      76,
+      1952,
+      1157,
+      1999
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, mặt phẳng $(Oyz)$ có một vecto pháp tuyến là"
+  },
+  {
+    "bbox": [
+      125,
+      2026,
+      302,
+      2078
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_3 (1;1;1)$."
+  },
+  {
+    "bbox": [
+      476,
+      2026,
+      671,
+      2078
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2 (0;0;0)$."
+  },
+  {
+    "bbox": [
+      826,
+      2026,
+      1017,
+      2078
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_4 (1;0;0)$."
+  },
+  {
+    "bbox": [
+      1177,
+      2026,
+      1354,
+      2078
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_1 (0;1;1)$."
+  },
+  {
+    "bbox": [
+      76,
+      2106,
+      1495,
+      2249
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ trục tọa độ $Oxyz$, đường thẳng $d: \\frac{x-3}{1} = \\frac{y+2}{3} = \\frac{z-1}{2}$ đi qua điểm nào dưới đây?"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

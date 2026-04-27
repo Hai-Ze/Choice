@@ -1,0 +1,389 @@
+[
+  {
+    "bbox": [
+      140,
+      74,
+      661,
+      243
+    ],
+    "category": "Page-header",
+    "text": "SỞ GD & ĐT NGHỆ AN\nLIÊN TRƯỜNG THPT\nĐÔ LƯƠNG 3, PHAN ĐĂNG LƯU,\nYÊN THÀNH 2, TÂN KỲ"
+  },
+  {
+    "bbox": [
+      698,
+      74,
+      1500,
+      162
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ KSCL HỌC SINH LỚP 12 KẾT HỢP THI THỬ TN\nĐỢT 1, NĂM HỌC 2025-2026"
+  },
+  {
+    "bbox": [
+      1038,
+      199,
+      1241,
+      240
+    ],
+    "category": "Page-header",
+    "text": "MÔN: TOÁN"
+  },
+  {
+    "bbox": [
+      765,
+      240,
+      1510,
+      286
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút (không kể thời gian phát đề)"
+  },
+  {
+    "bbox": [
+      153,
+      368,
+      1512,
+      409
+    ],
+    "category": "Text",
+    "text": "Họ và tên: .................................................................................... Số báo danh: ....... Mã đề 0102"
+  },
+  {
+    "bbox": [
+      153,
+      411,
+      1575,
+      495
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn, gồm 12 câu, tổng 3,0 điểm. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. (Mối câu đúng 0,25 điểm)**"
+  },
+  {
+    "bbox": [
+      153,
+      499,
+      674,
+      545
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Đạo hàm của hàm số $y = 2^x$ là:"
+  },
+  {
+    "bbox": [
+      192,
+      556,
+      374,
+      635
+    ],
+    "category": "List-item",
+    "text": "A. $y' = \\frac{2^x}{\\ln 2}$."
+  },
+  {
+    "bbox": [
+      556,
+      565,
+      776,
+      612
+    ],
+    "category": "List-item",
+    "text": "B. $y' = -2^x \\ln 2$."
+  },
+  {
+    "bbox": [
+      920,
+      565,
+      1129,
+      612
+    ],
+    "category": "List-item",
+    "text": "C. $y' = 2^x \\ln 2$."
+  },
+  {
+    "bbox": [
+      1284,
+      556,
+      1465,
+      635
+    ],
+    "category": "List-item",
+    "text": "D. $y' = \\frac{-2^x}{\\ln 2}$."
+  },
+  {
+    "bbox": [
+      153,
+      643,
+      1292,
+      725
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Tiệm cận đứng của đồ thị hàm số $y = \\frac{5}{x-2}$ là đường thẳng có phương trình ?"
+  },
+  {
+    "bbox": [
+      192,
+      732,
+      315,
+      770
+    ],
+    "category": "List-item",
+    "text": "A. $y = 0$."
+  },
+  {
+    "bbox": [
+      556,
+      732,
+      679,
+      767
+    ],
+    "category": "List-item",
+    "text": "B. $x = 5$."
+  },
+  {
+    "bbox": [
+      920,
+      732,
+      1059,
+      770
+    ],
+    "category": "List-item",
+    "text": "C. $y = 2$."
+  },
+  {
+    "bbox": [
+      1284,
+      732,
+      1407,
+      767
+    ],
+    "category": "List-item",
+    "text": "D. $x = 2$."
+  },
+  {
+    "bbox": [
+      153,
+      780,
+      1440,
+      828
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ bên. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      390,
+      830,
+      1350,
+      1084
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1127,
+      387,
+      1178
+    ],
+    "category": "List-item",
+    "text": "A. $\\min_{\\mathbb{R}} y = 4$."
+  },
+  {
+    "bbox": [
+      556,
+      1124,
+      719,
+      1167
+    ],
+    "category": "List-item",
+    "text": "B. $y_{CĐ} = 5$."
+  },
+  {
+    "bbox": [
+      920,
+      1124,
+      1083,
+      1167
+    ],
+    "category": "List-item",
+    "text": "C. $y_{CT} = 0$."
+  },
+  {
+    "bbox": [
+      1284,
+      1127,
+      1483,
+      1178
+    ],
+    "category": "List-item",
+    "text": "D. $\\max_{\\mathbb{R}} y = 5$."
+  },
+  {
+    "bbox": [
+      153,
+      1192,
+      1139,
+      1244
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tìm công sai $d$ của cấp số cộng $(u_n)$, $n \\in \\mathbb{N}^*$ có $u_1 = 1$; $u_4 = 16$."
+  },
+  {
+    "bbox": [
+      192,
+      1257,
+      315,
+      1309
+    ],
+    "category": "List-item",
+    "text": "A. $d = 5$."
+  },
+  {
+    "bbox": [
+      556,
+      1257,
+      693,
+      1334
+    ],
+    "category": "List-item",
+    "text": "B. $d = \\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      920,
+      1272,
+      1041,
+      1309
+    ],
+    "category": "List-item",
+    "text": "C. $d = 3$."
+  },
+  {
+    "bbox": [
+      1284,
+      1257,
+      1421,
+      1334
+    ],
+    "category": "List-item",
+    "text": "D. $d = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      1336,
+      1043,
+      1381
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Đường cong trong hình dưới đây là đồ thị của hàm số nào?"
+  },
+  {
+    "bbox": [
+      795,
+      1379,
+      1066,
+      1695
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1702,
+      475,
+      1747
+    ],
+    "category": "List-item",
+    "text": "A. $y = -x^3 + 3x^2 - 4$."
+  },
+  {
+    "bbox": [
+      556,
+      1702,
+      837,
+      1747
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x^3 + 2x^2 - 1$."
+  },
+  {
+    "bbox": [
+      920,
+      1702,
+      1199,
+      1747
+    ],
+    "category": "List-item",
+    "text": "C. $y = -x^3 + 3x^2 + 1$."
+  },
+  {
+    "bbox": [
+      1284,
+      1702,
+      1535,
+      1747
+    ],
+    "category": "List-item",
+    "text": "D. $y = x^3 - 3x^2 + 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1755,
+      1083,
+      1798
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình lập phương ABCDA'B'C'D'. Hãy chọn kết luận **Sai**"
+  },
+  {
+    "bbox": [
+      677,
+      1802,
+      1045,
+      2117
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2132,
+      475,
+      2177
+    ],
+    "category": "List-item",
+    "text": "A. $CC' \\parallel (ABB'A')$."
+  },
+  {
+    "bbox": [
+      920,
+      2132,
+      1211,
+      2177
+    ],
+    "category": "List-item",
+    "text": "B. $A'B \\parallel (CDD'C')$."
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      556,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1424,
+      2236,
+      1572,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6/40"
+  }
+]

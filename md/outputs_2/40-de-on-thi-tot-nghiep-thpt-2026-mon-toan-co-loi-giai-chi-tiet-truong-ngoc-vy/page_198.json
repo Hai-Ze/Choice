@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1572,
+      195
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      1572,
+      323
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ có đạo hàm $y = f'(x)$ liên tục trên $\\mathbb{R}$ và đồ thị hàm số $f'(x)$ như hình vẽ bên."
+  },
+  {
+    "bbox": [
+      645,
+      345,
+      1072,
+      678
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      694,
+      557,
+      739
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có hai điểm cực trị"
+  },
+  {
+    "bbox": [
+      155,
+      757,
+      857,
+      808
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ đồng biến trên khoảng $(1; +\\infty)$"
+  },
+  {
+    "bbox": [
+      155,
+      835,
+      471,
+      884
+    ],
+    "category": "List-item",
+    "text": "c) $f(1) > f(2) > f(4)$"
+  },
+  {
+    "bbox": [
+      155,
+      908,
+      937,
+      959
+    ],
+    "category": "List-item",
+    "text": "d) Trên đoạn $[1;4]$ thì giá trị lớn nhất của hàm số là $f(1)$."
+  },
+  {
+    "bbox": [
+      155,
+      977,
+      1572,
+      1140
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong một lô sản phẩm có 3集合 loại I và 5集合 loại II. Biết rằng trong mỗi集合 loại I có 97 sản phẩm tốt và 3 phế phẩm, trong mỗi集合 loại II có 95 sản phẩm tốt và 5 phế phẩm. Lấy ngẫu nhiên từ lô sản phẩm đó một集合, rồi từ集合 đó lấy ra ngẫu nhiên đồng thời hai sản phẩm."
+  },
+  {
+    "bbox": [
+      155,
+      1159,
+      847,
+      1239
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để集合 được chọn là集合 loại I bằng $\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      155,
+      1264,
+      1562,
+      1346
+    ],
+    "category": "List-item",
+    "text": "b) Nếu集合 được lấy ra là集合 loại I thì xác suất để cả hai sản phẩm lấy ra không có phế phẩm bằng $\\frac{776}{825}$."
+  },
+  {
+    "bbox": [
+      155,
+      1370,
+      1095,
+      1452
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để cả hai sản phẩm lấy ra không có phế phẩm bằng $\\frac{1833}{2000}$."
+  },
+  {
+    "bbox": [
+      155,
+      1467,
+      1572,
+      1616
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng trong hai sản phẩm lấy ra có đúng một phế phẩm, xác suất để集合 lấy ra là集合 loại I bằng $\\frac{203}{2475}$."
+  },
+  {
+    "bbox": [
+      155,
+      1634,
+      1572,
+      1812
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một vật đang ở nhiệt độ $100^\\circ\\text{C}$ thì được đặt vào môi trường $X$ có nhiệt độ $35^\\circ\\text{C}$. Kể từ đó, nhiệt độ của vật giảm theo tốc độ $T'(t) = -130 \\cdot e^{-2t}$ ($\\text{C/phút}$), trong đó $T(t)$ là nhiệt độ tính theo $^\\circ\\text{C}$ tại thời điểm $t$ phút kể từ khi được đặt trong môi trường $X$. Khi đó:"
+  },
+  {
+    "bbox": [
+      155,
+      1831,
+      1005,
+      1928
+    ],
+    "category": "List-item",
+    "text": "a) Nhiệt độ của vật tại thời điểm $t = 2$ phút là $T(t) = \\int_{0}^{2} T'(t)dt$."
+  },
+  {
+    "bbox": [
+      155,
+      1948,
+      906,
+      1994
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ giảm nhiệt độ của vật tăng dẫn theo thời gian."
+  },
+  {
+    "bbox": [
+      155,
+      2013,
+      637,
+      2110
+    ],
+    "category": "List-item",
+    "text": "c) $T(t) = \\int_{0}^{2} T'(t)dt$ với $T(0) = 100$."
+  },
+  {
+    "bbox": [
+      155,
+      2135,
+      457,
+      2184
+    ],
+    "category": "List-item",
+    "text": "d) $T(t) = 65 \\cdot e^{-2t} + 35$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

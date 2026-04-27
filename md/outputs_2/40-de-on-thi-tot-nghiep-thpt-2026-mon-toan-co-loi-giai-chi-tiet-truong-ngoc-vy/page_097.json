@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      97,
+      1502,
+      236
+    ],
+    "category": "Text",
+    "text": "Do khoảng cách từ $D$ đến $(A'BC)$ là $\\frac{2}{5}$ nên ta có $\\frac{|2c \\cdot \\frac{1}{2} + c|}{\\sqrt{4c^2 + 1}} = \\frac{2}{5} \\Rightarrow 25 \\cdot 4c^2 = 4(4c^2 + 1) \\Leftrightarrow c = \\frac{1}{\\sqrt{21}}$."
+  },
+  {
+    "bbox": [
+      155,
+      260,
+      424,
+      352
+    ],
+    "category": "Text",
+    "text": "Vậy $A'\\left(0;0;\\frac{1}{\\sqrt{21}}\\right)$."
+  },
+  {
+    "bbox": [
+      155,
+      379,
+      958,
+      471
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{A'B} = \\left(-\\frac{1}{2};0; -\\frac{1}{\\sqrt{21}}\\right)$; $\\overrightarrow{AC} = (-1;2;0)$; $\\overrightarrow{BC} = (0;2;0)$."
+  },
+  {
+    "bbox": [
+      155,
+      498,
+      882,
+      632
+    ],
+    "category": "Text",
+    "text": "Khi đó $d(A'B, AC) = \\frac{|[\\overrightarrow{A'B}, \\overrightarrow{AC}] \\cdot \\overrightarrow{BC}|}{|[\\overrightarrow{A'B}, \\overrightarrow{AC}]|} = \\frac{\\sqrt{26}}{13} \\approx 0,39$."
+  },
+  {
+    "bbox": [
+      155,
+      652,
+      1575,
+      873
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một集合 chứa 10 viên bi xanh và 5 viên bi đỏ. Bạn An lấy ra ngẫu nhiên 1 viên bi từ集合, xem màu, rồi bỏ ra ngoài. Nếu viên bi An lấy ra có màu xanh, bạn Bình sẽ lấy ra ngẫu nhiên 2 viên bi từ集合; còn nếu viên bi An lấy ra có màu đỏ, bạn Bình sẽ lấy ra ngẫu nhiên 3 viên bi từ集合. Tính xác suất để An lấy được viên bi màu xanh, biết rằng tất cả các viên bi được hai bạn chọn ra đều có đủ cả hai màu."
+  },
+  {
+    "bbox": [
+      155,
+      890,
+      493,
+      927
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      949,
+      924,
+      988
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1007,
+      347,
+      1046
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,55"
+  },
+  {
+    "bbox": [
+      155,
+      1065,
+      769,
+      1110
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: An lấy ra viên bi màu xanh"
+  },
+  {
+    "bbox": [
+      155,
+      1130,
+      1076,
+      1212
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\{A, \\bar{A}\\}$ là một hệ đầy đủ các biến cố với $P(A) = \\frac{2}{3}$; $P(\\bar{A}) = \\frac{1}{3}$"
+  },
+  {
+    "bbox": [
+      155,
+      1229,
+      1219,
+      1275
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố: tất cả các viên bi được hai bạn chọn ra đều có đủ cả hai màu"
+  },
+  {
+    "bbox": [
+      155,
+      1287,
+      1277,
+      1334
+    ],
+    "category": "Text",
+    "text": "Ta có $P(B|A) = \\text{Xác suất 2 viên bi Bình lấy ra có ít nhất một viên bi màu đỏ, do đó}$"
+  },
+  {
+    "bbox": [
+      162,
+      1358,
+      490,
+      1453
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{C_{14}^2 - C_9^2}{C_{14}^2} = \\frac{55}{91}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1475,
+      1359,
+      1523
+    ],
+    "category": "Text",
+    "text": "Tương tự $P(B|\\bar{A}) = \\text{Xác suất 3 viên bi Bình lấy ra có ít nhất một viên bi màu xanh, do đó}$"
+  },
+  {
+    "bbox": [
+      162,
+      1548,
+      490,
+      1643
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|\\bar{A}) = \\frac{C_{14}^3 - C_4^3}{C_{14}^3} = \\frac{90}{91}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1660,
+      702,
+      1707
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất Bayes, ta có"
+  },
+  {
+    "bbox": [
+      162,
+      1725,
+      1112,
+      1889
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A})} = \\frac{\\frac{2}{3} \\cdot \\frac{55}{91}}{\\frac{2}{3} \\cdot \\frac{55}{91} + \\frac{1}{3} \\cdot \\frac{90}{91}} = \\frac{11}{20} = 0,55.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

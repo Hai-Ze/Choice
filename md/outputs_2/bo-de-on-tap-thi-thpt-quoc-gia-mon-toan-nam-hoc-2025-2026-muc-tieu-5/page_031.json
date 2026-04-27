@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      153,
+      141,
+      1546,
+      226
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một cơ sở sản xuất hàng thủ công thống kê về số lượng sản phẩm $X$ bán được trong 30 ngày như sau:"
+  },
+  {
+    "bbox": [
+      276,
+      231,
+      1423,
+      347
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số lượng sản phẩm</td><td>[100; 140)</td><td>[140; 180)</td><td>[180; 220)</td><td>[220; 260)</td><td>[260; 300)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>12</td><td>6</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      189,
+      373,
+      941,
+      414
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu đã cho là 200."
+  },
+  {
+    "bbox": [
+      189,
+      429,
+      930,
+      470
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng tức phân vị của mẫu số liệu đã cho là 60."
+  },
+  {
+    "bbox": [
+      189,
+      483,
+      1063,
+      525
+    ],
+    "category": "List-item",
+    "text": "c) Trung bình số sản phẩm bán được trong một ngày là 220."
+  },
+  {
+    "bbox": [
+      189,
+      540,
+      854,
+      581
+    ],
+    "category": "List-item",
+    "text": "d) Phương sai của mẫu số liệu đã cho là 1920."
+  },
+  {
+    "bbox": [
+      153,
+      603,
+      1080,
+      642
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hàm số $y = x^3 - 3x^2 + 5$ có đồ thị là ($C$). Khi đó:"
+  },
+  {
+    "bbox": [
+      189,
+      662,
+      895,
+      703
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho nghịch biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      189,
+      718,
+      737,
+      758
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đã cho có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      189,
+      773,
+      1165,
+      814
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị nhỏ nhất của hàm số đã cho trên khoảng $(0; +\\infty)$ bằng 2."
+  },
+  {
+    "bbox": [
+      189,
+      827,
+      1546,
+      913
+    ],
+    "category": "List-item",
+    "text": "d) Tiếp tuyến của đồ thị ($C$) tại điểm có hoành độ bằng 1 là đường thẳng có phương trình $y = -3x + 3$."
+  },
+  {
+    "bbox": [
+      153,
+      931,
+      1546,
+      1019
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho hình chóp đều $S.ABCD$ có $SA = AB = 4\\sqrt{2}$. Gọi $M$ là trung điểm của $AB$, $G$ là trọng tâm tam giác $SAB$."
+  },
+  {
+    "bbox": [
+      189,
+      1030,
+      562,
+      1079
+    ],
+    "category": "Formula",
+    "text": "a) $\\overrightarrow{SA} + \\overrightarrow{SB} = \\overrightarrow{SC} + \\overrightarrow{SD}$."
+  },
+  {
+    "bbox": [
+      189,
+      1084,
+      555,
+      1135
+    ],
+    "category": "Formula",
+    "text": "b) $\\overrightarrow{DS} = -2\\overrightarrow{DM} + 3\\overrightarrow{DG}$."
+  },
+  {
+    "bbox": [
+      189,
+      1150,
+      1546,
+      1278
+    ],
+    "category": "List-item",
+    "text": "c) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Diểm $E(a; b; c)$ thuộc mặt phẳng ($SBD$) sao cho $C, E, G$ thẳng hàng thì $a + b + c = 2$."
+  },
+  {
+    "bbox": [
+      189,
+      1295,
+      1546,
+      1424
+    ],
+    "category": "List-item",
+    "text": "d) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Diểm $F(x; y; z)$ thuộc mặt phẳng ($SAC$) sao cho $FG + FB$ nhỏ nhất thì $x + y + z = -1$."
+  },
+  {
+    "bbox": [
+      153,
+      1445,
+      1546,
+      1738
+    ],
+    "category": "Text",
+    "text": "Bài 4. Tại một khu bảo tồn thiên nhiên các nhà khoa học đã thả một số cá thể của một loài động vật quý hiếu trong một khu rừng rộng 10 hecta và theo dõi sự tăng trưởng số lượng của chúng. They thấy rằng số lượng cá thể của loài động vật đó sau $t$ năm kể từ khi nuôi tại khu bảo tồn được xấp xỉ bởi hàm số $h(t) = 70 \\log_2 \\left( \\frac{8t + 1}{t + 1} \\right) + 30$ (cá thể, $t$ là số thực dương) và tốc độ tăng trưởng số lượng cá thể của loài động vật đó tại thời điểm sau đúng $t$ năm kể từ khi nuôi được xấp xỉ bởi hàm số $h'(t)$ (đơn vị: cá thể/năm)."
+  },
+  {
+    "bbox": [
+      189,
+      1755,
+      926,
+      1796
+    ],
+    "category": "List-item",
+    "text": "a) Thời điểm ban đầu, người ta thả nuôi 30 cá thể."
+  },
+  {
+    "bbox": [
+      189,
+      1811,
+      1377,
+      1852
+    ],
+    "category": "List-item",
+    "text": "b) Sau 9 tháng kể từ khi bắt đầu nuôi, số lượng cá thể của loài động vật đó là 170."
+  },
+  {
+    "bbox": [
+      189,
+      1867,
+      1546,
+      1959
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ tăng trưởng số lượng cá thể của loài động vật đó tại thời điểm đúng 6 năm kể từ khi nuôi là $\\frac{10}{7}$ (cá thể/năm)."
+  },
+  {
+    "bbox": [
+      189,
+      1966,
+      1061,
+      2007
+    ],
+    "category": "List-item",
+    "text": "d) Số lượng cá thể của loài động vật đó không vượt quá 240."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2250,
+      1585,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "31"
+  }
+]

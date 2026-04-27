@@ -1,0 +1,91 @@
+[
+  {
+    "bbox": [
+      242,
+      102,
+      806,
+      200
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(B|A) \\cdot P(A)}{P(B)} = \\frac{0,95 \\cdot 0,05}{0,1425} = \\frac{1}{3}\n$$"
+  },
+  {
+    "bbox": [
+      197,
+      247,
+      1645,
+      520
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một sân vận động với sân bóng phẳng hình chữ nhật có chấm trắng trung tâm là nơi giao bóng, một đường kẻ vạch chia pair sân và các khán đài. Khán đài A gồm những dãy ghế nằm vuông góc với vạch chia pair sân có độ cao tăng dẫn (các ghế cùng hàng thì cùng độ cao so với mặt sân). Chọn hệ trục tọa độ $Oxyz$ sao cho $O$ trùng với điểm giao bóng, mặt phẳng $Oxy$ trùng với mặt sân, trục $Ox$ trùng với vạch chia pair sân, tia $Oz$ vuông góc với mặt sân (đơn vị đo lấy theo mét)."
+  },
+  {
+    "bbox": [
+      335,
+      561,
+      1645,
+      855
+    ],
+    "category": "Text",
+    "text": "Một khán giả ngồi tại vị trí $M$ của khán đài A, có hình chiếu vuông góc lên mặt phẳng chứa sân là một điểm thuộc $Ox$. Góc hợp bởi $OM$ và mặt sân là $\\alpha$ với $\\sin \\alpha = \\frac{1}{3}$, nếu người này di chuyển 10 (m) trên hàng ngang đó đến ngồi tại một vị trí $N$ thì góc hợp bởi $ON$ và mặt sân là $\\beta$ với $\\sin \\beta = \\frac{\\sqrt{10}}{10}$. Gọi $h(m)$ là độ cao tại $M$ so với mặt sân."
+  },
+  {
+    "bbox": [
+      678,
+      874,
+      1345,
+      1368
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      335,
+      1406,
+      762,
+      1451
+    ],
+    "category": "List-item",
+    "text": "a)úp $M$ có cao độ bằng 0."
+  },
+  {
+    "bbox": [
+      335,
+      1481,
+      524,
+      1521
+    ],
+    "category": "List-item",
+    "text": "b) $OM = 3h$."
+  },
+  {
+    "bbox": [
+      335,
+      1546,
+      917,
+      1591
+    ],
+    "category": "List-item",
+    "text": "c)úp $N$ có cùng tung độ với điểm $M$."
+  },
+  {
+    "bbox": [
+      335,
+      1599,
+      509,
+      1639
+    ],
+    "category": "List-item",
+    "text": "d) $h = 10m$."
+  },
+  {
+    "bbox": [
+      933,
+      1668,
+      1047,
+      1707
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

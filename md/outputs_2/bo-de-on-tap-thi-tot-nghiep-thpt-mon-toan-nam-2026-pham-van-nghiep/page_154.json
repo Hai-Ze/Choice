@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      1482,
+      158
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình là tam giác $ABC$ với $A(9;6)$, $B(15;0)$, $C(18;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      168,
+      973,
+      215
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } F(9;6) = 1140, \\quad F(15;0) = 900, \\quad F(18;0) = 1080.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      224,
+      1461,
+      268
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền lớn nhất thu được ứng làm 9 bó hoa nhỏ, 6 bó hoa to là 1140 nghìn đồng."
+  },
+  {
+    "bbox": [
+      74,
+      270,
+      1535,
+      402
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Hướng ứng chính sách hiện đại hóa nông thôn, người dân ở khu phố A đồng lòng cùng nhau góp tiền đổ bê tông một đường đi trong khu phố (phần được tô đâm trong hình vẽ). Biết rằng khi chọn hệ trục tọa độ $Oxy$ với đơn vị độ dài trên mỗi trục tọa độ là 10 m, các"
+  },
+  {
+    "bbox": [
+      212,
+      415,
+      1561,
+      642
+    ],
+    "category": "Text",
+    "text": "đường cong $AB, CD$ là mép đường được cho bởi đồ thị hàm số $f(x) = \\frac{1}{32}x^3 - \\frac{3}{8}x + \\frac{3}{2}$ và $g(x) = \\frac{1}{32}x^3 - \\frac{5}{8}x + \\frac{1}{2}$, đồng thời lớp bê tông được đổ dày 16 cm và giá tiền $1 \\text{ m}^3$ bê tông là 1 080 000 đồng."
+  },
+  {
+    "bbox": [
+      608,
+      636,
+      1038,
+      1088
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1092,
+      1508,
+      1181
+    ],
+    "category": "Text",
+    "text": "Tính số tiền (đơn vị triệu đồng) cần dùng để đổ bê tông con đường đó (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      765,
+      1184,
+      884,
+      1225
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      1227,
+      370,
+      1268
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 253"
+  },
+  {
+    "bbox": [
+      193,
+      1271,
+      1151,
+      1316
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng được giới hạn bởi 2 đường cong $AB, CD$ là:"
+  },
+  {
+    "bbox": [
+      198,
+      1319,
+      484,
+      1409
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{-2}^{7} \\left( \\frac{1}{4}x + 1 \\right) dx = \\frac{117}{8}.\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1413,
+      1234,
+      1459
+    ],
+    "category": "Text",
+    "text": "Vì đơn vị trên mỗi trục là $10m$ nên diện tích phần đổ bê tông thực tế là:"
+  },
+  {
+    "bbox": [
+      198,
+      1461,
+      501,
+      1541
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{117}{8} \\cdot 100 = \\frac{2925}{2} (m^2).\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1548,
+      842,
+      1590
+    ],
+    "category": "Text",
+    "text": "Thể tích của bê tông để đổ con度量 đó là:"
+  },
+  {
+    "bbox": [
+      198,
+      1594,
+      507,
+      1674
+    ],
+    "category": "Formula",
+    "text": "$$\n0,16 \\cdot \\frac{2925}{2} = 234 (m^3).\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1680,
+      695,
+      1723
+    ],
+    "category": "Text",
+    "text": "Số tiền cần dùng để đổ bê tông là:"
+  },
+  {
+    "bbox": [
+      198,
+      1727,
+      826,
+      1769
+    ],
+    "category": "Formula",
+    "text": "$$\n1080000 \\cdot 234 = 252720000 \\approx 253 (triệu đồng).\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1771,
+      1576,
+      2060
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Một nhà máy sản xuất không quá 200 sản phẩm trong mỗi tháng. Chi phí sản xuất $x$ sản phẩm ($1 \\le x \\le 200$) được cho bởi hàm chi phí $C(x) = 20000 + 800x - 3,6x^2 + 0,004x^3$ (nghìn đồng). Biết giá bán của mỗi sản phẩm là một hàm số phụ thuộc vào số lượng sản phẩm $x$ và được cho bởi công thức $p(x) = 2000 - 9x$ (nghìn đồng). Hỏi mỗi tháng nhà máy sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất? Biết rằng khảo sát thị trường cho thấy sản phẩm sản xuất ra sẽ được tiêu punh hết."
+  },
+  {
+    "bbox": [
+      833,
+      2063,
+      952,
+      2104
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      2107,
+      381,
+      2149
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 100."
+  },
+  {
+    "bbox": [
+      193,
+      2152,
+      1120,
+      2197
+    ],
+    "category": "Text",
+    "text": "Giá bán của $x$ sản phẩm là: $x \\cdot p(x) = 2000x - 9x^2$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

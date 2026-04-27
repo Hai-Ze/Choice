@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      153,
+      132,
+      1225,
+      215
+    ],
+    "category": "Text",
+    "text": "21 < 22,5). Ta có $Q_3 = 175 + \\left(\\frac{22,5 - 21}{7}\\right) \\cdot 15 = 175 + \\frac{1,5}{7} \\cdot 15 \\approx 178,21$."
+  },
+  {
+    "bbox": [
+      153,
+      230,
+      1547,
+      319
+    ],
+    "category": "Text",
+    "text": "Câu 5. Trong không gian $Oxyz$, đường thẳng đi qua điểm $M(1; 3; -2)$ và nhận vecto $\\vec{u} = (1; -1; 5)$ làm vecto chỉ phương có phương trình tham số là:"
+  },
+  {
+    "bbox": [
+      188,
+      330,
+      492,
+      658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{A} \\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 - 2t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      330,
+      1177,
+      658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{B} \\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 + 2t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      553,
+      492,
+      658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{C} \\begin{cases} x = 1 + t \\\\ y = 3 - t \\\\ z = -2 + 5t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      553,
+      1177,
+      658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{D} \\begin{cases} x = 1 + t \\\\ y = 3 + t \\\\ z = -2 + 5t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      658,
+      1547,
+      883
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dường thẳng đi qua $M(1; 3; -2)$ và có VTCP $\\vec{u} = (1; -1; 5)$ có phương trình tham số: $\\begin{cases} x = 1 + t \\\\ y = 3 - t \\\\ z = -2 + 5t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      153,
+      898,
+      1547,
+      985
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ. Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      532,
+      989,
+      1163,
+      1278
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$+$</td><td></td></tr><tr><td>$f(x)$</td><td>1</td><td>3</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      191,
+      1361,
+      274,
+      1403
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      535,
+      1361,
+      617,
+      1403
+    ],
+    "category": "List-item",
+    "text": "B 1."
+  },
+  {
+    "bbox": [
+      879,
+      1361,
+      961,
+      1403
+    ],
+    "category": "List-item",
+    "text": "C 0."
+  },
+  {
+    "bbox": [
+      1224,
+      1361,
+      1304,
+      1403
+    ],
+    "category": "List-item",
+    "text": "D 2."
+  },
+  {
+    "bbox": [
+      153,
+      1418,
+      1547,
+      1522
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. - Tiệm cận ngang: $\\lim_{x \\to -\\infty} y = 1 \\Rightarrow y = 1$ là TCN; $\\lim_{x \\to +\\infty} y = 2 \\Rightarrow y = 2$ là TCN. - Tiệm cận đứng: $\\lim_{x \\to -1^+} y = -\\infty \\Rightarrow x = -1$ là TCĐ. Tổng cộng có 3 đường tiệm cận."
+  },
+  {
+    "bbox": [
+      153,
+      1541,
+      1002,
+      1594
+    ],
+    "category": "Text",
+    "text": "Câu 7. Tập nghiệm của bất phương trình $\\log_{\\frac{2}{3}} x > 2$ là:"
+  },
+  {
+    "bbox": [
+      191,
+      1605,
+      337,
+      1655
+    ],
+    "category": "List-item",
+    "text": "A $(0; \\frac{4}{9})$."
+  },
+  {
+    "bbox": [
+      535,
+      1605,
+      745,
+      1655
+    ],
+    "category": "List-item",
+    "text": "B $(-\\infty; \\sqrt[3]{4})$."
+  },
+  {
+    "bbox": [
+      879,
+      1605,
+      1085,
+      1655
+    ],
+    "category": "List-item",
+    "text": "C $(\\sqrt[3]{4}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1605,
+      1410,
+      1655
+    ],
+    "category": "List-item",
+    "text": "D $(-\\infty; \\frac{4}{9})$."
+  },
+  {
+    "bbox": [
+      153,
+      1664,
+      1547,
+      1830
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Điều kiện: $x > 0$. Vì cơ số $0 < \\frac{2}{3} < 1$ nên $\\log_{\\frac{2}{3}} x > 2 \\Leftrightarrow x < \\left(\\frac{2}{3}\\right)^2 \\Leftrightarrow x < \\frac{4}{9}$. Kết hợp điều kiện, tập nghiệm là $(0; \\frac{4}{9})$."
+  },
+  {
+    "bbox": [
+      153,
+      1847,
+      1547,
+      1932
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian $Oxyz$, mặt phẳng ($P$) : $x - 3y + z - 5 = 0$ có một vecto pháp tuyến là:"
+  },
+  {
+    "bbox": [
+      191,
+      1953,
+      479,
+      1995
+    ],
+    "category": "List-item",
+    "text": "A $\\vec{n} = (1; -3; -4)$."
+  },
+  {
+    "bbox": [
+      875,
+      1953,
+      1139,
+      1995
+    ],
+    "category": "List-item",
+    "text": "B $\\vec{n} = (1; -3; 1)$."
+  },
+  {
+    "bbox": [
+      191,
+      1999,
+      427,
+      2041
+    ],
+    "category": "List-item",
+    "text": "C $\\vec{n} = (1; 3; 1)$."
+  },
+  {
+    "bbox": [
+      875,
+      1999,
+      1163,
+      2041
+    ],
+    "category": "List-item",
+    "text": "D $\\vec{n} = (-1; -3; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      2045,
+      1547,
+      2143
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vecto pháp tuyến của mặt phẳng $ax + by + cz + d = 0$ là $\\vec{n} = (a; b; c)$. Ở đây $\\vec{n} = (1; -3; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      2162,
+      1547,
+      2204
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$, $ABCD$ là hình chữ nhật tâm $O$. Gọi $I$ là"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      829,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1560,
+      2250,
+      1599,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "59"
+  }
+]

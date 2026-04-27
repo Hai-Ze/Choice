@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      192,
+      81,
+      1060,
+      128
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ của khinh khí cầu thứ nhất lúc 9 h sáng là $A(2;1;0,5)$."
+  },
+  {
+    "bbox": [
+      192,
+      135,
+      1113,
+      179
+    ],
+    "category": "Text",
+    "text": "b) Lúc 9 h sáng, khinh khí cầu thứ hai cách vị trí xuất phát hơn 2km."
+  },
+  {
+    "bbox": [
+      192,
+      177,
+      1540,
+      222
+    ],
+    "category": "Text",
+    "text": "c) Lúc 9 h sáng, khoảng cách giữa hai chiếc khinh khí cầu là 3,92 km (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      153,
+      222,
+      1574,
+      410
+    ],
+    "category": "Text",
+    "text": "d) Từ 9 h sáng đến 9 h 10' sáng, khinh khí cầu thứ nhất đi thẳng về hướng Nam với vận tốc 50 km/h và độ cao không đổi để đến điểm $M$, khinh khí cầu thứ hai chuyển động thẳng đến điểm $N$ với vận tốc 60 km/h, biết vecto $\\overline{BN}$ cùng hướng với vecto $\\vec{u}(2;2;1)$. Bó qua lực cản của god, khoảng cách $MN$ là 4,66 km (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      826,
+      416,
+      939,
+      454
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      192,
+      454,
+      325,
+      492
+    ],
+    "category": "Text",
+    "text": "(a) Đúng."
+  },
+  {
+    "bbox": [
+      192,
+      492,
+      1127,
+      541
+    ],
+    "category": "Text",
+    "text": "Vị trí của khinh khí cầu thứ nhất lúc 9 giờ sáng là $A(x_A, y_A, z_A)$, biết:"
+  },
+  {
+    "bbox": [
+      192,
+      546,
+      947,
+      594
+    ],
+    "category": "Text",
+    "text": "+) $A$ cách điểm xuất phát 2 km về phía Nam $\\Rightarrow x_A = 2$."
+  },
+  {
+    "bbox": [
+      192,
+      602,
+      634,
+      648
+    ],
+    "category": "Text",
+    "text": "+) 1 km về phía Đông $\\Rightarrow y_A = 1$."
+  },
+  {
+    "bbox": [
+      192,
+      654,
+      686,
+      700
+    ],
+    "category": "Text",
+    "text": "+) cách mặt đất 0,5 km $\\Rightarrow z_A = 0,5$."
+  },
+  {
+    "bbox": [
+      192,
+      710,
+      422,
+      756
+    ],
+    "category": "Text",
+    "text": "Vậy $A(2;1;0,5)$."
+  },
+  {
+    "bbox": [
+      192,
+      763,
+      295,
+      801
+    ],
+    "category": "Text",
+    "text": "(b) Sai."
+  },
+  {
+    "bbox": [
+      192,
+      801,
+      1038,
+      894
+    ],
+    "category": "Text",
+    "text": "Dựa vào giả thiết, ta có $B(-1;-1,5;0,8)$. $\\Rightarrow OB = \\frac{\\sqrt{389}}{10} \\approx 1,97$"
+  },
+  {
+    "bbox": [
+      192,
+      900,
+      327,
+      939
+    ],
+    "category": "Text",
+    "text": "(c) Đúng."
+  },
+  {
+    "bbox": [
+      192,
+      943,
+      1528,
+      1000
+    ],
+    "category": "Text",
+    "text": "Lúc 9 giờ sáng, khoảng cách giữa hai kinh khí cầu bằng $AB = \\sqrt{(-3)^2 + (-2,5)^2 + 0,3^2} \\approx 3,92$ (km)."
+  },
+  {
+    "bbox": [
+      192,
+      1009,
+      295,
+      1047
+    ],
+    "category": "Text",
+    "text": "(d) Sai."
+  },
+  {
+    "bbox": [
+      192,
+      1047,
+      1514,
+      1095
+    ],
+    "category": "Text",
+    "text": "Để tính được khoảng cách $MN$, ta cần tìm được toạ độ của điểm $M$ và $N$ lúc 9 giờ 10 phút sáng."
+  },
+  {
+    "bbox": [
+      192,
+      1097,
+      597,
+      1146
+    ],
+    "category": "Text",
+    "text": "+) Tìm điểm $M(x_M, y_M, z_M)$:"
+  },
+  {
+    "bbox": [
+      153,
+      1146,
+      1574,
+      1240
+    ],
+    "category": "Text",
+    "text": "Ta có khinh khí cầu thứ nhất đi chuyển thẳng đều về phía Nam (tức tung độ của khinh khí cầu không đổi $\\Leftrightarrow y_M = 1$) với vận tốc 50 km/h suy ra từ 9 giờ sáng đến 9 giờ 10 phút sáng, khinh khí cầu đi được"
+  },
+  {
+    "bbox": [
+      158,
+      1250,
+      694,
+      1334
+    ],
+    "category": "Formula",
+    "text": "$$\n50 \\cdot \\frac{1}{6} = \\frac{25}{3} (\\text{km}) \\Rightarrow x_M = 2 + \\frac{25}{3} = \\frac{31}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1339,
+      662,
+      1383
+    ],
+    "category": "Text",
+    "text": "Và cao đội không đổi $\\Rightarrow z_M = 0,5$."
+  },
+  {
+    "bbox": [
+      192,
+      1394,
+      540,
+      1482
+    ],
+    "category": "Text",
+    "text": "Vậy điểm $M(\\frac{31}{3};1;0,5)$."
+  },
+  {
+    "bbox": [
+      192,
+      1491,
+      581,
+      1540
+    ],
+    "category": "Text",
+    "text": "+) Tim điểm $N(x_N, y_N, z_N)$:"
+  },
+  {
+    "bbox": [
+      192,
+      1552,
+      1209,
+      1604
+    ],
+    "category": "Text",
+    "text": "Vi vecto $\\overline{BN}$ cùng hướng với vecto $\\vec{u}(2;2;1)$, nên suy ra $\\overline{BN} = k \\cdot \\vec{u}(k > 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      1612,
+      1574,
+      1745
+    ],
+    "category": "Text",
+    "text": "Khinh khí cầu thứ hai chuyển động thẳng đều đến điểm $N$ với vận tốc 60 km/h, nên trong khoảng thời gian từ 9 giờ sáng đến 9 giờ 10 phút sáng khinh khí cầu đi được 1 đoạn $BN = 60 \\cdot \\frac{1}{6} = 10$"
+  },
+  {
+    "bbox": [
+      192,
+      1753,
+      1531,
+      1841
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow k\\sqrt{2^2 + 2^2 + 1^2} = 10 \\Leftrightarrow k = \\frac{10}{3}. \\overline{BN} = (x_N + 1; y_N + 1,5; z_N - 0,8) = \\left(\\frac{20}{3}; \\frac{20}{3}; \\frac{10}{3}\\right). N\\left(\\frac{17}{3}; \\frac{31}{6}; \\frac{62}{15}\\right)\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1851,
+      1002,
+      1954
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } MN = \\sqrt{\\left(\\frac{17}{3} - \\frac{31}{3}\\right)^2 + \\left(\\frac{31}{6} - 1\\right)^2 + \\left(\\frac{62}{15} - 0,5\\right)^2} \\approx 7,23.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1958,
+      1574,
+      2160
+    ],
+    "category": "Text",
+    "text": "Câu 3. Hai chất điểm chuyển độnglediềunhau thì xảy ra va chạm, hai chất điểm tiếp tục di chuyển theo chiều ban đầu thêm một quăng đường nữa thì停止hắn. Biết rằng sau khi va chạm, một chất điểm di chuyển tiếp với vận tốc $v_1(t) = 6 - 3t$ (m/s), chất điểm còn lại di chuyển với vận tốc $v_2(t) = 12 - 4t$ (m/s)."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      299,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1422,
+      2236,
+      1569,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7/13"
+  }
+]

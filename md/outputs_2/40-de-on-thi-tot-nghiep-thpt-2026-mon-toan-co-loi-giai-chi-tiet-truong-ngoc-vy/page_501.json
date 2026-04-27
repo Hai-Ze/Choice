@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      99,
+      921,
+      275
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } L = \\lim_{x \\to -\\infty} \\frac{2x+1}{x+1} = \\lim_{x \\to -\\infty} \\frac{x\\left(2+\\frac{1}{x}\\right)}{x\\left(1+\\frac{1}{x}\\right)} = \\lim_{x \\to -\\infty} \\frac{2+\\frac{1}{x}}{1+\\frac{1}{x}} = \\frac{2+0}{1+0} = 2.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      295,
+      836,
+      342
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tập xác định của hàm số $y = \\sin 5x + \\tan 2x$ là:"
+  },
+  {
+    "bbox": [
+      125,
+      365,
+      453,
+      454
+    ],
+    "category": "List-item",
+    "text": "A. $\\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      825,
+      365,
+      1153,
+      454
+    ],
+    "category": "List-item",
+    "text": "B. $\\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{4} + \\frac{k\\pi}{2} \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      125,
+      480,
+      470,
+      569
+    ],
+    "category": "List-item",
+    "text": "C. $\\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{2}(k+1) \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      825,
+      505,
+      905,
+      540
+    ],
+    "category": "List-item",
+    "text": "D. $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      727,
+      594,
+      843,
+      633
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      652,
+      196,
+      690
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      75,
+      703,
+      638,
+      749
+    ],
+    "category": "Text",
+    "text": "Ở đây $\\sin 5x$ xác định với mọi số thực $x$."
+  },
+  {
+    "bbox": [
+      75,
+      771,
+      1265,
+      852
+    ],
+    "category": "Text",
+    "text": "Nên ta đi tìm điều kiện cho $\\tan 2x$ xác định khi $2x \\neq \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\Leftrightarrow x \\neq \\frac{\\pi}{4} + \\frac{k\\pi}{2}, k \\in \\mathbb{Z}$"
+  },
+  {
+    "bbox": [
+      75,
+      876,
+      1211,
+      946
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Trên khoảng $(0; +\\infty)$, cho hàm số $f(x) = x^{\\frac{3}{2}}$. Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      973,
+      457,
+      1061
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x)dx = \\frac{3}{2}x^{\\frac{1}{2}} + C$."
+  },
+  {
+    "bbox": [
+      825,
+      985,
+      1143,
+      1049
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f(x)dx = \\int \\sqrt{x^3}dx$."
+  },
+  {
+    "bbox": [
+      125,
+      1084,
+      457,
+      1172
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x)dx = \\frac{2}{5}x^{\\frac{5}{2}} + C$."
+  },
+  {
+    "bbox": [
+      825,
+      1084,
+      1153,
+      1172
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f(x)dx = \\frac{2}{3}x^{\\frac{1}{2}} + C$."
+  },
+  {
+    "bbox": [
+      727,
+      1195,
+      843,
+      1234
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1254,
+      565,
+      1341
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\int f(x)dx = \\int x^{\\frac{3}{2}}dx = \\frac{2}{5}x^{\\frac{5}{2}} + C.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1357,
+      1495,
+      1462
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong buổi thực hành, một nhóm 20 học sinh dùng một thiết bị đo đường kính của một nhân tế报 cho kết quả như sau:"
+  },
+  {
+    "bbox": [
+      207,
+      1475,
+      1359,
+      1609
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Kết quả đo (µm)</td><td>[4,5;5)</td><td>[5;5,5)</td><td>[5,5;6)</td><td>[6;6,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>8</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1661,
+      1486,
+      1708
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả các phép tính làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      125,
+      1730,
+      250,
+      1765
+    ],
+    "category": "List-item",
+    "text": "A. 0,40."
+  },
+  {
+    "bbox": [
+      476,
+      1730,
+      593,
+      1765
+    ],
+    "category": "List-item",
+    "text": "B. 0,43."
+  },
+  {
+    "bbox": [
+      825,
+      1730,
+      949,
+      1765
+    ],
+    "category": "List-item",
+    "text": "C. 0,47."
+  },
+  {
+    "bbox": [
+      1177,
+      1730,
+      1302,
+      1765
+    ],
+    "category": "List-item",
+    "text": "D. 0,49."
+  },
+  {
+    "bbox": [
+      727,
+      1794,
+      843,
+      1833
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1852,
+      196,
+      1891
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      75,
+      1904,
+      654,
+      1951
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu ghép nhóm với giá trị đại diện:"
+  },
+  {
+    "bbox": [
+      207,
+      1964,
+      1359,
+      2158
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Kết quả đo (µm)</td><td>[4,5;5)</td><td>[5;5,5)</td><td>[5,5;6)</td><td>[6;6,5)</td></tr><tr><td>Giá trị đại diện</td><td>4,75</td><td>5,25</td><td>5,75</td><td>6,25</td></tr><tr><td>Số học sinh</td><td>3</td><td>8</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

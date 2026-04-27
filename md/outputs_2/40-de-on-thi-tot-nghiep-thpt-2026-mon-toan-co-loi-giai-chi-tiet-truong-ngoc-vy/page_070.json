@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      1495,
+      228
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x-2)^2 + (y+6)^2 + z^2 = 50$ có tâm $I$ và điểm $K(1;-3;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      254,
+      499,
+      302
+    ],
+    "category": "Text",
+    "text": "a) Điều $K$ thuộc mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      76,
+      328,
+      949,
+      377
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách từ tâm $I$ của mặt cầu $(S)$ đến điểm $K$ bằng 10."
+  },
+  {
+    "bbox": [
+      76,
+      403,
+      586,
+      455
+    ],
+    "category": "Text",
+    "text": "c) Mặt cầu $(S)$ có bán kính $R = 5\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      481,
+      1084,
+      536
+    ],
+    "category": "Text",
+    "text": "d) Gọi $M$ là điểm thuộc $(S)$ sao cho $\\widehat{KMI}$ lớn nhất. Khi đó $MK = 2\\sqrt{10}$."
+  },
+  {
+    "bbox": [
+      727,
+      562,
+      843,
+      601
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      616,
+      893,
+      737
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      798,
+      1039,
+      847
+    ],
+    "category": "Text",
+    "text": "a) Thay tọa độ điểm $K(1;-3;0)$ vào phương trình mặt cầu $(S)$ ta được:"
+  },
+  {
+    "bbox": [
+      79,
+      875,
+      622,
+      928
+    ],
+    "category": "Formula",
+    "text": "$$\n(1-2)^2 + (-3+6)^2 + 0^2 \\neq 50 \\Rightarrow K \\notin (S).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      954,
+      606,
+      1003
+    ],
+    "category": "Text",
+    "text": "b) Mặt cầu $(S)$ có tâm $I(2;-6;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      1029,
+      751,
+      1094
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } IK = \\sqrt{(1-2)^2 + (-3+6)^2 + (0-0)^2} = \\sqrt{10}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1118,
+      680,
+      1171
+    ],
+    "category": "Text",
+    "text": "c) Mặt cầu $(S)$ có bán kính $R = \\sqrt{50} = 5\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1200,
+      602,
+      1247
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $M$ là điểm thuộc $(S)$ suy ra:"
+  },
+  {
+    "bbox": [
+      79,
+      1275,
+      1279,
+      1590
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\cos \\widehat{KMI} &= \\frac{MK^2 + MI^2 - KI^2}{2.MK.MI} = \\frac{MK^2 + 50 - 10}{2.MK.5\\sqrt{2}} = \\frac{1}{10\\sqrt{2}} \\left( MK + \\frac{40}{MK} \\right) \\ge \\frac{1}{10\\sqrt{2}} \\cdot 2\\sqrt{MK \\cdot \\frac{40}{MK}} \\\\ \\Leftrightarrow \\cos \\widehat{KMI} \\ge \\frac{2\\sqrt{5}}{5}. \\text{ Suy ra } \\widehat{KMI} \\text{ lớn nhất khi và chỉ khi } \\left( \\cos \\widehat{KMI} \\right)_{\\min} = \\frac{2\\sqrt{5}}{5}, \\text{ xảy ra khi} \\\\ MK = \\frac{40}{MK} \\Leftrightarrow MK = \\sqrt{40} = 2\\sqrt{10}. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1612,
+      552,
+      1661
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = \\sqrt{5-4x}$."
+  },
+  {
+    "bbox": [
+      76,
+      1685,
+      920,
+      1774
+    ],
+    "category": "Text",
+    "text": "a) Điều kiện xác định của hàm số $y = \\sqrt{5-4x}$ là $x \\in (-\\infty; \\frac{5}{4})$."
+  },
+  {
+    "bbox": [
+      76,
+      1798,
+      535,
+      1888
+    ],
+    "category": "Text",
+    "text": "b) $y' = \\frac{-4}{\\sqrt{5-4x}}$ với $x \\in (-\\infty; \\frac{5}{4})$."
+  },
+  {
+    "bbox": [
+      76,
+      1914,
+      654,
+      1963
+    ],
+    "category": "Text",
+    "text": "c) Hàm số nghịch biến trên khoảng $(-1;1)$."
+  },
+  {
+    "bbox": [
+      76,
+      1987,
+      1315,
+      2036
+    ],
+    "category": "Text",
+    "text": "d) Trên đoạn $[-1;1]$, giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho lần lượt là 3 và 1."
+  },
+  {
+    "bbox": [
+      727,
+      2062,
+      843,
+      2101
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2116,
+      893,
+      2237
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

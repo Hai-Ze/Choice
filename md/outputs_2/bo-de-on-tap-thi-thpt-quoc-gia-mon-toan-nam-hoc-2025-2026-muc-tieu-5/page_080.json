@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      573,
+      205
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      375,
+      207,
+      506,
+      248
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 7"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1022,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1528,
+      270
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "**Phần I. Câu trắc nghiệm nhiều phương án lựa chọn** *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      154,
+      535,
+      1545,
+      620
+    ],
+    "category": "Text",
+    "text": ">> **Câu 1.** Cho hàm số $y = f(x)$ liên tục và có bảng biến thiên trên đoạn $[-1; 3]$ như hình vẽ bên. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      466,
+      626,
+      1233,
+      939
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-1$</td><td>0</td><td>2</td><td>3</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>0</td><td>5</td><td>1</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      189,
+      1020,
+      551,
+      1063
+    ],
+    "category": "List-item",
+    "text": "A) $\\max_{[-1;3]} f(x) = f(2)$."
+  },
+  {
+    "bbox": [
+      876,
+      1020,
+      1238,
+      1063
+    ],
+    "category": "List-item",
+    "text": "B) $\\max_{[-1;3]} f(x) = f(0)$."
+  },
+  {
+    "bbox": [
+      189,
+      1065,
+      551,
+      1107
+    ],
+    "category": "List-item",
+    "text": "C) $\\max_{[-1;3]} f(x) = f(3)$."
+  },
+  {
+    "bbox": [
+      876,
+      1065,
+      1264,
+      1107
+    ],
+    "category": "List-item",
+    "text": "D) $\\max_{[-1;3]} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      154,
+      1107,
+      1545,
+      1207
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên của hàm số trên đoạn $[-1; 3]$, ta thấy giá trị lớn nhất của hàm số là 5, đạt được tại $x = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      1212,
+      575,
+      1254
+    ],
+    "category": "Text",
+    "text": "Vậy $\\max_{[-1;3]} f(x) = f(0)$."
+  },
+  {
+    "bbox": [
+      154,
+      1273,
+      1084,
+      1315
+    ],
+    "category": "Text",
+    "text": ">> **Câu 2.** Cho $\\log_a b = 2$ (với $a > 0, b > 0, a \\neq 1$). Tính $\\log_a(ab)$."
+  },
+  {
+    "bbox": [
+      189,
+      1333,
+      273,
+      1375
+    ],
+    "category": "List-item",
+    "text": "A) 2."
+  },
+  {
+    "bbox": [
+      535,
+      1333,
+      617,
+      1375
+    ],
+    "category": "List-item",
+    "text": "B) 4."
+  },
+  {
+    "bbox": [
+      879,
+      1333,
+      961,
+      1375
+    ],
+    "category": "List-item",
+    "text": "C) 5."
+  },
+  {
+    "bbox": [
+      1224,
+      1333,
+      1304,
+      1375
+    ],
+    "category": "List-item",
+    "text": "D) 3."
+  },
+  {
+    "bbox": [
+      154,
+      1391,
+      1096,
+      1452
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có: $\\log_a(ab) = \\log_a a + \\log_a b = 1 + 2 = 3$."
+  },
+  {
+    "bbox": [
+      154,
+      1467,
+      1545,
+      1553
+    ],
+    "category": "Text",
+    "text": ">> **Câu 3.** Trong không gian $Oxyz$, cho mặt cầu $(S) : (x - 1)^2 + (y + 2)^2 + (z - 3)^2 = 16$. Tâm của $(S)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      189,
+      1572,
+      432,
+      1614
+    ],
+    "category": "List-item",
+    "text": "A) $(-1; -2; -3)$."
+  },
+  {
+    "bbox": [
+      876,
+      1572,
+      1042,
+      1614
+    ],
+    "category": "List-item",
+    "text": "B) $(1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      189,
+      1616,
+      409,
+      1658
+    ],
+    "category": "List-item",
+    "text": "C) $(-1; 2; -3)$."
+  },
+  {
+    "bbox": [
+      876,
+      1616,
+      1070,
+      1658
+    ],
+    "category": "List-item",
+    "text": "D) $(1; -2; 3)$."
+  },
+  {
+    "bbox": [
+      154,
+      1660,
+      1545,
+      1754
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình mặt cầu có dạng $(x - a)^2 + (y - b)^2 + (z - c)^2 = R^2$ có tâm là $I(a; b; c)$."
+  },
+  {
+    "bbox": [
+      202,
+      1758,
+      1327,
+      1800
+    ],
+    "category": "Text",
+    "text": "Từ phương trình $(x - 1)^2 + (y + 2)^2 + (z - 3)^2 = 16$, ta suy ra tâm $I(1; -2; 3)$."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "80"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

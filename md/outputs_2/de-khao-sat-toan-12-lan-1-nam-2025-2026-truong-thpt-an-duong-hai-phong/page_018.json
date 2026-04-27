@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      192,
+      82,
+      1212,
+      163
+    ],
+    "category": "Text",
+    "text": "c) Côsin của góc giữa đường thẳng $A'C$ và mặt phẳng đáy $(ABC)$ bằng $\\frac{3}{5}$."
+  },
+  {
+    "bbox": [
+      192,
+      173,
+      997,
+      254
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai đường thẳng $A'C$ và $FE$ bằng $\\frac{6}{7}$."
+  },
+  {
+    "bbox": [
+      826,
+      264,
+      939,
+      302
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      192,
+      308,
+      770,
+      349
+    ],
+    "category": "Text",
+    "text": "a) Đúng: vì $AB$ vuông góc với mp $(ACA')$"
+  },
+  {
+    "bbox": [
+      192,
+      375,
+      281,
+      413
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      211,
+      454,
+      593,
+      1021
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1083,
+      1039,
+      1251
+    ],
+    "category": "Text",
+    "text": "Tam giác $ABC$ vuông tại $A \\Rightarrow AB = \\sqrt{BC^2 - AB^2} = \\sqrt{13-4} = 3$\n$\\Rightarrow V_{ltru} = \\frac{1}{2} \\cdot 2 \\cdot 3 \\cdot 4 = 12$"
+  },
+  {
+    "bbox": [
+      192,
+      1283,
+      309,
+      1322
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      192,
+      1350,
+      1085,
+      1522
+    ],
+    "category": "Text",
+    "text": "Góc giữa đường thẳng $A'C$ và mặt phẳng đáy $(ABC)$ bằng $A'CA$\n$\\Rightarrow \\cos \\widehat{A'CA} = \\frac{AC}{A'C} = \\frac{3}{\\sqrt{9+16}} = \\frac{3}{5}$"
+  },
+  {
+    "bbox": [
+      192,
+      1557,
+      281,
+      1595
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      192,
+      1624,
+      1266,
+      1824
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nd(A'C, FE) &= d(FE, (A'BC)) = d(E; (A'BC)) = \\frac{1}{2} d(A; (A'BC)) = \\frac{1}{2} d \\\\\n\\frac{1}{d^2} &= \\frac{1}{AC^2} + \\frac{1}{AB^2} + \\frac{1}{AA'^2} = \\frac{1}{9} + \\frac{1}{4} + \\frac{1}{16} = \\frac{61}{144} \\Rightarrow d = \\frac{12}{\\sqrt{61}} \\Rightarrow d(A'C, FE) = \\frac{6}{\\sqrt{61}}.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1857,
+      1266,
+      1907
+    ],
+    "category": "Text",
+    "text": "Câu 15. Cho hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ có đồ thị như hình vẽ dưới đây:"
+  }
+]

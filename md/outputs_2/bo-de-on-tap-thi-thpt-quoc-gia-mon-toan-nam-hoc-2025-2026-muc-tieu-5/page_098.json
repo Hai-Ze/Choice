@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      188,
+      139,
+      757,
+      183
+    ],
+    "category": "List-item",
+    "text": "a) Tập giá trị của hàm số $f(x)$ là $[0; 2]$."
+  },
+  {
+    "bbox": [
+      188,
+      196,
+      479,
+      237
+    ],
+    "category": "List-item",
+    "text": "b) $f(x) = 1 - \\cos x$."
+  },
+  {
+    "bbox": [
+      190,
+      250,
+      1018,
+      293
+    ],
+    "category": "List-item",
+    "text": "c) Một nguyên hàm của hàm số $f(x)$ là $F(x) = x + \\sin x$."
+  },
+  {
+    "bbox": [
+      188,
+      306,
+      1547,
+      391
+    ],
+    "category": "List-item",
+    "text": "d) Diện tích hình phẳng giới hạn bởi đồ thị hàm số $f(x)$, trục hoành và các đường thẳng $x = 0; x = \\pi$ lớn hơn 4."
+  },
+  {
+    "bbox": [
+      154,
+      408,
+      199,
+      450
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      408,
+      609,
+      471
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      462,
+      1234,
+      536
+    ],
+    "category": "Text",
+    "text": "Vì $0 \\le \\cos^2 \\frac{x}{2} \\le 1$ nên $0 \\le 2 \\cos^2 \\frac{x}{2} \\le 2$. Vì vậy tập giá trị của hàm số là $[0; 2]$."
+  },
+  {
+    "bbox": [
+      202,
+      545,
+      313,
+      584
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      580,
+      1172,
+      658
+    ],
+    "category": "Text",
+    "text": "Sử dụng công thức hạ bậc: $\\cos^2 \\alpha = \\frac{1 + \\cos 2\\alpha}{2} \\Rightarrow 2 \\cos^2 \\alpha = 1 + \\cos 2\\alpha$."
+  },
+  {
+    "bbox": [
+      154,
+      649,
+      742,
+      722
+    ],
+    "category": "Text",
+    "text": "Ta có $f(x) = 1 + \\cos \\left(2 \\cdot \\frac{x}{2}\\right) = 1 + \\cos x$."
+  },
+  {
+    "bbox": [
+      202,
+      738,
+      348,
+      777
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      775,
+      704,
+      855
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int (1 + \\cos x)dx = x + \\sin x + C$."
+  },
+  {
+    "bbox": [
+      154,
+      855,
+      930,
+      896
+    ],
+    "category": "Text",
+    "text": "Với $C = 0$, ta có một nguyên hàm là $F(x) = x + \\sin x$."
+  },
+  {
+    "bbox": [
+      202,
+      917,
+      313,
+      956
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      958,
+      1547,
+      1041
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số $f(x)$, trục hoành và các đường thẳng $x = 0; x = \\pi$ là:"
+  },
+  {
+    "bbox": [
+      154,
+      1031,
+      1125,
+      1118
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{\\pi} (1 + \\cos x)dx = (x + \\sin x)\\Big|_{0}^{\\pi} = (\\pi + \\sin \\pi) - (0 + \\sin 0) = \\pi.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1118,
+      667,
+      1155
+    ],
+    "category": "Text",
+    "text": "Vì $\\pi \\approx 3,14 < 4$ nênoorgnthedai sai."
+  },
+  {
+    "bbox": [
+      154,
+      1176,
+      1547,
+      1439
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong một khu vực trên biển có hai trạm định vị vô tuyến được đặt tại điểm $A$ và $B$ cách nhau 1000 km. Một con tàu di chuyển trên biển, nó luôn nhận tín hiệu từ trạm $A$ trước tín hiệu từ trạm $B$ một khoảng là 0,002 giây. Biết rằng các tín hiệu hai trạm truyền đi với tốc độ không đổi trong không khí là $3 \\cdot 10^8$ (m/s). Gọi $t_1, t_2$ (đơn vị giây) lần lượt là thời gian truyền tín hiệu từ trạm $A$ và trạm $B$ đến con tàu. Xét hệ tọa độ $Oxy$ như hình vẽ (đơn vị trên mỗi trục tọa độ tính bằng km). Gọi vị trí trên biển của con tàu là $P$."
+  },
+  {
+    "bbox": [
+      542,
+      1450,
+      1144,
+      1937
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1972,
+      717,
+      2013
+    ],
+    "category": "Text",
+    "text": "Cácoorgnthedai sau đây đúng hay sai?"
+  },
+  {
+    "bbox": [
+      190,
+      2036,
+      461,
+      2075
+    ],
+    "category": "List-item",
+    "text": "a) $t_1 - t_2 = 0,002$."
+  },
+  {
+    "bbox": [
+      188,
+      2088,
+      1547,
+      2175
+    ],
+    "category": "List-item",
+    "text": "b) Hiệu khoảng cách giữa tàu với trạm $A$ và trạm $B$ là một đẳng thức cố định được xác định bởi $|PA - PB| = 600$ (km)."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "98"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

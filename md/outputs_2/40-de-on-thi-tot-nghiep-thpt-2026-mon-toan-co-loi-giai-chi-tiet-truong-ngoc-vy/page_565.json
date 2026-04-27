@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1496,
+      213
+    ],
+    "category": "Text",
+    "text": "là $T(x) = x + 6$ (giờ). Xưởng muốn xác định kích thước $x$ để chi phí vật liệu trung bình trên một giờ sản xuất là thấp nhất, nhằm tối ưu hóa hiệu quả sử dụng thời gian và vật liệu. Hãy tìm giá trị của $x$."
+  },
+  {
+    "bbox": [
+      546,
+      243,
+      986,
+      609
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      641,
+      415,
+      677
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      700,
+      843,
+      739
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      75,
+      757,
+      224,
+      796
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 6"
+  },
+  {
+    "bbox": [
+      75,
+      817,
+      1305,
+      913
+    ],
+    "category": "Text",
+    "text": "Gọi hàm chi phí vật liệu trung bình trên một giờ sản xuất là $f(x) = \\frac{C(x)}{T(x)} = \\frac{x^2 + 108}{x + 6}, x > 0$."
+  },
+  {
+    "bbox": [
+      75,
+      938,
+      729,
+      1041
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = \\frac{x^2 + 12x - 108}{(x+6)^2} = 0 \\Leftrightarrow \\begin{cases} x = -18(L) \\\\ x = 6 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1062,
+      385,
+      1107
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên :"
+  },
+  {
+    "bbox": [
+      118,
+      1152,
+      978,
+      1445
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>6</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>0</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>18</td><td>12</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1494,
+      932,
+      1542
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta thấy $f(x)$ đạt GTNN bằng 12 khi $x = 6$."
+  },
+  {
+    "bbox": [
+      75,
+      1563,
+      1122,
+      1609
+    ],
+    "category": "Text",
+    "text": "Vậy để chi phí vật liệu trung bình trên một giờ sản xuất là thấp nhất thì $x = 6$."
+  },
+  {
+    "bbox": [
+      75,
+      1622,
+      1496,
+      1842
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tuyền cáp treo tại Vinpearl Nha Trang có ba loại vé sau đây: vé lúc đi giá 250 nghìn đồng; vé lúc về giá 200 nghìn đồng và vé hai chiều giá 400 nghìn đồng. Một ngày nhà ga cáp treo thu được tổng số tiền là 251 triệu đồng. Biết rằng nhân viên quản lí cáp treo đum được 680 lượt người lúc đi và 520 lượt người lúc về. Tìm tổng số vé bán ra mỗi loại."
+  },
+  {
+    "bbox": [
+      75,
+      1858,
+      415,
+      1894
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1918,
+      843,
+      1957
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      75,
+      1975,
+      258,
+      2014
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 740"
+  },
+  {
+    "bbox": [
+      75,
+      2092,
+      1102,
+      2141
+    ],
+    "category": "Text",
+    "text": "Gọi số vé bán ra loại lúc đi, lúc về và hai chiều lần lượt là $x, y, z$ ($x, y, z \\in \\mathbb{N}$)"
+  },
+  {
+    "bbox": [
+      75,
+      2162,
+      319,
+      2202
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

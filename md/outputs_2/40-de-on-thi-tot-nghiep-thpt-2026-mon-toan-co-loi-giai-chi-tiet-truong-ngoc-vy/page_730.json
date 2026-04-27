@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      96,
+      1575,
+      270
+    ],
+    "category": "Text",
+    "text": "$v(t) = at + b$ ($a, b \\in \\mathbb{R}, a < 0$), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu giảm tốc độ. Biết rằng, sau khi giảm tốc độ 5 giây thì ô tô đi vào lối ra. Sau khi đi vào lối ra cao tốc, ô tô tiếp tục giảm tốc độ cho đến khi vận tốc còn 36 km / h thì duy trì ở vận tốc này."
+  },
+  {
+    "bbox": [
+      154,
+      282,
+      1140,
+      328
+    ],
+    "category": "Text",
+    "text": "a) Khi bắt đầu giảm tốc, khoảng cách của ô tô đến lối ra cao tốc là 100 m."
+  },
+  {
+    "bbox": [
+      154,
+      346,
+      455,
+      386
+    ],
+    "category": "Text",
+    "text": "b) Giá trị của $b$ là 90."
+  },
+  {
+    "bbox": [
+      154,
+      400,
+      849,
+      445
+    ],
+    "category": "Text",
+    "text": "c) Vận tốc ô tô thời điểm đi vào lối ra là 54 km / h."
+  },
+  {
+    "bbox": [
+      154,
+      459,
+      1397,
+      505
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường mà ô tô đi được trong thời gian 20 giây kể từ khi bắt đầu giảm tốc là 300 m."
+  },
+  {
+    "bbox": [
+      807,
+      523,
+      924,
+      562
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      577,
+      971,
+      698
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      752,
+      1302,
+      798
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc di chuyển của xe trước khi giảm tốc độ là 90 km/h cũng là tốc độ 25 m/s."
+  },
+  {
+    "bbox": [
+      154,
+      810,
+      1139,
+      856
+    ],
+    "category": "Text",
+    "text": "Sau 4 giây, ô tô bắt đầu giảm tốc nên trong 4 giây đó, ô tô đi được 100 m."
+  },
+  {
+    "bbox": [
+      154,
+      868,
+      1066,
+      915
+    ],
+    "category": "Text",
+    "text": "Vậy khi bắt đầu giảm tốc, khoảng cách của ô tô đến lối ra cao tốc là"
+  },
+  {
+    "bbox": [
+      162,
+      936,
+      425,
+      981
+    ],
+    "category": "Formula",
+    "text": "$$\n200 - 100 = 100(\\text{m})\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1002,
+      957,
+      1047
+    ],
+    "category": "Text",
+    "text": "b) Trước khi giảm tốc vận tốc của xe là 25 m/s nên $b = 25$."
+  },
+  {
+    "bbox": [
+      154,
+      1069,
+      961,
+      1253
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{c) Ta có } 100 &= \\int_{0}^{5} (at + 25) dt \\Rightarrow \\left( \\frac{at^2}{2} + 25t \\right) \\Big|_{0}^{5} = 100 \\Rightarrow a = -2 \\\\ \\Rightarrow v(t) &= -2t + 25(\\text{m/s}). \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1273,
+      1153,
+      1318
+    ],
+    "category": "Text",
+    "text": "Sau khi giảm tốc độ 5 giây thì ô tô đi vào lối ra, vận tốc của ô tô lúc này là"
+  },
+  {
+    "bbox": [
+      162,
+      1339,
+      516,
+      1385
+    ],
+    "category": "Formula",
+    "text": "$$\nv(5) = 15 \\text{ m/s} = 54 \\text{ km/h}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1406,
+      1256,
+      1452
+    ],
+    "category": "Text",
+    "text": "d) Thời gian để kể từ lúc ô tô bắt đầu giảm tốc độ đến khi vận tốc đạt 36 km / h là"
+  },
+  {
+    "bbox": [
+      162,
+      1468,
+      566,
+      1511
+    ],
+    "category": "Formula",
+    "text": "$$\n-2t + 25 = 10 \\Leftrightarrow t = 7,5 \\text{ (giây)}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1528,
+      1575,
+      1708
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian 20 giây, kể từ khi xe ô tô bắt đầu giảm tốc độ thì xe chạy với vận tốc $v(t) = -2t + 25$ trong khoảng thời gian 7,5 giây, sau đó xe chạy với vận tốc 36 km / h = 10 m / s trong khoảng 12,5 giây tiếp theo."
+  },
+  {
+    "bbox": [
+      154,
+      1720,
+      1302,
+      1766
+    ],
+    "category": "Text",
+    "text": "Quăng đường mà xe ô tô đi được trong thời gian 20 giây kể từ khi bắt đầu giảm tốc là"
+  },
+  {
+    "bbox": [
+      162,
+      1787,
+      726,
+      1883
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{7,5} (-2t + 25) dt + 10 \\times 12,5 = 256,25(\\text{m})\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1906,
+      1575,
+      2023
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là mét), một ngọn海徒 được đặt ở vị trí $I(10; 20; 30)$ với bán kính phủ sáng là 3 km."
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

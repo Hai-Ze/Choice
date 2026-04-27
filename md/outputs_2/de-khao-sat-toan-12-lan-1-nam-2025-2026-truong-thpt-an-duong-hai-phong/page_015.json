@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      153,
+      80,
+      927,
+      129
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      324,
+      137,
+      1441,
+      444
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td></td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$1$</td><td>$2$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      468,
+      899,
+      513
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      193,
+      543,
+      355,
+      590
+    ],
+    "category": "List-item",
+    "text": "A. $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      193,
+      607,
+      343,
+      653
+    ],
+    "category": "List-item",
+    "text": "B. $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      193,
+      670,
+      339,
+      716
+    ],
+    "category": "List-item",
+    "text": "C. $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      193,
+      733,
+      322,
+      778
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      826,
+      794,
+      938,
+      832
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      862,
+      306,
+      899
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      193,
+      928,
+      1466,
+      977
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta thấy: Hàm số đã cho đồng biến trên các khoảng $(-\\infty; -1)$ và $(0; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      1007,
+      1505,
+      1115
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số $y = f(x)$ có đồ thị $(C)$ như hình vẽ. Tiệm cận ngang của đồ thị hàm số là đường thẳng ?"
+  },
+  {
+    "bbox": [
+      652,
+      1121,
+      1091,
+      1562
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1566,
+      324,
+      1603
+    ],
+    "category": "List-item",
+    "text": "A. $y = 2$."
+  },
+  {
+    "bbox": [
+      193,
+      1610,
+      316,
+      1644
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      193,
+      1651,
+      339,
+      1688
+    ],
+    "category": "List-item",
+    "text": "C. $y = -2$."
+  },
+  {
+    "bbox": [
+      193,
+      1695,
+      339,
+      1730
+    ],
+    "category": "List-item",
+    "text": "D. $x = -1$."
+  },
+  {
+    "bbox": [
+      826,
+      1735,
+      938,
+      1773
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      1775,
+      306,
+      1812
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      153,
+      1838,
+      1565,
+      1933
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Một chất điểm chuyển động có phương trình $s = 2t^2 + 3t$ ($t$ tính bằng giây, $s$ tính bằng mét). Vận tốc của chất điểm tại thời điểm $t_0 = 2$ (giây) bằng"
+  },
+  {
+    "bbox": [
+      193,
+      1950,
+      377,
+      1995
+    ],
+    "category": "List-item",
+    "text": "A. $22(m/s)$."
+  },
+  {
+    "bbox": [
+      193,
+      2012,
+      374,
+      2058
+    ],
+    "category": "List-item",
+    "text": "B. $19(m/s)$."
+  },
+  {
+    "bbox": [
+      193,
+      2075,
+      360,
+      2121
+    ],
+    "category": "List-item",
+    "text": "C. $9(m/s)$."
+  },
+  {
+    "bbox": [
+      193,
+      2138,
+      372,
+      2184
+    ],
+    "category": "List-item",
+    "text": "D. $11(m/s)$."
+  },
+  {
+    "bbox": [
+      826,
+      2200,
+      938,
+      2238
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  }
+]

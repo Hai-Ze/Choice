@@ -1,0 +1,392 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      240,
+      94,
+      1491,
+      227
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng (kg)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td></tr><tr><td>Số quả mít</td><td>6</td><td>12</td><td>19</td><td>9</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      280,
+      1574,
+      383
+    ],
+    "category": "Text",
+    "text": "Hãy tính phương sai của mẫu số liệu ghép nhóm trên (kết quả các phép tính làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      205,
+      402,
+      311,
+      438
+    ],
+    "category": "List-item",
+    "text": "A. 3,2."
+  },
+  {
+    "bbox": [
+      555,
+      402,
+      658,
+      438
+    ],
+    "category": "List-item",
+    "text": "B. 5,6."
+  },
+  {
+    "bbox": [
+      906,
+      402,
+      1011,
+      438
+    ],
+    "category": "List-item",
+    "text": "C. 4,8."
+  },
+  {
+    "bbox": [
+      1257,
+      402,
+      1362,
+      438
+    ],
+    "category": "List-item",
+    "text": "D. 3,4."
+  },
+  {
+    "bbox": [
+      807,
+      466,
+      924,
+      505
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      524,
+      279,
+      562
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      576,
+      1052,
+      621
+    ],
+    "category": "Text",
+    "text": "Ta có bảng thống kê cân nặng của các quả mít theo giá trị đại diện:"
+  },
+  {
+    "bbox": [
+      172,
+      635,
+      1556,
+      835
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng (kg)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td></tr><tr><td>Cân nặng đại diện (kg)</td><td>5</td><td>7</td><td>9</td><td>11</td><td>13</td></tr><tr><td>Số quả mít</td><td>6</td><td>12</td><td>19</td><td>9</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      891,
+      635,
+      932
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu $n = 6+12+19+9+4 = 50$."
+  },
+  {
+    "bbox": [
+      155,
+      948,
+      748,
+      993
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      160,
+      1012,
+      704,
+      1093
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{6.5+12.7+19.9+9.11+4.13}{50} = 8,72.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1119,
+      1508,
+      1199
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là: $S^2 = \\frac{1}{50}(6 \\cdot 5^2 + 12.7^2 + 19.9^2 + 9.11^2 + 4.13^2) - 8,72^2 \\approx 4,8$"
+  },
+  {
+    "bbox": [
+      155,
+      1218,
+      1574,
+      1334
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình phẳng giới hạn bởi đường cong $y = \\sqrt{x+2}$ và hai trục toạ độ. Thế tích khối tròn xoay thu được khi quay hình phẳng đó quanh trục $Ox$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1352,
+      329,
+      1444
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{4\\sqrt{2}}{3}$."
+  },
+  {
+    "bbox": [
+      555,
+      1384,
+      629,
+      1418
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      906,
+      1384,
+      1000,
+      1418
+    ],
+    "category": "List-item",
+    "text": "C. $2\\pi$."
+  },
+  {
+    "bbox": [
+      1255,
+      1352,
+      1400,
+      1444
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{4\\sqrt{2}}{3}\\pi$."
+  },
+  {
+    "bbox": [
+      807,
+      1466,
+      924,
+      1505
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1524,
+      279,
+      1562
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      160,
+      1582,
+      718,
+      1679
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{-2}^{0} (\\sqrt{x+2})^2 dx = \\pi (x^2 + 2x) \\Big|_{-2}^{0} = 2\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1702,
+      803,
+      1743
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Nghiệm của phương trình $\\cos x = 1$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      1763,
+      462,
+      1797
+    ],
+    "category": "List-item",
+    "text": "A. $x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      906,
+      1763,
+      1227,
+      1797
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\pi + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      205,
+      1848,
+      477,
+      1884
+    ],
+    "category": "List-item",
+    "text": "C. $x = k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      906,
+      1835,
+      1236,
+      1909
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      807,
+      1934,
+      924,
+      1972
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1991,
+      271,
+      2029
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      160,
+      2049,
+      529,
+      2085
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos x = 1 \\Leftrightarrow x = k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2115,
+      1028,
+      2164
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Tập nghiệm S của bất phương trình $\\log_2(2x+3) \\ge 0$ là"
+  },
+  {
+    "bbox": [
+      205,
+      2194,
+      436,
+      2242
+    ],
+    "category": "List-item",
+    "text": "A. $S = (-\\infty; -1]$."
+  },
+  {
+    "bbox": [
+      555,
+      2194,
+      783,
+      2242
+    ],
+    "category": "List-item",
+    "text": "B. $S = [-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      906,
+      2194,
+      1135,
+      2242
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      1255,
+      2194,
+      1470,
+      2242
+    ],
+    "category": "List-item",
+    "text": "D. $S = (-\\infty; 0]$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

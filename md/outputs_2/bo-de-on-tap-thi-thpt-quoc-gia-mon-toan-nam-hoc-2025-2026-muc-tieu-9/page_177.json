@@ -1,0 +1,82 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1088,
+      526
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\n\\Rightarrow I(t; 2t; 5 + 2t). \\text{ Vì } d(I; (\\alpha)) = r = 3 \\\\\n\\Rightarrow \\frac{|t + 2 \\cdot 2t + 2(5 + 2t) - 10|}{\\sqrt{1^2 + 2^2 + 2^2}} = 3 \\\\\n\\Leftrightarrow \\frac{|t + 4t + 10 + 4t - 10|}{\\sqrt{1 + 4 + 4}} = 3 \\\\\n\\Rightarrow |t| = 1 \\\\\n\\Rightarrow \\begin{bmatrix} t = 1 \\Rightarrow I(1; 2; 7) \\\\ t = -1 \\Rightarrow I(-1; -2; 3) \\end{bmatrix}\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      534,
+      900,
+      575
+    ],
+    "category": "Text",
+    "text": "Dễ thấy trên hình $I$ có tung độ dương nên $I(1; 2; 7)$."
+  },
+  {
+    "bbox": [
+      153,
+      595,
+      1546,
+      726
+    ],
+    "category": "Text",
+    "text": "Gọi $J$ là tâm mặt cầu khi nó vừa scanned và tiếp xúc với mặt đất tại $P(a; b; 0)$. Khi đó $J(a; b; 3)$ (vì $JP \\perp (Oxy)$ nên $J$ có cùng hoành độ và tung độ với điểm $P$ và cao độ bằng bán kính của hình cầu bằng 3). $\\Rightarrow \\overrightarrow{IJ} = (a - 1; b - 2; -4)$."
+  },
+  {
+    "bbox": [
+      202,
+      742,
+      1196,
+      847
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\begin{cases} CF \\perp AB \\\\ CF \\perp \\vec{n}_{(\\alpha)} \\end{cases} \\Rightarrow \\vec{u}_{CF} = [\\overrightarrow{AB}; \\vec{n}_{(\\alpha)}] = (10; 20; -25) = 5(2; 4; -5)\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      862,
+      1404,
+      912
+    ],
+    "category": "Text",
+    "text": "Vì quả cầu di chuyển theo đoạn thẳng $CF$ nên $\\overrightarrow{IJ}$ và $\\overrightarrow{CF}$ là hai vecto cùng phương."
+  },
+  {
+    "bbox": [
+      202,
+      920,
+      1445,
+      1231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\n\\text{Suy ra } \\overrightarrow{IJ} = k\\overrightarrow{CF} = k(2; 4; -5) \\Rightarrow \\frac{a-1}{2} = \\frac{b-2}{4} = \\frac{-4}{-5} \\Rightarrow \\begin{cases} \\frac{a-1}{2} = \\frac{-4}{-5} \\\\ \\frac{b-2}{4} = \\frac{-4}{-5} \\end{cases} &\\Leftrightarrow \\begin{cases} a-1 = \\frac{8}{5} \\\\ b-2 = \\frac{16}{5} \\end{cases} \\\\\n\\Leftrightarrow \\begin{cases} a = \\frac{13}{5} \\\\ b = \\frac{26}{5} \\end{cases} &\\Rightarrow a + b = 7, 8\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2251,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "177"
+  }
+]

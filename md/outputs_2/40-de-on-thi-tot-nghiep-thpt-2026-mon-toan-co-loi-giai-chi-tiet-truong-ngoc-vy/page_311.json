@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      149,
+      1087,
+      195
+    ],
+    "category": "Text",
+    "text": "Nếu xuất phát từ đinh khác thì chỉ là phép thay thế bước đi trong sơ đồ trên."
+  },
+  {
+    "bbox": [
+      76,
+      208,
+      1494,
+      320
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất để xe đi giao hàng hoàn thành việc lấy hàng ở các kho và quay trở lại kho hàng ban đầu là 28 (km)."
+  },
+  {
+    "bbox": [
+      76,
+      347,
+      1494,
+      689
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ tọa độ $Oxyz$, một cabin cáp treo xuất phát từ điểm $A(10;3;0)$ và chuyển động đều theo đường cáp có vecto chỉ phương $\\vec{u} = (-8;-6;0)$ với tốc độ là $10m/s$ (Đơn vị trên mỗi trục tọa độ là mét). Giả sử sau $t(s)$ kể từ lúc xuất phát ($t \\ge 0$), cabin đến điểm $N$. Một người đứng tại điểm $O(0;0;0)$ quan sát cabin chạy trên cáp treo, sau thời gian bao nhiêu giây thì khoảng cách giữa người quan sát và cabin gần nhau nhất (đơn vị giây)?"
+  },
+  {
+    "bbox": [
+      388,
+      724,
+      1178,
+      1102
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1146,
+      414,
+      1182
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1205,
+      842,
+      1243
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1263,
+      267,
+      1302
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,98"
+  },
+  {
+    "bbox": [
+      76,
+      1323,
+      817,
+      1366
+    ],
+    "category": "Text",
+    "text": "Do tốc độ của cabin là $10m/s$ nên độ dài $AN = 10t m$."
+  },
+  {
+    "bbox": [
+      76,
+      1392,
+      1201,
+      1440
+    ],
+    "category": "Text",
+    "text": "Do hai véc tọ $\\overline{AN}$ và $\\vec{u}$ cùng phương nên $\\overline{AN} = \\text{kũ} \\vec{u}$ với $k$ là số thực dương nào đó."
+  },
+  {
+    "bbox": [
+      76,
+      1458,
+      684,
+      1528
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } |\\overline{AN}| = k |\\vec{u}| = k\\sqrt{(-8)^2 + (-6)^2} = 10k.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1552,
+      736,
+      1604
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } t = k, \\text{ vì thế } \\overline{AN} = \\text{kũ} \\vec{u} = \\text{tũ} \\vec{u} = (-8t; -6t; 0).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1631,
+      615,
+      1683
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } N(a;b;c) \\Rightarrow \\overline{AN} = (a-10;b-3;c).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1709,
+      856,
+      1857
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\begin{cases} a-10 = -8t \\\\ b-3 = -6t \\\\ c = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = 10-8t \\\\ b = 3-6t \\\\ c = 0 \\end{cases} \\Rightarrow N(10-8t; 3-6t; 0).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1880,
+      883,
+      1924
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa người quan sát và cabin bằng độ dài đoạn"
+  },
+  {
+    "bbox": [
+      80,
+      1942,
+      766,
+      2008
+    ],
+    "category": "Formula",
+    "text": "$$\nON = \\sqrt{(10-8t)^2 + (3-6t)^2} = \\sqrt{100t^2 - 196t + 109}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2035,
+      1045,
+      2118
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } 100t^2 - 196t + 109 \\text{ đạt giá trị nhỏ nhất tại } t = \\frac{196}{2 \\cdot 100} = \\frac{49}{50} = 0,98 s.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      188,
+      140,
+      947,
+      182
+    ],
+    "category": "Text",
+    "text": "b) Phương trình $g(x) = 0$ có hai nghiệm thuộc $[0; \\pi]$."
+  },
+  {
+    "bbox": [
+      192,
+      188,
+      1030,
+      416
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Phương trình } f(x) \\cdot g(x) = 0 \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{5\\pi}{6} + k2\\pi \\ (k \\in \\mathbb{Z}). \\\\ x = \\frac{3\\pi}{4} + k\\pi \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      424,
+      937,
+      471
+    ],
+    "category": "Text",
+    "text": "d) Phương trình $f(x) = g(x) \\Leftrightarrow x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      154,
+      483,
+      198,
+      522
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      483,
+      1533,
+      546
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $g(x) = \\sqrt{2} \\cos \\left(x - \\frac{\\pi}{4}\\right) = \\sqrt{2} \\left(\\cos x \\cos \\frac{\\pi}{4} + \\sin x \\sin \\frac{\\pi}{4}\\right) = \\cos x + \\sin x$."
+  },
+  {
+    "bbox": [
+      204,
+      559,
+      309,
+      598
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      204,
+      610,
+      1155,
+      762
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = 0 \\Leftrightarrow 2 \\sin x - 1 = 0 \\Leftrightarrow \\sin x = \\frac{1}{2} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{5\\pi}{6} + k2\\pi \\end{cases} \\ (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      773,
+      1164,
+      822
+    ],
+    "category": "Text",
+    "text": "Vì thiếu họ nghiệm $x = \\frac{5\\pi}{6} + k2\\pi$ nên性能 đề không tương đương."
+  },
+  {
+    "bbox": [
+      154,
+      822,
+      264,
+      860
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      204,
+      876,
+      1246,
+      929
+    ],
+    "category": "Formula",
+    "text": "$$\ng(x) = 0 \\Leftrightarrow \\sqrt{2} \\cos \\left(x - \\frac{\\pi}{4}\\right) = 0 \\Leftrightarrow x - \\frac{\\pi}{4} = \\frac{\\pi}{2} + k\\pi \\Leftrightarrow x = \\frac{3\\pi}{4} + k\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      941,
+      1069,
+      998
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } x \\in [0; \\pi] \\Rightarrow 0 \\le \\frac{3\\pi}{4} + k\\pi \\le \\pi \\Leftrightarrow -\\frac{3}{4} \\le k \\le \\frac{1}{4} \\xrightarrow{k \\in \\mathbb{Z}} k = 0.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1008,
+      1215,
+      1058
+    ],
+    "category": "Text",
+    "text": "Vậy trên đoạn $[0; \\pi]$, phương trình chỉ có 1 nghiệm duy nhất là $x = \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      204,
+      1073,
+      347,
+      1112
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      204,
+      1124,
+      1181,
+      1353
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình } f(x)g(x) = 0 \\Leftrightarrow \\begin{cases} f(x) = 0 \\\\ g(x) = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{5\\pi}{6} + k2\\pi \\\\ x = \\frac{3\\pi}{4} + k\\pi \\end{cases} \\ (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1364,
+      312,
+      1402
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      204,
+      1424,
+      1066,
+      1465
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = g(x) \\Leftrightarrow 2 \\sin x - 1 = \\cos x + \\sin x \\Leftrightarrow \\sin x - \\cos x = 1\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1479,
+      803,
+      1535
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\sqrt{2} \\sin \\left(x - \\frac{\\pi}{4}\\right) = 1 \\Leftrightarrow \\sin \\left(x - \\frac{\\pi}{4}\\right) = \\frac{1}{\\sqrt{2}}\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1545,
+      909,
+      1697
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x - \\frac{\\pi}{4} = \\frac{\\pi}{4} + k2\\pi \\\\ x - \\frac{\\pi}{4} = \\frac{3\\pi}{4} + k2\\pi \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{2} + k2\\pi \\\\ x = \\pi + k2\\pi \\end{cases} \\ (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1710,
+      1122,
+      1752
+    ],
+    "category": "Text",
+    "text": "Thiếu họ nghiệm $x = \\pi + k2\\pi$ nên性能 đề không tương đương."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "57"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      97,
+      245,
+      131
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      158,
+      417,
+      200
+    ],
+    "category": "Formula",
+    "text": "$$\nx_1, \\dots, x_{22} \\in [15; 18);\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      210,
+      429,
+      251
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{23}, \\dots, x_{60} \\in [18; 21);\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      262,
+      432,
+      303
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{61}, \\dots, x_{87} \\in [21; 24);\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      313,
+      429,
+      354
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{88}, \\dots, x_{95} \\in [24; 27)\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      365,
+      436,
+      406
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{96}, \\dots, x_{99} \\in [27; 30);\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      417,
+      340,
+      458
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{100} \\in [30; 33)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      486,
+      1573,
+      566
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu gốc là $\\frac{1}{2}(x_{75} + x_{76}) \\in [21; 24)$. Do đó, tứ phân vị thứ ba của mẫu số liệu"
+  },
+  {
+    "bbox": [
+      156,
+      591,
+      1035,
+      712
+    ],
+    "category": "Text",
+    "text": "ghép nhóm là: $Q_3 = 21 + \\frac{\\frac{3.100}{4} - (22 + 38)}{27} \\cdot (24 - 21) = \\frac{68}{3} \\approx 22,67$"
+  },
+  {
+    "bbox": [
+      156,
+      728,
+      1573,
+      909
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tính thể tích $V$ của phần vật thể giới hạn bởi hai mặt phẳng $x = 0, x = 1$, có thiết diện bị cắt bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x(0 \\le x \\le 1)$ là một tam giác đều có cạnh bằng $x$."
+  },
+  {
+    "bbox": [
+      205,
+      944,
+      380,
+      1024
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\frac{12\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      555,
+      944,
+      704,
+      1024
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\frac{12}{5}$."
+  },
+  {
+    "bbox": [
+      906,
+      932,
+      1085,
+      1024
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\frac{\\sqrt{3}\\pi}{12}$."
+  },
+  {
+    "bbox": [
+      1255,
+      932,
+      1418,
+      1024
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\frac{\\sqrt{3}}{12}$."
+  },
+  {
+    "bbox": [
+      807,
+      1047,
+      924,
+      1086
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1105,
+      279,
+      1144
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      1162,
+      630,
+      1253
+    ],
+    "category": "Text",
+    "text": "Diện tích thiết diện: $S(x) = \\frac{x^2\\sqrt{3}}{4}$."
+  },
+  {
+    "bbox": [
+      156,
+      1278,
+      1206,
+      1390
+    ],
+    "category": "Text",
+    "text": "Thể tích của vật thể: $V = \\int_{0}^{1} S(x)dx = \\int_{0}^{2} \\frac{x^2\\sqrt{3}}{4}dx = \\frac{\\sqrt{3}}{4} \\int_{0}^{1} x^2dx = \\frac{\\sqrt{3}}{12} \\left. x^3 \\right|_{0}^{1} = \\frac{\\sqrt{3}}{12}$."
+  },
+  {
+    "bbox": [
+      156,
+      1412,
+      817,
+      1453
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình lập phương $ABCD.A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      665,
+      1473,
+      1066,
+      1815
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1838,
+      685,
+      1886
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai vec tơ $\\overrightarrow{AB}$ và $\\overrightarrow{DC'}$ bằng:"
+  },
+  {
+    "bbox": [
+      205,
+      1905,
+      313,
+      1940
+    ],
+    "category": "List-item",
+    "text": "A. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      555,
+      1905,
+      661,
+      1940
+    ],
+    "category": "List-item",
+    "text": "B. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      906,
+      1905,
+      1014,
+      1940
+    ],
+    "category": "List-item",
+    "text": "C. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      1255,
+      1905,
+      1375,
+      1940
+    ],
+    "category": "List-item",
+    "text": "D. $120^\\circ$."
+  },
+  {
+    "bbox": [
+      807,
+      1965,
+      924,
+      2004
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2023,
+      279,
+      2062
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      2081,
+      336,
+      2116
+    ],
+    "category": "Text",
+    "text": "Do $AB // DC$"
+  },
+  {
+    "bbox": [
+      156,
+      2143,
+      754,
+      2205
+    ],
+    "category": "Text",
+    "text": "Vậy, $(\\overrightarrow{AB}, \\overrightarrow{DC'}) = (\\overrightarrow{DC}, \\overrightarrow{DC'}) = \\widehat{CDC'} = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

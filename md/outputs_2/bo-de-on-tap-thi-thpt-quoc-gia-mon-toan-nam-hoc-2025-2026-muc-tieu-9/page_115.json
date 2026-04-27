@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1045,
+      182
+    ],
+    "category": "Text",
+    "text": "Trung điểm của $BC$ là $I_1(0; 2)$, trung điểm của $AD$ là $I_2(4; 2)$."
+  },
+  {
+    "bbox": [
+      214,
+      203,
+      373,
+      243
+    ],
+    "category": "Text",
+    "text": "a): Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      260,
+      1547,
+      348
+    ],
+    "category": "Text",
+    "text": "Cung tròn ($C_2$) đi qua điểm $(2; 2)$ và $(4; 4)$, tâm của nó là trung điểm cạnh $AD$, do đó tọa độ tâm là $I_2(4; 2)$."
+  },
+  {
+    "bbox": [
+      214,
+      369,
+      375,
+      409
+    ],
+    "category": "Text",
+    "text": "b): Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      429,
+      927,
+      470
+    ],
+    "category": "Text",
+    "text": "Cung tròn ($C_1$) có tâm $I_1(0; 2)$ và bán kính $R = 2$."
+  },
+  {
+    "bbox": [
+      203,
+      486,
+      1466,
+      533
+    ],
+    "category": "Text",
+    "text": "Phương trình đường tròn là: $x^2 + (y - 2)^2 = 2^2 \\Leftrightarrow (y - 2)^2 = 4 - x^2 \\Leftrightarrow y = 2 \\pm \\sqrt{4 - x^2}$."
+  },
+  {
+    "bbox": [
+      203,
+      546,
+      1528,
+      595
+    ],
+    "category": "Text",
+    "text": "Vì cung ($C_1$) nằm trong khoảng $y \\in [0; 2]$ nên phương trình là $y = 2 - \\sqrt{4 - x^2}$ với $x \\in [0; 2]$."
+  },
+  {
+    "bbox": [
+      214,
+      613,
+      371,
+      653
+    ],
+    "category": "Text",
+    "text": "c): Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      671,
+      955,
+      715
+    ],
+    "category": "Text",
+    "text": "Hàm số xác định đường biên của hình phẳng ($H$) là:"
+  },
+  {
+    "bbox": [
+      203,
+      729,
+      827,
+      837
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = \\begin{cases} 2 - \\sqrt{4 - x^2} & \\text{khi } 0 \\le x \\le 2 \\\\ 2 + \\sqrt{4 - (x - 4)^2} & \\text{khi } 2 < x \\le 4 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      855,
+      618,
+      898
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng ($H$) là:"
+  },
+  {
+    "bbox": [
+      203,
+      910,
+      1376,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{2} (2 - \\sqrt{4 - x^2}) dx + \\int_{2}^{4} (2 + \\sqrt{4 - (x - 4)^2}) dx = (4 - \\pi) + (4 + \\pi) = 8 \\text{ cm}^2.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1011,
+      335,
+      1051
+    ],
+    "category": "Text",
+    "text": "d): Sai."
+  },
+  {
+    "bbox": [
+      203,
+      1070,
+      1017,
+      1113
+    ],
+    "category": "Text",
+    "text": "Trục $AB$ chính là trục $Ox$ (trục thẳng đứng trong hình)."
+  },
+  {
+    "bbox": [
+      203,
+      1129,
+      940,
+      1173
+    ],
+    "category": "Text",
+    "text": "Thể tích khối tròn xoay khi quay ($H$) quanh $Ox$ là:"
+  },
+  {
+    "bbox": [
+      203,
+      1186,
+      1320,
+      1282
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{4} [f(x)]^2 dx = \\pi \\left( \\int_{0}^{2} (2 - \\sqrt{4 - x^2})^2 dx + \\int_{2}^{4} (2 + \\sqrt{4 - (x - 4)^2})^2 dx \\right).\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1299,
+      559,
+      1340
+    ],
+    "category": "Text",
+    "text": "Tính toán các tích phân:"
+  },
+  {
+    "bbox": [
+      203,
+      1350,
+      1089,
+      1446
+    ],
+    "category": "Formula",
+    "text": "$$\nI_1 = \\int_{0}^{2} (8 - x^2 - 4\\sqrt{4 - x^2}) dx = \\left[ 8x - \\frac{x^3}{3} \\right]_{0}^{2} - 4\\pi = \\frac{40}{3} - 4\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1455,
+      978,
+      1547
+    ],
+    "category": "Formula",
+    "text": "$$\nI_2 = \\int_{2}^{4} (8 - (x - 4)^2 + 4\\sqrt{4 - (x - 4)^2}) dx = \\frac{40}{3} + 4\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1556,
+      1123,
+      1638
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } V = \\pi \\left( \\frac{40}{3} - 4\\pi + \\frac{40}{3} + 4\\pi \\right) = \\frac{80\\pi}{3} \\approx 83,78 \\text{ cm}^3 \\neq 72 \\text{ cm}^3.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1656,
+      1547,
+      1964
+    ],
+    "category": "Text",
+    "text": "Bài 4. Trong y học hạt nhân, đồng vị phóng xạ I-131 thường được sử dụng để hỗ trợ chẩn đoán và điều trị các bệnh lý về tuyến giáp. Sau khi tiêm vào cơ thể bệnh nhân, số lượng hạt nhân phóng xạ sẽ giảm dần theo thời gian. Giả sử khối lượng $m(t)$ (đơn vị: mg) của I-131 còn lại trong cơ thể tại thời điểm $t$ ngày ($t \\ge 0$) thỏa mãn $m(t) > 0$ và tốc độ phân rã tỉ lệ thuận với khối lượng hiện có theo phương trình $m'(t) = k \\cdot m(t)$ với $k \\neq 0$. Kết quả kiểm tra cho thấy khối lượng I-131 còn lại tại thời điểm $t = 8$ ngày và $t = 16$ ngày lần lượt là 4 mg và 2 mg. Kiểm tra tính đúng/sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      1981,
+      873,
+      2025
+    ],
+    "category": "Formula",
+    "text": "a) $m(t) = e^{kt+C}$ với $C$ là một hằng số xác định."
+  },
+  {
+    "bbox": [
+      190,
+      2032,
+      389,
+      2112
+    ],
+    "category": "Formula",
+    "text": "b) $k = -\\frac{\\ln 2}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      2115,
+      387,
+      2155
+    ],
+    "category": "Formula",
+    "text": "c) $C = 3 \\ln 2$."
+  },
+  {
+    "bbox": [
+      190,
+      2168,
+      1380,
+      2211
+    ],
+    "category": "Formula",
+    "text": "d) Khối lượng I-131 còn lại trong cơ thể tại thời điểm $t = 24$ ngày nhỏ hơn 0,8 mg."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "115"
+  }
+]

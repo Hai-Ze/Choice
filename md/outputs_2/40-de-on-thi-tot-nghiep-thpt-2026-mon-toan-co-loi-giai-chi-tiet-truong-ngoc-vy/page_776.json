@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      632,
+      98,
+      1105,
+      571
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      592,
+      1074,
+      638
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của $CD$. Dễ dàng thấy $ABMD$ là hình vuông."
+  },
+  {
+    "bbox": [
+      155,
+      650,
+      1262,
+      695
+    ],
+    "category": "Text",
+    "text": "Mà $H$ là trung điểm của $BD$, nên $H$ cũng là trung điểm của $AM$ và $BD \\perp AM$."
+  },
+  {
+    "bbox": [
+      155,
+      713,
+      1000,
+      754
+    ],
+    "category": "Text",
+    "text": "Vì $MC = MD = MB = 1$ nên $\\Delta BDC$ vuông tại $B \\Rightarrow BD \\perp BC$."
+  },
+  {
+    "bbox": [
+      155,
+      776,
+      607,
+      822
+    ],
+    "category": "Text",
+    "text": "Vậy $AM // BC \\Rightarrow AM // (SBC)$."
+  },
+  {
+    "bbox": [
+      155,
+      847,
+      658,
+      900
+    ],
+    "category": "Text",
+    "text": "Do đó, $d(A, (SBC)) = d(H, (SBC))$."
+  },
+  {
+    "bbox": [
+      155,
+      922,
+      575,
+      963
+    ],
+    "category": "Text",
+    "text": "Dựng $HK \\perp SB$ (1). ($K \\in SB$)"
+  },
+  {
+    "bbox": [
+      160,
+      983,
+      1039,
+      1082
+    ],
+    "category": "Formula",
+    "text": "$$\n\\left. \\begin{array}{l} SH \\perp (ABCD) \\Rightarrow SH \\perp BC \\\\ \\qquad \\qquad \\qquad \\qquad DB \\perp BC \\end{array} \\right\\} \\Rightarrow BC \\perp (SBD) \\Rightarrow BC \\perp HK \\quad (2).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1107,
+      1136,
+      1159
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2) suy ra: $HK \\perp (SBC) \\Rightarrow d(A, (SBC)) = d(H, (SBC)) = HK$"
+  },
+  {
+    "bbox": [
+      155,
+      1183,
+      994,
+      1267
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{S.ABCD} = \\frac{1}{3} \\cdot S_{ABCD} \\cdot SH \\Leftrightarrow \\sqrt{2} = \\frac{1}{3} \\cdot \\frac{(1+2) \\cdot 1}{2} \\cdot SH \\Leftrightarrow SH = 2\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1287,
+      1077,
+      1381
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } \\Delta SHB: \\frac{1}{HK^2} = \\frac{1}{SH^2} + \\frac{1}{HB^2} = \\frac{1}{8} + \\frac{2}{1} = \\frac{17}{8} \\Rightarrow HK = \\frac{2\\sqrt{34}}{17} \\approx 0.69.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1397,
+      1575,
+      1669
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Hai người ngang tài ngang sức tranh chức vô dịch của cuộc thi cờ hướng. Người胜� chiến thắng là người đầu tiên thắng được 5 ván cờ. Tài thời điểm người chơi thứ nhất đã thắng 4 ván và người chơi thứ hai mới thắng 2 ván, xác suất để người chơi thứ nhất胜� chiến thắng là $P = \\frac{a}{b}$, ($a,b \\in \\mathbb{N}^*$; $a,b$ nguyên tố cùng nhau). Tính $a^2 + b$?"
+  },
+  {
+    "bbox": [
+      155,
+      1691,
+      494,
+      1729
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1750,
+      924,
+      1789
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1807,
+      319,
+      1847
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 57"
+  },
+  {
+    "bbox": [
+      155,
+      1861,
+      1575,
+      1965
+    ],
+    "category": "Text",
+    "text": "Hai người cần chơi tối đa 9 ván cờ. Do đã chơi được 6 ván và người thứ nhất đã thắng 4 ván nên người thứ nhất胜� chiến thắng chung cuộc khi trong ba ván còn lại thắng 1 ván."
+  },
+  {
+    "bbox": [
+      155,
+      1981,
+      1245,
+      2028
+    ],
+    "category": "Text",
+    "text": "Gọi $A_i$ là biến cố: Người thứ nhất thắng ván thứ $i$ trong ba ván còn lại, $i = 1,2,3$."
+  },
+  {
+    "bbox": [
+      155,
+      2056,
+      985,
+      2138
+    ],
+    "category": "Text",
+    "text": "Các biến cố $A_1, A_2, A_3$ độc lập và $P(A_i) = P(\\bar{A}_i) = \\frac{1}{2}, i = 1,2,3$."
+  },
+  {
+    "bbox": [
+      155,
+      2156,
+      1018,
+      2202
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: Người thứ nhất胜�戰役中战役"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

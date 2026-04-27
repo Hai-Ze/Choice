@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      114,
+      123,
+      619,
+      213
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{x^2 + x + 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      251,
+      215,
+      748,
+      261
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có tập xác định là $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      269,
+      609,
+      360
+    ],
+    "category": "Text",
+    "text": "b) $y' = \\frac{x^2 - 2x}{(x + 1)^2}, \\forall x \\neq -1$."
+  },
+  {
+    "bbox": [
+      251,
+      375,
+      766,
+      421
+    ],
+    "category": "Text",
+    "text": "c) Hàm số có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      288,
+      429,
+      1497,
+      671
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$-1$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$-3$</td><td>$-\\infty$</td><td>$+\\infty$</td><td>$1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      682,
+      1112,
+      732
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai điểm cực trị của đồ thị hàm số là $2\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      114,
+      758,
+      1533,
+      864
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian với hệ trục tọa độ $Oxyz$, cho tam giác $ABC$ với $A(3;0;0)$, $B(0;6;0)$, $C(0;0;-9)$."
+  },
+  {
+    "bbox": [
+      251,
+      878,
+      1000,
+      924
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ trọng tâm $G$ của tam giác $ABC$ là $(1;2;-3)$."
+  },
+  {
+    "bbox": [
+      251,
+      936,
+      698,
+      988
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ của $\\overrightarrow{GA}$ là $(-2;2;-3)$."
+  },
+  {
+    "bbox": [
+      251,
+      996,
+      439,
+      1045
+    ],
+    "category": "Text",
+    "text": "c) $GA = \\sqrt{17}$."
+  },
+  {
+    "bbox": [
+      251,
+      1058,
+      543,
+      1142
+    ],
+    "category": "Text",
+    "text": "d) $\\cos AGB = \\frac{1}{\\sqrt{442}}$."
+  },
+  {
+    "bbox": [
+      114,
+      1148,
+      743,
+      1193
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Học sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      1216,
+      1533,
+      1319
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Hàm số $y = \\log_2(x^2 + 3x)$ nghịch biến trên khoảng $(-\\infty; a)$. Giá trị lớn nhất của $a$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      1340,
+      1533,
+      1425
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một công ty thống kê tuổi của các nhân viên và kết quả được cho trong bảng số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      361,
+      1430,
+      1286,
+      1524
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[23; 26)</td><td>[26; 29)</td><td>[29; 32)</td><td>[32; 35)</td><td>[35; 38)</td></tr><tr><td>Tần số</td><td>23</td><td>40</td><td>56</td><td>33</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1522,
+      1533,
+      1606
+    ],
+    "category": "Text",
+    "text": "Khoảng tum phân vị của mẫu số liệu ghép nhóm trên (làm tròn đến hàng phần mười) là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      1627,
+      1533,
+      2193
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một người điều�nkiển flycam để phục vụ một chương trình truyền hình. Người ta chọn hệ trục tọa độ $Oxyz$ với gốc tọa độ $O$ là vị trí người điều�nkiển, mặt phẳng $(Oxy)$ trùng với mặt đất, trục $Ox$ có hướng trùng với hướng nam, trục $Oy$ có hướng trùng với hướng đông, trục $Oz$ vuông góc với mặt đất và hướng lên bầu trời, mỗi đơn vị trên mỗi trục tương ứng với $1(m)$. Đầu tiên flycam ở vị trí $A$ cách vị trí điều�nkiển $100(m)$ về phía nam và $150(m)$ về phía đông, đồng thời cách mặt đất $30(m)$. Để thực hiện nhiệm vụ tiếp theo, người ta điều�nkiển flycam đến vị trí $B$ cách vị trí điều�nkiển $80(m)$ về phía bắc và $120(m)$ về phía Tây, đồng thời cách mặt đất $50(m)$. Flycam bay từ vị trí $A$ đến vị trí $B$ theo một đường thẳng với tốc độ trung bình là $a(m/s)$ trong thời gian $45 giây$. Giá trị của $a$ (làm tròn đến hàng phần mười) là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1236,
+      2249,
+      1533,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 0103"
+  }
+]

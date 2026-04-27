@@ -1,0 +1,387 @@
+[
+  {
+    "bbox": [
+      154,
+      138,
+      1015,
+      181
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của $BC$. Khẳng định nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      677,
+      194,
+      1024,
+      582
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      670,
+      402,
+      712
+    ],
+    "category": "List-item",
+    "text": "A $BC \\perp SA$."
+  },
+  {
+    "bbox": [
+      535,
+      670,
+      756,
+      712
+    ],
+    "category": "List-item",
+    "text": "B $BC \\perp AM$."
+  },
+  {
+    "bbox": [
+      879,
+      670,
+      1086,
+      712
+    ],
+    "category": "List-item",
+    "text": "C $BC \\perp SB$."
+  },
+  {
+    "bbox": [
+      1224,
+      670,
+      1442,
+      712
+    ],
+    "category": "List-item",
+    "text": "D $BC \\perp SM$."
+  },
+  {
+    "bbox": [
+      154,
+      730,
+      199,
+      767
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      727,
+      445,
+      791
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      201,
+      807,
+      762,
+      847
+    ],
+    "category": "Text",
+    "text": "- $SA \\perp (ABC) \\Rightarrow SA \\perp BC$ (A đúng)."
+  },
+  {
+    "bbox": [
+      201,
+      866,
+      1072,
+      908
+    ],
+    "category": "Text",
+    "text": "- $\\triangle ABC$ đều, $M$ là trung điểm $BC \\Rightarrow AM \\perp BC$ (B đúng)."
+  },
+  {
+    "bbox": [
+      201,
+      928,
+      1188,
+      969
+    ],
+    "category": "Text",
+    "text": "- $BC \\perp AM$ và $BC \\perp SA \\Rightarrow BC \\perp (SAM) \\Rightarrow BC \\perp SM$ (D đúng)."
+  },
+  {
+    "bbox": [
+      201,
+      988,
+      775,
+      1028
+    ],
+    "category": "Text",
+    "text": "- Không có cơ sở để kết luận $BC \\perp SB$."
+  },
+  {
+    "bbox": [
+      154,
+      1050,
+      1546,
+      1135
+    ],
+    "category": "Text",
+    "text": "Điều Câu 8. Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(1; 2; -1)$ và bán kính $R = 3$. Phương trình mặt cầu $(S)$ là"
+  },
+  {
+    "bbox": [
+      189,
+      1155,
+      728,
+      1197
+    ],
+    "category": "List-item",
+    "text": "A $(x + 1)^2 + (y + 2)^2 + (z - 1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      189,
+      1200,
+      728,
+      1242
+    ],
+    "category": "List-item",
+    "text": "B $(x + 1)^2 + (y + 2)^2 + (z - 1)^2 = 3$."
+  },
+  {
+    "bbox": [
+      189,
+      1244,
+      728,
+      1286
+    ],
+    "category": "List-item",
+    "text": "C $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      189,
+      1288,
+      728,
+      1330
+    ],
+    "category": "List-item",
+    "text": "D $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 3$."
+  },
+  {
+    "bbox": [
+      154,
+      1335,
+      199,
+      1372
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1335,
+      1546,
+      1429
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình mặt cầu tâm $I(a; b; c)$ bán kính $R$ là: $(x-a)^2+(y-b)^2+(z-c)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      201,
+      1435,
+      896,
+      1477
+    ],
+    "category": "Text",
+    "text": "Thay số: $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 3^2 = 9$."
+  },
+  {
+    "bbox": [
+      154,
+      1497,
+      1499,
+      1539
+    ],
+    "category": "Text",
+    "text": "Điều Câu 9. Cho cấp số nhân $(u_n)$ với $u_1 = -8$ và $u_4 = 1$. Công bội của cấp số nhân đã cho bằng"
+  },
+  {
+    "bbox": [
+      191,
+      1551,
+      280,
+      1627
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      535,
+      1551,
+      642,
+      1627
+    ],
+    "category": "List-item",
+    "text": "B $-2$."
+  },
+  {
+    "bbox": [
+      879,
+      1551,
+      960,
+      1627
+    ],
+    "category": "List-item",
+    "text": "C $2$."
+  },
+  {
+    "bbox": [
+      1224,
+      1551,
+      1337,
+      1627
+    ],
+    "category": "List-item",
+    "text": "D $-\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      1647,
+      199,
+      1684
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1644,
+      1546,
+      1781
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Áp dụng công thức số hạng tổng quát: $u_4 = u_1 \\cdot q^3 \\Leftrightarrow 1 = -8 \\cdot q^3 \\Leftrightarrow q^3 = -\\frac{1}{8} \\Leftrightarrow q = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      1792,
+      1546,
+      1878
+    ],
+    "category": "Text",
+    "text": "Điều Câu 10. Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (x - 2)^2(1 - x)$ với mọi $x \\in \\mathbb{R}$. Hàm số đã cho đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      191,
+      1898,
+      372,
+      1940
+    ],
+    "category": "List-item",
+    "text": "A $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      535,
+      1898,
+      713,
+      1940
+    ],
+    "category": "List-item",
+    "text": "B $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      879,
+      1898,
+      1060,
+      1940
+    ],
+    "category": "List-item",
+    "text": "C $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1898,
+      1360,
+      1940
+    ],
+    "category": "List-item",
+    "text": "D $(1; 2)$."
+  },
+  {
+    "bbox": [
+      154,
+      1958,
+      199,
+      1995
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1955,
+      1253,
+      2018
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Hàm số đồng biến khi $f'(x) \\ge 0 \\Leftrightarrow (x - 2)^2(1 - x) \\ge 0$."
+  },
+  {
+    "bbox": [
+      201,
+      2033,
+      1149,
+      2075
+    ],
+    "category": "Text",
+    "text": "Vì $(x - 2)^2 \\ge 0$ với mọi $x$, nên dấu của $f'(x)$ phụ thuộc vào $1 - x$."
+  },
+  {
+    "bbox": [
+      201,
+      2094,
+      1123,
+      2136
+    ],
+    "category": "Text",
+    "text": "$1 - x \\ge 0 \\Leftrightarrow x \\le 1$. vậy hàm số đồng biến trên khoảng $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      154,
+      2156,
+      1546,
+      2198
+    ],
+    "category": "Text",
+    "text": "Điều Câu 11. Thời gian đàm thoại của một số cuộc gọi bởi một nhân viên sale được cho kết quả"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "123"
+  }
+]

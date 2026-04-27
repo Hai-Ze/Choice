@@ -1,0 +1,32 @@
+[
+  {
+    "bbox": [
+      214,
+      99,
+      1469,
+      190
+    ],
+    "category": "Text",
+    "text": "Suy ra độ dài đáy lớn là $x = 2EF + 20 = 2 \\cdot \\frac{20}{3} + 20 = \\frac{100}{3}$. Suy ra $S_2 = x^2 = \\left(\\frac{100}{3}\\right)^2 = \\frac{10000}{9}$."
+  },
+  {
+    "bbox": [
+      214,
+      199,
+      1216,
+      384
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của lượng đất cần tính là $V = \\frac{1}{3} \\cdot h(S_1 + S_2 + \\sqrt{S_1 \\cdot S_2})$\n$= \\frac{1}{3} \\cdot 20 \\left( 400 + \\frac{10000}{9} + \\sqrt{400 \\cdot \\frac{10000}{9}} \\right) = 14518,51852 (\\text{cm}^3) \\approx 14,5 (\\text{dm}^3)$."
+  },
+  {
+    "bbox": [
+      692,
+      390,
+      992,
+      429
+    ],
+    "category": "Text",
+    "text": "---------- Hết ----------"
+  }
+]

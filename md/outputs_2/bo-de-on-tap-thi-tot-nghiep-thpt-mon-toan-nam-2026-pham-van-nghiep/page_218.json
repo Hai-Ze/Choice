@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      214,
+      110,
+      861,
+      196
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{8}{14} = \\frac{15}{91} \\cdot \\frac{2}{3} + \\left(1 - \\frac{15}{91}\\right) \\cdot P(A|\\bar{C}) \\Rightarrow P(A|\\bar{C}) = \\frac{21}{38}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      206,
+      1575,
+      297
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** [1-1-2-3] Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(2;0;0)$, bán kính $R=5$ và hai điểm $A(0;2;1)$, $B(-2;4;2)$."
+  },
+  {
+    "bbox": [
+      214,
+      304,
+      1034,
+      350
+    ],
+    "category": "Text",
+    "text": "a) Phương trình của mặt cầu $(S)$ là $(x-2)^2 + y^2 + z^2 = 5$."
+  },
+  {
+    "bbox": [
+      214,
+      355,
+      459,
+      396
+    ],
+    "category": "Text",
+    "text": "b) Độ dài $IA = 3$."
+  },
+  {
+    "bbox": [
+      214,
+      398,
+      1575,
+      541
+    ],
+    "category": "Text",
+    "text": "c) Gọi $(P)$ là mặt phẳng đi qua $A$ và vuông góc với mặt phẳng $(Q)$: $x-y+z-3=0$ sao cho khoảng cách từ $I$ đến mặt phẳng $(P)$ đạt giá trị lớn nhất, khi đó phương trình mặt phẳng $(P)$ là $2x+y-z-1=0$."
+  },
+  {
+    "bbox": [
+      214,
+      546,
+      1575,
+      681
+    ],
+    "category": "Text",
+    "text": "d) Giả sử $d$ là đường thẳng thay đổi đi qua $A$ và cắt mặt cầu $(S)$ tại hai điểm $M, N$. Gọi $M(a;b;c)$ là điểm thỏa mãn $|MA - MB|$ đạt giá trị nhỏ nhất, khi đó ta có $2a - 2b - c = -\\frac{19}{2}$."
+  },
+  {
+    "bbox": [
+      765,
+      687,
+      884,
+      728
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      735,
+      314,
+      769
+    ],
+    "category": "Text",
+    "text": "a) Sai"
+  },
+  {
+    "bbox": [
+      262,
+      776,
+      966,
+      821
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt cầu $(S)$: $(x-2)^2 + y^2 + z^2 = 25$."
+  },
+  {
+    "bbox": [
+      214,
+      829,
+      353,
+      870
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      262,
+      870,
+      747,
+      920
+    ],
+    "category": "Text",
+    "text": "Ta có $\\vec{IA} = (-2;2;1)$, suy ra $IA = 3$."
+  },
+  {
+    "bbox": [
+      214,
+      929,
+      314,
+      964
+    ],
+    "category": "Text",
+    "text": "c) Sai"
+  },
+  {
+    "bbox": [
+      262,
+      969,
+      1479,
+      1016
+    ],
+    "category": "Text",
+    "text": "Gọi $\\Delta$ là đường thẳng đi qua $A$ và vuông góc với mặt phẳng $(Q)$, suy ra $\\Delta \\subset (P)$."
+  },
+  {
+    "bbox": [
+      214,
+      1020,
+      476,
+      1165
+    ],
+    "category": "Text",
+    "text": "Ta có $\\Delta: \\begin{cases} x = t \\\\ y = 2 - t \\\\ z = 1 + t. \\end{cases}$"
+  },
+  {
+    "bbox": [
+      214,
+      1176,
+      1446,
+      1223
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $I$ trên $\\Delta$, suy ra $H(1;1;2)$, khi đó $\\vec{IH} = (-1;1;2)$."
+  },
+  {
+    "bbox": [
+      214,
+      1227,
+      1079,
+      1274
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là hình chiếu vuông góc của $I$ trên mặt phẳng $(P)$."
+  },
+  {
+    "bbox": [
+      214,
+      1279,
+      577,
+      1320
+    ],
+    "category": "Text",
+    "text": "Ta có $d(I,(P)) = IK \\le IH$,"
+  },
+  {
+    "bbox": [
+      214,
+      1327,
+      1571,
+      1426
+    ],
+    "category": "Text",
+    "text": "Dấu “=” xảy ra khi $K \\equiv H$, hay $(P)$ là mặt phẳng đi $A$ và nhận $\\vec{IH}$ làm một vecto pháp tuyến."
+  },
+  {
+    "bbox": [
+      214,
+      1429,
+      749,
+      1471
+    ],
+    "category": "Text",
+    "text": "Phương trình $(P)$: $-x + y + 2z - 4 = 0$."
+  },
+  {
+    "bbox": [
+      214,
+      1479,
+      314,
+      1514
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      214,
+      1521,
+      666,
+      1568
+    ],
+    "category": "Text",
+    "text": "Ta có $\\vec{IB} = (-4;4;2) \\Rightarrow \\vec{IB} = 2\\vec{IA}$."
+  },
+  {
+    "bbox": [
+      214,
+      1576,
+      683,
+      1619
+    ],
+    "category": "Text",
+    "text": "Suy ra $A$ là trung điểm của $IB$."
+  },
+  {
+    "bbox": [
+      214,
+      1621,
+      1575,
+      1715
+    ],
+    "category": "Text",
+    "text": "Lại có $|MA - MB| \\ge 0$, dấu “=” xảy ra khi $MA = MB$, hay $M$ thuộc mặt phẳng $(\\alpha)$ là mặt phẳng trung trực của đoạn $AB$."
+  },
+  {
+    "bbox": [
+      214,
+      1717,
+      926,
+      1802
+    ],
+    "category": "Text",
+    "text": "Gọi $E$ là trung điểm của $AB$, suy ra $E\\left(-1;3;\\frac{3}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      214,
+      1812,
+      1036,
+      1893
+    ],
+    "category": "Text",
+    "text": "Ta có $AB = 3 \\Rightarrow AE = \\frac{3}{2} \\Rightarrow IE = \\frac{9}{2} < R$, vì vậy $(\\alpha)$ cắt $(S)$."
+  },
+  {
+    "bbox": [
+      214,
+      1898,
+      657,
+      1977
+    ],
+    "category": "Text",
+    "text": "Suy ra $(\\alpha)$: $2x - 2y - z - \\frac{19}{2} = 0$."
+  },
+  {
+    "bbox": [
+      214,
+      1984,
+      783,
+      2063
+    ],
+    "category": "Text",
+    "text": "Do $M(a;b;c) \\in (\\alpha)$ nên $2a - 2b - c = \\frac{19}{2}$."
+  },
+  {
+    "bbox": [
+      74,
+      2069,
+      855,
+      2117
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho đồ thị hàm số $(C)$: $y = f(x) = 3x^2 - 2x - 1$."
+  },
+  {
+    "bbox": [
+      214,
+      2123,
+      627,
+      2181
+    ],
+    "category": "Formula",
+    "text": "a) $\\int f(x) dx = x^3 - x^2 - x + C$."
+  },
+  {
+    "bbox": [
+      214,
+      2183,
+      971,
+      2241
+    ],
+    "category": "Formula",
+    "text": "b) $\\int (f(x) - 1) dx = \\int (3x^2 - 2x - 2) dx = x^3 - x^2 - 2x + C$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

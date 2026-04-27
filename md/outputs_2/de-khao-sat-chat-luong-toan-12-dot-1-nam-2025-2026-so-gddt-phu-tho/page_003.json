@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      104,
+      99,
+      1497,
+      182
+    ],
+    "category": "Section-header",
+    "text": "## Part II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ỡ mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      104,
+      182,
+      1556,
+      258
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một cơ sở sản xuất hàng thủ công thống kê về số lượng sản phẩm X bán được trong 30 ngày như sau"
+  },
+  {
+    "bbox": [
+      245,
+      264,
+      1450,
+      387
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số lượng sản phẩm</td><td>[100;140)</td><td>[140;180)</td><td>[180;220)</td><td>[220;260)</td><td>[260;300)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>12</td><td>6</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      141,
+      390,
+      837,
+      434
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu đã cho là 200."
+  },
+  {
+    "bbox": [
+      141,
+      435,
+      824,
+      479
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng tử phân vị của mẫu số liệu đã cho là 60."
+  },
+  {
+    "bbox": [
+      141,
+      479,
+      939,
+      523
+    ],
+    "category": "List-item",
+    "text": "c) Trung bình số sản phẩm bán được trong một ngày là 220."
+  },
+  {
+    "bbox": [
+      141,
+      524,
+      756,
+      567
+    ],
+    "category": "List-item",
+    "text": "d) Phương sai của mẫu số liệu đã cho là 1920."
+  },
+  {
+    "bbox": [
+      104,
+      572,
+      928,
+      620
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = x^3 - 3x^2 + 5$ có đồ thị là (C). Khi đó:"
+  },
+  {
+    "bbox": [
+      138,
+      632,
+      801,
+      679
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho nghịch biến trên khoảng (0;2)."
+  },
+  {
+    "bbox": [
+      138,
+      686,
+      643,
+      729
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đã cho có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      138,
+      735,
+      1029,
+      781
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị nhỏ nhất của hàm số đã cho trên khoảng (0;+∞) bằng 2."
+  },
+  {
+    "bbox": [
+      138,
+      793,
+      1505,
+      842
+    ],
+    "category": "List-item",
+    "text": "d) Tiếp tuyến của đồ thị (C) tại điểm có hoành độ bằng 1 là đường thẳng có phương trình $y = -3x + 3$."
+  },
+  {
+    "bbox": [
+      104,
+      853,
+      1555,
+      946
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hình chóp đều $S.ABCD$ có $SA = AB = 4\\sqrt{2}$. Gọi $M$ là trung điểm của $AB$, $G$ là trọng tâm tam giác $SAB$."
+  },
+  {
+    "bbox": [
+      136,
+      951,
+      463,
+      1002
+    ],
+    "category": "Formula",
+    "text": "a) $\\overrightarrow{SA} + \\overrightarrow{SB} = \\overrightarrow{SC} + \\overrightarrow{SD}$."
+  },
+  {
+    "bbox": [
+      136,
+      1007,
+      480,
+      1057
+    ],
+    "category": "Formula",
+    "text": "b) $\\overrightarrow{DS} = -2\\overrightarrow{DM} + 3\\overrightarrow{DG}$."
+  },
+  {
+    "bbox": [
+      104,
+      1059,
+      1548,
+      1161
+    ],
+    "category": "Text",
+    "text": "c) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$.úi $E(a;b;c)$ thuộc mặt phẳng ($SBD$) sao cho $C, E, G$ thẳng hàng thì $a+b+c=2$."
+  },
+  {
+    "bbox": [
+      104,
+      1169,
+      1548,
+      1270
+    ],
+    "category": "Text",
+    "text": "d) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$.úi $F(x;y;z)$ thuộc mặt phẳng ($SAC$) sao cho $FG+FB$ nhỏ nhất thì $x+y+z=-1$."
+  },
+  {
+    "bbox": [
+      104,
+      1276,
+      1488,
+      1398
+    ],
+    "category": "Text",
+    "text": "Câu 4. At một khu bảo tồn thiên nhiên các nhà khoa học đã thả một số cá thể của một loài động vật quí hiểm trong một khu rừng rộng 10 hecta và theo dõi sự tăng trưởng số lượng của chúng. They thấy rằng số lượng cá thể của loài động vật đó sau $t$ năm kể từ khi nuôi tại khu bảo tồn được xấp xỉ bởi hàm số"
+  },
+  {
+    "bbox": [
+      104,
+      1398,
+      1529,
+      1538
+    ],
+    "category": "Text",
+    "text": "$h(t) = 70 \\log_2 \\left( \\frac{8t+1}{t+1} \\right) + 30$ (cá thể, $t$ là số thực dương) và tốc độ tăng trưởng số lượng cá thể của loài động vật đó tại thời điểm sau đúng $t$ năm kể từ khi nuôi được xấp xỉ bởi hàm số $h'(t)$ (đơn vị: cá thể/năm)."
+  },
+  {
+    "bbox": [
+      133,
+      1546,
+      806,
+      1592
+    ],
+    "category": "List-item",
+    "text": "a) Thời điểm ban đầu, người ta thả nuôi 30 cá thể."
+  },
+  {
+    "bbox": [
+      133,
+      1592,
+      1222,
+      1638
+    ],
+    "category": "List-item",
+    "text": "b) Sau 9 tháng kể từ khi bắt đầu nuôi, số lượng cá thể của loài động vật đó là 170."
+  },
+  {
+    "bbox": [
+      104,
+      1646,
+      1548,
+      1766
+    ],
+    "category": "Text",
+    "text": "c) Tốc độ tăng trưởng số lượng cá thể của loài động vật đó tại thời điểm đúng 6 năm kể từ khi nuôi là $\\frac{10}{7}$ (cá thể/năm)."
+  },
+  {
+    "bbox": [
+      133,
+      1766,
+      936,
+      1810
+    ],
+    "category": "List-item",
+    "text": "d) Số lượng cá thể của loài động vật đó không vượt quá 240."
+  },
+  {
+    "bbox": [
+      104,
+      1851,
+      725,
+      1892
+    ],
+    "category": "Section-header",
+    "text": "## Part III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      97,
+      1898,
+      1546,
+      2088
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật tâm $O$ với $AB=6, AD=8$. Biết $SO$ vuông góc với mặt phẳng ($ABCD$) và $SA$ tạo với mặt phẳng ($ABCD$) một góc $45^\\circ$. Gọi $M$ là trung điểm của $SA$.Biết khoảng cách giữa hai đường thẳng $SC$ và $DM$ bằng $\\frac{120}{\\sqrt{n}}$, giá trị của $n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1254,
+      2224,
+      1546,
+      2265
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 1008"
+  }
+]

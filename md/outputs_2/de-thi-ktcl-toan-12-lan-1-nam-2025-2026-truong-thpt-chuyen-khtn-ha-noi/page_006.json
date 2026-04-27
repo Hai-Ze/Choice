@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      603,
+      116,
+      1044,
+      173
+    ],
+    "category": "Section-header",
+    "text": "HƯỚNG DÃN GIẢI"
+  },
+  {
+    "bbox": [
+      114,
+      308,
+      1535,
+      398
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Trắc nghiệm 4 phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh trả lời một phương án."
+  },
+  {
+    "bbox": [
+      114,
+      418,
+      896,
+      466
+    ],
+    "category": "Text",
+    "text": "Câu 1: Heo nguyên hàm của hàm số $f(x) = x + \\sin x$ là"
+  },
+  {
+    "bbox": [
+      251,
+      510,
+      534,
+      591
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{2}x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      586,
+      510,
+      861,
+      591
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{2}x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      901,
+      528,
+      1146,
+      568
+    ],
+    "category": "List-item",
+    "text": "C. $x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1215,
+      528,
+      1466,
+      568
+    ],
+    "category": "List-item",
+    "text": "D. $x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      836,
+      602,
+      950,
+      640
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      676,
+      966,
+      761
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\int f(x)dx = \\int (x + \\sin x)dx = \\frac{x^2}{2} - \\cos x + C.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      798,
+      1220,
+      845
+    ],
+    "category": "Text",
+    "text": "Câu 2: Cho hàm số $f(x) = x^3 - 3x + 2$. Giá trị cực đại của hàm số đã cho bằng"
+  },
+  {
+    "bbox": [
+      251,
+      889,
+      351,
+      923
+    ],
+    "category": "List-item",
+    "text": "A. -1."
+  },
+  {
+    "bbox": [
+      586,
+      889,
+      665,
+      923
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      901,
+      889,
+      969,
+      923
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1215,
+      889,
+      1296,
+      923
+    ],
+    "category": "List-item",
+    "text": "D. 4."
+  },
+  {
+    "bbox": [
+      836,
+      934,
+      950,
+      972
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1006,
+      544,
+      1044
+    ],
+    "category": "Text",
+    "text": "Tập xác định $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      1078,
+      612,
+      1122
+    ],
+    "category": "Text",
+    "text": "Đạo hàm $f'(x) = 3x^2 - 3$."
+  },
+  {
+    "bbox": [
+      256,
+      1165,
+      555,
+      1260
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\begin{cases} x = -1 \\\\ x = 1 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1296,
+      466,
+      1339
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      513,
+      1371,
+      1272,
+      1655
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1687,
+      1073,
+      1732
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, suy ra giá trị cực đại của hàm số bằng 4."
+  },
+  {
+    "bbox": [
+      114,
+      1766,
+      1233,
+      1880
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho $\\int_{0}^{1} f(x)dx = 2$ và $\\int_{0}^{1} g(x)dx = 5$ khi đó $\\int_{0}^{1} [3f(x) - 2g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      251,
+      1914,
+      351,
+      1949
+    ],
+    "category": "List-item",
+    "text": "A. -4."
+  },
+  {
+    "bbox": [
+      586,
+      1914,
+      675,
+      1949
+    ],
+    "category": "List-item",
+    "text": "B. 16."
+  },
+  {
+    "bbox": [
+      901,
+      1914,
+      1002,
+      1949
+    ],
+    "category": "List-item",
+    "text": "C. -3."
+  },
+  {
+    "bbox": [
+      1215,
+      1914,
+      1302,
+      1949
+    ],
+    "category": "List-item",
+    "text": "D. 11."
+  },
+  {
+    "bbox": [
+      836,
+      1958,
+      950,
+      1996
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      2032,
+      1256,
+      2133
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\int_{0}^{1} [3f(x) - 2g(x)]dx = 3\\int_{0}^{1} f(x)dx - 2\\int_{0}^{1} g(x)dx = 3 \\cdot 2 - 2 \\cdot 5 = -4.\n$$"
+  }
+]

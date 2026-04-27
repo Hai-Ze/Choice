@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      98,
+      971,
+      245
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số đường thẳng $AB$ là: $$ \\begin{cases} x = 3 + 18t \\\\ y = 2,5 + 15t \\\\ z = 15 - 5t \\end{cases} \\ (t \\in \\mathbb{R}). $$"
+  },
+  {
+    "bbox": [
+      75,
+      272,
+      1191,
+      419
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình đường thẳng chứa đường trượt zipline là $$ \\begin{cases} x = 3 + 18t \\\\ y = 2,5 + 15t \\\\ z = 15 - 5t \\end{cases} \\ (t \\in \\mathbb{R}). $$"
+  },
+  {
+    "bbox": [
+      75,
+      444,
+      757,
+      485
+    ],
+    "category": "Text",
+    "text": "Xác định toạ độ của du khách khi ở độ cao 12 mét."
+  },
+  {
+    "bbox": [
+      75,
+      506,
+      969,
+      587
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi du khách khi ở độ cao 12 mét} \\Rightarrow z = 12 \\Rightarrow 15 - 5t = 12 \\Rightarrow t = \\frac{3}{5}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      610,
+      1231,
+      757
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay } t = \\frac{3}{5} \\text{ vào phương trình đường thẳng } AB \\text{ ta được } \\begin{cases} x = 13,8 \\\\ y = 11,5 \\\\ z = 12 \\end{cases} \\Rightarrow C(13,8;11,5;12)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      783,
+      638,
+      824
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } T = a + b + c = 13,8 + 11,5 + 12 = 37,3\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      847,
+      1496,
+      1024
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông tâm $O$, cạnh $1\\text{cm}$. Cạnh bên $SA$ vuông góc với đáy, góc $\\widehat{SBD} = 60^\\circ$. Khoảng cách giữa hai đường thẳng $AB$ và $SO$ bằng bao nhiêu $\\text{cm}$? (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      75,
+      1039,
+      415,
+      1076
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1098,
+      843,
+      1137
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1156,
+      277,
+      1196
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,45."
+  },
+  {
+    "bbox": [
+      102,
+      1242,
+      757,
+      1730
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1776,
+      596,
+      1815
+    ],
+    "category": "Text",
+    "text": "Ta có $\\Delta SAB = \\Delta SAD$, suy ra $SB = SD$."
+  },
+  {
+    "bbox": [
+      75,
+      1841,
+      1025,
+      1892
+    ],
+    "category": "Text",
+    "text": "Lại có $\\widehat{SBD} = 60^\\circ$, suy ra $\\Delta SBD$ đều do đó: $SB = SD = BD = \\sqrt{2}(\\text{cm})$."
+  },
+  {
+    "bbox": [
+      75,
+      1916,
+      785,
+      1969
+    ],
+    "category": "Text",
+    "text": "Tam giác vuông $SAB$, có $SA = \\sqrt{SB^2 - AB^2} = 1(\\text{cm})$."
+  },
+  {
+    "bbox": [
+      75,
+      1988,
+      860,
+      2035
+    ],
+    "category": "Text",
+    "text": "Gọi $E$ là trung điểm $AD$, suy ra $OE \\parallel AB \\Rightarrow AB \\parallel (SOE)$."
+  },
+  {
+    "bbox": [
+      75,
+      2057,
+      768,
+      2111
+    ],
+    "category": "Text",
+    "text": "Do đó $d(AB, SO) = d(AB, (SOE)) = d(A, (SOE))$."
+  },
+  {
+    "bbox": [
+      75,
+      2132,
+      703,
+      2173
+    ],
+    "category": "Text",
+    "text": "Kẻ $AK \\perp SE$, mà $AK \\perp OE$ nên $AK \\perp (SOE)$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

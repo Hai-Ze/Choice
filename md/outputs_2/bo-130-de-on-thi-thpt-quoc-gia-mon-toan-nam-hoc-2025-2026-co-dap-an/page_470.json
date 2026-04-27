@@ -1,0 +1,274 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      477,
+      123,
+      1453,
+      162
+    ],
+    "category": "Text",
+    "text": "c) Trong suốt quá trình bay, sẽ có thời điểm UAV gây nhiều được radar."
+  },
+  {
+    "bbox": [
+      477,
+      164,
+      1382,
+      204
+    ],
+    "category": "Text",
+    "text": "d) Radar có thể theo dõi UAV trong khoảng thời gian hơn 30 phút."
+  },
+  {
+    "bbox": [
+      464,
+      220,
+      1247,
+      273
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      283,
+      1556,
+      438
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một chiếc lều hình chóp có đáy là hình vuông, mỗi cạnh dài 200 cm. Đỉnh lều nằm thẳng đứng phía trên tâm của hình vuông, và chiều cao của lều là 200 cm. Người ta dùng 4 cọc bằng nhau nối từ 4 góc của đáy đến đỉnh lều để dụng lều. Chiều dài tối少 của mỗi cọc là bao nhiêu cm (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      459,
+      443,
+      511,
+      477
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      517,
+      436,
+      681,
+      489
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      503,
+      1556,
+      772
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một giáo viên theo dõi sự tiến bộ của học sinh qua thang đo điểm, được mô hình hóa bằng hàm số $f(x) = x^3 + ax^2 + bx + c$ với $a, b, c$ là các hệ số. Trong đó, $x$ ($0 \\le x \\le 9, x \\in \\mathbb{N}$) là số tháng kể từ đầu năm học và $f(x)$ là điểm trong tháng thứ $x$. Qua theo dõi, giáo viên ghi nhận tháng đầu tiên học sinh đạt 19 điểm, sau đó giảm trong tháng thứ hai và đến tháng thứ ba học sinh đạt mức thấp nhất trong ba năm học, là 3 điểm. Kể từ tháng thứ ba trở đi, điểm của học sinh tăng lên. Tính điểm của học sinh đó ở tháng thứ sáu."
+  },
+  {
+    "bbox": [
+      1333,
+      737,
+      1382,
+      770
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      728,
+      1554,
+      781
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      794,
+      1556,
+      1138
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một khinh khí cầu nghiên cứu khí tượng được phóng lên để thu thập dữ liệu trong tần bình lưu. Khí cầu này có thiết bị định vị sử dụng tín hiệu từ các vệ tinh của công ty $S$ để xác định vị trí trong không gian. Tại thời điểm quan sát, khí cầu đang bay ở độ cao 50 km và nhận được tín hiệu từ ba vệ tinh $S$ có tọa độ trong không gian $Oxyz$ (đơn vị km) như sau: Vệ tinh $A$ tại vị trí $A(103; 204; 62)$, Vệ tinh $B$ tại vị trí $B(106; 208; 74)$, vệ tinh $C$ tại vị trí $C(105; 212; 134)$. Từ thời gian truyền tín hiệu, hệ thống xác định rằng khoảng cách từ vị trí $M$ của khinh khí cầu đến các vệ tinh là: $MA = 13$ km, $MB = 26$ km, $MC = 85$ km. Tính khoảng cách từ khinh khí cầu đến góc tọa độ $O$. (làm tròn kết quả đến hàng đơn vị của km)."
+  },
+  {
+    "bbox": [
+      459,
+      1146,
+      511,
+      1179
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      517,
+      1138,
+      681,
+      1191
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1204,
+      1556,
+      1394
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một xe mô tô đang chạy với vận tốc 20 m/s thì tài xế giảm ga và kéo phanh. Từ thời điểm đó, xe chuyển động chậm dần đều với vận tốc được mô tả bởi phương trình: $v(t) = -4t + 20$ m/s, trong đó thời gian $t$ được tính bằng giây. Hỏi từ lúc giảm ga và kéo phanh đến khi停止 hẩn, mô tô di chuyển được quăng đường bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      1333,
+      1363,
+      1382,
+      1396
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      1354,
+      1554,
+      1407
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1420,
+      1556,
+      1654
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Một công ty trung bình bán được 600 chiếc máy lọc không khí mỗi tháng với giá 10 triệu đồng một chiếc. Một khảo sát cho thấy nếu giảm giá bán mỗi chiếc 400 nghìn đồng, thì số lượng bán ra tăng thêm khoảng 60 chiếc mỗi tháng. Gọi $p$ (triệu đồng) là giá của mỗi máy, $x$ là số máy bán ra. Khi đó, hàm cầu là $p = p(x)$ và hàm doanh thu là $R(p) = px$. Hỏi công ty phải bán mỗi chiếc máy lọc không khí với số tiền bao nhiêu triệu đồng để doanh thu là lớn nhất?"
+  },
+  {
+    "bbox": [
+      1333,
+      1621,
+      1382,
+      1654
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      1612,
+      1554,
+      1665
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1677,
+      1556,
+      1947
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Trong một đợt kiểm tra sức khỏe tại trường, có 200 học sinh được xét nghiệm một loại virus. Trong đó, biết rằng có 80 bạn thật sự bị nhiễm virus. Nếu một bạn bị nhiễm, thì xét nghiệm có kết quả dương tính (tức là phát hiện đúng bệnh) với xác suất 90%. Nếu một bạn không bị nhiễm, thì xét nghiệm vẫn có thể báo nhầm là dương tính (gọi là dương tính giả), với xác suất 5%. Giả sử một bạn có kết quả xét nghiệm dương tính. Hỏi xác suất để bạn đó thật sự bị nhiễm virus là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      1333,
+      1912,
+      1382,
+      1945
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      1903,
+      1554,
+      1956
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      908,
+      1974,
+      949,
+      2013
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      967,
+      1974,
+      1044,
+      2013
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      1061,
+      1974,
+      1102,
+      2013
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "468 Bùi Tịnh Minh Lâm"
+  }
+]

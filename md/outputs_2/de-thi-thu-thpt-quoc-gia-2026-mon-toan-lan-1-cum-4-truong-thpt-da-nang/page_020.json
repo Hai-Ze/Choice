@@ -1,0 +1,22 @@
+[
+  {
+    "bbox": [
+      298,
+      92,
+      1140,
+      167
+    ],
+    "category": "Text",
+    "text": "Do $ABCD$ là hình thang vuông tại $A$ và $B$ nên $\\overline{AD} = \\frac{5}{3}\\overline{BC}$."
+  },
+  {
+    "bbox": [
+      159,
+      178,
+      1162,
+      450
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giả sử } D(a;b;c) \\text{ khi đó ta có } \\begin{cases} a-1 = \\frac{20}{3} \\\\ b-2 = \\frac{5}{3} \\\\ c-1 = \\frac{-5}{3} \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{23}{3} \\\\ b = \\frac{11}{3} \\\\ c = \\frac{-2}{3} \\end{cases} \\Rightarrow a+b+c \\approx 10,7.\n$$"
+  }
+]

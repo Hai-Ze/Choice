@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      154,
+      325,
+      194
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1,5"
+  },
+  {
+    "bbox": [
+      156,
+      214,
+      624,
+      258
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố A: “Người hút thuốc”"
+  },
+  {
+    "bbox": [
+      156,
+      272,
+      575,
+      317
+    ],
+    "category": "Text",
+    "text": "B: “Bị mắc bệnh ung thư phổi”"
+  },
+  {
+    "bbox": [
+      156,
+      329,
+      400,
+      370
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      391,
+      1077,
+      439
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A \\cap B) = 0,15; P(A \\cap \\bar{B}) = 0,25; P(\\bar{A} \\cap \\bar{B}) = 0,5; P(\\bar{A} \\cap B) = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      464,
+      922,
+      512
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } P(B) = P(A \\cap B) + P(A \\cap \\bar{B}) = 0,15 + 0,1 = 0,25.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      531,
+      1026,
+      577
+    ],
+    "category": "Text",
+    "text": "Xác suất người đó hút thuốc lá biết họ mắc bệnh ung thư phổi là:"
+  },
+  {
+    "bbox": [
+      162,
+      596,
+      630,
+      681
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A | B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0,15}{0,25} = 0,6.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      701,
+      1117,
+      747
+    ],
+    "category": "Text",
+    "text": "Xác suất người đó không hút thuốc lá biết họ mắc bệnh ung thư phổi là:"
+  },
+  {
+    "bbox": [
+      162,
+      764,
+      630,
+      856
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A} | B) = \\frac{P(\\bar{A} \\cap B)}{P(B)} = \\frac{0,1}{0,25} = 0,4.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      882,
+      1472,
+      969
+    ],
+    "category": "Text",
+    "text": "Vậy tỉ lệ mắc bệnh ung thư phổi giữa người hút thuốc lá và người không hút thuốc lá là $\\frac{0,6}{0,4} = 1,5$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      196,
+      940,
+      243
+    ],
+    "category": "Text",
+    "text": "**Câu 1.**Total all the original numbers of the ham number $f(x) = 3^{-x}$ is"
+  },
+  {
+    "bbox": [
+      205,
+      271,
+      382,
+      354
+    ],
+    "category": "List-item",
+    "text": "A. $-\\frac{3^{-x}}{\\ln 3} + C$"
+  },
+  {
+    "bbox": [
+      555,
+      292,
+      716,
+      328
+    ],
+    "category": "List-item",
+    "text": "B. $-3^{-x} + C$"
+  },
+  {
+    "bbox": [
+      906,
+      292,
+      1095,
+      328
+    ],
+    "category": "List-item",
+    "text": "C. $3^{-x} \\ln 3 + C$"
+  },
+  {
+    "bbox": [
+      1255,
+      271,
+      1407,
+      354
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{3^{-x}}{\\ln 3} + C$"
+  },
+  {
+    "bbox": [
+      807,
+      378,
+      924,
+      417
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      437,
+      271,
+      474
+    ],
+    "category": "Text",
+    "text": "**Chọn A**"
+  },
+  {
+    "bbox": [
+      155,
+      498,
+      1038,
+      583
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{Cách 1:} \\int f(x)dx = \\int 3^{-x}dx = \\int (3^{-1})^x d(x) = \\frac{3^{-x}}{\\ln 3^{-1}} + C = -\\frac{3^{-x}}{\\ln 3} + C\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      610,
+      698,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{Cách 2:} \\int f(x)dx = \\int 3^{-x}dx = -\\frac{3^{-x}}{\\ln 3} + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      712,
+      1553,
+      756
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nghiệm âm lớn nhất và nghiệm dương nhỏ của phương trình $\\sin 4x + \\cos 5x = 0$ theo thứ tự là:"
+  },
+  {
+    "bbox": [
+      205,
+      782,
+      478,
+      858
+    ],
+    "category": "List-item",
+    "text": "A. $x = -\\frac{\\pi}{18}; x = \\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      906,
+      779,
+      1191,
+      858
+    ],
+    "category": "List-item",
+    "text": "B. $x = -\\frac{\\pi}{18}; x = \\frac{2\\pi}{9}$."
+  },
+  {
+    "bbox": [
+      205,
+      888,
+      478,
+      964
+    ],
+    "category": "List-item",
+    "text": "C. $x = -\\frac{\\pi}{18}; x = \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      906,
+      888,
+      1174,
+      964
+    ],
+    "category": "List-item",
+    "text": "D. $x = -\\frac{\\pi}{18}; x = \\frac{\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      807,
+      988,
+      924,
+      1027
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1046,
+      279,
+      1084
+    ],
+    "category": "Text",
+    "text": "**Chọn C.**"
+  },
+  {
+    "bbox": [
+      155,
+      1102,
+      670,
+      1138
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin 4x + \\cos 5x = 0 \\Leftrightarrow \\cos 5x = -\\sin 4x\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1167,
+      1196,
+      1345
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\cos 5x = \\cos\\left(\\frac{\\pi}{2} + 4x\\right) \\Leftrightarrow \\begin{cases} 5x = \\frac{\\pi}{2} + 4x + k2\\pi \\\\ 5x = -\\frac{\\pi}{2} - 4x + k2\\pi \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{2} + k2\\pi \\\\ x = -\\frac{\\pi}{18} + k\\frac{2\\pi}{9} \\end{cases} (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1374,
+      1206,
+      1453
+    ],
+    "category": "Text",
+    "text": "Với nghiệm $x = \\frac{\\pi}{2} + k2\\pi$ ta có nghiệm âm lớn nhất và nhỏ nhất là $-\\frac{3\\pi}{2}$ và $\\frac{\\pi}{2}$"
+  },
+  {
+    "bbox": [
+      155,
+      1479,
+      1237,
+      1559
+    ],
+    "category": "Text",
+    "text": "Với nghiệm $x = -\\frac{\\pi}{18} + k\\frac{2\\pi}{9}$ ta có nghiệm âm lớn nhất và nhỏ nhất là $-\\frac{\\pi}{18}$ và $\\frac{\\pi}{6}$"
+  },
+  {
+    "bbox": [
+      155,
+      1588,
+      825,
+      1665
+    ],
+    "category": "Text",
+    "text": "Vậy hai nghiệm theo yêu cầu đề bài là $-\\frac{\\pi}{18}$ và $\\frac{\\pi}{6}$"
+  },
+  {
+    "bbox": [
+      155,
+      1689,
+      964,
+      1734
+    ],
+    "category": "Text",
+    "text": "**Câu 3.**Tìm tập nghiệm $S$ của bất phương trình $\\ln x^2 < 0$."
+  },
+  {
+    "bbox": [
+      205,
+      1756,
+      405,
+      1801
+    ],
+    "category": "List-item",
+    "text": "A. $S = (-1;1)$."
+  },
+  {
+    "bbox": [
+      555,
+      1756,
+      757,
+      1801
+    ],
+    "category": "List-item",
+    "text": "B. $S = (-1;0)$."
+  },
+  {
+    "bbox": [
+      906,
+      1756,
+      1165,
+      1801
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-1;1) \\setminus \\{0\\}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1756,
+      1438,
+      1801
+    ],
+    "category": "List-item",
+    "text": "D. $S = (0;1)$."
+  },
+  {
+    "bbox": [
+      807,
+      1830,
+      924,
+      1868
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1888,
+      271,
+      1926
+    ],
+    "category": "Text",
+    "text": "**Chọn C**"
+  },
+  {
+    "bbox": [
+      155,
+      1944,
+      1058,
+      2040
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\ln x^2 < 0 \\Leftrightarrow 0 < x^2 < 1 \\Leftrightarrow \\begin{cases} x \\neq 0 \\\\ -1 < x < 1 \\end{cases}$. Vậy $S = (-1;1) \\setminus \\{0\\}$."
+  },
+  {
+    "bbox": [
+      155,
+      2065,
+      964,
+      2113
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

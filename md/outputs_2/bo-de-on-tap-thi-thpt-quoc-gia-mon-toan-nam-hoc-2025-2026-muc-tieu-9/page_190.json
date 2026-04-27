@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      484,
+      141,
+      1204,
+      874
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      910,
+      1548,
+      995
+    ],
+    "category": "Text",
+    "text": "Hình chữ nhật là hình vuông khi khoảng cách giữa hai hoành độ bằng khoảng cách giữa hai tung độ. Gọi độ dài cạnh hình vuông là $k$ ($1 \\le k \\le 11$)."
+  },
+  {
+    "bbox": [
+      195,
+      1016,
+      1545,
+      1099
+    ],
+    "category": "List-item",
+    "text": "* Với $k = 1$: Có 11 cách chọn cặp hoành độ có khoảng cách là 1 và 11 cách chọn cặp tung độ. Số hình vuông là: $11 \\times 11 = 11^2$."
+  },
+  {
+    "bbox": [
+      195,
+      1118,
+      1545,
+      1202
+    ],
+    "category": "List-item",
+    "text": "* Với $k = 2$: Có 10 cách chọn cặp hoành độ có khoảng cách là 2 và 10 cách chọn cặp tung độ. Số hình vuông là: $10 \\times 10 = 10^2$."
+  },
+  {
+    "bbox": [
+      195,
+      1223,
+      266,
+      1256
+    ],
+    "category": "List-item",
+    "text": "* ..."
+  },
+  {
+    "bbox": [
+      195,
+      1278,
+      1545,
+      1360
+    ],
+    "category": "List-item",
+    "text": "* Với $k = 11$: Có 1 cách chọn cặp hoành độ và 1 cách chọn cặp tung độ. Số hình vuông là: $1 \\times 1 = 1^2$."
+  },
+  {
+    "bbox": [
+      490,
+      1371,
+      1204,
+      1978
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      2023,
+      533,
+      2065
+    ],
+    "category": "Text",
+    "text": "Tổng số hình vuông là:"
+  },
+  {
+    "bbox": [
+      474,
+      2075,
+      1225,
+      2181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sum_{k=1}^{11} k^2 = 1^2 + 2^2 + 3^2 + \\cdots + 11^2 = 506 \\text{ (hình vuông)}\n$$"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "190"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

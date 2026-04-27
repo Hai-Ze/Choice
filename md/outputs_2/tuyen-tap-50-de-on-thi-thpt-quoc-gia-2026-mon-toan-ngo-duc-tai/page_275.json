@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Đặt $\\overrightarrow{BA} = \\vec{b}$, $\\overrightarrow{AC} = \\vec{c}$, $\\overrightarrow{AD} = \\vec{d}$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      256,
+      584,
+      336
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b}).\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      256,
+      1194,
+      336
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c}).\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      336,
+      584,
+      417
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d}).\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      336,
+      1194,
+      417
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b}).\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      464,
+      1455,
+      583
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      601,
+      1100,
+      689
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{x^2 + 2x - 1}{x - 1}$ và đồ thị của nó là (C)."
+  },
+  {
+    "bbox": [
+      221,
+      691,
+      677,
+      737
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có 2 điểm cực trị."
+  },
+  {
+    "bbox": [
+      221,
+      745,
+      1057,
+      793
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị (C) có tiệm cận đứng là đường thẳng $x = 1$."
+  },
+  {
+    "bbox": [
+      221,
+      799,
+      889,
+      847
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số nghịch biến trên khoảng (0; 2)."
+  },
+  {
+    "bbox": [
+      221,
+      853,
+      1448,
+      955
+    ],
+    "category": "List-item",
+    "text": "d) $M$ là điểm bất kì thuộc đồ thị (C). Tích khoảng cách từ $M$ đến tiệm cận đứng và tiệm cận xiên của đồ thị (C) luôn bằng $\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      978,
+      1455,
+      1134
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Bạn An làm bài thi phần trắc nghiệm đúng sai gồm 4 câu hỏi mỗi câu 1 điểm, trong đó bạn làm chắc chắn đúng hai câu còn hai câu còn lại bạn chọn ngẫu nhiên đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      221,
+      1126,
+      1341,
+      1208
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để bạn An được 4 điểm phần trắc nghiệm đúng sai là $\\frac{1}{256}$."
+  },
+  {
+    "bbox": [
+      221,
+      1202,
+      1349,
+      1281
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để bạn An được 3,5 điểm phần trắc nghiệm đúng sai là $\\frac{1}{32}$."
+  },
+  {
+    "bbox": [
+      221,
+      1275,
+      1324,
+      1356
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để bạn An được 2 điểm phần trắc nghiệm đúng sai là $\\frac{1}{32}$."
+  },
+  {
+    "bbox": [
+      221,
+      1348,
+      1341,
+      1429
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để bạn An được 3 điểm phần trắc nghiệm đúng sai là $\\frac{9}{128}$."
+  },
+  {
+    "bbox": [
+      192,
+      1441,
+      1455,
+      1652
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong thí nghiệm nuôi cấy một loại vi sinh vật, kí hiệu $f(t)$ là tổng số lượng vi sinh vật sau $t$ giờ. Biết rằng sau 3 giờ đầu tiên thì tổng số lượng vi sinh vật là 50 con. Trong 7 giờ tiếp theo, số lượng vi sinh vật thay đổi với tốc độ $f'(t) = t^2 - 8t$ (con/giờ)."
+  },
+  {
+    "bbox": [
+      221,
+      1646,
+      1020,
+      1734
+    ],
+    "category": "List-item",
+    "text": "a) They nguyên hàm của $f'(t)$ là $\\frac{t^3}{3} - 8t^2 + C$ ($C \\in \\mathbb{R}$)."
+  },
+  {
+    "bbox": [
+      221,
+      1728,
+      1448,
+      1829
+    ],
+    "category": "List-item",
+    "text": "b) Số lượng vi�uẩn tăng liên tục trong khoảng từ 3 giờ đến 10 giờ sau thời điểm làm thí nghiệm."
+  },
+  {
+    "bbox": [
+      221,
+      1837,
+      1448,
+      1885
+    ],
+    "category": "List-item",
+    "text": "c) Số lượng vi�uẩn là nhỏ nhất sau 8 giờ tính từ lúc bắt đầu làm thí nghiệm."
+  },
+  {
+    "bbox": [
+      221,
+      1891,
+      908,
+      1939
+    ],
+    "category": "List-item",
+    "text": "d) Sau 6 giờ thì số lượng vijuẩn là 5 con."
+  },
+  {
+    "bbox": [
+      192,
+      1965,
+      1455,
+      2176
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một cuộc thi thể thao về môn bắn súng, các vận động viên phải thực hiện bắn hạ mục tiêu đang di động trên mặt đất của khối cầu đặc có bán kính bằng 1 m. Chọn hệ trục toạ độ $Oxyz$ trong không gian có gốc $O$ đặt tại vị trí xạ thủ A ngắm bắn, xem mặt phẳng ($Oxy$) là mặt đất, đơn vị độ dài trên mỗi"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1455,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

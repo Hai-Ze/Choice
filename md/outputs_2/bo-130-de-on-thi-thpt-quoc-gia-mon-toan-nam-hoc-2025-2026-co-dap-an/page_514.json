@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      122,
+      1556,
+      313
+    ],
+    "category": "Text",
+    "text": "đạo văn). Phần mềm kiểm tra có độ chính xác như sau: Nếu bài viết là đạo văn, phần mềm phát hiện đúng với xác suất 98%; Nếu bài viết là chính chủ, phần mềm cảnh báo nhầm là đạo văn với xác suất 3%. Kiểm tra ngẫu nhiên một bài viết của học sinh nộp. Gọi $A$ là biến cố “Bài viết thực sự là đạo văn”. Gọi $B$ là biến cố “Phần mềm cảnh báo bài viết là đạo văn”."
+  },
+  {
+    "bbox": [
+      478,
+      313,
+      857,
+      352
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất $P(B) = 0,0395$."
+  },
+  {
+    "bbox": [
+      478,
+      352,
+      1043,
+      397
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất $P(A) = 0,01$ và $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      478,
+      397,
+      1031,
+      436
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất có điều kiện $P(A | B) = 0,7$."
+  },
+  {
+    "bbox": [
+      478,
+      436,
+      1550,
+      512
+    ],
+    "category": "List-item",
+    "text": "d) Trong số những bài viết bị phần mềm cảnh báo là đạo văn, có nhiều khả năng là bài viết chính chủ hơn là đạo văn."
+  },
+  {
+    "bbox": [
+      447,
+      531,
+      978,
+      604
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hàm số $y = x - 1 + \\frac{9}{x + 2}$."
+  },
+  {
+    "bbox": [
+      478,
+      604,
+      1098,
+      643
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là $\\mathcal{D} = \\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      478,
+      643,
+      1196,
+      716
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số có đạo hàm là $y' = 1 - \\frac{9}{(x + 2)^2}, \\forall x \\neq -2$."
+  },
+  {
+    "bbox": [
+      478,
+      716,
+      1292,
+      755
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đồng biến trên các khoảng $(-\\infty; -5)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      478,
+      755,
+      1185,
+      794
+    ],
+    "category": "List-item",
+    "text": "d) Hàm số có giá trị cực đại lớn hơn giá trị cực tiểu."
+  },
+  {
+    "bbox": [
+      447,
+      813,
+      1247,
+      869
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      877,
+      1556,
+      1034
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** At một khu trung tâm dữ liệu, kỹsur IT cần kiểm tra kết nối giữa các máy chủ trong hệ thống gồm các trạm $A, B, C, D, E$. Các tuyến cáp quang nối giữa các trạm được biểu diễn trong sơ đồ sau, với con số ghi trên mỗi tuyến là chiều dài dây cáp (đơn vị: km)."
+  },
+  {
+    "bbox": [
+      815,
+      1061,
+      1185,
+      1435
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1480,
+      1556,
+      1632
+    ],
+    "category": "Text",
+    "text": "Kỹsur cần thực hiện một hành trình bắt đầu từ một trạm bất kỳ, đi qua tất cả các tuyến cáp ít nhất một lần và kết thúc tại đúng trạm khởi hành, nhằm đảm bảo toàn bộ hệ thống được kiểm tra. Tổng chiều dài đường đi ngắn nhất mà kỹsur cần di chuyển là bao nhiêu km?"
+  },
+  {
+    "bbox": [
+      1333,
+      1632,
+      1554,
+      1681
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      447,
+      1696,
+      1556,
+      1954
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một công ty đang triển khai chiến dịch广宣产品. Số tiền đầu tư广宣产品 là $A$ (triệu đồng). Theo kết quả nghiên cứu thị trường, số lượng sản phẩm bán ra (đơn vị: sản phẩm) phụ thuộc vào chi phí广宣产品 theo hàm $q(A) = 1000 + \\frac{1013}{5} \\ln(1 + A)$. Biết rằng, chi phí sản xuất mỗi sản phẩm là 10 triệu đồng và giá bán mỗi sản phẩm là 20 triệu đồng. Giá trị lợi nhuận tối đa mà công ty có thể đạt được là bao nhiêu tỉ đồng (làm tròn kết quả đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      1333,
+      1954,
+      1554,
+      2005
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      447,
+      2022,
+      1556,
+      2175
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một người tham gia trò chơi với 3 hộ quà đặc biệt: Hộp màu vàng có 2 điện thoại iPhone và 3 tai nghe, hộ màu bạc có 4 điện thoại iPhone và 1 tai nghe; hộ màu đồng có 3 điện thoại iPhone và 2 tai nghe. Luật chơi được thực hiện qua hai bước sau"
+  },
+  {
+    "bbox": [
+      482,
+      2208,
+      1098,
+      2246
+    ],
+    "category": "List-item",
+    "text": "Bước 1: Người chơi chọn ngẫu nhiên 1 hộ."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "512 Bùi Tịnh Minh Lâm"
+  }
+]

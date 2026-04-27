@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      120,
+      98,
+      1528,
+      257
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Chọn hệ trục tọa độ $Oxyz$ trong không gian có gốc $O$ tại vị trí của radar và đơn vị độ dài trên mỗi trục tọa độ là $1 \\text{ km}$. Radar phát hiện một máy bay chiến đấu di chuyển với vận tốc và hướng không đổi từ điểm $M(500; 200; 10)$ đến điểm $N(800; 300; 10)$ trong 20 phút."
+  },
+  {
+    "bbox": [
+      154,
+      269,
+      1156,
+      314
+    ],
+    "category": "List-item",
+    "text": "a) máy bay đang di chuyển theo hướng tiến lại gần vị trí đặt radar."
+  },
+  {
+    "bbox": [
+      154,
+      322,
+      702,
+      370
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng cách $MN = 100\\sqrt{10} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      154,
+      379,
+      1130,
+      428
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ của máy bay khi di chuyển từ $M$ đến $N$ là $150\\sqrt{10} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      154,
+      440,
+      1523,
+      541
+    ],
+    "category": "List-item",
+    "text": "d) Nếu tiếp tục giữ nguyên vận tốc và hướng bay thì tọa độ của máy bay sau 4 phút tiếp theo là $Q(a; b; c)$ với $a + b + c = 1191$."
+  },
+  {
+    "bbox": [
+      120,
+      592,
+      984,
+      1091
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nhà bác An được mô tả như hình vẽ bên dưới, trong đó phần thân nhà là hình集合 chữ nhật $ABCD.EFGH$. Ngôi nhà được lợp ngói hai mái là hai hình chữ nhật $PEHQ$ và $PFGQ$, biết tam giác $EFP$ là tam giác cân tại $P$. Gọi $T$ là trung điểm của cạnh $DC$. Các kích thước của nhà lần lượt là $AB = 6 \\text{ m}$, $AE = 5 \\text{ m}$, $AD = 8 \\text{ m}$, $QT = 7 \\text{ m}$. Xét trục tọa độ $Oxyz$ sao cho gốc tọa độ là điểm $O$ thuộc đoạn $AD$ sao cho $OA = 2 \\text{ m}$ và các trục tọa độ tương ứng là các trục $Ox, Oy, Oz$. Khi đó"
+  },
+  {
+    "bbox": [
+      1034,
+      608,
+      1505,
+      1040
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1095,
+      605,
+      1139
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ điểm $A$ là $(2; 0; 0)$."
+  },
+  {
+    "bbox": [
+      154,
+      1144,
+      677,
+      1196
+    ],
+    "category": "List-item",
+    "text": "b) $\\text{Vecto } \\overrightarrow{AC}$ có tọa độ là $(6; 6; 0)$."
+  },
+  {
+    "bbox": [
+      154,
+      1208,
+      1523,
+      1367
+    ],
+    "category": "List-item",
+    "text": "c) Bác An muốn lắp một chiếcđèn lồng tại vị trí trung điểm của $FG$ và đầu nguồn đặt tại vị trí $O$. Bác ấy thiết kế đường dây điện nối từ $O$ đến $K$ sau đó nối đến chiếcđèn lồng. Độ dài đoạn dây điện nối tối thiểu bằng $5 + 2\\sqrt{10} (\\text{m})$."
+  },
+  {
+    "bbox": [
+      154,
+      1373,
+      1523,
+      1588
+    ],
+    "category": "List-item",
+    "text": "d) Mái nhà bác An được lợp bằng đất nung Đất Việt, giá tiền mỗi viên ngói là $11.000$ đồng và để lợp được $1 \\text{ m}^2$ diện tích mái cần $22$ viên ngói. Số tiền cần bỏ ra để mua ngói lợp mái nhà là $13.960.000$ đồng ( không kể hao phí do việc cắt ghép các viên ngói, kết quả làm tròn đến hàng nghìn ) ."
+  },
+  {
+    "bbox": [
+      120,
+      1612,
+      1528,
+      1770
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một xưởng sản xuất thực phẩm gồm 3 kỹ sư chế biến thực phẩm, 3 kỹ thuật viên và 12 công nhân. Để đảm bảo sản xuất thực phẩm chống dịch Covid 19, xưởng cần chia thành 3 ca sản xuất theo thời gian liên tiếp nhau sao cho mỗi ca có 6 người."
+  },
+  {
+    "bbox": [
+      154,
+      1781,
+      1038,
+      1831
+    ],
+    "category": "List-item",
+    "text": "a) Số cách phân chia lao động vào 3 ca sản xuất là $C_{18}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      154,
+      1841,
+      1523,
+      1944
+    ],
+    "category": "List-item",
+    "text": "b) Số cách phân lịch lao động vào 3 ca sản xuất sao cho ca đầu tiên gồm toàn công nhân là $C_{12}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      154,
+      1948,
+      1523,
+      2052
+    ],
+    "category": "List-item",
+    "text": "c) Số cách phân lịch lao động vào 3 ca sản xuất sao cho mỗi ca có đúng 1 kỹ sư và đúng 1 kỹ thuật viên là $C_6^1 \\cdot C_6^1 \\cdot C_{12}^4$."
+  },
+  {
+    "bbox": [
+      154,
+      2050,
+      1471,
+      2132
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất sao cho mỗi ca có đúng 1 kỹ thuật viên, 1 kỹ sư chế biến thực phẩm là $\\frac{225}{3094}$."
+  },
+  {
+    "bbox": [
+      125,
+      2251,
+      649,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "TOÁN 12 - KTĐK 12.10.2025"
+  },
+  {
+    "bbox": [
+      1144,
+      2254,
+      1525,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 132"
+  }
+]

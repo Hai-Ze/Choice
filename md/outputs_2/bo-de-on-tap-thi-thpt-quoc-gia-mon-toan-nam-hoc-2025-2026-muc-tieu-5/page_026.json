@@ -1,0 +1,442 @@
+[
+  {
+    "bbox": [
+      188,
+      130,
+      439,
+      211
+    ],
+    "category": "Formula",
+    "text": "A $y = \\frac{-2x + 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      188,
+      204,
+      439,
+      284
+    ],
+    "category": "Formula",
+    "text": "C $y = \\frac{-2x - 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      875,
+      148,
+      1171,
+      193
+    ],
+    "category": "Formula",
+    "text": "B $y = -x^3 + x + 1$."
+  },
+  {
+    "bbox": [
+      875,
+      221,
+      1201,
+      266
+    ],
+    "category": "Formula",
+    "text": "D $y = -x^4 + 2x^2 + 1$."
+  },
+  {
+    "bbox": [
+      153,
+      298,
+      1547,
+      384
+    ],
+    "category": "Text",
+    "text": "Câu 5. Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng):"
+  },
+  {
+    "bbox": [
+      446,
+      390,
+      1251,
+      506
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      515,
+      1284,
+      558
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình của mẫu số liệu ghép nhóm trên thuộc khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      191,
+      576,
+      326,
+      620
+    ],
+    "category": "List-item",
+    "text": "A [7; 9)."
+  },
+  {
+    "bbox": [
+      535,
+      576,
+      687,
+      620
+    ],
+    "category": "List-item",
+    "text": "B [9; 11)."
+  },
+  {
+    "bbox": [
+      879,
+      576,
+      1044,
+      620
+    ],
+    "category": "List-item",
+    "text": "C [11; 13)."
+  },
+  {
+    "bbox": [
+      1224,
+      576,
+      1387,
+      620
+    ],
+    "category": "List-item",
+    "text": "D [13; 15)."
+  },
+  {
+    "bbox": [
+      153,
+      638,
+      1547,
+      721
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và công bội $q = 3$. Tìm số hạng thứ 4 của cấp số nhân?"
+  },
+  {
+    "bbox": [
+      191,
+      743,
+      288,
+      787
+    ],
+    "category": "List-item",
+    "text": "A 24."
+  },
+  {
+    "bbox": [
+      535,
+      743,
+      633,
+      787
+    ],
+    "category": "List-item",
+    "text": "B 54."
+  },
+  {
+    "bbox": [
+      879,
+      743,
+      990,
+      787
+    ],
+    "category": "List-item",
+    "text": "C 162."
+  },
+  {
+    "bbox": [
+      1224,
+      743,
+      1320,
+      787
+    ],
+    "category": "List-item",
+    "text": "D 48."
+  },
+  {
+    "bbox": [
+      153,
+      804,
+      1547,
+      890
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hai hàm số $y = f(x)$ và $y = g(x)$ liên tục trên $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị của các hàm số $y = f(x)$, $y = g(x)$ và các đường thẳng $x = a, x = b$ bằng"
+  },
+  {
+    "bbox": [
+      188,
+      903,
+      540,
+      1007
+    ],
+    "category": "Formula",
+    "text": "A $\\left| \\int_{a}^{b} [f(x) - g(x)]dx \\right|$."
+  },
+  {
+    "bbox": [
+      875,
+      907,
+      1201,
+      1001
+    ],
+    "category": "Formula",
+    "text": "B $\\int_{a}^{b} [f(x) + g(x)]dx$."
+  },
+  {
+    "bbox": [
+      188,
+      1004,
+      525,
+      1096
+    ],
+    "category": "Formula",
+    "text": "C $\\int_{a}^{b} |f(x) - g(x)|dx$."
+  },
+  {
+    "bbox": [
+      875,
+      1004,
+      1201,
+      1096
+    ],
+    "category": "Formula",
+    "text": "D $\\int_{a}^{b} [f(x) - g(x)]dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1104,
+      1547,
+      1218
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian, biết $|\\vec{u}| = 2, |\\vec{v}| = 1$ và góc giữa hai vecto $\\vec{u}$ và $\\vec{v}$ bằng $\\frac{2\\pi}{3}$. Tính tích vô hướng của hai vecto $\\vec{u}$ và $\\vec{v}$."
+  },
+  {
+    "bbox": [
+      191,
+      1246,
+      299,
+      1290
+    ],
+    "category": "List-item",
+    "text": "A $-1$."
+  },
+  {
+    "bbox": [
+      535,
+      1246,
+      617,
+      1290
+    ],
+    "category": "List-item",
+    "text": "B 1."
+  },
+  {
+    "bbox": [
+      879,
+      1246,
+      961,
+      1290
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1224,
+      1228,
+      1332,
+      1308
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{4\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      1316,
+      1547,
+      1523
+    ],
+    "category": "Text",
+    "text": "Câu 9. Trong không gian $Oxyz$, cho đường thẳng $\\Delta$ : $\\begin{cases} x = 1 - 2t \\\\ y = -1 \\\\ z = 3 + t \\end{cases}$. Vecto nào sau đây là một vecto chỉ phương của đường thẳng $\\Delta$?"
+  },
+  {
+    "bbox": [
+      188,
+      1541,
+      501,
+      1585
+    ],
+    "category": "List-item",
+    "text": "A $\\vec{u}_{\\Delta} = (-2; -1; 1)$."
+  },
+  {
+    "bbox": [
+      188,
+      1585,
+      476,
+      1629
+    ],
+    "category": "List-item",
+    "text": "C $\\vec{u}_{\\Delta} = (-2; 0; 1)$."
+  },
+  {
+    "bbox": [
+      875,
+      1541,
+      1161,
+      1585
+    ],
+    "category": "List-item",
+    "text": "B $\\vec{u}_{\\Delta} = (1; -1; 3)$."
+  },
+  {
+    "bbox": [
+      875,
+      1585,
+      1135,
+      1629
+    ],
+    "category": "List-item",
+    "text": "D $\\vec{u}_{\\Delta} = (2; 0; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      1641,
+      1371,
+      1735
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho tích phân $\\int_{0}^{1} [f(x) + 2x]dx = 2$. Khi đó tích phân $\\int_{0}^{1} f(x)dx$ bằng?"
+  },
+  {
+    "bbox": [
+      191,
+      1743,
+      273,
+      1787
+    ],
+    "category": "List-item",
+    "text": "A 1."
+  },
+  {
+    "bbox": [
+      535,
+      1743,
+      617,
+      1787
+    ],
+    "category": "List-item",
+    "text": "B 4."
+  },
+  {
+    "bbox": [
+      879,
+      1743,
+      961,
+      1787
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1224,
+      1743,
+      1304,
+      1787
+    ],
+    "category": "List-item",
+    "text": "D 0."
+  },
+  {
+    "bbox": [
+      153,
+      1803,
+      1547,
+      1891
+    ],
+    "category": "Text",
+    "text": "Câu 11. Trong không gian $Oxyz$, cho ba điểm $A(1; 1; 1)$, $B(0; 2; 1)$ và $C(1; -1; 2)$. Мặt phẳng đi qua $A$ và vuông góc với $BC$ có phương trình là"
+  },
+  {
+    "bbox": [
+      188,
+      1901,
+      581,
+      1981
+    ],
+    "category": "Formula",
+    "text": "A $\\frac{x + 1}{1} = \\frac{y + 1}{-3} = \\frac{z + 1}{1}$."
+  },
+  {
+    "bbox": [
+      188,
+      1991,
+      521,
+      2035
+    ],
+    "category": "Formula",
+    "text": "C $x - 3y + z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      875,
+      1921,
+      1205,
+      1965
+    ],
+    "category": "Formula",
+    "text": "B $x - 3y + z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      875,
+      1975,
+      1271,
+      2055
+    ],
+    "category": "Formula",
+    "text": "D $\\frac{x - 1}{1} = \\frac{y - 1}{-3} = \\frac{z - 1}{1}$."
+  },
+  {
+    "bbox": [
+      153,
+      2063,
+      990,
+      2143
+    ],
+    "category": "Text",
+    "text": "Câu 12. Heo nguyên hàm của hàm số $f(x) = e^{2x} + \\frac{3}{x}$ là"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "26"
+  },
+  {
+    "bbox": [
+      838,
+      2250,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

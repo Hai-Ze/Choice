@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      313,
+      121,
+      1305,
+      169
+    ],
+    "category": "Text",
+    "text": "TH1: (2 nhóm 1, 1 nhóm 2, 1 nhóm 3): có $C_{10}^2 \\cdot C_{22}^1 \\cdot C_8^1 = 7920$ cách chọn."
+  },
+  {
+    "bbox": [
+      313,
+      196,
+      1317,
+      244
+    ],
+    "category": "Text",
+    "text": "TH2: (1 nhóm 1, 2 nhóm 2, 1 nhóm 3): có $C_{10}^1 \\cdot C_{22}^2 \\cdot C_8^1 = 18480$ cách chọn."
+  },
+  {
+    "bbox": [
+      313,
+      271,
+      1299,
+      319
+    ],
+    "category": "Text",
+    "text": "TH3: (1 nhóm 1, 1 nhóm 2, 2 nhóm 3): có $C_{10}^1 \\cdot C_{22}^1 \\cdot C_8^2 = 6160$ cách chọn."
+  },
+  {
+    "bbox": [
+      252,
+      349,
+      858,
+      394
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } n(A) = 7920 + 18480 + 6160 = 32560.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      424,
+      1029,
+      519
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất của biến cố } A \\text{ là } P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{32560}{91390} = \\frac{88}{247}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      543,
+      1136,
+      589
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      613,
+      1548,
+      763
+    ],
+    "category": "Text",
+    "text": "Câu 1: Cho hàm số $f(x) = (2\\tan x - \\cot x)^2$. $F(x)$ là một nguyên hàm của hàm số $f(x)$ sao cho $F(\\frac{\\pi}{4}) = 3 - \\frac{9\\pi}{4}$. Khi đó $F(x) = atan x + bcot x + cx$ ($a, b, c$ là các hằng số). Tính $a \\cdot b \\cdot c$."
+  },
+  {
+    "bbox": [
+      252,
+      775,
+      411,
+      814
+    ],
+    "category": "Text",
+    "text": "Đáp án: 36"
+  },
+  {
+    "bbox": [
+      843,
+      820,
+      957,
+      858
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      864,
+      338,
+      898
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      252,
+      910,
+      1123,
+      1049
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f(x) &= (2\\tan x - \\cot x)^2 = 4\\tan^2 x - 4 + \\cot^2 x = \\frac{4}{\\cos^2 x} + \\frac{1}{\\sin^2 x} - 9 \\\\ \\Rightarrow F(x) &= 4\\tan x - \\cot x - 9x + C \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1063,
+      330,
+      1097
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      252,
+      1107,
+      1042,
+      1194
+    ],
+    "category": "Formula",
+    "text": "$$\nF\\left(\\frac{\\pi}{4}\\right) = 4\\tan\\left(\\frac{\\pi}{4}\\right) - \\cot\\left(\\frac{\\pi}{4}\\right) - 9\\left(\\frac{\\pi}{4}\\right) + C = 3 - \\frac{9\\pi}{4} \\Rightarrow C = 0\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1207,
+      661,
+      1254
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } F(x) = 4\\tan x - \\cot x - 9x.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1264,
+      760,
+      1308
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Các hằng số là } a = 4, b = -1, c = -9.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1316,
+      622,
+      1363
+    ],
+    "category": "Formula",
+    "text": "$$\na \\cdot b \\cdot c = 4 \\cdot (-1) \\cdot (-9) = 36.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1389,
+      1550,
+      1748
+    ],
+    "category": "Text",
+    "text": "Câu 2: Anh Nam làm việc tại một giàn khoan cách bờ biển 10 km. Chị Mai, bạn thân của Anh Nam, làm việc tại một cơ quan trên bờ biển cách nơi làm việc của Anh Nam 6 km theo phương ngang. Thứ Bảy tuần sau Anh Nam được nghỉ phép nên hai người dự định gặp nhau tại một địa điểm $P$ trên bờ biển. Biết rằng Anh Nam sẽ di chuyển vào bờ biển bằng truyền với vận tốc 15 km/h, chị Mai đi bộ với vận tốc 5 km/h và hai người dự định cùng xuất phát rồi đến nơi cùng lúc. Giả thiết đường bờ biển là đường thẳng và truyền chở Anh Nam cũng di chuyển theo đường thẳng. Hỏi địa điểm họ dự định gặp nhau cách cơ quan của chị Mai bao nhiêu kilômét? (Làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      252,
+      1752,
+      433,
+      1791
+    ],
+    "category": "Text",
+    "text": "Đáp án: 3,44"
+  }
+]

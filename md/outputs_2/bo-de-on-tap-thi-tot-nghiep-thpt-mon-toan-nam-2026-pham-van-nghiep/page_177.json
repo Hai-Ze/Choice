@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      654,
+      112,
+      1132,
+      440
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      825,
+      457,
+      962,
+      503
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      508,
+      406,
+      555
+    ],
+    "category": "Text",
+    "text": "Đáp án 8,9"
+  },
+  {
+    "bbox": [
+      213,
+      565,
+      804,
+      610
+    ],
+    "category": "Text",
+    "text": "Đặt $HE = x, FK = y$ với $0 < x, y < 20$."
+  },
+  {
+    "bbox": [
+      213,
+      620,
+      783,
+      664
+    ],
+    "category": "Text",
+    "text": "Ta có $HE + KF = 20$ km $\\Rightarrow x + y = 20$,"
+  },
+  {
+    "bbox": [
+      213,
+      672,
+      944,
+      803
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} AE = \\sqrt{AH^2 + HE^2} = \\sqrt{16 + x^2} \\\\ BF = \\sqrt{BK^2 + FK^2} = \\sqrt{36 + y^2} = \\sqrt{36 + 20 - x^2} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      811,
+      1215,
+      863
+    ],
+    "category": "Text",
+    "text": "Vì $EF$ không đổi nên $AB$ ngắn nhất khi $AE + BF$ nhỏ nhất."
+  },
+  {
+    "bbox": [
+      213,
+      865,
+      1423,
+      927
+    ],
+    "category": "Text",
+    "text": "Ta có $AE + BF = \\sqrt{x^2 + 16} + \\sqrt{36 + 20 - x^2} = \\sqrt{x^2 + 16} + \\sqrt{x^2 - 40x + 436} = f(x)$."
+  },
+  {
+    "bbox": [
+      213,
+      939,
+      1097,
+      1029
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = \\frac{x}{\\sqrt{x^2 + 16}} + \\frac{x - 20}{\\sqrt{x^2 - 40x + 436}} = 0 \\Leftrightarrow x = 8, \\forall x \\in [0; 20].\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1040,
+      484,
+      1088
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      573,
+      1090,
+      1213,
+      1374
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>8</td><td>20</td></tr><tr><td>$f'(x)$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$10\\sqrt{5}$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      1382,
+      665,
+      1437
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } AE = \\sqrt{8^2 + 16} \\approx 8,9 \\text{ km.}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1444,
+      1575,
+      1686
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Một trạm quan sát đặt tại mặt đất có radar để quan sát máy bay. tại một thời điểm một chiếc máy bay đang bay theo phương ngang ở độ cao $10\\text{km}$. lúc này máy bay cách radar $23\\text{km}$ thì radar phát hiện khoảng cách giữa máy bay bay và radar thay đổi với tốc độ $560\\text{km/h}$. tìm tốc độ của máy bay khi đó theo đơn vị $\\text{km/h}$ (làm tròn kết quả đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      648,
+      1690,
+      1138,
+      1962
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      1980,
+      419,
+      2026
+    ],
+    "category": "Text",
+    "text": "Đáp án: 622"
+  },
+  {
+    "bbox": [
+      825,
+      2034,
+      962,
+      2080
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2084,
+      1571,
+      2194
+    ],
+    "category": "Text",
+    "text": "Gọi $x(t)$ là khoảng cách ngang từ radar đến hình chiếu vuông góc của máy bay trên mặt đất, $s(t)$ là khoảng cách từ máy bay đến radar."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

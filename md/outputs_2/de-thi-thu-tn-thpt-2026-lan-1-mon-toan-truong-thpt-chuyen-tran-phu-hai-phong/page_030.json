@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      1386,
+      204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } V_{A_1B_1C_1D_1.A'B'C'D'} = \\frac{1}{3}h \\cdot (x^2 + 2^2 + \\sqrt{x^2 \\cdot 2^2}) = 9,5 \\Leftrightarrow \\frac{x-2}{2} \\cdot (x^2 + 4 + 2x) = 9,5 \\Leftrightarrow x = 3.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      231,
+      551,
+      312
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } h = 3 \\cdot \\frac{3-2}{2} = 1,5.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      333,
+      1535,
+      533
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Hai bạn Hải và Sơn cùng chơi một trò chơi như sau: Hải có một hợp gồm 9 quả bóng được đánh số từ 1 đến 9, Sơn có một hợp gồm 8 quả bóng được đánh số từ 1 đến 8. Mỗi bạn bốc ngẫu nhiên 3 quả bóng từ hợp của mình rồi xếp các số ghi trên 3 quả bóng bốc được theo thứ tự giảm dẫn để tạo thành một số có 3 chữ số. Bạn nào có số lớn hơn là người chiến thắng. Tính xác suất để Sơn thua (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      836,
+      533,
+      950,
+      570
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      588,
+      440,
+      632
+    ],
+    "category": "Text",
+    "text": "**Đáp số: 0,66**"
+  },
+  {
+    "bbox": [
+      251,
+      655,
+      818,
+      702
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách chọn của Hải là: } n(H) = C_9^3 = 84.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      731,
+      814,
+      778
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách chọn của Sơn là: } n(S) = C_8^3 = 56.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      806,
+      662,
+      845
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó: } n(\\Omega) = 84 \\times 56 = 4704.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      868,
+      1305,
+      914
+    ],
+    "category": "Text",
+    "text": "Ta thấy nếu số của Hải lớn hơn số của Sơn thì xảy ra trong hai trường hợp sau:"
+  },
+  {
+    "bbox": [
+      251,
+      931,
+      882,
+      976
+    ],
+    "category": "Text",
+    "text": "**\\*Trường hợp 1: Hải chọn được quả bóng số 9**"
+  },
+  {
+    "bbox": [
+      251,
+      991,
+      1402,
+      1036
+    ],
+    "category": "Text",
+    "text": "Nếu Hải chọn được bóng số 9, số của Hải chắc chắn bắt đầu bằng chữ số 9 (dạng 9bc)"
+  },
+  {
+    "bbox": [
+      251,
+      1051,
+      862,
+      1096
+    ],
+    "category": "Text",
+    "text": "Do đó, hễ Hải có số 9 là Hải chắc chắn thắng."
+  },
+  {
+    "bbox": [
+      251,
+      1117,
+      868,
+      1164
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách Hải chọn có số 9 là: } 1 \\times C_8^2 = 28 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1188,
+      1011,
+      1232
+    ],
+    "category": "Text",
+    "text": "Với mỗi cách này, Sơn có thể chọn bất kỳ trong 56 cách."
+  },
+  {
+    "bbox": [
+      251,
+      1251,
+      844,
+      1296
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số kết quả thuận lợi ở TH1: } 28 \\times 56 = 1568.\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1314,
+      959,
+      1358
+    ],
+    "category": "Text",
+    "text": "**\\*Trường hợp 2: Hải không chọn được quả bóng số 9**"
+  },
+  {
+    "bbox": [
+      251,
+      1373,
+      1211,
+      1419
+    ],
+    "category": "Text",
+    "text": "Lúc này, cả Hải và Sơn đều chọn 3 bóng từ cùng một tập số $\\{1,2,\\dots,8\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      1446,
+      1129,
+      1493
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số pair kết quả trong trường hợp này là: } C_8^3 \\times C_8^3 = 56 \\times 56 = 3136.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1516,
+      1535,
+      1606
+    ],
+    "category": "Text",
+    "text": "Vì tập số của hai bạn là như nhau, nên theo tính đối xứng, số trường hợp Hải thắng ($X > Y$) sẽ bằng số trường hợp Sơn thắng ($X < Y$)."
+  },
+  {
+    "bbox": [
+      251,
+      1622,
+      1482,
+      1668
+    ],
+    "category": "Text",
+    "text": "Số trường hợp hòa ($X = Y$) xảy ra khi hai bạn chọn trùng bộ 3 quả bóng: có 56 trường hợp."
+  },
+  {
+    "bbox": [
+      251,
+      1689,
+      1124,
+      1772
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số kết quả Hải thắng (Sơn thua) ở TH2 là: } n_2 = \\frac{3136 - 56}{2} = 1540\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1791,
+      1215,
+      1837
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng số trường hợp thuận lợi để Sơn thua là: } n(A) = 1568 + 1540 = 3108\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1866,
+      964,
+      1950
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất để Sơn thua là: } P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{3108}{4704} \\approx 0,66\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1977,
+      1535,
+      2084
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Cho hàm số $y = x^3 - 3(m+1)x^2 + 3(m^2 + 2m)x - 2025$ với $m$ là tham số. Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số có giá trị lớn nhất trên khoảng $(-\\infty; 0)$?"
+  },
+  {
+    "bbox": [
+      836,
+      2094,
+      950,
+      2131
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      2137,
+      410,
+      2176
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 3.**"
+  }
+]

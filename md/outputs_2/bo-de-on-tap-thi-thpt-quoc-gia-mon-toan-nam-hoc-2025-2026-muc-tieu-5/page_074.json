@@ -1,0 +1,414 @@
+[
+  {
+    "bbox": [
+      154,
+      150,
+      198,
+      186
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      132,
+      1308,
+      214
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Đạo hàm $y' = \\frac{-8}{(x-3)^2} < 0$. Hàm số nghịch biến trên $[0; 2]$."
+  },
+  {
+    "bbox": [
+      204,
+      227,
+      747,
+      305
+    ],
+    "category": "Text",
+    "text": "Giá trị lớn nhất $M = y(0) = \\frac{-1}{-3} = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      323,
+      198,
+      356
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      320,
+      1379,
+      362
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hai biến cố $A, B$ với $0 < P(B) < 1$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      188,
+      381,
+      834,
+      424
+    ],
+    "category": "Formula",
+    "text": "A $P(A) = P(\\bar{B}) \\cdot P(A|B) + P(B) \\cdot P(A|\\bar{B})$."
+  },
+  {
+    "bbox": [
+      188,
+      424,
+      834,
+      468
+    ],
+    "category": "Formula",
+    "text": "B $P(A) = P(B) \\cdot P(A|B) - P(\\bar{B}) \\cdot P(A|\\bar{B})$."
+  },
+  {
+    "bbox": [
+      188,
+      468,
+      834,
+      512
+    ],
+    "category": "Formula",
+    "text": "C $P(A) = P(\\bar{B}) \\cdot P(A|\\bar{B}) - P(B) \\cdot P(A|B)$."
+  },
+  {
+    "bbox": [
+      188,
+      512,
+      834,
+      556
+    ],
+    "category": "Formula",
+    "text": "D $P(A) = P(B) \\cdot P(A|B) + P(\\bar{B}) \\cdot P(A|\\bar{B})$."
+  },
+  {
+    "bbox": [
+      154,
+      566,
+      198,
+      599
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      560,
+      1518,
+      623
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo công thức xác suất toàn phần: $P(A) = P(B) \\cdot P(A|B) + P(\\bar{B}) \\cdot P(A|\\bar{B})$."
+  },
+  {
+    "bbox": [
+      154,
+      641,
+      198,
+      674
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      639,
+      1546,
+      724
+    ],
+    "category": "Text",
+    "text": "Câu 11. Một thư viện ghi lại số giờ đọc sách của 50 sinh viên trong một ngày và thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      474,
+      730,
+      1224,
+      845
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm giờ</td><td>[0; 1)</td><td>[1; 2)</td><td>[2; 3)</td><td>[3; 4)</td><td>[4; 5)</td></tr><tr><td>Số sinh viên</td><td>8</td><td>11</td><td>15</td><td>9</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      854,
+      1308,
+      896
+    ],
+    "category": "Text",
+    "text": "Khoảng tum phân vị của mẫu số liệu ghép nhóm gần nhất với giá trị nào sau đây?"
+  },
+  {
+    "bbox": [
+      192,
+      916,
+      314,
+      958
+    ],
+    "category": "List-item",
+    "text": "A 1,69."
+  },
+  {
+    "bbox": [
+      535,
+      916,
+      657,
+      958
+    ],
+    "category": "List-item",
+    "text": "B 1,85."
+  },
+  {
+    "bbox": [
+      879,
+      916,
+      1001,
+      958
+    ],
+    "category": "List-item",
+    "text": "C 2,02."
+  },
+  {
+    "bbox": [
+      1224,
+      916,
+      1346,
+      958
+    ],
+    "category": "List-item",
+    "text": "D 1,98."
+  },
+  {
+    "bbox": [
+      154,
+      978,
+      198,
+      1011
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      974,
+      829,
+      1035
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tổng số sinh viên $n = 50$."
+  },
+  {
+    "bbox": [
+      204,
+      1050,
+      1447,
+      1092
+    ],
+    "category": "Text",
+    "text": "Tần số tích lũy của các nhóm lần lượt là: $cf_1 = 8, cf_2 = 19, cf_3 = 34, cf_4 = 43, cf_5 = 50$."
+  },
+  {
+    "bbox": [
+      204,
+      1112,
+      928,
+      1158
+    ],
+    "category": "Text",
+    "text": "- Tìm $Q_1$: Ta có $\\frac{n}{4} = 12,5$. Nhóm chứa $Q_1$ là $[1; 2)$."
+  },
+  {
+    "bbox": [
+      204,
+      1170,
+      593,
+      1221
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 1 + \\frac{12,5-8}{11} \\cdot 1 \\approx 1,409.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1232,
+      938,
+      1282
+    ],
+    "category": "Text",
+    "text": "- Tìm $Q_3$: Ta có $\\frac{3n}{4} = 37,5$. Nhóm chứa $Q_3$ là $[3; 4)$."
+  },
+  {
+    "bbox": [
+      204,
+      1292,
+      605,
+      1342
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 3 + \\frac{37,5-34}{9} \\cdot 1 \\approx 3,389.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1358,
+      1081,
+      1398
+    ],
+    "category": "Text",
+    "text": "- Khoảng tum phân vị: $\\Delta_Q = Q_3 - Q_1 = 3,389 - 1,409 = 1,98$."
+  },
+  {
+    "bbox": [
+      154,
+      1419,
+      198,
+      1452
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1417,
+      1239,
+      1459
+    ],
+    "category": "Text",
+    "text": "Câu 12. Tập nghiệm của bất phương trình $\\log_5(2x - 1) < \\log_5(x + 2)$ là"
+  },
+  {
+    "bbox": [
+      192,
+      1479,
+      432,
+      1521
+    ],
+    "category": "List-item",
+    "text": "A $S = (3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      877,
+      1479,
+      1122,
+      1521
+    ],
+    "category": "List-item",
+    "text": "B $S = (-\\infty; 3)$."
+  },
+  {
+    "bbox": [
+      192,
+      1521,
+      417,
+      1595
+    ],
+    "category": "List-item",
+    "text": "C $S = (\\frac{1}{2}; 3)$."
+  },
+  {
+    "bbox": [
+      877,
+      1537,
+      1102,
+      1579
+    ],
+    "category": "List-item",
+    "text": "D $S = (-2; 3)$."
+  },
+  {
+    "bbox": [
+      154,
+      1631,
+      198,
+      1664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1599,
+      977,
+      1704
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Điều kiện: $\\begin{cases} 2x - 1 > 0 \\\\ x + 2 > 0 \\end{cases} \\Leftrightarrow x > \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      204,
+      1708,
+      856,
+      1748
+    ],
+    "category": "Text",
+    "text": "Bất phương trình $\\Leftrightarrow 2x - 1 < x + 2 \\Leftrightarrow x < 3$."
+  },
+  {
+    "bbox": [
+      204,
+      1748,
+      723,
+      1824
+    ],
+    "category": "Text",
+    "text": "Kết hợp điều kiện ta có $S = (\\frac{1}{2}; 3)$."
+  },
+  {
+    "bbox": [
+      154,
+      1843,
+      1546,
+      1929
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      1953,
+      198,
+      1986
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1951,
+      1546,
+      1991
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một vòng quay được chia thành 12 phần bằng nhau và được đánh số từ 1 đến 12 như"
+  },
+  {
+    "bbox": [
+      76,
+      2251,
+      111,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "74"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      120,
+      1556,
+      234
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Mỗi ngày bạn Nam đều làm bài tập môn Toán có bảng thống kê ghép nhóm về thời gian làm bài tập mỗi ngày của bạn Nam (đơn vị: phút) trong 60 ngày như sau"
+  },
+  {
+    "bbox": [
+      540,
+      262,
+      1459,
+      362
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[70; 80)</td><td>[80; 90)</td><td>[90; 100)</td><td>[100; 110)</td><td>[110; 120)</td></tr><tr><td>Số ngày</td><td>1</td><td>7</td><td>24</td><td>3</td><td>25</td></tr></table>"
+  },
+  {
+    "bbox": [
+      447,
+      394,
+      1104,
+      432
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      477,
+      432,
+      565,
+      472
+    ],
+    "category": "List-item",
+    "text": "(A) 50."
+  },
+  {
+    "bbox": [
+      749,
+      432,
+      836,
+      472
+    ],
+    "category": "List-item",
+    "text": "(B) 25."
+  },
+  {
+    "bbox": [
+      1022,
+      432,
+      1109,
+      472
+    ],
+    "category": "List-item",
+    "text": "(C) 24."
+  },
+  {
+    "bbox": [
+      1294,
+      432,
+      1396,
+      472
+    ],
+    "category": "List-item",
+    "text": "(D) 120."
+  },
+  {
+    "bbox": [
+      447,
+      492,
+      1553,
+      573
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, $y = g(x)$ liên tục trên $[a; b]$ và hai đường thẳng $x = a$, $x = b$ ($a < b$) là"
+  },
+  {
+    "bbox": [
+      477,
+      573,
+      860,
+      689
+    ],
+    "category": "List-item",
+    "text": "(A) $S = \\int_{a}^{b} [f(x) - g(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      1022,
+      573,
+      1412,
+      689
+    ],
+    "category": "List-item",
+    "text": "(B) $S = \\pi \\int_{a}^{b} |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      477,
+      689,
+      845,
+      805
+    ],
+    "category": "List-item",
+    "text": "(C) $S = \\int_{a}^{b} |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      1022,
+      689,
+      1394,
+      805
+    ],
+    "category": "List-item",
+    "text": "(D) $S = \\int_{a}^{b} [f(x) - g(x)] dx$."
+  },
+  {
+    "bbox": [
+      447,
+      822,
+      1641,
+      995
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $\\Delta$: $\\begin{cases} x = -2 + t \\\\ y = 5 - 6t \\\\ z = 6 + 3t \\end{cases}$ ($t \\in \\mathbb{R}$). Vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng $\\Delta$?"
+  },
+  {
+    "bbox": [
+      477,
+      995,
+      722,
+      1035
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{a}_2 = (-2; 5; 6)$."
+  },
+  {
+    "bbox": [
+      749,
+      995,
+      992,
+      1035
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{a}_4 = (3; -6; 1)$."
+  },
+  {
+    "bbox": [
+      1022,
+      995,
+      1267,
+      1035
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{a}_1 = (1; -6; 3)$."
+  },
+  {
+    "bbox": [
+      1294,
+      995,
+      1514,
+      1035
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{a}_3 = (1; 6; 3)$."
+  },
+  {
+    "bbox": [
+      447,
+      1055,
+      1553,
+      1135
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hàm số $f(x)$ có bảng biến thiên như hình. Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      605,
+      1165,
+      1394,
+      1477
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>2</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$-1$</td><td>$-5$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      477,
+      1515,
+      639,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(A) $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      749,
+      1515,
+      913,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1022,
+      1515,
+      1144,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(C) $(0; 2)$."
+  },
+  {
+    "bbox": [
+      1294,
+      1515,
+      1442,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(D) $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      463,
+      1575,
+      1173,
+      1629
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1639,
+      893,
+      1679
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = e^x - ex$."
+  },
+  {
+    "bbox": [
+      477,
+      1681,
+      856,
+      1721
+    ],
+    "category": "List-item",
+    "text": "a) $f(0) = 1$, $f(2) = e^2 - 2e$."
+  },
+  {
+    "bbox": [
+      477,
+      1723,
+      1151,
+      1763
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = e^x + e$."
+  },
+  {
+    "bbox": [
+      477,
+      1765,
+      1146,
+      1805
+    ],
+    "category": "List-item",
+    "text": "c) Nghiệm của phương trình $f'(x) = 0$ là $x = -1$."
+  },
+  {
+    "bbox": [
+      477,
+      1805,
+      1317,
+      1845
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[1; 2]$ là $e^2 - 2e$."
+  },
+  {
+    "bbox": [
+      447,
+      1865,
+      1553,
+      1943
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Tốc độ di chuyển $v(t)$ (m/s) của một ca nô trong khoảng thời gian 51 giây được xác định như hình vẽ"
+  },
+  {
+    "bbox": [
+      658,
+      1981,
+      1333,
+      2238
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "546 Bùi Tịnh Minh Lâm"
+  }
+]

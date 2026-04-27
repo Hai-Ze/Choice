@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      727,
+      147
+    ],
+    "category": "Text",
+    "text": "Cách khác tính thể tích chỏm cầu:"
+  },
+  {
+    "bbox": [
+      212,
+      156,
+      1340,
+      204
+    ],
+    "category": "Text",
+    "text": "Xét hệ trục $Oxy$, đường tròn tâm $I(4;0)$ và bán kính $R = 4$ có phương trình:"
+  },
+  {
+    "bbox": [
+      215,
+      211,
+      1015,
+      277
+    ],
+    "category": "Formula",
+    "text": "$$\n(C): (x-4)^2 + y^2 = 16 \\Leftrightarrow y = \\pm\\sqrt{16-(x-4)^2} = \\pm\\sqrt{x^2-8x}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      285,
+      1574,
+      488
+    ],
+    "category": "Text",
+    "text": "Khi đó quay hình phẳng giới hạn bởi đồ thị hàm số $y = \\sqrt{8x-x^2}$ trục hoành và hai đường thẳng $x = 0$, $x = 2$ quanh trục hoành ta thu được khối tròn xoay chính là phần mặt cầu nằm bên trong khối lập phương có thể tích $V' = \\pi \\int_{0}^{2} (\\sqrt{8x-x^2})^2 dx = \\frac{40}{3} \\pi \\ (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      212,
+      493,
+      1286,
+      575
+    ],
+    "category": "Text",
+    "text": "Mặt khác thể tích khối cầu có bán kính $R = 4$ là $V_{(s)} = \\frac{4}{3}\\pi \\cdot 4^3 = \\frac{256}{3} \\ (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      212,
+      579,
+      1194,
+      661
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích chỏm cầu là $V_1 = V_{(s)} - V' = \\frac{256}{3}\\pi - \\frac{40}{3}\\pi = 72\\pi \\ (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      212,
+      666,
+      362,
+      708
+    ],
+    "category": "Text",
+    "text": "(b) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      708,
+      1574,
+      846
+    ],
+    "category": "Text",
+    "text": "Đồ lưu niệm bằng thuỷ tinh có chiều cao bằng 14 cm, phần dưới là một khối lập phương cạnh bằng 8 cm nên phần khối cầu có bán kính 4 cm và chiều cao là 6 cm."
+  },
+  {
+    "bbox": [
+      212,
+      848,
+      318,
+      885
+    ],
+    "category": "Text",
+    "text": "(c) Sai."
+  },
+  {
+    "bbox": [
+      212,
+      890,
+      1574,
+      992
+    ],
+    "category": "Text",
+    "text": "Quay hình phẳng giới hạn bởi đồ thị hàm số $y = \\sqrt{8x-x^2}$ trục hoành và hai đường thẳng $x = 0$,"
+  },
+  {
+    "bbox": [
+      215,
+      995,
+      1442,
+      1094
+    ],
+    "category": "Formula",
+    "text": "$$\nx = 2 \\text{ quanh trục hoành ta thu được khối tròn xoay có thể tích } V = \\pi \\int_{0}^{2} (\\sqrt{8x-x^2})^2 dx.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1101,
+      362,
+      1143
+    ],
+    "category": "Text",
+    "text": "(d) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      1143,
+      1243,
+      1197
+    ],
+    "category": "Text",
+    "text": "Khối lập phương cạnh bằng 8 cm nên có thể tích bằng $8^3 = 512 \\ (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      74,
+      1199,
+      1574,
+      1296
+    ],
+    "category": "Text",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn (Tự luận). Thí sinh trả lời từ câu 1 đến câu 6. Ở mỗi câu thí sinh điền đáp án của câu đó."
+  },
+  {
+    "bbox": [
+      74,
+      1298,
+      1574,
+      1568
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Một trường đại học kĩ thuật có 80% sinh viên nam và 20% sinh viên nữ. Trong số sinh viên nam có 85% là người bản địa, số còn lại là sinh viên quốc tế. Trong số sinh viên nữ có 90% là người bản địa, số còn lại là sinh viên quốc tế. Chọn ngẫu nhiên một sinh viên nam và một sinh viên nữ. Biết rằng trong hai sinh viên được chọn ra có một sinh viên là người bản địa và một là sinh viên quốc tế, tính xác suất để sinh viên quốc tế được chọn ra là nữ. (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      833,
+      1570,
+      953,
+      1612
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1614,
+      404,
+      1655
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,39"
+  },
+  {
+    "bbox": [
+      212,
+      1659,
+      471,
+      1702
+    ],
+    "category": "Text",
+    "text": "Phần giải chi tiết:"
+  },
+  {
+    "bbox": [
+      212,
+      1704,
+      796,
+      1747
+    ],
+    "category": "Text",
+    "text": "Gọi $n$ là số sinh viên của trường, $n > 0$."
+  },
+  {
+    "bbox": [
+      212,
+      1747,
+      1181,
+      1793
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $A$: “sinh viên nam”, do đó biến cố $\\bar{A}$: “sinh viên nữ”."
+  },
+  {
+    "bbox": [
+      212,
+      1795,
+      1037,
+      1839
+    ],
+    "category": "Text",
+    "text": "Khi đó số sinh viên nam là $0,8n$, số sinh viên nữ là $0,2n$"
+  },
+  {
+    "bbox": [
+      212,
+      1845,
+      1291,
+      1893
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $B$: “sinh viên bản địa”, do đó biến cố $\\bar{B}$: “sinh viên quốc tế”."
+  },
+  {
+    "bbox": [
+      212,
+      1895,
+      1574,
+      2034
+    ],
+    "category": "Text",
+    "text": "Khi đó số sinh viên nam bản địa là $0,8n \\cdot 0,85 = 0,68n$, số sinh viên nam quốc tế là $0,8n \\cdot 0,15 = 0,12n$; số sinh viên nữ bản địa $0,2n \\cdot 0,9 = 0,18n$, số sinh viên nữ quốc tế là $0,2n \\cdot 0,1 = 0,02n$."
+  },
+  {
+    "bbox": [
+      212,
+      2042,
+      1574,
+      2178
+    ],
+    "category": "Text",
+    "text": "Do hai sinh viên được chọn ra có một sinh viên là người bản địa và một là sinh viên quốc tế nên có hai khả năng xảy ra là nam sinh viên bản địa, nữ sinh viên quốc tế hoặc nam sinh viên quốc tế, nữ sinh viên bản địa. Suy ra xác suất để sinh viên quốc tế được chọn là nữ là"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

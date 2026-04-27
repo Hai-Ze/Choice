@@ -1,0 +1,140 @@
+[
+  {
+    "bbox": [
+      657,
+      121,
+      1148,
+      421
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      843,
+      436,
+      957,
+      474
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      568,
+      478,
+      1236,
+      862
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      875,
+      966,
+      922
+    ],
+    "category": "Text",
+    "text": "Gọi $H, K$ lần lượt là hình chiếu của $A, B$ lên $(Oxy)$."
+  },
+  {
+    "bbox": [
+      252,
+      938,
+      1084,
+      988
+    ],
+    "category": "Text",
+    "text": "Khi đó: $H(1;1;0)$, $K(10;13;0) \\Rightarrow \\overline{HK} = (9;12;0) \\Rightarrow HK = 15$."
+  },
+  {
+    "bbox": [
+      252,
+      994,
+      1487,
+      1128
+    ],
+    "category": "Text",
+    "text": "Tổng chiếu dài dây nối từ trạm $A$ đến $M$ và từ trạm $B$ đến $N$ là $AM + BN$ ngắn nhất khi $\\overline{MN}, \\overline{HK}$ cùng hướng, suy ra $\\Rightarrow \\overline{MN} = \\frac{5}{15} \\overline{HK} = \\frac{1}{3} \\overline{HK} = (3;4;0)$."
+  },
+  {
+    "bbox": [
+      252,
+      1138,
+      1468,
+      1189
+    ],
+    "category": "Text",
+    "text": "Gọi $C$ là điểm thỏa mãn $MNBC$ là hình bình hành $\\Rightarrow \\overline{BC} = \\overline{NM} = (-3;-4;0) \\Rightarrow C(7;9;6)$."
+  },
+  {
+    "bbox": [
+      252,
+      1197,
+      1455,
+      1241
+    ],
+    "category": "Text",
+    "text": "Ta có: $AM + BN = AM + MC$ nên để $AM + BN$ ngắn nhất thì $AM + MC$ phải ngắn nhất."
+  },
+  {
+    "bbox": [
+      252,
+      1247,
+      1545,
+      1344
+    ],
+    "category": "Text",
+    "text": "Gọi $A'$ là điểm đối xứng của $A$ qua $(Oxy) \\Rightarrow A'(1;1;-3)$. Khi đó $(Oxy)$ là mặt phẳng trung trực của $AA'$."
+  },
+  {
+    "bbox": [
+      252,
+      1352,
+      1013,
+      1401
+    ],
+    "category": "Text",
+    "text": "Gọi $M = A'C \\cap (Oxy)$. Với mọi điểm $M' \\in (Oxy)$ ta có:"
+  },
+  {
+    "bbox": [
+      258,
+      1414,
+      1204,
+      1464
+    ],
+    "category": "Formula",
+    "text": "$$\nAM' + M'C = A'M' + M'C \\geq A'C \\Rightarrow (AM' + M'C)_{\\min} = A'C \\leftrightarrow M' \\equiv M.\n$$"
+  },
+  {
+    "bbox": [
+      258,
+      1476,
+      1116,
+      1526
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{A'C} = (6;8;9). M, A', C \\text{ thẳng hàng} \\Rightarrow M(1+6t;1+8t;-3+9t).\n$$"
+  },
+  {
+    "bbox": [
+      315,
+      1539,
+      1545,
+      1626
+    ],
+    "category": "Formula",
+    "text": "$$\nM \\in (Oxy) \\Rightarrow -3+9t = 0 \\Rightarrow t = \\frac{1}{3} \\Rightarrow M\\left(3;\\frac{11}{3};0\\right). \\text{ Lại có } \\overline{NM} = (-3;-4;0) \\Rightarrow N\\left(6;\\frac{23}{3};0\\right).\n$$"
+  },
+  {
+    "bbox": [
+      311,
+      1635,
+      1082,
+      1680
+    ],
+    "category": "Text",
+    "text": "Khi đó, tổng hoành độ hai điểm $M$ và $N$ bằng $3+6=9$."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      163,
+      94,
+      925,
+      135
+    ],
+    "category": "Text",
+    "text": "B là biến cố: Người chơi lấy được hai điện thoại iPhone."
+  },
+  {
+    "bbox": [
+      156,
+      158,
+      643,
+      237
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(A_1) = P(A_2) = P(A_3) = \\frac{1}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      262,
+      859,
+      352
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta cần tính: } P(A_2 | B). \\text{ Ta có: } P(A_2 | B) = \\frac{P(A_2 B)}{P(B)}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      380,
+      821,
+      461
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(A_2 B) = P(B | A_2) \\cdot P(A_2) = \\frac{4}{5} \\cdot \\frac{3}{4} \\cdot \\frac{1}{3} = \\frac{1}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      484,
+      244,
+      518
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      163,
+      544,
+      1444,
+      625
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(B | A_1) \\cdot P(A_1) + P(B | A_2) \\cdot P(A_2) + P(B | A_3) \\cdot P(A_3) = \\frac{1}{3} \\cdot \\frac{2}{5} \\cdot \\frac{1}{4} + \\frac{4}{5} \\cdot \\frac{3}{4} \\cdot \\frac{1}{3} + \\frac{1}{3} \\cdot \\frac{3}{5} \\cdot \\frac{1}{2} = \\frac{1}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      651,
+      711,
+      810
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy: } P(A_2 | B) = \\frac{P(A_2 B)}{P(B)} = \\frac{\\frac{1}{5}}{\\frac{1}{3}} = \\frac{3}{5} = 0,6.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

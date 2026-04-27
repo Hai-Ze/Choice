@@ -1,0 +1,350 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      678,
+      108,
+      1126,
+      495
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      505,
+      1032,
+      603
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\begin{cases} CD \\perp SA \\\\ CD \\perp AD \\end{cases} \\Rightarrow CD \\perp SD$; $\\begin{cases} BC \\perp AB \\\\ BC \\perp SA \\end{cases} \\Rightarrow BC \\perp (SAB)$"
+  },
+  {
+    "bbox": [
+      211,
+      609,
+      816,
+      711
+    ],
+    "category": "Text",
+    "text": "Mặt khác $\\begin{cases} OI \\parallel SA \\\\ SA \\perp (ABCD) \\end{cases} \\Rightarrow OI \\perp (ABCD)$"
+  },
+  {
+    "bbox": [
+      211,
+      721,
+      1169,
+      764
+    ],
+    "category": "Text",
+    "text": "Do tức giác $ABCD$ là hình chữ nhật nên không đảm bảo $AC \\perp BD$"
+  },
+  {
+    "bbox": [
+      211,
+      766,
+      745,
+      811
+    ],
+    "category": "Text",
+    "text": "Do đó không đảm bảo $BD \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      74,
+      823,
+      851,
+      872
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Số nghiệm của phương trình $2^{2x^2-7x+5} = 1$ là"
+  },
+  {
+    "bbox": [
+      211,
+      876,
+      295,
+      913
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      547,
+      876,
+      616,
+      910
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      862,
+      876,
+      936,
+      910
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1177,
+      876,
+      1261,
+      910
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      833,
+      920,
+      953,
+      961
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      963,
+      898,
+      1102
+    ],
+    "category": "Text",
+    "text": "Ta có: $2^{2x^2-7x+5} = 1 \\Leftrightarrow 2x^2-7x+5 = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = \\frac{5}{2} \\end{cases}$"
+  },
+  {
+    "bbox": [
+      211,
+      1108,
+      922,
+      1197
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của phương trình là: $S = \\left\\{1; \\frac{5}{2}\\right\\}$."
+  },
+  {
+    "bbox": [
+      74,
+      1205,
+      1276,
+      1250
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Cho cấp số cộng $(u_n)$ với $u_n = 3n + 2$. Tìm số hạng đầu $u_1$ và công sai $d$."
+  },
+  {
+    "bbox": [
+      211,
+      1261,
+      436,
+      1302
+    ],
+    "category": "List-item",
+    "text": "A. $u_1 = 2; d = 2$."
+  },
+  {
+    "bbox": [
+      547,
+      1261,
+      761,
+      1302
+    ],
+    "category": "List-item",
+    "text": "B. $u_1 = 5; d = 3$."
+  },
+  {
+    "bbox": [
+      862,
+      1261,
+      1077,
+      1302
+    ],
+    "category": "List-item",
+    "text": "C. $u_1 = 3; d = 5$."
+  },
+  {
+    "bbox": [
+      1177,
+      1261,
+      1399,
+      1302
+    ],
+    "category": "List-item",
+    "text": "D. $u_1 = 5; d = 2$."
+  },
+  {
+    "bbox": [
+      833,
+      1313,
+      953,
+      1354
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1356,
+      1370,
+      1405
+    ],
+    "category": "Text",
+    "text": "Ta có $u_1 = 3 \\cdot 1 + 2 = 5$ và $d = u_n - u_{n-1} = 3n + 2 - [3(n-1) + 2] = 3$.因此 $u_1 = 5; d = 3$."
+  },
+  {
+    "bbox": [
+      74,
+      1415,
+      1558,
+      1462
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Cho hình集合 $ABCD.A'B'C'D'$. Gọi $O$ là tâm của hình集合, khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      670,
+      1464,
+      1115,
+      1877
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1887,
+      439,
+      1932
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{OA} + \\overrightarrow{OA'} = \\overrightarrow{0}$"
+  },
+  {
+    "bbox": [
+      547,
+      1887,
+      773,
+      1932
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{OA} + \\overrightarrow{OC'} = \\overrightarrow{0}$"
+  },
+  {
+    "bbox": [
+      862,
+      1887,
+      1079,
+      1932
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{OA} + \\overrightarrow{OB} = \\overrightarrow{0}$"
+  },
+  {
+    "bbox": [
+      1177,
+      1887,
+      1402,
+      1932
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{OA} + \\overrightarrow{OD} = \\overrightarrow{0}$"
+  },
+  {
+    "bbox": [
+      833,
+      1942,
+      953,
+      1983
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1983,
+      900,
+      2032
+    ],
+    "category": "Text",
+    "text": "Vì $O$ là trung điểm của $AC'$ nên $\\overrightarrow{OA} + \\overrightarrow{OC'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      74,
+      2028,
+      1574,
+      2119
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      74,
+      2123,
+      751,
+      2177
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x) = \\log_5(x^3 - 3x^2 + 4)$"
+  },
+  {
+    "bbox": [
+      211,
+      2185,
+      821,
+      2226
+    ],
+    "category": "List-item",
+    "text": "a) Điều kiện xác định của hàm số là $x > 2$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2307
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2307
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

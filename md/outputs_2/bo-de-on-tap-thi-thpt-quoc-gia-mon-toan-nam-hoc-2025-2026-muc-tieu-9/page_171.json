@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      235,
+      139,
+      632,
+      181
+    ],
+    "category": "Text",
+    "text": "Vì $A, B, M$ thẳng hàng nên"
+  },
+  {
+    "bbox": [
+      235,
+      188,
+      1301,
+      380
+    ],
+    "category": "Formula",
+    "text": "$$\n\\exists k : \\overrightarrow{MA} = k\\overrightarrow{MB} \\Leftrightarrow \\begin{cases} a + 1 = k(2b - 1) \\\\ -a - 1 = k(-b + 5) \\\\ 2a + 1 = k(4b) \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{7}{2} \\\\ k = -\\frac{1}{2} \\\\ kb = 2 \\end{cases} \\Rightarrow \\begin{cases} a = \\frac{7}{2} \\\\ b = -4. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      391,
+      1081,
+      441
+    ],
+    "category": "Text",
+    "text": "Do đó $\\overrightarrow{MB} = (-9; 9; -16)$ là một véc-tơ chỉ phương của $\\Delta$."
+  },
+  {
+    "bbox": [
+      235,
+      456,
+      1546,
+      539
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta$ đi qua $M$ và có một véc-tơ chỉ phương $\\vec{u} = (9; -9; 16)$ nên có phương trình chính tắc là"
+  },
+  {
+    "bbox": [
+      750,
+      539,
+      1034,
+      619
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x}{9} = \\frac{y+1}{-9} = \\frac{z-2}{16}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      633,
+      1150,
+      675
+    ],
+    "category": "Section-header",
+    "text": "### Part III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      696,
+      1546,
+      782
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một hệ thống đường ốngphức tap có ba bể chứa nước A, B, C và các đường ống nối chúng. Nước có thể ch洗 giữa các bể theo các tỷ lệ sau mỗi giờ:"
+  },
+  {
+    "bbox": [
+      195,
+      803,
+      1081,
+      842
+    ],
+    "category": "List-item",
+    "text": "* Từ A: 20% ch洗 sang B, 10% ch洗 sang C, còn lại trong A."
+  },
+  {
+    "bbox": [
+      195,
+      861,
+      1067,
+      900
+    ],
+    "category": "List-item",
+    "text": "* Từ B: 15% ch洗 sang A, 5% ch洗 sang C, còn lại trong B."
+  },
+  {
+    "bbox": [
+      195,
+      920,
+      1081,
+      958
+    ],
+    "category": "List-item",
+    "text": "* Từ C: 10% ch洗 sang A, 20% ch洗 sang B, còn lại trong C."
+  },
+  {
+    "bbox": [
+      153,
+      977,
+      1546,
+      1064
+    ],
+    "category": "Text",
+    "text": "Ban đầu, tổng lượng nước trong ba bể là 5000 lít. Sau một giờ, lượng nước trong bể A tăng 150 lít, lượng nước trong bể B giảm 50 lít. Lượng nước ban đầu trong bể B bằng bao nhiêu lít?"
+  },
+  {
+    "bbox": [
+      153,
+      1081,
+      195,
+      1120
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1081,
+      445,
+      1142
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      203,
+      1157,
+      1396,
+      1199
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y, z$ lần lượt là lượng nước ban đầu trong bể A, B, C (đơn vị: lít; $x, y, z > 0$)."
+  },
+  {
+    "bbox": [
+      203,
+      1218,
+      1408,
+      1260
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, tổng lượng nước trong ba bể ban đầu là 5000 lít, ta có phương trình:"
+  },
+  {
+    "bbox": [
+      690,
+      1278,
+      1008,
+      1316
+    ],
+    "category": "Formula",
+    "text": "$$\nx + y + z = 5000 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1342,
+      905,
+      1383
+    ],
+    "category": "Text",
+    "text": "Xét sự thay đổi lượng nước trong bể A sau 1 giờ:"
+  },
+  {
+    "bbox": [
+      195,
+      1402,
+      1147,
+      1444
+    ],
+    "category": "List-item",
+    "text": "* Bể A mất đi 20% + 10% = 30% lượng nước (ch洗 sang B và C)."
+  },
+  {
+    "bbox": [
+      195,
+      1461,
+      1150,
+      1503
+    ],
+    "category": "List-item",
+    "text": "* Bể A nhận thêm 15% lượng nước từ B và 10% lượng nước từ C."
+  },
+  {
+    "bbox": [
+      195,
+      1520,
+      810,
+      1561
+    ],
+    "category": "List-item",
+    "text": "* Sau 1 giờ, lượng nước bể A tăng 150 lít."
+  },
+  {
+    "bbox": [
+      153,
+      1582,
+      931,
+      1624
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có phương trình: } -0,3x + 0,15y + 0,1z = 150 \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1641,
+      905,
+      1683
+    ],
+    "category": "Text",
+    "text": "Xét sự thay đổi lượng nước trong bể B sau 1 giờ:"
+  },
+  {
+    "bbox": [
+      195,
+      1702,
+      1132,
+      1744
+    ],
+    "category": "List-item",
+    "text": "* Bể B mất đi 15% + 5% = 20% lượng nước (ch洗 sang A và C)."
+  },
+  {
+    "bbox": [
+      195,
+      1761,
+      1150,
+      1803
+    ],
+    "category": "List-item",
+    "text": "* Bể B nhận thêm 20% lượng nước từ A và 20% lượng nước từ C."
+  },
+  {
+    "bbox": [
+      195,
+      1820,
+      798,
+      1862
+    ],
+    "category": "List-item",
+    "text": "* Sau 1 giờ, lượng nước bể B giảm 50 lít."
+  },
+  {
+    "bbox": [
+      153,
+      1883,
+      900,
+      1923
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có phương trình: } 0,2x - 0,2y + 0,2z = -50 \\quad (3)\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1944,
+      785,
+      1984
+    ],
+    "category": "Text",
+    "text": "Từ (1), (2) và (3) ta có hệ phương trình:"
+  },
+  {
+    "bbox": [
+      461,
+      1992,
+      1203,
+      2158
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x + y + z = 5000 \\\\ -0,3x + 0,15y + 0,1z = 150 \\\\ 0,2x - 0,2y + 0,2z = -50 \\end{cases} \\Rightarrow \\begin{cases} x = 1203,125 \\\\ y = 2625 \\\\ z = 1171,875 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2180,
+      888,
+      2222
+    ],
+    "category": "Text",
+    "text": "Vậy lượng nước ban đầu trong bể B là **2625** lít."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "171"
+  }
+]

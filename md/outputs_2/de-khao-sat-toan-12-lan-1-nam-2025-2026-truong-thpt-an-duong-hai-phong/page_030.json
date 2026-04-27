@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      268,
+      95,
+      1552,
+      208
+    ],
+    "category": "Text",
+    "text": "c) Đúng: Đồ thị hàm số có hai điểm cực trị là $(-1;3)$ và $(1;-1)$ suy ra toạ độ tâm đối xứng là $(0;1)$ nên đồ thị hàm số cắt trục tung tại $(0;1)$."
+  },
+  {
+    "bbox": [
+      284,
+      243,
+      1529,
+      466
+    ],
+    "category": "Text",
+    "text": "d) Đúng: Ta có: $f'(x) = 3ax^2 + 2bx + c$. Từ hình vẽ ta có:\n$$ \\begin{cases} f(-1) = 3 \\\\ f(1) = -1 \\\\ f'(-1) = 0 \\\\ f'(1) = 0 \\end{cases} \\Leftrightarrow \\begin{cases} -a+b-c+d = 3 \\\\ a+b+c+d = -1 \\\\ 3a-2b+c = 0 \\\\ 3a+2b+c = 0 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      268,
+      500,
+      1244,
+      541
+    ],
+    "category": "Text",
+    "text": "Giải hệ này ta được $a=1; b=0; c=-3; d=1$. Vì $T = a-b+c+d = -1$"
+  },
+  {
+    "bbox": [
+      128,
+      569,
+      1023,
+      991
+    ],
+    "category": "Text",
+    "text": "**Câu 14.** Một doanh nghiệp kinh doanh sản xuất đồng hồ có đồ thị hàm tổng chi phí theo số sản phẩm, là một phần của đồ thị của hàm số $f(x) = \\frac{ax^2 + bx + c}{2x+e}$ như hình vẽ (mối đơn vị trên trục hoành tương ứng với 100 sản phẩm, mỗi đơn vị trên trục tung tương ứng với 1000 USD). Biết rằng tâm đối xứng của đồ thị hàm số đó là điểm $I\\left(-\\frac{1}{2};1\\right)$ và đường tiệm cận xiên của đồ thị đó đi qua điểm B(3;2)."
+  },
+  {
+    "bbox": [
+      1054,
+      615,
+      1523,
+      986
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      128,
+      995,
+      731,
+      1083
+    ],
+    "category": "Text",
+    "text": "a) Hàm số nghịch biến trên khoảng $\\left(-\\frac{1}{2};0\\right)$"
+  },
+  {
+    "bbox": [
+      128,
+      1119,
+      814,
+      1201
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số có đường tiệm cận đứng là $x = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      128,
+      1233,
+      1305,
+      1316
+    ],
+    "category": "Text",
+    "text": "c) Hàm số có thể viết lại dưới dạng $f(x) = \\frac{2}{7}(x+4) + \\frac{d}{2x+1}$, với $d$ là số thực thuộc $R$"
+  },
+  {
+    "bbox": [
+      128,
+      1346,
+      1511,
+      1495
+    ],
+    "category": "Text",
+    "text": "d) Theo khảo sát, tổng doanh thu của doanh nghiệp này được mô tả bằng hàm số $R(x) = x^2 + 2x$ và lợi nhuận thu về khi bán 200 sản phẩm là 5250 USD. Khi chi phí theo số sản phẩm đạt giá trị nhỏ nhất, số sản phẩm sản xuất được (làm tròn đến hàng đơn vị) là 325 sản phẩm."
+  },
+  {
+    "bbox": [
+      714,
+      1516,
+      941,
+      1560
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      170,
+      1560,
+      624,
+      1599
+    ],
+    "category": "Text",
+    "text": "a) Đúng; b) Sai; c) Đúng. d) Sai."
+  },
+  {
+    "bbox": [
+      170,
+      1620,
+      1003,
+      1666
+    ],
+    "category": "Text",
+    "text": "Gọi đường tiệm cận xiên của đồ thị hàm số $f(x)$ là $y = ax+b$"
+  },
+  {
+    "bbox": [
+      170,
+      1701,
+      771,
+      1878
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết ta có:\n$$ \\begin{cases} -\\frac{1}{2}a+b = 1 \\\\ 3a+b = 2 \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{2}{7} \\\\ b = \\frac{8}{7} \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      170,
+      1914,
+      838,
+      1994
+    ],
+    "category": "Text",
+    "text": "Suy ra cận xiên của hàm số có dạng $y = \\frac{2}{7}(x+4)$"
+  },
+  {
+    "bbox": [
+      170,
+      2029,
+      1214,
+      2117
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(x) = \\frac{ax^2 + bx + c}{2x+e}$ được viết lại dưới dạng $f(x) = \\frac{2}{7}(x+4) + \\frac{d}{2x+1}$"
+  }
+]

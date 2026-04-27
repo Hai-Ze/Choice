@@ -1,0 +1,199 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      272
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      192,
+      309,
+      1038,
+      408
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Hình vẽ sau mô tả vị trí của máy bay vào thời điểm $9h30$ phút. Biết các đơn vị tính theo đơn vị km."
+  },
+  {
+    "bbox": [
+      222,
+      420,
+      730,
+      462
+    ],
+    "category": "List-item",
+    "text": "a) máy bay đang ở độ cao 9 km."
+  },
+  {
+    "bbox": [
+      222,
+      473,
+      957,
+      516
+    ],
+    "category": "List-item",
+    "text": "b) tọa độ của máy bay lúc $9h30$ là $(150; 300; 9)$."
+  },
+  {
+    "bbox": [
+      222,
+      525,
+      1032,
+      787
+    ],
+    "category": "List-item",
+    "text": "c) Phi công để máy bay ở chế độ tự động và bay theo hướng đông, độ cao không đổi lúc $10h30$ máy bay ở tọa độ $(150; 1086; 9)$. Khi đó vận tốc của máy bay là 776 km/h, biết vận tốc gió theo hướng đông là 10 m/s."
+  },
+  {
+    "bbox": [
+      222,
+      792,
+      1032,
+      1108
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử vận tốc và hướng gió không đổi thì sau khi bay đến vị trí lúc $10h30$ thì máy bay bayled lại (hướng Tây) với vận tốc 800 km/h với độ cao không đổi biết lúc đó trời lặng gió thì lúc 11 giờ máy bay cách gốc tọa độ một khoảng 723 km (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      1055,
+      317,
+      1442,
+      708
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1149,
+      965,
+      1520
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một chiếcđèn được đặt trên đỉnh của một cộtđèn cao $h$ (m) để chiếu sáng một vòng xuyến giao thông đông đúc có bán kính 12 m. Cường độ ánh sáng $I$ tại một điểm $P$ trên vòng xuyến tỉ lệ thuận với cosin của góc $\\theta$ và tỉ lệ nghịch với bình phương khoảng cách $d$ (m) từ nguồn sáng đến điểm $P$ (xem hình dưới đây)."
+  },
+  {
+    "bbox": [
+      983,
+      1150,
+      1445,
+      1692
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      222,
+      1737,
+      555,
+      1825
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\cos \\theta = \\frac{12}{\\sqrt{h^2 + 144}}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1822,
+      819,
+      1900
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} I = k \\frac{\\cos \\theta}{d^2} \\text{ (với } k \\text{ là hằng số dương).}\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1895,
+      1040,
+      2005
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{ Nếu } I = f(h) \\text{ thì } f'(h) = k \\frac{-2h^2 + 144}{(h^2 + 144)^2 \\sqrt{(h^2 + 144)^3}}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      2005,
+      1148,
+      2055
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} \\text{ Để cường độ ánh } I \\text{ lớn nhất thì cộtđèn phải cao } 6\\sqrt{2} \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2080,
+      892,
+      2126
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x) = 2x - 4$. Khi đó"
+  },
+  {
+    "bbox": [
+      222,
+      2124,
+      513,
+      2212
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\int_{-2}^{-2} f(x) dx = 0.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

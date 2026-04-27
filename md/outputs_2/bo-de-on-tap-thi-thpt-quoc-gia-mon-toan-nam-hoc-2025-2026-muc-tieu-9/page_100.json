@@ -1,0 +1,299 @@
+[
+  {
+    "bbox": [
+      154,
+      139,
+      624,
+      181
+    ],
+    "category": "Text",
+    "text": "Các phát biểu sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      190,
+      201,
+      1016,
+      243
+    ],
+    "category": "List-item",
+    "text": "a) Thế tích phần dưới (khối lập phương) bằng $512 \\text{ (cm}^3\\text{)}$."
+  },
+  {
+    "bbox": [
+      190,
+      256,
+      1165,
+      298
+    ],
+    "category": "List-item",
+    "text": "b) Phần chỏm cầu có bán kính $R = 4 \\text{ (cm)}$ và chiều cao $h = 6 \\text{ (cm)}$."
+  },
+  {
+    "bbox": [
+      190,
+      311,
+      1050,
+      353
+    ],
+    "category": "List-item",
+    "text": "c) Thế tích của chỏm cầu (phần phía trên) bằng $70\\pi \\text{ (cm}^3\\text{)}$."
+  },
+  {
+    "bbox": [
+      190,
+      366,
+      1352,
+      408
+    ],
+    "category": "List-item",
+    "text": "d) Thế tích của đồ lưu niệm đó là $738 \\text{ (cm}^3\\text{)}$ (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      198,
+      462
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      423,
+      444,
+      487
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      195,
+      506,
+      394,
+      544
+    ],
+    "category": "Section-header",
+    "text": "◇ a) Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      548,
+      800,
+      588
+    ],
+    "category": "Text",
+    "text": "Cạnh của khối lập phương là $a = 8 \\text{ cm}$."
+  },
+  {
+    "bbox": [
+      235,
+      592,
+      1016,
+      634
+    ],
+    "category": "Text",
+    "text": "Thể tích khối lập phương là $V_1 = a^3 = 8^3 = 512 \\text{ (cm}^3\\text{)}$."
+  },
+  {
+    "bbox": [
+      195,
+      653,
+      384,
+      691
+    ],
+    "category": "Section-header",
+    "text": "◇ b) Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      695,
+      1072,
+      735
+    ],
+    "category": "Text",
+    "text": "Khối cầu có đường kính $d = 8 \\text{ cm}$ nên bán kính $R = 4 \\text{ cm}$."
+  },
+  {
+    "bbox": [
+      235,
+      739,
+      1335,
+      781
+    ],
+    "category": "Text",
+    "text": "Chiều cao tổng cộng của đồ vật là $14 \\text{ cm}$, chiều cao khối lập phương là $8 \\text{ cm}$."
+  },
+  {
+    "bbox": [
+      235,
+      784,
+      1202,
+      825
+    ],
+    "category": "Text",
+    "text": "Vậy chiều cao của phần chỏm cầu phía trên là $h = 14 - 8 = 6 \\text{ (cm)}$."
+  },
+  {
+    "bbox": [
+      195,
+      844,
+      352,
+      882
+    ],
+    "category": "Section-header",
+    "text": "◇ c) Sai."
+  },
+  {
+    "bbox": [
+      235,
+      884,
+      1343,
+      934
+    ],
+    "category": "Text",
+    "text": "Công thức thể tích chỏm cầu bán kính $R$ và chiều cao $h$ là: $V = \\pi h^2 \\left(R - \\frac{h}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      235,
+      934,
+      714,
+      969
+    ],
+    "category": "Text",
+    "text": "Với $R = 4 \\text{ cm}$ và $h = 6 \\text{ cm}$, ta có:"
+  },
+  {
+    "bbox": [
+      235,
+      973,
+      952,
+      1022
+    ],
+    "category": "Formula",
+    "text": "$$\nV_2 = \\pi \\cdot 6^2 \\cdot \\left(4 - \\frac{6}{3}\\right) = \\pi \\cdot 36 \\cdot (4 - 2) = 72\\pi \\text{ (cm}^3\\text{)}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1022,
+      566,
+      1061
+    ],
+    "category": "Text",
+    "text": "(Đề bài ghi $70\\pi$ là sai)."
+  },
+  {
+    "bbox": [
+      195,
+      1080,
+      397,
+      1119
+    ],
+    "category": "Section-header",
+    "text": "◇ d) Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      1121,
+      1543,
+      1163
+    ],
+    "category": "Text",
+    "text": "Thể tích của đồ lưu niệm là: $V = V_1 + V_2 = 512 + 72\\pi \\approx 512 + 72 \\cdot 3,14159 \\approx 738,19 \\text{ (cm}^3\\text{)}$."
+  },
+  {
+    "bbox": [
+      235,
+      1167,
+      888,
+      1207
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng đơn vị ta được $738 \\text{ (cm}^3\\text{)}$."
+  },
+  {
+    "bbox": [
+      154,
+      1230,
+      189,
+      1265
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      1228,
+      1547,
+      1534
+    ],
+    "category": "Text",
+    "text": "**Bài 4.** Trong không gian với hệ tọa độ $Oxyz$, đơn vị trên mỗi trục tính bằng 100 mét, mặt đất nằm trên mặt phẳng ($Oxy$), trục $Oz$ hướng lên. Từ điểm $A(-7; -3; -8)$, một đường hầm $X$ được dự kiến đào xuyên thẳng qua điểm $B(-2; 0; -9)$ vào trong lòng núi. cùng lúc đó, một đường hầm $Y$ được xây thẳng từ điểm $C(4; -6; -6)$ xuyên qua điểm $D(7; -1; -8)$. Hai đường hầm cùng được đào đến $S$ vào cùng một thời điểm. Sau đó từ điểm $S$ này, các kỹ sư tiếp tục khoan một đường hầm khác theo hướng $\\vec{u}(2; 1; 2)$ đâm ra mặt đất tại điểm $P$ (tham khảo hình vẽ). Biết rằng việc khoan đường hầm $X$ được tiến hành với tốc độ 5 mét mỗi ngày."
+  },
+  {
+    "bbox": [
+      495,
+      1567,
+      1189,
+      1938
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1981,
+      1006,
+      2061
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình đường thẳng $AB$ là $\\frac{x+2}{5} = \\frac{y}{3} = \\frac{z-9}{-1}$."
+  },
+  {
+    "bbox": [
+      190,
+      2068,
+      575,
+      2110
+    ],
+    "category": "List-item",
+    "text": "b) Hoành độ điểm $S$ là 13."
+  },
+  {
+    "bbox": [
+      190,
+      2125,
+      1124,
+      2167
+    ],
+    "category": "List-item",
+    "text": "c) Đường hầm $Y$ được khoan với tốc độ lớn hơn 4 mét mỗi ngày."
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "100"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

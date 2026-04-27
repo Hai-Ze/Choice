@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      155,
+      96,
+      1034,
+      247
+    ],
+    "category": "Text",
+    "text": "a) Phương trình tham số của đường cáp là: $$ \\begin{cases} x = 10 + 2t \\\\ y = 3 - 2t \\\\ z = t \\end{cases} , \\quad (t \\in \\mathbb{R}) $$"
+  },
+  {
+    "bbox": [
+      155,
+      258,
+      907,
+      302
+    ],
+    "category": "Text",
+    "text": "b) Đường cáp AB tạo với mặt phẳng $(Oxy)$ một góc $30^\\circ$"
+  },
+  {
+    "bbox": [
+      155,
+      302,
+      1275,
+      346
+    ],
+    "category": "Text",
+    "text": "c) Cabin止站 ở điểm B có hoành độ $x_B = 550$, khi đó quăng đường AB dài 800m."
+  },
+  {
+    "bbox": [
+      155,
+      346,
+      1347,
+      455
+    ],
+    "category": "Text",
+    "text": "d) Giả sử sau thời gian t (s) kể từ khi xuất phát ($t \\ge 0$), cabin đến điểm M. Khi đó tọa độ điểm M là $M(3t + 10; -3t + 3; \\frac{3t}{2})$."
+  },
+  {
+    "bbox": [
+      112,
+      453,
+      1575,
+      690
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nghiên cứu số bệnh nhân bị bệnh X trong một bệnh viện, người ta thấy rằng có 2 nguyên nhân gây ra bệnh X là do nhiễm một trong hai chủng virus V19 và virus V20. bệnh nhân nhiễm bệnh X do chủng virus V19 chiếm 70% số bệnh nhân và nhiễm bệnh X do chủng virus V20 là 30%. Trong những bệnh nhân nhiễm bệnh X do chủng virus V19 thì có 30% bị biến chứng, trong những bệnh nhân bị nhiễm bệnh X do chủng virus V20 thì có 50% bị biến chứng. Rút ngẫu nhiên một bệnh án của bệnh nhân nhiễm bệnh X, các phát biểu sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      155,
+      690,
+      1116,
+      734
+    ],
+    "category": "Text",
+    "text": "a) Xác suất của nhiễm bệnh X do chủng virus V19 bị biến chứng là 0,3."
+  },
+  {
+    "bbox": [
+      112,
+      734,
+      1573,
+      863
+    ],
+    "category": "Text",
+    "text": "b) Biết rằng bệnh án rút ra bị biến chứng, xác suất bệnh án đó của bệnh nhân nhiễm bệnh X do chủng virus V19 là $\\frac{7}{12}$."
+  },
+  {
+    "bbox": [
+      155,
+      866,
+      1114,
+      912
+    ],
+    "category": "Text",
+    "text": "c) Xác suất của nhiễm bệnh X do chủng virus V20 bị biến chứng là 0,5."
+  },
+  {
+    "bbox": [
+      155,
+      912,
+      792,
+      956
+    ],
+    "category": "Text",
+    "text": "d) Xác suất của bệnh án bị biến chứng là 32%."
+  },
+  {
+    "bbox": [
+      112,
+      960,
+      1406,
+      1011
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ có đạo hàm liên tục trên $\\mathbb{R}$. Hàm số $y = f'(x)$ có đồ thị như sau:"
+  },
+  {
+    "bbox": [
+      723,
+      1020,
+      1099,
+      1295
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      180,
+      1311,
+      1088,
+      1361
+    ],
+    "category": "Text",
+    "text": "a) Trên đoạn $[-1; 4]$, giá trị lớn nhất của hàm số $y = f(x)$ là $f(1)$."
+  },
+  {
+    "bbox": [
+      180,
+      1378,
+      733,
+      1426
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      180,
+      1446,
+      509,
+      1495
+    ],
+    "category": "Text",
+    "text": "c) $f(1) > f(2) > f(4)$."
+  },
+  {
+    "bbox": [
+      180,
+      1511,
+      892,
+      1561
+    ],
+    "category": "Text",
+    "text": "d) Hàm số $y = f(x)$ đồng biến trên khoảng $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      112,
+      1574,
+      763,
+      1616
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      112,
+      1620,
+      1575,
+      1769
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một khu vường hình elip $(E)$, có độ dài trục lớn bằng 10 m và trục nhỏ bằng 8 m (như hình vẽ). Khu vực $A$ để trồng hoa; khu vực $B$ để trồng cỏ, là half hình tròn có tâm là một tiêu điểm của elip $(E)$, bán kính bằng 1 m; còn lại là khu vực $C$ (phần tô đâm) người ta lát gạch."
+  },
+  {
+    "bbox": [
+      688,
+      1778,
+      1037,
+      1993
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      247,
+      2002,
+      1370,
+      2048
+    ],
+    "category": "Text",
+    "text": "Diện tích phần lát gạch bằng bao nhiêu $m^2$? (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      112,
+      2091,
+      1575,
+      2213
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một công ty có ý định thiết kế một logo hình vuông có độ dài half đường chéo bằng 4. Biểu tượng 4سي� lá (được tô màu) được tạo thành bởi các đường cong đối xứng với nhau qua tâm của hình vuông và qua các đường chéo."
+  },
+  {
+    "bbox": [
+      112,
+      2278,
+      259,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 121"
+  },
+  {
+    "bbox": [
+      1439,
+      2283,
+      1573,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

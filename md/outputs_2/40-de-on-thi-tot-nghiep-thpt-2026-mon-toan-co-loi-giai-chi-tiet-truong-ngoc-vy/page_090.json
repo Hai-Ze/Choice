@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      894,
+      216
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      270,
+      285,
+      313
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị ta có:"
+  },
+  {
+    "bbox": [
+      76,
+      333,
+      1494,
+      458
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trong khoảng $(-\\infty;1)$ và $(3;+\\infty)$, nghịch biến trong khoảng $(1;2)$ và $(2;3)$."
+  },
+  {
+    "bbox": [
+      76,
+      484,
+      1178,
+      534
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $y = f(x)$ có tiệm cận đứng là $x = 2$ và tiệm cận xiên là $y = x+1$."
+  },
+  {
+    "bbox": [
+      76,
+      560,
+      1063,
+      611
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số $y = f(x)$ có điểm cực đại $(1;1)$ và điểm cực tiểu $(3;5)$."
+  },
+  {
+    "bbox": [
+      76,
+      637,
+      1033,
+      687
+    ],
+    "category": "Text",
+    "text": "d) Trên khoảng $(2;+\\infty)$, giá trị nhỏ nhất của hàm số $y = f(x)$ bằng 5."
+  },
+  {
+    "bbox": [
+      76,
+      707,
+      1494,
+      985
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trước khi đưa một loại sản phẩm ra thị trường, người ta đã phỏng vấn ngẫu nhiên 200 khách hàng về sản phẩm đó. Kết quả thống kê như sau: có 105 người trả lời \"sẽ mua\"; có 95 người trả lời \"không mua\". Kinh nghiệm cho thấy tỉ lệ khách hàng thực sự sẽ mua sản phẩm tương ứng với những cách trả lời \"sẽ mua\" và \"không mua\" lần lượt là 70% và 30%. Gọi $A$ là biến cố \"Người được phỏng vấn thực sự sẽ mua sản phẩm\". Gọi $B$ là biến cố \"Người được phỏng vấn trả lời sẽ mua sản phẩm\"."
+  },
+  {
+    "bbox": [
+      76,
+      1005,
+      603,
+      1086
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(B) = \\frac{21}{40}$ và $P(\\bar{B}) = \\frac{19}{40}$."
+  },
+  {
+    "bbox": [
+      76,
+      1108,
+      622,
+      1158
+    ],
+    "category": "Text",
+    "text": "b) Xác suất có điều kiện $P(A|B) = 0,3$."
+  },
+  {
+    "bbox": [
+      76,
+      1184,
+      420,
+      1234
+    ],
+    "category": "Text",
+    "text": "c) Xác suất $P(A) = 0,51$."
+  },
+  {
+    "bbox": [
+      76,
+      1254,
+      1494,
+      1358
+    ],
+    "category": "Text",
+    "text": "d) Trong số những người được phỏng vấn thực sự sẽ mua sản phẩm có 70% người đã trả lời \"sẽ mua\" khi được phỏng vấn (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      727,
+      1376,
+      843,
+      1414
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1429,
+      894,
+      1551
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1612,
+      1077,
+      1699
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(B) = \\frac{n_B}{n_{\\Omega}} = \\frac{105}{200} = \\frac{21}{40}$; $P(\\bar{B}) = 1 - P(B) = \\frac{19}{40}$ và $P(\\bar{B}) = \\frac{19}{40}$."
+  },
+  {
+    "bbox": [
+      76,
+      1719,
+      1494,
+      1833
+    ],
+    "category": "Text",
+    "text": "b) Theo đề bài: Kinh nghiệm cho thấy tỉ lệ khách hàng thực sự sẽ mua sản phẩm tương ứng với những cách trả lời \"sẽ mua\" là 70%. Do đó xác suất có điều kiện $P(A|B) = 0,7$."
+  },
+  {
+    "bbox": [
+      76,
+      1859,
+      1129,
+      1942
+    ],
+    "category": "Text",
+    "text": "c) Xác suất $P(A) = P(A|B) \\cdot P(B) + P(A|\\bar{B}) \\cdot P(\\bar{B}) = 0,7 \\cdot \\frac{21}{40} + 0,3 \\cdot \\frac{19}{40} = 0,51$."
+  },
+  {
+    "bbox": [
+      76,
+      1968,
+      806,
+      2094
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $P(B|A) = \\frac{P(A|B) \\cdot P(B)}{P(A)} = \\frac{0,7 \\cdot \\frac{21}{40}}{0,51} \\approx 0,72$."
+  },
+  {
+    "bbox": [
+      76,
+      2114,
+      1494,
+      2218
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Để đảm bảo an toàn khi lưu thông trên đường, các xe ô tô khi background graph, các xe ô tô khi background graph, các xe ô tô khi background graph, các xe ô tô khi background graph, các xe ô tô"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

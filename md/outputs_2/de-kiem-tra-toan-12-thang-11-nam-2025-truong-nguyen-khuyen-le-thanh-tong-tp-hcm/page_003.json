@@ -1,0 +1,168 @@
+[
+  {
+    "bbox": [
+      113,
+      85,
+      1576,
+      176
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x) = -x^3 + 12x$ và gọi $F(x)$ là một nguyên hàm của hàm số $y = f(x)$ trên $\\mathbb{R}$ thỏa mãn $F(0) = 2$."
+  },
+  {
+    "bbox": [
+      251,
+      192,
+      557,
+      233
+    ],
+    "category": "Formula",
+    "text": "a) $F(3) - F(1) = 28$."
+  },
+  {
+    "bbox": [
+      251,
+      246,
+      659,
+      327
+    ],
+    "category": "Formula",
+    "text": "b) $F(x) = -\\frac{1}{4}x^4 + 6x^2 + 2$."
+  },
+  {
+    "bbox": [
+      251,
+      337,
+      859,
+      439
+    ],
+    "category": "Formula",
+    "text": "c) Nếu $\\int_{2}^{4} k.f'(x)dx = 5$ thì $k \\in \\left(-\\frac{3}{16}; \\frac{1}{4}\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      446,
+      922,
+      489
+    ],
+    "category": "Formula",
+    "text": "d) Hàm số $y = F(x)$ có đúng hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      113,
+      522,
+      1576,
+      615
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. (3,0 điểm) Câu trắc nghiệm trả lời ngắn** (học sinh trả lời từ câu 1 đến câu 6 mỗi câu trả lời đúng được 0,5 điểm)."
+  },
+  {
+    "bbox": [
+      113,
+      648,
+      1576,
+      791
+    ],
+    "category": "Text",
+    "text": "**Bài 1.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác đều có cạnh bằng 1 và cạnh bên $AA' = \\sqrt{2}$. Tính khoảng cách giữa hai đường thẳng $A'B$ và $B'C$ (kết quả cuối cùng được làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      113,
+      806,
+      1576,
+      1129
+    ],
+    "category": "Text",
+    "text": "**Bài 2.** Một hộ gia đình sản xuất chiếu cói, mỗi ngày sản xuất được $x$ chiếc chiếu ($0 \\le x \\le 20$). Chi phí biên để sản xuất $x$ chiếc chiếu (nghìn đồng) cho bởi hàm số $C'(x) = 3x^2 - 4x + 10$ (giả sử hàm chi phí là $C(x)$ thì đạo hàm $C'(x)$ gọi là chi phí biên, biểu thị tốc độ thay đổi tức thời của chi phí đối với số lượng đơn vị hàng hoá được sản xuất). Biết rằng chi phí cố định ban đầu để sản xuất là 500 nghìn đồng. Giả sử gia đình này bán hết chiếu mỗi ngày với giá 270 nghìn đồng/chiếc chiếu. Tính lợi nhuận tối đa theo đơn vị nghìn đồng mà gia đình đó thu được ?"
+  },
+  {
+    "bbox": [
+      1356,
+      908,
+      1569,
+      1115
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1147,
+      1061,
+      1417
+    ],
+    "category": "Text",
+    "text": "**Bài 3.** Trong công viên nước, người ta xây dựng một máng trượt nước dạng một cung tròn. Mô hình hóa trong hệ trục $Oxyz$ (đơn vị trên mỗi trục là 1 mét) với điểm đầu máng trượt là $A(0;0;12)$, cung tròn đi qua điểm $B(5;12;5)$ và kết thúc ở điểm $C(17;5;0)$. Tính độ dài máng trượt đó (kết quả cuối cùng làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      1080,
+      1151,
+      1308,
+      1396
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1330,
+      1147,
+      1563,
+      1389
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1434,
+      1204,
+      1707
+    ],
+    "category": "Text",
+    "text": "**Bài 4.** Nhà anh An cách bờ biển 1 (km). Mỗi buổi sáng anh chạy bộ từ nhà ra bờ biển sau đó chạy dọc bờ biển 500 (m), rồi chạy qua chợ, cuối cùng anh chạy về nhà (được mô hình hóa bởi hình vẽ bên cạnh). Biết chợ cách bờ biển 400 (m) và cách nhà anh An 1 (km). Tính quăng đường ngắn nhất mà anh An đã chạy trong mỗi buổi sáng (đơn vị là mét và làm tròn kết quả đến hàng đơn vị) ?"
+  },
+  {
+    "bbox": [
+      1225,
+      1427,
+      1567,
+      1690
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1723,
+      1576,
+      2162
+    ],
+    "category": "Text",
+    "text": "**Bài 5.** Thị trấn $X$ làmedium phẳng được giới hạn bởi $$ \\begin{cases} x + y \\le 10 \\\\ x - y + 20 \\ge 0 \\\\ x \\le 10 \\\\ y \\ge -10 \\end{cases} $$ trong hệ trục tọa độ $Oxy$ với đơn vị hệ trục là km. Một đơn vị vận chuyển giao hàng được đặt tại gốc $O$ của hệ tọa độ và sẽ miễn phí vận chuyển nếu như đơn hàng được giao tới một địa điểm cách đơn vị vận chuyển đó theo đường thẳng không quá 10 (km). Chọn ngẫu nhiên một địa điểm $A$ của thị trấn đó, hãy tính xác suất để địa điểm $A$ nằm trong khu vực được miễn phí vận chuyển (làm tròn kết quả cuối cùng đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      113,
+      2262,
+      259,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "Mã Đề 101"
+  },
+  {
+    "bbox": [
+      1437,
+      2262,
+      1576,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "Trang - 3 -"
+  }
+]

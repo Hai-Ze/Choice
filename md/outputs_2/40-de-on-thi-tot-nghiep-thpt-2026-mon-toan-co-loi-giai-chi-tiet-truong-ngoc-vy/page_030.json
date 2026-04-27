@@ -1,0 +1,250 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      675,
+      102,
+      1055,
+      571
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      593,
+      534,
+      637
+    ],
+    "category": "Text",
+    "text": "Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      206,
+      655,
+      564,
+      700
+    ],
+    "category": "Formula",
+    "text": "A. $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = 3\\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      905,
+      655,
+      1281,
+      700
+    ],
+    "category": "Formula",
+    "text": "B. $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = -3\\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      206,
+      722,
+      551,
+      766
+    ],
+    "category": "Formula",
+    "text": "C. $\\overrightarrow{BC} + \\overrightarrow{AD} + \\overrightarrow{AC} = \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      905,
+      722,
+      1246,
+      766
+    ],
+    "category": "Formula",
+    "text": "D. $\\overrightarrow{AB} + \\overrightarrow{CD} + \\overrightarrow{AD} = \\overrightarrow{AD}$."
+  },
+  {
+    "bbox": [
+      807,
+      790,
+      924,
+      828
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      847,
+      279,
+      885
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      905,
+      972,
+      951
+    ],
+    "category": "Text",
+    "text": "Vì $G$ là trọng tâm của ta giác $BCD$ nên $\\overrightarrow{GB} + \\overrightarrow{GC} + \\overrightarrow{GD} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      156,
+      972,
+      1375,
+      1029
+    ],
+    "category": "Formula",
+    "text": "Ta có $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = \\overrightarrow{AG} + \\overrightarrow{GB} + \\overrightarrow{AG} + \\overrightarrow{GC} + \\overrightarrow{AG} + \\overrightarrow{GD} = 3\\overrightarrow{AG} + (\\overrightarrow{GB} + \\overrightarrow{GC} + \\overrightarrow{GD}) = 3\\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      156,
+      1052,
+      1574,
+      1156
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình chóp tức giác $S.ABCD$. Gọi $M$ và $N$ lần lượt là trung điểm của $SA$ và $SC$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      195,
+      1177,
+      497,
+      1222
+    ],
+    "category": "Formula",
+    "text": "A. $MN // mp(ABCD)$."
+  },
+  {
+    "bbox": [
+      549,
+      1177,
+      818,
+      1222
+    ],
+    "category": "Formula",
+    "text": "B. $MN // mp(SAB)$."
+  },
+  {
+    "bbox": [
+      905,
+      1177,
+      1180,
+      1222
+    ],
+    "category": "Formula",
+    "text": "C. $MN // mp(SCD)$."
+  },
+  {
+    "bbox": [
+      1254,
+      1177,
+      1527,
+      1222
+    ],
+    "category": "Formula",
+    "text": "D. $MN // mp(SBC)$."
+  },
+  {
+    "bbox": [
+      807,
+      1250,
+      924,
+      1288
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1308,
+      279,
+      1346
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      640,
+      1365,
+      1080,
+      1808
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      162,
+      1849,
+      861,
+      1888
+    ],
+    "category": "Text",
+    "text": "$MN$ là đường trung bình của $\\Delta SAC$ nên $MN // AC$."
+  },
+  {
+    "bbox": [
+      156,
+      1910,
+      755,
+      2076
+    ],
+    "category": "Formula",
+    "text": "Ta có: $$ \\left. \\begin{array}{l} MN // AC \\\\ AC \\subset (ABCD) \\\\ MN \\not\\subset (ABCD) \\end{array} \\right\\} \\Rightarrow MN // (ABCD). $$"
+  },
+  {
+    "bbox": [
+      156,
+      2103,
+      1574,
+      2224
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P)$ có phương trình $x - 3y - z + 8 = 0$. Vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P)$?"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

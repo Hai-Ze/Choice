@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      100,
+      1374,
+      181
+    ],
+    "category": "Text",
+    "text": "b) Biết rằng bạn Nam lấy được套 bi loại II, xác suất để viên bi lấy ra có màu đỏ bằng $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      155,
+      204,
+      948,
+      287
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để bạn Nam lấy được viên bi màu đỏ bằng $\\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      155,
+      310,
+      1528,
+      393
+    ],
+    "category": "Text",
+    "text": "d) Khi bạn Nam lấy được một viên bi màu đỏ thì xác suất để viên bi đó được lấy ra từ套 II bằng $\\frac{8}{25}$."
+  },
+  {
+    "bbox": [
+      807,
+      415,
+      924,
+      454
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      468,
+      972,
+      592
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      644,
+      854,
+      690
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “Bạn Nam lấy được套 bi loại II”"
+  },
+  {
+    "bbox": [
+      155,
+      703,
+      751,
+      748
+    ],
+    "category": "Text",
+    "text": "B là biến cố “Bạn Nam lấy được viên bi đỏ”"
+  },
+  {
+    "bbox": [
+      155,
+      767,
+      411,
+      850
+    ],
+    "category": "Formula",
+    "text": "a) $P(A) = \\frac{8}{10} = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      155,
+      873,
+      442,
+      956
+    ],
+    "category": "Formula",
+    "text": "b) $P(B|A) = \\frac{2}{10} = \\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      155,
+      978,
+      678,
+      1061
+    ],
+    "category": "Formula",
+    "text": "c) Ta có: $P(\\bar{A}) = \\frac{1}{5}$; $P(B|\\bar{A}) = \\frac{6}{10} = \\frac{3}{5}$"
+  },
+  {
+    "bbox": [
+      155,
+      1083,
+      1437,
+      1168
+    ],
+    "category": "Formula",
+    "text": "Áp dụng CT xác suất toàn phần, ta có $P(B) = P(A)P(B|A) + P(\\bar{A})P(B|\\bar{A}) = \\frac{4}{5} \\cdot \\frac{1}{5} + \\frac{1}{5} \\cdot \\frac{3}{5} = \\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      155,
+      1191,
+      1128,
+      1354
+    ],
+    "category": "Formula",
+    "text": "d) Áp dụng công thức Bayes, ta có $P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{\\frac{4}{5} \\cdot \\frac{1}{5}}{\\frac{7}{25}} = \\frac{4}{7}$."
+  },
+  {
+    "bbox": [
+      155,
+      1369,
+      1576,
+      1838
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một người điều�n kính xe Taxi xuất phát từ trạm thu phí muốn nhập làn vào đường cao tốc, chuyển động tăng tốc với tốc độ $v(t) = -\\frac{1}{180}t^2 + \\frac{116}{135}t$ (m/s) (trong đó, $t$ là thời gian tính bằng giây kể từ khi Taxi chuyển động rời trạm thu phí). Từ trạm thu phí đó, một xe Cứu thương cũng xuất phát, chuyển động thẳng cùng hướng với xe Taxi nhưng chậm hơn 1 giây so với xe Taxi và có gia tốc bằng $a$ ($m/s^2$) ($a$ là hằng số). Sau khi xe Cứu thương xuất phát được 17 giây thìقد up xe Taxi. Biết rằng, xe Taxi nhập làn cao tốc sau 20 giây và cả hai xe duy trì sự tăng tốc trong 28 giây kể từ khi Taxi rì rì trạm thu phí."
+  },
+  {
+    "bbox": [
+      155,
+      1848,
+      1574,
+      1952
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường (kết quả làm tròn đến hàng đơn vị) xe Taxi đi được từ trạm thu phí đến khi nhập làn khoảng 187 m."
+  },
+  {
+    "bbox": [
+      155,
+      1972,
+      979,
+      2055
+    ],
+    "category": "Text",
+    "text": "b) Xe Cứu thương chuyển động với gia tốc $a = \\frac{300}{289}$ ($m/s^2$)."
+  },
+  {
+    "bbox": [
+      155,
+      2070,
+      1574,
+      2184
+    ],
+    "category": "Text",
+    "text": "c) Vận tốc (kết quả làm tròn đến hàng đơn vị) của xe Cứu thương tại thời điểmقد up xe Taxi khoảng 16($m/s$)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

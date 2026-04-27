@@ -1,0 +1,122 @@
+[
+  {
+    "bbox": [
+      194,
+      139,
+      803,
+      181
+    ],
+    "category": "List-item",
+    "text": "◇ **b) Đúng.** Gọi $z_I$ là cao độ của điểm $I$."
+  },
+  {
+    "bbox": [
+      235,
+      190,
+      1039,
+      304
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } \\overrightarrow{DI} &= \\frac{1}{4}\\overrightarrow{DE} \\Rightarrow z_I - z_D = \\frac{1}{4}(z_E - z_D). \\\\\n\\Rightarrow z_I &= 9 + \\frac{1}{4}(12 - 9) = 9 + 0,75 = 9,75 \\text{ (km)} = 9750 \\text{ m.}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      311,
+      1255,
+      477
+    ],
+    "category": "List-item",
+    "text": "◇ **c) Đúng.** Phương trình đường thẳng $DE$: $$ \\begin{cases} x = 20 - 20t \\\\ y = 16t \\\\ z = 9 + 3t \\end{cases} \\quad (t \\in [0; 1]). $$"
+  },
+  {
+    "bbox": [
+      235,
+      489,
+      1128,
+      532
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay tọa độ điểm } P(16; 3,2; 9,6) \\text{ vào: } 16 = 20 - 20t \\Rightarrow t = 0,2.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      548,
+      1156,
+      591
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Kiểm tra: } y = 16(0,2) = 3,2 \\text{ (đúng), } z = 9 + 3(0,2) = 9,6 \\text{ (đúng).}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      606,
+      1509,
+      650
+    ],
+    "category": "List-item",
+    "text": "◇ **d) Sai.** Một điểm $M(x; y; z)$ trên đường bay nằm trong phạm vi ra đa khi $OM \\le 20$ km."
+  },
+  {
+    "bbox": [
+      244,
+      663,
+      1527,
+      714
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow (20 - 20t)^2 + (16t)^2 + (9 + 3t)^2 \\le 20^2 \\Leftrightarrow 665t^2 - 746t + 81 \\le 0 \\Leftrightarrow \\frac{81}{665} \\le t \\le 1.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      726,
+      858,
+      765
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai vị trí giới hạn này là:"
+  },
+  {
+    "bbox": [
+      235,
+      774,
+      1544,
+      833
+    ],
+    "category": "Formula",
+    "text": "$$\nd = \\left(1 - \\frac{81}{665}\\right) \\cdot |\\overrightarrow{DE}| = \\frac{584}{665} \\cdot \\sqrt{(-20)^2 + 16^2 + 3^2} = \\frac{584}{665} \\cdot \\sqrt{665} = \\frac{584}{\\sqrt{665}} \\approx 22,646 \\text{ km} \\approx 22646 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      844,
+      1249,
+      885
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng trăm ta được 22600 m. Khẳng định 22500 m là sai."
+  },
+  {
+    "bbox": [
+      75,
+      2251,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "44"
+  },
+  {
+    "bbox": [
+      839,
+      2251,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

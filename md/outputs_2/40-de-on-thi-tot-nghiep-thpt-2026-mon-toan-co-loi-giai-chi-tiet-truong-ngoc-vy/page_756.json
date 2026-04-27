@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1548,
+      138
+    ],
+    "category": "Text",
+    "text": "Nếu chọn điểm đặt máy phát tín hiệu P là gốc tọa độ $O$ của hệ trục tọa độ $Oxyz$ thì máy dò A di chuyển"
+  },
+  {
+    "bbox": [
+      155,
+      163,
+      1325,
+      312
+    ],
+    "category": "Text",
+    "text": "theo đường thẳng có phương trình $\\begin{cases} x = 5 - t \\\\ y = 5 - t \\\\ z = 7 - 2t \\end{cases}$ (trong đó $t(h)$ là thời gian chuyển động)."
+  },
+  {
+    "bbox": [
+      155,
+      332,
+      1528,
+      445
+    ],
+    "category": "Text",
+    "text": "Mặt cầu giới hạn phạm vi nhận tín hiệu của máy dò A tại thời điểm nó gần máy phát tín hiệu P nhất có tâm $I(a; b; c)$. Tính $P = a + b + c$."
+  },
+  {
+    "bbox": [
+      155,
+      528,
+      493,
+      565
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      588,
+      924,
+      627
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      645,
+      297,
+      684
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1"
+  },
+  {
+    "bbox": [
+      155,
+      700,
+      855,
+      744
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là vị trí của máy dò $A$ trên đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      155,
+      760,
+      1292,
+      809
+    ],
+    "category": "Text",
+    "text": "Ta có $M(5-t; 5-t; 7-2t)$. Để máy điện tín gần trạm dò tìm nhất thì $OM$ ngắn nhất."
+  },
+  {
+    "bbox": [
+      161,
+      838,
+      1037,
+      936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nOM^2 &= (5-t)^2 + (5-t)^2 + (7-2t)^2 = 50 - 20t + 2t^2 + 49 - 28t + 4t^2 \\\\\n&= 99 - 48t + 6t^2 = 6(t^2 - 8t + 16) + 3 = 6(t-4)^2 + 3 \\ge 3\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      957,
+      516,
+      1002
+    ],
+    "category": "Text",
+    "text": "Dấu bằng xảy ra khi $t = 4$."
+  },
+  {
+    "bbox": [
+      155,
+      1022,
+      652,
+      1068
+    ],
+    "category": "Text",
+    "text": "Khi đó máy dò $A$ ở vị trí $M(1; 1; -1)$."
+  },
+  {
+    "bbox": [
+      155,
+      1095,
+      485,
+      1131
+    ],
+    "category": "Text",
+    "text": "Khi đó $P = a + b + c = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      1192,
+      1572,
+      1311
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác đều cạnh bằng $6\\sqrt{3}$ (cm). Khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng bao nhiêu centimét?"
+  },
+  {
+    "bbox": [
+      155,
+      1329,
+      493,
+      1366
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1388,
+      924,
+      1427
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1445,
+      302,
+      1484
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 9"
+  },
+  {
+    "bbox": [
+      674,
+      1509,
+      1040,
+      1918
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1941,
+      521,
+      1984
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm $BC$."
+  },
+  {
+    "bbox": [
+      155,
+      2001,
+      746,
+      2044
+    ],
+    "category": "Text",
+    "text": "Ta có $AM \\perp BC$ (vì $ABC$ là tam giác đều)"
+  },
+  {
+    "bbox": [
+      155,
+      2066,
+      622,
+      2113
+    ],
+    "category": "Text",
+    "text": "Vì $AA' \\perp (ABC)$ nên $AA' \\perp AM$."
+  },
+  {
+    "bbox": [
+      155,
+      2141,
+      518,
+      2188
+    ],
+    "category": "Text",
+    "text": "Do đó $d(AA', BC) = AM$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

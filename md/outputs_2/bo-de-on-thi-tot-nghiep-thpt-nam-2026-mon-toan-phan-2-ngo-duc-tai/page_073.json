@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      193,
+      305,
+      1455,
+      625
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cuối tuần bạn Bảo được cha chở đi mua sách tại một tiệm sách cũ. Bảo chọn mua 12 quyển (không có hai quyển nào giống nhau), trong đó có 7 quyển thuộc thể loại Khoa Học Tự nhiên và 5 quyển còn lại thuộc thể loại Khoa Học Xã Hội. Trước khi tính tiền sách cho Bảo, cha chọn ngẫu nhiên 3 quyển trong 12 quyển đã được Bảo chọn mua để kiểm tra nội dung trong sách có thực sự phù hợp với Bảo hay không."
+  },
+  {
+    "bbox": [
+      222,
+      630,
+      1448,
+      731
+    ],
+    "category": "List-item",
+    "text": "a) Nếu $P_a$ là xác suất để 3 quyển sách được cha của Bảo chọn để kiểm tra đều thuộc thể loại Khoa Học Xã Hội thì $11P_a = 1$."
+  },
+  {
+    "bbox": [
+      222,
+      734,
+      1448,
+      837
+    ],
+    "category": "List-item",
+    "text": "b) Nếu $P_b$ là xác suất để 3 quyển sách được cha của Bảo chọn để kiểm tra có đúng một quyển thuộc thể loại Khoa Học Tự nhiên thì $22P_b = 7$."
+  },
+  {
+    "bbox": [
+      222,
+      837,
+      1448,
+      941
+    ],
+    "category": "List-item",
+    "text": "c) Nếu $P_c$ là xác suất để 3 quyển sách được cha của Bảo chọn để kiểm tra có đúng hai quyển thuộc thể loại Khoa Học Tự nhiên thì $44P_c = 21$."
+  },
+  {
+    "bbox": [
+      222,
+      941,
+      1448,
+      1043
+    ],
+    "category": "List-item",
+    "text": "d) Nếu $P_d$ là xác suất để 3 quyển sách được cha của Bảo chọn để kiểm tra có đủ hai thể loại Khoa Học Tự nhiên và Khoa Học Xã Hội thì $44P_d = 35$."
+  },
+  {
+    "bbox": [
+      193,
+      1063,
+      876,
+      1153
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x) = \\frac{x^2 + 3x + 3}{x + 2}$."
+  },
+  {
+    "bbox": [
+      222,
+      1150,
+      1448,
+      1252
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình tiếp tuyến của đồ thị hàm số đã cho song song với đường thẳng $y = -3x - 11$ đi qua điểm $B(1; -6)$."
+  },
+  {
+    "bbox": [
+      222,
+      1261,
+      1276,
+      1310
+    ],
+    "category": "List-item",
+    "text": "b) Tổng giá trị cực đại và giá trị cực tiểu của hàm số đã cho bằng $-4$."
+  },
+  {
+    "bbox": [
+      222,
+      1315,
+      1290,
+      1364
+    ],
+    "category": "List-item",
+    "text": "c) Đường tiệm cận xiên của đồ thị hàm số đã cho đi qua điểm $A(0; 2)$."
+  },
+  {
+    "bbox": [
+      222,
+      1371,
+      1087,
+      1418
+    ],
+    "category": "List-item",
+    "text": "d) Hàm số đã cho đồng biến trên $(-\\infty; -3)$ và $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      193,
+      1443,
+      1455,
+      1762
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty có chế độ đãi ngộ cho nhân viên gắn bó với công ty, quy tắc trả tiền lương như sau, tháng đầu tiên vào làm việc bất kì nhân viên nào cũng được trả mức lương cơ bản 400$ một tháng, các tháng làm việc tiếp theo, ngoài lương cơ bản này, nhân viên còn nhận được một khoảng tiền thưởng 20$ nhiều hơn số tiền mà họ nhận được ở tháng trước đó. Gọi $u_n$ ($\\$)$ là số tiền lương và thưởng mà nhân viên nhận được ở tháng thứ $n$. Khi đó:"
+  },
+  {
+    "bbox": [
+      222,
+      1769,
+      1016,
+      1817
+    ],
+    "category": "List-item",
+    "text": "a) Dãy số $(u_n)$ là cấp số cộng có $u_1 = 400$ và $d = 20$."
+  },
+  {
+    "bbox": [
+      222,
+      1826,
+      1246,
+      1872
+    ],
+    "category": "List-item",
+    "text": "b) Lương và thưởng người này nhận được ở tháng thứ sáu là 500$."
+  },
+  {
+    "bbox": [
+      222,
+      1877,
+      1448,
+      1978
+    ],
+    "category": "List-item",
+    "text": "c) Nhân viên A của công ty vào làm đủ 6 tháng thì tổng số tiền mà anh ta nhận được là 3 000$."
+  },
+  {
+    "bbox": [
+      222,
+      1983,
+      1448,
+      2190
+    ],
+    "category": "List-item",
+    "text": "d) Nhân viên B của công ty này vào làm ở tháng 1, anh ta đã kí cam kết xin ứng trước tiền lương 4 tháng, tuy nhiên đến hết tháng 12 thì anh ta mới được phép nhận tất cả tiền lương thưởng còn lại, anh ta nhẩm tính rằng mình sẽ nhận được 4 400$."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 72"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      487,
+      181,
+      1291,
+      267
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2\\sqrt{3} = x\\sqrt{3} + \\frac{s\\sqrt{3}}{3} \\Rightarrow 2 = x + \\frac{s}{3} \\Rightarrow s = 6 - 3x \\text{ (dm).}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      282,
+      1151,
+      322
+    ],
+    "category": "Text",
+    "text": "❖ **d): Đúng.** Khi gấp lại, chậu là hình chóp cụt tam giác đều có:"
+  },
+  {
+    "bbox": [
+      234,
+      340,
+      946,
+      380
+    ],
+    "category": "Text",
+    "text": "- Đáy nhỏ (đáy chậu) là $\\triangle DEF$ cạnh $s = 6 - 3x$."
+  },
+  {
+    "bbox": [
+      234,
+      397,
+      1180,
+      439
+    ],
+    "category": "Text",
+    "text": "- Đáy lớn (miệng chậu) là tam giác đều cạnh $a_{top} = NP = 6 - 2x$."
+  },
+  {
+    "bbox": [
+      234,
+      457,
+      739,
+      496
+    ],
+    "category": "Text",
+    "text": "- Cạnh bên của hình chóp cụt là $x$."
+  },
+  {
+    "bbox": [
+      234,
+      503,
+      1513,
+      588
+    ],
+    "category": "Text",
+    "text": "Gọi $R_1, R_2$ là khoảng cách từ $O$ đến đỉnh đáy nhỏ và đáy lớn: $R_1 = \\frac{6 - 3x}{\\sqrt{3}}$, $R_2 = \\frac{6 - 2x}{\\sqrt{3}}$."
+  },
+  {
+    "bbox": [
+      234,
+      597,
+      1153,
+      683
+    ],
+    "category": "Text",
+    "text": "Chiều cao chậu: $h = \\sqrt{x^2 - (R_2 - R_1)^2} = \\sqrt{x^2 - \\left(\\frac{x}{\\sqrt{3}}\\right)^2} = \\frac{x\\sqrt{6}}{3}$."
+  },
+  {
+    "bbox": [
+      234,
+      688,
+      1045,
+      776
+    ],
+    "category": "Text",
+    "text": "Diện tích hai đáy: $S_1 = \\frac{(6 - 3x)^2\\sqrt{3}}{4}$, $S_2 = \\frac{(6 - 2x)^2\\sqrt{3}}{4}$."
+  },
+  {
+    "bbox": [
+      234,
+      781,
+      1169,
+      869
+    ],
+    "category": "Text",
+    "text": "Thể tích: $V(x) = \\frac{h}{3}(S_1 + S_2 + \\sqrt{S_1S_2}) = \\frac{x\\sqrt{2}}{12}(19x^2 - 90x + 108)$."
+  },
+  {
+    "bbox": [
+      234,
+      874,
+      1133,
+      961
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(x) = 0 \\Rightarrow 57x^2 - 180x + 108 = 0 \\Rightarrow x = \\frac{30 - 6\\sqrt{6}}{19} \\approx 0,805.\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      968,
+      919,
+      1011
+    ],
+    "category": "Text",
+    "text": "Thay vào ta được $V_{max} \\approx 4,537 \\text{ dm}^3 \\approx 4,54 \\text{ lít}$."
+  },
+  {
+    "bbox": [
+      153,
+      1036,
+      189,
+      1069
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      1034,
+      291,
+      1068
+    ],
+    "category": "Section-header",
+    "text": "Bài 2."
+  },
+  {
+    "bbox": [
+      569,
+      1084,
+      1131,
+      1258
+    ],
+    "category": "Text",
+    "text": "Bạch Đằng sóng场 một trời đông,\nCọc ngầm dựng thẳng khóa muôn dòng,\nNam Hán truyền tan theo triều xuống,\nToàn quân giặc死 gối non水"
+  },
+  {
+    "bbox": [
+      500,
+      1337,
+      1195,
+      1790
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1860,
+      1548,
+      2214
+    ],
+    "category": "Text",
+    "text": "Chiến thẳng Bạch Đằng năm 938 là đỉnh cao nghệ thuật quân sự, khi Ngô Quyền đã đoán định chính xác nhip lên xuống của thủy triều để nhử thuyền quân Nam Hán vào sâu bến trong, rồi phản công đúng thời khắc nước rút, qua đó đánh代出来 được giặc xâm lăng ra khỏi bờ cõi. Để mô hình hóa chiến thuật \"cắm cọc nước rút\" ấy dưới lăng kính Giải tích, ta xét bài toán sau: Xét một整cọc được đóng xuống bùn theo phương thẳng đứng; chiều cao mỗi cọc (tính từ mặt bùn đến đầu cọc) là 2,4m. Gọi $h(t)$ (tính bằng mét) là độ sâu mực nước tại整cọc (tính từ mặt bùn đến mặt nước) ở thời điểm $t$ (giờ), trong đó $t = 0$ ứng với thời điểm 09:00, $0 \\le t \\le 4$. Thời gian này, mực nước rút nên $h(t)$ theo quy luật $h'(t) = -0,25t - 0,05$ (m/giờ). Biết rằng vào lúc"
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1585,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "71"
+  }
+]

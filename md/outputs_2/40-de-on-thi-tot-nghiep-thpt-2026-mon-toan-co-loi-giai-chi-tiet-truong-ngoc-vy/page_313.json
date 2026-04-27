@@ -1,0 +1,132 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1495,
+      429
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong một đợt kiểm tra sức khỏe tại trường có 200 học sinh được xét nghiệm một loại virus. Trong đó, biết rằng có 80 bạn thật sự bị nhiễm virus. Nếu một bạn bị nhiễm, thì xét nghiệm cho kết quả dương tính (tức là phát hiện đúng bệnh) với xác suất 90%. Nếu một bạn không bị nhiễm, thì xét nghiệm vẫn có thể báo nhầm là dương tính (gọi là dương tính giả), với xác suất 5%. Giả sử một bạn có kết quả xét nghiệm dương tính. Hỏi xác suất để bạn đó thật sự bị nhiễm virus là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      75,
+      446,
+      414,
+      483
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      506,
+      843,
+      544
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      563,
+      268,
+      602
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,92"
+  },
+  {
+    "bbox": [
+      75,
+      623,
+      702,
+      667
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là xác suất bị nhiễm và $D$ là dương tính"
+  },
+  {
+    "bbox": [
+      82,
+      688,
+      609,
+      769
+    ],
+    "category": "Formula",
+    "text": "$$\nP(N) = \\frac{80}{200} \\Rightarrow P(\\overline{N}) = 1 - \\frac{80}{200} = \\frac{120}{200},\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      794,
+      537,
+      850
+    ],
+    "category": "Formula",
+    "text": "$$\nP(D/N) = 0,9; \\quad P(D/\\overline{N}) = 0,05\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      880,
+      557,
+      962
+    ],
+    "category": "Formula",
+    "text": "$$\nP(D) = \\frac{80}{200} \\cdot 0,9 + \\frac{120}{200} \\cdot 0,05 = 0,39\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      987,
+      708,
+      1113
+    ],
+    "category": "Formula",
+    "text": "$$\nP(N/D) = \\frac{P(N) \\cdot P(D/N)}{P(D)} = \\frac{\\frac{80}{200} \\cdot 0,9}{0,39} = 0,92\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

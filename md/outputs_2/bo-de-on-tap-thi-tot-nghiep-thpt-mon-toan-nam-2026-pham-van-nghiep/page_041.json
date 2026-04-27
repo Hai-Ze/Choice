@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      46,
+      1540,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      224,
+      111,
+      481,
+      162
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      224,
+      172,
+      582,
+      223
+    ],
+    "category": "Formula",
+    "text": "b) $f(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      224,
+      229,
+      700,
+      289
+    ],
+    "category": "Formula",
+    "text": "c) $\\int f(x)dx = \\int dx + \\int (-\\cos x)dx$."
+  },
+  {
+    "bbox": [
+      224,
+      291,
+      619,
+      349
+    ],
+    "category": "Formula",
+    "text": "d) $\\int f(x)dx = x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      74,
+      355,
+      1576,
+      439
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Khi kiểm tra sức khoẻ tổng quát của bệnh nhân ở một bệnh viện, người ta được kết quả như sau:"
+  },
+  {
+    "bbox": [
+      211,
+      446,
+      754,
+      489
+    ],
+    "category": "List-item",
+    "text": "- Có 40% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      211,
+      492,
+      884,
+      535
+    ],
+    "category": "List-item",
+    "text": "- Có 30% bệnh nhân thường xuyên bị stress."
+  },
+  {
+    "bbox": [
+      211,
+      537,
+      1445,
+      625
+    ],
+    "category": "List-item",
+    "text": "- Trong số các bệnh nhân thường xuyên bị stress có 80% bệnh nhân bị heavy da dày. Chọn ngẫu nhiên 1 bệnh nhân."
+  },
+  {
+    "bbox": [
+      211,
+      627,
+      1150,
+      670
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được bệnh nhân thường xuyên bị stress là 0,3."
+  },
+  {
+    "bbox": [
+      211,
+      673,
+      1572,
+      758
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất chọn được bệnh nhân bị heavy da dày, biết bệnh nhân đó thường xuyên bị stress, là 0,8."
+  },
+  {
+    "bbox": [
+      211,
+      765,
+      1507,
+      808
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất chọn được bệnh nhân vừa thường xuyên bị stress vừa bị heavy da dày là 0,24."
+  },
+  {
+    "bbox": [
+      211,
+      811,
+      1572,
+      896
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất chọn được bệnh nhân thường xuyên bị stress, biết bệnh nhân đó bị heavy da dày, là 0,6."
+  },
+  {
+    "bbox": [
+      74,
+      896,
+      685,
+      947
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn."
+  },
+  {
+    "bbox": [
+      74,
+      950,
+      1560,
+      1098
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho $\\int_{a}^{b} |x|dx = ma^2 + nb^2$, với $m, n, a, b$ là các hằng số thực và $a < 0 < b$. Giá trị của biểu thức $m+n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      74,
+      1102,
+      1576,
+      1485
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Công ty M có 2 nhà máy $M_1$ và $M_2$ sản xuất 18000 sản phẩm. Nhà máy $M_1$ sản xuất 3000 sản phẩm và có tỉ lệ sản phẩm lỗ là 2%, nhà máy $M_2$ có tỉ lệ sản phẩm lỗ là 6%. Một thiết bị dùng để phát hiện sản phẩm lỗ cho các sản phẩm trên, thiết bị này chỉ ra được sản phẩm lỗ hay không lỗ. Biết rằng nếu một sản phẩm lỗ đi qua thiết bị này thì thiết bị báo sản phẩm bị lỗ với tỉ lệ 97%, thiết bị dự đoán kết quả chính xác được 94%. Chọn ngẫu nhiên 1 sản phẩm rồi cho đi qua thiết bị kiểm tra lỗ. Xác suất để sản phẩm được chọn là của nhà máy $M_1$ biết rằng sản phẩm được chọn được thiết bị thông báo sản phẩm bị lỗ là bao nhiêu? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      74,
+      1485,
+      1576,
+      1801
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cho tam giác $ABC$ đều tâm $O$ cạnh bằng $8cm$ (các cạnh được biểu diễn là nét liền trong hình vẽ). Xét đường cong kín $(T)$ (biểu diễn bằng nét đứt trong hình), $(T)$ được tạo thành bằng cách lấy một điểm $M$ trên cạnh của tam giác $ABC$, trên tia đối của tia $MO$ ta lấy một điểm $N$ sao cho đoạn $MN = 5cm$. Khi điểm $M$ chạy trên cạnh của tam giác $ABC$ thì $N$ chạy trên $(T)$. Tính diện tích phần được tô màu trong hình vẽ (đơn vị $cm^2$) (làm tròn kết quả đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      621,
+      1805,
+      1034,
+      2230
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      738,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1521,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 41 -"
+  }
+]

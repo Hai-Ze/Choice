@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      222,
+      153,
+      436,
+      239
+    ],
+    "category": "Formula",
+    "text": "a) $L = \\frac{2026^3}{K^2}$."
+  },
+  {
+    "bbox": [
+      222,
+      233,
+      969,
+      319
+    ],
+    "category": "Formula",
+    "text": "b) Hàm tổng chi phí là $F = 10K + 5 \\cdot \\frac{2026^3}{K^2} + 50$."
+  },
+  {
+    "bbox": [
+      222,
+      313,
+      609,
+      399
+    ],
+    "category": "Formula",
+    "text": "c) $F'(K) = 10 - 5 \\cdot \\frac{2026^3}{K^3}$."
+  },
+  {
+    "bbox": [
+      222,
+      393,
+      1448,
+      493
+    ],
+    "category": "Formula",
+    "text": "d) Tổng chi phí tối thiểu doanh nghiệp chi ra để sản xuất 2026 chiếc ô tô là 3,44 (triệu USD)."
+  },
+  {
+    "bbox": [
+      193,
+      518,
+      1455,
+      668
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, một viên đạn được bắn ra từ vị trí $A(1; 2; 3)$ hướng đến vị trí $B(0; 1; -6)$, bia chắn là mặt phẳng ($P$): $4x - y + 2z + 13 = 0$, đơn vị là kilômet."
+  },
+  {
+    "bbox": [
+      222,
+      680,
+      741,
+      727
+    ],
+    "category": "Formula",
+    "text": "a)úp $B$ thuộc mặt phẳng ($P$)."
+  },
+  {
+    "bbox": [
+      222,
+      735,
+      1448,
+      889
+    ],
+    "category": "Formula",
+    "text": "b) Giả sử viên đạn chuyển động thẳng đều theo hướng véc-tơ $\\vec{v}(-2; -2; -18)$ với vận tốc 800 m/s (bỏ qua mọi lực cản và chướng ngại vật), sau một phút viên đạn bắn ra đi qua điểm $B$."
+  },
+  {
+    "bbox": [
+      222,
+      893,
+      1448,
+      989
+    ],
+    "category": "Formula",
+    "text": "c) Góc giữa đường thẳng $AB$ và mặt phẳng ($P$) (làm tròn đến hàng đơn vị) là $60^{\\circ}$."
+  },
+  {
+    "bbox": [
+      222,
+      1005,
+      1076,
+      1052
+    ],
+    "category": "Formula",
+    "text": "d) Hình chiếu vuông góc của $A$ trên ($Oxy$) là $H(0; 2; 3)$."
+  },
+  {
+    "bbox": [
+      193,
+      1095,
+      884,
+      1571
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thành phố $X$ theo dõi tốc độ gia tăng dân số của hai khu vực $A$ và $B$ trong thời gian 6 năm (kể từ đầu năm 2019 đến hết năm 2024). Hình vẽ sau mô tả tốc độ gia tăng dân số của hai khu vực trên trong 6 năm, với đơn vị trên trục $Ot$ tính bằng năm, $t = 0$ ứng với mốc từ đầu năm 2019. Đơn vị trên trục $Oy$ biểu diễn ngàn người tăng thêm mỗi năm."
+  },
+  {
+    "bbox": [
+      903,
+      1095,
+      1446,
+      1746
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1763,
+      1455,
+      1989
+    ],
+    "category": "Text",
+    "text": "Khu vực $A$ có tốc độ gia tăng dân số theo thời gian được mô hình hóa bởi hàm $P'_{A}(t) = -\\frac{1}{2}t^2 + 2t + 8$. Khu vực $B$ có tốc độ gia tăng dân số theo thời gian được mô hình hóa bởi hàm $P'_{B}(t) = a - \\frac{1}{2}t$. Biết rằng $P_{A}(t)$, $P_{B}(t)$ lần lượt biểu diễn tổng số dân tăng thêm tại khu vực $A$ và $B$ sau $t$ năm."
+  },
+  {
+    "bbox": [
+      222,
+      1999,
+      1408,
+      2045
+    ],
+    "category": "Formula",
+    "text": "a) Tốc độ gia tăng dân số của khu vực $A$ với $t = 4$ là 8000 (người trên năm)."
+  },
+  {
+    "bbox": [
+      222,
+      2053,
+      648,
+      2100
+    ],
+    "category": "Formula",
+    "text": "b) Ta có $P'_{B}(0) = 8$ và $a = 8$."
+  },
+  {
+    "bbox": [
+      222,
+      2108,
+      1307,
+      2154
+    ],
+    "category": "Formula",
+    "text": "c) Dân số của khu vực $A$ tăng thêm từ 0 đến 5 năm là 33000 (người)."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

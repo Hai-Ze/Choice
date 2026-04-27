@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      238,
+      135
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 17"
+  },
+  {
+    "bbox": [
+      76,
+      159,
+      653,
+      205
+    ],
+    "category": "Text",
+    "text": "Ta có $DM // BC$ nên suy ra $DM // (SBC)$"
+  },
+  {
+    "bbox": [
+      542,
+      240,
+      1029,
+      659
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      696,
+      1032,
+      777
+    ],
+    "category": "Text",
+    "text": "Suy ra $d(DM, SB) = d(DM, (SBC)) = d(M, (SBC)) = \\frac{1}{2}d(A, (SBC))$."
+  },
+  {
+    "bbox": [
+      76,
+      802,
+      1177,
+      883
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $\\Delta ACB$, có $AM = MB = MC = \\frac{1}{2}AB$ nên suy ra $\\Delta ACB$ vuông tại $C$."
+  },
+  {
+    "bbox": [
+      76,
+      905,
+      163,
+      940
+    ],
+    "category": "Text",
+    "text": "Do đó"
+  },
+  {
+    "bbox": [
+      82,
+      963,
+      452,
+      1059
+    ],
+    "category": "Formula",
+    "text": "$$\n\\left. \\begin{array}{l} SA \\perp BC \\\\ AC \\perp BC \\end{array} \\right\\} \\Rightarrow BC \\perp (SAC)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1083,
+      1032,
+      1134
+    ],
+    "category": "Text",
+    "text": "Lại có $BC \\subset (SBC)$ nên suy ra $(SBC) \\perp (SAC)$ theo giao tuyến $SC$."
+  },
+  {
+    "bbox": [
+      76,
+      1158,
+      858,
+      1356
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Kẻ } AH \\perp SC &\\Rightarrow AH = d(A, (SBC)) = \\frac{SA \\cdot AC}{\\sqrt{SA^2 + AC^2}} = \\frac{3a}{2}. \\\\ &\\Rightarrow d(DM, SB) = \\frac{1}{2} \\cdot \\frac{3a}{2} = \\frac{3a}{4}. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1378,
+      295,
+      1418
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } x = 3, y = 4\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1442,
+      273,
+      1482
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow x = 3, y = 4\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1506,
+      387,
+      1546
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 3x + 2y = 9 + 8 = 17.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1567,
+      1496,
+      1912
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một cơ sở sản xuất sữa giả mua các thùng sữa thật giống nhau (48套/ thùng), rồi thay thế một số套 sữa thật thành các套 sữa giả nhằm thu lợi bất chính. Trong quá trình sản xuất, cơ sở phân ra làm hai loại: Loại I để lẫn mỗi thùng 5套 sữa giả và loại II để lẫn mỗi thùng 3套 sữa giả. Biết rằng số thùng sữa loại I gấp 1,5 lần số thùng sữa loại II. Chọn ngẫu nhiên một thùng sữa từ cơ sở sản xuất và từ thùng đó lấy ngẫu nhiên 10套. Tính xác suất để trong 10套 lấy ra có đúng 2套 sữa là giả (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      1928,
+      414,
+      1965
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1987,
+      843,
+      2026
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2045,
+      265,
+      2084
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,17"
+  },
+  {
+    "bbox": [
+      76,
+      2105,
+      827,
+      2149
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $A$ là biến cố chọn được “Thùng sữa loại I”."
+  },
+  {
+    "bbox": [
+      76,
+      2167,
+      786,
+      2213
+    ],
+    "category": "Text",
+    "text": "Biến cố $\\bar{A}$ là biến cố chọn được “Thùng sữa loại II”."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

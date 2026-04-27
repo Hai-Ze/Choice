@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      882,
+      183
+    ],
+    "category": "Text",
+    "text": "Vậy $f(x) = -0,125x^2 + x$. Khẳng định này **Đúng**."
+  },
+  {
+    "bbox": [
+      202,
+      201,
+      972,
+      243
+    ],
+    "category": "Text",
+    "text": "b) Phần整数的检验由 $y = f(x)$ 和曲线的绘制。"
+  },
+  {
+    "bbox": [
+      153,
+      243,
+      1215,
+      286
+    ],
+    "category": "Text",
+    "text": "方程 $-0,125x^2 + x = 0$ 的解为 $x = 0$ 或 $x = 8$。"
+  },
+  {
+    "bbox": [
+      153,
+      289,
+      758,
+      331
+    ],
+    "category": "Text",
+    "text": "绘制曲线的绘制（单位：米）："
+  },
+  {
+    "bbox": [
+      153,
+      328,
+      1041,
+      421
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\int_{0}^{8} (-0,125x^2 + x)dx = \\left[-\\frac{0,125}{3}x^3 + \\frac{x^2}{2}\\right]_{0}^{8} = \\frac{32}{3} \\text{ (dvdt)}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      418,
+      1546,
+      505
+    ],
+    "category": "Text",
+    "text": "将单位转换为米：$S_{BT} = \\frac{32}{3} \\times (100)^2 \\approx 106.666,7 \\text{ m}^2 > 100.000 \\text{ m}^2$。曲线的绘制是正确的。"
+  },
+  {
+    "bbox": [
+      202,
+      525,
+      524,
+      566
+    ],
+    "category": "Text",
+    "text": "c) Ta có $G'(x) = g(x)$。"
+  },
+  {
+    "bbox": [
+      153,
+      566,
+      1155,
+      611
+    ],
+    "category": "Formula",
+    "text": "$$\nG'(x) = a \\cdot e^{0,2x-2} + (ax + b) \\cdot 0,2 \\cdot e^{0,2x-2} = (0,2ax + a + 0,2b)e^{0,2x-2}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      611,
+      834,
+      655
+    ],
+    "category": "Text",
+    "text": "求解 $g(x) = (2x - 20)e^{0,2x-2}$，得到："
+  },
+  {
+    "bbox": [
+      153,
+      655,
+      695,
+      761
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 0,2a = 2 \\\\ a + 0,2b = -20 \\end{cases} \\Leftrightarrow \\begin{cases} a = 10 \\\\ b = -150 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      761,
+      1057,
+      805
+    ],
+    "category": "Text",
+    "text": "当 $a - b = 10 - (-150) = 160 \\neq 140$。曲线的绘制是错误的。"
+  },
+  {
+    "bbox": [
+      202,
+      825,
+      1169,
+      867
+    ],
+    "category": "Text",
+    "text": "d) 第二个检验由 $y = g(x)$，曲线的绘制和曲线的绘制。"
+  },
+  {
+    "bbox": [
+      153,
+      867,
+      992,
+      910
+    ],
+    "category": "Text",
+    "text": "方程 $2x - 20 = 0$ 的解为 $x = 10$。"
+  },
+  {
+    "bbox": [
+      153,
+      913,
+      1029,
+      955
+    ],
+    "category": "Text",
+    "text": "在区间 $[0; 10]$ 上，$g(x) \\le 0$，所以曲线的绘制是正确的。"
+  },
+  {
+    "bbox": [
+      153,
+      952,
+      1354,
+      1041
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = - \\int_{0}^{10} g(x)dx = G(0) - G(10) = -150e^{-2} - (-50) = 50 - \\frac{150}{e^2} \\approx 29,70 \\text{ (dvdt)}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1036,
+      1358,
+      1084
+    ],
+    "category": "Text",
+    "text": "总长度 $h$ 的计算：$S = S_1 + S_2 = \\frac{32}{3} + 50 - \\frac{150}{e^2} \\approx 40,37 \\text{ (dvdt)}$。"
+  },
+  {
+    "bbox": [
+      153,
+      1081,
+      1470,
+      1126
+    ],
+    "category": "Text",
+    "text": "实际长度 $h$：$S_{hòn đảo} \\approx 40,37 \\times 100^2 = 403.700 \\text{ m}^2 < 500.000 \\text{ m}^2$。曲线的绘制是错误的。"
+  },
+  {
+    "bbox": [
+      202,
+      1141,
+      1150,
+      1185
+    ],
+    "category": "Section-header",
+    "text": "### 第 III. 疑问的解答 第 1 问到第 6 问。"
+  },
+  {
+    "bbox": [
+      153,
+      1205,
+      1546,
+      1335
+    ],
+    "category": "Text",
+    "text": "### 1. 第 1 问。选择图 $S.ABCD$ 中的点 $S$，$ABCD$ 是一个等腰梯形，$AB$ 和 $CD$ 是两腰，$AD$ 和 $BC$ 是两底。$S$ 是上底 $AD$ 的中点，$AB$ 和 $CD$ 是两腰，$BC$ 和 $AD$ 是两底。$S$ 到 $AB$ 和 $CD$ 的距离相等。"
+  },
+  {
+    "bbox": [
+      553,
+      1349,
+      1143,
+      1919
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1958,
+      968,
+      2022
+    ],
+    "category": "Text",
+    "text": "### 2. 解答。"
+  },
+  {
+    "bbox": [
+      153,
+      2017,
+      1190,
+      2105
+    ],
+    "category": "Text",
+    "text": "因为 $S$ 是上底 $AD$ 的中点，所以 $S$ 到 $AB$ 和 $CD$ 的距离相等。$S$ 到 $AB$ 的距离 $SH = \\frac{2\\sqrt{3}}{2} = \\sqrt{3}$。"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "60"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

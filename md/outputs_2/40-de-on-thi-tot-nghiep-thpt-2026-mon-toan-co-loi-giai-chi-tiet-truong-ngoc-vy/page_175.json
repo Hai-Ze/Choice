@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      498,
+      121,
+      1038,
+      654
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      699,
+      1495,
+      852
+    ],
+    "category": "Text",
+    "text": "Kẻ $CH$ vuông góc với $AB$ tại $H$. Mà $CH$ vuông góc với $BB'$ suy ra $CH$ vuông góc với $(AA'BB') \\Rightarrow CH = d(C; AA'BB') = \\frac{2\\sqrt{3}}{2} = \\sqrt{3}$"
+  },
+  {
+    "bbox": [
+      76,
+      871,
+      1068,
+      928
+    ],
+    "category": "Text",
+    "text": "Vì $CC' // (AA'BB') \\Rightarrow d(CC'; AB') = d(C; (AA'BB')) = CH = \\sqrt{3} \\approx 1,73$."
+  },
+  {
+    "bbox": [
+      76,
+      946,
+      1495,
+      1107
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Gọi $S$ là tập hợp tất cả các số tự nhiên có 6 chữ số đối một khác nhau. Chọn ngẫu nhiên một số thuộc $S$. Tính xác suất để số đó có hai chữ số tận cùng có cùng tính chural lẻ. (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      1125,
+      414,
+      1161
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1185,
+      843,
+      1223
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1241,
+      269,
+      1281
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,44"
+  },
+  {
+    "bbox": [
+      76,
+      1306,
+      879,
+      1358
+    ],
+    "category": "Text",
+    "text": "Gọi số cần lập là $\\overline{a_1a_2a_3a_4a_5a_6}, a_i \\in \\{0,1,\\dots,9\\}; i = 1,6; a_1 \\neq 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1378,
+      1495,
+      1477
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: \"Chọn được số tự nhiên thuộc tập $S$ sao cho số đó có hai chữ số tận cùng có cùng tính chural lẻ\"."
+  },
+  {
+    "bbox": [
+      76,
+      1501,
+      473,
+      1545
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } n(\\Omega) = 9 \\cdot A_9^5 = 136080.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1569,
+      801,
+      1615
+    ],
+    "category": "Text",
+    "text": "* Trường hợp 1: $a_1$ chural và hai chữ số tận cùng chural."
+  },
+  {
+    "bbox": [
+      76,
+      1638,
+      483,
+      1686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách lập: } 4 \\cdot A_4^2 \\cdot A_7^3 = 10080.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1708,
+      758,
+      1754
+    ],
+    "category": "Text",
+    "text": "* Trường hợp 2: $a_1$ chural và hai chữ số tận cùng lẻ."
+  },
+  {
+    "bbox": [
+      76,
+      1778,
+      483,
+      1826
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách lập: } 4 \\cdot A_5^2 \\cdot A_7^3 = 16800.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1849,
+      758,
+      1895
+    ],
+    "category": "Text",
+    "text": "* Trường hợp 3: $a_1$ lẻ và hai chữ số tận cùng chural."
+  },
+  {
+    "bbox": [
+      76,
+      1918,
+      507,
+      1966
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách lập: } 5 \\cdot A_5^2 \\cdot A_7^3 = 21000.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1988,
+      719,
+      2034
+    ],
+    "category": "Text",
+    "text": "* Trường hợp 4: $a_1$ lẻ và hai chữ số tận cùng lẻ."
+  },
+  {
+    "bbox": [
+      76,
+      2058,
+      498,
+      2106
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số cách lập: } 5 \\cdot A_4^2 \\cdot A_7^3 = 12600.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2126,
+      975,
+      2172
+    ],
+    "category": "Text",
+    "text": "Xác suất để số đó có hai chữ số tận cùng có cùng tính chural lẻ bằng:"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

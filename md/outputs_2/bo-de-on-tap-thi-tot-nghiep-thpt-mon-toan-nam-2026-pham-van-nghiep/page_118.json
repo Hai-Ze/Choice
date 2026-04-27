@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      447,
+      153
+    ],
+    "category": "Text",
+    "text": "Suy ra **d) đúng**."
+  },
+  {
+    "bbox": [
+      74,
+      153,
+      1533,
+      416
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Một chất điểm $A$ chuyển động từ trạng thái nghỉ và xuất phát từ $O$, chuyển động thẳng, nhanh dần đều với gia tốc $a(m/s^2)$; 6 giây sau nó đạt đến vận tốc $12(m/s)$. Từ thời điểm đó chất điểm $A$ chuyển động thẳng đều. cũng từ trạng thái nghỉ một chất điểm $B$ xuất phát từ $O$, chuyển động thẳng cùng hướng với $A$ nhưng chậm hơn 3 giây so với $A$ và chuyển động thẳng, nhanh dần đều với gia tốc $4(m/s^2)$."
+  },
+  {
+    "bbox": [
+      212,
+      425,
+      1224,
+      470
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường chất điểm $A$ đi được trong 6 giây đầu tiên là $36m$."
+  },
+  {
+    "bbox": [
+      212,
+      472,
+      1504,
+      522
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chất điểm $B$ đi được trong $t$ giây kể từ lúc $B$ xuất phát là $S_B(t) = 2t^2$."
+  },
+  {
+    "bbox": [
+      212,
+      532,
+      1575,
+      677
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chất điểm $A$ đi được từ lúc $A$ xuất phát cho đến lúc gặp chất điểm $B$ là $12T_0 + 36(m)$ trong đó $T_0$ là thời gian từ lúc chất điểm $B$ xuất phát cho đến khi dưới kịp chất điểm $A$."
+  },
+  {
+    "bbox": [
+      212,
+      685,
+      1242,
+      730
+    ],
+    "category": "Text",
+    "text": "d) Thời gian để $B$ dưới kịp $A$ tính từ lúc $B$ xuất phát lớn hơn 5 giây."
+  },
+  {
+    "bbox": [
+      833,
+      732,
+      953,
+      772
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      382,
+      772,
+      1266,
+      820
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Đúng</td><td>c) Đúng</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      824,
+      1575,
+      969
+    ],
+    "category": "Text",
+    "text": "a) **Đúng.** Chất điểm $A$ đạt vận tốc $12(m/s)$ sau 6s chuyển động nhanh dần đều từ trạng thái nghỉ. Áp dụng công thức: $a = \\frac{\\Delta v}{\\Delta t} = \\frac{12}{6} = 2(m/s^2)$."
+  },
+  {
+    "bbox": [
+      212,
+      971,
+      1575,
+      1018
+    ],
+    "category": "Text",
+    "text": "Sử dụng công thức tính quăng đường đi được trong chuyển động thẳng nhanh dần đều:"
+  },
+  {
+    "bbox": [
+      217,
+      1022,
+      441,
+      1102
+    ],
+    "category": "Formula",
+    "text": "$$\nS = v_0 \\cdot t + \\frac{1}{2} \\cdot a \\cdot t^2 .\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1111,
+      1575,
+      1240
+    ],
+    "category": "Text",
+    "text": "Vì chất điểm $A$ xuất phát từ trạng thái nghỉ nên $v_0 = 0$. Do đó: $S = \\frac{1}{2} \\cdot 2 \\cdot 6^2 = 36(m)$. Suy ra **a) đúng**."
+  },
+  {
+    "bbox": [
+      212,
+      1242,
+      1575,
+      1393
+    ],
+    "category": "Text",
+    "text": "b) **Đúng.** Chất điểm $B$ chuyển động thẳng nhanh dần đều với gia tốc $4(m/s^2)$. Áp dụng công thức tính quăng đường: $S = v_0 \\cdot t + \\frac{1}{2} \\cdot a \\cdot t^2$."
+  },
+  {
+    "bbox": [
+      212,
+      1401,
+      1486,
+      1481
+    ],
+    "category": "Text",
+    "text": "Vì chất điểm $B$ xuất phát từ trạng thái nghỉ nên $v_0 = 0$. Do đó: $S_B(t) = \\frac{1}{2} \\cdot 4 \\cdot t^2 = 2t^2 (m)$."
+  },
+  {
+    "bbox": [
+      212,
+      1487,
+      447,
+      1529
+    ],
+    "category": "Text",
+    "text": "Suy ra **b) đúng**."
+  },
+  {
+    "bbox": [
+      212,
+      1531,
+      1575,
+      1676
+    ],
+    "category": "Text",
+    "text": "c) **Đúng.** Gọi $T_0$ là thời gian từ lúc chất điểm $B$ xuất phát cho đến khi dưới kịp chất điểm $A$. Trong khoảng thời gian này $A$ đã chuyển động đều sau khi đạt vận tốc $12m/s$. Quăng đường $A$ đi được từ lúc xuất phát đến khi gặp $B$ là $S_A = 36 + 12T_0$. Suy ra **c) đúng**."
+  },
+  {
+    "bbox": [
+      212,
+      1682,
+      1575,
+      1726
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.** Vì hai chất điểm gặp nhau nên:"
+  },
+  {
+    "bbox": [
+      217,
+      1726,
+      1307,
+      1844
+    ],
+    "category": "Formula",
+    "text": "$$\nS_A = S_B \\Leftrightarrow 36 + 12T_0 = 2T_0^2 \\Leftrightarrow T_0^2 - 12T_0 - 36 = 0 \\Leftrightarrow \\begin{cases} T_0 = 3 + 3\\sqrt{3} \\approx 8,196 (TM) \\\\ T_0 = 3 - 3\\sqrt{3} (loai) \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1852,
+      597,
+      1894
+    ],
+    "category": "Text",
+    "text": "Do $8,196 > 5$ nên **d) đúng**."
+  },
+  {
+    "bbox": [
+      74,
+      1898,
+      1523,
+      2076
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Một loại xét nghiệm nhanh cúm夏季 cho kết quả dương tính với 76,2% các ca thực sự nhiễm vius và kết quả âm tính với 99,1% các ca thực sự không nhiễm vius. Giả sử tỉ lệ người nhiễm vius cúm夏季 trong một cộng đồng là 1%. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      212,
+      2078,
+      1436,
+      2124
+    ],
+    "category": "Text",
+    "text": "a) Xác suất xét nghiệm cho kết quả âm tính của các ca thực sự nhiễm vius là: 0,23."
+  },
+  {
+    "bbox": [
+      212,
+      2126,
+      1575,
+      2211
+    ],
+    "category": "Text",
+    "text": "b) Xác suất xét nghiệm cho kết quả dương tính của các ca thực sự không nhiễm vius là: 0,009."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

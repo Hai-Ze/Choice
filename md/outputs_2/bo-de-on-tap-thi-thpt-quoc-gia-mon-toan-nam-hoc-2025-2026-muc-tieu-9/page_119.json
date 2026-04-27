@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      202,
+      140,
+      881,
+      182
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $n_i \\ge 1$ và $n_1 + n_2 + n_3 + n_4 = 7$."
+  },
+  {
+    "bbox": [
+      202,
+      201,
+      1166,
+      243
+    ],
+    "category": "Text",
+    "text": "Các trường hợp về số lượng sách ở các ngăn thỏa mãn biến cố $A$ là:"
+  },
+  {
+    "bbox": [
+      195,
+      262,
+      919,
+      304
+    ],
+    "category": "List-item",
+    "text": "◇ **Trường hợp 1:** Bộ số lượng sách là $\\{4, 1, 1, 1\\}$."
+  },
+  {
+    "bbox": [
+      234,
+      312,
+      1546,
+      426
+    ],
+    "category": "Text",
+    "text": "Số cách chọn ngăn có 4 cuốn là $C_4^1 = 4$. Với mỗi cách chọn ngăn, có $\\frac{7!}{4!1!1!1!} = 210$ cách xếp sách."
+  },
+  {
+    "bbox": [
+      234,
+      445,
+      1546,
+      559
+    ],
+    "category": "Text",
+    "text": "Tổng số cách xếp của trường hợp này là $4 \\times 210 = 840$. Số cách xếp mà sách Toán nằm ở ngăn có 4 cuốn là $4 \\times \\frac{4}{7} \\times 210 = 480$."
+  },
+  {
+    "bbox": [
+      195,
+      569,
+      919,
+      611
+    ],
+    "category": "List-item",
+    "text": "◇ **Trường hợp 2:** Bộ số lượng sách là $\\{3, 2, 1, 1\\}$."
+  },
+  {
+    "bbox": [
+      234,
+      619,
+      1430,
+      701
+    ],
+    "category": "Text",
+    "text": "Số cách hoán vị các ngăn là $\\frac{4!}{2!} = 12$. Với mỗi cách, có $\\frac{7!}{3!2!1!1!} = 420$ cách xếp sách."
+  },
+  {
+    "bbox": [
+      234,
+      709,
+      1546,
+      822
+    ],
+    "category": "Text",
+    "text": "Tổng số cách xếp của trường hợp này là $12 \\times 420 = 5040$. Số cách xếp mà sách Toán nằm ở ngăn có 3 cuốn là $12 \\times \\frac{3}{7} \\times 420 = 2160$."
+  },
+  {
+    "bbox": [
+      153,
+      834,
+      1546,
+      920
+    ],
+    "category": "Text",
+    "text": "Lưu ý trường hợp $\\{2, 2, 2, 1\\}$ không thỏa mãn biến cố $A$ vì có 3 ngăn cùng chứa số lượng sách nhiều nhất là 2, nên không có ngăn nào chứa nhiều hơn hẩn các ngăn còn lại."
+  },
+  {
+    "bbox": [
+      202,
+      939,
+      1009,
+      981
+    ],
+    "category": "Text",
+    "text": "Số phần tử của biến cố $A$ là: $n(A) = 840 + 5040 = 5880$."
+  },
+  {
+    "bbox": [
+      202,
+      1000,
+      1134,
+      1042
+    ],
+    "category": "Text",
+    "text": "Số phần tử của biến cố $A \\cap B$ là: $n(A \\cap B) = 480 + 2160 = 2640$."
+  },
+  {
+    "bbox": [
+      202,
+      1061,
+      505,
+      1101
+    ],
+    "category": "Text",
+    "text": "Xác suất cần tính là:"
+  },
+  {
+    "bbox": [
+      518,
+      1103,
+      1179,
+      1188
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{n(A \\cap B)}{n(A)} = \\frac{2640}{5880} = \\frac{22}{49} \\approx 0,4489\\dots\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1194,
+      956,
+      1236
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm, ta được $P(B|A) \\approx 0,45$."
+  },
+  {
+    "bbox": [
+      153,
+      1255,
+      1546,
+      1475
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một công ty công nghệ sản xuất một loại sản phẩm mới. Công ty xác định rằng lợi nhuận $L(x)$ (đơn vị: triệu VNĐ) thu được từ việc sản xuất và bán hàng được mô hình hóa bởi hàm số: $L(x) = 1500 + 400 \\ln\\left(\\frac{x}{1200}\\right) - x$. Trong đó, $x$ là số sản phẩm tồn kho, với $x \\in \\mathbb{N}$ và $1 \\le x \\le 1200$. Công ty cần tính toán lượng tồn kho để thu về lợi nhuận tối đa, hỏi lợi nhuận tối đa đó là bao nhiêu triệu đồng (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      153,
+      1490,
+      1506,
+      1553
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét hàm số lợi nhuận $L(x) = 1500 + 400 \\ln\\left(\\frac{x}{1200}\\right) - x$ trên đoạn $[1; 1200]$."
+  },
+  {
+    "bbox": [
+      202,
+      1569,
+      425,
+      1607
+    ],
+    "category": "Text",
+    "text": "Ta có đạo hàm:"
+  },
+  {
+    "bbox": [
+      480,
+      1615,
+      1217,
+      1715
+    ],
+    "category": "Formula",
+    "text": "$$\nL'(x) = 400 \\cdot \\frac{\\left(\\frac{x}{1200}\\right)'}{\\frac{x}{1200}} - 1 = 400 \\cdot \\frac{1}{\\frac{x}{1200}} - 1 = \\frac{400}{x} - 1\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1730,
+      1299,
+      1782
+    ],
+    "category": "Text",
+    "text": "Cho $L'(x) = 0 \\Leftrightarrow \\frac{400}{x} - 1 = 0 \\Leftrightarrow x = 400$ (thỏa mãn điều kiện $1 \\le x \\le 1200$)."
+  },
+  {
+    "bbox": [
+      202,
+      1793,
+      690,
+      1835
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên của hàm số $L(x)$:"
+  },
+  {
+    "bbox": [
+      472,
+      1843,
+      1222,
+      2203
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>1</td><td>400</td><td>1200</td></tr><tr><td>$L'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$L(x)$</td><td colspan=\"3\">$1100 - 400 \\ln 3$<br>$L(1)$<br>300</td></tr></table>"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biến soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1542,
+      2249,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "119"
+  }
+]

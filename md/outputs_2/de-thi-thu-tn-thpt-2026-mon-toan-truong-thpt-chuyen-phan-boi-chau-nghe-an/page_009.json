@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      114,
+      80,
+      1156,
+      129
+    ],
+    "category": "Text",
+    "text": "+) Dãy $(u_n)$ là một cấp số nhân với $u_1 = 360$ (triệu đồng) và công bội $q = 1,4$."
+  },
+  {
+    "bbox": [
+      114,
+      138,
+      1382,
+      227
+    ],
+    "category": "Text",
+    "text": "+) Ta có tổng lương sau 20 năm là $S' = S_6 + \\frac{2}{3}u_7 = 360 \\cdot \\frac{1,4^6 - 1}{1,4 - 1} + \\frac{2}{3} \\cdot 360 \\cdot 1,4^6 = 7684$ triệu đồng."
+  },
+  {
+    "bbox": [
+      114,
+      234,
+      307,
+      274
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 1180**"
+  },
+  {
+    "bbox": [
+      127,
+      310,
+      1123,
+      594
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một công viên nhỏ trong một khu dân cư có dạng hình chữ nhật với chiều rộng là $40 \\text{ m}$ và chiều dài là $60 \\text{ m}$. Ban quản lý lát gạch phần đất dạng parabol và hình tròn bán kính $10 \\text{ m}$ như hình vẽ. Phần còn lại sẽ trồng cỏ và cây xanh. Ban quản lý dự định làm một đoạn đường nhỏ nối hai phần lát gạch. Biết $AB = 20 \\text{ m}, OH = 30 \\text{ m}$, hỏi chiều dài ngắn nhất của đoạn đường đó là bao nhiêu mét (làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      1151,
+      305,
+      1502,
+      832
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      837,
+      229,
+      876
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      114,
+      895,
+      967,
+      945
+    ],
+    "category": "Text",
+    "text": "+) Gắn hệ trục toạ độ như hình vẽ. Ta có $B(10; -30), I(20; 20)$."
+  },
+  {
+    "bbox": [
+      114,
+      972,
+      997,
+      1015
+    ],
+    "category": "Text",
+    "text": "+) Vì parabol có định là $O$ nên có phương trình dạng $y = ax^2$ (*)."
+  },
+  {
+    "bbox": [
+      114,
+      1041,
+      670,
+      1122
+    ],
+    "category": "Text",
+    "text": "Thay toạ độ $B$ vào (*) ta được $a = -\\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      114,
+      1146,
+      896,
+      1242
+    ],
+    "category": "Text",
+    "text": "+) Gọi $M\\left(x; -\\frac{3x^2}{10}\\right)$ là điểm thuộc parabol với $x \\in [0;10]$."
+  },
+  {
+    "bbox": [
+      114,
+      1269,
+      638,
+      1375
+    ],
+    "category": "Text",
+    "text": "Ta có $IM = \\sqrt{(x-20)^2 + \\left(\\frac{3}{10}x^2 + 20\\right)^2}$"
+  },
+  {
+    "bbox": [
+      114,
+      1394,
+      590,
+      1439
+    ],
+    "category": "Text",
+    "text": "+) Giá trị nhỏ nhất của $IM$ là $27,7$."
+  },
+  {
+    "bbox": [
+      114,
+      1452,
+      863,
+      1499
+    ],
+    "category": "Text",
+    "text": "+) độ dài ngắn nhất của đoạn đường là $27,7 - 10 = 17,7$"
+  },
+  {
+    "bbox": [
+      114,
+      1521,
+      299,
+      1560
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 17,7**"
+  },
+  {
+    "bbox": [
+      114,
+      1557,
+      1496,
+      1904
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong một buổi tập luyện của lính đặc công, một chiến sỹ cần phối hợp bơi và chạy bộ để từ điểm $A$ ở bờ水流 bên này đến điểm $B$ về phía hạ lưu của bờ水流 bên kia (tham khảo hình vẽ bên dưới). Chiến sỹ dự định bơi thẳng từ điểm $A$ đến một điểm thuộc đoạn $HB$ sau đó chạy từ điểm đó về điểm $B$. Biết $AH = 300 \\text{ m}, HB = 900 \\text{ m}$, vận tốc dòng nước là $1 \\text{ m/s}$, vận tốc bơi của chiến sỹ đối với nước là $1 \\text{ m/s}$ và vận tốc chạy trên bờ của chiến sỹ là $3 \\text{ m/s}$. Hỏi chiến sỹ cần ít nhất bao nhiêu giây để hoàn thành kế hoạch trên? (làm tròn đến hàng đơn vị)."
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      199,
+      1117,
+      281
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Phương trình $\\sin(x+10^\\circ) = \\frac{1}{2}$ với $0^\\circ < x < 180^\\circ$ có nghiệm là:"
+  },
+  {
+    "bbox": [
+      205,
+      305,
+      516,
+      344
+    ],
+    "category": "List-item",
+    "text": "A. $x = 30^\\circ$ và $x = 150^\\circ$"
+  },
+  {
+    "bbox": [
+      905,
+      305,
+      1213,
+      344
+    ],
+    "category": "List-item",
+    "text": "B. $x = 20^\\circ$ và $x = 140^\\circ$"
+  },
+  {
+    "bbox": [
+      205,
+      368,
+      518,
+      407
+    ],
+    "category": "List-item",
+    "text": "C. $x = 40^\\circ$ và $x = 160^\\circ$"
+  },
+  {
+    "bbox": [
+      905,
+      368,
+      1210,
+      407
+    ],
+    "category": "List-item",
+    "text": "D. $x = 30^\\circ$ và $x = 140^\\circ$"
+  },
+  {
+    "bbox": [
+      807,
+      436,
+      924,
+      475
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      495,
+      277,
+      534
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      160,
+      554,
+      708,
+      634
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin(x+10^\\circ) = \\frac{1}{2} \\Leftrightarrow \\sin(x+10^\\circ) = \\sin 30^\\circ\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      656,
+      981,
+      764
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} x+10^\\circ = 30^\\circ + k360^\\circ \\\\ x+10^\\circ = 180^\\circ - 30^\\circ + k360^\\circ \\end{cases} \\Leftrightarrow \\begin{cases} x = 20^\\circ + k360^\\circ \\\\ x = 140^\\circ + k360^\\circ \\end{cases} (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      789,
+      581,
+      894
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } x \\in (0^\\circ; 180^\\circ) \\Rightarrow \\begin{cases} x = 20^\\circ \\\\ x = 140^\\circ \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      919,
+      1356,
+      968
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho cấp số cộng $(u_n)$ với $u_1 = 5; u_2 = 10$. Công sai của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      205,
+      996,
+      302,
+      1031
+    ],
+    "category": "List-item",
+    "text": "A. $-5$."
+  },
+  {
+    "bbox": [
+      555,
+      996,
+      632,
+      1031
+    ],
+    "category": "List-item",
+    "text": "B. $5$."
+  },
+  {
+    "bbox": [
+      905,
+      996,
+      981,
+      1031
+    ],
+    "category": "List-item",
+    "text": "C. $2$."
+  },
+  {
+    "bbox": [
+      1254,
+      996,
+      1346,
+      1031
+    ],
+    "category": "List-item",
+    "text": "D. $15$."
+  },
+  {
+    "bbox": [
+      807,
+      1053,
+      924,
+      1092
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1112,
+      277,
+      1151
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      155,
+      1171,
+      977,
+      1287
+    ],
+    "category": "Text",
+    "text": "Cấp số cộng $(u_n)$ có số hạng tổng quát là: $u_n = u_1 + (n-1)d$;\n(Với $u_1$ là số hạng đầu và $d$ là công sai)."
+  },
+  {
+    "bbox": [
+      155,
+      1313,
+      765,
+      1354
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra có: } u_2 = u_1 + d \\Leftrightarrow 10 = 5 + d \\Leftrightarrow d = 5.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1374,
+      755,
+      1419
+    ],
+    "category": "Text",
+    "text": "Vậy công sai của cấp số cộng đã cho bằng 5."
+  },
+  {
+    "bbox": [
+      155,
+      1438,
+      1117,
+      1487
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có đồ thị bên dưới."
+  },
+  {
+    "bbox": [
+      632,
+      1515,
+      1094,
+      1988
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2002,
+      521,
+      2044
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      195,
+      2058,
+      784,
+      2102
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho có điểm cực tiểu bằng 0."
+  },
+  {
+    "bbox": [
+      195,
+      2116,
+      772,
+      2160
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho có điểm cực đại bằng 2."
+  },
+  {
+    "bbox": [
+      195,
+      2176,
+      788,
+      2219
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho có giá trị cực đại bằng 2."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

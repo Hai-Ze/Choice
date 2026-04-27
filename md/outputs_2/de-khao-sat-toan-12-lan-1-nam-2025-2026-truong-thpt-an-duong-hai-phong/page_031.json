@@ -1,0 +1,101 @@
+[
+  {
+    "bbox": [
+      168,
+      96,
+      1261,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lợi nhận} = \\text{Doanh thu} - \\text{Chi phí} \\quad P(x) = R(x) - f(x) = x^2 + 2x - \\frac{2}{7}(x+4) - \\frac{d}{2x+1}\n$$"
+  },
+  {
+    "bbox": [
+      168,
+      205,
+      1093,
+      252
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết lợi nhận thu về khi bán 200 sản phẩm bằng 5250USD."
+  },
+  {
+    "bbox": [
+      168,
+      278,
+      839,
+      361
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } P(2) = 5,25 \\Leftrightarrow \\frac{44}{7} - \\frac{d}{5} = 5,25 \\Leftrightarrow d = \\frac{145}{28}\n$$"
+  },
+  {
+    "bbox": [
+      168,
+      390,
+      1529,
+      583
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } f(x) = \\frac{2}{7}(x+4) + \\frac{145}{28} \\cdot \\frac{1}{2x+1} \\text{ có đạo hàm } f'(x) = \\frac{2}{7} - \\frac{290}{28(2x+1)^2} = 0 \\Leftrightarrow \\begin{cases} x = \\frac{\\sqrt{145}-2}{4} \\text{ (nhan)} \\\\ x = \\frac{-\\sqrt{145}-2}{4} \\text{ (loai)} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      168,
+      610,
+      387,
+      655
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      407,
+      676,
+      1273,
+      1159
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$0$</td><td>$\\frac{\\sqrt{145}-2}{4}$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">+∞</td></tr></table>"
+  },
+  {
+    "bbox": [
+      168,
+      1159,
+      1275,
+      1250
+    ],
+    "category": "Text",
+    "text": "Vậy số sản phẩm khi chi phí đạt giá trị nhỏ nhất là $\\frac{\\sqrt{145}-2}{4} \\cdot 100 \\approx 251$ sản phẩm."
+  },
+  {
+    "bbox": [
+      130,
+      1276,
+      1552,
+      1482
+    ],
+    "category": "List-item",
+    "text": "**Câu 15.** Một chiếc máy bay đang bay trên không trung. Xét hệ trục tọa độ Oxyz được gắn như hình vẽ, trong đó gốc O là vị trí của trạm kiểm soát không lưu và $M(x; y; z)$ (km) biểu thị vị trí máy bay trên không trung. tại thời điểm 6h máy bay đang ở vị trí $(50; 120; 4)$ và chuyển động với vận tốc $\\vec{v} = (300; 400; 3)$ (km/h)"
+  },
+  {
+    "bbox": [
+      497,
+      1506,
+      1356,
+      1997
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      268,
+      2024,
+      1552,
+      2109
+    ],
+    "category": "Text",
+    "text": "a) tại thời điểm 6h, khoảng cách giữa máy bay và trạm kiểm soát không lưu nói trên xấp xỉ 140 km (sai số không quá 1km)."
+  }
+]

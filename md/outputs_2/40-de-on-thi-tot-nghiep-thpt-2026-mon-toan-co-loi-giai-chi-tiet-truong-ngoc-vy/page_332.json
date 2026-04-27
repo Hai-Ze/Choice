@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      96,
+      1285,
+      151
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{OA} = (2;5;1,2)$ và véctơ pháp tuyến của mặt phẳng $(Oxy)$ là $\\vec{n} = \\vec{k} = (0;0;1)$."
+  },
+  {
+    "bbox": [
+      155,
+      176,
+      892,
+      227
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc tạo bởi $\\overrightarrow{OA}$ và mặt phẳng $(Oxy)$, suy ra:"
+  },
+  {
+    "bbox": [
+      160,
+      252,
+      820,
+      381
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin \\alpha = \\frac{|\\overrightarrow{OA} \\cdot \\vec{k}|}{|\\overrightarrow{OA}| \\|\\vec{k}\\|} = \\frac{|1,2,1|}{\\sqrt{2^2 + 5^2 + (1,2)^2} \\cdot \\sqrt{1^2}} = \\frac{6\\sqrt{761}}{761}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      406,
+      372,
+      446
+    ],
+    "category": "Text",
+    "text": "Suy ra $\\alpha \\approx 14^\\circ$."
+  },
+  {
+    "bbox": [
+      155,
+      463,
+      1565,
+      582
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$, $AA' = AC = \\sqrt{21}$ và $AB = 3\\sqrt{7}$. Tính khoảng cách từ điểm $A$ đến mặt phẳng $(A'BC)$."
+  },
+  {
+    "bbox": [
+      155,
+      604,
+      493,
+      641
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      664,
+      924,
+      702
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      720,
+      302,
+      759
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 3"
+  },
+  {
+    "bbox": [
+      576,
+      794,
+      1144,
+      1314
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1351,
+      804,
+      1391
+    ],
+    "category": "Text",
+    "text": "Kẻ $AE \\perp BC$ ($E \\in BC$); $AH \\perp A'E$ ($H \\in A'E$)."
+  },
+  {
+    "bbox": [
+      155,
+      1415,
+      827,
+      1512
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\begin{cases} BC \\perp AE \\\\ BC \\perp AA' \\end{cases} \\Rightarrow BC \\perp (A'AE) \\Rightarrow BC \\perp AH.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1536,
+      602,
+      1575
+    ],
+    "category": "Text",
+    "text": "Mà $AH \\perp A'E \\Rightarrow AH \\perp (A'BC)$."
+  },
+  {
+    "bbox": [
+      155,
+      1595,
+      1050,
+      1642
+    ],
+    "category": "Text",
+    "text": "Do đó khoảng cách từ điểm $A$ đến mặt phẳng $(A'BC)$ bằng $AH$."
+  },
+  {
+    "bbox": [
+      155,
+      1667,
+      1017,
+      1750
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét tam giác } ABC \\text{ vuông tại } A \\text{ ta có } \\frac{1}{AE^2} = \\frac{1}{AB^2} + \\frac{1}{AC^2} = \\frac{4}{63}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1772,
+      1298,
+      1855
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét tam giác } A'AE \\text{ vuông tại } A \\text{ ta có } \\frac{1}{AH^2} = \\frac{1}{AE^2} + \\frac{1}{A'A^2} = \\frac{4}{63} + \\frac{1}{21} = \\frac{1}{9} \\Rightarrow AH = 3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1872,
+      1574,
+      2090
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có hai hộp待用 bi. Hộp thứ nhất chứa 7 viên bi màu trắng, 5 viên bi màu đỏ, hộp thứ hai chứa 4 viên bi màu trắng, 6 viên bi màu đỏ. Lấy ngẫu nhiên 2 viên bi từ hộp thứ nhất bỏ sang hộp thứ hai, sau đó lấy ngẫu nhiên 3 viên bi từ hộp thứ hai. Tính xác suất lấy được cả 2 viên bi thuộc hộp thứ nhất bỏ sang hộp thứ hai, biết rằng 3 viên bi đó màu trắng (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      155,
+      2108,
+      493,
+      2144
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      2167,
+      924,
+      2205
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

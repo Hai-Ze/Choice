@@ -1,0 +1,269 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      477,
+      123,
+      1337,
+      162
+    ],
+    "category": "Text",
+    "text": "a) 20% dân số giàu nhất sở hữu 45% thu nhập của quốc gia đó."
+  },
+  {
+    "bbox": [
+      477,
+      164,
+      1551,
+      279
+    ],
+    "category": "Text",
+    "text": "b) Nếu sắp xếp các gia đình theo thứ tự từ nghèo nhất đến giàu nhất, rồi chia thành 5 nhóm bằng nhau từ 1 đến 5, tổng thu nhập của các gia đình trong nhóm 4 chiếm 20% tổng thu nhập của toàn bộ các gia đình."
+  },
+  {
+    "bbox": [
+      477,
+      281,
+      1551,
+      357
+    ],
+    "category": "Text",
+    "text": "c) Giả sử có sự bình� đẳng hoàn hảo, tất cả mọi người đều có thu nhập như nhau thì đường cong Lorenz có phương trình $y = x$."
+  },
+  {
+    "bbox": [
+      477,
+      359,
+      1551,
+      588
+    ],
+    "category": "Text",
+    "text": "d) Năm 2005, đường cong Lorenz của Hoa Kỳ có thể được mô hình hóa bởi hàm số $y = (0,00061x^2 + 0,0218x + 1,723)^2$, $0 \\le x \\le 100$ trong đó $x$ được tính từ các gia đình nghèo nhất đến giàu có nhất (Theo R.Larson, Brief Calculus: An Applied Approach, 8th edition, Cengage Learning, 2009), khi đó tổng thu nhập thực tế của 60% các gia đình đầu tiên chiếm chưa đến 30% so với tổng thu nhập của toàn bộ các gia đình."
+  },
+  {
+    "bbox": [
+      447,
+      604,
+      1283,
+      866
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Kỹ su đang thiết kế một bình chứa nhiên liệu có thể đặt dưới thân máy bay trực thăng để mở rộng tầm bay của nó. Sau một số thử nghiệm trên bản vẽ, bạn quyết định tạo hình cho chiếc bình bằng cách quay đồ thị hàm số $f(x) = a+bx-\\frac{x^2}{16}$ ($-4 \\le x \\le 4$) quanh trục $Ox$ (đơn vị đo m³). Biết đồ thị hàm số $y = f(x)$ đi qua hai điểm $A(0; 1)$ và $B(4; 0)$."
+  },
+  {
+    "bbox": [
+      1315,
+      615,
+      1536,
+      837
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      477,
+      866,
+      657,
+      900
+    ],
+    "category": "Text",
+    "text": "a) $a + b = 2$."
+  },
+  {
+    "bbox": [
+      477,
+      902,
+      1097,
+      941
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $f(x)$ đạt giá trị lớn nhất tại $x = 0$."
+  },
+  {
+    "bbox": [
+      477,
+      943,
+      1148,
+      981
+    ],
+    "category": "Text",
+    "text": "c) Bình chứa nhiên liệu có thể chứa tối đa 16 m³."
+  },
+  {
+    "bbox": [
+      477,
+      983,
+      1551,
+      1061
+    ],
+    "category": "Text",
+    "text": "d) Chidec máy bay trực thăng bay 2 dặm tốn 3,5 m³ nhiên liệu thì chidec máy bay có thể bay được 8 dặm nếu bình nhiên liệu được đổ đầy."
+  },
+  {
+    "bbox": [
+      447,
+      1078,
+      1554,
+      1196
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Hộp I待用 3 bi xanh, 5 bi đỏ và 3 bi vàng. Hộp II待用 5 bi xanh, 3 bi đỏ và 4 bi vàng. Từ hộp I lấy ngẫu nhiên một viên bi bỏ vào hộp II, sau đó từ hộp II lấy ngẫu nhiên ra hai viên bi."
+  },
+  {
+    "bbox": [
+      447,
+      1196,
+      1274,
+      1234
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Viên bi lấy từ hộp I bỏ vào hộp II là bi đỏ”."
+  },
+  {
+    "bbox": [
+      447,
+      1234,
+      1163,
+      1272
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố “2 viên bi lấy ra lần 2 là viên bi đỏ”."
+  },
+  {
+    "bbox": [
+      477,
+      1268,
+      1012,
+      1339
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(A) = \\frac{6}{11}$ và $P(\\bar{A}) = \\frac{5}{11}$."
+  },
+  {
+    "bbox": [
+      477,
+      1333,
+      1037,
+      1403
+    ],
+    "category": "Text",
+    "text": "b) Xác suất có điều kiện $P(B | \\bar{A}) = \\frac{1}{26}$."
+  },
+  {
+    "bbox": [
+      477,
+      1395,
+      825,
+      1466
+    ],
+    "category": "Text",
+    "text": "c) Xác suất $P(B) = \\frac{8}{143}$."
+  },
+  {
+    "bbox": [
+      477,
+      1460,
+      1551,
+      1571
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để 2 viên bi lấy ra lần 2 đều không phải là viên bi đỏ là $P(\\bar{B}) = 1 - P(B) = \\frac{135}{143}$."
+  },
+  {
+    "bbox": [
+      463,
+      1580,
+      1247,
+      1635
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1664,
+      1059,
+      1935
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp đều $S.ABCD$ có đáy hình vuông cạnh bằng 1 và mặt bên là các tam giác đều. Một con kiến đi từ $A$ qua các mặt và các cạnh của hình chóp $S.ABCD$ đến trung điểm $T$ của $SC$. Tính quăng đường ngắn nhất mà con kiến phải đi (kết quả làm tròn đến chữ số thứ hai sau dấu phấy)."
+  },
+  {
+    "bbox": [
+      1094,
+      1681,
+      1531,
+      2060
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1333,
+      2068,
+      1382,
+      2104
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1391,
+      2060,
+      1554,
+      2114
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      2128,
+      1554,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong đợt bầu胞解奖 game xuất sắc của năm, game Mazer Boss là một trong những trò chơi được xứng tên lên. Trong Mazer Boss có một ải như sau: Người chơi sẽ khởi đầu với 50 hp (trong trò chơi, hp là từ viết tắt của “health"
+  },
+  {
+    "bbox": [
+      136,
+      2259,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "136 Bùi Tịnh Minh Lâm"
+  }
+]

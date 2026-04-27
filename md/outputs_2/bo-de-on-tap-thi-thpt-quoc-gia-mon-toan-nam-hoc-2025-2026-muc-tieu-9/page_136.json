@@ -1,0 +1,483 @@
+[
+  {
+    "bbox": [
+      191,
+      200,
+      274,
+      242
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      535,
+      200,
+      617,
+      242
+    ],
+    "category": "List-item",
+    "text": "B 2."
+  },
+  {
+    "bbox": [
+      879,
+      200,
+      983,
+      242
+    ],
+    "category": "List-item",
+    "text": "C -2."
+  },
+  {
+    "bbox": [
+      1224,
+      200,
+      1304,
+      242
+    ],
+    "category": "List-item",
+    "text": "D 7."
+  },
+  {
+    "bbox": [
+      154,
+      260,
+      198,
+      297
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      258,
+      1546,
+      360
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào đồ thị hàm số trên đoạn [0; 4], ta thấy điểm cao nhất của đồ thị là điểm (0; 2)."
+  },
+  {
+    "bbox": [
+      202,
+      380,
+      1035,
+      422
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị lớn nhất của hàm số trên đoạn [0; 4] là $M = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      443,
+      198,
+      476
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      441,
+      831,
+      483
+    ],
+    "category": "Text",
+    "text": "Câu 9. Tập giá trị của hàm số $y = \\sin 5x$ là"
+  },
+  {
+    "bbox": [
+      191,
+      502,
+      322,
+      544
+    ],
+    "category": "List-item",
+    "text": "A [0; 5]."
+  },
+  {
+    "bbox": [
+      535,
+      502,
+      692,
+      544
+    ],
+    "category": "List-item",
+    "text": "B [-1; 1]."
+  },
+  {
+    "bbox": [
+      879,
+      502,
+      1037,
+      544
+    ],
+    "category": "List-item",
+    "text": "C [-5; 5]."
+  },
+  {
+    "bbox": [
+      1224,
+      502,
+      1355,
+      544
+    ],
+    "category": "List-item",
+    "text": "D (0; 5]."
+  },
+  {
+    "bbox": [
+      154,
+      563,
+      198,
+      598
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      558,
+      1066,
+      622
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Với mọi $x \\in \\mathbb{R}$, ta luôn có $-1 \\le \\sin \\alpha \\le 1$."
+  },
+  {
+    "bbox": [
+      202,
+      637,
+      1020,
+      679
+    ],
+    "category": "Text",
+    "text": "Do đó $-1 \\le \\sin 5x \\le 1$. Tập giá trị của hàm số là $[-1; 1]$."
+  },
+  {
+    "bbox": [
+      154,
+      735,
+      198,
+      768
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      695,
+      1058,
+      819
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hàm số $f(x) = \\sqrt{3x + 1}$. Tính $I = \\int_{0}^{1} f'(x)dx$."
+  },
+  {
+    "bbox": [
+      191,
+      849,
+      332,
+      891
+    ],
+    "category": "List-item",
+    "text": "A $I = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      849,
+      678,
+      891
+    ],
+    "category": "List-item",
+    "text": "B $I = 3$."
+  },
+  {
+    "bbox": [
+      879,
+      832,
+      1031,
+      910
+    ],
+    "category": "List-item",
+    "text": "C $I = \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      1224,
+      832,
+      1373,
+      910
+    ],
+    "category": "List-item",
+    "text": "D $I = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      962,
+      198,
+      997
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      922,
+      1286,
+      1046
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo định nghĩa tích phân: $I = \\int_{0}^{1} f'(x)dx = f(1) - f(0)$."
+  },
+  {
+    "bbox": [
+      202,
+      1060,
+      976,
+      1108
+    ],
+    "category": "Text",
+    "text": "Ta có $f(1) = \\sqrt{3(1) + 1} = 2$ và $f(0) = \\sqrt{3(0) + 1} = 1$."
+  },
+  {
+    "bbox": [
+      202,
+      1128,
+      472,
+      1166
+    ],
+    "category": "Text",
+    "text": "Vậy $I = 2 - 1 = 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1187,
+      198,
+      1220
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1185,
+      1546,
+      1272
+    ],
+    "category": "Text",
+    "text": "Câu 11. Thống kê điểm trung bình môn Toán của một số học sinh lớp 12 được mẫu số liệu như bảng sau:"
+  },
+  {
+    "bbox": [
+      279,
+      1279,
+      1418,
+      1394
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Khoảng điểm</td><td>[6,5; 7)</td><td>[7; 7,5)</td><td>[7,5; 8)</td><td>[8; 8,5)</td><td>[8,5; 9)</td><td>[9; 9,5)</td><td>[9,5; 10)</td></tr><tr><td>Tần số</td><td>8</td><td>10</td><td>16</td><td>24</td><td>13</td><td>7</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1402,
+      1308,
+      1444
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu về điểm trung bình môn Toán của các học sinh đó là"
+  },
+  {
+    "bbox": [
+      191,
+      1465,
+      332,
+      1507
+    ],
+    "category": "List-item",
+    "text": "A 0,616."
+  },
+  {
+    "bbox": [
+      535,
+      1465,
+      678,
+      1507
+    ],
+    "category": "List-item",
+    "text": "B 0,785."
+  },
+  {
+    "bbox": [
+      879,
+      1465,
+      1002,
+      1507
+    ],
+    "category": "List-item",
+    "text": "C 0,78."
+  },
+  {
+    "bbox": [
+      1224,
+      1465,
+      1363,
+      1507
+    ],
+    "category": "List-item",
+    "text": "D 0,609."
+  },
+  {
+    "bbox": [
+      154,
+      1526,
+      198,
+      1561
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1521,
+      1204,
+      1585
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Số học sinh $n = 8 + 10 + 16 + 24 + 13 + 7 + 4 = 82$."
+  },
+  {
+    "bbox": [
+      154,
+      1602,
+      1546,
+      1683
+    ],
+    "category": "Text",
+    "text": "Giá trị đại diện các nhóm: $x_1 = 6,75, x_2 = 7,25, x_3 = 7,75, x_4 = 8,25, x_5 = 8,75, x_6 = 9,25, x_7 = 9,75$."
+  },
+  {
+    "bbox": [
+      202,
+      1693,
+      969,
+      1774
+    ],
+    "category": "Text",
+    "text": "Điểm trung bình: $\\bar{x} = \\frac{8 \\cdot 6,75 + \\cdots + 4 \\cdot 9,75}{82} \\approx 8,122$."
+  },
+  {
+    "bbox": [
+      202,
+      1782,
+      801,
+      1861
+    ],
+    "category": "Text",
+    "text": "Phương sai: $s^2 = \\frac{1}{n} \\sum n_i x_i^2 - \\bar{x}^2 \\approx 0,609$."
+  },
+  {
+    "bbox": [
+      154,
+      1874,
+      198,
+      1907
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1872,
+      1546,
+      1957
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Đặt $\\overrightarrow{BA} = \\vec{b}$, $\\overrightarrow{AC} = \\vec{c}$, $\\overrightarrow{AD} = \\vec{d}$. Khẳng định nào dưới đây là đúng?"
+  },
+  {
+    "bbox": [
+      191,
+      1969,
+      568,
+      2047
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b})$."
+  },
+  {
+    "bbox": [
+      876,
+      1969,
+      1253,
+      2047
+    ],
+    "category": "List-item",
+    "text": "B $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c})$."
+  },
+  {
+    "bbox": [
+      191,
+      2041,
+      568,
+      2117
+    ],
+    "category": "List-item",
+    "text": "C $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d})$."
+  },
+  {
+    "bbox": [
+      876,
+      2041,
+      1253,
+      2117
+    ],
+    "category": "List-item",
+    "text": "D $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$."
+  },
+  {
+    "bbox": [
+      154,
+      2126,
+      198,
+      2161
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      2108,
+      1546,
+      2187
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{MP} = \\overrightarrow{MA} + \\overrightarrow{AP} = \\frac{1}{2}\\overrightarrow{BA} + \\frac{1}{2}(\\overrightarrow{AC} + \\overrightarrow{AD}) = \\frac{1}{2}\\vec{b} + \\frac{1}{2}(\\vec{c} + \\vec{d}) =$"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "136"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1499,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

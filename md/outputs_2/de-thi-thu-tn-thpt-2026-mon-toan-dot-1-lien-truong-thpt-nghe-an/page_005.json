@@ -1,0 +1,149 @@
+[
+  {
+    "bbox": [
+      543,
+      75,
+      1180,
+      355
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      353,
+      1558,
+      522
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Người ta xây dựng một chân tháp bằng bê tông có dạng khối chóp cụt tức giác đều. Cạnh đáy dưới dài 5 m, cạnh đáy trên dài 2 m, cạnh bên dài 3 m. Biết rằng chân tháp được làm bằng bê tông tởi với giá tiền là 1470000 đồng /m³. Tính số tiền để mua bê tông tởi làm chân tháp theo đơn vị triệu đồng. (làm tròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      676,
+      543,
+      1059,
+      851
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      888,
+      1543,
+      975
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Chú kiến bị lạc tổ, chú đang loay hoay để tìm to. Chu đi theo suy đoán và đặt hệ trục tọa độ Oxy thì đường đi của chú có quỹ đạo là 1 phần đường cong đồ thị của hàm số có công thức"
+  },
+  {
+    "bbox": [
+      159,
+      978,
+      1308,
+      1031
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) = a(x-b)^2 \\quad (\\text{với a, b là các số thực dương}). \\text{ Hàm số } y = f(x) \\text{ có tính chất:}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1042,
+      1558,
+      1152
+    ],
+    "category": "Text",
+    "text": "Với số thực $k$ gọi hàm số $g(k) = \\max_{[k; k+2]} f(x) - \\min_{[k; k+2]} f(x)$. Hàm số $g(k)$ thỏa mãn $$ \\begin{cases} g(3) = a \\\\ g(2) + g(6) = 32 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      152,
+      1155,
+      1376,
+      1202
+    ],
+    "category": "Text",
+    "text": "Biết tổ của chú nằm ngay tại gốc tọa độ O. Thời điểm 9h sáng chú đang ở vị trí A (hình vẽ)."
+  },
+  {
+    "bbox": [
+      609,
+      1223,
+      1116,
+      1556
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1578,
+      1442,
+      1623
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa chú kiến và tổ của mình là bao nhiêu? (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      152,
+      1621,
+      1574,
+      1742
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có ba nhóm máy A, B, C dùng để sản xuất ra hai loại sản phẩm I và II. Để sản xuất một đơn vị sản phẩm mỗi loại phải lần lượt dùng các máy thuộc các nhóm khác nhau. Số máy trong một nhóm và số máy của từng nhóm cần thiết để sản xuất ra một đơn vị sản phẩm thuộc mỗi loại được cho trong bảng sau:"
+  },
+  {
+    "bbox": [
+      228,
+      1742,
+      1416,
+      1997
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th rowspan=\"2\">Nhóm</th><th rowspan=\"2\">Số máy trong mỗi nhóm</th><th colspan=\"2\">Số máy trong từng nhóm để sản xuất ra một đơn vị sản phẩm</th></tr><tr><th>Loại I</th><th>Loại II</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>2</td><td>2</td></tr><tr><td>B</td><td>4</td><td>0</td><td>2</td></tr><tr><td>C</td><td>12</td><td>2</td><td>4</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1999,
+      1513,
+      2083
+    ],
+    "category": "Text",
+    "text": "Một đơn vị sản phẩm I lãi ba nghìn đồng, một đơn vị sản phẩm loại II lãi năm nghìn đồng. Trong điều kiện sản xuất đó hãy tính số tiền lãi có thể đạt cao nhất? (tiền lãi có đơn vị nghìn đồng)"
+  },
+  {
+    "bbox": [
+      752,
+      2119,
+      972,
+      2158
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      152,
+      2231,
+      557,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1424,
+      2236,
+      1572,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5/40"
+  }
+]

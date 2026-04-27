@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      833,
+      111,
+      953,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      154,
+      582,
+      209
+    ],
+    "category": "Text",
+    "text": "a) Ta có $\\overrightarrow{AB} = (20; 30; 30)$."
+  },
+  {
+    "bbox": [
+      212,
+      218,
+      1572,
+      347
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{AD} = (4; 6; 6) = \\frac{1}{5} \\overrightarrow{AB}$ nên $\\overrightarrow{AD}$ cùng hướng với $\\overrightarrow{AB} \\Rightarrow A, D, B$ thẳng hàng và $D$ nằm trên đoạn thẳng $AB$. vậy flycam bay qua vị trí $D$."
+  },
+  {
+    "bbox": [
+      212,
+      351,
+      370,
+      389
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      393,
+      1568,
+      499
+    ],
+    "category": "Text",
+    "text": "b) Ta có $AB = \\sqrt{20^2 + 30^2 + 30^2} = 10\\sqrt{22}$ (mét) là quăng đường mà flycam bay được trong 10 phút. vậy trong một phút flycam bay được quăng đường dài $\\sqrt{22}$ (mét)."
+  },
+  {
+    "bbox": [
+      212,
+      501,
+      1499,
+      582
+    ],
+    "category": "Text",
+    "text": "Vecto vận tốc của flycam là $\\vec{v} = \\frac{1}{10} \\overrightarrow{AB} = (2; 3; 3)$ và vận tốc của flycam là $\\sqrt{22}$ (mét/phút)"
+  },
+  {
+    "bbox": [
+      212,
+      589,
+      370,
+      627
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      632,
+      865,
+      676
+    ],
+    "category": "Text",
+    "text": "c) Tốc độ flycam bay được trong một giây là"
+  },
+  {
+    "bbox": [
+      212,
+      676,
+      865,
+      734
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\vec{v}| = \\sqrt{2^2 + 3^2 + 3^2} = \\sqrt{22} \\text{ (m/phút)} \\approx 0,08 \\text{ (m/s)}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      738,
+      419,
+      782
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      788,
+      1302,
+      867
+    ],
+    "category": "Text",
+    "text": "d) Sau 15 phút flycam bay đến vị trí $E(x; y; z)$ thì $\\overrightarrow{AE} = \\frac{3}{2} \\overrightarrow{AB} = (30; 45; 45)$."
+  },
+  {
+    "bbox": [
+      212,
+      871,
+      1255,
+      998
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{AE} = (x-1; y-2; z-3)$ nên $\\begin{cases} x-1 = 30 \\\\ y-2 = 45 \\\\ z-3 = 45 \\end{cases} \\Leftrightarrow \\begin{cases} x = 31 \\\\ y = 47 \\\\ z = 48 \\end{cases} \\Rightarrow E(31; 47; 48)$."
+  },
+  {
+    "bbox": [
+      212,
+      1002,
+      419,
+      1045
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      74,
+      1045,
+      743,
+      1090
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      1100,
+      1574,
+      1385
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Một công ty muốn xây dựng một chi� bể chứa được $45m^3$ nước phục vụ sinh hoạt cho công nhân. Lòng bể có dạng hình集合 chữ nhật với đáy là hình chữ nhật có chiều dài gấp 3 lần chiều rộng, mặt trên của bể để trống một ô vuông nhỏ cạnh $60cm$ để làm nắp riêng. Đơn vị thi công tính chi phí xây dựng dựa trên diện tích phần bên trong của bể ( không tính phần nắp ). Diện tích đáy bể bằng bao nhiêu mét vuông thì chi phí xây dựng là thấp nhất ( làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      765,
+      1389,
+      884,
+      1430
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1433,
+      396,
+      1471
+    ],
+    "category": "Text",
+    "text": "Trả lời: 14,5."
+  },
+  {
+    "bbox": [
+      697,
+      1478,
+      1083,
+      1784
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1796,
+      1553,
+      1848
+    ],
+    "category": "Text",
+    "text": "Gọi $x(m)$ là chiều rộng của bể ($x > 0$), chiều dài của bể là $3x(m)$, chiều cao của bể là $h(m)$"
+  },
+  {
+    "bbox": [
+      212,
+      1861,
+      991,
+      1945
+    ],
+    "category": "Text",
+    "text": "Theo giả thuyết thể tích của bể là $x \\cdot 3x \\cdot h = 45 \\Rightarrow h = \\frac{15}{x^2}$"
+  },
+  {
+    "bbox": [
+      212,
+      1951,
+      819,
+      2007
+    ],
+    "category": "Text",
+    "text": "Diện tích phần nắp là: $0,6 \\cdot 0,6 = 0,36(m^2)$"
+  },
+  {
+    "bbox": [
+      212,
+      2017,
+      1572,
+      2062
+    ],
+    "category": "Text",
+    "text": "Diện tích toàn phần của bể ( không kể nắp ) là:"
+  },
+  {
+    "bbox": [
+      217,
+      2066,
+      1098,
+      2151
+    ],
+    "category": "Formula",
+    "text": "$$\nS(x) = 2(3x + x)\\frac{15}{x^2} + 2 \\cdot 3x \\cdot x - 0,36 = \\frac{120}{x} + 6x^2 - 0,36, x \\in (0; +\\infty)\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      2157,
+      772,
+      2241
+    ],
+    "category": "Formula",
+    "text": "$$\nS'(x) = -\\frac{120}{x^2} + 12x, S'(x) = 0 \\Leftrightarrow x \\approx 2,2\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

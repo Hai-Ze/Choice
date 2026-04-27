@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      151,
+      84,
+      1535,
+      672
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      685,
+      269,
+      722
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      722,
+      1501,
+      771
+    ],
+    "category": "Text",
+    "text": "+) Gọi $\\overline{AM}, \\overline{MN}$ lần lượt là vecto vận tốc bơi của chiến sỹ đối với nước và vecto vận tốc dòng nước."
+  },
+  {
+    "bbox": [
+      154,
+      777,
+      1083,
+      823
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\overline{AN} = \\overline{AM} + \\overline{MN}$ là vecto vận tốc bơi của chiến sỹ đối với bờ."
+  },
+  {
+    "bbox": [
+      154,
+      821,
+      1189,
+      865
+    ],
+    "category": "Text",
+    "text": "Gọi $C, D$ lần lượt là giao điểm của $AN, AM$ với $HB$ và $x = HD$ (đơn vị m)"
+  },
+  {
+    "bbox": [
+      154,
+      871,
+      813,
+      954
+    ],
+    "category": "Formula",
+    "text": "+) Thời gian bơi là $t_1 = \\frac{AC}{AN} = \\frac{AD}{AM} = \\sqrt{x^2 + 300^2}$."
+  },
+  {
+    "bbox": [
+      154,
+      958,
+      1192,
+      1042
+    ],
+    "category": "Formula",
+    "text": "+) Ta có $\\frac{DC}{MN} = \\frac{AD}{AM} \\Rightarrow DC = AD = \\sqrt{x^2 + 300^2} \\Rightarrow CB = 900 - x - \\sqrt{x^2 + 300^2}$"
+  },
+  {
+    "bbox": [
+      154,
+      1044,
+      828,
+      1138
+    ],
+    "category": "Formula",
+    "text": "Thời gian chạy là $t_2 = \\frac{CB}{3} = \\frac{900 - x - \\sqrt{x^2 + 300^2}}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      1144,
+      958,
+      1226
+    ],
+    "category": "Formula",
+    "text": "+) Tổng thời gian là $f(x) = t_1 + t_2 = \\frac{2}{3}\\sqrt{x^2 + 300^2} - \\frac{x}{3} + 300$."
+  },
+  {
+    "bbox": [
+      154,
+      1230,
+      646,
+      1278
+    ],
+    "category": "Formula",
+    "text": "+) Giá trị nhỏ nhất của $f(x)$ là 473."
+  },
+  {
+    "bbox": [
+      154,
+      1286,
+      328,
+      1325
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 473**"
+  },
+  {
+    "bbox": [
+      154,
+      1358,
+      1535,
+      1693
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một doanh nghiệp sản xuất đồ gỗ nội thất cần mỗi ngày 5 khối gỗ để làm các sản phẩm nội thất. Chi phí một lần vận chuyển gỗ từ cơ sở cung cấp gỗ đến nơi sản xuất của doanh nghiệp là 8 triệu đồng, chi phí lưu kho tại doanh nghiệp của 1 khối gỗ là 200 ngàn đồng trên 1 ngày. Mỗi lần vận chuyển, gỗ sẽ được đưa đến đầu ngày làm việc và lượng gỗ được vận chuyển vừa đủ cho doanh nghiệp sử dụng từ ngày hôm đó cho đến lần vận chuyển tiếp theo. Hỏi doanh nghiệp cần vận chuyển gỗ may ngày một lần để chi phí trung bình trong một ngày là nhỏ nhất?"
+  },
+  {
+    "bbox": [
+      154,
+      1711,
+      268,
+      1748
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      1744,
+      1401,
+      1788
+    ],
+    "category": "Text",
+    "text": "+) Gọi $n$ là số ngày giữa hai lần vận chuyển gỗ. Khi đó số khối gỗ vận chuyển một lần là $5n$."
+  },
+  {
+    "bbox": [
+      154,
+      1784,
+      722,
+      1828
+    ],
+    "category": "Text",
+    "text": "+) Số khối gỗ lưu kho ngày thứ 1 là $5n - 5$"
+  },
+  {
+    "bbox": [
+      196,
+      1824,
+      752,
+      1868
+    ],
+    "category": "Text",
+    "text": "Số khối gỗ lưu kho ngày thứ 2 là $5n - 5 \\cdot 2$"
+  },
+  {
+    "bbox": [
+      205,
+      1882,
+      239,
+      1904
+    ],
+    "category": "Text",
+    "text": "..."
+  },
+  {
+    "bbox": [
+      196,
+      1902,
+      863,
+      1946
+    ],
+    "category": "Text",
+    "text": "Số khối gỗ lưu kho ngày thứ $n-1$ là $5n - 5 \\cdot (n-1)$"
+  },
+  {
+    "bbox": [
+      154,
+      1952,
+      859,
+      2040
+    ],
+    "category": "Text",
+    "text": "Do đó tổng số lượt khối gỗ cần lưu kho là $\\frac{5n(n-1)}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      2044,
+      928,
+      2134
+    ],
+    "category": "Formula",
+    "text": "+) Chi phí lưu kho là $\\frac{5n(n-1)}{2} \\cdot 0,2 = \\frac{n(n-1)}{2}$ triệu đồng."
+  },
+  {
+    "bbox": [
+      154,
+      2139,
+      1145,
+      2266
+    ],
+    "category": "Formula",
+    "text": "+) Chi phí trung bình trong một ngày là $f(n) = \\frac{\\frac{n(n-1)}{2} + 8}{n} = \\frac{8}{n} + \\frac{n}{2} - 0,5$."
+  }
+]

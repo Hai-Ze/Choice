@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      446,
+      138
+    ],
+    "category": "Text",
+    "text": "• Từ bảng biến thiên, ta có:"
+  },
+  {
+    "bbox": [
+      76,
+      158,
+      1495,
+      284
+    ],
+    "category": "Text",
+    "text": "+ Hàm số đồng biến trên các khoảng $(-\\infty;-2)$ và $(2;+\\infty)$, nghịch biến trên các khoảng $(-2;0)$ và $(0;2)$."
+  },
+  {
+    "bbox": [
+      125,
+      308,
+      1370,
+      360
+    ],
+    "category": "Text",
+    "text": "+ Hàm số đạt cực đại tại $x = -2$ và $y_{CT} = y(-2) = -4$, cực tiểu tại $x = 2$ và $y_{CT} = y(2) = 4$."
+  },
+  {
+    "bbox": [
+      76,
+      385,
+      778,
+      435
+    ],
+    "category": "Text",
+    "text": "Vậy đồ thị hàm số đã cho có điểm cực tiểu là $(2;4)$."
+  },
+  {
+    "bbox": [
+      76,
+      454,
+      1495,
+      748
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trên đường quốc lộ, một ô tô đang di chuyển với vận tốc $12,5 \\, m/s$. cùng lúc, một đoàn tàu chạy cùng hướng và song song với đường quốc lộ với vận tốc $\\frac{50}{3} \\, m/s$. Khi ô tô cách duôi tàu $100 \\, mét$ thì ô tô bắt đầu tăng tốc với vận tốc $v(t) = 2,5t + b \\, (m/s)$, với $t$ là thời gian kể từ lúc ô tô bắt đầu tăng tốc. Khi ô tô đạt đến vận tốc tối đa cho phép $25 \\, m/s$ thì ô tô giữ nguyên vận tốc."
+  },
+  {
+    "bbox": [
+      76,
+      766,
+      446,
+      811
+    ],
+    "category": "Text",
+    "text": "a) Giá trị của $b$ bằng $12,5$."
+  },
+  {
+    "bbox": [
+      76,
+      830,
+      811,
+      875
+    ],
+    "category": "Text",
+    "text": "b) Thời gian ô tô đạt vận tốc tối đa cho phép là $5$ giây."
+  },
+  {
+    "bbox": [
+      76,
+      889,
+      1445,
+      935
+    ],
+    "category": "Text",
+    "text": "c) Sau $5$ giây kể từ khi ô tô tăng tốc, ô tô đi được quăng đường nhỏ hơn quăng đường của tàu đi được."
+  },
+  {
+    "bbox": [
+      76,
+      948,
+      1122,
+      994
+    ],
+    "category": "Text",
+    "text": "d) Thời gian ô tô bắt kịp duôi tàu kể từ lúc ô tô bắt đầu tăng tốc là $15,75$ giây."
+  },
+  {
+    "bbox": [
+      727,
+      1018,
+      843,
+      1057
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1072,
+      893,
+      1194
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1255,
+      410,
+      1303
+    ],
+    "category": "Text",
+    "text": "a) $v(t) = 2,5t + b \\, (m/s)$."
+  },
+  {
+    "bbox": [
+      76,
+      1328,
+      1277,
+      1378
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 0$, vận tốc của ô tô là $v(0) = 12,5 \\, (m/s) \\Rightarrow 12,5 = 2,5 \\cdot 0 + b \\Rightarrow b = 12,5$."
+  },
+  {
+    "bbox": [
+      76,
+      1403,
+      929,
+      1453
+    ],
+    "category": "Text",
+    "text": "b) Khi ô tô đạt vận tốc tối đa ta có: $25 = 2,5t + 12,5 \\Leftrightarrow t = 5 \\, (s)$."
+  },
+  {
+    "bbox": [
+      76,
+      1479,
+      1283,
+      1576
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường ô tô đi được sau $5$ giây là: $s_{oto} = \\int_{0}^{5} (2,5t + 12,5) dt = \\frac{375}{4} \\, (m) = 93,75 \\, (m)$."
+  },
+  {
+    "bbox": [
+      76,
+      1603,
+      1081,
+      1684
+    ],
+    "category": "Text",
+    "text": "Quăng đường tàu đi được sau $5$ giây là: $s_{tau} = \\frac{50}{3} \\cdot 5 = \\frac{250}{3} \\, (m) = 83,33 \\, (m)$."
+  },
+  {
+    "bbox": [
+      76,
+      1709,
+      263,
+      1752
+    ],
+    "category": "Text",
+    "text": "Vậy $s_{oto} > s_{tau}$"
+  },
+  {
+    "bbox": [
+      76,
+      1771,
+      1016,
+      1817
+    ],
+    "category": "Text",
+    "text": "d) Gọi $t$ là thời gian kể từ khi ô tô bắt đầu tăng tốc đến khi bắt kịp tàu"
+  },
+  {
+    "bbox": [
+      76,
+      1830,
+      1008,
+      1876
+    ],
+    "category": "Text",
+    "text": "Vì sau $5$ giây thì ô tô đạt vận tốc tối đa và giữ nguyên tốc độ này nên:"
+  },
+  {
+    "bbox": [
+      76,
+      1893,
+      1163,
+      1990
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được là: $s_{oto} = \\int_{0}^{5} (2,5t + 12,5) dt + 25(t - 5) \\, (m) = 25t - 31,25$"
+  },
+  {
+    "bbox": [
+      76,
+      2017,
+      618,
+      2098
+    ],
+    "category": "Text",
+    "text": "Quăng đường tàu đi được là: $s_{tau} = \\frac{50}{3} t$."
+  },
+  {
+    "bbox": [
+      76,
+      2123,
+      1372,
+      2206
+    ],
+    "category": "Text",
+    "text": "Ô tô bắt kịp tàu khi $s_{oto} = 100 + s_{tau} \\Leftrightarrow 25t - 31,25 = 100 + \\frac{50}{3}t \\Leftrightarrow \\frac{25}{3}t = 131,25 \\Leftrightarrow t = 15,75 \\, (s)$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

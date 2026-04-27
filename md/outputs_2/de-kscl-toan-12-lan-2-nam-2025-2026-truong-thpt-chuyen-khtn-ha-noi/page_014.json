@@ -1,0 +1,331 @@
+[
+  {
+    "bbox": [
+      146,
+      78,
+      1296,
+      162
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{-5x^2 + 3x + 1}{x - 1}$ có phương trình là:"
+  },
+  {
+    "bbox": [
+      146,
+      172,
+      363,
+      212
+    ],
+    "category": "List-item",
+    "text": "A. $y = -5x - 2$."
+  },
+  {
+    "bbox": [
+      498,
+      172,
+      702,
+      212
+    ],
+    "category": "List-item",
+    "text": "B. $y = 5x + 2$."
+  },
+  {
+    "bbox": [
+      849,
+      172,
+      1065,
+      212
+    ],
+    "category": "List-item",
+    "text": "C. $y = -5x + 2$."
+  },
+  {
+    "bbox": [
+      1214,
+      172,
+      1421,
+      212
+    ],
+    "category": "List-item",
+    "text": "D. $y = -5 - 2x$"
+  },
+  {
+    "bbox": [
+      146,
+      223,
+      814,
+      264
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Tập nghiệm của phương trình $\\cos x = 1$ là"
+  },
+  {
+    "bbox": [
+      146,
+      288,
+      427,
+      338
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\{k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      849,
+      269,
+      1178,
+      358
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\{\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      146,
+      370,
+      495,
+      458
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\{\\frac{\\pi}{2} + k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      849,
+      388,
+      1116,
+      438
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      146,
+      466,
+      1586,
+      560
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ tọa độ $Oxyz$, cho 3 điểm $A(1;3;5)$, $B(2;1;0)$, $C(-2;0;3)$. Phương trình mặt phẳng ($ABC$) là"
+  },
+  {
+    "bbox": [
+      146,
+      571,
+      492,
+      611
+    ],
+    "category": "List-item",
+    "text": "A. $11x - 17y + 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      849,
+      571,
+      1182,
+      611
+    ],
+    "category": "List-item",
+    "text": "B. $11x + 17y - 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      146,
+      622,
+      492,
+      662
+    ],
+    "category": "List-item",
+    "text": "C. $17x + 11y - 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      849,
+      622,
+      1192,
+      662
+    ],
+    "category": "List-item",
+    "text": "D. $11x - 17y + 9z - 5 = 0$."
+  },
+  {
+    "bbox": [
+      146,
+      669,
+      1586,
+      825
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Một hình vuông có cạnh bằng 3. Chia hình vuông đó thành 9 hình vuông bằng nhau và tô màu hình vuông ở chính giữa. Với mỗi hình vuông nhỏ chưa được tô màu, lại chia thành 9 hình vuông bằng nhau và tô màu hình vuông ở chính giữa. Cứ như thế, quá trình trên được lặp lại. Tính diện tích phần được tô màu sau 3 lần chia."
+  },
+  {
+    "bbox": [
+      808,
+      832,
+      1050,
+      1075
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      146,
+      1118,
+      268,
+      1200
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{217}{729}$."
+  },
+  {
+    "bbox": [
+      511,
+      1118,
+      627,
+      1200
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{512}{81}$."
+  },
+  {
+    "bbox": [
+      849,
+      1118,
+      961,
+      1200
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{161}{81}$."
+  },
+  {
+    "bbox": [
+      1252,
+      1118,
+      1372,
+      1200
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{217}{81}$."
+  },
+  {
+    "bbox": [
+      146,
+      1213,
+      1586,
+      1356
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $f(x) = \\frac{ax^2 + 2x - 5}{x^2 - 3x + 2}$ (với $a$ là hằng số). Biết rằng $f(x)$ liên tục tại điểm $x=1$. Giá trị của $f(1)$ bằng"
+  },
+  {
+    "bbox": [
+      146,
+      1369,
+      239,
+      1406
+    ],
+    "category": "List-item",
+    "text": "A. -8."
+  },
+  {
+    "bbox": [
+      498,
+      1369,
+      572,
+      1406
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      849,
+      1369,
+      925,
+      1406
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1214,
+      1369,
+      1305,
+      1406
+    ],
+    "category": "List-item",
+    "text": "D. -6."
+  },
+  {
+    "bbox": [
+      146,
+      1410,
+      1586,
+      1496
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      146,
+      1505,
+      1528,
+      1557
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x+1)^2 + (y-2)^2 + (z-1)^2 = 9$ và điểm $A(1;-2;5)$."
+  },
+  {
+    "bbox": [
+      196,
+      1566,
+      953,
+      1616
+    ],
+    "category": "List-item",
+    "text": "a) Мặt cầu $(S)$ có tâm $I(-1;2;-1)$ và bán kính $R=3$."
+  },
+  {
+    "bbox": [
+      196,
+      1623,
+      638,
+      1668
+    ],
+    "category": "List-item",
+    "text": "b)úp A nằm ngoài mặt cầu."
+  },
+  {
+    "bbox": [
+      196,
+      1673,
+      1423,
+      1721
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình mặt phẳng tiếp xúc với mặt cầu $(S)$ tại $T(-2;0;3)$ là $x+2y-2z+8=0$."
+  },
+  {
+    "bbox": [
+      196,
+      1734,
+      1586,
+      1837
+    ],
+    "category": "List-item",
+    "text": "d) Xét các điểm $M$ thuộc $(S)$ sao cho đường thẳng $AM$ tiếp xúc với $(S)$, điểm $M$ luôn thuộc một mặt phẳng cố định có phương trình là $2x-4y+4z+3=0$."
+  },
+  {
+    "bbox": [
+      146,
+      1842,
+      1586,
+      1993
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho đồ thị biểu diễn vận tốc của hai xe A và B khởi hành cùng một lúc, bên cạnh nhau và trên cùng một con đường. Biết đồ thị biểu diễn vận tốc của xe A là $v_A(t)$ ($km/h$) một đường parabol, đồ thị biểu diễn vận tốc của xe B là một đường thẳng $v_B(t)$ ($km/h$) ở hình bên."
+  }
+]

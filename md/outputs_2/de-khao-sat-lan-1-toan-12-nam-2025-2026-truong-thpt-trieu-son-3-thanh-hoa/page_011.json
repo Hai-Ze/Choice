@@ -1,0 +1,390 @@
+[
+  {
+    "bbox": [
+      113,
+      118,
+      811,
+      168
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Họ nguyên hàm của hàm số $f(x) = 4^x$ là"
+  },
+  {
+    "bbox": [
+      250,
+      181,
+      539,
+      265
+    ],
+    "category": "Formula",
+    "text": "A. $F(x) = \\frac{4^x}{2\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      586,
+      200,
+      892,
+      246
+    ],
+    "category": "Formula",
+    "text": "B. $F(x) = 4^x \\cdot \\ln 4 + C$."
+  },
+  {
+    "bbox": [
+      250,
+      271,
+      538,
+      357
+    ],
+    "category": "Formula",
+    "text": "C. $F(x) = \\frac{4^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      586,
+      293,
+      840,
+      338
+    ],
+    "category": "Formula",
+    "text": "D. $F(x) = 4^x + C$."
+  },
+  {
+    "bbox": [
+      835,
+      360,
+      951,
+      400
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      405,
+      1145,
+      489
+    ],
+    "category": "Text",
+    "text": "Nguyên hàm của hàm số $f(x) = 4^x$ là $F(x) = \\frac{4^x}{\\ln 4} + C = \\frac{4^x}{2\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      113,
+      491,
+      1084,
+      539
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hàm số bậc ba $y = f(x)$ có bảng biến thiên như hình sau"
+  },
+  {
+    "bbox": [
+      503,
+      563,
+      1255,
+      831
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      835,
+      985,
+      883
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      250,
+      893,
+      402,
+      938
+    ],
+    "category": "Formula",
+    "text": "A. $(-2;1)$."
+  },
+  {
+    "bbox": [
+      586,
+      893,
+      733,
+      938
+    ],
+    "category": "Formula",
+    "text": "B. $(-1;1)$."
+  },
+  {
+    "bbox": [
+      901,
+      893,
+      1057,
+      938
+    ],
+    "category": "Formula",
+    "text": "C. $(-4;0)$."
+  },
+  {
+    "bbox": [
+      1216,
+      893,
+      1394,
+      938
+    ],
+    "category": "Formula",
+    "text": "D. $(-\\infty;-1)$."
+  },
+  {
+    "bbox": [
+      835,
+      947,
+      951,
+      985
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      985,
+      1153,
+      1031
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên thì hàm số đồng biến trong khoảng $(-1;1)$"
+  },
+  {
+    "bbox": [
+      113,
+      1042,
+      1401,
+      1122
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Tiệm cận xiên của đồ thị hàm số $y = -2x - 8 + \\frac{3}{4x-9}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      250,
+      1127,
+      436,
+      1165
+    ],
+    "category": "Formula",
+    "text": "A. $y = 4x - 9$."
+  },
+  {
+    "bbox": [
+      586,
+      1127,
+      795,
+      1165
+    ],
+    "category": "Formula",
+    "text": "B. $y = -2x + 8$."
+  },
+  {
+    "bbox": [
+      901,
+      1127,
+      1084,
+      1165
+    ],
+    "category": "Formula",
+    "text": "C. $y = 2x + 8$."
+  },
+  {
+    "bbox": [
+      1216,
+      1127,
+      1422,
+      1165
+    ],
+    "category": "Formula",
+    "text": "D. $y = -2x - 8$."
+  },
+  {
+    "bbox": [
+      835,
+      1172,
+      951,
+      1210
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      256,
+      1213,
+      525,
+      1292
+    ],
+    "category": "Formula",
+    "text": "$$\ny = -2x - 8 + \\frac{3}{4x - 9}\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1299,
+      757,
+      1378
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to \\pm\\infty} [y - (-2x - 8)] = \\lim_{x \\to \\pm\\infty} \\frac{3}{4x - 9} = 0.\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      1385,
+      1533,
+      1506
+    ],
+    "category": "Text",
+    "text": "Do đó, tiệm cận xiên của đồ thị hàm số $y = -2x - 8 + \\frac{3}{4x-9}$ là đường thẳng có phương trình $y = -2x - 8$."
+  },
+  {
+    "bbox": [
+      113,
+      1511,
+      1366,
+      1554
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Cho hình集合 $ABCD.A'B'C'D'$ (minh họa hình bên). Đẳng thức nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      700,
+      1554,
+      1084,
+      1875
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      1882,
+      464,
+      1924
+    ],
+    "category": "Formula",
+    "text": "A. $\\overline{BD} = \\overline{A'D'}$."
+  },
+  {
+    "bbox": [
+      586,
+      1882,
+      772,
+      1924
+    ],
+    "category": "Formula",
+    "text": "B. $\\overline{AB} = \\overline{CD}$."
+  },
+  {
+    "bbox": [
+      901,
+      1882,
+      1111,
+      1924
+    ],
+    "category": "Formula",
+    "text": "C. $\\overline{BD} = \\overline{B'D'}$."
+  },
+  {
+    "bbox": [
+      1216,
+      1882,
+      1414,
+      1924
+    ],
+    "category": "Formula",
+    "text": "D. $\\overline{AA'} = \\overline{B'B}$."
+  },
+  {
+    "bbox": [
+      835,
+      1928,
+      951,
+      1966
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      1966,
+      366,
+      2004
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      250,
+      2004,
+      686,
+      2049
+    ],
+    "category": "Text",
+    "text": "Đẳng thức đúng là: $\\overline{BD} = \\overline{B'D'}$."
+  },
+  {
+    "bbox": [
+      113,
+      2049,
+      1533,
+      2150
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Trong không gian với hệ tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;-2;1)$ trên mặt phẳng $(Oxy)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      250,
+      2161,
+      428,
+      2206
+    ],
+    "category": "Formula",
+    "text": "A. $(2;-2;0)$."
+  },
+  {
+    "bbox": [
+      586,
+      2161,
+      742,
+      2206
+    ],
+    "category": "Formula",
+    "text": "B. $(2;0;1)$."
+  },
+  {
+    "bbox": [
+      901,
+      2161,
+      1076,
+      2206
+    ],
+    "category": "Formula",
+    "text": "C. $(0;-2;1)$."
+  },
+  {
+    "bbox": [
+      1216,
+      2161,
+      1372,
+      2206
+    ],
+    "category": "Formula",
+    "text": "D. $(0;0;1)$."
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1576,
+      259
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $\\lim_{x \\to 1^+} y = \\lim_{x \\to 1^+} \\left(\\frac{x^2+1}{x-1}\\right) = +\\infty$; $\\lim_{x \\to 1^-} y = \\lim_{x \\to 1^-} \\left(\\frac{x^2+1}{x-1}\\right) = -\\infty$. Suy ra đường thẳng $x=1$ là tiệm cận đứng của đồ thị hàm số."
+  },
+  {
+    "bbox": [
+      212,
+      262,
+      1568,
+      389
+    ],
+    "category": "Text",
+    "text": "$\\lim_{x \\to +\\infty} [y - (x+1)] = \\lim_{x \\to +\\infty} \\frac{2}{x-1} = 0$; $\\lim_{x \\to -\\infty} [y - (x+1)] = \\lim_{x \\to -\\infty} \\frac{2}{x-1} = 0$. Suy ra đường thẳng $y = x+1$ là tiệm cận xiên của đồ thị hàm số."
+  },
+  {
+    "bbox": [
+      212,
+      393,
+      1574,
+      520
+    ],
+    "category": "Text",
+    "text": "Vậy đồ thị hàm số $y = x+1+\\frac{2}{x-1}$ có đường tiệm cận đứng là $x=1$ và tiệm cận xiên là $y = x+1$."
+  },
+  {
+    "bbox": [
+      212,
+      524,
+      421,
+      568
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      570,
+      1466,
+      617
+    ],
+    "category": "Text",
+    "text": "c) Tiệm cận xiên của đồ thị hàm số là đường thẳng $y = x+1$ không đi qua gốc tọa độ."
+  },
+  {
+    "bbox": [
+      212,
+      619,
+      421,
+      663
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      668,
+      1065,
+      770
+    ],
+    "category": "Text",
+    "text": "d) Ta có $y' = 1 - \\frac{2}{(x-1)^2} = \\frac{x^2 - 2x - 1}{(x-1)^2}$, $y' = 0 \\Leftrightarrow x = 1 \\pm \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      778,
+      756,
+      821
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên của hàm số như sau:"
+  },
+  {
+    "bbox": [
+      318,
+      823,
+      1466,
+      1112
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$1 - \\sqrt{2}$</td><td>$1$</td><td>$1 + \\sqrt{2}$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$-$</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$2 - 2\\sqrt{2}$</td><td>$+\\infty$</td><td>$2 + 2\\sqrt{2}$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1125,
+      1574,
+      1231
+    ],
+    "category": "Text",
+    "text": "BBT cho ta $y_{CD} = 2 - 2\\sqrt{2}$ và $y_{CT} = 2 + 2\\sqrt{2}$. Hiệu giữa giá trị cực đại và giá trị cực tiểu của hàm số bằng $-4\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      1235,
+      371,
+      1274
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      1276,
+      1576,
+      1486
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một ô tô bắt đầu chuyển động nhanh dần đều với vận tốc $v_1(t) = 2t$ (m/s), trong đó thời gian $t$ tính bằng giây. Sau khi chuyển động được 12 giây, ô tô gặp chướng ngại vật và người tài xế phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với vận tốc $v_2(t)$ và gia tốc là $a = -8$ (m/s²) cho đến khi stop."
+  },
+  {
+    "bbox": [
+      212,
+      1496,
+      1096,
+      1539
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô chuyển động nhanh dần đều là 144 m."
+  },
+  {
+    "bbox": [
+      212,
+      1539,
+      1216,
+      1583
+    ],
+    "category": "Text",
+    "text": "b) Thời gian từ lúc ô tô giảm tốc độ cho đến khi stop là 3 giây."
+  },
+  {
+    "bbox": [
+      212,
+      1585,
+      1081,
+      1629
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường ô tô chuyển động chậm dần đều là 3 mét."
+  },
+  {
+    "bbox": [
+      212,
+      1627,
+      1568,
+      1714
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường ô tô đi được từ lúc bắt đầu chuyển động cho đến khi stop là 168 mét."
+  },
+  {
+    "bbox": [
+      833,
+      1724,
+      953,
+      1765
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1765,
+      746,
+      1861
+    ],
+    "category": "Text",
+    "text": "a) Ta có $S = \\int_{0}^{12} (2t) dt = t^2 \\Big|_{0}^{12} = 144$ (m)."
+  },
+  {
+    "bbox": [
+      212,
+      1865,
+      421,
+      1909
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      1913,
+      1411,
+      2023
+    ],
+    "category": "Text",
+    "text": "b) Ta có $a = -8$ (m/s²) $\\Rightarrow v_2(t) = -8t + C$. Tại thời điểm $t = 12$ giây, $v_2(12) = v_1(12) \\Leftrightarrow -96 + C = 24 \\Leftrightarrow C = 120$. Suy ra $v_2(t) = -8t + 120$."
+  },
+  {
+    "bbox": [
+      212,
+      2029,
+      783,
+      2076
+    ],
+    "category": "Text",
+    "text": "Khi xe stop thì $v_2(t) = 0 \\Leftrightarrow t = 15$."
+  },
+  {
+    "bbox": [
+      212,
+      2084,
+      1359,
+      2131
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian từ lúc ô tô giảm tốc độ cho đến khi stop là $15 - 12 = 3$ giây."
+  },
+  {
+    "bbox": [
+      212,
+      2131,
+      421,
+      2173
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

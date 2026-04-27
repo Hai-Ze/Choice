@@ -1,0 +1,371 @@
+[
+  {
+    "bbox": [
+      298,
+      138,
+      573,
+      178
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      375,
+      182,
+      505,
+      221
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 3"
+  },
+  {
+    "bbox": [
+      294,
+      229,
+      585,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề gồm có 4 trang)"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      226,
+      1528,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      428,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      155,
+      536,
+      1035,
+      576
+    ],
+    "category": "Text",
+    "text": ">> Câu 1. Cho cấp số nhân $(u_n)$ có $u_1 = 3, u_4 = 24$. Tính $u_5$."
+  },
+  {
+    "bbox": [
+      192,
+      596,
+      289,
+      638
+    ],
+    "category": "List-item",
+    "text": "A) 31."
+  },
+  {
+    "bbox": [
+      535,
+      596,
+      617,
+      638
+    ],
+    "category": "List-item",
+    "text": "B) 7."
+  },
+  {
+    "bbox": [
+      879,
+      596,
+      961,
+      638
+    ],
+    "category": "List-item",
+    "text": "C) 2."
+  },
+  {
+    "bbox": [
+      1224,
+      596,
+      1320,
+      638
+    ],
+    "category": "List-item",
+    "text": "D) 48."
+  },
+  {
+    "bbox": [
+      155,
+      654,
+      1425,
+      715
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có công thức số hạng tổng quát của cấp số nhân: $u_n = u_1 \\cdot q^{n-1}$."
+  },
+  {
+    "bbox": [
+      155,
+      720,
+      1195,
+      764
+    ],
+    "category": "Text",
+    "text": "Áp dụng cho số hạng thứ 4: $u_4 = u_1 \\cdot q^3 \\Rightarrow 24 = 3 \\cdot q^3 \\Rightarrow q^3 = 8 \\Rightarrow q = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      768,
+      759,
+      808
+    ],
+    "category": "Text",
+    "text": "Số hạng thứ 5 là: $u_5 = u_4 \\cdot q = 24 \\cdot 2 = 48$."
+  },
+  {
+    "bbox": [
+      155,
+      814,
+      487,
+      852
+    ],
+    "category": "Text",
+    "text": "Vậy đáp án đúng là 48."
+  },
+  {
+    "bbox": [
+      155,
+      872,
+      1528,
+      913
+    ],
+    "category": "Text",
+    "text": ">> Câu 2. Cho hình lập phương $ABCD.A'B'C'D'$. Tính góc giữa hai đường thẳng $AB$ và $A'C'$."
+  },
+  {
+    "bbox": [
+      645,
+      927,
+      1067,
+      1324
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1412,
+      302,
+      1454
+    ],
+    "category": "List-item",
+    "text": "A) 45°."
+  },
+  {
+    "bbox": [
+      535,
+      1412,
+      645,
+      1454
+    ],
+    "category": "List-item",
+    "text": "B) 90°."
+  },
+  {
+    "bbox": [
+      879,
+      1412,
+      987,
+      1454
+    ],
+    "category": "List-item",
+    "text": "C) 60°."
+  },
+  {
+    "bbox": [
+      1224,
+      1412,
+      1334,
+      1454
+    ],
+    "category": "List-item",
+    "text": "D) 30°."
+  },
+  {
+    "bbox": [
+      155,
+      1469,
+      1547,
+      1571
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $AB // A'B'$ nên góc giữa hai đường thẳng $AB$ và $A'C'$ bằng góc giữa hai đường thẳng $A'B'$ và $A'C'$."
+  },
+  {
+    "bbox": [
+      155,
+      1575,
+      1398,
+      1615
+    ],
+    "category": "Text",
+    "text": "Xét mặt đáy $A'B'C'D'$ là hình vuông, đường chéo $A'C'$ tạo với cạnh $A'B'$ một góc 45°."
+  },
+  {
+    "bbox": [
+      155,
+      1617,
+      733,
+      1660
+    ],
+    "category": "Text",
+    "text": "Do đó, $(\\widehat{AB}, \\widehat{A'C'}) = (\\widehat{A'B'}, \\widehat{A'C'}) = 45°$."
+  },
+  {
+    "bbox": [
+      155,
+      1666,
+      502,
+      1704
+    ],
+    "category": "Text",
+    "text": "Vậy đáp án đúng là 45°."
+  },
+  {
+    "bbox": [
+      155,
+      1725,
+      1061,
+      1765
+    ],
+    "category": "Text",
+    "text": ">> Câu 3. Cho mẫu số liệu ghép nhóm có bảng tần số như sau"
+  },
+  {
+    "bbox": [
+      445,
+      1772,
+      1252,
+      1887
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[16; 21)</td><td>[21; 26)</td><td>[26; 31)</td><td>[31; 36)</td><td>[36; 41)</td></tr><tr><td>Tần số</td><td>4</td><td>6</td><td>8</td><td>18</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1898,
+      803,
+      1938
+    ],
+    "category": "Text",
+    "text": "Tính khoảng biến thiên của mẫu số liệu trên."
+  },
+  {
+    "bbox": [
+      192,
+      1958,
+      274,
+      2000
+    ],
+    "category": "List-item",
+    "text": "A) 5."
+  },
+  {
+    "bbox": [
+      535,
+      1958,
+      633,
+      2000
+    ],
+    "category": "List-item",
+    "text": "B) 18."
+  },
+  {
+    "bbox": [
+      879,
+      1958,
+      973,
+      2000
+    ],
+    "category": "List-item",
+    "text": "C) 40."
+  },
+  {
+    "bbox": [
+      1224,
+      1958,
+      1320,
+      2000
+    ],
+    "category": "List-item",
+    "text": "D) 25."
+  },
+  {
+    "bbox": [
+      155,
+      2016,
+      1547,
+      2117
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Khoảng biến thiên của mẫu số liệu ghép nhóm được tính bằng hiệu giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên:"
+  },
+  {
+    "bbox": [
+      155,
+      2123,
+      415,
+      2159
+    ],
+    "category": "Formula",
+    "text": "$$\nR = 41 - 16 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1585,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "81"
+  }
+]

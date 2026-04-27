@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      551,
+      181
+    ],
+    "category": "Text",
+    "text": "thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      202,
+      1547,
+      464
+    ],
+    "category": "Text",
+    "text": "Bài 1. Anh Việt có một tấm tôn hình tam giác đều $ABC$ với cạnh bằng $6$ (dm). Bên trong tấm nhôm này anh vẽ thêm tam giác đều $DEF$ sao cho hai tam giác có cùng trọng tâm, đồng thời các cạnh tương ứng song song nhau. Anh Việt muốn làm một chậu待用 nước dạng hình chóp cụt tam giác đều với đáy nhỏ là $DEF$ và đáy lớn để hở. Anh cắt bỏ ba hình bình hành ở ba góc của tam giác $ABC$ là $AMDN$, $BPEQ$, $CSFR$ (như hình). Kẻ đường cao $AH$ và gọi $O$ là trọng tâm tam giác $ABC$. Đặt $x = DN = DM$ ($0 < x < 2$)."
+  },
+  {
+    "bbox": [
+      484,
+      527,
+      1246,
+      845
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      886,
+      719,
+      927
+    ],
+    "category": "Formula",
+    "text": "a) $NP = QR = SM = 6 - 2x$ (dm)."
+  },
+  {
+    "bbox": [
+      203,
+      940,
+      782,
+      988
+    ],
+    "category": "Formula",
+    "text": "b) $AH = 3\\sqrt{3}$ (dm) và $OA = 2\\sqrt{3}$ (dm)."
+  },
+  {
+    "bbox": [
+      203,
+      1001,
+      815,
+      1049
+    ],
+    "category": "Formula",
+    "text": "c) $AD = x\\sqrt{3}$ (dm) và $DE = 6 - 3x$ (dm)."
+  },
+  {
+    "bbox": [
+      154,
+      1068,
+      1547,
+      1154
+    ],
+    "category": "Text",
+    "text": "d) Sau khi gập hình và dùng keo dán kín các đoạn gập vào với nhau gồm $DM$ và $DN$, $EP$ với $EQ$, $FS$ với $FR$, sức chứa tối đa của chậu xấp xỉ $4,54$ (lít)."
+  },
+  {
+    "bbox": [
+      154,
+      1170,
+      198,
+      1210
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      1170,
+      445,
+      1232
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      195,
+      1251,
+      406,
+      1289
+    ],
+    "category": "Section-header",
+    "text": "a): Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      1306,
+      1547,
+      1391
+    ],
+    "category": "Text",
+    "text": "Do $ABC$ là tam giác đều cạnh $6$, các hình bình hành $AMDN$, $BPEQ$ có cạnh $DN = DM = EP = EQ = x$."
+  },
+  {
+    "bbox": [
+      235,
+      1408,
+      821,
+      1448
+    ],
+    "category": "Text",
+    "text": "Ta có $AN = DM = x$ và $BP = EQ = x$."
+  },
+  {
+    "bbox": [
+      235,
+      1465,
+      1091,
+      1505
+    ],
+    "category": "Text",
+    "text": "Khi đó: $NP = AB - AN - BP = 6 - x - x = 6 - 2x$ (dm)."
+  },
+  {
+    "bbox": [
+      235,
+      1524,
+      678,
+      1563
+    ],
+    "category": "Text",
+    "text": "Tương tự $QR = SM = 6 - 2x$."
+  },
+  {
+    "bbox": [
+      195,
+      1582,
+      406,
+      1620
+    ],
+    "category": "Section-header",
+    "text": "b): Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      1627,
+      875,
+      1716
+    ],
+    "category": "Text",
+    "text": "Đường cao tam giác đều cạnh $a$ là $h = \\frac{a\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      235,
+      1721,
+      831,
+      1807
+    ],
+    "category": "Text",
+    "text": "Với $a = 6$, ta có $AH = \\frac{6\\sqrt{3}}{2} = 3\\sqrt{3}$ (dm)."
+  },
+  {
+    "bbox": [
+      235,
+      1812,
+      1544,
+      1890
+    ],
+    "category": "Text",
+    "text": "Trọng tâm $O$ cách định một khoảng bằng $\\frac{2}{3}$ đường cao: $OA = \\frac{2}{3}AH = \\frac{2}{3} \\cdot 3\\sqrt{3} = 2\\sqrt{3}$ (dm)."
+  },
+  {
+    "bbox": [
+      195,
+      1901,
+      406,
+      1939
+    ],
+    "category": "Section-header",
+    "text": "c): Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      1952,
+      1547,
+      2044
+    ],
+    "category": "Text",
+    "text": "Trong hình thoi $AMDN$ (do $AM = AN = DM = DN = x$ và $\\hat{A} = 60^\\circ$), đường chéo $AD = 2x \\cos(30^\\circ) = x\\sqrt{3}$ (dm)."
+  },
+  {
+    "bbox": [
+      235,
+      2061,
+      1547,
+      2142
+    ],
+    "category": "Text",
+    "text": "Gọi $s$ là cạnh của tam giác đều $DEF$. Vì $O$ là trọng tâm chung của hai tam giác nên $OA = AD + OD$."
+  },
+  {
+    "bbox": [
+      235,
+      2147,
+      1225,
+      2235
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ trọng tâm $O$ đến định $D$ của $\\triangle DEF$ là $OD = \\frac{s\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "70"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

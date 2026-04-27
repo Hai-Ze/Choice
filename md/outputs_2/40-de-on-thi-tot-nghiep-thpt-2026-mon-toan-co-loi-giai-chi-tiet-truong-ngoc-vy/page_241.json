@@ -1,0 +1,331 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      136
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      155,
+      1451,
+      201
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      218,
+      1078,
+      273
+    ],
+    "category": "Text",
+    "text": "Câu 1. Nghiệm nhỏ nhất của phương trình $\\log_5(x^2 - 3x + 5) = 1$ là"
+  },
+  {
+    "bbox": [
+      205,
+      298,
+      303,
+      333
+    ],
+    "category": "List-item",
+    "text": "A. -3."
+  },
+  {
+    "bbox": [
+      555,
+      298,
+      634,
+      333
+    ],
+    "category": "List-item",
+    "text": "B. $a$."
+  },
+  {
+    "bbox": [
+      906,
+      298,
+      980,
+      333
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1255,
+      298,
+      1336,
+      333
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      807,
+      358,
+      924,
+      397
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      415,
+      279,
+      454
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      160,
+      471,
+      1007,
+      569
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_5(x^2 - 3x + 5) = 1 \\Leftrightarrow x^2 - 3x + 5 = 5 \\Leftrightarrow x^2 - 3x = 0 \\Leftrightarrow \\begin{cases} x = 3 \\\\ x = 0 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      594,
+      1037,
+      648
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm nhỏ nhất của phương trình $\\log_5(x^2 - 3x + 5) = 1$ là 0."
+  },
+  {
+    "bbox": [
+      155,
+      673,
+      1116,
+      724
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có đồ thị bên dưới."
+  },
+  {
+    "bbox": [
+      705,
+      751,
+      1039,
+      1278
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1293,
+      551,
+      1337
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      195,
+      1356,
+      912,
+      1404
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho nghịch biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      1431,
+      863,
+      1480
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho đồng biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      195,
+      1507,
+      863,
+      1556
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho đồng biến trên khoảng $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      1583,
+      894,
+      1632
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đã cho đồng biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      1659,
+      924,
+      1698
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1717,
+      279,
+      1756
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1769,
+      469,
+      1812
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có"
+  },
+  {
+    "bbox": [
+      155,
+      1831,
+      796,
+      1880
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng $(-\\infty; +\\infty)$"
+  },
+  {
+    "bbox": [
+      155,
+      1905,
+      1575,
+      2065
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $f(x)$ thỏa mãn $f'(x) = 3 - 5\\sin x$ và $f(0) = 10$. Biết $f(\\pi) = a\\pi + b$, với $a, b \\in \\mathbb{Z}$ và $\\frac{a}{b}$ là phân thức tối简. Tính giá trị biểu thức $a+b$."
+  },
+  {
+    "bbox": [
+      205,
+      2088,
+      375,
+      2123
+    ],
+    "category": "List-item",
+    "text": "A. $a+b=1$."
+  },
+  {
+    "bbox": [
+      555,
+      2088,
+      727,
+      2123
+    ],
+    "category": "List-item",
+    "text": "B. $a+b=0$."
+  },
+  {
+    "bbox": [
+      943,
+      2088,
+      1130,
+      2123
+    ],
+    "category": "List-item",
+    "text": "C. $a+b=13$."
+  },
+  {
+    "bbox": [
+      1255,
+      2088,
+      1444,
+      2123
+    ],
+    "category": "List-item",
+    "text": "D. $a+b=10$."
+  },
+  {
+    "bbox": [
+      807,
+      2148,
+      924,
+      2187
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2206,
+      279,
+      2245
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2254,
+      916,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

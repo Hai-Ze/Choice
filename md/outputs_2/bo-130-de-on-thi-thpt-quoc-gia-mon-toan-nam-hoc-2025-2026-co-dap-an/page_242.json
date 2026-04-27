@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      126,
+      525,
+      161
+    ],
+    "category": "Text",
+    "text": "bảng."
+  },
+  {
+    "bbox": [
+      478,
+      156,
+      934,
+      228
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để có tên Hiền là $\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      478,
+      221,
+      1361,
+      292
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      478,
+      285,
+      1382,
+      356
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó nam là $\\frac{2}{13}$."
+  },
+  {
+    "bbox": [
+      478,
+      351,
+      1550,
+      456
+    ],
+    "category": "List-item",
+    "text": "d) Nếu thầy giáo gọi 1 bạn có tên là Hiền lên bảng thì xác suất để bạn đó là bạn nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      448,
+      463,
+      1556,
+      658
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một máy bay di chuyển từ sân bay $A$ với tọa độ $A(0; 0; 0)$ đến sân bay $B$ tại tọa độ $B(760; 120; 10)$ (đơn vị tính là km). Trên hành trình, máy bay sẽ đi qua vùng kiểm soát không lưu trung gian có bán kính 100 km, với tâm trạm kiểm soát đặt tại tọa độ $O(380; 60; 0)$. máy bay bay với vận tốc không đổi, hoàn thành quăng đường trong 1 giờ 25 phút (85 phút)."
+  },
+  {
+    "bbox": [
+      478,
+      655,
+      1546,
+      828
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình tham số của đường bay từ $A$ đến $B$ được cho bởi $\\begin{cases} x = 760t \\\\ y = 120t, \\\\ z = 10t \\end{cases}$ $t \\in [0; 1,42]$ (tham số $t$ biểu diễn thời gian bay dược tính theo giờ)."
+  },
+  {
+    "bbox": [
+      478,
+      828,
+      1550,
+      907
+    ],
+    "category": "List-item",
+    "text": "b) máy bay đi vào phạm vi kiểm soát không lưu (bán kính 100 km, tâm tại $O(380; 60; 0)$ tại thời điểm $t = 0,5$."
+  },
+  {
+    "bbox": [
+      478,
+      907,
+      1234,
+      947
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường từ $A$ đến $B$ theo đường bay là 766 km."
+  },
+  {
+    "bbox": [
+      478,
+      947,
+      1550,
+      1055
+    ],
+    "category": "List-item",
+    "text": "d) Nếu máy bay bay trong vùng kiểm soát trong 15 phút (0,25 giờ), nó sẽ bay đúng $\\frac{1}{6}$ quăng đường từ $A$ đến $B$."
+  },
+  {
+    "bbox": [
+      464,
+      1063,
+      1247,
+      1117
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1124,
+      1556,
+      1249
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có $AB = 5$, $AC = 6$, $\\hat{A} = 60^\\circ$. Tính khoảng cách giữa hai đường thẳng $AA'$ và $BC$ (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      1333,
+      1205,
+      1554,
+      1258
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      1284,
+      981,
+      1703
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Công ty giao hàng nhanh có 4 kho hàng $A, B, C$ và $D$. Quản lý muốn lên kế hoạch cho xe giao hàng đi qua tất cả các kho hàng để lấy hàng và quay lại kho hàng ban đầu, với điều kiện là mỗi kho hàng chỉ ghé qua một lần. Khoảng cách giữa các kho hàng (km) được mô tả trong hình bên. Quăng đường ngắn nhất để xe giao hàng hoàn thành việc lấy hàng ở các kho và quay trở lại kho hàng ban đầu là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1014,
+      1295,
+      1538,
+      1666
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1333,
+      1693,
+      1554,
+      1746
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      1758,
+      1556,
+      2031
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Hệ thống định vị toàn cầu GPS là một hệ thống cho phép xác định vị trí của một vật thể trong không gian. Trong cùng một thời điểm, vị trí của một điểm $M$ trong không gian sẽ được xác định bởi bốn vệ tinh cho trước nhờ các bộ thu phát tín hiệu đặt trên các vệ tinh. Giả sử trong không gian với hệ tọa độ $Oxyz$, có bốn vệ tinh lần lượt đặt tại các điểm $A(3; 1; 0)$, $B(3; 6; 6)$, $C(4; 6; 2)$, $D(6; 2; 14)$; vị trí $M(a; b; c)$ thỏa mãn $MA = 3$, $MB = 6$, $MC = 5$, $MD = 13$. Khoảng cách từ điểm $M$ đến điểm $O$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1333,
+      1988,
+      1554,
+      2041
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      2052,
+      1556,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một kiến trúc sur thiết kế một khu sinh hoạt cộng đồng có dạng hình vuông với mỗi cạnh dài 120 m. Partn sân chơi nằm ở giữa, và phần còn lại để trồng cây xanh. Các đường biên của khu vực trồng cây xanh là các đoạn parabol, với định của parabol nằm cách trung điểm của mỗi cạnh hình vuông 25 m. Tính diện tích phần trồng cây xanh."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "240 Bùi Tịnh Minh Lâm"
+  }
+]

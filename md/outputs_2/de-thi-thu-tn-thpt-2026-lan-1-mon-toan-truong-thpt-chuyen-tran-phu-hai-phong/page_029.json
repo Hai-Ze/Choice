@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      252,
+      120,
+      427,
+      157
+    ],
+    "category": "Text",
+    "text": "Đáp án: 450"
+  },
+  {
+    "bbox": [
+      252,
+      160,
+      1008,
+      203
+    ],
+    "category": "Text",
+    "text": "Chọn một đinh đầu tiên làm đinh của tức giác có 15 cách."
+  },
+  {
+    "bbox": [
+      252,
+      208,
+      1525,
+      318
+    ],
+    "category": "Text",
+    "text": "Vì bốn đinh của tức giác không có cạnh nào là cạnh thuộc đa giác ($H$) nên giữa các đinh của tức giác sẽ có $x_1, x_2, x_3, x_4$ đinh là đinh của đa giác ($H$)"
+  },
+  {
+    "bbox": [
+      252,
+      325,
+      1517,
+      423
+    ],
+    "category": "Text",
+    "text": "Vì đa giác có 15 đinh, đã chọn 4 đinh làm đinh của tức giác, vì vậy tổng số đinh của đa giác ($H$) không được chọn và nằm giữa 4 đinh đã chọn là $15 - 4 = 11$"
+  },
+  {
+    "bbox": [
+      252,
+      439,
+      474,
+      484
+    ],
+    "category": "Text",
+    "text": "của đa giác ($H$)"
+  },
+  {
+    "bbox": [
+      252,
+      497,
+      1279,
+      544
+    ],
+    "category": "Text",
+    "text": "Số nghiệm nguyên dương của phương trình là: $C_{10}^3$ (Bài toán chia kẹo Euler)"
+  },
+  {
+    "bbox": [
+      252,
+      551,
+      1420,
+      595
+    ],
+    "category": "Text",
+    "text": "Vì đinh đầu tiên có 15 cách chọn, tuy nhiên vai trò của 4 đinh trong tức giác là như nhau"
+  },
+  {
+    "bbox": [
+      252,
+      602,
+      707,
+      685
+    ],
+    "category": "Text",
+    "text": "Số tức giác tạo thành $\\frac{15C_{10}^3}{4} = 450$."
+  },
+  {
+    "bbox": [
+      114,
+      691,
+      1533,
+      813
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một chậu待 ng water có dạng hình chóp cụt tức giác đều với chiều cao 3 dm, cạnh đáy lần lượt là 2 dm và 4 dm. Người ta bơm nước vào chậu với lưu lượng không đổi 4,75 lít/phút. Hỏi sau 2 phút chiều cao nước trong chậu là bao nhiêu dm, biết lúc đầu chậu không chứa nước?"
+  },
+  {
+    "bbox": [
+      688,
+      823,
+      1111,
+      1158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      836,
+      1194,
+      950,
+      1230
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1237,
+      431,
+      1276
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1,5."
+  },
+  {
+    "bbox": [
+      707,
+      1296,
+      1076,
+      1598
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1620,
+      1036,
+      1672
+    ],
+    "category": "Text",
+    "text": "Thể tích nước sau 2 phút là $4,75 \\times 2 = 9,5 (\\text{lit}) = 9,5 (\\text{dm}^3)$."
+  },
+  {
+    "bbox": [
+      252,
+      1695,
+      1505,
+      1794
+    ],
+    "category": "Text",
+    "text": "Vì lúc đầu chậu không có nước nên phần nước bơm vào chiếm chỗ bằng một khối chóp cụt tức giác đều với cạnh đáy lần lượt là $A'D' = 2 (\\text{dm})$, $A_1D_1 = x (\\text{dm})$ và chiều cao $A'K = h (\\text{dm})$."
+  },
+  {
+    "bbox": [
+      252,
+      1822,
+      1448,
+      1915
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } AC = 4\\sqrt{2} (\\text{dm}), A'C' = 2\\sqrt{2} (\\text{dm}), \\text{suy ra } AH = \\frac{AC - A'C'}{2} = \\frac{4\\sqrt{2} - 2\\sqrt{2}}{2} = \\sqrt{2} (\\text{dm})\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1939,
+      1163,
+      2031
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Và } A_1C_1 = x\\sqrt{2} (\\text{dm}), \\text{suy ra } A_1K = \\frac{A_1C_1 - A'C'}{2} = \\frac{x\\sqrt{2} - 2\\sqrt{2}}{2} (\\text{dm}).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      2054,
+      1523,
+      2187
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác, trong tam giác } A'AH \\text{ theo Ta-lét có } \\frac{A_1K}{AH} = \\frac{A'K}{A'H} \\Leftrightarrow \\frac{\\frac{x\\sqrt{2} - 2\\sqrt{2}}{2}}{\\sqrt{2}} = \\frac{h}{3} \\Leftrightarrow h = 3 \\cdot \\frac{x - 2}{2}.\n$$"
+  }
+]

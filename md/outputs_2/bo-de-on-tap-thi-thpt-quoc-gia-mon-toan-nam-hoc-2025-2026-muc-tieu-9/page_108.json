@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      592,
+      132,
+      1032,
+      216
+    ],
+    "category": "Formula",
+    "text": "$$\n= 100 + 5h + \\frac{h^2}{16} - 8\\pi h + \\pi h^2.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      232,
+      1497,
+      275
+    ],
+    "category": "Text",
+    "text": "Suy ra tốc độ dâng lên của mực nước trong bể khi viên bi sixth ngập một nữa trong nước là"
+  },
+  {
+    "bbox": [
+      202,
+      292,
+      799,
+      357
+    ],
+    "category": "Formula",
+    "text": "$$\nh'(t) = \\frac{20}{V'(4)} = \\frac{20}{100+5 \\cdot 4+\\frac{4^2}{16}-8\\pi \\cdot 4+\\pi \\cdot 4^2} \\approx 0,28.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      370,
+      1548,
+      678
+    ],
+    "category": "Text",
+    "text": "Bài 6. Để khám phá không gian, các nhà khoa học thường phải quan sát những vật thể xa xôi như sao chổi, tiểu hành tinh và các hiện tượng thiên văn khác. Nh�m mục đích đó, các nhà khoa học thiết kế và phóng các vệ tinh quan sát lên quỹ đạo quanh Trái Đất. Hầu hết các vệ tinh không chuyển động theo vòng tròn hoàn hảo mà có quỹ đạo là một đường elip, với Trái Đất nằm ở một trong hai tiêu điểm của elip. Khi một vệ tinh chuyển động trên quỹ đạo elip, khoảng cách giữa nó và vật thể cần quan sát liên tục thay đổi. Thông thường, nếu khoảng cách từ vệ tinh đến vật thể cần quan sát là ngắn nhất thì các thiết bị cảm biến trên vệ tinh sẽ nhận được tín hiệu tốt nhất."
+  },
+  {
+    "bbox": [
+      152,
+      696,
+      1548,
+      1092
+    ],
+    "category": "Text",
+    "text": "Cho một vệ tinh (được xem như là một chất điểm) chuyển động xung quanh Trái Đất theo quỹ đạo là một đường elip. Trong không gian với hệ trục tọa độ vuông góc $Oxyz$ (đơn vị trên mỗi trục $Ox, Oy, Oz$ đều bằng 6400 km), giả sử vệ tinh chuyển động trên mặt phẳng tọa độ ($Oxy$) theo quỹ đạo có phương trình là $x^2 + 3y^2 = 17$. Vệ tinh cần quan sát một vật thể (cùng được xem như là một chất điểm) chuyển động trong không gian. Theo các kết quả nghiên cứu, khi vật thể chuyển động đến vị trí $A(2; \\frac{16}{\\sqrt{3}}; 8)$ thì việc quan sát vật thể đó là tốt nhất. Hãy xác định tọa độ điểm $C$ (trên quỹ đạo elip của vệ tinh) trong không gian với hệ trục tọa độ $Oxyz$ nói trên sao cho khoảng cách từ vị trí $C$ đến vị trí $A$ là ngắn nhất. Biết tọa độ $C(a; \\frac{b}{\\sqrt{3}}; 0)$, tính $a + b$?"
+  },
+  {
+    "bbox": [
+      152,
+      1106,
+      1418,
+      1169
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi tọa độ điểm $C$ nằm trên quỹ đạo elip của vệ tinh là $C(x; y; z)$."
+  },
+  {
+    "bbox": [
+      195,
+      1183,
+      1156,
+      1225
+    ],
+    "category": "List-item",
+    "text": "* Vì vệ tinh chuyển động trên mặt phẳng tọa độ ($Oxy$) nên $z = 0$."
+  },
+  {
+    "bbox": [
+      195,
+      1241,
+      1136,
+      1283
+    ],
+    "category": "List-item",
+    "text": "* Vì $C$ nằm trên elip nên tọa độ của $C$ thỏa mãn: $x^2 + 3y^2 = 17$."
+  },
+  {
+    "bbox": [
+      152,
+      1302,
+      657,
+      1345
+    ],
+    "category": "Text",
+    "text": "Suy ra $C(x; y; 0)$ với $x^2 + 3y^2 = 17$."
+  },
+  {
+    "bbox": [
+      202,
+      1357,
+      858,
+      1415
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ $C$ đến vật thể $A(2; \\frac{16}{\\sqrt{3}}; 8)$ là:"
+  },
+  {
+    "bbox": [
+      549,
+      1424,
+      1148,
+      1521
+    ],
+    "category": "Formula",
+    "text": "$$\nAC = \\sqrt{(x - 2)^2 + \\left(y - \\frac{16}{\\sqrt{3}}\\right)^2 + (0 - 8)^2}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1523,
+      996,
+      1567
+    ],
+    "category": "Text",
+    "text": "Để $AC$ ngắn nhất thì $AC^2$ phải ngắn nhất. Ta xét hàm số:"
+  },
+  {
+    "bbox": [
+      582,
+      1573,
+      1118,
+      1664
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x, y) = (x - 2)^2 + \\left(y - \\frac{16}{\\sqrt{3}}\\right)^2 + 64\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1668,
+      901,
+      1711
+    ],
+    "category": "Text",
+    "text": "Với điều kiện ràng buộc $g(x, y) = x^2 + 3y^2 - 17 = 0$."
+  },
+  {
+    "bbox": [
+      152,
+      1719,
+      1548,
+      1860
+    ],
+    "category": "Text",
+    "text": "Sử dụng phương pháp hình học: Tại điểm $C$ có khoảng cách đến $A$ ngắn nhất, vecto $\\overrightarrow{C'A'}$ (với $C', A'$ lần lượt là hình chiếu của $C, A$ lên mặt phẳng $Oxy$) phải cùng phương với vecto pháp tuyến $\\vec{n}$ của elip tại $C$."
+  },
+  {
+    "bbox": [
+      195,
+      1880,
+      1005,
+      1922
+    ],
+    "category": "List-item",
+    "text": "* Vecto pháp tuyến của elip tại $C(x, y)$ là $\\vec{n} = (2x; 6y)$."
+  },
+  {
+    "bbox": [
+      195,
+      1930,
+      1284,
+      1989
+    ],
+    "category": "List-item",
+    "text": "* Hình chiếu của $A$ lên ($Oxy$) là $A'(2; \\frac{16}{\\sqrt{3}}; 0)$. Vecto $\\overrightarrow{CA'} = (2 - x; \\frac{16}{\\sqrt{3}} - y)$."
+  },
+  {
+    "bbox": [
+      152,
+      1997,
+      828,
+      2051
+    ],
+    "category": "Text",
+    "text": "Để $AC$ đạt cực trị thì $\\overrightarrow{CA'}$ cùng phương với $\\vec{n}$:"
+  },
+  {
+    "bbox": [
+      534,
+      2057,
+      1163,
+      2152
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{2 - x}{2x} = \\frac{\\frac{16}{\\sqrt{3}} - y}{6y} \\Leftrightarrow 3y(2 - x) = x \\left(\\frac{16}{\\sqrt{3}} - y\\right)\n$$"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "108"
+  },
+  {
+    "bbox": [
+      828,
+      2252,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

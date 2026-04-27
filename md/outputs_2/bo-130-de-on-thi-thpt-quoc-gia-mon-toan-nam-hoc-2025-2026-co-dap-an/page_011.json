@@ -1,0 +1,636 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      131,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      125,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1151,
+      275
+    ],
+    "category": "Section-header",
+    "text": "# BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      320,
+      275,
+      971,
+      332
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 3"
+  },
+  {
+    "bbox": [
+      500,
+      332,
+      797,
+      384
+    ],
+    "category": "Section-header",
+    "text": "### ĐỀ KHẢO SÁT HÈ"
+  },
+  {
+    "bbox": [
+      281,
+      389,
+      1013,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      110,
+      509,
+      1163,
+      566
+    ],
+    "category": "Section-header",
+    "text": "## 1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      574,
+      752,
+      615
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Hàm số nào sau đây nghịch biến trên $\\mathbb{R}$?"
+  },
+  {
+    "bbox": [
+      123,
+      623,
+      322,
+      665
+    ],
+    "category": "List-item",
+    "text": "(A) $y = x^3 + x$."
+  },
+  {
+    "bbox": [
+      395,
+      623,
+      634,
+      665
+    ],
+    "category": "List-item",
+    "text": "(B) $y = -x^3 - 3x$."
+  },
+  {
+    "bbox": [
+      668,
+      623,
+      902,
+      665
+    ],
+    "category": "List-item",
+    "text": "(C) $y = -x^4 - x^2$."
+  },
+  {
+    "bbox": [
+      940,
+      609,
+      1129,
+      682
+    ],
+    "category": "List-item",
+    "text": "(D) $y = \\frac{x+1}{x-3}$."
+  },
+  {
+    "bbox": [
+      93,
+      702,
+      912,
+      820
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[-2; 4]$ và có đồ thị như hình vẽ bên. Tổng giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho trên đoạn $[-2; 4]$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      818,
+      195,
+      859
+    ],
+    "category": "List-item",
+    "text": "(A) 5."
+  },
+  {
+    "bbox": [
+      324,
+      818,
+      418,
+      859
+    ],
+    "category": "List-item",
+    "text": "(B) -2."
+  },
+  {
+    "bbox": [
+      524,
+      818,
+      594,
+      859
+    ],
+    "category": "List-item",
+    "text": "(C) 3."
+  },
+  {
+    "bbox": [
+      724,
+      818,
+      797,
+      859
+    ],
+    "category": "List-item",
+    "text": "(D) 0."
+  },
+  {
+    "bbox": [
+      950,
+      720,
+      1178,
+      1109
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1128,
+      1196,
+      1206
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình lập phương $ABCD.A'B'C'D'$. Khẳng định nào sau đây là khẳng định sai?"
+  },
+  {
+    "bbox": [
+      123,
+      1202,
+      421,
+      1252
+    ],
+    "category": "List-item",
+    "text": "(A) $(\\overrightarrow{A'C'}, \\overrightarrow{AD}) = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      669,
+      1202,
+      972,
+      1252
+    ],
+    "category": "List-item",
+    "text": "(B) $(\\overrightarrow{A'C'}, \\overrightarrow{B'B}) = 90^\\circ$."
+  },
+  {
+    "bbox": [
+      123,
+      1250,
+      421,
+      1302
+    ],
+    "category": "List-item",
+    "text": "(C) $(\\overrightarrow{A'A}, \\overrightarrow{CB'}) = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      669,
+      1250,
+      967,
+      1302
+    ],
+    "category": "List-item",
+    "text": "(D) $(\\overrightarrow{AB}, \\overrightarrow{CD}) = 180^\\circ$."
+  },
+  {
+    "bbox": [
+      93,
+      1316,
+      1081,
+      1358
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hình集合 $ABCD.EFGH$. Vecơ nào sau đây bằng vecơ $\\overrightarrow{FH}$"
+  },
+  {
+    "bbox": [
+      123,
+      1354,
+      231,
+      1397
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{BD}$."
+  },
+  {
+    "bbox": [
+      395,
+      1354,
+      504,
+      1397
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{DB}$."
+  },
+  {
+    "bbox": [
+      668,
+      1354,
+      772,
+      1397
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{BA}$."
+  },
+  {
+    "bbox": [
+      940,
+      1354,
+      1044,
+      1397
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{AB}$."
+  },
+  {
+    "bbox": [
+      93,
+      1412,
+      1196,
+      1495
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Trong không gian với hệ tọa độ $Oxyz$, với $\\vec{i}, \\vec{j}, \\vec{k}$ là các vecơ đơn vị trên trục $Ox, Oy, Oz$ tương ứng và vecơ $\\vec{a} = (1; 0; 1)$. Kết quả nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      1491,
+      398,
+      1534
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{a} = \\vec{i} + \\vec{j} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      669,
+      1491,
+      880,
+      1534
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{a} = \\vec{j} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      123,
+      1532,
+      335,
+      1575
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{a} = \\vec{i} + \\vec{j}$."
+  },
+  {
+    "bbox": [
+      669,
+      1532,
+      880,
+      1575
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{a} = \\vec{i} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      93,
+      1594,
+      1196,
+      1672
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Tổng $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD}$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1668,
+      239,
+      1711
+    ],
+    "category": "List-item",
+    "text": "(A) $4\\overrightarrow{SO}$."
+  },
+  {
+    "bbox": [
+      395,
+      1668,
+      513,
+      1711
+    ],
+    "category": "List-item",
+    "text": "(B) $8\\overrightarrow{SO}$."
+  },
+  {
+    "bbox": [
+      668,
+      1668,
+      783,
+      1711
+    ],
+    "category": "List-item",
+    "text": "(C) $3\\overrightarrow{SO}$."
+  },
+  {
+    "bbox": [
+      940,
+      1668,
+      1058,
+      1711
+    ],
+    "category": "List-item",
+    "text": "(D) $2\\overrightarrow{SO}$."
+  },
+  {
+    "bbox": [
+      93,
+      1729,
+      1142,
+      1771
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Giá trị nhỏ nhất của hàm số $f(x) = x^3 - 3x + 2$ trên đoạn $[-3; 3]$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1769,
+      195,
+      1812
+    ],
+    "category": "List-item",
+    "text": "(A) 0."
+  },
+  {
+    "bbox": [
+      395,
+      1769,
+      504,
+      1812
+    ],
+    "category": "List-item",
+    "text": "(B) -16."
+  },
+  {
+    "bbox": [
+      668,
+      1769,
+      741,
+      1812
+    ],
+    "category": "List-item",
+    "text": "(C) 4."
+  },
+  {
+    "bbox": [
+      940,
+      1769,
+      1030,
+      1812
+    ],
+    "category": "List-item",
+    "text": "(D) 20."
+  },
+  {
+    "bbox": [
+      93,
+      1826,
+      1196,
+      1903
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Trong không gian với hệ trục tọa độ $Oxyz$, cho vecơ $\\vec{u} = \\vec{j} - 4\\vec{k}$. Toạ độ của vecơ $\\vec{u}$ là"
+  },
+  {
+    "bbox": [
+      123,
+      1903,
+      271,
+      1946
+    ],
+    "category": "List-item",
+    "text": "(A) $(1; -4)$."
+  },
+  {
+    "bbox": [
+      395,
+      1903,
+      571,
+      1946
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; 1; -4)$."
+  },
+  {
+    "bbox": [
+      668,
+      1903,
+      846,
+      1946
+    ],
+    "category": "List-item",
+    "text": "(C) $(1; 0; -4)$."
+  },
+  {
+    "bbox": [
+      940,
+      1903,
+      1117,
+      1946
+    ],
+    "category": "List-item",
+    "text": "(D) $(0; -1; 4)$."
+  },
+  {
+    "bbox": [
+      93,
+      1982,
+      872,
+      2099
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hàm số $y = ax^3 + bx^2 + cx + d$ ($a, b, c, d \\in \\mathbb{R}$) có đồ thị trên $\\mathbb{R}$ là đường cong trong hình bên. Giá trị cực đại của hàm số đã cho bằng"
+  },
+  {
+    "bbox": [
+      123,
+      2097,
+      195,
+      2140
+    ],
+    "category": "List-item",
+    "text": "(A) 1."
+  },
+  {
+    "bbox": [
+      314,
+      2097,
+      386,
+      2140
+    ],
+    "category": "List-item",
+    "text": "(B) 3."
+  },
+  {
+    "bbox": [
+      504,
+      2097,
+      576,
+      2140
+    ],
+    "category": "List-item",
+    "text": "(C) 0."
+  },
+  {
+    "bbox": [
+      695,
+      2097,
+      793,
+      2140
+    ],
+    "category": "List-item",
+    "text": "(D) -1."
+  },
+  {
+    "bbox": [
+      901,
+      1999,
+      1146,
+      2254
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      142,
+      1595,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      358,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mai thành tài, miệt mai là tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1493,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "9"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1263,
+      247
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\min = m_1 = OC_1 = \\sqrt{(4-\\sqrt{13})^2 + 3^2}, \\Rightarrow \\max = m_2 = OC_2 = \\sqrt{(4+\\sqrt{13})^2 + 3^2} \\\\ \\text{Vậy } m_1^2 + m_2^2 = 76.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      251,
+      1579,
+      627
+    ],
+    "category": "List-item",
+    "text": "**Câu 19.** Trong lớp chuyên Toán trường Chuyên Lam Sơn có 36 bàn học cá nhân (mum bàn chỉ được xếp nhiều nhất một bạn), được xếp thành 4 hàng và 9 cột (các hàng được đánh số từ trên xuống dưới theo thứ tự từ 1 đến 4, các cột được đánh số từ trái qua phải theo thứ tự từ 1 đến 9). Biết sĩ số học sinh của lớp là 35. Sau học kì I, thấy chủ nhiệm xếp lại chỗ ngồi cho các bạn học sinh trong lớp. Giả sử trước thời điểm chuyển chỗ bạn ngồi ở hàng thứ $m$, cột thứ $n$ và sau khi chuyển chỗ bạn đó sẽ ngồi ở hàng thứ $a_m$, cột thứ $a_n$ thì ta gán cho bạn đó số nguyên là $(a_m + a_n) - (m + n)$. Nếu ban đầu bàn trống ở vị trí (1;1), sau khi chuyển chỗ bàn trống ở vị trí (2;5) thì tổng của 35 số nguyên được gán cho 35 bạn là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      833,
+      634,
+      953,
+      675
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      675,
+      381,
+      719
+    ],
+    "category": "Text",
+    "text": "Đáp số: -5"
+  },
+  {
+    "bbox": [
+      212,
+      722,
+      1355,
+      766
+    ],
+    "category": "Text",
+    "text": "Ta xem có một bạn ảo A ở kì I ngồi ở vị trí (1;1) và sang kì II ngồi ở vị trí (2;5)."
+  },
+  {
+    "bbox": [
+      212,
+      772,
+      1062,
+      819
+    ],
+    "category": "Text",
+    "text": "Vậy số được gán cho bạn ảo A này là số $(2+5)-(1+1)=5$."
+  },
+  {
+    "bbox": [
+      212,
+      828,
+      1105,
+      872
+    ],
+    "category": "Text",
+    "text": "Lúc này ta xem lớp học có đủ 36 bạn được xếp vào 36 vị trí."
+  },
+  {
+    "bbox": [
+      212,
+      874,
+      1575,
+      967
+    ],
+    "category": "Text",
+    "text": "Chú ý tổng các số được đánh ở các bàn gồm hàng và cột có dạng $(i; j)$ với $i \\in \\{1; 2; 3; 4\\}$ và $j \\in \\{1; 2; 3; \\dots; 9\\}$ nên $a_m \\in \\{1; 2; 3; 4\\}$ và $a_n \\in \\{1; 2; 3; \\dots; 9\\}$."
+  },
+  {
+    "bbox": [
+      212,
+      975,
+      833,
+      1018
+    ],
+    "category": "Text",
+    "text": "Do đó tổng các số được gán cho 36 bạn là"
+  },
+  {
+    "bbox": [
+      212,
+      1020,
+      1522,
+      1124
+    ],
+    "category": "Formula",
+    "text": "$$\n[(1+1)+(1+2)+\\dots+(1+9)+(2+1)+(2+2)+\\dots+(2+9)+\\dots+(4+1)+(4+2)+\\dots+(4+9)] \\\\ -[(1+1)+(1+2)+\\dots+(1+9)+(2+1)+(2+2)+\\dots+(2+9)+\\dots+(4+1)+(4+2)+\\dots+(4+9)] = 0.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1131,
+      1035,
+      1175
+    ],
+    "category": "Text",
+    "text": "Nên tổng số gán cho 35 bạn thực tế của lớp là $0-5=-5$."
+  },
+  {
+    "bbox": [
+      74,
+      1175,
+      1575,
+      1461
+    ],
+    "category": "List-item",
+    "text": "**Câu 20.** Mỗi tuần, một cửa hàng bán điện thoại di động trung bình bán được 1000 điện thoại A với giá 14 triệu đồng một cái. Biết rằng, nếu cứ giảm giá bán 500 nghìn đồng/1 cái, số lượng điện thoại A bán ra sẽ tăng thêm khoảng 100 cái mỗi tuần. Biết rằng, nếu bán $x$ cái điện thoại A thì giá mỗi cái là $p(x)$ (triệu đồng) và hàm chi phí hàng tuần $C(x) = 12000 - 3x$ (triệu đồng). Để lợi nhuận lớn nhất, cửa hàng nên bán mỗi điện thoại A với giá bao nhiêu (triệu đồng)."
+  },
+  {
+    "bbox": [
+      833,
+      1463,
+      953,
+      1505
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1507,
+      357,
+      1549
+    ],
+    "category": "Text",
+    "text": "Đáp số: 8"
+  },
+  {
+    "bbox": [
+      212,
+      1551,
+      981,
+      1664
+    ],
+    "category": "Text",
+    "text": "Gọi $p(x) = ax + b$. Theo đề bài ta có: $$ \\begin{cases} p(1000) = 14 \\\\ p(1100) = 13,5 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      1674,
+      706,
+      1756
+    ],
+    "category": "Text",
+    "text": "Giải hệ ta được: $p(x) = \\frac{-1}{200}x + 19$"
+  },
+  {
+    "bbox": [
+      212,
+      1763,
+      1049,
+      1845
+    ],
+    "category": "Text",
+    "text": "Suy ra lợi nhuận: $L = x \\cdot p(x) - C(x) = \\frac{-1}{200}x^2 + 22x - 12000$"
+  },
+  {
+    "bbox": [
+      212,
+      1851,
+      903,
+      1934
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận đạt giá trị lớn nhất tại $x = \\frac{-b}{2a} = 2200$"
+  },
+  {
+    "bbox": [
+      212,
+      1940,
+      1385,
+      1987
+    ],
+    "category": "Text",
+    "text": "Vậy giá bán mỗi điện thoại A để lợi nhuận lớn nhất là $p(2200) = 8$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      74,
+      1998,
+      1575,
+      2133
+    ],
+    "category": "List-item",
+    "text": "**Câu 21.** Cho hàm số $y = \\frac{x^2 - 2x - 2}{x + 1}$ có đồ thị $(C)$. Gọi $A, B$ là hai điểm cực trị của đồ thị $(C)$. Tính bình phương độ dài đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      833,
+      2135,
+      953,
+      2177
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      2179,
+      373,
+      2221
+    ],
+    "category": "Text",
+    "text": "Đáp số: 20"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1518,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

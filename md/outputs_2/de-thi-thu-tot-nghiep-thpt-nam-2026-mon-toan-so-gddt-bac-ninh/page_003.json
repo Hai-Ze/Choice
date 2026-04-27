@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      142,
+      105,
+      1484,
+      150
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Thống kê điểm kiểm tra giữa kì môn Toán của 40 học sinh được cho bởi bảng tần số ghép lớp sau:"
+  },
+  {
+    "bbox": [
+      255,
+      162,
+      1447,
+      300
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[4;5)</td><td>[5;6)</td><td>[6;7)</td><td>[7;8)</td><td>[8;9)</td><td>[9;10)</td></tr><tr><td>Số học sinh</td><td>5</td><td>7</td><td>14</td><td>7</td><td>4</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      298,
+      690,
+      340
+    ],
+    "category": "Text",
+    "text": "a) Bảng tần số ghép lớp trên có 6 nhóm"
+  },
+  {
+    "bbox": [
+      180,
+      356,
+      711,
+      412
+    ],
+    "category": "Text",
+    "text": "b) Giá trị đại diện của nhóm $[8;9)$ là $8,5$."
+  },
+  {
+    "bbox": [
+      180,
+      430,
+      1080,
+      475
+    ],
+    "category": "Text",
+    "text": "c) Trung vị của mẫu số liệu trên (làm tròn đến hàng phần mười) là $6,8$."
+  },
+  {
+    "bbox": [
+      180,
+      493,
+      1194,
+      537
+    ],
+    "category": "Text",
+    "text": "d) Giá trị trung bình của mẫu số liệu trên (làm tròn đến hàng phần mười) là $6,7$."
+  },
+  {
+    "bbox": [
+      142,
+      556,
+      1553,
+      600
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(3; -4; 1)$, $B(1; 1; -1)$ và $C(2; 0; -3)$. Khi đó"
+  },
+  {
+    "bbox": [
+      180,
+      618,
+      1198,
+      662
+    ],
+    "category": "Text",
+    "text": "a) Hình chiếu vuông góc của điểm $B$ lên mặt phẳng $(Oxy)$ có tọa độ là $(1; 1; 0)$."
+  },
+  {
+    "bbox": [
+      180,
+      682,
+      876,
+      724
+    ],
+    "category": "Text",
+    "text": "b) Toạ độ trọng tâm của tam giác $ABC$ là $(2; -1; -1)$."
+  },
+  {
+    "bbox": [
+      180,
+      746,
+      1375,
+      800
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng điểm $I$ thoả mãn điều kiện $\\vec{IA} + 3\\vec{IB} - 2\\vec{IC} = \\vec{0}$. Hoành độ của điểm $I$ bằng $2$."
+  },
+  {
+    "bbox": [
+      180,
+      812,
+      1215,
+      856
+    ],
+    "category": "Text",
+    "text": "d) Xét $M$ là điểm thay đổi trên mặt phẳng $(Oyz)$. Giá trị nhỏ nhất của biểu thức"
+  },
+  {
+    "bbox": [
+      146,
+      878,
+      622,
+      921
+    ],
+    "category": "Formula",
+    "text": "$$\nS = MA^2 + 3MB^2 - 2MC^2 \\text{ bằng } 2.\n$$"
+  },
+  {
+    "bbox": [
+      142,
+      943,
+      1273,
+      1024
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{x + d}$ có bảng biến thiên như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      517,
+      1045,
+      1188,
+      1206
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      180,
+      1229,
+      850,
+      1285
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      180,
+      1308,
+      1085,
+      1362
+    ],
+    "category": "Text",
+    "text": "b) Tích giá trị cực đại và giá trị cực tiểu của hàm số $y = f(x)$ bằng $12$."
+  },
+  {
+    "bbox": [
+      142,
+      1386,
+      1521,
+      1516
+    ],
+    "category": "Text",
+    "text": "c) Cho điểm $M$ có hoành độ lớn hơn $1$, di chuyển trên đồ thị hàm số $y = f(x)$. Giá trị nhỏ nhất của tổng khoảng cách từ điểm $M$ tới hai trục tọa độ bằng $5 + 2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      180,
+      1533,
+      464,
+      1569
+    ],
+    "category": "Formula",
+    "text": "d) $a + b + c + d = 2$."
+  },
+  {
+    "bbox": [
+      142,
+      1619,
+      761,
+      1657
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      142,
+      1657,
+      936,
+      2021
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một xe ô tô sau khi chờ hết decimal đã bắt đầu chuyển động. Trong 6 phút đầu tiên với tốc độ được biểu thị bằng đồ thị là đường cong parabol; biết rằng sau 5 phút thì xe đạt đến tốc độ cao nhất 1000 m/phút và bắt đầu giảm tốc độ. Sau khi đi được 6 phút thì xe chuyển động đều (tham khảo hình vẽ). Quăng đường xe đi được sau 8 phút đầu tiên kể từ khi hết decimal đỏ là bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      1026,
+      1685,
+      1514,
+      2005
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      2097,
+      294,
+      2134
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1396,
+      2102,
+      1521,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "bbox": [
+      114,
+      120,
+      1535,
+      277
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số bậc hai $f(x)$. Biết đồ thị hàm số $y = f(x)$ cắt đường thẳng $y = 9x + 8$ tại hai điểm $A, B$ phân biệt có hoành độ lần lượt là $x_A = -1, x_B = 4$. Tính $I = \\int_{-1}^{4} f'(x)dx$."
+  },
+  {
+    "bbox": [
+      155,
+      301,
+      295,
+      336
+    ],
+    "category": "List-item",
+    "text": "A. $I = 45$."
+  },
+  {
+    "bbox": [
+      503,
+      301,
+      624,
+      336
+    ],
+    "category": "List-item",
+    "text": "B. $I = 5$."
+  },
+  {
+    "bbox": [
+      850,
+      301,
+      985,
+      336
+    ],
+    "category": "List-item",
+    "text": "C. $I = 43$."
+  },
+  {
+    "bbox": [
+      1196,
+      301,
+      1335,
+      336
+    ],
+    "category": "List-item",
+    "text": "D. $I = 30$."
+  },
+  {
+    "bbox": [
+      114,
+      358,
+      632,
+      403
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      155,
+      430,
+      431,
+      513
+    ],
+    "category": "List-item",
+    "text": "A. $\\int 6^x dx = \\frac{6^x}{\\ln 6} + C$."
+  },
+  {
+    "bbox": [
+      850,
+      427,
+      1134,
+      513
+    ],
+    "category": "List-item",
+    "text": "B. $\\int 6^x dx = \\frac{6^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      155,
+      537,
+      408,
+      595
+    ],
+    "category": "List-item",
+    "text": "C. $\\int 6^x dx = 6^x + C$."
+  },
+  {
+    "bbox": [
+      850,
+      537,
+      1156,
+      595
+    ],
+    "category": "List-item",
+    "text": "D. $\\int 6^x dx = 6^x \\cdot \\ln 6 + C$."
+  },
+  {
+    "bbox": [
+      114,
+      623,
+      976,
+      720
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Nếu $\\int_{0}^{1} f(x)dx = 2$ và $\\int_{1}^{3} f(x)dx = 8$ thì $\\int_{0}^{3} f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      155,
+      748,
+      228,
+      783
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      503,
+      748,
+      574,
+      783
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      850,
+      748,
+      933,
+      783
+    ],
+    "category": "List-item",
+    "text": "C. 10."
+  },
+  {
+    "bbox": [
+      1196,
+      748,
+      1283,
+      783
+    ],
+    "category": "List-item",
+    "text": "D. 16."
+  },
+  {
+    "bbox": [
+      114,
+      811,
+      1141,
+      900
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình lập phương $ABCD.A'B'C'D'$ (xem hình bên). Vectơ $\\overrightarrow{AB}$ bằng vecto nào sau đây?"
+  },
+  {
+    "bbox": [
+      1176,
+      828,
+      1488,
+      1058
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      922,
+      258,
+      965
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      850,
+      922,
+      963,
+      965
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{A'B'}$."
+  },
+  {
+    "bbox": [
+      155,
+      992,
+      262,
+      1035
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      850,
+      992,
+      951,
+      1035
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      114,
+      1063,
+      910,
+      1114
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      447,
+      1137,
+      1230,
+      1304
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1320,
+      805,
+      1365
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      155,
+      1391,
+      314,
+      1436
+    ],
+    "category": "List-item",
+    "text": "A. $(6; +\\infty)$."
+  },
+  {
+    "bbox": [
+      503,
+      1391,
+      654,
+      1436
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 5)$."
+  },
+  {
+    "bbox": [
+      850,
+      1391,
+      999,
+      1436
+    ],
+    "category": "List-item",
+    "text": "C. $(-3; 6)$."
+  },
+  {
+    "bbox": [
+      1196,
+      1391,
+      1374,
+      1436
+    ],
+    "category": "List-item",
+    "text": "D. $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      114,
+      1522,
+      1535,
+      1605
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      114,
+      1627,
+      1163,
+      1806
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình chữ nhật với $AB = 5, AD = 6, AA' = 10$; $G$ là trọng tâm của tam giác $BDA'$. Gắn một hệ tọa độ $Oxyz$ có gốc $O$ trùng với điểm $A$, tia $Ox$ trùng với tia $AB$, tia $Oy$ trùng với tia $AD$, tia $Oz$ trùng với tia $AA'$ (xem hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      1186,
+      1605,
+      1500,
+      1934
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1837,
+      611,
+      1886
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của điểm $C$ là $(5; 6; 0)$."
+  },
+  {
+    "bbox": [
+      155,
+      1916,
+      467,
+      1977
+    ],
+    "category": "List-item",
+    "text": "b) $|\\overrightarrow{AC} + 2\\overrightarrow{A'B}| = \\sqrt{661}$."
+  },
+  {
+    "bbox": [
+      155,
+      2008,
+      590,
+      2095
+    ],
+    "category": "List-item",
+    "text": "c) Tọa độ điểm $G$ là $\\left(2; \\frac{5}{3}; \\frac{10}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      155,
+      2126,
+      415,
+      2205
+    ],
+    "category": "List-item",
+    "text": "d) $\\overrightarrow{AG} \\cdot \\overrightarrow{B'C} = -\\frac{64}{3}$."
+  },
+  {
+    "bbox": [
+      1163,
+      2205,
+      1535,
+      2250
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 – Mã đề thi 0103"
+  }
+]

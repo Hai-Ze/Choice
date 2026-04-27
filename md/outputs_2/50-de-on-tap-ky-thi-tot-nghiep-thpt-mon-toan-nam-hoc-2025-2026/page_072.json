@@ -1,0 +1,449 @@
+[
+  {
+    "bbox": [
+      0,
+      0,
+      188,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      181,
+      44,
+      1015,
+      88
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      283,
+      161,
+      509,
+      350
+    ],
+    "category": "Page-header",
+    "text": "ttt\nTOAN TU TAM"
+  },
+  {
+    "bbox": [
+      778,
+      158,
+      1461,
+      205
+    ],
+    "category": "Page-header",
+    "text": "KỲ THI TỐT NGHIỆP THPT – MÔN TOÁN"
+  },
+  {
+    "bbox": [
+      895,
+      205,
+      1346,
+      273
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP SỐ 16"
+  },
+  {
+    "bbox": [
+      761,
+      281,
+      1487,
+      325
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      97,
+      357,
+      1028,
+      396
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh: ...................................................................."
+  },
+  {
+    "bbox": [
+      97,
+      403,
+      1028,
+      439
+    ],
+    "category": "Text",
+    "text": "SBD: ...................................................................................................."
+  },
+  {
+    "bbox": [
+      797,
+      439,
+      959,
+      482
+    ],
+    "category": "Section-header",
+    "text": "PHẦN ĐỀ"
+  },
+  {
+    "bbox": [
+      33,
+      490,
+      514,
+      534
+    ],
+    "category": "Section-header",
+    "text": "A. Câu hỏi – Trả lời trắc nghiệm"
+  },
+  {
+    "bbox": [
+      84,
+      538,
+      1537,
+      648
+    ],
+    "category": "List-item",
+    "text": "» Câu 1. Cho hàm số $y = f(x)$ liên tục và xác định trên $\\mathbb{R}$. Biết $f(x)$ có đạo hàm $f'(x)$ và hàm số $y = f'(x)$ có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      572,
+      651,
+      1175,
+      862
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      221,
+      864,
+      934,
+      914
+    ],
+    "category": "Text",
+    "text": "Xét trên $(-\\pi; \\pi)$, khẳng định nào sau đây **đúng**?"
+  },
+  {
+    "bbox": [
+      221,
+      925,
+      929,
+      976
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số $f(x)$ đồng biến trên khoảng $(-\\pi; \\pi)$."
+  },
+  {
+    "bbox": [
+      221,
+      985,
+      953,
+      1037
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số $f(x)$ nghịch biến trên khoảng $(-\\pi; \\pi)$."
+  },
+  {
+    "bbox": [
+      221,
+      1045,
+      1145,
+      1138
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số $f(x)$ nghịch biến trên khoảng $(-\\pi; -\\frac{\\pi}{2})$ và $(-\\frac{\\pi}{2}; \\pi)$."
+  },
+  {
+    "bbox": [
+      221,
+      1148,
+      909,
+      1200
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số $f(x)$ đồng biến trên khoảng $(0; \\pi)$."
+  },
+  {
+    "bbox": [
+      84,
+      1210,
+      1125,
+      1259
+    ],
+    "category": "List-item",
+    "text": "» Câu 2. Hàm số nào sau đây không đồng biến trên khoảng $(-\\infty; +\\infty)$?"
+  },
+  {
+    "bbox": [
+      221,
+      1274,
+      409,
+      1336
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^3 + 1$."
+  },
+  {
+    "bbox": [
+      557,
+      1274,
+      724,
+      1336
+    ],
+    "category": "List-item",
+    "text": "B. $y = x + 1$."
+  },
+  {
+    "bbox": [
+      870,
+      1274,
+      1049,
+      1356
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x-2}{x-1}$."
+  },
+  {
+    "bbox": [
+      1185,
+      1293,
+      1450,
+      1336
+    ],
+    "category": "List-item",
+    "text": "D. $y = x^5 + x^3 - 10$."
+  },
+  {
+    "bbox": [
+      84,
+      1359,
+      1533,
+      1444
+    ],
+    "category": "List-item",
+    "text": "» Câu 3. Kết quả kiểm tra điểm môn Toán của học sinh lớp 12A1 được cho bởi mẫu số liệu ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      346,
+      1446,
+      1462,
+      1558
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm điểm</td><td>$[0; 2)$</td><td>$[2; 4)$</td><td>$[4; 6)$</td><td>$[6; 8)$</td><td>$[8; 10)$</td></tr><tr><td>Tần số</td><td>5</td><td>5</td><td>5</td><td>25</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      221,
+      1560,
+      934,
+      1606
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm ở trên là"
+  },
+  {
+    "bbox": [
+      221,
+      1609,
+      347,
+      1645
+    ],
+    "category": "List-item",
+    "text": "A. 7,56."
+  },
+  {
+    "bbox": [
+      557,
+      1609,
+      679,
+      1645
+    ],
+    "category": "List-item",
+    "text": "B. 6,57."
+  },
+  {
+    "bbox": [
+      870,
+      1609,
+      984,
+      1645
+    ],
+    "category": "List-item",
+    "text": "C. 5,76."
+  },
+  {
+    "bbox": [
+      1185,
+      1609,
+      1309,
+      1645
+    ],
+    "category": "List-item",
+    "text": "D. 7,56."
+  },
+  {
+    "bbox": [
+      84,
+      1653,
+      1533,
+      1765
+    ],
+    "category": "List-item",
+    "text": "» Câu 4. Trong không gian $Oxyz$, cho mặt phẳng $(P): x - 2y + 3z - 4 = 0$. véc tơ pháp tuyến của mặt phẳng $(P)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1776,
+      432,
+      1827
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      557,
+      1776,
+      816,
+      1827
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (1; -2; -3)$."
+  },
+  {
+    "bbox": [
+      870,
+      1776,
+      1132,
+      1827
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (1; -2; -4)$."
+  },
+  {
+    "bbox": [
+      1185,
+      1776,
+      1425,
+      1827
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (1; -2; 3)$."
+  },
+  {
+    "bbox": [
+      84,
+      1835,
+      693,
+      1881
+    ],
+    "category": "List-item",
+    "text": "» Câu 5. Khẳng định nào dưới đây đúng"
+  },
+  {
+    "bbox": [
+      221,
+      1881,
+      580,
+      1939
+    ],
+    "category": "List-item",
+    "text": "A. $\\int (4x^3 - 2) dx = x^4 + C$."
+  },
+  {
+    "bbox": [
+      870,
+      1881,
+      1252,
+      1939
+    ],
+    "category": "List-item",
+    "text": "B. $\\int (4x^3 - 2) dx = 12x^2 + C$."
+  },
+  {
+    "bbox": [
+      221,
+      1947,
+      644,
+      2005
+    ],
+    "category": "List-item",
+    "text": "C. $\\int (4x^3 - 2) dx = x^4 - 2x + C$."
+  },
+  {
+    "bbox": [
+      870,
+      1947,
+      1325,
+      2005
+    ],
+    "category": "List-item",
+    "text": "D. $\\int (4x^3 - 2) dx = 12x^4 - 2x + C$."
+  },
+  {
+    "bbox": [
+      84,
+      2017,
+      1258,
+      2060
+    ],
+    "category": "List-item",
+    "text": "» Câu 6. Trong bốn dãy số sau, có bao nhiêu dãy số lập thành một cấp số cộng?"
+  },
+  {
+    "bbox": [
+      221,
+      2064,
+      792,
+      2147
+    ],
+    "category": "List-item",
+    "text": "I) $10, -2, -14, -26, -38$. II) $\\frac{1}{2}, \\frac{5}{4}, 2, \\frac{11}{4}, \\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      221,
+      2147,
+      788,
+      2199
+    ],
+    "category": "List-item",
+    "text": "III) $\\sqrt{1}, \\sqrt{2}, \\sqrt{3}, \\sqrt{4}, \\sqrt{5}$. IV) $1, 4, 7, 10, 13$."
+  },
+  {
+    "bbox": [
+      81,
+      2248,
+      584,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1284,
+      2253,
+      1423,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 71"
+  },
+  {
+    "bbox": [
+      1450,
+      2162,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

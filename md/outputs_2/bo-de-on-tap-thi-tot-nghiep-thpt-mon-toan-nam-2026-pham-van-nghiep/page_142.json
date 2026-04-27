@@ -1,0 +1,189 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      1575,
+      196
+    ],
+    "category": "Text",
+    "text": "vào ngày đầu tháng từ tháng thứ 13 đến tháng thứ 24. Đầu tháng thứ 25 anh Hùng quyết định"
+  },
+  {
+    "bbox": [
+      212,
+      200,
+      1069,
+      243
+    ],
+    "category": "Text",
+    "text": "rút toàn bộ số tiền (cả gốc và lãi) ra để đầu tư kinh doanh."
+  },
+  {
+    "bbox": [
+      583,
+      240,
+      1196,
+      682
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      230,
+      690,
+      1556,
+      777
+    ],
+    "category": "Text",
+    "text": "Hỏi tổng số tiền anh Hùng nhận được là bao nhiêu triệu đồng (làm tròn kết quả đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      832,
+      782,
+      953,
+      823
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      827,
+      398,
+      868
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 504"
+  },
+  {
+    "bbox": [
+      212,
+      871,
+      620,
+      954
+    ],
+    "category": "Formula",
+    "text": "- Từ đề bài: $r_1 = \\frac{4\\%}{12}, r_2 = \\frac{5\\%}{12}$"
+  },
+  {
+    "bbox": [
+      212,
+      959,
+      1431,
+      1125
+    ],
+    "category": "Formula",
+    "text": "- Ta có: $P_1 = 20(1+r_1)^{12} + 20(1+r_1)^{11} + 20(1+r_1)^{10} + \\dots + 20(1+r_1)^3 + 20(1+r_1)^2 + 20(1+r_1)^1$\n$\\rightarrow P_1 = 20(1+r_1)\\frac{(1+r_1)^{12}-1}{r_1}$"
+  },
+  {
+    "bbox": [
+      212,
+      1131,
+      1456,
+      1298
+    ],
+    "category": "Formula",
+    "text": "- Khi đó số tiền rút: $P_2 = P_1(1+r_2)^{12} + 20(1+r_2)^{12} + 20(1+r_2)^{11} + \\dots + 20(1+r_2)^2 + 20(1+r_2)^1$\n$\\rightarrow P_2 = 20(1+r_1)\\frac{(1+r_1)^{12}-1}{r_1}(1+r_2)^{12} + 20(1+r_2)\\frac{(1+r_2)^{12}-1}{r_2} \\approx 504$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      74,
+      1302,
+      1126,
+      1347
+    ],
+    "category": "Text",
+    "text": "**Câu 19:** Một cái chậu待用水形状是碗，碗里有2dm的水。"
+  },
+  {
+    "bbox": [
+      737,
+      1345,
+      1046,
+      1650
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1652,
+      1571,
+      1792
+    ],
+    "category": "Text",
+    "text": "Người ta đặt một ống nhua và cho nước vào chậu với lưu lượng nước không đổi bằng 0,3 lít/phút. Đến phút thứ 6, tốc độ dâng lên của nước trong chậu bằng bao nhiêu dm/phút (làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      832,
+      1794,
+      953,
+      1836
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1840,
+      403,
+      1882
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,05"
+  },
+  {
+    "bbox": [
+      700,
+      1922,
+      1081,
+      2209
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

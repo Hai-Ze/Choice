@@ -1,0 +1,280 @@
+[
+  {
+    "bbox": [
+      668,
+      97,
+      1019,
+      321
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      325,
+      962,
+      376
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho đồng biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      212,
+      386,
+      759,
+      433
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      212,
+      443,
+      426,
+      483
+    ],
+    "category": "List-item",
+    "text": "C. $a > 0, d < 0$."
+  },
+  {
+    "bbox": [
+      212,
+      500,
+      434,
+      539
+    ],
+    "category": "List-item",
+    "text": "D. $a < 0, d > 0$."
+  },
+  {
+    "bbox": [
+      133,
+      556,
+      1543,
+      762
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Giả sử nhiệt độ của một loại đồ uống được xác định theo công thức: $T = 22 + 50e^{-\\frac{1}{8}t}, t \\ge 0$ trong đó $t$ (phút) là khoảng thời gian tính từ lúc pha chế đồ uống đó xong. Hỏi sau bao lâu kể từ lúc pha chế xong thì nhiệt độ của đồ uống đó là $50^\\circ C$? (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      212,
+      771,
+      293,
+      806
+    ],
+    "category": "List-item",
+    "text": "A. 8."
+  },
+  {
+    "bbox": [
+      453,
+      771,
+      518,
+      806
+    ],
+    "category": "List-item",
+    "text": "B. 6"
+  },
+  {
+    "bbox": [
+      822,
+      771,
+      901,
+      806
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1157,
+      771,
+      1222,
+      806
+    ],
+    "category": "List-item",
+    "text": "D. 5"
+  },
+  {
+    "bbox": [
+      133,
+      830,
+      1165,
+      911
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Xét hàm số $y = \\frac{x-1}{2x+1}$ trên $[0;1]$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      232,
+      922,
+      453,
+      1001
+    ],
+    "category": "List-item",
+    "text": "A. $\\min_{[0;1]} y = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      566,
+      922,
+      761,
+      1001
+    ],
+    "category": "List-item",
+    "text": "B. $\\max_{[0;1]} y = 0$."
+  },
+  {
+    "bbox": [
+      881,
+      922,
+      1078,
+      1001
+    ],
+    "category": "List-item",
+    "text": "C. $\\min_{[0;1]} y = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      1205,
+      922,
+      1394,
+      1001
+    ],
+    "category": "List-item",
+    "text": "D. $\\max_{[0;1]} y = 1$."
+  },
+  {
+    "bbox": [
+      133,
+      1023,
+      758,
+      1072
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Đồ thị dưới đây là của hàm số nào?"
+  },
+  {
+    "bbox": [
+      566,
+      1078,
+      1082,
+      1455
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1468,
+      511,
+      1554
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{x^2 + 4x + 5}{x - 2}$."
+  },
+  {
+    "bbox": [
+      822,
+      1468,
+      1117,
+      1554
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{x^2 + 4x + 5}{x + 2}$."
+  },
+  {
+    "bbox": [
+      212,
+      1575,
+      511,
+      1661
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x^2 + 4x + 5}{-x - 2}$."
+  },
+  {
+    "bbox": [
+      822,
+      1575,
+      1117,
+      1661
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{x^2 + 4x + 1}{x + 2}$."
+  },
+  {
+    "bbox": [
+      133,
+      1674,
+      1515,
+      1784
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình chóp tư giác đều $S.ABCD$ có cạnh đáy bằng $a$ và chiều cao bằng $a\\sqrt{2}$. Tính khoảng cách từ $A$ đến mặt bên ($SCD$)."
+  },
+  {
+    "bbox": [
+      232,
+      1797,
+      378,
+      1889
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{2a\\sqrt{2}}{3}$."
+  },
+  {
+    "bbox": [
+      453,
+      1797,
+      593,
+      1889
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{a\\sqrt{10}}{5}$."
+  },
+  {
+    "bbox": [
+      822,
+      1797,
+      951,
+      1889
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{a\\sqrt{2}}{3}$."
+  },
+  {
+    "bbox": [
+      1157,
+      1797,
+      1286,
+      1889
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{a\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      133,
+      1902,
+      1515,
+      2007
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = f(x)$ xác định, có đạo hàm trên $\\mathbb{R}$ và $f'(x)$ có đồ thị như hình vẽ bên dưới"
+  },
+  {
+    "bbox": [
+      1256,
+      2209,
+      1490,
+      2249
+    ],
+    "category": "Page-footer",
+    "text": "2/5 - Mã đề 1702"
+  }
+]

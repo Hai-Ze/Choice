@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      91,
+      95,
+      1373,
+      668
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      700,
+      706,
+      746
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: “Người được chọn là trẻ em”"
+  },
+  {
+    "bbox": [
+      76,
+      762,
+      782,
+      811
+    ],
+    "category": "Text",
+    "text": "suy ra $\\bar{A}$ là biến cố “Người được chọn là người lớn”"
+  },
+  {
+    "bbox": [
+      76,
+      824,
+      935,
+      870
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “Người được chọn thích và xem tiếp bộ phim”"
+  },
+  {
+    "bbox": [
+      76,
+      881,
+      1031,
+      927
+    ],
+    "category": "Text",
+    "text": "Gọi C là biến cố: “Người được chọn thích và không xem tiếp bộ phim”"
+  },
+  {
+    "bbox": [
+      76,
+      940,
+      1048,
+      986
+    ],
+    "category": "Text",
+    "text": "Gọi D là biến cố: “Người được không thích và không xem tiếp bộ phim”"
+  },
+  {
+    "bbox": [
+      76,
+      997,
+      1112,
+      1043
+    ],
+    "category": "Text",
+    "text": "a) Biết người được chọn là trẻ em, xác suất để người đó yêu thích bộ phim là:"
+  },
+  {
+    "bbox": [
+      82,
+      1063,
+      1211,
+      1163
+    ],
+    "category": "Formula",
+    "text": "$$\nP((B \\cup C) | A) = \\frac{P((B \\cup C) \\cap A)}{P(A)} = \\frac{P(B \\cap A) + P(C \\cap A)}{P(A)} = \\frac{0,5 \\cdot 0,7 + 0,3 \\cdot 0,7}{0,7} = 0,8\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1183,
+      819,
+      1229
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để người đó không xem tiếp phần 2 là 0,59."
+  },
+  {
+    "bbox": [
+      82,
+      1247,
+      1122,
+      1306
+    ],
+    "category": "Formula",
+    "text": "$$\nP((C \\cup D) | A) + P((C \\cup D) | \\bar{A}) = 0,3 \\cdot 0,7 + 0,2 \\cdot 0,7 + 0,1 \\cdot 0,3 + 0,7 \\cdot 0,3 = 0,59\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1327,
+      1333,
+      1373
+    ],
+    "category": "Text",
+    "text": "c) Biết người đó sẽ xem tiếp phần 2 của bộ phim, xác suất để người đó là trẻ em lớn hơn 0,85."
+  },
+  {
+    "bbox": [
+      76,
+      1394,
+      481,
+      1440
+    ],
+    "category": "Text",
+    "text": "Nghĩa là ta phải tính $P(A|B)$"
+  },
+  {
+    "bbox": [
+      76,
+      1466,
+      923,
+      1563
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất có điều kiện ta có: $P(A|B) = \\frac{P(AB)}{P(B)}$"
+  },
+  {
+    "bbox": [
+      76,
+      1591,
+      280,
+      1637
+    ],
+    "category": "Text",
+    "text": "+ Tính $P(AB)$"
+  },
+  {
+    "bbox": [
+      76,
+      1663,
+      1033,
+      1760
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(B|A) = \\frac{P(AB)}{P(A)} \\Leftrightarrow P(AB) = P(B|A) \\cdot P(A) = 0,5 \\cdot 0,7 = 0,35\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1789,
+      260,
+      1835
+    ],
+    "category": "Text",
+    "text": "+ Tính $P(B)$"
+  },
+  {
+    "bbox": [
+      76,
+      1863,
+      894,
+      1920
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(B) = P(B|A) + P(B|\\bar{A}) = 0,5 \\cdot 0,7 + 0,2 \\cdot 0,3 = 0,41\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1948,
+      725,
+      2045
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Vậy } P(A|B) = \\frac{P(AB)}{P(B)} = \\frac{0,35}{0,41} \\approx 0,854 > 0,85\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2065,
+      1494,
+      2168
+    ],
+    "category": "Text",
+    "text": "d) Biết người đó yêu thích bộ phim, xác suất để người đó không xem tiếp phần 2 là 0,37 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

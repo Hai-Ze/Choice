@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      216,
+      95,
+      1349,
+      398
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      414,
+      422,
+      457
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      475,
+      1035,
+      525
+    ],
+    "category": "Text",
+    "text": "+ Hàm số đồng biến trên khoảng $(0;1)$, nghịch biến trên khoảng $(1;2)$."
+  },
+  {
+    "bbox": [
+      75,
+      546,
+      1008,
+      593
+    ],
+    "category": "Text",
+    "text": "+甲点 cực đại và giá trị cực đại của hàm số lần lượt là $x=1$ ; $y=1$."
+  },
+  {
+    "bbox": [
+      75,
+      616,
+      1495,
+      746
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một ô tô đang di chuyển với tốc độ $20 (m/s)$ thì người lái xe hàm phanh nên ô tô chạy chậm dần đều với gia tốc $a = -4(m/s^2)$ cho đến khi ô tô停止 hắn."
+  },
+  {
+    "bbox": [
+      75,
+      772,
+      1495,
+      888
+    ],
+    "category": "Text",
+    "text": "a) Sau khi hàm phanh, ô tô chuyển động với vận tốc $v(t) = 20 - 5t (m/s)$ cho đến khi ô tô停止 hắn, trong đó $t$ là thời gian tính bằng giây kể từ lúc hàm phanh."
+  },
+  {
+    "bbox": [
+      75,
+      907,
+      835,
+      956
+    ],
+    "category": "Text",
+    "text": "b) Tốc độ của ô tô sau khi hàm phanh 2 giây là $10(m/s)$"
+  },
+  {
+    "bbox": [
+      75,
+      977,
+      703,
+      1022
+    ],
+    "category": "Text",
+    "text": "c) Sau khi hàm phanh 5 giây thì ô tô停止 hắn."
+  },
+  {
+    "bbox": [
+      75,
+      1036,
+      1083,
+      1081
+    ],
+    "category": "Text",
+    "text": "d) Kể từ khi hàm phanh đến khi停止 hắn, ô tô đi được quăng đường $50m$."
+  },
+  {
+    "bbox": [
+      726,
+      1105,
+      844,
+      1144
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1158,
+      894,
+      1281
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1338,
+      1229,
+      1398
+    ],
+    "category": "Text",
+    "text": "a) Sau khi hàm phanh, ô tô chuyển động với vận tốc là $v(t) = \\int adt = \\int -4dt = -4t + C$."
+  },
+  {
+    "bbox": [
+      75,
+      1421,
+      1053,
+      1471
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 0$, ô tô có vận tốc là $20 (m/s)$ nên $v(0) = 20 \\Leftrightarrow C = 20$."
+  },
+  {
+    "bbox": [
+      75,
+      1499,
+      356,
+      1545
+    ],
+    "category": "Text",
+    "text": "Suy $v(t) = -4t + 20$."
+  },
+  {
+    "bbox": [
+      75,
+      1571,
+      857,
+      1621
+    ],
+    "category": "Text",
+    "text": "b) Tốc độ của ô tô sau khi hàm phanh 2 giây là $v(2) = 12$."
+  },
+  {
+    "bbox": [
+      75,
+      1640,
+      1495,
+      1687
+    ],
+    "category": "Text",
+    "text": "c) Thời điểm ô tô停止 hắn đồng nghĩa với việc vận tốc bằng $0$ nên ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      1706,
+      518,
+      1753
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = 0 \\Leftrightarrow -4t + 20 = 0 \\Leftrightarrow t = 5.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1779,
+      1188,
+      1876
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường ô tô di chuyển được từ lúc hàm phanh là: $S = \\int_{0}^{5} (-4t + 20)dt = 50$."
+  },
+  {
+    "bbox": [
+      75,
+      1955,
+      1495,
+      2058
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một doanh nghiệp có 45% nhân viên là nữ. Trong các nhân viên nữ có 30% nhân viên có bằng đại học, tỉ lệ này trong các nhân viên nam là 25%."
+  },
+  {
+    "bbox": [
+      75,
+      2073,
+      822,
+      2118
+    ],
+    "category": "Text",
+    "text": "a) Tỉ lệ nhân viên nam trong tổng số nhân viên là 55%."
+  },
+  {
+    "bbox": [
+      75,
+      2132,
+      1135,
+      2177
+    ],
+    "category": "Text",
+    "text": "b) Tỉ lệ nhân viên nữ không có bằng đại học trong tổng số nhân viên là 13,5%."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

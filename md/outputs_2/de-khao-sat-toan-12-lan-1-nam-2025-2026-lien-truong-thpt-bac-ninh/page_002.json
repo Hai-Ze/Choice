@@ -1,0 +1,341 @@
+[
+  {
+    "bbox": [
+      153,
+      76,
+      1190,
+      121
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho tam giác $ABC$. Trong các khẳng định sau, khẳng định nào **sai**?"
+  },
+  {
+    "bbox": [
+      192,
+      125,
+      456,
+      206
+    ],
+    "category": "Formula",
+    "text": "A. $\\sin C = \\frac{c \\sin A}{a}$."
+  },
+  {
+    "bbox": [
+      556,
+      145,
+      776,
+      182
+    ],
+    "category": "Formula",
+    "text": "B. $b \\sin B = 2R$."
+  },
+  {
+    "bbox": [
+      920,
+      128,
+      1133,
+      206
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{a}{\\sin A} = 2R$."
+  },
+  {
+    "bbox": [
+      1284,
+      128,
+      1498,
+      206
+    ],
+    "category": "Formula",
+    "text": "D. $\\sin A = \\frac{a}{2R}$."
+  },
+  {
+    "bbox": [
+      153,
+      208,
+      1342,
+      253
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tung một đồng xu cân đối và đồng chất 1 lần. Xác suất để xuất hiện mặt sấp là?"
+  },
+  {
+    "bbox": [
+      192,
+      255,
+      318,
+      289
+    ],
+    "category": "Formula",
+    "text": "A. 0,25."
+  },
+  {
+    "bbox": [
+      556,
+      255,
+      627,
+      288
+    ],
+    "category": "Formula",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      920,
+      255,
+      999,
+      288
+    ],
+    "category": "Formula",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1284,
+      255,
+      1385,
+      289
+    ],
+    "category": "Formula",
+    "text": "D. 0,5."
+  },
+  {
+    "bbox": [
+      153,
+      301,
+      1573,
+      448
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Nếu một vật có khối lượng $m(kg)$ thì lực hấp dẫn $\\vec{P}$ của Trái Đất tác dụng lên vật được xác định theo công thức $\\vec{P} = m\\vec{g}$, trong đó $\\vec{g}$ là gia tốc rơi tự do có độ lớn $g = 9,8 m/s^2$. Tính độ lớn của lực hấp dẫn của Trái Đất tác dụng lên một quả táo có khối lượng 102 gam (Hình)."
+  },
+  {
+    "bbox": [
+      776,
+      476,
+      1100,
+      790
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      800,
+      376,
+      835
+    ],
+    "category": "Formula",
+    "text": "A. 0,9996N."
+  },
+  {
+    "bbox": [
+      556,
+      800,
+      738,
+      835
+    ],
+    "category": "Formula",
+    "text": "B. 0,8996N."
+  },
+  {
+    "bbox": [
+      920,
+      800,
+      1100,
+      835
+    ],
+    "category": "Formula",
+    "text": "C. 0,9196N."
+  },
+  {
+    "bbox": [
+      1284,
+      800,
+      1468,
+      835
+    ],
+    "category": "Formula",
+    "text": "D. 0,5996N."
+  },
+  {
+    "bbox": [
+      153,
+      881,
+      1573,
+      959
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 tới câu 4. Trong mỗi ý a),b),c),d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      998,
+      1541,
+      1157
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một xưởng in có 13 máy in được cài đặt tự động và được giám sát bởi một kỹ sư, mỗi máy in có thể in được 12 ấn phẩm trong 1 giờ. Chi phí cài đặt và bảo dưỡng cho mỗi máy in cho một đợt hàng là 48000 đồng. Chi phí trả cho kỹ sư giám sát là 28000 đồng/giờ. Đợt hàng này xưởng in nhận 2280 ấn phẩm. Gọi $x$ là số lượng máy in cần sử dụng. Khi đó:"
+  },
+  {
+    "bbox": [
+      192,
+      1155,
+      1068,
+      1197
+    ],
+    "category": "Text",
+    "text": "a) Chi phí cài đặt và bảo dưỡng cho đợt hàng là $48x$ nghìn đồng."
+  },
+  {
+    "bbox": [
+      192,
+      1195,
+      1011,
+      1239
+    ],
+    "category": "Text",
+    "text": "b) Số lượng ấn phẩm in được trong một giờ là $12x$ ấn phẩm"
+  },
+  {
+    "bbox": [
+      192,
+      1239,
+      856,
+      1301
+    ],
+    "category": "Text",
+    "text": "c) Thời gian để in xong 2280 ấn phẩm là $\\frac{190}{x}$ giờ"
+  },
+  {
+    "bbox": [
+      192,
+      1298,
+      982,
+      1342
+    ],
+    "category": "Text",
+    "text": "d) Số máy cần sử dụng để tổng chi phí nhỏ nhất là 10 máy."
+  },
+  {
+    "bbox": [
+      153,
+      1344,
+      798,
+      1395
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $f(x) = x^3 - 27x + 8$. Khi đó"
+  },
+  {
+    "bbox": [
+      192,
+      1402,
+      468,
+      1448
+    ],
+    "category": "Formula",
+    "text": "a) $f'(x) = 3x^2 - 27$."
+  },
+  {
+    "bbox": [
+      192,
+      1461,
+      930,
+      1512
+    ],
+    "category": "Text",
+    "text": "b) Tập nghiệm của phương trình $f'(x) = 0$ là $S = \\{3\\}$."
+  },
+  {
+    "bbox": [
+      192,
+      1525,
+      384,
+      1571
+    ],
+    "category": "Formula",
+    "text": "c) $f(3) = -46$"
+  },
+  {
+    "bbox": [
+      192,
+      1583,
+      854,
+      1635
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của $f(x)$ trên $[-4;4]$ là $-46$"
+  },
+  {
+    "bbox": [
+      153,
+      1645,
+      620,
+      1694
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = 3^x \\cdot \\ln x$"
+  },
+  {
+    "bbox": [
+      192,
+      1696,
+      755,
+      1740
+    ],
+    "category": "Text",
+    "text": "a) tập xác định của hàm số đã cho $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      192,
+      1744,
+      522,
+      1833
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = 3^x \\left( \\ln x + \\frac{1}{x} \\right)$"
+  },
+  {
+    "bbox": [
+      192,
+      1844,
+      748,
+      1892
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đã cho đồng biến trên $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      153,
+      1898,
+      1476,
+      2044
+    ],
+    "category": "Text",
+    "text": "d) Có 18 số nguyên $x$ sao cho ứng với mỗi số nguyên $x$ có đúng 3 số nguyên $y$ thỏa mãn bất phương trình $3^{y^2 - \\frac{|x|}{3}} \\le \\log_{y^2+3} \\left( \\frac{|x|}{3} + 3 \\right)$"
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      313,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1001"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1612,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

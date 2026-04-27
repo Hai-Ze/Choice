@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      158,
+      122,
+      851,
+      167
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên của mẫu số liệu trên bằng 25."
+  },
+  {
+    "bbox": [
+      158,
+      162,
+      1414,
+      205
+    ],
+    "category": "Text",
+    "text": "b) Nếu so sánh theo khoảng tức phân vị thì học sinh trường Y có tốc độ làm bài đồng đều hơn."
+  },
+  {
+    "bbox": [
+      158,
+      200,
+      1544,
+      244
+    ],
+    "category": "Text",
+    "text": "c) Phương sai của mẫu số liệu ghép nhóm của trường X (Làm tròn đến chữ số hàng phần chục) là 37,8."
+  },
+  {
+    "bbox": [
+      158,
+      244,
+      1593,
+      289
+    ],
+    "category": "Text",
+    "text": "d) Độ lệch chuẩn của mẫu số liệu ghép nhóm của trường Y (Làm tròn đến chữ số hàng phần chục) là 33,9."
+  },
+  {
+    "bbox": [
+      158,
+      334,
+      285,
+      372
+    ],
+    "category": "Text",
+    "text": "Lời giải:"
+  },
+  {
+    "bbox": [
+      160,
+      369,
+      1178,
+      793
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Trường X</th><th>Trường Y</th></tr></thead><tbody><tr><td>x&#772;</td><td>81,981</td><td>8275/102 ≈ 81,127</td></tr><tr><td>s<sup>2</sup></td><td>37,8</td><td>33,9</td></tr><tr><td>s</td><td>6,2</td><td>5,822</td></tr><tr><td>Q<sub>1</sub></td><td>313/4</td><td>925/12 ≈ 77,083</td></tr><tr><td>Q<sub>3</sub></td><td>3133/36</td><td>5325/62 ≈ 85,887</td></tr><tr><td>ΔQ</td><td>8,78</td><td>8,8037</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      158,
+      791,
+      1282,
+      835
+    ],
+    "category": "Text",
+    "text": "PHẦN III. Câu hỏi trắc nghiệm trả lời ngắn. Thí sinh trả lời từ Câu 1 đến Câu 6."
+  },
+  {
+    "bbox": [
+      158,
+      835,
+      1625,
+      1045
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hình chóp $S. ABCD$ có đáy $ABCD$ là hình thoi tâm $O$, cạnh $a$, $\\widehat{ABC} = 60^\\circ$. Biết rằng $SO \\perp (ABCD)$, $SO = \\frac{3a}{2}$. Khoảng cách từ $A$ đến mặt phẳng $(SCD)$ bằng $\\frac{m\\sqrt{13}a}{n}$ với $\\frac{m}{n}$ là phân số tối简, $m > 0, n > 0$. Giá trị $m+n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      158,
+      1045,
+      321,
+      1079
+    ],
+    "category": "Text",
+    "text": "Trả lời: 16."
+  },
+  {
+    "bbox": [
+      158,
+      1091,
+      787,
+      1572
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      787,
+      1554,
+      1028,
+      1597
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải:"
+  },
+  {
+    "bbox": [
+      163,
+      1603,
+      681,
+      1656
+    ],
+    "category": "Formula",
+    "text": "$$\nd(A;(SCD)) = 2d(O;(SCD)) = 2OH\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      1668,
+      883,
+      1767
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Delta ABC \\text{ đều cạnh } a, \\text{ suy ra } OC = \\frac{a}{2}, OB = \\frac{a\\sqrt{3}}{2} = OD\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      1781,
+      521,
+      1876
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{OK^2} = \\frac{1}{OC^2} + \\frac{1}{OD^2} = \\frac{16}{3a^2}\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      1928,
+      743,
+      2028
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{OH^2} = \\frac{1}{OS^2} + \\frac{1}{OK^2} = \\frac{52}{9a^2} \\Rightarrow OH = \\frac{3\\sqrt{13}a}{26}\n$$"
+  },
+  {
+    "bbox": [
+      158,
+      2042,
+      602,
+      2132
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(A;(SCD)) = 2OH = \\frac{3a}{\\sqrt{13}}\n$$"
+  }
+]

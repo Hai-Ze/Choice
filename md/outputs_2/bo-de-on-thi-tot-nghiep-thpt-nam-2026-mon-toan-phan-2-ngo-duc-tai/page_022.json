@@ -1,0 +1,239 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      139,
+      943,
+      235
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số bậc ba $y = f(x)$ có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      222,
+      248,
+      933,
+      348
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $f(x)$ nghịch biến trên khoảng $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      222,
+      351,
+      933,
+      453
+    ],
+    "category": "List-item",
+    "text": "b) Trên đoạn $[-2; 2]$ hàm số $f(x)$ đạt giá trị lớn nhất bằng 2."
+  },
+  {
+    "bbox": [
+      222,
+      462,
+      760,
+      510
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $f(x)$ có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      222,
+      514,
+      564,
+      564
+    ],
+    "category": "List-item",
+    "text": "d) $f(x) = x^3 - 3x + 1$."
+  },
+  {
+    "bbox": [
+      969,
+      148,
+      1438,
+      564
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      586,
+      1456,
+      797
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho một vật đang chuyển động thẳng đều với vận tốc bằng 108 (km/h) thì đi vào vùng có lực cản gây ra cho vật một gia tốc $a = -0,5v$ (m/s²) với $v$ là vận tốc của vật và tính bằng m/s. Trong bài toán ta có vận tốc $v > 0$ và gốc thời gian tính từ lúc vật bắt đầu đi vào vùng có lực cản."
+  },
+  {
+    "bbox": [
+      222,
+      793,
+      1218,
+      883
+    ],
+    "category": "List-item",
+    "text": "a) $\\ln|v(t)|$ đạo hàm theo biến thời gian $t$ cho ta biểu thức là $\\frac{v'(t)}{v(t)}$."
+  },
+  {
+    "bbox": [
+      222,
+      883,
+      997,
+      933
+    ],
+    "category": "List-item",
+    "text": "b) Biểu thức vận tốc của vật là: $v(t) = e^{-0,5t}$ (m/s)."
+  },
+  {
+    "bbox": [
+      222,
+      942,
+      1448,
+      1040
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường vật đi được trong 2 giây đầu tiên trong vùng lực cản là 37,9 (m/s)."
+  },
+  {
+    "bbox": [
+      222,
+      1044,
+      1448,
+      1147
+    ],
+    "category": "List-item",
+    "text": "d) Với giả thiết vận tốc nhỏ hơn 0,1 (m/s) thì vật停止 lại. Tổng quăng đường vật đi được trong vùng lực cản tính theo mét (làm tròn đến hàng đơn vị) là 60 m."
+  },
+  {
+    "bbox": [
+      193,
+      1166,
+      1456,
+      1483
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian xét một hệ trục tọa độ $Oxyz$ với đơn vị trên mỗi trục lấy theo mét. Một chiếc máy bay không người lái xuất phát từ điểm $O$ và bay với tốc độ không đổi, vecto thể hiện độ dịch chuyển của máy bay sau mỗi giây là $\\vec{u} = (4; -1; 3)$. cùng thời điểm, chiếc máy bay không người lái thứ hai xuất phát từ điểm $A(24; 12; 18)$ và bay với tốc độ không đổi, vecto thể hiện độ dịch chuyển của máy bay sau mỗi giây là $\\vec{v} = (-2; 5; -3)$."
+  },
+  {
+    "bbox": [
+      222,
+      1478,
+      1337,
+      1555
+    ],
+    "category": "List-item",
+    "text": "a) Chiếc máy bay thứ nhất di chuyển trên đường thẳng $d: \\frac{x}{4} = \\frac{y}{1} = \\frac{z}{-3}$."
+  },
+  {
+    "bbox": [
+      222,
+      1552,
+      1448,
+      1652
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng cách giữa hai chiếc máy bay sau khi xuất phát được 2 giây được làm tròn đến hàng phần mười là 27,5 mét."
+  },
+  {
+    "bbox": [
+      222,
+      1661,
+      1212,
+      1710
+    ],
+    "category": "List-item",
+    "text": "c) Hai chiếc máy bay có thể va catch với nhau sau khi xuất phát."
+  },
+  {
+    "bbox": [
+      222,
+      1715,
+      1448,
+      1819
+    ],
+    "category": "List-item",
+    "text": "d) Trong 10 giây đầu tiên sau khi xuất phát, khoảng cách lớn nhất giữa hai chiếc máy bay được làm tròn đến hàng phần mười là 90,8 mét."
+  },
+  {
+    "bbox": [
+      213,
+      1873,
+      1383,
+      1927
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      193,
+      1958,
+      1456,
+      2196
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình lăng trụ $ABC.A'B'C'$ có đáy là tam giác đều cạnh 2. Hình chiếu vuông góc của $A'$ lên mặt phẳng ($ABC$) trùng với trọng tâm tam giác $ABC$. Biết khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng $\\frac{\\sqrt{3}}{2}$. Tính thể tích $V$ của khối lăng trụ $ABC.A'B'C'$ (kết quả làm tròn đến hàng phần trăm). KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      2142,
+      1453,
+      2201
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1453,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 21"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      610,
+      120,
+      1190,
+      388
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$+$</td><td></td></tr><tr><td>$y$</td><td>$2$</td><td>$+\\infty$</td><td>$2$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      404,
+      452,
+      484
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{2x+3}{x+1}$."
+  },
+  {
+    "bbox": [
+      586,
+      404,
+      776,
+      484
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{2x-1}{x-1}$."
+  },
+  {
+    "bbox": [
+      901,
+      404,
+      1091,
+      484
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{2x-1}{x+1}$."
+  },
+  {
+    "bbox": [
+      1216,
+      404,
+      1407,
+      484
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{x+1}{2x-1}$."
+  },
+  {
+    "bbox": [
+      843,
+      494,
+      957,
+      531
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      533,
+      1550,
+      670
+    ],
+    "category": "Text",
+    "text": "Hàm số có tiệm cận đứng là $x = -1$, tiệm cận ngang là $y = 2$ và đồng biến trên các khoảng $(-\\infty; -1)$ và $(-1; +\\infty)$ nên $y = \\frac{2x-1}{x+1}$."
+  },
+  {
+    "bbox": [
+      114,
+      696,
+      854,
+      736
+    ],
+    "category": "Text",
+    "text": "Câu 6: Phương trình $1 - \\cos 2x = 0$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      251,
+      771,
+      529,
+      857
+    ],
+    "category": "List-item",
+    "text": "A. $\\left\\{\\frac{\\pi}{4} + k\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      586,
+      771,
+      796,
+      857
+    ],
+    "category": "List-item",
+    "text": "B. $\\{k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      901,
+      771,
+      1127,
+      857
+    ],
+    "category": "List-item",
+    "text": "C. $\\{k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      1216,
+      771,
+      1505,
+      857
+    ],
+    "category": "List-item",
+    "text": "D. $\\left\\{\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      843,
+      869,
+      957,
+      906
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      912,
+      936,
+      949
+    ],
+    "category": "Formula",
+    "text": "$$\n1 - \\cos 2x = 0 \\Leftrightarrow \\cos 2x = 1 \\Leftrightarrow 2x = k2\\pi \\Leftrightarrow x = k\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      979,
+      1550,
+      1092
+    ],
+    "category": "Text",
+    "text": "Câu 7: Cho hàm số $y = f(x)$ có đạo hàm là $f'(x) = x^2(x+1)^2(2x-1)$. Số điểm cực trị của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      251,
+      1133,
+      320,
+      1167
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      586,
+      1133,
+      653,
+      1167
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      901,
+      1133,
+      968,
+      1167
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1216,
+      1133,
+      1283,
+      1167
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      843,
+      1177,
+      957,
+      1214
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1238,
+      846,
+      1462
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = 0 \\Leftrightarrow \\begin{cases} x^2 = 0 \\\\ (x+1)^2 = 0 \\\\ 2x-1 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = -1 \\\\ x = \\frac{1}{2} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1491,
+      1540,
+      1618
+    ],
+    "category": "Text",
+    "text": "Trong đó ta thấy $x = 0$, $x = -1$ là nghiệm kép, $x = \\frac{1}{2}$ là nghiệm đơn nên đồ thị hàm số có 1 điểm cực trị."
+  },
+  {
+    "bbox": [
+      114,
+      1642,
+      1550,
+      1754
+    ],
+    "category": "Text",
+    "text": "Câu 8: Trong không gian với hệ tọa độ $Oxyz$, phương trình mặt phẳng đi qua điểm $M(1; 2; -3)$ và có một vecto pháp tuyến $\\vec{n} = (1; -2; 3)$ là"
+  },
+  {
+    "bbox": [
+      251,
+      1795,
+      567,
+      1835
+    ],
+    "category": "List-item",
+    "text": "A. $x - 2y + 3z + 12 = 0$."
+  },
+  {
+    "bbox": [
+      901,
+      1795,
+      1197,
+      1835
+    ],
+    "category": "List-item",
+    "text": "B. $x - 2y - 3z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      1848,
+      567,
+      1885
+    ],
+    "category": "List-item",
+    "text": "C. $x - 2y + 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      901,
+      1848,
+      1197,
+      1885
+    ],
+    "category": "List-item",
+    "text": "D. $x - 2y - 3z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      843,
+      1897,
+      957,
+      1934
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1961,
+      1540,
+      2073
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình mặt phẳng đi qua điểm $M(1; 2; -3)$ và có một vecto pháp tuyến $\\vec{n} = (1; -2; 3)$ là: $1(x-1) - 2(y-2) + 3(z+3) = 0 \\Leftrightarrow x - 2y + 3z + 12 = 0$."
+  },
+  {
+    "bbox": [
+      114,
+      2097,
+      1091,
+      2142
+    ],
+    "category": "Text",
+    "text": "Câu 9: Đường cong trong hình sau là đồ thị của hàm số nào dưới đây?"
+  }
+]

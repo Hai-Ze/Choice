@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      686,
+      131,
+      1045,
+      451
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      482,
+      493,
+      518
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      541,
+      924,
+      579
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      598,
+      321,
+      637
+    ],
+    "category": "Text",
+    "text": "Đáp án: 20"
+  },
+  {
+    "bbox": [
+      156,
+      652,
+      371,
+      695
+    ],
+    "category": "Text",
+    "text": "Điều kiện $x > 0$"
+  },
+  {
+    "bbox": [
+      156,
+      717,
+      690,
+      761
+    ],
+    "category": "Text",
+    "text": "Ta có thể tích của chiếc hộp là $V = x^2.h$"
+  },
+  {
+    "bbox": [
+      156,
+      783,
+      1271,
+      864
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết thể tích chiếc hộp bằng $4000 \\text{cm}^3$ nên ta có $x^2.h = 4000 \\Leftrightarrow h = \\frac{4000}{x^2}$"
+  },
+  {
+    "bbox": [
+      156,
+      886,
+      1411,
+      969
+    ],
+    "category": "Text",
+    "text": "Ta có diện tích xung quanh và đáy của chiếc hộp là $S = x^2 + 4xh = x^2 + 4x \\cdot \\frac{4000}{x^2} = x^2 + \\frac{16000}{x}$"
+  },
+  {
+    "bbox": [
+      156,
+      993,
+      680,
+      1074
+    ],
+    "category": "Text",
+    "text": "Ta khảo sát hàm số $f(x) = x^2 + \\frac{16000}{x}$"
+  },
+  {
+    "bbox": [
+      156,
+      1099,
+      797,
+      1181
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(x) = 2x - \\frac{16000}{x^2}$, $f'(x) = 0 \\Leftrightarrow x = 20$"
+  },
+  {
+    "bbox": [
+      188,
+      1215,
+      1072,
+      1487
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1526,
+      879,
+      1575
+    ],
+    "category": "Text",
+    "text": "Ta có $x = 20(\\text{cm})$ thì chiếc hộp làm ra tốn ít bìa nhất."
+  },
+  {
+    "bbox": [
+      156,
+      1596,
+      1574,
+      2043
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một cuộc thi về “bữa ăn dinh dưỡng”, ban tổ chức yêu cầu để đảm bảo lượng dinh dưỡng hằng ngày thì mỗi gia đình có 4 thành viên cần ít nhất 900 đơn vị protêin và 400 đơn vị lipít trong thức ăn hằng ngày. Mỗi kg thịt bò chứa 800 đơn vị protêin và 200 đơn vị lipít, $1(\\text{kg})$ thịt heo chứa 600 đơn vị protêin và 400 đơn vị lipít. Biết rằng người nội trợ chỉ được chi tối đa 200 ngàn đồng để mua thịt. Biết rằng $1(\\text{kg})$ thịt bò giá 200 ngàn đồng, $1(\\text{kg})$ thịt heo giá 100 ngàn đồng. Người nội trợ nên mua $x(\\text{kg})$ thịt bò và $y(\\text{kg})$ thịt heo để phí thấp nhất cho khẩu phần thức ăn mà vẫn đảm bảo chất dinh dưỡng, khi đó hãy tìm $x + 2y$."
+  },
+  {
+    "bbox": [
+      156,
+      2067,
+      493,
+      2103
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      2126,
+      924,
+      2164
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2183,
+      301,
+      2222
+    ],
+    "category": "Text",
+    "text": "Đáp án: 3"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

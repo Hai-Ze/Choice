@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      393,
+      120,
+      1446,
+      886
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      928,
+      340,
+      966
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      252,
+      992,
+      625,
+      1073
+    ],
+    "category": "Text",
+    "text": "Ta có $V_{S.ABCD} = \\frac{1}{3}SH \\cdot S_{ABCD}$."
+  },
+  {
+    "bbox": [
+      252,
+      1102,
+      1219,
+      1184
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{ABCD} = 4^2 = 16, \\quad HB = \\frac{3}{4}AB = 3, \\quad \\tan 30^\\circ = \\frac{SH}{HB} \\Rightarrow SH = 3 \\cdot \\tan 30^\\circ = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1209,
+      1089,
+      1303
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } V_{S.ABCD} = \\frac{1}{3} \\cdot \\sqrt{3} \\cdot 16 = \\frac{16\\sqrt{3}}{3} \\text{ mà } V_{S.ABC} = \\frac{1}{2}V_{S.ABCD} = \\frac{8\\sqrt{3}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1328,
+      373,
+      1366
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      311,
+      1388,
+      911,
+      1428
+    ],
+    "category": "Text",
+    "text": "Dựng $HF \\perp CD$ tại $F$ và $HN \\perp SF$ tại $N$."
+  },
+  {
+    "bbox": [
+      252,
+      1450,
+      1289,
+      1502
+    ],
+    "category": "Text",
+    "text": "Ta có $AB // (SCD)$ nên $d(AB, SD) = d(AB, (SCD)) = d(H, (SCD)) = HN$."
+  },
+  {
+    "bbox": [
+      252,
+      1529,
+      1018,
+      1614
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SHF$ vuông tại $H$ có: $\\frac{1}{HS^2} + \\frac{1}{HF^2} = \\frac{1}{HN^2}$"
+  },
+  {
+    "bbox": [
+      252,
+      1637,
+      786,
+      1756
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\frac{1}{(\\sqrt{3})^2} + \\frac{1}{4^2} = \\frac{1}{HN^2} \\Rightarrow HN = \\frac{4\\sqrt{57}}{19}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1785,
+      589,
+      1877
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(AB, SD) = \\frac{4\\sqrt{57}}{19}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1902,
+      373,
+      1940
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      311,
+      1961,
+      518,
+      2008
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } SH = \\sqrt{3}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      2038,
+      373,
+      2076
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      311,
+      2098,
+      745,
+      2138
+    ],
+    "category": "Text",
+    "text": "Đặt hệ trục $Oxyz$ như hình trên."
+  },
+  {
+    "bbox": [
+      252,
+      2167,
+      1037,
+      2226
+    ],
+    "category": "Formula",
+    "text": "$$\nH(0;0;0), \\ S(0;0;\\sqrt{3}), \\ B(3;0;0), \\ C(3;4;0), \\ K(-1;3;0)\n$$"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      202,
+      139,
+      1264,
+      182
+    ],
+    "category": "Text",
+    "text": "Do $a, b, c$ lập thành cấp số cộng công sai $d = 2$ nên $b = a + 2$ và $c = a + 4$."
+  },
+  {
+    "bbox": [
+      202,
+      199,
+      821,
+      244
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(ABC)$ đi qua $M(2; -2; 3)$ nên:"
+  },
+  {
+    "bbox": [
+      299,
+      297,
+      1400,
+      498
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\frac{2}{a} - \\frac{2}{a+2} + \\frac{3}{a+4} &= 1 \\Leftrightarrow \\frac{4}{a(a+2)} + \\frac{3}{a+4} = 1 \\\\\n\\Leftrightarrow 4(a+4) + 3(a^2 + 2a) &= a(a+2)(a+4) \\Leftrightarrow 3a^2 + 10a + 16 = a^3 + 6a^2 + 8a \\\\\n\\Leftrightarrow a^3 + 3a^2 - 2a - 16 &= 0 \\Leftrightarrow (a-2)(a^2 + 5a + 8) = 0\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      521,
+      699,
+      561
+    ],
+    "category": "Text",
+    "text": "Vì $a > 0$ nên $a = 2 \\Rightarrow b = 4, c = 6$."
+  },
+  {
+    "bbox": [
+      202,
+      565,
+      1122,
+      643
+    ],
+    "category": "Text",
+    "text": "Phương trình $(ABC) : \\frac{x}{2} + \\frac{y}{4} + \\frac{z}{6} = 1 \\Leftrightarrow 6x + 3y + 2z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      652,
+      794,
+      695
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ $D(1; 1; 1)$ đến $(ABC)$ là:"
+  },
+  {
+    "bbox": [
+      547,
+      755,
+      1148,
+      842
+    ],
+    "category": "Formula",
+    "text": "$$\nd(D, (ABC)) = \\frac{|6.1 + 3.1 + 2.1 - 12|}{\\sqrt{6^2 + 3^2 + 2^2}} = \\frac{1}{7}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      854,
+      766,
+      894
+    ],
+    "category": "Text",
+    "text": "Suy ra $m = 1, n = 7 \\Rightarrow T = m + n = 8$."
+  },
+  {
+    "bbox": [
+      154,
+      914,
+      1545,
+      1000
+    ],
+    "category": "Text",
+    "text": "c) **Đúng.** Với $A(a; 0; 0)$, $B(0; b; 0)$, $C(0; 0; c)$, trực tâm $H$ của tam giác $ABC$ có tính chất $OH \\perp (ABC)$."
+  },
+  {
+    "bbox": [
+      202,
+      1011,
+      1481,
+      1063
+    ],
+    "category": "Text",
+    "text": "Do đó mặt phẳng $(ABC)$ nhận $\\overrightarrow{OH} = (1; 1; 1)$ làm vectơ pháp tuyến và đi qua $H(1; 1; 1)$:"
+  },
+  {
+    "bbox": [
+      202,
+      1081,
+      1545,
+      1124
+    ],
+    "category": "Text",
+    "text": "$1(x - 1) + 1(y - 1) + 1(z - 1) = 0 \\Leftrightarrow x + y + z - 3 = 0$. Khi đó $a = b = c = 3 > 0$ (thỏa mãn)."
+  },
+  {
+    "bbox": [
+      202,
+      1142,
+      1545,
+      1185
+    ],
+    "category": "Text",
+    "text": "d) **Sai.** Nếu $G(1; 2; 3)$ là trọng tâm tam giác $ABC$ thì: $a = 3x_G = 3, b = 3y_G = 6, c = 3z_G = 9$."
+  },
+  {
+    "bbox": [
+      202,
+      1193,
+      1311,
+      1268
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng $(ABC)$ là: $\\frac{x}{3} + \\frac{y}{6} + \\frac{z}{9} = 1 \\Leftrightarrow 6x + 3y + 2z - 18 = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      1277,
+      1142,
+      1320
+    ],
+    "category": "Text",
+    "text": "Phương trình ở đề bài sai dấu của hệ số tự do ($+18$ thay vì $-18$)."
+  },
+  {
+    "bbox": [
+      154,
+      1338,
+      1548,
+      1515
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho một bể chứa nước và ban đầu chưa có nước. Người ta bắt đầu bơm nước vào bể với lưu lượng là $L_1(t) = 6t + 3$ (lít/phút). Cùng lúc đó, do bể có một vết nứt dưới đáy nên nước bị ch洗 ra ngoài với lưu lượng là $L_2(t) = 2t$ (lít/phút). Dung tích tối đa của bể là 2015 lít. Hỏi trong cácoorh thought"
+  },
+  {
+    "bbox": [
+      189,
+      1532,
+      1239,
+      1575
+    ],
+    "category": "List-item",
+    "text": "a) Nếu bơm được 30 phút thì stop thì lượng nước trong bể chưa đầy bể."
+  },
+  {
+    "bbox": [
+      189,
+      1588,
+      1162,
+      1631
+    ],
+    "category": "List-item",
+    "text": "b) Thể tích nước được bơm vào bể trong 5 phút đầu tiên là 90 (lít)."
+  },
+  {
+    "bbox": [
+      189,
+      1644,
+      1110,
+      1687
+    ],
+    "category": "List-item",
+    "text": "c) Thể tích nước ch洗 ra từ bể trong 5 phút đầu tiên là 10 (lít)."
+  },
+  {
+    "bbox": [
+      189,
+      1700,
+      1545,
+      1786
+    ],
+    "category": "List-item",
+    "text": "d) Khi nước ch洗 vào vừa làm đầy bể, thì đã có nhiều hơn 900 lít nước bị ch洗 ra ngoài (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      154,
+      1802,
+      1294,
+      1864
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $V(t)$ là lượng nước có trong bể tại thời điểm $t$ (phút)."
+  },
+  {
+    "bbox": [
+      154,
+      1864,
+      751,
+      1904
+    ],
+    "category": "Text",
+    "text": "Tốc độ biến thiên lượng nước trong bể là:"
+  },
+  {
+    "bbox": [
+      444,
+      1920,
+      1252,
+      1962
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(t) = L_1(t) - L_2(t) = (6t + 3) - 2t = 4t + 3 \\text{ (lít/phút).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1968,
+      1386,
+      2011
+    ],
+    "category": "Text",
+    "text": "Vì ban đầu bể không có nước nên $V(0) = 0$. Thể tích nước trong bể tại thời điểm $t$ là:"
+  },
+  {
+    "bbox": [
+      474,
+      2019,
+      1223,
+      2110
+    ],
+    "category": "Formula",
+    "text": "$$\nV(t) = \\int_{0}^{t} (4x + 3)dx = (2x^2 + 3x)\\Big|_{0}^{t} = 2t^2 + 3t \\text{ (lít).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2129,
+      474,
+      2169
+    ],
+    "category": "Text",
+    "text": "Xét từng thought"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "62"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưuidd và Biên soan: Lê Minh Kha - 0399653362"
+  }
+]

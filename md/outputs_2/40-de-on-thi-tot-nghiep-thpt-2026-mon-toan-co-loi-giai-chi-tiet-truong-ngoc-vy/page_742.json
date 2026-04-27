@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      98,
+      320,
+      135
+    ],
+    "category": "Page-header",
+    "text": "Đáp án: 75"
+  },
+  {
+    "bbox": [
+      550,
+      158,
+      1185,
+      600
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      613,
+      1574,
+      721
+    ],
+    "category": "Text",
+    "text": "Gắn vào hình chữ nhật $ABCD$ hệ trục tọa độ $Oxy$ với gốc $O$ trùng với giao hai đường chéo, các điểm $M, N$ nằm trên $Ox$ (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      156,
+      742,
+      1572,
+      853
+    ],
+    "category": "Text",
+    "text": "Do $MN$ là trục đối xứng của代 (R) nên khối tròn xoay được tạo thành khi quay代 (R) quanh trục $MN$ trùng với khối tròn xoay được tạo thành khi quay phần (R) nằm phía trên $MN$ quanh $MN$."
+  },
+  {
+    "bbox": [
+      156,
+      874,
+      1572,
+      991
+    ],
+    "category": "Text",
+    "text": "Gọi $V_1, V_2, V$ tương ứng là thể tích của các khối tròn xoay được tạo thành khi quay Elips (E), hình tròn (C) và代 (R) quanh $MN$ (hay quanh $Ox$), ta có $V = V_1 - V_2$."
+  },
+  {
+    "bbox": [
+      156,
+      1018,
+      1314,
+      1106
+    ],
+    "category": "Text",
+    "text": "Elip (E) có các bán trục $a = \\frac{1}{2}AD = 5, b = \\frac{1}{2}AB = 3$ nên có phương trình $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$."
+  },
+  {
+    "bbox": [
+      156,
+      1128,
+      956,
+      1234
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } V_1 = \\pi \\int_{-5}^{5} 9 \\left(1 - \\frac{x^2}{25}\\right) dx = \\pi \\left(9x - \\frac{9}{25}x^3\\right) \\Big|_{-5}^{5} = 60\\pi (\\text{cm}^3).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1253,
+      1572,
+      1405
+    ],
+    "category": "Text",
+    "text": "Hình tròn (C) có tâm tại $O$, bán kính $R = 3$ khi quay quanh $MN$ tạo thành khối cầu tâm $O$, bán kính bằng 3. Do đó $V_2 = \\frac{4}{3}\\pi \\cdot 3^3 = 36\\pi (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      156,
+      1428,
+      1015,
+      1475
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của vật trang trí đó là: $V = V_1 - V_2 = 24\\pi \\approx 75 (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      156,
+      1495,
+      1574,
+      1776
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hai nhà máy sản xuất đặt tại các vị trí $A$ và $B$ cách nhau $4\\text{km}$. Một nhà máy cung cấp nước được đặt ở vị trí $C$ nằm trên đường trung trực của đoạn thẳng $AB$, cách trung điểm $M$ của đoạn thẳng $AB$ một khoảng $4\\text{km}$. Người ta muốn làm một đường ống dẫn nước từ nhà máy nước $C$ đến một vị trí $I$ nằm giữa đoạn thẳng $MC$ sau đó chia ra hai nhánh dẫn tới hai nhà máy $A$ và $B$ (hình vẽ). Tổng độ dài đường ống dẫn nước nhỏ nhất bằng bao nhiêu $\\text{km}$? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      600,
+      1788,
+      1127,
+      2147
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      2168,
+      493,
+      2204
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5"
+  }
+]

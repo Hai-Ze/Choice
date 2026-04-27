@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      155,
+      1456,
+      366
+    ],
+    "category": "Text",
+    "text": "sau đó đạp phanh khẩn cấp. Kể từ thời điểm này, ô tô chuyển động chậm dẫn đều với tốc độ $v(t) = -10t + 15$ (m/s), trong đó $t$ là thời gian tính bằng giây kể từ lúc đạp phanh. Gọi $s(t)$ là quăng đường xe ô tô đi được trong $t$ (giây) kể từ lúc đạp phanh."
+  },
+  {
+    "bbox": [
+      222,
+      376,
+      1448,
+      474
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường $s(t)$ mà xe ô tô đi được trong thời gian $t$ (giây) là một nguyên hàm của hàm số $v(t)$."
+  },
+  {
+    "bbox": [
+      222,
+      483,
+      595,
+      529
+    ],
+    "category": "Formula",
+    "text": "b) $s(t) = -5t^2 + 15t$ (m)."
+  },
+  {
+    "bbox": [
+      222,
+      538,
+      1324,
+      585
+    ],
+    "category": "Text",
+    "text": "c) Thời gian kể từ lúc đạp phanh đến khi xe ô tô停止 hẩn là 20 giây."
+  },
+  {
+    "bbox": [
+      222,
+      595,
+      1133,
+      639
+    ],
+    "category": "Text",
+    "text": "d) Xe ô tô đó không va vào chướng ngại vật ở trên đường."
+  },
+  {
+    "bbox": [
+      192,
+      665,
+      1456,
+      1038
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trước khi đưa một loại sản phẩm ra thị trường, người ta đã phỏng vấn ngẫu nhiên 200 khách hàng về sản phẩm đó. Kết quả thống kê như sau: có 105 người trả lời “sẽ mua”; có 95 người trả lời “không mua”. Kinh nghiệm cho thấy tỉ lệ khách hàng thực sự sẽ mua sản phẩm tương ứng với những cách trả lời “sẽ mua” và “không mua” lần lượt là 70% và 30%. Gọi $A$ là biến cố “Người được phỏng vấn thực sự sẽ mua sản phẩm”. Gọi $B$ là biến cố “Người được phỏng vấn trả lời sẽ mua sản phẩm”."
+  },
+  {
+    "bbox": [
+      222,
+      1030,
+      802,
+      1111
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(B) = \\frac{21}{40}$ và $P(\\bar{B}) = \\frac{19}{40}$."
+  },
+  {
+    "bbox": [
+      222,
+      1111,
+      836,
+      1158
+    ],
+    "category": "Text",
+    "text": "b) Xác suất có điều kiện $P(A | B) = 0,3$."
+  },
+  {
+    "bbox": [
+      222,
+      1165,
+      602,
+      1211
+    ],
+    "category": "Text",
+    "text": "c) Xác suất $P(A) = 0,51$."
+  },
+  {
+    "bbox": [
+      222,
+      1219,
+      1448,
+      1375
+    ],
+    "category": "Text",
+    "text": "d) Trong số những người được phỏng vấn thực sự sẽ mua sản phẩm có 70% người đã trả lời “sẽ mua” khi được phỏng vấn (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      192,
+      1395,
+      1456,
+      1712
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một mô hình game 3D, với hệ trục tọa độ thích hợp, người chơi cùng với khẩu súng của anh ta được mô phỏng như một chất điểm di chuyển trên mặt phẳng ($P$): $x - 2y + 2z - 3 = 0$ và nhắm bắn các mục tiêu di động trên mặt cầu ($S$) có phương trình $x^2 + y^2 + z^2 + 2x - 4y - 2z + 5 = 0$. Người chơi vẫn có thể bắn trúng mục tiêu nếu nó di chuyển trên bán cầu khuất phía sau tầm nhìn. Sau khi trò chơi bắt đầu, anh ta quyết định nhắm bắn theo phương véc-tơ $\\vec{u} = (1;0;1)$."
+  },
+  {
+    "bbox": [
+      222,
+      1718,
+      1032,
+      1765
+    ],
+    "category": "Text",
+    "text": "a) Мặt cầu ($S$) có tâm $I(-1;2;1)$ và bán kính $R = 1$."
+  },
+  {
+    "bbox": [
+      222,
+      1772,
+      1099,
+      1820
+    ],
+    "category": "Text",
+    "text": "b) Мặt phẳng ($P$) và mặt cầu ($S$) không có điểm chung."
+  },
+  {
+    "bbox": [
+      222,
+      1829,
+      1448,
+      1958
+    ],
+    "category": "Text",
+    "text": "c) Người chơi đứng ở vị trí giao điểm của ($P$) và $Ox$, khoảng cách từ tâm mặt cầu ($S$) đến đường bay viên đạn bằng $\\frac{\\sqrt{66}}{2}$."
+  },
+  {
+    "bbox": [
+      222,
+      1952,
+      1448,
+      2054
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách lớn nhất từ vị trí người bắn (trên ($P$) và đường bắn có phương $\\vec{u}$) đến mục tiêu (trên ($S$)) bằng $3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

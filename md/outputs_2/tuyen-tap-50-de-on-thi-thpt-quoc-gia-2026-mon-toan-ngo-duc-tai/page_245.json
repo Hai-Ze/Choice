@@ -1,0 +1,491 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      274,
+      156,
+      536,
+      202
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      210,
+      481,
+      254
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 44"
+  },
+  {
+    "bbox": [
+      271,
+      266,
+      546,
+      313
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      753,
+      153,
+      1341,
+      202
+    ],
+    "category": "Section-header",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      957,
+      212,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      264,
+      1507,
+      313
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      364,
+      1452,
+      484
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      514,
+      1019,
+      563
+    ],
+    "category": "Text",
+    "text": "Câu 1. Heo nguyên hàm của hàm số $f(x) = 3x^2 + 1$ là"
+  },
+  {
+    "bbox": [
+      221,
+      575,
+      374,
+      640
+    ],
+    "category": "List-item",
+    "text": "A. $x^3 + C$."
+  },
+  {
+    "bbox": [
+      524,
+      575,
+      735,
+      660
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x^3}{3} + x + C$."
+  },
+  {
+    "bbox": [
+      827,
+      598,
+      978,
+      640
+    ],
+    "category": "List-item",
+    "text": "C. $6x + C$."
+  },
+  {
+    "bbox": [
+      1128,
+      596,
+      1332,
+      640
+    ],
+    "category": "List-item",
+    "text": "D. $x^3 + x + C$."
+  },
+  {
+    "bbox": [
+      192,
+      672,
+      1455,
+      828
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hai hàm số $f(x)$ và $g(x)$ liên tục trên $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị của các hàm số $y = f(x)$, $y = g(x)$ và các đường thẳng $x = a$, $x = b$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      832,
+      554,
+      962
+    ],
+    "category": "List-item",
+    "text": "A. $\\left| \\int_a^b [f(x) - g(x)] dx \\right|$."
+  },
+  {
+    "bbox": [
+      833,
+      834,
+      1147,
+      960
+    ],
+    "category": "List-item",
+    "text": "B. $\\int_a^b |f(x) + g(x)| dx$."
+  },
+  {
+    "bbox": [
+      221,
+      968,
+      538,
+      1093
+    ],
+    "category": "List-item",
+    "text": "C. $\\int_a^b |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      833,
+      968,
+      1147,
+      1093
+    ],
+    "category": "List-item",
+    "text": "D. $\\int_a^b [f(x) - g(x)] dx$."
+  },
+  {
+    "bbox": [
+      192,
+      1108,
+      1455,
+      1210
+    ],
+    "category": "Text",
+    "text": "Câu 3. Mỗi ngày bác Hương đều đi bộ để rèn luyện sức khoẻ. Quăng đường đi bộ mỗi ngày (km) của bác Hương trong 20 ngày được thống kê lại ở bảng sau"
+  },
+  {
+    "bbox": [
+      206,
+      1232,
+      1442,
+      1358
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1384,
+      859,
+      1430
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      221,
+      1449,
+      346,
+      1489
+    ],
+    "category": "List-item",
+    "text": "A. 3,39."
+  },
+  {
+    "bbox": [
+      524,
+      1449,
+      665,
+      1489
+    ],
+    "category": "List-item",
+    "text": "B. 11,62."
+  },
+  {
+    "bbox": [
+      827,
+      1449,
+      982,
+      1489
+    ],
+    "category": "List-item",
+    "text": "C. 0,1314."
+  },
+  {
+    "bbox": [
+      1128,
+      1449,
+      1251,
+      1489
+    ],
+    "category": "List-item",
+    "text": "D. 0,36."
+  },
+  {
+    "bbox": [
+      192,
+      1512,
+      1455,
+      1638
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x-1}{2} = \\frac{y-3}{-5} = \\frac{z+2}{3}$. Vecto nào dưới đây là một vecto chỉ phương của đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      221,
+      1662,
+      486,
+      1706
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u} = (1;3;-2)$."
+  },
+  {
+    "bbox": [
+      524,
+      1662,
+      761,
+      1706
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u} = (2;5;3)$."
+  },
+  {
+    "bbox": [
+      827,
+      1662,
+      1088,
+      1706
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u} = (2;-5;3)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1662,
+      1367,
+      1706
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u} = (1;3;2)$."
+  },
+  {
+    "bbox": [
+      192,
+      1728,
+      1455,
+      1841
+    ],
+    "category": "Text",
+    "text": "Câu 5. Tiệm cận đứng của đồ thị hàm số $y = \\frac{3x+2}{x-2}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      221,
+      1874,
+      359,
+      1912
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2$."
+  },
+  {
+    "bbox": [
+      524,
+      1874,
+      689,
+      1912
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      827,
+      1874,
+      964,
+      1912
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1128,
+      1874,
+      1293,
+      1912
+    ],
+    "category": "List-item",
+    "text": "D. $x = -2$."
+  },
+  {
+    "bbox": [
+      192,
+      1943,
+      924,
+      1991
+    ],
+    "category": "Text",
+    "text": "Câu 6.解bất phương trình $\\log_2(3x - 1) > 3$."
+  },
+  {
+    "bbox": [
+      221,
+      2003,
+      359,
+      2061
+    ],
+    "category": "List-item",
+    "text": "A. $x > 3$."
+  },
+  {
+    "bbox": [
+      524,
+      2003,
+      727,
+      2082
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{3} < x < 3$."
+  },
+  {
+    "bbox": [
+      827,
+      2003,
+      964,
+      2061
+    ],
+    "category": "List-item",
+    "text": "C. $x < 3$."
+  },
+  {
+    "bbox": [
+      1128,
+      2003,
+      1289,
+      2082
+    ],
+    "category": "List-item",
+    "text": "D. $x > \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      192,
+      2093,
+      1375,
+      2141
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cấp số cộng $(u_n)$ có $u_1 = -2$ và $u_2 = 3$. Số hạng $u_8$ của cấp số cộng là"
+  },
+  {
+    "bbox": [
+      221,
+      2161,
+      319,
+      2199
+    ],
+    "category": "List-item",
+    "text": "A. 33."
+  },
+  {
+    "bbox": [
+      524,
+      2161,
+      647,
+      2199
+    ],
+    "category": "List-item",
+    "text": "B. -33."
+  },
+  {
+    "bbox": [
+      827,
+      2161,
+      905,
+      2199
+    ],
+    "category": "List-item",
+    "text": "C. 5."
+  },
+  {
+    "bbox": [
+      1128,
+      2161,
+      1225,
+      2199
+    ],
+    "category": "List-item",
+    "text": "D. 38."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1452,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

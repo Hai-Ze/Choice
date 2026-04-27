@@ -1,0 +1,460 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      141,
+      413,
+      345
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      446,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation của�, miệt\nmài tất好."
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1192,
+      124,
+      1554,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1504,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      662,
+      275,
+      1339,
+      332
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 47"
+  },
+  {
+    "bbox": [
+      862,
+      332,
+      1138,
+      385
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      636,
+      388,
+      1368,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      511,
+      1517,
+      567
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      576,
+      1392,
+      618
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Cho hàm số $f(x) = e^x + 2$. Khẳng định nào dưới đây là đúng?"
+  },
+  {
+    "bbox": [
+      477,
+      616,
+      829,
+      690
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\int f(x) \\, dx = e^{x-2} + C.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      616,
+      1414,
+      690
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\int f(x) \\, dx = e^x + 2x + C.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      688,
+      801,
+      761
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\int f(x) \\, dx = e^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      688,
+      1414,
+      761
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\int f(x) \\, dx = e^x - 2x + C.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      776,
+      1554,
+      889
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Diện tích $S$ của hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ là"
+  },
+  {
+    "bbox": [
+      477,
+      888,
+      742,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} S = \\int_{a}^{b} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      888,
+      1270,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} S = \\int_{a}^{b} f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1002,
+      742,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} S = \\int_{b}^{a} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1002,
+      1292,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} S = \\int_{a}^{b} -f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      1138,
+      1554,
+      1217
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Thời gian (phút) truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau"
+  },
+  {
+    "bbox": [
+      468,
+      1246,
+      1532,
+      1346
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[9,5; 12,5)</td><td>[12,5; 15,5)</td><td>[15,5; 18,5)</td><td>[18,5; 21,5)</td><td>[21,5; 24,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>12</td><td>15</td><td>24</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1376,
+      709,
+      1414
+    ],
+    "category": "Text",
+    "text": "Tổng số học sinh là"
+  },
+  {
+    "bbox": [
+      477,
+      1414,
+      564,
+      1454
+    ],
+    "category": "List-item",
+    "text": "A 24."
+  },
+  {
+    "bbox": [
+      749,
+      1414,
+      836,
+      1454
+    ],
+    "category": "List-item",
+    "text": "B 56."
+  },
+  {
+    "bbox": [
+      1023,
+      1414,
+      1090,
+      1454
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1295,
+      1414,
+      1378,
+      1454
+    ],
+    "category": "List-item",
+    "text": "D 22."
+  },
+  {
+    "bbox": [
+      449,
+      1474,
+      1554,
+      1553
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Phương trình nào sau đây là phương trình mặt cầu ($S$) tâm $A(2; 1; 0)$, đi qua điểm $B(0; 1; 2)$?"
+  },
+  {
+    "bbox": [
+      477,
+      1553,
+      968,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} (S): (x + 2)^2 + (y + 1)^2 + z^2 = 8.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1553,
+      1514,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} (S): (x - 2)^2 + (y - 1)^2 + z^2 = 8.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1593,
+      982,
+      1637
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} (S): (x - 2)^2 + (y - 1)^2 + z^2 = 64.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1593,
+      1529,
+      1637
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} (S): (x + 2)^2 + (y + 1)^2 + z^2 = 64.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      1671,
+      1057,
+      1816
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hàm số $y = \\frac{ax + b}{cx + d}$ ($c \\neq 0; ad - bc \\neq 0$) có đồ thị hàm số như hình vẽ. Dường tiệm cận đứng của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      477,
+      1816,
+      631,
+      1856
+    ],
+    "category": "List-item",
+    "text": "A $y = -1$."
+  },
+  {
+    "bbox": [
+      774,
+      1816,
+      904,
+      1856
+    ],
+    "category": "List-item",
+    "text": "B $x = 1$."
+  },
+  {
+    "bbox": [
+      477,
+      1856,
+      631,
+      1898
+    ],
+    "category": "List-item",
+    "text": "C $x = -1$."
+  },
+  {
+    "bbox": [
+      774,
+      1856,
+      904,
+      1898
+    ],
+    "category": "List-item",
+    "text": "D $y = 1$."
+  },
+  {
+    "bbox": [
+      1090,
+      1700,
+      1528,
+      2151
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      449,
+      2165,
+      1258,
+      2207
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Tập nghiệm của bất phương trình $\\log_5(x - 2) \\le 1$ là"
+  },
+  {
+    "bbox": [
+      477,
+      2207,
+      596,
+      2247
+    ],
+    "category": "List-item",
+    "text": "A (2; 3]."
+  },
+  {
+    "bbox": [
+      749,
+      2207,
+      908,
+      2247
+    ],
+    "category": "List-item",
+    "text": "B $(-\\infty; 7]$."
+  },
+  {
+    "bbox": [
+      1023,
+      2207,
+      1180,
+      2247
+    ],
+    "category": "List-item",
+    "text": "C $[7; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1295,
+      2207,
+      1414,
+      2247
+    ],
+    "category": "List-item",
+    "text": "D (2; 7]."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "238 Bùi Tịnh Minh Lâm"
+  }
+]

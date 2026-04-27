@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      188,
+      134,
+      656,
+      218
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{A} \\int f(x)dx = e^{2x} + 3 \\ln x + C.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      214,
+      663,
+      299
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{C} \\int f(x)dx = \\frac{e^{2x}}{2} + 3 \\ln x + C.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      134,
+      1370,
+      218
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{B} \\int f(x)dx = \\frac{e^{2x}}{2} + 3 \\ln |x| + C.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      218,
+      1361,
+      299
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{D} \\int f(x)dx = e^{2x} + 3 \\ln |x| + C.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      313,
+      1547,
+      400
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** *Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai*"
+  },
+  {
+    "bbox": [
+      154,
+      421,
+      1529,
+      461
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $y = -x^3 + 3x^2 + 4$ có đồ thị ($C$). Xét tính đúng sai của cácoornghedde sau:"
+  },
+  {
+    "bbox": [
+      190,
+      481,
+      1019,
+      523
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là $\\mathcal{D} = \\mathbb{R}$ và $y' = -3x^3 + 6x$."
+  },
+  {
+    "bbox": [
+      190,
+      535,
+      767,
+      577
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đồng biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      190,
+      587,
+      1547,
+      673
+    ],
+    "category": "List-item",
+    "text": "c) Đồ thị ($C$) có hai điểm cực trị và phương trình đường thẳng đi qua 2 điểm cực trị là $2x + y - 4 = 0$."
+  },
+  {
+    "bbox": [
+      190,
+      685,
+      1544,
+      727
+    ],
+    "category": "List-item",
+    "text": "d) Diện tích của tam giác $OAB$ bằng 4, với $O$ là gốc tọa độ và $A, B$ là các điểm cực trị của ($C$)."
+  },
+  {
+    "bbox": [
+      154,
+      748,
+      1547,
+      1011
+    ],
+    "category": "Text",
+    "text": "Bài 2. Hình vẽ sau mô tả mặt cắt ngang của một cây cầu cao 6 mét, dài 16 mét, rộng 4 mét, được giới hạn bởi hai đường mái dốc và các đường thẳng; cầu có hầm chui cao 4 mét, rộng 4 mét. Trên hệ tọa độ $Oxy$, đường chui được mô hình hóa bằng hàm bậc bốn $f(x) = ax^4 + b$, hai đường cong mái dốc được mô hình hóa bởi hai parabol $y = g(x)$ và $y = h(x)$ đối xứng nhau qua trục $Oy$, parabol bên phải là $y = g(x)$ có định $I(8; 5)$. Các số liệu được cho như hình vẽ (đơn vị mỗi trục là mét), biết cây cầu có chiều rộng bằng 8 mét."
+  },
+  {
+    "bbox": [
+      412,
+      1023,
+      1277,
+      1550
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1587,
+      656,
+      1627
+    ],
+    "category": "Text",
+    "text": "Cácoornghedde sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      193,
+      1638,
+      607,
+      1716
+    ],
+    "category": "List-item",
+    "text": "a. Hàm số $f(x) = -\\frac{1}{4}x^4 + 4$."
+  },
+  {
+    "bbox": [
+      193,
+      1718,
+      1096,
+      1795
+    ],
+    "category": "List-item",
+    "text": "b. Parabol bên phải có phương trình là $g(x) = -\\frac{1}{5}(x - 8)^2 + 5$."
+  },
+  {
+    "bbox": [
+      193,
+      1799,
+      1547,
+      1885
+    ],
+    "category": "List-item",
+    "text": "c. Diện tích phần mặt cắt giới hạn bởi hai parabol $y = g(x)$ và $y = h(x)$, trục hoành, hai đường thẳng $x = -8, x = 8$ nhỏ hơn 30 mét vuông."
+  },
+  {
+    "bbox": [
+      193,
+      1897,
+      1023,
+      1938
+    ],
+    "category": "List-item",
+    "text": "d. Thể tích vật liệu để xây dựng cây cầu nhỏ hơn 500 m³."
+  },
+  {
+    "bbox": [
+      154,
+      1959,
+      1547,
+      2222
+    ],
+    "category": "Text",
+    "text": "Bài 3. Trong hệ tọa độ $Oxyz$, đơn vị mỗi trục là km, mặt đất trùng với mặt phẳng ($Oxy$), trục $Oz$ hướng lên, đường đi của máy bay được coi là đường thẳng và chúng được coi là các điểm. Một máy bay cắt cánh từ mặt đất, đang tăng độ cao và được tháp kiểm soát không lưu phát hiện tại $A(8; 8; 4)$, 2 phút sau đó nó đi đến điểm $B(4; 12; 6)$. máy bay tiếp tục đi vào một lớp mây, bắt đầu ở độ cao 9 km và kết thúc ở độ cao 10 km. Ngay sau khi ra khỏi lớp mây, máy bay chuyển từ chế độ tăng độ cao sang chế độ bay ngang cùng chiều với tia $Oy$. Cácoornghedde sau đây đúng hay sai?"
+  },
+  {
+    "bbox": [
+      154,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "27"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      196,
+      940,
+      243
+    ],
+    "category": "Text",
+    "text": "**Câu 1.**Total of all natural numbers of the ham number $f(x) = 3^{-x}$ is"
+  },
+  {
+    "bbox": [
+      205,
+      271,
+      382,
+      354
+    ],
+    "category": "List-item",
+    "text": "A. $-\\frac{3^{-x}}{\\ln 3} + C$"
+  },
+  {
+    "bbox": [
+      555,
+      292,
+      716,
+      328
+    ],
+    "category": "List-item",
+    "text": "B. $-3^{-x} + C$"
+  },
+  {
+    "bbox": [
+      906,
+      292,
+      1096,
+      328
+    ],
+    "category": "List-item",
+    "text": "C. $3^{-x} \\ln 3 + C$"
+  },
+  {
+    "bbox": [
+      1255,
+      271,
+      1407,
+      354
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{3^{-x}}{\\ln 3} + C$"
+  },
+  {
+    "bbox": [
+      807,
+      378,
+      924,
+      417
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      437,
+      271,
+      475
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      155,
+      497,
+      1038,
+      583
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{Cách 1:} \\int f(x)dx = \\int 3^{-x}dx = \\int (3^{-1})^x d(x) = \\frac{3^{-x}}{\\ln 3^{-1}} + C = -\\frac{3^{-x}}{\\ln 3} + C\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      610,
+      698,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{Cách 2:} \\int f(x)dx = \\int 3^{-x}dx = -\\frac{3^{-x}}{\\ln 3} + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      719,
+      1280,
+      808
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho dãy số $u_n$ với $u_n = \\lim \\frac{2022}{\\sqrt{n^4 + n^2 + 1}}$. Chọn kết quả đúng của $\\lim u_n$ là:"
+  },
+  {
+    "bbox": [
+      195,
+      832,
+      291,
+      866
+    ],
+    "category": "List-item",
+    "text": "A. $+\\infty$."
+  },
+  {
+    "bbox": [
+      549,
+      832,
+      632,
+      866
+    ],
+    "category": "List-item",
+    "text": "B. $10$."
+  },
+  {
+    "bbox": [
+      906,
+      832,
+      974,
+      866
+    ],
+    "category": "List-item",
+    "text": "C. $0$."
+  },
+  {
+    "bbox": [
+      1255,
+      832,
+      1350,
+      866
+    ],
+    "category": "List-item",
+    "text": "D. $-\\infty$."
+  },
+  {
+    "bbox": [
+      807,
+      891,
+      924,
+      930
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      949,
+      279,
+      987
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      1007,
+      863,
+      1140
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\lim u_n = \\lim \\frac{2022}{\\sqrt{n^4 + n^2 + 1}} = \\lim \\frac{2022}{n^2 \\sqrt{1 + \\frac{1}{n^2} + \\frac{1}{n^4}}}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1163,
+      753,
+      1256
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nhưng } \\lim \\sqrt{1 + \\frac{1}{n^2} + \\frac{1}{n^4}} = 1 \\text{ và } \\lim \\frac{2022}{n^2} = 0\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1281,
+      496,
+      1372
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nên } \\lim \\frac{2022}{\\sqrt{n^4 + n^2 + 1}} = 0.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1389,
+      918,
+      1434
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Chọn khẳng định **sai** trong các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      205,
+      1448,
+      755,
+      1495
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số $y = \\log_2 x$ đồng biến trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      205,
+      1518,
+      1005,
+      1594
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số $y = \\log_{\\frac{1}{2}} x$ nghịch biến trên tập xác định của nó."
+  },
+  {
+    "bbox": [
+      205,
+      1615,
+      704,
+      1661
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số $y = 2^x$ đồng biến trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      205,
+      1686,
+      830,
+      1740
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số $y = x^{\\sqrt{2}}$ có tập xác định là $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      1767,
+      924,
+      1806
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1826,
+      279,
+      1864
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1883,
+      842,
+      1931
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Hàm số } y = \\log_2 x \\text{ đồng biến trên khoảng } (0; +\\infty).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1956,
+      1048,
+      2002
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hàm số $y = x^3 - 3x^2 - 9x + 1$ đồng biến trên mỗi khoảng:"
+  },
+  {
+    "bbox": [
+      205,
+      2028,
+      506,
+      2075
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; 3)$ và $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      906,
+      2028,
+      1197,
+      2075
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; -1)$ và $(1; 3)$."
+  },
+  {
+    "bbox": [
+      205,
+      2103,
+      518,
+      2150
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 3)$ và $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      906,
+      2103,
+      1233,
+      2150
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -1)$ và $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      2178,
+      924,
+      2217
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

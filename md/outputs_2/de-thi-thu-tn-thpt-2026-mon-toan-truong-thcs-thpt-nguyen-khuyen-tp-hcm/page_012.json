@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      510,
+      118,
+      1274,
+      465
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      836,
+      469,
+      950,
+      505
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      590,
+      571,
+      1063,
+      1047
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      253,
+      1116,
+      481,
+      1158
+    ],
+    "category": "Text",
+    "text": "Gọi các biến cố:"
+  },
+  {
+    "bbox": [
+      257,
+      1197,
+      674,
+      1242
+    ],
+    "category": "Text",
+    "text": "$H_2$: Chuyển 2 Đỏ từ A sang B."
+  },
+  {
+    "bbox": [
+      257,
+      1286,
+      781,
+      1330
+    ],
+    "category": "Text",
+    "text": "$H_1$: Chuyển 1 Đỏ, 1 Xanh từ A sang B."
+  },
+  {
+    "bbox": [
+      257,
+      1375,
+      802,
+      1419
+    ],
+    "category": "Text",
+    "text": "$H_0$: Chuyển 0 Đỏ (2 Xanh) từ A sang B."
+  },
+  {
+    "bbox": [
+      257,
+      1462,
+      928,
+      1507
+    ],
+    "category": "Text",
+    "text": "$K$: Lấy được 2 quả Đỏ từ hộp B (sau khi chuyển)."
+  },
+  {
+    "bbox": [
+      253,
+      1541,
+      389,
+      1581
+    ],
+    "category": "Text",
+    "text": "a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      253,
+      1620,
+      1374,
+      1668
+    ],
+    "category": "Text",
+    "text": "Số phần tử của không gian mẫu $n(\\Omega_A) = C_7^2 = 21$ (số cách lấy 2 quả bóng từ hộp 1)"
+  },
+  {
+    "bbox": [
+      257,
+      1719,
+      562,
+      1803
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_2) = \\frac{C_4^2}{21} = \\frac{6}{21} = \\frac{2}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      253,
+      1848,
+      348,
+      1885
+    ],
+    "category": "Text",
+    "text": "b) SAI"
+  },
+  {
+    "bbox": [
+      253,
+      1921,
+      914,
+      1964
+    ],
+    "category": "Text",
+    "text": "Hộp B nhận thêm 2 quả nên tổng là $6+2=8$ quả"
+  },
+  {
+    "bbox": [
+      253,
+      2001,
+      387,
+      2041
+    ],
+    "category": "Text",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      257,
+      2084,
+      548,
+      2170
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_1) = \\frac{C_4^1 \\cdot C_3^1}{21} = \\frac{12}{21}.\n$$"
+  }
+]

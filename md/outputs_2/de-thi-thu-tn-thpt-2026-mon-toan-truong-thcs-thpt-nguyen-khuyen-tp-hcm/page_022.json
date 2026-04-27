@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      588,
+      146,
+      1175,
+      710
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      835,
+      763,
+      951,
+      801
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      618,
+      808,
+      1163,
+      1223
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1229,
+      1259,
+      1310
+    ],
+    "category": "Text",
+    "text": "Gán hệ trục tọa độ như hình vẽ. Ta dễ dàng tìm được $(P): y = -\\frac{1}{40}x^2 + 10$."
+  },
+  {
+    "bbox": [
+      251,
+      1318,
+      923,
+      1418
+    ],
+    "category": "Text",
+    "text": "Diện tích hồ bơi là: $S_b = 2 \\int_{0}^{20} \\left(-\\frac{1}{40}x^2 + 10\\right) dx = \\frac{800}{3}$."
+  },
+  {
+    "bbox": [
+      251,
+      1428,
+      798,
+      1469
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc tạo bởi tia $Ot$ và trục $Ox$."
+  },
+  {
+    "bbox": [
+      251,
+      1478,
+      1384,
+      1558
+    ],
+    "category": "Text",
+    "text": "Lúc đó: $M(OM \\cos \\alpha; OM \\sin \\alpha)$. Vì $M \\in (P) \\Rightarrow OM \\sin \\alpha = \\frac{-1}{40}(OM \\cos \\alpha)^2 + 10$."
+  },
+  {
+    "bbox": [
+      251,
+      1566,
+      1169,
+      1777
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow OM^2 (\\cos \\alpha)^2 + 40OM \\sin \\alpha - 400 = 0 \\Leftrightarrow \\begin{cases} OM = \\frac{-20 \\sin \\alpha - 20}{(\\cos \\alpha)^2} \\\\ OM = \\frac{-20 \\sin \\alpha + 20}{(\\cos \\alpha)^2} \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1831,
+      798,
+      1927
+    ],
+    "category": "Text",
+    "text": "Ta chọn $OM = \\frac{20 - 20 \\sin \\alpha}{(\\cos \\alpha)^2} = \\frac{20}{1 + \\sin \\alpha}$."
+  },
+  {
+    "bbox": [
+      251,
+      1942,
+      1362,
+      2025
+    ],
+    "category": "Text",
+    "text": "**TH1:** $\\alpha \\in [0, \\arctan 2] \\Rightarrow ON = \\frac{20}{\\cos \\alpha}$. Suy ra: $OP = \\frac{OM + ON}{2} = \\frac{10}{1 + \\sin \\alpha} + \\frac{10}{\\cos \\alpha}$."
+  },
+  {
+    "bbox": [
+      251,
+      2032,
+      1369,
+      2122
+    ],
+    "category": "Text",
+    "text": "**TH2:** $\\alpha \\in [\\arctan 2, \\frac{\\pi}{2}] \\Rightarrow ON = \\frac{40}{\\sin \\alpha}$. Suy ra: $OP = \\frac{OM + ON}{2} = \\frac{10}{1 + \\sin \\alpha} + \\frac{20}{\\sin \\alpha}$."
+  }
+]

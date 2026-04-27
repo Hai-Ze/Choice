@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      365
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử bệnh hiểm nghèo $X$ có tỉ lệ nhiễm bệnh là 0,5%, xét nghiệm loại bệnh này có tỉ lệ dương tính giả là 4%. Khi xét nghiệm cho một người, ta gọi $A$ là biến cố “Người được chọn không nhiễm bệnh” và $B$ là biến cố “người được chọn có phản ứng dương tính”."
+  },
+  {
+    "bbox": [
+      222,
+      374,
+      1164,
+      419
+    ],
+    "category": "List-item",
+    "text": "a) Người được chọn không nhiễm bệnh có tỉ lệ $P(A) = 0,995$."
+  },
+  {
+    "bbox": [
+      222,
+      427,
+      1448,
+      526
+    ],
+    "category": "List-item",
+    "text": "b) Tỉ lệ người không nhiễm bệnh trong số những người có phản ứng dương tính là $P(B \\mid A) = 0,04$."
+  },
+  {
+    "bbox": [
+      222,
+      531,
+      1448,
+      634
+    ],
+    "category": "List-item",
+    "text": "c) Tỉ lệ người nhiễm bệnh trong số những người có phản ứng dương tính là $P(B \\mid \\bar{A}) = 0,005$."
+  },
+  {
+    "bbox": [
+      222,
+      634,
+      1448,
+      762
+    ],
+    "category": "List-item",
+    "text": "d) Khả năng nhiễm bệnh của một người có phản ứng dương tính là $P(\\bar{A} \\mid B) = \\frac{25}{224}$."
+  },
+  {
+    "bbox": [
+      192,
+      773,
+      1455,
+      870
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một xưởng sản xuất một loại sản phẩm $A$. Phòng kinh doanh đã nghiên cứu và đưa ra các hàm số sau:"
+  },
+  {
+    "bbox": [
+      241,
+      910,
+      1136,
+      956
+    ],
+    "category": "List-item",
+    "text": "- Hàm chi phí sản xuất $x$ sản phẩm là $C(x) = 20x + 1200$."
+  },
+  {
+    "bbox": [
+      241,
+      993,
+      1455,
+      1092
+    ],
+    "category": "List-item",
+    "text": "- Hàm giá bán của mỗi sản phẩm (khi bán ra $x$ sản phẩm) là $p(x) = 100 - x$. (Đơn vị của $x$ là sản phẩm, đơn vị của chi phí và giá bán là nghìn đồng)."
+  },
+  {
+    "bbox": [
+      222,
+      1128,
+      1448,
+      1227
+    ],
+    "category": "List-item",
+    "text": "a) Hàm lợi nhuận $P(x)$ thu được từ việc sản xuất và bán $x$ sản phẩm $A$ là $P(x) = -x^2 + 80x - 1200$."
+  },
+  {
+    "bbox": [
+      222,
+      1232,
+      1448,
+      1333
+    ],
+    "category": "List-item",
+    "text": "b) Để công ty không bị lỗ, số sản phẩm cần sản xuất và bán ra phải thuộc đoạn [20; 60]."
+  },
+  {
+    "bbox": [
+      222,
+      1343,
+      1332,
+      1389
+    ],
+    "category": "List-item",
+    "text": "c) Doanh thu của xưởng là một hàm số đồng biến trên khoảng (0; 60)."
+  },
+  {
+    "bbox": [
+      222,
+      1397,
+      1448,
+      1498
+    ],
+    "category": "List-item",
+    "text": "d) Nếu chính phủ áp thuế 4 nghìn đồng trên mỗi sản phẩm bán ra thì lợi nhuận tối đa của xưởng sẽ giảm đi 80 nghìn đồng so với khi chưa có thuế."
+  },
+  {
+    "bbox": [
+      192,
+      1521,
+      1455,
+      1785
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một người đang lái xe ô tô thì bất ngờ phát hiện chướng ngại vật trên đường cách đầu xe 25 m, ngay lúc đó người lái xe đạp phanh khẩn cấp. Kể từ thời điểm này, ô tô chuyển động chậm dần đều với vận tốc $v(t) = -10t + 20$ (m/s), trong đó $t$ là thời gian tính bằng giây kể từ lúc đạp phanh. Gọi $s(t)$ là quăng đường (mét) xe ô tô đi được trong $t$ (giây) kể từ lúc đạp phanh."
+  },
+  {
+    "bbox": [
+      222,
+      1794,
+      1448,
+      1893
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường $s(t)$ mà xe ô tô đi được trong $t$ (giây) là một nguyên hàm của hàm số $v(t)$."
+  },
+  {
+    "bbox": [
+      222,
+      1902,
+      520,
+      1948
+    ],
+    "category": "List-item",
+    "text": "b) $s(t) = -5t^2 + 20$."
+  },
+  {
+    "bbox": [
+      222,
+      1957,
+      1328,
+      2004
+    ],
+    "category": "List-item",
+    "text": "c) Thời gian kể từ lúc đạp phanh đến khi xe ô tô停止 hẩn là 20 giây."
+  },
+  {
+    "bbox": [
+      222,
+      2015,
+      1132,
+      2058
+    ],
+    "category": "List-item",
+    "text": "d) Xe ô tô đó không va vào chướng ngại vật ở trên đường."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1455,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

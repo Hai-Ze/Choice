@@ -1,0 +1,410 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      534,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      211,
+      480,
+      253
+    ],
+    "category": "Text",
+    "text": "### ĐỀ SỐ 22"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 6 trang)"
+  },
+  {
+    "bbox": [
+      754,
+      153,
+      1340,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1133,
+      250
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1506,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      364,
+      1451,
+      482
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      514,
+      1007,
+      561
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** He các nguyên hàm của hàm số $f(x) = 2^x$ là"
+  },
+  {
+    "bbox": [
+      221,
+      563,
+      409,
+      625
+    ],
+    "category": "List-item",
+    "text": "A. $x \\cdot 2^x + C$."
+  },
+  {
+    "bbox": [
+      524,
+      563,
+      700,
+      646
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{2^x}{\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      827,
+      585,
+      1032,
+      625
+    ],
+    "category": "List-item",
+    "text": "C. $2^x \\ln 2 + C$."
+  },
+  {
+    "bbox": [
+      1128,
+      585,
+      1330,
+      625
+    ],
+    "category": "List-item",
+    "text": "D. $2^x \\ln x + C$."
+  },
+  {
+    "bbox": [
+      192,
+      661,
+      946,
+      785
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nếu $\\int_a^b f(x) dx = 2025$ thì $\\int_a^b 2f(x) dx$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      801,
+      353,
+      838
+    ],
+    "category": "List-item",
+    "text": "A. 4050."
+  },
+  {
+    "bbox": [
+      524,
+      801,
+      655,
+      838
+    ],
+    "category": "List-item",
+    "text": "B. 4023."
+  },
+  {
+    "bbox": [
+      827,
+      797,
+      969,
+      838
+    ],
+    "category": "List-item",
+    "text": "C. $2025^2$."
+  },
+  {
+    "bbox": [
+      1128,
+      801,
+      1259,
+      838
+    ],
+    "category": "List-item",
+    "text": "D. 2050."
+  },
+  {
+    "bbox": [
+      192,
+      868,
+      1391,
+      964
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Hai mẫu số liệu ghép nhóm A, B có bảng tần số ghép nhóm như sau\nNhóm A"
+  },
+  {
+    "bbox": [
+      412,
+      983,
+      1236,
+      1096
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[0; 10)</td><td>[10; 20)</td><td>[20; 30)</td><td>[30; 40)</td><td>[40; 50)</td></tr><tr><td>Tần số</td><td>8</td><td>9</td><td>5</td><td>6</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1115,
+      324,
+      1152
+    ],
+    "category": "Text",
+    "text": "Nhóm B"
+  },
+  {
+    "bbox": [
+      277,
+      1171,
+      1371,
+      1284
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[0,3; 10,3)</td><td>[10,3; 20,3)</td><td>[20,3; 30,3)</td><td>[30,3; 40,3)</td><td>[40,3; 50,3)</td></tr><tr><td>Tần số</td><td>16</td><td>18</td><td>10</td><td>12</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1305,
+      1451,
+      1404
+    ],
+    "category": "Text",
+    "text": "Gọi $\\Delta_{Q_A}$, $\\Delta_{Q_B}$ lần lượt là khoảng tứ phân vị của mẫu số liệu ghép nhóm A, B. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1426,
+      473,
+      1469
+    ],
+    "category": "List-item",
+    "text": "A. $\\Delta_{Q_B} = 2\\Delta_{Q_A}$."
+  },
+  {
+    "bbox": [
+      834,
+      1426,
+      1068,
+      1469
+    ],
+    "category": "List-item",
+    "text": "B. $\\Delta_{Q_B} = \\Delta_{Q_A}$."
+  },
+  {
+    "bbox": [
+      221,
+      1488,
+      536,
+      1531
+    ],
+    "category": "List-item",
+    "text": "C. $\\Delta_{Q_B} = 0,3 + \\Delta_{Q_A}$."
+  },
+  {
+    "bbox": [
+      834,
+      1488,
+      1112,
+      1531
+    ],
+    "category": "List-item",
+    "text": "D. $\\Delta_{Q_B} = 0,3\\Delta_{Q_A}$."
+  },
+  {
+    "bbox": [
+      192,
+      1555,
+      1451,
+      1654
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, cho mặt cầu $(S) : (x - 2)^2 + (y + 1)^2 + (z - 3)^2 = 9$. Tọa độ tâm của mặt cầu đã cho là"
+  },
+  {
+    "bbox": [
+      221,
+      1676,
+      416,
+      1716
+    ],
+    "category": "List-item",
+    "text": "A. $(2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      524,
+      1676,
+      718,
+      1716
+    ],
+    "category": "List-item",
+    "text": "B. $(-2; 1; 3)$."
+  },
+  {
+    "bbox": [
+      827,
+      1676,
+      1046,
+      1716
+    ],
+    "category": "List-item",
+    "text": "C. $(-2; 1; -3)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1676,
+      1349,
+      1716
+    ],
+    "category": "List-item",
+    "text": "D. $(-2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      192,
+      1761,
+      982,
+      1937
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = \\frac{ax+b}{cx+d}$ ($a, b, c, d \\in \\mathbb{R}$) có đồ thị là đường cong như hình vẽ. Tọa độ tâm đối xứng của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      221,
+      1957,
+      544,
+      1999
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      592,
+      1957,
+      915,
+      1999
+    ],
+    "category": "List-item",
+    "text": "B. $(1; 1)$."
+  },
+  {
+    "bbox": [
+      1007,
+      1771,
+      1444,
+      2221
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1128,
+      1957,
+      1349,
+      1999
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      497,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1451,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

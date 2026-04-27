@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      467,
+      108,
+      1259,
+      511
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      527,
+      1059,
+      573
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm cho bởi biểu đồ trên"
+  },
+  {
+    "bbox": [
+      205,
+      591,
+      300,
+      627
+    ],
+    "category": "List-item",
+    "text": "A. 9,5."
+  },
+  {
+    "bbox": [
+      555,
+      591,
+      647,
+      627
+    ],
+    "category": "List-item",
+    "text": "B. 8,5."
+  },
+  {
+    "bbox": [
+      906,
+      591,
+      1017,
+      627
+    ],
+    "category": "List-item",
+    "text": "C. 10,5."
+  },
+  {
+    "bbox": [
+      1254,
+      591,
+      1348,
+      627
+    ],
+    "category": "List-item",
+    "text": "D. 7,5."
+  },
+  {
+    "bbox": [
+      807,
+      650,
+      924,
+      688
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      708,
+      277,
+      747
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      759,
+      888,
+      804
+    ],
+    "category": "Text",
+    "text": "Dựa vào biểu đồ ta lập được bảng ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      211,
+      819,
+      1515,
+      951
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>L sot đặt bàn</td><td>[1;6)</td><td>[6;11)</td><td>[11;16)</td><td>[16;21)</td><td>[21;26)</td></tr><tr><td>Số ngày</td><td>14</td><td>30</td><td>25</td><td>18</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1008,
+      920,
+      1054
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu $n = 92$ và gọi $x_1, x_2, \\dots, x_{92}$ là mẫu số liệu đã cho"
+  },
+  {
+    "bbox": [
+      156,
+      1079,
+      244,
+      1115
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      1138,
+      381,
+      1185
+    ],
+    "category": "Formula",
+    "text": "$$\nx_1, \\dots, x_{14} \\in [1;6)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1194,
+      395,
+      1241
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{15}, \\dots, x_{44} \\in [1;6)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1251,
+      417,
+      1298
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{45}, \\dots, x_{69} \\in [11;16)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1309,
+      427,
+      1356
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{70}, \\dots, x_{87} \\in [16;21)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1365,
+      424,
+      1412
+    ],
+    "category": "Formula",
+    "text": "$$\nx_{88}, \\dots, x_{92} \\in [21;26)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1444,
+      1572,
+      1521
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu là $\\frac{x_{23} + x_{24}}{2} \\in [6;11)$. Do đó tức phân vị thứ nhất của mẫu số liệu là"
+  },
+  {
+    "bbox": [
+      162,
+      1546,
+      562,
+      1666
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 6 + \\frac{\\frac{92}{4} - 14}{30} (11 - 6) = 7,5\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1695,
+      1572,
+      1840
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu là $\\frac{x_{69} + x_{70}}{2} \\in [11;16)$ và $x_{70} \\in [16;21)$. Do đó tức phân vị thứ ba của mẫu số liệu là $Q_3 = 16$."
+  },
+  {
+    "bbox": [
+      156,
+      1863,
+      1133,
+      1911
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng tức phân vị của mẫu số liệu là: $\\Delta_Q = Q_3 - Q_1 = 16 - 7,5 = 8,5$."
+  },
+  {
+    "bbox": [
+      156,
+      1940,
+      1572,
+      2063
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ toạ độ $Oxyz$, $(\\alpha): x - 2y + 2z - 3 = 0$. Điều nào sau đây thuộc mặt phẳng $(\\alpha)$?"
+  },
+  {
+    "bbox": [
+      205,
+      2093,
+      401,
+      2138
+    ],
+    "category": "List-item",
+    "text": "A. $M(2;0;1)$."
+  },
+  {
+    "bbox": [
+      555,
+      2093,
+      732,
+      2138
+    ],
+    "category": "List-item",
+    "text": "B. $Q(2;1;1)$."
+  },
+  {
+    "bbox": [
+      906,
+      2093,
+      1100,
+      2138
+    ],
+    "category": "List-item",
+    "text": "C. $P(2;-1;1)$."
+  },
+  {
+    "bbox": [
+      1254,
+      2093,
+      1435,
+      2138
+    ],
+    "category": "List-item",
+    "text": "D. $N(1;0;1)$."
+  },
+  {
+    "bbox": [
+      807,
+      2166,
+      924,
+      2204
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      647,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

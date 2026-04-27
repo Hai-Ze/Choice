@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      115,
+      95,
+      230,
+      136
+    ],
+    "category": "Section-header",
+    "text": "## Part 2:"
+  },
+  {
+    "bbox": [
+      115,
+      158,
+      472,
+      365
+    ],
+    "category": "Table",
+    "text": "<table><tr><td colspan=\"2\">Mãpenda 0101</td></tr><tr><td>Câu 1:</td><td>ĐSSĐ</td></tr><tr><td>Câu 2:</td><td>SĐĐĐ</td></tr><tr><td>Câu 3:</td><td>ĐSĐS</td></tr><tr><td>Câu 4:</td><td>ĐSSS</td></tr></table>"
+  },
+  {
+    "bbox": [
+      67,
+      369,
+      698,
+      419
+    ],
+    "category": "Text",
+    "text": "Câu 1: Cho hàm số $f(x) = x^3 - 2x^2 - 4x + 9$."
+  },
+  {
+    "bbox": [
+      115,
+      431,
+      307,
+      476
+    ],
+    "category": "Formula",
+    "text": "a) $f(5) = 64$."
+  },
+  {
+    "bbox": [
+      115,
+      487,
+      862,
+      536
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 3x^2 - 2x - 4$."
+  },
+  {
+    "bbox": [
+      115,
+      550,
+      833,
+      628
+    ],
+    "category": "Formula",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ là $\\frac{8}{3}$"
+  },
+  {
+    "bbox": [
+      115,
+      631,
+      830,
+      682
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $[1;3]$ bằng 1."
+  },
+  {
+    "bbox": [
+      115,
+      687,
+      219,
+      724
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      730,
+      631,
+      779
+    ],
+    "category": "Formula",
+    "text": "Cho hàm số $f(x) = -x^3 + 2x^2 + 4x - 1$"
+  },
+  {
+    "bbox": [
+      115,
+      792,
+      373,
+      837
+    ],
+    "category": "Formula",
+    "text": "a) $f(5) = 64 \\rightarrow \\mathbf{Đ}$."
+  },
+  {
+    "bbox": [
+      115,
+      849,
+      507,
+      897
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = 3x^2 - 4x - 4 \\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      115,
+      908,
+      984,
+      1049
+    ],
+    "category": "Formula",
+    "text": "c) $f'(x) = 0 \\Leftrightarrow 3x^2 - 4x - 4 = 0 \\Leftrightarrow \\begin{cases} x_1 = 2 \\\\ x_2 = -\\frac{2}{3} \\end{cases} \\Rightarrow x_1 + x_2 = \\frac{4}{3} \\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      115,
+      1058,
+      596,
+      1225
+    ],
+    "category": "Formula",
+    "text": "d) $\\begin{cases} f(1) = 4 \\\\ f(2) = 1 \\\\ f(3) = 6 \\end{cases} \\Rightarrow \\text{Min}_{[1;3]} f(x) = 1 \\rightarrow \\mathbf{Đ}$."
+  },
+  {
+    "bbox": [
+      67,
+      1229,
+      1085,
+      1352
+    ],
+    "category": "Text",
+    "text": "Câu 2: Trong một buổi học liên môn Toán –>Lịch sử, thầy giáo nhớ lại chiến công inti hách của nghĩa quân Tây Sơn do Quang Trung lãnh đạo trong夏季xuân Kỷ Dậu. Thầy đọc may câu thơ mở đầu buổi học:"
+  },
+  {
+    "bbox": [
+      115,
+      1348,
+      624,
+      1505
+    ],
+    "category": "Text",
+    "text": "Xuân Kỷ Dậu trống vang trời,\nTây Sơn thần tốc rạng ngời non sông.\nĐống Đa giặc vỡ từng dòng,\nQuang Trung đại thắng, núi sông yên bình."
+  },
+  {
+    "bbox": [
+      115,
+      1502,
+      1111,
+      1677
+    ],
+    "category": "Text",
+    "text": "Để minh họa cho việc một đại lượng thay đổi theo thời gian trong một mô hình toán học đơn giản, thầy giả sử hàm số $y(t)$ (với $t > 0$, $t$ tính bằng ngày) biểu diễn mức suy giảm sức chống cự của quân dịch theo thời gian kể từ khi nghĩa quân Tây Sơn mở cuộc tiến công."
+  },
+  {
+    "bbox": [
+      115,
+      1674,
+      1095,
+      1796
+    ],
+    "category": "Text",
+    "text": "Sau khi phân tích dữ liệu mô phỏng, người ta nhận thấy đại lượng này có dạng $y(t)$ với $y'(t) = \\frac{a}{t}$ ($a$ là hằng số thực)."
+  },
+  {
+    "bbox": [
+      123,
+      1796,
+      720,
+      1840
+    ],
+    "category": "Text",
+    "text": "Biết rằng, mô hình thu được các dữ liệu sau:"
+  },
+  {
+    "bbox": [
+      115,
+      1842,
+      1054,
+      1894
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t=1$ (ngày) và $t = e^2$ (ngày) thì $y(1) = 5$ và $y(e^2) = 1$."
+  },
+  {
+    "bbox": [
+      115,
+      1896,
+      582,
+      1940
+    ],
+    "category": "Text",
+    "text": "Các khẳng định sau đúng hay sai ?"
+  },
+  {
+    "bbox": [
+      115,
+      1944,
+      612,
+      1992
+    ],
+    "category": "Formula",
+    "text": "a) $y(t) = at + b$ ($b$ là hằng số thực)."
+  },
+  {
+    "bbox": [
+      115,
+      2004,
+      262,
+      2041
+    ],
+    "category": "Formula",
+    "text": "b) $a = -2$."
+  },
+  {
+    "bbox": [
+      1141,
+      1229,
+      1628,
+      1957
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1232,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4 – Đáp Án Mãpenda 0101"
+  }
+]

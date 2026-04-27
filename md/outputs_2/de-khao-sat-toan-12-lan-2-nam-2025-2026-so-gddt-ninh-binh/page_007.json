@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      115,
+      126,
+      592,
+      201
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $f(x) = \\cos^2 \\frac{x}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      211,
+      561,
+      290
+    ],
+    "category": "Formula",
+    "text": "a) $\\int f(x)dx = \\frac{x}{2} - \\frac{1}{2}\\sin x + C$."
+  },
+  {
+    "bbox": [
+      120,
+      298,
+      1534,
+      444
+    ],
+    "category": "Text",
+    "text": "b) Nếu $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên khoảng $(-\\infty; +\\infty)$ và thỏa mãn $F(0)=3$ thì $F(\\frac{\\pi}{6}) = \\frac{\\pi}{12} + \\frac{11}{4}$."
+  },
+  {
+    "bbox": [
+      155,
+      455,
+      878,
+      576
+    ],
+    "category": "Formula",
+    "text": "c) $\\int_{0}^{\\frac{\\pi}{2}} f(x)dx = a + b\\pi (a, b \\in \\mathbb{Q})$, trong đó $a^2 + b = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      115,
+      594,
+      1534,
+      752
+    ],
+    "category": "Text",
+    "text": "d) Diện tích của hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, $y = x^2 - 4 + \\cos^2 \\frac{x}{2}$ và hai đường thẳng $x=0$, $x=3$ bằng $\\frac{23}{3}$."
+  },
+  {
+    "bbox": [
+      115,
+      761,
+      1371,
+      810
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ tọa độ $Oxyz$, cho ba điểm $A(-1;0;2)$, $B(2;2;1)$, $C(0;-1;4)$."
+  },
+  {
+    "bbox": [
+      155,
+      821,
+      827,
+      871
+    ],
+    "category": "Text",
+    "text": "a) Мặt phẳng $(Oxy)$ có phương trình là $x + y = 0$."
+  },
+  {
+    "bbox": [
+      155,
+      881,
+      1147,
+      931
+    ],
+    "category": "Text",
+    "text": "b) Hình chiếu vuông góc của $B$ trên mặt phẳng $(Oyz)$ là điểm $B'(0;2;1)$."
+  },
+  {
+    "bbox": [
+      155,
+      937,
+      1290,
+      982
+    ],
+    "category": "Text",
+    "text": "c) Мặt phẳng đi qua $C$ và vuông góc với $AB$ có phương trình là $3x+2y-z+6=0$."
+  },
+  {
+    "bbox": [
+      115,
+      992,
+      1527,
+      1099
+    ],
+    "category": "Text",
+    "text": "d) Gọi $(\\alpha)$ là mặt phẳng chứa trục $Ox$ và song song với đường thẳng $AC$. Khoảng cách từ điểm $B$ đến mặt phẳng $(\\alpha)$ bằng $\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      115,
+      1108,
+      665,
+      1159
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $f(x) = e^{x^3-3x^2-9x+2026}$."
+  },
+  {
+    "bbox": [
+      155,
+      1170,
+      883,
+      1221
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đã cho có đạo hàm là $f'(x) = e^{x^3-3x^2-9x+2026}$."
+  },
+  {
+    "bbox": [
+      155,
+      1229,
+      850,
+      1280
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $f(x)$ đồng biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      155,
+      1288,
+      773,
+      1338
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $f(x)$ có hai giá trị cực trị trái dấu."
+  },
+  {
+    "bbox": [
+      155,
+      1346,
+      1404,
+      1397
+    ],
+    "category": "Text",
+    "text": "d) Tích của giá trị lớn nhất và giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[-2;2]$ bằng $e^{4035}$."
+  },
+  {
+    "bbox": [
+      115,
+      1439,
+      734,
+      1481
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      115,
+      1522,
+      901,
+      1645
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong hình bên là một chiếc đồng hồ treo tường cao cấp được thiết kế có phần ở giữa (phần tô đâm) dát vàng. Phần này được thiết kế như sau:"
+  },
+  {
+    "bbox": [
+      155,
+      1645,
+      901,
+      1729
+    ],
+    "category": "Text",
+    "text": "- Vẽ hình lục giác đều $ABCDEF$ tâm $O$ và có cạnh bằng $4\\text{cm}$;"
+  },
+  {
+    "bbox": [
+      155,
+      1739,
+      901,
+      1838
+    ],
+    "category": "Text",
+    "text": "- Vẽ parabol $(C_1)$ tiếp xúc với các đường thẳng $OA, OB$ lần lượt tại $A$ và $B$;"
+  },
+  {
+    "bbox": [
+      115,
+      1848,
+      1527,
+      2017
+    ],
+    "category": "Text",
+    "text": "- Tương tự vẽ parabol $(C_2)$ tiếp xúc với các đường thẳng $OB, OC$ lần lượt tại $B$ và $C$; parabol $(C_3)$ tiếp xúc với các đường thẳng $OC, OD$ lần lượt tại $C$ và $D$; ...; parabol $(C_6)$ tiếp xúc với các đường thẳng $OF, OA$ lần lượt tại $F$ và $A$."
+  },
+  {
+    "bbox": [
+      115,
+      2027,
+      1534,
+      2163
+    ],
+    "category": "Text",
+    "text": "Hình phẳng $(H)$ được giới hạn bởi sáu parabol $(C_1), (C_2), (C_3), (C_4), (C_5), (C_6)$ (phần tô đâm) là phần sẽ được dát vàng. Hỏi phần dát vàng này có diện tích bằng bao nhiêu centimet vuông (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      932,
+      1532,
+      1527,
+      1841
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1164,
+      2207,
+      1532,
+      2250
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 – Mã đề thi 0103"
+  }
+]

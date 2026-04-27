@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      192,
+      120,
+      1264,
+      203
+    ],
+    "category": "Text",
+    "text": "c) Xác suất lấy được 2 viên bi đen và 1 viên bi trắng từ套 Y bằng $\\frac{1693}{5040}$."
+  },
+  {
+    "bbox": [
+      192,
+      221,
+      1020,
+      302
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để lấy được 2 viên bi trắng từ套 X bằng $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      306,
+      1295,
+      356
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** *Thí sinh trả lời từ câu 1 đến câu 6.*"
+  },
+  {
+    "bbox": [
+      153,
+      394,
+      1535,
+      725
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một nhà máy chế tạo linh kiện điện tử đặc chủng, số lượng linh kiện được sản xuất mỗi tháng là $x(x \\in \\mathbb{N}^*, 100 \\le x \\le 5000)$. Toàn bộ sản phẩm sản xuất ra đều được tiêu pun với giá bán cố định là 200 triệu đồng/linh kiện. Doanh thu được xác định theo mô hình tuyến tính $F(x) = 200x$, tổng chi phí sản xuất lại tăng theo hàm所属 và được cho bởi công thức: $C(x) = 100 \\cdot e^{0.001x}$ (đơn vị: triệu đồng). Để nhà máy đạt lợi nhuận tối thiểu là 25 tỷ đồng, nhà máy cần sản xuất ít nhất bao nhiêu linh kiện trong tháng đó?"
+  },
+  {
+    "bbox": [
+      153,
+      765,
+      1535,
+      909
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong ngày hội trại 26/03 vừa qua, chi đoàn lớp 12/1 trường THPT A tổ chức một gian hàng ẩm thực phục vụ thực khách với hai món chính là Trà đào và Nem chua rán. Để tăng doanh số, lớp thiết kế hai gói combo sau:"
+  },
+  {
+    "bbox": [
+      203,
+      946,
+      1531,
+      995
+    ],
+    "category": "List-item",
+    "text": "- Combo \"Năng lượng\": Giá 30 nghìn đồng, bao gồm 1 cốc trà đào và 1 đĩa nem chua rán."
+  },
+  {
+    "bbox": [
+      203,
+      995,
+      1499,
+      1043
+    ],
+    "category": "List-item",
+    "text": "- Combo \"Bùng nổ\": Giá 80 nghìn đồng, bao gồm 2 cốc trà đào và 3 đĩa nem chua rán."
+  },
+  {
+    "bbox": [
+      153,
+      1082,
+      1535,
+      1275
+    ],
+    "category": "Text",
+    "text": "Qua tính toán nguyên liệu chuẩn bị ban đầu, lớp chỉ có thể phục vụ tối đa 120 cốc trà đào và 150 đĩa nem chua rán. Giả sử sức mua của học sinh và thây cô trong trường là rất lớn, lớp luôn bán hết các combo đã đóng gói. Số tiền lớn nhất (đơn vị: nghìn đồng) mà chi đoàn lớp 12/1 có thể thu được từ việc bán hai loại combo trên là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      153,
+      1315,
+      1535,
+      1404
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty kiến trúc thiết kế một trạm停止 chân hiện đại có hình đáng là một khối lăng trụ tam giác $ABC.A'B'C'$, đảm bảo các yêu cầu sau:"
+  },
+  {
+    "bbox": [
+      203,
+      1438,
+      1038,
+      1486
+    ],
+    "category": "List-item",
+    "text": "- Mặt sàn ($ABC$) là một tam giác đều có cạnh bằng 6 m."
+  },
+  {
+    "bbox": [
+      203,
+      1492,
+      1535,
+      1588
+    ],
+    "category": "List-item",
+    "text": "- Cột trụ chính $AA'$ được đặt nghiêng sao cho hình chiếu vuông góc của đỉnh mái $A'$ lên mặt sàn ($ABC$) trùng�ophớ với trọng tâm $G$ của tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      203,
+      1596,
+      1087,
+      1648
+    ],
+    "category": "List-item",
+    "text": "- Khoảng cách giữa cột trụ $AA'$ và mép sàn $BC$ là $1,5\\sqrt{3}$ m."
+  },
+  {
+    "bbox": [
+      162,
+      1689,
+      1501,
+      1741
+    ],
+    "category": "Text",
+    "text": "Phần không gian giới hạn trong khối lăng trụ $ABC.A'B'C'$ có thể tích là $18\\sqrt{m}$ ($m^3$). Tìm $m$."
+  },
+  {
+    "bbox": [
+      153,
+      1743,
+      1535,
+      2039
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Có 12 quả bóng gồm 4 quả bóng vàng giống nhau và 8 quả bóng xanh được đánh số 1, 2, ..., 8. Người ta bỏ ngẫu nhiên tất cả số bóng trên vào ba套待 A, B, C khác nhau, mỗi套待 có 4 ngăn đánh số 1, 2, 3, 4, mỗi ngăn chứa được đúng 1 quả bóng. Gọi $T$ là số cách phân bố các quả bóng vào các ngăn của ba套待 trên sao cho có đúng một套待 chứa toàn các bóng mang số chẫn. Tính giá trị $\\frac{T}{70}$."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      313,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 9101"
+  },
+  {
+    "bbox": [
+      1400,
+      2236,
+      1533,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5/6"
+  }
+]

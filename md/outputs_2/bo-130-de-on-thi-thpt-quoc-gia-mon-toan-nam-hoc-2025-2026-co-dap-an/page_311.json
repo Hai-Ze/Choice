@@ -1,0 +1,509 @@
+[
+  {
+    "bbox": [
+      93,
+      40,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1198,
+      199
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      195,
+      422,
+      238
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{A'C'} \\cdot \\overrightarrow{AC} = a^2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      669,
+      195,
+      926,
+      238
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{A'C'} \\cdot \\overrightarrow{AC} = a^2$."
+  },
+  {
+    "bbox": [
+      124,
+      238,
+      368,
+      284
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{A'C'} \\cdot \\overrightarrow{AC} = 0$."
+  },
+  {
+    "bbox": [
+      669,
+      238,
+      941,
+      284
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{A'C'} \\cdot \\overrightarrow{AC} = 2a^2$."
+  },
+  {
+    "bbox": [
+      93,
+      303,
+      1145,
+      346
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Giá trị nhỏ nhất của hàm số $f(x) = -x^3 - x + 2$ trên đoạn $[-2; 0]$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      344,
+      195,
+      385
+    ],
+    "category": "List-item",
+    "text": "(A) 2."
+  },
+  {
+    "bbox": [
+      395,
+      344,
+      490,
+      385
+    ],
+    "category": "List-item",
+    "text": "(B) -2."
+  },
+  {
+    "bbox": [
+      669,
+      344,
+      740,
+      385
+    ],
+    "category": "List-item",
+    "text": "(C) 0."
+  },
+  {
+    "bbox": [
+      941,
+      344,
+      1036,
+      385
+    ],
+    "category": "List-item",
+    "text": "(D) -8."
+  },
+  {
+    "bbox": [
+      93,
+      403,
+      661,
+      445
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Phương trình $4^x = 12$ có nghiệm"
+  },
+  {
+    "bbox": [
+      124,
+      445,
+      253,
+      486
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 3$."
+  },
+  {
+    "bbox": [
+      395,
+      445,
+      592,
+      486
+    ],
+    "category": "List-item",
+    "text": "(B) $x = \\log_{12} 4$."
+  },
+  {
+    "bbox": [
+      669,
+      445,
+      906,
+      486
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 1 + \\log_4 3$."
+  },
+  {
+    "bbox": [
+      941,
+      445,
+      1127,
+      486
+    ],
+    "category": "List-item",
+    "text": "(D) $x = \\log_4 3$."
+  },
+  {
+    "bbox": [
+      93,
+      503,
+      939,
+      582
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hàm số $f(x) = \\frac{mx^2 + nx + p}{qx + r}$ có bảng biến thiên"
+  },
+  {
+    "bbox": [
+      244,
+      609,
+      1047,
+      882
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$x_1$</td><td>$-1$</td><td>$x_2$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td colspan=\"3\">$+$ $0$ $-$</td><td colspan=\"2\">$-$ $0$ $+$</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">$-5$</td><td colspan=\"2\">$+\\infty$ $3$ $+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      920,
+      912,
+      958
+    ],
+    "category": "Text",
+    "text": "$I$ là tâm đối xứng của đồ thị hàm số $y = f(x)$. Tìm tọa độ $I$."
+  },
+  {
+    "bbox": [
+      124,
+      958,
+      286,
+      999
+    ],
+    "category": "List-item",
+    "text": "(A) $I(-2; 1)$."
+  },
+  {
+    "bbox": [
+      395,
+      958,
+      559,
+      999
+    ],
+    "category": "List-item",
+    "text": "(B) $I(-1; 1)$."
+  },
+  {
+    "bbox": [
+      669,
+      958,
+      831,
+      999
+    ],
+    "category": "List-item",
+    "text": "(C) $I(-1; 0)$."
+  },
+  {
+    "bbox": [
+      941,
+      958,
+      1127,
+      999
+    ],
+    "category": "List-item",
+    "text": "(D) $I(-1; -1)$."
+  },
+  {
+    "bbox": [
+      93,
+      1016,
+      1198,
+      1098
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hình lăng trụ có đáy là tam giác $ABC$ với $AB = a$; $AC = 2a$; $\\widehat{BAC} = 30^\\circ$, chiều cao $h = 3a$. Tính thể tích khối lăng trụ."
+  },
+  {
+    "bbox": [
+      124,
+      1096,
+      286,
+      1156
+    ],
+    "category": "List-item",
+    "text": "(A) $V = 3a^3$."
+  },
+  {
+    "bbox": [
+      395,
+      1096,
+      567,
+      1156
+    ],
+    "category": "List-item",
+    "text": "(B) $V = \\frac{3a^3}{2}$."
+  },
+  {
+    "bbox": [
+      669,
+      1096,
+      841,
+      1156
+    ],
+    "category": "List-item",
+    "text": "(C) $V = \\frac{3a^3}{4}$."
+  },
+  {
+    "bbox": [
+      941,
+      1096,
+      1095,
+      1156
+    ],
+    "category": "List-item",
+    "text": "(D) $V = \\frac{a^3}{2}$."
+  },
+  {
+    "bbox": [
+      109,
+      1183,
+      824,
+      1237
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1246,
+      1198,
+      1364
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một tên lightsaber từ mặt đất, từ vị trí gốc tọa độ $O$ theo hướng, vận tốc không đổi (đặt mặt phẳng $(Oxy)$ trùng với mặt đất). Tên lightsaber đi từ điểm $O(0; 0; 0)$ đến điểm $A(140; 60; 6)$ trong 8 phút."
+  },
+  {
+    "bbox": [
+      124,
+      1364,
+      1194,
+      1440
+    ],
+    "category": "List-item",
+    "text": "a) Trong 8 phút tên lightsaber bay được quăng đường (làm tròn đến hàng đơn vị) xấp xỉ bằng 152 km."
+  },
+  {
+    "bbox": [
+      124,
+      1446,
+      720,
+      1490
+    ],
+    "category": "List-item",
+    "text": "b) Ở phút thứ 4 độ cao của tên lightsaber là 3 km."
+  },
+  {
+    "bbox": [
+      124,
+      1490,
+      1015,
+      1530
+    ],
+    "category": "List-item",
+    "text": "c) Tọa độ của tên lightsaber sau 12 phút kể từ lúc phóng là $(210; 90; 12)$."
+  },
+  {
+    "bbox": [
+      124,
+      1530,
+      1058,
+      1572
+    ],
+    "category": "List-item",
+    "text": "d) Sau 10 phút tiếp theo kể từ vị trí $A$ tên lightsaber đạt độ cao là 13,5 km."
+  },
+  {
+    "bbox": [
+      93,
+      1588,
+      701,
+      1666
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x) = \\frac{x^2 + 2x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      124,
+      1664,
+      1059,
+      1704
+    ],
+    "category": "List-item",
+    "text": "a) Đường thẳng $y = x + 3$ là tiệm cận xiên của đồ thị hàm số đã cho."
+  },
+  {
+    "bbox": [
+      124,
+      1704,
+      705,
+      1744
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đồng biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      1744,
+      988,
+      1786
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị lớn nhất của hàm số $y = f(x)$ trên đoạn $[-3; -1]$ là 1."
+  },
+  {
+    "bbox": [
+      124,
+      1786,
+      1038,
+      1828
+    ],
+    "category": "List-item",
+    "text": "d) Có 6 giá trị nguyên của $m$ để phương trình $f(x) = m$ vô nghiệm."
+  },
+  {
+    "bbox": [
+      93,
+      1844,
+      1198,
+      1922
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình集合 $ABCD.A'B'C'D'$ có thể tích $V$ và tất cả các cạnh đều bằng $a$."
+  },
+  {
+    "bbox": [
+      124,
+      1914,
+      602,
+      1984
+    ],
+    "category": "List-item",
+    "text": "a) Thể tích khối $ABCB'$ bằng $\\frac{1}{6}V$."
+  },
+  {
+    "bbox": [
+      124,
+      1982,
+      773,
+      2022
+    ],
+    "category": "List-item",
+    "text": "b) Thể tích khối集合 $ABCD.A'B'C'D'$ bằng $a^3$."
+  },
+  {
+    "bbox": [
+      124,
+      2020,
+      636,
+      2090
+    ],
+    "category": "List-item",
+    "text": "c) Thể tích khối $A'.ABCD$ bằng $\\frac{2}{3}V$."
+  },
+  {
+    "bbox": [
+      124,
+      2088,
+      612,
+      2156
+    ],
+    "category": "List-item",
+    "text": "d) Thể tích khối $ACB'D'$ bằng $\\frac{1}{3}V$."
+  },
+  {
+    "bbox": [
+      93,
+      2165,
+      1198,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Xét một chất điểm $M$ chuyển động trên đường thẳng ngang chứa $O$ làm gốc, chiều dương từ trái sang phải. Chuyển động của $M$ được cho bởi công thức"
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 309"
+  }
+]

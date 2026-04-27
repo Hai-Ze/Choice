@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      626,
+      118,
+      952,
+      360
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      398,
+      414,
+      434
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      457,
+      843,
+      495
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      515,
+      244,
+      553
+    ],
+    "category": "Text",
+    "text": "Đáp án: 8,1"
+  },
+  {
+    "bbox": [
+      534,
+      600,
+      1018,
+      945
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      964,
+      588,
+      1002
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ Oxy như hình vẽ."
+  },
+  {
+    "bbox": [
+      76,
+      1029,
+      763,
+      1072
+    ],
+    "category": "Text",
+    "text": "Gọi phương trình Parabol có dạng $y = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      76,
+      1098,
+      1304,
+      1325
+    ],
+    "category": "Text",
+    "text": "Do Parabol qua các điểm $(0;4)$; $(2;2)$ và $(-2;2)$ nên ta có $\\Rightarrow \\begin{cases} 4a + 2b + c = 2 \\\\ 4a - 2b + c = 2 \\\\ c = 4 \\end{cases} \\Rightarrow \\begin{cases} a = -\\frac{1}{2} \\\\ b = 0 \\\\ c = 4 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      82,
+      1353,
+      276,
+      1433
+    ],
+    "category": "Formula",
+    "text": "$$\ny = -\\frac{1}{2}x^2 + 4.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1452,
+      1494,
+      1498
+    ],
+    "category": "Text",
+    "text": "Parabol cắt trục hoành tại hai điểm $A, B$ có hoành độ là nghiệm của phương trình"
+  },
+  {
+    "bbox": [
+      82,
+      1520,
+      468,
+      1632
+    ],
+    "category": "Formula",
+    "text": "$$\n-\\frac{1}{2}x^2 + 4 = 0 \\Leftrightarrow \\begin{cases} x = 2\\sqrt{2} \\\\ x = -2\\sqrt{2} \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1657,
+      1038,
+      1775
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích vòm cửa là } S = \\int_{-2\\sqrt{2}}^{2\\sqrt{2}} \\left(-\\frac{1}{2}x^2 + 4\\right) dx = \\left(\\frac{-x^3}{6} + 4x\\right) \\Big|_{-2\\sqrt{2}}^{2\\sqrt{2}} = \\frac{32\\sqrt{2}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1802,
+      641,
+      1897
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích các tấm kính bằng: } 6 + 3\\pi \\left(\\frac{1}{2}\\right)^2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1922,
+      777,
+      2015
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra diện tích phần còn lại là: } S = \\frac{32\\sqrt{2}}{3} - 6 - \\frac{3\\pi}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2038,
+      709,
+      2141
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giá tiền sơn là } \\left( \\frac{32\\sqrt{2}}{3} - 6 - \\frac{3\\pi}{4} \\right) 1,2 \\approx 8,1 \\text{ triệu.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

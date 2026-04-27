@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      99,
+      823,
+      156
+    ],
+    "category": "Text",
+    "text": "Ta có $P(A) = 2\\% = 0,02 \\Rightarrow P(\\bar{A}) = 1 - P(A) = 0,98$ và"
+  },
+  {
+    "bbox": [
+      83,
+      185,
+      718,
+      242
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M | A) = 95\\% = 0,95; P(M | \\bar{A}) = 1\\% = 0,01.\n$$"
+  },
+  {
+    "bbox": [
+      83,
+      271,
+      757,
+      328
+    ],
+    "category": "Formula",
+    "text": "$$\nP(N | AM) = 90\\% = 0,9; P(N | \\bar{A}M) = 5\\% = 0,05.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      356,
+      883,
+      415
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(MN) = P(AMN \\cup \\bar{A}MN) = P(AMN) + P(\\bar{A}MN)$."
+  },
+  {
+    "bbox": [
+      76,
+      443,
+      1042,
+      502
+    ],
+    "category": "Text",
+    "text": "Mặt khác: $P(\\bar{A}MN) = P(\\bar{A}).P(M | \\bar{A}).P(N | \\bar{A}M) = 0,98 \\cdot 0,01 \\cdot 0,05$ và"
+  },
+  {
+    "bbox": [
+      83,
+      531,
+      854,
+      578
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AMN) = P(A) \\cdot P(M | A) \\cdot P(N | AM) = 0,02 \\cdot 0,95 \\cdot 0,9.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      605,
+      1150,
+      690
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(\\bar{A} | MN) = \\frac{0,98 \\cdot 0,01 \\cdot 0,05}{0,98 \\cdot 0,01 \\cdot 0,05 + 0,02 \\cdot 0,95 \\cdot 0,9} = \\frac{49}{1759} \\approx 0,028 \\Rightarrow a + b = 10.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2256,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

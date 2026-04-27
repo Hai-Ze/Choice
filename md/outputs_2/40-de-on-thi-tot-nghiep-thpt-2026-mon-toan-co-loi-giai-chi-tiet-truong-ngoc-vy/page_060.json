@@ -1,0 +1,82 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      594,
+      134
+    ],
+    "category": "Text",
+    "text": "B là biến cố: “Học sinh đó đỗ đại học”"
+  },
+  {
+    "bbox": [
+      76,
+      154,
+      1065,
+      200
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(A) = 0,6$; $P(\\bar{A}) = 1 - 0,6 = 0,4$; $P(B|A) = 0,7$ và $P(B|\\bar{A}) = 0,8$"
+  },
+  {
+    "bbox": [
+      76,
+      220,
+      517,
+      264
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức Bayes, ta có:"
+  },
+  {
+    "bbox": [
+      81,
+      282,
+      962,
+      371
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A})} = \\frac{0,6 \\cdot 0,7}{0,6 \\cdot 0,7 + 0,4 \\cdot 0,8} = \\frac{21}{37}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

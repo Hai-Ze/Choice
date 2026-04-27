@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      99
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      157,
+      1575,
+      260
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trong không gian $Oxyz$ cho hình chóp $S.ABCD$ có $S(0;0;3,5)$, $ABCD$ là hình chữ nhật với $A(0;0;0)$, $B(4;0;0)$, $D(0;10;0)$ (hình 4)"
+  },
+  {
+    "bbox": [
+      665,
+      291,
+      1186,
+      783
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      802,
+      652,
+      847
+    ],
+    "category": "List-item",
+    "text": "a) Toạ độ điểm $C$ là $(4;10;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      863,
+      957,
+      940
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình mặt phẳng $(SBD)$: $\\frac{x}{4} + \\frac{y}{10} - \\frac{z}{3,5} = 1$"
+  },
+  {
+    "bbox": [
+      212,
+      948,
+      765,
+      1000
+    ],
+    "category": "List-item",
+    "text": "c) Toạ độ của véc tơ $\\overrightarrow{SC} = (4;10;-3,5)$."
+  },
+  {
+    "bbox": [
+      212,
+      1007,
+      1565,
+      1056
+    ],
+    "category": "List-item",
+    "text": "d) Góc giữa đường thẳng $SC$ và mặt phẳng $(SBD)$ làm tròn đến hàng đơn vị của độ là $20^\\circ$."
+  },
+  {
+    "bbox": [
+      833,
+      1066,
+      953,
+      1108
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1108,
+      852,
+      1168
+    ],
+    "category": "List-item",
+    "text": "a) Ta có $\\overrightarrow{AB} = (4;0;0)$; $\\overrightarrow{DC} = (x_c; y_c - 10; z_c)$."
+  },
+  {
+    "bbox": [
+      218,
+      1176,
+      1304,
+      1329
+    ],
+    "category": "Formula",
+    "text": "$$\nABCD \\text{ hình chữ nhật nên } \\overrightarrow{AB} = \\overrightarrow{DC} \\Leftrightarrow \\begin{cases} x_c = 4 \\\\ y_c - 10 = 0 \\\\ z_c = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x_c = 4 \\\\ y_c = 10 \\\\ z_c = 0 \\end{cases} \\Rightarrow C(4;10;0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1335,
+      419,
+      1378
+    ],
+    "category": "Text",
+    "text": "**Chọn ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      212,
+      1383,
+      1575,
+      1523
+    ],
+    "category": "List-item",
+    "text": "b) Mặt phẳng $(SBD)$ đi qua các điểm $S(0;0;3,5)$, $B(4;0;0)$, $D(0;10;0)$ suy ra phương trình mặt phẳng $(SBD)$ $\\frac{x}{4} + \\frac{y}{10} + \\frac{z}{3,5} = 1$"
+  },
+  {
+    "bbox": [
+      212,
+      1534,
+      370,
+      1573
+    ],
+    "category": "Text",
+    "text": "**Chọn SAI.**"
+  },
+  {
+    "bbox": [
+      212,
+      1575,
+      959,
+      1629
+    ],
+    "category": "List-item",
+    "text": "c) Ta có $S(0;0;3,5)$, $C(4;10;0) \\Rightarrow \\overrightarrow{SC} = (4;10;-3,5)$."
+  },
+  {
+    "bbox": [
+      212,
+      1634,
+      419,
+      1677
+    ],
+    "category": "Text",
+    "text": "**Chọn ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      212,
+      1681,
+      1344,
+      1938
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) } \\sin(\\overrightarrow{SC}, (SBD)) = \\left| \\cos\\left(\\overrightarrow{SC}, \\overrightarrow{n}_{(SBD)}\\right) \\right| = \\frac{\\left| 4 \\cdot \\frac{1}{4} + 10 \\cdot \\frac{1}{10} + (-3,5) \\cdot \\frac{1}{3,5} \\right|}{\\sqrt{16 + 100 + \\frac{49}{4}}} = \\frac{1}{\\sqrt{\\frac{513}{4}}} = \\frac{2\\sqrt{17}}{51}.\n$$\n$\\sin(\\overrightarrow{SC}, (SBD)) = 0,16$."
+  },
+  {
+    "bbox": [
+      212,
+      1949,
+      370,
+      1988
+    ],
+    "category": "Text",
+    "text": "**Chọn SAI.**"
+  },
+  {
+    "bbox": [
+      74,
+      1992,
+      1571,
+      2173
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Khi điều tra sức khoẻ nhiều người cao tuổi ở một địa phương, người ta thấy rằng có 40% người cao tuổi bị bệnh tiểu đường. Bên cạnh đó, số người bị bệnh huyết áp cao trong những người bị bệnh tiểu đường là 70%, trong đó người không bị bệnh tiểu đường là 25%. Chọn ngẫu nhiên 1 người cao tuổi kiểm tra sức khoẻ."
+  },
+  {
+    "bbox": [
+      212,
+      2175,
+      1035,
+      2217
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được người bị bệnh tiểu đường là 0,4."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

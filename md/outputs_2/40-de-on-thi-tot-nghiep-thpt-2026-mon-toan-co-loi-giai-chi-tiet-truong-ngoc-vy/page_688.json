@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1087,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      606,
+      115,
+      959,
+      461
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      505,
+      921,
+      564
+    ],
+    "category": "Text",
+    "text": "Ta có $(\\overrightarrow{AC}, \\overrightarrow{OM}) = 180^\\circ - \\widehat{OMN}$ với $N$ là trung điểm của $BC$."
+  },
+  {
+    "bbox": [
+      76,
+      586,
+      1495,
+      692
+    ],
+    "category": "Text",
+    "text": "Vì $\\Delta OAB, \\Delta OBC, \\Delta OCA$ là ba tam giác vuông bằng nhau nên\n$AB = BC = CA = 2OM = 2ON \\Rightarrow OM = ON$."
+  },
+  {
+    "bbox": [
+      76,
+      709,
+      1032,
+      754
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $ABC$ có $AC = 2MN \\Rightarrow OM = ON = MN \\Rightarrow \\Delta OMN$ đều."
+  },
+  {
+    "bbox": [
+      76,
+      773,
+      762,
+      833
+    ],
+    "category": "Text",
+    "text": "Vậy $(\\overrightarrow{AC}, \\overrightarrow{OM}) = 180^\\circ - \\widehat{OMN} = 180^\\circ - 60^\\circ = 120^\\circ$."
+  },
+  {
+    "bbox": [
+      76,
+      862,
+      1495,
+      984
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 2x - 4y + 5z - 1 = 0$. Vectơ nào là một vectơ pháp tuyến của mặt phẳng $(P)$ ?"
+  },
+  {
+    "bbox": [
+      126,
+      1012,
+      356,
+      1058
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (5; -4; 2)$."
+  },
+  {
+    "bbox": [
+      476,
+      1012,
+      703,
+      1058
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (2; -4; 5)$."
+  },
+  {
+    "bbox": [
+      826,
+      1012,
+      1092,
+      1058
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (-2; -4; -5)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1012,
+      1386,
+      1058
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (2; 4; 5)$."
+  },
+  {
+    "bbox": [
+      727,
+      1086,
+      843,
+      1125
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1145,
+      196,
+      1183
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1202,
+      659,
+      1251
+    ],
+    "category": "Text",
+    "text": "Véc tơ pháp tuyến của $(P)$ là $\\vec{n} = (2; -4; 5)$"
+  },
+  {
+    "bbox": [
+      76,
+      1279,
+      1495,
+      1422
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$ đi qua điểm nào trong các điểm sau đây?"
+  },
+  {
+    "bbox": [
+      126,
+      1443,
+      350,
+      1488
+    ],
+    "category": "List-item",
+    "text": "A. $B(0; -6; -6)$."
+  },
+  {
+    "bbox": [
+      476,
+      1443,
+      679,
+      1488
+    ],
+    "category": "List-item",
+    "text": "B. $A(-2; 2; 0)$."
+  },
+  {
+    "bbox": [
+      826,
+      1443,
+      1014,
+      1488
+    ],
+    "category": "List-item",
+    "text": "C. $C(4; 0; 3)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1443,
+      1363,
+      1488
+    ],
+    "category": "List-item",
+    "text": "D. $D(3; 0; 3)$."
+  },
+  {
+    "bbox": [
+      727,
+      1516,
+      843,
+      1554
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1574,
+      196,
+      1612
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1633,
+      1056,
+      1715
+    ],
+    "category": "Text",
+    "text": "♦ Thế $B(0; -6; -6)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      82,
+      1738,
+      466,
+      1821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{0-2}{2} \\neq \\frac{-6+2}{2} = \\frac{-6}{3} \\Rightarrow B \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1846,
+      1037,
+      1927
+    ],
+    "category": "Text",
+    "text": "♦ Thế $A(-2; 2; 0)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      82,
+      1952,
+      448,
+      2035
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{-2-2}{2} \\neq \\frac{2+2}{2} \\neq \\frac{0}{3} \\Rightarrow A \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2058,
+      1019,
+      2140
+    ],
+    "category": "Text",
+    "text": "♦ Thế $C(4; 0; 3)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      82,
+      2165,
+      425,
+      2248
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{4-2}{2} = \\frac{0+2}{2} = \\frac{3}{3} \\Rightarrow C \\in d\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

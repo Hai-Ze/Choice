@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      185,
+      96,
+      1146,
+      175
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để trọng tài bốc được bi vàng trong lần bốc đầu tiên là $\\frac{1}{12}$."
+  },
+  {
+    "bbox": [
+      185,
+      192,
+      1532,
+      271
+    ],
+    "category": "Text",
+    "text": "b) Giả sử rằng ở lần bốc đầu tiên trọng tài bốc được bi xanh. Khi đó xác suất để bạn Xanh thẳng là $\\frac{5}{11}$."
+  },
+  {
+    "bbox": [
+      147,
+      273,
+      1550,
+      411
+    ],
+    "category": "Text",
+    "text": "c) Giả sử rằng ở lần bốc đầu tiên trọng tài bốc được bi vàng và bốc tiếp thì được bi đỏ. Khi đó xác suất để bạn Xanh thẳng là $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      185,
+      423,
+      663,
+      505
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để bạn Đỏ thẳng là $\\frac{6}{11}$."
+  },
+  {
+    "bbox": [
+      144,
+      508,
+      1550,
+      928
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Người ta muốn tạo một giá đỡ bằng sát bên cạnh mộtlicestường có hình dạng là đoạn cong $BDN$ như hình vẽ dưới, giá đỡ được gắn với tường bằng ba thanh sát $AB, CD, MN$ cùng vuông góc với tường ($A, C, M$ thẳng hàng). Giá đỡ được xem như là một phần của đồ thị hàm số $y = \\log x$ trong mặt phẳng tọa độ ($Oxy$) với trục tung trùng với hình chiếu vuông góc của giá đỡ lên mặt tường (đơn vị trên trục tính bằng mét). Biết $AB = 10$ cm, $AM = 1,4$ m và độ dài phần đồ thị của hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$ được tính theo công thức $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$."
+  },
+  {
+    "bbox": [
+      1130,
+      734,
+      1522,
+      1128
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      185,
+      943,
+      854,
+      1024
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số $y = \\log x$ là $y' = \\frac{1}{x \\ln 10}$."
+  },
+  {
+    "bbox": [
+      185,
+      1029,
+      1074,
+      1077
+    ],
+    "category": "Text",
+    "text": "b) Trong mặt phẳng tọa độ ($Oxy$), điểm $B$ có hoành độ bằng 0,1."
+  },
+  {
+    "bbox": [
+      185,
+      1086,
+      1048,
+      1134
+    ],
+    "category": "Text",
+    "text": "c) Trong mặt phẳng tọa độ ($Oxy$), điểm $N$ có tung độ bằng 1,4."
+  },
+  {
+    "bbox": [
+      185,
+      1141,
+      1236,
+      1187
+    ],
+    "category": "Text",
+    "text": "d) Độ dài giá đỡ bằng 2,97 mét (kết quả được làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      147,
+      1192,
+      1550,
+      1337
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục tọa độ ($Oxyz$) cho điểm $A(1; 2; 3)$ và điểm $B(2; 3; 4)$. Gọi $M$ là giao điểm của đường thẳng qua hai điểm $A, B$ với mặt phẳng ($Oxy$), $N$ thuộc trục $Oz$ sao cho $AN$ vuông góc với $AB$."
+  },
+  {
+    "bbox": [
+      185,
+      1344,
+      397,
+      1390
+    ],
+    "category": "Text",
+    "text": "a) $\\overline{AB} = (1; 1; 1)$."
+  },
+  {
+    "bbox": [
+      185,
+      1393,
+      675,
+      1438
+    ],
+    "category": "Text",
+    "text": "b) Hoành độ của điểm $M$ bằng $-1$."
+  },
+  {
+    "bbox": [
+      185,
+      1443,
+      402,
+      1482
+    ],
+    "category": "Text",
+    "text": "c) $MA = -3AB$."
+  },
+  {
+    "bbox": [
+      185,
+      1485,
+      463,
+      1578
+    ],
+    "category": "Text",
+    "text": "d) $\\tan \\widehat{NMB} = \\frac{\\sqrt{42}}{9}$."
+  },
+  {
+    "bbox": [
+      147,
+      1582,
+      1129,
+      1626
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      147,
+      1639,
+      1553,
+      1929
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** An và Bình rất cool Toán, cùng tham gia một trò chơi, đầu tiên An bốc ngẫu nhiên một thẻ từ tập thứ nhất chứa sáu thẻ giống nhau được đánh số từ 1 đến 6, tiếp theo Bình bốc ngẫu nhiên một thẻ từ tập thứ hai chứa bốn thẻ giống nhau được đánh số từ 1 đến 4. Gọi số An bốc được là $a$ và số của Bình là $b$, sau đó hai người cùng tính giá trị của tích phân $I = \\int_0^a x^b dx$. Nếu kết quả $I$ là một số nguyên thì An thẳng, xuống lại Bình thẳng. Tính xác suất An thẳng cuộc (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      147,
+      1929,
+      1553,
+      2062
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Dòng Huông hiền hòa trong xanh, lững lờ trôi giữa lòng thành phố Huế cổ kính và mộng mơ. Nhìn từ trên cao, hai bờ水流 trải dài như hai đường thẳng song song. Cột cờ Phu Văn Lâu sùng sùng cao 54,5 mét như là một chứng tích hào hùng của lịch sử. Biết rằng hai bờ水流 cách nhau 400 mét và"
+  },
+  {
+    "bbox": [
+      1236,
+      2105,
+      1553,
+      2139
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - mã đề thi 1001"
+  }
+]

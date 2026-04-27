@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1495,
+      201
+    ],
+    "category": "Text",
+    "text": "Vì $C$ cách chân hai trạm phát sóng $A$ và $B$ lần lượt là $3\\text{km}$ và $4\\text{km}$ nên ta có: $OC = 3; HC = 4$ suy ra tam giác $OCH$ vuông tại $C$."
+  },
+  {
+    "bbox": [
+      75,
+      216,
+      981,
+      262
+    ],
+    "category": "Text",
+    "text": "Gọi $K, E$ lần lượt là hình chiếu của $C$ trên trục hoành và trục tung."
+  },
+  {
+    "bbox": [
+      75,
+      286,
+      527,
+      377
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } CK = \\frac{CO \\cdot CH}{\\sqrt{CO^2 + CH^2}} = \\frac{12}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      399,
+      1222,
+      488
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có: } OK \\cdot OH = OC^2 \\Rightarrow CE = OK = \\frac{9}{5}. \\text{ Suy ra } C\\left(\\frac{9}{5}; \\frac{12}{5}; 0\\right) \\Rightarrow \\overrightarrow{AC} = \\left(\\frac{9}{5}; \\frac{12}{5}; -0,2\\right).\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      512,
+      1495,
+      566
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AC$ đi qua $A(0;0;0,2)$ và có vecto chỉ phương $\\vec{u} = 5 \\cdot \\overrightarrow{AC} = (9;12;-1)$ nên có phương trình:"
+  },
+  {
+    "bbox": [
+      82,
+      595,
+      318,
+      675
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x}{9} = \\frac{y}{12} = \\frac{z - 0,2}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      693,
+      1495,
+      797
+    ],
+    "category": "Text",
+    "text": "c) Khi ô tô đang ở vị trí cách nút giao $C$ $7\\text{km}$ trên đoạn đường từ chân trạm $A$ tới nút giao $C$ đến, tức là ô tô đang ở vị trí $M$ thuộc đường thẳng $CO$ ( ngoài đoạn $CO$ ) thỏa mãn: $CM = 7\\text{km} \\Rightarrow OM = 4\\text{km}$"
+  },
+  {
+    "bbox": [
+      75,
+      816,
+      1040,
+      1021
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\Rightarrow \\overrightarrow{OM} &= \\frac{4}{3} \\overrightarrow{CO} = \\frac{4}{3} \\left( -\\frac{9}{5}; -\\frac{12}{5}; 0 \\right) = \\left( -\\frac{12}{5}; -\\frac{16}{5}; 0 \\right) \\Rightarrow M \\left( -\\frac{12}{5}; -\\frac{16}{5}; 0 \\right) \\\\ \\Rightarrow MB &= \\sqrt{\\left( 5 + \\frac{12}{5} \\right)^2 + \\left( \\frac{16}{5} \\right)^2 + 2^2} = \\sqrt{69} \\approx 8,3 > 4 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1042,
+      855,
+      1087
+    ],
+    "category": "Text",
+    "text": "Khi đó ô tô không nằm trong vùng phát sóng của trạm $B$."
+  },
+  {
+    "bbox": [
+      75,
+      1099,
+      1495,
+      1198
+    ],
+    "category": "Text",
+    "text": "d) Để tổng khoảng cách giữa ô tô và 2 flycam có thể đạt được giá trị lớn nhất thì ô tô phải ở vị trí là điểm $C$."
+  },
+  {
+    "bbox": [
+      150,
+      1241,
+      1149,
+      1787
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1838,
+      1495,
+      2018
+    ],
+    "category": "Text",
+    "text": "Vùng phủ sóng của trạm $A$ là khối cầu tâm $A$, bán kính $R = 2$. Do đó khoảng cách lớn nhất giữa ô tô và flycam $F_1$ đạt được khi flycam $F_1$ ở vị trí là giao điểm $D$ của đường thẳng $AC$ và mặt cầu ($S$) tâm $A$, bán kính $R = 2$ ($D$ nằm ngoài đoạn $AC$)"
+  },
+  {
+    "bbox": [
+      75,
+      2032,
+      1495,
+      2198
+    ],
+    "category": "Text",
+    "text": "Khi đó khoảng cách lớn nhất của ô tô và flycam $F_1$ có thể đạt được bằng $CD = CA + 2 = \\frac{\\sqrt{226}}{5} + 2 = \\frac{\\sqrt{226} + 10}{5}$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

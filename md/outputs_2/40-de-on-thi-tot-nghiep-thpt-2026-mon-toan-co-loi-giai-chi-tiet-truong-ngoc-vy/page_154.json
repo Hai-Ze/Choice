@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1157,
+      137
+    ],
+    "category": "Text",
+    "text": "Trên quỹ đạo bay tiếp theo, khinh khí cầu $l$ đi vào tường sương mù tại $N$."
+  },
+  {
+    "bbox": [
+      155,
+      151,
+      1093,
+      196
+    ],
+    "category": "Text",
+    "text": "Tính khoảng cách $TN$ (làm tròn kết quả đến hàng đơn vị của kilomét)"
+  },
+  {
+    "bbox": [
+      155,
+      215,
+      493,
+      251
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      274,
+      924,
+      312
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      332,
+      314,
+      370
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 11"
+  },
+  {
+    "bbox": [
+      155,
+      383,
+      526,
+      426
+    ],
+    "category": "Text",
+    "text": "Từ đề bài ta xác định được:"
+  },
+  {
+    "bbox": [
+      155,
+      447,
+      679,
+      595
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đường thẳng } l: \\begin{cases} x = 24 - 4t \\\\ y = 52 - 10t \\\\ z = 2t \\end{cases} \\quad (t \\in \\mathbb{R})\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      624,
+      685,
+      771
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đường thẳng } h: \\begin{cases} x = 20 - 3s \\\\ y = -8 + 5s \\\\ z = 2s \\end{cases} \\quad (s \\in \\mathbb{R})\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      797,
+      1179,
+      837
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giải hệ } 24 - 4t = 20 - 3s, 52 - 10t = -8 + 5s, 2t = 2s \\Rightarrow t = s = 4 \\Rightarrow T(8;12;8).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      856,
+      1375,
+      902
+    ],
+    "category": "Text",
+    "text": "Vì $t = s = 4 > 0$ (cùng thời điểm kể từ lúc xuất phát) nên hai quỹ đạo có thể va chậm tại $T$."
+  },
+  {
+    "bbox": [
+      155,
+      917,
+      659,
+      961
+    ],
+    "category": "Text",
+    "text": "Khinh khí cầu $l$ gặp tường sương mù"
+  },
+  {
+    "bbox": [
+      155,
+      978,
+      812,
+      1023
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt phẳng } E_{ABC}: \\vec{n} = (1;1;1), \\quad x + y + z - 16 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1049,
+      312,
+      1084
+    ],
+    "category": "Text",
+    "text": "Giao với $l$:"
+  },
+  {
+    "bbox": [
+      161,
+      1108,
+      984,
+      1197
+    ],
+    "category": "Formula",
+    "text": "$$\n(24 - 4t) + (52 - 10t) + 2t - 16 = 0 \\Rightarrow 76 - 12t - 16 = 0 \\Rightarrow t = 5 \\\\ \\Rightarrow N(4;2;10)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1223,
+      418,
+      1258
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } TN \\approx 11 \\text{ km}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1279,
+      1575,
+      1400
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $\\sqrt{3}$. Tính khoảng cách từ điểm $B$ đến mặt phẳng $(AD'B')$."
+  },
+  {
+    "bbox": [
+      155,
+      1427,
+      493,
+      1463
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1485,
+      924,
+      1523
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1543,
+      297,
+      1581
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1"
+  },
+  {
+    "bbox": [
+      525,
+      1615,
+      1195,
+      2075
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2108,
+      1023,
+      2152
+    ],
+    "category": "Text",
+    "text": "Gọi $O, O'$ lần lượt là tâm của hình vuông $ABCD$ và $A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      155,
+      2174,
+      792,
+      2221
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } BO \\parallel B'O' \\subset (AB'D') \\Rightarrow BO \\parallel (AB'D').\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

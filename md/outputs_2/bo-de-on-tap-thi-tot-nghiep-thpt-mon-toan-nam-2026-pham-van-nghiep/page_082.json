@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      374,
+      146
+    ],
+    "category": "Text",
+    "text": "Đáp án: 10"
+  },
+  {
+    "bbox": [
+      212,
+      143,
+      779,
+      186
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố chọn được sản phẩm lõi."
+  },
+  {
+    "bbox": [
+      212,
+      181,
+      1527,
+      226
+    ],
+    "category": "Text",
+    "text": "Gọi $M, N$ lần lượt là biến cố hệ thống 1 kết luận sản phẩm lõi, hệ thống 2 kết luận sản phẩm lõi."
+  },
+  {
+    "bbox": [
+      212,
+      232,
+      962,
+      353
+    ],
+    "category": "Text",
+    "text": "Ta cần tính xác suất điều kiện: $P(\\bar{A} | MN) = \\frac{P(\\bar{A}MN)}{P(MN)}$."
+  },
+  {
+    "bbox": [
+      212,
+      360,
+      962,
+      425
+    ],
+    "category": "Text",
+    "text": "Ta có $P(A) = 2\\% = 0,02 \\Rightarrow P(\\bar{A}) = 1 - P(A) = 0,98$ và"
+  },
+  {
+    "bbox": [
+      218,
+      434,
+      856,
+      497
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M | A) = 95\\% = 0,95; P(M | \\bar{A}) = 1\\% = 0,01.\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      506,
+      891,
+      570
+    ],
+    "category": "Formula",
+    "text": "$$\nP(N | AM) = 90\\% = 0,9; P(N | \\bar{A}M) = 5\\% = 0,05.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      578,
+      1022,
+      644
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(MN) = P(AMN \\cup \\bar{A}MN) = P(AMN) + P(\\bar{A}MN)$."
+  },
+  {
+    "bbox": [
+      212,
+      650,
+      1185,
+      716
+    ],
+    "category": "Text",
+    "text": "Mặt khác: $P(\\bar{A}MN) = P(\\bar{A}) \\cdot P(M | \\bar{A}) \\cdot P(N | \\bar{A}M) = 0,98 \\cdot 0,01 \\cdot 0,05$ và"
+  },
+  {
+    "bbox": [
+      218,
+      724,
+      987,
+      778
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AMN) = P(A) \\cdot P(M | A) \\cdot P(N | AM) = 0,02 \\cdot 0,95 \\cdot 0,9.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      791,
+      1304,
+      875
+    ],
+    "category": "Text",
+    "text": "Vậy $P(\\bar{A} | MN) = \\frac{0,98 \\cdot 0,01 \\cdot 0,05}{0,98 \\cdot 0,01 \\cdot 0,05 + 0,02 \\cdot 0,95 \\cdot 0,9} = \\frac{49}{1759} \\approx 0,028 \\Rightarrow a + b = 10$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 12 -"
+  }
+]

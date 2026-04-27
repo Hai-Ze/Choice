@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1131,
+      136
+    ],
+    "category": "Text",
+    "text": "b) Lợi nhuận nhà máy thu được lớn nhất khi bán 680 tấn sản phẩm trong tuần."
+  },
+  {
+    "bbox": [
+      727,
+      157,
+      843,
+      196
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      210,
+      894,
+      332
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      391,
+      199,
+      428
+    ],
+    "category": "Text",
+    "text": "a) Ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      447,
+      1100,
+      508
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = \\int P'(x)dx = \\int (17 - 0,025x)dx = 17x - 0,0125x^2 + C \\text{ với } 0 \\le x \\le 1000\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      526,
+      1228,
+      572
+    ],
+    "category": "Text",
+    "text": "Vì nhà máy lỗ 24 triệu đồng nếu không bán được lượng sản phẩm nào trong tuần nên"
+  },
+  {
+    "bbox": [
+      76,
+      591,
+      1265,
+      638
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } x = 0 \\text{ thì } P(x) = -24 \\text{ suy ra } P(0) = -24 \\Leftrightarrow C = -24 \\Rightarrow P(x) = 17x - 0,0125x^2 - 24\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      658,
+      745,
+      704
+    ],
+    "category": "Text",
+    "text": "b) Khi bán 80 tấn sản phẩm trong tuần thì $x = 80$:"
+  },
+  {
+    "bbox": [
+      82,
+      722,
+      1079,
+      771
+    ],
+    "category": "Formula",
+    "text": "$$\nP(80) = 17.80 - 0,0125.80^2 - 24 = 1256 \\text{ triệu đồng hay 1 tỉ 256 triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      797,
+      1285,
+      844
+    ],
+    "category": "Text",
+    "text": "c) Nhà máy chỉ bắt đầu có lãi khi $P(x) > 0 \\Rightarrow 17x - 0,0125x^2 - 24 > 0 \\Rightarrow 1,41 < x < 1358,5$"
+  },
+  {
+    "bbox": [
+      76,
+      867,
+      729,
+      913
+    ],
+    "category": "Text",
+    "text": "Vậy nếu $1,2 \\le x \\le 1,41$ nhà máy vẫn có thể bị lỗ."
+  },
+  {
+    "bbox": [
+      76,
+      939,
+      488,
+      986
+    ],
+    "category": "Formula",
+    "text": "d) $P(x) = 17x - 0,0125x^2 - 24$"
+  },
+  {
+    "bbox": [
+      76,
+      1013,
+      756,
+      1060
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P'(x) = 17 - 0,025x \\Rightarrow P'(x) = 0 \\Leftrightarrow x = 680\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1081,
+      298,
+      1125
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      262,
+      1196,
+      1306,
+      1527
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1547,
+      706,
+      1609
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ bảng biến thiên, ta có: } \\underset{(0;1000)}{\\text{Max}} P(680) = 5756\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1629,
+      1453,
+      1675
+    ],
+    "category": "Text",
+    "text": "Vậy lợi nhuận nhà máy thu được lớn nhất khi bán 680 tấn sản phẩm trong tuần là 5 tỉ 756 triệu đồng."
+  },
+  {
+    "bbox": [
+      76,
+      1689,
+      1495,
+      2022
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một khu vực đã được thiết lập một hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là mét). Một flycam đang phát sóng wifi bao phủ một vùng không gian bên trong mặt cầu có phương trình $(S): (x-30)^2 + (y-20)^2 + (z-10)^2 = 900$. Bạn Trúc Linh đang sử dụng máy tính tại điểm $M$ nằm trên đường tròn $(C)$ là giao của mặt cầu $(S)$ và mặt đất. Biết mặt đất bằng phẳng và có phương trình $(P): z = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

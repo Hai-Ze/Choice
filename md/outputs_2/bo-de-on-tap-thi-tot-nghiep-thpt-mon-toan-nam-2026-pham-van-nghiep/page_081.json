@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      1070,
+      155
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta thấy $f(x)$ đạt GTNN bằng 12 khi $x = 6$."
+  },
+  {
+    "bbox": [
+      212,
+      158,
+      1254,
+      203
+    ],
+    "category": "Text",
+    "text": "Vậy để chi phí vật liệu trung bình trên một giờ sản xuất là thấp nhất thì $x = 6$."
+  },
+  {
+    "bbox": [
+      74,
+      203,
+      1575,
+      281
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một công ty logistics đang thử nghiệm hệ thống giao hàng tự động bằng máy bay không người lái (drone)."
+  },
+  {
+    "bbox": [
+      212,
+      278,
+      1575,
+      587
+    ],
+    "category": "Text",
+    "text": "Trong không gian $Oxyz$, mỗi đơn vị trên các trục tương ứng với 1 mét trên thực tế. Мặt ngoài của một toà nhà cao tầng được xem là một phần của mặt phẳng ($P$) thẳng đứng, đi qua hai điểm $C(10;50;0)$ và $D(30;10;0)$. Vị trí giao hàng là điểm $B$ nằm trên mặt phẳng ($P$). Drone bắt đầu bay từ kho hàng tại gốc tọa độ $O(0;0;0)$. Ban đầu, nó bay theo một đường thẳng đến vị trí $A(30;40;120)$. Từ vị trí $A$, drone thay đổi đường bay, di chuyển theo phương vuông góc với mặt phẳng ($P$) đến vị trí giao hàng $B$. Tính khoảng cách từ $O$ đến $B$ (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      588,
+      600,
+      1196,
+      1059
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      836,
+      1062,
+      951,
+      1099
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1101,
+      390,
+      1138
+    ],
+    "category": "Text",
+    "text": "Đáp án: 126"
+  },
+  {
+    "bbox": [
+      218,
+      1138,
+      793,
+      1190
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{CD} = (20; -40; 0) = 20\\vec{u}; \\text{ với } \\vec{u} = (1; -2; 0).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1196,
+      1573,
+      1312
+    ],
+    "category": "Text",
+    "text": "($P$) là mặt phẳng thẳng đứng qua $C$ và $D$ nên nhận vec tơ $\\vec{u} = (1; -2; 0)$ và $\\vec{k} = (0; 0; 1)$ làm cặp vecto chỉ phương nên vecto pháp tuyến của ($P$) là $\\vec{n} = [\\vec{u}; \\vec{k}] = (2; 1; 0)$"
+  },
+  {
+    "bbox": [
+      218,
+      1320,
+      1011,
+      1368
+    ],
+    "category": "Formula",
+    "text": "$$\n(P): 2(x-10)+1(y-50)+0(z-0) = 0 \\Leftrightarrow 2x+y-70 = 0\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1375,
+      1573,
+      1481
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AB$ vuông góc với ($P$) nên nhận vecto pháp tuyến của ($P$) là vecto chỉ phương $\\vec{u}_{AB} = (2; 1; 0)$. Phương trình đường thẳng $AB$ :"
+  },
+  {
+    "bbox": [
+      218,
+      1489,
+      377,
+      1633
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = 30 + 2t \\\\ y = 40 + t \\\\ z = 120 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1641,
+      1089,
+      1689
+    ],
+    "category": "Text",
+    "text": "$B$ là giao điểm của đường thẳng $AB$ và mặt phẳng ($P$) nên ta có"
+  },
+  {
+    "bbox": [
+      218,
+      1697,
+      896,
+      1792
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} 60 + 4t + 40 + t - 70 &= 0 \\Leftrightarrow 5t = -30 \\Leftrightarrow t = -6 \\\\ \\Rightarrow B(18; 34; 120) \\Rightarrow OB = \\sqrt{18^2 + 34^2 + 120^2} = 126 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1795,
+      1518,
+      1879
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nhà máy sản xuất sản phẩm $A$ có tỷ lệ sản phẩm bị lỗ là 2%. Nhà máy sử dụng hai hệ thống kiểm tra chất lượng độc lập để phát hiện lỗ:"
+  },
+  {
+    "bbox": [
+      212,
+      1875,
+      1491,
+      1957
+    ],
+    "category": "Text",
+    "text": "Hệ thống 1: Xác suất phát hiện chính xác sản phẩm lỗ là 95%. Xác suất báo lỗ nhầm trên một sản phẩm không lỗ là 1%."
+  },
+  {
+    "bbox": [
+      212,
+      1953,
+      1491,
+      2035
+    ],
+    "category": "Text",
+    "text": "Hệ thống 2: Xác suất phát hiện chính xác sản phẩm lỗ là 90%. Xác suất báo lỗ nhầm trên một sản phẩm không lỗ là 5%."
+  },
+  {
+    "bbox": [
+      212,
+      2031,
+      1506,
+      2193
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một sản phẩm. Biết rằng sản phẩm này bị cả hai hệ thống kiểm tra đều báo lỗ. Tính xác suất để sản phẩm này thực tế không bị lỗ. Kết quả xác suất này sau khi đã làm tròn đến hàng phần nghìn là số có dạng $0,0ab$ (ví dụ nếu kết quả là $0,024$ thì $a = 2, b = 4$). Tính giá trị của $a+b$."
+  },
+  {
+    "bbox": [
+      836,
+      2198,
+      951,
+      2236
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1518,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

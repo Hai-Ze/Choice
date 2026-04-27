@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      1162,
+      145
+    ],
+    "category": "Text",
+    "text": "Thay điểm $N(2;-1;-3)$ vào phương trình chính tắc của đường thẳng $d$ ta được:"
+  },
+  {
+    "bbox": [
+      82,
+      173,
+      646,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{2-3}{2} = \\frac{-1+2}{-1} = \\frac{-3+1}{2} \\text{ (vô lí vì } -\\frac{1}{2} \\neq -1\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      278,
+      793,
+      326
+    ],
+    "category": "Text",
+    "text": "Vậy điểm $N(2;-1;-3)$ không thuộc đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      76,
+      351,
+      1279,
+      399
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = x^2 + 2x$ và trục hoành bằng"
+  },
+  {
+    "bbox": [
+      125,
+      425,
+      233,
+      504
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{4\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      476,
+      425,
+      579,
+      504
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      826,
+      425,
+      915,
+      504
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      425,
+      1262,
+      504
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      727,
+      529,
+      843,
+      568
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      587,
+      199,
+      626
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      643,
+      915,
+      740
+    ],
+    "category": "Text",
+    "text": "Xét phương trình hoành độ giao điểm: $x^2 + 2x = 0 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = -2 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      76,
+      765,
+      1165,
+      862
+    ],
+    "category": "Text",
+    "text": "Khi đó, diện tích hình phẳng giới hạn bởi hai đồ thị trên là: $S = \\int_{-2}^{0} |x^2 + 2x| dx = \\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      76,
+      882,
+      1495,
+      984
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình集合 $ABCD.A'B'C'D'$. Người ta định nghĩa ‘Mặt chéo của hình集合 là mặt tạo bởi hai đường chéo của hình集合 đó’. Hỏi hình集合 $ABCD.A'B'C'D'$ có mấy mặt chéo ?"
+  },
+  {
+    "bbox": [
+      115,
+      1002,
+      196,
+      1037
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      470,
+      1002,
+      547,
+      1037
+    ],
+    "category": "List-item",
+    "text": "B. 6."
+  },
+  {
+    "bbox": [
+      826,
+      1002,
+      903,
+      1037
+    ],
+    "category": "List-item",
+    "text": "C. 8."
+  },
+  {
+    "bbox": [
+      1175,
+      1002,
+      1268,
+      1037
+    ],
+    "category": "List-item",
+    "text": "D. 10."
+  },
+  {
+    "bbox": [
+      727,
+      1062,
+      843,
+      1101
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1120,
+      196,
+      1158
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      551,
+      1192,
+      986,
+      1533
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1596,
+      1349,
+      1646
+    ],
+    "category": "Text",
+    "text": "Các mặt chéo của hình集合 là $(ADC'B');(A'D'CB);(ABC'D');(DCB'A');(ACC'A');(BDD'B')$"
+  },
+  {
+    "bbox": [
+      76,
+      1668,
+      1495,
+      1782
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình集合 $S.ABC$ có đáy $ABC$ là tam giác vuông tại $A$ với $AB = a, AC = 2a$ cạnh $SA$ vuông góc với $(ABC)$ và $SA = a\\sqrt{3}$. Tính thể tích khối集合 $S.ABC$."
+  },
+  {
+    "bbox": [
+      125,
+      1808,
+      263,
+      1903
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{a^3\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      476,
+      1808,
+      612,
+      1903
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{a^3\\sqrt{3}}{6}$."
+  },
+  {
+    "bbox": [
+      826,
+      1808,
+      965,
+      1903
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{a^3\\sqrt{3}}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1808,
+      1305,
+      1903
+    ],
+    "category": "List-item",
+    "text": "D. $a^3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      727,
+      1927,
+      843,
+      1966
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1985,
+      196,
+      2024
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2257,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

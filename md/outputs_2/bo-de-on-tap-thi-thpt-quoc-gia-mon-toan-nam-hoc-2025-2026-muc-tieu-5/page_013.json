@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      574,
+      249
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 4"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1528,
+      269
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      154,
+      535,
+      1127,
+      576
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x)$ có bảng xét dấu của đạo hàm như sau:"
+  },
+  {
+    "bbox": [
+      541,
+      584,
+      1156,
+      713
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$3$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td colspan=\"5\">$+ \\ 0 \\ - \\ 0 \\ + \\ 0 \\ -$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      735,
+      932,
+      776
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      191,
+      796,
+      355,
+      838
+    ],
+    "category": "List-item",
+    "text": "A) $(-1; 3)$."
+  },
+  {
+    "bbox": [
+      535,
+      796,
+      743,
+      838
+    ],
+    "category": "List-item",
+    "text": "B) $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      879,
+      796,
+      1042,
+      838
+    ],
+    "category": "List-item",
+    "text": "C) $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      1224,
+      796,
+      1402,
+      838
+    ],
+    "category": "List-item",
+    "text": "D) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      857,
+      941,
+      898
+    ],
+    "category": "Text",
+    "text": "Câu 2. Heo nguyên hàm của hàm số $f(x) = e^{2x-1}$ là"
+  },
+  {
+    "bbox": [
+      191,
+      911,
+      371,
+      994
+    ],
+    "category": "List-item",
+    "text": "A) $\\frac{e^{2x}}{4x} + C$."
+  },
+  {
+    "bbox": [
+      535,
+      911,
+      760,
+      994
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{1}{2}e^{2x-1} + C$."
+  },
+  {
+    "bbox": [
+      879,
+      911,
+      1059,
+      994
+    ],
+    "category": "List-item",
+    "text": "C) $\\frac{e^{2x}}{2x} + C$."
+  },
+  {
+    "bbox": [
+      1224,
+      932,
+      1442,
+      974
+    ],
+    "category": "List-item",
+    "text": "D) $2e^{2x-1} + C$."
+  },
+  {
+    "bbox": [
+      154,
+      1005,
+      1544,
+      1091
+    ],
+    "category": "Text",
+    "text": "Câu 3. Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 3^x, y = 0, x = 0, x = 2$. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      191,
+      1103,
+      438,
+      1192
+    ],
+    "category": "List-item",
+    "text": "A) $S = \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      877,
+      1103,
+      1161,
+      1192
+    ],
+    "category": "List-item",
+    "text": "B) $S = \\pi \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      191,
+      1188,
+      465,
+      1277
+    ],
+    "category": "List-item",
+    "text": "C) $S = \\pi \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      877,
+      1188,
+      1136,
+      1277
+    ],
+    "category": "List-item",
+    "text": "D) $S = \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      154,
+      1290,
+      1548,
+      1376
+    ],
+    "category": "Text",
+    "text": "Câu 4. Chỉ số ô nhiễm không khí (AQI) tại thủ đô Hà Nội trong tháng 6/2024 được thống kê trong bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      318,
+      1382,
+      1378,
+      1497
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chỉ số (AQI)</td><td>[130; 145)</td><td>[145; 160)</td><td>[160; 175)</td><td>[175; 190)</td><td>[190; 205)</td></tr><tr><td>Số ngày</td><td>8</td><td>7</td><td>6</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1507,
+      1382,
+      1548
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?"
+  },
+  {
+    "bbox": [
+      191,
+      1568,
+      305,
+      1610
+    ],
+    "category": "List-item",
+    "text": "A) 175."
+  },
+  {
+    "bbox": [
+      535,
+      1568,
+      681,
+      1610
+    ],
+    "category": "List-item",
+    "text": "B) 176, 5."
+  },
+  {
+    "bbox": [
+      879,
+      1568,
+      1025,
+      1610
+    ],
+    "category": "List-item",
+    "text": "C) 180, 2."
+  },
+  {
+    "bbox": [
+      1224,
+      1568,
+      1369,
+      1610
+    ],
+    "category": "List-item",
+    "text": "D) 178, 2."
+  },
+  {
+    "bbox": [
+      154,
+      1627,
+      1548,
+      1715
+    ],
+    "category": "Text",
+    "text": "Câu 5. Trong không gian $Oxyz$, đường thẳng đi qua điểm $M(1; 3; -2)$ và nhận vecto $\\vec{u} = (1; -1; 5)$ làm vecto chỉ phương có phương trình tham số là:"
+  },
+  {
+    "bbox": [
+      191,
+      1727,
+      489,
+      1894
+    ],
+    "category": "List-item",
+    "text": "A) $\\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 - 2t \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      877,
+      1727,
+      1174,
+      1894
+    ],
+    "category": "List-item",
+    "text": "B) $\\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 + 2t \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      191,
+      1890,
+      489,
+      2057
+    ],
+    "category": "List-item",
+    "text": "C) $\\begin{cases} x = 1 + t \\\\ y = 3 - t \\\\ z = -2 + 5t \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      877,
+      1890,
+      1174,
+      2057
+    ],
+    "category": "List-item",
+    "text": "D) $\\begin{cases} x = 1 + t \\\\ y = 3 + t \\\\ z = -2 + 5t \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      154,
+      2072,
+      1548,
+      2113
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ. Tổng số đường tiệm cận đứng"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      829,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1562,
+      2250,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "13"
+  }
+]

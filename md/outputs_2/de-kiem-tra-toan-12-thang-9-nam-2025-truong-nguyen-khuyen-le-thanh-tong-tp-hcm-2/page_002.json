@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      108,
+      127,
+      1536,
+      237
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Có 7 chiếc ghế xếp thành hàng ngang. Có bao nhiêu cách xếp 3 người vào 7 chiếc ghế đó sao cho mỗi người ngồi một ghế?"
+  },
+  {
+    "bbox": [
+      241,
+      261,
+      353,
+      295
+    ],
+    "category": "List-item",
+    "text": "A. 210."
+  },
+  {
+    "bbox": [
+      561,
+      261,
+      648,
+      295
+    ],
+    "category": "List-item",
+    "text": "B. 21."
+  },
+  {
+    "bbox": [
+      861,
+      261,
+      950,
+      295
+    ],
+    "category": "List-item",
+    "text": "C. 35."
+  },
+  {
+    "bbox": [
+      1160,
+      261,
+      1271,
+      295
+    ],
+    "category": "List-item",
+    "text": "D. 343."
+  },
+  {
+    "bbox": [
+      108,
+      323,
+      895,
+      365
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Rút gọn biểu thức $P = \\sin 3x \\cdot \\cos x - \\sin x \\cdot \\cos 3x$."
+  },
+  {
+    "bbox": [
+      241,
+      390,
+      429,
+      424
+    ],
+    "category": "List-item",
+    "text": "A. $P = \\sin 4x$."
+  },
+  {
+    "bbox": [
+      561,
+      390,
+      745,
+      424
+    ],
+    "category": "List-item",
+    "text": "B. $P = \\sin 2x$."
+  },
+  {
+    "bbox": [
+      861,
+      390,
+      1051,
+      424
+    ],
+    "category": "List-item",
+    "text": "C. $P = \\cos 2x$."
+  },
+  {
+    "bbox": [
+      1160,
+      390,
+      1354,
+      424
+    ],
+    "category": "List-item",
+    "text": "D. $P = \\cos 4x$."
+  },
+  {
+    "bbox": [
+      108,
+      446,
+      1536,
+      544
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng (Đ) hoặc sai (S)."
+  },
+  {
+    "bbox": [
+      108,
+      601,
+      1536,
+      799
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Một công ty sản xuất một loại sản phẩm. Nếu có $x$ sản phẩm được bán ra thì bộ phận tài chính của công ty đưa ra hàm giá bán trên mỗi sản phẩm là $q(x) = 10000 - 250x$ (nghìn đồng), với $0 < x < 40$. Gọi $f(x)$ là hàm doanh thu của công ty (đơn vị: nghìn đồng). Xem $y = f(x)$ là một hàm số xác định trên khoảng $(0; 40)$. Xét tính đúng – sai trong các phát biểu sau?"
+  },
+  {
+    "bbox": [
+      241,
+      809,
+      481,
+      853
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = x \\cdot q(x)$."
+  },
+  {
+    "bbox": [
+      241,
+      863,
+      590,
+      907
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = -500x + 10000$."
+  },
+  {
+    "bbox": [
+      241,
+      917,
+      881,
+      961
+    ],
+    "category": "Formula",
+    "text": "c) Phương trình $f'(x) = 0$ có nghiệm là $x = 2$."
+  },
+  {
+    "bbox": [
+      241,
+      969,
+      1031,
+      1013
+    ],
+    "category": "Formula",
+    "text": "d) Doanh thu lớn nhất của công ty bằng 100 triệu đồng."
+  },
+  {
+    "bbox": [
+      108,
+      1057,
+      1334,
+      1139
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Cho hàm số $y = f(x) = \\frac{x^2 + x + 2}{x - 1}$. Xét tính đúng – sai trong các phát biểu sau?"
+  },
+  {
+    "bbox": [
+      241,
+      1145,
+      899,
+      1189
+    ],
+    "category": "Formula",
+    "text": "a) Tập xác định của hàm số $y = f(x)$ là $\\mathbb{R} \\setminus \\{1\\}$."
+  },
+  {
+    "bbox": [
+      241,
+      1199,
+      1087,
+      1243
+    ],
+    "category": "Formula",
+    "text": "b) Tâm đối xứng của đồ thị hàm số $y = f(x)$ là điểm $I(1; 2)$."
+  },
+  {
+    "bbox": [
+      241,
+      1253,
+      1314,
+      1297
+    ],
+    "category": "Formula",
+    "text": "c) Đồ thị hàm số $y = f(x)$ có hai điểm cực trị nằm cùng phía với trục hoành."
+  },
+  {
+    "bbox": [
+      241,
+      1307,
+      1536,
+      1405
+    ],
+    "category": "Formula",
+    "text": "d) Gọi $M$ là giao điểm của đồ thị hàm số $y = f(x)$ với trục tung. Phương trình tiếp tuyến của đồ thị hàm số $y = f(x)$ tại điểm $M$ là $y = -3x - 2$."
+  },
+  {
+    "bbox": [
+      108,
+      1475,
+      1529,
+      1630
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Một hòn đá được ném từ một cây cầu với quỹ đạo ban đầu là $25^\\circ$ so với phương nằm ngang. Vào thời điểm nó di chuyển $x$ (m) theo phương ngang, chiều cao của hòn đá so với mặt nước dưới cầu được cho bởi $h(x) = ax^2 + bx + c$ (mét) với $a, b, c \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      146,
+      1644,
+      906,
+      1763
+    ],
+    "category": "Text",
+    "text": "Hòn đá được ném từ độ cao 3 mét so với mặt nước và đạt độ cao cực đại khi $x = 5$."
+  },
+  {
+    "bbox": [
+      146,
+      1801,
+      357,
+      1841
+    ],
+    "category": "Formula",
+    "text": "a) Giá trị $c = 3$."
+  },
+  {
+    "bbox": [
+      146,
+      1879,
+      704,
+      1923
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của $h(x)$ là $h'(x) = 2ax + b$."
+  },
+  {
+    "bbox": [
+      146,
+      1967,
+      1521,
+      2011
+    ],
+    "category": "Formula",
+    "text": "c) độ cao lớn nhất của hòn đá so với mặt nước là 4,16 mét (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      146,
+      2045,
+      1379,
+      2089
+    ],
+    "category": "Formula",
+    "text": "d) Hòn đá rơi xuống nước tại vị trí $x = 4,45$ mét (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1016,
+      1581,
+      1417,
+      1939
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      682,
+      2227,
+      964,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã Đề 149-Trang | 2"
+  }
+]

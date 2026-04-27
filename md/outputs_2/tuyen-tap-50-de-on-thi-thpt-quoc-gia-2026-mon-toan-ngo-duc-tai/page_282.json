@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      155,
+      1454,
+      256
+    ],
+    "category": "Text",
+    "text": "các trục tọa độ là dm. Gọi $V_0$ là thể tích của hồ nước. Dựa vào hàm số $f(x)$ tìm được, ta có"
+  },
+  {
+    "bbox": [
+      222,
+      264,
+      825,
+      309
+    ],
+    "category": "List-item",
+    "text": "a) Độ sâu lớn nhất của cái ao là 20 m."
+  },
+  {
+    "bbox": [
+      222,
+      312,
+      1446,
+      401
+    ],
+    "category": "List-item",
+    "text": "b) Thể tích của hồ nước được xác định thông qua công thức $V_0 = \\pi \\int_{0}^{200} f^2(x) dx$."
+  },
+  {
+    "bbox": [
+      222,
+      401,
+      1424,
+      448
+    ],
+    "category": "List-item",
+    "text": "c) Thể tích của hồ nước là $V_c = 8378$ lít (làm tròn đến hàng đơn vị của $dm^3$)."
+  },
+  {
+    "bbox": [
+      222,
+      455,
+      1448,
+      666
+    ],
+    "category": "List-item",
+    "text": "d) Hồ nước đang đầy thì nước bắt đầu bốc hơi khỏi hồ với lượng nước bốc hơi phụ thuộc vào hàm số $V'(t) = 0,03V \\cdot e^{-0,03t}$ ($t$ tính theo ngày). vậy sau 10 ngày không mưa, lượng nước còn lại trong hồ là 465 lít (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      192,
+      689,
+      1454,
+      1223
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục tọa độ $Oxyz$ (Đơn vị đo trên mỗi trục tọa độ dài 1 km, mặt đất là mặt phẳng ($Oxy$)).\nLúc đó, một chiếc máy bay bắt đầu di chuyển từ điểm $A(700; 850; 100)$ với vận tốc không đổi 150 (km/h) theo hướng về điểm $B(800; 900; 200)$. Khi tới $B$, máy bay thay đổi hướng bay theo hướng về điểm $C(1100; 1400; 300)$ với vận tốc giữ nguyên là 150 (km/h).\nMáy bay di chuyển theo hướng mới trong $30\\sqrt{35}$ phút (tức là mới tới điểm $D \\in BC$) thì bất ngờ gặp gió lớn khiến hướng bay của nó lệch đi $45^\\circ$ theo phương nằm ngang (tức là nếu $\\vec{i}$ là vecto chỉ phương của đường bay mới, $\\vec{u}$ là vecto hình chiếu xuống mặt đất của đoạn đường từ điểm $D$ trở đi thì góc lượng giác $(\\vec{i}; \\vec{u}) = 45^\\circ$) và vận tốc giảm còn 120 km/h. \nMáy bay tiếp tục bay theo hướng lệch trong 30 phút."
+  },
+  {
+    "bbox": [
+      222,
+      1230,
+      1448,
+      1332
+    ],
+    "category": "List-item",
+    "text": "a) Tổng thời gian bay thực tế của máy bay trong cả hành trình này là 142 phút (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      222,
+      1341,
+      1141,
+      1389
+    ],
+    "category": "List-item",
+    "text": "b) Khi bắt đầu gặp gió lớn, máy bay cách mặt đất 275 km."
+  },
+  {
+    "bbox": [
+      222,
+      1396,
+      1448,
+      1498
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $E(a; b; c)$ là vị trí cuối cùng của máy bay trong hành trình này. Khi đó $a+b+c = 2670$ (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      222,
+      1508,
+      1067,
+      1555
+    ],
+    "category": "List-item",
+    "text": "d) Tổng quăng đường cả hành trình dài hơn 650 km."
+  },
+  {
+    "bbox": [
+      215,
+      1618,
+      1386,
+      1672
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      192,
+      1706,
+      1454,
+      1861
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $C$ với $AC = 6$, $BC = 12$. Cạnh bên $SC = 3$ và $SC \\perp (ABC)$. Gọi $M$ là trung điểm cạnh $AC$. Khoảng cách giữa hai đường thẳng $SM$ và $AB$ bằng bao nhiêu. KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      1808,
+      1454,
+      1868
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1883,
+      1454,
+      2195
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Ở thị trấn của tôi, trời mưa một phần ba số ngày. Nếu trời mua, sẽ có khả năng xảy ra ùn tắc giao thông với xác suất $\\frac{1}{2}$, nếu trời không mưa, sẽ có khả năng xảy ra ùn tắc giao thông là $\\frac{1}{4}$. Nếu trời mưa và có ùn tắc giao thông, tôi sẽ đến muộn làm việc với xác suất $\\frac{1}{2}$. \nMặt khác, xác suất đến muộn là $\\frac{1}{8}$ nếu trời không mưa và không có ùn tắc giao thông. Trong các tình huống khác (mưa và"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1454,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4"
+  }
+]

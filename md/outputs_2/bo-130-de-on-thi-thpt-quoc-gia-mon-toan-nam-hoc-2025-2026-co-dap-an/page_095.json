@@ -1,0 +1,538 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1151,
+      385
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026\nĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 20\nĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      281,
+      390,
+      1013,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1236,
+      142,
+      1596,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1234,
+      357,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      93,
+      517,
+      1163,
+      575
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      590,
+      1196,
+      632
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Giả sử mẫu số liệu ghép nhóm được cho dưới dạng bảng tần số ghép nhóm"
+  },
+  {
+    "bbox": [
+      305,
+      695,
+      985,
+      843
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Nhóm</th><th>Nhóm 1</th><th>Nhóm 2</th><th>...</th><th>Nhóm k</th></tr></thead><tbody><tr><td>Giá trị đại diện</td><td>c<sub>1</sub></td><td>c<sub>2</sub></td><td>...</td><td>c<sub>k</sub></td></tr><tr><td>Tần số</td><td>n<sub>1</sub></td><td>n<sub>2</sub></td><td>...</td><td>n<sub>k</sub></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      93,
+      905,
+      466,
+      940
+    ],
+    "category": "Text",
+    "text": "Đặt $n = n_1 + n_2 + \\cdots + n_k$."
+  },
+  {
+    "bbox": [
+      93,
+      940,
+      1196,
+      1012
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu ghép nhóm, kí hiệu $\\bar{x}$, được tính theo công thức nào?"
+  },
+  {
+    "bbox": [
+      124,
+      1012,
+      566,
+      1083
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\bar{x} = \\frac{n_1c_1 + n_2c_2 + \\cdots + n_kc_k}{2n}\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1012,
+      1114,
+      1083
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\bar{x} = \\frac{n_1c_1 + n_2c_2 + \\cdots + n_kc_k}{\\sqrt{n}}\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1087,
+      566,
+      1159
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\bar{x} = \\frac{n_1c_1 + n_2c_2 + \\cdots + n_kc_k}{n}\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1083,
+      1114,
+      1159
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\bar{x} = \\frac{n_1^2c_1 + n_2^2c_2 + \\cdots + n_k^2c_k}{n}\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1185,
+      1196,
+      1265
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Khối hợp $ABCD.A'B'C'D'$ có thể tích bằng 27 thì thể tích khối tử diện $ACB'D'$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1265,
+      217,
+      1339
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{27}{2}$."
+  },
+  {
+    "bbox": [
+      395,
+      1282,
+      468,
+      1323
+    ],
+    "category": "List-item",
+    "text": "B 3."
+  },
+  {
+    "bbox": [
+      668,
+      1282,
+      741,
+      1323
+    ],
+    "category": "List-item",
+    "text": "C 9."
+  },
+  {
+    "bbox": [
+      941,
+      1282,
+      1030,
+      1323
+    ],
+    "category": "List-item",
+    "text": "D 18."
+  },
+  {
+    "bbox": [
+      93,
+      1365,
+      1196,
+      1446
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Tập nghiệm của bất phương trình $\\log_2(20 - 2x) \\le 2x$ có chứa bao nhiêu phần tử nguyên?"
+  },
+  {
+    "bbox": [
+      124,
+      1446,
+      197,
+      1492
+    ],
+    "category": "List-item",
+    "text": "A 7."
+  },
+  {
+    "bbox": [
+      395,
+      1446,
+      468,
+      1492
+    ],
+    "category": "List-item",
+    "text": "B 8."
+  },
+  {
+    "bbox": [
+      668,
+      1446,
+      741,
+      1492
+    ],
+    "category": "List-item",
+    "text": "C 9."
+  },
+  {
+    "bbox": [
+      941,
+      1446,
+      1030,
+      1492
+    ],
+    "category": "List-item",
+    "text": "D 10."
+  },
+  {
+    "bbox": [
+      93,
+      1524,
+      1196,
+      1604
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian $Oxyz$, cho hai điểm $A(-3; 4; 0)$ và $B(5; 0; 12)$. Cosin của góc giữa $\\overrightarrow{OA}$ và $\\overrightarrow{OB}$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1604,
+      225,
+      1678
+    ],
+    "category": "List-item",
+    "text": "A $-\\frac{5}{6}$."
+  },
+  {
+    "bbox": [
+      395,
+      1604,
+      474,
+      1678
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{5}{6}$."
+  },
+  {
+    "bbox": [
+      668,
+      1604,
+      761,
+      1678
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{3}{13}$."
+  },
+  {
+    "bbox": [
+      941,
+      1604,
+      1059,
+      1678
+    ],
+    "category": "List-item",
+    "text": "D $-\\frac{3}{13}$."
+  },
+  {
+    "bbox": [
+      93,
+      1702,
+      819,
+      1747
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Heo nguyên hàm của hàm số $f(x) = \\sqrt{x} + 1$ là"
+  },
+  {
+    "bbox": [
+      124,
+      1747,
+      463,
+      1821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad F(x) = x\\sqrt{x} + x + C.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1747,
+      942,
+      1821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad F(x) = \\frac{1}{\\sqrt{x}} + C.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1821,
+      427,
+      1893
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad F(x) = \\frac{1}{2}x\\sqrt{x} + C.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1821,
+      1030,
+      1893
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad F(x) = \\frac{2}{3}x\\sqrt{x} + x + C.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1917,
+      986,
+      1963
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Hàm số $y = \\log_5(x^3 - 3x^2 + 4)$ có bao nhiêu điểm cực trị?"
+  },
+  {
+    "bbox": [
+      124,
+      1963,
+      197,
+      2013
+    ],
+    "category": "List-item",
+    "text": "A 0."
+  },
+  {
+    "bbox": [
+      395,
+      1963,
+      468,
+      2013
+    ],
+    "category": "List-item",
+    "text": "B 2."
+  },
+  {
+    "bbox": [
+      668,
+      1963,
+      741,
+      2013
+    ],
+    "category": "List-item",
+    "text": "C 1."
+  },
+  {
+    "bbox": [
+      941,
+      1963,
+      1014,
+      2013
+    ],
+    "category": "List-item",
+    "text": "D 3."
+  },
+  {
+    "bbox": [
+      93,
+      2045,
+      1196,
+      2125
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Có 5 bạn, trong đó có 1 bạn tên là Đức. Có bao nhiêu cách xếp 5 bạn này thành 1 hàng ngang, sao cho Đức luôn đứng giữa 2 bạn khác?"
+  },
+  {
+    "bbox": [
+      124,
+      2125,
+      225,
+      2173
+    ],
+    "category": "List-item",
+    "text": "A 100."
+  },
+  {
+    "bbox": [
+      395,
+      2125,
+      482,
+      2173
+    ],
+    "category": "List-item",
+    "text": "B 96."
+  },
+  {
+    "bbox": [
+      668,
+      2125,
+      751,
+      2173
+    ],
+    "category": "List-item",
+    "text": "C 48."
+  },
+  {
+    "bbox": [
+      941,
+      2125,
+      1030,
+      2173
+    ],
+    "category": "List-item",
+    "text": "D 72."
+  },
+  {
+    "bbox": [
+      93,
+      2203,
+      1196,
+      2247
+    ],
+    "category": "Text",
+    "text": "CÂU 8. Cho hàm số $f(x)$ xác định, liên tục trên đoạn $[-2; 2]$ và có bảng biến thiên"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1475,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "93"
+  }
+]

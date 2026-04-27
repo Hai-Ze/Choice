@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      1071,
+      195
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int_{0}^{2} [2f(x) + 2027] dx = 2\\int_{0}^{2} f(x) dx + 2027\\int_{0}^{2} dx = 2.3 + 2027.2 = 4060$"
+  },
+  {
+    "bbox": [
+      76,
+      214,
+      1494,
+      318
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Khảo sát thời gian tập thể dục trong ngày của một số học sinh khối 12 thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      173,
+      332,
+      1395,
+      464
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0; 20)</td><td>[20; 40)</td><td>[40; 60)</td><td>[60; 80)</td><td>[80; 100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      519,
+      531,
+      564
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tức phân vị thứ nhất là"
+  },
+  {
+    "bbox": [
+      126,
+      582,
+      270,
+      620
+    ],
+    "category": "List-item",
+    "text": "A. [0; 20)."
+  },
+  {
+    "bbox": [
+      476,
+      582,
+      637,
+      620
+    ],
+    "category": "List-item",
+    "text": "B. [20; 40)."
+  },
+  {
+    "bbox": [
+      826,
+      582,
+      983,
+      620
+    ],
+    "category": "List-item",
+    "text": "C. [40; 60)."
+  },
+  {
+    "bbox": [
+      1177,
+      582,
+      1337,
+      620
+    ],
+    "category": "List-item",
+    "text": "D. [60; 80)."
+  },
+  {
+    "bbox": [
+      727,
+      647,
+      843,
+      685
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      705,
+      196,
+      743
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      76,
+      758,
+      661,
+      799
+    ],
+    "category": "Text",
+    "text": "Ta có cỡ mẫu là $n = 5 + 9 + 12 + 10 + 6 = 42$."
+  },
+  {
+    "bbox": [
+      76,
+      818,
+      1494,
+      930
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1, x_2, \\dots, x_{42}$ là thời gian tập thể dục trong ngày của 42 học sinh khối 12 và dãy này đã sắp xếp theo thứ tự tăng dẫn."
+  },
+  {
+    "bbox": [
+      76,
+      945,
+      1494,
+      1067
+    ],
+    "category": "Text",
+    "text": "Khi đó tức phân vị thứ nhất $Q_1$ là trung vị của dãy gồm 21 số liệu đầu nên $Q_1 = x_{11}$. Do $x_{11}$ thuộc nhóm $[20; 40)$ nên nhóm này chứa $Q_1$."
+  },
+  {
+    "bbox": [
+      76,
+      1101,
+      1136,
+      1175
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho biết $x = \\pm\\frac{\\pi}{3} + k2\\pi$ là họ nghiệm của phương trình nào sau đây ?"
+  },
+  {
+    "bbox": [
+      126,
+      1196,
+      388,
+      1243
+    ],
+    "category": "List-item",
+    "text": "A. $2\\cos x - \\sqrt{3} = 0$."
+  },
+  {
+    "bbox": [
+      476,
+      1205,
+      705,
+      1243
+    ],
+    "category": "List-item",
+    "text": "B. $2\\cos x - 1 = 0$."
+  },
+  {
+    "bbox": [
+      826,
+      1205,
+      1053,
+      1243
+    ],
+    "category": "List-item",
+    "text": "C. $2\\sin x + 1 = 0$."
+  },
+  {
+    "bbox": [
+      1177,
+      1196,
+      1433,
+      1243
+    ],
+    "category": "List-item",
+    "text": "D. $2\\sin x - \\sqrt{3} = 0$."
+  },
+  {
+    "bbox": [
+      727,
+      1268,
+      843,
+      1306
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1327,
+      196,
+      1365
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      82,
+      1384,
+      1232,
+      1476
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\cos 2x - \\sqrt{3} = 0 \\Leftrightarrow \\cos 2x = \\frac{\\sqrt{3}}{2} \\Leftrightarrow 2x = \\pm\\frac{\\pi}{6} + k2\\pi \\Leftrightarrow x = \\pm\\frac{\\pi}{12} + k\\pi, (k \\in \\mathbb{Z}). \\text{ Loại A.}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1501,
+      1136,
+      1581
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\cos x - 1 = 0 \\Leftrightarrow \\cos x = \\frac{1}{2} \\Leftrightarrow \\cos x = \\cos \\frac{\\pi}{3} \\Leftrightarrow x = \\pm\\frac{\\pi}{3} + k2\\pi, (k \\in \\mathbb{Z}). \\text{ Chọn B.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1608,
+      849,
+      1654
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm của bất phương trình $3^{x^2-2x} < 27$ là"
+  },
+  {
+    "bbox": [
+      126,
+      1675,
+      272,
+      1722
+    ],
+    "category": "List-item",
+    "text": "A. $(3; +\\infty)$"
+  },
+  {
+    "bbox": [
+      476,
+      1675,
+      607,
+      1722
+    ],
+    "category": "List-item",
+    "text": "B. $(-1; 3)$"
+  },
+  {
+    "bbox": [
+      826,
+      1675,
+      1118,
+      1722
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; -1) \\cup (3; +\\infty)$"
+  },
+  {
+    "bbox": [
+      1177,
+      1675,
+      1337,
+      1722
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -1)$"
+  },
+  {
+    "bbox": [
+      727,
+      1749,
+      843,
+      1787
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1808,
+      188,
+      1846
+    ],
+    "category": "Text",
+    "text": "**Chọn B**"
+  },
+  {
+    "bbox": [
+      76,
+      1867,
+      928,
+      1914
+    ],
+    "category": "Text",
+    "text": "Ta có $3^{x^2-2x} < 27 \\Leftrightarrow x^2-2x < 3 \\Leftrightarrow x^2-2x-3 < 0 \\Leftrightarrow -1 < x < 3$."
+  },
+  {
+    "bbox": [
+      76,
+      1933,
+      1464,
+      1979
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Thể tích khối tròn xoay giới hạn bởi các đường $y = 2x - x^2$, $y = 0$ khi quay quanh trục $Ox$ là:"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2257,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

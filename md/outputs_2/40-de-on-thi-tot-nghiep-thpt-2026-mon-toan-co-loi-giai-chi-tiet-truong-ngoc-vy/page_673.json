@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1573,
+      219
+    ],
+    "category": "Text",
+    "text": "Vì $P(A|B) > P(\\bar{A}|B)$ nên nếu nhân viên được chọn có mua bảo hiểm nhân thọ thì khi đó nhân viên đó là nữ nhiều hơn là nam."
+  },
+  {
+    "bbox": [
+      155,
+      294,
+      809,
+      335
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      356,
+      1575,
+      786
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = ax^3 + bx^2 + cx + d$ và $g(x) = mx^3 + nx^2 + px + q$ ($a,b,c,d,m,n,p,q \\in \\mathbb{R}$). Biết rằng đồ thị của hai hàm số $f(x)$ và $g(x)$ cắt nhau tại ba điểm có hoành độ lần lượt là $-4$; $-1$; $4$ và $f(2) = 2$; $g(x) = -3$ (tham khảo hình vẽ bên dưới). Gọi $S_1$ là diện tích hình phẳng giới hạn bởi hai đồ thị hàm số $y = f(x)$; $y = g(x)$ và hai đường thẳng $x = -4$; $x = -1$. Gọi $S_2$ là diện tích hình phẳng giới hạn bởi hai đồ thị hàm số $y = f(x)$; $y = g(x)$ và hai đường thẳng $x = -1$; $x = 4$. Biết $\\frac{S_1}{S_2} = \\frac{m}{n}$, với $\\frac{m}{n}$ là phân số tối giản và $m, n \\in \\mathbb{Z}$, tính $m+n$."
+  },
+  {
+    "bbox": [
+      448,
+      819,
+      1239,
+      1337
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1379,
+      493,
+      1415
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1438,
+      924,
+      1477
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1496,
+      350,
+      1535
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1726"
+  },
+  {
+    "bbox": [
+      155,
+      1551,
+      1137,
+      1595
+    ],
+    "category": "Text",
+    "text": "Vì $f(x)$ và $g(x)$ cắt nhau tại ba điểm có hoành độ lần lượt là $-4$; $-1$; $4$"
+  },
+  {
+    "bbox": [
+      155,
+      1619,
+      887,
+      1659
+    ],
+    "category": "Text",
+    "text": "Nên ta đặt hàm $f(x) - g(x) = k(x+4)(x+1)(x-4)$ (*)"
+  },
+  {
+    "bbox": [
+      155,
+      1683,
+      511,
+      1723
+    ],
+    "category": "Text",
+    "text": "Ta có $f(2) = 2$; $g(x) = -3$"
+  },
+  {
+    "bbox": [
+      155,
+      1747,
+      858,
+      1788
+    ],
+    "category": "Text",
+    "text": "Thay $x = 2$ vào (*) ta được $f(2) - g(2) = k \\cdot 6 \\cdot 3 \\cdot (-2)$"
+  },
+  {
+    "bbox": [
+      161,
+      1812,
+      442,
+      1851
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 2 - (-3) = k \\cdot (-36)\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      1864,
+      294,
+      1944
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow k = \\frac{-5}{36}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1968,
+      762,
+      2049
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } f(x) - g(x) = -\\frac{5}{36}(x+4)(x+1)(x-4)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2073,
+      1004,
+      2169
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } S_1 = \\int_{-4}^{-1} |f(x) - g(x)| \\, dx = \\int_{-4}^{-1} \\left| -\\frac{5}{36}(x+4)(x+1)(x-4) \\right| \\, dx = \\frac{65}{16}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

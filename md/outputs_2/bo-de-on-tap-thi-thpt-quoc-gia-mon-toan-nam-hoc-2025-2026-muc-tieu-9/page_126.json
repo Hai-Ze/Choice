@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      502,
+      132,
+      1189,
+      457
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      507,
+      1496,
+      585
+    ],
+    "category": "Text",
+    "text": "a) **Sai.** Phần thân là hình trụ có $h = 30$ m, bán kính đáy $R = \\frac{8}{2} = 4$ m nên có thể tích là:"
+  },
+  {
+    "bbox": [
+      586,
+      591,
+      1113,
+      634
+    ],
+    "category": "Formula",
+    "text": "$$\nV_1 = \\pi R^2 h = \\pi \\cdot 4^2 \\cdot 30 = 480\\pi \\text{ (m}^3\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      640,
+      1436,
+      686
+    ],
+    "category": "Text",
+    "text": "b) **Đúng.** Đồ thị hàm số $y = f(x) = \\sqrt{ax + b}$ đi qua các điểm $(-9; 0)$ và $(0; 4)$ nên ta có:"
+  },
+  {
+    "bbox": [
+      332,
+      696,
+      1334,
+      804
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} f(-9) = 0 \\\\ f(0) = 4 \\end{cases} \\Leftrightarrow \\begin{cases} \\sqrt{-9a + b} = 0 \\\\ \\sqrt{0 \\cdot a + b} = 4 \\end{cases} \\Leftrightarrow \\begin{cases} -9a + b = 0 \\\\ b = 16 \\end{cases} \\Leftrightarrow \\begin{cases} b = 16 \\\\ 9a = 16 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      811,
+      711,
+      894
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a = \\frac{16}{9} \\Rightarrow y = f(x) = \\sqrt{\\frac{16}{9}x + 16}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      892,
+      1545,
+      1015
+    ],
+    "category": "Text",
+    "text": "c) **Sai.** Phần đầu là khối tròn xoay khi quay hình phẳng giới hạn bởi $y = \\sqrt{\\frac{16}{9}x + 16}$, trục hoành và các đường thẳng $x = -9, x = 0$ quanh trục $Ox$ nên có thể tích là:"
+  },
+  {
+    "bbox": [
+      221,
+      1022,
+      1480,
+      1123
+    ],
+    "category": "Formula",
+    "text": "$$\nV_2 = \\pi \\int_{-9}^{0} \\left( \\sqrt{\\frac{16}{9}x + 16} \\right)^2 dx = \\pi \\int_{-9}^{0} \\left( \\frac{16}{9}x + 16 \\right) dx = \\pi \\left( \\frac{8}{9}x^2 + 16x \\right) \\Big|_{-9}^{0} = 72\\pi \\text{ (m}^3\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1127,
+      1059,
+      1171
+    ],
+    "category": "Text",
+    "text": "d) **Sai.** Thể tích của bồn nhiên liệu bằng tổng thể tích 3 phần:"
+  },
+  {
+    "bbox": [
+      202,
+      1182,
+      1396,
+      1261
+    ],
+    "category": "Text",
+    "text": "- Thể tích phần度i (nửa hình cầu bán kính $R = 4$): $V_3 = \\frac{1}{2} \\cdot \\frac{4}{3}\\pi \\cdot 4^3 = \\frac{128}{3}\\pi \\text{ (m}^3\\text{).}$"
+  },
+  {
+    "bbox": [
+      202,
+      1272,
+      641,
+      1314
+    ],
+    "category": "Text",
+    "text": "- Tổng thể tích bồn nhiên liệu:"
+  },
+  {
+    "bbox": [
+      377,
+      1319,
+      1320,
+      1398
+    ],
+    "category": "Formula",
+    "text": "$$\nV = V_1 + V_2 + V_3 = 480\\pi + 72\\pi + \\frac{128}{3}\\pi = \\frac{1784}{3}\\pi \\approx 1868,17 \\text{ (m}^3\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1418,
+      748,
+      1456
+    ],
+    "category": "Text",
+    "text": "Vì $1868,17 > 1750$ nên mind đề d sai."
+  },
+  {
+    "bbox": [
+      154,
+      1477,
+      1548,
+      1784
+    ],
+    "category": "Text",
+    "text": "Bài 3. Hệ thống lọc nước bể bơi vô cùng quan trọng để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon và thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ liên tục trên đoạn $[0; 12]$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm 6 giờ sáng đến 6 giờ chiều được cho bởi hàm số"
+  },
+  {
+    "bbox": [
+      554,
+      1792,
+      1138,
+      1957
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\begin{cases} 100t, & 0 \\le t \\le 3 \\\\ -200t + a, & 3 \\le t \\le 6, (a \\in \\mathbb{R}). \\\\ 100t - 900, & 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1963,
+      852,
+      2005
+    ],
+    "category": "Text",
+    "text": "Với mốc thời gian $t = 0$ tại thời điểm 6 giờ sáng."
+  },
+  {
+    "bbox": [
+      190,
+      2024,
+      1329,
+      2066
+    ],
+    "category": "Text",
+    "text": "a) Tại thời điểm 9 giờ sáng, nước trong bể đang tăng với tốc độ 600 gallon/giờ."
+  },
+  {
+    "bbox": [
+      190,
+      2082,
+      522,
+      2121
+    ],
+    "category": "Text",
+    "text": "b) Giá trị của $a = 900$."
+  },
+  {
+    "bbox": [
+      190,
+      2135,
+      1374,
+      2177
+    ],
+    "category": "Text",
+    "text": "c) Tốc độ thay đổi lượng nước trong bể bằng 0 vào lúc 11 giờ trưa và 15 giờ chiều."
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "126"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1499,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

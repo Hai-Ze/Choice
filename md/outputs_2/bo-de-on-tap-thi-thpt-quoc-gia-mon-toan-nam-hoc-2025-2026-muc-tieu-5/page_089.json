@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      576,
+      249
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 8"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1247,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1529,
+      269
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      534,
+      1547,
+      617
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 1. Trong mặt phẳng $Oxy$, tâm của đường tròn $(C) : x^2 + y^2 + 6x - 4y - 23 = 0$ có tọa độ là:"
+  },
+  {
+    "bbox": [
+      191,
+      640,
+      381,
+      683
+    ],
+    "category": "List-item",
+    "text": "A) $(-3; -2)$."
+  },
+  {
+    "bbox": [
+      535,
+      640,
+      674,
+      683
+    ],
+    "category": "List-item",
+    "text": "B) $(3; 2)$."
+  },
+  {
+    "bbox": [
+      879,
+      640,
+      1042,
+      683
+    ],
+    "category": "List-item",
+    "text": "C) $(3; -2)$."
+  },
+  {
+    "bbox": [
+      1224,
+      640,
+      1383,
+      683
+    ],
+    "category": "List-item",
+    "text": "D) $(-3; 2)$."
+  },
+  {
+    "bbox": [
+      155,
+      698,
+      1547,
+      795
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình đường tròn $(C)$ có dạng $x^2 + y^2 - 2ax - 2by + c = 0$ với tâm $I(a; b)$."
+  },
+  {
+    "bbox": [
+      202,
+      816,
+      1162,
+      856
+    ],
+    "category": "Text",
+    "text": "Từ phương trình đề bài: $-2a = 6 \\Rightarrow a = -3$ và $-2b = -4 \\Rightarrow b = 2$."
+  },
+  {
+    "bbox": [
+      202,
+      877,
+      723,
+      917
+    ],
+    "category": "Text",
+    "text": "Vậy tâm của đường tròn là $I(-3; 2)$."
+  },
+  {
+    "bbox": [
+      155,
+      936,
+      1069,
+      985
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 2. Diểm cực tiểu của hàm số $y = \\frac{1}{3}x^3 - 2x^2 + 3x - 1$ là"
+  },
+  {
+    "bbox": [
+      191,
+      998,
+      335,
+      1041
+    ],
+    "category": "List-item",
+    "text": "A) $x = 3$."
+  },
+  {
+    "bbox": [
+      535,
+      998,
+      680,
+      1041
+    ],
+    "category": "List-item",
+    "text": "B) $x = 1$."
+  },
+  {
+    "bbox": [
+      879,
+      998,
+      1028,
+      1041
+    ],
+    "category": "List-item",
+    "text": "C) $x = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      1224,
+      998,
+      1391,
+      1041
+    ],
+    "category": "List-item",
+    "text": "D) $x = -1$."
+  },
+  {
+    "bbox": [
+      155,
+      1059,
+      1305,
+      1156
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $y' = x^2 - 4x + 3$. Cho $y' = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = 3 \\end{cases}$. $y'' = 2x - 4$."
+  },
+  {
+    "bbox": [
+      202,
+      1175,
+      1048,
+      1217
+    ],
+    "category": "Text",
+    "text": "Tại $x = 1$: $y''(1) = -2 < 0 \\Rightarrow$ hàm số đạt cực đại tại $x = 1$."
+  },
+  {
+    "bbox": [
+      202,
+      1236,
+      1036,
+      1278
+    ],
+    "category": "Text",
+    "text": "Tại $x = 3$: $y''(3) = 2 > 0 \\Rightarrow$ hàm số đạt cực tiểu tại $x = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1297,
+      1547,
+      1380
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 3. Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 3$ và công bội $q = 2$. Số hạng thứ 5 của cấp số nhân là"
+  },
+  {
+    "bbox": [
+      191,
+      1401,
+      374,
+      1444
+    ],
+    "category": "List-item",
+    "text": "A) $u_5 = -5$."
+  },
+  {
+    "bbox": [
+      535,
+      1401,
+      707,
+      1444
+    ],
+    "category": "List-item",
+    "text": "B) $u_5 = 48$."
+  },
+  {
+    "bbox": [
+      879,
+      1401,
+      1078,
+      1444
+    ],
+    "category": "List-item",
+    "text": "C) $u_5 = -96$."
+  },
+  {
+    "bbox": [
+      1224,
+      1401,
+      1376,
+      1444
+    ],
+    "category": "List-item",
+    "text": "D) $u_5 = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1459,
+      1427,
+      1522
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Số hạng thứ 5 của cấp số nhân là $u_5 = u_1 \\cdot q^4 = 3 \\cdot 2^4 = 3 \\cdot 16 = 48$."
+  },
+  {
+    "bbox": [
+      155,
+      1535,
+      936,
+      1590
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 4. Tập nghiệm của phương trình $\\sin x = \\frac{\\sqrt{3}}{2}$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1601,
+      611,
+      1651
+    ],
+    "category": "List-item",
+    "text": "A) $\\left\\{\\frac{\\pi}{3} + k\\pi; \\frac{2\\pi}{3} + k\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      879,
+      1601,
+      1344,
+      1651
+    ],
+    "category": "List-item",
+    "text": "B) $\\left\\{\\frac{\\pi}{6} + k2\\pi; -\\frac{\\pi}{6} + k2\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      191,
+      1647,
+      696,
+      1697
+    ],
+    "category": "List-item",
+    "text": "C) $\\left\\{-\\frac{\\pi}{6} + k2\\pi; -\\frac{5\\pi}{6} + k2\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      879,
+      1647,
+      1332,
+      1697
+    ],
+    "category": "List-item",
+    "text": "D) $\\left\\{\\frac{\\pi}{3} + k2\\pi; \\frac{2\\pi}{3} + k2\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      155,
+      1688,
+      1455,
+      1839
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $\\sin x = \\frac{\\sqrt{3}}{2} \\Leftrightarrow \\sin x = \\sin \\frac{\\pi}{3} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{3} + k2\\pi \\\\ x = \\pi - \\frac{\\pi}{3} + k2\\pi = \\frac{2\\pi}{3} + k2\\pi \\end{cases} (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      159,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1599,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "89"
+  }
+]

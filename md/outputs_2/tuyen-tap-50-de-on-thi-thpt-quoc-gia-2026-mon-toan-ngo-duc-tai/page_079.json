@@ -1,0 +1,349 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      158,
+      305,
+      196
+    ],
+    "category": "Section-header",
+    "text": "Câu 8."
+  },
+  {
+    "bbox": [
+      192,
+      210,
+      925,
+      366
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R} \\setminus \\{-1\\}$ có bảng biến thiên như hình bên. Đồ thị hàm số $y = f(x)$ có bao nhiêu đường tiệm cận ngang?"
+  },
+  {
+    "bbox": [
+      221,
+      385,
+      303,
+      422
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      390,
+      385,
+      471,
+      422
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      559,
+      385,
+      640,
+      422
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      727,
+      385,
+      809,
+      422
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      940,
+      210,
+      1442,
+      438
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      456,
+      1454,
+      558
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục $Ox$ và các đường thẳng $x = a, x = b$."
+  },
+  {
+    "bbox": [
+      221,
+      564,
+      447,
+      691
+    ],
+    "category": "List-item",
+    "text": "A. $\\int_{a}^{b} |f(x)| \\, dx$."
+  },
+  {
+    "bbox": [
+      524,
+      564,
+      749,
+      691
+    ],
+    "category": "List-item",
+    "text": "B. $\\left| \\int_{a}^{b} f(x) \\, dx \\right|$."
+  },
+  {
+    "bbox": [
+      826,
+      564,
+      1089,
+      691
+    ],
+    "category": "List-item",
+    "text": "C. $\\pi \\int_{a}^{b} [f(x)]^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      1127,
+      564,
+      1332,
+      691
+    ],
+    "category": "List-item",
+    "text": "D. $\\int_{a}^{b} f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      192,
+      727,
+      1142,
+      883
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hàm số $y = ax^3 + bx^2 + cx + d$ có đồ thị là đường cong trong hình vẽ. Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      903,
+      386,
+      946
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      445,
+      903,
+      617,
+      946
+    ],
+    "category": "List-item",
+    "text": "B. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      669,
+      903,
+      834,
+      946
+    ],
+    "category": "List-item",
+    "text": "C. $(-1; 3)$."
+  },
+  {
+    "bbox": [
+      893,
+      903,
+      1034,
+      946
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      1165,
+      727,
+      1446,
+      1091
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1102,
+      1454,
+      1217
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho cấp số nhân $(u_n)$ với số hạng đầu $u_1 = 6$ và công bội $q = -\\frac{1}{2}$. Tính $u_5$."
+  },
+  {
+    "bbox": [
+      221,
+      1219,
+      308,
+      1299
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      524,
+      1219,
+      632,
+      1276
+    ],
+    "category": "List-item",
+    "text": "B. $-3$."
+  },
+  {
+    "bbox": [
+      826,
+      1219,
+      938,
+      1299
+    ],
+    "category": "List-item",
+    "text": "C. $-\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      1127,
+      1219,
+      1242,
+      1299
+    ],
+    "category": "List-item",
+    "text": "D. $-\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      192,
+      1312,
+      925,
+      1360
+    ],
+    "category": "Text",
+    "text": "Câu 12.解出不等式 $\\log_2(x - 1) \\le 3$."
+  },
+  {
+    "bbox": [
+      221,
+      1378,
+      355,
+      1421
+    ],
+    "category": "List-item",
+    "text": "A. $(1; 9]$."
+  },
+  {
+    "bbox": [
+      524,
+      1378,
+      696,
+      1421
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 9)$."
+  },
+  {
+    "bbox": [
+      826,
+      1378,
+      991,
+      1421
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 9]$."
+  },
+  {
+    "bbox": [
+      1127,
+      1378,
+      1262,
+      1421
+    ],
+    "category": "List-item",
+    "text": "D. $(1; 9]$."
+  },
+  {
+    "bbox": [
+      192,
+      1484,
+      1454,
+      1605
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      192,
+      1635,
+      1454,
+      2172
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một doanh nghiệp sản xuất ô tô có hàm sản xuất là hàm Cobb-Douglas $Q = \\sqrt[3]{K^2 \\cdot L}$, trong đó $K$ và $L$ lần lượt là số đơn vị vốn và số đơn vị lao động mà doanh nghiệp thuê được, $Q$ là số ô tô sản xuất ra được (đơn vị: chiếc ô tô). Giả sử giá thuê một đơn vị vốn là $c_K$, giá thuê một đơn vị lao động là $c_L$, ngoài chi phí thuê lao động và vốn, doanh nghiệp còn phải chịu một chi phí cố định là $C_0$ (đơn vị: trăm USD). Khi đó hàm số $F = c_K \\cdot K + c_L \\cdot L + C_0$ mô tả tổng chi phí mà doanh nghiệp phải bỏ ra, thường được gọi là hàm chi phí sản xuất. Từ năm 2025 thì doanh nghiệp cố định giá thuê như sau $c_K = 10$, $c_L = 5$ và chi phí cố định $C_0 = 50$ và năm 2026 doanh nghiệp dự định sản xuất 2026 chiếc ô tô. Xét dự định sản xuất năm 2026 của doanh nghiệp."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1454,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

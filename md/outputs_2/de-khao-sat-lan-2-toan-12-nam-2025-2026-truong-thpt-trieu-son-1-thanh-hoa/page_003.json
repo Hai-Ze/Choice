@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      216,
+      85,
+      1524,
+      317
+    ],
+    "category": "Text",
+    "text": "**Câu 14.** Một kỹ sư thiết kế một mô hình đường hầm như bên dưới. Biết rằng đường hầm mô hình có chiều dài 5 (m). Khi cắt mô hình này bởi các mặt phẳng vuông góc với trục $Ox$ tại điểm $x$ (đơn vị là mét) ta được thiết diện là một hình parabol có chiều cao $h(x) = 3 - \\frac{2}{5}x$, độ dài đáy gấpinterior của parabol (như hình vẽ bên cạnh) và diện tích của thiết diện là $S(x)$."
+  },
+  {
+    "bbox": [
+      401,
+      313,
+      876,
+      681
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      934,
+      371,
+      1369,
+      662
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      343,
+      683,
+      631,
+      726
+    ],
+    "category": "Formula",
+    "text": "a) $OA = h(0) = 3$ (m)."
+  },
+  {
+    "bbox": [
+      343,
+      735,
+      1302,
+      828
+    ],
+    "category": "Formula",
+    "text": "b) Thể tích của đường hầm được tính theo công thức $V = \\int_{0}^{5} S(x)dx$ (m$^3$)."
+  },
+  {
+    "bbox": [
+      343,
+      836,
+      679,
+      917
+    ],
+    "category": "Formula",
+    "text": "c) $\\int h(x)dx = 3x - \\frac{x^2}{5} + C$."
+  },
+  {
+    "bbox": [
+      343,
+      920,
+      1178,
+      963
+    ],
+    "category": "Formula",
+    "text": "d) Thể tích của hầm là 29,89 m$^3$ (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      216,
+      963,
+      1522,
+      1047
+    ],
+    "category": "Text",
+    "text": "**Câu 15.** Lớp 12C có 40 học sinh. Trong một buổi kiểm tra định kỳ, số học sinh của lớp được chia làm hai phòng như sau"
+  },
+  {
+    "bbox": [
+      496,
+      1047,
+      1315,
+      1231
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Phòng<br>Học sinh</th><th>Phòng 1</th><th>Phòng 2</th></tr></thead><tbody><tr><td>Nam</td><td>11</td><td>8</td></tr><tr><td>Nữ</td><td>9</td><td>12</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      351,
+      1244,
+      1113,
+      1285
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một học sinh của lớp 12C. Xét các biến cố"
+  },
+  {
+    "bbox": [
+      351,
+      1290,
+      825,
+      1326
+    ],
+    "category": "Text",
+    "text": "A: “Học sinh được chọn ở phòng 2”."
+  },
+  {
+    "bbox": [
+      351,
+      1332,
+      864,
+      1368
+    ],
+    "category": "Text",
+    "text": "B: “Học sinh được chọn là học sinh nữ”"
+  },
+  {
+    "bbox": [
+      348,
+      1374,
+      756,
+      1409
+    ],
+    "category": "Text",
+    "text": "a) Lớp 12C có 21 học sinh nam."
+  },
+  {
+    "bbox": [
+      348,
+      1410,
+      1160,
+      1452
+    ],
+    "category": "Text",
+    "text": "b) Biến cố AB: “Học sinh được chọn là học sinh nữ ở phòng 2”."
+  },
+  {
+    "bbox": [
+      348,
+      1458,
+      548,
+      1536
+    ],
+    "category": "Formula",
+    "text": "c) $P(B) = \\frac{21}{40}$."
+  },
+  {
+    "bbox": [
+      348,
+      1548,
+      565,
+      1624
+    ],
+    "category": "Formula",
+    "text": "d) $P(A|B) = \\frac{4}{7}$."
+  },
+  {
+    "bbox": [
+      216,
+      1636,
+      1308,
+      1687
+    ],
+    "category": "Text",
+    "text": "**Câu 16.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x-2)^2 + (y+1)^2 + (z-1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      348,
+      1696,
+      1023,
+      1744
+    ],
+    "category": "Text",
+    "text": "a) Mặt cầu $(S)$ có tâm $I(2;-1;1)$ và bán kính $R = 3$."
+  },
+  {
+    "bbox": [
+      348,
+      1754,
+      902,
+      1800
+    ],
+    "category": "Text",
+    "text": "b)úp $M(1;3;5)$ nằm trong mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      348,
+      1814,
+      1515,
+      1952
+    ],
+    "category": "Text",
+    "text": "c)Đường thẳng đi qua gốc tọa độ $O$ và tâm $I$ của mặt cầu $(S)$ có dạng $d: \\begin{cases} x = 2t \\\\ y = -t \\\\ z = -t \\end{cases} (t \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      216,
+      1964,
+      1524,
+      2050
+    ],
+    "category": "Text",
+    "text": "d)Mặt phẳng $(P): x + 2y - 2z + 8 = 0$ cắt mặt cầu $(S)$ theo giao tuyến là đường tròn có bán kính $r = 2$."
+  },
+  {
+    "bbox": [
+      1246,
+      2077,
+      1519,
+      2115
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 1201"
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      761,
+      181
+    ],
+    "category": "Text",
+    "text": "trung điểm $SC$. Mind đề nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      188,
+      199,
+      451,
+      244
+    ],
+    "category": "List-item",
+    "text": "A $BD \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      188,
+      246,
+      401,
+      287
+    ],
+    "category": "List-item",
+    "text": "C $BC \\perp SB$."
+  },
+  {
+    "bbox": [
+      876,
+      199,
+      1157,
+      244
+    ],
+    "category": "List-item",
+    "text": "B $OI \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      876,
+      246,
+      1087,
+      287
+    ],
+    "category": "List-item",
+    "text": "D $SD \\perp DC$."
+  },
+  {
+    "bbox": [
+      153,
+      287,
+      198,
+      326
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      287,
+      1548,
+      433
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $ABCD$ là hình chữ nhật nên $BD$ không vuông góc với $AC$ (trừ khi là hình vuông). Do đó $BD$ không vuông góc với mặt phẳng $(SAC)$. Các khẳng định còn lại đều đúng dựa trên tính chất vuông góc của đường thẳng và mặt phẳng."
+  },
+  {
+    "bbox": [
+      153,
+      452,
+      198,
+      489
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      449,
+      965,
+      494
+    ],
+    "category": "Text",
+    "text": "Câu 10. Số nghiệm của phương trình $2^{x^2-7x+5} = 1$ là"
+  },
+  {
+    "bbox": [
+      190,
+      512,
+      274,
+      555
+    ],
+    "category": "List-item",
+    "text": "A 2."
+  },
+  {
+    "bbox": [
+      535,
+      512,
+      617,
+      555
+    ],
+    "category": "List-item",
+    "text": "B 1."
+  },
+  {
+    "bbox": [
+      879,
+      512,
+      961,
+      555
+    ],
+    "category": "List-item",
+    "text": "C 3."
+  },
+  {
+    "bbox": [
+      1223,
+      512,
+      1305,
+      555
+    ],
+    "category": "List-item",
+    "text": "D 0."
+  },
+  {
+    "bbox": [
+      153,
+      573,
+      198,
+      612
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      571,
+      1548,
+      673
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $2^{x^2-7x+5} = 1 \\Leftrightarrow x^2-7x+5 = 0$. Phương trình bậc hai này có $\\Delta = (-7)^2-4 \\cdot 5 = 29 > 0$ nên có 2 nghiệm phân biệt."
+  },
+  {
+    "bbox": [
+      153,
+      692,
+      198,
+      729
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      692,
+      1379,
+      735
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho cấp số cộng $(u_n)$ với $u_n = 3n + 2$. Tìm số hạng đầu $u_1$ và công sai $d$."
+  },
+  {
+    "bbox": [
+      190,
+      753,
+      437,
+      796
+    ],
+    "category": "List-item",
+    "text": "A $u_1 = 2; d = 2$."
+  },
+  {
+    "bbox": [
+      190,
+      798,
+      437,
+      839
+    ],
+    "category": "List-item",
+    "text": "C $u_1 = 3; d = 5$."
+  },
+  {
+    "bbox": [
+      876,
+      753,
+      1125,
+      796
+    ],
+    "category": "List-item",
+    "text": "B $u_1 = 5; d = 3$."
+  },
+  {
+    "bbox": [
+      876,
+      798,
+      1125,
+      839
+    ],
+    "category": "List-item",
+    "text": "D $u_1 = 5; d = 2$."
+  },
+  {
+    "bbox": [
+      153,
+      841,
+      198,
+      878
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      837,
+      1522,
+      901
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_1 = 3(1)+2 = 5$ và $u_2 = 3(2)+2 = 8$. Công sai $d = u_2 - u_1 = 8-5 = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      918,
+      198,
+      955
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      916,
+      1548,
+      1002
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho hình集合 $ABCD.A'B'C'D'$. Gọi $O$ là tâm của hình集合, khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      617,
+      1014,
+      1081,
+      1445
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1523,
+      474,
+      1572
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{OA} + \\overrightarrow{OA'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      190,
+      1572,
+      469,
+      1617
+    ],
+    "category": "List-item",
+    "text": "C $\\overrightarrow{OA} + \\overrightarrow{OB} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      876,
+      1523,
+      1160,
+      1572
+    ],
+    "category": "List-item",
+    "text": "B $\\overrightarrow{OA} + \\overrightarrow{OC'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      876,
+      1572,
+      1157,
+      1617
+    ],
+    "category": "List-item",
+    "text": "D $\\overrightarrow{OA} + \\overrightarrow{OD} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      153,
+      1619,
+      198,
+      1656
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1617,
+      1275,
+      1722
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tâm $O$ của hình集合 là trung điểm của đường chéo $AC'$.\nDo đó $\\overrightarrow{OA} + \\overrightarrow{OC'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      153,
+      1742,
+      1548,
+      1829
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      1852,
+      198,
+      1889
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1850,
+      1548,
+      2134
+    ],
+    "category": "Text",
+    "text": "Bài 1. Xét một hệ trục tọa độ $Oxyz$ được cho sẵn, đơn vị trên mỗi trục là $dm$, mặt ngoài của một quả bóng được mô hình hóa bởi phương trình mặt cầu $(x - 2)^2 + (y + 1)^2 + (z + 1)^2 = 6$, quả bóng nằm yên trên sàn nhà. Người ta nhìn thấy một tấm ván ngả xuống đề lên quả bóng, phần giao của tấm ván và sàn nhà là đường thẳng $d$ có phương trình $\\frac{x+2}{2} = \\frac{y+1}{-3} = \\frac{z}{1}$. Gọi $A, B$ lần lượt là hai tiếp điểm của tấm ván, sàn nhà với quả bóng và $I$ là tâm quả bóng. Xét tính đúng sai của các mind đề sau:"
+  },
+  {
+    "bbox": [
+      190,
+      2149,
+      976,
+      2196
+    ],
+    "category": "List-item",
+    "text": "a) Quả bóng có tâm $I(2; -1; -1)$ và bán kính $R = \\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "60"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

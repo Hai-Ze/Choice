@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      202,
+      141,
+      1041,
+      181
+    ],
+    "category": "Text",
+    "text": "Vì $1 \\le k \\le 59 \\Rightarrow 1 \\le 4m + 2 \\le 59 \\Rightarrow -0,25 \\le m \\le 14,25$."
+  },
+  {
+    "bbox": [
+      202,
+      202,
+      595,
+      244
+    ],
+    "category": "Text",
+    "text": "Do đó $m \\in \\{0; 1; 2; \\dots; 14\\}$."
+  },
+  {
+    "bbox": [
+      202,
+      261,
+      886,
+      303
+    ],
+    "category": "Text",
+    "text": "Số phương án tối ưu là $n(A) = 14 - 0 + 1 = 15$."
+  },
+  {
+    "bbox": [
+      202,
+      322,
+      496,
+      360
+    ],
+    "category": "Text",
+    "text": "Xác suất cần tìm là:"
+  },
+  {
+    "bbox": [
+      639,
+      365,
+      1062,
+      449
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{15}{59} \\approx 0,2542\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      468,
+      923,
+      510
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm, ta được $P \\approx 0,25$."
+  },
+  {
+    "bbox": [
+      152,
+      529,
+      1548,
+      795
+    ],
+    "category": "Text",
+    "text": "### **Bài 6.** Một nhà sản xuất ổ bi đã đặt một mô hình quả cầu khổng lồ trên mái nghiêng của nhà xưởng. mặt mái hiên có thể được mô tả bằng mặt phẳng ($\\alpha$) : $x + 2y + 2z - 10 = 0$, trong đó $A, B, C$ là giao điểm của mặt phẳng ($\\alpha$) với các trục tọa độ. Một mô hình quả cầu bán kính $r = 3$ được đặt tiếp xúc với mặt phẳng ($\\alpha$) tại điểm $C$. Từ $C$ kẻ đường vuông góc với $AB$ tại $F$. Khi người ta muốn thay thế quả cầu này, họ cho nó lăn trên đường thẳng $CF$ cho đến khi quả cầu vừa tiếp xúc với mặt phẳng ($Oxy$) tại $P(a; b; 0)$ thì停止 lại. Tính $a + b$."
+  },
+  {
+    "bbox": [
+      443,
+      841,
+      1234,
+      1609
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1690,
+      1548,
+      1794
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $A \\in Ox$ nên $A(x; 0; 0)$. Mà $A \\in (\\alpha)$ nên ta có: $x + 2 \\cdot 0 + 2 \\cdot 0 - 10 = 0 \\Rightarrow x = 10$.因此 $A(10; 0; 0)$ Tương tự, ta cũng tìm được $B(0; 5; 0)$ và $C(0; 0; 5)$."
+  },
+  {
+    "bbox": [
+      152,
+      1811,
+      1548,
+      1944
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là tâm mặt cầu khi nó đang tiếp xúc với $CF$ tại $C$. Diểm $I$ thuộc đường thẳng qua $C$ và vuông góc với ($\\alpha$). Khi đó $CI \\perp (\\alpha)$ nên đường thẳng $CI$ nhận vecto pháp tuyến của mặt phẳng ($\\alpha$) là $\\vec{n}(1; 2; 2)$ làm vecto chỉ phương."
+  },
+  {
+    "bbox": [
+      202,
+      1961,
+      1489,
+      2005
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $CI$ đi qua điểm $C(0; 0; 5)$ và có vecto chỉ phương $\\vec{n}(1; 2; 2)$ có phương trình:"
+  },
+  {
+    "bbox": [
+      630,
+      2012,
+      1069,
+      2179
+    ],
+    "category": "Formula",
+    "text": "$$\nCI : \\begin{cases} x = t \\\\ y = 2t \\\\ z = 5 + 2t \\end{cases} , \\quad (t \\in \\mathbb{R})\n$$"
+  },
+  {
+    "bbox": [
+      57,
+      2249,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "176"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

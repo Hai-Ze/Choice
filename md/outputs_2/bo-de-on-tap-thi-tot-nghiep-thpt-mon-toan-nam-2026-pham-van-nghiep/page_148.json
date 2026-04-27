@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      217,
+      111,
+      675,
+      154
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_3(x+2) \\geq 2 \\Leftrightarrow x+2 \\geq 9 \\Leftrightarrow x \\geq 7.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      158,
+      1308,
+      207
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho cấp số cộng $(u_n)$ có $u_5 = 9, u_6 = 15$. Công sai của cấp số cộng $(u_n)$ bằng"
+  },
+  {
+    "bbox": [
+      213,
+      215,
+      296,
+      295
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{5}{3}$."
+  },
+  {
+    "bbox": [
+      546,
+      235,
+      628,
+      272
+    ],
+    "category": "List-item",
+    "text": "B. 6."
+  },
+  {
+    "bbox": [
+      862,
+      215,
+      944,
+      295
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{3}{5}$."
+  },
+  {
+    "bbox": [
+      1177,
+      235,
+      1277,
+      272
+    ],
+    "category": "List-item",
+    "text": "D. -6."
+  },
+  {
+    "bbox": [
+      833,
+      303,
+      953,
+      344
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      346,
+      1055,
+      391
+    ],
+    "category": "Text",
+    "text": "Ta có công sai của cấp số cộng $(u_n)$ là $d = u_6 - u_5 = 15 - 9 = 6$"
+  },
+  {
+    "bbox": [
+      74,
+      398,
+      807,
+      444
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      213,
+      451,
+      446,
+      531
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x \\cdot 2025^{x-1}}{\\ln 2025} + C$."
+  },
+  {
+    "bbox": [
+      546,
+      451,
+      753,
+      531
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{2025^x}{\\ln 2025} + C$."
+  },
+  {
+    "bbox": [
+      862,
+      451,
+      1088,
+      531
+    ],
+    "category": "List-item",
+    "text": "C. $x \\cdot 2025^{x-1} + C$."
+  },
+  {
+    "bbox": [
+      1177,
+      451,
+      1392,
+      531
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{2025^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      833,
+      536,
+      953,
+      577
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      582,
+      749,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\int f(x)dx = \\int 2025^x dx = \\frac{2025^x}{\\ln 2025} + C\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      655,
+      1572,
+      753
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng – sai."
+  },
+  {
+    "bbox": [
+      74,
+      753,
+      781,
+      806
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x) = 2 \\sin x \\cos x + \\sqrt{2}x$"
+  },
+  {
+    "bbox": [
+      213,
+      815,
+      865,
+      913
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho liên tục trên đoạn $\\left[\\frac{\\pi}{3}; \\pi\\right]$."
+  },
+  {
+    "bbox": [
+      213,
+      915,
+      1047,
+      972
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 2 \\cos 2x + \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      213,
+      981,
+      1309,
+      1078
+    ],
+    "category": "List-item",
+    "text": "c) Trên đoạn $\\left[\\frac{\\pi}{3}; \\pi\\right]$, phương trình $f'(x) = 0$ có đúng một nghiệm là $\\frac{3\\pi}{8}$."
+  },
+  {
+    "bbox": [
+      213,
+      1081,
+      1124,
+      1185
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $\\left[\\frac{\\pi}{3}; \\pi\\right]$ là $\\frac{\\sqrt{3}}{2} + \\frac{\\pi\\sqrt{2}}{3}$."
+  },
+  {
+    "bbox": [
+      815,
+      1192,
+      931,
+      1233
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1238,
+      347,
+      1279
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      213,
+      1282,
+      1564,
+      1380
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $f(x) = 2 \\sin x \\cos x + \\sqrt{2}x = \\sin 2x + \\sqrt{2}x$ liên tục trên $\\mathbb{R}$ nên liên tục trên $\\left[\\frac{\\pi}{3}; \\pi\\right]$"
+  },
+  {
+    "bbox": [
+      213,
+      1387,
+      351,
+      1428
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      213,
+      1437,
+      815,
+      1494
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = (2x)' \\cos 2x + \\sqrt{2} = 2 \\cos 2x + \\sqrt{2}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1505,
+      306,
+      1542
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      213,
+      1545,
+      1078,
+      2043
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f'(x) = 0 \\Leftrightarrow 2 \\cos 2x + \\sqrt{2} = 0 \\Leftrightarrow \\cos 2x = -\\frac{\\sqrt{2}}{2} = \\cos \\frac{3\\pi}{4} \\\\ \\Leftrightarrow \\begin{cases} 2x = \\frac{3\\pi}{4} + k2\\pi \\\\ 2x = -\\frac{3\\pi}{4} + k2\\pi \\end{cases} \\quad (k \\in \\mathbb{Z}) \\\\ \\Leftrightarrow \\begin{cases} x = \\frac{3\\pi}{8} + k\\pi \\\\ x = -\\frac{3\\pi}{8} + k\\pi \\end{cases} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      2052,
+      1412,
+      2147
+    ],
+    "category": "Text",
+    "text": "Trên đoạn $\\left[\\frac{\\pi}{3}; \\pi\\right]$: $\\frac{\\pi}{3} \\leq \\frac{3\\pi}{8} + k\\pi \\leq \\pi \\Leftrightarrow -\\frac{1}{24} \\leq k \\leq \\frac{5}{8}$. Mà $k \\in \\mathbb{Z} \\Rightarrow k = 0 \\Rightarrow x = \\frac{3\\pi}{8}$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

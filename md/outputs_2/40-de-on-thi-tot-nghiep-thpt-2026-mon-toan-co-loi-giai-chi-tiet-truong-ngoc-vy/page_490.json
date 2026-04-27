@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      154,
+      346,
+      194
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 6,31"
+  },
+  {
+    "bbox": [
+      156,
+      221,
+      1540,
+      275
+    ],
+    "category": "Text",
+    "text": "Gọi $f(x)$ là lợi nhuận mà lái xe có thể thu về khi chở $x$ (người) ($x \\in \\mathbb{N}^*$) trong chuyển xe đó. Khi đó:"
+  },
+  {
+    "bbox": [
+      162,
+      303,
+      652,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = \\frac{1}{2}x(44-x)^2, \\text{ với } 0 < x \\le 16.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      408,
+      1019,
+      489
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f'(x) = \\frac{1}{2}[(44-x)^2 - 2x(44-x)] = \\frac{1}{2}(40-x)(44-3x).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      513,
+      1390,
+      595
+    ],
+    "category": "Text",
+    "text": "Với $0 < x \\le 16$ thì $f'(x) = 0 \\Leftrightarrow x = \\frac{44}{3}$. Mà $14 < \\frac{44}{3} < 15$ nên ta có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      162,
+      619,
+      1208,
+      1020
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1055,
+      646,
+      1103
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } f(14) = 6300, f(15) = 6307,5.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1128,
+      1572,
+      1257
+    ],
+    "category": "Text",
+    "text": "Căn cứ vào bảng biến thiên ta có $\\max_{(0;16]} f(x) = 6307,5$ (nghìn đồng). Vậy người lái xe đó có thể thu được nhiều nhất khoảng 6,31 triệu đồng từ một chuyển chở khách."
+  },
+  {
+    "bbox": [
+      156,
+      1269,
+      1575,
+      1605
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Bạn Nam cần thiết kế hai dụng cụ học tập A và B; Mỗi dụng cụ học tập A cần 9 giờ công để chế tạo và 1 giờ công để hoàn thiện. Mỗi dụng cụ học tập B cần 12 giờ công để chế tạo và 3 giờ công để hoàn thiện. Thời gian làm dụng cụ học tập tối đa ở các khâu chế tạo và hoàn thiện lần lượt là 180 giờ và 30 giờ. Bạn Nam kiếm được lợi nhuận 80 nghìn đồng trên mỗi mẫu A và 120 nghìn đồng trên mỗi mẫu B; Bạn Nam cần lên kế hoạch thiết kế số lượng dụng cụ học tập mỗi loại sao cho lợi nhuận thu được là cao nhất trong thời gian cho phép. Hỏi số tiền (nghìn đồng) bạn Nam có được là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      156,
+      1622,
+      493,
+      1659
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1681,
+      925,
+      1719
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1738,
+      350,
+      1776
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1680"
+  },
+  {
+    "bbox": [
+      156,
+      1792,
+      1042,
+      1838
+    ],
+    "category": "Text",
+    "text": "A: 1 dụng cụ _ 9 giờ chế tạo _ 1 giờ hoàn thiện _ 80 nghìn đồng."
+  },
+  {
+    "bbox": [
+      202,
+      1857,
+      898,
+      1891
+    ],
+    "category": "Formula",
+    "text": "$$\nx \\qquad 9x \\qquad x \\qquad 80x\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1910,
+      1057,
+      1956
+    ],
+    "category": "Text",
+    "text": "B: 1 dụng cụ _ 12 giờ chế tạo _ 3 giờ hoàn thiện _ 120 nghìn đồng."
+  },
+  {
+    "bbox": [
+      202,
+      1975,
+      919,
+      2013
+    ],
+    "category": "Formula",
+    "text": "$$\ny \\qquad 12y \\qquad 3y \\qquad 120y\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2032,
+      927,
+      2078
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ (dụng cụ) lần lượt là số dụng cụ học tập A và B."
+  },
+  {
+    "bbox": [
+      156,
+      2097,
+      462,
+      2142
+    ],
+    "category": "Text",
+    "text": "Điều kiện $x \\ge 0, y \\ge 0$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

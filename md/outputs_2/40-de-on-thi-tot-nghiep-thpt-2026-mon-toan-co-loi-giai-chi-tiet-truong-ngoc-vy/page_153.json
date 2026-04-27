@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      908,
+      179
+    ],
+    "category": "Text",
+    "text": "Vậy $S_{\\min} = \\frac{16}{3}$. Vậy số tiền tối thiểu là $T = \\frac{16}{3} \\cdot 0,9 = 4,8$ triệu."
+  },
+  {
+    "bbox": [
+      76,
+      199,
+      729,
+      243
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty sản xuất ba loại phân bón:"
+  },
+  {
+    "bbox": [
+      76,
+      260,
+      797,
+      300
+    ],
+    "category": "List-item",
+    "text": "- Loại A có chứa 18% nitơ, 4% photphat và 5% kali;"
+  },
+  {
+    "bbox": [
+      76,
+      318,
+      797,
+      358
+    ],
+    "category": "List-item",
+    "text": "- Loại B có chứa 20% nitơ, 4% photphat và 4% kali;"
+  },
+  {
+    "bbox": [
+      82,
+      376,
+      801,
+      416
+    ],
+    "category": "List-item",
+    "text": "- Loại C có chứa 24% nitơ, 3% photphat và 6% kali."
+  },
+  {
+    "bbox": [
+      76,
+      429,
+      1488,
+      531
+    ],
+    "category": "Text",
+    "text": "Biết rằng công ty đã dùng hết 26400 kg nitơ, 4900 kg photphat, 6200 kg kali. Công ty sản xuất bao nhiêu tấn loại phân bón A và B?"
+  },
+  {
+    "bbox": [
+      76,
+      550,
+      413,
+      586
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      609,
+      842,
+      647
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      666,
+      254,
+      704
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 100"
+  },
+  {
+    "bbox": [
+      76,
+      721,
+      1031,
+      765
+    ],
+    "category": "Text",
+    "text": "Gọi khối lượng mỗi loại phân bón A, B, C lần lượt là $x, y, z$ (kilôgam)."
+  },
+  {
+    "bbox": [
+      76,
+      784,
+      318,
+      824
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      76,
+      842,
+      1489,
+      943
+    ],
+    "category": "Text",
+    "text": "- Công ty dùng hết 26400 kg nitơ, suy ra $18\\%x + 20\\%y + 24\\%z = 26400$ hay $18x + 20y + 24z = 2640000$ (1)."
+  },
+  {
+    "bbox": [
+      76,
+      958,
+      1459,
+      1002
+    ],
+    "category": "Text",
+    "text": "- Công ty dùng hết 4900 kg photphat, suy ra $4\\%x + 4\\%y + 3\\%z = 4900$ hay $4x + 4y + 3z = 490000$ (2)."
+  },
+  {
+    "bbox": [
+      76,
+      1015,
+      1393,
+      1059
+    ],
+    "category": "Text",
+    "text": "- Công ty dùng hết 6200 kg kali, suy ra $5\\%x + 4\\%y + 6\\%z = 6200$ hay $5x + 4y + 6z = 620000$ (3)."
+  },
+  {
+    "bbox": [
+      76,
+      1079,
+      1201,
+      1226
+    ],
+    "category": "Text",
+    "text": "Từ (1), (2) và (3) ta có hệ phương trình:\n$$ \\begin{cases} 18x + 20y + 24z = 2640000 \\\\ 4x + 4y + 3z = 490000 \\\\ 5x + 4y + 6z = 620000 \\end{cases} \\Leftrightarrow \\begin{cases} x = 40000 \\\\ y = 60000 \\\\ z = 30000 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      76,
+      1248,
+      1121,
+      1294
+    ],
+    "category": "Text",
+    "text": "Vậy khối lượng mỗi loại phân bón A, B, C lần lượt là 40 tấn, 60 tấn và 30 tấn."
+  },
+  {
+    "bbox": [
+      76,
+      1307,
+      826,
+      1351
+    ],
+    "category": "Text",
+    "text": "Do đó, Công ty sản xuất 100 tấn loại phân bón A và B?"
+  },
+  {
+    "bbox": [
+      76,
+      1366,
+      1494,
+      1538
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên mỗi trục tính bằng kilomét và mặt phẳng $Oxy$ trùng với mặt đất, xem mặt đất là mặt phẳng), một khinh khí cầu $l$ xuất phát từ sân bay $L(24;52;0)$ và sau đó được xác định tại $P(20;42;2)$."
+  },
+  {
+    "bbox": [
+      433,
+      1585,
+      1026,
+      1954
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1972,
+      1489,
+      2081
+    ],
+    "category": "Text",
+    "text": "Một trực thăng $h$ bay thẳng đều cùng thời điểm trong ngày, xuất phát từ sân bay quân sự $F(20;-8;0)$ hướng về đỉnh核 $S(-4;32;16)$."
+  },
+  {
+    "bbox": [
+      76,
+      2104,
+      1356,
+      2148
+    ],
+    "category": "Text",
+    "text": "Bức tường sương mù được mô tả bởi mặt phẳng $E_{ABC}$ với $A(16;0;0)$, $B(0;16;0)$, $C(0;0;16)$."
+  },
+  {
+    "bbox": [
+      76,
+      2170,
+      1112,
+      2214
+    ],
+    "category": "Text",
+    "text": "Gọi $T$ là vị trí mà quỹ đạo bay của khinh khí cầu $l$ và trực thăng $h$ cắt nhau."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

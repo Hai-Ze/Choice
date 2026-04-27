@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      217,
+      61,
+      1178,
+      110
+    ],
+    "category": "Text",
+    "text": "Ba số phân biệt lập thành CSC $\\Leftrightarrow$ có dạng $(a, a+d, a+2d)$ với $d \\ge 1$."
+  },
+  {
+    "bbox": [
+      217,
+      120,
+      786,
+      165
+    ],
+    "category": "Text",
+    "text": "Trong $\\{1; 2; \\dots; 8\\}$, ta xét các trường hợp:"
+  },
+  {
+    "bbox": [
+      217,
+      173,
+      678,
+      211
+    ],
+    "category": "List-item",
+    "text": "- $d = 1: a = 1 \\to 6$ nên có 6 bộ."
+  },
+  {
+    "bbox": [
+      217,
+      235,
+      683,
+      273
+    ],
+    "category": "List-item",
+    "text": "- $d = 2: a = 1 \\to 4$ nên có 4 bộ."
+  },
+  {
+    "bbox": [
+      217,
+      297,
+      680,
+      335
+    ],
+    "category": "List-item",
+    "text": "- $d = 3: a = 1 \\to 2$ nên có 2 bộ."
+  },
+  {
+    "bbox": [
+      217,
+      353,
+      1182,
+      491
+    ],
+    "category": "Text",
+    "text": "Tổng cộng có $6+4+2=12$ bộ ba số lập thành CSC. Tổng số bộ ba số chọn từ $\\{1; \\dots; 8\\}$ là $C_8^3$. Vì vậy $P(\\text{CSC}) = \\frac{12}{C_8^3}$."
+  },
+  {
+    "bbox": [
+      1205,
+      58,
+      1576,
+      425
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      491,
+      491,
+      532
+    ],
+    "category": "Section-header",
+    "text": "## Ghép hai điều kiện"
+  },
+  {
+    "bbox": [
+      217,
+      532,
+      1592,
+      611
+    ],
+    "category": "Text",
+    "text": "Việc “chọn được tam giác vuông” phụ thuộc vào **hình học chọn định**, còn “chọn được CSC” phụ thuộc vào **các số gắn tại 3 định**; do gắn số là ngẫu nhiên nên hai sự kiện độc lập."
+  },
+  {
+    "bbox": [
+      217,
+      611,
+      890,
+      701
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì thế } P = P(\\Delta \\perp) \\cdot P(\\text{CSC}) = \\frac{24}{C_8^3} \\cdot \\frac{12}{C_8^3} = \\frac{9}{98} = \\frac{m}{n}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      712,
+      1170,
+      754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } m = 9, n = 98 \\Rightarrow m + 3n = 9 + 3 \\cdot 98 = 303. \\text{ Vì vậy } \\boxed{m + 3n = 303}.\n$$"
+  },
+  {
+    "bbox": [
+      815,
+      818,
+      889,
+      857
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1543,
+      2021,
+      1576,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "10"
+  }
+]

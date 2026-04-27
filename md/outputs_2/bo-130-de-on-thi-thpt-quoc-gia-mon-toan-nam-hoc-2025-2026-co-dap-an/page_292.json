@@ -1,0 +1,338 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      757,
+      125,
+      1244,
+      478
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      516,
+      1075,
+      555
+    ],
+    "category": "Text",
+    "text": "Biết $f(-3) = 0$, giá trị của $f(-1) + f(1)$ bằng:"
+  },
+  {
+    "bbox": [
+      477,
+      552,
+      581,
+      623
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{23}{6}$."
+  },
+  {
+    "bbox": [
+      750,
+      552,
+      855,
+      623
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{31}{3}$."
+  },
+  {
+    "bbox": [
+      1022,
+      552,
+      1126,
+      623
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{35}{6}$."
+  },
+  {
+    "bbox": [
+      1295,
+      552,
+      1380,
+      623
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      448,
+      635,
+      1174,
+      690
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      699,
+      1059,
+      776
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = \\frac{x^2 + 4x + 5}{x + 2}$. Khi đó"
+  },
+  {
+    "bbox": [
+      477,
+      776,
+      1046,
+      814
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có tập xác định $D = \\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      477,
+      816,
+      1224,
+      854
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đồng biến trên khoảng $(-\\infty; -2)$ và $(-2; 3)$."
+  },
+  {
+    "bbox": [
+      477,
+      856,
+      1035,
+      895
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số có tiệm cận xiên là $y = x + 3$."
+  },
+  {
+    "bbox": [
+      477,
+      897,
+      1461,
+      936
+    ],
+    "category": "List-item",
+    "text": "d) Đồ thị hàm số có tâm đối xứng nằm trên đường thẳng $2x - y + 4 = 0$."
+  },
+  {
+    "bbox": [
+      448,
+      956,
+      1553,
+      1035
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian $Oxyz$, cho $\\triangle ABC$, biết $A(-1; 0; 3)$, $B(4; 2; 0)$, $C(3; 1; -3)$. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      477,
+      1037,
+      1038,
+      1075
+    ],
+    "category": "List-item",
+    "text": "a) $G(2; 1; 0)$ là trọng tâm tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      477,
+      1077,
+      1244,
+      1116
+    ],
+    "category": "List-item",
+    "text": "b) $D(-2; -1; 0)$ là một định của hình bình hành $ABCD$."
+  },
+  {
+    "bbox": [
+      477,
+      1116,
+      1296,
+      1158
+    ],
+    "category": "List-item",
+    "text": "c) $M(a; b; c)$ thoả mãn $\\overrightarrow{AM} = 3\\overrightarrow{CB}$. Khi đó $a + b + c = -13$."
+  },
+  {
+    "bbox": [
+      477,
+      1160,
+      1549,
+      1235
+    ],
+    "category": "List-item",
+    "text": "d) $M(a; b; c) \\in Ox$ sao cho $BM$ vuông góc với đường thẳng $AC$. Khi đó $4a^2 + b^2 + c^2 = 162$."
+  },
+  {
+    "bbox": [
+      448,
+      1258,
+      1553,
+      1374
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật với $AB = 2$, $BC = \\sqrt{5}$, cạnh bên $SA$ vuông góc với đáy $(ABCD)$ và $SA = 3$. Gọi $G$ là trọng tâm tam giác $SCD$."
+  },
+  {
+    "bbox": [
+      477,
+      1372,
+      687,
+      1414
+    ],
+    "category": "List-item",
+    "text": "a) $AG = |\\overrightarrow{AG}|$."
+  },
+  {
+    "bbox": [
+      1022,
+      1372,
+      1303,
+      1414
+    ],
+    "category": "List-item",
+    "text": "b) $\\overrightarrow{BD} = \\overrightarrow{AD} - \\overrightarrow{AB}$."
+  },
+  {
+    "bbox": [
+      477,
+      1414,
+      899,
+      1487
+    ],
+    "category": "List-item",
+    "text": "c) $\\overrightarrow{AG} = \\frac{1}{3}\\overrightarrow{AS} + \\frac{1}{3}\\overrightarrow{AB} + \\frac{2}{3}\\overrightarrow{AD}$."
+  },
+  {
+    "bbox": [
+      1022,
+      1414,
+      1356,
+      1487
+    ],
+    "category": "List-item",
+    "text": "d) $\\cos(\\overrightarrow{AG}, \\overrightarrow{BD}) = \\frac{2}{\\sqrt{33}}$."
+  },
+  {
+    "bbox": [
+      448,
+      1506,
+      1553,
+      1888
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Bạn An sưu tầm được khá nhiều thẻ nhân vật trò chơi quý hiểm, tuy nhiên có một số thẻ trùng bị lặp nhân vật nên bạn quyết định.tặng cho các bạn khác. Bạn Bình có sở thích sưu tầm các thẻ nhân vật giống nhau để.tặng vào mỗi đip sinh nhật bạn bè nên đã hỏi An về các thẻ giống nhau. Tuy nhiên bạn An không muốn cho Bình lựa chọn một thẻ nào đó mà muốn Bình tham gia một trò chơi. Đầu tiên, cả hai bạn đặt hết tất cả các thẻ nhân vật trùng nhau của mình vào hai cái集合. Bạn An đặt vào 10 thẻ nhân vật A và 8 thẻ nhân vật B (hộp 1). Bạn Bình đặt vào 3 thẻ nhân vật A và 5 thẻ nhân vật B (hộp 2). Sau đó hai bạn mời Lan lấy một thẻ bất kì từ集合 1 và đặt vào集合 2. Bạn Bình sau đó lại lấy một thẻ từ集合 2 ra thì được thẻ nhân vật A. Cho cácoorin"
+  },
+  {
+    "bbox": [
+      477,
+      1890,
+      1549,
+      1992
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất Bình lấy được thẻ nhân vật A ở集合 2 nếu đã lấy được thẻ nhân vật A từ集合 1 là $\\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      477,
+      1992,
+      1549,
+      2093
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất Bình lấy được thẻ nhân vật A ở集合 2 nếu đã lấy được thẻ nhân vật B từ集合 1 là $\\frac{5}{9}$."
+  },
+  {
+    "bbox": [
+      477,
+      2087,
+      1252,
+      2156
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất Bình lấy được thẻ nhân vật A ở lần sau là $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      477,
+      2156,
+      1549,
+      2257
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất Bình lấy được thẻ nhân vật A ở lần sau và thẻ đó là thẻ của Bình là $\\frac{27}{32}$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "290 Bùi Tịnh Minh Lâm"
+  }
+]

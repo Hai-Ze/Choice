@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      114,
+      89,
+      1560,
+      323
+    ],
+    "category": "Text",
+    "text": "**Câu 22.** Bác Bình có một chậu cảnh trồng hoa hình chóp cụt tứ giác đều với chiều cao 30 cm, cạnh đáy lần lượt là 20 cm và 40 cm. Bác Bình đổ đất vào chậu để tiến hành trồng, chiều cao của đất bằng $\\frac{2}{3}$高度 cao của chậu. Tính thể tích lượng đất bác Bình đã đổ vào chậu theo $dm^3$ (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      665,
+      327,
+      1122,
+      739
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      837,
+      750,
+      951,
+      787
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      787,
+      414,
+      826
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 14,5."
+  },
+  {
+    "bbox": [
+      214,
+      829,
+      338,
+      870
+    ],
+    "category": "Text",
+    "text": "Nhắc lại:"
+  },
+  {
+    "bbox": [
+      214,
+      868,
+      1573,
+      950
+    ],
+    "category": "Text",
+    "text": "Hình chóp cụt tứ giác đều có 2 mặt đáy là hình vuông song song với nhau; 4 mặt bên là các hình thang cân bằng nhau; chiều cao là đoạn thẳng nối tâm của hai đáy và vuông góc với hai đáy."
+  },
+  {
+    "bbox": [
+      214,
+      950,
+      1056,
+      1029
+    ],
+    "category": "Text",
+    "text": "Thể tích hình chóp cụt tứ giác đều: $V = \\frac{1}{3} \\cdot h(S_1 + S_2 + \\sqrt{S_1 \\cdot S_2})$"
+  },
+  {
+    "bbox": [
+      214,
+      1031,
+      1573,
+      1123
+    ],
+    "category": "Text",
+    "text": "với $h$ là chiều cao của hình chóp cụt (khoảng cách giữa hai đáy), $S_1$ là diện tích đáy bé và $S_2$ là diện tích đáy lớn."
+  },
+  {
+    "bbox": [
+      214,
+      1119,
+      1573,
+      1291
+    ],
+    "category": "Text",
+    "text": "Thể tích lượng đất bác Bình đã đổ vào chậu (tạo thành hình chóp cụt đều) bằng với thể tích của hình chóp cụt tứ giác đều có chiều cao bằng $\\frac{2}{3}$高度 cao của chậu. Do đó ta đi xác định các giá trị còn thiếu là chiều cao $h$, $S_1, S_2$."
+  },
+  {
+    "bbox": [
+      214,
+      1299,
+      1205,
+      1380
+    ],
+    "category": "Text",
+    "text": "Vì chiều cao của đất bằng $\\frac{2}{3}$高度 cao của chậu nên $h = \\frac{2}{3} \\cdot 30 = 20$ (cm)."
+  },
+  {
+    "bbox": [
+      214,
+      1385,
+      1312,
+      1438
+    ],
+    "category": "Text",
+    "text": "Diện tích đáy bé (hình vuông cạnh 20 cm) nên có diện tích $S_1 = 20^2 = 400$ ($cm^2$)."
+  },
+  {
+    "bbox": [
+      214,
+      1440,
+      968,
+      1484
+    ],
+    "category": "Text",
+    "text": "Mô tả mặt cắt dọc của chậu cảnh và kí hiệu như hình vẽ."
+  },
+  {
+    "bbox": [
+      305,
+      1493,
+      1495,
+      2010
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      2019,
+      669,
+      2058
+    ],
+    "category": "Text",
+    "text": "Gọi độ dài cạnh của đáy lớn là $x$."
+  },
+  {
+    "bbox": [
+      214,
+      2060,
+      1484,
+      2141
+    ],
+    "category": "Text",
+    "text": "Từ hình vẽ, ta có $x = 2EF + 20$; Trong tam giác vuông AKD, ta có $\\tan \\widehat{KDA} = \\frac{AK}{DK} = \\frac{10}{30} = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      214,
+      2145,
+      1342,
+      2226
+    ],
+    "category": "Text",
+    "text": "Trong tam giác vuông DEF, ta có $\\tan \\widehat{EDF} = \\frac{EF}{FD} = \\frac{1}{3} \\Leftrightarrow \\frac{EF}{h} = \\frac{1}{3} \\Leftrightarrow EF = \\frac{h}{3} = \\frac{20}{3}$."
+  }
+]

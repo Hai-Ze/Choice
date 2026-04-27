@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      217,
+      56,
+      802,
+      99
+    ],
+    "category": "Text",
+    "text": "Vận tốc lớn nhất của con lắc đơn là 2 cm/s."
+  },
+  {
+    "bbox": [
+      217,
+      101,
+      1210,
+      187
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } \\sin\\left(2t + \\frac{\\pi}{6}\\right) = 1 \\Leftrightarrow 2t + \\frac{\\pi}{6} = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z} \\Leftrightarrow t = \\frac{\\pi}{6} + k\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      202,
+      1359,
+      279
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t \\in (0; 10) \\text{ thì các giá trị } t \\text{ thỏa mãn là: } t = \\frac{\\pi}{6}; t = \\frac{\\pi}{6} + \\pi; t = \\frac{\\pi}{6} + 2\\pi; t = \\frac{\\pi}{6} + 3\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      282,
+      613,
+      321
+    ],
+    "category": "Text",
+    "text": "Do đó có 4 giá trị $t$ thỏa mãn."
+  },
+  {
+    "bbox": [
+      92,
+      362,
+      1593,
+      746
+    ],
+    "category": "List-item",
+    "text": "**Câu 15.** Trong Dragon Ball, quả cầu Genki là chiêu thức lợi hại mà Sol Kyoto thường sử dụng khi gặp những đối thủ lớn. Được biết trong trận đánh với Frieza đại đế, cuộc chiến có liên quan đến vận碎mind vũ trụ, Kyoto đã dùng quả cầu này để tung đòn tuyệt sát với Frieza. Chọn hệ trục tọa độ $Oxyz$ thích hợp, đơn vị trên mỗi trục là mét, mặt phẳng $Oxy$ là mặt đất và tia $Oz$ hướng lên trời, Kyoto đứng ở vị trí $A(5; 0; 40)$, Frieza đại đế đứng ở vị trí $B(85; 60; 40)$. Trước khi Kyoto tạo ra quả cầu Genki thì Frieza đã tấn công phủ đầu, hắn lao về phía Kyoto với vận tốc 50 m/s."
+  },
+  {
+    "bbox": [
+      1079,
+      445,
+      1596,
+      797
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      797,
+      1596,
+      1448
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các碎mind đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Frieza sẽ mất 2 giây để đến được vị trí Kyoto đang đứng.</td><td>☐</td><td>☐</td></tr><tr><td>b) Vectơ vận tốc của Frieza là $\\vec{v} = (400; 300; 0)$, đơn vị: m/s.</td><td>☐</td><td>☐</td></tr><tr><td>c) Sau khi tránh được đòn hiểm từ Frieza, Kyoto đứng ở vị trí $C(8; -1; 46)$ đã tạo ra quả cầu Genki được mô hình hóa với phương trình $(x-8)^2 + (y+1)^2 + (z-58)^2 = 100$. Khoảng cách bé nhất từ vị trí $D(-182; 159; 45)$ mà Frieza đang đứng đến quả cầu bằng 238,7 m (kết quả làm tròn đến hàng phần chục).</td><td>☐</td><td>☐</td></tr><tr><td>d) Quả cầu được Kyoto ném về phía Frieza với vận tốc lên đến 64 m/s. Cứ sau mỗi giây thì bán kính nó tăng lên 1 mét. Nếu Frieza không di chuyển thì sau 3,67 giây (làm tròn đến hàng phần trăm của giây) quả cầu Genki đến được vị trí của Frieza.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      740,
+      1448,
+      965,
+      1489
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1485,
+      472,
+      1529
+    ],
+    "category": "Section-header",
+    "text": "a) Mind đề đúng."
+  },
+  {
+    "bbox": [
+      217,
+      1531,
+      1081,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\vec{BA} = (-80; -60; 0) \\text{ và } AB = \\sqrt{(-80)^2 + (-60)^2} = 100 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1604,
+      1113,
+      1685
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thời gian để Frieza bay từ } B \\text{ đến } A \\text{ để tấn công Kyoto là } \\frac{100}{50} = 2 \\text{ s.}\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1685,
+      440,
+      1729
+    ],
+    "category": "Section-header",
+    "text": "b) Mind đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      1731,
+      1332,
+      1781
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vectơ vận tốc của Frieza có dạng } \\vec{v} = k\\vec{BA} = (-80k; -60k; 0), \\text{ với tham số } k > 0.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1792,
+      1161,
+      1874
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } |\\vec{v}| = 50 \\Rightarrow \\sqrt{(-80k)^2 + (-60k)^2} = 50 \\Rightarrow 100|k| = 50 \\Rightarrow k = \\frac{1}{2} > 0.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1878,
+      1156,
+      1925
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó Frieza bay đến chỗ Kyoto với vectơ vận tốc } \\vec{v} = (-40; -30; 0).\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1929,
+      470,
+      1974
+    ],
+    "category": "Section-header",
+    "text": "c) Mind đề đúng."
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2022,
+      1558,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

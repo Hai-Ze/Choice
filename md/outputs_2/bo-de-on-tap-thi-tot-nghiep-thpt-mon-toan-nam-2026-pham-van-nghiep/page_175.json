@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1571,
+      205
+    ],
+    "category": "Text",
+    "text": "thiết bị thông báo sản phẩm bị lỗ là bao nhiêu? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      755,
+      212,
+      892,
+      258
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      263,
+      425,
+      310
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,11"
+  },
+  {
+    "bbox": [
+      212,
+      315,
+      1195,
+      368
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm nhà máy $M_1$ bị lỗ là $3000 \\times 2\\% = 60$ ( sản phẩm)"
+  },
+  {
+    "bbox": [
+      212,
+      372,
+      1364,
+      425
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm nhà máy $M_1$ không bị lỗ là $3000 - 60 = 2940$ ( sản phẩm)"
+  },
+  {
+    "bbox": [
+      212,
+      430,
+      1231,
+      483
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm nhà máy $M_2$ bị lỗ là $15000 \\times 6\\% = 900$ ( sản phẩm)"
+  },
+  {
+    "bbox": [
+      212,
+      488,
+      1407,
+      541
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm nhà máy $M_2$ không bị lỗ là $15000 - 900 = 14100$ ( sản phẩm)"
+  },
+  {
+    "bbox": [
+      212,
+      546,
+      1574,
+      652
+    ],
+    "category": "Text",
+    "text": "Giả sử một sản phẩm không bị lỗ khi đi qua thiết bị này thì thiết bị báo sản phẩm không bị lỗ với tỉ lệ là $x$."
+  },
+  {
+    "bbox": [
+      212,
+      652,
+      1469,
+      734
+    ],
+    "category": "Text",
+    "text": "Độ chính xác của thiết bị là $\\frac{60 \\times 0,97 + 2940 \\times x + 900 \\times 0,97 + 14100 \\times x}{1800} = 0.94 \\Leftrightarrow x = \\frac{3331}{3550}$"
+  },
+  {
+    "bbox": [
+      212,
+      739,
+      1574,
+      882
+    ],
+    "category": "Text",
+    "text": "Khi đó số sản phẩm của nhà máy $M_1$ được thiết bị báo lỗ là $60 \\times 0,97 + 2940 \\times (1 - \\frac{3331}{3550}) = \\frac{75192}{355}$"
+  },
+  {
+    "bbox": [
+      212,
+      889,
+      1574,
+      1032
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm của nhà máy $M_2$ được thiết bị báo lỗ là $900 \\times 0,97 + 14100 \\times (1 - \\frac{3331}{3550}) = \\frac{123741}{71}$"
+  },
+  {
+    "bbox": [
+      212,
+      1039,
+      1574,
+      1261
+    ],
+    "category": "Text",
+    "text": "Xác suất để sản phẩm được chọn là của nhà máy $M_1$ biết rằng sản phẩm được chọn được thiết bị thông báo sản phẩm bị lỗ là $P = \\frac{\\frac{75192}{355}}{\\frac{75192}{355} + \\frac{123741}{71}} \\approx 0,11$."
+  },
+  {
+    "bbox": [
+      74,
+      1264,
+      1574,
+      1582
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho tam giác $ABC$ đều tâm $O$ cạnh bằng $8\\text{cm}$ (các cạnh được biểu diễn là nét liền trong hình vẽ). Xét đường cong kín ($T$) (biểu diễn bằng nét đứt trong hình), ($T$) được tạo thành bằng cách lấy một điểm $M$ trên cạnh của tam giác $ABC$, trên tia đối của tia $MO$ ta lấy một điểm $N$ sao cho đoạn $MN = 5\\text{cm}$. Khi điểm $M$ chạy trên cạnh của tam giác $ABC$ thì $N$ chạy trên ($T$). Tính diện tích phần được tô màu trong hình vẽ (đơn vị $\\text{cm}^2$) (làm tròn kết quả đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      621,
+      1586,
+      1034,
+      2009
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      824,
+      2028,
+      961,
+      2074
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2081,
+      425,
+      2126
+    ],
+    "category": "Text",
+    "text": "Đáp án: 170."
+  },
+  {
+    "bbox": [
+      212,
+      2133,
+      674,
+      2178
+    ],
+    "category": "Text",
+    "text": "Gọi $S$ là diện tích cần tính."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

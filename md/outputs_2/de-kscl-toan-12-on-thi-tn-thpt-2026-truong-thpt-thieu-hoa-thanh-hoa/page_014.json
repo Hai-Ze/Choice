@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      214,
+      90,
+      1557,
+      176
+    ],
+    "category": "Text",
+    "text": "Khoảng cách ngắn nhất là khoảng cách từ một điểm $I$ thuộc cạnh trên của khối lập phương đến mặt bên."
+  },
+  {
+    "bbox": [
+      214,
+      181,
+      1536,
+      279
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của cạnh $CD$. Kẻ $HK$ vuông góc với $SM$, suy ra $HK$ là khoảng cách từ $H$ đến mặt bên ($SCD$)."
+  },
+  {
+    "bbox": [
+      214,
+      293,
+      1059,
+      333
+    ],
+    "category": "Text",
+    "text": "Trong tam giác $\\Delta SHM$ vuông tại $H$, $HK$ là đường cao, ta có:"
+  },
+  {
+    "bbox": [
+      219,
+      339,
+      949,
+      525
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\frac{1}{HK^2} &= \\frac{1}{HS^2} + \\frac{1}{HM^2} = \\frac{1}{18578} + \\frac{1}{17161} = \\frac{35739}{18578 \\cdot 17161} \\\\\n\\Rightarrow HK^2 &= \\frac{18578 \\cdot 17161}{35739} \\Rightarrow HK = \\frac{131\\sqrt{18578}}{57\\sqrt{11}} \\text{ (m)}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      533,
+      1525,
+      633
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là hình chiếu của $I$ trên $HM$, qua $I$ kẻ đường thẳng song song với $SM$, cắt $HM$ tại $J$. Khối lập phương có độ dài cạnh $IN = \\sqrt[3]{64} = 4$."
+  },
+  {
+    "bbox": [
+      214,
+      642,
+      1206,
+      728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có : } \\Delta SHM \\square \\Delta INJ, \\text{ suy ra : } \\frac{NJ}{HM} = \\frac{IN}{SH} \\Rightarrow NJ = \\frac{IN}{SH} \\cdot HM = \\frac{4 \\cdot 131}{\\sqrt{18578}}.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      741,
+      1015,
+      827
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra : } \\frac{JE}{HK} = \\frac{JM}{HM} = 1 - \\frac{HJ}{HM} \\Rightarrow JE = HK \\left( 1 - \\frac{HN + NJ}{HM} \\right).\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      841,
+      1554,
+      1014
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy khoảng cách ngắn nhất : } IF = JE = \\frac{131\\sqrt{18578}}{57\\sqrt{11}} \\left( 1 - \\frac{2 + \\frac{524}{\\sqrt{18578}}}{131} \\right) \\approx 90,23571587 \\approx 90 \\text{ (m). Suy}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1022,
+      455,
+      1066
+    ],
+    "category": "Text",
+    "text": "ra=m emh đề đúng."
+  },
+  {
+    "bbox": [
+      115,
+      1066,
+      1573,
+      1155
+    ],
+    "category": "Text",
+    "text": "Câu 15. Thời gian hoàn thành một bài viết chính tả của một số học sinh lớp 4 hai trường X và Y được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      350,
+      1157,
+      1338,
+      1323
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[6;7)</td><td>[7;8)</td><td>[8;9)</td><td>[9;10)</td><td>[10;11)</td></tr><tr><td>Số học sinh trường X</td><td>8</td><td>10</td><td>13</td><td>10</td><td>9□</td></tr><tr><td>Số học sinh trường Y</td><td>4</td><td>12</td><td>17</td><td>14</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      214,
+      1321,
+      1168,
+      1365
+    ],
+    "category": "Text",
+    "text": "a) Nếu so sánh theo số trung bình thì học sinh trường Y viết nhanh hơn."
+  },
+  {
+    "bbox": [
+      214,
+      1365,
+      1413,
+      1409
+    ],
+    "category": "Text",
+    "text": "b) Nếu so sánh theo khoảng tức phân vị thì học sinh trường X có tốc độ viết đồng đều hơn."
+  },
+  {
+    "bbox": [
+      214,
+      1409,
+      1573,
+      1505
+    ],
+    "category": "Text",
+    "text": "c) Phương sai của mẫu số liệu ghép nhóm của trường X là 1,08 và phương sai của mẫu số liệu ghép nhóm của trường Y là 1,7584."
+  },
+  {
+    "bbox": [
+      214,
+      1511,
+      1353,
+      1557
+    ],
+    "category": "Text",
+    "text": "d) Nếu so sánh theo độ lệch chuẩn thì học sinh trường Y có tốc độ viết đồng đều hơn."
+  },
+  {
+    "bbox": [
+      837,
+      1563,
+      951,
+      1600
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      427,
+      1602,
+      1258,
+      1650
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Sai</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      115,
+      1650,
+      1551,
+      1905
+    ],
+    "category": "Text",
+    "text": "Câu 16. Trong hệ toạ độ Oxyz, đơn vị mỗi trục là mét, mặt sàn là mặt (Oxy), trục Oz hướng lên, có haittường (1) và (2) nằm lần lượt trên các mặt phẳng (Oyz) và (Oxz) (tham khảo hình vẽ). Một tia Laze được chiếu từ điểm $S$ xuyên qua một lỗ nhỏ tại $A(0;6;5)$ trênttường (1), tia sáng này phản xạ tại điểm $B$ trên mặt sàn rồi đếnttường (2) tại điểm $C(12;0;7)$. Theo tính chất phản xạ ta có $AB$ và $BC$ cùng tạo với mặt sàn các góc bằng nhau. Khi đó"
+  }
+]

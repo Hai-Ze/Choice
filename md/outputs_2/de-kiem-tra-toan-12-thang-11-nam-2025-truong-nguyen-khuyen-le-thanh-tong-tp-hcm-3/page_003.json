@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      123,
+      87,
+      979,
+      311
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trong một cảnh dụng phim có một卧室, mái nhà là hình chóp tử giác đều $S.ABCD$ có chiều cao là 2 mét. Trong hệ toạ độ $Oxyz$ (đơn vị đo trên các trục tính bằng mét), với các điểm ở đáy là $A(6;4;2)$, $B(6;6;2)$, $C(4;6;2)$, $D(4;4;2)$ và $S$ là đinh của mái nhà."
+  },
+  {
+    "bbox": [
+      164,
+      325,
+      871,
+      371
+    ],
+    "category": "Text",
+    "text": "a) Đáy của mái nhà nằm trên mặt phẳng $z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      164,
+      378,
+      796,
+      433
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ đinh chóp của mái nhà là $S(5;4;5)$."
+  },
+  {
+    "bbox": [
+      123,
+      444,
+      986,
+      592
+    ],
+    "category": "Text",
+    "text": "c) Miặt nghiêng của mái nhà ($SBC$) tạo với mặt phẳng ($Oxz$) một góc $\\varphi$ thì $\\cos \\varphi = \\frac{2}{\\sqrt{5}}$."
+  },
+  {
+    "bbox": [
+      123,
+      602,
+      1566,
+      748
+    ],
+    "category": "Text",
+    "text": "d) Một diền chiếu đặt tại $L(5;10;2)$ chiếu sáng lên mái nhà từ bên phái. Một màn đặt trùng với mặt phẳng tọa độ ($Oxz$), trên đó sẽ xuất hiện bóng của mái nhà là hình tam giác $S'B'C'$ (như hình vẽ trên). Diện tích tam giác $S'B'C'$ bằng 10 mét vuông."
+  },
+  {
+    "bbox": [
+      1024,
+      146,
+      1561,
+      552
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      799,
+      1566,
+      885
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Lớp 12A có 40 học sinh, trong đó có 7 em tham gia Câu lạc bộ Toán học của trường. Điều kiểm tra khảo sát chất lượng đầu năm môn Toán của cả lớp được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      392,
+      898,
+      1282,
+      1011
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[5; 6)</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10]</td></tr><tr><td>Tần số</td><td>2</td><td>3</td><td>8</td><td>15</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      164,
+      1036,
+      688,
+      1080
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên mẫu số liệu là 5."
+  },
+  {
+    "bbox": [
+      164,
+      1083,
+      1177,
+      1128
+    ],
+    "category": "Text",
+    "text": "b) Có ít nhất 13 học sinh có điểm thi thấp hơn điểm trung bình của cả lớp."
+  },
+  {
+    "bbox": [
+      164,
+      1132,
+      941,
+      1177
+    ],
+    "category": "Text",
+    "text": "c) hơn 67% học sinh trong lớp đạt điểm thi từ 8 trở lên."
+  },
+  {
+    "bbox": [
+      123,
+      1181,
+      1566,
+      1356
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng cả 7 học sinh trong Câu lạc bộ Toán học đều có điểm thi không dưới 8. Chọn ngẫu nhiên 6 học sinh trong lớp 12A có điểm thi không dưới 8. Xác suất có ít nhất 2 em thuộc Câu lạc bộ Toán học được chọn là $\\frac{3541}{91309}$."
+  },
+  {
+    "bbox": [
+      123,
+      1394,
+      1131,
+      1440
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      123,
+      1467,
+      1566,
+      1653
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Sau khi một bệnh nhân uống một liều thuốc, nồng độ của thuốc trong máu người đó được mô hình hóa bởi hàm số $C(t) = \\frac{125t}{t^2 + 100}$ (đơn vị: mg/L), trong đó $t$ là thời gian sau khi uống thuốc (đơn vị: giờ) và $t \\ge 0$. Tính nồng độ thuốc tối đa (đơn vị: mg/L) trong máu của bệnh nhân."
+  },
+  {
+    "bbox": [
+      123,
+      1697,
+      1566,
+      1981
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một công ty đang triển khai chiến dịch广宣cáo cho sản phẩm mới. Số tiền đầu tư cho广宣cáo là $x$ (triệu đồng). Theo kết quả nghiên cứu thị trường, số lượng sản phẩm sản xuất và bán ra phụ thuộc vào chi phí广宣cáo theo hàm $Q(x) = 1250 + \\frac{507}{2}\\ln(3 + x)$ (đơn vị: sản phẩm). Biết rằng, chi phí sản xuất mỗi sản phẩm là 13 triệu đồng và giá bán mỗi sản phẩm là 21 triệu đồng. Giá trị lợi nhuận tối đa mà công ty có thể đạt được là $p$ tỷ đồng (số $p$ được làm tròn đến hàng phần mười). Tim số $p$."
+  },
+  {
+    "bbox": [
+      123,
+      2035,
+      1177,
+      2166
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một khối gỗ có dạng hình chót cụt tử giác đều có thể tích là $19,5dm^3$ với cạnh đáy nhỏ và đáy lớn lần lượt là $2dm$, $5dm$. Biết góc phẳng聲 diện tạo bởi mặt đáy nhỏ và mặt bên của hình chóp cụt bằng $a$ độ. Tim số $a$."
+  },
+  {
+    "bbox": [
+      1198,
+      2038,
+      1561,
+      2214
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      2242,
+      435,
+      2275
+    ],
+    "category": "Page-footer",
+    "text": "KTTX - K12 - 23.11.25."
+  },
+  {
+    "bbox": [
+      1238,
+      2242,
+      1561,
+      2278
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề thi 112"
+  }
+]

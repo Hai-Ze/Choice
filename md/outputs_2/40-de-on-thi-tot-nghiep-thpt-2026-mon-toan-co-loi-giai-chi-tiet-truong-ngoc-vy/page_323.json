@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1496,
+      213
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian tọa độ $Oxyz$, mặt phẳng $(\\alpha): 3x - 2y - z + 5 = 0$ vuông góc với mặt phẳng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      126,
+      233,
+      484,
+      279
+    ],
+    "category": "List-item",
+    "text": "A. $(\\beta_1): x - y + 5z - 3 = 0$."
+  },
+  {
+    "bbox": [
+      825,
+      233,
+      1188,
+      279
+    ],
+    "category": "List-item",
+    "text": "B. $(\\beta_2): x + y + 5z + 7 = 0$."
+  },
+  {
+    "bbox": [
+      126,
+      308,
+      504,
+      354
+    ],
+    "category": "List-item",
+    "text": "C. $(\\beta_3): 3x - 2y - z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      825,
+      308,
+      1190,
+      354
+    ],
+    "category": "List-item",
+    "text": "D. $(\\beta_4): 3x + y - z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      726,
+      381,
+      844,
+      420
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      439,
+      199,
+      477
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      79,
+      496,
+      993,
+      549
+    ],
+    "category": "Text",
+    "text": "$(\\alpha): 3x - 2y - z + 5 = 0$ có một véc tơ pháp tuyến là $\\vec{n}_{\\alpha} = (3; -2; -1)$."
+  },
+  {
+    "bbox": [
+      79,
+      574,
+      970,
+      627
+    ],
+    "category": "Text",
+    "text": "$(\\beta_1): x - y + 5z - 3 = 0$ có một véc tơ pháp tuyến là $\\vec{n}_{\\beta_1} = (1; -1; 5)$."
+  },
+  {
+    "bbox": [
+      75,
+      652,
+      702,
+      706
+    ],
+    "category": "Text",
+    "text": "Nhận thấy $\\vec{n}_{\\alpha} \\cdot \\vec{n}_{\\beta_1} = 1 \\cdot 3 + (-1) \\cdot (-2) + 5 \\cdot (-1) = 0$."
+  },
+  {
+    "bbox": [
+      75,
+      732,
+      332,
+      780
+    ],
+    "category": "Text",
+    "text": "Suy ra $(\\alpha) \\perp (\\beta_1)$."
+  },
+  {
+    "bbox": [
+      75,
+      807,
+      1496,
+      960
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $(d): \\frac{x-2}{-1} = \\frac{y+4}{1} = \\frac{z-1}{3}$. Một vecto chỉ phương của đường thẳng $(d)$ là"
+  },
+  {
+    "bbox": [
+      126,
+      985,
+      334,
+      1037
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u}_3 = (1; 1; 3)$."
+  },
+  {
+    "bbox": [
+      476,
+      985,
+      698,
+      1037
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u}_4 = (2; 4; 2)$."
+  },
+  {
+    "bbox": [
+      825,
+      985,
+      1053,
+      1037
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u}_1 = (-1; 1; 3)$."
+  },
+  {
+    "bbox": [
+      1174,
+      985,
+      1411,
+      1037
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u}_2 = (2; -4; 1)$."
+  },
+  {
+    "bbox": [
+      726,
+      1064,
+      844,
+      1103
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1122,
+      199,
+      1161
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      75,
+      1180,
+      1161,
+      1263
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $(d): \\frac{x-2}{-1} = \\frac{y+4}{1} = \\frac{z-1}{3}$ có một vecto chỉ phương là $\\vec{u} = (-1; 1; 3)$."
+  },
+  {
+    "bbox": [
+      75,
+      1282,
+      1496,
+      1390
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình chóp $S.ABCD$ có đáy là hình bình hành tâm $O$ và $SA = SC, SB = SD$. Mindh đề nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      126,
+      1408,
+      426,
+      1456
+    ],
+    "category": "List-item",
+    "text": "A. $(SBD) \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      476,
+      1408,
+      702,
+      1456
+    ],
+    "category": "List-item",
+    "text": "B. $SC \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      825,
+      1408,
+      1082,
+      1456
+    ],
+    "category": "List-item",
+    "text": "C. $SO \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      1174,
+      1408,
+      1479,
+      1456
+    ],
+    "category": "List-item",
+    "text": "D. $(SAC) \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      726,
+      1483,
+      844,
+      1522
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1541,
+      199,
+      1579
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      82,
+      1616,
+      537,
+      2033
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2108,
+      1496,
+      2225
+    ],
+    "category": "Text",
+    "text": "Vì $SA = SC; SB = SD$ và $O$ là trung điểm của $AC$ và $BD$ nên $SI \\perp AC; SI \\perp BD$, suy ra $SO \\perp (ABCD)$. Do đó các phương án A, C, D đúng, B sai."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2257,
+      841,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

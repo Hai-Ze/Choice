@@ -1,0 +1,120 @@
+[
+  {
+    "bbox": [
+      254,
+      96,
+      1431,
+      325
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th rowspan=\"2\">Loại nguyên liệu</th><th rowspan=\"2\">Số kilôgam nguyên liệu đang có</th><th colspan=\"2\">Số kilôgam từng loại nguyên liệu cần để sản xuất 1 kg sản phẩm</th></tr><tr><th>P</th><th>Q</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>2</td><td>2</td></tr><tr><td>B</td><td>4</td><td>0</td><td>2</td></tr><tr><td>C</td><td>12</td><td>2</td><td>4</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      336,
+      1575,
+      466
+    ],
+    "category": "Text",
+    "text": "Biết 1kg sản phẩm $P$ có lợi nhuận 3 triệu đồng và 1kg sản phẩm $Q$ có lợi nhuận 5 triệu đồng. Người đó đã lập được phương án sản xuất hai loại sản phẩm trên sao cho có lãi cao nhất. Hỏi lãi cao nhất bằng bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      114,
+      473,
+      1575,
+      609
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Gọi $S$ là tập hợp tất cả các giá trị của $a$ thuộc $[\\pi;10\\pi]$ sao cho $\\int_{0}^{a} \\cos x dx = \\frac{1}{2}$. Số phần tử của $S$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      614,
+      1575,
+      710
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho tức diện $ABCD$ có $AB = 4, AC = AD = CD = 2\\sqrt{3}, BC = BD = \\sqrt{7}$. Tính khoảng cách giữa hai đường thẳng $AB$ và $CD$ (Làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      114,
+      715,
+      1575,
+      962
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong mặt phẳng tọa độ $Oxy$, cho đường tròn $(C)$ tâm $O$, bán kính bằng 1. Gọi $T$ là tập hợp tất cả các điểm $M(x; y)$, trong đó $x, y \\in \\mathbb{Z}$, sao cho từ $M$ kẻ được 2 tiếp tuyến $MA, MB$ đến $(C)$ ($A, B$ là các tiếp điểm) thỏa mãn $\\widehat{AMB} \\ge 60^\\circ$. Chọn ngẫu nhiên 2 điểm trong $T$. Biết xác suất để đường thẳng đi qua 2 điểm được chọn song song với trục $Ox$ bằng $\\frac{1}{a}$. Tính $a^2$."
+  },
+  {
+    "bbox": [
+      114,
+      967,
+      1575,
+      1141
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một bể bơi hình bán nguyệt có đường kính là $AB = 100 \\text{ m}$. Một người muốn bơi từ vị trí $A$ đến vị trí $C$ theo phương thẳng rồi lên bờ đi bộ từ $C$ đến $B$. Biết rằng vận tốc bơi là $5 \\text{ km/h}$ và vận tốc đi bộ là $6 \\text{ km/h}$. Hỏi thời gian tối đa để người đó hoàn thành lộ trình như trên là bao nhiêu phút? (Làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      587,
+      1143,
+      1095,
+      1429
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1436,
+      1575,
+      1625
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một cái lều có dạng hình chóp tức giác đều, cạnh đáy bằng $8 \\text{ m}$ và chiều cao là $3 \\text{ m}$. Cửa vào lều là hình thang $EFGH$ trong đó $AE = FB$ và $EF = 4 \\text{ m}$. Gọi $G, H$ lần lượt là trung điểm của $SE$ và $SF$. Một nguồn sáng đặt cách định $S$ $1 \\text{ m}$ ở phía dưới. Ánh sáng chiếu ra ngoài qua cửa tạo thành một vùng được chiếu sáng $EFG'H'$. Diện tích vùng được chiếu sáng là bao nhiêu $\\text{m}^2$ (Làm tròn kết quả đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      558,
+      1635,
+      1135,
+      2055
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      767,
+      2061,
+      923,
+      2099
+    ],
+    "category": "Text",
+    "text": "----HẾT----"
+  },
+  {
+    "bbox": [
+      114,
+      2279,
+      275,
+      2316
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1101"
+  },
+  {
+    "bbox": [
+      1440,
+      2283,
+      1572,
+      2320
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/4"
+  }
+]

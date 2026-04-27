@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      309,
+      720,
+      804
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một doanh nghiệp kinh doanh sản xuất đồng hồ có đồ thị hàm tổng chi phí theo số sản phẩm, là một phần của đồ thị hàm số $f(x) = \\frac{ax^2 + bx + c}{x + e}$ như hình vẽ (mối đơn vị trên trục hoành tương ứng với 100 sản phẩm, mỗi đơn vị trên trục tung tương ứng với 1 000 USD)."
+  },
+  {
+    "bbox": [
+      1052,
+      321,
+      1445,
+      658
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      814,
+      1455,
+      946
+    ],
+    "category": "Text",
+    "text": "Biết rằng tâm đối xứng của đồ thị hàm số đó là điểm $I\\left(-1; \\frac{2}{3}\\right)$ và đường tiệm cận xiên của đồ thị đó đi qua điểm $B(3; 2)$."
+  },
+  {
+    "bbox": [
+      222,
+      952,
+      878,
+      999
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đồng biến trên khoảng $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      222,
+      1006,
+      1008,
+      1053
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số có đường tiệm cận đứng là $x = 1$."
+  },
+  {
+    "bbox": [
+      222,
+      1055,
+      1342,
+      1138
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số có thể viết lại dưới dạng $f(x) = \\frac{1}{3}x + 1 + \\frac{d}{x+1}$ với $d$ thuộc $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      222,
+      1134,
+      1448,
+      1345
+    ],
+    "category": "List-item",
+    "text": "d) Theo khảo sát, tổng doanh thu của doanh nghiệp này được mô tả bằng hàm số $R(x) = x^2 + 2x$ và lợi nhuận thu về khi bán 200 sản phẩm là 5 250 USD. Khi chi phí theo số sản phẩm đạt giá trị nhỏ nhất, số sản phẩm sản xuất được (làm tròn đến hàng đơn vị) là 25 sản phẩm."
+  },
+  {
+    "bbox": [
+      192,
+      1365,
+      1455,
+      1468
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Khảo sát chiều cao của 20 học sinh nam lớp 12A của một trường THPT X, người ta được kết quả thống kê trong bảng sau"
+  },
+  {
+    "bbox": [
+      252,
+      1493,
+      1395,
+      1607
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao (cm)</td><td>[160; 165)</td><td>[165; 170)</td><td>[170; 175)</td><td>[175; 180)</td><td>[180; 185)</td></tr><tr><td>Số học sinh</td><td>3</td><td>5</td><td>7</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      222,
+      1632,
+      1448,
+      1735
+    ],
+    "category": "List-item",
+    "text": "a) Gọi $x_1; x_2; \\dots; x_{20}$ là mẫu số liệu gốc gồm chiều cao của 20 học sinh trên được xếp theo thứ tự không giảm. Khi đó $x_3 \\in [165; 170)$ và $x_9 \\in [170; 175)$."
+  },
+  {
+    "bbox": [
+      222,
+      1743,
+      1240,
+      1792
+    ],
+    "category": "List-item",
+    "text": "b) Tứ phân vị thứ ba của mẫu số liệu ghép nhóm đã cho bằng 175."
+  },
+  {
+    "bbox": [
+      222,
+      1798,
+      1246,
+      1847
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng tứ phân vị của mẫu số liệu ghép nhóm đã cho bằng 8,5."
+  },
+  {
+    "bbox": [
+      222,
+      1853,
+      1448,
+      1955
+    ],
+    "category": "List-item",
+    "text": "d) Chọn ngẫu nhiên một học sinh trong nhóm khảo sát nói trên, xác suất chọn được học sinh có chiều cao từ 175 cm trở lên bằng 0,25."
+  },
+  {
+    "bbox": [
+      192,
+      1975,
+      1455,
+      2071
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ tọa độ $Oxyz$, cho tam giác $ABC$ với $A(1; 2; 4)$, $B(0; -2; 3)$ và $C(4; -2; 3)$."
+  },
+  {
+    "bbox": [
+      222,
+      2073,
+      842,
+      2127
+    ],
+    "category": "List-item",
+    "text": "a) Độ dài của vecto $\\overrightarrow{AB} - \\overrightarrow{BC}$ bằng $\\sqrt{42}$."
+  },
+  {
+    "bbox": [
+      222,
+      2131,
+      879,
+      2182
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích của tam giác $ABC$ bằng $2\\sqrt{17}$."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2245,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 46"
+  }
+]

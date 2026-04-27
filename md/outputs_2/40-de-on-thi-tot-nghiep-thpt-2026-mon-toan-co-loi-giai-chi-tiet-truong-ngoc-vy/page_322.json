@@ -1,0 +1,310 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      98,
+      1013,
+      151
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm của bất phương trình $\\log_3(36 - x^2) \\ge 3$ là"
+  },
+  {
+    "bbox": [
+      205,
+      178,
+      512,
+      231
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -3] \\cup [3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      554,
+      183,
+      707,
+      231
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 3]$."
+  },
+  {
+    "bbox": [
+      906,
+      183,
+      1048,
+      231
+    ],
+    "category": "List-item",
+    "text": "C. $[-3; 3]$."
+  },
+  {
+    "bbox": [
+      1255,
+      183,
+      1384,
+      231
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 3]$."
+  },
+  {
+    "bbox": [
+      807,
+      255,
+      924,
+      294
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      314,
+      271,
+      352
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      156,
+      371,
+      1063,
+      424
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\log_3(36 - x^2) \\ge 3 \\Leftrightarrow 36 - x^2 \\ge 27 \\Leftrightarrow 9 - x^2 \\ge 0 \\Leftrightarrow -3 \\le x \\le 3$."
+  },
+  {
+    "bbox": [
+      156,
+      450,
+      1573,
+      566
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Diện tích hình phẳng được giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành, trục tung và đường thẳng $x = a$, $a > 0$ ( phần tô đâm trong hình vẽ) được tính theo công thức"
+  },
+  {
+    "bbox": [
+      676,
+      579,
+      1052,
+      893
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      920,
+      601,
+      1014
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{0}^{c} f(x) dx - \\int_{a}^{c} f(x) dx$."
+  },
+  {
+    "bbox": [
+      906,
+      920,
+      1162,
+      1014
+    ],
+    "category": "List-item",
+    "text": "B. $S = -\\int_{0}^{a} f(x) dx$."
+  },
+  {
+    "bbox": [
+      205,
+      1043,
+      626,
+      1137
+    ],
+    "category": "List-item",
+    "text": "C. $S = -\\int_{0}^{c} f(x) dx + \\int_{a}^{c} f(x) dx$."
+  },
+  {
+    "bbox": [
+      906,
+      1043,
+      1304,
+      1137
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{0}^{c} f(x) dx + \\int_{a}^{c} f(x) dx$."
+  },
+  {
+    "bbox": [
+      807,
+      1162,
+      924,
+      1201
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1221,
+      279,
+      1259
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      1280,
+      1284,
+      1375
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng: $S = \\int_{0}^{a} |f(x)| dx = \\int_{0}^{c} |f(x)| dx + \\int_{c}^{a} |f(x)| dx = \\int_{0}^{c} f(x) dx - \\int_{c}^{a} f(x) dx$"
+  },
+  {
+    "bbox": [
+      156,
+      1398,
+      817,
+      1440
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      665,
+      1459,
+      1066,
+      1801
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1826,
+      633,
+      1872
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai vecto $\\overrightarrow{AB}$ và $\\overrightarrow{DC'}$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      1892,
+      313,
+      1928
+    ],
+    "category": "List-item",
+    "text": "A. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      554,
+      1892,
+      661,
+      1928
+    ],
+    "category": "List-item",
+    "text": "B. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      906,
+      1892,
+      1013,
+      1928
+    ],
+    "category": "List-item",
+    "text": "C. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      1255,
+      1892,
+      1376,
+      1928
+    ],
+    "category": "List-item",
+    "text": "D. $120^\\circ$."
+  },
+  {
+    "bbox": [
+      807,
+      1952,
+      924,
+      1991
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2011,
+      279,
+      2048
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      2067,
+      761,
+      2127
+    ],
+    "category": "Text",
+    "text": "Ta có: $(\\overrightarrow{AB}, \\overrightarrow{DC'}) = (\\overrightarrow{DC}, \\overrightarrow{DC'}) = \\widehat{CDC'} = 45^\\circ$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

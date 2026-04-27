@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      409,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      121,
+      1556,
+      201
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian $Oxyz$, cho hình lập phương $ABCD.A'B'C'D'$ có $A(0; 0; 0)$, $B(1; 0; 0)$, $D(0; 1; 0)$, $A'(0; 0; 1)$."
+  },
+  {
+    "bbox": [
+      814,
+      248,
+      1173,
+      610
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      478,
+      675,
+      1548,
+      749
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ các định còn lại của lập phương là $B'(1; 0; 1)$, $D'(0; 1; 1)$, $C(1; 1; 0)$, $C'(1; 1; 1)$."
+  },
+  {
+    "bbox": [
+      478,
+      752,
+      1292,
+      884
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình tham số của đường thẳng $C'D$ là $\\begin{cases} x = t \\\\ y = 1 \\\\ z = -t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      478,
+      884,
+      1385,
+      924
+    ],
+    "category": "List-item",
+    "text": "c) Một vectơ pháp tuyến của mặt phẳng $(A'C'D)$ là $\\vec{n} = (-1; 1; 1)$."
+  },
+  {
+    "bbox": [
+      478,
+      926,
+      1549,
+      1000
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $E, F$ lần lượt thuộc $C'D$ và trục $Ox$ sao cho $EF \\perp (A'C'D)$. Khi đó $EF = \\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      448,
+      1025,
+      1556,
+      1102
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một xạ thủ bắn bia, trên bia có các vòng tròn tính điểm từ 5 đến 10 như hình vẽ."
+  },
+  {
+    "bbox": [
+      646,
+      1134,
+      1356,
+      1851
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1894,
+      1556,
+      1969
+    ],
+    "category": "Text",
+    "text": "Mối lần bắn, xác suất xạ thủ đó bắn trúng vòng 8 là 0,25; trúng vòng dưới 8 (kể cả bắn trượt) là 0,4."
+  },
+  {
+    "bbox": [
+      448,
+      1971,
+      1556,
+      2081
+    ],
+    "category": "Text",
+    "text": "Gọi $P_1, P_2$ lần lượt là xác suất xạ thủ bắn trúng vòng 10 và 9 trong mỗi lần bắn. Biết rằng nếu xạ thủ bắn ba phát vào bia thì xác suất cả ba lần bắn trúng vòng 10 là 0,003375."
+  },
+  {
+    "bbox": [
+      478,
+      2088,
+      663,
+      2124
+    ],
+    "category": "List-item",
+    "text": "a) $P_1 = 0,15$."
+  },
+  {
+    "bbox": [
+      478,
+      2126,
+      663,
+      2162
+    ],
+    "category": "List-item",
+    "text": "b) $P_2 = 0,18$."
+  },
+  {
+    "bbox": [
+      478,
+      2165,
+      1317,
+      2203
+    ],
+    "category": "List-item",
+    "text": "c) Nếu xạ thủ bắn ba phát thì xác suất đạt 29 điểm là 0,0045."
+  },
+  {
+    "bbox": [
+      478,
+      2206,
+      1447,
+      2245
+    ],
+    "category": "List-item",
+    "text": "d) Nếu xạ thủ bắn ba phát thì xác suất đạt **ít nhất** 28 điểm là 0,05175."
+  },
+  {
+    "bbox": [
+      135,
+      2261,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "622 Bùi Tịnh Minh Lâm"
+  }
+]

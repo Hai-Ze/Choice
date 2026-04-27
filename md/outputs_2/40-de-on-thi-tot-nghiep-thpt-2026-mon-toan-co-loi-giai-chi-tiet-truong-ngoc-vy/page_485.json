@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      101,
+      417,
+      181
+    ],
+    "category": "Formula",
+    "text": "a) $f(e) = \\frac{1}{e}; f(e^{2025}) = 1$."
+  },
+  {
+    "bbox": [
+      76,
+      205,
+      737,
+      287
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = \\frac{1 - \\ln x}{x^2}$"
+  },
+  {
+    "bbox": [
+      76,
+      305,
+      790,
+      351
+    ],
+    "category": "Formula",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ là 1."
+  },
+  {
+    "bbox": [
+      76,
+      375,
+      909,
+      456
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của hàm số đã cho trên đoạn $[2;3]$ là $\\frac{\\ln 3}{3}$."
+  },
+  {
+    "bbox": [
+      727,
+      480,
+      843,
+      518
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      533,
+      894,
+      655
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      717,
+      689,
+      804
+    ],
+    "category": "Formula",
+    "text": "a) $f(e) = \\frac{\\ln e}{e} = \\frac{1}{e}; f(e^{2025}) = \\frac{\\ln e^{2025}}{e^{2025}} = \\frac{2025}{e^{2025}}$."
+  },
+  {
+    "bbox": [
+      76,
+      828,
+      523,
+      910
+    ],
+    "category": "Formula",
+    "text": "b) $f(x) = \\frac{\\ln x}{x} \\Rightarrow f'(x) = \\frac{1 - \\ln x}{x^2}$"
+  },
+  {
+    "bbox": [
+      76,
+      934,
+      640,
+      1016
+    ],
+    "category": "Formula",
+    "text": "c) Ta có: $f'(x) = 0 \\Leftrightarrow \\frac{1 - \\ln x}{x^2} = 0 \\Leftrightarrow x = e$"
+  },
+  {
+    "bbox": [
+      76,
+      1034,
+      802,
+      1078
+    ],
+    "category": "Text",
+    "text": "Vậy tổng các nghiệm của phương trình $f'(x) = 0$ là $e$"
+  },
+  {
+    "bbox": [
+      76,
+      1104,
+      739,
+      1154
+    ],
+    "category": "Formula",
+    "text": "d) Hàm số đã cho xác định và liên tục trên $[2;3]$."
+  },
+  {
+    "bbox": [
+      82,
+      1180,
+      612,
+      1262
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\frac{1 - \\ln x}{x^2} = 0 \\Leftrightarrow x = e \\in [2;3]\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1286,
+      991,
+      1368
+    ],
+    "category": "Formula",
+    "text": "Ta có: $f(2) = \\frac{\\ln 2}{2} \\approx 0,3466; f(e) = \\frac{1}{e} \\approx 0,3679; f(3) = \\frac{\\ln 3}{3} \\approx 0,366$"
+  },
+  {
+    "bbox": [
+      76,
+      1394,
+      413,
+      1473
+    ],
+    "category": "Formula",
+    "text": "Suy ra $\\min_{x \\in [2;3]} f(x) = \\frac{\\ln 2}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1497,
+      885,
+      1578
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của hàm số trên đoạn $[2;3]$ bằng $\\frac{\\ln 2}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1600,
+      1494,
+      1814
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một集合有80 viên bi, trong đó有50 viên bi màu đỏ và 30 viên bi màu vàng. Các viên bi có kích thước và khối lượng như nhau. Sau khi kiểm tra, người ta thấy có 60% số viên bi màu đỏ đánh số và 50% số viên bi màu vàng có đánh số, những viên bi còn lại không đánh số. Lấy ra ngẫu nhiên 1 viên bi trong集合."
+  },
+  {
+    "bbox": [
+      76,
+      1828,
+      959,
+      1872
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được viên bi màu vàng có đánh số bằng 18,57%."
+  },
+  {
+    "bbox": [
+      76,
+      1886,
+      761,
+      1930
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được viên bi màu đỏ bằng 62,5%."
+  },
+  {
+    "bbox": [
+      76,
+      1944,
+      871,
+      1988
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được viên bi không đánh số bằng 43,75%."
+  },
+  {
+    "bbox": [
+      76,
+      2002,
+      1494,
+      2103
+    ],
+    "category": "Text",
+    "text": "d) Giả sử viên bi được lấy ra là viên bi chưa được đánh số, xác suất để viên bi đó là bi đỏ thấp hơn xác suất viên bi đó là bi vàng."
+  },
+  {
+    "bbox": [
+      727,
+      2122,
+      843,
+      2160
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2175,
+      894,
+      2239
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

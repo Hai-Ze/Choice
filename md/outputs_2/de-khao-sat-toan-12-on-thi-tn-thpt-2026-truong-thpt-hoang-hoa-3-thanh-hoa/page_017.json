@@ -1,0 +1,142 @@
+[
+  {
+    "bbox": [
+      335,
+      103,
+      1089,
+      153
+    ],
+    "category": "Text",
+    "text": "Ta có: $BH \\perp AM, BN \\perp AM \\Rightarrow AM \\perp (NBH) \\Rightarrow BK \\perp AM$."
+  },
+  {
+    "bbox": [
+      335,
+      163,
+      928,
+      213
+    ],
+    "category": "Text",
+    "text": "Do $BK \\perp NH, BK \\perp AM$ nên $BK \\perp (AMN)$."
+  },
+  {
+    "bbox": [
+      335,
+      225,
+      703,
+      278
+    ],
+    "category": "Text",
+    "text": "Suy ra: $d(B,(AMN)) = BK$."
+  },
+  {
+    "bbox": [
+      335,
+      287,
+      1197,
+      388
+    ],
+    "category": "Text",
+    "text": "Mặt khác: $BH = \\frac{BM.BA}{\\sqrt{BM^2 + BA^2}} = \\frac{\\sqrt{5a}}{5}$; $BK = \\frac{BH.BN}{\\sqrt{BH^2 + BN^2}} = \\frac{a\\sqrt{7}}{7}$."
+  },
+  {
+    "bbox": [
+      335,
+      397,
+      935,
+      485
+    ],
+    "category": "Text",
+    "text": "Vậy $d(AM,B'C) = d(B,(AMN)) = BK = \\frac{a\\sqrt{7}}{7}$."
+  },
+  {
+    "bbox": [
+      335,
+      490,
+      758,
+      534
+    ],
+    "category": "Text",
+    "text": "Vậy $m = n = 7$. Tổng $m + n = 14$."
+  },
+  {
+    "bbox": [
+      197,
+      536,
+      1600,
+      669
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Phòng chăm sóc khách hàng của công ty A làm việc từ 8h00 sáng đến 20h00 mỗi ngày. Nhân viên trực tổng đài làm việc theo 2 ca, mỗi ca 8 tiếng, ca I từ 8h00 đến 16h00 và ca II từ 12h00 đến 20h00. Tiền lương của nhân viên được tính theo giờ (bảng dưới đây):"
+  },
+  {
+    "bbox": [
+      514,
+      713,
+      1329,
+      853
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Khoảng thời gian làm việc</td><td>Tiền lương/giờ</td></tr></thead><tbody><tr><td>8h00 – 16h00</td><td>32 000 đồng</td></tr><tr><td>12h00 – 20h00</td><td>30 000 đồng</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      335,
+      895,
+      1639,
+      1206
+    ],
+    "category": "Text",
+    "text": "Để chăm sóc khách hàng tốt nhất thì cần tối thiểu 2 nhân viên trong khoảng từ 12h00 – 20h00, tối thiểu 10 nhân viên trong giờ cao điểm từ 12h00 – 16h00 và không quá 9 nhân viên trong khoảng từ 8h00 – 16h00. Do lượng khách hàng trong khoảng 8h00 – 16h00 thường đông hơn nên phòng chăm sóc khách hàng cần số nhân viên ca I ít nhất phải gấp 1,5 lần số nhân viên của ca II. Em hãy giúp công ty A chỉ ra cách huy động số lượng nhân viên cho mỗi ca sao cho chi phí tiền lương mỗi ngày là ít nhất. Khi đó chi phí tiền lương ít nhất mà công ty A phải trả cho nhân viên mỗi ngày là $a$ (nghìn đồng). Giá trị của $a$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      914,
+      1212,
+      1031,
+      1250
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      296,
+      1250,
+      1524,
+      1354
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số nhân viên cần huy động làm ca I và $y$ là số nhân viên cần huy động làm ca II ($x, y \\in \\mathbb{N}^*$)."
+  },
+  {
+    "bbox": [
+      335,
+      1361,
+      930,
+      1405
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết ta có hệ bất phương trình sau:"
+  },
+  {
+    "bbox": [
+      301,
+      1411,
+      441,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 0 < x \\le 9 \\\\ y \\ge 2 \\\\ x + y \\ge 10 \\\\ x \\ge 1,5y \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      1601,
+      1095,
+      1646
+    ],
+    "category": "Text",
+    "text": "Biểu diễn miện nghiệm của hệ bất phương trình ta được:"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      153,
+      75,
+      1289,
+      121
+    ],
+    "category": "Text",
+    "text": "d) Sau 4 phút kể từ khi bắt đầu hạ cánh máy bay đang ở độ cao $4 \\text{ km}$ so với mặt đất."
+  },
+  {
+    "bbox": [
+      884,
+      204,
+      1000,
+      242
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      245,
+      764,
+      293
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ của $M$ là $M(18; -6; 3,5)$."
+  },
+  {
+    "bbox": [
+      253,
+      341,
+      427,
+      379
+    ],
+    "category": "Text",
+    "text": "Chọn a) SAI"
+  },
+  {
+    "bbox": [
+      253,
+      422,
+      644,
+      473
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\overline{AB} = (-40; 20; -5)$."
+  },
+  {
+    "bbox": [
+      253,
+      517,
+      472,
+      561
+    ],
+    "category": "Text",
+    "text": "Chọn b) ĐÚNG"
+  },
+  {
+    "bbox": [
+      253,
+      604,
+      1458,
+      687
+    ],
+    "category": "Text",
+    "text": "c) Ta có $|\\overline{AB}| = \\sqrt{(-40)^2 + (20)^2 + 5^2} = 45(\\text{km})$, suy ra $t = \\frac{45}{270} = \\frac{1}{6}(\\text{h}) = \\frac{1}{6} \\cdot 60 = 10(\\text{phut})$"
+  },
+  {
+    "bbox": [
+      253,
+      730,
+      427,
+      768
+    ],
+    "category": "Text",
+    "text": "Chọn c) SAI"
+  },
+  {
+    "bbox": [
+      253,
+      806,
+      1627,
+      953
+    ],
+    "category": "Text",
+    "text": "d) Giả sử sau 4 phút kể từ khi bắt đầu hạ cánh máy bay đến vị trí $H$. Vận tốc của máy bay là $270\\text{km/h}$ nên độ dài $|\\overline{AH}| = \\frac{4}{60} \\cdot 270 = 18(\\text{km})$."
+  },
+  {
+    "bbox": [
+      253,
+      999,
+      1149,
+      1082
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB}$ và $\\overline{AH}$ cùng hướng và $\\frac{AH}{AB} = \\frac{18}{45} = \\frac{2}{5}$ nên $5\\overline{AH} = 2\\overline{AB}$."
+  },
+  {
+    "bbox": [
+      253,
+      1124,
+      1159,
+      1293
+    ],
+    "category": "Text",
+    "text": "Gọi $H(a;b;c)$ và $5\\overline{AH} = 2\\overline{AB} \\Rightarrow \\begin{cases} 5(a-38) = 2 \\cdot (-40) \\\\ 5(b+16) = 2 \\cdot 20 \\\\ 5(c-6) = 2 \\cdot (-5) \\end{cases} \\Leftrightarrow \\begin{cases} a = 22 \\\\ b = -8 \\\\ c = 4 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      153,
+      1337,
+      1308,
+      1383
+    ],
+    "category": "Text",
+    "text": "Vậy sau 4 phút kể từ khi bắt đầu hạ cánh máy bay đang ở độ cao $4 \\text{ km}$ so với mặt đất."
+  },
+  {
+    "bbox": [
+      253,
+      1401,
+      472,
+      1446
+    ],
+    "category": "Text",
+    "text": "Chọn d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      115,
+      1481,
+      1167,
+      1526
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      115,
+      1531,
+      1627,
+      1841
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng ($x \\in \\mathbb{N}^*; 1 \\le x \\le 5000$) thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0,02x^2 + 250x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{3000}{x} + 100$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết. Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 40 triệu đồng?"
+  },
+  {
+    "bbox": [
+      884,
+      1846,
+      1000,
+      1884
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      1889,
+      450,
+      1928
+    ],
+    "category": "Text",
+    "text": "Đáp án: 299."
+  },
+  {
+    "bbox": [
+      253,
+      1935,
+      1124,
+      1990
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận khi bán hết $x$ sản phẩm với ($x \\in \\mathbb{N}^*; 1 \\le x \\le 5000$) là:"
+  },
+  {
+    "bbox": [
+      258,
+      2005,
+      992,
+      2112
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL(x) &= F(x) - x \\cdot G(x) = -0,02x^2 + 250x - \\frac{3000}{x} - 100x \\\\\n&\\Rightarrow L(x) = -0,02x^2 + 150x - 3000 \\text{ (nghìn đồng).}\n\\end{aligned}\n$$"
+  }
+]

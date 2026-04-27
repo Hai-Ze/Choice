@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1575,
+      194
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong bài thực hành Vật lí đo hiệu điện thế của mạch điện, bạn Minh Hiền đã dùng haiхôn kế khác nhau để đo và cho kết quả như sau:"
+  },
+  {
+    "bbox": [
+      260,
+      210,
+      1469,
+      341
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hiệu điện thế đo được (Vôn)</td><td>[3,85;3,90)</td><td>[3,90;3,95)</td><td>[3,95;4,00)</td><td>[4,00;4,05)</td></tr><tr><td>Số lần Minh Hiền đo</td><td>1</td><td>6</td><td>2</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      396,
+      1266,
+      441
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm cho kết quả đo của bạn Minh Hiền."
+  },
+  {
+    "bbox": [
+      206,
+      460,
+      347,
+      495
+    ],
+    "category": "List-item",
+    "text": "A. 0,039."
+  },
+  {
+    "bbox": [
+      556,
+      460,
+      707,
+      495
+    ],
+    "category": "List-item",
+    "text": "B. 0,0015."
+  },
+  {
+    "bbox": [
+      906,
+      460,
+      1045,
+      495
+    ],
+    "category": "List-item",
+    "text": "C. 0,024."
+  },
+  {
+    "bbox": [
+      1255,
+      460,
+      1409,
+      495
+    ],
+    "category": "List-item",
+    "text": "D. 0,0025."
+  },
+  {
+    "bbox": [
+      807,
+      525,
+      924,
+      562
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      582,
+      279,
+      619
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      635,
+      571,
+      678
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu với giá trị đại diện"
+  },
+  {
+    "bbox": [
+      260,
+      694,
+      1469,
+      886
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hiệu điện thế đo được (Vôn)</td><td>[3,85;3,90)</td><td>[3,90;3,95)</td><td>[3,95;4,00)</td><td>[4,00;4,05)</td></tr><tr><td>Giá trị đại diện</td><td>3,875</td><td>3,925</td><td>3,975</td><td>4,025</td></tr><tr><td>Số lần Minh Hiền đo</td><td>1</td><td>6</td><td>2</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      949,
+      1117,
+      1028
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giá trị trung bình: } \\bar{x}_1 = \\frac{1}{10} (3,875 \\cdot 1 + 3,925 \\cdot 6 + 3,975 \\cdot 2 + 4,025 \\cdot 1) = 3,94\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1055,
+      1469,
+      1136
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai của mẫu số liệu: } s_1^2 = \\frac{1}{10} (3,875^2 \\cdot 1 + 3,925^2 \\cdot 6 + 3,975^2 \\cdot 2 + 4,025^2 \\cdot 1) - 3,94^2 = 0,001525\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1157,
+      910,
+      1208
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ lệch chuẩn của mẫu số liệu: } s_1 = \\sqrt{0,001525} \\approx 0,039\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1231,
+      1575,
+      1347
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ toạ độ $Oxyz$, cho 3 điểm $A(4;0;0)$; $B(0;-2;0)$; $C(0;0;2)$. Phương trình mặt phẳng $(ABC)$ là:"
+  },
+  {
+    "bbox": [
+      206,
+      1381,
+      456,
+      1455
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x}{4} + \\frac{y}{2} + \\frac{z}{-2} = 1$."
+  },
+  {
+    "bbox": [
+      556,
+      1381,
+      807,
+      1455
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x}{4} + \\frac{y}{-2} + \\frac{z}{2} = 0$."
+  },
+  {
+    "bbox": [
+      906,
+      1381,
+      1162,
+      1455
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x}{-4} + \\frac{y}{2} + \\frac{z}{-2} = 1$."
+  },
+  {
+    "bbox": [
+      1255,
+      1381,
+      1500,
+      1455
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x}{4} + \\frac{y}{-2} + \\frac{z}{2} = 1$."
+  },
+  {
+    "bbox": [
+      807,
+      1481,
+      924,
+      1518
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1538,
+      279,
+      1575
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      1595,
+      1575,
+      1752
+    ],
+    "category": "Text",
+    "text": "Vì $A(4;0;0)$, $B(0;-2;0)$, $C(0;0;2)$ thuộc các trục tọa độ nên phương trình mp chắn $(ABC)$ là $\\frac{x}{4} + \\frac{y}{-2} + \\frac{z}{2} = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      1772,
+      1575,
+      1817
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, phương trình nào sau đây là phương trình chính tắc của đường thẳng"
+  },
+  {
+    "bbox": [
+      161,
+      1842,
+      361,
+      1988
+    ],
+    "category": "Formula",
+    "text": "$$\nd: \\begin{cases} x = -1 + 2t \\\\ y = 3t \\\\ z = -3 + t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      206,
+      2019,
+      485,
+      2098
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x+1}{2} = \\frac{y}{3} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      556,
+      2019,
+      832,
+      2098
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x-1}{1} = \\frac{y}{3} = \\frac{z+3}{-2}$."
+  },
+  {
+    "bbox": [
+      906,
+      2019,
+      1228,
+      2098
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x+1}{2} = \\frac{y-3}{3} = \\frac{z+3}{1}$."
+  },
+  {
+    "bbox": [
+      1255,
+      2019,
+      1536,
+      2098
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x+1}{2} = \\frac{y}{3} = \\frac{z+3}{1}$."
+  },
+  {
+    "bbox": [
+      807,
+      2123,
+      924,
+      2160
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2180,
+      279,
+      2217
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

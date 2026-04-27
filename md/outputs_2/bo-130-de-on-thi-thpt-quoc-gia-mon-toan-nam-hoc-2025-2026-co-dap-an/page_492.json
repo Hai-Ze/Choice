@@ -1,0 +1,456 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      75,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      951,
+      40,
+      982,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      141,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      54,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      70,
+      446,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "L winh mai than tài, miет mai tít gòi."
+  },
+  {
+    "bbox": [
+      141,
+      567,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1192,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..../..../........"
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      662,
+      275,
+      1338,
+      331
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 97"
+  },
+  {
+    "bbox": [
+      750,
+      333,
+      1249,
+      384
+    ],
+    "category": "Text",
+    "text": "SỞ HƯNG YÊN - LẦN 1 - 2025"
+  },
+  {
+    "bbox": [
+      635,
+      388,
+      1367,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      464,
+      509,
+      1516,
+      565
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      572,
+      1173,
+      644
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Tìm nguyên hàm của hàm số $f(x) = \\frac{1}{5x - 12}$."
+  },
+  {
+    "bbox": [
+      477,
+      639,
+      953,
+      714
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\int \\frac{dx}{5x - 12} = \\frac{1}{5} \\ln |12 - 5x| + C.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      639,
+      1521,
+      714
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\int \\frac{dx}{5x - 12} = -\\frac{1}{5} \\ln |5x - 12| + C.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      711,
+      946,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\int \\frac{dx}{5x - 12} = 5 \\ln |5x - 12| + C.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      711,
+      1472,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\int \\frac{dx}{5x - 12} = \\ln |5x - 12| + C.\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      797,
+      1553,
+      968
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Trong không gian $Oxyz$, phương trình nào dưới đây là phương trình chính tắc của đường thẳng $d$: $$ \\begin{cases} x = -1 + 2t \\\\ y = 3t \\\\ z = -3 + t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      477,
+      965,
+      791,
+      1037
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\frac{x+1}{2} = \\frac{y}{3} = \\frac{z-3}{-2}.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      965,
+      1335,
+      1037
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\frac{x-1}{1} = \\frac{y}{3} = \\frac{z+3}{-2}.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1032,
+      841,
+      1104
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\frac{x+1}{2} = \\frac{y-3}{3} = \\frac{z+3}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1032,
+      1335,
+      1104
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\frac{x+1}{2} = \\frac{y}{3} = \\frac{z+3}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      1125,
+      1105,
+      1204
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Cho hình集合 $ABCD.EFGH$ (minh họa như hình bên). Kết quả phép toán $\\overrightarrow{AB} - \\overrightarrow{EH}$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1200,
+      584,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\overrightarrow{FH}.\n$$"
+  },
+  {
+    "bbox": [
+      638,
+      1200,
+      748,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\overrightarrow{BH}.\n$$"
+  },
+  {
+    "bbox": [
+      799,
+      1200,
+      906,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\overrightarrow{DB}.\n$$"
+  },
+  {
+    "bbox": [
+      959,
+      1200,
+      1066,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\overrightarrow{AE}.\n$$"
+  },
+  {
+    "bbox": [
+      1151,
+      1143,
+      1527,
+      1488
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1506,
+      1553,
+      1585
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Cô Hải thống kê lại đường kính thân gỗ của một số cây xoan đào 6 năm tuổi được trồng ở sân trường thu được mẫu số liệu ghép nhóm sau."
+  },
+  {
+    "bbox": [
+      575,
+      1605,
+      1424,
+      1703
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Đường kính (cm)</td><td>[40; 45)</td><td>[45; 50)</td><td>[50; 55)</td><td>[55; 60)</td><td>[60; 65)</td></tr><tr><td>Tần số</td><td>5</td><td>20</td><td>18</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      448,
+      1728,
+      1165,
+      1765
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      477,
+      1763,
+      548,
+      1803
+    ],
+    "category": "Text",
+    "text": "A 6."
+  },
+  {
+    "bbox": [
+      749,
+      1763,
+      835,
+      1803
+    ],
+    "category": "Text",
+    "text": "B 25."
+  },
+  {
+    "bbox": [
+      1023,
+      1763,
+      1105,
+      1803
+    ],
+    "category": "Text",
+    "text": "C 15."
+  },
+  {
+    "bbox": [
+      1294,
+      1763,
+      1377,
+      1803
+    ],
+    "category": "Text",
+    "text": "D 30."
+  },
+  {
+    "bbox": [
+      448,
+      1820,
+      1404,
+      1861
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ bên dưới."
+  },
+  {
+    "bbox": [
+      609,
+      1882,
+      1389,
+      2139
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      2170,
+      1181,
+      2207
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      477,
+      2205,
+      625,
+      2247
+    ],
+    "category": "Text",
+    "text": "A $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      749,
+      2205,
+      922,
+      2247
+    ],
+    "category": "Text",
+    "text": "B $(-8; -3)$."
+  },
+  {
+    "bbox": [
+      1023,
+      2205,
+      1185,
+      2247
+    ],
+    "category": "Text",
+    "text": "C $(-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      1294,
+      2205,
+      1454,
+      2247
+    ],
+    "category": "Text",
+    "text": "D $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "490 Bùi Tịnh Minh Lâm"
+  }
+]

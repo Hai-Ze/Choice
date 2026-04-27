@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      588,
+      136
+    ],
+    "category": "Text",
+    "text": "Ta xác định phương trình của parabol."
+  },
+  {
+    "bbox": [
+      76,
+      154,
+      589,
+      194
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxy$ như hình vẽ:"
+  },
+  {
+    "bbox": [
+      472,
+      224,
+      1083,
+      877
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      977,
+      1069,
+      1020
+    ],
+    "category": "Text",
+    "text": "Gọi phương trình parabol có định $N$ là $y = ax^2 + bx + c$, theo bài ra ta có:"
+  },
+  {
+    "bbox": [
+      76,
+      1045,
+      650,
+      1273
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} y(0) = 5 \\\\ y(3) = 0 \\\\ \\frac{-b}{2a} = 3 \\end{cases} \\Leftrightarrow \\begin{cases} c = 5 \\\\ 9a + 3b + c = 0 \\\\ 6a + b = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{5}{9} \\\\ b = \\frac{-10}{3} \\\\ c = 5 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1300,
+      402,
+      1382
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } y = \\frac{5}{9}x^2 - \\frac{10}{3}x + 5.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1405,
+      1491,
+      1608
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng giới hạn bởi $y = \\frac{5}{9}x^2 - \\frac{10}{3}x + 5$, trục hoành và hai đường thẳng $x = 0; x = 3$ bằng: $S_1 = \\int_0^3 \\left( \\frac{5}{9}x^2 - \\frac{10}{3}x + 5 \\right) dx = 5(\\text{dm}^2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1627,
+      1494,
+      1745
+    ],
+    "category": "Text",
+    "text": "Do tính đối xứng nên hình phẳng giới hạn bởi parabol có định $M$, trục đối xứng $AB$, trục hoành và hai đường thẳng $x = 0; x = 3$ có diện tích bằng $5(\\text{dm}^2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1772,
+      925,
+      1860
+    ],
+    "category": "Text",
+    "text": "Tổng diện tích phần bảng gỗ sơn màu xanh là: $\\left(\\frac{9}{2}\\pi + 10\\right)\\text{dm}^2$."
+  },
+  {
+    "bbox": [
+      76,
+      1885,
+      1203,
+      1975
+    ],
+    "category": "Text",
+    "text": "Diện tích của phần bảng gỗ sơn màu trắng là: $S' = 48 - \\left(\\frac{9}{2}\\pi + 10\\right) = \\left(38 - \\frac{9}{2}\\pi\\right)\\text{dm}^2$."
+  },
+  {
+    "bbox": [
+      76,
+      2000,
+      1149,
+      2090
+    ],
+    "category": "Text",
+    "text": "Chi phí cần bỏ ra là: $\\left(\\frac{9}{2}\\pi + 10\\right) \\cdot 50000 + \\left(38 - \\frac{9}{2}\\pi\\right) \\cdot 30000 \\approx 1923$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      76,
+      2108,
+      1494,
+      2221
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một doanh nghiệp sản xuất độc quyền một loại sản phẩm. Giả sử khi sản xuất và bán hết $x$ sản phẩm ($0 < x < 2000$), tổng số tiền doanh nghiệp thu được là $F(x) = 2000x - x^2$ (chục nghìn đồng) và"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

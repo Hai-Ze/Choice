@@ -1,0 +1,450 @@
+[
+  {
+    "bbox": [
+      157,
+      81,
+      271,
+      120
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      515,
+      81,
+      624,
+      120
+    ],
+    "category": "List-item",
+    "text": "B. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      869,
+      81,
+      985,
+      120
+    ],
+    "category": "List-item",
+    "text": "C. $120^\\circ$."
+  },
+  {
+    "bbox": [
+      1223,
+      81,
+      1332,
+      120
+    ],
+    "category": "List-item",
+    "text": "D. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      153,
+      128,
+      1074,
+      179
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình bên dưới."
+  },
+  {
+    "bbox": [
+      508,
+      190,
+      1354,
+      429
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      290,
+      429,
+      1345,
+      478
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số $y = f(x)$ có tổng số bao nhiêu đường tiệm cận đứng và ngang?"
+  },
+  {
+    "bbox": [
+      157,
+      486,
+      229,
+      522
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      515,
+      486,
+      582,
+      522
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      869,
+      486,
+      936,
+      522
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1223,
+      486,
+      1292,
+      522
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      153,
+      526,
+      1538,
+      658
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Hai khẩu pháo cao xạ cùng bắn độc lập với nhau vào một mục tiêu. Xác suất bắn trúng mục tiêu của hai khẩu pháo cao xạ lần lượt là $\\frac{1}{4}$ và $\\frac{1}{3}$. Xác suất để mục tiêu bị trúng đạn là:"
+  },
+  {
+    "bbox": [
+      157,
+      668,
+      244,
+      749
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      515,
+      668,
+      608,
+      749
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{7}{12}$."
+  },
+  {
+    "bbox": [
+      869,
+      668,
+      964,
+      749
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{5}{12}$."
+  },
+  {
+    "bbox": [
+      1223,
+      668,
+      1306,
+      749
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      758,
+      761,
+      801
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Phương trình $\\sin x = -1$ có nghiệm là"
+  },
+  {
+    "bbox": [
+      157,
+      812,
+      472,
+      887
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      869,
+      825,
+      1167,
+      864
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\pi + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      157,
+      916,
+      398,
+      955
+    ],
+    "category": "List-item",
+    "text": "C. $x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      869,
+      903,
+      1200,
+      979
+    ],
+    "category": "List-item",
+    "text": "D. $x = -\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      153,
+      983,
+      1568,
+      1072
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Khảo sát thu nhập theo tháng của người lao động ở một công ty thu được mẫu số ghép nhóm như bảng sau:"
+  },
+  {
+    "bbox": [
+      253,
+      1072,
+      1473,
+      1171
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thu nhập (triệu đồng)</td><td>[5;8)</td><td>[8;11)</td><td>[11;14)</td><td>[14;17)</td><td>[17;20)</td></tr><tr><td>Số người</td><td>30</td><td>55</td><td>45</td><td>30</td><td>20</td></tr></table>"
+  },
+  {
+    "bbox": [
+      290,
+      1171,
+      1423,
+      1212
+    ],
+    "category": "Text",
+    "text": "Tính mức thu nhập trung bình của người lao động ở công ty trên (đơn vị: triệu đồng)"
+  },
+  {
+    "bbox": [
+      157,
+      1212,
+      279,
+      1249
+    ],
+    "category": "List-item",
+    "text": "A. 10,5."
+  },
+  {
+    "bbox": [
+      515,
+      1212,
+      646,
+      1249
+    ],
+    "category": "List-item",
+    "text": "B. 11,75."
+  },
+  {
+    "bbox": [
+      869,
+      1212,
+      985,
+      1249
+    ],
+    "category": "List-item",
+    "text": "C. 12,5."
+  },
+  {
+    "bbox": [
+      1223,
+      1212,
+      1306,
+      1249
+    ],
+    "category": "List-item",
+    "text": "D. 11."
+  },
+  {
+    "bbox": [
+      153,
+      1261,
+      946,
+      1311
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      635,
+      1318,
+      1228,
+      1567
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      290,
+      1567,
+      767,
+      1616
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(x)$ đạt cực tiểu tại điểm"
+  },
+  {
+    "bbox": [
+      157,
+      1624,
+      289,
+      1663
+    ],
+    "category": "List-item",
+    "text": "A. $y = 0$."
+  },
+  {
+    "bbox": [
+      515,
+      1624,
+      660,
+      1663
+    ],
+    "category": "List-item",
+    "text": "B. $x = -4$."
+  },
+  {
+    "bbox": [
+      869,
+      1624,
+      1020,
+      1663
+    ],
+    "category": "List-item",
+    "text": "C. $y = -4$."
+  },
+  {
+    "bbox": [
+      1223,
+      1624,
+      1345,
+      1663
+    ],
+    "category": "List-item",
+    "text": "D. $x = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      1677,
+      1508,
+      1728
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian $Oxyz$, cho điểm $A(1;0;1)$. Tìm tọa độ điểm $C$ thỏa mãn $\\overline{AC} = (3;3;0)$?"
+  },
+  {
+    "bbox": [
+      157,
+      1746,
+      348,
+      1793
+    ],
+    "category": "List-item",
+    "text": "A. $C(2;3;1)$."
+  },
+  {
+    "bbox": [
+      515,
+      1746,
+      703,
+      1793
+    ],
+    "category": "List-item",
+    "text": "B. $C(3;3;0)$."
+  },
+  {
+    "bbox": [
+      869,
+      1746,
+      1123,
+      1793
+    ],
+    "category": "List-item",
+    "text": "C. $C(-3;-3;-1)$."
+  },
+  {
+    "bbox": [
+      1223,
+      1746,
+      1411,
+      1793
+    ],
+    "category": "List-item",
+    "text": "D. $C(4;3;1)$."
+  },
+  {
+    "bbox": [
+      153,
+      1843,
+      1522,
+      1927
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Học sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      1925,
+      1572,
+      2092
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình vuông $ABCD$ có cạnh bằng 4. Lấy $H, K$ lần lượt trên các cạnh $AB, AD$ sao cho $BH = 3HA, AK = 3KD$. Trên đường thẳng vuông góc với mặt phẳng $(ABCD)$ tại $H$ lấy điểm $S$ sao cho $\\widehat{SBH} = 30^\\circ$. Xét tính đúng, sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      178,
+      2098,
+      820,
+      2191
+    ],
+    "category": "List-item",
+    "text": "a) Thế tích của khối chóp $S.ABC$ bằng $\\frac{16\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      296,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 201"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1611,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

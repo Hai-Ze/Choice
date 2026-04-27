@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      160,
+      143,
+      1542,
+      275
+    ],
+    "category": "Text",
+    "text": "Xác suất để trong suốt quá trình di chuyển trên, có **ít nhất một thời điểm** Mã và Vua cùng đứng trên một ô cờ có dạng phân số tối gián $\\frac{a}{b}$ ($a, b \\in \\mathbb{N}^*$). Hãy tính giá trị của $b - 5a$?"
+  },
+  {
+    "bbox": [
+      160,
+      298,
+      1538,
+      385
+    ],
+    "category": "Text",
+    "text": "**Cách di chuyển của quân Mã:** Mã di chuyển theo đường chéo của hình chữ nhật $2 \\times 3$ ô vuông. (hoặc $3 \\times 2$ ô vuông)."
+  },
+  {
+    "bbox": [
+      160,
+      402,
+      1542,
+      490
+    ],
+    "category": "Text",
+    "text": "**Cách di chuyển của quân Vua:** Vua có thể di chuyển sang bất kỳ ô liền kề chung cạnh hoặc chung định xung quanh nó theo hướng ngang, dọc hoặc chéo."
+  },
+  {
+    "bbox": [
+      160,
+      546,
+      1544,
+      1130
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Anh Nghĩa có một mảnh đất dạng hình thang cong $OABC$ ($B$ là điểm cực đại của đồ thị hàm số $y = f(x)$) được mô hình hóa trong mặt phẳng $Oxy$ (đơn vị mỗi trục là $10m$). Anh Nghĩa chia mảnh đất hình thang cong $OABC$ thành 2 phần để làm hồ bơi và làm vường trồng cỏ được ngăn cách bởi một phần của đồ thị hàm bậc ba $y = f(x)$ như hình vẽ bên. Biết đơn giá làm hồ bơi là $400.000$ đồng/$m^2$, đơn giá trồng cỏ là $200.000$ đồng/$m^2$. Tổng chi phí anh Nghĩa phải trả là $295$ triệu đồng. Bên cạnh đó có một con đường nhựa được mô hình hóa bằng hàm $g(x) = \\frac{x+1}{x-2} (x > 2)$. Anh Nghĩa muốn làm một đoạn đường $MN$ đi từ Vường anh Nghĩa đến con đường nhựa đó. Hãy tính độ dài ngắn nhất của đoạn đường $MN$ mà anh Nghĩa muốn làm? (Đơn vị mét: làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      1073,
+      668,
+      1529,
+      1079
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1163,
+      1031,
+      1611
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một tấm pin năng lượng mặt trời hình chữ nhật $ABCD$ có kích thước $AB = 2m$ và $BC = 3m$. Tấm pin được đặt nghiêng sao cho cạnh $AB$ nằm sát trên mặt đất phẳng. Một bóng de (xem như một điểm) được đặt tại vị trí $S$ cao $4m$ có hình chiếu vuông góc lên mặt đất trùng với trung điểm $I$ của cạnh $AB$. Vào buổi tối khi быt den lên bóng của tấm pin trên mặt đất tạo thành một hình thang cân $ABC'D'$ (với $C', D'$ lần lượt là bóng của $C, D$). Biết rằng hình thang cân $ABC'D'$ có chiều cao bằng $4,5m$. Hãy tính diện tích nhỏ nhất của hình thang cân $ABC'D'$ là bóng của tấm pin trên mặt đất? (Đơn vị: $m^2$, làm tròn kết quả đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      1060,
+      1184,
+      1559,
+      1628
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1649,
+      1542,
+      1971
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Anh Trọng quyết định mua 2 cây đào và 1 cây mai tại một nhà vường để trang trí nhàep dip Tết Nguyên Đán. Giá mỗi cây đào là $1.000.000$ đồng, giá mỗi cây mai là $2.000.000$ đồng. Để kích cầu, nhà vường đưa ra chính sách: nếu khách hàng mua thêm $x$ cây cảnh nhỏ ($x$ là số nguyên không âm) với giá $50.000$ đồng/cây, thì toàn bộ đơn hàng sẽ được vận chuyển về nhà với mức phí tính theo hàm số: $f(x) = x^2 - 100x + 3000$ (đơn vị: nghìn đồng). Biết rằng số lượng cây mua thêm không vượt quá $40$ cây để đảm bảo tải trọng xe ($0 \\le x \\le 40$). Tổng chi phí (tiền mua cây và tiền vận chuyển) thấp nhất mà Anh Trọng cần bỏ ra để mua cây trang tríep dip Tết là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      824,
+      2012,
+      881,
+      2047
+    ],
+    "category": "Page-footer",
+    "text": "Hết"
+  },
+  {
+    "bbox": [
+      160,
+      2138,
+      670,
+      2177
+    ],
+    "category": "Page-footer",
+    "text": "ĐỀ KTĐK MÔN TOÁN K12 (08-02-2026)"
+  },
+  {
+    "bbox": [
+      1399,
+      2117,
+      1505,
+      2149
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

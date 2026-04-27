@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1250,
+      182
+    ],
+    "category": "Text",
+    "text": "khí có đường kính bằng 10 nên bán kính hình cầu bằng 5. Suy ra $I(-6; 5; 5)$."
+  },
+  {
+    "bbox": [
+      202,
+      201,
+      1258,
+      243
+    ],
+    "category": "Text",
+    "text": "Mặt cầu $K$ có tâm $I(-6; 5; 5)$ và bán kính bằng 5 nên có phương trình là:"
+  },
+  {
+    "bbox": [
+      202,
+      260,
+      1248,
+      305
+    ],
+    "category": "Formula",
+    "text": "$$\n(x + 6)^2 + (y - 5)^2 + (z - 5)^2 = 5^2 \\Leftrightarrow (x + 6)^2 + (y - 5)^2 + (z - 5)^2 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      324,
+      306,
+      363
+    ],
+    "category": "Text",
+    "text": "b) **Sai.**"
+  },
+  {
+    "bbox": [
+      153,
+      382,
+      1546,
+      471
+    ],
+    "category": "Text",
+    "text": "Tấm chắn $E$ đi qua các điểm $A(0; 16,25; 0)$, $B(-12; 16,25; 0)$, $C(0; 5; 15)$, $D(-12; 5; 15)$ nên có cặp vecto chỉ phương là: $\\overrightarrow{AB} = (-12; 0; 0)$, $\\overrightarrow{AC} = (0; -11,25; 15)$."
+  },
+  {
+    "bbox": [
+      202,
+      482,
+      1510,
+      532
+    ],
+    "category": "Text",
+    "text": "Suy ra một vecto pháp tuyến của tấm chắn $E$ là $\\vec{n} = [\\overrightarrow{AB}, \\overrightarrow{AC}] = (0; 180; 135) = 45(0; 4; 3)$."
+  },
+  {
+    "bbox": [
+      202,
+      549,
+      1546,
+      594
+    ],
+    "category": "Text",
+    "text": "Chọn $\\vec{n}_E = (0; 4; 3)$ là vecto pháp tuyến của tấm chắn $E$. Suy ra phương trình tấm chắn $E$ là:"
+  },
+  {
+    "bbox": [
+      202,
+      613,
+      1373,
+      654
+    ],
+    "category": "Formula",
+    "text": "$$\n0(x - 0) + 4(y - 5) + 3(z - 15) = 0 \\Leftrightarrow 4y - 20 + 3z - 45 = 0 \\Leftrightarrow 4y + 3z - 65 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      675,
+      342,
+      714
+    ],
+    "category": "Text",
+    "text": "c) **Đúng.**"
+  },
+  {
+    "bbox": [
+      153,
+      733,
+      1546,
+      820
+    ],
+    "category": "Text",
+    "text": "Khoảng cách ngắn nhất từ một điểm $M$ bất kì trên mặt cầu đến mặt phẳng ($E$) khi $M$ nằm trên đường thẳng đi qua tâm $I$ và vuông góc với ($E$)."
+  },
+  {
+    "bbox": [
+      153,
+      837,
+      1546,
+      1044
+    ],
+    "category": "Text",
+    "text": "Khi đó $MI \\perp (ABCD)$ nên $MI$ nhận vecto pháp tuyến của mặt phẳng ($ABCD$) là $\\vec{n}_E = (0; 4; 3)$ làm vecto chỉ phương. Suy ra $MI : \\begin{cases} x = -6 \\\\ y = 5 + 4t \\\\ z = 5 + 3t \\end{cases}$, $t \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      153,
+      1058,
+      1546,
+      1147
+    ],
+    "category": "Text",
+    "text": "$M \\in MI$ nên $M(-6; 5 + 4t; 5 + 3t)$. Mà $M$ cũng thuộc vào mặt cầu $K$ nên: $(-6 + 6)^2 + (5 + 4t - 5)^2 + (5 + 3t - 5)^2 = 25 \\Leftrightarrow (4t)^2 + (3t)^2 = 25 \\Leftrightarrow 25t^2 = 25 \\Leftrightarrow t = \\pm 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1162,
+      1546,
+      1251
+    ],
+    "category": "Text",
+    "text": "Vì đường thẳng $MI$ cắt mặt cầu tại hai điểm nên để xác định điểm nào là điểm cần tìm, ta so sánh khoảng cách từ $M$ đến mặt phẳng ($E$)."
+  },
+  {
+    "bbox": [
+      202,
+      1264,
+      962,
+      1321
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = 1 \\Rightarrow M(-6; 9; 8), d(M, (E)) = \\frac{|4 \\cdot 9 + 3 \\cdot 8 - 65|}{\\sqrt{4^2 + 3^2}} = 1.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1334,
+      1006,
+      1391
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = -1 \\Rightarrow M(-6; 1; 2), d(M, (E)) = \\frac{|4 \\cdot 1 + 3 \\cdot 2 - 65|}{\\sqrt{4^2 + 3^2}} = 11.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1406,
+      952,
+      1446
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } M(-6; 9; 8) \\text{ suy ra } a + b + c = -6 + 9 + 8 = 11.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1467,
+      346,
+      1507
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.**"
+  },
+  {
+    "bbox": [
+      153,
+      1526,
+      1546,
+      1614
+    ],
+    "category": "Text",
+    "text": "Kí hiệu $C'$ là giao của tấm chắn mới với thanh chống $C$, $F'$ là giao của tấm chắn mới với mặt cầu và $H(0; 5; 0)$ là chân của thanh chống $C$."
+  },
+  {
+    "bbox": [
+      596,
+      1649,
+      1124,
+      2159
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "154"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "bbox": [
+      187,
+      138,
+      1547,
+      226
+    ],
+    "category": "List-item",
+    "text": "d) Tiếp tuyến của đồ thị (C) tại điểm có hoành độ bằng 1 là đường thẳng có phương trình $y = -3x + 3$."
+  },
+  {
+    "bbox": [
+      154,
+      243,
+      199,
+      282
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      240,
+      1468,
+      305
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có đạo hàm $y' = 3x^2 - 6x = 3x(x - 2)$; $y' = 0 \\Leftrightarrow x = 0$ hoặc $x = 2$."
+  },
+  {
+    "bbox": [
+      189,
+      319,
+      1410,
+      363
+    ],
+    "category": "List-item",
+    "text": "a) **Đúng.** Trong khoảng (0; 2), ta có $y' < 0$ nên hàm số nghịch biến trên khoảng này."
+  },
+  {
+    "bbox": [
+      187,
+      376,
+      1547,
+      462
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng.** Đạo hàm $y'$ là đa thức bậc hai có hai nghiệm phân biệt và đổi dấu qua hai nghiệm đó, nên hàm số có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      189,
+      476,
+      1547,
+      565
+    ],
+    "category": "List-item",
+    "text": "c) **Sai.** Xét trên khoảng (0; $+\\infty$), dựa vào bảng biến thiên, hàm số đạt giá trị nhỏ nhất tại $x = 2$. Giá trị đó là $y(2) = 2^3 - 3 \\cdot 2^2 + 5 = 1 \\neq 2$."
+  },
+  {
+    "bbox": [
+      187,
+      578,
+      1206,
+      736
+    ],
+    "category": "List-item",
+    "text": "d) **Sai.** Với $x_0 = 1 \\Rightarrow y_0 = 1^3 - 3 \\cdot 1^2 + 5 = 3$.\nHệ số góc của tiếp tuyến tại $x = 1$ là $k = y'(1) = 3 \\cdot 1^2 - 6 \\cdot 1 = -3$.\nPhương trình tiếp tuyến là: $y = -3(x - 1) + 3 \\Leftrightarrow y = -3x + 6$."
+  },
+  {
+    "bbox": [
+      154,
+      757,
+      191,
+      792
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      750,
+      1547,
+      840
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho hình chóp đều $S.ABCD$ có $SA = AB = 4\\sqrt{2}$. Gọi $M$ là trung điểm của $AB$, $G$ là trọng tâm tam giác $SAB$."
+  },
+  {
+    "bbox": [
+      189,
+      850,
+      563,
+      900
+    ],
+    "category": "Formula",
+    "text": "a) $\\overrightarrow{SA} + \\overrightarrow{SB} = \\overrightarrow{SC} + \\overrightarrow{SD}$."
+  },
+  {
+    "bbox": [
+      187,
+      903,
+      556,
+      954
+    ],
+    "category": "Formula",
+    "text": "b) $\\overrightarrow{DS} = -2\\overrightarrow{DM} + 3\\overrightarrow{DG}$."
+  },
+  {
+    "bbox": [
+      189,
+      967,
+      1547,
+      1095
+    ],
+    "category": "List-item",
+    "text": "c) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Diểm $E(a; b; c)$ thuộc mặt phẳng ($SBD$) sao cho $C, E, G$ thẳng hàng thì $a + b + c = 2$."
+  },
+  {
+    "bbox": [
+      187,
+      1109,
+      1547,
+      1240
+    ],
+    "category": "List-item",
+    "text": "d) Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Diểm $F(x; y; z)$ thuộc mặt phẳng ($SAC$) sao cho $FG + FB$ nhỏ nhất thì $x + y + z = -1$."
+  },
+  {
+    "bbox": [
+      154,
+      1257,
+      199,
+      1296
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1254,
+      445,
+      1319
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      202,
+      1326,
+      1304,
+      1379
+    ],
+    "category": "Formula",
+    "text": "a) **Sai.** Ta có $\\overrightarrow{SA} + \\overrightarrow{SB} = \\overrightarrow{SC} + \\overrightarrow{SD} \\Leftrightarrow \\overrightarrow{SA} - \\overrightarrow{SD} = \\overrightarrow{SC} - \\overrightarrow{SB} \\Leftrightarrow \\overrightarrow{DA} = \\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      202,
+      1389,
+      1212,
+      1440
+    ],
+    "category": "Text",
+    "text": "Trong hình vuông $ABCD$, ta có $\\overrightarrow{AD} = \\overrightarrow{BC}$, do đó $\\overrightarrow{DA} = -\\overrightarrow{BC} \\neq \\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      202,
+      1451,
+      1547,
+      1502
+    ],
+    "category": "Formula",
+    "text": "b) **Đúng.** Vì $G$ là trọng tâm tam giác $SAB$ nên với điểm $D$ bất kỳ ta có: $3\\overrightarrow{DG} = \\overrightarrow{DS} + \\overrightarrow{DA} + \\overrightarrow{DB}$."
+  },
+  {
+    "bbox": [
+      202,
+      1510,
+      960,
+      1561
+    ],
+    "category": "Text",
+    "text": "Vì $M$ là trung điểm của $AB$ nên $\\overrightarrow{DA} + \\overrightarrow{DB} = 2\\overrightarrow{DM}$."
+  },
+  {
+    "bbox": [
+      202,
+      1571,
+      1127,
+      1622
+    ],
+    "category": "Formula",
+    "text": "Thay vào ta được: $3\\overrightarrow{DG} = \\overrightarrow{DS} + 2\\overrightarrow{DM} \\Rightarrow \\overrightarrow{DS} = -2\\overrightarrow{DM} + 3\\overrightarrow{DG}$."
+  },
+  {
+    "bbox": [
+      202,
+      1635,
+      1547,
+      1686
+    ],
+    "category": "Formula",
+    "text": "c) **Đúng.** Cạnh hình vuông $AB = 4\\sqrt{2} \\Rightarrow$ đường chéo $BD = 8 \\Rightarrow OA = OB = OC = OD = 4$."
+  },
+  {
+    "bbox": [
+      202,
+      1700,
+      1093,
+      1745
+    ],
+    "category": "Text",
+    "text": "Tọa độ các điểm: $B(4; 0; 0)$, $C(0; 4; 0)$, $D(-4; 0; 0)$, $A(0; -4; 0)$."
+  },
+  {
+    "bbox": [
+      202,
+      1757,
+      1129,
+      1818
+    ],
+    "category": "Formula",
+    "text": "Chiều cao $SO = \\sqrt{SA^2 - OA^2} = \\sqrt{(4\\sqrt{2})^2 - 4^2} = 4 \\Rightarrow S(0; 0, 4)$."
+  },
+  {
+    "bbox": [
+      202,
+      1828,
+      1206,
+      1881
+    ],
+    "category": "Formula",
+    "text": "Trọng tâm $G$ của tam giác $SAB$: $G(\\frac{4+0+0}{3}; \\frac{0-4+0}{3}; \\frac{0+0+4}{3}) = (\\frac{4}{3}; -\\frac{4}{3}; \\frac{4}{3})$."
+  },
+  {
+    "bbox": [
+      202,
+      1891,
+      1163,
+      1935
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($SBD$) chứa trục $Ox$ và $Oz$ nên có phương trình $y = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      1951,
+      1412,
+      1996
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $CG$ đi qua $C(0; 4; 0)$ và $G$ có $\\overrightarrow{u} = (4/3; -16/3; 4/3) // (1; -4; 1)$."
+  },
+  {
+    "bbox": [
+      202,
+      2012,
+      1459,
+      2057
+    ],
+    "category": "Text",
+    "text": "Phương trình $CG: x = t, y = 4 - 4t, z = t$. Giao điểm $E$ với $y = 0 \\Rightarrow t = 1 \\Rightarrow E(1; 0; 1)$."
+  },
+  {
+    "bbox": [
+      202,
+      2076,
+      637,
+      2117
+    ],
+    "category": "Formula",
+    "text": "Vậy $a + b + c = 1 + 0 + 1 = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      2135,
+      1547,
+      2224
+    ],
+    "category": "List-item",
+    "text": "d) **Sai.** Мặt phẳng ($SAC$) là mặt phẳng $x = 0$. Ta thấy $x_G = 4/3 > 0$ và $x_B = 4 > 0$ nên $G, B$ nằm cùng phía so với ($SAC$)."
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      173,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2252,
+      820,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "93"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      726,
+      98,
+      844,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      894,
+      273
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      334,
+      625,
+      382
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = \\cos 2x - 3 \\Rightarrow f'(x) = -2\\sin 2x$"
+  },
+  {
+    "bbox": [
+      76,
+      408,
+      512,
+      496
+    ],
+    "category": "Formula",
+    "text": "b) $f'\\left(-\\frac{\\pi}{2}\\right) = -2\\sin\\left(-2\\cdot\\frac{\\pi}{2}\\right) = 2$"
+  },
+  {
+    "bbox": [
+      76,
+      524,
+      632,
+      605
+    ],
+    "category": "Formula",
+    "text": "c) $y' = 0 \\Leftrightarrow \\sin 2x = 0 \\Leftrightarrow x = \\frac{k\\pi}{2}; (k \\in \\mathbb{Z})$"
+  },
+  {
+    "bbox": [
+      76,
+      628,
+      481,
+      717
+    ],
+    "category": "Formula",
+    "text": "Vì $x \\in [0; \\pi] \\Rightarrow x \\in \\left\\{0; \\frac{\\pi}{2}; \\pi\\right\\}$."
+  },
+  {
+    "bbox": [
+      76,
+      742,
+      718,
+      830
+    ],
+    "category": "Formula",
+    "text": "d) Do đó: $y(0) = -2$; $y\\left(\\frac{\\pi}{2}\\right) = -4 \\Rightarrow \\min y = -4$"
+  },
+  {
+    "bbox": [
+      76,
+      851,
+      1495,
+      1014
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một kho hàng có 480 thùng hàng loại I và 520 thùng hàng loại II, tất cả với bề ngoài giống hệt nhau. Trong số các thùng hàng đó, có 80% thùng hàng loại I và 85% thùng hàng loại II đã được kiểm định. Chọn ngẫu nhiên một thùng hàng trong kho."
+  },
+  {
+    "bbox": [
+      76,
+      1026,
+      1495,
+      1130
+    ],
+    "category": "Text",
+    "text": "a) Giả sử thùng hàng được lấy ra là thùng hàng chưa được kiểm định, xác suất thùng hàng đó là thùng loại I thấp hơn xác suất thùng hàng đó là thùng hàng loại II."
+  },
+  {
+    "bbox": [
+      76,
+      1142,
+      774,
+      1187
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được thùng hàng loại I bằng 48%."
+  },
+  {
+    "bbox": [
+      76,
+      1201,
+      1111,
+      1247
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được thùng hàng loại II và đã được kiểm định bằng 38,4%."
+  },
+  {
+    "bbox": [
+      76,
+      1265,
+      926,
+      1311
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được thùng hàng chưa kiểm định bằng 17,4%."
+  },
+  {
+    "bbox": [
+      726,
+      1336,
+      844,
+      1375
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1390,
+      894,
+      1513
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1515,
+      1373,
+      1561
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $A$: “Thùng hàng chọn được là loại I”. Suy ra $\\bar{A}$: “Thùng hàng chọn được là loại II”."
+  },
+  {
+    "bbox": [
+      76,
+      1577,
+      1487,
+      1627
+    ],
+    "category": "Text",
+    "text": "Biến cố $B$: “Thùng hàng chọn đã được kiểm định”. Suy ra $\\bar{B}$: “Thùng hàng chọn chưa được kiểm định”."
+  },
+  {
+    "bbox": [
+      76,
+      1644,
+      287,
+      1683
+    ],
+    "category": "Text",
+    "text": "Ta có bảng sau:"
+  },
+  {
+    "bbox": [
+      130,
+      1699,
+      1439,
+      2015
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Loại I (A)</td><td>Loại II (A&#773;)</td><td>Tổng</td></tr></thead><tbody><tr><td>Đã kiểm định (B)</td><td>384</td><td>442</td><td>826</td></tr><tr><td>Chưa kiểm định (B&#773;)</td><td>96</td><td>78</td><td>174</td></tr><tr><td>Tổng</td><td>480</td><td>520</td><td>1000</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

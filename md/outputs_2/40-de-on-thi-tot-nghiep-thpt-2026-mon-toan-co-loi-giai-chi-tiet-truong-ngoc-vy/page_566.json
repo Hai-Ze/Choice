@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1288,
+      195
+    ],
+    "category": "Text",
+    "text": "- Nhà ga cáp treo thu được tổng số tiền là 251 triệu đồng nên $250000x + 200000y + 400000z = 251000000$ hay $250x + 200y + 400z = 251000$ (1)."
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      827,
+      253
+    ],
+    "category": "Text",
+    "text": "- Có 680 lượt người lúc đi, suy ra $x + z = 680$ (2)."
+  },
+  {
+    "bbox": [
+      155,
+      265,
+      832,
+      310
+    ],
+    "category": "Text",
+    "text": "- Có 520 lượt người lúc về, suy ra $y + z = 520$ (3)."
+  },
+  {
+    "bbox": [
+      155,
+      330,
+      1288,
+      478
+    ],
+    "category": "Text",
+    "text": "Từ (1), (2) và (3) ta có hệ phương trình:\n$$ \\begin{cases} 250x + 200y + 400z = 251000 \\\\ x + z = 680 \\\\ y + z = 520 \\end{cases} \\Leftrightarrow \\begin{cases} x = 220 \\\\ y = 40 \\\\ z = 460 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      155,
+      498,
+      1119,
+      543
+    ],
+    "category": "Text",
+    "text": "Vậy số vé bán ra loại lúc đi, lúc về và hai chiều lần lượt là 220, 40, 460."
+  },
+  {
+    "bbox": [
+      155,
+      556,
+      701,
+      600
+    ],
+    "category": "Text",
+    "text": "Do đó, tổng số vé bán ra mỗi loại là 740"
+  },
+  {
+    "bbox": [
+      155,
+      619,
+      1575,
+      886
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ tọa độ $Oxyz$, một cabin cáp treo xuất phát từ điểm $A(10;3;0)$ và chuyển động đều theo đường cáp có vecto chỉ phương là $\\vec{u} = (2;-2;1)$ với tốc độ $4,5 \\text{ m/s}$ (đơn vị trên mỗi trục tọa độ là mét). Giả sử sau thời gian $t$ (s) kể từ lúc xuất phát ($t \\ge 0$) thì cabin đến điểm $M$ có hoành độ $x_M = 550$. Tính quăng đường đi (đơn vị mét) của cabin cáp treo từ lúc xuất phát đến điểm $M$."
+  },
+  {
+    "bbox": [
+      613,
+      907,
+      1115,
+      1224
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1244,
+      493,
+      1279
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1304,
+      924,
+      1342
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1360,
+      337,
+      1398
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 810"
+  },
+  {
+    "bbox": [
+      155,
+      1421,
+      985,
+      1568
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số của đường cáp là $d: \\begin{cases} x = 10 + 2t \\\\ y = 3 - 2t \\\\ z = t \\end{cases} (t \\in \\mathbb{R})$"
+  },
+  {
+    "bbox": [
+      155,
+      1595,
+      1207,
+      1641
+    ],
+    "category": "Text",
+    "text": "Ta có $AM = vt = 4,5t$ và ta gọi $M(10 + 2m; 3 - 2m; m)$ thuộc đường thẳng $d$"
+  },
+  {
+    "bbox": [
+      155,
+      1669,
+      1192,
+      1721
+    ],
+    "category": "Text",
+    "text": "Khi đó: $\\overline{AM} = (2m; -2m; m)$ và $\\overline{AM}$ cùng hướng với vecto $\\vec{u}$ nên $m$ dương"
+  },
+  {
+    "bbox": [
+      155,
+      1748,
+      1281,
+      1834
+    ],
+    "category": "Text",
+    "text": "Suy ra $AM = \\sqrt{4m^2 + 4m^2 + m^2} = 3|m| \\xrightarrow{m>0} m = 1,5t$ nên $M(3t + 10; -3t + 3; \\frac{3t}{2})$"
+  },
+  {
+    "bbox": [
+      155,
+      1861,
+      720,
+      1902
+    ],
+    "category": "Text",
+    "text": "Vì $x_M = 550$ nên $3t + 10 = 550 \\Leftrightarrow t = 180$"
+  },
+  {
+    "bbox": [
+      155,
+      1931,
+      746,
+      1977
+    ],
+    "category": "Text",
+    "text": "Khi đó: $AB = vt = 4,5t = 4,5 \\cdot 180 = 810$ (m)"
+  },
+  {
+    "bbox": [
+      155,
+      2004,
+      1234,
+      2052
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường đi của cabin cáp treo từ lúc xuất phát đến điểm $M$ là $810$ (m)"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

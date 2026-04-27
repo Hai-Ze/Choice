@@ -1,0 +1,442 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      213,
+      112,
+      283,
+      146
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      548,
+      112,
+      614,
+      146
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      862,
+      112,
+      928,
+      146
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1176,
+      112,
+      1246,
+      146
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      833,
+      157,
+      952,
+      198
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      202,
+      887,
+      243
+    ],
+    "category": "Text",
+    "text": "Giải phương trình $2f(x)+20=0 \\Rightarrow f(x)=-10$"
+  },
+  {
+    "bbox": [
+      213,
+      249,
+      1499,
+      292
+    ],
+    "category": "Text",
+    "text": "Số nghiệm của phương trình là số giao điểm của hai đồ thị hàm số: $y = f(x)$ và $y = -10$"
+  },
+  {
+    "bbox": [
+      213,
+      296,
+      1374,
+      341
+    ],
+    "category": "Text",
+    "text": "Quan sát bảng biến thiên ta thấy: $y = f(x)$ và $y = -10$ cắt nhau tại 2 giao điểm."
+  },
+  {
+    "bbox": [
+      74,
+      346,
+      1573,
+      435
+    ],
+    "category": "List-item",
+    "text": "**Câu 7:** Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng)"
+  },
+  {
+    "bbox": [
+      270,
+      435,
+      1377,
+      523
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      527,
+      1374,
+      573
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu trên (làm tròn đến hàng phần chục) bằng:"
+  },
+  {
+    "bbox": [
+      213,
+      578,
+      308,
+      614
+    ],
+    "category": "List-item",
+    "text": "A. 6,7."
+  },
+  {
+    "bbox": [
+      548,
+      578,
+      638,
+      614
+    ],
+    "category": "List-item",
+    "text": "B. 8,6."
+  },
+  {
+    "bbox": [
+      862,
+      578,
+      954,
+      614
+    ],
+    "category": "List-item",
+    "text": "C. 8,7."
+  },
+  {
+    "bbox": [
+      1176,
+      578,
+      1274,
+      614
+    ],
+    "category": "List-item",
+    "text": "D. 7,9."
+  },
+  {
+    "bbox": [
+      833,
+      623,
+      952,
+      664
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      668,
+      507,
+      709
+    ],
+    "category": "Text",
+    "text": "Bảng tần số tích lũy"
+  },
+  {
+    "bbox": [
+      437,
+      707,
+      1208,
+      1012
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Doanh thu</td><td>Số ngày</td><td>Tần số tích lũy</td></tr></thead><tbody><tr><td>[5;7)</td><td>2</td><td>2</td></tr><tr><td>[7;9)</td><td>7</td><td>9</td></tr><tr><td>[9;11)</td><td>7</td><td>16</td></tr><tr><td>[11;13)</td><td>3</td><td>19</td></tr><tr><td>[13;15)</td><td>1</td><td>20</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      213,
+      1022,
+      802,
+      1095
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\frac{n}{4} = 5$; $s = 7$, $h = 2$, $n_2 = 10$, $cf_1 = 2$"
+  },
+  {
+    "bbox": [
+      217,
+      1110,
+      782,
+      1227
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = s + \\frac{\\frac{n}{4} - cf_1}{n_2} \\cdot h = 7 + \\frac{\\frac{5}{7} - 2}{10} \\cdot 2 = \\frac{55}{7} \\approx 7,9.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1233,
+      1573,
+      1327
+    ],
+    "category": "List-item",
+    "text": "**Câu 8:** Thế tích của khối tròn xoay khi quay hình phẳng được giới hạn bởi đồ thị hàm số $y = 2x-1$, $y = 0$, $x = 0$, $x = 3$ quanh trục hoành bằng"
+  },
+  {
+    "bbox": [
+      213,
+      1335,
+      329,
+      1371
+    ],
+    "category": "List-item",
+    "text": "A. $21\\pi$."
+  },
+  {
+    "bbox": [
+      548,
+      1335,
+      631,
+      1371
+    ],
+    "category": "List-item",
+    "text": "B. 21."
+  },
+  {
+    "bbox": [
+      862,
+      1335,
+      928,
+      1371
+    ],
+    "category": "List-item",
+    "text": "C. 6."
+  },
+  {
+    "bbox": [
+      1176,
+      1335,
+      1281,
+      1371
+    ],
+    "category": "List-item",
+    "text": "D. $6\\pi$."
+  },
+  {
+    "bbox": [
+      833,
+      1380,
+      952,
+      1421
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1423,
+      1573,
+      1516
+    ],
+    "category": "Text",
+    "text": "Thể tích của khối tròn xoay khi quay hình phẳng được giới hạn bởi đồ thị hàm số $y = 2x-1$, $y = 0$, $x = 0$, $x = 3$ quanh trục hoành là:"
+  },
+  {
+    "bbox": [
+      719,
+      1522,
+      1069,
+      1615
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{3} (2x-1)^2 dx = 21\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1623,
+      1573,
+      1722
+    ],
+    "category": "List-item",
+    "text": "**Câu 9:** Biết $F(x)$ là một nguyên hàm của hàm số $f(x)$. Trong các khẳng định sau, khẳng định nào đúng?"
+  },
+  {
+    "bbox": [
+      213,
+      1724,
+      687,
+      1778
+    ],
+    "category": "List-item",
+    "text": "A. $\\int [f(x)-1]dx = xF(x)-1+C$."
+  },
+  {
+    "bbox": [
+      862,
+      1724,
+      1336,
+      1778
+    ],
+    "category": "List-item",
+    "text": "B. $\\int [f(x)-1]dx = xF(x)-x+C$."
+  },
+  {
+    "bbox": [
+      213,
+      1784,
+      676,
+      1841
+    ],
+    "category": "List-item",
+    "text": "C. $\\int [f(x)-1]dx = F(x)-x+C$."
+  },
+  {
+    "bbox": [
+      862,
+      1784,
+      1320,
+      1841
+    ],
+    "category": "List-item",
+    "text": "D. $\\int [f(x)-1]dx = F(x)-1+C$."
+  },
+  {
+    "bbox": [
+      833,
+      1850,
+      952,
+      1891
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      217,
+      1891,
+      622,
+      1946
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int [f(x)-1]dx = F(x)-x+C\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1954,
+      1573,
+      2061
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $\\Delta$ qua $A(1;0;-1)$ và có véc tơ chỉ phương $\\vec{u} = (-2;4;6)$. Phương trình tham số của đường thẳng $\\Delta$ là:"
+  },
+  {
+    "bbox": [
+      213,
+      2069,
+      463,
+      2214
+    ],
+    "category": "List-item",
+    "text": "A. $\\Delta: \\begin{cases} x = -1 - 2t \\\\ y = 4t \\\\ z = 1 + 6t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      548,
+      2069,
+      778,
+      2214
+    ],
+    "category": "List-item",
+    "text": "B. $\\Delta: \\begin{cases} x = -2 + t \\\\ y = 4 \\\\ z = 6 - t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      862,
+      2069,
+      1105,
+      2214
+    ],
+    "category": "List-item",
+    "text": "C. $\\Delta: \\begin{cases} x = 1 + t \\\\ y = -2t \\\\ z = -1 - 3t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      1176,
+      2069,
+      1404,
+      2214
+    ],
+    "category": "List-item",
+    "text": "D. $\\Delta: \\begin{cases} x = 1 - t \\\\ y = 2t \\\\ z = 1 + 3t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp - 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

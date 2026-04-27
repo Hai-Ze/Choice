@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      203,
+      140,
+      1136,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\nP(E) = (0,2 \\cdot 0,9) \\cdot 0,2 + (0,8 \\cdot 0,1) \\cdot 0,8 = 0,036 + 0,064 = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      200,
+      1048,
+      243
+    ],
+    "category": "Text",
+    "text": "Khi $E$ xảy ra, Mô hình 1 đúng khi thực tế không mưa ($\\overline{R}$):"
+  },
+  {
+    "bbox": [
+      203,
+      257,
+      801,
+      344
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\overline{R}|E) = \\frac{P(E|\\overline{R})P(\\overline{R})}{P(E)} = \\frac{0,064}{0,1} = 0,64.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      360,
+      991,
+      403
+    ],
+    "category": "Text",
+    "text": "Khi $E$ xảy ra, Mô hình 2 đúng khi thực tế có mưa ($R$):"
+  },
+  {
+    "bbox": [
+      203,
+      416,
+      801,
+      499
+    ],
+    "category": "Formula",
+    "text": "$$\nP(R|E) = \\frac{P(E|R)P(R)}{P(E)} = \\frac{0,036}{0,1} = 0,36.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      517,
+      1364,
+      558
+    ],
+    "category": "Text",
+    "text": "Vì $0,64 > 0,36$ nên xác suất Mô hình 1 đúng **cao hơn** xác suất Mô hình 2 đúng."
+  },
+  {
+    "bbox": [
+      203,
+      580,
+      348,
+      620
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      638,
+      1035,
+      680
+    ],
+    "category": "Text",
+    "text": "Xác suất cả hai mô hình đều dự báo có mưa là $P(A \\cap B)$:"
+  },
+  {
+    "bbox": [
+      203,
+      698,
+      926,
+      742
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A \\cap B) = P(A \\cap B|R)P(R) + P(A \\cap B|\\overline{R})P(\\overline{R})\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      762,
+      1213,
+      804
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A \\cap B) = (0,8 \\cdot 0,9) \\cdot 0,2 + (0,2 \\cdot 0,1) \\cdot 0,8 = 0,144 + 0,016 = 0,16.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      824,
+      351,
+      864
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      882,
+      1247,
+      923
+    ],
+    "category": "Text",
+    "text": "Xác suất thực tế trời có mưa khi biết cả hai mô hình đều dự báo mưa là:"
+  },
+  {
+    "bbox": [
+      203,
+      934,
+      905,
+      1018
+    ],
+    "category": "Formula",
+    "text": "$$\nP(R|A \\cap B) = \\frac{P(A \\cap B|R)P(R)}{P(A \\cap B)} = \\frac{0,144}{0,16} = 0,9.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1037,
+      1547,
+      1151
+    ],
+    "category": "Text",
+    "text": "Bài 2. Chi phí vận hành trung bình (tính bằng triệu đồng/ch선) của một công ty vận tải khi vận hành $x$ ch선 xe mỗi ngày được cho bởi hàm số $A(x) = 0,2x + 2 + \\frac{500}{x}$ với $10 \\le x \\le 100$."
+  },
+  {
+    "bbox": [
+      190,
+      1160,
+      1119,
+      1241
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm chi phí trung bình là $A'(x) = \\frac{0,2x^2 + 500}{x^2}$."
+  },
+  {
+    "bbox": [
+      190,
+      1248,
+      1229,
+      1291
+    ],
+    "category": "List-item",
+    "text": "b) Chi phí trung bình trên mỗi ch선 xe thấp nhất bằng 22 triệu đồng."
+  },
+  {
+    "bbox": [
+      190,
+      1303,
+      1547,
+      1434
+    ],
+    "category": "List-item",
+    "text": "c) Nếu do giới hạn về số lượng tài xế khiến công ty chỉ có thể vận hành tối đa 40 ch선 xe mỗi ngày. Chi phí trung bình mỗi ch선 xe trong trường hợp này thấp nhất bằng 22,5 triệu đồng."
+  },
+  {
+    "bbox": [
+      190,
+      1446,
+      1491,
+      1490
+    ],
+    "category": "List-item",
+    "text": "d) Tổng chi phí vận hành của công ty vận tải trong một ngày thấp nhất bằng 1,1 tỷ đồng."
+  },
+  {
+    "bbox": [
+      153,
+      1501,
+      1247,
+      1580
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét hàm số $A(x) = 0,2x + 2 + \\frac{500}{x}$ trên đoạn $[10; 100]$."
+  },
+  {
+    "bbox": [
+      190,
+      1592,
+      1306,
+      1673
+    ],
+    "category": "List-item",
+    "text": "a) **Sai.** Ta có $A'(x) = 0,2 - \\frac{500}{x^2} = \\frac{0,2x^2 - 500}{x^2}$. Mind đề ghi dấu cộng là sai."
+  },
+  {
+    "bbox": [
+      190,
+      1682,
+      1433,
+      1726
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng.** Cho $A'(x) = 0 \\Leftrightarrow 0,2x^2 - 500 = 0 \\Leftrightarrow x^2 = 2500 \\Leftrightarrow x = 50$ (do $x \\in [10; 100]$)."
+  },
+  {
+    "bbox": [
+      235,
+      1742,
+      1019,
+      1783
+    ],
+    "category": "Text",
+    "text": "Tính các giá trị: $A(10) = 54$; $A(50) = 22$; $A(100) = 27$."
+  },
+  {
+    "bbox": [
+      235,
+      1799,
+      1119,
+      1841
+    ],
+    "category": "Text",
+    "text": "Vậy chi phí trung bình thấp nhất là 22 triệu đồng khi $x = 50$."
+  },
+  {
+    "bbox": [
+      190,
+      1858,
+      1067,
+      1901
+    ],
+    "category": "List-item",
+    "text": "c) **Đúng.** Khi $x \\le 40$, ta xét hàm số $A(x)$ trên đoạn $[10; 40]$."
+  },
+  {
+    "bbox": [
+      235,
+      1916,
+      1247,
+      1958
+    ],
+    "category": "Text",
+    "text": "Vì $x < 50$ nên $A'(x) < 0$ trên $(10; 40)$, hàm số nghịch biến trên $[10; 40]$."
+  },
+  {
+    "bbox": [
+      235,
+      1967,
+      1518,
+      2047
+    ],
+    "category": "Text",
+    "text": "Giá trị thấp nhất đạt được tại biên $x = 40$: $A(40) = 0,2 \\cdot 40 + 2 + \\frac{500}{40} = 22,5$ triệu đồng."
+  },
+  {
+    "bbox": [
+      190,
+      2054,
+      1424,
+      2097
+    ],
+    "category": "List-item",
+    "text": "d) **Sai.** Tổng chi phí vận hành trong một ngày là $C(x) = x \\cdot A(x) = 0,2x^2 + 2x + 500$."
+  },
+  {
+    "bbox": [
+      235,
+      2113,
+      1345,
+      2155
+    ],
+    "category": "Text",
+    "text": "Ta có $C'(x) = 0,4x + 2 > 0$ với mọi $x \\in [10; 100]$. Do đó hàm $C(x)$ đồng biến."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "105"
+  }
+]

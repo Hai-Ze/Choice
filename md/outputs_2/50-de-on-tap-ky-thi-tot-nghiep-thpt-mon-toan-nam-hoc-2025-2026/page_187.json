@@ -1,0 +1,214 @@
+[
+  {
+    "bbox": [
+      209,
+      43,
+      1044,
+      90
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      22,
+      0,
+      220,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      163,
+      1567,
+      482
+    ],
+    "category": "Text",
+    "text": "$t \\in [0; +\\infty)$: $f'(t) = \\begin{cases} 1700 - 400t & \\text{khi } 0 \\le t \\le 2 \\\\ a(t-2)^2 + b & \\text{khi } t > 2 \\end{cases}$ (trong đó $f'(t)$ là số khán giả, $t$ là số giờ kể từ khi chương trình bắt đầu, $a, b$ là tham số thực), với hàm số $f(t)$ mô tả tổng sự hiện diện của khán giả theo thời gian $t$. Sau 2 giờ 30 phút số lượng khán giả ở lại sân khấu là 875. Hỏi từ khi bắt đầu đến khi khán giả ra về hết, trung bình mỗi giờ còn lại bao nhiêu khán giả ở lại tham gia chương trình âm乐?"
+  },
+  {
+    "bbox": [
+      1088,
+      482,
+      1240,
+      523
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      476,
+      1562,
+      528
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      529,
+      1567,
+      854
+    ],
+    "category": "List-item",
+    "text": "» Câu 19. Giả sử số lượng tế bào của một quần thể nấm men tại môi trường nuôi cấy trong phòng thí nghiệm được mô hình hóa bằng hàm số $P(t) = \\frac{a}{b + e^{-0,75t}}$ (với $a, b \\in \\mathbb{R}$), trong đó thời gian $t$ được tính bằng giờ. Đạo hàm của hàm số $y = P(t)$ biểu thị tốc độ sinh trưởng của nấm men (tính bằng tế bào/giờ) tại thời điểm $t$ (giờ). tại thời điểm ban đầu $t=0$, quần thể có 24 tế bào và tốc độ sinh trưởng là 8 tế bào/giờ. Sau một thời gian về lâu dài thì số lượng tế bào của quần thể nấm men tiến về giá trị bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1088,
+      854,
+      1240,
+      895
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      847,
+      1562,
+      899
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      903,
+      1562,
+      1225
+    ],
+    "category": "List-item",
+    "text": "» Câu 20. Trong không gian $Oxyz$, cho hai đường thẳng có phương trình $d: \\frac{x-2}{3} = \\frac{y-1}{4} = \\frac{z+5}{5}$; $d': \\frac{x-1}{a} = \\frac{y+1}{b} = \\frac{z+4}{c}$, trong đó $a, b, c$ là các số thực khác 0 sao cho các đường thẳng $d$ và $d'$ cắt nhau tại $M$. Face phẳng $(P): 2x + y - 2z - 6 = 0$ lần lượt cắt các trục $Ox, Oy, Oz$ tại $A, B, C$. Tính thể tích của khối tức diện $MABC$. Viết kết quả dưới dạng thập phân, nếu có."
+  },
+  {
+    "bbox": [
+      1088,
+      1233,
+      1240,
+      1274
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      1225,
+      1562,
+      1277
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1280,
+      1562,
+      1462
+    ],
+    "category": "List-item",
+    "text": "» Câu 21. Xếp 8 quyển sách giống nhau vào một giá sách gồm 10 ngăn. Gọi $P$ là xác suất để xếp 8 quyển sách vào 10 ngăn sao cho số quyển sách trong mỗi ngăn không quá 2 quyển sách, có 4 ngăn hoặc 6 ngăn chứa đúng 1 quyển sách và các ngăn liên kề với ngăn chứa 2 quyển sách là ngăn không có quyển sách nào. Tính $12155P$."
+  },
+  {
+    "bbox": [
+      1088,
+      1462,
+      1240,
+      1503
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      1454,
+      1562,
+      1506
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      1509,
+      1221,
+      1817
+    ],
+    "category": "List-item",
+    "text": "» Câu 22. Một giàn khung thép đỡ bồn nước sinh hoạt có dạng là hình lăng trụ tam giác đều $ABC.A'B'C'$. Để giàn đỡ có kết cấu chắc chắn người ta hàn thêm 1 số thanh sắc (hình vẽ), trong đó có hai thanh $AB' \\perp BC'$. Cho biết cạnh đáy của giàn đỡ $AB = 2(m)$. Tính thể tích $V(m^3)$ của khối lăng trụ $ABC.A'B'C'$ (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1242,
+      1510,
+      1535,
+      1850
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1088,
+      1864,
+      1240,
+      1905
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1260,
+      1857,
+      1562,
+      1909
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      812,
+      1913,
+      867,
+      1948
+    ],
+    "category": "Text",
+    "text": "Hết"
+  },
+  {
+    "bbox": [
+      113,
+      2248,
+      616,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1313,
+      2252,
+      1474,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Trang 186"
+  },
+  {
+    "bbox": [
+      1482,
+      2163,
+      1652,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "bbox": [
+      126,
+      121,
+      1033,
+      416
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một châu cây được đặt trên một giá đỡ có bốn chân. Trong hệ trục tọa độ được chọn, có điểm đặt $S(0; 0; 30)$ và các điểm chạm mặt đất của bốn chân lần lượt là $A(30; 0; 0)$, $B(0; 30; 0)$, $C(-30; 0; 0)$, $D(0; -30; 0)$ (đơn vị cm). Biết trọng lực tác dụng lên châu cây có độ lớn 80 N và được phân bố thành bốn lực $\\vec{F}_1, \\vec{F}_2, \\vec{F}_3, \\vec{F}_4$ có độ lớn bằng nhau (như hình bên)."
+  },
+  {
+    "bbox": [
+      1059,
+      126,
+      1488,
+      722
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      741,
+      1477,
+      1199
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Dúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Độ dài vectơ $\\overrightarrow{SA}$ là $30\\sqrt{3}$.</td><td></td><td></td></tr><tr><td>b) Hình chóp $S.ABCD$ là hình chóp tức giác đều.</td><td></td><td></td></tr><tr><td>c) Hình chóp $S.A'B'C'D'$ là hình chóp tức giác đều. Với $A', B', C', D'$ lần lượt là điểm cuối của các vectơ lực $\\vec{F}_1, \\vec{F}_2, \\vec{F}_3, \\vec{F}_4$.</td><td></td><td></td></tr><tr><td>d) Biết $\\vec{F}_1 = (a; b; c)$ khi đó $a + b - c = 20$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      126,
+      1227,
+      1502,
+      1478
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nhà máy A chuyên sản xuất một loại sản phẩm cho nhà máy B. Hai nhà máy thoả thuận rằng, hằng tháng nhà máy A cung cấp cho nhà máy B số lượng sản phẩm theo đơn đặt hàng của nhà máy B (tối đa 100 tấn sản phẩm). Biết rằng, nếu số lượng đặt hàng là $x$ (tấn) sản phẩm thì giá bán cho mỗi tấn sản phẩm là $P(x) = 45 - 0,001x^2$ (triệu đồng) và chi phí để nhà máy A sản xuất được $x$ (tấn) sản phẩm trong một tháng là $C(x) = 100 + 30x$ (triệu đồng, gồm 100 triệu đồng chi phí cố định và 30 triệu đồng cho mỗi tấn sản phẩm)."
+  },
+  {
+    "bbox": [
+      154,
+      1491,
+      1477,
+      2051
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Dúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Chi phí để nhà máy A sản xuất 10 tấn sản phẩm trong một tháng là 400 triệu đồng.</td><td></td><td></td></tr><tr><td>b) Số tiền nhà máy A thu được khi bán 10 tấn sản phẩm cho nhà máy B là 600 triệu đồng.</td><td></td><td></td></tr><tr><td>c) Lợi nhuận mà nhà máy A thu được khi bán $x$ (tấn) sản phẩm ($0 \\le x \\le 100$) cho nhà máy B là $H(x) = -0,001x^3 - 15x + 100$.</td><td></td><td></td></tr><tr><td>d) Nhà máy A bán cho nhà máy B khoảng 70,7 tấn sản phẩm mỗi tháng thì thu được lợi nhuận lớn nhất (làm tròn kết quả đến hàng phần chục).</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1097,
+      2270,
+      1497,
+      2312
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/5 - Mã đề 001"
+  }
+]

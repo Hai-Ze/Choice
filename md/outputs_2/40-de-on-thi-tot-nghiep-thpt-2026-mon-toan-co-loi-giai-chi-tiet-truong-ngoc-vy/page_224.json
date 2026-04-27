@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      98,
+      278,
+      131
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      556,
+      98,
+      656,
+      131
+    ],
+    "category": "List-item",
+    "text": "B. $2\\pi$."
+  },
+  {
+    "bbox": [
+      906,
+      98,
+      982,
+      131
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1255,
+      98,
+      1338,
+      131
+    ],
+    "category": "List-item",
+    "text": "D. $\\pi$."
+  },
+  {
+    "bbox": [
+      807,
+      157,
+      924,
+      195
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      215,
+      279,
+      252
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      157,
+      268,
+      1132,
+      312
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi các đường $y = \\sin x, Ox, x = 0, x = \\pi$ là"
+  },
+  {
+    "bbox": [
+      162,
+      336,
+      924,
+      433
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{\\pi} |\\sin x| dx = \\int_{0}^{\\pi} \\sin x dx = -\\cos x \\Big|_{0}^{\\pi} = -(\\cos \\pi - \\cos 0) = 2.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      458,
+      711,
+      498
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hình hộp $ABCD.A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      696,
+      524,
+      1030,
+      817
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      845,
+      508,
+      888
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai"
+  },
+  {
+    "bbox": [
+      205,
+      909,
+      571,
+      956
+    ],
+    "category": "List-item",
+    "text": "A. $(ADD'A') // (BCC'B')$."
+  },
+  {
+    "bbox": [
+      906,
+      909,
+      1209,
+      956
+    ],
+    "category": "List-item",
+    "text": "B. $(BDA') // (B'D'C)$."
+  },
+  {
+    "bbox": [
+      205,
+      985,
+      510,
+      1032
+    ],
+    "category": "List-item",
+    "text": "C. $(ABA') // (B'D'C)$."
+  },
+  {
+    "bbox": [
+      906,
+      985,
+      1265,
+      1032
+    ],
+    "category": "List-item",
+    "text": "D. $(ABCD) // (A'B'C'D')$."
+  },
+  {
+    "bbox": [
+      807,
+      1060,
+      924,
+      1098
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1118,
+      279,
+      1155
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      157,
+      1175,
+      235,
+      1208
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      157,
+      1234,
+      704,
+      1281
+    ],
+    "category": "Text",
+    "text": "Đáp án A : $(ADD'A') // (BCC'B')$ đúng."
+  },
+  {
+    "bbox": [
+      157,
+      1310,
+      654,
+      1357
+    ],
+    "category": "Text",
+    "text": "Đáp án B : $(BDA') // (B'D'C)$ đúng."
+  },
+  {
+    "bbox": [
+      157,
+      1385,
+      1551,
+      1432
+    ],
+    "category": "Text",
+    "text": "Đáp án C : $(ABA') // (B'D'C)$ sai vì $(ABA') \\equiv (ABB'A')$ nên $(ABA')$ và $(B'D'C)$ có điểm chung là $B'$."
+  },
+  {
+    "bbox": [
+      157,
+      1461,
+      704,
+      1508
+    ],
+    "category": "Text",
+    "text": "Đáp án D : $(ABCD) // (A'B'C'D')$ đúng."
+  },
+  {
+    "bbox": [
+      157,
+      1529,
+      1355,
+      1574
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho khối chóp có diện tích $B$ và thể tích $V$. Chiều cao của khối chóp đã cho là"
+  },
+  {
+    "bbox": [
+      205,
+      1599,
+      365,
+      1678
+    ],
+    "category": "List-item",
+    "text": "A. $h = \\frac{3V}{B}$."
+  },
+  {
+    "bbox": [
+      556,
+      1599,
+      745,
+      1678
+    ],
+    "category": "List-item",
+    "text": "B. $h = \\frac{1}{3} V.B$."
+  },
+  {
+    "bbox": [
+      906,
+      1599,
+      1049,
+      1678
+    ],
+    "category": "List-item",
+    "text": "C. $h = \\frac{V}{B}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1599,
+      1410,
+      1678
+    ],
+    "category": "List-item",
+    "text": "D. $h = \\frac{V}{3B}$."
+  },
+  {
+    "bbox": [
+      807,
+      1704,
+      924,
+      1742
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1762,
+      279,
+      1799
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      157,
+      1824,
+      542,
+      1901
+    ],
+    "category": "Text",
+    "text": "Ta có $V = \\frac{1}{3} B.h \\Leftrightarrow h = \\frac{3V}{B}$."
+  },
+  {
+    "bbox": [
+      157,
+      1926,
+      1572,
+      2034
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trong không gian $Oxyz$ cho hai điểm $A(1;-2;3)$ và $B(3;1;1)$. Đường thẳng $AB$ có phương trình là"
+  },
+  {
+    "bbox": [
+      205,
+      2061,
+      533,
+      2140
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x-1}{4} = \\frac{y+2}{-1} = \\frac{z-3}{4}$."
+  },
+  {
+    "bbox": [
+      906,
+      2061,
+      1230,
+      2140
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x-1}{2} = \\frac{y+2}{3} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      205,
+      2165,
+      533,
+      2244
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x-4}{1} = \\frac{y+1}{-2} = \\frac{z-4}{3}$."
+  },
+  {
+    "bbox": [
+      906,
+      2165,
+      1238,
+      2244
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x-2}{2} = \\frac{y-3}{-2} = \\frac{z+2}{3}$."
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      818,
+      2258,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

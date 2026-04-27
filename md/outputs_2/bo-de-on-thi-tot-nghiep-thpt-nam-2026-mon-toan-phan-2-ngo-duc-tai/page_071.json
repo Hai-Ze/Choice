@@ -1,0 +1,380 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      280,
+      156,
+      532,
+      199
+    ],
+    "category": "Text",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      343,
+      211,
+      475,
+      251
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 12"
+  },
+  {
+    "bbox": [
+      278,
+      265,
+      539,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      773,
+      153,
+      1314,
+      198
+    ],
+    "category": "Text",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      960,
+      211,
+      1129,
+      248
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      666,
+      263,
+      1426,
+      310
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      365,
+      1452,
+      483
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      516,
+      1455,
+      643
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian tọa độ $Oxyz$, xét vị trí tương đối của hai đường thẳng $\\Delta_1: \\frac{x-1}{2} = \\frac{y+1}{2} = \\frac{z}{3}$, $\\Delta_2: \\frac{x-3}{-1} = \\frac{y-3}{-2} = \\frac{z+2}{1}$?"
+  },
+  {
+    "bbox": [
+      222,
+      656,
+      585,
+      700
+    ],
+    "category": "List-item",
+    "text": "A. $\\Delta_1$ song song với $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      834,
+      656,
+      1113,
+      700
+    ],
+    "category": "List-item",
+    "text": "B. $\\Delta_1$ chéo với $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      222,
+      715,
+      420,
+      760
+    ],
+    "category": "List-item",
+    "text": "C. $\\Delta_1$ cắt $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      834,
+      719,
+      1127,
+      762
+    ],
+    "category": "List-item",
+    "text": "D. $\\Delta_1$ trùng với $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      192,
+      788,
+      1459,
+      1053
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho vật thể $T$ giới hạn bởi hai mặt phẳng có phương trình $x = a$ và $x = b$ ($a < b$). Cắt vật thể $T$ bởi một mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ bằng $x$ ($a \\le x \\le b$), ta được thiết diện có diện tích bằng $S(x)$. Khi $S(x)$ là một hàm liên tục trên đoạn $[a; b]$, thể tích $V$ của vật thể $T$ được tính theo công thức nào sau đây?"
+  },
+  {
+    "bbox": [
+      529,
+      1084,
+      1118,
+      1419
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      222,
+      1459,
+      523,
+      1548
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\int_{a}^{b} S(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      834,
+      1459,
+      1162,
+      1548
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\pi \\int_{a}^{b} S(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      222,
+      1553,
+      523,
+      1640
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\int_{b}^{a} S(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      834,
+      1553,
+      1193,
+      1640
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\pi \\int_{a}^{b} [S(x)]^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      192,
+      1654,
+      1455,
+      1756
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $(Oxyz)$, mặt phẳng $(P)$ đi qua điểm $A(1; 2; 3)$ và song song với mặt phẳng $(Q)$: $2x + 3y - 4z - 5 = 0$ có phương trình là"
+  },
+  {
+    "bbox": [
+      222,
+      1775,
+      613,
+      1817
+    ],
+    "category": "List-item",
+    "text": "A. $2x + 3y + 4z - 14 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1775,
+      1203,
+      1817
+    ],
+    "category": "List-item",
+    "text": "B. $2x - 3y - 4z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      222,
+      1837,
+      594,
+      1879
+    ],
+    "category": "List-item",
+    "text": "C. $2x + 3y - 4z - 4 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1837,
+      1203,
+      1879
+    ],
+    "category": "List-item",
+    "text": "D. $2x + 3y - 4z + 4 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      1904,
+      1455,
+      2008
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, mặt cầu $(S)$: $x^2 + y^2 + z^2 - 6x + 2y - 15 = 0$ có bán kính $R$ bằng"
+  },
+  {
+    "bbox": [
+      222,
+      2021,
+      299,
+      2063
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      525,
+      2017,
+      632,
+      2063
+    ],
+    "category": "List-item",
+    "text": "B. $\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      826,
+      2026,
+      921,
+      2063
+    ],
+    "category": "List-item",
+    "text": "C. 15."
+  },
+  {
+    "bbox": [
+      1127,
+      2026,
+      1218,
+      2063
+    ],
+    "category": "List-item",
+    "text": "D. 25."
+  },
+  {
+    "bbox": [
+      192,
+      2095,
+      976,
+      2144
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập xác định của hàm số $y = \\log_3 (x - 4)$ là"
+  },
+  {
+    "bbox": [
+      222,
+      2162,
+      395,
+      2204
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      525,
+      2162,
+      696,
+      2204
+    ],
+    "category": "List-item",
+    "text": "B. $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      826,
+      2162,
+      996,
+      2204
+    ],
+    "category": "List-item",
+    "text": "C. $[4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1127,
+      2162,
+      1340,
+      2204
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      475,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2245,
+      1452,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 70"
+  }
+]

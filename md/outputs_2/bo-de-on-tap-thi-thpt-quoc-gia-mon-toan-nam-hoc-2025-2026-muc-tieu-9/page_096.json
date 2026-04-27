@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1441,
+      183
+    ],
+    "category": "Text",
+    "text": "vuông góc với mặt phẳng ($ABCD$). Góc giữa đường thẳng $SB$ và mặt phẳng ($ABCD$) là"
+  },
+  {
+    "bbox": [
+      655,
+      195,
+      1043,
+      534
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      621,
+      303,
+      664
+    ],
+    "category": "List-item",
+    "text": "A 90°."
+  },
+  {
+    "bbox": [
+      535,
+      621,
+      646,
+      664
+    ],
+    "category": "List-item",
+    "text": "B 30°."
+  },
+  {
+    "bbox": [
+      879,
+      621,
+      987,
+      664
+    ],
+    "category": "List-item",
+    "text": "C 45°."
+  },
+  {
+    "bbox": [
+      1224,
+      621,
+      1335,
+      664
+    ],
+    "category": "List-item",
+    "text": "D 60°."
+  },
+  {
+    "bbox": [
+      153,
+      678,
+      1547,
+      776
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $SA \\perp (ABCD)$ nên $AB$ là hình chiếu vuông góc của $SB$ lên mặt phẳng ($ABCD$)."
+  },
+  {
+    "bbox": [
+      153,
+      776,
+      724,
+      822
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (SB, (ABCD)) = (SB, AB) = \\widehat{SBA}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      818,
+      1221,
+      905
+    ],
+    "category": "Text",
+    "text": "Trong tam giác vuông $SAB$: $\\tan \\widehat{SBA} = \\frac{SA}{AB} = \\frac{a\\sqrt{3}}{a} = \\sqrt{3} \\Rightarrow \\widehat{SBA} = 60^\\circ$."
+  },
+  {
+    "bbox": [
+      153,
+      910,
+      710,
+      959
+    ],
+    "category": "Text",
+    "text": "Câu 6. Tổng $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{SA}$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      972,
+      305,
+      1021
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{SC}$."
+  },
+  {
+    "bbox": [
+      535,
+      972,
+      650,
+      1021
+    ],
+    "category": "List-item",
+    "text": "B $\\overrightarrow{SD}$."
+  },
+  {
+    "bbox": [
+      879,
+      972,
+      989,
+      1021
+    ],
+    "category": "List-item",
+    "text": "C $\\overrightarrow{SB}$."
+  },
+  {
+    "bbox": [
+      1224,
+      972,
+      1337,
+      1021
+    ],
+    "category": "List-item",
+    "text": "D $\\overrightarrow{BS}$."
+  },
+  {
+    "bbox": [
+      153,
+      1034,
+      1137,
+      1100
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $ABCD$ là hình vuông nên $\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      153,
+      1092,
+      963,
+      1139
+    ],
+    "category": "Text",
+    "text": "Khi đó: $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{SA} = \\overrightarrow{AC} + \\overrightarrow{SA} = \\overrightarrow{SA} + \\overrightarrow{AC} = \\overrightarrow{SC}$."
+  },
+  {
+    "bbox": [
+      153,
+      1160,
+      1544,
+      1247
+    ],
+    "category": "Text",
+    "text": "Câu 7. Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 2^x, y = 0, x = 0, x = 2$. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      191,
+      1257,
+      438,
+      1348
+    ],
+    "category": "List-item",
+    "text": "A $S = \\int_{0}^{2} 2^{x} dx$."
+  },
+  {
+    "bbox": [
+      877,
+      1257,
+      1161,
+      1348
+    ],
+    "category": "List-item",
+    "text": "B $S = \\pi \\int_{0}^{2} 2^{2x} dx$."
+  },
+  {
+    "bbox": [
+      191,
+      1344,
+      451,
+      1431
+    ],
+    "category": "List-item",
+    "text": "C $S = \\int_{0}^{2} 2^{2x} dx$."
+  },
+  {
+    "bbox": [
+      877,
+      1344,
+      1150,
+      1431
+    ],
+    "category": "List-item",
+    "text": "D $S = \\pi \\int_{0}^{2} 2^{x} dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1431,
+      1547,
+      1578
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ là $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1572,
+      854,
+      1662
+    ],
+    "category": "Text",
+    "text": "Với $f(x) = 2^x > 0$ trên $[0; 2]$, ta có $S = \\int_{0}^{2} 2^{x} dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1673,
+      1282,
+      1723
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho cấp số nhân $(u_n)$ với $u_1 = 3; q = \\frac{1}{2}$. Số $\\frac{3}{512}$ là số hạng thứ mấy?"
+  },
+  {
+    "bbox": [
+      191,
+      1735,
+      288,
+      1778
+    ],
+    "category": "List-item",
+    "text": "A 11."
+  },
+  {
+    "bbox": [
+      535,
+      1735,
+      616,
+      1778
+    ],
+    "category": "List-item",
+    "text": "B 9."
+  },
+  {
+    "bbox": [
+      879,
+      1735,
+      974,
+      1778
+    ],
+    "category": "List-item",
+    "text": "C 10."
+  },
+  {
+    "bbox": [
+      1224,
+      1735,
+      1321,
+      1778
+    ],
+    "category": "List-item",
+    "text": "D 12."
+  },
+  {
+    "bbox": [
+      153,
+      1791,
+      1349,
+      1877
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_n = u_1 \\cdot q^{n-1} \\Leftrightarrow \\frac{3}{512} = 3 \\cdot \\left(\\frac{1}{2}\\right)^{n-1} \\Leftrightarrow \\left(\\frac{1}{2}\\right)^9 = \\left(\\frac{1}{2}\\right)^{n-1}$."
+  },
+  {
+    "bbox": [
+      153,
+      1877,
+      553,
+      1914
+    ],
+    "category": "Text",
+    "text": "Suy ra $n - 1 = 9 \\Leftrightarrow n = 10$."
+  },
+  {
+    "bbox": [
+      153,
+      1935,
+      1388,
+      1976
+    ],
+    "category": "Text",
+    "text": "Câu 9. Nhiệt độ trong 55 ngày của một địa phương được cho trong bảng ghép lớp:"
+  },
+  {
+    "bbox": [
+      326,
+      1982,
+      1373,
+      2097
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhiệt độ (°C)</td><td>[19; 22)</td><td>[22; 25)</td><td>[25; 28)</td><td>[28; 31)</td><td>[31; 34)</td><td>[34; 37)</td></tr><tr><td>Số ngày</td><td>5</td><td>7</td><td>8</td><td>16</td><td>12</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      2107,
+      1488,
+      2148
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất nằm trong khoảng"
+  },
+  {
+    "bbox": [
+      191,
+      2167,
+      361,
+      2210
+    ],
+    "category": "List-item",
+    "text": "A (17; 19)."
+  },
+  {
+    "bbox": [
+      535,
+      2167,
+      704,
+      2210
+    ],
+    "category": "List-item",
+    "text": "B (20; 21)."
+  },
+  {
+    "bbox": [
+      879,
+      2167,
+      1048,
+      2210
+    ],
+    "category": "List-item",
+    "text": "C (19; 20)."
+  },
+  {
+    "bbox": [
+      1224,
+      2167,
+      1392,
+      2210
+    ],
+    "category": "List-item",
+    "text": "D (23; 25)."
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      100,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "96"
+  },
+  {
+    "bbox": [
+      828,
+      2250,
+      1499,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

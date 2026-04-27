@@ -1,0 +1,72 @@
+[
+  {
+    "bbox": [
+      235,
+      140,
+      832,
+      181
+    ],
+    "category": "Text",
+    "text": "Xác suất thùng hàng đó là thùng loại I là"
+  },
+  {
+    "bbox": [
+      520,
+      185,
+      1260,
+      275
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|\\bar{B}) = \\frac{P(A) \\cdot P(\\bar{B}|A)}{P(\\bar{B})} = \\frac{48\\% \\cdot (1 - 80\\%)}{17,4\\%} = \\frac{16}{29}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      296,
+      846,
+      336
+    ],
+    "category": "Text",
+    "text": "Xác suất thùng hàng đó là thùng loại II là"
+  },
+  {
+    "bbox": [
+      520,
+      392,
+      1260,
+      482
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}|\\bar{B}) = \\frac{P(\\bar{A}) \\cdot P(\\bar{B}|\\bar{A})}{P(\\bar{B})} = \\frac{52\\% \\cdot (1 - 85\\%)}{17,4\\%} = \\frac{13}{29}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      495,
+      1547,
+      611
+    ],
+    "category": "Text",
+    "text": "Vì $\\frac{16}{29} > \\frac{13}{29}$ nên xác suất thùng hàng đó là thùng loại I cao hơn xác suất thùng hàng đó là thùng loại II."
+  },
+  {
+    "bbox": [
+      65,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "88"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

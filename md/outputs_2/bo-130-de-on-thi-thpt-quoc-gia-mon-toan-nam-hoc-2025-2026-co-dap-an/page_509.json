@@ -1,0 +1,326 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      119,
+      616,
+      162
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $f(x) = x - \\sin 2x$."
+  },
+  {
+    "bbox": [
+      124,
+      165,
+      518,
+      232
+    ],
+    "category": "Formula",
+    "text": "a) $f\\left(-\\frac{\\pi}{2}\\right) = -\\frac{\\pi}{2}, f(\\pi) = \\pi$."
+  },
+  {
+    "bbox": [
+      124,
+      229,
+      420,
+      266
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = 1 - \\cos 2x$."
+  },
+  {
+    "bbox": [
+      124,
+      266,
+      1194,
+      399
+    ],
+    "category": "Formula",
+    "text": "c) Phương trình $f'(x) = 0$ trên đoạn $\\left[-\\frac{\\pi}{2}; \\pi\\right]$ có tập nghiệm là $T = \\left\\{-\\frac{\\pi}{6}; \\frac{\\pi}{6}; \\frac{5\\pi}{6}\\right\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      397,
+      1194,
+      478
+    ],
+    "category": "Formula",
+    "text": "d) Tổng giá trị lớn nhất và nhỏ nhất của hàm số trên đoạn $\\left[-\\frac{\\pi}{2}; \\pi\\right]$ bằng $\\frac{\\pi}{3} + \\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      94,
+      501,
+      1197,
+      582
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một chiếc hộchứa 9 quả cầu gồm 4 quả cầu màu xanh, 3 quả cầu màu đỏ và 2 quả cầu màu vàng. Lấy ngẫu nhiên 3 quả cầu từ hộcó đó."
+  },
+  {
+    "bbox": [
+      124,
+      588,
+      839,
+      627
+    ],
+    "category": "Formula",
+    "text": "a) Số cách lấy ngẫu nhiên 3 quả cầu từ hộcó là 84."
+  },
+  {
+    "bbox": [
+      124,
+      629,
+      914,
+      668
+    ],
+    "category": "Formula",
+    "text": "b) Số cách lấy được 3 quả cầu không có quả màu đỏ là 20."
+  },
+  {
+    "bbox": [
+      124,
+      668,
+      974,
+      738
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất lấy được 3 quả cầu không có quả màu đỏ bằng $\\frac{1}{84}$."
+  },
+  {
+    "bbox": [
+      124,
+      732,
+      1014,
+      803
+    ],
+    "category": "Formula",
+    "text": "d) Xác suất lấy được 3 quả cầu có ít nhất 1 quả màu đỏ bằng $\\frac{83}{84}$."
+  },
+  {
+    "bbox": [
+      94,
+      827,
+      1197,
+      983
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** At một khu di tích vào ngày lễ hội hằng năm, tốc độ thay đổi lượng khách tham quan được biểu diễn bằng hàm số $Q'(t) = 4t^3 - 72t^2 + 288t$, trong đó $t$ tính bằng giờ ($0 \\le t \\le 13$), $Q'(t)$ tính bằng khách/giờ. At thời điểm $t = 2$ giờ đã có 500 người có mặt."
+  },
+  {
+    "bbox": [
+      124,
+      987,
+      1194,
+      1028
+    ],
+    "category": "Formula",
+    "text": "a) Lượng khách tham quan được biểu diễn bởi hàm số $Q(t) = t^4 - 24t^3 + 144t^2$."
+  },
+  {
+    "bbox": [
+      124,
+      1030,
+      1012,
+      1069
+    ],
+    "category": "Formula",
+    "text": "b) At thời điểm $t = 5$ giờ, lượng khách tham quan là 1 325 người."
+  },
+  {
+    "bbox": [
+      124,
+      1073,
+      819,
+      1111
+    ],
+    "category": "Formula",
+    "text": "c) Lượng khách tham quan lớn nhất là 1 296 người."
+  },
+  {
+    "bbox": [
+      124,
+      1113,
+      985,
+      1152
+    ],
+    "category": "Formula",
+    "text": "d) At thời điểm $t = 13$ giờ, lượng khách tham quan là lớn nhất."
+  },
+  {
+    "bbox": [
+      110,
+      1183,
+      893,
+      1238
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1253,
+      1197,
+      1441
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho khối chóp $S.ABCD$ có đáy $ABCD$ là hình thang vuông tại $A$ và $B$, $AB = BC = 1$, $AD = 2$. Hình chiếu vuông góc của $S$ lên mặt phẳng đáy trùng với trung điểm $H$ của $AD$ và $SH = \\frac{\\sqrt{6}}{2}$. Tính khoảng cách từ $B$ đến mặt phẳng ($SCD$) (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      979,
+      1453,
+      1032,
+      1489
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1446,
+      1197,
+      1500
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1527,
+      1197,
+      1722
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Nam và ba người bạn lên kế hoạch cho một chuyển đi phetrong xuyên Việt, ghé thăm 4 thành phố: Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh (TP.HCM) và Cần Thơ. They xuất phát từ Hà Nội, đi qua tất cả các thành phố còn lại đúng một lần rồi quay về Hà Nội. Bảng chi phí nhiên liệu (tính bằng lít xăng) giữa các thành phố như sau:"
+  },
+  {
+    "bbox": [
+      298,
+      1782,
+      993,
+      2027
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Hà Nội</th><th>Đà Nẵng</th><th>TP.HCM</th><th>Cần Thơ</th></tr></thead><tbody><tr><td>Hà Nội</td><td>0</td><td>40</td><td>90</td><td>110</td></tr><tr><td>Đà Nẵng</td><td>40</td><td>0</td><td>50</td><td>70</td></tr><tr><td>TP.HCM</td><td>90</td><td>50</td><td>0</td><td>30</td></tr><tr><td>Cần Thơ</td><td>110</td><td>70</td><td>30</td><td>0</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      94,
+      2081,
+      1197,
+      2159
+    ],
+    "category": "Text",
+    "text": "Xe của nhóm hiện đã có sẵn 150 lít xăng. Để hoàn thành hành trình, họ cần đổ thêm ít nhất bao nhiêu lít xăng?"
+  },
+  {
+    "bbox": [
+      979,
+      2170,
+      1032,
+      2204
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      2161,
+      1197,
+      2215
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      165,
+      1596,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "507"
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      115,
+      887,
+      186
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích xung quanh của bể chứa nước là $\\frac{3072}{x}$ dm²."
+  },
+  {
+    "bbox": [
+      124,
+      178,
+      985,
+      252
+    ],
+    "category": "List-item",
+    "text": "c) Tổng diện tích cần làm của bể chứa nước là $\\frac{3072}{x} + 6x^2$ dm²."
+  },
+  {
+    "bbox": [
+      124,
+      247,
+      1194,
+      324
+    ],
+    "category": "List-item",
+    "text": "d) Chi phí thấp nhất mà ông A trả cho công nhân làm bể chứa nước theo yêu cầu là 3072000 đồng."
+  },
+  {
+    "bbox": [
+      94,
+      336,
+      1197,
+      443
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x-1}{2} = \\frac{y+2}{1} = \\frac{z-3}{3}$ và điểm $A(2; 3; -1)$."
+  },
+  {
+    "bbox": [
+      124,
+      441,
+      661,
+      480
+    ],
+    "category": "List-item",
+    "text": "a) Diểm $A$ không thuộc đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      124,
+      482,
+      1194,
+      556
+    ],
+    "category": "List-item",
+    "text": "b) Мặt phẳng ($P$) đi qua $A$ và vuông góc với $d$ có phương trình là $2x+y+3z+4 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      559,
+      1079,
+      634
+    ],
+    "category": "List-item",
+    "text": "c) Tọa độ giao điểm của $d$ và mặt phẳng ($P$) là điểm $K\\left(\\frac{2}{7}; -\\frac{33}{14}; \\frac{27}{14}\\right)$."
+  },
+  {
+    "bbox": [
+      124,
+      634,
+      1194,
+      711
+    ],
+    "category": "List-item",
+    "text": "d) Gọi ($Q$) là mặt phẳng chứa $d$ sao cho khoảng cách từ $A$ đến ($Q$) là lớn nhất. Khi đó mặt phẳng ($Q$) có phương trình là $24x + 75y - 41z + 249 = 0$."
+  },
+  {
+    "bbox": [
+      110,
+      722,
+      893,
+      778
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      785,
+      1197,
+      894
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Biết đồ thị hàm số $y = \\frac{x^2 - 4x + 5}{x - 2}$ có điểm cực tiểu là $M(x_0; y_0)$, tìm $T = x_0 + y_0$."
+  },
+  {
+    "bbox": [
+      900,
+      903,
+      952,
+      936
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      890,
+      1197,
+      951
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      962,
+      1197,
+      1344
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian với hệ trục tọa độ $Oxyz$, xét mô hình phòng không như sau: radar đặt tại gốc tọa độ $O(0; 0; 0)$, tên lửa phòng không đặt tại điểm $M(0; 50; 0)$, mỗi đơn vị tương ứng với 10 m, mặt phẳng ($Oxy$) trùng với mặt đất, trục $Oz$ vuông góc mặt đất và hướng lên. Giả sử mọi UAV (phương tiện bay không người lái) và tên lửa đều chuyển động thẳng đều. Tại thời điểm $t = 0$ s, radar phát hiện ra UAV A ở tọa độ $A_0(1100; 0; 15)$. Tại thời điểm $t = 1$ s, radar theo dõi thấy UAV A ở tọa độ $A_1(1095; 1; 14,5)$ trên đường thẳng $d$. Tại thời điểm $t = 6$ s, một tên lửa được phóng lên và chuyển động thẳng đều với vận tốc 1300 m/s, va chạm và phá bụy UAV A tại điểm $B$ trên $d$. Hỏi sau bao nhiêu giây kể từ lúc được phóng lên thì tên lửa va chạm với UAV (làm tròn kết quả đến hàng phần trăm của giây)?"
+  },
+  {
+    "bbox": [
+      900,
+      1355,
+      952,
+      1388
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1343,
+      1197,
+      1403
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      342,
+      1425,
+      940,
+      1932
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1952,
+      1197,
+      2256
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hai hàm số $f(x) = ax^3 + bx^2 + cx + d$ và $g(x) = mx^3 + nx^2 + px + q$ với $a, b, c, d, m, n, p, q \\in \\mathbb{R}$). Biết rằng đồ thị của hai hàm số $y = f(x)$ và $y = g(x)$ cắt nhau tại ba điểm có hoành độ lần lượt là $-4, -1, 4$ và $f(2) = 2, g(2) = -3$ (tham khảo hình vẽ bên dưới). Gọi $S_1$ là diện tích hình phẳng giới hạn bởi đồ thị của hai hàm số $y = f(x)$, $y = g(x)$ và hai đường thẳng $x = -4, x = -1$. Gọi $S_2$ là diện tích hình phẳng giới hạn bởi đồ thị của hai hàm số $y = f(x)$, $y = g(x)$ và hai đường thẳng $x = -1, x = 4$. Tính tỉ số $\\frac{S_1}{S_2}$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "527"
+  }
+]

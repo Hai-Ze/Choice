@@ -1,0 +1,452 @@
+[
+  {
+    "bbox": [
+      191,
+      138,
+      422,
+      182
+    ],
+    "category": "List-item",
+    "text": "A $M(1; 3; -1)$."
+  },
+  {
+    "bbox": [
+      535,
+      138,
+      764,
+      182
+    ],
+    "category": "List-item",
+    "text": "B $M(1; 7; -9)$."
+  },
+  {
+    "bbox": [
+      879,
+      138,
+      1107,
+      182
+    ],
+    "category": "List-item",
+    "text": "C $M(1; -2; 9)$."
+  },
+  {
+    "bbox": [
+      1224,
+      138,
+      1426,
+      182
+    ],
+    "category": "List-item",
+    "text": "D $M(1; 2; 1)$."
+  },
+  {
+    "bbox": [
+      154,
+      196,
+      1196,
+      301
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $M$ thuộc đoạn $AB$ và $MA = 2MB \\Rightarrow \\overrightarrow{AM} = \\frac{2}{3}\\overrightarrow{AB}$.\n$\\overrightarrow{AB} = (0; -3; 6) \\Rightarrow \\overrightarrow{AM} = (0; -2; 4)$."
+  },
+  {
+    "bbox": [
+      154,
+      306,
+      1107,
+      347
+    ],
+    "category": "Text",
+    "text": "Gọi $M(x; y; z)$, ta có $(x - 1; y - 4; z + 3) = (0; -2; 4) \\Rightarrow M(1; 2; 1)$."
+  },
+  {
+    "bbox": [
+      154,
+      364,
+      1546,
+      451
+    ],
+    "category": "Text",
+    "text": "Câu 6. Gọi $F(x)$ là nguyên hàm của hàm số $f(x) = \\sin x$, biết $F(0) = 1$. Khi đó $\\int_{0}^{\\pi} F(x)dx$ có kết quả là"
+  },
+  {
+    "bbox": [
+      191,
+      470,
+      277,
+      514
+    ],
+    "category": "List-item",
+    "text": "A $\\pi$."
+  },
+  {
+    "bbox": [
+      535,
+      470,
+      617,
+      514
+    ],
+    "category": "List-item",
+    "text": "B $0$."
+  },
+  {
+    "bbox": [
+      879,
+      470,
+      977,
+      514
+    ],
+    "category": "List-item",
+    "text": "C $2\\pi$."
+  },
+  {
+    "bbox": [
+      1224,
+      470,
+      1304,
+      514
+    ],
+    "category": "List-item",
+    "text": "D $2$."
+  },
+  {
+    "bbox": [
+      154,
+      527,
+      931,
+      607
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $F(x) = \\int \\sin x dx = -\\cos x + C$."
+  },
+  {
+    "bbox": [
+      154,
+      605,
+      925,
+      644
+    ],
+    "category": "Formula",
+    "text": "$$\nF(0) = 1 \\Rightarrow -\\cos 0 + C = 1 \\Rightarrow -1 + C = 1 \\Rightarrow C = 2.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      648,
+      498,
+      687
+    ],
+    "category": "Text",
+    "text": "Vậy $F(x) = -\\cos x + 2$."
+  },
+  {
+    "bbox": [
+      154,
+      687,
+      1043,
+      739
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{\\pi} (-\\cos x + 2)dx = [-\\sin x + 2x]_{0}^{\\pi} = (0 + 2\\pi) - (0 + 0) = 2\\pi.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      752,
+      1546,
+      793
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hàm số $f(x)$ có bảng biến thiên như hình vẽ. Giá trị cực đại của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      446,
+      800,
+      1250,
+      1089
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$1$</td><td>$2$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      191,
+      1171,
+      333,
+      1215
+    ],
+    "category": "List-item",
+    "text": "A $y = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      1171,
+      703,
+      1215
+    ],
+    "category": "List-item",
+    "text": "B $y = -1$."
+  },
+  {
+    "bbox": [
+      879,
+      1171,
+      1022,
+      1215
+    ],
+    "category": "List-item",
+    "text": "C $y = 2$."
+  },
+  {
+    "bbox": [
+      1224,
+      1171,
+      1366,
+      1215
+    ],
+    "category": "List-item",
+    "text": "D $y = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1228,
+      1546,
+      1331
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên, ta thấy đạo hàm $f'(x)$ đổi dấu từ dương sang âm khi đi qua các điểm $x = -1$ và $x = 1$."
+  },
+  {
+    "bbox": [
+      203,
+      1349,
+      833,
+      1392
+    ],
+    "category": "Text",
+    "text": "Do đó, hàm số đạt cực đại tại các điểm này."
+  },
+  {
+    "bbox": [
+      203,
+      1411,
+      1148,
+      1454
+    ],
+    "category": "Text",
+    "text": "Giá trị cực đại tương ứng của hàm số là $y_{C\\Omega} = f(-1) = f(1) = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      1473,
+      858,
+      1514
+    ],
+    "category": "Text",
+    "text": "Câu 8. Tập xác định của hàm số $y = \\tan x$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1533,
+      628,
+      1579
+    ],
+    "category": "List-item",
+    "text": "A $D = \\mathbb{R} \\setminus \\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      877,
+      1533,
+      1264,
+      1579
+    ],
+    "category": "List-item",
+    "text": "B $D = \\mathbb{R} \\setminus \\{k2\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      191,
+      1577,
+      642,
+      1623
+    ],
+    "category": "List-item",
+    "text": "C $D = \\mathbb{R} \\setminus \\{\\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      877,
+      1577,
+      1246,
+      1623
+    ],
+    "category": "List-item",
+    "text": "D $D = \\mathbb{R} \\setminus \\{k\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      154,
+      1621,
+      1496,
+      1761
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Hàm số $y = \\tan x = \\frac{\\sin x}{\\cos x}$ xác định khi và chỉ khi mẫu số khác 0, tức là:\n$\\cos x \\neq 0 \\Leftrightarrow x \\neq \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      203,
+      1753,
+      1061,
+      1826
+    ],
+    "category": "Text",
+    "text": "Vậy tập xác định của hàm số là $D = \\mathbb{R} \\setminus \\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      154,
+      1838,
+      1072,
+      1879
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cấp số cộng $(u_n)$ có $u_3 = 8, u_{11} = 32$ có công sai $d$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1898,
+      333,
+      1942
+    ],
+    "category": "List-item",
+    "text": "A $d = 4$."
+  },
+  {
+    "bbox": [
+      535,
+      1898,
+      679,
+      1942
+    ],
+    "category": "List-item",
+    "text": "B $d = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      1898,
+      1022,
+      1942
+    ],
+    "category": "List-item",
+    "text": "C $d = 3$."
+  },
+  {
+    "bbox": [
+      1224,
+      1898,
+      1366,
+      1942
+    ],
+    "category": "List-item",
+    "text": "D $d = 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1955,
+      1261,
+      2019
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_{11} = u_3 + 8d \\Leftrightarrow 32 = 8 + 8d \\Leftrightarrow 8d = 24 \\Leftrightarrow d = 3$."
+  },
+  {
+    "bbox": [
+      154,
+      2032,
+      1493,
+      2083
+    ],
+    "category": "Text",
+    "text": "Câu 10. Trong không gian $Oxyz$, điểm nào sau đây thuộc đường thẳng $d: \\frac{x-1}{1} = \\frac{y}{2} = \\frac{z+1}{-2}$?"
+  },
+  {
+    "bbox": [
+      191,
+      2094,
+      415,
+      2138
+    ],
+    "category": "List-item",
+    "text": "A $N(1; 2; -2)$."
+  },
+  {
+    "bbox": [
+      535,
+      2094,
+      754,
+      2138
+    ],
+    "category": "List-item",
+    "text": "B $P(-1; 0; 1)$."
+  },
+  {
+    "bbox": [
+      879,
+      2094,
+      1096,
+      2138
+    ],
+    "category": "List-item",
+    "text": "C $Q(2; 1; -2)$."
+  },
+  {
+    "bbox": [
+      1224,
+      2094,
+      1449,
+      2138
+    ],
+    "category": "List-item",
+    "text": "D $M(1; 0; -1)$."
+  },
+  {
+    "bbox": [
+      154,
+      2151,
+      1546,
+      2215
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Thay tọa độ điểm $M(1; 0; -1)$ vào phương trình đường thẳng $d: \\frac{1-1}{1} = \\frac{0}{2} =$"
+  },
+  {
+    "bbox": [
+      76,
+      2250,
+      111,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "46"
+  },
+  {
+    "bbox": [
+      839,
+      2250,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

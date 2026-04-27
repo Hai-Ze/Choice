@@ -1,0 +1,244 @@
+[
+  {
+    "bbox": [
+      0,
+      0,
+      188,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      181,
+      43,
+      1015,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      307,
+      168,
+      432,
+      204
+    ],
+    "category": "Text",
+    "text": "là 50 m."
+  },
+  {
+    "bbox": [
+      34,
+      211,
+      410,
+      254
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      84,
+      256,
+      1538,
+      443
+    ],
+    "category": "Text",
+    "text": "» Câu 17. Một người dùng 3 loại nguyên liệu $A, B, C$ để sản xuất ra 2 loại sản phẩm $P$ và $Q$. Để sản xuất 1 kilogam mỗi loại $P$ hoặc $Q$ phải dùng một số nguyên liệu khác nhau. Tổng số kilogam nguyên liệu mỗi loại người đó có và số kilogam từng loại nguyên liệu cần thiết để sản xuất ra 1 kilogam sản phẩm mỗi loại được cho trong bảng sau:"
+  },
+  {
+    "bbox": [
+      234,
+      441,
+      1522,
+      722
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th rowspan=\"2\">Loại nguyên liệu</th><th rowspan=\"2\">Số kg<br>nguyên liệu đang có</th><th colspan=\"2\">Số kg từng loại nguyên liệu cần để<br>sản xuất ra 1kg sản phẩm</th></tr><tr><th>$P$</th><th>$Q$</th></tr></thead><tbody><tr><td>$A$</td><td>10</td><td>2</td><td>2</td></tr><tr><td>$B$</td><td>4</td><td>0</td><td>2</td></tr><tr><td>$C$</td><td>12</td><td>0</td><td>4</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      220,
+      726,
+      1513,
+      864
+    ],
+    "category": "Text",
+    "text": "Biết 1 kilogam sản phẩm $P$ có lợi nhuận 3 triệu, 1 kilogam sản phẩm $Q$ có lợi nhuận 5 triệu. Người đó đã lập phương án sản xuất hai loại sản phẩm trên sao cho có lãi cao nhất. Hỏi lãi cao nhất bằng bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      1059,
+      864,
+      1197,
+      903
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      859,
+      1533,
+      909
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      915,
+      1535,
+      1056
+    ],
+    "category": "Text",
+    "text": "» Câu 18. Gọi $S$ là tập hợp tất cả các giá trị của $a$ thuộc $[\\pi; 10\\pi]$ sao cho $\\int_{0}^{a} \\cos x \\, dx = \\frac{1}{2}$. Số phần tử của $S$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1059,
+      1065,
+      1197,
+      1103
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      1057,
+      1533,
+      1107
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      1107,
+      1535,
+      1207
+    ],
+    "category": "Text",
+    "text": "» Câu 19. Chứ tức diện $ABCD$ có $AB = 4, AC = AD = CD = 2\\sqrt{3}$. $BC = BD = \\sqrt{7}$. Tính khoảng cách giữa hai đường thẳng $AB$ và $CD$. (Làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      1059,
+      1207,
+      1197,
+      1245
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      1202,
+      1533,
+      1252
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      1254,
+      1535,
+      1572
+    ],
+    "category": "Text",
+    "text": "» Câu 20. Trong mặt phẳng tọa độ $Oxy$, cho đường tròn $(C)$ tâm $O$, bán kính bằng 1. Gọi $T$ là tập hợp tất cả các điểm $M(x; y)$, trong đó $x, y \\in \\mathbb{Z}$, sao cho từ $M$ kẻ được hai tiếp tuyến $MA, MB$ đến $(C)$ ($A, B$ là các tiếp điểm) thỏa mãn $AMB \\ge 60^\\circ$. Chọn ngẫu nhiên hai điểm trong $T$. Biết xác suất để đường thẳng đi qua hai điểm được chọn song song với trục $Ox$ bằng $\\frac{1}{a}$. Tính $a^2$."
+  },
+  {
+    "bbox": [
+      1059,
+      1577,
+      1197,
+      1615
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      1570,
+      1533,
+      1620
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      84,
+      1623,
+      1535,
+      1817
+    ],
+    "category": "Text",
+    "text": "» Câu 21. Một bể bơi hình bán nguyệt có đường kính $AB = 100 \\, m$. Một người muốn bơi từ vị trí $A$ đến vị trí $C$ theo phương thẳng rồi lên bờ đi bộ từ $C$ đến $B$. Biết rằng vận tốc bơi là $5 \\, km/h$ và vận tốc đi bộ là $6 \\, km/h$. Hỏi thời gian tối đa để người đó hoàn thành lộ trình như trên là bao nhiêu phút? (Làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      650,
+      1815,
+      1103,
+      2071
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1059,
+      2074,
+      1197,
+      2112
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      2067,
+      1533,
+      2117
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      81,
+      2248,
+      584,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1284,
+      2252,
+      1444,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 107"
+  },
+  {
+    "bbox": [
+      1451,
+      2162,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

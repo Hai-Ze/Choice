@@ -1,0 +1,102 @@
+[
+  {
+    "bbox": [
+      152,
+      79,
+      1525,
+      232
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có $AB = 5$, $BC = 5$, $CA = 7$. Khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng bao nhiêu? (làm tròn kết quả đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      796,
+      238,
+      929,
+      282
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      152,
+      282,
+      1545,
+      389
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng khoảng cách từ một điểm bất kỳ trên $AA'$ đến mặt phẳng ($BCC'B'$)."
+  },
+  {
+    "bbox": [
+      152,
+      389,
+      718,
+      442
+    ],
+    "category": "Text",
+    "text": "Chọn điểm $A$ trên đường thẳng $AA'$."
+  },
+  {
+    "bbox": [
+      152,
+      446,
+      1033,
+      494
+    ],
+    "category": "Text",
+    "text": "Ta có: $AH \\perp BC$ và $AH \\perp BB'$, suy ra $AH \\perp (BCC'B')$."
+  },
+  {
+    "bbox": [
+      152,
+      494,
+      1142,
+      547
+    ],
+    "category": "Text",
+    "text": "Do đó, khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng $AH$."
+  },
+  {
+    "bbox": [
+      152,
+      551,
+      1453,
+      632
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $ABC$, ta có: Diện tích $S = \\frac{7\\sqrt{51}}{4}$, mà $S = \\frac{1}{2}AH \\cdot BC \\rightarrow AH = \\frac{7\\sqrt{51}}{10} \\approx 5,0$"
+  },
+  {
+    "bbox": [
+      152,
+      680,
+      337,
+      732
+    ],
+    "category": "Text",
+    "text": "Đáp số: **5,0**"
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      299,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1405,
+      2235,
+      1569,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13/13"
+  }
+]

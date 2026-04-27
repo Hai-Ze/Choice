@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      92,
+      1496,
+      508
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Quan sát hai mã cổ phiếu $X$ và $Y$. Người ta nhận thấy trong mỗi phiên giao dịch, nếu cổ phiếu $Y$ không giảm thì cổ phiếu $X$ giảm giá với xác suất $\\frac{3}{5}$. Ngược lại, nếu cổ phiếu $X$ không giảm thì cổ phiếu $Y$ giảm giá với xác suất $\\frac{2}{3}$. Hơn nữa, xác suất để cả hai cổ phiếu $X$ và $Y$ giảm giá trong cùng một ngày là $\\frac{1}{10}$. Hỏi xác suất để có ít nhất một trong hai cổ phiếu giảm giá trong một phiên giao dịch là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      75,
+      529,
+      415,
+      566
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      589,
+      843,
+      628
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      646,
+      251,
+      685
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,8"
+  },
+  {
+    "bbox": [
+      75,
+      704,
+      953,
+      751
+    ],
+    "category": "Text",
+    "text": "Gọi $X$ là biến cố: “Cổ phiếu $X$ giảm giá trong phiên giao dịch”."
+  },
+  {
+    "bbox": [
+      75,
+      762,
+      935,
+      809
+    ],
+    "category": "Text",
+    "text": "Gọi $Y$ là biến cố: “Cổ phiếu $Y$ giảm giá trong phiên giao dịch”."
+  },
+  {
+    "bbox": [
+      75,
+      828,
+      1214,
+      911
+    ],
+    "category": "Text",
+    "text": "Đặt $P(X) = x, P(Y) = y$. Theo bài ra $P(X | \\bar{Y}) = \\frac{3}{5}, P(Y | \\bar{X}) = \\frac{2}{3}, P(X \\cap Y) = \\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      75,
+      935,
+      879,
+      1016
+    ],
+    "category": "Text",
+    "text": "Ta có $\\frac{1}{10} = P(X \\cap Y) = P(X) \\cdot P(Y | X) = P(Y) \\cdot P(X | Y)$."
+  },
+  {
+    "bbox": [
+      75,
+      1039,
+      1073,
+      1122
+    ],
+    "category": "Text",
+    "text": "Lại có $P(X) = P(Y) \\cdot P(X | Y) + P(\\bar{Y}) \\cdot P(X | \\bar{Y}) \\Leftrightarrow x = \\frac{1}{10} + (1 - y) \\cdot \\frac{3}{5} (1)$"
+  },
+  {
+    "bbox": [
+      75,
+      1145,
+      1027,
+      1227
+    ],
+    "category": "Text",
+    "text": "và $P(Y) = P(X) \\cdot P(Y | X) + P(\\bar{X}) \\cdot P(Y | \\bar{X}) \\Leftrightarrow y = \\frac{1}{10} + (1 - x) \\cdot \\frac{2}{3} (2)$"
+  },
+  {
+    "bbox": [
+      75,
+      1250,
+      935,
+      1427
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2) ta có hệ phương trình: $\\begin{cases} 10x + 6y = 7 \\\\ 20x + 30y = 23 \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{2}{5} \\\\ y = \\frac{1}{2} \\end{cases}$."
+  },
+  {
+    "bbox": [
+      75,
+      1448,
+      1084,
+      1494
+    ],
+    "category": "Text",
+    "text": "Xác suất có ít nhất một trong hai cổ phiếu giảm giá trong phiên giao dịch là"
+  },
+  {
+    "bbox": [
+      82,
+      1513,
+      927,
+      1594
+    ],
+    "category": "Formula",
+    "text": "$$\nP(X \\cup Y) = P(X) + P(Y) - P(X \\cap Y) = \\frac{2}{5} + \\frac{1}{2} - \\frac{1}{10} = \\frac{8}{10} = 0,8.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

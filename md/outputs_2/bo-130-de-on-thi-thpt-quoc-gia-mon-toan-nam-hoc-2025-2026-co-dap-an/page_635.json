@@ -1,0 +1,479 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1198,
+      200
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi tâm $O$. Biết rằng $SA = SC$, $SB = SD$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      200,
+      387,
+      239
+    ],
+    "category": "List-item",
+    "text": "(A) $SO \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      670,
+      200,
+      904,
+      239
+    ],
+    "category": "List-item",
+    "text": "(B) $AB \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      124,
+      241,
+      367,
+      283
+    ],
+    "category": "List-item",
+    "text": "(C) $CD \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      670,
+      241,
+      862,
+      283
+    ],
+    "category": "List-item",
+    "text": "(D) $CD \\perp AC$."
+  },
+  {
+    "bbox": [
+      93,
+      301,
+      800,
+      343
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Nghiệm của phương trình $\\log_2(x + 4) = 3$ là"
+  },
+  {
+    "bbox": [
+      124,
+      343,
+      253,
+      382
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 5$."
+  },
+  {
+    "bbox": [
+      395,
+      343,
+      526,
+      382
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 4$."
+  },
+  {
+    "bbox": [
+      670,
+      343,
+      800,
+      382
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 2$."
+  },
+  {
+    "bbox": [
+      941,
+      343,
+      1082,
+      382
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 12$."
+  },
+  {
+    "bbox": [
+      93,
+      400,
+      1198,
+      480
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho cấp số cộng $(u_n)$ thỏa mãn $u_{n+1} = u_n - 2$ với mọi $n \\in \\mathbb{N}^*$. Công sai $d$ của cấp số cộng này bằng"
+  },
+  {
+    "bbox": [
+      124,
+      480,
+      196,
+      519
+    ],
+    "category": "List-item",
+    "text": "(A) 2."
+  },
+  {
+    "bbox": [
+      395,
+      480,
+      490,
+      519
+    ],
+    "category": "List-item",
+    "text": "(B) $-1$."
+  },
+  {
+    "bbox": [
+      670,
+      480,
+      742,
+      519
+    ],
+    "category": "List-item",
+    "text": "(C) 1."
+  },
+  {
+    "bbox": [
+      941,
+      480,
+      1037,
+      519
+    ],
+    "category": "List-item",
+    "text": "(D) $-2$."
+  },
+  {
+    "bbox": [
+      93,
+      537,
+      1198,
+      617
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hình chóp $S.ABCD$ có đáy là hình bình hành tâm $O$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      611,
+      479,
+      654
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{SA} + \\overrightarrow{OC} - \\overrightarrow{SB} = \\overrightarrow{CO}$."
+  },
+  {
+    "bbox": [
+      670,
+      611,
+      1028,
+      654
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{SA} + \\overrightarrow{OC} - \\overrightarrow{SB} = \\overrightarrow{BO}$."
+  },
+  {
+    "bbox": [
+      124,
+      654,
+      479,
+      699
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{SA} + \\overrightarrow{OC} - \\overrightarrow{SB} = \\overrightarrow{OB}$."
+  },
+  {
+    "bbox": [
+      670,
+      654,
+      1004,
+      699
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{SA} + \\overrightarrow{OC} - \\overrightarrow{SB} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      93,
+      717,
+      883,
+      759
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      157,
+      787,
+      1135,
+      1069
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$-1$</td><td>$4$</td><td>$-1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1105,
+      800,
+      1143
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      124,
+      1143,
+      309,
+      1182
+    ],
+    "category": "List-item",
+    "text": "(A) $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      395,
+      1143,
+      520,
+      1182
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; 1)$."
+  },
+  {
+    "bbox": [
+      670,
+      1143,
+      815,
+      1182
+    ],
+    "category": "List-item",
+    "text": "(C) $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      941,
+      1143,
+      1082,
+      1182
+    ],
+    "category": "List-item",
+    "text": "(D) $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      108,
+      1202,
+      823,
+      1254
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1264,
+      633,
+      1306
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $f(x) = (x^2 - 2)e^{2x}$."
+  },
+  {
+    "bbox": [
+      124,
+      1306,
+      939,
+      1345
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm số đã cho là $f'(x) = (2x^2 + 2x - 4)e^{2x}$."
+  },
+  {
+    "bbox": [
+      124,
+      1345,
+      595,
+      1384
+    ],
+    "category": "List-item",
+    "text": "b) $f'(0) = 4$; $f(\\ln 2) = 2(\\ln^2 2 - 2)$."
+  },
+  {
+    "bbox": [
+      124,
+      1384,
+      874,
+      1425
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ có nghiệm là $x = 1$ và $x = 2$."
+  },
+  {
+    "bbox": [
+      124,
+      1425,
+      1183,
+      1466
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị nhỏ nhất của hàm số $f(x) = (x^2 - 2)e^{2x}$ trên đoạn $[-1; 2]$ bằng $-e^2$."
+  },
+  {
+    "bbox": [
+      93,
+      1486,
+      1198,
+      1792
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một người đang điều�nghiển ô tô chạy trên đường cao tốc và muốn ra khỏi đường cao tốc. Khi cách lối ra 200 m, người đó điều�nghiển xe cho xe chuyển hướng sang làn đường giảm tốc, tốc độ của ô tô khi đó là 90 km/h. Bốn giây sau đó, người điều�nghiển ô tô bắt đầu giảm tốc độ với vận tốc được biểu diễn bởi hàm số $v(t) = at + b$ ($a, b \\in \\mathbb{R}$, $a < 0$, đơn vị m/s), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu giảm tốc độ. Biết rằng, sau khi giảm tốc độ 5 giây thì ô tô đi vào lối ra. Sau khi đi vào lối ra cao tốc, ô tô tiếp tục giảm tốc độ cho đến khi vận tốc còn 36 km/h thì duy trì ở vận tốc này."
+  },
+  {
+    "bbox": [
+      124,
+      1792,
+      1133,
+      1831
+    ],
+    "category": "List-item",
+    "text": "a) Khi bắt đầu giảm tốc, khoảng cách của ô tô đến lối ra cao tốc là 100 m."
+  },
+  {
+    "bbox": [
+      124,
+      1831,
+      423,
+      1870
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $b$ là 90."
+  },
+  {
+    "bbox": [
+      124,
+      1870,
+      811,
+      1911
+    ],
+    "category": "List-item",
+    "text": "c) Vận tốc ô tô thời điểm đi vào lối ra là 54 km/h."
+  },
+  {
+    "bbox": [
+      124,
+      1911,
+      1193,
+      1988
+    ],
+    "category": "List-item",
+    "text": "d) Quăng đường mà ô tô đi được trong thời gian 20 giây kể từ khi bắt đầu giảm tốc là 300 m."
+  },
+  {
+    "bbox": [
+      93,
+      2010,
+      1198,
+      2165
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một nhà máy có hai phân xưởng cùng sản suất một loại sản phẩm. Phân xưởng thứ nhất sản suất 60% và phân xưởng thứ hai sản suất 40% tổng số sản phẩm của cả nhà máy. Tỉ lệ phế phẩm của từng phân xưởng lần lượt là 16% và 20%. Lấy ngẫu nhiên một sản phẩm trong kho hàng của nhà máy."
+  },
+  {
+    "bbox": [
+      124,
+      2165,
+      1055,
+      2204
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để sản phẩm đó do phân xưởng thứ nhất sản suất là 0,6."
+  },
+  {
+    "bbox": [
+      124,
+      2204,
+      754,
+      2245
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để lấy được phế phẩm bằng 0,176."
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1226,
+      2259,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 633"
+  }
+]

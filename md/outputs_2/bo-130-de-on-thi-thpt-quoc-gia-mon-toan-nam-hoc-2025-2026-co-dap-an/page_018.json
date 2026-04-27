@@ -1,0 +1,349 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      410,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      477,
+      116,
+      813,
+      183
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = 2; f\\left(\\frac{\\pi}{2}\\right) = \\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      477,
+      181,
+      1195,
+      218
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 2 \\sin x + 1$."
+  },
+  {
+    "bbox": [
+      477,
+      218,
+      1306,
+      285
+    ],
+    "category": "Formula",
+    "text": "c) Nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      477,
+      276,
+      1247,
+      344
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị lớn nhất của $f(x)$ trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\sqrt{3} + \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      447,
+      352,
+      1556,
+      569
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Vấn đề ô nhiễm tiếng ồn càng ngày càng được quan tâm. Mức áp suất âm thanh là đại lượng được sử dụng để đo cường độ âm thanh. Mức áp suất âm thanh được tính bằng công thức $L_p = 20 \\times \\log \\frac{p}{p_0}$, trong đó hằng số $p_0$ ($p_0 > 0$) là ngưỡng nghe tối thiểu ($2 \\times 10^{-5}$Pa trong không khí), $p$ là áp suất âm thanh thực tế. Bảng sau cho biết mức áp suất âm thanh của các nguồn âm thanh khác nhau:"
+  },
+  {
+    "bbox": [
+      573,
+      590,
+      1428,
+      835
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Quản lý ánh sáng</td><td>Khoảng cách từ nguồn ánh sáng (m)</td><td>Mức áp suất ánh sáng (dB)</td></tr></thead><tbody><tr><td>Xe xăng</td><td>10</td><td>60 ~ 90</td></tr><tr><td>Xe hybrid</td><td>10</td><td>50 ~ 60</td></tr><tr><td>Xe điện</td><td>10</td><td>40</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      447,
+      859,
+      1554,
+      936
+    ],
+    "category": "Text",
+    "text": "Được biết, áp suất âm thanh thực tế đo được ở khoảng cách 10 m so với xe xăng, xe hybrid, xe điện lần lượt là $p_1, p_2, p_3$. Từ đây suy ra:"
+  },
+  {
+    "bbox": [
+      477,
+      936,
+      632,
+      975
+    ],
+    "category": "Formula",
+    "text": "a) $p_1 \\ge p_2$."
+  },
+  {
+    "bbox": [
+      750,
+      936,
+      932,
+      975
+    ],
+    "category": "Formula",
+    "text": "b) $p_2 > 10p_3$."
+  },
+  {
+    "bbox": [
+      1022,
+      936,
+      1221,
+      975
+    ],
+    "category": "Formula",
+    "text": "c) $p_3 = 100p_0$."
+  },
+  {
+    "bbox": [
+      1294,
+      936,
+      1495,
+      975
+    ],
+    "category": "Formula",
+    "text": "d) $p_1 \\le 100p_2$."
+  },
+  {
+    "bbox": [
+      447,
+      989,
+      1554,
+      1067
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Giả sử một mô hình tăng trưởng dân số của một thành phố được mô tả bởi hàm số:"
+  },
+  {
+    "bbox": [
+      783,
+      1059,
+      1217,
+      1133
+    ],
+    "category": "Formula",
+    "text": "$$\nP(t) = \\frac{K}{1 + Ae^{-rt}} \\quad (triệu người)\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1148,
+      579,
+      1183
+    ],
+    "category": "Text",
+    "text": "Trong đó:"
+  },
+  {
+    "bbox": [
+      447,
+      1183,
+      1061,
+      1222
+    ],
+    "category": "List-item",
+    "text": "- $P(t)$ là dân số tại thời điểm $t$ (đơn vị năm),"
+  },
+  {
+    "bbox": [
+      447,
+      1222,
+      1203,
+      1261
+    ],
+    "category": "List-item",
+    "text": "- $K$ là sức chứa tối đa của môi trường (dân số giới hạn),"
+  },
+  {
+    "bbox": [
+      447,
+      1261,
+      1067,
+      1298
+    ],
+    "category": "List-item",
+    "text": "- $A > 0$ là hằng số phụ thuộc dân số ban đầu,"
+  },
+  {
+    "bbox": [
+      447,
+      1298,
+      852,
+      1337
+    ],
+    "category": "List-item",
+    "text": "- $r > 0$ là tốc độ tăng trưởng."
+  },
+  {
+    "bbox": [
+      447,
+      1337,
+      1074,
+      1374
+    ],
+    "category": "Text",
+    "text": "Hãy chọn phương án đúng/sai về mô hình này."
+  },
+  {
+    "bbox": [
+      477,
+      1374,
+      1136,
+      1413
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $P(t)$ luôn dương với mọi giá trị của $t$."
+  },
+  {
+    "bbox": [
+      477,
+      1413,
+      956,
+      1485
+    ],
+    "category": "List-item",
+    "text": "b) Khi $t = 0$, dân số $P(t) = \\frac{K}{1 + A}$."
+  },
+  {
+    "bbox": [
+      477,
+      1481,
+      1309,
+      1552
+    ],
+    "category": "List-item",
+    "text": "c) Khi $t = \\frac{\\ln A}{r}$ dân số đạt một nửa sức chứa của môi trường."
+  },
+  {
+    "bbox": [
+      477,
+      1548,
+      1489,
+      1587
+    ],
+    "category": "List-item",
+    "text": "d) Mô hình này cho thấy dân số sẽ tăng满 không giới hạn theo thời gian."
+  },
+  {
+    "bbox": [
+      447,
+      1603,
+      1247,
+      1657
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1665,
+      1554,
+      1825
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho lăng trụ $ABC.A'B'C'$ có đáy là tam giác đều, cạnh bên $BB' = 2$ và vuông góc với đáy. Khoảng cách từ $A$ đến mặt phẳng ($A'BC$) bằng $\\frac{2\\sqrt{57}}{19}$. Thể tích của lăng trụ là (làm tròn đến hàng phần trăm) KQ:"
+  },
+  {
+    "bbox": [
+      1312,
+      1776,
+      1554,
+      1837
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1849,
+      1554,
+      1965
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Phương trình đường thẳng đi qua hai điểm cực trị của đồ thị hàm số $y = \\frac{x^2 - 3x + 1}{2x + 2}$ có dạng $y = ax + b$. Giá trị của $a - 2b$ bằng KQ:"
+  },
+  {
+    "bbox": [
+      1312,
+      1899,
+      1554,
+      1960
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1975,
+      1554,
+      2141
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Hai người A và B cùng nhau chơi một trận đấu tennis diễn ra tối đa 5 sét đấu. Người nào thắng 3 sét trước sẽ thắng trận đấu. Biết xác suất胜利 của A là 0,4 (không có trận hòa). Tính xác suất để A là người thắng trận thi đấu tennis này (kết quả làm tròn đến hàng phần trăm). KQ:"
+  },
+  {
+    "bbox": [
+      1312,
+      2092,
+      1554,
+      2153
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      2163,
+      1554,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Chất điểm $M$ bị tác dụng bởi ba lực $\\vec{F}_1, \\vec{F}_2, \\vec{F}_3$ có cường độ cùng bằng $4N$. Góc tạo bởi hai trong ba lực lần lượt là $37^\\circ, 48^\\circ, 52^\\circ$. Người ta cần tác động vào"
+  },
+  {
+    "bbox": [
+      136,
+      2259,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "16 Bùi Tịnh Minh Lâm"
+  }
+]

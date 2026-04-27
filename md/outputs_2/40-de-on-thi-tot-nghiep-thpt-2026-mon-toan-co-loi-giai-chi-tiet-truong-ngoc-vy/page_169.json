@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1494,
+      136
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường vật đi được trong khoảng thời gian từ 1 giây đến 2 giây được xác định bởi công thức"
+  },
+  {
+    "bbox": [
+      82,
+      155,
+      291,
+      251
+    ],
+    "category": "Formula",
+    "text": "$$\ns(t) = \\int_{1}^{2} v(t)dt .\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      269,
+      956,
+      314
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường màchiếcxe xe đạp đi được trong 2 giây đầu tiên là:"
+  },
+  {
+    "bbox": [
+      82,
+      333,
+      844,
+      429
+    ],
+    "category": "Formula",
+    "text": "$$\ns(t) = \\int_{0}^{2} v(t)dt = \\int_{0}^{1} 2tdt + \\int_{1}^{2} 2dt = t^2|_{0}^{1} + 2t|_{1}^{2} = 1+2 = 3(m).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      450,
+      1494,
+      611
+    ],
+    "category": "Text",
+    "text": "Câu 3. Một nhà máy có hai phân xưởng A và B tương ứng làm ra 60% và 40% sản phẩm của nhà máy. Tỉ lệ phế phẩm của hai phân xưởng A và B lần lượt là 1% và 2%. Chọn ngẫu nhiên một sản phẩm của nhà máy."
+  },
+  {
+    "bbox": [
+      76,
+      622,
+      1304,
+      668
+    ],
+    "category": "Text",
+    "text": "a) Nếu sản phẩm chọn ra thuộc phân xưởng A thì xác suất để nó không là phế phẩm là 0,98."
+  },
+  {
+    "bbox": [
+      76,
+      680,
+      1129,
+      726
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để sản phẩm chọn ra là phế phẩm và thuộc phân xưởng A là 0,006."
+  },
+  {
+    "bbox": [
+      76,
+      739,
+      807,
+      784
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để sản phẩm chọn ra là phế phẩm là 0,014."
+  },
+  {
+    "bbox": [
+      76,
+      805,
+      1190,
+      885
+    ],
+    "category": "Text",
+    "text": "d) Nếu sản phẩm chọn ra là phế phẩm thì xác suất để nó thuộc phân xưởng A là $\\frac{4}{7}$."
+  },
+  {
+    "bbox": [
+      727,
+      909,
+      844,
+      948
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      962,
+      893,
+      1084
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1087,
+      1494,
+      1134
+    ],
+    "category": "Text",
+    "text": "Gọi A, B lần lượt là biến cố chọn được sản phẩm thuộc phân xưởng A, B. Ta có $P(A) = 0,6$;"
+  },
+  {
+    "bbox": [
+      82,
+      1164,
+      238,
+      1209
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = 0,4\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1230,
+      820,
+      1276
+    ],
+    "category": "Text",
+    "text": "Gọi P là biến cố chọn phải một sản phẩm là phế phẩm."
+  },
+  {
+    "bbox": [
+      76,
+      1297,
+      891,
+      1345
+    ],
+    "category": "Text",
+    "text": "Tỉ lệ phế phẩm của phân xưởng A là 1% $\\Rightarrow P(P|A) = 0,01$."
+  },
+  {
+    "bbox": [
+      76,
+      1376,
+      896,
+      1425
+    ],
+    "category": "Text",
+    "text": "Tỉ lệ phế phẩm của phân xưởng B là 2% $\\Rightarrow P(P|B) = 0,02$."
+  },
+  {
+    "bbox": [
+      76,
+      1449,
+      1494,
+      1572
+    ],
+    "category": "Text",
+    "text": "a) Nếu sản phẩm chọn ra thuộc phân xưởng A thì xác suất để nó không là phế phẩm là $P(\\bar{P}|A) = 1 - P(P|A) = 0,99$."
+  },
+  {
+    "bbox": [
+      76,
+      1593,
+      1494,
+      1710
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để sản phẩm chọn ra là phế phẩm và thuộc phân xưởng A là $P(A \\cap P) = P(A) \\cdot P(P|A) = 0,6 \\cdot 0,01 = 0,006$."
+  },
+  {
+    "bbox": [
+      76,
+      1731,
+      1494,
+      1836
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để sản phẩm chọn ra là phế phẩm là tổng xác suất chọn được phế phẩm từ phân xưởng A và từ phân xưởng B"
+  },
+  {
+    "bbox": [
+      82,
+      1855,
+      1003,
+      1906
+    ],
+    "category": "Formula",
+    "text": "$$\nP(P) = P(A) \\cdot P(P|A) + P(B) \\cdot P(P|B) = 0,6 \\cdot 0,01 + 0,4 \\cdot 0,02 = 0,014\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1928,
+      463,
+      1974
+    ],
+    "category": "Text",
+    "text": "d) Áp dụng công thức Bayes"
+  },
+  {
+    "bbox": [
+      76,
+      1985,
+      1494,
+      2032
+    ],
+    "category": "Text",
+    "text": "Nếu sản phẩm chọn ra là phế phẩm thì xác suất để nó thuộc phân xưởng A là"
+  },
+  {
+    "bbox": [
+      82,
+      2051,
+      545,
+      2145
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|P) = \\frac{P(A \\cap P)}{P(P)} = \\frac{0,006}{0,014} = \\frac{3}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

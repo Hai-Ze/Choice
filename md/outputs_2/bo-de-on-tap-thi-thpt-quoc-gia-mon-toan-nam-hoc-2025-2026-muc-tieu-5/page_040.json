@@ -1,0 +1,412 @@
+[
+  {
+    "bbox": [
+      153,
+      135,
+      1548,
+      285
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo quy tắc hình hộp, vecto đường chéo của hình hộp bằng tổng của ba vecto chung gốc xuất phát từ một đỉnh. Với hình lập phương $ABCD.A_1B_1C_1D_1$, ta có $\\overrightarrow{AC_1} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA_1}$."
+  },
+  {
+    "bbox": [
+      153,
+      303,
+      1548,
+      434
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hàm số $y = f(x)$ thỏa mãn $f(1) = -2, f(2) = 1$ và có đạo hàm liên tục trên đoạn $[1; 2]$. Giá trị của tích phân $I = \\int_{1}^{2} f'(x)dx$ là"
+  },
+  {
+    "bbox": [
+      191,
+      444,
+      361,
+      486
+    ],
+    "category": "List-item",
+    "text": "A $I = -1$."
+  },
+  {
+    "bbox": [
+      535,
+      444,
+      679,
+      486
+    ],
+    "category": "List-item",
+    "text": "B $I = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      444,
+      1046,
+      486
+    ],
+    "category": "List-item",
+    "text": "C $I = -3$."
+  },
+  {
+    "bbox": [
+      1224,
+      444,
+      1366,
+      486
+    ],
+    "category": "List-item",
+    "text": "D $I = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      500,
+      1548,
+      624
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Sử dụng định nghĩa tích phân: $I = \\int_{1}^{2} f'(x)dx = f(x)\\Big|_{1}^{2} = f(2) - f(1) = 1 - (-2) = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      642,
+      1143,
+      685
+    ],
+    "category": "Text",
+    "text": "Câu 6. He tất cả các nguyên hàm của hàm số $y = \\sin x + \\cos x$ là"
+  },
+  {
+    "bbox": [
+      188,
+      703,
+      788,
+      748
+    ],
+    "category": "List-item",
+    "text": "A $\\int (\\sin x + \\cos x)dx = \\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      188,
+      748,
+      819,
+      792
+    ],
+    "category": "List-item",
+    "text": "B $\\int (\\sin x + \\cos x)dx = -\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      188,
+      792,
+      819,
+      836
+    ],
+    "category": "List-item",
+    "text": "C $\\int (\\sin x + \\cos x)dx = -\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      188,
+      836,
+      788,
+      880
+    ],
+    "category": "List-item",
+    "text": "D $\\int (\\sin x + \\cos x)dx = \\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      880,
+      1548,
+      988
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có nguyên hàm cơ bản: $\\int \\sin x dx = -\\cos x + C$ và $\\int \\cos x dx = \\sin x + C$. Vậy $\\int (\\sin x + \\cos x)dx = \\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1002,
+      1407,
+      1053
+    ],
+    "category": "Text",
+    "text": "Câu 7. Tiệm cận đứng của đồ thị hàm số $y = \\frac{2x-1}{x-1}$ là đường thẳng có phương trình:"
+  },
+  {
+    "bbox": [
+      191,
+      1065,
+      333,
+      1107
+    ],
+    "category": "List-item",
+    "text": "A $y = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      1065,
+      679,
+      1107
+    ],
+    "category": "List-item",
+    "text": "B $x = 1$."
+  },
+  {
+    "bbox": [
+      879,
+      1065,
+      1023,
+      1107
+    ],
+    "category": "List-item",
+    "text": "C $y = 2$."
+  },
+  {
+    "bbox": [
+      1224,
+      1065,
+      1366,
+      1107
+    ],
+    "category": "List-item",
+    "text": "D $x = 2$."
+  },
+  {
+    "bbox": [
+      153,
+      1121,
+      1490,
+      1186
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Mẫu số $x - 1 = 0 \\Leftrightarrow x = 1$. Do đó tiệm cận đứng là đường thẳng $x = 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1200,
+      1548,
+      1288
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho mặt phẳng ($P$) : $3x - y + z - 2 = 0$. Vecto nào trong các vecto dưới đây là một vecto pháp tuyến của mặt phẳng ($P$)?"
+  },
+  {
+    "bbox": [
+      188,
+      1306,
+      455,
+      1348
+    ],
+    "category": "List-item",
+    "text": "A $\\vec{n} = (3; -1; 1)$."
+  },
+  {
+    "bbox": [
+      877,
+      1306,
+      1139,
+      1348
+    ],
+    "category": "List-item",
+    "text": "B $\\vec{n} = (3; -1; 2)$."
+  },
+  {
+    "bbox": [
+      188,
+      1348,
+      479,
+      1392
+    ],
+    "category": "List-item",
+    "text": "C $\\vec{n} = (3; -1; -2)$."
+  },
+  {
+    "bbox": [
+      877,
+      1348,
+      1139,
+      1392
+    ],
+    "category": "List-item",
+    "text": "D $\\vec{n} = (3; -1; 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      1392,
+      1548,
+      1488
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Miặt phẳng ($P$) : $Ax + By + Cz + D = 0$ có một vecto pháp tuyến là $\\vec{n} = (A; B; C)$."
+  },
+  {
+    "bbox": [
+      153,
+      1492,
+      1060,
+      1534
+    ],
+    "category": "Text",
+    "text": "Từ phương trình ($P$) : $3x - y + z - 2 = 0$, ta có $\\vec{n} = (3; -1; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      1554,
+      948,
+      1596
+    ],
+    "category": "Text",
+    "text": "Câu 9. Nghiệm của phương trình $\\log_2(x + 1) = 3$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1614,
+      333,
+      1656
+    ],
+    "category": "List-item",
+    "text": "A $x = 9$."
+  },
+  {
+    "bbox": [
+      535,
+      1614,
+      679,
+      1656
+    ],
+    "category": "List-item",
+    "text": "B $x = 7$."
+  },
+  {
+    "bbox": [
+      879,
+      1614,
+      1023,
+      1656
+    ],
+    "category": "List-item",
+    "text": "C $x = 8$."
+  },
+  {
+    "bbox": [
+      1224,
+      1614,
+      1366,
+      1656
+    ],
+    "category": "List-item",
+    "text": "D $x = 5$."
+  },
+  {
+    "bbox": [
+      153,
+      1670,
+      1513,
+      1735
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Điều kiện $x > -1$. Phương trình tương đương với: $x + 1 = 2^3 = 8 \\Leftrightarrow x = 7$."
+  },
+  {
+    "bbox": [
+      153,
+      1749,
+      935,
+      1791
+    ],
+    "category": "Text",
+    "text": "Câu 10. Set nghiệm của phương trình $\\cos x = 1$ là"
+  },
+  {
+    "bbox": [
+      188,
+      1808,
+      496,
+      1852
+    ],
+    "category": "List-item",
+    "text": "A $S = \\{k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      877,
+      1808,
+      1243,
+      1852
+    ],
+    "category": "List-item",
+    "text": "B $S = \\{\\frac{\\pi}{2} + k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      188,
+      1852,
+      541,
+      1896
+    ],
+    "category": "List-item",
+    "text": "C $S = \\{\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      877,
+      1852,
+      1164,
+      1896
+    ],
+    "category": "List-item",
+    "text": "D $S = \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      153,
+      1896,
+      1115,
+      1961
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình $\\cos x = 1 \\Leftrightarrow x = k2\\pi$ với $k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      153,
+      1975,
+      1548,
+      2017
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hình lăng trụ $ABC.A'B'C'$ như hình vẽ. Đường thẳng nào sau đây song song với"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "40"
+  },
+  {
+    "bbox": [
+      839,
+      2250,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

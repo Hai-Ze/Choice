@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      1577,
+      255
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t=6$, ta có $N(6) = 9.6^2 - 6^3 + 10 = 118$. Ban đầu ($t=0$ giờ), mật độ vi khuẩn đo được là $N(0) = 10$ triệu tế bào/ml nên tại thời điểm $t=6$, mật độ vi khuẩn đã tăng thêm 108 triệu tế bào/ml."
+  },
+  {
+    "bbox": [
+      212,
+      259,
+      341,
+      297
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      297,
+      1574,
+      391
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t=7$ giờ, ta có $N(7) = 9.7^2 - 7^3 + 10 = 108$ nên mật độ vi khuẩn trong 1 ml sữa chua là 108 triệu tế bào/ml."
+  },
+  {
+    "bbox": [
+      74,
+      387,
+      1577,
+      586
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một công ty tổ chức chương trình bốc thăm trúng thưởng nhân迎rip nghi lễ 30/4 và 1/5 cho 100 nhân viên. Trong集合 có 100 vé, trong đó có 4 vé trúng thưởng tour du lịch miễn phí ở Thái Lan, 10 vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng và 20 vé trúng thưởng tour du lịch miễn phí tại Cửa Lò (Nghệ An), các vé còn lại trúng thưởng năm triệu đồng. Lần lượt từng nhân viên lên bốc ngẫu nhiên một vé (không hoàn lại)."
+  },
+  {
+    "bbox": [
+      212,
+      586,
+      1401,
+      666
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      212,
+      672,
+      1577,
+      798
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{13}{20}$, biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng."
+  },
+  {
+    "bbox": [
+      212,
+      798,
+      1382,
+      878
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      212,
+      878,
+      1577,
+      1041
+    ],
+    "category": "Text",
+    "text": "d) Để tạo bất ngờ cho người bốc thăm tiếp theo, sau khi người thứ nhất bốc thăm, người dẫn chương trình giữ lại vé và không công bố kết quả. Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      767,
+      1046,
+      882,
+      1084
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1118,
+      430,
+      1158
+    ],
+    "category": "Text",
+    "text": "Xét các biến cố:"
+  },
+  {
+    "bbox": [
+      218,
+      1158,
+      1211,
+      1202
+    ],
+    "category": "Text",
+    "text": "A: \"Người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng\";"
+  },
+  {
+    "bbox": [
+      218,
+      1200,
+      1193,
+      1242
+    ],
+    "category": "Text",
+    "text": "B: \"Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng\"."
+  },
+  {
+    "bbox": [
+      212,
+      1242,
+      333,
+      1280
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      1280,
+      1123,
+      1328
+    ],
+    "category": "Text",
+    "text": "Ta có số vé trúng thưởng năm triệu đồng là: $100 - (4 + 10 + 20) = 66$"
+  },
+  {
+    "bbox": [
+      212,
+      1338,
+      1548,
+      1419
+    ],
+    "category": "Text",
+    "text": "Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là: $P(A) = \\frac{66}{100} = \\frac{33}{50}$"
+  },
+  {
+    "bbox": [
+      212,
+      1423,
+      302,
+      1459
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      212,
+      1457,
+      1574,
+      1539
+    ],
+    "category": "Text",
+    "text": "Nếu người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng thì số vé trúng thưởng năm triệu đồng còn lại trong集合 là 65 vé."
+  },
+  {
+    "bbox": [
+      212,
+      1537,
+      1574,
+      1658
+    ],
+    "category": "Text",
+    "text": "Suy ra, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $P(B|A) = \\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      212,
+      1664,
+      333,
+      1702
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      1698,
+      1574,
+      1742
+    ],
+    "category": "Text",
+    "text": "Xác suất để người thứ nhất không bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      218,
+      1742,
+      651,
+      1823
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}) = 1 - P(A) = 1 - \\frac{66}{100} = \\frac{17}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1823,
+      1574,
+      1947
+    ],
+    "category": "Text",
+    "text": "Nếu người bốc thăm thứ nhất không bốc được vé trúng thưởng năm triệu đồng thì số vé trúng thưởng năm triệu đồng còn lại trong集合 là 66 nên $P(B|\\bar{A}) = \\frac{66}{99}$."
+  },
+  {
+    "bbox": [
+      212,
+      1947,
+      1574,
+      2031
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      218,
+      2031,
+      1078,
+      2112
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = \\frac{33}{50} \\cdot \\frac{65}{99} + \\frac{17}{50} \\cdot \\frac{66}{99} = \\frac{33}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2116,
+      333,
+      2156
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      2152,
+      1574,
+      2241
+    ],
+    "category": "Text",
+    "text": "Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $P(A|B)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

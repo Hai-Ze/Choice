@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      322,
+      119,
+      1073,
+      299
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nv(20) = h'(20) &= \\frac{0,005}{\\pi \\left( \\frac{64}{225} h_0^4 - \\frac{64}{75} h_0^3 + \\frac{264}{225} h_0^2 - \\frac{4}{5} h_0 + \\frac{1}{4} \\right)} \\\\\n&\\approx 0,01084447993 \\text{ m/phút.} \\approx 0,01.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      336,
+      1162,
+      381
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      379,
+      1505,
+      530
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho tức diện $OABC$ với $OBC$ là tam giác vuông tại $O$, trong đó $OB = 1$ và $OC = \\sqrt{3}$. Biết rằng $OA$ vuông góc với mặt phẳng $(OBC)$ và $OA = \\sqrt{3}$. Gọi $M$ là trung điểm của $BC$, tính khoảng cách giữa hai đường thẳng $AB$ và $OM$ (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      836,
+      569,
+      950,
+      607
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      253,
+      603,
+      437,
+      645
+    ],
+    "category": "Text",
+    "text": "**Dáp số: 0,77.**"
+  },
+  {
+    "bbox": [
+      654,
+      657,
+      1123,
+      1120
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1133,
+      1316,
+      1182
+    ],
+    "category": "Text",
+    "text": "Qua điểm $B$ kẻ đường thẳng $d // OM$, qua điểm $O$ kẻ $\\Delta // BC$. $d \\cap \\Delta = \\{D\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      1197,
+      779,
+      1243
+    ],
+    "category": "Text",
+    "text": "Khi đó $OM // DB$ hay $OM // (ADB)$."
+  },
+  {
+    "bbox": [
+      251,
+      1254,
+      968,
+      1305
+    ],
+    "category": "Text",
+    "text": "Ta có $d(OM, AB) = d(OM, (DAB)) = d(O, (DAB))$."
+  },
+  {
+    "bbox": [
+      251,
+      1316,
+      619,
+      1352
+    ],
+    "category": "Text",
+    "text": "Kẻ $ON \\perp DB$, $OH \\perp AN$."
+  },
+  {
+    "bbox": [
+      251,
+      1359,
+      1038,
+      1519
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} DB \\perp ON \\\\ DB \\perp OA \\\\ OA, ON \\subset (AON) \\end{cases} \\Rightarrow BD \\perp (AON) \\Rightarrow BD \\perp OH$."
+  },
+  {
+    "bbox": [
+      251,
+      1529,
+      1181,
+      1688
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} OH \\perp AN \\\\ OH \\perp BD \\\\ AN, BD \\subset (DAB) \\end{cases} \\Rightarrow OH \\perp (DAB)$ hay $d(O, (DAB)) = OH$."
+  },
+  {
+    "bbox": [
+      251,
+      1699,
+      1033,
+      1751
+    ],
+    "category": "Text",
+    "text": "Tam giác $OBC$ vuông tại $O$ nên $BC = \\sqrt{OB^2 + OC^2} = 2$."
+  },
+  {
+    "bbox": [
+      251,
+      1754,
+      1474,
+      1890
+    ],
+    "category": "Text",
+    "text": "Mặt khác, tam giác $OBC$ vuông tại $O$ có $OM$ là trung tuyến ứng với cạnh huyền $BC$ nên $OM = \\frac{1}{2}BC = 1$."
+  },
+  {
+    "bbox": [
+      251,
+      1901,
+      1101,
+      2038
+    ],
+    "category": "Text",
+    "text": "Tứ giác $ODBM$ là hình bình hành nên $\\begin{cases} OD = BM = \\frac{1}{2}BC = 1 \\\\ OM = DB = 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      251,
+      2047,
+      1169,
+      2190
+    ],
+    "category": "Text",
+    "text": "Ta có tam giác $ODB$ có $OD = OB = DB = 1$ nên tam giác $ODB$ đều\nKhi đó $ON = \\frac{\\sqrt{3}}{2}$."
+  }
+]

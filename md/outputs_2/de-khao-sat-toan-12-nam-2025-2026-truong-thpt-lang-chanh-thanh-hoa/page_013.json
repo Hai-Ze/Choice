@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      368,
+      72,
+      1278,
+      438
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      472,
+      1311,
+      524
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có trên $[-1;4]$, giá trị lớn nhất của hàm số $y = f(x)$ là $f(1)$."
+  },
+  {
+    "bbox": [
+      113,
+      558,
+      202,
+      597
+    ],
+    "category": "Text",
+    "text": "**b) Sai**"
+  },
+  {
+    "bbox": [
+      113,
+      623,
+      878,
+      673
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ có ba điểm cực trị là $x = \\pm 1$ và $x = 4$."
+  },
+  {
+    "bbox": [
+      113,
+      710,
+      198,
+      748
+    ],
+    "category": "Text",
+    "text": "**c) Sai**"
+  },
+  {
+    "bbox": [
+      113,
+      775,
+      1037,
+      826
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên $(1;4)$ và đồng biến trên $(4;+\\infty)$."
+  },
+  {
+    "bbox": [
+      113,
+      861,
+      235,
+      900
+    ],
+    "category": "Text",
+    "text": "**d) Đúng**"
+  },
+  {
+    "bbox": [
+      176,
+      926,
+      1068,
+      978
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên $(1;4) \\Rightarrow f(1) > f(2) > f(4)$."
+  },
+  {
+    "bbox": [
+      113,
+      1006,
+      1535,
+      1214
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một người điều�nkiển ô tô đang ở trên đường cao tốc muốn tách làn ra khỏi đường cao tốc. Khi ô tô cách điểm tách làn 300 m, tốc độ của ô tô là 72 km/h. Năm giây sau đó, ô tô bắt đầu giảm tốc với tốc độ $v(t) = at + b$ (m/s) với $(a, b \\in \\mathbb{R}, a < 0)$, trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu giảm tốc. Biết rằng ô tô tách khỏi làn đường cao tốc sau 12 giây và duy trì sự giảm tốc trong 18 giây kể từ khi bắt đầu giảm tốc."
+  },
+  {
+    "bbox": [
+      211,
+      1208,
+      1533,
+      1253
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô đi được từ khi bắt đầu giảm tốc đến khi tách khỏi làn đường cao tốc là 200 m."
+  },
+  {
+    "bbox": [
+      211,
+      1253,
+      502,
+      1291
+    ],
+    "category": "Text",
+    "text": "b) Giá trị của $b$ là 20."
+  },
+  {
+    "bbox": [
+      211,
+      1288,
+      1533,
+      1375
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường $S(t)$ (đơn vị: mét) mà ô tô đi được trong khoảng thời gian 16 giây kể từ khi giảm tốc nằm trong khoảng từ 250m đến 252m."
+  },
+  {
+    "bbox": [
+      211,
+      1371,
+      1229,
+      1415
+    ],
+    "category": "Text",
+    "text": "d) Sau 18 giây kể từ khi giảm tốc, tốc độ của ô tô không vượt quá 35 km/h."
+  },
+  {
+    "bbox": [
+      766,
+      1415,
+      882,
+      1454
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      113,
+      1448,
+      757,
+      1492
+    ],
+    "category": "Text",
+    "text": "a) Tốc độ ban đầu của ô tô là 72 km/h = 20 m/s."
+  },
+  {
+    "bbox": [
+      113,
+      1492,
+      1047,
+      1535
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được trong 5 giây đầu tiên là: $S_1 = 5 \\cdot 20 = 100$ m."
+  },
+  {
+    "bbox": [
+      113,
+      1539,
+      1425,
+      1585
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được từ khi bắt đầu giảm tốc đến khi tách khỏi làn là: $S_2 = 300 - 100 = 200$ m"
+  },
+  {
+    "bbox": [
+      113,
+      1591,
+      314,
+      1631
+    ],
+    "category": "Text",
+    "text": "Do đó **a đúng**."
+  },
+  {
+    "bbox": [
+      113,
+      1627,
+      1109,
+      1672
+    ],
+    "category": "Text",
+    "text": "b) Thời điểm bắt đầu giảm tốc ta có $t = 0 \\Rightarrow v(0) = b = 20$. Do đó **b đúng**."
+  },
+  {
+    "bbox": [
+      113,
+      1676,
+      483,
+      1715
+    ],
+    "category": "Text",
+    "text": "c) Ta có $v(t) = at + 20$ (m/s)"
+  },
+  {
+    "bbox": [
+      113,
+      1722,
+      1535,
+      2009
+    ],
+    "category": "Text",
+    "text": "Biết xe tách làn sau 12 giây kể từ khi giảm tốc, nên ta có $200 = \\int_{0}^{12} (at + 20)dt = 72a + 240 \\Rightarrow a = -\\frac{5}{9}$\n$\\Rightarrow v(t) = -\\frac{5}{9}t + 20$ (m/s). Quăng đường ô tô đi được trong 16 giây kể từ khi bắt đầu giảm tốc là\n$\\int_{0}^{16} (-\\frac{5}{9}t + 20)dt = \\frac{2240}{9} \\approx 248,88$ m, do đó **c sai**."
+  },
+  {
+    "bbox": [
+      113,
+      2017,
+      1295,
+      2098
+    ],
+    "category": "Text",
+    "text": "d) Ta có $v(t) = -\\frac{5}{9}t + 20$ (m/s) $\\Rightarrow v(18) = -\\frac{5}{9} \\cdot 18 + 20 = 10$ (m/s) = 36 (km/h). Do đó **d sai**."
+  },
+  {
+    "bbox": [
+      113,
+      2098,
+      1535,
+      2258
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nghiên cứu số bệnh nhân bị bệnh X trong một bệnh viện, người ta thấy rằng có 2 nguyên nhân gây ra bệnh X là do nhiễm một trong hai chủng virus V19 và virus V20. Bệnh nhân nhiễm bệnh X do chủng virus V19 chiếm 70% số bệnh nhân và nhiễm bệnh X do chủng virus V20 là 30%. Trong những bệnh nhân nhiễm bệnh X do chủng virus V19 thì có 30% bị biến chứng, trong những bệnh nhân bị nhiễm bệnh X do"
+  }
+]

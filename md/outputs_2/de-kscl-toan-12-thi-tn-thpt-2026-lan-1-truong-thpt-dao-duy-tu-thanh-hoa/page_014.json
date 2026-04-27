@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      153,
+      106,
+      783,
+      185
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để Nam trả lời sai 1 câu là $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      192,
+      882,
+      290
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để Nam đạt đúng 8 điểm là $\\left(\\frac{1}{4}\\right)^6 \\cdot \\left(\\frac{3}{4}\\right)^4$"
+  },
+  {
+    "bbox": [
+      153,
+      290,
+      992,
+      339
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để Nam đạt từ 9 điểm trở lên lớn hơn 0,0004."
+  },
+  {
+    "bbox": [
+      809,
+      355,
+      879,
+      391
+    ],
+    "category": "Section-header",
+    "text": "Giải"
+  },
+  {
+    "bbox": [
+      153,
+      425,
+      1535,
+      576
+    ],
+    "category": "Text",
+    "text": "a) **Sai** (Nam giải chắc chắn đúng 10 câu nên Nam cần trả lời đúng thêm 10 câu. Xác suất là $C_{10}^{10} \\cdot \\left(\\frac{1}{4}\\right)^{10} \\cdot \\left(\\frac{3}{4}\\right)^0 = \\left(\\frac{1}{4}\\right)^{10}$)"
+  },
+  {
+    "bbox": [
+      153,
+      588,
+      307,
+      628
+    ],
+    "category": "Text",
+    "text": "b) **Sai**"
+  },
+  {
+    "bbox": [
+      153,
+      630,
+      1535,
+      727
+    ],
+    "category": "Text",
+    "text": "c) **Sai**. Để Nam đạt được đúng 8 điểm thì trong 10 câu còn lại lựa chọn ngẫu nhiên đáp án phải đúng 6 câu nữa (vì đã có 5 điểm chắc chắn), sai 4 câu."
+  },
+  {
+    "bbox": [
+      153,
+      734,
+      1057,
+      817
+    ],
+    "category": "Text",
+    "text": "Xác suất khi đánh ngẫu nhiên đúng một câu trắc nghiệm là $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      857,
+      1016,
+      940
+    ],
+    "category": "Text",
+    "text": "Xác suất khi đánh ngẫu nhiên sai một câu trắc nghiệm là $\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      975,
+      1218,
+      1026
+    ],
+    "category": "Text",
+    "text": "Chọn 6 câu trắc nghiệm để đáp đúng từ 10 câu trắc nghiệm có: $C_{10}^{6}$ (cách)"
+  },
+  {
+    "bbox": [
+      153,
+      1067,
+      1069,
+      1162
+    ],
+    "category": "Text",
+    "text": "Vậy, xác suất để Nam đạt được đúng 8 điểm là $C_{10}^{6} \\cdot \\left(\\frac{1}{4}\\right)^{6} \\cdot \\left(\\frac{3}{4}\\right)^{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      1195,
+      289,
+      1238
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.**"
+  },
+  {
+    "bbox": [
+      153,
+      1268,
+      1242,
+      1362
+    ],
+    "category": "Text",
+    "text": "Để đạt 9 điểm, Nam cần trả lời đúng thêm 8 câu. Xác suất là $C_{10}^{8} \\cdot \\left(\\frac{1}{4}\\right)^{8} \\cdot \\left(\\frac{3}{4}\\right)^{2}$"
+  },
+  {
+    "bbox": [
+      153,
+      1397,
+      1268,
+      1492
+    ],
+    "category": "Text",
+    "text": "Để đạt 9,5 điểm, Nam cần trả lời đúng thêm 9 câu. Xác suất là $C_{10}^{9} \\cdot \\left(\\frac{1}{4}\\right)^{9} \\cdot \\left(\\frac{3}{4}\\right)^{1}$"
+  },
+  {
+    "bbox": [
+      153,
+      1527,
+      1287,
+      1622
+    ],
+    "category": "Text",
+    "text": "Để đạt 10 điểm, Nam cần trả lời đúng thêm 10 câu. Xác suất là $C_{10}^{10} \\cdot \\left(\\frac{1}{4}\\right)^{10} \\cdot \\left(\\frac{3}{4}\\right)^{0}$"
+  },
+  {
+    "bbox": [
+      153,
+      1650,
+      1535,
+      1795
+    ],
+    "category": "Text",
+    "text": "Như vậy, xác suất để đạt từ 9 điểm trở lên là tổng xác suất đạt 9 điểm, 9,5 điểm, 10 điểm và bằng $C_{10}^{8} \\cdot \\left(\\frac{1}{4}\\right)^{8} \\cdot \\left(\\frac{3}{4}\\right)^{2} + C_{10}^{9} \\cdot \\left(\\frac{1}{4}\\right)^{9} \\cdot \\left(\\frac{3}{4}\\right)^{1} + C_{10}^{10} \\cdot \\left(\\frac{1}{4}\\right)^{10} \\cdot \\left(\\frac{3}{4}\\right)^{0} \\approx 0,0004158 > 0,0004$"
+  },
+  {
+    "bbox": [
+      153,
+      1824,
+      265,
+      1866
+    ],
+    "category": "Section-header",
+    "text": "Phần 3"
+  },
+  {
+    "bbox": [
+      153,
+      1886,
+      1535,
+      2042
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho $M(a;b)$ là điểm nằm trên đường thẳng đi qua hai điểm cực trị của đồ thị hàm số $y = x^3 - 3x$ và hai điểm $A(1;2)$, $B(2;1)$. Khi $MA + MB$ ngắn nhất thì giá trị $b-a$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      783,
+      2047,
+      905,
+      2088
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      2095,
+      315,
+      2137
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1"
+  },
+  {
+    "bbox": [
+      153,
+      2140,
+      1162,
+      2193
+    ],
+    "category": "Text",
+    "text": "Tọa độ hai điểm cực trị của đồ thị hàm số $y = x^3 - 3x$ là $(-1;2)$; $(1;-2)$"
+  },
+  {
+    "bbox": [
+      1514,
+      2242,
+      1535,
+      2272
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

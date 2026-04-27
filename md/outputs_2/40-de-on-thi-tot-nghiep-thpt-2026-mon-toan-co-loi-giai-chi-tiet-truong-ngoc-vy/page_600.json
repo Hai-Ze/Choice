@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1495,
+      194
+    ],
+    "category": "Text",
+    "text": "Với $X$ là biến cố: “Một con bò bị bệnh bò điên”, $Y$ là biến cố: “Một con bò phản ứng dương tính với xét nghiệm”. Ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      215,
+      900,
+      297
+    ],
+    "category": "Formula",
+    "text": "$$\nP(X) = \\frac{1,3}{100000} = 13.10^{-6} \\Rightarrow P(\\bar{X}) = 1 - 13.10^{-6} = 0,999987.\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      321,
+      668,
+      378
+    ],
+    "category": "Formula",
+    "text": "$$\nP(Y|X) = 70\\% = 0,7; P(Y|\\bar{X}) = 10\\% = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      398,
+      615,
+      444
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức nhân xác suất, ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      465,
+      745,
+      516
+    ],
+    "category": "Formula",
+    "text": "$$\nP(XY) = P(X) \\cdot P(Y|X) = 13.10^{-6} \\cdot 0,7 = 9,11 \\cdot 10^{-6}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      537,
+      682,
+      583
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất toàn phần, ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      602,
+      1192,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\nP(Y) = P(X) \\cdot P(Y|X) + P(\\bar{X}) \\cdot P(Y|\\bar{X}) = 13.10^{-6} \\cdot 0,7 + 0,999987 \\cdot 0,1 = 0,1000078.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      741,
+      726,
+      782
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      797,
+      1495,
+      1325
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nh�m thu hút du khách và khẳng định vị thế dẫn đầu, công viên nước Đầm Sen quyết định đầu tư xây dựng một đường trượt nước độc đáo có mặt cắt được gắn vào hệ trục $Oxy$ (xem trục $Ox$ là mặt đất) với đơn vị mỗi trục là $1m$ như hình vẽ bên. Đường trượt được thiết kế theo hình dạng của một hàm bậc ba $y = g(x)$, với mục tiêu tối ưu hóa trải nghiệm của người dùng, một phần đường trượt được đặt dưới mặt đất để tận dụng địa hình và tạo hiệu ứng bất ngờ.úp đầu của đường trượt là $H(-3;a)$ và điểm cuối là $K(8;0)$ và ngay dưới điểm $K$ là một bể bơi. Để tiếp cận đường trượt, một cầu thang cong có dạng Parabol $y = f(x)$ có định là điểm $M(-8;0)$ được xây dựng, đảm bảo độ dốc vừa phải và an toàn cho người sử dụng."
+  },
+  {
+    "bbox": [
+      260,
+      1340,
+      1279,
+      1718
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1737,
+      1495,
+      2012
+    ],
+    "category": "Text",
+    "text": "Các diện tích hình phẳng được tạo bởi các đồ thị $y = f(x)$, $y = g(x)$, $x = -3$ và trục hoành như hình vẽ. Để đảm bảo an toàn tuyệt đối cho người chơi và tính ổn định của công trình, các kỹsur cần đặc biệt chú trọng đến phần đường trượt nằm dưới lòng đất. Hãy xác định độ cao lớn nhất mà đường trượt chìm xuống so với mặt đất (đơn vị: mét) biết rằng $S_1 + S_3 = S_2 + S_4 + \\frac{109}{12}$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      2033,
+      413,
+      2070
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2092,
+      842,
+      2131
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2150,
+      268,
+      2189
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2,95"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

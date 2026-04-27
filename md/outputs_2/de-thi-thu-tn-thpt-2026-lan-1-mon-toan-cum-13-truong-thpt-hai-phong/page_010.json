@@ -1,0 +1,290 @@
+[
+  {
+    "bbox": [
+      606,
+      98,
+      1042,
+      479
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      236,
+      524,
+      336,
+      561
+    ],
+    "category": "List-item",
+    "text": "A. 60°."
+  },
+  {
+    "bbox": [
+      571,
+      524,
+      668,
+      561
+    ],
+    "category": "List-item",
+    "text": "B. 30°."
+  },
+  {
+    "bbox": [
+      886,
+      524,
+      981,
+      561
+    ],
+    "category": "List-item",
+    "text": "C. 90°."
+  },
+  {
+    "bbox": [
+      1200,
+      524,
+      1300,
+      561
+    ],
+    "category": "List-item",
+    "text": "D. 45°."
+  },
+  {
+    "bbox": [
+      767,
+      566,
+      881,
+      603
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      236,
+      611,
+      1400,
+      674
+    ],
+    "category": "Text",
+    "text": "Góc giữa đường thẳng SB và mặt phẳng (ABCD) là: $\\widehat{SBA}$ và $\\tan(\\widehat{SBA}) = \\sqrt{3} \\Rightarrow \\widehat{SBA} = 60^\\circ$"
+  },
+  {
+    "bbox": [
+      98,
+      681,
+      1050,
+      761
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Tìm hệ số $a, b, c$ để hàm số $y = \\frac{ax+2}{cx+b}$ có đồ thị như hình vẽ"
+  },
+  {
+    "bbox": [
+      600,
+      795,
+      1179,
+      1192
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      236,
+      1198,
+      538,
+      1235
+    ],
+    "category": "List-item",
+    "text": "A. $a = 2, b = 2, c = -1$."
+  },
+  {
+    "bbox": [
+      571,
+      1198,
+      839,
+      1235
+    ],
+    "category": "List-item",
+    "text": "B. $a = 1, b = 2, c = 1$."
+  },
+  {
+    "bbox": [
+      886,
+      1198,
+      1172,
+      1235
+    ],
+    "category": "List-item",
+    "text": "C. $a = 1, b = -2, c = 1$."
+  },
+  {
+    "bbox": [
+      1200,
+      1198,
+      1489,
+      1235
+    ],
+    "category": "List-item",
+    "text": "D. $a = 1, b = 1, c = -1$."
+  },
+  {
+    "bbox": [
+      837,
+      1242,
+      949,
+      1279
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1282,
+      652,
+      1329
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đi qua $(0; -1)$ nên $b = -2$."
+  },
+  {
+    "bbox": [
+      98,
+      1338,
+      631,
+      1385
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đi qua $(-2; 0)$ nên $a = 1$."
+  },
+  {
+    "bbox": [
+      98,
+      1394,
+      522,
+      1431
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng $x = 2$ nên $c = 1$."
+  },
+  {
+    "bbox": [
+      98,
+      1431,
+      1497,
+      1511
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Mẫu số liệu ghép nhóm thống kê mức lương của một công ty (đơn vị: triệu đồng) được cho trong bảng dưới đây"
+  },
+  {
+    "bbox": [
+      221,
+      1508,
+      1499,
+      1629
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm (đơn vị: triệu đồng)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td></td></tr><tr><td>Tần số</td><td>6</td><td>14</td><td>16</td><td>12</td><td>2</td><td>n = 50</td></tr></table>"
+  },
+  {
+    "bbox": [
+      98,
+      1627,
+      1300,
+      1671
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tum phân vị của mẫu số liệu ghép nhóm (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      236,
+      1671,
+      354,
+      1708
+    ],
+    "category": "List-item",
+    "text": "A. 3,15."
+  },
+  {
+    "bbox": [
+      599,
+      1671,
+      713,
+      1708
+    ],
+    "category": "List-item",
+    "text": "B. 3,16."
+  },
+  {
+    "bbox": [
+      897,
+      1671,
+      1018,
+      1708
+    ],
+    "category": "List-item",
+    "text": "C. 3,32."
+  },
+  {
+    "bbox": [
+      1198,
+      1671,
+      1314,
+      1708
+    ],
+    "category": "List-item",
+    "text": "D. 3,34."
+  },
+  {
+    "bbox": [
+      837,
+      1717,
+      949,
+      1754
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      240,
+      1760,
+      552,
+      1877
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 8 + \\frac{\\frac{50}{4} - 6}{14} \\cdot 2 = \\frac{125}{14}\n$$"
+  },
+  {
+    "bbox": [
+      240,
+      1885,
+      598,
+      2002
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 12 + \\frac{3 \\cdot \\frac{50}{4} - 36}{12} \\cdot 2 = \\frac{49}{4}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      2046,
+      1077,
+      2127
+    ],
+    "category": "Text",
+    "text": "Khoảng tum phân vị của mẫu số liệu ghép nhóm: $\\Delta_Q = Q_3 - Q_1 = \\frac{93}{28} \\approx 3,32$"
+  },
+  {
+    "bbox": [
+      98,
+      2134,
+      1466,
+      2181
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Độ dài của vectơ $\\vec{u} = \\overline{A'C'} - \\overline{A'A}$ bằng"
+  }
+]

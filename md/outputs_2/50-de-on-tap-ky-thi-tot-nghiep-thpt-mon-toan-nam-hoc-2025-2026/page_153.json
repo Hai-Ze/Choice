@@ -1,0 +1,599 @@
+[
+  {
+    "bbox": [
+      211,
+      43,
+      1044,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      22,
+      0,
+      221,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      314,
+      161,
+      540,
+      350
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      810,
+      158,
+      1494,
+      205
+    ],
+    "category": "Text",
+    "text": "KỲ THI TỐT NGHIỆP THPT – MÔN TOÁN"
+  },
+  {
+    "bbox": [
+      917,
+      205,
+      1381,
+      274
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ ÔN TẬP SỐ 34"
+  },
+  {
+    "bbox": [
+      792,
+      281,
+      1512,
+      325
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      128,
+      357,
+      1056,
+      396
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh:...................................................................."
+  },
+  {
+    "bbox": [
+      128,
+      403,
+      1056,
+      439
+    ],
+    "category": "Text",
+    "text": "SBD:...................................................................................................."
+  },
+  {
+    "bbox": [
+      827,
+      439,
+      986,
+      482
+    ],
+    "category": "Section-header",
+    "text": "PHẦN ĐỀ"
+  },
+  {
+    "bbox": [
+      64,
+      490,
+      543,
+      534
+    ],
+    "category": "Section-header",
+    "text": "A. Câu hỏi – Trả lời trắc nghiệm"
+  },
+  {
+    "bbox": [
+      115,
+      537,
+      770,
+      581
+    ],
+    "category": "List-item",
+    "text": "» Câu 1. Dãy số nào sau đây là cấp số cộng?"
+  },
+  {
+    "bbox": [
+      252,
+      583,
+      528,
+      634
+    ],
+    "category": "List-item",
+    "text": "A. $(u_n): u_n = 2^n - 1$."
+  },
+  {
+    "bbox": [
+      901,
+      583,
+      1274,
+      634
+    ],
+    "category": "List-item",
+    "text": "B. $(u_n): u_n = 2u_{n-1}, \\forall n \\ge 2$."
+  },
+  {
+    "bbox": [
+      252,
+      660,
+      651,
+      711
+    ],
+    "category": "List-item",
+    "text": "C. $(u_n): u_n = u_{n-1} - 2, \\forall n \\ge 2$."
+  },
+  {
+    "bbox": [
+      901,
+      646,
+      1131,
+      727
+    ],
+    "category": "List-item",
+    "text": "D. $(u_n): u_n = \\frac{1}{n}$."
+  },
+  {
+    "bbox": [
+      115,
+      736,
+      1484,
+      818
+    ],
+    "category": "List-item",
+    "text": "» Câu 2. Cho $F(x)$ là nguyên hàm của hàm số $f(x) = 6x^5 + \\frac{1}{x^3}$ thỏa mãn $F(1) = 0$. Tìm $F(x)$."
+  },
+  {
+    "bbox": [
+      252,
+      825,
+      581,
+      907
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = x^6 - \\frac{1}{2x^2} + \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      901,
+      825,
+      1226,
+      907
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = x^6 - \\frac{1}{2x^2} - \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      252,
+      914,
+      581,
+      996
+    ],
+    "category": "List-item",
+    "text": "C. $F(x) = x^6 + \\frac{1}{2x^2} - \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      901,
+      914,
+      1211,
+      996
+    ],
+    "category": "List-item",
+    "text": "D. $F(x) = x^6 - \\frac{3}{x^2} + 2$."
+  },
+  {
+    "bbox": [
+      115,
+      996,
+      1451,
+      1055
+    ],
+    "category": "List-item",
+    "text": "» Câu 3. Biết $\\int g(x)dx = G(x) + C$ (với $C$ là hằng số). Khi đó khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      252,
+      1061,
+      546,
+      1112
+    ],
+    "category": "List-item",
+    "text": "A. $g'(x) = G(x) + C$."
+  },
+  {
+    "bbox": [
+      587,
+      1061,
+      875,
+      1112
+    ],
+    "category": "List-item",
+    "text": "B. $G'(x) = g(x) - C$."
+  },
+  {
+    "bbox": [
+      901,
+      1061,
+      1140,
+      1112
+    ],
+    "category": "List-item",
+    "text": "C. $g'(x) = G(x)$."
+  },
+  {
+    "bbox": [
+      1216,
+      1061,
+      1458,
+      1112
+    ],
+    "category": "List-item",
+    "text": "D. $G'(x) = g(x)$."
+  },
+  {
+    "bbox": [
+      115,
+      1122,
+      1514,
+      1165
+    ],
+    "category": "List-item",
+    "text": "» Câu 4. Cho bảng phân bố tần số ghép lớp về độ dài của 60 lá dương xỉ trưởng thành như sau"
+  },
+  {
+    "bbox": [
+      427,
+      1163,
+      1302,
+      1273
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Độ dài (cm)</td><td>[10; 20)</td><td>[20; 30)</td><td>[30; 40)</td><td>[40; 50)</td></tr><tr><td>Tần số</td><td>7</td><td>19</td><td>24</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      252,
+      1276,
+      1489,
+      1321
+    ],
+    "category": "Text",
+    "text": "Tính khoảng tức phân vị (làm tròn đến chữ số thập phân thứ nhất) của mẫu số liệu trên?"
+  },
+  {
+    "bbox": [
+      252,
+      1325,
+      373,
+      1362
+    ],
+    "category": "List-item",
+    "text": "A. 13,7."
+  },
+  {
+    "bbox": [
+      587,
+      1325,
+      703,
+      1362
+    ],
+    "category": "List-item",
+    "text": "B. 13,6."
+  },
+  {
+    "bbox": [
+      901,
+      1325,
+      1019,
+      1362
+    ],
+    "category": "List-item",
+    "text": "C. 13,5."
+  },
+  {
+    "bbox": [
+      1216,
+      1325,
+      1336,
+      1362
+    ],
+    "category": "List-item",
+    "text": "D. 13,8."
+  },
+  {
+    "bbox": [
+      115,
+      1370,
+      1562,
+      1482
+    ],
+    "category": "List-item",
+    "text": "» Câu 5. Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (2x-1)(x+1)$. Hàm số $y = f(x)$ có giá trị lớn nhất trên $[-2; 0]$ bằng"
+  },
+  {
+    "bbox": [
+      252,
+      1490,
+      399,
+      1562
+    ],
+    "category": "List-item",
+    "text": "A. $f(-2)$."
+  },
+  {
+    "bbox": [
+      587,
+      1490,
+      749,
+      1582
+    ],
+    "category": "List-item",
+    "text": "B. $f(-\\frac{1}{2})$."
+  },
+  {
+    "bbox": [
+      901,
+      1514,
+      1031,
+      1562
+    ],
+    "category": "List-item",
+    "text": "C. $f(0)$."
+  },
+  {
+    "bbox": [
+      1216,
+      1514,
+      1361,
+      1562
+    ],
+    "category": "List-item",
+    "text": "D. $f(-1)$."
+  },
+  {
+    "bbox": [
+      115,
+      1596,
+      1077,
+      1678
+    ],
+    "category": "List-item",
+    "text": "» Câu 6. Số đường tiệm cận của đồ thị hàm số $y = 2x + 3 + \\frac{1}{x-1}$ là"
+  },
+  {
+    "bbox": [
+      252,
+      1684,
+      329,
+      1721
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      587,
+      1684,
+      662,
+      1721
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      901,
+      1684,
+      968,
+      1721
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1216,
+      1684,
+      1297,
+      1721
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      115,
+      1727,
+      929,
+      1774
+    ],
+    "category": "List-item",
+    "text": "» Câu 7. Cho $\\log_{0,2} x > \\log_{0,2} y$. Chọn khẳng định đúng"
+  },
+  {
+    "bbox": [
+      252,
+      1786,
+      429,
+      1828
+    ],
+    "category": "List-item",
+    "text": "A. $x > y \\ge 0$."
+  },
+  {
+    "bbox": [
+      587,
+      1786,
+      761,
+      1828
+    ],
+    "category": "List-item",
+    "text": "B. $y > x \\ge 0$."
+  },
+  {
+    "bbox": [
+      901,
+      1786,
+      1081,
+      1828
+    ],
+    "category": "List-item",
+    "text": "C. $x > y > 0$."
+  },
+  {
+    "bbox": [
+      1216,
+      1786,
+      1401,
+      1828
+    ],
+    "category": "List-item",
+    "text": "D. $y > x > 0$."
+  },
+  {
+    "bbox": [
+      115,
+      1838,
+      1562,
+      1926
+    ],
+    "category": "List-item",
+    "text": "» Câu 8. Cho hình chóp đều $S.ABCD$ có cạnh đáy $2a$, cạnh bên $4a$. Tính độ dài đường cao hình chóp"
+  },
+  {
+    "bbox": [
+      252,
+      1934,
+      347,
+      1971
+    ],
+    "category": "List-item",
+    "text": "A. $2a$."
+  },
+  {
+    "bbox": [
+      587,
+      1924,
+      714,
+      1971
+    ],
+    "category": "List-item",
+    "text": "B. $a\\sqrt{14}$."
+  },
+  {
+    "bbox": [
+      901,
+      1934,
+      991,
+      1971
+    ],
+    "category": "List-item",
+    "text": "C. $3a$."
+  },
+  {
+    "bbox": [
+      1216,
+      1924,
+      1349,
+      1971
+    ],
+    "category": "List-item",
+    "text": "D. $a\\sqrt{15}$."
+  },
+  {
+    "bbox": [
+      115,
+      1981,
+      1562,
+      2093
+    ],
+    "category": "List-item",
+    "text": "» Câu 9. Trong không gian $Oxyz$, phương trình mặt phẳng là $(P)$ đi qua điểm $A(2;1;-3)$, đồng thời vuông góc với hai mặt phẳng $(Q): x + y + 3z = 0, (R): 2x - y + z = 0$ là"
+  },
+  {
+    "bbox": [
+      252,
+      2105,
+      565,
+      2145
+    ],
+    "category": "List-item",
+    "text": "A. $4x - 5y - 3z - 8 = 0$."
+  },
+  {
+    "bbox": [
+      901,
+      2105,
+      1211,
+      2145
+    ],
+    "category": "List-item",
+    "text": "B. $4x + 5y - 3z - 4 = 0$."
+  },
+  {
+    "bbox": [
+      252,
+      2155,
+      581,
+      2197
+    ],
+    "category": "List-item",
+    "text": "C. $4x + 5y - 3z - 22 = 0$."
+  },
+  {
+    "bbox": [
+      901,
+      2155,
+      1232,
+      2197
+    ],
+    "category": "List-item",
+    "text": "D. $4x - 5y - 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      115,
+      2248,
+      615,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1314,
+      2253,
+      1473,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 152"
+  },
+  {
+    "bbox": [
+      1482,
+      2163,
+      1646,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

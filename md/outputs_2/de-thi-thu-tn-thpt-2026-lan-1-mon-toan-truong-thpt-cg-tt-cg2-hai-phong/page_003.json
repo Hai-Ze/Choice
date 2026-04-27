@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      152,
+      114,
+      1493,
+      211
+    ],
+    "category": "Text",
+    "text": "**Phần II. Trắc nghiệm đúng, sai.** Thí sinh trả lời từ câu 1 đến câu 4. Mối ý a), b), c), d) của mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      152,
+      211,
+      1488,
+      302
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Kết quả khảo sát môn Toán của 40 học sinh lớp 12A được thống kê trong bảng ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      232,
+      311,
+      1451,
+      421
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[4;5)</td><td>[5;6)</td><td>[6;7)</td><td>[8;9)</td><td>[9;10)</td></tr><tr><td>Số học sinh</td><td>4</td><td>7</td><td>14</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      430,
+      796,
+      478
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên của mẫu số liệu là 6."
+  },
+  {
+    "bbox": [
+      180,
+      487,
+      831,
+      572
+    ],
+    "category": "Text",
+    "text": "b) Khoảng tức phân vị của mẫu số liệu là $\\frac{35}{14}$."
+  },
+  {
+    "bbox": [
+      180,
+      578,
+      859,
+      626
+    ],
+    "category": "Text",
+    "text": "c) Độ lệch chuẩn của mẫu số liệu nhỏ hơn 1,6."
+  },
+  {
+    "bbox": [
+      152,
+      632,
+      1526,
+      775
+    ],
+    "category": "Text",
+    "text": "d) Chọn ngẫu nhiên 5 học sinh trong lớp. Xác suất để trong 5 học sinh đó có đúng 2 học sinh có điểm thuộc nhóm chứa trung vị bằng $\\frac{2275}{6327}$."
+  },
+  {
+    "bbox": [
+      152,
+      796,
+      1513,
+      935
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = ax + b + \\frac{c}{x+d}$ có đồ thị như hình vẽ. Tâm đối xứng của đồ thị hàm số là điểm $(0;-1)$ và đường tiệm cận xiên của đồ thị hàm số đi qua $(1;0)$."
+  },
+  {
+    "bbox": [
+      152,
+      943,
+      553,
+      990
+    ],
+    "category": "Text",
+    "text": "a) Hàm số không có cực trị"
+  },
+  {
+    "bbox": [
+      152,
+      990,
+      852,
+      1038
+    ],
+    "category": "Text",
+    "text": "b) Tiệm cận đứng của đồ thị hàm số là trục $Oy$."
+  },
+  {
+    "bbox": [
+      152,
+      1043,
+      926,
+      1140
+    ],
+    "category": "Text",
+    "text": "c) Đường tiệm cận xiên của đồ thị hàm số có phương trình $y = 2x + 1$"
+  },
+  {
+    "bbox": [
+      152,
+      1146,
+      923,
+      1303
+    ],
+    "category": "Text",
+    "text": "d) Trên đồ thị hàm số tồn tại đúng hai điểm có khoảng cách lớn hơn $3\\sqrt{2}$ đồng thời có tọa độ là các số nguyên."
+  },
+  {
+    "bbox": [
+      948,
+      952,
+      1490,
+      1480
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1454,
+      794,
+      1541
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = \\frac{2}{x+1} + \\ln(x+1)$"
+  },
+  {
+    "bbox": [
+      180,
+      1548,
+      742,
+      1600
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có tập xác định là $\\mathbb{R} \\setminus \\{-1\\}$."
+  },
+  {
+    "bbox": [
+      180,
+      1616,
+      576,
+      1717
+    ],
+    "category": "Text",
+    "text": "b) $f'(x) = \\frac{2}{(x+1)^2} + \\frac{1}{x+1}$."
+  },
+  {
+    "bbox": [
+      180,
+      1730,
+      627,
+      1779
+    ],
+    "category": "Text",
+    "text": "c) $f'(x) = 0$ có nghiệm $x = 1$."
+  },
+  {
+    "bbox": [
+      180,
+      1789,
+      871,
+      1842
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ là $1 + \\ln 2$."
+  },
+  {
+    "bbox": [
+      152,
+      1850,
+      1533,
+      2112
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tัng 1 của toà nhà ở một trung tâm triển lãm có dạng hình chóp cụt đều $ABCD.MNPQ$ được mô hình hóa trong không gian tọa độ $Oxyz$ với đơn vị trên các trục là 10 mét (như hình vẽ). Biết $AB = 80\\text{ m}$; $MN = 60\\text{ m}$ và chiều cao của tัng 1 toà nhà là $20\\text{ m}$. Ở các vị trí $H, K$ trên các đoạn thẳng $MD, BN$ người ta nắp các bóngpen cao áp có khoảng cách đến mặt sàn bằng $15\\text{ m}$."
+  },
+  {
+    "bbox": [
+      152,
+      2228,
+      326,
+      2268
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1011"
+  },
+  {
+    "bbox": [
+      1389,
+      2233,
+      1533,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

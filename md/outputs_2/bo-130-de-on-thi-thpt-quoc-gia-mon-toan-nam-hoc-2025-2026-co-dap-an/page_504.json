@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      121,
+      1369,
+      164
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian $Oxyz$, cho hai điểm $A(1; 2; 3)$, $B(-2; 1; 1)$."
+  },
+  {
+    "bbox": [
+      478,
+      188,
+      1248,
+      262
+    ],
+    "category": "Text",
+    "text": "a) Diểm $I\\left(-\\frac{1}{2}; \\frac{3}{2}; 2\\right)$ là trung điểm của đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      478,
+      264,
+      638,
+      301
+    ],
+    "category": "Text",
+    "text": "b) $AB = 4$."
+  },
+  {
+    "bbox": [
+      478,
+      301,
+      1549,
+      419
+    ],
+    "category": "Text",
+    "text": "c) Phương trình mặt cầu đường kính $AB$ là $(S) : \\left(x + \\frac{1}{2}\\right)^2 + \\left(y - \\frac{3}{2}\\right)^2 + (z - 2)^2 = 14$."
+  },
+  {
+    "bbox": [
+      478,
+      419,
+      1549,
+      505
+    ],
+    "category": "Text",
+    "text": "d) Xét các điểm $M$ thuộc mặt phẳng ($Oxz$) thỏa mãn $\\widehat{AMB} = 90^\\circ$. Giá trị nhỏ nhất của đoạn $OM$ không vượt quá 1."
+  },
+  {
+    "bbox": [
+      448,
+      580,
+      1419,
+      621
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Vật thể chuyển động trong 10 phút với vận tốc là giá trị hàm số"
+  },
+  {
+    "bbox": [
+      448,
+      618,
+      1553,
+      746
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = \\begin{cases} at^2 + bt + c & (0 \\le t \\le 6) \\\\ m & (6 < t \\le 10) \\end{cases} \\quad (\\text{đơn vị: m/phút}), \\text{ phụ thuộc vào thời gian } t \\quad (\\text{đơn vị: phút}). \\text{ Đồ thị của hàm số vận tốc như hình vẽ sau.}\n$$"
+  },
+  {
+    "bbox": [
+      761,
+      911,
+      1242,
+      1302
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      478,
+      1451,
+      1548,
+      1490
+    ],
+    "category": "Text",
+    "text": "a) Trong khoảng từ phút thứ 6 đến phút thứ 10, vận tốc vật thể không thay đổi."
+  },
+  {
+    "bbox": [
+      478,
+      1492,
+      1407,
+      1610
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường đi được của vật thể sau 6 phút đầu tiên là $\\int_{0}^{6} v(t)dt$."
+  },
+  {
+    "bbox": [
+      478,
+      1610,
+      698,
+      1646
+    ],
+    "category": "Text",
+    "text": "c) $5a + b = 20$."
+  },
+  {
+    "bbox": [
+      478,
+      1648,
+      1478,
+      1688
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường đi được của vật thể sau 10 phút đầu tiên là 8160 m."
+  },
+  {
+    "bbox": [
+      464,
+      1763,
+      1246,
+      1817
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1853,
+      1553,
+      2009
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật cạnh $AB = 1$, $AD = \\sqrt{3}$. Cạnh bên $SA = \\frac{\\sqrt{3}}{2}$ và vuông góc với đáy. Số đo góc phẳng noise diện $[S, BD, C]$ là $a^\\circ$. Tìm giá trị của $a$."
+  },
+  {
+    "bbox": [
+      1333,
+      1966,
+      1553,
+      2018
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      2091,
+      1553,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Người ta làm một sân khấu có hình dạng hai hình tròn giao nhau như hình vẽ. Bán kính của hai hình tròn lần lượt là 30 m và 40 m. Khoảng cách giữa tâm hai hình tròn là 50 m. Tính diện tích phần giao nhau của hai hình tròn theo $m^2$ (làm tròn kết quả đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "502 Bùi Tịnh Minh Lâm"
+  }
+]

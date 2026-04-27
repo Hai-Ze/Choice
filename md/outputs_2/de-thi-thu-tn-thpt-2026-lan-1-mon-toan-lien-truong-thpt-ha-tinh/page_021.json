@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      253,
+      81,
+      751,
+      128
+    ],
+    "category": "Text",
+    "text": "Xác suất là $P(BB) = 0,4 \\cdot 0,4 = 0,16$."
+  },
+  {
+    "bbox": [
+      253,
+      135,
+      1629,
+      225
+    ],
+    "category": "Text",
+    "text": "c) Sai: Ta có vận động viên đó đạt 19 điểm thì cả hai lần bắn phải là lần 1 trúng bắn trúng vòng 10 và lần 2 bắn trúng vòng 9 hoặc lần 1 trúng bắn trúng vòng 9 và lần 2 bắn trúng vòng 10."
+  },
+  {
+    "bbox": [
+      253,
+      230,
+      961,
+      278
+    ],
+    "category": "Text",
+    "text": "Xác suất là $P(AB \\cup BA) = 0,3 \\cdot 0,4 + 0,4 \\cdot 0,3 = 0,24$."
+  },
+  {
+    "bbox": [
+      253,
+      286,
+      1200,
+      332
+    ],
+    "category": "Text",
+    "text": "d) Đúng: Ta có vận động viên đó có số điểm lớn hơn 17 thì xác suất là"
+  },
+  {
+    "bbox": [
+      253,
+      338,
+      1125,
+      437
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(AA \\cup AB \\cup BA \\cup BB \\cup AC \\cup CA) \\\\\n&= 0,3 \\cdot 0,3 + 0,3 \\cdot 0,4 + 0,4 \\cdot 0,3 + 0,4 \\cdot 0,4 + 0,3 \\cdot 0,5 + 0,5 \\cdot 0,3 = 0,79.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      482,
+      1627,
+      641
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một bể chứa dầu ban đầu có 40000 lít dầu. Gọi $V(t)$ là thể tích dầu (lít) trong bể tại thời điểm $t$, trong đó $t$ tính theo giờ $(0 \\le t \\le 24)$. Trong quá trình bơm dầu vào bể, thể tích dầu tăng theo tốc độ được biểu diễn bởi hàm số $V'(t) = k \\cdot \\sqrt{t}$, với $k$ là hằng số dương. Sau 4 giờ bơm liên tục, thể tích dầu trong bể đạt 48000 lít."
+  },
+  {
+    "bbox": [
+      253,
+      645,
+      1072,
+      700
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $V(t)$ là một nguyên hàm của hàm số $f(t) = k \\cdot \\sqrt{t}$."
+  },
+  {
+    "bbox": [
+      253,
+      734,
+      1078,
+      815
+    ],
+    "category": "Text",
+    "text": "b) $V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + 40000$ với $0 \\le t \\le 24$ và $k$ là các hằng số."
+  },
+  {
+    "bbox": [
+      253,
+      831,
+      1193,
+      877
+    ],
+    "category": "Text",
+    "text": "c) Sau 16 giờ bơm liên tục, thể tích dầu trong bể đạt được 140000 lít."
+  },
+  {
+    "bbox": [
+      253,
+      890,
+      1629,
+      994
+    ],
+    "category": "Text",
+    "text": "d) Trong quá trình bơm dầu, nếu sau mỗi giờ lượng dầu bị rò rỉ đều đặn với tốc độ 300 lít/giờ, thì tại thời điểm $t$ bằng 16 giờ, thể tích dầu trong bể là 99200 lít."
+  },
+  {
+    "bbox": [
+      884,
+      1014,
+      1000,
+      1052
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      1065,
+      373,
+      1103
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      253,
+      1108,
+      373,
+      1147
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      253,
+      1153,
+      1005,
+      1323
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nV(t) &= \\int k \\cdot \\sqrt{t} dt = \\frac{2k}{3} \\cdot t\\sqrt{t} + C \\\\\nV(0) &= 40000 \\Rightarrow C = 40000 \\Rightarrow V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + 40000\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      253,
+      1332,
+      337,
+      1368
+    ],
+    "category": "Text",
+    "text": "c) Sai"
+  },
+  {
+    "bbox": [
+      253,
+      1376,
+      1228,
+      1504
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nV(4) &= \\frac{2k}{3} \\cdot 4\\sqrt{4} + 40000 = 48000 \\Rightarrow k = 1500 \\Rightarrow V(t) = 1000t\\sqrt{t} + 40000 \\\\\nV(16) &= 104000\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      253,
+      1516,
+      373,
+      1554
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      253,
+      1554,
+      1135,
+      1599
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm 16 giờ lượng dầu còn lại là $V(16) - 300 \\cdot 16 = 99200$"
+  },
+  {
+    "bbox": [
+      114,
+      1645,
+      1629,
+      1861
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ toạ độ $Oxyz$ (đơn vị trên các trục là km) mặt đất được coi là mặt phẳng $(Oxy)$.\nTại gần sân bay có một máy bay dân dụng đang thực hiện quá trình hạ carnh bắt đầu từ vị trí điểm $A(38; -16; 6)$ và bay thẳng đến vị trí điểm $B(-2; 4; 1)$ gần đường băng. máy bay duy trì hướng bay và tốc độ không đổi 270 km/h trong suốt quá trình hạ carnh."
+  },
+  {
+    "bbox": [
+      154,
+      1881,
+      961,
+      1930
+    ],
+    "category": "Text",
+    "text": "a)úp $M(20; -6; 3,5)$ là trung điểm của đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      154,
+      1957,
+      460,
+      2008
+    ],
+    "category": "Text",
+    "text": "b) $\\overrightarrow{AB} = (-40; 20; -5)$."
+  },
+  {
+    "bbox": [
+      154,
+      2030,
+      1130,
+      2077
+    ],
+    "category": "Text",
+    "text": "c) Thời gian máy bay bay từ vị trí điểm $A$ đến vị trí điểm $B$ là 15 phút."
+  }
+]

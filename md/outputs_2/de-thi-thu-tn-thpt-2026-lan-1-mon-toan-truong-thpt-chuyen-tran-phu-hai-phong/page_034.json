@@ -1,0 +1,52 @@
+[
+  {
+    "bbox": [
+      251,
+      122,
+      1255,
+      214
+    ],
+    "category": "Text",
+    "text": "Sử dụng biến đổi: $a^4 - \\frac{1}{2}a + \\frac{3}{16} = \\left(a - \\frac{1}{2}\\right)^2 \\left(a^2 + a + \\frac{3}{4}\\right) \\ge 0 \\Rightarrow \\frac{a}{2} - \\frac{3}{16} \\le a^4$."
+  },
+  {
+    "bbox": [
+      251,
+      225,
+      967,
+      313
+    ],
+    "category": "Text",
+    "text": "Vì $c < 1$ nên $6\\log_c\\left(\\frac{a}{2} - \\frac{3}{16}\\right) \\ge 6\\log_c(a^4) = 24\\log_c a$."
+  },
+  {
+    "bbox": [
+      251,
+      323,
+      1129,
+      371
+    ],
+    "category": "Text",
+    "text": "+ 共有 3 先列等式 ta được: $P \\ge 12\\log_a b + 6\\log_b c + 24\\log_c a$"
+  },
+  {
+    "bbox": [
+      251,
+      382,
+      1510,
+      492
+    ],
+    "category": "Text",
+    "text": "Ta có $P \\ge 3\\sqrt[3]{12 \\cdot 6 \\cdot 24 \\cdot (\\log_a b \\cdot \\log_b c \\cdot \\log_c a)} \\ge 3\\sqrt[3]{1728 \\cdot 1} = 36$. Vậy $MinP = 36$ khi và chỉ khi $b = 1/2, c = 1/4, a = 1/2$."
+  },
+  {
+    "bbox": [
+      684,
+      545,
+      1064,
+      585
+    ],
+    "category": "Text",
+    "text": "------------------ Hết ------------------"
+  }
+]

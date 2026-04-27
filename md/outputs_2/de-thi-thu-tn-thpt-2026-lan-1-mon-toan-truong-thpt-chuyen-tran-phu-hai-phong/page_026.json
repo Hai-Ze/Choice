@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      435,
+      115,
+      1225,
+      669
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      676,
+      700,
+      722
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ điểm $D$ là $(0;0;227)$."
+  },
+  {
+    "bbox": [
+      252,
+      738,
+      826,
+      787
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ của vecto $\\overline{AD}$ là $(0;-343;152)$."
+  },
+  {
+    "bbox": [
+      252,
+      797,
+      1255,
+      842
+    ],
+    "category": "Text",
+    "text": "c) Độ dài dây cáp $AD$ là $375,17$ m *(kết quả làm tròn đến hàng phần trăm)*."
+  },
+  {
+    "bbox": [
+      252,
+      844,
+      1501,
+      1028
+    ],
+    "category": "Text",
+    "text": "d) Người ta dùng một đoạn đèn led trang trí nối thẳng từ điểm $N$ trên dây cáp $AD$ đến điểm $M$ trên thành cầu, biết $M$ cách mặt nước $75$ m, cách trục $Oz$ một khoảng bằng $230$ m và $MN$ song song với cột trụ. Độ dài đoạn đèn led cần dùng là $55,08$ m *(kết quả làm tròn đến hàng phần trăm)*."
+  },
+  {
+    "bbox": [
+      836,
+      1034,
+      950,
+      1071
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1100,
+      1487,
+      1247
+    ],
+    "category": "Text",
+    "text": "Thiết lập hệ trục tọa độ $Oxyz$ như hình vẽ, với gốc $O$ nằm ở chân cột trụ tại mặt nước, trục $Oz$ trùng với cột trụ, mặt phẳng $Oxy$ là mặt nước và trục $Oy$ cùng phương với cầu. Đơn vị trên hệ trục tọa độ là mét."
+  },
+  {
+    "bbox": [
+      252,
+      1278,
+      369,
+      1316
+    ],
+    "category": "Section-header",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      1346,
+      1380,
+      1389
+    ],
+    "category": "Text",
+    "text": "Điểm $D$ thuộc trục $Oz$ và cách mặt nước $227$ m. Do đó, $D$ có tọa độ là $(0;0;227)$."
+  },
+  {
+    "bbox": [
+      252,
+      1426,
+      371,
+      1463
+    ],
+    "category": "Section-header",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      1495,
+      1119,
+      1540
+    ],
+    "category": "Text",
+    "text": "Điểm $A$ thuộc mặt phẳng $(Oyz)$ nên hoành độ của $A$ là $x_A = 0$."
+  },
+  {
+    "bbox": [
+      252,
+      1577,
+      950,
+      1622
+    ],
+    "category": "Text",
+    "text": "Điểm $A$ cách mặt nước $75$ m nên tung độ $z_A = 75$."
+  },
+  {
+    "bbox": [
+      252,
+      1658,
+      1490,
+      1810
+    ],
+    "category": "Text",
+    "text": "Điểm $A$ cách trục $Oz$ một khoảng $343$ m. Khoảng cách từ một điểm trên mặt phẳng $(Oyz)$ đến trục $Oz$ chính là giá trị tuyệt đối của tung độ $y$. Từ hình vẽ, điểm $A$ nằm ở phía dương của trục $Oy$, nên $y_A = 343$."
+  },
+  {
+    "bbox": [
+      252,
+      1846,
+      716,
+      1888
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ điểm $A$ là $(0;343;75)$."
+  },
+  {
+    "bbox": [
+      252,
+      1928,
+      1232,
+      1973
+    ],
+    "category": "Text",
+    "text": "Tọa độ của vector $\\overline{AD}$ là: $\\overline{AD} = (0-0;0-343;227-75) = (0;-343;152)$."
+  },
+  {
+    "bbox": [
+      252,
+      2011,
+      367,
+      2048
+    ],
+    "category": "Section-header",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      2080,
+      1239,
+      2132
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài } AD = |\\overline{AD}| = \\sqrt{0^2 + (-343)^2 + 152^2} = \\sqrt{117649 + 23104} \\approx 375.1706\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      2167,
+      997,
+      2210
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm, ta được $AD \\approx 375.17$ m."
+  }
+]

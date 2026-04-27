@@ -1,0 +1,452 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      218,
+      110,
+      1490,
+      245
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao (cm)</td><td>[155;160)</td><td>[160;165)</td><td>[165;170)</td><td>[170;175)</td><td>[175;180)</td><td>[180;185)</td></tr><tr><td>Số học sinh</td><td>6</td><td>8</td><td>10</td><td>4</td><td>1</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      250,
+      712,
+      293
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu là"
+  },
+  {
+    "bbox": [
+      213,
+      295,
+      287,
+      328
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      547,
+      295,
+      642,
+      328
+    ],
+    "category": "List-item",
+    "text": "B. 20."
+  },
+  {
+    "bbox": [
+      861,
+      295,
+      955,
+      329
+    ],
+    "category": "List-item",
+    "text": "C. 30."
+  },
+  {
+    "bbox": [
+      1177,
+      295,
+      1268,
+      328
+    ],
+    "category": "List-item",
+    "text": "D. 15."
+  },
+  {
+    "bbox": [
+      836,
+      333,
+      951,
+      371
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      367,
+      1575,
+      449
+    ],
+    "category": "Text",
+    "text": "Vì mẫu số liệu có nhóm đầu tiên và nhóm cuối cùng đều có tần số lớn hơn 0 nên khoảng biến thiên của mẫu số liệu là: $185 - 155 = 30$."
+  },
+  {
+    "bbox": [
+      74,
+      447,
+      1575,
+      528
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Một nhóm có 5 học sinh, trong đó có 3 học sinh nữ. Chọn ngẫu nhiên 2 học sinh để tham gia 1 cuộc khảo sát. Tính xác suất để 2 học sinh được chọn đều là học sinh nữ."
+  },
+  {
+    "bbox": [
+      213,
+      531,
+      307,
+      611
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      547,
+      531,
+      647,
+      611
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3}{11}$."
+  },
+  {
+    "bbox": [
+      861,
+      531,
+      963,
+      611
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{3}{20}$."
+  },
+  {
+    "bbox": [
+      1177,
+      531,
+      1259,
+      611
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      836,
+      617,
+      951,
+      655
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      655,
+      327,
+      693
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      213,
+      693,
+      718,
+      732
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “2 học sinh được chọn là nữ”."
+  },
+  {
+    "bbox": [
+      213,
+      732,
+      937,
+      780
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 2 trong 5 học sinh là: $n(\\Omega) = C_5^2$ (cách)."
+  },
+  {
+    "bbox": [
+      213,
+      786,
+      974,
+      836
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 2 trong 3 học sinh nữ là: $n(A) = C_3^2$ (cách)."
+  },
+  {
+    "bbox": [
+      213,
+      845,
+      1311,
+      942
+    ],
+    "category": "Text",
+    "text": "Xác suất để 2 học sinh được chọn đều là học sinh nữ là: $P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{C_3^2}{C_5^2} = \\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      74,
+      948,
+      798,
+      996
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Tìm họ nguyên hàm của hàm số $f(x) = 5^x$"
+  },
+  {
+    "bbox": [
+      213,
+      1007,
+      552,
+      1094
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x) dx = \\frac{5^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      861,
+      1007,
+      1188,
+      1094
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f(x) dx = \\frac{5^x}{\\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      213,
+      1096,
+      566,
+      1156
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x) dx = 5^x \\ln 5 + C$."
+  },
+  {
+    "bbox": [
+      861,
+      1096,
+      1164,
+      1156
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f(x) dx = 5^x + C$."
+  },
+  {
+    "bbox": [
+      767,
+      1160,
+      882,
+      1199
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1205,
+      612,
+      1288
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int f(x) dx = \\int 5^x dx = \\frac{5^x}{\\ln 5} + C.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1297,
+      738,
+      1376
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Nghiệm của phương trình $\\cos x = \\frac{1}{2}$ là"
+  },
+  {
+    "bbox": [
+      213,
+      1385,
+      685,
+      1457
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{3} + k\\pi, x = \\frac{-\\pi}{3} + k\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      861,
+      1385,
+      1364,
+      1457
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{\\pi}{3} + k2\\pi, x = \\frac{-\\pi}{3} + k2\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      213,
+      1466,
+      712,
+      1544
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\frac{2\\pi}{3} + k2\\pi, x = \\frac{\\pi}{3} + k2\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      861,
+      1466,
+      1398,
+      1544
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{-2\\pi}{3} + k2\\pi, x = \\frac{2\\pi}{3} + k2\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      856,
+      1550,
+      968,
+      1588
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1588,
+      937,
+      1758
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\cos x = \\frac{1}{2} \\Leftrightarrow \\cos x = \\frac{\\pi}{3} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{3} + k2\\pi \\\\ x = \\frac{-\\pi}{3} + k2\\pi \\end{cases} (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1773,
+      1072,
+      1847
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm phương trình là: $x = \\frac{\\pi}{3} + k2\\pi, x = \\frac{-\\pi}{3} + k2\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      74,
+      1859,
+      1575,
+      1978
+    ],
+    "category": "List-item",
+    "text": "**Câu 7.** Tính diện tích hình phẳng (H) giới hạn bởi đồ thị hàm số $y = \\cos x$, hai đường thẳng $x = 0$; $x = \\frac{\\pi}{2}$ và trục hoành."
+  },
+  {
+    "bbox": [
+      213,
+      1980,
+      315,
+      2015
+    ],
+    "category": "List-item",
+    "text": "A. $2\\pi$."
+  },
+  {
+    "bbox": [
+      547,
+      1980,
+      633,
+      2015
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      861,
+      1980,
+      945,
+      2015
+    ],
+    "category": "List-item",
+    "text": "C. $\\pi$."
+  },
+  {
+    "bbox": [
+      1177,
+      1980,
+      1246,
+      2015
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      836,
+      2021,
+      951,
+      2059
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2061,
+      935,
+      2182
+    ],
+    "category": "Formula",
+    "text": "$$\nS(H) = \\int_{a}^{b} |f(x)| dx = \\int_{0}^{\\frac{\\pi}{2}} |\\cos x| dx = \\sin\\left(\\frac{\\pi}{2}\\right) - \\sin(0) = 1.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

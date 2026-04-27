@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      363,
+      117,
+      1421,
+      273
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[20; 25)</td><td>[25; 30)</td><td>[30; 35)</td><td>[35; 40)</td><td>[40; 45)</td></tr><tr><td>Giá trị đại diện</td><td>45/2</td><td>55/2</td><td>65/2</td><td>75/2</td><td>85/2</td></tr><tr><td>Số ngày</td><td>6</td><td>6</td><td>4</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      314,
+      1514,
+      446
+    ],
+    "category": "Text",
+    "text": "Ta có giá trị trung bình của mẫu số liệu: $\\bar{x} = \\frac{1}{18} \\left( 6 \\times \\frac{45}{2} + 6 \\times \\frac{55}{2} + 4 \\times \\frac{65}{2} + 1 \\times \\frac{75}{2} + 1 \\times \\frac{85}{2} \\right) = \\frac{85}{3}$;\nĐộ lệch chuẩn của mẫu số liệu là:"
+  },
+  {
+    "bbox": [
+      255,
+      448,
+      1588,
+      605
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\sqrt{\\frac{1}{18} \\left( \\left( 22,5 - \\frac{85}{3} \\right)^2 \\times 6 + \\left( 27,5 - \\frac{85}{3} \\right)^2 \\times 6 + \\left( 32,5 - \\frac{85}{3} \\right)^2 \\times 4 + \\left( 37,5 - \\frac{85}{3} \\right)^2 \\times 1 + \\left( 42,5 - \\frac{85}{3} \\right)^2 \\times 1 \\right)} \\\\ \\approx 5,6.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      612,
+      1496,
+      718
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Xét hình phẳng $(H)$ giới hạn bởi đồ thị các hàm số $y = x^2 - 4x + 4$, trục tung, trục hoành và đường thẳng $x = 3$. Tính thể tích khối tròn xoay khi quay hình $(H)$ quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      251,
+      728,
+      343,
+      782
+    ],
+    "category": "List-item",
+    "text": "A. 33."
+  },
+  {
+    "bbox": [
+      563,
+      728,
+      661,
+      806
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{33}{5}$."
+  },
+  {
+    "bbox": [
+      826,
+      728,
+      946,
+      806
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{33\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      1175,
+      748,
+      1288,
+      782
+    ],
+    "category": "List-item",
+    "text": "D. $33\\pi$."
+  },
+  {
+    "bbox": [
+      835,
+      813,
+      950,
+      850
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      850,
+      1534,
+      1009
+    ],
+    "category": "Text",
+    "text": "Hình phẳng $(H)$ giới hạn bởi đồ thị các hàm số $y = x^2 - 4x + 4$, trục tung, trục hoành và đường thẳng $x = 3$ khi quay quanh trục $Ox$ có thể tích bằng $V = \\pi \\int_{0}^{3} (x^2 - 4x + 4)^2 dx = \\frac{33}{5} \\pi$."
+  },
+  {
+    "bbox": [
+      114,
+      1015,
+      1481,
+      1099
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng (Đ) hoặc sai (S)"
+  },
+  {
+    "bbox": [
+      114,
+      1097,
+      1468,
+      1241
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Vận tốc $v(t)$ (tính bằng centimet / giây) của một con lắc đơn theo thời gian $t$ được cho bởi công thức: $v(t) = 2 \\sin \\left( 2t + \\frac{\\pi}{6} \\right)$. Xét tính đúng sai của các мыnh đề sau:"
+  },
+  {
+    "bbox": [
+      251,
+      1247,
+      1041,
+      1296
+    ],
+    "category": "Text",
+    "text": "a) Tại thời điểm $t = 0$, vận tốc của con lắc đơn là $v(0) = 1$."
+  },
+  {
+    "bbox": [
+      251,
+      1304,
+      893,
+      1393
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của $v(t)$ là $v'(t) = -4 \\cos \\left( 2t + \\frac{\\pi}{6} \\right)$"
+  },
+  {
+    "bbox": [
+      251,
+      1399,
+      1189,
+      1489
+    ],
+    "category": "Text",
+    "text": "c) Phương trình $v'(t) = 0$ có nghiệm duy nhất trên đoạn $\\left[ 0; \\frac{\\pi}{2} \\right]$ là $\\frac{\\pi}{6}$"
+  },
+  {
+    "bbox": [
+      251,
+      1491,
+      1395,
+      1536
+    ],
+    "category": "Text",
+    "text": "d) Trong khoảng thời gian từ 0 đến 10 giây, con lắc đơn có 4 lần đạt vận tốc lớn nhất."
+  },
+  {
+    "bbox": [
+      558,
+      1602,
+      1043,
+      2045
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      835,
+      2054,
+      950,
+      2091
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      2091,
+      383,
+      2129
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  }
+]

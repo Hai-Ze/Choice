@@ -1,0 +1,142 @@
+[
+  {
+    "bbox": [
+      203,
+      142,
+      549,
+      181
+    ],
+    "category": "Text",
+    "text": "Diện tích của đáy lớn là"
+  },
+  {
+    "bbox": [
+      695,
+      188,
+      1004,
+      274
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = a^2 = \\left(10 + \\frac{h}{4}\\right)^2\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      295,
+      549,
+      336
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích chóp cụt là"
+  },
+  {
+    "bbox": [
+      390,
+      344,
+      1305,
+      821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\nV_{\\text{chop cut}} &= \\frac{1}{3}h \\left( 100 + \\sqrt{100 \\cdot \\left(10 + \\frac{h}{4}\\right)^2 + \\left(10 + \\frac{h}{4}\\right)^2} \\right) \\\\\n&= \\frac{1}{3}h \\left( 100 + 10 \\cdot \\left(10 + \\frac{h}{4}\\right) + 100 + 2 \\cdot 10 \\cdot \\frac{h}{4} + \\left(\\frac{h}{4}\\right)^2 \\right) \\\\\n&= \\frac{1}{3}h \\left( 200 + 100 + \\frac{5h}{2} + 5h + \\frac{h^2}{16} \\right) \\\\\n&= \\frac{1}{3}h \\left( 300 + \\frac{15h}{2} + \\frac{h^2}{16} \\right) \\\\\n&= 100h + \\frac{5h^2}{2} + \\frac{h^3}{48}\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      821,
+      1546,
+      951
+    ],
+    "category": "Text",
+    "text": "Cách 2: Quan sát bể nước, ta thấy nước trong bể giới hạn bởi hai mặt phẳng $x = 0$; $x = h$ và có thiết diện (được cắt theo mặt cắt ngang) là hình vuông cạnh $a$ nên có thể tích là $V = \\int_{0}^{h} a^2 dx$."
+  },
+  {
+    "bbox": [
+      154,
+      967,
+      1544,
+      1051
+    ],
+    "category": "Text",
+    "text": "Lặp lại cách tính như cách 1, ta thu được độ dài cạnh đáy lớn của chóp cụt là $a = 10 + \\frac{x}{4}$ (cm) với $x$ là chiều cao của nước trong bể."
+  },
+  {
+    "bbox": [
+      203,
+      1070,
+      566,
+      1112
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích vật thể là"
+  },
+  {
+    "bbox": [
+      592,
+      1123,
+      1106,
+      1803
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\nV &= \\int_{0}^{h} \\left(10 + \\frac{x}{4}\\right)^2 dx \\\\\n&= \\int_{0}^{h} \\left[100 + 2 \\cdot 10 \\cdot \\frac{x}{4} + \\left(\\frac{x}{4}\\right)^2\\right] dx \\\\\n&= \\int_{0}^{h} \\left(100 + 5x + \\frac{x^2}{16}\\right) dx \\\\\n&= \\left(100x + \\frac{5x^2}{2} + \\frac{x^3}{3 \\cdot 16}\\right) \\Big|_{0}^{h} \\\\\n&= \\left(100x + \\frac{5x^2}{2} + \\frac{h^3}{48}\\right) \\Big|_{0}^{h} \\\\\n&= 100h + \\frac{5h^2}{2} + \\frac{h^3}{48}.\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1821,
+      1226,
+      1867
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích nước có trong bể tại thời điểm $t$ là $V = V_{\\text{chóp cụt}} - V_{\\text{chôm}}$"
+  },
+  {
+    "bbox": [
+      602,
+      1875,
+      1102,
+      2049
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\n&= 100h + \\frac{5h^2}{2} + \\frac{h^3}{48} - \\pi h^2 \\left(4 - \\frac{h}{3}\\right) \\\\\n&= 100h + \\frac{5h^2}{2} + \\frac{h^3}{48} - 4\\pi h^2 + \\frac{\\pi h^3}{3}.\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2063,
+      298,
+      2100
+    ],
+    "category": "Text",
+    "text": "Suy ra"
+  },
+  {
+    "bbox": [
+      506,
+      2108,
+      1190,
+      2191
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(h) = 100 + \\frac{5 \\cdot 2h}{2} + \\frac{3 \\cdot h^2}{48} - 4\\pi \\cdot 2h + \\frac{\\pi \\cdot 3h^2}{3}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1544,
+      2251,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "107"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      252,
+      80,
+      463,
+      120
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,67."
+  },
+  {
+    "bbox": [
+      611,
+      195,
+      1270,
+      802
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      836,
+      525,
+      874
+    ],
+    "category": "Text",
+    "text": "Gọi $O = AC \\cap BD$."
+  },
+  {
+    "bbox": [
+      252,
+      872,
+      1502,
+      964
+    ],
+    "category": "Text",
+    "text": "Vì $ABCD$ là hình vuông cạnh $a$ nên $O$ là trung điểm của $BD$ mà $M$ là trung điểm của $SD$ nên $OM // SB$ suy ra $SB // (ACM)$."
+  },
+  {
+    "bbox": [
+      252,
+      971,
+      1210,
+      1025
+    ],
+    "category": "Text",
+    "text": "Do đó $d(SB, CM) = d(SB, (ACM)) = d(B, (ACM)) = d(D, (ACM))$."
+  },
+  {
+    "bbox": [
+      252,
+      1030,
+      1106,
+      1078
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là trung điểm của $AD$ nên $MH // SA \\Rightarrow MH \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      252,
+      1085,
+      945,
+      1138
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(SB, CM) = d(D, (ACM)) = 2d(H, (ACM)).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1145,
+      1630,
+      1252
+    ],
+    "category": "Text",
+    "text": "Kẻ $HI \\perp AC \\Rightarrow (MHI) \\perp (MAC)$ theo giao tuyến $MI$, kẻ $HK \\perp MI \\Rightarrow HK \\perp (ACM)$ hay $d(H, (ACM)) = HK$."
+  },
+  {
+    "bbox": [
+      252,
+      1257,
+      1122,
+      1349
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } HI = \\frac{1}{2}OD = \\frac{1}{4}BD = \\frac{1}{4}\\sqrt{AB^2 + AD^2} = \\frac{\\sqrt{2}}{4}, \\quad MH = \\frac{1}{2}SA = 1.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1353,
+      1275,
+      1504
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\frac{1}{HK^2} = \\frac{1}{HM^2} + \\frac{1}{HI^2} \\Rightarrow \\frac{1}{HK^2} = \\frac{1}{1^2} + \\frac{1}{\\left(\\frac{\\sqrt{2}}{4}\\right)^2} \\Rightarrow \\frac{1}{HK^2} = 9 \\Leftrightarrow HK = \\frac{1}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1513,
+      996,
+      1595
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(SB, CM) = 2d(H, (ACM)) = 2HK = \\frac{2}{3} \\approx 0,67.\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1634,
+      1579,
+      1780
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Мặt bên $SAB$ là tam giác đều cạnh $2\\sqrt{2}$, $ABC$ là tam giác vuông tại $A$ có cạnh $AC = 1$, góc giữa $AD$ và $(SAB)$ bằng $60^\\circ$. Tính thể tích khối chóp $S.ABCD$"
+  },
+  {
+    "bbox": [
+      884,
+      1810,
+      1000,
+      1849
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      1849,
+      463,
+      1888
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2,25."
+  },
+  {
+    "bbox": [
+      252,
+      1934,
+      967,
+      1978
+    ],
+    "category": "Text",
+    "text": "+ Gọi $H$ là hình chiếu vuông góc của $C$ lên $(SAB)$."
+  },
+  {
+    "bbox": [
+      252,
+      1983,
+      712,
+      2079
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } BC \\parallel AD \\\\ \\Rightarrow (AD, (SAB)) = (BC, (SAB))\n$$"
+  },
+  {
+    "bbox": [
+      1208,
+      1810,
+      1488,
+      2110
+    ],
+    "category": "Picture"
+  }
+]

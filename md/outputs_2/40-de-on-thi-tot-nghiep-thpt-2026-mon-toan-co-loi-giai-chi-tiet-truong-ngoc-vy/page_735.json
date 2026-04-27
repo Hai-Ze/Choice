@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      394,
+      135
+    ],
+    "category": "Text",
+    "text": "+ Gốc toạ độ đặt tại $A$."
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      354,
+      191
+    ],
+    "category": "Text",
+    "text": "+ Tia $Ox$ chứa $AB$."
+  },
+  {
+    "bbox": [
+      76,
+      214,
+      357,
+      252
+    ],
+    "category": "Text",
+    "text": "+ Tia $Oy$ chứa $AD$."
+  },
+  {
+    "bbox": [
+      76,
+      277,
+      344,
+      315
+    ],
+    "category": "Text",
+    "text": "+ Tia $Oz$ chứa $AA'$"
+  },
+  {
+    "bbox": [
+      76,
+      334,
+      633,
+      376
+    ],
+    "category": "Text",
+    "text": "Khi đó toạ độ các điểm xác định như sau:"
+  },
+  {
+    "bbox": [
+      82,
+      398,
+      839,
+      446
+    ],
+    "category": "Formula",
+    "text": "$$\nA(0;0;0), B(5;0;0), C(5;6;0), N(5;0;2), M(0;6;1).\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      472,
+      701,
+      536
+    ],
+    "category": "Formula",
+    "text": "$$\nNC = \\sqrt{(5-5)^2 + (6-0)^2 + (0-2)^2} = 2\\sqrt{10} \\, m.\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      564,
+      533,
+      628
+    ],
+    "category": "Formula",
+    "text": "$$\nBM = \\sqrt{(0-5)^2 + 6^2 + 1} = \\sqrt{62} \\, m.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      656,
+      686,
+      803
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $BM$ : $\\begin{cases} x = 5 - 5a \\\\ y = 6a \\\\ z = a \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      82,
+      833,
+      464,
+      879
+    ],
+    "category": "Formula",
+    "text": "$$\nE \\in BM \\Rightarrow E(5-5a; 6a; a).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      907,
+      663,
+      1054
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $CN$ : $\\begin{cases} x = 5 \\\\ y = -3b \\\\ z = 2+b \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      82,
+      1083,
+      461,
+      1129
+    ],
+    "category": "Formula",
+    "text": "$$\nF \\in CN \\Rightarrow F(5; -3b; 2+b).\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1157,
+      693,
+      1207
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{EF} = (5a; -3b - 6a; 2 + b - a); \\overrightarrow{AC} = (5; 6; 0).\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1235,
+      826,
+      1282
+    ],
+    "category": "Text",
+    "text": "$EF$ song song với $AC$ nên $\\overrightarrow{EF}$ cùng phương với $\\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      76,
+      1303,
+      788,
+      1479
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} \\frac{5a}{5} = \\frac{-3b-6a}{6} \\\\ 2+b-a=0 \\end{cases} \\Leftrightarrow \\begin{cases} 3b+12a=0 \\\\ b-a=-2 \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{2}{5} \\\\ b = -\\frac{8}{5} \\end{cases}$."
+  },
+  {
+    "bbox": [
+      82,
+      1504,
+      548,
+      1597
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{EF} = \\left(2; \\frac{12}{5}; 0\\right) \\Rightarrow EF = \\frac{2\\sqrt{61}}{5} \\, m.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1624,
+      1016,
+      1728
+    ],
+    "category": "Text",
+    "text": "Vậy tổng chi phí là: $\\left(2\\sqrt{10} + \\sqrt{62} + \\frac{2\\sqrt{61}}{5}\\right) \\cdot 120000 \\approx 2,08$ triệu đồng."
+  },
+  {
+    "bbox": [
+      76,
+      1756,
+      1491,
+      1885
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật; $AB = 1$, $\\widehat{ACD} = 60^\\circ$, $SA \\perp (ABCD)$ và số đo của góc nhị diện $[S, CD, B]$ bằng $60^\\circ$. Tính khoảng cách giữa hai đường thẳng $SC$ và $BD$."
+  },
+  {
+    "bbox": [
+      76,
+      1910,
+      414,
+      1946
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1969,
+      843,
+      2008
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      76,
+      2027,
+      268,
+      2066
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,75"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

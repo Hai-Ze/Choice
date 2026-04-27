@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      808,
+      133
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      150,
+      1575,
+      377
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một cốc thủy tinh có dạng hình trụ đang待用 một lượng nước, bán kính trong lòng đáy cốc là 8 cm, chiều cao trong lòng cốc là 10 cm. Tính thể tích lượng nước trong cốc (đơn vị $cm^3$), biết khi nghiêng cố nước vừa lúc khi nước chạm miếng cốc thì ở đáy cốc mực nước trùng với đường kính của đáy cốc (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      537,
+      395,
+      1200,
+      706
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      732,
+      493,
+      768
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      808,
+      792,
+      924,
+      830
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      848,
+      337,
+      887
+    ],
+    "category": "Text",
+    "text": "Đáp án: 427"
+  },
+  {
+    "bbox": [
+      683,
+      914,
+      990,
+      1484
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1532,
+      669,
+      1571
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      155,
+      1597,
+      483,
+      1635
+    ],
+    "category": "Text",
+    "text": "Đặt $OK = x$ ($0 < x < 8$)"
+  },
+  {
+    "bbox": [
+      162,
+      1654,
+      366,
+      1708
+    ],
+    "category": "Formula",
+    "text": "$$\nKN = \\sqrt{64 - x^2}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1735,
+      1162,
+      1827
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $KMN$, ta có $\\tan \\widehat{MKN} = \\frac{10}{8} = \\frac{MN}{\\sqrt{64 - x^2}} \\Rightarrow MN = \\frac{5}{4}\\sqrt{64 - x^2}$."
+  },
+  {
+    "bbox": [
+      155,
+      1854,
+      1007,
+      1936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow S_{\\Delta KMN} = \\frac{1}{2} KN \\cdot MN = \\frac{1}{2} \\sqrt{64 - x^2} \\cdot \\frac{5}{4} \\sqrt{64 - x^2} = \\frac{5}{8}(64 - x^2).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1961,
+      636,
+      2066
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } V = \\frac{5}{8} \\int_{-8}^{8} (64 - x^2) dx \\approx 427 \\text{ (cm}^3\\text{)}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2083,
+      1575,
+      2238
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Chi phí xuất bản $x$ cuốn tạp chí (bao gồm: lương cán bộ, công nhân viên, giấy in...) được cho bởi $C(x) = x^2 - 2000x + 10^8$ đồng. Chi phí phát hành cho mỗi cuốn là 4 nghìn đồng. $M(x) = \\frac{T(x)}{x}$ với"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1261,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      178,
+      723,
+      485
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một người có thể có nhóm máu $A, B, AB$ hoặc $O$. Người có nhóm 血 $AB$ có thể nhận 血 của bất kì nhóm nào. Những người có nhóm 血 còn lại chỉ có thể nhận 血 của người cùng nhóm với mình hoặc nhóm $O$. Người ta thống kê được rằng, tỉ lệ người có nhóm 血 $A, B, AB, O$ lần lượt khoảng 37,5%; 20,9%; 7,9%; 33,7%. Ta kí hiệu $A, B, AB$,"
+  },
+  {
+    "bbox": [
+      774,
+      193,
+      1156,
+      480
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      501,
+      1197,
+      578
+    ],
+    "category": "Text",
+    "text": "$O$ lần lượt là các biến cố: “Người cần tiếp 血 có nhóm 血 là $A, B, AB$ và $O$ tương ứng”. Gọi $H$ là biến cố: “Sự truyền 血 có thể thực hiện được”."
+  },
+  {
+    "bbox": [
+      124,
+      600,
+      438,
+      637
+    ],
+    "category": "Formula",
+    "text": "a) $P(H \\mid AB) = 0,079$."
+  },
+  {
+    "bbox": [
+      124,
+      638,
+      527,
+      675
+    ],
+    "category": "Formula",
+    "text": "b) $P(H \\mid O) = P(O) = 0,337$."
+  },
+  {
+    "bbox": [
+      124,
+      676,
+      1194,
+      791
+    ],
+    "category": "List-item",
+    "text": "c) Chọn ngẫu nhiên một người cần tiếp 血 và một người cho 血, xác suất để sự truyền 血 có thể thực hiện được là 0,57 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      124,
+      794,
+      1194,
+      908
+    ],
+    "category": "List-item",
+    "text": "d) Chọn ngẫu nhiên một người cần tiếp 血 và hai người cho 血, xác suất để sự truyền 血 có thể thực hiện được là 0,77 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      94,
+      985,
+      811,
+      1291
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Hình vẽ mô tả một nhà đa năng đứng trên mặt đất nằm ngang và có dạng là một hình lăng trụ đứng, với các điểm $A_1(0; 0; 0)$, $A_2(20; 0; 0)$, $A_3$ và $A_4(0; 10; 0)$ biểu diễn các định của đáy của nhà đa năng như mô hình; các điểm $B_1, B_2, B_3, B_4$ là các định của mái nhà. Bức tường nằm trên mặt phẳng $Oxz$ cao 6 m, trong khittường đối diện chỉ cao 4 m. Mỗi đơn vị độ dài trên hệ tọa độ tương ứng với 1 m."
+  },
+  {
+    "bbox": [
+      852,
+      1002,
+      1171,
+      1288
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      1313,
+      1190,
+      1351
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình mặt phẳng chứa mái của nhà đa năng này là: $x + 5z - 30 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      1353,
+      1194,
+      1429
+    ],
+    "category": "List-item",
+    "text": "b) Mái nhà nghiêng một góc $12^\\circ$ so với mặt phẳng nằm ngang (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      124,
+      1432,
+      1194,
+      1506
+    ],
+    "category": "List-item",
+    "text": "c) Diện tích của phần bóng tối bị 3ttường của nhà đa năng che khuất là $13 \\text{ m}^2$."
+  },
+  {
+    "bbox": [
+      124,
+      1511,
+      1194,
+      1701
+    ],
+    "category": "List-item",
+    "text": "d) Diểm $L$ trên hình vẽ là vị trí của mộtđèn pha, được gắn cách mặt đất 12 m và hình chiếu xuống mặt đất là trung điểm của đoạn $A_1A_2$. Nguồn sáng này chiếu sáng toàn bộ khu vực xung quanh nhà đa năng (ngoại trừ khu vực bóng tối bị cácttường che khuất). Phương trình mặt phẳng ($LB_2B_3$) là $3x + y + 5z - 100 = 0$."
+  },
+  {
+    "bbox": [
+      110,
+      1761,
+      893,
+      1813
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1884,
+      904,
+      2116
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một thanh gỗ có tiết diện hình chữ nhật với chiều cao $h$ và chiều rộng $w$ (như hình vẽ). Độ bền $S$ của thanh gỗ tỉ lệ thuận với chiều rộng và bình phương chiều cao. Thanh gỗ được cắt ra từ một khúc gỗ có tiết diện hình tròn, đường kính 20 m. Để thanh gỗ bền nhất thì chiều rộng của thanh gỗ bằng bao nhiêu mét? (kết quả làm tròn tới hàng phần chục)"
+  },
+  {
+    "bbox": [
+      941,
+      1894,
+      1169,
+      2129
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      2156,
+      1032,
+      2191
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      2148,
+      1197,
+      2201
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 163"
+  }
+]

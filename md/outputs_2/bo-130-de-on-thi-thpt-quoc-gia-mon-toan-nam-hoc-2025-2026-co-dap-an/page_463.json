@@ -1,0 +1,389 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1198,
+      200
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Diện tích hình phẳng giới hạn bởi đồ thị của hàm số $y = x^2 - 3x + 2$, trục hoành và hai đường thẳng $x = 0$, $x = 2$ được tính bởi công thức"
+  },
+  {
+    "bbox": [
+      124,
+      198,
+      495,
+      314
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad S = \\int_{0}^{2} |x^2 - 3x + 2| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      198,
+      1071,
+      314
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad S = \\pi \\int_{0}^{2} (x^2 - 3x + 2) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      314,
+      538,
+      430
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = \\pi \\int_{0}^{2} (x^2 - 3x + 2)^2 \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      314,
+      1046,
+      430
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\int_{0}^{2} (x^2 - 3x + 2) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      443,
+      863,
+      486
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      251,
+      508,
+      1042,
+      784
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td></td><td>$1$</td><td>$3$</td><td></td><td>$1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      817,
+      582,
+      853
+    ],
+    "category": "Text",
+    "text": "Giá trị cực đại của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      124,
+      853,
+      196,
+      892
+    ],
+    "category": "List-item",
+    "text": "A 2."
+  },
+  {
+    "bbox": [
+      395,
+      853,
+      467,
+      892
+    ],
+    "category": "List-item",
+    "text": "B 3."
+  },
+  {
+    "bbox": [
+      669,
+      853,
+      741,
+      892
+    ],
+    "category": "List-item",
+    "text": "C 1."
+  },
+  {
+    "bbox": [
+      941,
+      853,
+      1013,
+      892
+    ],
+    "category": "List-item",
+    "text": "D 0."
+  },
+  {
+    "bbox": [
+      93,
+      909,
+      811,
+      952
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Tập nghiệm của bất phương trình $2^x \\le 3$ là"
+  },
+  {
+    "bbox": [
+      124,
+      950,
+      344,
+      990
+    ],
+    "category": "List-item",
+    "text": "A $(\\log_2 3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      395,
+      950,
+      615,
+      990
+    ],
+    "category": "List-item",
+    "text": "B $(-\\infty; \\log_2 3)$."
+  },
+  {
+    "bbox": [
+      669,
+      950,
+      884,
+      990
+    ],
+    "category": "List-item",
+    "text": "C $(-\\infty; \\log_2 3]$."
+  },
+  {
+    "bbox": [
+      941,
+      950,
+      1155,
+      990
+    ],
+    "category": "List-item",
+    "text": "D $[\\log_2 3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      93,
+      1006,
+      1198,
+      1086
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA \\perp (ABCD)$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      1084,
+      362,
+      1124
+    ],
+    "category": "List-item",
+    "text": "A $BD \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      395,
+      1084,
+      634,
+      1124
+    ],
+    "category": "List-item",
+    "text": "B $CD \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      669,
+      1084,
+      905,
+      1124
+    ],
+    "category": "List-item",
+    "text": "C $AC \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      941,
+      1084,
+      1173,
+      1124
+    ],
+    "category": "List-item",
+    "text": "D $BC \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      93,
+      1141,
+      741,
+      1183
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Tập xác định của hàm số $y = \\log_5 x$ là"
+  },
+  {
+    "bbox": [
+      124,
+      1181,
+      285,
+      1221
+    ],
+    "category": "List-item",
+    "text": "A $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      395,
+      1181,
+      582,
+      1221
+    ],
+    "category": "List-item",
+    "text": "B $(-5; +\\infty)$."
+  },
+  {
+    "bbox": [
+      669,
+      1181,
+      868,
+      1221
+    ],
+    "category": "List-item",
+    "text": "C $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      941,
+      1181,
+      1097,
+      1221
+    ],
+    "category": "List-item",
+    "text": "D $[0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      108,
+      1236,
+      823,
+      1291
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1300,
+      1198,
+      1451
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một lớp học có 50 học sinh, trong đó có 28 học sinh tham gia câu lạc bộ bóng đá, 25 học sinh tham gia câu lạc bộ âm乐 và 35 học sinh tham gia ít nhất một trong hai câu lạc bộ này. Chọn ngẫu nhiên một học sinh trong lớp. Xét các biến cố sau:"
+  },
+  {
+    "bbox": [
+      93,
+      1455,
+      818,
+      1492
+    ],
+    "category": "Text",
+    "text": "A: “Học sinh được chọn tham gia câu lạc bộ bóng đá”."
+  },
+  {
+    "bbox": [
+      93,
+      1494,
+      825,
+      1530
+    ],
+    "category": "Text",
+    "text": "B: “Học sinh được chọn tham gia câu lạc bộ âm乐”."
+  },
+  {
+    "bbox": [
+      120,
+      1558,
+      1168,
+      1956
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Phát biểu</th><th>Đ</th><th>S</th></tr></thead><tbody><tr><td>a) Xác suất $P(A) = \\frac{14}{25}$ và $P(\\bar{B}) = \\frac{1}{2}$.</td><td></td><td></td></tr><tr><td>b) Xác suất $P(A \\cap B) = \\frac{9}{25}$.</td><td></td><td></td></tr><tr><td>c) Xác suất $P(A \\cap \\bar{B}) = \\frac{4}{5}$.</td><td></td><td></td></tr><tr><td>d) Nếu chọn ngẫu nhiên một học sinh trong lớp học thì xác suất chọn được học sinh không tham gia cả hai câu lạc bộ bóng đá và âm乐 là $\\frac{3}{10}$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 461"
+  }
+]

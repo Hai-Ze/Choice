@@ -1,0 +1,552 @@
+[
+  {
+    "bbox": [
+      152,
+      97,
+      606,
+      193
+    ],
+    "category": "Page-header",
+    "text": "SỞ GD & ĐT HƯNG YÊN\nCỤM CÁC TRƯỜNG THPT"
+  },
+  {
+    "bbox": [
+      267,
+      224,
+      492,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề có 4 trang)"
+  },
+  {
+    "bbox": [
+      832,
+      97,
+      1398,
+      224
+    ],
+    "category": "Page-header",
+    "text": "KỲ THI THỬ TỐT NGHIỆP THPT\nNĂM HỌC 2025 - 2026\nMÔN TOÁN"
+  },
+  {
+    "bbox": [
+      711,
+      224,
+      1520,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài : 90 phút; không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      94,
+      350,
+      1166,
+      395
+    ],
+    "category": "Text",
+    "text": "Họ tên : .................................................................... Số báo danh : ...................."
+  },
+  {
+    "bbox": [
+      1266,
+      362,
+      1434,
+      398
+    ],
+    "category": "Text",
+    "text": "Mã đề 1001"
+  },
+  {
+    "bbox": [
+      94,
+      474,
+      1550,
+      565
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọ một phương án (3,0 điểm)."
+  },
+  {
+    "bbox": [
+      94,
+      599,
+      1555,
+      798
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. độ sâu h (m) của mực nước trong kênh tính theo thời gian t (giờ) trong một ngày (0 ≤ t < 24) cho bởi công thức $h = 2\\cos(\\pi + \\frac{\\pi t}{6}) + 12$. độ sâu của mực nước tại thời điểm t = 3 bằng"
+  },
+  {
+    "bbox": [
+      127,
+      806,
+      257,
+      842
+    ],
+    "category": "List-item",
+    "text": "A. 13m."
+  },
+  {
+    "bbox": [
+      494,
+      806,
+      621,
+      842
+    ],
+    "category": "List-item",
+    "text": "B. 14m."
+  },
+  {
+    "bbox": [
+      861,
+      806,
+      996,
+      842
+    ],
+    "category": "List-item",
+    "text": "C. 12 m."
+  },
+  {
+    "bbox": [
+      1227,
+      806,
+      1345,
+      842
+    ],
+    "category": "List-item",
+    "text": "D. 11m"
+  },
+  {
+    "bbox": [
+      94,
+      848,
+      1376,
+      898
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Hàm số nào sau đây không là một nguyên hàm của hàm số $f(x) = 3x^2 + 2x - 1$."
+  },
+  {
+    "bbox": [
+      127,
+      908,
+      467,
+      957
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = x^3 + x^2 - x$."
+  },
+  {
+    "bbox": [
+      821,
+      908,
+      1265,
+      957
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = x^3 + x^2 - x + 2026$."
+  },
+  {
+    "bbox": [
+      127,
+      967,
+      460,
+      1016
+    ],
+    "category": "List-item",
+    "text": "C. $F(x) = x^3 + x^2 - 1$."
+  },
+  {
+    "bbox": [
+      821,
+      967,
+      1199,
+      1016
+    ],
+    "category": "List-item",
+    "text": "D. $F(x) = x^3 + x^2 - x - 1$."
+  },
+  {
+    "bbox": [
+      94,
+      1032,
+      1555,
+      1192
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$ và $F(x)$ là nguyên hàm của $f(x)$, biết $\\int_{0}^{9} f(x)dx = 9$ và $F(0) = 3$. Tính $F(9)$."
+  },
+  {
+    "bbox": [
+      127,
+      1204,
+      352,
+      1253
+    ],
+    "category": "List-item",
+    "text": "A. $F(9) = -6$."
+  },
+  {
+    "bbox": [
+      494,
+      1204,
+      735,
+      1253
+    ],
+    "category": "List-item",
+    "text": "B. $F(9) = -12$."
+  },
+  {
+    "bbox": [
+      861,
+      1204,
+      1064,
+      1253
+    ],
+    "category": "List-item",
+    "text": "C. $F(9) = 6$."
+  },
+  {
+    "bbox": [
+      1227,
+      1204,
+      1445,
+      1253
+    ],
+    "category": "List-item",
+    "text": "D. $F(9) = 12$."
+  },
+  {
+    "bbox": [
+      94,
+      1257,
+      969,
+      1303
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Cho tức diên $S.ABC$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      127,
+      1303,
+      641,
+      1344
+    ],
+    "category": "List-item",
+    "text": "A. $SA$ và $BC$ vuông góc với nhau."
+  },
+  {
+    "bbox": [
+      821,
+      1303,
+      1164,
+      1344
+    ],
+    "category": "List-item",
+    "text": "B. $SA$ và $BC$ cắt nhau."
+  },
+  {
+    "bbox": [
+      127,
+      1344,
+      635,
+      1385
+    ],
+    "category": "List-item",
+    "text": "C. $SA$ và $BC$ song song với nhau."
+  },
+  {
+    "bbox": [
+      821,
+      1344,
+      1193,
+      1385
+    ],
+    "category": "List-item",
+    "text": "D. $SA$ và $BC$ chéo nhau."
+  },
+  {
+    "bbox": [
+      94,
+      1385,
+      1555,
+      1492
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Trong không gian $Oxyz$, cho mặt phẳng $(\\alpha): 2x + 4y - z + 3 = 0$. Véctơ nào sau đây là véctơ pháp tuyến của $(\\alpha)$?"
+  },
+  {
+    "bbox": [
+      127,
+      1500,
+      388,
+      1551
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (2; 4; -1)$."
+  },
+  {
+    "bbox": [
+      494,
+      1500,
+      753,
+      1551
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_3 = (-2; 4; 1)$."
+  },
+  {
+    "bbox": [
+      861,
+      1500,
+      1096,
+      1551
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_1 = (2; 4; 1)$."
+  },
+  {
+    "bbox": [
+      1227,
+      1500,
+      1493,
+      1551
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_2 = (2; -4; 1)$."
+  },
+  {
+    "bbox": [
+      94,
+      1561,
+      819,
+      1604
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Phương trình $\\log_3(x-1) = 1$ có nghiệm là"
+  },
+  {
+    "bbox": [
+      127,
+      1612,
+      271,
+      1649
+    ],
+    "category": "List-item",
+    "text": "A. $x = 4$."
+  },
+  {
+    "bbox": [
+      494,
+      1612,
+      631,
+      1649
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      861,
+      1612,
+      1003,
+      1649
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      1227,
+      1612,
+      1369,
+      1649
+    ],
+    "category": "List-item",
+    "text": "D. $x = 3$."
+  },
+  {
+    "bbox": [
+      94,
+      1651,
+      1555,
+      1752
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Trong không gian $Oxyz$, cho ba điểm $A(1; 1; 1)$, $B(0; 2; 1)$ và $C(1; -1; 2)$. mặt phẳng đi qua $A$ và vuông góc với $BC$ có phương trình là"
+  },
+  {
+    "bbox": [
+      127,
+      1752,
+      438,
+      1793
+    ],
+    "category": "List-item",
+    "text": "A. $x - 3y + z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      494,
+      1752,
+      805,
+      1793
+    ],
+    "category": "List-item",
+    "text": "B. $x + 3y + z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      861,
+      1752,
+      1164,
+      1793
+    ],
+    "category": "List-item",
+    "text": "C. $x - 3y + z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      1227,
+      1752,
+      1536,
+      1793
+    ],
+    "category": "List-item",
+    "text": "D. $x + 3y - z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      94,
+      1793,
+      1555,
+      1878
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Khảo sát thời gian tập thể dục của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      249,
+      1883,
+      1396,
+      1981
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0; 20)</td><td>[20; 40)</td><td>[40; 60)</td><td>[60; 80)</td><td>[80; 100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1984,
+      519,
+      2029
+    ],
+    "category": "Text",
+    "text": "Mốt của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      127,
+      2033,
+      236,
+      2069
+    ],
+    "category": "List-item",
+    "text": "A. 53."
+  },
+  {
+    "bbox": [
+      494,
+      2033,
+      598,
+      2069
+    ],
+    "category": "List-item",
+    "text": "B. 52."
+  },
+  {
+    "bbox": [
+      861,
+      2033,
+      966,
+      2069
+    ],
+    "category": "List-item",
+    "text": "C. 54."
+  },
+  {
+    "bbox": [
+      1227,
+      2033,
+      1338,
+      2069
+    ],
+    "category": "List-item",
+    "text": "D. 42."
+  },
+  {
+    "bbox": [
+      94,
+      2069,
+      1545,
+      2156
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Giá của một chiếc xe ô tô lúc mới mua là 470 triệu đồng. Trong 8 năm đầu, cứ sau mỗi năm sử dụng, giá của chiếc xe ô tô giảm 40 triệu đồng. Giá còn lại của chiếc xe sau 5 năm sử dụng bằng"
+  },
+  {
+    "bbox": [
+      127,
+      2156,
+      403,
+      2197
+    ],
+    "category": "List-item",
+    "text": "A. 350 triệu đồng."
+  },
+  {
+    "bbox": [
+      494,
+      2156,
+      765,
+      2197
+    ],
+    "category": "List-item",
+    "text": "B. 310 triệu đồng."
+  },
+  {
+    "bbox": [
+      861,
+      2156,
+      1133,
+      2197
+    ],
+    "category": "List-item",
+    "text": "C. 270 triệu đồng."
+  },
+  {
+    "bbox": [
+      1227,
+      2156,
+      1499,
+      2197
+    ],
+    "category": "List-item",
+    "text": "D. 230 triệu đồng."
+  },
+  {
+    "bbox": [
+      1232,
+      2207,
+      1550,
+      2252
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1/4 - Mã đề 1001"
+  }
+]

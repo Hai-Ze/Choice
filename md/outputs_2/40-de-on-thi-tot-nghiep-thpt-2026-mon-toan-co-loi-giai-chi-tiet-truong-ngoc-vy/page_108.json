@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      712,
+      98,
+      1006,
+      440
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      479,
+      848,
+      575
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } V_{S.ABC} = \\frac{1}{3} S_{ABC} \\cdot SA = \\frac{1}{3} \\cdot \\frac{1}{2} \\cdot AB \\cdot AC \\cdot SA = \\frac{a^3 \\sqrt{3}}{3}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      650,
+      1572,
+      753
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      156,
+      770,
+      863,
+      819
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x) = \\ln x - x, \\forall x \\in (0, +\\infty)$."
+  },
+  {
+    "bbox": [
+      156,
+      845,
+      587,
+      934
+    ],
+    "category": "Formula",
+    "text": "a) $f\\left(\\frac{1}{e}\\right) = \\frac{e+1}{e}; f(e^2) = 2 + e^2$."
+  },
+  {
+    "bbox": [
+      156,
+      963,
+      805,
+      1043
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = \\frac{x-1}{x}$."
+  },
+  {
+    "bbox": [
+      156,
+      1066,
+      719,
+      1121
+    ],
+    "category": "Formula",
+    "text": "c) Hàm số đã cho nghịch biến trên $(1; e^2)$."
+  },
+  {
+    "bbox": [
+      156,
+      1146,
+      827,
+      1235
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của hàm số trên $\\left[\\frac{1}{e}; e^2\\right]$ là $-1$."
+  },
+  {
+    "bbox": [
+      807,
+      1261,
+      924,
+      1300
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1315,
+      971,
+      1436
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1498,
+      186,
+      1533
+    ],
+    "category": "Text",
+    "text": "a)"
+  },
+  {
+    "bbox": [
+      163,
+      1555,
+      795,
+      1645
+    ],
+    "category": "Formula",
+    "text": "$$\nf\\left(\\frac{1}{e}\\right) = \\ln \\frac{1}{e} - \\frac{1}{e} = (-\\ln e) - \\frac{1}{e} = -1 - \\frac{1}{e} = \\frac{-e-1}{e}.\n$$"
+  },
+  {
+    "bbox": [
+      163,
+      1654,
+      502,
+      1708
+    ],
+    "category": "Formula",
+    "text": "$$\nf(e^2) = \\ln e^2 - e^2 = 2 - e^2\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1737,
+      645,
+      1818
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = (\\ln x - x)' = \\frac{1}{x} - 1 = \\frac{1-x}{x}$."
+  },
+  {
+    "bbox": [
+      156,
+      1835,
+      537,
+      1880
+    ],
+    "category": "Formula",
+    "text": "c) Điều kiện xác định: $x > 0$"
+  },
+  {
+    "bbox": [
+      156,
+      1902,
+      702,
+      1983
+    ],
+    "category": "Formula",
+    "text": "Có $f'(x) = \\frac{1-x}{x} < 0 \\Leftrightarrow 1-x < 0 \\Leftrightarrow x > 1$"
+  },
+  {
+    "bbox": [
+      156,
+      2007,
+      1299,
+      2061
+    ],
+    "category": "Formula",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên khoảng $(1; +\\infty)$ nên cũng nghịch biến trên $(1; e^2)$."
+  },
+  {
+    "bbox": [
+      156,
+      2089,
+      742,
+      2169
+    ],
+    "category": "Formula",
+    "text": "d) Xét $f'(x) = \\frac{1-x}{x} = 0 \\Leftrightarrow 1-x = 0 \\Leftrightarrow x = 1$"
+  },
+  {
+    "bbox": [
+      156,
+      2188,
+      457,
+      2232
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

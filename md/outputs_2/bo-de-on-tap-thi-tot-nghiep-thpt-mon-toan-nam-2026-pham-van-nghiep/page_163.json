@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      109,
+      1577,
+      286
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Một két nước ngọt待用 24 chair nước có khối lượng và hình thức bề ngoài như nhau, trong đó có 16 chair loại I và 8 chair loại II. Bác Tùng lần lượt lấy ra ngẫu nhiên hai chair (lấy không hoàn lại). Xét các biến cố: $A$: “lần thứ nhất lấy ra chair nước loại I”; $B$: “Lần thứ hai lấy ra chair nước loại I”."
+  },
+  {
+    "bbox": [
+      212,
+      291,
+      466,
+      373
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} P(B|A) = \\frac{16}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      378,
+      462,
+      458
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} P(B|\\bar{A}) = \\frac{15}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      464,
+      464,
+      546
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} P(\\bar{B}|A) = \\frac{8}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      551,
+      462,
+      632
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} P(\\bar{B}|\\bar{A}) = \\frac{7}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      765,
+      639,
+      884,
+      680
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      682,
+      1574,
+      809
+    ],
+    "category": "Text",
+    "text": "a) Nếu lần thứ nhất lấy ra chair loại $I$ thì két còn 23 chair nước, trong đó có 15 chair loại I, 8 chair loại II. Suy ra $P(B|A) = \\frac{15}{23}$."
+  },
+  {
+    "bbox": [
+      212,
+      816,
+      370,
+      854
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      859,
+      1577,
+      986
+    ],
+    "category": "Text",
+    "text": "b) Nếu lần thứ nhất lấy ra chair loại II thì két còn 23 chair nước, trong đó có 16 chair loại I, 7 chair loại II. Suy ra $P(B|\\bar{A}) = \\frac{16}{23}$."
+  },
+  {
+    "bbox": [
+      212,
+      993,
+      370,
+      1031
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1036,
+      853,
+      1118
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{Ta có: } P(\\bar{B}|A) = 1 - P(B|A) = 1 - \\frac{15}{23} = \\frac{8}{23};\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1121,
+      419,
+      1163
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      1168,
+      758,
+      1250
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} P(\\bar{B}|\\bar{A}) = 1 - P(B|\\bar{A}) = 1 - \\frac{16}{23} = \\frac{7}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1253,
+      419,
+      1295
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      74,
+      1293,
+      1192,
+      1343
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      1346,
+      1574,
+      1938
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Sân hiên hình chữ nhật của một ngồi nhà là khoảng đất $ABCD$ được lợp mái bằng kính màu để hạn chế ánh sáng đi qua với mái dốc. Các bề mặt bên $ADHE$ và $CGHD$ nằm ởttường bên ngoài ngồi nhà. Đặt vào mô hình hệ trục tọa độ như hình vẽ thì ta có $B(5;\\frac{7}{2};0)$; $E(5;0;2)$ và $H(0;0;3)$. Trên tường nhà có một ngọn den đặt tại điểm $L$ cách điểm $D$ một khoảng 6 m theo phương thẳng đứng. Phần có mái của sân hiên in bóng lên khu vường bằng phẳng phía trước ngồi nhà dưới ánh den tạo thành khoảng đất hạn chế ánh sáng. Tính diện tích khoảng đất đó (Kết quả làm tròn kết quả đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      1041,
+      1352,
+      1519,
+      1827
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1941,
+      953,
+      1981
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

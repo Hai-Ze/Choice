@@ -1,0 +1,371 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      197,
+      1249,
+      246
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R} \\setminus \\{1\\}$ và bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      352,
+      269,
+      1369,
+      492
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      515,
+      522,
+      559
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      195,
+      578,
+      1069,
+      626
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho đồng biến trên các khoảng $(-\\infty; 0)$ và $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      654,
+      1037,
+      702
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho nghịch biến trên các khoảng $(0; 1)$ và $(1; 2)$."
+  },
+  {
+    "bbox": [
+      195,
+      724,
+      784,
+      768
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho có điểm cực tiểu bằng $0$."
+  },
+  {
+    "bbox": [
+      195,
+      783,
+      788,
+      827
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đã cho có giá trị cực đại bằng $2$."
+  },
+  {
+    "bbox": [
+      807,
+      847,
+      924,
+      885
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      905,
+      279,
+      943
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      957,
+      469,
+      999
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có"
+  },
+  {
+    "bbox": [
+      155,
+      1019,
+      1572,
+      1142
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên các khoảng $(-\\infty; 0)$ và $(2; +\\infty)$; nghịch biến trên các khoảng $(0; 1)$ và $(1; 2)$."
+  },
+  {
+    "bbox": [
+      155,
+      1164,
+      1071,
+      1210
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho có điểm cực tiểu $x = 2$ và giá trị cực tiểu bằng $y = 6$"
+  },
+  {
+    "bbox": [
+      155,
+      1229,
+      1067,
+      1275
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho có điểm cực đại $x = 0$ và giá trị cực đại bằng $y = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      1300,
+      856,
+      1346
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nguyên hàm của hàm số $f(x) = 3x^2 + 1$ là"
+  },
+  {
+    "bbox": [
+      205,
+      1373,
+      338,
+      1432
+    ],
+    "category": "List-item",
+    "text": "A. $x^3 + C$"
+  },
+  {
+    "bbox": [
+      555,
+      1373,
+      739,
+      1456
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x^3}{3} + x + C$"
+  },
+  {
+    "bbox": [
+      906,
+      1396,
+      1040,
+      1432
+    ],
+    "category": "List-item",
+    "text": "C. $6x + C$"
+  },
+  {
+    "bbox": [
+      1255,
+      1394,
+      1435,
+      1432
+    ],
+    "category": "List-item",
+    "text": "D. $x^3 + x + C$"
+  },
+  {
+    "bbox": [
+      807,
+      1481,
+      924,
+      1519
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1539,
+      279,
+      1577
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      1595,
+      502,
+      1654
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int (3x^2 + 1) dx = x^3 + x + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1671,
+      1572,
+      1774
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Bảng dưới biểu diễn mẫu số liệu ghép nhóm về số tiền (đơn vị: nghìn đồng) mà 120 khách hàng mua sách ở một cửa hàng trong một ngày."
+  },
+  {
+    "bbox": [
+      278,
+      1789,
+      1449,
+      1921
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[40;50)</td><td>[50;60)</td><td>[60;70)</td><td>[70;80)</td><td>[80;90)</td></tr><tr><td>Tần số</td><td>6</td><td>12</td><td>38</td><td>46</td><td>18</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1975,
+      879,
+      2019
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là:"
+  },
+  {
+    "bbox": [
+      205,
+      2039,
+      291,
+      2073
+    ],
+    "category": "List-item",
+    "text": "A. 30."
+  },
+  {
+    "bbox": [
+      555,
+      2039,
+      639,
+      2073
+    ],
+    "category": "List-item",
+    "text": "B. 40."
+  },
+  {
+    "bbox": [
+      906,
+      2039,
+      988,
+      2073
+    ],
+    "category": "List-item",
+    "text": "C. 50."
+  },
+  {
+    "bbox": [
+      1255,
+      2039,
+      1341,
+      2073
+    ],
+    "category": "List-item",
+    "text": "D. 60."
+  },
+  {
+    "bbox": [
+      807,
+      2097,
+      924,
+      2135
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2155,
+      279,
+      2193
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      2207,
+      1110,
+      2251
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là: $R = 90 - 40 = 50$"
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      662,
+      114,
+      1050,
+      395
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      434,
+      493,
+      470
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      492,
+      924,
+      531
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      551,
+      345,
+      590
+    ],
+    "category": "Text",
+    "text": "Đáp án: 27,9"
+  },
+  {
+    "bbox": [
+      156,
+      609,
+      1326,
+      654
+    ],
+    "category": "Text",
+    "text": "Gắn hệ trục tọa độ như hình vẽ, một đơn vị trên trục là 1m, khi đó từ các giả thiết ta có:"
+  },
+  {
+    "bbox": [
+      655,
+      685,
+      1075,
+      1075
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      162,
+      1095,
+      996,
+      1143
+    ],
+    "category": "Formula",
+    "text": "$$\nH(0;0), A(-4;0), B(4;0), C(4;3), D(-4;3), E(0;6), F(0;2)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1170,
+      1061,
+      1249
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $DE$ đi qua $D$ và $E$ nên có phương trình là $y = \\frac{3}{4}x + 6$"
+  },
+  {
+    "bbox": [
+      156,
+      1277,
+      1075,
+      1355
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $CE$ đi qua $C$ và $E$ nên có phương trình là $y = -\\frac{3}{4}x + 6$"
+  },
+  {
+    "bbox": [
+      156,
+      1382,
+      1574,
+      1568
+    ],
+    "category": "Text",
+    "text": "Parabol $(P)$ có phương trình dạng $y = ax^2 + 2$ đi qua $B(4;0)$ nên $a = -\\frac{1}{8}$. Suy ra phương trình của parabol là $y = -\\frac{1}{8}x^2 + 2$."
+  },
+  {
+    "bbox": [
+      156,
+      1585,
+      530,
+      1631
+    ],
+    "category": "Text",
+    "text": "Diện tích phần tô đâm bằng"
+  },
+  {
+    "bbox": [
+      162,
+      1650,
+      895,
+      1870
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} & \\int_{-4}^{0} \\left[ \\frac{3}{4}x + 6 - \\left( \\frac{1}{8}x^2 + 2 \\right) \\right] dx + \\int_{0}^{4} \\left[ -\\frac{3}{4}x + 6 - \\left( \\frac{1}{8}x^2 + 2 \\right) \\right] dx \\\\ &= \\int_{-4}^{0} \\left[ \\frac{3}{4}x - \\frac{1}{8}x^2 + 4 \\right] dx + \\int_{0}^{4} \\left[ -\\frac{3}{4}x - \\frac{1}{8}x^2 + 4 \\right] dx = \\frac{76}{3} \\, m^2 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1893,
+      963,
+      1975
+    ],
+    "category": "Text",
+    "text": "Số tiền chị Minh Hiền phải trả là $\\frac{76}{3} \\times 1,1 \\approx 27,9$ triệu đồng."
+  },
+  {
+    "bbox": [
+      156,
+      1992,
+      1574,
+      2232
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nhà bạn Trúc Linh cách bờ biển 1km. Mỗi buổi sáng bạn Trúc Linh chạy bộ từ nhà ra bờ biển sau đó chạy dọc bờ biển 500m, rồi chạy qua chợ海 sản để lấy thức ăn trong ngày, cuối cùng bạn Trúc Linh chạy về nhà. Biết chợ海 sản cách bờ biển 400m và cách nhà bạn Trúc Linh 1km, tính quăng đường ngắn nhất mà bạn Trúc Linh đã chạy trong mỗi buổi sáng (đơn vị m và làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

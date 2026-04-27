@@ -1,0 +1,430 @@
+[
+  {
+    "bbox": [
+      115,
+      80,
+      743,
+      120
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình chóp $S.ABC$ (xem hình bên)."
+  },
+  {
+    "bbox": [
+      168,
+      130,
+      481,
+      433
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      438,
+      963,
+      482
+    ],
+    "category": "Text",
+    "text": "Gọi $G$ là trọng tâm $\\triangle ABC$. Phát biểu nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      154,
+      482,
+      453,
+      526
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{O}$."
+  },
+  {
+    "bbox": [
+      510,
+      482,
+      828,
+      526
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      867,
+      482,
+      1193,
+      526
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      1222,
+      482,
+      1557,
+      526
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 2\\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      115,
+      532,
+      760,
+      574
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Nghiệm của phương trình $3^{2x+1} = 243$ là"
+  },
+  {
+    "bbox": [
+      154,
+      576,
+      279,
+      610
+    ],
+    "category": "List-item",
+    "text": "A. $x=3$."
+  },
+  {
+    "bbox": [
+      510,
+      576,
+      632,
+      610
+    ],
+    "category": "List-item",
+    "text": "B. $x=1$."
+  },
+  {
+    "bbox": [
+      867,
+      576,
+      988,
+      610
+    ],
+    "category": "List-item",
+    "text": "C. $x=2$."
+  },
+  {
+    "bbox": [
+      1222,
+      576,
+      1346,
+      610
+    ],
+    "category": "List-item",
+    "text": "D. $x=5$."
+  },
+  {
+    "bbox": [
+      115,
+      618,
+      1312,
+      706
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $y = f(x) = \\frac{ax^2+bx+c}{dx+e} \\quad (a \\neq 0, x \\neq -\\frac{d}{e})$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      154,
+      708,
+      966,
+      1016
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1016,
+      805,
+      1062
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng của đồ thị hàm số $y = f(x)$ là ?"
+  },
+  {
+    "bbox": [
+      154,
+      1072,
+      297,
+      1106
+    ],
+    "category": "List-item",
+    "text": "A. $x=-3$."
+  },
+  {
+    "bbox": [
+      510,
+      1072,
+      651,
+      1106
+    ],
+    "category": "List-item",
+    "text": "B. $x=-7$."
+  },
+  {
+    "bbox": [
+      867,
+      1072,
+      988,
+      1106
+    ],
+    "category": "List-item",
+    "text": "C. $x=1$."
+  },
+  {
+    "bbox": [
+      1222,
+      1072,
+      1365,
+      1106
+    ],
+    "category": "List-item",
+    "text": "D. $x=-1$."
+  },
+  {
+    "bbox": [
+      115,
+      1114,
+      1552,
+      1211
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Thế tích khối tròn xoay giới hạn bởi hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$, trục hoành và hai đường thẳng $x = a, x = b$ khi xoay quanh trục $Ox$ được xác định bởi công thức nào sau đây ?"
+  },
+  {
+    "bbox": [
+      154,
+      1219,
+      462,
+      1313
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\pi \\int_{b}^{a} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      510,
+      1219,
+      816,
+      1313
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\pi \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      867,
+      1219,
+      1149,
+      1313
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      1222,
+      1219,
+      1498,
+      1313
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\pi \\int_{a}^{b} f(x^2) dx$."
+  },
+  {
+    "bbox": [
+      115,
+      1321,
+      1227,
+      1369
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho cấp số cộng $(u_n)$ với $u_1 = 7$ và công sai $d = -3$. Giá trị của $u_4$ bằng"
+  },
+  {
+    "bbox": [
+      154,
+      1381,
+      291,
+      1415
+    ],
+    "category": "List-item",
+    "text": "A. $u_4 = 4$."
+  },
+  {
+    "bbox": [
+      510,
+      1381,
+      663,
+      1415
+    ],
+    "category": "List-item",
+    "text": "B. $u_4 = -2$."
+  },
+  {
+    "bbox": [
+      867,
+      1381,
+      1000,
+      1415
+    ],
+    "category": "List-item",
+    "text": "C. $u_4 = 1$."
+  },
+  {
+    "bbox": [
+      1222,
+      1381,
+      1375,
+      1415
+    ],
+    "category": "List-item",
+    "text": "D. $u_4 = -5$."
+  },
+  {
+    "bbox": [
+      115,
+      1423,
+      1351,
+      1467
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Số lần ném vào rổ của 30 vận động viên khi ném 30 lần được thống kê lại bảng sau"
+  },
+  {
+    "bbox": [
+      115,
+      1501,
+      1179,
+      1604
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số lần vào rổ</td><td>[20; 22)</td><td>[22; 24)</td><td>[24; 26)</td><td>[26; 28)</td><td>[28; 30)</td></tr><tr><td>Số VĐV</td><td>7</td><td>9</td><td>7</td><td>5</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1604,
+      1141,
+      1644
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là (làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      154,
+      1646,
+      255,
+      1680
+    ],
+    "category": "List-item",
+    "text": "A. 6,3."
+  },
+  {
+    "bbox": [
+      510,
+      1646,
+      605,
+      1680
+    ],
+    "category": "List-item",
+    "text": "B. 5,8."
+  },
+  {
+    "bbox": [
+      867,
+      1646,
+      978,
+      1680
+    ],
+    "category": "List-item",
+    "text": "C. 24,1."
+  },
+  {
+    "bbox": [
+      1222,
+      1646,
+      1324,
+      1680
+    ],
+    "category": "List-item",
+    "text": "D. 2,4."
+  },
+  {
+    "bbox": [
+      122,
+      1684,
+      1624,
+      1728
+    ],
+    "category": "Text",
+    "text": "**Phần 2: Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai**"
+  },
+  {
+    "bbox": [
+      68,
+      1732,
+      697,
+      1780
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x) = x^3 - 2x^2 - 4x + 9$."
+  },
+  {
+    "bbox": [
+      115,
+      1792,
+      306,
+      1838
+    ],
+    "category": "Formula",
+    "text": "a) $f(5) = 64$."
+  },
+  {
+    "bbox": [
+      115,
+      1850,
+      861,
+      1896
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 3x^2 - 2x - 4$."
+  },
+  {
+    "bbox": [
+      115,
+      1912,
+      832,
+      1990
+    ],
+    "category": "Formula",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ là $\\frac{8}{3}$"
+  },
+  {
+    "bbox": [
+      115,
+      1996,
+      829,
+      2042
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $[1; 3]$ bằng 1."
+  },
+  {
+    "bbox": [
+      1306,
+      2075,
+      1628,
+      2115
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/5 – Mãpend 0101"
+  }
+]

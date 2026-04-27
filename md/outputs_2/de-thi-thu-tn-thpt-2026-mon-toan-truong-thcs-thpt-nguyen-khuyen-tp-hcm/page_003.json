@@ -1,0 +1,80 @@
+[
+  {
+    "bbox": [
+      92,
+      183,
+      1049,
+      346
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Hộp $A$ chứa bốn quả bóng được đánh số 1; 2; 3; 4. Hộp $B$ chứa ba quả bóng được đánh số 1; 2; 3. Hộp $C$ chứa hai quả bóng được đánh số 1; 2. Một trong ba套hộp được chọn ngẫu nhiên và sau đó một quả bóng được chọn ngẫu nhiên từ套hộp đó."
+  },
+  {
+    "bbox": [
+      1068,
+      186,
+      1591,
+      423
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      423,
+      1596,
+      952
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Nếu套hộp $A$ được chọn thì xác suất quả bóng số 1 được chọn bằng $\\frac{1}{3}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Xác suất chọn được quả bóng số 3 bằng $\\frac{5}{36}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Biết rằng quả bóng số 1 đã được chọn, xác suất để quả bóng này thuộc套hộp $A$ bằng 0,23 (làm tròn đến hàng phần trăm).</td><td>☐</td><td>☐</td></tr><tr><td>d) Nếu người ta lấy được quả bóng số 1, sau đó hoàn lại quả bóng và tiếp tục lấy ngẫu nhiên một quả bóng từ套hộp đó thì được quả bóng số 3; xác suất để quả bóng này thuộc về套hộp $B$ bằng $\\frac{16}{27}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      92,
+      1334,
+      1337,
+      1549
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, đơn vị trên mỗi trục là nghìn kilômét, quỹ đạo chuyển động của hai tiểu hành tinh lần lượt được mô hình hóa là phương trình các đường thẳng $d_1: \\frac{x+1}{1} = \\frac{y+2}{2} = \\frac{z}{1}$; $d_2: \\frac{x-2}{2} = \\frac{y-1}{1} = \\frac{z-1}{1}$. Ta xem vùng khí quyển của sao Hỏa là mặt cầu ($S$) có phương trình $x^2 + y^2 + z^2 = 3,5^2$."
+  },
+  {
+    "bbox": [
+      1355,
+      1334,
+      1593,
+      1568
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1566,
+      1596,
+      1965
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Tiểu hành tinh thứ nhất đi qua điểm $A(-1; -2; 0)$, vectơ chỉ phương $\\vec{u}_1 = (-1; -2; -1)$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Sao hỏa có tâm là gốc tọa độ, bán kính tính từ tâm sao Hỏa đến điểm ngoài cùng của khí quyển là khoảng 350 km.</td><td>☐</td><td>☐</td></tr><tr><td>c) Tiểu hành tinh thứ nhất có thể đi vào vùng khí quyển của sao Hỏa.</td><td>☐</td><td>☐</td></tr><tr><td>d) Hai tiểu hành tinh không có nguy cơ va chạm nhau.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1499,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 423"
+  },
+  {
+    "bbox": [
+      1540,
+      2021,
+      1558,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

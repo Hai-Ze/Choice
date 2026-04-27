@@ -1,0 +1,175 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      120,
+      1555,
+      491
+    ],
+    "category": "Text",
+    "text": "**CÂU 25.** Nhà máy A chuyên sản suất một loại sản phẩm cho nhà máy B. Hai nhà máy thỏa thuận rằng, hàng tháng nhà máy A cung cấp cho nhà máy B số lượng sản phẩm theo đơn đặt hàng của nhà máy B (tối đa 100 tấn sản phẩm). Nếu số lượng đặt hàng là $x$ tấn sản phẩm ($0 \\le x \\le 100$) thì giá bán cho mỗi tấn sản phẩm là $p(x) = 90 - 0,01x^2$ (triệu đồng). Chi phí để nhà máy A sản suất $x$ tấn sản phẩm trong một tháng là $C(x) = \\frac{1}{2}(200 + 27x)$ (triệu đồng), thuế giá trị gia tăng mà nhà máy A phải đóng cho nhà nước là 10% tổng doanh thu mỗi tháng. Hỏi nhà máy A bán cho nhà máy B bao nhiêu tấn sản phẩm mỗi tháng để thu được lợi nhuận (sau khi đã trừ thuế giá trị gia tăng) cao nhất?"
+  },
+  {
+    "bbox": [
+      1334,
+      524,
+      1382,
+      556
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      515,
+      1553,
+      567
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      632,
+      1555,
+      827
+    ],
+    "category": "Text",
+    "text": "**CÂU 26.** Cho ngọn núi có dạng hình nón như hình vẽ. Người ta cần xây dựng đường ray của đoàn tàu du lịch xuất phát từ điểm $A$, chạy một vòng quanh ngọn núi rồi đến điểm $B$. Để đường ray có tổng quăng đường là ngắn nhất, thì đường ray sẽ có một đoạn lên dốc và sau đó là đoạn xuống dốc đến điểm $B$. Hỏi độ dài của đoạn đường xuống dốc là bao nhiêu? (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      874,
+      976,
+      1133,
+      1213
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1334,
+      1352,
+      1382,
+      1384
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      1345,
+      1553,
+      1397
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1462,
+      1555,
+      1731
+    ],
+    "category": "Text",
+    "text": "**CÂU 27.** Một xưởng thủ công mỹ nghệ sản xuất loại catch bone trang trí dạng hình chóp cụt tư giác đều. Gọi $x$ là độ dài cạnh đáy lớn (đơn vị: dm). Tính toán cho thấy tổng chi phí vật liệu (tính bằng nghìn đồng) cho một catch bone là $C(x) = x^2 + 108$ (nghìn đồng). Thời gian sản xuất cho một catch bone được xác định là $T(x) = x + 6$ (giờ). Xưởng muốn xác định kích thước $x$ để chi phí vật liệu trung bình trên một giờ sản xuất là thấp nhất, nhằm tối ưu hóa hiệu quả sử dụng thời gian và vật liệu. Giá trị của $x$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1334,
+      1761,
+      1382,
+      1793
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1392,
+      1751,
+      1553,
+      1803
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1869,
+      1555,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 28.** Hình đáng phần đất liền của hai xã thuộc tỉnh Đồng Tháp được mô hình hóa bởi đồ thị hàm số $y = \\frac{x^2 + ax + b}{x - 2}$; biết đồ thị có một điểm cực trị là $(1; 1)$, với hệ trục tọa độ $Oxy$ như hình vẽ, đơn vị trên mỗi trục là 10 mét. Để thuận tiện cho giao thông hai xã, lãnh đạo tỉnh đã phê duyệt dự án xây một chiếc cầu nối phần đất liền của hai xã này. Nh�m tiếtniêm chi phí cho công trình, người kỹ sư trưởng thiết kế có nhiệm vụ nghiên cứu để chọn được hai vị trí $A, B$ trên phần đất liền hai xã sao cho độ dài chiếc cầu (đoạn $AB$) là ngắn nhất có thể. Hỏi độ dài ngắn nhất của chiếc cầu đó (tính theo đường chim bay) là bao nhiêu mét (làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "676 Bùi Tịnh Minh Lâm"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      110,
+      1574,
+      244
+    ],
+    "category": "Text",
+    "text": "đường cong có phương trình $y = f(x) = a - \\frac{b}{x^2}$ (ngọn đuốc được tạo thành khi quay đồ thị hàm số $f(x)$ quanh trục Oy, đơn vị trên mỗi hệ trục tọa độ là mét)"
+  },
+  {
+    "bbox": [
+      656,
+      260,
+      1152,
+      706
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      716,
+      474,
+      752
+    ],
+    "category": "Formula",
+    "text": "a) $48a + 50b = 780$"
+  },
+  {
+    "bbox": [
+      211,
+      760,
+      1576,
+      985
+    ],
+    "category": "Text",
+    "text": "b) Khoang bên trong của ngọn đuốc là một hình nón được minh họa bởi phần được tô Đật trong hình vẽ có độ dài đáy là $2t$ (mét), hai cạnh bên lần lượt nằm trên hai tiếp tuyến của đường cong cho bởi phương trình trên. Khi đó tiếp tuyến cắt trục Oy tại tung độ theo $t$ là $\\frac{8t^3 - 8t + 16}{t^3}$"
+  },
+  {
+    "bbox": [
+      211,
+      990,
+      772,
+      1071
+    ],
+    "category": "Text",
+    "text": "c) Thế tích của khối nón theo $t$ là $\\frac{16\\pi}{3t}$"
+  },
+  {
+    "bbox": [
+      211,
+      1073,
+      1162,
+      1120
+    ],
+    "category": "Text",
+    "text": "d) Thế tích của ngọn đuốc bằng $70 \\, m^3$ (làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      833,
+      1124,
+      953,
+      1165
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1167,
+      1350,
+      1247
+    ],
+    "category": "Text",
+    "text": "a) Sai: Ta có $y = f(x) = a - \\frac{b}{x^2}$ với đồ thị $f(x)$ đi qua 2 điểm $(4;7,5)$ và $(1;0)$."
+  },
+  {
+    "bbox": [
+      211,
+      1249,
+      957,
+      1296
+    ],
+    "category": "Text",
+    "text": "Dễ dàng giải ra được $a = b = 8$ tức $48a + 50b = 784$."
+  },
+  {
+    "bbox": [
+      211,
+      1298,
+      1544,
+      1346
+    ],
+    "category": "Text",
+    "text": "b) Sai: Do hình nón có độ dài đáy là $2t(m)$ nên hình nón có bán kính đáy $R$ bằng $t(m)$ (1)"
+  },
+  {
+    "bbox": [
+      211,
+      1354,
+      1574,
+      1449
+    ],
+    "category": "Text",
+    "text": "Đường sinh hình nón trùng với tiếp tuyến của $f(x)$ tại điểm $x=t$ nên ta có phương trình là:"
+  },
+  {
+    "bbox": [
+      483,
+      1456,
+      1305,
+      1542
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f'(t)(x-t) + f(t) = \\frac{16}{t^3}(x-t) + \\left(8 - \\frac{8}{t^2}\\right) = \\frac{16}{t^3}x + 8 - \\frac{24}{t^2}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1551,
+      1248,
+      1631
+    ],
+    "category": "Text",
+    "text": "Thế $x = 0$ ta suy ra tiếp tuyến cắt trục Oy tại tung độ theo $t$ là: $8 - \\frac{24}{t^2}$."
+  },
+  {
+    "bbox": [
+      211,
+      1637,
+      1345,
+      1731
+    ],
+    "category": "Text",
+    "text": "c) Sai: Từ hình vẽ ta suy ra chiều cao hình nón là $h = \\left|f(t) - \\left(8 - \\frac{24}{t^2}\\right)\\right| = \\frac{16}{t^2}$ (2)"
+  },
+  {
+    "bbox": [
+      211,
+      1737,
+      1334,
+      1825
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2) ta suy ra thể tích khối nón bằng $V = \\frac{1}{3}\\pi R^2 h = \\frac{1}{3}\\pi t^2 \\left(\\frac{16}{t^2}\\right) = \\frac{16\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      211,
+      1832,
+      1389,
+      1881
+    ],
+    "category": "Text",
+    "text": "d) Đúng: Trước hết ta cần biểu diễn lại hàm số $y = f(x)$ về lại hàm số $x = g(y)$."
+  },
+  {
+    "bbox": [
+      211,
+      1888,
+      1081,
+      1985
+    ],
+    "category": "Text",
+    "text": "Ta có: $y = 8 - \\frac{8}{x^2} \\Leftrightarrow \\frac{8}{x^2} = 8 - y \\Rightarrow x = g(y) = \\sqrt{\\frac{8}{8-y}}$ với $y < 8$."
+  },
+  {
+    "bbox": [
+      211,
+      1996,
+      1189,
+      2095
+    ],
+    "category": "Text",
+    "text": "Khi đó thể tích ngọn đuốc là: $V_t = \\pi \\int_{0}^{7,5} g^2(y) dy = \\pi \\int_{0}^{7,5} \\left(\\frac{8}{8-y}\\right) dy = 70$."
+  },
+  {
+    "bbox": [
+      74,
+      2103,
+      1572,
+      2238
+    ],
+    "category": "Text",
+    "text": "**Câu 15:** Có hai đội tham gia một cuộc thi bơi lội. Đội I có 7 vận động viên, đội II có 9 vận động viên. Xác suấtigned huy chương vàng của mỗi vận động viên đội I và đội II lần lượt là 0.07 và 0.06. Chọn ngẫu nhiên một vận động viên (Kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

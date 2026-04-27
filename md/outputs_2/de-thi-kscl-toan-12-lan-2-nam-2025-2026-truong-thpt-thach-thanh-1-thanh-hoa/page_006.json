@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      111,
+      308,
+      769,
+      392
+    ],
+    "category": "Page-header",
+    "text": "SỞ GIÁO DỤC VÀ ĐÀO TẠO THANH HÓA\nTRƯỜNG THPT THẠCH THÀNH I"
+  },
+  {
+    "bbox": [
+      313,
+      392,
+      567,
+      434
+    ],
+    "category": "Page-header",
+    "text": "(Đáp án có trang)"
+  },
+  {
+    "bbox": [
+      847,
+      308,
+      1506,
+      352
+    ],
+    "category": "Page-header",
+    "text": "ĐÁP ÁN ĐỀ KSCL LỚP 12-THPT NĂM 2026"
+  },
+  {
+    "bbox": [
+      1077,
+      350,
+      1277,
+      389
+    ],
+    "category": "Page-header",
+    "text": "MÔN: TOÁN"
+  },
+  {
+    "bbox": [
+      529,
+      493,
+      1120,
+      539
+    ],
+    "category": "Section-header",
+    "text": "## HƯỚNG DẪN GIẢI CHI TIẾT (mã 121)"
+  },
+  {
+    "bbox": [
+      153,
+      577,
+      1233,
+      624
+    ],
+    "category": "Section-header",
+    "text": "### PHẦN I. Từ câu 1 đến câu 12, mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      153,
+      640,
+      766,
+      686
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Heo nguyên hàm của hàm số $y = 2^x$ là"
+  },
+  {
+    "bbox": [
+      153,
+      702,
+      356,
+      764
+    ],
+    "category": "List-item",
+    "text": "A. $\\ln 2 \\cdot 2^x + C$."
+  },
+  {
+    "bbox": [
+      418,
+      702,
+      565,
+      764
+    ],
+    "category": "List-item",
+    "text": "B. $2^x + C$."
+  },
+  {
+    "bbox": [
+      600,
+      702,
+      770,
+      788
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{2^x}{\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      816,
+      702,
+      995,
+      788
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{2^x}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      835,
+      858,
+      951,
+      898
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      931,
+      762,
+      1016
+    ],
+    "category": "Text",
+    "text": "Do theo bảng nguyên hàm: $\\int a^x dx = \\frac{a^x}{\\ln a} + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1049,
+      1495,
+      1162
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $y = f(x)$ xác định và liên tục trên đoạn $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ được tính theo công thức"
+  },
+  {
+    "bbox": [
+      290,
+      1176,
+      543,
+      1278
+    ],
+    "category": "Formula",
+    "text": "A. $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      625,
+      1176,
+      866,
+      1278
+    ],
+    "category": "Formula",
+    "text": "B. $S = \\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      939,
+      1176,
+      1198,
+      1278
+    ],
+    "category": "Formula",
+    "text": "C. $S = -\\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      1252,
+      1206,
+      1290,
+      1244
+    ],
+    "category": "Text",
+    "text": "D."
+  },
+  {
+    "bbox": [
+      295,
+      1292,
+      503,
+      1390
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{b}^{a} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      835,
+      1401,
+      951,
+      1441
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      290,
+      1446,
+      1416,
+      1612
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ được tính bởi công thức: $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1635,
+      1495,
+      1724
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một hàng được ghi lại ở bảng sau (đơn vị: triệu đồng):"
+  },
+  {
+    "bbox": [
+      436,
+      1745,
+      1347,
+      1838
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      290,
+      1871,
+      1446,
+      1918
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      290,
+      1946,
+      433,
+      1994
+    ],
+    "category": "List-item",
+    "text": "A. [7; 9)."
+  },
+  {
+    "bbox": [
+      625,
+      1946,
+      778,
+      1994
+    ],
+    "category": "List-item",
+    "text": "B. [9; 11)."
+  },
+  {
+    "bbox": [
+      939,
+      1946,
+      1102,
+      1994
+    ],
+    "category": "List-item",
+    "text": "C. [11; 13)."
+  },
+  {
+    "bbox": [
+      1252,
+      1946,
+      1422,
+      1994
+    ],
+    "category": "List-item",
+    "text": "D. [13; 15)."
+  },
+  {
+    "bbox": [
+      835,
+      2007,
+      951,
+      2047
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      290,
+      2063,
+      957,
+      2109
+    ],
+    "category": "Text",
+    "text": "Bảng tần số ghép nhóm theo giá trị đại diện là"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "# LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      195,
+      1382,
+      244
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 3$ và công bội $q = 3$. Giá trị $u_{2026}$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      272,
+      322,
+      311
+    ],
+    "category": "List-item",
+    "text": "A. $3^{2025}$."
+  },
+  {
+    "bbox": [
+      556,
+      272,
+      669,
+      311
+    ],
+    "category": "List-item",
+    "text": "B. $3^{2026}$."
+  },
+  {
+    "bbox": [
+      906,
+      272,
+      1022,
+      311
+    ],
+    "category": "List-item",
+    "text": "C. $3^{2027}$."
+  },
+  {
+    "bbox": [
+      1255,
+      272,
+      1372,
+      311
+    ],
+    "category": "List-item",
+    "text": "D. $3^{2024}$."
+  },
+  {
+    "bbox": [
+      807,
+      335,
+      924,
+      374
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      392,
+      277,
+      431
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      449,
+      1145,
+      497
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức của số hạng tổng quát $u_{2026} = u_1 \\cdot q^{2026-1} = 3 \\cdot 3^{2025} = 3^{2026}$."
+  },
+  {
+    "bbox": [
+      155,
+      525,
+      1328,
+      606
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Tiệm cận đứng của đồ thị hàm số $y = \\frac{3x+2}{x-2}$ là đường thẳng có phương trình:"
+  },
+  {
+    "bbox": [
+      205,
+      628,
+      336,
+      663
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2$."
+  },
+  {
+    "bbox": [
+      556,
+      628,
+      700,
+      663
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      906,
+      628,
+      1034,
+      663
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1255,
+      628,
+      1401,
+      663
+    ],
+    "category": "List-item",
+    "text": "D. $x = -2$."
+  },
+  {
+    "bbox": [
+      807,
+      687,
+      924,
+      726
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      746,
+      277,
+      785
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      803,
+      244,
+      838
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      862,
+      829,
+      944
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to 2^+} y = \\lim_{x \\to 2^+} \\frac{3x+2}{x-2} = +\\infty, \\lim_{x \\to 2^-} y = \\lim_{x \\to 2^-} \\frac{3x+2}{x-2} = -\\infty.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      968,
+      1356,
+      1050
+    ],
+    "category": "Text",
+    "text": "Do đó tiệm cận đứng của đồ thị hàm số $y = \\frac{3x+2}{x-2}$ là đường thẳng có phương trình $x-2$."
+  },
+  {
+    "bbox": [
+      155,
+      1073,
+      1236,
+      1170
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nếu $\\int_{-1}^{4} f(x)dx = 2$ và $\\int_{-1}^{4} g(x)dx = 3$. Khi đó $\\int_{-1}^{4} [f(x) - g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1192,
+      282,
+      1227
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      556,
+      1192,
+      633,
+      1227
+    ],
+    "category": "List-item",
+    "text": "B. 6."
+  },
+  {
+    "bbox": [
+      906,
+      1192,
+      973,
+      1227
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1255,
+      1192,
+      1348,
+      1227
+    ],
+    "category": "List-item",
+    "text": "D. -1."
+  },
+  {
+    "bbox": [
+      807,
+      1251,
+      924,
+      1290
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1310,
+      277,
+      1348
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      1366,
+      1007,
+      1463
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int_{-1}^{4} [f(x) - g(x)]dx = \\int_{-1}^{4} f(x)dx - \\int_{-1}^{4} g(x)dx = 2 - 3 = -1$."
+  },
+  {
+    "bbox": [
+      155,
+      1481,
+      1573,
+      1583
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong bài thực hành Vật lí đo hiệu điện thế của mạch điện, bạn Trúc Linh đã dùng hai vôn kế khác nhau để đo và cho kết quả như sau:"
+  },
+  {
+    "bbox": [
+      259,
+      1598,
+      1468,
+      1730
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hiệu điện thế đo được (Vôn)</td><td>[3,85;3,90)</td><td>[3,90;3,95)</td><td>[3,95;4,00)</td><td>[4,00;4,05)</td></tr><tr><td>Số lần Trúc Linh đo</td><td>1</td><td>3</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1785,
+      1246,
+      1830
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm cho kết quả đo của bạn Trúc Linh"
+  },
+  {
+    "bbox": [
+      205,
+      1850,
+      346,
+      1885
+    ],
+    "category": "List-item",
+    "text": "A. 0,002."
+  },
+  {
+    "bbox": [
+      556,
+      1850,
+      695,
+      1885
+    ],
+    "category": "List-item",
+    "text": "B. 0,012."
+  },
+  {
+    "bbox": [
+      906,
+      1850,
+      1041,
+      1885
+    ],
+    "category": "List-item",
+    "text": "C. 0,045."
+  },
+  {
+    "bbox": [
+      1255,
+      1850,
+      1392,
+      1885
+    ],
+    "category": "List-item",
+    "text": "D. 0,055."
+  },
+  {
+    "bbox": [
+      807,
+      1913,
+      924,
+      1952
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1972,
+      277,
+      2011
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      2025,
+      570,
+      2068
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu với giá trị đại diện"
+  },
+  {
+    "bbox": [
+      259,
+      2083,
+      1468,
+      2215
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hiệu điện thế đo được (Vôn)</td><td>[3,85;3,90)</td><td>[3,90;3,95)</td><td>[3,95;4,00)</td><td>[4,00;4,05)</td></tr><tr><td>Giá trị đại diện</td><td>3,875</td><td>3,925</td><td>3,975</td><td>4,025</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

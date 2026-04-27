@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      331,
+      78,
+      1455,
+      280
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = -688 + 91t \\\\ y = -185 + 75t \\\\ z = 11 \\\\ x^2 + y^2 + z^2 = 317^2 \\end{cases} \\Rightarrow (-688 + 91t)^2 + (-185 + 75t)^2 + 121 = 317^2 \\Rightarrow \\begin{bmatrix} t \\approx 6,483669 \\\\ t \\approx 4,516331 \\end{bmatrix}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      288,
+      1172,
+      335
+    ],
+    "category": "Text",
+    "text": "Do đó ta có $I(-97,986; 301,2752; 11)$, $J(-277,0139; 153,7249; 11)$."
+  },
+  {
+    "bbox": [
+      251,
+      338,
+      843,
+      381
+    ],
+    "category": "Text",
+    "text": "Độ dài đoạn thẳng $IJ$ là $IJ \\approx 231,9959$km."
+  },
+  {
+    "bbox": [
+      251,
+      383,
+      799,
+      427
+    ],
+    "category": "Text",
+    "text": "Đổi đơn vị đo: $900 \\text{ km/h} = 15 \\text{ km/phút}$"
+  },
+  {
+    "bbox": [
+      251,
+      434,
+      1351,
+      515
+    ],
+    "category": "Text",
+    "text": "Khoảng thời gian máy bay xuất hiện trên màn hình ra đa là $\\frac{231,9959}{15} \\approx 15,5$ phút."
+  },
+  {
+    "bbox": [
+      114,
+      551,
+      1533,
+      674
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Một công ty có ý định thiết kế một logo hình vuông có độ dài nửa đường chéo bằng 4. Biểu tượng 4 chiếc lá (được tô màu) được tạo thành bởi các đường cong đối xứng với nhau qua tâm của hình vuông và qua các đường chéo."
+  },
+  {
+    "bbox": [
+      738,
+      672,
+      1045,
+      982
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      982,
+      1533,
+      1159
+    ],
+    "category": "Text",
+    "text": "Một trong số các đường cong ở nửa bên phải của logo là một phần của đồ thị hàm số bậc ba dạng $y = ax^3 + bx^2 - x$ với hệ số $a < 0$. Để ký niệm ngày thành lập $2/3$, công ty thiết kế để tỉ số diện tích được tô màu so với phần không được tô màu bằng $\\frac{2}{3}$. Tính $a+b$."
+  },
+  {
+    "bbox": [
+      780,
+      1161,
+      1006,
+      1203
+    ],
+    "category": "Text",
+    "text": "**Hướng dẫn giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1203,
+      414,
+      1240
+    ],
+    "category": "Text",
+    "text": "**Trả lời: 0,4**"
+  },
+  {
+    "bbox": [
+      586,
+      1277,
+      1193,
+      1870
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1872,
+      1237,
+      1910
+    ],
+    "category": "Text",
+    "text": "Xét hệ trục toạ độ như hình vẽ, diện tích tam giác $OAB$ vuông cân tại $B$."
+  },
+  {
+    "bbox": [
+      251,
+      1912,
+      1533,
+      2050
+    ],
+    "category": "Text",
+    "text": "Theo giat thiết ta có $OA = 4$, $A(4;0)$. Hình vuông có nửa đường chéo bằng 4 nên diện tích hình vuông là 32. Diện tích tô màu là $\\frac{64}{5}$."
+  },
+  {
+    "bbox": [
+      251,
+      2058,
+      1119,
+      2138
+    ],
+    "category": "Text",
+    "text": "Xét riêng trong tam giác $OAB$ có diện tích phần tô màu bằng $\\frac{8}{5}$."
+  },
+  {
+    "bbox": [
+      251,
+      2138,
+      1356,
+      2183
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, diện tích phần tô màu trong tam giác $OAB$ được tính bởi công thức"
+  },
+  {
+    "bbox": [
+      256,
+      2187,
+      772,
+      2265
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{4} |ax^3 + bx^2 - x| dx = \\frac{8}{5}.\n$$"
+  }
+]

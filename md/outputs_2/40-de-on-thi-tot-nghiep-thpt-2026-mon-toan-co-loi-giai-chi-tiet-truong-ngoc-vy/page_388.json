@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      422,
+      135
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta có:"
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      806,
+      204
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đồng biến trên khoảng $(-\\infty; 2)$ và $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      231,
+      893,
+      319
+    ],
+    "category": "Text",
+    "text": "b) Hàm số nghịch biến trên khoảng $(2; 4)$ nên $f(3) < f(\\frac{7}{2})$"
+  },
+  {
+    "bbox": [
+      76,
+      338,
+      702,
+      384
+    ],
+    "category": "Text",
+    "text": "c) Giá trị cực tiểu của hàm số đã cho bằng $-2$."
+  },
+  {
+    "bbox": [
+      76,
+      402,
+      880,
+      452
+    ],
+    "category": "Text",
+    "text": "d) đồ thị hàm số đã cho có hai điểm cực trị $(2; 3)$ và $(4; -2)$"
+  },
+  {
+    "bbox": [
+      76,
+      478,
+      1267,
+      526
+    ],
+    "category": "Text",
+    "text": "Gọi đường thẳng đi qua hai điểm cực trị của đồ thị hàm số $y = f(x)$ có dạng: $y = ax + b$"
+  },
+  {
+    "bbox": [
+      76,
+      552,
+      748,
+      687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có hệ } \\begin{cases} 3 = 2a + b \\\\ -2 = 4a + b \\end{cases} \\Leftrightarrow \\begin{cases} a = -\\frac{5}{2} \\\\ b = 8 \\end{cases} \\Rightarrow y = -\\frac{5}{2}x + 8\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      714,
+      1387,
+      796
+    ],
+    "category": "Text",
+    "text": "Từ đó ta có phương trình đường thẳng $d$ đi qua hai điểm cực trị của đồ thị hàm số là $y = -\\frac{5}{2}x + 8$"
+  },
+  {
+    "bbox": [
+      76,
+      819,
+      999,
+      906
+    ],
+    "category": "Text",
+    "text": "Toạ độ giao điểm của $d$ với hai trục toạ độ là $C(\\frac{16}{5}; 0)$ và $D(0; 8)$."
+  },
+  {
+    "bbox": [
+      76,
+      933,
+      879,
+      1016
+    ],
+    "category": "Text",
+    "text": "Diện tích tam giác cần tính là $S = \\frac{1}{2}OC.OD = \\frac{1}{2} \\cdot \\frac{16}{5} \\cdot 8 = \\frac{64}{5}$."
+  },
+  {
+    "bbox": [
+      76,
+      1038,
+      1490,
+      1226
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian với hệ tọa độ $Oxyz$, cho hai đường thẳng chéo nhau $d: \\frac{x-2}{2} = \\frac{y-3}{3} = \\frac{z+4}{-5}$ và $d': \\frac{x+1}{3} = \\frac{y-4}{-2} = \\frac{z-4}{-1}$."
+  },
+  {
+    "bbox": [
+      76,
+      1249,
+      918,
+      1298
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $d$ có một vecto chỉ phương là $\\vec{u}_d = (2; 3; -5)$."
+  },
+  {
+    "bbox": [
+      76,
+      1325,
+      926,
+      1373
+    ],
+    "category": "Text",
+    "text": "b) Đường thẳng $d'$ có một vecto chỉ phương là $\\vec{u}_{d'} = (-3; 2; 1)$."
+  },
+  {
+    "bbox": [
+      76,
+      1399,
+      1424,
+      1547
+    ],
+    "category": "Text",
+    "text": "c) Phương trình đường vuông góc chung của $d$ và $d'$ có dạng $\\begin{cases} x = at \\\\ y = bt \\\\ z = c + t \\end{cases} (t \\in \\mathbb{R})$, khi đó $a + b + c = 1$."
+  },
+  {
+    "bbox": [
+      76,
+      1574,
+      1493,
+      1706
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu có bán kính nhỏ nhất tiếp xúc với cả hai đường thẳng $(d), (d')$ là $(x+1)^2 + (y+1)^2 + (z+2)^2 = 3$"
+  },
+  {
+    "bbox": [
+      727,
+      1732,
+      843,
+      1771
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1785,
+      893,
+      1906
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1968,
+      435,
+      2049
+    ],
+    "category": "Formula",
+    "text": "a) $d: \\frac{x-2}{2} = \\frac{y-3}{3} = \\frac{z+4}{-5}$"
+  },
+  {
+    "bbox": [
+      76,
+      2073,
+      880,
+      2121
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d$ có một vecto chỉ phương là $\\vec{u}_d = (2; 3; -5)$."
+  },
+  {
+    "bbox": [
+      76,
+      2148,
+      442,
+      2229
+    ],
+    "category": "Formula",
+    "text": "b) $d': \\frac{x+1}{3} = \\frac{y-4}{-2} = \\frac{z-4}{-1}$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      838,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

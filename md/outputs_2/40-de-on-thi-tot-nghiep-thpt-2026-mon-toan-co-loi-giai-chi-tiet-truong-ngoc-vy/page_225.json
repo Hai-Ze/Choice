@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      727,
+      98,
+      843,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      156,
+      196,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      77,
+      214,
+      1168,
+      264
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB}(2;3;-2)$. Suy ra đường thẳng $AB$ có vectơ chỉ phương là $\\vec{u}(2;3;-2)$."
+  },
+  {
+    "bbox": [
+      77,
+      292,
+      1463,
+      374
+    ],
+    "category": "Text",
+    "text": "Mà đường thẳng $AB$ đi qua điểm $A(1;-2;3)$ nên $AB$ có phương trình chính tắc là $\\frac{x-1}{2} = \\frac{y+2}{3} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      77,
+      449,
+      1493,
+      552
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      77,
+      570,
+      575,
+      614
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x) = 2x - e^{2x}$."
+  },
+  {
+    "bbox": [
+      77,
+      640,
+      751,
+      684
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số đã cho là $f'(x) = 2 - 2e^{2x}$."
+  },
+  {
+    "bbox": [
+      77,
+      713,
+      281,
+      757
+    ],
+    "category": "Text",
+    "text": "b) $f'(\\ln 2) = 6$"
+  },
+  {
+    "bbox": [
+      77,
+      780,
+      707,
+      824
+    ],
+    "category": "Text",
+    "text": "c) Số nghiệm của phương trình $f'(x) = 0$ là 2."
+  },
+  {
+    "bbox": [
+      77,
+      850,
+      1417,
+      896
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $[-1; \\ln 2]$ lần lượt là 0 và $2\\ln 2 - 4$."
+  },
+  {
+    "bbox": [
+      727,
+      925,
+      843,
+      962
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      979,
+      893,
+      1099
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      77,
+      1162,
+      571,
+      1204
+    ],
+    "category": "Text",
+    "text": "a) $f(x) = 2x - e^{2x} \\Rightarrow f'(x) = 2 - 2e^{2x}$"
+  },
+  {
+    "bbox": [
+      77,
+      1231,
+      554,
+      1277
+    ],
+    "category": "Text",
+    "text": "b) $f'(x) = 2 - 2e^{2x} \\Rightarrow f'(\\ln 2) = -6$"
+  },
+  {
+    "bbox": [
+      77,
+      1307,
+      417,
+      1348
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $f'(x) = 2 - 2e^{2x}$"
+  },
+  {
+    "bbox": [
+      82,
+      1376,
+      659,
+      1417
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow 2 - 2e^{2x} = 0 \\Leftrightarrow e^{2x} = 1 \\Leftrightarrow x = 0\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1440,
+      666,
+      1484
+    ],
+    "category": "Text",
+    "text": "Số nghiệm của phương trình $f'(x) = 0$ là 1."
+  },
+  {
+    "bbox": [
+      77,
+      1509,
+      779,
+      1557
+    ],
+    "category": "Text",
+    "text": "d) Hàm số đã cho xác định và liên tục trên $[-1; \\ln 2]$."
+  },
+  {
+    "bbox": [
+      82,
+      1585,
+      381,
+      1631
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow x = 0(N)\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1661,
+      789,
+      1740
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(-1) = -2 - \\frac{1}{e^2}; f(0) = 0; f(\\ln 2) = 2\\ln 2 - 4$"
+  },
+  {
+    "bbox": [
+      82,
+      1765,
+      512,
+      1901
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\begin{cases} \\max_{[-1;\\ln 2]} y = f(0) = 0 \\\\ \\min_{[-1;\\ln 2]} y = f(\\ln 2) = 2\\ln 2 - 4 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1924,
+      1493,
+      2226
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một ô tô đang di chuyển với vận tốc $21m/s$, khi còn cách trạm thu phí một đoạn thì người lái xe bắt đầu đạp phanh lần một, xe chuyển động thẳng, chậm dần đều với vận tốc biến thiên theo thời gian được xác định bởi quy luật $v_1(t) = -6t + 21(m/s)$, trong đó thời gian $t$ tính bằng giây, đến đúng trạm thu phí thì xe停止 hắn. Sau khi trả phí, xe ô tô bắt đầu chuyển động nhanh dần đều với vận tốc $v_2(t) = 5t(m/s)$; đi được 4s ô tô gặp chướng ngại vật lên phải phanh gấp lần hai. Khi đó:"
+  },
+  {
+    "bbox": [
+      77,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Page-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      155,
+      271,
+      193
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      160,
+      212,
+      1018,
+      348
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{0.3}(5-2x) > \\log_{\\frac{3}{10}} 9 \\Leftrightarrow \\begin{cases} 5-2x > 0 \\\\ 5-2x < 9 \\end{cases} \\Leftrightarrow \\begin{cases} x < \\frac{5}{2} \\\\ x > -2 \\end{cases} \\Leftrightarrow -2 < x < \\frac{5}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      374,
+      859,
+      468
+    ],
+    "category": "Text",
+    "text": "Vậy bất phương trình có tập nghiệm là $S = \\left(-2; \\frac{5}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      157,
+      490,
+      1572,
+      593
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      157,
+      613,
+      687,
+      698
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\frac{2x^2 - 3x}{e^x}$."
+  },
+  {
+    "bbox": [
+      157,
+      717,
+      825,
+      762
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định của hàm số đã cho là $D = \\mathbb{R} \\setminus \\{0\\}$."
+  },
+  {
+    "bbox": [
+      157,
+      790,
+      497,
+      875
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = \\frac{-2x^2 + 7x - 3}{e^{2x}}$."
+  },
+  {
+    "bbox": [
+      157,
+      897,
+      1009,
+      939
+    ],
+    "category": "Text",
+    "text": "c) Phương trình $f'(x) = 0$ có hai nghiệm phân biệt trong (0;4)."
+  },
+  {
+    "bbox": [
+      157,
+      965,
+      952,
+      1045
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số đã cho trong (0;4) bằng $\\frac{9}{e^3}$."
+  },
+  {
+    "bbox": [
+      807,
+      1068,
+      925,
+      1106
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1122,
+      971,
+      1244
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1298,
+      654,
+      1342
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định của hàm số là $D = \\mathbb{R}$"
+  },
+  {
+    "bbox": [
+      157,
+      1362,
+      862,
+      1458
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = \\frac{(4x-3)e^x - e^x(2x^2-3x)}{e^{2x}} = \\frac{-2x^2 + 7x - 3}{e^x}$"
+  },
+  {
+    "bbox": [
+      157,
+      1481,
+      842,
+      1625
+    ],
+    "category": "Formula",
+    "text": "c) $f'(x) = 0 \\Leftrightarrow -2x^2 + 7x - 3 = 0 \\Leftrightarrow \\begin{cases} x = 3 \\in (0;4) \\\\ x = \\frac{1}{2} \\in (0;4) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      157,
+      1652,
+      187,
+      1688
+    ],
+    "category": "Text",
+    "text": "d)"
+  },
+  {
+    "bbox": [
+      157,
+      1704,
+      608,
+      1958
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{1}{2}$</td><td>3</td><td>4</td></tr><tr><td>$y'$</td><td>-</td><td>0</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$y$</td><td>0</td><td>$\\frac{-1}{\\sqrt{e}}$</td><td>$\\frac{9}{e^3}$</td><td>$\\frac{20}{e^4}$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1979,
+      919,
+      2060
+    ],
+    "category": "Text",
+    "text": "Giá trị lớn nhất của hàm số đã cho trong (0;4) bằng $\\frac{9}{e^3}$."
+  },
+  {
+    "bbox": [
+      157,
+      2079,
+      1572,
+      2190
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một người điều�nkiển xe máy với vận tốc 36 km/h thì phát hiện ở phía trước cách vị trí xe một đoạn 50 mét có một công trường đang thi công có gắn biển báo giới hạn tốc độ tối đa cho phép là"
+  },
+  {
+    "bbox": [
+      157,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      921,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

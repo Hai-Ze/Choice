@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      252,
+      76,
+      1185,
+      121
+    ],
+    "category": "Text",
+    "text": "Để lợi nhuận thu được lớn hơn 40 triệu đồng = 40000 (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      256,
+      127,
+      969,
+      174
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow L(x) > 40000 \\Leftrightarrow -0,02x^2 + 150x - 3000 > 40000.\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      188,
+      1097,
+      231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -0,02x^2 + 150x - 43000 > 0 \\Leftrightarrow 298,551... < x < 7201,448...\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      244,
+      1151,
+      298
+    ],
+    "category": "Text",
+    "text": "Giao với điều kiện $(x \\in \\mathbb{N}^*; 1 \\le x \\le 5000) \\Rightarrow x_{\\min} = 299$ (sản phẩm)"
+  },
+  {
+    "bbox": [
+      252,
+      306,
+      997,
+      352
+    ],
+    "category": "Text",
+    "text": "Vậy doanh nghiệp cần sản xuất ít nhất 299 (sản phẩm)"
+  },
+  {
+    "bbox": [
+      114,
+      352,
+      1629,
+      551
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một cửa hàng điện tử dự định kinh doanh hai loại tivi: loại 50 inch và loại 55 inch với số vốn ban đầu không vượt quá 1,8 tỉ đồng. Giá nhập vào ti vi loại 50 inch là 15 triệu đồng/1 chiếc và lợi nhuận dự kiến 2 triệu đồng/1 chiếc, giá nhập vào tivi loại 55 inch là 25 triệu đồng/1 chiếc và lợi nhuận dự kiến 3 triệu đồng/1 chiếc. Cửa hàng ước tính rằng tổng nhu cầu tiêu pun của thị trường sẽ không vượt quá 100 chiếc tivi cả hai loại. Lợi nhuận lớn nhất mà cửa hàng có thể thu được là bao nhiêu triệu đồng (sau khi đã bán hết hàng)?"
+  },
+  {
+    "bbox": [
+      884,
+      551,
+      1000,
+      589
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      614,
+      451,
+      654
+    ],
+    "category": "Text",
+    "text": "Đáp án: 230."
+  },
+  {
+    "bbox": [
+      252,
+      673,
+      1136,
+      719
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ tương ứng là số ti vi loại 50 inch và 55 inch cần nhập về."
+  },
+  {
+    "bbox": [
+      252,
+      750,
+      1075,
+      898
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, ta có các điều kiện ràng buộc $$ \\begin{cases} x \\ge 0, y \\ge 0 \\\\ 15x + 25y \\le 1800 \\\\ x + y \\le 100 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      252,
+      926,
+      1210,
+      973
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình được mô tả bằng tức giác $OABC$."
+  },
+  {
+    "bbox": [
+      252,
+      989,
+      833,
+      1440
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1466,
+      1143,
+      1514
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận của cửa hàng sau khi bán hết hàng là $F(x, y) = 2x + 3y$"
+  },
+  {
+    "bbox": [
+      252,
+      1550,
+      1627,
+      1657
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm giá trị lớn nhất của hàm $F(x, y)$ trên miền tức giác $OABC$ với các định $O(0;0), A(0;72), B(70;30), C(100;0)$."
+  },
+  {
+    "bbox": [
+      252,
+      1690,
+      1187,
+      1738
+    ],
+    "category": "Text",
+    "text": "Ta có $F(0;0) = 0, F(0;72) = 216, F(70;30) = 230, F(100;0) = 200$."
+  },
+  {
+    "bbox": [
+      252,
+      1771,
+      1479,
+      1819
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số $F(x, y)$ đạt giá trị lớn nhất bằng 230 (Triệu đồng) tại $x = 70, y = 30$."
+  },
+  {
+    "bbox": [
+      114,
+      1917,
+      1629,
+      2049
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh 1, $SA = 2$ và vuông góc với $(ABCD)$. Gọi $M$ là trung điểm của $SD$. Tính khoảng cách giữa hai đường thẳng $SB$ và $CM$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      884,
+      2051,
+      1000,
+      2089
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  }
+]

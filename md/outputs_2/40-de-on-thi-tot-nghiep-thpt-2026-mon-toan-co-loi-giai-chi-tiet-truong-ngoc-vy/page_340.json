@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      195,
+      1296,
+      244
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 2$ và $u_6 = 486$. Công bội $q$ bằng"
+  },
+  {
+    "bbox": [
+      206,
+      273,
+      1389,
+      354
+    ],
+    "category": "Text",
+    "text": "A. $q = 3$.\nB. $q = 5$.\nC. $q = \\frac{3}{2}$.\nD. $q = \\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      807,
+      378,
+      924,
+      417
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      437,
+      279,
+      475
+    ],
+    "category": "Text",
+    "text": "**Chọn A.**"
+  },
+  {
+    "bbox": [
+      155,
+      493,
+      1101,
+      595
+    ],
+    "category": "Text",
+    "text": "Theo đề ra ta có: $\\begin{cases} u_1 = 2 \\\\ u_6 = 486 \\end{cases} \\Leftrightarrow \\begin{cases} u_1 = 2 \\\\ 486 = u_1 \\cdot q^5 \\end{cases} \\Rightarrow q^5 = 243 = 3^5 \\Rightarrow q = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      618,
+      798,
+      659
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nghiệm của phương trình $\\sin x = 1$ là:"
+  },
+  {
+    "bbox": [
+      206,
+      686,
+      1253,
+      868
+    ],
+    "category": "Text",
+    "text": "A. $x = -\\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z}$.\nB. $x = -\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$.\nC. $x = k\\pi, k \\in \\mathbb{Z}$.\nD. $x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      807,
+      891,
+      924,
+      930
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      949,
+      271,
+      987
+    ],
+    "category": "Text",
+    "text": "**Chọn D**"
+  },
+  {
+    "bbox": [
+      160,
+      1014,
+      580,
+      1088
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin x = 1 \\Leftrightarrow x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1111,
+      1011,
+      1166
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tập nghiệm của bất phương trình $\\log_3(18 - x^2) \\ge 2$ là"
+  },
+  {
+    "bbox": [
+      206,
+      1194,
+      1562,
+      1243
+    ],
+    "category": "Text",
+    "text": "A. $(-\\infty; 3]$.\nB. $(0; 3]$.\nC. $[-3; 3]$.\nD. $(-\\infty; -3] \\cup [3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      1267,
+      924,
+      1306
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1326,
+      271,
+      1364
+    ],
+    "category": "Text",
+    "text": "**Chọn C**"
+  },
+  {
+    "bbox": [
+      155,
+      1383,
+      782,
+      1444
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $18 - x^2 > 0 \\Leftrightarrow x \\in (-3\\sqrt{2}; 3\\sqrt{2})$ (*)."
+  },
+  {
+    "bbox": [
+      155,
+      1469,
+      961,
+      1524
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có: $\\log_3(18 - x^2) \\ge 2 \\Leftrightarrow 18 - x^2 \\ge 9 \\Leftrightarrow -3 \\le x \\le 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1549,
+      1272,
+      1598
+    ],
+    "category": "Text",
+    "text": "Kết hợp với điều kiện (*) ta được tập nghiệm của bất phương trình đã cho là $[-3; 3]$."
+  },
+  {
+    "bbox": [
+      155,
+      1625,
+      1272,
+      1674
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R} \\setminus \\{-1\\}$ và bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      481,
+      1705,
+      1246,
+      1969
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1988,
+      550,
+      2033
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      195,
+      2052,
+      1109,
+      2101
+    ],
+    "category": "Text",
+    "text": "A. Hàm số đã cho nghịch biến trên các khoảng $(-\\infty; -2)$ và $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      2127,
+      858,
+      2176
+    ],
+    "category": "Text",
+    "text": "B. Hàm số đã cho đồng biến trên khoảng $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      195,
+      2197,
+      784,
+      2242
+    ],
+    "category": "Text",
+    "text": "C. Hàm số đã cho có điểm cực tiểu bằng 0."
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

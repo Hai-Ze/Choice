@@ -1,0 +1,329 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      691,
+      182
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của điểm $D$ là $(0; 3; 12)$."
+  },
+  {
+    "bbox": [
+      188,
+      188,
+      742,
+      238
+    ],
+    "category": "List-item",
+    "text": "b) Tọa độ của vectơ $\\overrightarrow{MD}$ là $(2; -3; 0)$."
+  },
+  {
+    "bbox": [
+      190,
+      248,
+      1209,
+      294
+    ],
+    "category": "List-item",
+    "text": "c) Một vectơ pháp tuyến của mặt phẳng $(MDC')$ có tọa độ là $(3; 2; 1)$."
+  },
+  {
+    "bbox": [
+      188,
+      304,
+      1094,
+      350
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách từ điểm $A'$ đến mặt phẳng $(MDC')$ lớn hơn 5."
+  },
+  {
+    "bbox": [
+      154,
+      374,
+      198,
+      410
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      372,
+      446,
+      435
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      202,
+      449,
+      1049,
+      491
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết bài toán, ta xác định tọa độ các level như sau:"
+  },
+  {
+    "bbox": [
+      202,
+      510,
+      588,
+      553
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gốc tọa độ } O \\equiv A'(0; 0; 0).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      571,
+      618,
+      613
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tia } Ox \\equiv A'B' \\Rightarrow B'(4; 0; 0).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      632,
+      620,
+      674
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tia } Oy \\equiv A'D' \\Rightarrow D'(0; 3; 0).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      694,
+      612,
+      736
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tia } Oz \\equiv A'A \\Rightarrow A(0; 0; 12).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      755,
+      888,
+      797
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ đó suy ra: } B(4; 0; 12), D(0; 3; 12), C'(4; 3; 0).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      808,
+      1279,
+      891
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Điểm } M \\text{ là trung điểm của } AB \\text{ nên } M \\left( \\frac{0+4}{2}; \\frac{0+0}{2}; \\frac{12+12}{2} \\right) = (2; 0; 12).\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      908,
+      765,
+      952
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Tọa độ điểm $D$ là $(0; 3; 12)$."
+  },
+  {
+    "bbox": [
+      214,
+      961,
+      1541,
+      1013
+    ],
+    "category": "Text",
+    "text": "b) Sai. Ta có $\\overrightarrow{MD} = (0 - 2; 3 - 0; 12 - 12) = (-2; 3; 0)$. Vectơ $(2; -3; 0)$ chính là vectơ $\\overrightarrow{DM}$."
+  },
+  {
+    "bbox": [
+      154,
+      1028,
+      1545,
+      1119
+    ],
+    "category": "Text",
+    "text": "c) Đúng. Xét mặt phẳng $(MDC')$ đi qua các điểm $M(2; 0; 12)$, $D(0; 3; 12)$, $C'(4; 3; 0)$. Ta có: $\\overrightarrow{MD} = (-2; 3; 0)$ và $\\overrightarrow{DC'} = (4 - 0; 3 - 3; 0 - 12) = (4; 0; -12)$."
+  },
+  {
+    "bbox": [
+      202,
+      1135,
+      858,
+      1179
+    ],
+    "category": "Text",
+    "text": "Vectơ pháp tuyến của mặt phẳng $(MDC')$ là:"
+  },
+  {
+    "bbox": [
+      202,
+      1195,
+      1387,
+      1306
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{n} = [\\overrightarrow{MD}, \\overrightarrow{DC'}] = \\left( \\begin{vmatrix} 3 & 0 \\\\ 0 & -12 \\end{vmatrix} ; \\begin{vmatrix} 0 & -2 \\\\ -12 & 4 \\end{vmatrix} ; \\begin{vmatrix} -2 & 3 \\\\ 4 & 0 \\end{vmatrix} \\right) = (-36; -24; -12) = -12(3; 2; 1).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1323,
+      1094,
+      1367
+    ],
+    "category": "Text",
+    "text": "Vậy $(3; 2; 1)$ là một vectơ pháp tuyến của mặt phẳng $(MDC')$."
+  },
+  {
+    "bbox": [
+      214,
+      1384,
+      869,
+      1428
+    ],
+    "category": "Text",
+    "text": "d) Sai. Phương trình mặt phẳng $(MDC')$ là:"
+  },
+  {
+    "bbox": [
+      202,
+      1446,
+      1068,
+      1490
+    ],
+    "category": "Formula",
+    "text": "$$\n3(x - 0) + 2(y - 3) + 1(z - 12) = 0 \\Leftrightarrow 3x + 2y + z - 18 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1506,
+      1060,
+      1550
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ điểm $A'(0; 0; 0)$ đến mặt phẳng $(MDC')$ là:"
+  },
+  {
+    "bbox": [
+      202,
+      1562,
+      1090,
+      1649
+    ],
+    "category": "Formula",
+    "text": "$$\nd(A', (MDC')) = \\frac{|3 \\cdot 0 + 2 \\cdot 0 + 1 \\cdot 0 - 18|}{\\sqrt{3^2 + 2^2 + 1^2}} = \\frac{18}{\\sqrt{14}} \\approx 4,81 < 5.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1666,
+      192,
+      1701
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1664,
+      1547,
+      1749
+    ],
+    "category": "Text",
+    "text": "Bài 3. Lớp 12A có 40 học sinh, trong đó có 8 em tham gia Câu lạc bộ Toán học.úp thi học kỳ 1 môn Toán của cả lớp được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      520,
+      1755,
+      1176,
+      1870
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[5; 6)</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10]</td></tr><tr><td>Tần số</td><td>2</td><td>3</td><td>8</td><td>15</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1880,
+      769,
+      1922
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng, sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      1941,
+      747,
+      1983
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên mẫu số liệu là 5."
+  },
+  {
+    "bbox": [
+      190,
+      1996,
+      1275,
+      2039
+    ],
+    "category": "List-item",
+    "text": "b) Có ít nhất 13 học sinh có điểm thi thấp hơn điểm trung bình của cả lớp."
+  },
+  {
+    "bbox": [
+      190,
+      2052,
+      1547,
+      2183
+    ],
+    "category": "List-item",
+    "text": "c) Biết 8 học sinh trong Câu lạc bộ Toán học gồm có 5 học sinh nam và 3 học sinh nữ. Trong buổi events tuyến dương khen thưởng, 8 học sinh trong Câu lạc bộ Toán học được sắp xếp ngẫu nhiên thành một hàng ngang để trao quà. Xác suất không có hai học sinh nữ nào đứng cạnh"
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      173,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1587,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "55"
+  }
+]

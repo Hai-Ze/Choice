@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      155,
+      1455,
+      256
+    ],
+    "category": "Text",
+    "text": "trọng là 10%. Một bệnh nhân được điều trị ngẫu nhiên bằng một trong hai phác đồ (xác suất chọn mỗi phác đồ là 50%)."
+  },
+  {
+    "bbox": [
+      222,
+      263,
+      1446,
+      311
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất bệnh nhân điều trị bằng phác đồ $A$ và được chữa khỏi bệnh là 0,6."
+  },
+  {
+    "bbox": [
+      222,
+      318,
+      1262,
+      365
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để bệnh nhân bị tác dụng phụ nghiêm trọng là 0,075."
+  },
+  {
+    "bbox": [
+      222,
+      372,
+      1446,
+      473
+    ],
+    "category": "List-item",
+    "text": "c) Nếu biết bệnh nhân này gặp tác dụng phụ nghiêm trọng thì xác suất bệnh nhân đã được điều trị bằng phác đồ $B$ lớn hơn 0,65."
+  },
+  {
+    "bbox": [
+      222,
+      477,
+      1446,
+      688
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng trong mỗi phác đồ điều trị thì biến cố “bệnh nhân được chữa khỏi bệnh” và biến cố “bệnh nhân không bị tác dụng phụ nghiêm trọng” là độc lập với nhau. Xác suất bệnh nhân khỏi bệnh và không bị tác dụng phụ nghiêm trọng là 0,6."
+  },
+  {
+    "bbox": [
+      193,
+      729,
+      1184,
+      1257
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có một cái chòi hình “chóp cong”, trong đó mái chòi ($H$) có dạng hình “chóp lục giác cong đều” như hình vẽ bên. Đáy của ($H$) là một hình lục giác đều tâm $O$, đường chéo qua tâm $O$ có độ dài là 10 m, chiều cao $SO = 10$ m ($SO$ vuông góc với mặt phẳng đáy). Các “cạnh bên” của ($H$) là các sợi dây thep nằm trên các đường parabol có trục đối xứng song song với $SO$. Giả sử hình tạo bởi các đoạn giao tuyến của ($H$) với mặt phẳng ($\\alpha$) vuông góc với $SO$ là một lục giác đều. Biết rằng khi mặt phẳng ($\\alpha$) đi qua trung điểm của $SO$ thì lục giác đều có cạnh $l = 2$ m."
+  },
+  {
+    "bbox": [
+      1204,
+      741,
+      1446,
+      1103
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      222,
+      1270,
+      1446,
+      1367
+    ],
+    "category": "List-item",
+    "text": "a) Diện tích hình lục giác đều nói trên khi ($\\alpha$) đi qua trung điểm của $SO$ là $6\\sqrt{3}$ m$^2$."
+  },
+  {
+    "bbox": [
+      222,
+      1374,
+      1446,
+      1546
+    ],
+    "category": "List-item",
+    "text": "b) Chọn hệ trục tọa độ $Oxy$ sao cho gốc tọa độ là điểm $O$ trên hình vẽ, $S$ thuộc tia $Oy$, đỉnh $A$ của lục giác đều thuộc tia $Ox$ thì “cạnh bên” $SA$ nằm trên đường parabol có phương trình $y = \\frac{1}{6}x^2 - \\frac{17}{6}x + 10$."
+  },
+  {
+    "bbox": [
+      222,
+      1542,
+      1446,
+      1675
+    ],
+    "category": "List-item",
+    "text": "c) Nếu ($\\alpha$) cắt $SO$ và “cạnh bên” $SA$ lần lượt tại $M$ và $B$, mà $OM = t$ thì độ dài đoạn $BM$ là $\\frac{17}{2} - \\sqrt{t + \\frac{49}{4}}$."
+  },
+  {
+    "bbox": [
+      222,
+      1675,
+      1333,
+      1723
+    ],
+    "category": "List-item",
+    "text": "d) Thể tích phần không gian nằm bên trong mái chòi ($H$) là 171,4 m$^3$."
+  },
+  {
+    "bbox": [
+      193,
+      1749,
+      1455,
+      2019
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một phòng thí nghiệm có máy đo nồng độ khí $\\text{CO}_2$ cho thấy nồng độ khí $\\text{CO}_2$ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{1800t}{t^2 + 4}$ (ppm), với $t \\ge 0$ (Khi nói nồng độ khí $\\text{CO}_2$ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí $\\text{CO}_2$)."
+  },
+  {
+    "bbox": [
+      222,
+      2026,
+      1244,
+      2074
+    ],
+    "category": "List-item",
+    "text": "a) Nồng độ khí $\\text{CO}_2$ trong phòng tại thời điểm $t = 0$ là 400 (ppm)."
+  },
+  {
+    "bbox": [
+      222,
+      2077,
+      744,
+      2178
+    ],
+    "category": "List-item",
+    "text": "b) $f'(t) = \\frac{1800t^2 - 7200}{(t^2 + 4)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

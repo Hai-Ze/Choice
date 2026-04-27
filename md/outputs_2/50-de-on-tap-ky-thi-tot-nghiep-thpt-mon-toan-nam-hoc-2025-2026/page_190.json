@@ -1,0 +1,158 @@
+[
+  {
+    "bbox": [
+      178,
+      42,
+      1011,
+      87
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      185,
+      185
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      220,
+      157,
+      1567,
+      399
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>(b)</td><td>Tọa độ đỉnh $B'(-1;4;3)$.</td><td></td><td></td></tr><tr><td>(c)</td><td>Tọa độ của vecto $\\overrightarrow{AD} = (1;0;-2)$.</td><td></td><td></td></tr><tr><td>(d)</td><td>Phương trình mặt phẳng $(CB'D')$ có dạng $ax+by+cz-7=0$. Khi đó $a+b-c=10$.</td><td></td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      82,
+      402,
+      1532,
+      715
+    ],
+    "category": "List-item",
+    "text": "» **Câu 16.** Một xưởng sơn dự định sản xuất hai loại sơn là sơn nội thất và sơn ngoài trời. Nguyên liệu để sản xuất gồm hai loại $A$ và $B$ với trữ lượng lần lượt là 6 tấn và 8 tấn. Để sản xuất một tấn sơn nội thất cần 2 tấn nguyên liệu $A$ và 1 tấn nguyên liệu $B$. Để sản xuất một tấn sơn ngoài trời cần 1 tấn nguyên liệu $A$ và 2 tấn nguyên liệu $B$. Kết quả nghiên cứu thị trường cho thấy nhu cầu sơn nội thất không quá 2 tấn và không nhiều hơn nhu cầu sơn ngoài trời 1 tấn. Giá bán một tấn sơn nội thất là 60 triệu đồng, một tấn sơn ngoài trời là 30 triệu đồng (giả sử rằng số sơn sản xuất ra đều được bán hết). Khi đó:"
+  },
+  {
+    "bbox": [
+      220,
+      712,
+      1567,
+      1114
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M�nh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Biểu thức doanh thu $F(x;y) = 30x + 60y$ (triệu đồng).</td><td></td><td></td></tr><tr><td>(b)</td><td>Gọi $x;y$ lần lượt là số tấn sơn nội thất và sơn ngoài trời cần sản xuất $x \\ge 0, y \\ge 0$.</td><td></td><td></td></tr><tr><td>(c)</td><td>Trong các phương án sản xuất đem lại doanh thu lớn nhất, biết rằng tổng số lượng sơn cả hai loại dự định sản xuất không quá 4,5 tấn. Khi đó lượng sơn nội thất cần sản xuất ít nhất là 1,4 tấn.</td><td></td><td></td></tr><tr><td>(d)</td><td>Doanh thu lớn nhất của xưởng là 180 triệu đồng.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      32,
+      1114,
+      407,
+      1159
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      82,
+      1163,
+      1532,
+      1584
+    ],
+    "category": "List-item",
+    "text": "» **Câu 17.** Trong trò chơi mô phỏng công viên giải trí Roller Coaster Tycoon, một kỹ sư thiết kế một đoạn đường ray hình l胜sóng. Trong hệ trục tọa độ $Oxy$, đoạn đường ray này được mô hình hóa bởi đồ thị của hàm số: $y = x^3 - 6x^2 + 9x + 1$, với $0 \\le x \\le 4$. Biết hệ trục tọa độ được thiết lập sao cho trục $Ox$ nằm ngang (đóng vai trò là mặt sàn kỹ thuật) và mỗi đơn vị độ dài trên các trục tọa độ tương ứng với 2 mét trên thực tế. Để kiểm tra độ ổn định của cấu trúc, kỹ sư sử dụng thiết bị laser để đo khoảng cách trực tiếp giữa hai điểm chốt kỹ thuật đặt tại điểm cực đại $A$ và điểm cực tiểu $B$ của đồ thị hàm số trên. Hãy tính độ dài thực tế của khoảng cách giữa hai điểm $A$ và $B$. (làm tròn kết quả cuối hàng phần trăm theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      1057,
+      1587,
+      1202,
+      1627
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1227,
+      1581,
+      1529,
+      1632
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      1635,
+      1532,
+      1800
+    ],
+    "category": "List-item",
+    "text": "» **Câu 18.** Trong không gian $Oxyz$, cho mặt phẳng $(P)$ qua điểm $M(2;4;8)$ và cắt các tia $Ox,Oy,Oz$ lần lượt tại $A(a;0;0)$, $B(0;b;0)$, $C(0;0;c)$ sao cho $OA = 2OB = 4OC$. Tính $T = a+b+c$. Viết kết quả dưới dạng thập phân, nếu có."
+  },
+  {
+    "bbox": [
+      1057,
+      1804,
+      1202,
+      1843
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1227,
+      1796,
+      1529,
+      1847
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      1849,
+      1532,
+      2076
+    ],
+    "category": "List-item",
+    "text": "» **Câu 19.** Để chuẩn bị cho event, một đơn vị thi công dựng một cổngdarh dạng vòm Parabol có chiều cao 4m và chiều rộng chân cổng là 4m. Ở chính giữa cổng, người ta thiết kế một lối đi hình chữ nhật cao 2m và rộng 2m. Phần diện tích mặt trước của cổng Parabol (sau khi đã trừ đi hình chữ nhật), được chia thành 8 lớp ngang, mỗi lớp cao 0,5m để ốp tấm nhôm Alu trang trí có màu khác nhau (như bản vẽ thiết kế hình bên dưới)."
+  },
+  {
+    "bbox": [
+      79,
+      2247,
+      582,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1282,
+      2251,
+      1441,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 189"
+  },
+  {
+    "bbox": [
+      1449,
+      2161,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

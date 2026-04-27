@@ -1,0 +1,412 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      765,
+      111,
+      884,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      157,
+      332,
+      195
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      201,
+      1574,
+      316
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $ax+by+cz+d=0$ có một vec tơ pháp tuyến là $\\vec{n}=(a;b;c)$ nên mặt phẳng $(P): 2x-y-3=0$ có một vectơ pháp tuyến là $\\vec{n}=(2;-1;0)$."
+  },
+  {
+    "bbox": [
+      74,
+      327,
+      1192,
+      375
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Hàm số nào sau đây là một nguyên hàm của hàm số $f(x) = \\sin x$?"
+  },
+  {
+    "bbox": [
+      211,
+      385,
+      448,
+      433
+    ],
+    "category": "List-item",
+    "text": "A. $F_1(x) = \\sin x$."
+  },
+  {
+    "bbox": [
+      550,
+      385,
+      807,
+      433
+    ],
+    "category": "List-item",
+    "text": "B. $F_2(x) = -\\sin x$."
+  },
+  {
+    "bbox": [
+      862,
+      385,
+      1097,
+      433
+    ],
+    "category": "List-item",
+    "text": "C. $F_3(x) = \\cos x$."
+  },
+  {
+    "bbox": [
+      1173,
+      385,
+      1441,
+      433
+    ],
+    "category": "List-item",
+    "text": "D. $F_4(x) = -\\cos x$."
+  },
+  {
+    "bbox": [
+      765,
+      444,
+      884,
+      485
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      485,
+      614,
+      547
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int \\sin x dx = -\\cos x + C$."
+  },
+  {
+    "bbox": [
+      74,
+      555,
+      1452,
+      601
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, mặt cầu có tâm $I(2;1;-3)$ và bán kính 9 có phương trình là"
+  },
+  {
+    "bbox": [
+      211,
+      610,
+      699,
+      666
+    ],
+    "category": "List-item",
+    "text": "A. $(x-2)^2 + (y-1)^2 + (z+3)^2 = 81$."
+  },
+  {
+    "bbox": [
+      862,
+      610,
+      1344,
+      666
+    ],
+    "category": "List-item",
+    "text": "B. $(x+2)^2 + (y+1)^2 + (z-3)^2 = 81$."
+  },
+  {
+    "bbox": [
+      211,
+      675,
+      683,
+      731
+    ],
+    "category": "List-item",
+    "text": "C. $(x-2)^2 + (y-1)^2 + (z+3)^2 = 9$."
+  },
+  {
+    "bbox": [
+      862,
+      675,
+      1336,
+      731
+    ],
+    "category": "List-item",
+    "text": "D. $(x+2)^2 + (y+1)^2 + (z-3)^2 = 9$."
+  },
+  {
+    "bbox": [
+      765,
+      740,
+      884,
+      781
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      785,
+      332,
+      823
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      825,
+      1137,
+      873
+    ],
+    "category": "Text",
+    "text": "Áp dụng định nghĩa phương trình mặt cầu có tâm và bán kính"
+  },
+  {
+    "bbox": [
+      214,
+      875,
+      694,
+      931
+    ],
+    "category": "Formula",
+    "text": "$$\n(x - x_I)^2 + (y - y_I)^2 + (z - z_I)^2 = R^2\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      940,
+      1574,
+      1044
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, khoảng cach từ một điểm $M_0(x_0; y_0; z_0)$ đến một mặt phẳng $(P): ax+by+cz+d=0$ bằng:"
+  },
+  {
+    "bbox": [
+      211,
+      1053,
+      458,
+      1156
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{|ax_0 + by_0 + c|}{\\sqrt{a^2 + b^2}}$."
+  },
+  {
+    "bbox": [
+      862,
+      1053,
+      1171,
+      1156
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{|ax_0 + by_0 + cz_0 + d|}{\\sqrt{a^2 + b^2 + c^2}}$."
+  },
+  {
+    "bbox": [
+      211,
+      1159,
+      528,
+      1270
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\sqrt{a^2 + b^2 + c^2}}{|ax_0 + by_0 + cz_0 + d|}$."
+  },
+  {
+    "bbox": [
+      862,
+      1166,
+      1182,
+      1261
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{|ax_0 + by_0 + cz_0 + d|}{a^2 + b^2 + c^2}$."
+  },
+  {
+    "bbox": [
+      765,
+      1278,
+      884,
+      1319
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1324,
+      328,
+      1362
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      217,
+      1368,
+      660,
+      1470
+    ],
+    "category": "Formula",
+    "text": "$$\nd(M_0; (P)) = \\frac{|ax_0 + by_0 + cz_0 + d|}{\\sqrt{a^2 + b^2 + c^2}}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1474,
+      1577,
+      1566
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Khi thống kê chiều cao (đơn vị: centimet) của học sinh lớp 12A, người ta thu được mẫu số liệu ghép nhóm như Bảng 1. Khoảng biến thiên của mẫu số liệu ghép nhóm đó bằng:"
+  },
+  {
+    "bbox": [
+      579,
+      1606,
+      1069,
+      1994
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Tần số</td></tr></thead><tbody><tr><td>[155;160)</td><td>2</td></tr><tr><td>[160;165)</td><td>5</td></tr><tr><td>[165;170)</td><td>21</td></tr><tr><td>[170;175)</td><td>11</td></tr><tr><td>[175;180)</td><td>1</td></tr><tr><td></td><td>n = 40</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      771,
+      2001,
+      877,
+      2041
+    ],
+    "category": "Caption",
+    "text": "Bảng 1"
+  },
+  {
+    "bbox": [
+      211,
+      2044,
+      349,
+      2082
+    ],
+    "category": "List-item",
+    "text": "A. 25cm."
+  },
+  {
+    "bbox": [
+      550,
+      2044,
+      664,
+      2082
+    ],
+    "category": "List-item",
+    "text": "B. 5cm."
+  },
+  {
+    "bbox": [
+      862,
+      2044,
+      996,
+      2082
+    ],
+    "category": "List-item",
+    "text": "C. 20cm."
+  },
+  {
+    "bbox": [
+      1173,
+      2044,
+      1322,
+      2082
+    ],
+    "category": "List-item",
+    "text": "D. 180cm."
+  },
+  {
+    "bbox": [
+      765,
+      2090,
+      884,
+      2131
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      2135,
+      332,
+      2173
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      2178,
+      741,
+      2222
+    ],
+    "category": "Text",
+    "text": "Đầu mứt trái của nhóm 1 là $a_1 = 155$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

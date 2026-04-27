@@ -1,0 +1,412 @@
+[
+  {
+    "bbox": [
+      118,
+      98,
+      1333,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{SA} + \\overline{SB} + \\overline{SC} = \\overline{SG} + \\overline{GA} + \\overline{SG} + \\overline{GB} + \\overline{SG} + \\overline{GC} = 3\\overline{SG} + \\overline{GA} + \\overline{GB} + \\overline{GC} = 3\\overline{SG} \\rightarrow \\text{Chọn C.}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      190,
+      761,
+      232
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Nghiệm của phương trình $3^{2x+1} = 243$ là"
+  },
+  {
+    "bbox": [
+      153,
+      234,
+      280,
+      267
+    ],
+    "category": "List-item",
+    "text": "A. $x=3$."
+  },
+  {
+    "bbox": [
+      510,
+      234,
+      633,
+      267
+    ],
+    "category": "List-item",
+    "text": "B. $x=1$."
+  },
+  {
+    "bbox": [
+      868,
+      234,
+      989,
+      267
+    ],
+    "category": "List-item",
+    "text": "C. $x=2$."
+  },
+  {
+    "bbox": [
+      1223,
+      234,
+      1346,
+      267
+    ],
+    "category": "List-item",
+    "text": "D. $x=5$."
+  },
+  {
+    "bbox": [
+      115,
+      280,
+      219,
+      315
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      119,
+      337,
+      1005,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\n3^{2x+1} = 243 \\Leftrightarrow 2x+1 = \\log_3 243 \\Leftrightarrow 2x+1 = 5 \\Leftrightarrow x = 2 \\rightarrow \\text{Chọn C.}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      392,
+      1313,
+      481
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $y = f(x) = \\frac{ax^2+bx+c}{dx+e}$ ($a \\neq 0, x \\neq -\\frac{d}{e}$) có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      153,
+      481,
+      967,
+      792
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td></td><td>$+$</td><td>$0$</td><td>$-$</td><td></td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$-7$</td><td>$-\\infty$</td><td>$1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      792,
+      806,
+      839
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng của đồ thị hàm số $y = f(x)$ là ?"
+  },
+  {
+    "bbox": [
+      153,
+      848,
+      298,
+      883
+    ],
+    "category": "List-item",
+    "text": "A. $x=-3$."
+  },
+  {
+    "bbox": [
+      510,
+      848,
+      652,
+      883
+    ],
+    "category": "List-item",
+    "text": "B. $x=-7$."
+  },
+  {
+    "bbox": [
+      868,
+      848,
+      987,
+      883
+    ],
+    "category": "List-item",
+    "text": "C. $x=1$."
+  },
+  {
+    "bbox": [
+      1223,
+      848,
+      1366,
+      883
+    ],
+    "category": "List-item",
+    "text": "D. $x=-1$."
+  },
+  {
+    "bbox": [
+      115,
+      896,
+      219,
+      931
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      946,
+      954,
+      991
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, tiệm cận đứng là $x=-1 \\rightarrow \\text{Chọn D.}$"
+  },
+  {
+    "bbox": [
+      115,
+      1031,
+      1552,
+      1129
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Thế tích khối tròn xoay giới hạn bởi hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$, trục hoành và hai đường thẳng $x = a, x = b$ khi xoay quanh trục $Ox$ được xác định bởi công thức nào sau đây ?"
+  },
+  {
+    "bbox": [
+      153,
+      1135,
+      463,
+      1231
+    ],
+    "category": "Formula",
+    "text": "A. $V = \\pi \\int_{b}^{a} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      510,
+      1135,
+      816,
+      1231
+    ],
+    "category": "Formula",
+    "text": "B. $V = \\pi \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      868,
+      1135,
+      1149,
+      1231
+    ],
+    "category": "Formula",
+    "text": "C. $V = \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      1223,
+      1135,
+      1498,
+      1231
+    ],
+    "category": "Formula",
+    "text": "D. $V = \\pi \\int_{a}^{b} f(x^2) dx$."
+  },
+  {
+    "bbox": [
+      115,
+      1244,
+      219,
+      1279
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      1301,
+      1076,
+      1397
+    ],
+    "category": "Text",
+    "text": "Theo công thức thể tích khối tròn xoay $V = \\pi \\int_{a}^{b} [f(x)]^2 dx$. $\\rightarrow \\text{Chọn B.}$"
+  },
+  {
+    "bbox": [
+      115,
+      1404,
+      1227,
+      1453
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho cấp số cộng $(u_n)$ với $u_1 = 7$ và công sai $d = -3$. Giá trị của $u_4$ bằng"
+  },
+  {
+    "bbox": [
+      153,
+      1464,
+      292,
+      1503
+    ],
+    "category": "List-item",
+    "text": "A. $u_4 = 4$."
+  },
+  {
+    "bbox": [
+      510,
+      1464,
+      664,
+      1503
+    ],
+    "category": "List-item",
+    "text": "B. $u_4 = -2$."
+  },
+  {
+    "bbox": [
+      868,
+      1464,
+      1001,
+      1503
+    ],
+    "category": "List-item",
+    "text": "C. $u_4 = 1$."
+  },
+  {
+    "bbox": [
+      1223,
+      1464,
+      1376,
+      1503
+    ],
+    "category": "List-item",
+    "text": "D. $u_4 = -5$."
+  },
+  {
+    "bbox": [
+      115,
+      1519,
+      219,
+      1554
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      119,
+      1576,
+      681,
+      1624
+    ],
+    "category": "Formula",
+    "text": "$$\nu_4 = u_1 + 3d = 7 + 3(-3) = -2 \\rightarrow \\text{Chọn B.}\n$$"
+  },
+  {
+    "bbox": [
+      115,
+      1624,
+      1351,
+      1671
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Số lần ném vào rổ của 30 vận động viên khi ném 30 lần được thống kê lại bảng sau"
+  },
+  {
+    "bbox": [
+      115,
+      1704,
+      1179,
+      1807
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số lần vào rổ</td><td>[20; 22)</td><td>[22; 24)</td><td>[24; 26)</td><td>[26; 28)</td><td>[28; 30)</td></tr><tr><td>Số VĐV</td><td>7</td><td>9</td><td>7</td><td>5</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1807,
+      1142,
+      1848
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là (làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      153,
+      1850,
+      256,
+      1883
+    ],
+    "category": "List-item",
+    "text": "A. 6,3."
+  },
+  {
+    "bbox": [
+      510,
+      1850,
+      606,
+      1883
+    ],
+    "category": "List-item",
+    "text": "B. 5,8."
+  },
+  {
+    "bbox": [
+      868,
+      1850,
+      979,
+      1883
+    ],
+    "category": "List-item",
+    "text": "C. 24,1."
+  },
+  {
+    "bbox": [
+      1223,
+      1850,
+      1325,
+      1883
+    ],
+    "category": "List-item",
+    "text": "D. 2,4."
+  },
+  {
+    "bbox": [
+      115,
+      1901,
+      219,
+      1936
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      1958,
+      862,
+      2003
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu trên là $s^2 = 5,8 \\rightarrow \\text{Chọn B.}$"
+  },
+  {
+    "bbox": [
+      1231,
+      2074,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3 – Đáp Án Mã Đề 0101"
+  }
+]

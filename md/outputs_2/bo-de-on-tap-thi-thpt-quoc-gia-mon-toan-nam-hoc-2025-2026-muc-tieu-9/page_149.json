@@ -1,0 +1,346 @@
+[
+  {
+    "bbox": [
+      153,
+      135,
+      1346,
+      305
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho dãy số $(u_n)$ với $\\begin{cases} u_1 = 5 \\\\ u_n = u_{n-1} + n \\end{cases}$ ($n \\in \\mathbb{N}, n \\ge 2$). Giá trị của $u_3$ là\n\n(A) 10. (B) 14. (C) 7. (D) 9."
+  },
+  {
+    "bbox": [
+      153,
+      318,
+      198,
+      358
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      318,
+      1380,
+      381
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_2 = u_1 + 2 = 5 + 2 = 7$. Suy ra $u_3 = u_2 + 3 = 7 + 3 = 10$."
+  },
+  {
+    "bbox": [
+      153,
+      393,
+      1546,
+      481
+    ],
+    "category": "Text",
+    "text": "Câu 6. Trong không gian $Oxyz$, mặt phẳng nào sau đây nhận $\\vec{n} = (1; 2; 3)$ làm vecto pháp tuyến?"
+  },
+  {
+    "bbox": [
+      189,
+      499,
+      463,
+      541
+    ],
+    "category": "List-item",
+    "text": "(A) $x + 2y + 3 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      499,
+      1163,
+      541
+    ],
+    "category": "List-item",
+    "text": "(B) $x + 2y + 3z = 0$."
+  },
+  {
+    "bbox": [
+      189,
+      545,
+      463,
+      587
+    ],
+    "category": "List-item",
+    "text": "(C) $y + 2z + 3 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      545,
+      1147,
+      587
+    ],
+    "category": "List-item",
+    "text": "(D) $x + 2z + 3 = 0$."
+  },
+  {
+    "bbox": [
+      153,
+      587,
+      198,
+      627
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      587,
+      1546,
+      688
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Мặt phẳng $x + 2y + 3z = 0$ có các hệ số trước $x, y, z$ là $1, 2, 3$ nên nhận $\\vec{n} = (1; 2; 3)$ làm vecto pháp tuyến."
+  },
+  {
+    "bbox": [
+      153,
+      699,
+      1081,
+      779
+    ],
+    "category": "Text",
+    "text": "Câu 7. Diểm cực đại của đồ thị hàm số $y = \\frac{1}{2}x^4 - 2x^2 - 3$ là"
+  },
+  {
+    "bbox": [
+      189,
+      787,
+      336,
+      833
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 0$."
+  },
+  {
+    "bbox": [
+      535,
+      787,
+      752,
+      833
+    ],
+    "category": "List-item",
+    "text": "(B) $(-\\sqrt{2}; -5)$."
+  },
+  {
+    "bbox": [
+      876,
+      787,
+      1051,
+      833
+    ],
+    "category": "List-item",
+    "text": "(C) $x = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1223,
+      787,
+      1383,
+      833
+    ],
+    "category": "List-item",
+    "text": "(D) $(0; -3)$."
+  },
+  {
+    "bbox": [
+      153,
+      848,
+      198,
+      888
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      848,
+      1546,
+      951
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $y' = 2x^3 - 4x = 2x(x^2 - 2) = 0 \\Leftrightarrow x \\in \\{0, \\pm\\sqrt{2}\\}$. Dễ thấy hàm số đạt cực đại tại $x = 0$, giá trị cực đại $y(0) = -3$. Diểm cực đại của đồ thị là $(0; -3)$."
+  },
+  {
+    "bbox": [
+      153,
+      970,
+      1546,
+      1057
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA \\perp (ABCD)$. Dường thẳng nào sau đây vuông góc với mặt phẳng $(SAD)$?"
+  },
+  {
+    "bbox": [
+      189,
+      1074,
+      305,
+      1118
+    ],
+    "category": "List-item",
+    "text": "(A) $SC$."
+  },
+  {
+    "bbox": [
+      535,
+      1074,
+      648,
+      1118
+    ],
+    "category": "List-item",
+    "text": "(B) $SB$."
+  },
+  {
+    "bbox": [
+      876,
+      1074,
+      995,
+      1118
+    ],
+    "category": "List-item",
+    "text": "(C) $BC$."
+  },
+  {
+    "bbox": [
+      1223,
+      1074,
+      1342,
+      1118
+    ],
+    "category": "List-item",
+    "text": "(D) $CD$."
+  },
+  {
+    "bbox": [
+      153,
+      1133,
+      198,
+      1173
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1133,
+      1546,
+      1236
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $ABCD$ là hình chữ nhật nên $CD \\perp AD$. Lại có $CD \\perp SA$ (do $SA \\perp (ABCD)$). Vậy $CD \\perp (SAD)$."
+  },
+  {
+    "bbox": [
+      153,
+      1254,
+      1072,
+      1308
+    ],
+    "category": "Text",
+    "text": "Câu 9. Tập nghiệm của bất phương trình $\\log_{\\frac{1}{2}}(x - 2) \\le 1$ là"
+  },
+  {
+    "bbox": [
+      189,
+      1316,
+      388,
+      1398
+    ],
+    "category": "List-item",
+    "text": "(A) $\\left[\\frac{5}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      876,
+      1316,
+      1079,
+      1398
+    ],
+    "category": "List-item",
+    "text": "(B) $\\left(\\frac{5}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      189,
+      1416,
+      428,
+      1462
+    ],
+    "category": "List-item",
+    "text": "(C) $(-\\infty; \\log_2 5)$."
+  },
+  {
+    "bbox": [
+      876,
+      1398,
+      1076,
+      1478
+    ],
+    "category": "List-item",
+    "text": "(D) $\\left(-\\infty; \\frac{5}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      153,
+      1497,
+      198,
+      1537
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1478,
+      1509,
+      1563
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Điều kiện $x > 2$. Bất phương trình tương đương: $x - 2 \\ge \\left(\\frac{1}{2}\\right)^1 \\Leftrightarrow x \\ge \\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      1576,
+      1546,
+      1671
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hình lăng trụ tam giác $ABC.A'B'C'$. Đặt $\\overrightarrow{AA'} = \\vec{a}$, $\\overrightarrow{AB} = \\vec{b}$, $\\overrightarrow{AC} = \\vec{c}$. Khi đó vecto $\\overrightarrow{BC'}$ được biểu diễn theo các vecto $\\vec{a}, \\vec{b}, \\vec{c}$ là"
+  },
+  {
+    "bbox": [
+      705,
+      1684,
+      993,
+      2099
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      147,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1542,
+      2249,
+      1597,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "149"
+  }
+]

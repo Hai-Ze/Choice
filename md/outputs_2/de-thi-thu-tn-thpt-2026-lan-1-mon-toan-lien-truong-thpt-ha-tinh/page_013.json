@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      253,
+      74,
+      1254,
+      227
+    ],
+    "category": "Text",
+    "text": "d) Sai: Ta có vận động viên đó có số điểm lớn hơn 17 thì xác suất là\n$$P(AA \\cup AB \\cup BA \\cup BB \\cup AC \\cup CA) = 0,25 \\cdot 0,25 + 0,25 \\cdot 0,3 + 0,3 \\cdot 0,25 + 0,3 \\cdot 0,3 + 0,25 \\cdot 0,4 + 0,4 \\cdot 0,25 = 0,5025.$$"
+  },
+  {
+    "bbox": [
+      114,
+      318,
+      1625,
+      475
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một bể chứa dầu ban đầu có 40000 lít dầu. Gọi $V(t)$ là thể tích dầu (lít) trong bể tại thời điểm $t$, trong đó $t$ tính theo giờ $(0 \\le t \\le 24)$. Trong quá trình bơm dầu vào bể, thể tích dầu tăng theo tốc độ được biểu diễn bởi hàm số $V'(t) = k \\cdot \\sqrt{t}$, với $k$ là hằng số dương. Sau 4 giờ bơm liên tục, thể tích dầu trong bể đạt 48000 lít."
+  },
+  {
+    "bbox": [
+      253,
+      479,
+      1076,
+      533
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $V(t)$ là một nguyên hàm của hàm số $f(t) = k \\cdot \\sqrt{t}$."
+  },
+  {
+    "bbox": [
+      253,
+      566,
+      1061,
+      648
+    ],
+    "category": "Text",
+    "text": "b) $V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + C$ với $0 \\le t \\le 24$ và $k, C$ là các hằng số."
+  },
+  {
+    "bbox": [
+      253,
+      669,
+      1176,
+      715
+    ],
+    "category": "Text",
+    "text": "c) Sau 9 giờ bơm liên tục, thể tích dầu trong bể đạt được 67000 lít."
+  },
+  {
+    "bbox": [
+      253,
+      731,
+      1629,
+      839
+    ],
+    "category": "Text",
+    "text": "d) Trong quá trình bơm dầu, nếu sau mỗi giờ lượng dầu bị rò rỉ đều đặn với tốc độ 300 lít/giờ, thì tại thời điểm $t$ bằng 9 giờ, thể tích dầu trong bể là 63400 lít."
+  },
+  {
+    "bbox": [
+      884,
+      858,
+      1000,
+      897
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      909,
+      373,
+      947
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      253,
+      953,
+      341,
+      989
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      258,
+      998,
+      998,
+      1172
+    ],
+    "category": "Formula",
+    "text": "$$V(t) = \\int k \\cdot \\sqrt{t} dt = \\frac{2k}{3} \\cdot t\\sqrt{t} + C$$\n$$V(0) = 40.000 \\Rightarrow C = 40.000 \\Rightarrow V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + 40.000$$"
+  },
+  {
+    "bbox": [
+      253,
+      1181,
+      371,
+      1219
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      258,
+      1226,
+      1228,
+      1348
+    ],
+    "category": "Formula",
+    "text": "$$V(4) = \\frac{2k}{3} \\cdot 4\\sqrt{4} + 40000 = 48000 \\Rightarrow k = 1500 \\Rightarrow V(t) = 1000t\\sqrt{t} + 40000$$\n$$V(9) = 67000$$"
+  },
+  {
+    "bbox": [
+      253,
+      1361,
+      341,
+      1397
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      253,
+      1397,
+      1080,
+      1444
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm 9 giờ lượng dầu còn lại là $V(9) - 2700 = 64300$"
+  },
+  {
+    "bbox": [
+      114,
+      1537,
+      1548,
+      1700
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian với hệ tọa độ $Oxyz$ với đơn vị trên mỗi trục tọa độ là mét và mặt phẳng $(Oxy)$ trùng với mặt đất. Một cabin cáp treo xuất phát từ điểm $A(-40; 5; 2)$ và chuyển động thẳng đến điểm $B(808; -101; 426)$ với vận tốc là 6 m/s."
+  },
+  {
+    "bbox": [
+      253,
+      1731,
+      1106,
+      1779
+    ],
+    "category": "Text",
+    "text": "a)úp M (384; -48; 214) là trung điểm của đoạn thẳng AB."
+  },
+  {
+    "bbox": [
+      253,
+      1814,
+      826,
+      1862
+    ],
+    "category": "Text",
+    "text": "b) độ dài đoạn thẳng AB bằng 945 (m)."
+  },
+  {
+    "bbox": [
+      253,
+      1896,
+      1086,
+      1942
+    ],
+    "category": "Text",
+    "text": "c) Thời gian cabin cáp treo đi từ A đến B là 2 phút 39 giây."
+  },
+  {
+    "bbox": [
+      253,
+      1967,
+      1300,
+      2013
+    ],
+    "category": "Text",
+    "text": "d) Sau khi di chuyển từ A được 1 phút, cabin cáp treo cách mặt đất 162 mét."
+  },
+  {
+    "bbox": [
+      884,
+      2037,
+      1000,
+      2075
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      253,
+      2077,
+      816,
+      2123
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ của M là M (384; -48; 214)."
+  }
+]

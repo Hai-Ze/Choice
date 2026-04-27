@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1494,
+      195
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong năm tới, một cửa hàng điện慢色 dự định kinh doanh hai loại máy điều hòa: điều hòa hai chiều và điều hòa một chiều với số vốn ban đầu không vượt quá 1,2 tỉ đồng."
+  },
+  {
+    "bbox": [
+      76,
+      214,
+      979,
+      259
+    ],
+    "category": "Text",
+    "text": "Biết rằng, giá mua vào và lợi nhuận dự kiến được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      312,
+      273,
+      1356,
+      454
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Điều hòa hai chiều</td><td>Điều hòa một chiều</td></tr></thead><tbody><tr><td>Giá mua vào</td><td>20 triệu đông/1 máy</td><td>10 triệu đồng/1 máy</td></tr><tr><td>Lợi nhuận dự kiến</td><td>3,5 triệu đồng/1 máy</td><td>2 triệu đồng/1 máy</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      76,
+      452,
+      1494,
+      623
+    ],
+    "category": "Text",
+    "text": "Cửa hàng ước tính rằng nhu cầu của thị trường sẽ không vượt quá 100 máy cả hai loại. Cửa hàng cần đầu tư kinh doanh $x$ loại máy hai chiều và $y$ loại máy một chiều thì lợi nhuận thu được là lớn nhất. Tổng $x^2 + y^2$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      76,
+      647,
+      413,
+      683
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      706,
+      842,
+      745
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      764,
+      273,
+      803
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6800"
+  },
+  {
+    "bbox": [
+      76,
+      819,
+      1483,
+      864
+    ],
+    "category": "Text",
+    "text": "Giả sử cửa hàng dự định kinh doanh $x$ máy điều hòa hai chiều và $y$ máy điều hòa một chiều ($x, y \\in \\mathbb{N}$)."
+  },
+  {
+    "bbox": [
+      76,
+      882,
+      1373,
+      928
+    ],
+    "category": "Text",
+    "text": "Khi đó, số vốn bỏ ra là $20x+10y$ (triệu đồng) và lợi nhuận thu được $T = 3,5x+2y$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      76,
+      947,
+      1280,
+      992
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, $x$ và $y$ thỏa mãn các điều kiện: $x \\ge 0, y \\ge 0, x + y \\le 100, 20x+10y \\le 1200$."
+  },
+  {
+    "bbox": [
+      76,
+      1014,
+      1187,
+      1212
+    ],
+    "category": "Text",
+    "text": "Bài toán đưa về: Tìm $(x, y)$ là nghiệm của hệ bất phương trình $$ \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ x + y \\le 100 \\\\ 2x + y \\le 120 \\end{cases} $$ (I)"
+  },
+  {
+    "bbox": [
+      76,
+      1232,
+      629,
+      1277
+    ],
+    "category": "Text",
+    "text": "sao cho $T = 3,5x+2y$ có giá trị lớn nhất."
+  },
+  {
+    "bbox": [
+      383,
+      1295,
+      1183,
+      2077
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2096,
+      1494,
+      2221
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình (I) là miền tử giác OABC với $O(0;0)$, $A(0;100)$, $B(20;80)$, $C(60;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

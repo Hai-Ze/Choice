@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      230,
+      98,
+      864,
+      189
+    ],
+    "category": "Text",
+    "text": "Đặt $\\sqrt{5}d = \\frac{6x_0^2 - 12x_0 + 27}{2x_0 - 1} = g(x)$ với $x_0 > \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      230,
+      214,
+      1400,
+      319
+    ],
+    "category": "Text",
+    "text": "Ta có: $g'(x) = \\frac{12x_0^2 - 12x_0 - 42}{(2x_0 - 1)^2}$; $g'(x) = 0 \\Rightarrow 12x_0^2 - 12x_0 - 42 = 0 \\Rightarrow x_0 = \\frac{1+\\sqrt{15}}{2} > \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      230,
+      344,
+      1361,
+      452
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\min_{(1; +\\infty)} g(x) = g\\left(\\frac{1+\\sqrt{15}}{2}\\right) = 3\\sqrt{15} - 3 \\Rightarrow \\sqrt{5}d \\ge 3\\sqrt{15} - 3 \\Rightarrow \\boxed{d \\ge \\frac{-3\\sqrt{5} + 15\\sqrt{3}}{5}}$."
+  },
+  {
+    "bbox": [
+      230,
+      478,
+      1104,
+      583
+    ],
+    "category": "Text",
+    "text": "Dấu đẳng thức xảy ra khi $x_0 = \\frac{1+\\sqrt{15}}{2} \\Rightarrow M\\left(\\frac{1+\\sqrt{15}}{2}; \\frac{1+\\sqrt{15}}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      230,
+      610,
+      1265,
+      732
+    ],
+    "category": "Text",
+    "text": "Khoảng cách $OM$ trên thực tế là $10 \\times \\sqrt{\\left(\\frac{1+\\sqrt{15}}{2}\\right)^2 + \\left(\\frac{1+\\sqrt{15}}{2}\\right)^2} \\approx \\boxed{34,5}$ mét."
+  },
+  {
+    "bbox": [
+      130,
+      797,
+      1543,
+      1003
+    ],
+    "category": "Text",
+    "text": "**Câu 20.** Trọng lực $\\vec{P}$ là lực hấp dẫn do Trái Đất tác dụng lên một vật, được tính theo công thức $\\vec{P} = m\\vec{g}$, trong đó $m$ là khối lượng của vật (đơn vị: kg), còn $\\vec{g}$ là vecto gia tốc rơi tự do, có hướng đi xuống và có độ lớn $g = 9,8 m/s^2$. Tính độ lớn của trọng lực (đơn vị: N) tác dụng lên quả bởi có khối lượng 2500 gam (làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      269,
+      1007,
+      384,
+      1046
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      130,
+      1070,
+      316,
+      1109
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 24,5**"
+  },
+  {
+    "bbox": [
+      269,
+      1128,
+      1430,
+      1175
+    ],
+    "category": "Text",
+    "text": "Độ lớn của lực hấp dẫn của Trái Đất tác dụng lên quả bởi: $P = mg = 2,5 \\times 9,8 = 24,5 N$"
+  },
+  {
+    "bbox": [
+      130,
+      1206,
+      1509,
+      1364
+    ],
+    "category": "Text",
+    "text": "**Câu 21.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi cạnh $2a$, $\\widehat{ADC} = 60^\\circ$, $SA \\perp (ABCD)$ và $SA = \\sqrt{6}a$, $G$ là trọng tâm tam giác $SAC$. Khoảng cách từ $G$ đến $(SCD)$ bằng: $\\frac{a\\sqrt{m}}{n}$. Tính $m+n$?"
+  },
+  {
+    "bbox": [
+      130,
+      1390,
+      257,
+      1428
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      130,
+      1430,
+      278,
+      1473
+    ],
+    "category": "Text",
+    "text": "**Đáp số : 5**"
+  },
+  {
+    "bbox": [
+      580,
+      1525,
+      1237,
+      1974
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      269,
+      2007,
+      823,
+      2052
+    ],
+    "category": "Text",
+    "text": "Gọi $M, I$ lần lượt là trung điểm $CD, SC$."
+  },
+  {
+    "bbox": [
+      269,
+      2061,
+      1200,
+      2154
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết ta có tam giác $ACD$ đều. Suy ra $AM = \\frac{AD\\sqrt{3}}{2} = \\sqrt{3}a$."
+  }
+]

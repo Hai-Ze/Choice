@@ -1,0 +1,512 @@
+[
+  {
+    "bbox": [
+      76,
+      127,
+      753,
+      212
+    ],
+    "category": "Page-header",
+    "text": "SỞ GIÁO DỤC VÀ ĐÀO TẠO HÀ NỘI\nTRƯỜNG THPT NGUYỄN THỊ MINH KHAI"
+  },
+  {
+    "bbox": [
+      280,
+      245,
+      551,
+      289
+    ],
+    "category": "Page-header",
+    "text": "(Đề thi có 04 trang)"
+  },
+  {
+    "bbox": [
+      862,
+      127,
+      1490,
+      245
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT LẦN 1\nNĂM HỌC 2025-2026\nMÔN THI: TOÁN 12"
+  },
+  {
+    "bbox": [
+      802,
+      245,
+      1550,
+      292
+    ],
+    "category": "Page-header",
+    "text": "(Thời gian làm bài 90 phút, không kể thời gian giao đề)"
+  },
+  {
+    "bbox": [
+      107,
+      360,
+      1276,
+      403
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh: .................................................... Số báo danh: ...................."
+  },
+  {
+    "bbox": [
+      1338,
+      364,
+      1505,
+      401
+    ],
+    "category": "Text",
+    "text": "Mã đề 2301"
+  },
+  {
+    "bbox": [
+      107,
+      448,
+      1530,
+      538
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      107,
+      579,
+      1018,
+      626
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x)$ có bảng xét dấu của đạo hàm như sau:"
+  },
+  {
+    "bbox": [
+      476,
+      630,
+      1303,
+      745
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$0$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      245,
+      745,
+      977,
+      788
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      245,
+      791,
+      396,
+      836
+    ],
+    "category": "List-item",
+    "text": "A. $(-3; 0)$."
+  },
+  {
+    "bbox": [
+      610,
+      791,
+      765,
+      836
+    ],
+    "category": "List-item",
+    "text": "B. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      911,
+      791,
+      1042,
+      836
+    ],
+    "category": "List-item",
+    "text": "C. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      1211,
+      791,
+      1389,
+      836
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -3)$."
+  },
+  {
+    "bbox": [
+      107,
+      846,
+      1433,
+      893
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và công bội $q = 3$. Tìm số hạng thứ 4 của cấp số nhân."
+  },
+  {
+    "bbox": [
+      245,
+      903,
+      341,
+      938
+    ],
+    "category": "List-item",
+    "text": "A. 24."
+  },
+  {
+    "bbox": [
+      610,
+      903,
+      702,
+      938
+    ],
+    "category": "List-item",
+    "text": "B. 54."
+  },
+  {
+    "bbox": [
+      911,
+      903,
+      1019,
+      938
+    ],
+    "category": "List-item",
+    "text": "C. 162."
+  },
+  {
+    "bbox": [
+      1211,
+      903,
+      1305,
+      938
+    ],
+    "category": "List-item",
+    "text": "D. 48."
+  },
+  {
+    "bbox": [
+      107,
+      946,
+      1059,
+      993
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $f(x) = x^2 + 4$. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      245,
+      1005,
+      624,
+      1089
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x)dx = \\frac{x^3}{3} + 4x + C$."
+  },
+  {
+    "bbox": [
+      911,
+      1022,
+      1278,
+      1080
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f(x)dx = x^3 + 4x + C$."
+  },
+  {
+    "bbox": [
+      245,
+      1094,
+      559,
+      1152
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x)dx = 2x + C$."
+  },
+  {
+    "bbox": [
+      911,
+      1094,
+      1278,
+      1152
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f(x)dx = x^2 + 4x + C$."
+  },
+  {
+    "bbox": [
+      107,
+      1158,
+      1533,
+      1261
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 3x - z + 2 = 0$. Vectơ nào sau đây là một vecto pháp tuyến của $(P)$?"
+  },
+  {
+    "bbox": [
+      245,
+      1273,
+      481,
+      1319
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (0; 3; -1)$."
+  },
+  {
+    "bbox": [
+      610,
+      1273,
+      848,
+      1319
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2 = (3; -1; 2)$."
+  },
+  {
+    "bbox": [
+      911,
+      1273,
+      1144,
+      1319
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_3 = (3; 0; -1)$."
+  },
+  {
+    "bbox": [
+      1211,
+      1273,
+      1448,
+      1319
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_4 = (3; -1; 0)$."
+  },
+  {
+    "bbox": [
+      107,
+      1323,
+      802,
+      1368
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Bảng biến thiên sau đây của hàm số nào?"
+  },
+  {
+    "bbox": [
+      600,
+      1364,
+      1176,
+      1631
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$+$</td><td>$+$</td></tr><tr><td>$y$</td><td>$2$</td><td>$+\\infty$</td><td>$2$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      245,
+      1638,
+      445,
+      1718
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{2x+3}{x+1}$."
+  },
+  {
+    "bbox": [
+      610,
+      1638,
+      804,
+      1718
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{2x-1}{x-1}$."
+  },
+  {
+    "bbox": [
+      911,
+      1638,
+      1103,
+      1718
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{2x-1}{x+1}$."
+  },
+  {
+    "bbox": [
+      1211,
+      1638,
+      1405,
+      1718
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{x+1}{2x-1}$."
+  },
+  {
+    "bbox": [
+      107,
+      1724,
+      851,
+      1765
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Phương trình $1 - \\cos 2x = 0$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      245,
+      1765,
+      526,
+      1851
+    ],
+    "category": "List-item",
+    "text": "A. $\\left\\{\\frac{\\pi}{4} + k\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      610,
+      1784,
+      824,
+      1831
+    ],
+    "category": "List-item",
+    "text": "B. $\\{k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      911,
+      1784,
+      1142,
+      1831
+    ],
+    "category": "List-item",
+    "text": "C. $\\{k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      1211,
+      1765,
+      1505,
+      1851
+    ],
+    "category": "List-item",
+    "text": "D. $\\left\\{\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      107,
+      1861,
+      1533,
+      1967
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Cho hàm số $y = f(x)$ có đạo hàm là $f'(x) = x^2(x+1)^2(2x-1)$. Số điểm cực trị của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      245,
+      1977,
+      323,
+      2012
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      610,
+      1977,
+      687,
+      2012
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      911,
+      1977,
+      985,
+      2012
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1211,
+      1977,
+      1282,
+      2012
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      107,
+      2020,
+      1533,
+      2126
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Trong không gian với hệ tọa độ $Oxyz$, phương trình mặt phẳng đi qua điểm $M(1; 2; -3)$ và có một vecto pháp tuyến $\\vec{n} = (1; -2; 3)$ là"
+  },
+  {
+    "bbox": [
+      245,
+      2136,
+      562,
+      2173
+    ],
+    "category": "List-item",
+    "text": "A. $x - 2y + 3z + 12 = 0$."
+  },
+  {
+    "bbox": [
+      911,
+      2136,
+      1207,
+      2173
+    ],
+    "category": "List-item",
+    "text": "B. $x - 2y - 3z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      245,
+      2183,
+      559,
+      2220
+    ],
+    "category": "List-item",
+    "text": "C. $x - 2y + 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      911,
+      2183,
+      1211,
+      2220
+    ],
+    "category": "List-item",
+    "text": "D. $x - 2y - 3z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      1168,
+      2263,
+      1466,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1 – Mã đề 2301"
+  }
+]

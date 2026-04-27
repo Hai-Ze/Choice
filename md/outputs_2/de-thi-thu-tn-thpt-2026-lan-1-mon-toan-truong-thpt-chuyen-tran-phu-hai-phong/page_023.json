@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      262,
+      113,
+      1171,
+      505
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      538,
+      1224,
+      619
+    ],
+    "category": "Text",
+    "text": "Điểm chính giữa水流 (trục đối xứng) có toạ độ: $x_{giua} = \\frac{9\\pi}{2} \\approx 14,137 (m)$"
+  },
+  {
+    "bbox": [
+      250,
+      623,
+      1465,
+      711
+    ],
+    "category": "Text",
+    "text": "Để sà lan đi qua dễ nhất, người lái tau phải canh cho sà lan đi chính giữa水流 (nơi cầu cao nhất)."
+  },
+  {
+    "bbox": [
+      250,
+      713,
+      1533,
+      802
+    ],
+    "category": "Text",
+    "text": "Bề rộng sà lan là $9 m$. Vì đi chính giữa nên sà lan sẽ nằm về hai phía của tâm, mỗi bên một half là $4,5m$"
+  },
+  {
+    "bbox": [
+      250,
+      804,
+      1496,
+      894
+    ],
+    "category": "Text",
+    "text": "Khi sà lan đi qua, phần rủi ro va chạm nhất chính là **hai mép ngoài cùng** của thùng hàng (vì càng ra xa tâm, cầu càng thấp xuống)."
+  },
+  {
+    "bbox": [
+      250,
+      900,
+      1525,
+      982
+    ],
+    "category": "Text",
+    "text": "Tọa độ $x_2$ của mép sà lan sẽ là: $x_2 = x_{mép} = x_{giua} + 4,5 = \\frac{9\\pi}{2} + 4,5$ và độ cao của cầu tại điểm có"
+  },
+  {
+    "bbox": [
+      250,
+      990,
+      1344,
+      1156
+    ],
+    "category": "Text",
+    "text": "hoành độ $x_2 = x_{mép} = x_{giua} + 4,5 = \\frac{9\\pi}{2} + 4,5$ là $y = 4,8 \\cdot \\sin\\left(\\frac{\\frac{9\\pi}{2} + 4,5}{9}\\right) \\approx 4,212 (m)$"
+  },
+  {
+    "bbox": [
+      250,
+      1164,
+      1305,
+      1210
+    ],
+    "category": "Text",
+    "text": "Vậy chiều cao của khối hàng hóa đó phải nhỏ hơn $4,2 m$而 không phải $4,1m$."
+  },
+  {
+    "bbox": [
+      250,
+      1212,
+      339,
+      1252
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      250,
+      1258,
+      1095,
+      1346
+    ],
+    "category": "Text",
+    "text": "Đỉnh cầu (điểm cao nhất): Khi $\\sin\\left(\\frac{x}{9}\\right) = 1 \\Rightarrow y_{max} = 4,8$ mét."
+  },
+  {
+    "bbox": [
+      250,
+      1356,
+      369,
+      1396
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      250,
+      1396,
+      918,
+      1681
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      1685,
+      1022,
+      1739
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm độ rộng của phần vòm cầu có độ cao $y \\ge 3,6$."
+  },
+  {
+    "bbox": [
+      250,
+      1743,
+      503,
+      1783
+    ],
+    "category": "Text",
+    "text": "Giải phương trình:"
+  },
+  {
+    "bbox": [
+      250,
+      1787,
+      1453,
+      2018
+    ],
+    "category": "Formula",
+    "text": "$$\n4,8 \\sin\\left(\\frac{x}{9}\\right) = 3,6 \\Leftrightarrow \\sin\\left(\\frac{x}{9}\\right) = \\frac{3,6}{4,8} = 0,75 \\Leftrightarrow \\begin{cases} \\frac{x}{9} = \\alpha + k2\\pi \\\\ \\frac{x}{9} = \\pi - \\alpha + k2\\pi \\end{cases} \\xrightarrow{k=0} \\begin{cases} x_1 = 9\\alpha \\\\ x_2 = 9(\\pi - \\alpha) \\end{cases} \\text{ (với } \\alpha \\approx 0,848\\dots \\text{ )}\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      2031,
+      648,
+      2074
+    ],
+    "category": "Formula",
+    "text": "Vị trí 1 (Bên trái): $x_1 = 9 \\cdot \\alpha$"
+  },
+  {
+    "bbox": [
+      250,
+      2088,
+      740,
+      2132
+    ],
+    "category": "Formula",
+    "text": "Vị trí 2 (Bên phải): $x_2 = 9 \\cdot (\\pi - \\alpha)$"
+  },
+  {
+    "bbox": [
+      250,
+      2140,
+      1189,
+      2190
+    ],
+    "category": "Formula",
+    "text": "Chiều rộng tối đa cho phép $= x_2 - x_1 \\approx 20,6415 - 7,632 = 13,0095 m$."
+  }
+]

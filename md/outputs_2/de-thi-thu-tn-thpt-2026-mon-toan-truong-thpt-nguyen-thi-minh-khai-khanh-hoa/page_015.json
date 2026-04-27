@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      66,
+      94,
+      1628,
+      299
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Trong buổi hoạt động trải nghiệm khoa học của học sinh trường Trường THPT Nguyễn Thị Minh Khai, giáo viên chuẩn bị một bộ 8 viên bi kim loại khác nhau để thực hiện thí nghiệm về va scan và chuyển động trên máng nghiêng. Để tiện cho việc quan sát và ghi chép kết quả, giáo viên đặt trước mặt học sinh 4 khay thí nghiệm được đánh số 1, 2, 3, 4. Trước khi tiến hành thí nghiệm, các viên bi sẽ được đặt vào các khay theo những quy tắc sau:"
+  },
+  {
+    "bbox": [
+      166,
+      294,
+      931,
+      375
+    ],
+    "category": "List-item",
+    "text": "* Mỗi khay phải có ít nhất một viên bi để đảm bảo mỗi nhóm học sinh đều có vật mẫu quan sát."
+  },
+  {
+    "bbox": [
+      166,
+      371,
+      937,
+      491
+    ],
+    "category": "List-item",
+    "text": "* Các viên bi trong cùng một khay được xếp thành một hàng từ trái sang phải để thuận tiện cho việc lấy ra thí nghiệm theo thứ tự."
+  },
+  {
+    "bbox": [
+      166,
+      487,
+      922,
+      569
+    ],
+    "category": "List-item",
+    "text": "* Vì mỗi viên bi có khối lượng và màu sắc khác nhau, nên thứ tự các viên bi trong mỗi khay là quan trọng."
+  },
+  {
+    "bbox": [
+      115,
+      565,
+      745,
+      607
+    ],
+    "category": "Text",
+    "text": "Hai cách sắp xếp được xem là giống nhau nếu:"
+  },
+  {
+    "bbox": [
+      166,
+      603,
+      607,
+      645
+    ],
+    "category": "List-item",
+    "text": "* Mỗi khay có cùng số viên bi."
+  },
+  {
+    "bbox": [
+      166,
+      645,
+      911,
+      723
+    ],
+    "category": "List-item",
+    "text": "* Thứ tự các viên bi từ trái sang phải trong từng khay hoàn toàn giống nhau."
+  },
+  {
+    "bbox": [
+      115,
+      726,
+      914,
+      843
+    ],
+    "category": "Text",
+    "text": "Gọi $T$ là số cách sắp xếp khác nhau. Giá trị $\\frac{T}{200}$ bằng bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      115,
+      856,
+      219,
+      892
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      892,
+      738,
+      934
+    ],
+    "category": "Text",
+    "text": "Số cách xếp 8 viên bi ngẫu nhiên là $8!$ (cách)."
+  },
+  {
+    "bbox": [
+      115,
+      930,
+      1574,
+      1012
+    ],
+    "category": "Text",
+    "text": "Để 8 viên bi xếp vào 4 khay (mối khay có ít nhất 1 viên bi, ta xem như trải 8 viên bi thành 1 hàng, ta tạo ra 3 vách ngăn để chia làm 4 phần."
+  },
+  {
+    "bbox": [
+      115,
+      1012,
+      1094,
+      1057
+    ],
+    "category": "Text",
+    "text": "Trong 8 viên bi liên tiếp có 7 vách ngăn, chọn 3 vách ngăn có $C_7^3$ (cách)."
+  },
+  {
+    "bbox": [
+      115,
+      1065,
+      1078,
+      1146
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó có tất cả } T = 8! \\cdot C_7^3 = 1411200 \\text{ (cách)} \\Rightarrow \\frac{T}{200} = \\frac{1411200}{200} = 7056.\n$$"
+  },
+  {
+    "bbox": [
+      988,
+      326,
+      1598,
+      728
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1217,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10 – Đáp Án Mãpend 0101"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1055,
+      138
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ (xe), $y$ (xe) lần lượt là số xe loại $A$ và loại $B$ cần phải thuê."
+  },
+  {
+    "bbox": [
+      155,
+      159,
+      795,
+      205
+    ],
+    "category": "Text",
+    "text": "Điều kiện $0 \\le x \\le 9$; $x \\in \\mathbb{N}$ và $0 \\le y \\le 8$; $y \\in \\mathbb{N}$"
+  },
+  {
+    "bbox": [
+      155,
+      229,
+      985,
+      278
+    ],
+    "category": "Text",
+    "text": "Số tiền cần bỏ ra để thuê xe là: $f(x; y) = 4x + 3y$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      155,
+      300,
+      1349,
+      346
+    ],
+    "category": "Text",
+    "text": "Ta có $x$ xe loại $A$ và $y$ xe loại $B$ sẽ chở được $20x + 10y$ người và $0,5x + 2y$ tấn hàng."
+  },
+  {
+    "bbox": [
+      155,
+      367,
+      1131,
+      565
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, ta có hệ bất phương trình:\n$$ \\begin{cases} 0 \\le x \\le 9 \\\\ 0 \\le y \\le 8 \\\\ 20x + 10y \\ge 120 \\\\ 0,5x + 2y \\ge 6,5 \\end{cases} \\Leftrightarrow \\begin{cases} 0 \\le x \\le 9 \\\\ 0 \\le y \\le 8 \\\\ 2x + y \\ge 12 \\\\ x + 4y \\ge 13 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      155,
+      590,
+      1534,
+      715
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình trên là tức giác $ABCD$ (kể cả biên) với $A(5;2)$, $B(9;1)$, $C(9;8)$, $D(2;8)$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      539,
+      735,
+      1189,
+      1261
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1282,
+      985,
+      1330
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(5;2) = 26$; $f(9;1) = 39$; $f(9;8) = 60$; $f(2;8) = 32$"
+  },
+  {
+    "bbox": [
+      155,
+      1356,
+      730,
+      1405
+    ],
+    "category": "Text",
+    "text": "Suy ra $f(x; y)$ nhỏ nhất khi $(x; y) = (5;2)$"
+  },
+  {
+    "bbox": [
+      155,
+      1427,
+      1378,
+      1473
+    ],
+    "category": "Text",
+    "text": "Vậy để chi phí thuê là thấp nhất thì cần thuê 5 xe loại $A$ và 2 xe loại $B$ hết 26 triệu đồng."
+  },
+  {
+    "bbox": [
+      155,
+      1485,
+      1573,
+      1704
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Chiếc lá là một hình phẳng được giới hạn bởi hai phần parabol giống nhau. Biết một parabol có định là điểm $O$ và trục đối xứng của hình phẳng này là một đường thẳng tạo với phương ngang góc $60^\\circ$. Với các kích thước được cho như hình vẽ, hãy tính diện tích củachiếc lá (làm tròn kết quả đến hàng đơn vị của $cm^2$)."
+  },
+  {
+    "bbox": [
+      447,
+      1751,
+      1251,
+      2181
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2201,
+      493,
+      2237
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

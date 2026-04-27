@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      115,
+      102,
+      389,
+      148
+    ],
+    "category": "Formula",
+    "text": "c) $y(t) = -2\\ln t + 5$."
+  },
+  {
+    "bbox": [
+      115,
+      152,
+      909,
+      197
+    ],
+    "category": "Text",
+    "text": "d) Sau 10 ngày, sức chống cự của quân dịch nhỏ hơn 0,4."
+  },
+  {
+    "bbox": [
+      115,
+      202,
+      219,
+      237
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      252,
+      1327,
+      327
+    ],
+    "category": "Text",
+    "text": "a) Xét hàm số $y'(t) = \\frac{a}{t} \\Rightarrow \\int y'(t)dt = \\int \\frac{a}{t}dt \\Leftrightarrow y(t) = a\\ln t + b$ ($b$ là hằng số thực) $\\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      115,
+      335,
+      702,
+      452
+    ],
+    "category": "Formula",
+    "text": "b) $\\begin{cases} y(1) = 5 \\Rightarrow a+b=5 \\\\ y(e^2) = 1 \\Rightarrow 2a+b=1 \\end{cases} \\Rightarrow \\begin{cases} a = -2 \\\\ b = 5 \\end{cases} \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      115,
+      465,
+      572,
+      511
+    ],
+    "category": "Formula",
+    "text": "c) $y(t) = a\\ln t + b = -2t + 5 \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      115,
+      524,
+      755,
+      572
+    ],
+    "category": "Formula",
+    "text": "d) $y(t) = -2t + 5 \\Rightarrow y(10) \\approx 0,3948 < 0,4 \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      67,
+      577,
+      1625,
+      772
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trước khi tham gia thi trung học phổ thông (THPT) quốc gia 2026, trường THPT X khảo sát 500 thí sinh về việc tham gia xét tuyển đại học bằng học bạ. Kết quả thống kê như sau: chỉ có 360 học sinh trả lời \"sẽ xét học bạ\", số còn lại trả lời \"không xét học bạ\". Kinh nghiệm mỗi năm của trường THPT X cho thấy tỉ lệ học sinh tham gia xét tuyển học bạ tương ứng với những cách trả lời \"sẽ xét học bạ\" và \"không xét học bạ\" lần lượt là 70% và 20%."
+  },
+  {
+    "bbox": [
+      115,
+      772,
+      764,
+      817
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố \"Học sinh thực sự xét học bạ\"."
+  },
+  {
+    "bbox": [
+      115,
+      837,
+      747,
+      881
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố \"Học sinh trả lời xét học bạ\"."
+  },
+  {
+    "bbox": [
+      115,
+      908,
+      649,
+      988
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(B) = \\frac{18}{25}$ và $P(\\bar{B}) = \\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      115,
+      996,
+      664,
+      1052
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(A|\\bar{B}) = 0,7$."
+  },
+  {
+    "bbox": [
+      115,
+      1062,
+      462,
+      1110
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất $P(A) = 0,56$."
+  },
+  {
+    "bbox": [
+      115,
+      1113,
+      870,
+      1196
+    ],
+    "category": "Text",
+    "text": "d) Trong số những học sinh thực sự xét học bạ có ít hơn 80% học sinh đã trả lời sẽ xét học bạ."
+  },
+  {
+    "bbox": [
+      910,
+      753,
+      1604,
+      1203
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      115,
+      1235,
+      219,
+      1270
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      115,
+      1270,
+      330,
+      1312
+    ],
+    "category": "Text",
+    "text": "Ta có sơ đồ cây"
+  },
+  {
+    "bbox": [
+      145,
+      1344,
+      1272,
+      1847
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      115,
+      1880,
+      970,
+      1962
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(B) = \\frac{360}{500} = \\frac{18}{25}$ và $P(\\bar{B}) = \\frac{500-360}{500} = \\frac{7}{25} \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      115,
+      1970,
+      725,
+      2026
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(A|\\bar{B}) = 0,2 \\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      1232,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5 – Đáp Án Mãpenda 0101"
+  }
+]

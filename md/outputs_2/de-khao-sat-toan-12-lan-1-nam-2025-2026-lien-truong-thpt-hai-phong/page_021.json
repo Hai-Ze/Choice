@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      251,
+      101,
+      1325,
+      189
+    ],
+    "category": "List-item",
+    "text": "d) Tổng các nghiệm trên khoảng $\\left(\\frac{\\pi}{4}; \\frac{19\\pi}{2}\\right)$ của phương trình đã cho là $\\frac{6061\\pi}{32}$."
+  },
+  {
+    "bbox": [
+      836,
+      225,
+      951,
+      263
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      290,
+      371,
+      329
+    ],
+    "category": "Section-header",
+    "text": "### a) Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      352,
+      1432,
+      439
+    ],
+    "category": "Text",
+    "text": "Làm nhanh: Thay $x = \\frac{11\\pi}{32}$ vào phương trình, ta được: $\\cos\\left(4\\cdot\\frac{11\\pi}{32} - \\frac{3\\pi}{8}\\right) = \\cos(\\pi) = -1$."
+  },
+  {
+    "bbox": [
+      251,
+      471,
+      971,
+      553
+    ],
+    "category": "Text",
+    "text": "Vậy $x = \\frac{11\\pi}{32}$ là một nghiệm của phương trình đã cho."
+  },
+  {
+    "bbox": [
+      251,
+      579,
+      371,
+      618
+    ],
+    "category": "Section-header",
+    "text": "### b) Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      641,
+      1514,
+      727
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\cos\\left(4x - \\frac{3\\pi}{8}\\right) = -1 \\Leftrightarrow 4x - \\frac{3\\pi}{8} = \\pi + k2\\pi \\Leftrightarrow 4x = \\frac{11\\pi}{8} + k2\\pi \\Leftrightarrow x = \\frac{11\\pi}{32} + \\frac{k\\pi}{2} \\ (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      251,
+      759,
+      1487,
+      842
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức nghiệm: $x = \\alpha + \\frac{k2\\pi}{n}$ với $n$ là số điểm biểu diễn trên đường tròn lượng"
+  },
+  {
+    "bbox": [
+      251,
+      852,
+      1018,
+      936
+    ],
+    "category": "Text",
+    "text": "giác, ta có: $\\Leftrightarrow x = \\frac{11\\pi}{32} + \\frac{k\\pi}{2} = \\frac{11\\pi}{32} + \\frac{k2\\pi}{4}$. Suy ra $n = 4$."
+  },
+  {
+    "bbox": [
+      251,
+      956,
+      1493,
+      1046
+    ],
+    "category": "Text",
+    "text": "Vậy tất cả nghiệm của phương trình đã cho được biểu diễn bởi 4 điểm trên đường tròn lượng giác."
+  },
+  {
+    "bbox": [
+      251,
+      1067,
+      335,
+      1104
+    ],
+    "category": "Section-header",
+    "text": "### c) Sai"
+  },
+  {
+    "bbox": [
+      251,
+      1128,
+      1528,
+      1257
+    ],
+    "category": "Text",
+    "text": "Xét $x = \\frac{11\\pi}{32} + \\frac{k\\pi}{2} > 0 \\Leftrightarrow \\frac{k\\pi}{2} > -\\frac{11\\pi}{32} \\Leftrightarrow k > -\\frac{11}{16}$ mà $k \\in \\mathbb{Z} \\Rightarrow$ nghiệm dương nhỏ nhất ứng với $k = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      1285,
+      858,
+      1369
+    ],
+    "category": "Text",
+    "text": "Nghiệm dương nhỏ nhất là $\\frac{11\\pi}{32} + \\frac{0\\cdot\\pi}{2} = \\frac{11\\pi}{32}$."
+  },
+  {
+    "bbox": [
+      251,
+      1395,
+      1476,
+      1524
+    ],
+    "category": "Text",
+    "text": "Xét $x = \\frac{11\\pi}{32} + \\frac{k\\pi}{2} < 0 \\Leftrightarrow \\frac{k\\pi}{2} < -\\frac{11\\pi}{32} \\Leftrightarrow k < -\\frac{11}{16}$ mà $k \\in \\mathbb{Z} \\Rightarrow$ nghiệm âm lớn nhất ứng với $k = -1$."
+  },
+  {
+    "bbox": [
+      251,
+      1552,
+      863,
+      1643
+    ],
+    "category": "Text",
+    "text": "Nghiệm âm lớn nhất là $\\frac{11\\pi}{32} + \\frac{(-1)\\cdot\\pi}{2} = -\\frac{5\\pi}{32}$."
+  },
+  {
+    "bbox": [
+      251,
+      1669,
+      1500,
+      1753
+    ],
+    "category": "Text",
+    "text": "Tổng nghiệm dương nhỏ nhất và nghiệm âm lớn nhất của phương trình bằng $\\frac{11\\pi}{32} - \\frac{5\\pi}{32} = \\frac{3\\pi}{16}$."
+  },
+  {
+    "bbox": [
+      251,
+      1783,
+      339,
+      1822
+    ],
+    "category": "Section-header",
+    "text": "### d) Sai"
+  },
+  {
+    "bbox": [
+      251,
+      1845,
+      1304,
+      2031
+    ],
+    "category": "Text",
+    "text": "Do $x \\in \\left(\\frac{\\pi}{4}; \\frac{19\\pi}{2}\\right) \\Leftrightarrow \\frac{\\pi}{4} < x < \\frac{19\\pi}{2} \\Leftrightarrow \\frac{\\pi}{4} < \\frac{11\\pi}{32} + \\frac{k\\pi}{2} < \\frac{19\\pi}{2} \\Leftrightarrow \\frac{1}{4} < \\frac{11\\pi}{32} + \\frac{k\\pi}{2} < \\frac{19\\pi}{2} \\Leftrightarrow -\\frac{3}{32} < \\frac{k\\pi}{2} < \\frac{293\\pi}{32} \\Leftrightarrow -\\frac{3}{16} < k < \\frac{293}{16}, k \\in \\mathbb{Z} \\Leftrightarrow k \\in \\{0; 1; 2; \\dots; 17; 18\\}$."
+  }
+]

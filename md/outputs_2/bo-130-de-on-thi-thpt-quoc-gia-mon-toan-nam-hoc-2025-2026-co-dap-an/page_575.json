@@ -1,0 +1,287 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      122,
+      1195,
+      269
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử $d$ là đường thẳng thay đổi đi qua $A$ và cắt mặt cầu ($S$) tại hai điểm $M, N$. Gọi $M(a; b; c)$ là điểm thỏa mãn $|MA - MB|$ đạt giá trị nhỏ nhất, khi đó ta có $2a - 2b - c = -\\frac{19}{2}$."
+  },
+  {
+    "bbox": [
+      94,
+      306,
+      754,
+      458
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một chất điểm chuyển động thẳng trong 19 giây với tốc độ $v(t)$ (đơn vị: m/s) là hàm số phụ thuộc thời gian $t$ (đơn vị: giây) có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      792,
+      319,
+      1174,
+      644
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      652,
+      986,
+      693
+    ],
+    "category": "List-item",
+    "text": "a) Tại thời điểm $t = 19$ giây, tốc độ của chất điểm bằng 16 m/s."
+  },
+  {
+    "bbox": [
+      124,
+      695,
+      1195,
+      771
+    ],
+    "category": "List-item",
+    "text": "b) Quăng đường chất điểm đi được trong khoảng thời gian từ 0 giây đến 4 giây bằng 48 m."
+  },
+  {
+    "bbox": [
+      124,
+      773,
+      1195,
+      851
+    ],
+    "category": "List-item",
+    "text": "c) Trong khoảng thời gian từ 13 giây đến 19 giây, đồ thị của $v(t)$ là một phần của đường parabol. Khi đó $v(t) = -t^2 + 30t + 209$ (m/s)."
+  },
+  {
+    "bbox": [
+      124,
+      851,
+      1195,
+      892
+    ],
+    "category": "List-item",
+    "text": "d) Quăng đường chất điểm đi được từ lúc xuất phát đến khi停止 lại bằng 209."
+  },
+  {
+    "bbox": [
+      94,
+      928,
+      1198,
+      1084
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một集合 có chứa 6 viên bi màu xanh và 8 viên bi màu đỏ (các viên bi có cùng kích thước và khối lượng, được đánh số khác nhau). Bạn Phú lấy ngẫu nhiên 1 viên bi từ trong集合 và không hoàn lại, tiếp đó bạn Trí lấy ngẫu nhiên 2 viên bi từ trong集合."
+  },
+  {
+    "bbox": [
+      124,
+      1087,
+      920,
+      1159
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để bạn Phú lấy được 1 viên bi màu xanh là $\\frac{3}{7}$."
+  },
+  {
+    "bbox": [
+      124,
+      1157,
+      1195,
+      1259
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để bạn Trí lấy được 2 viên bi màu xanh, biết rằng bạn Phú đã lấy được 1 viên bi màu đỏ là $\\frac{5}{26}$."
+  },
+  {
+    "bbox": [
+      124,
+      1257,
+      1195,
+      1358
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để bạn Phú lấy được 1 viên bi màu đỏ và bạn Trí lấy được 1 viên bi màu xanh và 1 viên bi màu đỏ là $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      124,
+      1356,
+      1195,
+      1459
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng bạn Trí lấy được ít nhất một viên bi màu đỏ, xác suất bạn Phú lấy được một viên bi màu đỏ là $\\frac{21}{38}$."
+  },
+  {
+    "bbox": [
+      94,
+      1488,
+      997,
+      1567
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hàm số $y = f(x) = \\frac{-x^2 + x - 2}{x + 1}$ có đồ thị ($C$). Khi đó"
+  },
+  {
+    "bbox": [
+      124,
+      1571,
+      667,
+      1652
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } y' = f'(x) = \\frac{-x^2 - 2x + 3}{(x + 1)^2}, \\forall x \\neq -1.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1650,
+      1195,
+      1691
+    ],
+    "category": "List-item",
+    "text": "b) Tiệm cận xiên của đồ thị hàm số là đường thẳng có phương trình là $y = x - 2$."
+  },
+  {
+    "bbox": [
+      124,
+      1691,
+      864,
+      1731
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng cách giữa hai cực trị của đồ thị ($C$) bằng 4."
+  },
+  {
+    "bbox": [
+      124,
+      1731,
+      1195,
+      1847
+    ],
+    "category": "List-item",
+    "text": "d) Trên đồ thị ($C$) có đúng 4 điểm $M$ có tung độ và hoành độ là các số nguyên sao cho tiếp tuyến của đồ thị ($C$) tại $M$ tạo với hai đường tiệm cận của ($C$) một tam giác có diện tích bằng 8."
+  },
+  {
+    "bbox": [
+      110,
+      1883,
+      894,
+      1938
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1955,
+      1198,
+      2148
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Trong không gian $Oxyz$, cho ba điểm $A(-2; 1; 5)$, $B(4; 3; 1)$, $C(2; -5; 1)$. Gọi ($\\alpha$) là mặt phẳng chứa trục $Oy$ sao cho $A, B, C$ nằm về cùng một phía đối với mặt phẳng ($\\alpha$) và $d_1, d_2, d_3$ lần lượt là khoảng cách từ $A, B, C$ đến ($\\alpha$). Giá trị lớn nhất của biểu thức $T = d_1 + 2d_2 + 3d_3$ bằng $a\\sqrt{b}$ (với $a \\in \\mathbb{N}^*$, $b$ là số nguyên tố). Tính $S = 98a + 99b$."
+  },
+  {
+    "bbox": [
+      900,
+      2164,
+      952,
+      2198
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      2151,
+      1198,
+      2212
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "573"
+  }
+]

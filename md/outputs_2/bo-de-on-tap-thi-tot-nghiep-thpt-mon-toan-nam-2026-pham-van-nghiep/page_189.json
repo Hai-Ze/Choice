@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      110,
+      1574,
+      244
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Hiện nay, nước ta đang trong quá trình tinh snge bộ máy nhà nước và thực hiện nghị quyết không tổ chức công an cấp huyện. Do vậy, trong đợt điều động cán bộ công an từ huyện về công tác tại cơ sở hoặc công tác tại công an tỉnh, phòng tổ chức cán bộ nhận thấy rằng:"
+  },
+  {
+    "bbox": [
+      212,
+      246,
+      1572,
+      334
+    ],
+    "category": "Text",
+    "text": "Có 60% cán bộ có mongện vọng về công tác tại cơ sở là các xã vùng sâu vùng xa, số còn lại mongện vọng về công tác tại công an tỉnh."
+  },
+  {
+    "bbox": [
+      212,
+      336,
+      1569,
+      425
+    ],
+    "category": "Text",
+    "text": "Trong số cán bộ có mongện vọng về công tác tại cơ sở thì 70% có trình độ đại học và 30% có trình độ trung cấp."
+  },
+  {
+    "bbox": [
+      212,
+      427,
+      1574,
+      515
+    ],
+    "category": "Text",
+    "text": "Trong số cán bộ có mongện vọng về công an tỉnh thì 80% có trình độ đại học và 20% có trình độ trung cấp."
+  },
+  {
+    "bbox": [
+      212,
+      517,
+      1572,
+      604
+    ],
+    "category": "Text",
+    "text": "Tuy nhiên, năng lực công tác cũng là một yếu tố quan trọng. Dựa trên hồ sơ đánh giá năng lực:"
+  },
+  {
+    "bbox": [
+      212,
+      608,
+      1572,
+      696
+    ],
+    "category": "Text",
+    "text": "Trong số cán bộ có mongện vọng về cơ sở thì tỷ lệ cán bộ được đánh giá có năng lực “Tốt” trở lên với trình độ đại học là 60% và trình độ trung cấp là 30%."
+  },
+  {
+    "bbox": [
+      212,
+      698,
+      1572,
+      787
+    ],
+    "category": "Text",
+    "text": "Trong số cán bộ có mongện vọng về công tác tại công an tỉnh thì tỷ lệ được đánh giá là có năng lực “Tốt” trở lên với trình độ đại học là 85% và với trình độ trung cấp là 25%."
+  },
+  {
+    "bbox": [
+      464,
+      783,
+      1317,
+      1252
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1256,
+      1574,
+      1393
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một cán bộ công an. Xác suất để cán bộ có mongện vọng về công tác tại các xã vùng sâu vùng xa, biết rằng cán bộ này vừa có trình độ đại học, vừa được đánh giá năng lực “Tốt” trở lên là bao nhiêu (Kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      833,
+      1395,
+      953,
+      1436
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1440,
+      573,
+      1479
+    ],
+    "category": "Text",
+    "text": "Gọi các biến cố như sau:"
+  },
+  {
+    "bbox": [
+      212,
+      1483,
+      1375,
+      1527
+    ],
+    "category": "Text",
+    "text": "“ A là biến cố cán bộ có mongện vọng về công tác tại cơ sở (vùng sâu vùng xa)”"
+  },
+  {
+    "bbox": [
+      212,
+      1529,
+      1188,
+      1573
+    ],
+    "category": "Text",
+    "text": "“ B là biến cố cán bộ có mongện vọng về công tác tại công an tỉnh”"
+  },
+  {
+    "bbox": [
+      212,
+      1575,
+      818,
+      1616
+    ],
+    "category": "Text",
+    "text": "“ C là biến cố cán bộ có trình độ đại học”"
+  },
+  {
+    "bbox": [
+      212,
+      1620,
+      855,
+      1663
+    ],
+    "category": "Text",
+    "text": "“ D là biến cố cán bộ có trình độ trung cấp”"
+  },
+  {
+    "bbox": [
+      212,
+      1665,
+      1084,
+      1708
+    ],
+    "category": "Text",
+    "text": "“ E là biến cố cán bộ được đánh giá năng lực “Tốt” trở lên”"
+  },
+  {
+    "bbox": [
+      212,
+      1710,
+      1496,
+      1755
+    ],
+    "category": "Text",
+    "text": "Xác suất mongện vọng về cơ sở và về công an tỉnh là: $P(A) = 0,6; P(B) = 1 - P(A) = 0,4$."
+  },
+  {
+    "bbox": [
+      212,
+      1765,
+      1394,
+      1810
+    ],
+    "category": "Text",
+    "text": "Xác suất trình độ đại học có mongện vọng về cơ sở: $P(C|A) = 0,7; P(D|A) = 0,3$"
+  },
+  {
+    "bbox": [
+      212,
+      1820,
+      1416,
+      1865
+    ],
+    "category": "Text",
+    "text": "Xác suất trình độ học vấn theo mongện vọng về tỉnh: $P(C|B) = 0,8; P(D|B) = 0,2$"
+  },
+  {
+    "bbox": [
+      212,
+      1875,
+      1377,
+      1918
+    ],
+    "category": "Text",
+    "text": "Xác suất năng lực “Tốt” trở lên theo mongện vọng về cơ sở và trình độ học vấn:"
+  },
+  {
+    "bbox": [
+      612,
+      1920,
+      1172,
+      1965
+    ],
+    "category": "Formula",
+    "text": "$$\nP(E|C \\cap A) = 0,6 \\Rightarrow P(E|D \\cap A) = 0,4\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1973,
+      1487,
+      2018
+    ],
+    "category": "Text",
+    "text": "Xác suất năng lực “Tốt” trở lên theo mongện vọng về công an tỉnh và trình độ học vấn:"
+  },
+  {
+    "bbox": [
+      595,
+      2020,
+      1189,
+      2065
+    ],
+    "category": "Formula",
+    "text": "$$\nP(E|C \\cap B) = 0,85 \\Rightarrow P(E|D \\cap B) = 0,25\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2073,
+      1574,
+      2164
+    ],
+    "category": "Text",
+    "text": "Xác suất để cán bộ có mongện vọng về công tác tại các xã vùng sâu vùng xa, biết rằng cán bộ này vừa có trình độ đại học, vừa được đánh giá năng lực “Tốt” trở lên là: $P(A|C \\cap E)$"
+  },
+  {
+    "bbox": [
+      212,
+      2176,
+      595,
+      2217
+    ],
+    "category": "Text",
+    "text": "Sử dụng công thức Bayes:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

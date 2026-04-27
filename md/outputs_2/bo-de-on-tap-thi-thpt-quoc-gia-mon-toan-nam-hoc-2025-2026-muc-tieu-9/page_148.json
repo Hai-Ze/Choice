@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      298,
+      138,
+      573,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      375,
+      182,
+      505,
+      221
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 8"
+  },
+  {
+    "bbox": [
+      294,
+      229,
+      585,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề gồm có 4 trang)"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      226,
+      1528,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      428,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      536,
+      1033,
+      576
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 1. Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      466,
+      583,
+      1233,
+      872
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>2</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>4</td><td>0</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      893,
+      911,
+      934
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      191,
+      954,
+      355,
+      997
+    ],
+    "category": "List-item",
+    "text": "A) $(-4; 1)$."
+  },
+  {
+    "bbox": [
+      535,
+      954,
+      713,
+      997
+    ],
+    "category": "List-item",
+    "text": "B) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      879,
+      954,
+      1061,
+      997
+    ],
+    "category": "List-item",
+    "text": "C) $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      1224,
+      954,
+      1360,
+      997
+    ],
+    "category": "List-item",
+    "text": "D) $(0; 2)$."
+  },
+  {
+    "bbox": [
+      155,
+      1012,
+      1544,
+      1114
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên, đạo hàm $y' > 0$ trên các khoảng $(-\\infty; 0)$ và $(2; +\\infty)$. Do đó, hàm số đồng biến trên các khoảng này. Đối chiếu các phương án, chọn $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      155,
+      1127,
+      967,
+      1206
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 2. Họ nguyên hàm của hàm số $f(x) = \\frac{1}{2x+3}$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1233,
+      483,
+      1276
+    ],
+    "category": "List-item",
+    "text": "A) $3 \\ln |2x + 3| + C$."
+  },
+  {
+    "bbox": [
+      877,
+      1216,
+      1175,
+      1292
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{1}{3} \\ln |2x + 3| + C$."
+  },
+  {
+    "bbox": [
+      191,
+      1303,
+      483,
+      1346
+    ],
+    "category": "List-item",
+    "text": "C) $2 \\ln |2x + 3| + C$."
+  },
+  {
+    "bbox": [
+      877,
+      1287,
+      1175,
+      1363
+    ],
+    "category": "List-item",
+    "text": "D) $\\frac{1}{2} \\ln |2x + 3| + C$."
+  },
+  {
+    "bbox": [
+      155,
+      1355,
+      1027,
+      1436
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có: $\\int \\frac{1}{2x+3} dx = \\frac{1}{2} \\ln |2x + 3| + C$."
+  },
+  {
+    "bbox": [
+      155,
+      1451,
+      1544,
+      1537
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 3. Sau khi kiểm tra sức khỏe tổng quát, kết quả về cân nặng (đơn vị: kg) của 40 học sinh lớp 12A được thể hiện trong bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      405,
+      1544,
+      1282,
+      1658
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng</td><td>[40; 50)</td><td>[50; 60)</td><td>[60; 70)</td><td>[70; 80)</td><td>[80; 90)</td></tr><tr><td>Số học sinh</td><td>7</td><td>12</td><td>12</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1669,
+      1416,
+      1710
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?"
+  },
+  {
+    "bbox": [
+      191,
+      1730,
+      288,
+      1773
+    ],
+    "category": "List-item",
+    "text": "A) 50."
+  },
+  {
+    "bbox": [
+      535,
+      1730,
+      664,
+      1773
+    ],
+    "category": "List-item",
+    "text": "B) 50, 5."
+  },
+  {
+    "bbox": [
+      879,
+      1730,
+      1008,
+      1773
+    ],
+    "category": "List-item",
+    "text": "C) 52, 5."
+  },
+  {
+    "bbox": [
+      1224,
+      1730,
+      1349,
+      1773
+    ],
+    "category": "List-item",
+    "text": "D) 55, 5."
+  },
+  {
+    "bbox": [
+      155,
+      1782,
+      1544,
+      1928
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Cỡ mẫu $n = 40$. Tứ phân vị thứ nhất $Q_1$ nằm ở vị trí thứ $\\frac{n}{4} = 10$. Nhóm chứa $Q_1$ là nhóm $[50; 60)$. Ta có: $Q_1 = 50 + \\frac{10 - 7}{12} \\cdot (60 - 50) = 52, 5$."
+  },
+  {
+    "bbox": [
+      155,
+      1939,
+      1544,
+      2025
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 4. Trong không gian $Oxyz$, cho hai điểm $A(-2; 1; -3)$ và $B(1; 0; -2)$. Độ dài đoạn thẳng $AB$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      2041,
+      317,
+      2084
+    ],
+    "category": "List-item",
+    "text": "A) $\\sqrt{11}$."
+  },
+  {
+    "bbox": [
+      535,
+      2041,
+      660,
+      2084
+    ],
+    "category": "List-item",
+    "text": "B) $3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      879,
+      2041,
+      973,
+      2084
+    ],
+    "category": "List-item",
+    "text": "C) 11."
+  },
+  {
+    "bbox": [
+      1224,
+      2041,
+      1320,
+      2084
+    ],
+    "category": "List-item",
+    "text": "D) 27."
+  },
+  {
+    "bbox": [
+      155,
+      2101,
+      1544,
+      2202
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $AB = \\sqrt{(1 - (-2))^2 + (0 - 1)^2 + (-2 - (-3))^2} = \\sqrt{3^2 + (-1)^2 + 1^2} = \\sqrt{11}$."
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "148"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1499,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

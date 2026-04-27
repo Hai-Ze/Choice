@@ -1,0 +1,237 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      158,
+      562,
+      312
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Hình minh họa sơ đồ mộtgrouphomehouse trong hệ trục tọa độ $Oxyz$, trong đó nền nhà, bốnバツバツ và hai mái nhà đều là hình chữ nhật."
+  },
+  {
+    "bbox": [
+      604,
+      176,
+      1185,
+      614
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      620,
+      521,
+      659
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ điểm $A$ là $(4; 0; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      657,
+      529,
+      702
+    ],
+    "category": "List-item",
+    "text": "b) Tọa độ của $\\overrightarrow{AH}$ là $(4; 5; 3)$."
+  },
+  {
+    "bbox": [
+      124,
+      700,
+      685,
+      746
+    ],
+    "category": "List-item",
+    "text": "c) Tích vô hướng của $\\overrightarrow{AH}$ và $\\overrightarrow{AF}$ bằng 3."
+  },
+  {
+    "bbox": [
+      124,
+      746,
+      1194,
+      862
+    ],
+    "category": "List-item",
+    "text": "d) Góc dốc của mái nhà, tức là số đo của góc nhị diện có cạnh là đường thẳng $FG$, hai mặt lần lượt là $(FGQP)$ và $(FGHE)$ bằng $26,6^\\circ$ (làm tròn kết quả đến hàng phần mười của độ)."
+  },
+  {
+    "bbox": [
+      110,
+      881,
+      893,
+      934
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      943,
+      1197,
+      1065
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác đều có độ dài cạnh bằng $6\\sqrt{3}$. Khoảng cách giữa hai đường thẳng $AA'$ và $BC$ bằng bao nhiêu? (Làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      979,
+      1022,
+      1197,
+      1074
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1088,
+      1197,
+      1169
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Giả sử 4 thành phố $A, B, C, D$ với khoảng cách (đơn vị: km) giữa các thành phố được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      510,
+      1194,
+      782,
+      1439
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th></tr></thead><tbody><tr><th>A</th><td>0</td><td>10</td><td>15</td><td>20</td></tr><tr><th>B</th><td>10</td><td>0</td><td>25</td><td>35</td></tr><tr><th>C</th><td>15</td><td>25</td><td>0</td><td>30</td></tr><tr><th>D</th><td>20</td><td>35</td><td>30</td><td>0</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1466,
+      1197,
+      1543
+    ],
+    "category": "Text",
+    "text": "Hãy tính quăng đường ngắn nhất để đi qua tất cả các thành phố đúng một lần rồi quay lại thành phố xuất phát."
+  },
+  {
+    "bbox": [
+      979,
+      1501,
+      1197,
+      1553
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1567,
+      1197,
+      1759
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian với một hệ trục tọa độ cho trước (đơn vị tính bằng mét). Bạn Huyền quan sát và phát hiện một con chim đang bay với tốc độ và hướng không đổi từ điểm $A(20; 40; 30)$ đến điểm $B(40; 50; 50)$ trong vòng 4 phút. Nếu con chim bay tiếp giữ nguyên tốc độ và hướng bay thì sau 2 phút con chim ở vị trí $C(a; b; c)$. Tổng $a + b + c$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      303,
+      1782,
+      985,
+      2063
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      2099,
+      1197,
+      2151
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      2165,
+      1197,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Bác Năm làm một cái cửa nhà hình parabol có chiều cao từ mặt đất đến记憶 là 2,25 mét, chiều rộng tiếp giáp với mặt đất là 3 mét. Giá thuê mỗi mét vuông"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 199"
+  }
+]

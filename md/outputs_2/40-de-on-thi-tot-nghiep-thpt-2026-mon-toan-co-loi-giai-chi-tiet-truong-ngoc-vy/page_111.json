@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      407,
+      119,
+      1168,
+      419
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      448,
+      1494,
+      561
+    ],
+    "category": "Text",
+    "text": "a) Biết rằng số điện thoại đó là số lửa đảo, xác suất để số điện thoại đó bị chặn là 0.94 hay\n$$P(B|A) = 94\\% = 0.94$$"
+  },
+  {
+    "bbox": [
+      76,
+      587,
+      161,
+      625
+    ],
+    "category": "Text",
+    "text": "Đúng."
+  },
+  {
+    "bbox": [
+      76,
+      640,
+      662,
+      684
+    ],
+    "category": "Text",
+    "text": "b) Xác suất của một số điện thoại bị chặn là"
+  },
+  {
+    "bbox": [
+      82,
+      705,
+      858,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A|B) + P(\\bar{A}|B) = 5\\%.94\\% + 95\\%.3\\% = \\frac{151}{2000}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      809,
+      154,
+      847
+    ],
+    "category": "Text",
+    "text": "Đúng"
+  },
+  {
+    "bbox": [
+      76,
+      860,
+      1141,
+      906
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng một số điện thoại bị chặn, xác suất để số điện thoại đó là số lửa đảo"
+  },
+  {
+    "bbox": [
+      76,
+      925,
+      618,
+      1087
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{là } P(A|B) = \\frac{P(AB)}{P(B)} = \\frac{\\frac{94}{100} \\cdot \\frac{5}{100}}{\\frac{151}{2000}} = \\frac{94}{151}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1112,
+      640,
+      1275
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) } P(\\bar{A}|\\bar{B}) = \\frac{P(\\bar{A}\\bar{B})}{P(\\bar{B})} = \\frac{\\frac{97}{100} \\cdot \\frac{95}{100}}{1 - \\frac{151}{2000}} = \\frac{1843}{1849}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1292,
+      1494,
+      1593
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một người điều�nkiển ô tô đang ở đường dẫn muốn nhập làn vào đường cao tốc. Khi ô tô cách điểm nhập làn 200 m, tốc độ của ô tô là 36 km/h. Hai giây sau đó, ô tô bắt đầu tăng tốc với tốc độ $v(t) = at + b$ ($a, b \\in \\mathbb{R}, a > 0$), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng ô tô nhập làn cao tốc sau 12 giây tăng tốc và duy trì sự tăng tốc trong 24 giây kể từ khi bắt đầu tăng tốc, sau 24 s đó ô tô duy trì tốc độ cao nhất trong 24 giây đầu trong thời gian còn lại trên cao tốc."
+  },
+  {
+    "bbox": [
+      76,
+      1614,
+      1135,
+      1658
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô đi được từ khi bắt đầu tăng tốc đến khi nhập làn là 180 m."
+  },
+  {
+    "bbox": [
+      76,
+      1677,
+      801,
+      1722
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của ô tô tại thời điểm nhập làn là 72 km/h."
+  },
+  {
+    "bbox": [
+      76,
+      1743,
+      1494,
+      1847
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường mà ô tô đi được trong thời gian 30 giây kể từ khi ô tô cách điểm nhập làn 200 m là 620 m."
+  },
+  {
+    "bbox": [
+      76,
+      1872,
+      1494,
+      2058
+    ],
+    "category": "Text",
+    "text": "d) Sau 24 giây kể từ khi tăng tốc, ô tô duy trì tốc độ cao nhất trong vòng 5 s thì phát hiện chướng ngại vật cách đó 300 m, người điều�nkiển lập tức đạp phanh và ô tô chuyển động chậm dần đều với $a(t) = -3(\\text{m/s}^2)$. Khi đó ô tô停止 lại cách chướng ngại vật 10 m."
+  },
+  {
+    "bbox": [
+      727,
+      2086,
+      843,
+      2124
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2140,
+      893,
+      2202
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      542,
+      97,
+      1196,
+      534
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      563,
+      602,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ S = \\int_{a}^{c} f(x) \\, dx + \\int_{c}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      563,
+      1142,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ S = \\int_{a}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      688,
+      623,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ S = -\\int_{a}^{c} f(x) \\, dx + \\int_{c}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      684,
+      1156,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ S = \\left| \\int_{a}^{b} f(x) \\, dx \\right|.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      811,
+      924,
+      849
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      869,
+      279,
+      907
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      157,
+      926,
+      1572,
+      1098
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng được giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a$, $x = b$ là $S = \\int_{a}^{b} |f(x)| \\, dx = \\int_{a}^{c} |f(x)| \\, dx + \\int_{c}^{b} |f(x)| \\, dx = -\\int_{a}^{c} f(x) \\, dx + \\int_{c}^{b} f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      157,
+      1124,
+      1374,
+      1172
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình hộp $ABCD.A'B'C'D'$ có tâm $O$. Khi đó, $\\overline{AB} + \\overline{AD} + \\overline{AA'} + \\overline{AC'}$ bằng:"
+  },
+  {
+    "bbox": [
+      632,
+      1206,
+      1071,
+      1546
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1608,
+      313,
+      1651
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ \\overline{BD}.\n$$"
+  },
+  {
+    "bbox": [
+      555,
+      1608,
+      689,
+      1651
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ 2\\overline{OC'}.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      1608,
+      1035,
+      1651
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ 4\\overline{AO}.\n$$"
+  },
+  {
+    "bbox": [
+      1255,
+      1608,
+      1371,
+      1651
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ 2\\overline{AC}.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      1675,
+      924,
+      1713
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1735,
+      279,
+      1773
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      162,
+      1790,
+      922,
+      1835
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB} + \\overline{AD} + \\overline{AA'} + \\overline{AC'} = \\overline{AC} + \\overline{AA'} + \\overline{AC'} = 2\\overline{AC'} = 4\\overline{AO}.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1859,
+      1572,
+      1982
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng $(P): 2x - 2y + z - 3 = 0$. Khoảng cách từ điểm $M(-1; 2; 0)$ đến mặt phẳng $(P)$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      2008,
+      302,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ -3.\n$$"
+  },
+  {
+    "bbox": [
+      555,
+      2008,
+      631,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ 3.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      2008,
+      981,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ 2.\n$$"
+  },
+  {
+    "bbox": [
+      1255,
+      2008,
+      1331,
+      2042
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ 5.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      2068,
+      924,
+      2106
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      2126,
+      277,
+      2164
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      818,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

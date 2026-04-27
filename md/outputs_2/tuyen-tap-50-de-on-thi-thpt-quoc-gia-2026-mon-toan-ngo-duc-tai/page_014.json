@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      153,
+      1454,
+      285
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      193,
+      334,
+      1071,
+      446
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số đa thức bậc ba $y = ax^3 + bx^2 + cx + d$ có đồ thị là đường cong trong hình vẽ bên."
+  },
+  {
+    "bbox": [
+      222,
+      464,
+      820,
+      509
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      222,
+      529,
+      968,
+      576
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đã cho đồng biến trên khoảng $(1;5)$."
+  },
+  {
+    "bbox": [
+      222,
+      593,
+      1035,
+      641
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị lớn nhất của hàm số trên $(0; +\\infty)$ bằng 5."
+  },
+  {
+    "bbox": [
+      222,
+      662,
+      523,
+      701
+    ],
+    "category": "List-item",
+    "text": "d) $a+b+c+d = 5$."
+  },
+  {
+    "bbox": [
+      1082,
+      334,
+      1446,
+      882
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      910,
+      1454,
+      1211
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một bể chứa dầu ban đầu có 50 000 lít dầu. Gọi $V(t)$ là thể tích dầu (lít) trong bể tại thời điểm $t$, trong đó $t$ tính theo giờ $0 \\le t \\le 24$. Trong quá trình bơm dầu vào bể, thể tích dầu tăng theo tốc độ được biểu diễn bởi hàm số $V'(t) = k \\cdot \\sqrt{t}$, với $k$ là hằng số dương. Sau 4 giờ bơm liên tục, thể tích dầu trong bể đạt 58 000 lít. Khi đó"
+  },
+  {
+    "bbox": [
+      222,
+      1231,
+      1164,
+      1280
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $V(t)$ là một nguyên hàm của hàm số $f(t) = k \\cdot \\sqrt{t}$."
+  },
+  {
+    "bbox": [
+      222,
+      1286,
+      1097,
+      1368
+    ],
+    "category": "List-item",
+    "text": "b) $V(t) = \\frac{2k}{3}t\\sqrt{t} + C$, với $0 \\le t \\le 24$ và $k, C$ là các hằng số."
+  },
+  {
+    "bbox": [
+      222,
+      1377,
+      1309,
+      1423
+    ],
+    "category": "List-item",
+    "text": "c) Sau 16 giờ bơm liên tục, thể tích dầu trong bể đạt được 148 000 lít."
+  },
+  {
+    "bbox": [
+      222,
+      1440,
+      1446,
+      1613
+    ],
+    "category": "List-item",
+    "text": "d) Trong quá trình bơm dầu, nếu sau mỗi giờ lượng dầu bị rò rỉ đều đặn với tốc độ 500 lít/giờ, thì tại thời điểm $t$ bằng 9 giờ, thể tích dầu trong bể là 72 500 lít."
+  },
+  {
+    "bbox": [
+      193,
+      1641,
+      1454,
+      1818
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Theo một số liệu thống kê của dự án Plan, tại một xã của một tỉnh Miền核心区 của Bắc chỉ có 2 dân tộc Mông và Dao sinh sống có số trẻ em dưới 5 tuổi là 300 em, kết quả điều tra năm 2023 được cho như bảng dưới đây."
+  },
+  {
+    "bbox": [
+      514,
+      1843,
+      1132,
+      2044
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Kết quả điều tra</td><td>Mông</td><td>Dao</td></tr></thead><tbody><tr><td>Suy dinh dưỡng</td><td>27</td><td>24</td></tr><tr><td>Không suy dinh dưỡng</td><td>153</td><td>96</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      193,
+      2071,
+      954,
+      2115
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một trẻ em dưới 5 tuổi của xã."
+  },
+  {
+    "bbox": [
+      193,
+      2135,
+      1414,
+      2181
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “chọn được một trẻ em dưới 5 tuổi của xã bị suy dinh dưỡng”."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      497,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

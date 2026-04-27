@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      95,
+      1572,
+      203
+    ],
+    "category": "Text",
+    "text": "Do $MN$ là trục đối xứng của miền $(R)$ nên khối tròn xoay được tạo thành khi quay miền $(R)$ quanh trục $MN$ trùng với khối tròn xoay được tạo thành khi quay phần $(R)$ nằm phía trên $MN$ quanh $MN$."
+  },
+  {
+    "bbox": [
+      155,
+      224,
+      1572,
+      340
+    ],
+    "category": "Text",
+    "text": "Gọi $V_1, V_2, V$ tương ứng là thể tích của các khối tròn xoay được tạo thành khi quay Elips $(E)$, hình tròn $(C)$ và miền $(R)$ quanh $MN$ (hay quanh $Ox$), ta có $V = V_1 - V_2$."
+  },
+  {
+    "bbox": [
+      155,
+      367,
+      1315,
+      455
+    ],
+    "category": "Text",
+    "text": "Elip $(E)$ có các bán trục $a = \\frac{1}{2}AD = 5$, $b = \\frac{1}{2}AB = 3$ nên có phương trình $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      478,
+      956,
+      584
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } V_1 = \\pi \\int_{-5}^{5} 9 \\left(1 - \\frac{x^2}{25}\\right) dx = \\pi \\left(9x - \\frac{9}{25}x^3\\right) \\Big|_{-5}^{5} = 60\\pi \\, (\\text{cm}^3).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      603,
+      1572,
+      755
+    ],
+    "category": "Text",
+    "text": "Hình tròn $(C)$ có tâm tại $O$, bán kính $R = 3$ khi quay quanh $MN$ tạo thành khối cầu tâm $O$, bán kính bằng 3. Do đó $V_2 = \\frac{4}{3}\\pi \\cdot 3^3 = 36\\pi \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      155,
+      778,
+      1015,
+      825
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của vật trang trí đó là: $V = V_1 - V_2 = 24\\pi \\approx 75 \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      155,
+      844,
+      1572,
+      1127
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hai nhà máy sản xuất đặt tại các vị trí $A$ và $B$ cách nhau $4\\text{km}$. Một nhà máy cung cấp nước được đặt ở vị trí $C$ nằm trên đường trung trực của đoạn thẳng $AB$, cách trung điểm $M$ của đoạn thẳng $AB$ một khoảng $4\\text{km}$. Người ta muốn làm một đường ống dẫn nước từ nhà máy nước $C$ đến một vị trí $I$ nằm giữa đoạn thẳng $MC$ sau đó chia ra hai nhánh dẫn tới hai nhà máy $A$ và $B$ (hình vẽ). Tổng độ dài đường ống dẫn nước nhỏ nhất bằng bao nhiêu $\\text{km}$? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      598,
+      1137,
+      1127,
+      1498
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1518,
+      493,
+      1554
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1576,
+      924,
+      1616
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      155,
+      1633,
+      349,
+      1673
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 7,46"
+  },
+  {
+    "bbox": [
+      155,
+      1700,
+      873,
+      1747
+    ],
+    "category": "Text",
+    "text": "Đặt độ dài $IM = x \\, (\\text{km}, 0 \\le x \\le 4)$, suy ra $IC = 4 - x$."
+  },
+  {
+    "bbox": [
+      155,
+      1774,
+      505,
+      1825
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } IA = IB = \\sqrt{x^2 + 4}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1848,
+      1043,
+      1902
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng độ dài đoạn ống dẫn nước là: } IC + IA + IB = 4 - x + 2\\sqrt{x^2 + 4}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1923,
+      1194,
+      1997
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hàm số: } y = f(x) = 4 - x + 2\\sqrt{x^2 + 4} \\text{ với } 0 \\le x \\le 4, \\text{ ta cần tìm } \\min_{[0;4]} f(x).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2019,
+      717,
+      2124
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } y' = -1 + 2 \\cdot \\frac{x}{\\sqrt{x^2 + 4}} = \\frac{2x - \\sqrt{x^2 + 4}}{\\sqrt{x^2 + 4}}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      2144,
+      685,
+      2238
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 0 \\Leftrightarrow 2x - \\sqrt{x^2 + 4} = 0 \\Leftrightarrow x = \\frac{2\\sqrt{3}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

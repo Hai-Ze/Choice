@@ -1,0 +1,362 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      618,
+      95,
+      951,
+      135
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      135,
+      1373,
+      178
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      203,
+      581,
+      287
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Giá trị của $\\lim \\frac{5^n - 1}{3^n + 1}$ bằng :"
+  },
+  {
+    "bbox": [
+      115,
+      310,
+      212,
+      343
+    ],
+    "category": "List-item",
+    "text": "A. $+\\infty$."
+  },
+  {
+    "bbox": [
+      470,
+      310,
+      539,
+      343
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      827,
+      310,
+      884,
+      343
+    ],
+    "category": "List-item",
+    "text": "C. 0"
+  },
+  {
+    "bbox": [
+      1175,
+      310,
+      1272,
+      343
+    ],
+    "category": "List-item",
+    "text": "D. $-\\infty$."
+  },
+  {
+    "bbox": [
+      727,
+      369,
+      843,
+      406
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      426,
+      198,
+      463
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      486,
+      550,
+      672
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\lim \\frac{5^n - 1}{3^n + 1} = \\lim \\frac{1 - \\left(\\frac{1}{5}\\right)^n}{\\left(\\frac{3}{5}\\right)^n + \\left(\\frac{1}{5}\\right)^n}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      699,
+      1139,
+      802
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nhưng } \\lim \\left(1 - \\left(\\frac{1}{5}\\right)^n\\right) = 1 > 0, \\lim \\left(\\frac{3}{5}\\right)^n + \\left(\\frac{1}{5}\\right)^n = 0 \\text{ và } \\left(\\frac{3}{5}\\right)^n + \\left(\\frac{1}{5}\\right)^n > 0 \\forall n \\in \\mathbb{N}^*\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      832,
+      359,
+      916
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nên } \\lim \\frac{5^n - 1}{3^n + 1} = +\\infty.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      935,
+      1118,
+      979
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Tổng các nghiệm của phương trình: $\\tan x = 1$ trên khoảng $(0; 4\\pi)$ là:"
+  },
+  {
+    "bbox": [
+      126,
+      1006,
+      231,
+      1084
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{15\\pi}{4}$"
+  },
+  {
+    "bbox": [
+      476,
+      1006,
+      563,
+      1084
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3\\pi}{2}$"
+  },
+  {
+    "bbox": [
+      827,
+      1006,
+      920,
+      1084
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{7\\pi}{2}$"
+  },
+  {
+    "bbox": [
+      1175,
+      1026,
+      1261,
+      1059
+    ],
+    "category": "List-item",
+    "text": "D. $7\\pi$"
+  },
+  {
+    "bbox": [
+      727,
+      1111,
+      843,
+      1148
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1168,
+      198,
+      1205
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1226,
+      599,
+      1274
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Điều kiện: } \\sin x \\neq 0 \\Leftrightarrow x \\neq k\\pi \\ (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1308,
+      497,
+      1381
+    ],
+    "category": "Formula",
+    "text": "$$\n\\tan x = 1 \\Leftrightarrow x = \\frac{\\pi}{4} + k\\pi \\ (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1408,
+      756,
+      1488
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } x \\in (0; 4\\pi) \\Leftrightarrow 0 < \\frac{\\pi}{4} + k\\pi < 4\\pi \\Leftrightarrow -\\frac{1}{4} < k < \\frac{15}{4}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1513,
+      1275,
+      1661
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Do } k \\in \\mathbb{Z} \\Rightarrow k \\in \\{0;1;2;3\\} \\Leftrightarrow 4 \\text{ nghiệm } \\in (0;10) \\text{ là } x_1 = \\frac{\\pi}{4}, x_2 = \\frac{5\\pi}{4}, x_3 = \\frac{9\\pi}{4}, x_4 = \\frac{13\\pi}{4} \\\\ \\Rightarrow x_1 + x_2 + x_3 + x_4 = 7\\pi. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1691,
+      814,
+      1737
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tập nghiệm của bất phương trình $2^{x^2-1} < 8$ là"
+  },
+  {
+    "bbox": [
+      126,
+      1758,
+      257,
+      1800
+    ],
+    "category": "List-item",
+    "text": "A. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      476,
+      1758,
+      634,
+      1800
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 2)$."
+  },
+  {
+    "bbox": [
+      827,
+      1758,
+      974,
+      1800
+    ],
+    "category": "List-item",
+    "text": "C. $(-2; 2)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1758,
+      1335,
+      1800
+    ],
+    "category": "List-item",
+    "text": "D. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      727,
+      1832,
+      843,
+      1869
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1889,
+      190,
+      1926
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      76,
+      1947,
+      700,
+      1992
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ phương trình ta có } x^2 - 1 < 3 \\Leftrightarrow -2 < x < 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2011,
+      1241,
+      2059
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[-1; 3]$ và có đồ thị như hình vẽ bên."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2256,
+      832,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

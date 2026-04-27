@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      782,
+      136
+    ],
+    "category": "Text",
+    "text": "a) Gọi $A$ là biến cố:”Chọn được một người là nam”."
+  },
+  {
+    "bbox": [
+      76,
+      156,
+      408,
+      204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } n(A) = C_{500}^{1} = 500\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      232,
+      327,
+      279
+    ],
+    "category": "Formula",
+    "text": "$$\nn(\\Omega) = C_{900}^{1} = 900\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      307,
+      453,
+      401
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{500}{900} = \\frac{5}{9}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      422,
+      850,
+      467
+    ],
+    "category": "Text",
+    "text": "b) Gọi $B$ là biến cố:”Chọn được một người có việc làm”."
+  },
+  {
+    "bbox": [
+      76,
+      488,
+      408,
+      535
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } n(A) = C_{600}^{1} = 600\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      563,
+      327,
+      610
+    ],
+    "category": "Formula",
+    "text": "$$\nn(\\Omega) = C_{900}^{1} = 900\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      636,
+      453,
+      731
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow P(B) = \\frac{n(B)}{n(\\Omega)} = \\frac{600}{900} = \\frac{2}{3}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      761,
+      1494,
+      905
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để một người thất nghiệp khi người đó là nữ cao cấp $\\frac{260}{40} = 6,5$ lần xác suất để một người thất nghiệp khi người đó là nam."
+  },
+  {
+    "bbox": [
+      76,
+      917,
+      760,
+      962
+    ],
+    "category": "Text",
+    "text": "d) Gọi $C$ là biến cố:”Chọn được một người là nữ”."
+  },
+  {
+    "bbox": [
+      76,
+      976,
+      813,
+      1021
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố:”Chọn được một người có việc làm”."
+  },
+  {
+    "bbox": [
+      76,
+      1041,
+      296,
+      1093
+    ],
+    "category": "Text",
+    "text": "Ta tính $P(C|B)$"
+  },
+  {
+    "bbox": [
+      76,
+      1122,
+      834,
+      1314
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(C|B) = \\frac{P(CB)}{P(B)} = \\frac{\\frac{n(BC)}{n(\\Omega)}}{\\frac{n(B)}{n(\\Omega)}} = \\frac{n(BC)}{n(B)} = \\frac{140}{600} = \\frac{7}{30}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1343,
+      1494,
+      1456
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hình 1 mô phỏng một trạm thu phát sóng điện thoại di động đặt ở vị trí $I(1; 2; 2)$ trong không gian $Oxyz$ (đơn vị trên mỗi trục là kilômét) và được thiết kế với đường kính phủ sóng là $10000 \\text{ m}$"
+  },
+  {
+    "bbox": [
+      334,
+      1474,
+      1222,
+      1865
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1886,
+      961,
+      1926
+    ],
+    "category": "Text",
+    "text": "a) Bán kính vùng phủ sóng của trạm phát sóng điện thoại là $5 \\text{ km}$."
+  },
+  {
+    "bbox": [
+      76,
+      1945,
+      1494,
+      2064
+    ],
+    "category": "Text",
+    "text": "b) Phương trình mặt cầu mô tả ranh giới Shielding Side Wall và Shielding Side Wall của trạm phát sóng điện thoại là $(x-1)^2 + (y-2)^2 + (z-2)^2 = 25$."
+  },
+  {
+    "bbox": [
+      76,
+      2087,
+      1102,
+      2136
+    ],
+    "category": "Text",
+    "text": "c)úp $A(1; 2; 6)$ nằm trong vùng phủ sóng của trạm phát sóng điện thoại."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

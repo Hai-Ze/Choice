@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      619,
+      103,
+      1092,
+      394
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      416,
+      494,
+      452
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      475,
+      924,
+      513
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      531,
+      315,
+      569
+    ],
+    "category": "Text",
+    "text": "Đáp án: 63"
+  },
+  {
+    "bbox": [
+      156,
+      584,
+      1572,
+      687
+    ],
+    "category": "Text",
+    "text": "Theo sơ đồ đường đi thấy có 2 định bậc lẻ là A và D nên có thể tìm được một đường đi Euler từ A đến D (đường này đi qua mỗi cạnh đúng một lần)."
+  },
+  {
+    "bbox": [
+      156,
+      701,
+      1054,
+      798
+    ],
+    "category": "Text",
+    "text": "Một đường Euler từ A đến D là: AEABEDBCD và độ dài của nó là\n$6+7+8+10+9+4+5+2=51$"
+  },
+  {
+    "bbox": [
+      156,
+      816,
+      1033,
+      860
+    ],
+    "category": "Text",
+    "text": "Đường đi ngắn nhất từ D đến A là DBA và có độ dài là: $4+8 = 12$"
+  },
+  {
+    "bbox": [
+      156,
+      873,
+      1041,
+      918
+    ],
+    "category": "Text",
+    "text": "Vậy tổng quăng đường đưa thư có thể đi ngắn nhất là $51 + 12 = 63$"
+  },
+  {
+    "bbox": [
+      156,
+      937,
+      1576,
+      1243
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, một khinh khí cầu ở tọa độ $A(-16;-10;10)$ bắt đầu bay với vecto vận tốc không đổi $\\vec{v} = (4;3;-1)$ (đơn vị vận tốc là km/h) và dự kiến bay trong thời gian 10 giờ. Biết trạm kiểm soát không lưu đặt ở vị trí gốc tọa độ $O$ kiểm soát được các vật thể cách trạm một khoảng tối đa bằng 12km. Thời gian kể từ khi trạm kiểm soát không lưu phát hiện ra khinh khí cầu đến khi khinh khí cầu ra khỏi vùng kiểm soát là bao nhiêu phút?"
+  },
+  {
+    "bbox": [
+      588,
+      1284,
+      1156,
+      1589
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1635,
+      494,
+      1671
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1693,
+      924,
+      1732
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1749,
+      333,
+      1788
+    ],
+    "category": "Text",
+    "text": "Đáp án: 240"
+  },
+  {
+    "bbox": [
+      156,
+      1807,
+      1572,
+      1856
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số của đường thẳng $d$ đi qua điểm $A(-16;-10;10)$ và có vecto chỉ phương"
+  },
+  {
+    "bbox": [
+      160,
+      1885,
+      679,
+      2034
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{v} = (4;3;-1) \\text{ là: } \\begin{cases} x = -16 + 4t \\\\ y = -10 + 3t \\quad (t \\in \\mathbb{R}) \\\\ z = 10 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2054,
+      1314,
+      2099
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là vị trí của khinh khí cầu mà trạm kiểm soát có thể kiểm soát được $\\Rightarrow OB \\le 12$"
+  },
+  {
+    "bbox": [
+      156,
+      2121,
+      691,
+      2167
+    ],
+    "category": "Text",
+    "text": "Vì $B \\in d \\Rightarrow B(-16+4t;-10+3t;10-t)$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

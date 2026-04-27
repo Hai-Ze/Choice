@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      96,
+      494,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      154,
+      924,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      213,
+      303,
+      252
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6"
+  },
+  {
+    "bbox": [
+      660,
+      282,
+      1065,
+      643
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      676,
+      926,
+      767
+    ],
+    "category": "Text",
+    "text": "Tam giác $AEF$ vuông tại $E$ có $EF = AE \\cdot \\tan 30^\\circ = \\frac{x\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      162,
+      786,
+      1091,
+      830
+    ],
+    "category": "Text",
+    "text": "$EF$ cũng là đường cao của hình lăng trụ tam giác đều được tạo thành."
+  },
+  {
+    "bbox": [
+      156,
+      843,
+      1249,
+      888
+    ],
+    "category": "Text",
+    "text": "Lại có, đáy của hình lăng trụ được tạo thành là tam giác đều có cạnh bằng $a - 2x$."
+  },
+  {
+    "bbox": [
+      160,
+      908,
+      442,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow S = \\frac{(a - 2x)^2 \\sqrt{3}}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1028,
+      1197,
+      1126
+    ],
+    "category": "Text",
+    "text": "Nên thể tích khối lăng trụ $V = \\frac{(a - 2x)^2 \\sqrt{3}}{4} \\cdot \\frac{x\\sqrt{3}}{3} = \\frac{(a - 2x)^2 x}{4}$, $\\left(0 < x < \\frac{a}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      160,
+      1156,
+      701,
+      1235
+    ],
+    "category": "Formula",
+    "text": "$$\nV' = \\frac{1}{4}(a - 2x)(a - 6x); V' = 0 \\Leftrightarrow x = \\frac{a}{6}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1254,
+      371,
+      1298
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      156,
+      1318,
+      704,
+      1653
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{a}{6}$</td><td>$\\frac{a}{2}$</td></tr><tr><td>$V'$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$V$</td><td colspan=\"3\">$\\frac{a^3}{54}$</td></tr><tr><td></td><td>0</td><td></td><td>0</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1683,
+      930,
+      1758
+    ],
+    "category": "Text",
+    "text": "Vậy, thể tích khối lăng trụ lớn nhất khi $x = \\frac{a}{6}$. Nên $b = 6$."
+  },
+  {
+    "bbox": [
+      156,
+      1776,
+      1573,
+      1995
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Bạn化 muốn leo núi với địa điểm xuất phát từ $A$ và kết thúc tại $B$ với bản đồ đường đi được minh họa bởi hình vẽ dưới, trong đó các đường đi là các đoạn thẳng và thời gian di chuyển (tính bằng phút) tương ứng được gắn bởi một số trên đoạn thẳng đó. Hãy xác định thời gian ngắn nhất (tính bằng phút) để bạn化 hoàn thành chuyển đi từ $A$ đến $B$."
+  },
+  {
+    "bbox": [
+      532,
+      2023,
+      1234,
+      2202
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

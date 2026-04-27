@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      157,
+      98,
+      279,
+      136
+    ],
+    "category": "Text",
+    "text": "**Chọn D.**"
+  },
+  {
+    "bbox": [
+      157,
+      211,
+      1125,
+      349
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho xác định khi $\\begin{cases} \\sin x \\neq 0 \\\\ \\cos x \\neq 0 \\end{cases} \\Leftrightarrow \\begin{cases} x \\neq k\\pi \\\\ x \\neq \\frac{\\pi}{2} + k\\pi \\end{cases} \\Leftrightarrow x \\neq \\frac{k\\pi}{2}, k \\in \\mathbb{Z}$"
+  },
+  {
+    "bbox": [
+      157,
+      373,
+      1033,
+      421
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập nghiệm của bất phương trình $\\ln 3x < \\ln(2x+6)$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      449,
+      340,
+      498
+    ],
+    "category": "List-item",
+    "text": "A. $[0;6)$."
+  },
+  {
+    "bbox": [
+      556,
+      449,
+      692,
+      498
+    ],
+    "category": "List-item",
+    "text": "B. $(0;6)$."
+  },
+  {
+    "bbox": [
+      906,
+      449,
+      1077,
+      498
+    ],
+    "category": "List-item",
+    "text": "C. $(6;+\\infty)$."
+  },
+  {
+    "bbox": [
+      1254,
+      449,
+      1420,
+      498
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty;6)$."
+  },
+  {
+    "bbox": [
+      807,
+      524,
+      924,
+      562
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      157,
+      582,
+      269,
+      620
+    ],
+    "category": "Text",
+    "text": "**Chọn B**"
+  },
+  {
+    "bbox": [
+      157,
+      638,
+      1038,
+      735
+    ],
+    "category": "Text",
+    "text": "Bất phương trình $\\ln 3x < \\ln(2x+6) \\Leftrightarrow \\begin{cases} 3x > 0 \\\\ 3x < 2x+6 \\end{cases} \\Leftrightarrow 0 < x < 6$."
+  },
+  {
+    "bbox": [
+      157,
+      755,
+      1574,
+      859
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong 30 ngày, một nhà đầu tư đã theo dõi giá cổ phiếu của hai công ty $G$ và $H$ vào phiên mở cửa mỗi ngày. Thông tin được ghi lại ở hai bảng dưới đây:"
+  },
+  {
+    "bbox": [
+      639,
+      879,
+      1018,
+      918
+    ],
+    "category": "Caption",
+    "text": "Giá cổ phiếu của công ty $G$"
+  },
+  {
+    "bbox": [
+      341,
+      918,
+      1311,
+      1016
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Giá (nghìn đồng)</td><td>[50; 52)</td><td>[52; 54)</td><td>[54; 56)</td><td>[56; 58)</td><td>[58; 60)</td></tr><tr><td>Tần số</td><td>3</td><td>7</td><td>9</td><td>8</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      639,
+      1050,
+      1018,
+      1089
+    ],
+    "category": "Caption",
+    "text": "Giá cổ phiếu của công ty $H$"
+  },
+  {
+    "bbox": [
+      341,
+      1089,
+      1311,
+      1187
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Giá (nghìn đồng)</td><td>[40; 42)</td><td>[42; 44)</td><td>[44; 46)</td><td>[46; 48)</td><td>[48; 50)</td></tr><tr><td>Tần số</td><td>6</td><td>7</td><td>5</td><td>7</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1228,
+      1574,
+      1342
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1; s_2$ lần lượt là độ lệch chuẩn (làm tròn đến hàng phần chục) của hai mẫu số liệu ghép nhóm ở số liệu của công ty $G$ và công ty $H$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      205,
+      1364,
+      350,
+      1403
+    ],
+    "category": "List-item",
+    "text": "A. $s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      556,
+      1364,
+      738,
+      1403
+    ],
+    "category": "List-item",
+    "text": "B. $s_1 + 1 = s_2$."
+  },
+  {
+    "bbox": [
+      906,
+      1364,
+      1048,
+      1403
+    ],
+    "category": "List-item",
+    "text": "C. $s_1 > s_2$."
+  },
+  {
+    "bbox": [
+      1254,
+      1364,
+      1396,
+      1403
+    ],
+    "category": "List-item",
+    "text": "D. $s_1 < s_2$."
+  },
+  {
+    "bbox": [
+      807,
+      1432,
+      924,
+      1470
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      157,
+      1490,
+      279,
+      1528
+    ],
+    "category": "Text",
+    "text": "**Chọn D.**"
+  },
+  {
+    "bbox": [
+      157,
+      1544,
+      1574,
+      1650
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2$ lần lượt là giá trị trung bình của hai mẫu số liệu ghép nhóm ở số liệu của công ty $G$ và công ty $H$."
+  },
+  {
+    "bbox": [
+      157,
+      1676,
+      882,
+      1756
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } x_1 = \\frac{1}{30}(51.3+53.7+55.9+57.8+59.3) = 55.1\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1782,
+      810,
+      1862
+    ],
+    "category": "Formula",
+    "text": "$$\nx_2 = \\frac{1}{30}(41.6+43.7+45.5+47.7+49.5) = 44.9.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1882,
+      1574,
+      1988
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1; s_2$ lần lượt là độ lệch chuẩn của hai mẫu số liệu ghép nhóm ở số liệu của công ty $G$ và công ty $H$."
+  },
+  {
+    "bbox": [
+      157,
+      2014,
+      479,
+      2056
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } s_1 \\approx 2.3; s_2 \\approx 2.8.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      2086,
+      308,
+      2125
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } s_1 < s_2\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      2151,
+      817,
+      2191
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình lập phương $ABCD.A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      157,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

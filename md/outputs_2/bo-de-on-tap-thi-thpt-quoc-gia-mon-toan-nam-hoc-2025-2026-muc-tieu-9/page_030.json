@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      153,
+      142,
+      528,
+      181
+    ],
+    "category": "Text",
+    "text": "có 2 giới tính nam và nữ)."
+  },
+  {
+    "bbox": [
+      189,
+      201,
+      1139,
+      243
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất một người nữ mua kim cương của công ty trên là 0,4."
+  },
+  {
+    "bbox": [
+      187,
+      251,
+      1317,
+      329
+    ],
+    "category": "List-item",
+    "text": "b) Biết một người mua kim cương là nam, xác suất người đó trên 50 tuổi là $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      189,
+      335,
+      1293,
+      414
+    ],
+    "category": "List-item",
+    "text": "c) Biết một người mua kim cương là nữ, xác suất người đó trên 50 tuổi là $\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      187,
+      422,
+      1548,
+      509
+    ],
+    "category": "List-item",
+    "text": "d) Trong số những người mua kim cương tại công ty này thì tỉ lệ người trên 50 tuổi trong số những người nam cao hơn tỉ lệ người trên 50 tuổi trong số những người nữ là 2 lần."
+  },
+  {
+    "bbox": [
+      153,
+      528,
+      1548,
+      792
+    ],
+    "category": "Text",
+    "text": "Bài 2. Bồn nhiên liệu của một chiếc máy bay hình con thoi được thiết kế là một khối tròn xoay có mặt cắt ngang quay quanh trục của máy bay được cho như hình vẽ. Trên hệ tọa độ $Oxy$, đơn vị trên mỗi trục bằng mét, hệ trục được cho như hình vẽ. Phần đầu là một khối tròn xoay với chiều cao 9 mét, rộng 8 mét, có đường sinh (đường cong ở viền) là một phần đồ thị hàm số $y = f(x) = \\sqrt{ax + b} (a, b > 0)$; phần thân là một hình trụ cao 30 mét, đường kính đáy 8 mét; phần度u là một half hình cầu nối tiếp phần hình trụ."
+  },
+  {
+    "bbox": [
+      506,
+      837,
+      1186,
+      1158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1229,
+      656,
+      1269
+    ],
+    "category": "Text",
+    "text": "Cácoorh thês sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      193,
+      1287,
+      800,
+      1332
+    ],
+    "category": "List-item",
+    "text": "a. Thể tích của phần thân bằng $480 (m^3)$."
+  },
+  {
+    "bbox": [
+      193,
+      1348,
+      355,
+      1383
+    ],
+    "category": "List-item",
+    "text": "b. $9a = 16$."
+  },
+  {
+    "bbox": [
+      193,
+      1398,
+      729,
+      1443
+    ],
+    "category": "List-item",
+    "text": "c. Thể tích phần đầu bằng $24\\pi (m^3)$."
+  },
+  {
+    "bbox": [
+      193,
+      1455,
+      1045,
+      1496
+    ],
+    "category": "List-item",
+    "text": "d. Thể tích của bồn nhiên liệu trên nhỏ hơn 1750 mét khối."
+  },
+  {
+    "bbox": [
+      153,
+      1517,
+      1548,
+      1825
+    ],
+    "category": "Text",
+    "text": "Bài 3. Hệ thống lọc nước bể bơi vô cùng quan trọng để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon và thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ liên tục trên đoạn $[0; 12]$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm 6 giờ sáng đến 6 giờ chiều được cho bởi hàm số"
+  },
+  {
+    "bbox": [
+      554,
+      1833,
+      1138,
+      1997
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\begin{cases} 100t, & 0 \\le t \\le 3 \\\\ -200t + a, & 3 \\le t \\le 6, (a \\in \\mathbb{R}). \\\\ 100t - 900, & 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      2003,
+      852,
+      2045
+    ],
+    "category": "Text",
+    "text": "Với mốc thời gian $t = 0$ tại thời điểm 6 giờ sáng."
+  },
+  {
+    "bbox": [
+      189,
+      2063,
+      1329,
+      2106
+    ],
+    "category": "List-item",
+    "text": "a) Tại thời điểm 9 giờ sáng, nước trong bể đang tăng với tốc độ 600 gallon/giờ."
+  },
+  {
+    "bbox": [
+      189,
+      2121,
+      522,
+      2160
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $a = 900$."
+  },
+  {
+    "bbox": [
+      189,
+      2175,
+      1375,
+      2217
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ thay đổi lượng nước trong bể bằng 0 vào lúc 11 giờ trưa và 15 giờ chiều."
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "30"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

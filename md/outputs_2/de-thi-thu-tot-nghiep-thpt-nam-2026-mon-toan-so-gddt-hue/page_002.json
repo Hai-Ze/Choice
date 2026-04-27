@@ -1,0 +1,361 @@
+[
+  {
+    "bbox": [
+      158,
+      96,
+      1547,
+      195
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian với hệ tọa độ (Oxyz), cho điểm A(2;1;-2) và điểm B(-4;3;4). Tọa độ trung điểm M của đoạn AB là:"
+  },
+  {
+    "bbox": [
+      196,
+      202,
+      358,
+      242
+    ],
+    "category": "List-item",
+    "text": "A. (-1;2;1)."
+  },
+  {
+    "bbox": [
+      527,
+      202,
+      696,
+      240
+    ],
+    "category": "List-item",
+    "text": "B. (-2;2;2)."
+  },
+  {
+    "bbox": [
+      855,
+      202,
+      1002,
+      240
+    ],
+    "category": "List-item",
+    "text": "C. (3;2;3)."
+  },
+  {
+    "bbox": [
+      1178,
+      202,
+      1369,
+      240
+    ],
+    "category": "List-item",
+    "text": "D. (-2;-2;2)."
+  },
+  {
+    "bbox": [
+      158,
+      245,
+      1547,
+      344
+    ],
+    "category": "Text",
+    "text": "Câu 9. Trong không gian Oxyz, cho mặt phẳng (P) có phương trình $x-3y+5=0$. Xác định vecto pháp tuyến của mặt phẳng (P)."
+  },
+  {
+    "bbox": [
+      196,
+      350,
+      415,
+      402
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (1;-3;0)$."
+  },
+  {
+    "bbox": [
+      523,
+      350,
+      746,
+      402
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (1;0;-3)$."
+  },
+  {
+    "bbox": [
+      855,
+      350,
+      1071,
+      402
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (1;-3;5)$."
+  },
+  {
+    "bbox": [
+      1178,
+      350,
+      1375,
+      402
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (1;0;5)$."
+  },
+  {
+    "bbox": [
+      158,
+      407,
+      1547,
+      496
+    ],
+    "category": "Text",
+    "text": "Câu 10. Gieo một con xúc xắc cân đối và đồng chất một lần. Tính xác suất để xúc xắc xuất hiện mặt có số chấm là một số chia hết cho 3."
+  },
+  {
+    "bbox": [
+      196,
+      508,
+      273,
+      587
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      523,
+      508,
+      600,
+      587
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      855,
+      508,
+      929,
+      587
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      1178,
+      508,
+      1251,
+      587
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      158,
+      599,
+      1474,
+      648
+    ],
+    "category": "Text",
+    "text": "Câu 11. Xác định giá trị nhỏ nhất trên đoạn $[-1;1]$ của hàm số $y = f(x)$ có đồ thị như hình dưới."
+  },
+  {
+    "bbox": [
+      727,
+      667,
+      950,
+      986
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      994,
+      287,
+      1026
+    ],
+    "category": "List-item",
+    "text": "A. -1."
+  },
+  {
+    "bbox": [
+      523,
+      994,
+      609,
+      1026
+    ],
+    "category": "List-item",
+    "text": "B. -4."
+  },
+  {
+    "bbox": [
+      848,
+      994,
+      922,
+      1026
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1172,
+      994,
+      1265,
+      1026
+    ],
+    "category": "List-item",
+    "text": "D. -2."
+  },
+  {
+    "bbox": [
+      158,
+      1031,
+      1547,
+      1119
+    ],
+    "category": "Text",
+    "text": "Câu 12. Mỗi ngày bác Bình đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Bình trong 20 ngày được thống kê ở bảng sau:"
+  },
+  {
+    "bbox": [
+      476,
+      1121,
+      1222,
+      1232
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường</td><td>[2;3)</td><td>[3;4)</td><td>[4;5)</td><td>[5;6)</td><td>[6;7)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      158,
+      1230,
+      918,
+      1273
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên bằng"
+  },
+  {
+    "bbox": [
+      196,
+      1280,
+      273,
+      1312
+    ],
+    "category": "List-item",
+    "text": "A. 7."
+  },
+  {
+    "bbox": [
+      523,
+      1280,
+      589,
+      1312
+    ],
+    "category": "List-item",
+    "text": "B. 6."
+  },
+  {
+    "bbox": [
+      848,
+      1280,
+      918,
+      1312
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1172,
+      1280,
+      1245,
+      1312
+    ],
+    "category": "List-item",
+    "text": "D. 5."
+  },
+  {
+    "bbox": [
+      158,
+      1332,
+      1547,
+      1415
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      158,
+      1422,
+      897,
+      1507
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $y = f(x) = \\frac{x^2 - 5x + 4}{x - 5}$ với $x \\neq 5$."
+  },
+  {
+    "bbox": [
+      196,
+      1521,
+      702,
+      1606
+    ],
+    "category": "Formula",
+    "text": "a) $f'(x) = 1 - \\frac{4}{(x-5)^2}$ với mọi $x \\neq 5$."
+  },
+  {
+    "bbox": [
+      196,
+      1612,
+      925,
+      1656
+    ],
+    "category": "Formula",
+    "text": "b) Đồ thị hàm số cắt trục hoành tại hai điểm phân biệt."
+  },
+  {
+    "bbox": [
+      196,
+      1656,
+      614,
+      1698
+    ],
+    "category": "Formula",
+    "text": "c) Hàm số đạt cực đại tại $x = 3$."
+  },
+  {
+    "bbox": [
+      196,
+      1702,
+      542,
+      1744
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị cực tiểu bằng 3."
+  },
+  {
+    "bbox": [
+      158,
+      1760,
+      1547,
+      2067
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một集合 có 12 viên bi gồm 5 bi xanh, 6 bi đỏ và 1 bi vàng. Hai bạn tên là Xanh và Đỏ được trọng tài mời chơi trò chơi bốc bi ngẫu nhiên từ集合 (bi đã lấy ra không bỏ lại vào集合). Đầu tiên trọng tài bốc một viên bi, nếu là bi xanh hoặc bi đỏ thì停止 bốc, nếu là bi vàng thì trọng tài bốc thêm một viên nữa rồi停止 bốc. Sau khi trọng tài停止 bốc, viên bi trọng tài bốc màu nào thì bạn có tên màu đó sẽ được bốc một viên và ngay sau đó trò chơi停止 lại. Người chơi bốc được viên bi có màu trùng với tên của mình sẽ là người thắng cuộc, còn nếu bốc được viên bi có màu khác với tên của mình sẽ bị thua cuộc."
+  },
+  {
+    "bbox": [
+      1225,
+      2108,
+      1547,
+      2147
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - mã đề thi 1001"
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      100,
+      1573,
+      219
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = (x - 2)^2 - 1$, trục hoành và hai đường thẳng $x = 1, x = 2$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      244,
+      292,
+      325
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      555,
+      244,
+      640,
+      325
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      906,
+      244,
+      985,
+      325
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      1254,
+      244,
+      1341,
+      325
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{7}{3}$."
+  },
+  {
+    "bbox": [
+      807,
+      349,
+      924,
+      388
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      406,
+      279,
+      445
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      463,
+      1078,
+      565
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } S = \\int_{1}^{2} |(x-2)^2 - 1| dx = \\int_{1}^{2} |x^2 - 4x + 3| dx = \\left| \\int_{1}^{2} (x^2 - 4x + 3) dx \\right| = \\frac{2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      642,
+      1573,
+      746
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      156,
+      764,
+      606,
+      845
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = x + \\frac{4}{x}$."
+  },
+  {
+    "bbox": [
+      156,
+      871,
+      876,
+      957
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số đã cho là $y' = \\frac{x^2 + 4}{x^2}, \\forall x \\neq 0$."
+  },
+  {
+    "bbox": [
+      156,
+      976,
+      773,
+      1020
+    ],
+    "category": "Text",
+    "text": "b) Phương trình $y' = 0$ có hai nghiệm nguyên."
+  },
+  {
+    "bbox": [
+      156,
+      1043,
+      1573,
+      1168
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đồng biến trên các khoảng $(-\\infty; -2)$ và $(2; +\\infty)$, nghịch biến trên các khoảng $(-2; 0)$ và $(0; 2)$."
+  },
+  {
+    "bbox": [
+      156,
+      1195,
+      873,
+      1245
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị hàm số đã cho có điểm cực tiểu là $(-2; -4)$."
+  },
+  {
+    "bbox": [
+      807,
+      1271,
+      924,
+      1310
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1324,
+      971,
+      1446
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1508,
+      504,
+      1554
+    ],
+    "category": "Text",
+    "text": "Tập xác định: $D = \\mathbb{R} \\setminus \\{0\\}$"
+  },
+  {
+    "bbox": [
+      156,
+      1582,
+      648,
+      1669
+    ],
+    "category": "Text",
+    "text": "a) Ta có: $y' = 1 - \\frac{4}{x^2} = \\frac{x^2 - 4}{x^2}, \\forall x \\neq 0$"
+  },
+  {
+    "bbox": [
+      156,
+      1694,
+      773,
+      1781
+    ],
+    "category": "Text",
+    "text": "b) $y' = 0 \\Leftrightarrow \\frac{x^2 - 4}{x^2} = 0 \\Leftrightarrow x^2 - 4 = 0 \\Leftrightarrow x = \\pm 2$"
+  },
+  {
+    "bbox": [
+      156,
+      1800,
+      803,
+      1844
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình $y' = 0$ có hai nghiệm nguyên."
+  },
+  {
+    "bbox": [
+      156,
+      1862,
+      449,
+      1906
+    ],
+    "category": "Text",
+    "text": "c) d) Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      262,
+      1920,
+      1466,
+      2218
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

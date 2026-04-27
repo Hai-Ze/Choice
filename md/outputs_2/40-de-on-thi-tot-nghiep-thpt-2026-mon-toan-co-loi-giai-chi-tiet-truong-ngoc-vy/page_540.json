@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      161,
+      94,
+      1407,
+      285
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cự li (m)</td><td>[19;19,5)</td><td>[19,5;20)</td><td>[20;20,5)</td><td>[20,5;21)</td><td>[21;21,5)</td></tr><tr><td>Giá trị đại diện</td><td>19,25</td><td>19,75</td><td>20,25</td><td>20,75</td><td>21,25</td></tr><tr><td>Tần số</td><td>13</td><td>45</td><td>24</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      342,
+      305,
+      382
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu: $n = 100$"
+  },
+  {
+    "bbox": [
+      76,
+      405,
+      1159,
+      488
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{13.19,25 + 45.19,75 + 24.20,25 + 12.20,75 + 6.21,25}{100} = 20,015\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      513,
+      1317,
+      600
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai: } S^2 = \\frac{13.19,25^2 + 45.19,75^2 + 24.20,25^2 + 12.20,75^2 + 6.21,25^2}{100} - 20,015^2 \\approx 0,28\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      621,
+      531,
+      671
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ lệch chuẩn: } \\sigma = \\sqrt{0,28} \\approx 0,53\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      698,
+      1494,
+      822
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$. Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = 0, x = -1$ và $x = 5$ (như hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      523,
+      864,
+      1068,
+      1211
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1228,
+      453,
+      1274
+    ],
+    "category": "Text",
+    "text": "Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      126,
+      1292,
+      523,
+      1389
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} S = -\\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx .\n$$"
+  },
+  {
+    "bbox": [
+      826,
+      1292,
+      1197,
+      1389
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} S = \\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx .\n$$"
+  },
+  {
+    "bbox": [
+      126,
+      1412,
+      504,
+      1508
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} S = \\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx .\n$$"
+  },
+  {
+    "bbox": [
+      826,
+      1412,
+      1222,
+      1508
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} S = -\\int_{-1}^{1} f(x)dx + \\int_{1}^{5} f(x)dx .\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      1533,
+      842,
+      1571
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1590,
+      198,
+      1627
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1647,
+      861,
+      1744
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } S = \\int_{-1}^{1} |f(x)|dx + \\int_{1}^{5} |f(x)|dx = \\int_{-1}^{1} f(x)dx - \\int_{1}^{5} f(x)dx .\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1761,
+      1494,
+      1873
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Gọi $O$ và $O'$ lần lượt là tâm của hình vuông $ABCD$ và $A'B'C'D'$. Đặt $\\vec{u} = \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} + \\overrightarrow{OD} + \\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}$."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

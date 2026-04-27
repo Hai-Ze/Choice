@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1304,
+      211
+    ],
+    "category": "Text",
+    "text": "Suy ra phần màu xanh có diện tích là $S = 4 \\left[ \\int_{0}^{1} 2 \\, dx + \\int_{1}^{2} \\frac{2}{x} \\, dx \\right] = 8 + 8 \\ln 2 \\approx 13,5$."
+  },
+  {
+    "bbox": [
+      74,
+      214,
+      1577,
+      441
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Di sản văn hóa thế giới Chùa Cầu, còn có tên gọi là cầu Nhật Bản hoặc Lai Viễn Kiều (Hình 1), là một cây cầu cổ hơn 400 năm tuổi nằm bắc ngang qua dòng君軌, nhỏ giữa lòng phố cổ Hội An, tỉnh Quảng Nam. Một đội thi công được nhận nhiệm vụ sơn sửa lại phần chân cầu để góp phần bảo vệ diện tích này. Đội trưởng phụ trách cần tính phần diện tích cần sơn (phần này được tô đâm như trong Hình 2)."
+  },
+  {
+    "bbox": [
+      161,
+      518,
+      641,
+      853
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      326,
+      862,
+      423,
+      894
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      652,
+      446,
+      1471,
+      847
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1021,
+      851,
+      1115,
+      882
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      212,
+      901,
+      1575,
+      1040
+    ],
+    "category": "Text",
+    "text": "Phần chân cầu tạo thành đa giác $ABCDEF$ có $AB$ và $EF$ cùng vuông góc với $AF$. Biết $AB = EF = 2,7 \\, m$; $BC = DE = \\sqrt{17} \\, m$; $CD = 3 \\, m$; $AF = 11 \\, m$. Các trụ đỡ của cây cầu tạo thành năm cửa."
+  },
+  {
+    "bbox": [
+      274,
+      1048,
+      1191,
+      1091
+    ],
+    "category": "Text",
+    "text": "+ Phần cửa chính giữa là một hình chữ nhật cao $3 \\, m$ rộng $2,4 \\, m$."
+  },
+  {
+    "bbox": [
+      212,
+      1094,
+      1575,
+      1228
+    ],
+    "category": "Text",
+    "text": "+ Cửa số (1) gồm hai phần: phần dưới là hình chữ nhật MNPQ và phần trên là một phần của parabol. Biết chiều cao cửa bằng $2,5 \\, m$, chiều rộng cửa là $MN$ bằng $1 \\, m$ và độ dài $NP$ bằng $2 \\, m$."
+  },
+  {
+    "bbox": [
+      274,
+      1235,
+      1042,
+      1314
+    ],
+    "category": "Text",
+    "text": "+ Cửa số (2) có diện tích bằng $\\frac{6}{5}$ diện tích cửa số (1)."
+  },
+  {
+    "bbox": [
+      212,
+      1317,
+      1575,
+      1407
+    ],
+    "category": "Text",
+    "text": "Hình 2 có trục đối xứng là đường thẳng $d$, diện tích phần cần sơn ở một mặt của phần chân cầu (phần được tô đâm) bằng bao nhiêu mét vuông (kết quả được làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      765,
+      1411,
+      883,
+      1452
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1455,
+      392,
+      1494
+    ],
+    "category": "Text",
+    "text": "Trả lời: 19,2"
+  },
+  {
+    "bbox": [
+      212,
+      1502,
+      302,
+      1537
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      216,
+      1548,
+      1358,
+      1914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\nS_{ABCDEF} &= 2S_{HDEF} + S_{THDC} = 2 \\cdot \\frac{1}{2} \\cdot FH \\cdot (FE + HD) + HT \\cdot HD \\\\\n&= 2 \\cdot \\frac{1}{2} \\cdot \\left( \\frac{FA - DC}{2} \\right) \\cdot \\left[ FE + \\left( FE + \\sqrt{ED^2 - FH^2} \\right) \\right] + DC \\cdot \\left( FE + \\sqrt{ED^2 - FH^2} \\right) \\\\\n&= 2 \\cdot \\frac{1}{2} \\cdot \\left( \\frac{11 - 3}{2} \\right) \\cdot \\left[ 2,7 + \\left( 2,7 + \\sqrt{\\left( \\sqrt{17} \\right)^2 - \\left( \\frac{11-3}{2} \\right)^2} \\right) \\right] + 3 \\cdot \\left( 2,7 + \\sqrt{\\left( \\sqrt{17} \\right)^2 - \\left( \\frac{11-3}{2} \\right)^2} \\right) \\\\\n&= 36,7.\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1926,
+      1327,
+      2006
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức tính nhanh diện tích hình Parabol ($S_{Parabol} = \\frac{4}{3}Rh$), ta có:"
+  },
+  {
+    "bbox": [
+      216,
+      2014,
+      743,
+      2096
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{(1)} = S_{MNPQ} + S_{Parabol} = 1 \\cdot 2 + \\frac{4}{3} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{7}{3}\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      2103,
+      431,
+      2183
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{(2)} = \\frac{6}{5} S_{(1)} = \\frac{14}{5}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2190,
+      858,
+      2229
+    ],
+    "category": "Text",
+    "text": "Lại có, diện tích cửa chính là: $S = 3 \\cdot 2,4 = 7,2$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1522,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

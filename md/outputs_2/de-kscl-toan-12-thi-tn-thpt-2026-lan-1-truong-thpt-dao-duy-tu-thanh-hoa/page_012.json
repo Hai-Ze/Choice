@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      204,
+      100,
+      424,
+      143
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      154,
+      157,
+      265,
+      200
+    ],
+    "category": "Section-header",
+    "text": "### Phần 2"
+  },
+  {
+    "bbox": [
+      154,
+      217,
+      1490,
+      318
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ sau. Xét tính đúng, sai của các khẳng định sau"
+  },
+  {
+    "bbox": [
+      154,
+      318,
+      939,
+      554
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td></td><td></td><td>$+$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td></td><td></td><td>$0 \\to +\\infty$</td><td>$1 \\to -\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      563,
+      808,
+      615
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trên $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      628,
+      754,
+      678
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ đạt cực đại tại $x = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      692,
+      817,
+      743
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $y = f(x)$ có giá trị lớn nhất bằng 1."
+  },
+  {
+    "bbox": [
+      154,
+      764,
+      1533,
+      903
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị hàm số $y = \\frac{1}{f(x)-1}$ có $a$ đường tiệm cận đứng và $b$ đường tiệm cận ngang. Khi đó $a^2 + b^2 = 2$"
+  },
+  {
+    "bbox": [
+      292,
+      917,
+      415,
+      957
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      968,
+      405,
+      1008
+    ],
+    "category": "Text",
+    "text": "a) Đ b) S c) S"
+  },
+  {
+    "bbox": [
+      154,
+      1018,
+      227,
+      1057
+    ],
+    "category": "Text",
+    "text": "d) S"
+  },
+  {
+    "bbox": [
+      154,
+      1070,
+      1079,
+      1157
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có $\\lim_{x \\to +\\infty} f(x) = -\\infty \\Rightarrow \\lim_{x \\to +\\infty} \\frac{1}{f(x)-1} = 0$"
+  },
+  {
+    "bbox": [
+      154,
+      1169,
+      824,
+      1216
+    ],
+    "category": "Text",
+    "text": "Do đó đồ thị hàm số có 1 đường TCN là $y = 0$"
+  },
+  {
+    "bbox": [
+      154,
+      1228,
+      1340,
+      1292
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên là có tồn tại $x_1 \\in (-2; 0)$ sao cho $f(x_1) = 1$ và $\\lim_{x \\to 0^+} f(x) = 1$"
+  },
+  {
+    "bbox": [
+      154,
+      1307,
+      1533,
+      1452
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow \\lim_{x \\to x_1^+} \\frac{1}{f(x)-1} = +\\infty$; $\\lim_{x \\to x_1^-} \\frac{1}{f(x)-1} = -\\infty$, $\\lim_{x \\to 0^+} \\frac{1}{f(x)-1} = -\\infty \\Rightarrow$ Đồ thị hàm số có 2 đường TCĐ là $x = x_1, x = 0$"
+  },
+  {
+    "bbox": [
+      154,
+      1469,
+      597,
+      1511
+    ],
+    "category": "Text",
+    "text": "Do đó $a = 2, b = 1 \\Rightarrow a^2 + b^2 = 5$"
+  },
+  {
+    "bbox": [
+      154,
+      1531,
+      1350,
+      1618
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $y = \\frac{2x^2 + 5x}{x + 3}$ có đồ thị $(C)$. Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      154,
+      1624,
+      561,
+      1670
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định $D = \\mathbb{R} \\setminus \\{3\\}$."
+  },
+  {
+    "bbox": [
+      154,
+      1674,
+      1069,
+      1721
+    ],
+    "category": "Text",
+    "text": "b) Hàm số có hai cực trị có tổng hoành độ của cực trị bằng $-6$."
+  },
+  {
+    "bbox": [
+      154,
+      1718,
+      782,
+      1765
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số có tiệm cận ngang $y = -3$."
+  },
+  {
+    "bbox": [
+      154,
+      1768,
+      1380,
+      1861
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách từ điểm $M(2;1)$ đến đường tiệm cận xiên của đồ thị $(C)$ bằng $\\frac{4\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      851,
+      1867,
+      972,
+      1907
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      1910,
+      646,
+      1957
+    ],
+    "category": "Text",
+    "text": "a) Sai: Tập xác định $D = \\mathbb{R} \\setminus \\{-3\\}$."
+  },
+  {
+    "bbox": [
+      154,
+      1969,
+      784,
+      2055
+    ],
+    "category": "Text",
+    "text": "b) Đúng: Ta có $y = \\frac{2x^2 + 5x}{x + 3} = 2x - 1 + \\frac{3}{x + 3}$."
+  },
+  {
+    "bbox": [
+      154,
+      2061,
+      374,
+      2158
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 2 - \\frac{3}{(x+3)^2}\n$$"
+  },
+  {
+    "bbox": [
+      1514,
+      2243,
+      1533,
+      2272
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

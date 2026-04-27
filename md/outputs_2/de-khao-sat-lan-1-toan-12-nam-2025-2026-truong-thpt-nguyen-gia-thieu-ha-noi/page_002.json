@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      76,
+      26,
+      1571,
+      67
+    ],
+    "category": "Page-header",
+    "text": "Trung tâm phát triển năng lực bồi dưỡng kiến thức văn hoá Ánh Dương, 38A ngõ 4 đường Lý Sơn, Hà Nội. 0347677777"
+  },
+  {
+    "bbox": [
+      76,
+      70,
+      1402,
+      111
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA \\perp AD$. Khi đó ta có"
+  },
+  {
+    "bbox": [
+      76,
+      131,
+      371,
+      181
+    ],
+    "category": "List-item",
+    "text": "A. $(SAC) \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      482,
+      131,
+      776,
+      181
+    ],
+    "category": "List-item",
+    "text": "B. $(SCD) \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      871,
+      131,
+      1163,
+      181
+    ],
+    "category": "List-item",
+    "text": "C. $(SBD) \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      1276,
+      131,
+      1571,
+      181
+    ],
+    "category": "List-item",
+    "text": "D. $(SBC) \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      76,
+      200,
+      1571,
+      302
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Hướng tới kỳ thi tốt nghiệp THPT, học sinh hai lớp chất lượng cao 12C và 12D của trường NQH tham gia một kỳ thi thử môn Toán. Kết quả (số học sinh) theo các khoảng điểm như sau:"
+  },
+  {
+    "bbox": [
+      411,
+      312,
+      1236,
+      495
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Điểm</th><th>[5 ; 6)</th><th>[6 ; 7)</th><th>[7 ; 8)</th><th>[8 ; 9)</th><th>[9 ; 10]</th></tr></thead><tbody><tr><td>Lớp 12C</td><td>7</td><td>9</td><td>10</td><td>5</td><td>9</td></tr><tr><td>Lớp 12D</td><td>4</td><td>6</td><td>23</td><td>10</td><td>2</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      76,
+      495,
+      1571,
+      597
+    ],
+    "category": "Text",
+    "text": "So sánh giá trị điểm trung bình và độ phân tán đo bằng độ rộng khoảng tức phân vị (được ước lượng theo công thức cho số liệu ghép nhóm, coi điểm phân bố đều trong mỗi khoảng). NHận định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      76,
+      606,
+      1245,
+      654
+    ],
+    "category": "List-item",
+    "text": "A.业 段 trung bình hai lớp bằng nhau và độ phân tán điểm của hai lớp bằng nhau."
+  },
+  {
+    "bbox": [
+      76,
+      663,
+      1288,
+      711
+    ],
+    "category": "List-item",
+    "text": "B.业 段 trung bình hai lớp bằng nhau và độ phân tán điểm lớp 12C lớn hơn lớp 12D."
+  },
+  {
+    "bbox": [
+      76,
+      720,
+      1288,
+      768
+    ],
+    "category": "List-item",
+    "text": "C.业 段 trung bình hai lớp bằng nhau và độ phân tán điểm lớp 12D lớn hơn lớp 12C."
+  },
+  {
+    "bbox": [
+      76,
+      777,
+      1398,
+      825
+    ],
+    "category": "List-item",
+    "text": "D.业 段 trung bình lớp 12C cao hơn lớp 12D và độ phân tán điểm lớp 12C lớn hơn lớp 12D."
+  },
+  {
+    "bbox": [
+      76,
+      832,
+      1571,
+      935
+    ],
+    "category": "Text",
+    "text": "**Phần II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      76,
+      944,
+      1571,
+      1105
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty giao hàng nhanh trong thành phố đã xây dựng một thuật toán giao hàng tối ưu. Để kiểm chứng, giám đốc yêu cầu ghi nhận thời gian giao của từng đơn hàng trong mẫu 100 đơn chạy thử. Số liệu được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      265,
+      1115,
+      1378,
+      1238
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[10 ; 20)</td><td>[20 ; 30)</td><td>[30 ; 40)</td><td>[40 ; 50)</td><td>[50 ; 60]</td></tr><tr><td>Số đơn</td><td>15</td><td>40</td><td>25</td><td>12</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1238,
+      1476,
+      1284
+    ],
+    "category": "Text",
+    "text": "a) 度分 tán của thời gian giao hàng, ước lượng bằng khoảng biến thiên mẫu số liệu, là 50 phút."
+  },
+  {
+    "bbox": [
+      76,
+      1293,
+      1571,
+      1341
+    ],
+    "category": "Text",
+    "text": "b) Một呢a số đơn hàng (trung vị ước lượng của mẫu số liệu) được giao xong không quá 28 phút 45 giây."
+  },
+  {
+    "bbox": [
+      76,
+      1350,
+      1499,
+      1398
+    ],
+    "category": "Text",
+    "text": "c)业 时 gian giao hàng phổ biến nhất (giá trị mốt của mẫu số liệu tính theo công thức) bằng 25 phút."
+  },
+  {
+    "bbox": [
+      76,
+      1407,
+      1571,
+      1566
+    ],
+    "category": "Text",
+    "text": "d) Công ty có chính sách niêm yết phí ship 20000 đồng cho mỗi đơn. Cam kết nếu giao từ 40 phút trở lên, khách hàng không phải trả phí ship và nhận thêm 60000 đồng tiền bồi thường từ công ty. Sau đợt chạy thử 100 đơn này, tổng tiền phí ship thu được vẫn lớn hơn tổng số tiền bồi thường công ty phải chi trả."
+  },
+  {
+    "bbox": [
+      76,
+      1575,
+      1054,
+      1953
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong một thử nghiệm ô tô xuất phát từ trạng thái nghỉ. Người lái điều whey xe đạt vận tốc cực đại tại $t = 18$ giây, rồi giảm tốc và anh hàn. Toàn bộ quá trình kéo dài 50 giây. Đồ thị vận tốc $v(t)$ ($m/s$) theo thời gian $t(s)$ như hình vẽ. Trong đó, đoạn $[0;24]$ đồ thị là một phần của parabol có định $I(18;27)$ và đi qua điểm $O$; trên đoạn $[24;50]$ đồ thị là đoạn thẳng $AB$, với $A(24;24)$ và $B(50;0)$."
+  },
+  {
+    "bbox": [
+      1076,
+      1611,
+      1571,
+      1923
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1972,
+      829,
+      2020
+    ],
+    "category": "Text",
+    "text": "a) Trong 24 giây đầu tiên, vận tốc của ô tô luôn tăng."
+  },
+  {
+    "bbox": [
+      76,
+      2033,
+      1167,
+      2081
+    ],
+    "category": "Text",
+    "text": "b) Trong 24 giây đầu tiên, có một thời điểm mà gia tốc của ô tô bằng $2 m/s^2$."
+  },
+  {
+    "bbox": [
+      76,
+      2098,
+      1571,
+      2213
+    ],
+    "category": "Text",
+    "text": "c) Gọi giai đoạn 1 là $[0;24]$, giai đoạn 2 là $(24;50]$. độ lớn gia tốc của ô tô ngay trước thời điểm kết thúc giai đoạn 1 ($t = 24$ giây) lớn hơn độ lớn gia tốc của ô tô trong suốt giai đoạn 2 (từ 24 giây đến 50 giây)."
+  },
+  {
+    "bbox": [
+      76,
+      2222,
+      1571,
+      2270
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường xe đi được trong 26 giây cuối lớn hơn 70% quăng đường xe chạy trong 24 giây đầu tiên."
+  },
+  {
+    "bbox": [
+      85,
+      2277,
+      265,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề: 1201"
+  },
+  {
+    "bbox": [
+      549,
+      2277,
+      1128,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "GV ra đề: Nguyễn Quốc Hoàn 01/2026"
+  },
+  {
+    "bbox": [
+      1418,
+      2280,
+      1558,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

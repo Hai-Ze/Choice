@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      624,
+      102,
+      1087,
+      456
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      473,
+      905,
+      517
+    ],
+    "category": "Text",
+    "text": "Xét khối lăng trụ $ABC.A'B'C'$ có đáy là tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      156,
+      537,
+      1572,
+      660
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu của $A'$ trên mặt phẳng $(ABC) \\Rightarrow A'H \\perp (ABC)$. Suy ra $AH$ là hình chiếu của $AA'$ trên mặt phẳng $(ABC)$. Do đó"
+  },
+  {
+    "bbox": [
+      162,
+      690,
+      720,
+      749
+    ],
+    "category": "Formula",
+    "text": "$$\n60^{\\circ} = \\overline{(AA', (ABC))} = \\overline{(AA', AH)} = \\overline{A'AH}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      771,
+      610,
+      812
+    ],
+    "category": "Text",
+    "text": "Tam giác $A'AH$ vuông tại $H$, có"
+  },
+  {
+    "bbox": [
+      162,
+      830,
+      536,
+      878
+    ],
+    "category": "Formula",
+    "text": "$$\nA'H = AA' \\cdot \\sin \\overline{A'AH} = 5\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      901,
+      587,
+      952
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } V = S_{\\triangle ABC} \\cdot A'H = 50\\sqrt{3} \\text{ cm}^3.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      973,
+      1572,
+      1078
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình chóp $S.ABCD$ có tất cả các cạnh bên và cạnh đáy đều bằng $a$ và $ABCD$ là hình vuông. Gọi $M$ là trung điểm của $CD$."
+  },
+  {
+    "bbox": [
+      612,
+      1107,
+      1115,
+      1495
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1526,
+      486,
+      1573
+    ],
+    "category": "Text",
+    "text": "Giá trị của $\\overline{MS} \\cdot \\overline{CB}$ bằng"
+  },
+  {
+    "bbox": [
+      206,
+      1597,
+      305,
+      1683
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{a^2}{2}$."
+  },
+  {
+    "bbox": [
+      555,
+      1597,
+      676,
+      1683
+    ],
+    "category": "List-item",
+    "text": "B. $-\\frac{a^2}{2}$."
+  },
+  {
+    "bbox": [
+      906,
+      1597,
+      1005,
+      1683
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{a^2}{3}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1591,
+      1392,
+      1683
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{2}a^2}{2}$."
+  },
+  {
+    "bbox": [
+      808,
+      1707,
+      924,
+      1746
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1767,
+      279,
+      1804
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      1822,
+      515,
+      1914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } MS = \\frac{a\\sqrt{3}}{2}, CB = a\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1935,
+      1120,
+      2029
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Góc giữa } MS \\text{ và } CB \\text{ bằng góc } \\widehat{SMO}, \\cos \\widehat{SMO} = \\frac{OM}{SM} = \\frac{a}{2} : \\frac{a\\sqrt{3}}{2} = \\frac{\\sqrt{3}}{3}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2049,
+      1109,
+      2143
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overline{MS} \\cdot \\overline{CB} = MS \\cdot CB \\cdot \\cos \\widehat{SMO} = \\frac{a\\sqrt{3}}{2} \\cdot a \\cdot \\cos \\widehat{SMO} = \\frac{a^2\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{3} = \\frac{a^2}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2165,
+      311,
+      2200
+    ],
+    "category": "Text",
+    "text": "Cách khác:"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

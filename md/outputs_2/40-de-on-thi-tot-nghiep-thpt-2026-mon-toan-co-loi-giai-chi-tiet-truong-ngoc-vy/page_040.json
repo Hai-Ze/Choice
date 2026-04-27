@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      1209,
+      349
+    ],
+    "category": "Text",
+    "text": "Gọi $H_1$ là biến cố: Hai viên bi chuyển từ hộp I sang hộp II là bi trắng,\n$H_2$ là biến cố: Hai viên bi chuyển từ hộp I sang hộp II là bi đỏ,\n$H_3$ là biến cố: Hai viên bi chuyển từ hộp I sang hộp II có 1 bi trắng và 1 bi đỏ.\nBa biến cố $H_1, H_2, H_3$ tạo thành một hệ đầy đủ"
+  },
+  {
+    "bbox": [
+      156,
+      376,
+      1055,
+      471
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(H_1) = \\frac{C_5^2}{C_{12}^2} = \\frac{5}{33}; P(H_2) = \\frac{C_7^2}{C_{12}^2} = \\frac{7}{22}; P(H_3) = \\frac{C_5^1 C_7^1}{C_{12}^2} = \\frac{35}{66}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      488,
+      856,
+      535
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: Viên bi lấy ra từ hộp II là bi trắng"
+  },
+  {
+    "bbox": [
+      156,
+      554,
+      892,
+      637
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(A|H_1) = \\frac{12}{27}; P(A|H_2) = \\frac{10}{27}; P(A|H_3) = \\frac{11}{27}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      655,
+      965,
+      702
+    ],
+    "category": "Text",
+    "text": "Cần tính xác suất $P(H_3 | A)$. Theo công thức xác suất Bayes"
+  },
+  {
+    "bbox": [
+      162,
+      728,
+      1040,
+      819
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_3 | A) = \\frac{P(H_3) \\cdot P(A|H_3)}{P(H_1) \\cdot P(A|H_1) + P(H_2) \\cdot P(A|H_2) + P(H_3) \\cdot P(A|H_3)}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      844,
+      678,
+      926
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay số: } P(H_3 | A) = \\frac{7}{13} \\Rightarrow a + b = 20.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

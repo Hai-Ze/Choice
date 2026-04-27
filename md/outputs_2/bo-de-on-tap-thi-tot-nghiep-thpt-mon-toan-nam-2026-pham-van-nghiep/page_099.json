@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      953,
+      186
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích } S_{PQGF} = \\left| \\overrightarrow{PQ}, \\overrightarrow{PF} \\right| = \\sqrt{0^2 + 16^2 + 24^2} = 8\\sqrt{13}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      194,
+      1454,
+      241
+    ],
+    "category": "Text",
+    "text": "Do đó số tiền cần bỏ ra để mua tôn lợp mái nhà là $2 \\cdot S_{PQFG} \\cdot 130000 \\simeq 7\\,500\\,000$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      254,
+      370,
+      292
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      290,
+      743,
+      336
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      341,
+      1574,
+      582
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Bác An có một dãy nhà trọ gồm 40 phòng cho thuê. Bác An nhận thấy rằng tất cả các phòng đều sẽ có người thuê nếu giá thuê mỗi phòng là 3000000 đồng / tháng và cứ mỗi lần tăng giá thuê mỗi phòng lên 100000 đồng/ tháng thì sẽ có thêm một phòng bị người thuê trả lại. Bác An nên cho mỗi phòng thuê bao nhiêu triệu đồng một tháng để số tiền thu được hàng tháng từ việc cho thuê dãy nhà trọ là nhiều nhất?"
+  },
+  {
+    "bbox": [
+      765,
+      584,
+      883,
+      626
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      629,
+      372,
+      667
+    ],
+    "category": "Text",
+    "text": "Trả lời: 3,5"
+  },
+  {
+    "bbox": [
+      212,
+      671,
+      1177,
+      717
+    ],
+    "category": "Text",
+    "text": "Giả sử mỗi tháng tăng giá thuê mỗi phòng là $x$ trăm nghìn đồng;"
+  },
+  {
+    "bbox": [
+      212,
+      717,
+      1435,
+      762
+    ],
+    "category": "Text",
+    "text": "Số phòng cho thuê là $40-x$ (phòng); giá thuê mỗi phòng: $3000000+100000x$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      770,
+      953,
+      821
+    ],
+    "category": "Text",
+    "text": "Số tiền thu về: $S(x) = (40-x)(3000000+100000x)$;"
+  },
+  {
+    "bbox": [
+      217,
+      831,
+      826,
+      881
+    ],
+    "category": "Formula",
+    "text": "$$\nS(x) = -100000x^2 + 1000000x + 12000000\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      891,
+      1090,
+      965
+    ],
+    "category": "Formula",
+    "text": "$$\nS(x) = 10^5 (-x^2 + 10x + 1200) = 10^5 \\left[ -(x-5)^2 + 1225 \\right] \\le 10^5 \\cdot 1225\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      975,
+      1565,
+      1078
+    ],
+    "category": "Text",
+    "text": "Dấu \" = \" xảy ra khi $x=5$ thì số tiền cho thuê dãy nhà trọ lớn nhất: $S(x) = 10^5 \\cdot 1225 = 122,5$ triệu đồng;"
+  },
+  {
+    "bbox": [
+      212,
+      1080,
+      1076,
+      1173
+    ],
+    "category": "Text",
+    "text": "Giá thuê mỗi phòng khi đó: $\\frac{S(x)}{40-5} = 3,5$ triệu đồng/phòng."
+  },
+  {
+    "bbox": [
+      74,
+      1182,
+      1574,
+      1310
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Giả sử $\\int 2^{3x} dx = \\frac{a^x}{b \\cdot \\ln 2} + C$ (với $a$ là số nguyên dương khác 1, $b$ là số nguyên tố). Tìm giá của biểu thức $a+4b$?"
+  },
+  {
+    "bbox": [
+      765,
+      1316,
+      883,
+      1358
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1362,
+      363,
+      1398
+    ],
+    "category": "Text",
+    "text": "Trả lời: 20"
+  },
+  {
+    "bbox": [
+      217,
+      1404,
+      978,
+      1504
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int 2^{3x} dx = \\frac{2^{3x}}{3 \\cdot \\ln 2} + C = \\frac{a^x}{b \\cdot \\ln 2} + C \\Rightarrow \\begin{cases} a = 8 \\\\ b = 3 \\end{cases} \\Rightarrow a + 4b = 20.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1510,
+      1574,
+      1782
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Một nhà máy có 10% công nhân làm việc ở môi trường ô nhiễm và 15% công nhân mắc bệnh đường hô hấp. hơn nữa, có $\\frac{1}{3}$ số công nhân mắc bệnh đường hô hấp làm việc trong môi trường ô nhiễm. Chọn ngẫu nhiên một công nhân của nhà máy. Biết người được chọn không mắc bệnh đường hô hấp, tính xác suất người đó làm việc ở môi trường ô nhiễm. *Làm tròn kết quả đến hàng phần trăm.*"
+  },
+  {
+    "bbox": [
+      765,
+      1786,
+      883,
+      1828
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1832,
+      388,
+      1868
+    ],
+    "category": "Text",
+    "text": "Trả lời: 0,06"
+  },
+  {
+    "bbox": [
+      212,
+      1874,
+      1167,
+      1923
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “Công nhân làm trong môi trường ô nhiễm” vậy $P(A) = 0,1$;"
+  },
+  {
+    "bbox": [
+      212,
+      1935,
+      1299,
+      1996
+    ],
+    "category": "Text",
+    "text": "Gọi $B$: “Công nhân mắc bệnh đường hô hấp” vậy $P(B) = 0,15 \\Rightarrow P(\\bar{B}) = 0,85$;"
+  },
+  {
+    "bbox": [
+      212,
+      2012,
+      1574,
+      2142
+    ],
+    "category": "Text",
+    "text": "Và $P(A|B) = \\frac{1}{3}$ (xác xuất 1 người được chọn trong môi trường ô nhiễm với điều kiện bị bệnh đường hô hấp)."
+  },
+  {
+    "bbox": [
+      212,
+      2144,
+      738,
+      2186
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần:"
+  },
+  {
+    "bbox": [
+      217,
+      2186,
+      762,
+      2240
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(A|B) \\cdot P(B) + P(A|\\bar{B}) \\cdot P(\\bar{B})\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

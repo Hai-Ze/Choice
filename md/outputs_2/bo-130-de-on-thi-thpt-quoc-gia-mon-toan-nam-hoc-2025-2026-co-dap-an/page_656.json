@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      122,
+      1556,
+      276
+    ],
+    "category": "Text",
+    "text": "đi qua $A$ với tốc độ 300 m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quăng đường 608 m. Gọi $\\vec{u} = (a; b; c)$ là vecto cùng hướng với vecto $\\overrightarrow{AB}$ biết rằng $|\\vec{u}| = 1$ và góc giữa vecto $\\vec{u}$ lần lượt với các vecto $\\vec{i}, \\vec{j}, \\vec{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$."
+  },
+  {
+    "bbox": [
+      478,
+      278,
+      678,
+      315
+    ],
+    "category": "Formula",
+    "text": "a) $a = \\cos 60^\\circ$."
+  },
+  {
+    "bbox": [
+      478,
+      315,
+      1244,
+      387
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình đường thẳng $AB$ là $\\frac{x-6}{1} = \\frac{y-6}{1} = \\frac{z}{2}$."
+  },
+  {
+    "bbox": [
+      478,
+      383,
+      610,
+      419
+    ],
+    "category": "Formula",
+    "text": "c) $\\beta = 3$."
+  },
+  {
+    "bbox": [
+      478,
+      419,
+      1550,
+      497
+    ],
+    "category": "Formula",
+    "text": "d) Giả sử sau 5 giây kể từ thời điểm ban đầu, vật đến điểm $B (x_B; y_B; z_B)$. Khi đó $x_B = 781$."
+  },
+  {
+    "bbox": [
+      447,
+      517,
+      1556,
+      750
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một phần mềm nhận dạng tin-off quăng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin-off được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả tin-off gửi đến, có 20% số tin-off bị đánh dấu. Trong số các tin-off bị đánh dấu, có 10% số tin-off không phải quăng cáo. Trong các tin-off không bị đánh dấu, có 10% số tin-off là quăng cáo. Chọn ngẫu nhiên một tin-off được gửi đến điện thoại."
+  },
+  {
+    "bbox": [
+      478,
+      750,
+      1198,
+      789
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất để tin-off đó không bị đánh dấu là 0,8."
+  },
+  {
+    "bbox": [
+      478,
+      791,
+      1550,
+      866
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất để tỉn-off đó không phải là quăng cáo, biết rằng nó không bị đánh dấu, bằng 0,95."
+  },
+  {
+    "bbox": [
+      478,
+      869,
+      1332,
+      909
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất để tin-off đó không phải là quăng cáo bằng 0,76."
+  },
+  {
+    "bbox": [
+      478,
+      909,
+      1550,
+      986
+    ],
+    "category": "Formula",
+    "text": "d) Xác suất để tin-off đó không bị đánh dấu, biết rằng nó không phải là quăng cáo, nhỏ hơn 0,95."
+  },
+  {
+    "bbox": [
+      464,
+      1006,
+      1247,
+      1060
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1091,
+      1104,
+      1654
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Bạn Nam tham gia cuộc thi giải một mật thư. Theo quy tắc của cuộc thi, người chơi cần chọn ra sáu số từ tập $S = \\{11; 12; 13; 14; 15; 16; 17; 18; 19\\}$ và xếp mỗi số vào đúng một vị trí trong sáu vị trí $A, B, C, M, N, P$ như hình bên sao cho mỗi vị trí chỉ được xếp một số. Mật thư sẽ được giải nếu các bộ ba số xuất hiện ở những bộ ba vị trí $(A, M, B)$; $(B, N, C)$; $(C, P, A)$ tạo thành các cấp số cộng theo thứ tự đó. Bạn Nam chọn ngẫu nhiên sáu số trong tập $S$ và xếp ngẫu nhiên vào các vị trí được yêu cầu. Gọi xác suất để bạn Nam giải được mật thư ở lần chọn và xếp đó là $a$. Giá trị của $\\frac{1}{a}$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      1136,
+      1100,
+      1538,
+      1462
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1254,
+      1646,
+      1554,
+      1707
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      447,
+      1722,
+      1556,
+      1986
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng ($x \\in \\mathbb{N}^*$; $1 \\le x \\le 4500$) thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0,01x^2 + 300x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{30000}{x} + 200$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết. Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 100 triệu đồng?"
+  },
+  {
+    "bbox": [
+      1254,
+      1940,
+      1554,
+      1999
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      447,
+      2015,
+      1556,
+      2244
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Để gây quỹ từ thiện, câu lạc bộ thiện nguyện của một trường THPT tổ chức hoạt động bán hàng với hai mặt hàng là nước chanh và khoai chiên. Câu lạc bộ thiết kế hai thực đơn. Thực đơn 1 có giá 30 nghìn đồng, bao gồm hai cốc nước chanh và một túi khoai chiên. Thực đơn 2 có giá 50 nghìn đồng, bao gồm ba cốc nước chanh và hai túi khoai chiên. Biết rằng câu lạc bộ chi làm được không quá 165 cốc nước chanh và 100 túi khoai chiên. Số tiền lớn nhất mà câu lạc bộ có thể nhận"
+  },
+  {
+    "bbox": [
+      134,
+      2259,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "654 Bùi Tịnh Minh Lâm"
+  }
+]

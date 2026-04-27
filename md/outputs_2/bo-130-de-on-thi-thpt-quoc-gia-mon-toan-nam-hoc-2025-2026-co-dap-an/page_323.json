@@ -1,0 +1,246 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      130,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      108,
+      117,
+      894,
+      171
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      186,
+      1199,
+      447
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Ông $A$ dự định đầu tư sản xuất một loại sản phẩm với số lượng không quá 150 sản phẩm. Nếu ông $A$ sản xuất được $x$ sản phẩm thì bán và thu về số tiền được tính theo công thức $f(x) = x^3 - 1565x^2 + 128500x + 30000$ (nghìn đồng), khi đó chi phí sản xuất bình quân cho một sản phẩm được tính theo công thức $C(x) = 1000 + x + \\frac{25000}{x}$ (nghìn đồng). Ông $A$ cần sản xuất bao nhiêu sản phẩm để lợi nhuận thu về là lớn nhất?"
+  },
+  {
+    "bbox": [
+      978,
+      403,
+      1197,
+      455
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      468,
+      1199,
+      701
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên mỗi trục tọa độ là 1 m), một cabin cáp treo xuất phát từ điểm $A(10; 3; 0)$ và chuyển động đều theo đường cáp thẳng đến vị trí $D$ cách điểm $A$ một khoảng 3780 m. Biết đường đi của cabin cùng phương với vecto $\\vec{u} = (2; -2; 1)$ và sau 3 phút kể từ khi xuất phát thì cabin đi đến vị trí $B$ có hoành độ $x_B = 550$. Hỏi thời gian di chuyển của cabin trên quăng đường $AD$ là bao nhiêu giây?"
+  },
+  {
+    "bbox": [
+      978,
+      657,
+      1197,
+      709
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      722,
+      1199,
+      878
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $A$, $AB = AC = a$, $\\widehat{SBA} = \\widehat{SCA} = 90^\\circ$ và khoảng cách từ điểm $B$ đến mặt phẳng ($SAC$) bằng $\\frac{a\\sqrt{3}}{2}$. Tính $\\cos[A, SB, C]$ làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      978,
+      834,
+      1197,
+      886
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      900,
+      1199,
+      1059
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong một cửa hàng, nhà quản lý dự định treo một đồ trang trí trên cao. Vật trang trí được đặt trên giá đỡ nằm dưới thanh treo 1 m. Biết khoảng cách giữa hai thanh treo là 3 m. Biết tổng độ dài nhỏ nhất của các đoạn dây xích là $a + b\\sqrt{c}$ (trong đó $a, b, c$ là các số tự nhiên). Tính $a - b - c$."
+  },
+  {
+    "bbox": [
+      978,
+      1015,
+      1197,
+      1067
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      1082,
+      1199,
+      1355
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Hệ thống định vị toàn cầu GPS là một hệ thống cho phép xác định vị trí của một vật thể trong không gian. Trong cùng một thời điểm, vị trí của một điểm $M$ trong không gian sẽ được xác định bởi bốn vệ tinh cho trước nhờ các bộ thu phát tín hiệu đặt trên các vệ tinh. Giả sử trong không gian với hệ tọa độ $Oxyz$, có bốn vệ tinh lần lượt đặt tại các điểm $A(2; 4; 0)$, $B(0; 4; 6)$, $C(2; 0; 6)$, $D(-1; -2; -3)$ và vị trí điểm $M(a; b; c)$ thỏa mãn $MA + MB + MC + MD$ là nhỏ nhất. Tính độ dài $MO$ (làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      978,
+      1311,
+      1197,
+      1363
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      1376,
+      1199,
+      1586
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Chọn ngẫu nhiên bốn số tự nhiên khác nhau từ 70 số nguyên dương đầu tiên. Xác suất để bốn số được chọn lập thành một cấp số nhân có công bội nguyên là $\\frac{a}{b}$ (trong đó $a, b$ là các số tự nhiên và nguyên tố cùng nhau). Khi đó hãy làm tròn đến hàng đơn vị số $\\frac{10^5 a}{b}$."
+  },
+  {
+    "bbox": [
+      978,
+      1524,
+      1197,
+      1576
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      554,
+      1606,
+      595,
+      1638
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      613,
+      1598,
+      691,
+      1639
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      1606,
+      748,
+      1638
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      168,
+      1595,
+      2230
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "321"
+  }
+]

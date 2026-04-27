@@ -1,0 +1,638 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      131,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1151,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      308,
+      275,
+      982,
+      333
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 39"
+  },
+  {
+    "bbox": [
+      508,
+      333,
+      784,
+      384
+    ],
+    "category": "Text",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      281,
+      389,
+      1013,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1235,
+      142,
+      1595,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      357,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1577,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      93,
+      509,
+      1163,
+      566
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      574,
+      823,
+      616
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Heo nguyên hàm của hàm số $f(x) = 3x^2 + 1$ là"
+  },
+  {
+    "bbox": [
+      123,
+      616,
+      273,
+      672
+    ],
+    "category": "List-item",
+    "text": "(A) $x^3 + C$."
+  },
+  {
+    "bbox": [
+      395,
+      612,
+      604,
+      689
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{x^3}{3} + x + C$."
+  },
+  {
+    "bbox": [
+      668,
+      631,
+      819,
+      672
+    ],
+    "category": "List-item",
+    "text": "(C) $6x + C$."
+  },
+  {
+    "bbox": [
+      940,
+      631,
+      1141,
+      672
+    ],
+    "category": "List-item",
+    "text": "(D) $x^3 + x + C$."
+  },
+  {
+    "bbox": [
+      93,
+      696,
+      1198,
+      813
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Cho hai hàm số $f(x)$ và $g(x)$ liên tục trên $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị của các hàm số $y = f(x)$, $y = g(x)$ và các đường thẳng $x = a$, $x = b$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      813,
+      452,
+      929
+    ],
+    "category": "List-item",
+    "text": "(A) $\\left| \\int_a^b [f(x) - g(x)] dx \\right|$."
+  },
+  {
+    "bbox": [
+      668,
+      813,
+      973,
+      929
+    ],
+    "category": "List-item",
+    "text": "(B) $\\int_a^b |f(x) + g(x)| dx$."
+  },
+  {
+    "bbox": [
+      123,
+      929,
+      429,
+      1045
+    ],
+    "category": "List-item",
+    "text": "(C) $\\int_a^b |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      668,
+      929,
+      979,
+      1045
+    ],
+    "category": "List-item",
+    "text": "(D) $\\int_a^b (f(x) - g(x)) dx$."
+  },
+  {
+    "bbox": [
+      93,
+      1057,
+      1198,
+      1136
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Mỗi ngày bác Hương đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Hương trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      167,
+      1150,
+      1126,
+      1249
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1265,
+      652,
+      1303
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      123,
+      1303,
+      234,
+      1342
+    ],
+    "category": "List-item",
+    "text": "(A) 3,39."
+  },
+  {
+    "bbox": [
+      395,
+      1303,
+      523,
+      1342
+    ],
+    "category": "List-item",
+    "text": "(B) 11,62."
+  },
+  {
+    "bbox": [
+      668,
+      1303,
+      810,
+      1342
+    ],
+    "category": "List-item",
+    "text": "(C) 0,1314."
+  },
+  {
+    "bbox": [
+      940,
+      1303,
+      1050,
+      1342
+    ],
+    "category": "List-item",
+    "text": "(D) 0,36."
+  },
+  {
+    "bbox": [
+      93,
+      1354,
+      1198,
+      1461
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x-1}{2} = \\frac{y-3}{-5} = \\frac{z+2}{3}$. Véc-tơ nào dưới đây là véc-tơ chỉ phương của đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      123,
+      1461,
+      364,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{u} = (1; 3; -2)$."
+  },
+  {
+    "bbox": [
+      395,
+      1461,
+      613,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{u} = (2; 5; 3)$."
+  },
+  {
+    "bbox": [
+      668,
+      1461,
+      909,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{u} = (2; -5; 3)$."
+  },
+  {
+    "bbox": [
+      940,
+      1461,
+      1157,
+      1502
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{u} = (1; 3; 2)$."
+  },
+  {
+    "bbox": [
+      93,
+      1512,
+      1198,
+      1618
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Tiệm cận đứng của đồ thị hàm số $y = \\frac{3x+2}{x-2}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      123,
+      1618,
+      253,
+      1659
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 2$."
+  },
+  {
+    "bbox": [
+      395,
+      1618,
+      549,
+      1659
+    ],
+    "category": "List-item",
+    "text": "(B) $x = -1$."
+  },
+  {
+    "bbox": [
+      668,
+      1618,
+      800,
+      1659
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 3$."
+  },
+  {
+    "bbox": [
+      940,
+      1618,
+      1091,
+      1659
+    ],
+    "category": "List-item",
+    "text": "(D) $x = -2$."
+  },
+  {
+    "bbox": [
+      93,
+      1673,
+      1198,
+      1751
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Cho bất phương trình $\\log_2(3x-1) > 3$ (1). Bất phương trình (1) có nghiệm $x$ thỏa"
+  },
+  {
+    "bbox": [
+      123,
+      1751,
+      253,
+      1792
+    ],
+    "category": "List-item",
+    "text": "(A) $x > 3$."
+  },
+  {
+    "bbox": [
+      395,
+      1743,
+      586,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{1}{3} < x < 3$."
+  },
+  {
+    "bbox": [
+      668,
+      1751,
+      800,
+      1792
+    ],
+    "category": "List-item",
+    "text": "(C) $x < 3$."
+  },
+  {
+    "bbox": [
+      940,
+      1743,
+      1091,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(D) $x > \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      93,
+      1822,
+      1198,
+      1900
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Trong không gian $Oxyz$, véc-tơ nào sau đây là một véc-tơ pháp tuyến của mặt phẳng"
+  },
+  {
+    "bbox": [
+      93,
+      1900,
+      441,
+      1939
+    ],
+    "category": "Text",
+    "text": "(P): $x + 3y - 4z + 5 = 0$?"
+  },
+  {
+    "bbox": [
+      123,
+      1939,
+      341,
+      1978
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{n} = (3; 4; 5)$."
+  },
+  {
+    "bbox": [
+      395,
+      1939,
+      637,
+      1978
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{n} = (1; 3; -4)$."
+  },
+  {
+    "bbox": [
+      668,
+      1939,
+      886,
+      1978
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{n} = (1; 3; 4)$."
+  },
+  {
+    "bbox": [
+      940,
+      1939,
+      1182,
+      1978
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{n} = (3; -4; 5)$."
+  },
+  {
+    "bbox": [
+      93,
+      1992,
+      1198,
+      2071
+    ],
+    "category": "Text",
+    "text": "CÂU 8. Cho hình chóp $S.ABCD$ có đáy là hình vuông. $SA$ vuông góc với mặt phẳng đáy. Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      2071,
+      360,
+      2112
+    ],
+    "category": "List-item",
+    "text": "(A) $BA \\perp (SAD)$."
+  },
+  {
+    "bbox": [
+      395,
+      2071,
+      631,
+      2112
+    ],
+    "category": "List-item",
+    "text": "(B) $BA \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      668,
+      2071,
+      904,
+      2112
+    ],
+    "category": "List-item",
+    "text": "(C) $BA \\perp (SBC)$."
+  },
+  {
+    "bbox": [
+      940,
+      2071,
+      1176,
+      2112
+    ],
+    "category": "List-item",
+    "text": "(D) $BA \\perp (SCD)$."
+  },
+  {
+    "bbox": [
+      93,
+      2124,
+      829,
+      2202
+    ],
+    "category": "Text",
+    "text": "CÂU 9. Nghiệm của phương trình $\\left(\\frac{1}{25}\\right)^{3-2x} = 5^{x+3}$ là"
+  },
+  {
+    "bbox": [
+      123,
+      2202,
+      276,
+      2243
+    ],
+    "category": "List-item",
+    "text": "(A) $x = -3$."
+  },
+  {
+    "bbox": [
+      395,
+      2202,
+      523,
+      2243
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 5$."
+  },
+  {
+    "bbox": [
+      668,
+      2202,
+      819,
+      2243
+    ],
+    "category": "List-item",
+    "text": "(C) $x = -5$."
+  },
+  {
+    "bbox": [
+      940,
+      2202,
+      1070,
+      2243
+    ],
+    "category": "List-item",
+    "text": "(D) $x = 3$."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 197"
+  }
+]

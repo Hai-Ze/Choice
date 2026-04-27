@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      833,
+      111,
+      953,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      157,
+      402,
+      198
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,41"
+  },
+  {
+    "bbox": [
+      637,
+      211,
+      1158,
+      621
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      631,
+      1037,
+      674
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là điểm thuộc đoạn thẳng $AB$ sao cho $BA = 3BN$"
+  },
+  {
+    "bbox": [
+      212,
+      678,
+      1234,
+      720
+    ],
+    "category": "Text",
+    "text": "Khi đó $BN = DM$ và $BN // DM$ nên tức giác $BNDM$ là hình bình hành"
+  },
+  {
+    "bbox": [
+      212,
+      728,
+      785,
+      772
+    ],
+    "category": "Text",
+    "text": "Từ đó suy ra $BM // DN \\Rightarrow BM // (SDN)$."
+  },
+  {
+    "bbox": [
+      212,
+      780,
+      888,
+      830
+    ],
+    "category": "Text",
+    "text": "Vậy $d(BM, SD) = d(BM, (SDN)) = d(B, (SDN))$."
+  },
+  {
+    "bbox": [
+      212,
+      836,
+      1068,
+      877
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ và $K$ lần lượt là hình chiếu của $A$ lên $DN$ và $SH$."
+  },
+  {
+    "bbox": [
+      212,
+      883,
+      1253,
+      927
+    ],
+    "category": "Text",
+    "text": "Ta có $DN \\perp AH$ và $DN \\perp SA$ nên $DN \\perp (SAH)$ từ đó suy ra $DN \\perp AK$."
+  },
+  {
+    "bbox": [
+      212,
+      936,
+      1256,
+      985
+    ],
+    "category": "Text",
+    "text": "Lại có $AK \\perp SH$ và $AK \\perp DN$ nên $AK \\perp (SDN)$ nên $d(A, (SDN)) = AK$."
+  },
+  {
+    "bbox": [
+      212,
+      993,
+      1087,
+      1073
+    ],
+    "category": "Text",
+    "text": "Do $AN = \\frac{2}{3} AB = 2$ và tam giác $ADN$ vuông tại $A$ nên ta có:"
+  },
+  {
+    "bbox": [
+      616,
+      1078,
+      1173,
+      1192
+    ],
+    "category": "Formula",
+    "text": "$$\nAH = \\frac{AN \\cdot AD}{\\sqrt{AN^2 + AD^2}} = \\frac{2 \\cdot 1}{\\sqrt{(2)^2 + 1^2}} = \\frac{2\\sqrt{5}}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1198,
+      1342,
+      1405
+    ],
+    "category": "Text",
+    "text": "Tam giác $SAH$ vuông tại $A$ nên $AK = \\frac{AH \\cdot AS}{\\sqrt{AH^2 + AS^2}} = \\frac{\\frac{2\\sqrt{5}}{5} \\cdot 2}{\\sqrt{\\left(\\frac{2\\sqrt{5}}{5}\\right)^2 + (2)^2}} = \\frac{2\\sqrt{6}}{6}$."
+  },
+  {
+    "bbox": [
+      212,
+      1413,
+      1319,
+      1495
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AB$ cắt mặt phẳng $(SDN)$ tại $N$ và $\\frac{BN}{AN} = \\frac{1}{2}$ nên khi đó ta có:"
+  },
+  {
+    "bbox": [
+      496,
+      1498,
+      1294,
+      1591
+    ],
+    "category": "Formula",
+    "text": "$$\nd(BM, SD) = d(B, (SDN)) = \\frac{1}{2} d(A, (SDN)) = \\frac{1}{2} AK = \\frac{\\sqrt{6}}{6}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1593,
+      1139,
+      1640
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách giữa hai đường thẳng $BM$ và $SD$ bằng 0,41."
+  },
+  {
+    "bbox": [
+      1249,
+      1685,
+      1592,
+      1766
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>0</td><td>,</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      1771,
+      1576,
+      1953
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Bác Bình cần xây một căn nhà với chi phí 1 tỷ đồng. Đặt kế hoạch sau 5 năm phải có đủ số tiền trên thì mỗi năm bác Bình cần gửi vào ngân hàng một khoản tiền tiết kiệm như nhau. Biết lãi suất của ngân hàng là 7%/năm và lãi hàng năm được nhập vào vốn. Tìm số tiền bác Bình gửi vào mỗi năm (Đơn vị tính là triệu đồng và kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      833,
+      1957,
+      953,
+      1998
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2002,
+      394,
+      2043
+    ],
+    "category": "Text",
+    "text": "Đáp án: 163"
+  },
+  {
+    "bbox": [
+      212,
+      2045,
+      1574,
+      2134
+    ],
+    "category": "Text",
+    "text": "Nếu đầu mỗi năm gửi vào ngân hàng số tiền $m$, lãi suất không đổi $r\\%$/năm và lãi sau mỗi năm được nhập vào vốn thì sau $n$ năm số tiền thu được $T_n$ được tính theo công thức"
+  },
+  {
+    "bbox": [
+      711,
+      2148,
+      1078,
+      2223
+    ],
+    "category": "Formula",
+    "text": "$$\nT_n = \\frac{m}{r} \\left[ (1+r)^n - 1 \\right] (1+r).\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      125,
+      100,
+      229,
+      179
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{\\ln 2}$"
+  },
+  {
+    "bbox": [
+      476,
+      100,
+      576,
+      179
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3}{\\ln 2}$"
+  },
+  {
+    "bbox": [
+      826,
+      100,
+      927,
+      179
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\pi}{\\ln 2}$"
+  },
+  {
+    "bbox": [
+      1175,
+      100,
+      1277,
+      179
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{3\\pi}{\\ln 2}$"
+  },
+  {
+    "bbox": [
+      727,
+      203,
+      843,
+      242
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      262,
+      196,
+      300
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      82,
+      319,
+      756,
+      415
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{2} |2^{x}| dx = \\int_{0}^{2} 2^{x} dx = \\frac{3}{\\ln 2} \\quad (\\text{do } 2^{x} > 0, \\forall x \\in [0; 2]).\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      440,
+      896,
+      480
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh $a$."
+  },
+  {
+    "bbox": [
+      585,
+      500,
+      982,
+      843
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      77,
+      867,
+      443,
+      914
+    ],
+    "category": "Text",
+    "text": "Giá trị của $\\overrightarrow{AC'}.\\overrightarrow{B'D'}$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      964,
+      206,
+      999
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      476,
+      944,
+      614,
+      1024
+    ],
+    "category": "List-item",
+    "text": "B. $-\\frac{1}{2}a^2$."
+  },
+  {
+    "bbox": [
+      826,
+      952,
+      955,
+      1000
+    ],
+    "category": "List-item",
+    "text": "C. $\\sqrt{6}a^2$."
+  },
+  {
+    "bbox": [
+      1175,
+      932,
+      1341,
+      1024
+    ],
+    "category": "List-item",
+    "text": "D. $-\\frac{\\sqrt{2}}{2}a^2$."
+  },
+  {
+    "bbox": [
+      727,
+      1048,
+      843,
+      1087
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1107,
+      198,
+      1145
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      82,
+      1163,
+      645,
+      1202
+    ],
+    "category": "Text",
+    "text": "$ABCD.A'B'C'D'$ là hình lập phương nên"
+  },
+  {
+    "bbox": [
+      82,
+      1221,
+      1011,
+      1317
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} A'C' \\perp B'D' \\\\ CC' \\perp B'D' \\end{cases} \\Rightarrow B'D' \\perp (ACC'A') \\Rightarrow B'D' \\perp AC' \\Rightarrow \\overrightarrow{AC'}.\\overrightarrow{B'D'} = 0\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1338,
+      1493,
+      1448
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian với hệ tọa độ $Oxyz$, cho điểm $M(2;-3;1)$ và mặt phẳng $(P): 2x-2y+z+3=0$. Мặt phẳng đi qua điểm $M$ và song song với mặt phẳng $(P)$ có phương trình là"
+  },
+  {
+    "bbox": [
+      125,
+      1471,
+      438,
+      1509
+    ],
+    "category": "List-item",
+    "text": "A. $2x-2y-z-11=0$."
+  },
+  {
+    "bbox": [
+      826,
+      1471,
+      1135,
+      1509
+    ],
+    "category": "List-item",
+    "text": "B. $2x-2y+z-11=0$."
+  },
+  {
+    "bbox": [
+      125,
+      1536,
+      421,
+      1574
+    ],
+    "category": "List-item",
+    "text": "C. $2x-2y+z+1=0$."
+  },
+  {
+    "bbox": [
+      826,
+      1536,
+      1157,
+      1574
+    ],
+    "category": "List-item",
+    "text": "D. $-2x-2y+z-11=0$."
+  },
+  {
+    "bbox": [
+      727,
+      1602,
+      843,
+      1641
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1659,
+      220,
+      1697
+    ],
+    "category": "Text",
+    "text": "Chọn BA."
+  },
+  {
+    "bbox": [
+      77,
+      1712,
+      1040,
+      1754
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng song song với $(P)$ có phương trình $(Q): 2x-2y+z+d=0$."
+  },
+  {
+    "bbox": [
+      82,
+      1780,
+      468,
+      1818
+    ],
+    "category": "Formula",
+    "text": "$$\nM(2;-3;1) \\in (Q) \\Rightarrow d = -11.\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1845,
+      479,
+      1883
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } (Q): 2x-2y+z-11=0.\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1912,
+      1493,
+      2052
+    ],
+    "category": "Text",
+    "text": "Câu 9. Trong không gian $Oxyz$, cho đường thẳng $d: \\frac{x-3}{2} = \\frac{y-4}{-5} = \\frac{z+5}{3}$.úp.Điểm nào sau đây thuộc đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      125,
+      2071,
+      337,
+      2107
+    ],
+    "category": "List-item",
+    "text": "A. $M(3;4;-5)$."
+  },
+  {
+    "bbox": [
+      476,
+      2071,
+      676,
+      2107
+    ],
+    "category": "List-item",
+    "text": "B. $N(2;-5;3)$."
+  },
+  {
+    "bbox": [
+      826,
+      2071,
+      1040,
+      2107
+    ],
+    "category": "List-item",
+    "text": "C. $P(-3;-4;5)$."
+  },
+  {
+    "bbox": [
+      1175,
+      2071,
+      1374,
+      2107
+    ],
+    "category": "List-item",
+    "text": "D. $Q(2;5;-3)$."
+  },
+  {
+    "bbox": [
+      727,
+      2135,
+      843,
+      2174
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      2194,
+      198,
+      2232
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      77,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

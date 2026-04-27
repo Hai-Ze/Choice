@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1500,
+      194
+    ],
+    "category": "Text",
+    "text": "c) Khi tín hiệu gửi về trạm quan sát nhanh nhất thì vị trí của drone là $K\\left(\\frac{212}{5};\\frac{241}{5};0,1\\right)$."
+  },
+  {
+    "bbox": [
+      212,
+      199,
+      1236,
+      246
+    ],
+    "category": "Text",
+    "text": "d) Trạm quan sát $I$ nhìn đoạn thẳng $AB$ dưới một góc nhỏ hơn $65^\\circ$."
+  },
+  {
+    "bbox": [
+      833,
+      250,
+      953,
+      291
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      294,
+      352,
+      335
+    ],
+    "category": "Text",
+    "text": "(a) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      338,
+      709,
+      389
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB} = (60;80;0) \\Rightarrow AB = 100$."
+  },
+  {
+    "bbox": [
+      212,
+      398,
+      1341,
+      441
+    ],
+    "category": "Text",
+    "text": "Gọi $a$ là thời gian hai xe đi để gặp nhau tại $M$. Khi đó $AM = 40a$; $BM = 60a$."
+  },
+  {
+    "bbox": [
+      218,
+      448,
+      1016,
+      486
+    ],
+    "category": "Formula",
+    "text": "$$\nAM + BM = AB \\Rightarrow a = 1. \\text{ Do đó } AM = 40 \\text{ và } BM = 60.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      492,
+      988,
+      573
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\frac{AM}{BM} = \\frac{40}{60} = \\frac{2}{3} \\Rightarrow \\overline{AM} = -\\frac{2}{3} \\overline{BM} \\Rightarrow M(34;37;0).\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      577,
+      1291,
+      725
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{CD} = (60;80;0) = 20(3;4;0). \\text{ Phương trình tham số của } CD \\text{ là } \\begin{cases} x = 10 + 3t \\\\ y = 5 + 4t \\\\ z = 0,1 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      735,
+      1084,
+      787
+    ],
+    "category": "Formula",
+    "text": "$$\nH \\in CD \\Rightarrow H(10+3t;5+4t;0,1); \\overline{HM} = (24-3t;32-4t;-0,1)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      794,
+      1489,
+      845
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } M \\text{ là hình chiếu vuông góc của } H \\text{ trên } AB \\text{ nên } \\overline{HM} \\cdot \\overline{AB} = 0 \\Rightarrow t = 8 \\Rightarrow H(34;37;0,1).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      856,
+      355,
+      897
+    ],
+    "category": "Text",
+    "text": "(b) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      902,
+      350,
+      943
+    ],
+    "category": "Text",
+    "text": "(c) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      943,
+      1105,
+      988
+    ],
+    "category": "Text",
+    "text": "Tín hiệu gửi về trạm quan sát nhanh nhất khi $IK$ ngắn nhất."
+  },
+  {
+    "bbox": [
+      212,
+      988,
+      992,
+      1033
+    ],
+    "category": "Text",
+    "text": "Khi đó $K$ là hình chiếu của $I$ trên đường thẳng $CD$."
+  },
+  {
+    "bbox": [
+      218,
+      1033,
+      1037,
+      1086
+    ],
+    "category": "Formula",
+    "text": "$$\nK \\in CD \\Rightarrow K(10+3t;5+4t;0,1); \\overline{KI} = (10-3t;60-4t;0,1)\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1094,
+      964,
+      1181
+    ],
+    "category": "Formula",
+    "text": "$$\nKI \\perp CD \\Leftrightarrow \\overline{KI} \\cdot \\overline{CD} = 0 \\Leftrightarrow t = \\frac{54}{5} \\Rightarrow K\\left(\\frac{212}{5};\\frac{241}{5};0,1\\right).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1192,
+      316,
+      1227
+    ],
+    "category": "Text",
+    "text": "(d) Sai"
+  },
+  {
+    "bbox": [
+      218,
+      1232,
+      793,
+      1285
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{IA} = (10;60;-0,2); \\overline{IB} = (-50;-20;-0,2)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1293,
+      865,
+      1351
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\cos(\\overline{IA}; \\overline{IB}) \\approx -0,52 \\Rightarrow (\\overline{IA}; \\overline{IB}) \\approx 121,3^\\circ.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1361,
+      1575,
+      1630
+    ],
+    "category": "Text",
+    "text": "Câu 3. Một công ty dược phẩm giới thiệu một bộ xét nghiệm bệnh sởi. Thử nghiệm trên 10000 người nghi mắc bệnh sởi, trong đó có 900 người thực sự mắc bệnh sởi cho kết quả như sau: trong số 900 người thực sự mắc bệnh có 99% cho kết quả xét nghiệm dương tính, còn lại cho kết quả xét nghiệm âm tính; trong số những người không mắc bệnh có 98% cho kết quả xét nghiệm âm tính, còn lại cho kết quả xét nghiệm dương tính. Chọn ngẫu nhiên một người trong số những người được thử nghiệm."
+  },
+  {
+    "bbox": [
+      212,
+      1630,
+      1230,
+      1674
+    ],
+    "category": "Text",
+    "text": "a) [NB] Xác suất để người được chọn ra thực sự mắc bệnh sởi là 9%."
+  },
+  {
+    "bbox": [
+      212,
+      1676,
+      1575,
+      1766
+    ],
+    "category": "Text",
+    "text": "b) [TH] Trong thử nghiệm trên, bộ xét nghiệm bệnh sởi cho kết quả xét nghiệm đúng với hơn 85% số người có kết quả xét nghiệm dương tính."
+  },
+  {
+    "bbox": [
+      212,
+      1766,
+      1519,
+      1811
+    ],
+    "category": "Text",
+    "text": "c) [TH] Xác suất để người được chọn ra có kết quả xét nghiệm dương tính bằng 10,37%."
+  },
+  {
+    "bbox": [
+      212,
+      1817,
+      1575,
+      1905
+    ],
+    "category": "Text",
+    "text": "d) [VD] Biết người được chọn ra có kết quả xét nghiệm dương tính, xác suất để người đó thực sự mắc bệnh sởi xấp xỉ 83%."
+  },
+  {
+    "bbox": [
+      833,
+      1909,
+      953,
+      1950
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1950,
+      955,
+      1995
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “Chọn được người mắc bệnh sởi”"
+  },
+  {
+    "bbox": [
+      212,
+      1998,
+      1192,
+      2042
+    ],
+    "category": "Text",
+    "text": "B là biến cố “Chọn được người có kết quả xét nghiệm dương tính”"
+  },
+  {
+    "bbox": [
+      212,
+      2045,
+      352,
+      2086
+    ],
+    "category": "Text",
+    "text": "(a) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      2090,
+      725,
+      2177
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(A) = \\frac{900}{10000} = 0,09 = 9\\%.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2185,
+      316,
+      2222
+    ],
+    "category": "Text",
+    "text": "(b) Sai"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

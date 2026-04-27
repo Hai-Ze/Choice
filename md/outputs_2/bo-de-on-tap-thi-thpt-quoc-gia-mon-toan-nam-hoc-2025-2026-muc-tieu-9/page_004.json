@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1548,
+      315
+    ],
+    "category": "Text",
+    "text": "Theo thống kê: có 1% bài viết là đạo văn, 99% bài viết là chính chủ (không đạo văn). Part mềm kiểm tra có độ chính xác như sau: Nếu bài viết là đạo văn, phần mềm phát hiện đúng với xác suất 98%; Nếu bài viết là chính chủ, phần mềm cảnh báo nhầm là đạo văn với xác suất 3%. Kiểm tra ngẫu nhiên một bài viết của học sinh nộp."
+  },
+  {
+    "bbox": [
+      202,
+      333,
+      877,
+      375
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố \"Bài viết thực sự là đạo văn\"."
+  },
+  {
+    "bbox": [
+      202,
+      394,
+      1064,
+      436
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố \"Phần mềm cảnh báo bài viết là đạo văn\"."
+  },
+  {
+    "bbox": [
+      202,
+      455,
+      606,
+      498
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(B) = 0,0395$."
+  },
+  {
+    "bbox": [
+      202,
+      515,
+      811,
+      559
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất $P(A) = 0,01$ và $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      202,
+      578,
+      770,
+      620
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất có điều kiện $P(A|B) = 0,7$."
+  },
+  {
+    "bbox": [
+      153,
+      639,
+      1548,
+      722
+    ],
+    "category": "Text",
+    "text": "d) Trong số những bài viết bị phần mềm cảnh báo là đạo văn, có nhiều khả năng là bài viết chính chủ hơn là đạo văn."
+  },
+  {
+    "bbox": [
+      153,
+      742,
+      768,
+      786
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho hàm số $g(x) = \\sqrt{2} \\sin x + x$."
+  },
+  {
+    "bbox": [
+      190,
+      801,
+      980,
+      848
+    ],
+    "category": "Formula",
+    "text": "a) Đạo hàm của hàm số đã cho là $g'(x) = \\sqrt{2} \\cos x + 1$."
+  },
+  {
+    "bbox": [
+      190,
+      853,
+      1123,
+      932
+    ],
+    "category": "Formula",
+    "text": "b) Trên đoạn $[0; \\pi]$, phương trình $g'(x) = 0$ có nghiệm là $x = \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      935,
+      633,
+      1007
+    ],
+    "category": "Formula",
+    "text": "c) $g(0) = 0$ và $g(\\frac{\\pi}{4}) = 1 + \\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      1010,
+      1094,
+      1088
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của hàm số $g(x)$ trên đoạn $[0; \\pi]$ là $1 + \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      1104,
+      1548,
+      1373
+    ],
+    "category": "Text",
+    "text": "Bài 4. Ở Dubai, những hòn đảo nhân tạo được xây dựng trên biển để làm địa điểm nghỉ dưỡng. Trên hệ tọa độ $Oxy$, đơn vị mỗi trục tính bằng 100 mét, đường bờ biển của một hòn đảo được mô tả như hình vẽ bởi các đồ thị hàm số $y = f(x)$ và $y = g(x)$. Trong đó $y = f(x)$ là một parabol có định $I(4; 2)$, đi qua gốc tọa độ và $g(x) = (2x - 20)e^{0,2x-2}$. Hòn đảo này gồm hai phần: phần整張 được giới hạn bởi đường cong $y = f(x)$ và trục hoành; phần nghỉ dưỡng được giới hạn bởi đường cong $y = g(x)$, trục tung và trục hoành (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      514,
+      1420,
+      1162,
+      1804
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1880,
+      556,
+      1923
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = -0,125x^2 + x$."
+  },
+  {
+    "bbox": [
+      202,
+      1942,
+      992,
+      1984
+    ],
+    "category": "Text",
+    "text": "b) Diện tích của整張 lớn hơn 100 nghìn mét vuông."
+  },
+  {
+    "bbox": [
+      153,
+      2003,
+      1548,
+      2086
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng $G(x) = (ax + b)e^{0,2x-2}$ là một nguyên hàm của hàm số $g(x)$ trên $\\mathbb{R}$, khi đó $a - b = 140$."
+  },
+  {
+    "bbox": [
+      202,
+      2109,
+      1015,
+      2151
+    ],
+    "category": "Text",
+    "text": "d) Tổng diện tích hòn đảo lớn hơn 500 nghìn mét vuông."
+  },
+  {
+    "bbox": [
+      202,
+      2169,
+      1149,
+      2211
+    ],
+    "category": "Text",
+    "text": "Phần III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      73,
+      2251,
+      93,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  },
+  {
+    "bbox": [
+      829,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

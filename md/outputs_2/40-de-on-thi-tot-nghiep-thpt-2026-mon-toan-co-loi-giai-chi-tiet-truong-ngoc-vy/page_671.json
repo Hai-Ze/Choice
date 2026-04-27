@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      971,
+      156
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      218,
+      583,
+      265
+    ],
+    "category": "Formula",
+    "text": "a) $v(t) = S'(t) = -3t^2 + 18t - 15$."
+  },
+  {
+    "bbox": [
+      156,
+      292,
+      652,
+      341
+    ],
+    "category": "Formula",
+    "text": "b) $v(2) = -3.2^2 + 18.2 - 15 = 9(m/s)$"
+  },
+  {
+    "bbox": [
+      156,
+      368,
+      1135,
+      421
+    ],
+    "category": "Formula",
+    "text": "c) $v(t) = -3t^2 + 18t - 15 = -3(t-3)^2 + 12 \\le 12$. Vậy $v_{\\max} = 12 \\Leftrightarrow t = 3$ giây"
+  },
+  {
+    "bbox": [
+      156,
+      441,
+      1072,
+      487
+    ],
+    "category": "Text",
+    "text": "d) Trong 6 giây đầu tiên chất điểm di chuyển được quăng đường là:"
+  },
+  {
+    "bbox": [
+      162,
+      506,
+      727,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{6} |v(t)| dt = \\int_{0}^{6} |-3t^2 + 18t - 15| dt = 46(m)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      602,
+      1575,
+      782
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nhânep 26-3, lớp 12A thiết kế một lều cắm trại có dạng là một phần mặt cầu và cửa lều là một đường tròn bằng phần mềm 3D trong không gian với hệ tọa độ $Oxyz$ (như hình vẽ). Biết bề mặt của lều là mặt cầu $(S)$ có tâm $I(4;4;1)$, bán kính $R = 4$ và mặt phẳng chứa cửa lều là $(P): y = 3$."
+  },
+  {
+    "bbox": [
+      566,
+      818,
+      1183,
+      1101
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1238,
+      1055,
+      1292
+    ],
+    "category": "Text",
+    "text": "a) Phương trình bề mặt của lều là $(x-4)^2 + (y-4)^2 + (z-1)^2 = 16$."
+  },
+  {
+    "bbox": [
+      156,
+      1318,
+      1541,
+      1467
+    ],
+    "category": "Text",
+    "text": "b) Đường thẳng đi qua tâm $I$ và vuông góc với mặt phẳng $(P)$ có phương trình là $\\begin{cases} x = 4 \\\\ y = 4 + t \\\\ z = 1 - 3t \\end{cases} (t \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      156,
+      1494,
+      855,
+      1542
+    ],
+    "category": "Text",
+    "text": "c) Mind của đường tròn cửa lều có tọa độ là $(3;3;2)$."
+  },
+  {
+    "bbox": [
+      156,
+      1567,
+      691,
+      1616
+    ],
+    "category": "Text",
+    "text": "d) Bán kính đường tròn cửa lều là $\\sqrt{15}$."
+  },
+  {
+    "bbox": [
+      807,
+      1639,
+      924,
+      1677
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1692,
+      971,
+      1814
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1874,
+      1302,
+      1923
+    ],
+    "category": "Text",
+    "text": "a) Phương trình bề mặt của lều là mặt cầu $(S)$ có tâm $I(4;4;1)$ và có bán kính $R = 4$"
+  },
+  {
+    "bbox": [
+      160,
+      1951,
+      589,
+      2005
+    ],
+    "category": "Formula",
+    "text": "$$\n(x-4)^2 + (y-4)^2 + (z-1)^2 = 16\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

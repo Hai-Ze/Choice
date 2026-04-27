@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      90,
+      82,
+      931,
+      532
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một mô hình nông nghiệp công nghệ cao, một tấm pin năng lượng mặt trời phẳng được lắp đặt nghiêng sao cho bề mặt của nó nằm trên mặt phẳng $(P): 2x + 2y + z - 6 = 0$ (xét trong hệ không gian tọa độ $Oxyz$ với đơn vị đo là mét, mặt phẳng $(Oxy)$ được xem là mặt đất phẳng). Người ta lắp đặt một robot cố định ở trên cao để kiểm tra bui bẩn. Robot có mắt phát tia laser tại điểm $S(1;1;6)$. Robot thực hiện quét tia laser trên bề mặt tấm pin. tại một thời điểm tia laser được chiếu theo đường thẳng $\\Delta$ có vecto chỉ phương $\\vec{u} = (1;-2;-2)$ và chạm vào bề mặt tấm pin tại điểm $M$."
+  },
+  {
+    "bbox": [
+      954,
+      80,
+      1569,
+      466
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      134,
+      538,
+      1115,
+      618
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng cách từ mắt phát tia laser $S$ đến mặt phẳng $(P)$ bằng $\\frac{4}{3}$ mét."
+  },
+  {
+    "bbox": [
+      134,
+      623,
+      579,
+      671
+    ],
+    "category": "List-item",
+    "text": "b)úp M có tọa độ là (1;1;2)."
+  },
+  {
+    "bbox": [
+      134,
+      680,
+      1170,
+      761
+    ],
+    "category": "List-item",
+    "text": "c) Góc $\\alpha$ hợp bởi tia laser $\\Delta$ và mặt phẳng $(P)$ thỏa mãn hệ thức $\\sin \\alpha = \\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      90,
+      761,
+      1569,
+      882
+    ],
+    "category": "Text",
+    "text": "d) Khi vệ sinh, nước được phun trúng điểm chạm của tia laser trên tấm pin sẽ tạo thành dòng nước cháy trên bề mặt pin xuống đất theo hướng dốc nhất, quỹ đạo cháy của dòng nước nằm trên một đường thẳng. Đường thẳng đó có một vecto chỉ phương là $\\vec{v} = (1;1;3)$."
+  },
+  {
+    "bbox": [
+      90,
+      882,
+      1569,
+      999
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Để tuyển chọn thành viên cho Câu lạc bộ Toán - Tin, nhà trường tổ chức một bài thi đánh giá năng lực (thang điểm 100) cho 100 học sinh. Kết quả điểm thi được thống kê trong bảng số liệu ghép nhóm gồm 6 nhóm như sau:"
+  },
+  {
+    "bbox": [
+      260,
+      1006,
+      1446,
+      1110
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm số</td><td>[40; 50)</td><td>[50; 60)</td><td>[60; 70)</td><td>[70; 80)</td><td>[80; 90)</td><td>[90;100)</td></tr><tr><td>Số học sinh</td><td>10</td><td>15</td><td>25</td><td>30</td><td>15</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      90,
+      1110,
+      1569,
+      1193
+    ],
+    "category": "Text",
+    "text": "An và Bình là hai học sinh tham gia thi, đạt số điểm lần lượt là 82 điểm và 69,5 điểm. Ban chủ nhiệm Câu lạc bộ đưa ra quy định phân loại dựa trên các chỉ số thống kê của toàn bộ mẫu số liệu như sau:"
+  },
+  {
+    "bbox": [
+      134,
+      1189,
+      1024,
+      1232
+    ],
+    "category": "Text",
+    "text": "Xếp loại \"xuất sắc\":úp số lớn hơn hoặc bằng tức phân vị thứ ba."
+  },
+  {
+    "bbox": [
+      134,
+      1228,
+      1207,
+      1271
+    ],
+    "category": "Text",
+    "text": "Xếp loại \"tiểm năng\":úp số từ mức điểm trung vị đến dưới tức phân vị thứ ba."
+  },
+  {
+    "bbox": [
+      134,
+      1267,
+      861,
+      1310
+    ],
+    "category": "Text",
+    "text": "Xếp loại \"chưa đạt\":úp số dưới mức điểm trung vị."
+  },
+  {
+    "bbox": [
+      134,
+      1306,
+      1430,
+      1348
+    ],
+    "category": "Text",
+    "text": "Một điều hết sức thú vị là không có học sinh nào có điểm số bằng một trong ba giá trị tức phân vị."
+  },
+  {
+    "bbox": [
+      134,
+      1344,
+      931,
+      1387
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu ghép nhóm này là 60."
+  },
+  {
+    "bbox": [
+      134,
+      1383,
+      961,
+      1426
+    ],
+    "category": "List-item",
+    "text": "b)úp trung vị của 100 học sinh tham gia kỳ thi là 71 điểm."
+  },
+  {
+    "bbox": [
+      134,
+      1422,
+      1388,
+      1465
+    ],
+    "category": "List-item",
+    "text": "c)Mặc dù Bình xếp loại chưa đạt, nhưng điểm số của Bình vẫn cao hơn mức điểm trung bình."
+  },
+  {
+    "bbox": [
+      90,
+      1459,
+      1569,
+      1584
+    ],
+    "category": "Text",
+    "text": "d) Để đánh giá chất lượng đề thi, ban tổ chức chọn ngẫu nhiên 4 học sinh tham gia kỳ thi để phỏng vấn. Xác suất để nhóm 4 học sinh được chọn có đầy đủ đại diện của cả 3 nhóm xếp loại và luôn có mặt An là $\\frac{275}{14259}$."
+  },
+  {
+    "bbox": [
+      90,
+      1588,
+      1146,
+      1637
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      90,
+      1667,
+      1569,
+      1970
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một kiến trúc sự thiết kế một hồ bơi vô cực có mặt trên của bề bơi nằm trong mặt phẳng $Oxy$ (đơn vị trục là mét). Một cạnh của hồ bơi dài $12 m$ nằm trên trục $Ox$; hai cạnh bên lần lượt nằm trên trục $Oy$ và đường thẳng $x=12$; cạnh còn lại (mặt vô cực) là một phần đồ thị của hàm số $y = -\\frac{1}{18}x^2 + \\frac{2}{3}x + 4$. Đáy hồ bơi không phẳng mà độ sâu tại điểm $(a;b)$ được tính theo công thức $h(a) = \\frac{1}{4}a + 1$ (mét). Thế tích nước tối đa mà hồ bơi có thể chứa là bao nhiêu $m^3$?"
+  },
+  {
+    "bbox": [
+      1239,
+      2228,
+      1531,
+      2268
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 0101"
+  }
+]

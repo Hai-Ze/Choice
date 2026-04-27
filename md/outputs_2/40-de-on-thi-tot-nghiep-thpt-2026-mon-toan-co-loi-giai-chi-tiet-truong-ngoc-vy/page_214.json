@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      96,
+      1574,
+      228
+    ],
+    "category": "Text",
+    "text": "+ Thể tích bể bơi bằng thể tích khối lăng trụ đứng có đáy là $ADHM$ và chiều cao $AB = 6(m)$ nên thể tích bể bơi là: $V_1 = S_1 \\cdot AB = 24 \\cdot 6 = 144(m^3)$."
+  },
+  {
+    "bbox": [
+      154,
+      255,
+      908,
+      336
+    ],
+    "category": "Text",
+    "text": "Suy ra 75% dung tích bể bơi là $V = \\frac{3}{4} \\cdot 144 = 108 (m^3)$."
+  },
+  {
+    "bbox": [
+      154,
+      360,
+      1574,
+      548
+    ],
+    "category": "Text",
+    "text": "+ Gọi $IJKL$ là bể mặt mực nước ban đầu thì $MI = NJ = 1(m)$ và $IL = \\frac{1}{2}EH = 6(m)$ suy ra diện tích của tam giác $MIL$ là $S_2 = \\frac{1}{2}MI \\cdot IL = 3(m^2)$"
+  },
+  {
+    "bbox": [
+      154,
+      564,
+      1574,
+      684
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích phần nước trong bể bơi lúc ban đầu bằng thể tích của khối lăng trụ đứng có đáy là tam giác $MIL$ và chiều cao $AB = 6(m)$ nên thể tích bể bơi là: $V_2 = S_2 \\cdot AB = 18(m^3)$."
+  },
+  {
+    "bbox": [
+      154,
+      703,
+      1574,
+      860
+    ],
+    "category": "Text",
+    "text": "+ Vì tốc độ bơm nước vào bể là 0,25 mét khối mỗi phút và cần bơm để lượng nước đạt 75% dung tích bể bơi khi lượng nước trong bể đã có $18(m^3)$ nên thời gian cần để bơm là: $t = \\frac{108 - 18}{0,25} = 360$ (phút)."
+  },
+  {
+    "bbox": [
+      154,
+      880,
+      811,
+      925
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian bơm nước vào bể bơi là 360 phút."
+  },
+  {
+    "bbox": [
+      154,
+      938,
+      1574,
+      1263
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có hai chiếc集合,集合 I có 5 quả bóng màu trắng và 7 quả bóng màu đỏ,集合 II có 10 quả bóng màu trắng và 15 quả bóng màu đỏ, các quả bóng có cùng kích thước và khối lượng. Lấy ngẫu nhiên hai quả bóng từ集合 I bỏ vào集合 II. Sau đó, lấy ra ngẫu nhiên một quả bóng từ集合 II. Xác suất để quả bóng được lấy ra từ集合 II là quả bóng được chuyển từ集合 I sang, biết rằng quả bóng đó có màu trắng là $\\frac{a}{b}$ (là phân số tối giản). Tính $a+b$?"
+  },
+  {
+    "bbox": [
+      154,
+      1281,
+      493,
+      1318
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1340,
+      924,
+      1379
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      1398,
+      317,
+      1437
+    ],
+    "category": "Text",
+    "text": "Đáp án: 14"
+  },
+  {
+    "bbox": [
+      154,
+      1450,
+      1574,
+      1554
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “Quả bóng lấy ra từ集合 thứ II có màu trắng”. Gọi $B$ là biến cố: “Quả bóng lấy ra từ集合 thứ II là quả từ集合 I”."
+  },
+  {
+    "bbox": [
+      154,
+      1571,
+      442,
+      1620
+    ],
+    "category": "Text",
+    "text": "Ta cần tính $P(B/A)$"
+  },
+  {
+    "bbox": [
+      154,
+      1645,
+      667,
+      1819
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(B/A) = \\frac{P(AB)}{P(A)} = \\frac{n(A \\cap B)}{n(A)} \\\\ + \\text{Tính } n(A)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1838,
+      1574,
+      1950
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 1: Hai quả bóng lấy từ集合 I chuyển sang集合 II đều màu trắng. Khi đó集合 II có 12 quả bóng trắng, 15 quả bóng đỏ. vậy trường hợp này có số cách lấy là: $C_5^2 \\cdot 12 = 120$."
+  },
+  {
+    "bbox": [
+      154,
+      1969,
+      1574,
+      2080
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 2: Hai quả bóng lấy từ集合 I chuyển sang集合 II có quả trắng, một quả đỏ. Khi đó集合 II có 11 quả bóng trắng, 16 quả bóng đỏ. vậy trường hợp này có số cách lấy là: $C_5^1 \\cdot C_7^1 \\cdot 11 = 385$."
+  },
+  {
+    "bbox": [
+      154,
+      2098,
+      1574,
+      2210
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 3: Hai quả bóng lấy từ集合 I chuyển sang集合 II đều màu đỏ. Khi đó集合 II có 10 quả bóng trắng, 17 quả bóng đỏ. vậy trường hợp này có số cách lấy là: $C_7^2 \\cdot 10 = 210$."
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

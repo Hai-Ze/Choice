@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      1143,
+      153
+    ],
+    "category": "Text",
+    "text": "Sau 6 phút bơm nước thì thể tích trong bát bằng $6 \\times 0,3 = 1,8$ lít."
+  },
+  {
+    "bbox": [
+      212,
+      158,
+      1571,
+      287
+    ],
+    "category": "Text",
+    "text": "Gọi $h$ là chiều cao tức thời của mực nước trong chậu, thể tích nước tương ứng chiều cao $h$ được tính theo công thức thể tích chõm cầu $V = \\frac{1}{3}\\pi h^2(3R - h)$; trong đó $R = 2$ dm nên"
+  },
+  {
+    "bbox": [
+      641,
+      295,
+      1148,
+      387
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\frac{1}{3}\\pi h^2(6 - h) = 2\\pi h^2 - \\frac{1}{3}\\pi h^3 \\quad (1).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      399,
+      1090,
+      481
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } V = 1,8 \\Rightarrow \\frac{1}{3}\\pi h^2(3 \\cdot 2 - h) = 1,8 \\Rightarrow h \\approx 0,56 \\text{ dm (lưu vào A).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      488,
+      1163,
+      581
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đạo hàm hai vế của (1) theo t, ta được: } \\frac{dV}{dt} = (4\\pi h - \\pi h^2) \\frac{dh}{dt} \\quad (2).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      591,
+      1359,
+      674
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay } \\frac{dV}{dt} = 0,3 \\text{ dm}^3/\\text{phút}; h = A \\approx 0,56 \\text{ dm} \\text{ vào (2), ta được: } \\frac{dh}{dt} \\approx 0,05 \\text{ dm / phút.}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      674,
+      1025,
+      725
+    ],
+    "category": "Text",
+    "text": "Vậy tốc độ dâng lên của nước là khoảng $0,05$ dm/phút."
+  },
+  {
+    "bbox": [
+      74,
+      727,
+      1576,
+      862
+    ],
+    "category": "Text",
+    "text": "**Câu 20:** Một cái bể nuôi cá có dạng hình hợp chữ nhật và chứa đầy nước. Bạn Nam vô tình làm rơi viên bi dạng hình cầu vào trong bể nuôi cá. Khi đó, lượng nước trong bể tràn ra ngoài. Để tính lượng nước tràn ra ngoài, bạn Nam làm như sau:"
+  },
+  {
+    "bbox": [
+      212,
+      862,
+      1576,
+      1146
+    ],
+    "category": "Text",
+    "text": "Lấy cây thước thẳng, tiến hành di chuyển viên bi vào trong góc, sao cho viên bi tiếp xúc với mặt đáy và hai thành của bể nuôi cá. Bạn Nam tiến lại vị trí đỉnh của hình hợp chữ nhật gần với viên bi nhất và tiến hành đo: Chiều cao của bể là $35 \\text{ cm}$. Tại vị trí đứng của Nam, đo từ đỉnh cao nhất của hình hợp chữ nhật đến điểm cao nhất của viên bi so với đáy bể là $33,5 \\text{ cm}$. Biết thể tích của viên bi không vượt quá $4 \\text{ cm}^3$. (Hình vẽ minh họa bên dưới với $A'E = 33,5 \\text{ cm}$)."
+  },
+  {
+    "bbox": [
+      552,
+      1170,
+      1248,
+      1664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1684,
+      1571,
+      1774
+    ],
+    "category": "Text",
+    "text": "Bạn hãy thay Nam, tính thể tích (đơn vị: xăng-ti-mét khối) của lượng nước tràn ra ngoài. (Bán kính viên bi và lượng nước tràn ra ngoài làm tròn đến chữ số hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      765,
+      1776,
+      884,
+      1817
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1823,
+      404,
+      1863
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1,84"
+  },
+  {
+    "bbox": [
+      212,
+      1865,
+      628,
+      1906
+    ],
+    "category": "Text",
+    "text": "Đặt bể cá vào hệ trục tọa độ"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

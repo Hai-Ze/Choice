@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1564,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      120,
+      1199,
+      427
+    ],
+    "category": "Text",
+    "text": "**CÂU 72.** Trong một trận đấu cờ vua của hai kỳ thủ là Lê Quang Liêm và vua cờ Carlsen; mỗi ván cờ luôn có kẻ thẳng người thua (vì nếu hai kỳ thủ hòa thì sẽ bốc thăm để chọn người thẳng ván đó). Biết rằng trong mỗi ván đấu, xác suất để anh Liêm dành chiến thẳng bằng 0,4; xác suất để Carlsen dành chiến thẳng bằng 0,6. Mỗi trận thẳng được tính 1 điểm cho kỳ thủ, người thua không được điểm nào. Nếu người nào tạo được cách biệt 2 điểm thì sẽ dành chiến thẳng chung cuộc. Tính xác suất để Lê Quang Liêm là người chiến thẳng sau cùng (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      979,
+      456,
+      1031,
+      489
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      448,
+      1197,
+      501
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      559,
+      1199,
+      834
+    ],
+    "category": "Text",
+    "text": "**CÂU 73.** Trong không gian $Oxyz$ (mối đơn vị trên trục tọa độ dài 1 cm) được đặt một góc trong một căn phòng. Có một cây quạt trần có ba cánh quạt và mỗi cánh cách đều nhau (minh họa như hình vẽ bên). Gọi $A(-10; -15; 300)$ và $B(12; 20; 300)$ là hai trong ba đỉnh của cánh quạt trần. Chiều cao của ống treo với集合 điện cánh quạt gắn vào trần nhà là 50 cm và đỉnh $S(a; b; c)$ với $a > 0$ là giao điểm giữa trần nhà và ống treo cánh quạt. Tính $T = a - b + c$. (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      979,
+      798,
+      1031,
+      831
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      790,
+      1197,
+      842
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      901,
+      214,
+      938
+    ],
+    "category": "Section-header",
+    "text": "**CÂU 74.**"
+  },
+  {
+    "bbox": [
+      94,
+      966,
+      839,
+      1269
+    ],
+    "category": "Text",
+    "text": "Một kỹ sư thiết kế mô hình trang trí cho một sân khẩu nổi có dạng hình lập phương $ABCD \\cdot A_1B_1C_1D_1$ với độ dài các cạnh bằng 5 m. Để tạo ra nét độc đáo cho sân khẩu, người kỹ sư muốn thiết kế một dàn bone ánh sáng nối từ một điểm $M$ trên đoạn thẳng $AD_1$ xuống điểm $N$ trên đoạn thẳng $BD$ thỏa mãn $AM = ND$. Dàn bone ánh sáng có chiều dài ngắn nhất là bao nhiêu mét? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      878,
+      980,
+      1188,
+      1233
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      1295,
+      1031,
+      1328
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1287,
+      1197,
+      1339
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1398,
+      1199,
+      1627
+    ],
+    "category": "Text",
+    "text": "**CÂU 75.** Trong không gian $Oxyz$ (đơn vị trên các trục là km), một khinh khí cầu ở toạ độ $A(-16; -10; 10)$ bắt đầu bay với vec-tơ vận tốc không đổi $\\vec{v}(4; 3; -1)$ (đơn vị vận tốc là km/h) và dự kiến bay trong thời gian 10 giờ. Biết trạm kiểm soát không lưu đặt ở vị trí gốc toạ độ $O$ kiểm soát được các vật thể cách trạm một khoảng tối đa bằng 12 km. Thời gian kể từ khi trạm kiểm soát không lưu phát hiện ra khinh khí cầu đến khi khinh khí cầu ra khỏi vùng kiểm soát là bao nhiêu phút?"
+  },
+  {
+    "bbox": [
+      105,
+      1633,
+      157,
+      1666
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      164,
+      1625,
+      325,
+      1677
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1736,
+      1199,
+      1895
+    ],
+    "category": "Text",
+    "text": "**CÂU 76.** Trong không gian $Oxyz$, cho điểm $A(-2; 6; 0)$ và mặt phẳng ($\\alpha$): $3x+4y+89 = 0$. Đường thẳng $d$ thay đổi nằm trên mặt phẳng ($Oxy$) và luôn đi qua điểm $A$. Gọi $H$ là hình chiếu vuông góc của $M(4; -2; 3)$ trên đường thẳng $d$. Khoảng cách nhỏ nhất từ $H$ đến mặt phẳng ($\\alpha$) bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      979,
+      1860,
+      1031,
+      1893
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1852,
+      1197,
+      1904
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1963,
+      1199,
+      2148
+    ],
+    "category": "Text",
+    "text": "**CÂU 77.** Trong không gian với hệ trục tọa độ $Oxyz$, cho ba mặt phẳng ($P$): $x - 2y + z - 1 = 0$, ($Q$): $x - 2y + z + 8 = 0$, ($R$): $x - 2y + z - 4 = 0$. Một đường thẳng $d$ thay đổi cắt ba mặt phẳng ($P$), ($Q$), ($R$) lần lượt tại $A, B, C$. Tìm giá trị nhỏ nhất của $T = AB^2 + \\frac{144}{AC}$."
+  },
+  {
+    "bbox": [
+      979,
+      2098,
+      1031,
+      2131
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      2088,
+      1197,
+      2140
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2205,
+      214,
+      2242
+    ],
+    "category": "Section-header",
+    "text": "**CÂU 78.**"
+  },
+  {
+    "bbox": [
+      1322,
+      120,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 689"
+  }
+]

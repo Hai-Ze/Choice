@@ -1,0 +1,235 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1263,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      123,
+      573,
+      619
+    ],
+    "category": "Text",
+    "text": "gieo. Ở lần gieo thứ nhất, con ngựa di chuyển đến ô có số thứ tự bằng số tương ứng với số chấm gieo được của con xúc xắc. Từ những lần gieo sau, nếu tổng của số tương ứng với số chấm gieo được của con xúc xắc và số tương ứng ghi ở ô con ngựa đang đứng lớn hơn 6 thì con ngựa sẽ đứng yên, còn nếu tổng này nhỏ hơn hoặc bằng 6 thì con ngựa được di chuyển số ô bằng số chấm gieo được. Con ngựa này gọi là về đích nếu nó đến được ô số 6."
+  },
+  {
+    "bbox": [
+      624,
+      133,
+      1173,
+      618
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      619,
+      942,
+      689
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để con ngựa về đích ở lần gieo thứ nhất bằng $\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      124,
+      682,
+      936,
+      752
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để con ngựa về đích ở lần gieo thứ hai bằng $\\frac{5}{36}$."
+  },
+  {
+    "bbox": [
+      124,
+      748,
+      1194,
+      852
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để con ngựa về đích ở lần gieo thứ ba và trong cả ba lần gieo con ngựa đều được di chuyển bằng $\\frac{5}{108}$."
+  },
+  {
+    "bbox": [
+      124,
+      845,
+      1056,
+      917
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để con ngựa về đích sau nhiều nhất ba lần gieo bằng $\\frac{19}{54}$."
+  },
+  {
+    "bbox": [
+      94,
+      958,
+      708,
+      1189
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Cho hình chóp $SABCD$ có đáy $ABCD$ là hình chữ nhật và cạnh $SA$ vuông góc với mặt phẳng đáy. Biết $AB = 1$, $AD = 2$, và $SA = 3$. Xét hệ trục toạ độ $Oxyz$ với $O$ trùng với $A$, các tia $Ox$, $Oy$, $Oz$ lần lượt trùng với các tia $AB$, $AD$, $AS$ (như hình vẽ)"
+  },
+  {
+    "bbox": [
+      747,
+      975,
+      1191,
+      1352
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      1354,
+      522,
+      1393
+    ],
+    "category": "List-item",
+    "text": "a) Toạ độ điểm $C$ là $(1; 2; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      1393,
+      477,
+      1445
+    ],
+    "category": "List-item",
+    "text": "b) $[\\vec{SC}, \\vec{BD}] = (6; -3; 4)$."
+  },
+  {
+    "bbox": [
+      124,
+      1445,
+      1194,
+      1521
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $(P)$ là mặt phẳng chứa đường thẳng $SC$ và song song với đường thẳng $BD$. Phương trình mặt phẳng $(P)$ là $6x + 3y + 4z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      1521,
+      1028,
+      1592
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách giữa đường thẳng $BD$ và mặt phẳng $(P)$ bằng $\\frac{6}{61}$."
+  },
+  {
+    "bbox": [
+      110,
+      1616,
+      893,
+      1668
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1684,
+      1198,
+      2038
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Trạm kiểm soát không lưu đang theo dõi hai máy bay. Giả sử trong không gian với hệ trục toạ độ $Oxyz$, đơn vị đo lấy theo kilomet, tại cùng một thời điểm theo dõi ban đầu: máy bay thứ nhất ở tọa độ $A(0; 35; 10)$, bay theo hướng $\\vec{v_1} = (3; 4; 0)$ với tốc độ không đổi 900 (km/h) và máy bay thứ hai ở tọa độ $B(31; 10; 11)$, bay theo hướng $\\vec{v_2} = (5; 12; 0)$ với tốc độ không đổi 910 (km/h). Biết rằng khoảng cách an toàn tối thiểu giữa hai máy bay là 5海里 lý (khoảng 9,3 km). Nếu hai máy bay tiếp tục duy trì hướng và tốc độ bay như trên thì sau ít nhất bao nhiêu phút (kể từ thời điểm theo dõi ban đầu), hai máy bay vi phạm khoảng cách an toàn (kết quả làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      900,
+      1990,
+      1196,
+      2050
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2077,
+      1198,
+      2202
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hình chóp tam giác $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, cạnh bên $SA$ vuông góc với mặt phẳng đáy. Biết $AB = 1$, $BC = \\sqrt{2}$ và $[S, BC, A] = 45^\\circ$. Góc giữa đường thẳng $SC$ và mặt phẳng $(ABC)$ bằng bao nhiêu độ?"
+  },
+  {
+    "bbox": [
+      987,
+      2156,
+      1286,
+      2216
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2261,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 453"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      151,
+      74,
+      1566,
+      277
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một bể chứa dầu ban đầu có 40000 lít dầu. Gọi $V(t)$ là thể tích dầu (lít) trong bể tại thời điểm $t$, trong đó $t$ tính theo giờ $(0 \\le t \\le 24)$. Trong quá trình bơm dầu vào bể, thể tích dầu tăng theo tốc độ được biểu diễn bởi hàm số $V'(t) = k.\\sqrt{t}$, với $k$ là hằng số dương. Sau 4 giờ bơm liên tục, thể tích dầu trong bể đạt 48000 lít."
+  },
+  {
+    "bbox": [
+      192,
+      277,
+      1008,
+      331
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $V(t)$ là một nguyên hàm của hàm số $f(t) = k.\\sqrt{t}$."
+  },
+  {
+    "bbox": [
+      192,
+      339,
+      986,
+      420
+    ],
+    "category": "Text",
+    "text": "b) $V(t) = \\frac{2k}{3} \\cdot t\\sqrt{t} + C$ với $0 \\le t \\le 24$ và $k, C$ là các hằng số."
+  },
+  {
+    "bbox": [
+      192,
+      420,
+      1102,
+      466
+    ],
+    "category": "Text",
+    "text": "c) Sau 9 giờ bơm liên tục, thể tích dầu trong bể đạt được 67000 lít."
+  },
+  {
+    "bbox": [
+      151,
+      464,
+      1544,
+      552
+    ],
+    "category": "Text",
+    "text": "d) Trong quá trình bơm dầu, nếu sau mỗi giờ lượng dầu bị rò rỉ đều đặn với tốc độ 300 lít/giờ, thì tại thời điểm $t$ bằng 9 giờ, thể tích dầu trong bể là 63400 lít."
+  },
+  {
+    "bbox": [
+      151,
+      587,
+      1200,
+      633
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      151,
+      633,
+      1575,
+      762
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh 2, $SA = \\sqrt{7}$ và $SA$ vuông góc với mặt đáy. $M$ là trung điểm $SD$. Tính khoảng cách giữa $SB$ và $CM$. (Không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      151,
+      758,
+      1554,
+      917
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một bài thi trắc nghiệm có 12 câu hỏi, mỗi câu có 4 phương án lựa chọn trong đó có 1 đáp án đúng. Giả sử mỗi câu trả lời đúng được 5 điểm và mỗi câu trả lời sai bị trừ 2 điểm. Một học sinh không học bài nên đánh hú họa một câu trả lời. Tính xác suất để điểm của học sinh này không lớn hơn 4 (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      151,
+      915,
+      1575,
+      1102
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Мặt bên $SAB$ là tam giác đều cạnh $\\sqrt{3}$, $ABC$ là tam giác vuông tại $A$ có cạnh $AC=1$, góc giữa $AD$ và $(SAB)$ bằng $30^\\circ$. Tính thể tích khối chóp $S.ABCD$ (Không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      151,
+      1102,
+      1571,
+      1385
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng $(x \\in \\mathbb{N}^*; 1 \\le x \\le 3000)$ thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0,02x^2 + 300x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{2000}{x} + 200$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết. Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 50 triệu đồng?"
+  },
+  {
+    "bbox": [
+      151,
+      1381,
+      1571,
+      1548
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một nhóm học sinh gồm 5 học sinh nam trong đó có Hoàng và 5 học sinh nữ trong đó có Lan được xếp thành một hàng dọc. Gọi $m$ là số cách xếp thỏa mãn các học sinh nam nữ đứng xen kẽ nhau sao cho Hoàng và Lan không đứng liên tiếp nhau. Giá trị $\\frac{m}{32}$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      151,
+      1546,
+      1566,
+      1785
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một phân xưởng có hai máy chuyên dụng I và II để sản xuất hai loại sản phẩm A, B theo đơn đặt hàng. Nếu sản xuất một tấn sản phẩm A thì phân xưởng phải dùng máy I trong 3 giờ, máy II trong 1 giờ và thu được lãi 2 triệu đồng. Nếu sản xuất một tấn sản phẩm loại B thì phân xưởng phải dùng máy I trong 1 giờ, máy II trong 1 giờ và thu được lãi 1,6 triệu đồng. Một máy không thể dùng để sản xuất đồng thời hai loại sản phẩm. máy I làm việc không quá 6 giờ một ngày, máy II làm việc không quá 4 giờ một ngày. Hỏi số tiền lãi lớn nhất mà phân xưởng đó có thể thu được trong một ngày là bao nhiêu triệu đồng ?"
+  },
+  {
+    "bbox": [
+      750,
+      1819,
+      972,
+      1859
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      151,
+      2232,
+      314,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1438,
+      2236,
+      1571,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/3"
+  }
+]

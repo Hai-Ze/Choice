@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      98,
+      102,
+      888,
+      200
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có $\\begin{cases} SH \\perp AB \\\\ SB \\perp AB \\end{cases} \\Rightarrow AB \\perp (SHB) \\Rightarrow AB \\perp HB \\ (1).$"
+  },
+  {
+    "bbox": [
+      98,
+      208,
+      432,
+      254
+    ],
+    "category": "Text",
+    "text": "Tương tự $AC \\perp HC \\ (2)$"
+  },
+  {
+    "bbox": [
+      98,
+      261,
+      704,
+      300
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2) suy ra $ABHC$ là hình chữ nhật."
+  },
+  {
+    "bbox": [
+      98,
+      300,
+      1530,
+      381
+    ],
+    "category": "Text",
+    "text": "Như vậy ta có hình chóp quen thuộc $S.ABHC$ có đáy $ABHC$ là hình chữ nhật và cạnh bên $SH$ vuông góc với đáy."
+  },
+  {
+    "bbox": [
+      98,
+      378,
+      1304,
+      479
+    ],
+    "category": "Text",
+    "text": "Gọi $F$ là hình chiếu của $H$ trên $SB$. Đặt $SH = x$, suy ra $HF = \\frac{HB \\cdot SH}{\\sqrt{HB^2 + SH^2}} = \\frac{\\sqrt{2}x}{\\sqrt{x^2 + 2}}$."
+  },
+  {
+    "bbox": [
+      98,
+      481,
+      527,
+      534
+    ],
+    "category": "Text",
+    "text": "Lại có $BC = \\sqrt{AB^2 + AC^2} = \\sqrt{3}$"
+  },
+  {
+    "bbox": [
+      98,
+      538,
+      667,
+      588
+    ],
+    "category": "Text",
+    "text": "Do góc giữa $BC$ và $(SAB)$ bằng $45^\\circ$ nên"
+  },
+  {
+    "bbox": [
+      112,
+      593,
+      1394,
+      693
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{\\sqrt{2}}{2} = \\sin 45^\\circ = \\frac{d(C,(SAB))}{BC} = \\frac{d(H,(SAB))}{BC} = \\frac{HF}{BC} = \\frac{\\sqrt{2}x}{\\sqrt{3}\\sqrt{x^2+2}} \\Leftrightarrow 2x = \\sqrt{3(x^2+2)} \\Leftrightarrow x = \\sqrt{6}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      693,
+      1552,
+      787
+    ],
+    "category": "Text",
+    "text": "Qua $A$ kẻ đường thẳng $\\Delta$ song song với $BC$. Gọi $E$ là hình chiếu của $H$ trên $\\Delta$. Gọi $K$ là hình chiếu của $H$ trên $SE$. Suy ra $HK \\perp (SAE)$."
+  },
+  {
+    "bbox": [
+      98,
+      793,
+      1249,
+      905
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $HE$ cắt $BC$ tại $I$. Khi đó ta có $HI = \\frac{HB \\cdot HC}{\\sqrt{HB^2 + HC^2}} = \\frac{1 \\cdot \\sqrt{2}}{\\sqrt{1^2 + \\sqrt{2}^2}} = \\frac{\\sqrt{6}}{3}$."
+  },
+  {
+    "bbox": [
+      98,
+      905,
+      1136,
+      952
+    ],
+    "category": "Text",
+    "text": "Ta có $HA \\cap BC = O \\Rightarrow O$ là trung điểm của $HA \\Rightarrow I$ là trung điểm của $HE$."
+  },
+  {
+    "bbox": [
+      98,
+      952,
+      1191,
+      1131
+    ],
+    "category": "Text",
+    "text": "Suy ra $HE = 2HI = \\frac{2\\sqrt{6}}{3}$. Từ đó suy ra $HK = \\frac{SH \\cdot HE}{\\sqrt{SH^2 + HE^2}} = \\frac{\\sqrt{6} \\cdot \\frac{2\\sqrt{6}}{3}}{\\sqrt{6 + \\frac{24}{9}}} = \\frac{2\\sqrt{78}}{13}$."
+  },
+  {
+    "bbox": [
+      98,
+      1137,
+      490,
+      1185
+    ],
+    "category": "Text",
+    "text": "Vì $BC // AE \\Rightarrow BC // (SAE)$"
+  },
+  {
+    "bbox": [
+      102,
+      1191,
+      1304,
+      1284
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(BC, SA) = d(BC, (SAE)) = d(O, (SAE)) = \\frac{1}{2} d(H, (SAE)) = \\frac{1}{2} HK = \\frac{\\sqrt{78}}{13} \\approx 0,68 \\text{ cm}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1297,
+      1552,
+      1524
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Giả sử doanh số (tính bằng số sản phẩm) của một sản phẩm mới (trong vòng một số năm nhất định) tuân theo quy luật logistic được mô hình hóa bằng hàm số $f(t) = \\frac{3000}{1+3e^{-t}}, t \\ge 0$, trong đó thời gian $t$ được tính bằng năm, kể từ khi phát hành sản phẩm mới. Khi đó, đạo hàm $f'(t)$ sẽ biểu thị tốc độ bán hàng. Hỏi sau khi phát hành bao nhiêu năm thì tốc độ bán hàng là lớn nhất? (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      817,
+      1540,
+      929,
+      1578
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1598,
+      1453,
+      1704
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(t) = \\frac{3000}{1+3e^{-t}} = \\frac{3000e^t}{e^t + 3} \\Rightarrow f'(t) = \\frac{9000e^t}{(e^t + 3)^2}$. Tốc độ bán hàng lớn nhất tức là $f'(t)$ lớn nhất."
+  },
+  {
+    "bbox": [
+      98,
+      1734,
+      663,
+      1839
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $h(t) = f'(t) = \\frac{9000e^t}{(e^t + 3)^2}, t \\ge 0$"
+  },
+  {
+    "bbox": [
+      98,
+      1869,
+      1146,
+      1997
+    ],
+    "category": "Text",
+    "text": "Ta có: $h'(t) = \\frac{(9000e^t)' \\cdot (e^t + 3)^2 - 2(e^t + 3) \\cdot (e^t + 3)' \\cdot 9000e^t}{(e^t + 3)^4} = \\frac{9000e^t \\cdot (3 - e^t)}{(e^t + 3)^3}$"
+  },
+  {
+    "bbox": [
+      102,
+      2021,
+      653,
+      2069
+    ],
+    "category": "Formula",
+    "text": "$$\nh'(t) = 0 \\Leftrightarrow 3 - e^t = 0 \\Leftrightarrow e^t = 3 \\Leftrightarrow t = \\ln 3\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      2091,
+      1447,
+      2142
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên của hàm số $h(t)$, với $t \\ge 0$ suy ra tốc độ bán hàng $h(t)$ lớn nhất khi $t = \\ln 3 \\approx 1,1$"
+  },
+  {
+    "bbox": [
+      98,
+      2160,
+      1209,
+      2207
+    ],
+    "category": "Text",
+    "text": "Vậy sau khi phát hành khoảng $t = \\ln 3 \\approx 1,1$ năm thì tốc độ bán hàng là lớn nhất."
+  }
+]

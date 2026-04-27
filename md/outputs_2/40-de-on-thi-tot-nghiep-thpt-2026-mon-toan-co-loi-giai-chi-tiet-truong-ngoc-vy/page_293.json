@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      160,
+      97,
+      1335,
+      203
+    ],
+    "category": "Formula",
+    "text": "$$\nMN = \\sqrt{(0-a)^2 + [a-(5-a)]^2 + (a-0)^2} = \\sqrt{6a^2 - 20a + 25} = \\sqrt{6\\left(a-\\frac{5}{3}\\right)^2 + \\frac{25}{3}} \\geq \\frac{5\\sqrt{3}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      230,
+      648,
+      311
+    ],
+    "category": "Text",
+    "text": "Dấu “=” xảy ra khi và chỉ khi $a = \\frac{5}{3}$."
+  },
+  {
+    "bbox": [
+      156,
+      327,
+      1573,
+      484
+    ],
+    "category": "Text",
+    "text": "Vậy, độ dài ngắn nhất của đoạn thẳng $MN$ cũng chính là độ dài ngắn nhất của dàn味 $\\frac{5\\sqrt{3}}{3} \\approx 2,89$ (m)."
+  },
+  {
+    "bbox": [
+      156,
+      502,
+      1573,
+      781
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Mộtchiếchộp có 50 viên bi, trong đó có 30 viên bi màu xanh và 20 viên bi màu đỏ, các viên bi có kích thước và khối lượng giống nhau. Sau khi kiểm tra, người ta thấy có 70% số viên bi màu xanh được đánh số và 60% số viên bi màu đỏ được đánh số, những viên bi còn lại không đánh số. Lấy ngẫu nhiên một viên bi từ hộphó. Biết rằng, viên bi lấy ra được đánh số, xác suất để viên bi đó có màu xanh bằng bao nhiêu (kết quả làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      156,
+      798,
+      493,
+      835
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      856,
+      924,
+      896
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      915,
+      348,
+      954
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,64"
+  },
+  {
+    "bbox": [
+      156,
+      973,
+      789,
+      1018
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Viên bi lấy ra có màu xanh”"
+  },
+  {
+    "bbox": [
+      162,
+      1030,
+      746,
+      1075
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố “Viên bi lấy ra được đánh số”."
+  },
+  {
+    "bbox": [
+      156,
+      1096,
+      1209,
+      1178
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có $P(A) = \\frac{30}{50} = \\frac{3}{5}$, $P(\\bar{A}) = \\frac{2}{5}$, $P(B|A) = 0,7$, $P(B|\\bar{A}) = 0,6$."
+  },
+  {
+    "bbox": [
+      162,
+      1204,
+      1137,
+      1365
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A})} = \\frac{\\frac{3}{5} \\cdot 0,7}{\\frac{3}{5} \\cdot 0,7 + \\frac{2}{5} \\cdot 0,6} = \\frac{7}{11} \\approx 0,64.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

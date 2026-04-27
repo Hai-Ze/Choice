@@ -1,0 +1,432 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      106,
+      1573,
+      200
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Xét mẫu số liệu ghép nhóm cho bởi Bảng 1. Số trung bình cộng của mẫu số liệu ghép nhóm đó bằng:"
+  },
+  {
+    "bbox": [
+      498,
+      206,
+      1137,
+      487
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Giá trị đại diện</td><td>Tần số</td></tr></thead><tbody><tr><td>[a<sub>1</sub>; a<sub>2</sub>)</td><td>x<sub>1</sub></td><td>n<sub>1</sub></td></tr><tr><td>[a<sub>2</sub>; a<sub>3</sub>)</td><td>x<sub>2</sub></td><td>n<sub>2</sub></td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>[a<sub>m</sub>; a<sub>m+1</sub>)</td><td>x<sub>m</sub></td><td>n<sub>m</sub></td></tr><tr><td></td><td></td><td>n</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      775,
+      495,
+      872,
+      536
+    ],
+    "category": "Caption",
+    "text": "Bảng 1"
+  },
+  {
+    "bbox": [
+      212,
+      538,
+      648,
+      633
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{m}}.\n$$"
+  },
+  {
+    "bbox": [
+      862,
+      538,
+      1293,
+      633
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\bar{x} = \\sqrt{\\frac{n_1x_1^2 + n_2x_2^2 + \\dots + n_mx_m^2}{n}}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      644,
+      611,
+      719
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{m}.\n$$"
+  },
+  {
+    "bbox": [
+      862,
+      644,
+      1266,
+      719
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\bar{x} = \\frac{n_1x_1 + n_2x_2 + \\dots + n_mx_m}{n}.\n$$"
+  },
+  {
+    "bbox": [
+      765,
+      727,
+      884,
+      768
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      773,
+      333,
+      812
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      212,
+      818,
+      701,
+      859
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa, chọn đáp án D."
+  },
+  {
+    "bbox": [
+      74,
+      862,
+      1573,
+      962
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Cho các biến cố A và B thỏa mãn $P(A)>0, P(B)>0$. Khi đó, $P(A|B)$ bằng biểu thức nào dưới đây?"
+  },
+  {
+    "bbox": [
+      212,
+      964,
+      483,
+      1058
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\frac{P(A) \\cdot P(B|A)}{P(B)}.\n$$"
+  },
+  {
+    "bbox": [
+      550,
+      964,
+      818,
+      1058
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\frac{P(B) \\cdot P(B|A)}{P(A)}.\n$$"
+  },
+  {
+    "bbox": [
+      862,
+      964,
+      1131,
+      1058
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\frac{P(B)}{P(A) \\cdot P(B|A)}.\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      964,
+      1446,
+      1058
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\frac{P(A)}{P(B) \\cdot P(B|A)}.\n$$"
+  },
+  {
+    "bbox": [
+      765,
+      1069,
+      884,
+      1110
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1115,
+      333,
+      1154
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      212,
+      1160,
+      701,
+      1201
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa, chọn đáp án A."
+  },
+  {
+    "bbox": [
+      74,
+      1248,
+      1573,
+      1389
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** độ cao các bậc cầu thang so với mặt sàn tầng 1 của một căn nhà theo thứ tự lập thành một cấp số cộng với công sai $d=16cm$, bậc thứ nhất có độ cao $u_1=16cm$. Bạc thứ năm có độ cao so với mặt sàn tầng 1 bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1393,
+      349,
+      1429
+    ],
+    "category": "List-item",
+    "text": "A. 21cm."
+  },
+  {
+    "bbox": [
+      550,
+      1393,
+      685,
+      1429
+    ],
+    "category": "List-item",
+    "text": "B. 80cm."
+  },
+  {
+    "bbox": [
+      862,
+      1393,
+      997,
+      1429
+    ],
+    "category": "List-item",
+    "text": "C. 96cm."
+  },
+  {
+    "bbox": [
+      1174,
+      1393,
+      1311,
+      1429
+    ],
+    "category": "List-item",
+    "text": "D. 64cm."
+  },
+  {
+    "bbox": [
+      765,
+      1441,
+      884,
+      1482
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1487,
+      328,
+      1526
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      212,
+      1528,
+      1378,
+      1573
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức tìm số hạng tổng quát của dãy số cấp số cộng, ta tính được:"
+  },
+  {
+    "bbox": [
+      666,
+      1577,
+      1118,
+      1623
+    ],
+    "category": "Formula",
+    "text": "$$\nu_5 = u_1 + 4d = 16 + 4 \\cdot 16 = 80 (cm)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1631,
+      1116,
+      1676
+    ],
+    "category": "Text",
+    "text": "Vậy bậc thứ năm có độ cao so với mặt sàn tầng 1 bằng 80cm."
+  },
+  {
+    "bbox": [
+      74,
+      1682,
+      1573,
+      1775
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Một đồ chơi có dạng khối chóp cụt tức giác đều với độ dài hai cạnh đáy lần lượt là 2cm và 12cm, chiều cao là 18cm. thể tích của đồ chơi đó bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1781,
+      399,
+      1821
+    ],
+    "category": "List-item",
+    "text": "A. 9288cm³."
+  },
+  {
+    "bbox": [
+      550,
+      1781,
+      727,
+      1821
+    ],
+    "category": "List-item",
+    "text": "B. 1048cm³."
+  },
+  {
+    "bbox": [
+      862,
+      1781,
+      1042,
+      1821
+    ],
+    "category": "List-item",
+    "text": "C. 3096cm³."
+  },
+  {
+    "bbox": [
+      1174,
+      1781,
+      1357,
+      1821
+    ],
+    "category": "List-item",
+    "text": "D. 1032cm³."
+  },
+  {
+    "bbox": [
+      765,
+      1833,
+      884,
+      1874
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1878,
+      333,
+      1917
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      212,
+      1921,
+      1573,
+      2014
+    ],
+    "category": "Text",
+    "text": "Khối chóp cụt tức giác đều với độ dài hai cạnh đáy lần lượt là 2cm và 12cm nên diện tích hai mặt đáy lần lượt là: 4cm² và 144cm²."
+  },
+  {
+    "bbox": [
+      212,
+      2018,
+      705,
+      2063
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của đồ chơi đó bằng:"
+  },
+  {
+    "bbox": [
+      624,
+      2067,
+      1160,
+      2145
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\frac{18}{3} \\cdot (4 + \\sqrt{4 \\cdot 144} + 144) = 1032 (cm^3)\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2145,
+      1573,
+      2240
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1546,
+      181
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho bảng phân bố tần số ghép lớp về độ dài của 60 lá dương xỉ trưởng thành như sau:"
+  },
+  {
+    "bbox": [
+      456,
+      187,
+      1233,
+      302
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Độ dài (cm)</td><td>[10; 20)</td><td>[20; 30)</td><td>[30; 40)</td><td>[40; 50)</td></tr><tr><td>Tần số</td><td>7</td><td>19</td><td>24</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      312,
+      1429,
+      355
+    ],
+    "category": "Text",
+    "text": "Tính khoảng tức phân vị (làm tròn đến chữ số thập phân thứ nhất) của mẫu số liệu trên?"
+  },
+  {
+    "bbox": [
+      191,
+      372,
+      321,
+      415
+    ],
+    "category": "List-item",
+    "text": "A) 13, 7."
+  },
+  {
+    "bbox": [
+      535,
+      372,
+      664,
+      415
+    ],
+    "category": "List-item",
+    "text": "B) 13, 6."
+  },
+  {
+    "bbox": [
+      879,
+      372,
+      1009,
+      415
+    ],
+    "category": "List-item",
+    "text": "C) 13, 8."
+  },
+  {
+    "bbox": [
+      1224,
+      372,
+      1351,
+      415
+    ],
+    "category": "List-item",
+    "text": "D) 13, 5."
+  },
+  {
+    "bbox": [
+      153,
+      432,
+      198,
+      471
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      430,
+      762,
+      493
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tổng số mẫu $n = 60$."
+  },
+  {
+    "bbox": [
+      201,
+      508,
+      1301,
+      551
+    ],
+    "category": "Text",
+    "text": "- Tứ phân vị thứ nhất $Q_1$ tương ứng vị trí thứ 15. Nhóm chứa $Q_1$ là [20; 30)."
+  },
+  {
+    "bbox": [
+      201,
+      567,
+      608,
+      618
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 20 + \\frac{15-7}{19} \\cdot 10 \\approx 24,21.\n$$"
+  },
+  {
+    "bbox": [
+      201,
+      632,
+      1270,
+      673
+    ],
+    "category": "Text",
+    "text": "- Tứ phân vị thứ ba $Q_3$ tương ứng vị trí thứ 45. Nhóm chứa $Q_3$ là [30; 40)."
+  },
+  {
+    "bbox": [
+      201,
+      688,
+      622,
+      739
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 30 + \\frac{45-26}{24} \\cdot 10 \\approx 37,92.\n$$"
+  },
+  {
+    "bbox": [
+      201,
+      753,
+      1184,
+      794
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khoảng tức phân vị } \\Delta Q = Q_3 - Q_1 = 37,92 - 24,21 = 13,71 \\approx 13,7.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      814,
+      1546,
+      899
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho cấp số nhân $(u_n)$ thỏa mãn $u_1 = 2$ và $u_4 = 54$. Tổng của 10 số hạng đầu tiên của cấp số nhân là"
+  },
+  {
+    "bbox": [
+      191,
+      918,
+      338,
+      961
+    ],
+    "category": "List-item",
+    "text": "A) 59048."
+  },
+  {
+    "bbox": [
+      535,
+      918,
+      698,
+      961
+    ],
+    "category": "List-item",
+    "text": "B) 111007."
+  },
+  {
+    "bbox": [
+      879,
+      918,
+      1028,
+      961
+    ],
+    "category": "List-item",
+    "text": "C) 19682."
+  },
+  {
+    "bbox": [
+      1224,
+      918,
+      1383,
+      961
+    ],
+    "category": "List-item",
+    "text": "D) 177146."
+  },
+  {
+    "bbox": [
+      153,
+      979,
+      198,
+      1018
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      975,
+      1045,
+      1038
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_4 = u_1 \\cdot q^3 \\Rightarrow 54 = 2 \\cdot q^3 \\Rightarrow q = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      1036,
+      1298,
+      1091
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng 10 số hạng đầu: } S_{10} = u_1 \\cdot \\frac{q^{10}-1}{q-1} = 2 \\cdot \\frac{3^{10}-1}{3-1} = 3^{10} - 1 = 59049 - 1 = 59048.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1106,
+      1205,
+      1147
+    ],
+    "category": "Text",
+    "text": "Câu 10. They all the same number of units of the same type of item is $y = 2 \\sin x - 3 \\cos x$ is"
+  },
+  {
+    "bbox": [
+      191,
+      1166,
+      535,
+      1207
+    ],
+    "category": "List-item",
+    "text": "A) $2 \\cos x - 3 \\sin x + C$."
+  },
+  {
+    "bbox": [
+      877,
+      1166,
+      1246,
+      1207
+    ],
+    "category": "List-item",
+    "text": "B) $-2 \\cos x - 3 \\sin x + C$."
+  },
+  {
+    "bbox": [
+      191,
+      1211,
+      535,
+      1252
+    ],
+    "category": "List-item",
+    "text": "C) $2 \\cos x + 3 \\sin x + C$."
+  },
+  {
+    "bbox": [
+      877,
+      1211,
+      1246,
+      1252
+    ],
+    "category": "List-item",
+    "text": "D) $-2 \\cos x + 3 \\sin x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1254,
+      198,
+      1293
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1252,
+      1212,
+      1315
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\int (2 \\sin x - 3 \\cos x)dx = -2 \\cos x - 3 \\sin x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1329,
+      1546,
+      1422
+    ],
+    "category": "Text",
+    "text": "Câu 11. Trong không gian $Oxyz$, vecto nào sau đây là một vecto pháp tuyến của mặt phẳng ($P$) : $\\frac{x}{-2} + \\frac{y}{-1} + \\frac{z}{3} = 1$?"
+  },
+  {
+    "bbox": [
+      191,
+      1434,
+      467,
+      1475
+    ],
+    "category": "List-item",
+    "text": "A) $\\vec{n}_1 = (3; 6; -2)$."
+  },
+  {
+    "bbox": [
+      877,
+      1434,
+      1202,
+      1475
+    ],
+    "category": "List-item",
+    "text": "B) $\\vec{n}_2 = (-3; -6; -2)$."
+  },
+  {
+    "bbox": [
+      191,
+      1479,
+      467,
+      1520
+    ],
+    "category": "List-item",
+    "text": "C) $\\vec{n}_3 = (2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      877,
+      1479,
+      1179,
+      1520
+    ],
+    "category": "List-item",
+    "text": "D) $\\vec{n}_4 = (-2; -1; 3)$."
+  },
+  {
+    "bbox": [
+      153,
+      1522,
+      198,
+      1561
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1520,
+      1236,
+      1581
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Мặt phẳng ($P$) có vecto pháp tuyến $\\vec{n} = (-\\frac{1}{2}; -1; \\frac{1}{3})$."
+  },
+  {
+    "bbox": [
+      201,
+      1581,
+      889,
+      1622
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vecto also have the same direction as } \\vec{n} \\text{ is } -6 \\cdot \\vec{n} = (3; 6; -2).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1641,
+      1115,
+      1694
+    ],
+    "category": "Text",
+    "text": "Câu 12. Set of all possible values of the expression $\\log_{\\frac{1}{2}}(x - 3) > -2$ is"
+  },
+  {
+    "bbox": [
+      191,
+      1704,
+      389,
+      1755
+    ],
+    "category": "List-item",
+    "text": "A) $(\\frac{13}{4}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      535,
+      1704,
+      672,
+      1755
+    ],
+    "category": "List-item",
+    "text": "B) (3; 7)."
+  },
+  {
+    "bbox": [
+      877,
+      1704,
+      1036,
+      1755
+    ],
+    "category": "List-item",
+    "text": "C) $(3; \\frac{13}{4})$."
+  },
+  {
+    "bbox": [
+      1224,
+      1704,
+      1402,
+      1755
+    ],
+    "category": "List-item",
+    "text": "D) (7; $+\\infty$)."
+  },
+  {
+    "bbox": [
+      153,
+      1769,
+      198,
+      1808
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1767,
+      894,
+      1830
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Condition: $x - 3 > 0 \\Leftrightarrow x > 3$."
+  },
+  {
+    "bbox": [
+      201,
+      1842,
+      899,
+      1901
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{\\frac{1}{2}}(x - 3) > -2 \\Leftrightarrow x - 3 < \\left(\\frac{1}{2}\\right)^{-2} = 4 \\Leftrightarrow x < 7.\n$$"
+  },
+  {
+    "bbox": [
+      201,
+      1913,
+      767,
+      1954
+    ],
+    "category": "Text",
+    "text": "Conclusion of the condition, set of values is (3; 7)."
+  },
+  {
+    "bbox": [
+      153,
+      1973,
+      1546,
+      2060
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Each of a) b) c) d) think of the correct one"
+  },
+  {
+    "bbox": [
+      153,
+      2080,
+      1546,
+      2212
+    ],
+    "category": "Text",
+    "text": "Bài 1. One person is going to the airport. The speed of the plane is 90 km/h. After 20 minutes, the plane is at the first point. The speed of the plane is $v(t) = at + b$ (m/s), where $t$ is the time in seconds, and $v(t) > 0$"
+  },
+  {
+    "bbox": [
+      153,
+      2253,
+      829,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1598,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "53"
+  }
+]

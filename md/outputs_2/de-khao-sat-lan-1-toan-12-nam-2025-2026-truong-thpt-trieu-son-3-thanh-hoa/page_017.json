@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      474,
+      157
+    ],
+    "category": "Text",
+    "text": "với $0 < x \\le 720$."
+  },
+  {
+    "bbox": [
+      251,
+      162,
+      966,
+      248
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f'(x) = -\\frac{77760}{x^2} + 720 \\cdot \\frac{1}{2\\sqrt{x}} = -\\frac{77760}{x^2} + \\frac{360}{\\sqrt{x}}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      255,
+      1232,
+      342
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giải } f'(x) = 0: -\\frac{77760}{x^2} + \\frac{360}{\\sqrt{x}} = 0 \\Rightarrow \\frac{360}{\\sqrt{x}} = \\frac{77760}{x^2} \\Rightarrow 360x^2 = 77760\\sqrt{x}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      347,
+      1041,
+      399
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Chia hai vế cho } 360\\sqrt{x}(> 0), x^{3/2} = 216 \\Rightarrow x = \\sqrt[3]{216^2} = 36\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      402,
+      1534,
+      488
+    ],
+    "category": "Text",
+    "text": "Khi $0 < x < 36$ thì $f'(x) < 0$, khi $36 < x < 720$ thì $f'(x) > 0$, nên $f(x)$ đạt giá trị nhỏ nhất tại $x = 36$."
+  },
+  {
+    "bbox": [
+      251,
+      493,
+      676,
+      574
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } n = \\frac{720}{36} - 1 = 20 - 1 = 19\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      574,
+      1120,
+      617
+    ],
+    "category": "Text",
+    "text": "Kết luận: cần xây thêm 19 trạm tăng áp để tổng chi phí nhỏ nhất."
+  },
+  {
+    "bbox": [
+      114,
+      614,
+      1534,
+      851
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho một nhóm 15 học sinh có chiều cao khác nhau gồm 5 học sinh nữ có chiều cao tăng dần ký hiệu lần lượt là $G_1, G_2, G_3, G_4, G_5$ và 10 học sinh nam. Hỏi có bao nhiêu cách xếp 15 học sinh đó thành một hàng ngang sao cho nếu tính từ trái sang phải thì các học sinh nữ có chiều cao tăng dần, các học sinh nam cũng có chiều cao tăng dần; giữa học sinh $G_1$ và $G_2$ có ít nhất 2 học sinh nam, giữa học sinh $G_4$ và $G_5$ có ít nhất 1 học sinh nam và nhiều nhất 4 học sinh nam?"
+  },
+  {
+    "bbox": [
+      845,
+      859,
+      939,
+      894
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      896,
+      427,
+      935
+    ],
+    "category": "Text",
+    "text": "Đáp án: 736"
+  },
+  {
+    "bbox": [
+      251,
+      935,
+      1501,
+      1146
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1$ là số học sinh nam được xếp bên trái $G_1$, $x_2$ là số học sinh nam được xếp giữa $G_1$ và $G_2$, $x_3$ là số học sinh nam được xếp giữa $G_2$ và $G_3$, $x_4$ là số học sinh nam được xếp giữa $G_3$ và $G_4$, $x_5$ là số học sinh nam được xếp giữa $G_4$ và $G_5$, $x_6$ là số học sinh nam được xếp bên phải $G_5$."
+  },
+  {
+    "bbox": [
+      251,
+      1155,
+      1415,
+      1203
+    ],
+    "category": "Text",
+    "text": "Khi đó bộ số $(x_1; x_2; x_3; x_4; x_5; x_6)$ hoàn toàn xác định vị trí của các học sinh nữ và ta có"
+  },
+  {
+    "bbox": [
+      251,
+      1208,
+      702,
+      1307
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x_1 + x_2 + x_3 + x_4 + x_5 + x_6 = 10 \\\\ x_1, x_3, x_4, x_6 \\ge 0; x_2 \\ge 2; 1 \\le x_5 \\le 4 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1318,
+      1036,
+      1362
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đặt } y_1 = x_1 + 1, y_2 = x_2 - 1; y_3 = x_3 + 1, y_4 = x_4 + 1, y_6 = x_6 + 1.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1370,
+      1425,
+      1472
+    ],
+    "category": "Text",
+    "text": "Khi đó số cách xếp thỏa mãn yêu cầu là số nghiệm nguyên dương $(y_1, y_2, y_3, y_4, y_6)$ của phương trình $y_1 + y_2 + y_3 + y_4 + y_6 = 13 - x_5$, với $1 \\le x_5 \\le 4$."
+  },
+  {
+    "bbox": [
+      251,
+      1479,
+      1375,
+      1526
+    ],
+    "category": "Text",
+    "text": "+) Xét $x_5 = 1$, ta có $y_1 + y_2 + y_3 + y_4 + y_6 = 12$. Ta xét dãy gồm 12 chữ số 1 như sau:"
+  },
+  {
+    "bbox": [
+      662,
+      1535,
+      1126,
+      1572
+    ],
+    "category": "Formula",
+    "text": "$$\n1-1-1-1-1-1-1-1-1-1-1-1.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1570,
+      1501,
+      1663
+    ],
+    "category": "Text",
+    "text": "Giữa hai số 1 bất kỳ có một khoảng trống. Ta chỉ cần chọn 4 vị trí khoảng trống để ngăn cách sẽ tạo thành 5 đoạn ứng với bộ $(y_1, y_2, y_3, y_4, y_6)$. Vậy số nghiệm trong trường hợp này là $C_{11}^4$"
+  },
+  {
+    "bbox": [
+      251,
+      1668,
+      986,
+      1718
+    ],
+    "category": "Text",
+    "text": "+) Xét $x_5 = 2$, lập luận tương tự ta có số nghiệm là $C_{10}^4$"
+  },
+  {
+    "bbox": [
+      251,
+      1723,
+      975,
+      1772
+    ],
+    "category": "Text",
+    "text": "+) Xét $x_5 = 3$, lập luận tương tự ta có số nghiệm là $C_9^4$"
+  },
+  {
+    "bbox": [
+      251,
+      1779,
+      975,
+      1828
+    ],
+    "category": "Text",
+    "text": "+) Xét $x_5 = 4$, lập luận tương tự ta có số nghiệm là $C_8^4$"
+  },
+  {
+    "bbox": [
+      251,
+      1833,
+      898,
+      1882
+    ],
+    "category": "Text",
+    "text": "Suy ra số cách xếp là $C_{11}^4 + C_{10}^4 + C_9^4 + C_8^4 = 736$."
+  },
+  {
+    "bbox": [
+      797,
+      1898,
+      984,
+      1919
+    ],
+    "category": "Text",
+    "text": "-----------------"
+  }
+]

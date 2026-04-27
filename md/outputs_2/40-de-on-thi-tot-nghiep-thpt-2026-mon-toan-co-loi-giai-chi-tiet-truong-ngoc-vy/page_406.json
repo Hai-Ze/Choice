@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      98,
+      767,
+      207
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} MN \\not\\subset (ABCD) \\\\ MN // AC \\subset (ABCD) \\end{cases} \\Rightarrow MN // mp(ABCD)$."
+  },
+  {
+    "bbox": [
+      75,
+      228,
+      1403,
+      274
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình lập phương $ABCD.A'B'C'D'$ (tham khảo hình vẽ). Mệnh đề nào sau đây **đúng**?"
+  },
+  {
+    "bbox": [
+      548,
+      297,
+      1023,
+      777
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      125,
+      805,
+      485,
+      851
+    ],
+    "category": "List-item",
+    "text": "A. $(ADD'A') \\perp (ACC'A')$."
+  },
+  {
+    "bbox": [
+      825,
+      805,
+      1188,
+      851
+    ],
+    "category": "List-item",
+    "text": "B. $(ADD'A') \\perp (BCC'D')$."
+  },
+  {
+    "bbox": [
+      125,
+      877,
+      489,
+      923
+    ],
+    "category": "List-item",
+    "text": "C. $(ADD'A') \\perp (BDD'B')$."
+  },
+  {
+    "bbox": [
+      825,
+      877,
+      1166,
+      923
+    ],
+    "category": "List-item",
+    "text": "D. $(ADD'A') \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      727,
+      950,
+      843,
+      988
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1007,
+      198,
+      1045
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      75,
+      1064,
+      744,
+      1110
+    ],
+    "category": "Text",
+    "text": "Ta có $AA' \\perp (ABCD)$ nên $(ADD'A') \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      75,
+      1189,
+      1494,
+      1292
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      75,
+      1311,
+      608,
+      1365
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = e^x (x^2 - 3)$."
+  },
+  {
+    "bbox": [
+      75,
+      1392,
+      535,
+      1439
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = -3; f(\\ln 2) = 2\\ln^2 2 - 6$."
+  },
+  {
+    "bbox": [
+      75,
+      1466,
+      843,
+      1520
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = e^x (x^2 + 2x - 3)$"
+  },
+  {
+    "bbox": [
+      75,
+      1542,
+      800,
+      1587
+    ],
+    "category": "Formula",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ là $2$."
+  },
+  {
+    "bbox": [
+      75,
+      1614,
+      913,
+      1694
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị lớn nhất của hàm số đã cho trên đoạn $[-5; -2]$ là $\\frac{22}{e^5}$"
+  },
+  {
+    "bbox": [
+      727,
+      1718,
+      843,
+      1756
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1770,
+      894,
+      1894
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1953,
+      425,
+      2007
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = e^0 (0^2 - 3) = -3$."
+  },
+  {
+    "bbox": [
+      83,
+      2034,
+      561,
+      2088
+    ],
+    "category": "Formula",
+    "text": "$$\nf(\\ln 2) = e^{\\ln 2} (\\ln^2 2 - 3) = 2\\ln^2 2 - 6\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2113,
+      967,
+      2169
+    ],
+    "category": "Formula",
+    "text": "b) $f(x) = e^x (x^2 - 3) \\Rightarrow f'(x) = e^x (x^2 - 3) + e^x \\cdot 2x = e^x (x^2 + 2x - 3)$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

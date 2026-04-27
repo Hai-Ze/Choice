@@ -1,0 +1,140 @@
+[
+  {
+    "bbox": [
+      166,
+      54,
+      624,
+      85
+    ],
+    "category": "Page-header",
+    "text": "TH - THCS - THPT LÊ THÁNH TÔNG"
+  },
+  {
+    "bbox": [
+      1307,
+      57,
+      1534,
+      88
+    ],
+    "category": "Page-header",
+    "text": "Hoàng Trọng Nghĩa"
+  },
+  {
+    "bbox": [
+      160,
+      90,
+      1542,
+      369
+    ],
+    "category": "Text",
+    "text": "**Câu 3. [HTN]** Một công ty công nghệ cung cấp gói lưu trữ dữ liệu doanh nghiệp với giá niêm yết 200.000 đồng/tháng và đang có 400 khách hàng. Phòng kinh doanh xác định được quy luật: Cứ giảm giá 10.000 đồng thì sẽ có thêm 50 khách hàng mới. Tuy nhiên, do hiện tượng quá tải băng thông, chi phí vận hành $C(n)$ (nghìn đồng) không cố định mà biến thiên theo hàm bậc hai của số lượng khách hàng $n$, được xác định bởi công thức: $C(n) = 28n + 0,01n^2 + 15.000$. Công ty cần chốt giá bán bao nhiêu nghìn đồng để lợi nhuận đạt mức tối đa?"
+  },
+  {
+    "bbox": [
+      160,
+      412,
+      1542,
+      1193
+    ],
+    "category": "Text",
+    "text": "**Câu 4. [HTN]** Miền Trung Việt Nam vốn luôn phải oắn mình chống chơi với thiên tai. Giả sử trong một đợt áp thấp nhiệt đới mạnh lên thành bão, Trung tâm Dự báo Khí tượng Thủy văn Quốc gia phát đi thông báo khẩn về cơn bão số 4 có tên quốc tế là Sao La. Trên bản đồ quy hoạch phòng chống thiên tai được gắn hệ trục tọa độ $Oxy$ với đơn vị đo là 10km (hướng Đông là trục $Ox$, hướng Bắc là trục $Oy$), vị trí ba thành phố trọng điểm là Hà Tỉnh, Vinh (Nghệ An) và Thanh北Hóa được xác định lần lượt tại các điểm $T(0;0)$, $N(-2;3)$ và $H(-1;5)$. Tại thời điểm bản tin phát đi, tâm bão Sao La đang ở ngoài khơi Biển Đông, cách thành phố Hà Tỉnh 200km. Vị trí tâm bão nằm ở hướng Đông Nam so với Hà Tỉnh, tạo với phương Đông một góc $\\alpha$ sao cho $\\cos\\alpha = 0,8$. Cơn bão di chuyển phúc tap theo hướng Tây Bắc lệch $60^\\circ$ so với hướng Tây với vận tốc 20km/h. Sức tàn phá của bão rất lớn với vùng nguy hiểm là một hình tròn có bán kính ban đầu 20km và liên tục mở rộng thêm 10km mỗi giờ. Để lên phương án sơ tán dân cư đồng bộ, Ban chỉ đạo cần biết khoảng thời gian mà cả 3 thành phố này cùng nằm trong vùng nguy hiểm của bão Sao La kéo dài bao nhiêu giờ? (làm tròn kết quả đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      940,
+      420,
+      1542,
+      950
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1231,
+      1542,
+      1357
+    ],
+    "category": "Text",
+    "text": "**Câu 5. [HTN]** Bác Nghĩa đang giúp con trai sắp xếp 16 cuốn sách ôn thi vào một chiếc kệ 5 ngăn phân biệt. 16 cuốn sách này thuộc 8 môn học khác nhau: **Toán, Lý,北Hóa, Sinh, Sử, Địa, Văn, Anh**. Mỗi môn học gồm đúng 2 cuốn: một cuốn sách giáo khoa và một cuốn sách bài tập."
+  },
+  {
+    "bbox": [
+      668,
+      1357,
+      1128,
+      1624
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1652,
+      1401,
+      1695
+    ],
+    "category": "Text",
+    "text": "Để việc ôn tập đạt hiệu quả cao nhất theo từng khối thi, bác Nghĩa đặt ra các quy tắc khắt khe sau:"
+  },
+  {
+    "bbox": [
+      216,
+      1715,
+      1488,
+      1756
+    ],
+    "category": "List-item",
+    "text": "* Do ngăn kệ nhỏ, mỗi ngăn chỉ được chứa **tối đa 5 cuốn sách** và không được để ngăn nào trống."
+  },
+  {
+    "bbox": [
+      216,
+      1756,
+      1305,
+      1798
+    ],
+    "category": "List-item",
+    "text": "* Hai cuốn sách của cùng một môn học phải luôn nằm chung một ngăn với nhau."
+  },
+  {
+    "bbox": [
+      216,
+      1798,
+      1542,
+      1884
+    ],
+    "category": "List-item",
+    "text": "* Các môn học trong cùng một tổ hợp môn thi phải nằm ở **3 ngăn liên tiếp** để thuận tiện cho việc tra cứu. Các tổ hợp bao gồm: (Văn, Sử, Địa), (Toán, Lý,北Hóa), (Toán,北Hóa, Sinh) và (Toán, Lý, Anh)."
+  },
+  {
+    "bbox": [
+      216,
+      1884,
+      1542,
+      1967
+    ],
+    "category": "List-item",
+    "text": "* Các cuốn sách trong mỗi ngăn được xếp theo hàng ngang với gáy sách quay ra ngoài ở mỗi ngăn, thứ tự từ trái sang phải."
+  },
+  {
+    "bbox": [
+      160,
+      1998,
+      1510,
+      2078
+    ],
+    "category": "Text",
+    "text": "Tổng số cách sắp xếp 16 cuốn sách này vào 5 ngăn kệ thỏa mãn điều kiện trên là $T$. Tính giá trị của $\\frac{T}{512}$?"
+  },
+  {
+    "bbox": [
+      1244,
+      2114,
+      1513,
+      2150
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6 - Mã đề : 2000"
+  }
+]

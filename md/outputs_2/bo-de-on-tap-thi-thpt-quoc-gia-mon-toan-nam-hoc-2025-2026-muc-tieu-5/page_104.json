@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      153,
+      132,
+      550,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\nSA = AB \\tan 30^{\\circ} = 2a \\cdot \\frac{\\sqrt{3}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      180,
+      1262,
+      236
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích đáy } S = (2a)^2 = 4a^2. \\text{ Thể tích } V = \\frac{1}{3}S \\cdot SA = \\frac{1}{3} \\cdot 4a^2 \\cdot \\frac{2a\\sqrt{3}}{3} = \\frac{8\\sqrt{3}a^3}{9}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      246,
+      1548,
+      335
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** *Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai*"
+  },
+  {
+    "bbox": [
+      153,
+      356,
+      1548,
+      484
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một công ty khí tượng sử dụng hai mô hình dự báo thời tiết hoạt động độc lập với nhau là Mô hình 1 và Mô hình 2. Dựa trên dữ liệu quá khứ, độ chính xác của các mô hình được quy định như sau:"
+  },
+  {
+    "bbox": [
+      194,
+      504,
+      1548,
+      591
+    ],
+    "category": "List-item",
+    "text": "◇ Mô hình 1: Có xác suất dự báo đúng là 80%. Nghĩa là, nếu thực tế trời mua, xác suất mô hình báo có mua là 0,8; nếu thực tế không mua, xác suất mô hình báo không mua là 0,8."
+  },
+  {
+    "bbox": [
+      194,
+      607,
+      1548,
+      693
+    ],
+    "category": "List-item",
+    "text": "◇ Mô hình 2: Có xác suất dự báo đúng là 90%. Nghĩa là, nếu thực tế trời mua, xác suất mô hình dự báo có mua là 0,9; nếu thực tế không mua, xác suất mô hình báo không mua là 0,9."
+  },
+  {
+    "bbox": [
+      153,
+      712,
+      882,
+      755
+    ],
+    "category": "Text",
+    "text": "Biết rằng tỷ lệ ngày có mua ở khu vực này là 20%."
+  },
+  {
+    "bbox": [
+      190,
+      772,
+      952,
+      815
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để cả hai mô hình đều dự báo sai là 0,2."
+  },
+  {
+    "bbox": [
+      190,
+      828,
+      1548,
+      915
+    ],
+    "category": "List-item",
+    "text": "b) Trong trường hợp Mô hình 1 dự báo không mua và Mô hình 2 dự báo có mua, xác suất Mô hình 1 dự báo đúng thấp hơn xác suất Mô hình 2 dự báo đúng."
+  },
+  {
+    "bbox": [
+      190,
+      928,
+      1035,
+      971
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để cả hai mô hình đều dự báo có mua là 0,16."
+  },
+  {
+    "bbox": [
+      190,
+      984,
+      1479,
+      1026
+    ],
+    "category": "List-item",
+    "text": "d) Nếu cả hai mô hình đều dự báo trời có mua thì xác suất để thực tế trời có mua là 0,9."
+  },
+  {
+    "bbox": [
+      153,
+      1043,
+      198,
+      1080
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1043,
+      694,
+      1104
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi các biến cố:"
+  },
+  {
+    "bbox": [
+      194,
+      1118,
+      1548,
+      1205
+    ],
+    "category": "List-item",
+    "text": "◇ $R$: \"Thực tế trời có mua\", $\\overline{R}$: \"Thực tế trời không mua\". Theo đề bài $P(R) = 0,2$ và $P(\\overline{R}) = 0,8$."
+  },
+  {
+    "bbox": [
+      194,
+      1219,
+      1212,
+      1262
+    ],
+    "category": "List-item",
+    "text": "◇ $A$: \"Mô hình 1 dự báo có mua\", $\\overline{A}$: \"Mô hình 1 dự báo không mua\"."
+  },
+  {
+    "bbox": [
+      194,
+      1277,
+      1216,
+      1320
+    ],
+    "category": "List-item",
+    "text": "◇ $B$: \"Mô hình 2 dự báo có mua\", $\\overline{B}$: \"Mô hình 2 dự báo không mua\"."
+  },
+  {
+    "bbox": [
+      153,
+      1341,
+      847,
+      1382
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết về độ chính xác của các mô hình:"
+  },
+  {
+    "bbox": [
+      194,
+      1399,
+      1136,
+      1445
+    ],
+    "category": "List-item",
+    "text": "◇ $P(A|R) = 0,8$; $P(\\overline{A}|\\overline{R}) = 0,8 \\Rightarrow P(\\overline{A}|R) = 0,2$; $P(A|\\overline{R}) = 0,2$."
+  },
+  {
+    "bbox": [
+      194,
+      1458,
+      1144,
+      1504
+    ],
+    "category": "List-item",
+    "text": "◇ $P(B|R) = 0,9$; $P(\\overline{B}|\\overline{R}) = 0,9 \\Rightarrow P(\\overline{B}|R) = 0,1$; $P(B|\\overline{R}) = 0,1$."
+  },
+  {
+    "bbox": [
+      202,
+      1519,
+      492,
+      1562
+    ],
+    "category": "Text",
+    "text": "Xét các khẳng định:"
+  },
+  {
+    "bbox": [
+      202,
+      1583,
+      309,
+      1624
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      1641,
+      1548,
+      1728
+    ],
+    "category": "Text",
+    "text": "Xác suất Mô hình 1 dự báo sai là $P(S_1) = P(\\overline{A}|R)P(R) + P(A|\\overline{R})P(\\overline{R}) = 0,2 \\cdot 0,2 + 0,2 \\cdot 0,8 = 0,2$."
+  },
+  {
+    "bbox": [
+      153,
+      1747,
+      1548,
+      1834
+    ],
+    "category": "Text",
+    "text": "Xác suất Mô hình 2 dự báo sai là $P(S_2) = P(\\overline{B}|R)P(R) + P(B|\\overline{R})P(\\overline{R}) = 0,1 \\cdot 0,2 + 0,1 \\cdot 0,8 = 0,1$."
+  },
+  {
+    "bbox": [
+      153,
+      1855,
+      1548,
+      1942
+    ],
+    "category": "Text",
+    "text": "Vì hai mô hình hoạt động độc lập, xác suất cả hai cùng sai là $P(S_1) \\cdot P(S_2) = 0,2 \\cdot 0,1 = 0,02 \\neq 0,2$."
+  },
+  {
+    "bbox": [
+      202,
+      1963,
+      312,
+      2002
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      2019,
+      1504,
+      2064
+    ],
+    "category": "Text",
+    "text": "Xét biến cố $E$: \"Mô hình 1 dự báo không mua và Mô hình 2 dự báo có mua\" ($E = \\overline{A} \\cap B$)."
+  },
+  {
+    "bbox": [
+      202,
+      2081,
+      718,
+      2124
+    ],
+    "category": "Text",
+    "text": "Sử dụng công thức xác suất đầy đủ:"
+  },
+  {
+    "bbox": [
+      202,
+      2141,
+      861,
+      2187
+    ],
+    "category": "Formula",
+    "text": "$$\nP(E) = P(\\overline{A} \\cap B|R)P(R) + P(\\overline{A} \\cap B|\\overline{R})P(\\overline{R})\n$$"
+  },
+  {
+    "bbox": [
+      68,
+      2250,
+      120,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "104"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

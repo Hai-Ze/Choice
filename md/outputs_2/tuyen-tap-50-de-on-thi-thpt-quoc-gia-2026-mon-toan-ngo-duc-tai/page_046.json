@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      323,
+      155,
+      1324,
+      388
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$1$</td><td>$2$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      435,
+      1029,
+      481
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      501,
+      394,
+      541
+    ],
+    "category": "List-item",
+    "text": "A. $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      525,
+      501,
+      689,
+      541
+    ],
+    "category": "List-item",
+    "text": "B. $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      828,
+      501,
+      987,
+      541
+    ],
+    "category": "List-item",
+    "text": "C. $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      1129,
+      501,
+      1267,
+      541
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      193,
+      566,
+      1454,
+      724
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Trong không gian $Oxyz$, cho hai đường thẳng $d_1: \\frac{x}{1} = \\frac{y+1}{-1} = \\frac{z-1}{2}$ và $d_2: \\frac{x+1}{-1} = \\frac{y}{1} = \\frac{z-3}{1}$. Góc giữa hai đường thẳng đó bằng"
+  },
+  {
+    "bbox": [
+      221,
+      738,
+      333,
+      775
+    ],
+    "category": "List-item",
+    "text": "A. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      525,
+      738,
+      636,
+      775
+    ],
+    "category": "List-item",
+    "text": "B. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      828,
+      738,
+      935,
+      775
+    ],
+    "category": "List-item",
+    "text": "C. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      1129,
+      738,
+      1240,
+      775
+    ],
+    "category": "List-item",
+    "text": "D. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      193,
+      803,
+      1428,
+      934
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số $f(x) = \\begin{cases} 4-x & \\text{khi } 0 \\le x \\le 1 \\\\ 3x^2 & \\text{khi } 1 \\le x \\le 2 \\end{cases}$. Tính tích phân $I = \\int_0^2 f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      221,
+      938,
+      326,
+      1018
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{21}{2}$."
+  },
+  {
+    "bbox": [
+      525,
+      938,
+      610,
+      1018
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      828,
+      958,
+      905,
+      995
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1129,
+      938,
+      1214,
+      1018
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      1030,
+      1263,
+      1112
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Tiệm cận ngang của đồ thị hàm số $y = \\frac{2}{x-1}$ là đường thẳng"
+  },
+  {
+    "bbox": [
+      221,
+      1128,
+      359,
+      1165
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      525,
+      1128,
+      661,
+      1165
+    ],
+    "category": "List-item",
+    "text": "B. $y = 2$."
+  },
+  {
+    "bbox": [
+      828,
+      1128,
+      964,
+      1165
+    ],
+    "category": "List-item",
+    "text": "C. $x = 0$."
+  },
+  {
+    "bbox": [
+      1129,
+      1128,
+      1267,
+      1165
+    ],
+    "category": "List-item",
+    "text": "D. $y = 0$."
+  },
+  {
+    "bbox": [
+      193,
+      1195,
+      1454,
+      1351
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Gọi $D$ là hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ ($a < b$). Thể tích khối tròn xoay được tạo thành khi quay $D$ quanh trục hoành là"
+  },
+  {
+    "bbox": [
+      221,
+      1355,
+      557,
+      1442
+    ],
+    "category": "Formula",
+    "text": "A. $V = \\pi \\int_a^b [f(x)]^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      834,
+      1355,
+      1186,
+      1442
+    ],
+    "category": "Formula",
+    "text": "B. $V = 2\\pi \\int_a^b [f(x)]^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      221,
+      1444,
+      571,
+      1531
+    ],
+    "category": "Formula",
+    "text": "C. $V = \\pi^2 \\int_a^b [f(x)]^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      834,
+      1444,
+      1147,
+      1531
+    ],
+    "category": "Formula",
+    "text": "D. $V = \\pi^2 \\int_a^b f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      193,
+      1545,
+      1454,
+      1645
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng ($P$): $2x+y+z-2=0$ song song với mặt phẳng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      1645,
+      563,
+      1725
+    ],
+    "category": "Formula",
+    "text": "A. $x + \\frac{1}{2}y - \\frac{1}{2}z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1665,
+      1126,
+      1702
+    ],
+    "category": "Formula",
+    "text": "B. $x - y - z - 0 = 0$."
+  },
+  {
+    "bbox": [
+      221,
+      1738,
+      566,
+      1775
+    ],
+    "category": "Formula",
+    "text": "C. $4x + 2y + 2z + 4 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1738,
+      1141,
+      1775
+    ],
+    "category": "Formula",
+    "text": "D. $2x + y + z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      193,
+      1805,
+      1454,
+      1906
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho cấp số cộng ($u_n$) với $u_1 = 2$ và $u_2 = 7$. Công sai của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      221,
+      1928,
+      302,
+      1965
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      525,
+      1906,
+      610,
+      1986
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{2}{7}$."
+  },
+  {
+    "bbox": [
+      828,
+      1928,
+      931,
+      1965
+    ],
+    "category": "List-item",
+    "text": "C. $-5$."
+  },
+  {
+    "bbox": [
+      1129,
+      1906,
+      1214,
+      1986
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1454,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

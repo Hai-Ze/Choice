@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      335,
+      102,
+      1328,
+      195
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng đi qua điểm $N\\left(0;\\frac{64}{9}\\right), C(8;0)$ là $\\frac{x}{8} + \\frac{y}{64/9} = 1$"
+  },
+  {
+    "bbox": [
+      338,
+      231,
+      1019,
+      309
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\frac{y}{64/9} = 1 - \\frac{x}{8} \\Rightarrow y = \\frac{64}{9} - \\frac{x}{8} \\cdot \\frac{64}{9} \\Rightarrow y = \\frac{64}{9} - \\frac{8}{9}x.\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      341,
+      1591,
+      436
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra diện tích bể bơi bằng } \\int_{0}^{8} \\left[ -\\frac{2}{9}x^2 + \\frac{8}{9}x + \\frac{64}{9} - \\left( \\frac{64}{9} - \\frac{8}{9}x \\right) \\right] dx = \\int_{0}^{8} \\left( -\\frac{2}{9}x^2 + \\frac{16}{9}x \\right) dx = \\frac{512}{27}.\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      471,
+      1134,
+      547
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền cần trả để xây bể bơi là $5 \\cdot \\frac{512}{27} \\approx 95$ triệu đồng."
+  },
+  {
+    "bbox": [
+      197,
+      573,
+      1642,
+      842
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một hồ nước ở Bắc Ontario đã phục hồi sau một vụ tràn axit khiến tất cả cá hồi ở đó死. Một chương trình tái thả cá đã thả 800 con cá hồi vào hồ. Ba năm sau, số lượng được ước tính là 6000 con. Sức chứa của hồ được cho là 8000 con. Để đánh giá khả năng tăng trưởng, người ta mô phỏng số lượng cá trong hồ qua từng năm thông qua hàm số $P(t) = \\frac{c}{1+a \\cdot b^{-t}}$ ($a,b,c \\in \\mathbb{R}$) có đồ thị như hình vẽ bên dưới (trong đó $t$ tính theo năm kể từ lúc bắt đầu thả cá vào hồ)."
+  },
+  {
+    "bbox": [
+      722,
+      849,
+      1263,
+      1182
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      335,
+      1206,
+      1602,
+      1296
+    ],
+    "category": "Text",
+    "text": "Sử dụng mô hình trên, hãy tính tốc độ tăng trưởng tối đa (đơn vị con/năm) của đàn cá (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      933,
+      1323,
+      1047,
+      1361
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      335,
+      1389,
+      532,
+      1423
+    ],
+    "category": "Text",
+    "text": "Trả lời: 2197."
+  },
+  {
+    "bbox": [
+      335,
+      1451,
+      743,
+      1494
+    ],
+    "category": "Text",
+    "text": "Dựa vào dữ kiện đề bài, ta có:"
+  },
+  {
+    "bbox": [
+      335,
+      1528,
+      972,
+      1602
+    ],
+    "category": "Formula",
+    "text": "$$\n+) \\ P(0) = 800 \\Leftrightarrow \\frac{c}{1+a \\cdot b^{-0}} = 800 \\Leftrightarrow \\frac{c}{1+a} = 800\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      1639,
+      818,
+      1711
+    ],
+    "category": "Formula",
+    "text": "$$\n+) \\ P(3) = 6000 \\Leftrightarrow \\frac{c}{1+a \\cdot b^{-3}} = 6000\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      1738,
+      1038,
+      1795
+    ],
+    "category": "Formula",
+    "text": "$$\n+) \\ \\text{Sức chứa của hồ là 8000 con} \\Leftrightarrow \\lim_{t \\to +\\infty} P(t) = 8000\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      1830,
+      1029,
+      1925
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi } t \\to +\\infty \\Rightarrow \\begin{cases} b < 1 \\Rightarrow b^{-t} \\to +\\infty(\\text{L}) \\\\ b > 1 \\Rightarrow b^{-t} \\to 0(tm) \\end{cases} \\Rightarrow P(t) \\to c.\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      1960,
+      1247,
+      2038
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } \\lim_{t \\to +\\infty} P(t) = c = 8000. \\text{ Mà } \\frac{c}{1+a} = 800 \\Leftrightarrow \\frac{8000}{1+a} = 800 \\Rightarrow a = 9\n$$"
+  }
+]

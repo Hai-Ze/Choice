@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      240,
+      81,
+      1534,
+      173
+    ],
+    "category": "Text",
+    "text": "khi hai điểm sáng bắt đầu chuyển động đến khi có ít nhất một điểm sáng về đích thì khoảng cách nhỏ nhất giữa hai điểm sáng $M$ và $N$ bằng $3,77 \\text{ m}$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      103,
+      176,
+      1534,
+      321
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Một lon sữa cho trẻ em được lấy ra khỏi tử langh và đặt trên bàn để rã đông. Nhiệt độ của lon sữa tại thời điểm lấy ra khỏi tử langh là $-4^{\\circ}\\text{C}$ và sau $t$ giờ, tốc độ tăng nhiệt độ của lon sữa được cho bởi công thức: $T'(t) = 7 \\cdot e^{-0,35t}$ ($^{\\circ}\\text{C}/\\text{giờ}$) cho đến khi lon sữa đạt nhiệt độ môi trường là $10^{\\circ}\\text{C}$."
+  },
+  {
+    "bbox": [
+      240,
+      328,
+      1534,
+      427
+    ],
+    "category": "Text",
+    "text": "a) Sau 2 giờ, tốc độ thay đổi nhiệt độ của lon sữa bằng $3,48^{\\circ}\\text{C}/\\text{giờ}$ (Làm tròn kết quả đến hai chữ số thập phân)."
+  },
+  {
+    "bbox": [
+      240,
+      427,
+      1534,
+      526
+    ],
+    "category": "Text",
+    "text": "b) Nhiệt độ của lon sữa tính từ thời điểm lấy ra khỏi tử langh cho đến khi lon sữa đạt nhiệt độ môi trường được tính bởi công thức $T(t) = -20 \\cdot e^{-0,35t}$."
+  },
+  {
+    "bbox": [
+      240,
+      535,
+      1534,
+      626
+    ],
+    "category": "Text",
+    "text": "c) Thời gian để lon sữa đạt nhiệt độ môi trường là $3,44 \\text{ giờ}$ (Làm tròn kết quả đến hai chữ số thập phân của giờ)."
+  },
+  {
+    "bbox": [
+      240,
+      626,
+      1534,
+      836
+    ],
+    "category": "Text",
+    "text": "d) Ngay sau khi đạt nhiệt độ môi trường, lon sữa được đưa vào máy hâm sữa. Tốc độ tăng nhiệt độ của lon sữa trong máy sau $t$ giờ được xác định bởi: $L'(t) = k \\cdot e^{-0,22t}$ ($k$ là hằng số). Lon sữa được coi là đạt yêu cầu khi nhiệt độ lon sữa bằng $70^{\\circ}\\text{C}$. Biết rằng thời gian cần thiết để hâm nóng lon sữa là $5 \\text{ phút}$ thì hằng số $k \\in (720; 730)$."
+  },
+  {
+    "bbox": [
+      103,
+      850,
+      760,
+      934
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{2x-1}{x+1}$ có đồ thị $(C)$."
+  },
+  {
+    "bbox": [
+      240,
+      937,
+      765,
+      983
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đồng biến trên tập xác định."
+  },
+  {
+    "bbox": [
+      240,
+      988,
+      1010,
+      1039
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $(C)$ có tâm đối xứng là điểm $I(-1; 2)$."
+  },
+  {
+    "bbox": [
+      240,
+      1052,
+      1534,
+      1157
+    ],
+    "category": "Text",
+    "text": "c) Tiếp tuyến của đồ thị hàm số $(C)$ tại giao điểm của đồ thị hàm số $(C)$ với trục tung có phương trình là $y = 3x - 1$."
+  },
+  {
+    "bbox": [
+      240,
+      1168,
+      1039,
+      1219
+    ],
+    "category": "Text",
+    "text": "d) Số điểm thuộc đồ thị hàm số $(C)$ có tọa độ nguyên là $2$."
+  },
+  {
+    "bbox": [
+      103,
+      1231,
+      1534,
+      1319
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Lớp 12B11 có $40$ học sinh. Thời gian tự học tại nhà hàng ngày của các học sinh trong lớp được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      502,
+      1336,
+      1275,
+      1460
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm (giờ)</td><td>[1; 2)</td><td>[2; 3)</td><td>[3; 4)</td><td>[4; 5)</td><td>[5; 6]</td></tr><tr><td>Số học sinh</td><td>4</td><td>6</td><td>12</td><td>10</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      240,
+      1476,
+      1030,
+      1521
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên của mẫu số liệu ghép nhóm này là $5$."
+  },
+  {
+    "bbox": [
+      240,
+      1521,
+      938,
+      1566
+    ],
+    "category": "Text",
+    "text": "b) Khoảng tức phân vị của mẫu số liệu này bằng $1,8$."
+  },
+  {
+    "bbox": [
+      240,
+      1566,
+      755,
+      1611
+    ],
+    "category": "Text",
+    "text": "c) Phương sai của mẫu số liệu là $1,66$."
+  },
+  {
+    "bbox": [
+      240,
+      1611,
+      1534,
+      1881
+    ],
+    "category": "Text",
+    "text": "d) Cô giáo chia lớp thành ba nhóm: Nhóm chưa chăm gồm các em học sinh có thời gian tự học tại nhà hàng ngày ít hơn $3$ giờ, nhóm đạt yêu cầu gồm các em học sinh có thời gian tự học tại nhà hàng ngày từ $3$ giờ trở lên nhưng ít hơn $5$ giờ, nhóm chăm chỉ gồm các em học sinh có thời gian tự học tại nhà hàng ngày từ $5$ giờ trở lên. Cô giáo chọn ngẫu nhiên $4$ học sinh trong lớp để kiểm tra bài tập về nhà. Xác suất để ba nhóm học sinh trên đều có học sinh được chọn bằng $\\frac{88}{247}$."
+  },
+  {
+    "bbox": [
+      103,
+      1917,
+      1152,
+      1964
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6"
+  },
+  {
+    "bbox": [
+      103,
+      1999,
+      1534,
+      2144
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Cho hàm số $f(x) = (2 \\tan x - \\cot x)^2$, $F(x)$ là một nguyên hàm của hàm số $f(x)$ sao cho $F(\\frac{\\pi}{4}) = 3 - \\frac{9\\pi}{4}$. Khi đó $F(x) = a \\cdot \\tan x + b \\cdot \\cot x + c \\cdot x$ ($a, b, c$ là các hằng số). Tính $a \\cdot b \\cdot c$."
+  },
+  {
+    "bbox": [
+      1167,
+      2262,
+      1466,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3 – Mã đề 2301"
+  }
+]

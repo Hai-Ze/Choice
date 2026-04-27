@@ -1,0 +1,131 @@
+[
+  {
+    "bbox": [
+      628,
+      90,
+      1167,
+      517
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      184,
+      543,
+      1625,
+      645
+    ],
+    "category": "Text",
+    "text": "a) **Sai.** Vì có 3 vecto có điểm đầu là $A$ và điểm cuối là một trong các định còn lại của tức diện là $\\overline{AB}, \\overline{AC}, \\overline{AD}$."
+  },
+  {
+    "bbox": [
+      201,
+      680,
+      1073,
+      725
+    ],
+    "category": "Text",
+    "text": "b) **Sai.** Vì $M$ là trung điểm của cạnh $BC$ nên $\\overline{AB} + \\overline{AC} = 2\\overline{AM}$."
+  },
+  {
+    "bbox": [
+      184,
+      751,
+      1399,
+      797
+    ],
+    "category": "Text",
+    "text": "c) **Đúng.** Vì $G$ là trọng tâm của tam giác $BCD$ nên với điểm $I$, ta có $\\overline{IB} + \\overline{IC} + \\overline{ID} = 3\\overline{IG}$."
+  },
+  {
+    "bbox": [
+      184,
+      823,
+      677,
+      863
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } \\overline{IA} + \\overline{IB} + \\overline{IC} + \\overline{ID} = \\overline{IA} + 3\\overline{IG}.\n$$"
+  },
+  {
+    "bbox": [
+      184,
+      895,
+      1485,
+      1000
+    ],
+    "category": "Text",
+    "text": "Vì $I$ là điểm thuộc đoạn thẳng $AG$ sao cho $\\overline{AI} = 3\\overline{IG}$ nên $\\overline{IA}, \\overline{IG}$ là hai vecto ngược hướng và $\\overline{IA} = 3\\overline{IG}$. Do đó $\\overline{IA} = -3\\overline{IG} \\Leftrightarrow \\overline{IA} + 3\\overline{IG} = \\overline{0}$."
+  },
+  {
+    "bbox": [
+      184,
+      1025,
+      854,
+      1071
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.** Giả sử cạnh của tức diện đã cho bằng $a$."
+  },
+  {
+    "bbox": [
+      184,
+      1097,
+      1312,
+      1197
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } AB = a, DM = \\frac{a\\sqrt{3}}{2}, AM = \\frac{a\\sqrt{3}}{2}, (\\overline{AB}, \\overline{AM}) = 30^\\circ, (\\overline{AB}, \\overline{AD}) = 60^\\circ. \\text{ Khi đó}\n$$"
+  },
+  {
+    "bbox": [
+      184,
+      1226,
+      1595,
+      1394
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\overline{AB} \\cdot \\overline{DM} &= \\overline{AB} \\cdot (\\overline{AM} - \\overline{AD}) = \\overline{AB} \\cdot \\overline{AM} - \\overline{AB} \\cdot \\overline{AD} = |\\overline{AB}| \\cdot |\\overline{AM}| \\cdot \\cos(\\overline{AB}, \\overline{AM}) - |\\overline{AB}| \\cdot |\\overline{AD}| \\cdot \\cos(\\overline{AB}, \\overline{AD}) \\\\ &= a \\cdot \\frac{a\\sqrt{3}}{2} \\cdot \\cos 30^\\circ - a \\cdot a \\cdot \\cos 60^\\circ = \\frac{a^2}{4} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      184,
+      1426,
+      922,
+      1605
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } \\cos(\\overline{AB}, \\overline{DM}) = \\frac{\\overline{AB} \\cdot \\overline{DM}}{|\\overline{AB}| \\cdot |\\overline{DM}|} = \\frac{\\frac{a^2}{4}}{a \\cdot \\frac{a\\sqrt{3}}{2}} = \\frac{\\sqrt{3}}{6} > 0.\n$$"
+  },
+  {
+    "bbox": [
+      184,
+      1634,
+      781,
+      1732
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\cos(AB, DM) = \\cos(\\overline{AB}, \\overline{DM}) = \\frac{\\sqrt{3}}{6}.\n$$"
+  },
+  {
+    "bbox": [
+      158,
+      1759,
+      1625,
+      1862
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Qua khảo sát, thời gian hoàn thành một bài thi thử tốt nghiệp của một số học sinh lớp 12 của hai trường X và Y được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      216,
+      1898,
+      1561,
+      2152
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[65; 70)</td><td>[70; 75)</td><td>[75; 80)</td><td>[80; 85)</td><td>[85; 90]</td></tr><tr><td>Số học sinh trường X</td><td>7</td><td>10</td><td>15</td><td>30</td><td>45</td></tr><tr><td>Số học sinh trường Y</td><td>5</td><td>13</td><td>18</td><td>35</td><td>31</td></tr></table>"
+  }
+]

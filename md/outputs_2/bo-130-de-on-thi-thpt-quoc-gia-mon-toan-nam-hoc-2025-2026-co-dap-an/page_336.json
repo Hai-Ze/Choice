@@ -1,0 +1,467 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      75,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      983,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      158,
+      1094,
+      275
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hàm số $y = f(x)$ có đồ thị như hình vẽ sau. Hàm số $y = f(x)$ nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      478,
+      275,
+      601,
+      314
+    ],
+    "category": "List-item",
+    "text": "A (0; 2)."
+  },
+  {
+    "bbox": [
+      794,
+      275,
+      957,
+      314
+    ],
+    "category": "List-item",
+    "text": "B (1; $+\\infty$)."
+  },
+  {
+    "bbox": [
+      478,
+      316,
+      627,
+      358
+    ],
+    "category": "List-item",
+    "text": "C (-2; 2)."
+  },
+  {
+    "bbox": [
+      794,
+      316,
+      957,
+      358
+    ],
+    "category": "List-item",
+    "text": "D (-$\\infty$; 0)."
+  },
+  {
+    "bbox": [
+      1123,
+      203,
+      1505,
+      601
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      611,
+      1555,
+      728
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Một người thống kê lại thời gian thực hiện các cuộc gọi điện thoại của người đó trong một tuần ở bảng sau. Khoảng tức phân vị của mẫu số liệu ghép nhóm này gần nhất với số nào?"
+  },
+  {
+    "bbox": [
+      449,
+      776,
+      1628,
+      876
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (đơn vị: giây)</td><td>[0; 60)</td><td>[60; 120)</td><td>[120; 180)</td><td>[180; 240)</td><td>[240; 300)</td><td>[300; 360)</td></tr><tr><td>Số cuộc gọi</td><td>8</td><td>10</td><td>7</td><td>5</td><td>2</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      478,
+      896,
+      578,
+      937
+    ],
+    "category": "List-item",
+    "text": "A 100."
+  },
+  {
+    "bbox": [
+      750,
+      896,
+      854,
+      937
+    ],
+    "category": "List-item",
+    "text": "B 130."
+  },
+  {
+    "bbox": [
+      1023,
+      896,
+      1124,
+      937
+    ],
+    "category": "List-item",
+    "text": "C 110."
+  },
+  {
+    "bbox": [
+      1295,
+      896,
+      1396,
+      937
+    ],
+    "category": "List-item",
+    "text": "D 120."
+  },
+  {
+    "bbox": [
+      447,
+      975,
+      1191,
+      1052
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hình lập phương $ABCD.A'B'C'D'$ cạnh $a$. Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      478,
+      1046,
+      746,
+      1090
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{AC} + \\overrightarrow{A'C'} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      478,
+      1090,
+      859,
+      1137
+    ],
+    "category": "List-item",
+    "text": "B $\\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'} = \\overrightarrow{BD'}$."
+  },
+  {
+    "bbox": [
+      478,
+      1137,
+      706,
+      1184
+    ],
+    "category": "List-item",
+    "text": "C $|\\overrightarrow{BD'}| = a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      478,
+      1184,
+      700,
+      1230
+    ],
+    "category": "List-item",
+    "text": "D $|\\overrightarrow{BD}| = a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1231,
+      993,
+      1542,
+      1368
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1382,
+      1553,
+      1464
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian $Oxyz$, cho ba vecto $\\vec{a} = (2; -1; 0)$, $\\vec{b} = (-1; -3; 2)$, $\\vec{c} = (-2; -4; -3)$, tọa độ của $\\vec{u} = 2\\vec{a} - 3\\vec{b} + \\vec{c}$ là"
+  },
+  {
+    "bbox": [
+      478,
+      1464,
+      700,
+      1505
+    ],
+    "category": "List-item",
+    "text": "A (-3; -7; -9)."
+  },
+  {
+    "bbox": [
+      750,
+      1464,
+      949,
+      1505
+    ],
+    "category": "List-item",
+    "text": "B (-5; -3; 9)."
+  },
+  {
+    "bbox": [
+      1023,
+      1464,
+      1195,
+      1505
+    ],
+    "category": "List-item",
+    "text": "C (5; 3; -9)."
+  },
+  {
+    "bbox": [
+      1295,
+      1464,
+      1446,
+      1505
+    ],
+    "category": "List-item",
+    "text": "D (3; 7; 9)."
+  },
+  {
+    "bbox": [
+      447,
+      1518,
+      1553,
+      1598
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$ cho hai điểm $A(0; 2; 1)$ và $B(3; -2; 1)$. Độ dài đoạn thẳng $AB$ bằng"
+  },
+  {
+    "bbox": [
+      478,
+      1598,
+      563,
+      1637
+    ],
+    "category": "List-item",
+    "text": "A 25."
+  },
+  {
+    "bbox": [
+      750,
+      1598,
+      821,
+      1637
+    ],
+    "category": "List-item",
+    "text": "B 5."
+  },
+  {
+    "bbox": [
+      1023,
+      1598,
+      1090,
+      1637
+    ],
+    "category": "List-item",
+    "text": "C 3."
+  },
+  {
+    "bbox": [
+      1295,
+      1598,
+      1368,
+      1637
+    ],
+    "category": "List-item",
+    "text": "D 9."
+  },
+  {
+    "bbox": [
+      447,
+      1651,
+      1553,
+      1731
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho cấp số cộng ($u_n$) với $u_1 = 3$ và công sai $d = 3$. Số hạng thứ ba $u_3$ của cấp số cộng bằng"
+  },
+  {
+    "bbox": [
+      478,
+      1731,
+      548,
+      1770
+    ],
+    "category": "List-item",
+    "text": "A 8."
+  },
+  {
+    "bbox": [
+      750,
+      1731,
+      821,
+      1770
+    ],
+    "category": "List-item",
+    "text": "B 6."
+  },
+  {
+    "bbox": [
+      1023,
+      1731,
+      1090,
+      1770
+    ],
+    "category": "List-item",
+    "text": "C 9."
+  },
+  {
+    "bbox": [
+      1295,
+      1731,
+      1368,
+      1770
+    ],
+    "category": "List-item",
+    "text": "D 7."
+  },
+  {
+    "bbox": [
+      463,
+      1785,
+      1173,
+      1838
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1848,
+      1058,
+      1889
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho mẫu số liệu dưới dạng bảng sau:"
+  },
+  {
+    "bbox": [
+      501,
+      1905,
+      1499,
+      2006
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số câu trả lời đúng</td><td>[16; 21)</td><td>[21; 26)</td><td>[26; 31)</td><td>[31; 36)</td><td>[36; 41)</td><td></td></tr><tr><td>Tần số</td><td>4</td><td>6</td><td>8</td><td>18</td><td>4</td><td>$N = 40$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      478,
+      2026,
+      1047,
+      2065
+    ],
+    "category": "List-item",
+    "text": "a) Giá trị đại diện của lớp [36; 41) là 38,5."
+  },
+  {
+    "bbox": [
+      478,
+      2067,
+      1549,
+      2172
+    ],
+    "category": "List-item",
+    "text": "b) Công thức tính số trung bình là $\\bar{x} = \\frac{18,5 \\cdot 4 + 23,5 \\cdot 6 + 28,5 \\cdot 8 + 33,5 \\cdot 18 + 38,5 \\cdot 4}{40}$."
+  },
+  {
+    "bbox": [
+      478,
+      2170,
+      795,
+      2205
+    ],
+    "category": "List-item",
+    "text": "c) Số trung bình là 30."
+  },
+  {
+    "bbox": [
+      478,
+      2205,
+      1083,
+      2246
+    ],
+    "category": "List-item",
+    "text": "d) Phương sai của mẫu số liệu là $S^2 = 32,75$."
+  },
+  {
+    "bbox": [
+      134,
+      2260,
+      426,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "334 Bùi Tịnh Minh Lâm"
+  }
+]

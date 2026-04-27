@@ -1,0 +1,229 @@
+[
+  {
+    "bbox": [
+      202,
+      141,
+      314,
+      181
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      199,
+      1325,
+      244
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(E')$ đi qua $C'(80; 120; -160)$ có VTPT $\\vec{n}_2 = (2; 2; -5)$ nên có PT:"
+  },
+  {
+    "bbox": [
+      202,
+      262,
+      1228,
+      304
+    ],
+    "category": "Formula",
+    "text": "$$\n2(x - 80) + 2(y - 120) - 5(z + 160) = 0 \\iff 2x + 2y - 5z - 1200 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      322,
+      856,
+      365
+    ],
+    "category": "Text",
+    "text": "Thay PT đường hầm $d$ vào PT $(E')$, ta được:"
+  },
+  {
+    "bbox": [
+      202,
+      375,
+      1379,
+      456
+    ],
+    "category": "Formula",
+    "text": "$$\n2(-200 + 2t) + 2(200 - t) - 5(-t) - 1200 = 0 \\iff 7t - 1200 = 0 \\iff t = \\frac{1200}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      464,
+      1042,
+      545
+    ],
+    "category": "Text",
+    "text": "Giao điểm $N = d \\cap (E')$ có tọa độ $N \\left(\\frac{1000}{7}; \\frac{200}{7}; -\\frac{1200}{7}\\right)$."
+  },
+  {
+    "bbox": [
+      154,
+      561,
+      1546,
+      657
+    ],
+    "category": "Text",
+    "text": "Chiều dài đoạn trong lớp than là $MN = \\sqrt{\\left(\\frac{1000}{7} - 80\\right)^2 + \\left(\\frac{200}{7} - 60\\right)^2 + \\left(-\\frac{1200}{7} + 140\\right)^2} \\approx 76,98$ (m) $< 80$ (m)."
+  },
+  {
+    "bbox": [
+      202,
+      673,
+      1151,
+      717
+    ],
+    "category": "Text",
+    "text": "**Phần III. Câu trả lời ngắn** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      154,
+      738,
+      190,
+      773
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      736,
+      1546,
+      866
+    ],
+    "category": "Text",
+    "text": "**Bài 1.** Cho khối lăng trụ tam giác đều $ABC.A'B'C'$. Biết số đo góc nhị diện $[A', BC, A]$ bằng $30^\\circ$ và tam giác $A'BC$ có diện tích bằng 32. Khoảng cách giữa hai đường thẳng $AB$ và $A'C'$ bằng bao nhiêu? (kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      154,
+      883,
+      198,
+      919
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      881,
+      445,
+      945
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      646,
+      958,
+      1054,
+      1451
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1482,
+      642,
+      1590
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} AB \\perp AA', A \\in AB \\\\ A'C' \\perp AA', A' \\in A'C' \\end{cases}$"
+  },
+  {
+    "bbox": [
+      202,
+      1609,
+      1305,
+      1651
+    ],
+    "category": "Text",
+    "text": "Suy ra $AA'$ là đoạn vuông góc chung của $AB$ và $A'C' \\Rightarrow d(AB, A'C') = AA'$."
+  },
+  {
+    "bbox": [
+      202,
+      1669,
+      807,
+      1711
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm $BC$ nên $AM \\perp BC$."
+  },
+  {
+    "bbox": [
+      202,
+      1731,
+      957,
+      1835
+    ],
+    "category": "Text",
+    "text": "Mà $AA' \\perp BC$ nên $BC \\perp (AA'M) \\Rightarrow A'M \\perp BC \\Rightarrow [A', BC, A] = \\widehat{AMA'} = 30^\\circ$."
+  },
+  {
+    "bbox": [
+      202,
+      1845,
+      1134,
+      1934
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $AA'M$ vuông tại $A$, ta có $\\frac{AM}{A'M} = \\cos \\widehat{AMA'} = \\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      202,
+      1942,
+      907,
+      2041
+    ],
+    "category": "Text",
+    "text": "Mặt khác $\\frac{S_{ABC}}{S_{A'BC}} = \\frac{\\frac{1}{2}AM \\cdot BC}{\\frac{1}{2}A'M \\cdot BC} = \\frac{AM}{A'M} = \\frac{\\sqrt{3}}{2} \\Rightarrow$"
+  },
+  {
+    "bbox": [
+      202,
+      2048,
+      587,
+      2137
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{ABC} = \\frac{\\sqrt{3}}{2} S_{A'BC} = 16\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2144,
+      1477,
+      2233
+    ],
+    "category": "Text",
+    "text": "Ta có $S_{ABC} = \\frac{AB^2\\sqrt{3}}{4} = 16\\sqrt{3} \\Rightarrow AB = 8 \\Rightarrow AA' = AM \\cdot \\tan \\widehat{AMA'} = \\frac{8\\sqrt{3}}{2} \\tan 30^\\circ = 4$."
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "88"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

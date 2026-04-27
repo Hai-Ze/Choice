@@ -1,0 +1,370 @@
+[
+  {
+    "bbox": [
+      142,
+      72,
+      1041,
+      168
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình lăng trụ $ABC.A'B'C'$, $M$ là trung điểm của $BB'$.\nĐặt $\\overrightarrow{CA} = \\vec{a}$, $\\overrightarrow{CB} = \\vec{b}$, $\\overrightarrow{AA'} = \\vec{c}$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      1036,
+      78,
+      1324,
+      406
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      178,
+      174,
+      486,
+      250
+    ],
+    "category": "Formula",
+    "text": "A. $\\overrightarrow{AM} = \\vec{a} + \\vec{c} - \\frac{1}{2}\\vec{b}$."
+  },
+  {
+    "bbox": [
+      524,
+      174,
+      828,
+      250
+    ],
+    "category": "Formula",
+    "text": "B. $\\overrightarrow{AM} = \\vec{b} - \\vec{a} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      174,
+      260,
+      482,
+      336
+    ],
+    "category": "Formula",
+    "text": "C. $\\overrightarrow{AM} = \\vec{a} - \\vec{c} + \\frac{1}{2}\\vec{b}$."
+  },
+  {
+    "bbox": [
+      524,
+      260,
+      829,
+      336
+    ],
+    "category": "Formula",
+    "text": "D. $\\overrightarrow{AM} = \\vec{b} + \\vec{c} - \\frac{1}{2}\\vec{a}$."
+  },
+  {
+    "bbox": [
+      142,
+      340,
+      966,
+      394
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tập nghiệm $S$ của bất phương trình $\\log_2(x - 3) \\le 2$ là"
+  },
+  {
+    "bbox": [
+      180,
+      417,
+      411,
+      476
+    ],
+    "category": "Formula",
+    "text": "A. $S = (-\\infty; 7]$."
+  },
+  {
+    "bbox": [
+      524,
+      417,
+      759,
+      476
+    ],
+    "category": "Formula",
+    "text": "B. $S = [7; +\\infty)$."
+  },
+  {
+    "bbox": [
+      180,
+      484,
+      374,
+      543
+    ],
+    "category": "Formula",
+    "text": "C. $S = [3; 7]$."
+  },
+  {
+    "bbox": [
+      524,
+      484,
+      714,
+      543
+    ],
+    "category": "Formula",
+    "text": "D. $S = (3; 7]$."
+  },
+  {
+    "bbox": [
+      142,
+      550,
+      1036,
+      708
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ liên tục và có đồ thị trên đoạn $[-4; 3]$ như hình vẽ. Giá trị lớn nhất của hàm số $y = f(x)$ trên đoạn $[-4; 1]$ bằng"
+  },
+  {
+    "bbox": [
+      1056,
+      459,
+      1516,
+      787
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      180,
+      708,
+      273,
+      741
+    ],
+    "category": "List-item",
+    "text": "A. -1."
+  },
+  {
+    "bbox": [
+      367,
+      708,
+      434,
+      741
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      532,
+      708,
+      600,
+      741
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      696,
+      708,
+      763,
+      741
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      142,
+      811,
+      1490,
+      889
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      142,
+      887,
+      1552,
+      927
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(3; -4; 1)$, $B(1; 1; -1)$ và $C(2; 0; -3)$. Khi đó"
+  },
+  {
+    "bbox": [
+      180,
+      932,
+      874,
+      971
+    ],
+    "category": "List-item",
+    "text": "a) Toạ độ trọng tâm của tam giác $ABC$ là $(2; -1; -1)$."
+  },
+  {
+    "bbox": [
+      180,
+      973,
+      1199,
+      1016
+    ],
+    "category": "List-item",
+    "text": "b) Hình chiếu vuông góc của điểm $B$ lên mặt phẳng $(Oxy)$ có toạ độ là $(1; 1; 0)$."
+  },
+  {
+    "bbox": [
+      180,
+      1020,
+      1374,
+      1072
+    ],
+    "category": "List-item",
+    "text": "c) Biết rằng điểm $I$ thoả mãn điều kiện $\\overrightarrow{IA} + 3\\overrightarrow{IB} - 2\\overrightarrow{IC} = \\vec{0}$. Hoành độ của điểm $I$ bằng 2."
+  },
+  {
+    "bbox": [
+      180,
+      1072,
+      1214,
+      1112
+    ],
+    "category": "List-item",
+    "text": "d) Xét $M$ là điểm thay đổi trên mặt phẳng $(Oyz)$. Giá trị nhỏ nhất của biểu thức"
+  },
+  {
+    "bbox": [
+      142,
+      1116,
+      622,
+      1158
+    ],
+    "category": "Formula",
+    "text": "$$\nS = MA^2 + 3MB^2 - 2MC^2 \\text{ bằng 2.}\n$$"
+  },
+  {
+    "bbox": [
+      142,
+      1160,
+      1558,
+      1375
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một team thể vi kur ther ban đầu có 500 con. Gọi $P(t)$ là số lượng vi kur ther của team thể đó tại thời điểm $t$, trong đó $t$ tính theo giờ $(t \\ge 0)$. Tốc độ tăng trưởng vi kur ther của team thể này tại thời điểm $t$ được cho bởi hàm số $P'(t) = kt$, trong đó $k$ là một hằng số. Biết rằng sau 2 giờ, số lượng vi kur ther của team thể tăng lên thành 1200 vi kur ther."
+  },
+  {
+    "bbox": [
+      180,
+      1375,
+      957,
+      1427
+    ],
+    "category": "List-item",
+    "text": "a) Số lượng vi kur ther tại thời điểm $t$ là $P(t) = 175t^2 + 500$."
+  },
+  {
+    "bbox": [
+      180,
+      1435,
+      1261,
+      1487
+    ],
+    "category": "List-item",
+    "text": "b) Số lượng vi kur ther $P(t)$ là một nguyên hàm của hàm số tốc độ tăng trưởng $P'(t)$."
+  },
+  {
+    "bbox": [
+      180,
+      1489,
+      1171,
+      1531
+    ],
+    "category": "List-item",
+    "text": "c) Sau 5 giờ, số lượng vi kur ther tăng thêm 4875 con so với thời điểm ban đầu."
+  },
+  {
+    "bbox": [
+      180,
+      1529,
+      852,
+      1570
+    ],
+    "category": "List-item",
+    "text": "d) Sau 7 giờ số lượng vi kur ther vượt quá 10000 con."
+  },
+  {
+    "bbox": [
+      142,
+      1566,
+      1481,
+      1608
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thống kê điểm kiểm tra giữa kì môn Toán của 40 học sinh được cho bởi bảng tần số ghép lớp sau:"
+  },
+  {
+    "bbox": [
+      255,
+      1620,
+      1446,
+      1757
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[4;5)</td><td>[5;6)</td><td>[6;7)</td><td>[7;8)</td><td>[8;9)</td><td>[9;10)</td></tr><tr><td>Số học sinh</td><td>5</td><td>7</td><td>14</td><td>7</td><td>4</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      1761,
+      708,
+      1815
+    ],
+    "category": "List-item",
+    "text": "a) Giá trị đại diện của nhóm $[8;9)$ là 8,5."
+  },
+  {
+    "bbox": [
+      180,
+      1834,
+      690,
+      1876
+    ],
+    "category": "List-item",
+    "text": "b) Bảng tần số ghép lớp trên có 6 nhóm"
+  },
+  {
+    "bbox": [
+      180,
+      1888,
+      1079,
+      1932
+    ],
+    "category": "List-item",
+    "text": "c) Trung vị của mẫu số liệu trên (làm tròn đến hàng phần mười) là 6,8."
+  },
+  {
+    "bbox": [
+      180,
+      1951,
+      1193,
+      1993
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị trung bình của mẫu số liệu trên (làm tròn đến hàng phần mười) là 6,7."
+  },
+  {
+    "bbox": [
+      142,
+      2097,
+      294,
+      2133
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0103"
+  },
+  {
+    "bbox": [
+      1395,
+      2101,
+      1521,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

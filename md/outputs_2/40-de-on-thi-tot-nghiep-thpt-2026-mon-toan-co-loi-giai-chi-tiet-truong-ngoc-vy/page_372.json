@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      380,
+      100,
+      1199,
+      603
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      634,
+      414,
+      669
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      692,
+      843,
+      730
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      750,
+      268,
+      789
+    ],
+    "category": "Text",
+    "text": "Đáp án: 4,23"
+  },
+  {
+    "bbox": [
+      380,
+      816,
+      1199,
+      1320
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1353,
+      1494,
+      1464
+    ],
+    "category": "Text",
+    "text": "Ta có bỏ đi hình vuông cạnh $x$ ($0 < x < 10$) tạo được hình集合 chữ nhật có các cạnh lần lượt là\n$AB = 20 - x, CD = 20 - 2x$ và $x$"
+  },
+  {
+    "bbox": [
+      76,
+      1491,
+      980,
+      1539
+    ],
+    "category": "Text",
+    "text": "Thể tích hình集合 bằng $V = x(20 - x)(20 - 2x) = 2x^3 - 60x^2 + 400x$"
+  },
+  {
+    "bbox": [
+      76,
+      1566,
+      787,
+      1615
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $f(x) = 2x^3 - 60x^2 + 400x$ với $0 < x < 10$"
+  },
+  {
+    "bbox": [
+      76,
+      1639,
+      877,
+      1832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f'(x) = 6x^2 - 120x + 400 = 0 \\Leftrightarrow \\begin{cases} x = \\frac{30+10\\sqrt{3}}{3} \\notin (0;10) \\\\ x = \\frac{30-10\\sqrt{3}}{3} \\in (0;10) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1850,
+      576,
+      1894
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên của hàm số ta có"
+  },
+  {
+    "bbox": [
+      76,
+      1906,
+      946,
+      2202
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{30-10\\sqrt{3}}{3}$</td><td>10</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">[Image]</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

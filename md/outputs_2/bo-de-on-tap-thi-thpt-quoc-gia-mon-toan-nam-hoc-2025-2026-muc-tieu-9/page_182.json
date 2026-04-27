@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      199,
+      176
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      136,
+      609,
+      198
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      212,
+      1547,
+      298
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết: \"Biết rằng ở thời điểm ban đầu (tức $t = 0$), tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ cấp 4 lần cây hoa trong môi trường không có chất $X$\" ta có:"
+  },
+  {
+    "bbox": [
+      396,
+      312,
+      1302,
+      358
+    ],
+    "category": "Formula",
+    "text": "$$\nh'_{2}(0) = 4h'_{1}(0) \\Leftrightarrow a \\cdot e^{-0,1 \\cdot 0} = 4 \\cdot e^{0,1 \\cdot 0} \\Leftrightarrow a \\cdot e^{0} = 4 \\cdot e^{0} \\Leftrightarrow a = 4.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      364,
+      472,
+      408
+    ],
+    "category": "Text",
+    "text": "Suy ra $h'_{2}(t) = 4e^{-0,1t}$."
+  },
+  {
+    "bbox": [
+      203,
+      428,
+      312,
+      467
+    ],
+    "category": "Section-header",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      486,
+      1547,
+      577
+    ],
+    "category": "Text",
+    "text": "Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_1(t) = \\int h'_1(t) dt$ (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      203,
+      596,
+      1111,
+      647
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức nguyên hàm $\\int e^{ax+b} dx = \\frac{1}{a}e^{ax+b} + C$, ta có:"
+  },
+  {
+    "bbox": [
+      494,
+      651,
+      1202,
+      738
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int h'_{1}(t) dt = \\int (e^{0,1t}) dt = \\frac{e^{0,1t}}{0,1} + C = 10e^{0,1t} + C.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      758,
+      1137,
+      801
+    ],
+    "category": "Text",
+    "text": "Lại có $h_1(0) = 10 \\Rightarrow 10 \\cdot e^{0,1 \\cdot 0} + C = 10 \\Leftrightarrow 10 + C = 10 \\Leftrightarrow C = 0$."
+  },
+  {
+    "bbox": [
+      203,
+      820,
+      479,
+      861
+    ],
+    "category": "Text",
+    "text": "Vậy $h_1(t) = 10e^{0,1t}$."
+  },
+  {
+    "bbox": [
+      203,
+      883,
+      347,
+      922
+    ],
+    "category": "Section-header",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      942,
+      1544,
+      984
+    ],
+    "category": "Text",
+    "text": "Chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu $h_2(15) > h_1(15) \\Leftrightarrow h_2(15) - h_1(15) > 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1003,
+      1547,
+      1096
+    ],
+    "category": "Text",
+    "text": "Ta có chiều cao của cây hoa được trồng trong môi trường có chất $X$ sau 15 ngày (tức từ 0 đến ngày thứ 15) là $h_2(15) = 10 + \\int_0^{15} h'_2(t) dt$."
+  },
+  {
+    "bbox": [
+      154,
+      1109,
+      1547,
+      1200
+    ],
+    "category": "Text",
+    "text": "Chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau 15 ngày (tức từ 0 đến ngày thứ 15) là $h_1(15) = 10 + \\int_0^{15} h'_1(t) dt$."
+  },
+  {
+    "bbox": [
+      203,
+      1217,
+      312,
+      1252
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      364,
+      1254,
+      1336,
+      1449
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} h_2(15) - h_1(15) &= \\int_0^{15} h'_2(t) dt - \\int_0^{15} h'_1(t) dt = \\int_0^{15} [h'_2(t) - h'_1(t)] dt \\\\ &= \\int_0^{15} (4e^{-0,1t} - e^{0,1t}) dt \\approx -3,74 < 0. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1465,
+      1528,
+      1507
+    ],
+    "category": "Text",
+    "text": "Suy ra $h_2(15) - h_1(15) < 0$. Vậy chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      203,
+      1528,
+      351,
+      1567
+    ],
+    "category": "Section-header",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      1586,
+      1547,
+      1627
+    ],
+    "category": "Text",
+    "text": "Sau $t_0$ ngày ($0 < t_0 < 15$), hai cây hoa có chiều cao bằng nhau khi và chỉ khi $h_2(t_0) - h_1(t_0) = 0$"
+  },
+  {
+    "bbox": [
+      414,
+      1635,
+      1284,
+      1727
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\int_{0}^{t_0} h'_{2}(t) dt - \\int_{0}^{t_0} h'_{1}(t) dt = 0 \\Leftrightarrow \\int_{0}^{t_0} [h'_{2}(t) - h'_{1}(t)] dt = 0\n$$"
+  },
+  {
+    "bbox": [
+      451,
+      1738,
+      1247,
+      1834
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\int_{0}^{t_0} (4e^{-0,1t} - e^{0,1t}) dt = 0 \\Leftrightarrow \\left( \\frac{4e^{-0,1t}}{-0,1} - \\frac{e^{0,1t}}{0,1} \\right) \\Big|_{0}^{t_0} = 0\n$$"
+  },
+  {
+    "bbox": [
+      638,
+      1843,
+      1062,
+      1938
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow (-40e^{-0,1t} - 10e^{0,1t}) \\Big|_{0}^{t_0} = 0\n$$"
+  },
+  {
+    "bbox": [
+      492,
+      1946,
+      1205,
+      1990
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -40e^{-0,1t_0} - 10e^{0,1t_0} - (-40e^{0,1 \\cdot 0} - 10e^{0,1 \\cdot 0}) = 0\n$$"
+  },
+  {
+    "bbox": [
+      529,
+      2007,
+      1167,
+      2050
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -40e^{-0,1t_0} - 10e^{0,1t_0} - (-40e^{0} - 10e^{0}) = 0\n$$"
+  },
+  {
+    "bbox": [
+      619,
+      2066,
+      1079,
+      2107
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -40e^{-0,1t_0} - 10e^{0,1t_0} + 50 = 0\n$$"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "182"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

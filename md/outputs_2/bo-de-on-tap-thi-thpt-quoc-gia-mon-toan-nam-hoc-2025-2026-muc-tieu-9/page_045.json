@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1547,
+      226
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(0; -2; 1)$ và bán kính $R = 5$. Phương trình của $(S)$ là"
+  },
+  {
+    "bbox": [
+      189,
+      244,
+      665,
+      288
+    ],
+    "category": "Formula",
+    "text": "A $x^2 + (y + 2)^2 + (z - 1)^2 = 25$."
+  },
+  {
+    "bbox": [
+      876,
+      244,
+      1352,
+      288
+    ],
+    "category": "Formula",
+    "text": "B $x^2 + (y - 2)^2 + (z + 1)^2 = 25$."
+  },
+  {
+    "bbox": [
+      189,
+      290,
+      649,
+      332
+    ],
+    "category": "Formula",
+    "text": "C $x^2 + (y + 2)^2 + (z - 1)^2 = 5$."
+  },
+  {
+    "bbox": [
+      876,
+      290,
+      1337,
+      332
+    ],
+    "category": "Formula",
+    "text": "D $x^2 + (y - 2)^2 + (z + 1)^2 = 5$."
+  },
+  {
+    "bbox": [
+      153,
+      350,
+      1470,
+      392
+    ],
+    "category": "Text",
+    "text": "Câu 9. Công thức tính thể tích của một khối trụ có bán kính đáy là $R$ và chiều cao $h$ là"
+  },
+  {
+    "bbox": [
+      189,
+      420,
+      417,
+      462
+    ],
+    "category": "Formula",
+    "text": "A $V = 2\\pi R^2 h$."
+  },
+  {
+    "bbox": [
+      876,
+      404,
+      1112,
+      480
+    ],
+    "category": "Formula",
+    "text": "B $V = \\frac{4}{3}\\pi R^2 h$."
+  },
+  {
+    "bbox": [
+      189,
+      472,
+      423,
+      550
+    ],
+    "category": "Formula",
+    "text": "C $V = \\frac{1}{3}\\pi R^2 h$."
+  },
+  {
+    "bbox": [
+      876,
+      490,
+      1085,
+      532
+    ],
+    "category": "Formula",
+    "text": "D $V = \\pi R^2 h$."
+  },
+  {
+    "bbox": [
+      153,
+      561,
+      1187,
+      603
+    ],
+    "category": "Text",
+    "text": "Câu 10. Diện tích hình phẳng gạch sọc trong hình vẽ bên dưới bằng"
+  },
+  {
+    "bbox": [
+      566,
+      615,
+      1122,
+      1106
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      189,
+      1178,
+      451,
+      1268
+    ],
+    "category": "Formula",
+    "text": "A $\\int_{1}^{3} (2^x - 2)dx$."
+  },
+  {
+    "bbox": [
+      876,
+      1178,
+      1135,
+      1268
+    ],
+    "category": "Formula",
+    "text": "B $\\int_{1}^{3} (2^x + 2)dx$."
+  },
+  {
+    "bbox": [
+      189,
+      1268,
+      451,
+      1352
+    ],
+    "category": "Formula",
+    "text": "C $\\int_{1}^{3} (2 - 2^x)dx$."
+  },
+  {
+    "bbox": [
+      876,
+      1268,
+      1062,
+      1352
+    ],
+    "category": "Formula",
+    "text": "D $\\int_{1}^{3} 2^x dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1366,
+      1547,
+      1452
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Đặt $\\overrightarrow{BA} = \\vec{b}$, $\\overrightarrow{AC} = \\vec{c}$, $\\overrightarrow{AD} = \\vec{d}$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      189,
+      1462,
+      569,
+      1540
+    ],
+    "category": "Formula",
+    "text": "A $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b})$."
+  },
+  {
+    "bbox": [
+      876,
+      1462,
+      1254,
+      1540
+    ],
+    "category": "Formula",
+    "text": "B $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c})$."
+  },
+  {
+    "bbox": [
+      189,
+      1532,
+      569,
+      1612
+    ],
+    "category": "Formula",
+    "text": "C $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d})$."
+  },
+  {
+    "bbox": [
+      876,
+      1532,
+      1254,
+      1612
+    ],
+    "category": "Formula",
+    "text": "D $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$."
+  },
+  {
+    "bbox": [
+      153,
+      1622,
+      1547,
+      1704
+    ],
+    "category": "Text",
+    "text": "Câu 12. Thống kê điểm trung bình môn Toán của một số học sinh lớp 12 được mẫu số liệu sau:"
+  },
+  {
+    "bbox": [
+      260,
+      1708,
+      1440,
+      1823
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Khoảng điểm</td><td>[6, 5; 7)</td><td>[7; 7, 5)</td><td>[7, 5; 8)</td><td>[8; 8, 5)</td><td>[8, 5; 9)</td><td>[9; 9, 5)</td><td>[9, 5; 10)</td></tr><tr><td>Tần số</td><td>8</td><td>10</td><td>16</td><td>24</td><td>13</td><td>7</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1833,
+      1309,
+      1875
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu về điểm trung bình môn Toán của các học sinh đó là"
+  },
+  {
+    "bbox": [
+      189,
+      1893,
+      337,
+      1935
+    ],
+    "category": "List-item",
+    "text": "A 0,616."
+  },
+  {
+    "bbox": [
+      535,
+      1893,
+      681,
+      1935
+    ],
+    "category": "List-item",
+    "text": "B 0,785."
+  },
+  {
+    "bbox": [
+      876,
+      1893,
+      1008,
+      1935
+    ],
+    "category": "List-item",
+    "text": "C 0,78."
+  },
+  {
+    "bbox": [
+      1224,
+      1893,
+      1369,
+      1935
+    ],
+    "category": "List-item",
+    "text": "D 0,609."
+  },
+  {
+    "bbox": [
+      153,
+      1953,
+      1547,
+      2041
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      2057,
+      1547,
+      2193
+    ],
+    "category": "Text",
+    "text": "Bài 1. Ống dẫn nước vào của một bể chứa $100 \\text{ m}^3$ nước có tốc độ dòng ch洗 là $10 \\text{ m}^3$ mỗi phút và hai ống thoát nước mỗi ống có tốc độ dòng ch洗 là $5 \\text{ m}^3$ mỗi phút. Trong cùng một khoảng thời gian ống dẫn nước và ống thoát nước có thể không cùng hoạt động. Hình vẽ sau cho thấy thể tích"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "45"
+  }
+]

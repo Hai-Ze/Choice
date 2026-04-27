@@ -1,0 +1,350 @@
+[
+  {
+    "bbox": [
+      191,
+      131,
+      359,
+      210
+    ],
+    "category": "List-item",
+    "text": "A $x = \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      148,
+      756,
+      194
+    ],
+    "category": "List-item",
+    "text": "B $x = \\log_3 10$."
+  },
+  {
+    "bbox": [
+      879,
+      148,
+      1093,
+      194
+    ],
+    "category": "List-item",
+    "text": "C $x = \\log_{10} 3$."
+  },
+  {
+    "bbox": [
+      1223,
+      148,
+      1412,
+      194
+    ],
+    "category": "List-item",
+    "text": "D $x = \\sqrt[3]{10}$."
+  },
+  {
+    "bbox": [
+      154,
+      222,
+      1546,
+      308
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông và $SA \\perp (ABCD)$. Мặt phẳng $(SBC)$ vuông góc với mặt phẳng nào sau đây?"
+  },
+  {
+    "bbox": [
+      652,
+      322,
+      1046,
+      719
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      806,
+      358,
+      850
+    ],
+    "category": "List-item",
+    "text": "A $(SCD)$."
+  },
+  {
+    "bbox": [
+      535,
+      806,
+      730,
+      850
+    ],
+    "category": "List-item",
+    "text": "B $(ABCD)$."
+  },
+  {
+    "bbox": [
+      879,
+      806,
+      1042,
+      850
+    ],
+    "category": "List-item",
+    "text": "C $(SAB)$."
+  },
+  {
+    "bbox": [
+      1223,
+      806,
+      1388,
+      850
+    ],
+    "category": "List-item",
+    "text": "D $(SBD)$."
+  },
+  {
+    "bbox": [
+      154,
+      862,
+      1350,
+      946
+    ],
+    "category": "Text",
+    "text": "Câu 9. Dường tiệm cận xiên của đồ thị hàm số $y = \\frac{x^2 - 3x + 4}{x + 2}$ là đường thẳng"
+  },
+  {
+    "bbox": [
+      191,
+      957,
+      418,
+      1001
+    ],
+    "category": "List-item",
+    "text": "A $y = -x + 1$."
+  },
+  {
+    "bbox": [
+      535,
+      957,
+      738,
+      1001
+    ],
+    "category": "List-item",
+    "text": "B $y = x - 1$."
+  },
+  {
+    "bbox": [
+      879,
+      957,
+      1080,
+      1001
+    ],
+    "category": "List-item",
+    "text": "C $y = x - 5$."
+  },
+  {
+    "bbox": [
+      1223,
+      957,
+      1448,
+      1001
+    ],
+    "category": "List-item",
+    "text": "D $y = -x - 5$."
+  },
+  {
+    "bbox": [
+      154,
+      1017,
+      1546,
+      1101
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tiếp tuyến của đồ thị hàm số $y = x^3 - 3x^2 - 2$ có hệ số góc $k = -3$ có phương trình là"
+  },
+  {
+    "bbox": [
+      191,
+      1124,
+      430,
+      1168
+    ],
+    "category": "List-item",
+    "text": "A $y = -3x - 7$."
+  },
+  {
+    "bbox": [
+      879,
+      1124,
+      1119,
+      1168
+    ],
+    "category": "List-item",
+    "text": "B $y = -3x + 7$."
+  },
+  {
+    "bbox": [
+      191,
+      1170,
+      430,
+      1214
+    ],
+    "category": "List-item",
+    "text": "C $y = -3x + 1$."
+  },
+  {
+    "bbox": [
+      879,
+      1170,
+      1119,
+      1214
+    ],
+    "category": "List-item",
+    "text": "D $y = -3x - 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1228,
+      1501,
+      1272
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hai biến cố $A$ và $B$ độc lập, biết $P(A) = 0,4; P(B) = 0,7$. Khi đó $P(\\overline{B}|A)$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      1283,
+      296,
+      1362
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{7}{10}$."
+  },
+  {
+    "bbox": [
+      535,
+      1283,
+      624,
+      1362
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{4}{7}$."
+  },
+  {
+    "bbox": [
+      879,
+      1283,
+      980,
+      1362
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      1223,
+      1283,
+      1328,
+      1362
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      154,
+      1370,
+      1546,
+      1462
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho tức diện $ABCD$. Gọi $M, N$ lần lượt là trung điểm của $AD$ và $BC$. Tổng $\\overrightarrow{AB} + \\overrightarrow{DC}$ bằng"
+  },
+  {
+    "bbox": [
+      613,
+      1476,
+      1083,
+      1871
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1953,
+      284,
+      2001
+    ],
+    "category": "List-item",
+    "text": "A $\\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      535,
+      1953,
+      670,
+      2001
+    ],
+    "category": "List-item",
+    "text": "B $2\\overrightarrow{AD}$."
+  },
+  {
+    "bbox": [
+      879,
+      1953,
+      1028,
+      2001
+    ],
+    "category": "List-item",
+    "text": "C $2\\overrightarrow{NM}$."
+  },
+  {
+    "bbox": [
+      1223,
+      1953,
+      1370,
+      2001
+    ],
+    "category": "List-item",
+    "text": "D $2\\overrightarrow{MN}$."
+  },
+  {
+    "bbox": [
+      154,
+      2019,
+      1546,
+      2106
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mối ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      2114,
+      1546,
+      2204
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $y = g(x)$ có đồ thị như hình vẽ và đặt $f(x) = \\int_{0}^{x} g(t)dt$. Gọi $S_1, S_2$ và $S_3$"
+  },
+  {
+    "bbox": [
+      76,
+      2250,
+      112,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "18"
+  },
+  {
+    "bbox": [
+      840,
+      2250,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

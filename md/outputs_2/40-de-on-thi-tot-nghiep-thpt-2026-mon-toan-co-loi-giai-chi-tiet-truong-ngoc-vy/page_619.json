@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1496,
+      282
+    ],
+    "category": "Text",
+    "text": "Chi phí sơn phần tô hình tổ ong (có diện tích $S_1$) là 200000 đồng/m², chi phí sơn phần tô Đâm (có diện tích $S_2$) là 150000 đồng/m² và phần còn lại là 120000 đồng/m². Số tiền cần chi trả để sơn tấm biển广宣 cáo là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      75,
+      298,
+      415,
+      336
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      358,
+      843,
+      397
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      415,
+      274,
+      454
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2465"
+  },
+  {
+    "bbox": [
+      75,
+      470,
+      572,
+      514
+    ],
+    "category": "Text",
+    "text": "Gắn hệ trục tọa độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      524,
+      535,
+      1042,
+      980
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1004,
+      1494,
+      1123
+    ],
+    "category": "Text",
+    "text": "• Khi đó $BD: y = -x + 4$ và Parabol $(P): y = ax^2 + bx + c$ qua ba điểm $A \\equiv O(0;0), B(4;0), I(2;4)$ nên có dạng: $y = -x^2 + 4x$."
+  },
+  {
+    "bbox": [
+      75,
+      1147,
+      617,
+      1197
+    ],
+    "category": "Text",
+    "text": "• $M(1;3)$ là giao điểm của $BD$ và $(P)$."
+  },
+  {
+    "bbox": [
+      75,
+      1222,
+      1261,
+      1321
+    ],
+    "category": "Text",
+    "text": "• Suy ra: $S_1 = \\int_{1}^{4} |(-x^2 + 4x) - (-x + 4)| dx = \\frac{9}{2} (m^2)$ và $S_2 = \\int_{0}^{4} |-x^2 + 4x| dx - \\frac{9}{2} = \\frac{37}{6} (m^2)$."
+  },
+  {
+    "bbox": [
+      75,
+      1345,
+      935,
+      1441
+    ],
+    "category": "Text",
+    "text": "Diện tích còn phần còn lại là $S_3 = 4^2 - \\int_{0}^{4} |-x^2 + 4x| dx = \\frac{16}{3} (m^2)$."
+  },
+  {
+    "bbox": [
+      75,
+      1461,
+      745,
+      1507
+    ],
+    "category": "Text",
+    "text": "• Số tiền cần chi trả để sơn tấm biển广宣 cáo là:"
+  },
+  {
+    "bbox": [
+      82,
+      1526,
+      1372,
+      1610
+    ],
+    "category": "Formula",
+    "text": "$$\n200000 \\cdot S_1 + 150000 \\cdot S_2 + 120000 \\cdot S_3 = 200000 \\cdot \\frac{9}{2} + 150000 \\cdot \\frac{37}{6} + 120000 \\cdot \\frac{16}{3} = 2465000 \\text{ đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1626,
+      1494,
+      1890
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử chi phí đặt hàng và vận chuyển $C$ (đơn vị: triệu đồng) của một linh kiện được sử dụng trong sản xuất một sản phẩm được xác định theo công thức $C = \\frac{19200000}{x^2} + \\frac{27x}{x+3000}, x \\ge 1$. Trong đó $x$ là số linh kiện được đặt hàng và vận chuyển. Tìm $x$ để chi phí đặt hàng và vận chuyển cho mỗi linh kiện trên là nhỏ nhất."
+  },
+  {
+    "bbox": [
+      75,
+      1912,
+      415,
+      1950
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1971,
+      843,
+      2010
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2028,
+      274,
+      2067
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2400"
+  },
+  {
+    "bbox": [
+      75,
+      2088,
+      706,
+      2172
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hàm số } C(x) = \\frac{19200000}{x^2} + \\frac{27x}{x+3000}, x \\ge 1\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

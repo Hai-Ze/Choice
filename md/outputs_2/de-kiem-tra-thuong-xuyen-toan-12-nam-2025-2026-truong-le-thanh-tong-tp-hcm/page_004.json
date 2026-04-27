@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      96,
+      57,
+      349,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngày 30 - 11 - 2025"
+  },
+  {
+    "bbox": [
+      84,
+      139,
+      725,
+      179
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Lớp 12E có 20 bạn nam và 20 bạn nữ."
+  },
+  {
+    "bbox": [
+      134,
+      199,
+      1413,
+      248
+    ],
+    "category": "List-item",
+    "text": "a. Thầy quản nhiệm muốn chia lớp ra thành 4 tổ, mỗi tổ có 10 bạn thì có $C_{40}^{10} \\cdot C_{30}^{10} \\cdot C_{20}^{10}$ cách."
+  },
+  {
+    "bbox": [
+      134,
+      269,
+      1486,
+      360
+    ],
+    "category": "List-item",
+    "text": "b. Xác suất để thầy quản nhiệm chia lớp ra thành 4 tổ, mỗi tổ có 10 bạn sao cho số lượng nam và nữ của mỗi tổ bằng nhau là 0.03. (Làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      134,
+      376,
+      1484,
+      467
+    ],
+    "category": "List-item",
+    "text": "c. Thầy quản nhiệm có thể chia lớp ra thành 4 tổ, mỗi tổ có 10 bạn sao cho số lượng các bạn nữ của các tổ lập thành một cấp số cộng và số lượng các bạn nam của mỗi tổ cũng vậy."
+  },
+  {
+    "bbox": [
+      134,
+      482,
+      1534,
+      735
+    ],
+    "category": "List-item",
+    "text": "d. Nghe lời thầy $F$ có am hiểu về phong thủy, để cả lớp đạt NV1 trong kì thi quốc gia sắp tới thầy quản nhiệm chia lớp ra thành 4 tổ, mỗi tổ có 10 bạn sao cho tổ nào cũng có nam lẫn nữ và sự chênh lệch giữa số lượng nam và nữ trong tổ nhiều hơn 3 bạn. Nếu gọi $k_1, k_2, k_3, k_4$ lần lượt là hiệu số giữa số lượng nam và nữ của tổ 1, 2, 3 và 4 thì $\\{k_1, k_2, k_3, k_4\\}$ lập thành một cấp số nhân với công bội $q \\neq 1$. Xác suất để thầy quản nhiệm chia như vậy lớn hơn 0.0015."
+  },
+  {
+    "bbox": [
+      96,
+      812,
+      463,
+      864
+    ],
+    "category": "Section-header",
+    "text": "## Perần 3: Câu hỏi ngắn"
+  },
+  {
+    "bbox": [
+      96,
+      885,
+      1534,
+      1082
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho khối chóp $S.ABC$ được đặt vào trong hệ trục tọa độ $Oxyz$ với $B = (0;6;0)$, $C = (8;0;0)$, $A$ là điểm trên mặt $(Oxy)$ và $S$ là điểm nằm trên trục $Oz$ sao cho $\\overline{AS} = -\\frac{1}{12}[\\overline{AB}, \\overline{AC}]$. Tính thể tích của khối chóp $S.ABC$. (Làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      96,
+      1158,
+      1534,
+      1489
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một cơ sở sản xuất lụa dệt thủ công hai loại lụa gấm và lụa tơ tầm. Công suất tối đa một ngày của cả xưởng là $100m$ lụa, biết rằng tiền nguyên liệu cho một $mét$ lụa gấm là $20$ nghìn đồng và cần hai công thợ để dệt xong, còn đối với lụa tơ tầm thì cần $10$ nghìn đồng tiền nguyên liệu và một công thợ. Vốn của xưởng một ngày là không quá $6$ triệu đồng và một công thợ là $40$ nghìn đồng. Giá bán lẻ một $mét$ lụa gấm và tơ tầm lần lượt là $150$ nghìn đồng/$mét$ và $80$ nghìn đồng/$mét$. vậy chủ cơ sở cần sản xuất một ngày $x$ mét lụa gấm và $y$ mét lụa tơ tầm để thu lời nhiều nhất (Giả sử mỗi ngày đều bán hết). Tính giá trị của biểu thức $x+3y$."
+  },
+  {
+    "bbox": [
+      96,
+      1572,
+      1534,
+      1901
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Một bể chứa nước hình集合 chữ nhật $ABCD.A'B'C'D'$ có chiều dài các cạnh $AB = 4m$, $AD = 3m$ và $AA' = 2\\sqrt{3}m$ được đặt vào hệ trục tọa độ $Oxyz$ với đơn vị là ($m$) như hình dưới. Trong bể đang chứa $12\\sqrt{3} (m^3)$ nước và mặt nước scanned bốn cạnh $AA', BB', CC', DD'$ lần lượt tại $M, F, E, N$. Một máy bơm $Oxy$, coi như một điểm $I \\in (ME)$ được đặt trên mặt nước với vị trị của máy bơm thỏa mãn $\\frac{MI}{ME} = \\frac{2}{5}$."
+  },
+  {
+    "bbox": [
+      1046,
+      2087,
+      1315,
+      2127
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4 – Mã đề 331"
+  }
+]

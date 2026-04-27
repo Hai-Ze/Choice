@@ -1,0 +1,169 @@
+[
+  {
+    "bbox": [
+      20,
+      0,
+      219,
+      187
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      43,
+      1043,
+      88
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      251,
+      158,
+      1602,
+      358
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>(c)</td><td>Côsin góc giữa hai vectơ $\\vec{u}_1 = (2;1;-2)$ và $\\vec{u}_2 = (-1;-2;2)$ bằng $-\\frac{8}{9}$.</td><td></td><td></td></tr><tr><td>(d)</td><td>Góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$ (làm tròn kết quả đến hàng đơn vị của độ) bằng $132^\\circ$.</td><td></td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      112,
+      360,
+      1084,
+      683
+    ],
+    "category": "List-item",
+    "text": "» Câu 15. Hai thành phố cách nhau một con水. Lấy $A$ và $B$ lần lượt là hai điểm mốc của hai thành phố trong việc đo đạc, đơn vị là $km$. Người ta xây dựng một cây cầu $EF$ bắc qua水, biết rằng vị trí $A$ cách con水 một khoảng $AH=5km$ và vị trí $B$ cách con水 một khoảng $BK=7km$ (hình vẽ), biết $HE+KF=24km$ và độ dài $EF$ không đổi. Đặt $HE = x (km)$ với $x \\in (0; 24)$. Khi đó:"
+  },
+  {
+    "bbox": [
+      1121,
+      360,
+      1599,
+      646
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      685,
+      1602,
+      1184
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Mindh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>$AE = \\sqrt{25 + x^2} (km), BF = \\sqrt{49 + (24 - x)^2} (km)$.</td><td></td><td></td></tr><tr><td>(b)</td><td>Tổng quăng đường đi từ $A$ đến $B$ bằng $\\sqrt{25 + x^2} + \\sqrt{49 + x^2} + EF (km)$.</td><td></td><td></td></tr><tr><td>(c)</td><td>Nếu đặt $f(x) = AE + BF (km)$ thì $f'(x) = \\frac{x}{\\sqrt{x^2 + 25}} + \\frac{x - 24}{\\sqrt{x^2 - 48x + 625}}, \\forall x \\in (0; 24)$.</td><td></td><td></td></tr><tr><td>(d)</td><td>Người ta muốn đi từ $A$ đến $B$ theo quăng đường ngắn nhất thì họ phải xây cầu sao cho khoảng cách giữa hai điểm $E, H$ bằng $9 km$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      112,
+      1188,
+      1563,
+      1367
+    ],
+    "category": "List-item",
+    "text": "» Câu 16. Một xưởng máy sử dụng một loại linh kiện được sản xuất từ hai cơ sở I và II. Số linh kiện do cơ sở I sản xuất chiếm 61%, số linh kiện do cơ sở II sản xuất chiếm 39%. Tỉ lệ linh kiện đạt tiêu chuẩn của cơ sở I, cơ sở II lần lượt là 93%, 82%. Kiểm tra ngẫu nhiên 1 linh kiện ở xưởng máy. Xét các biến cố:"
+  },
+  {
+    "bbox": [
+      256,
+      1369,
+      926,
+      1412
+    ],
+    "category": "Text",
+    "text": "$A_1$: \"Linh kiện được kiểm tra do cơ sở I sản xuất\";"
+  },
+  {
+    "bbox": [
+      256,
+      1421,
+      943,
+      1465
+    ],
+    "category": "Text",
+    "text": "$A_2$: \"Linh kiện được kiểm tra do cơ sở II sản xuất\";"
+  },
+  {
+    "bbox": [
+      256,
+      1473,
+      855,
+      1516
+    ],
+    "category": "Text",
+    "text": "$B$: \"Linh kiện được kiểm tra đạt tiêu chuẩn\"."
+  },
+  {
+    "bbox": [
+      251,
+      1525,
+      363,
+      1562
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      251,
+      1562,
+      1602,
+      1861
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Mindh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>$P(A_1) = 0,39$</td><td></td><td></td></tr><tr><td>(b)</td><td>$P(B | A_2) = 0,82$</td><td></td><td></td></tr><tr><td>(c)</td><td>$P(B) = 0,8871$</td><td></td><td></td></tr><tr><td>(d)</td><td>$P(A_1 | B) = 0,55$</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      64,
+      1863,
+      439,
+      1907
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      112,
+      1907,
+      1563,
+      2045
+    ],
+    "category": "List-item",
+    "text": "» Câu 17. Một chiếc truyền đang chuyển động đều với vận tốc 10 m/s theo hướng từ Nam lên Bắc trên mặt hồ. Trên cây cầu nằm cách mặt hồ 20 m theo phương thẳng đứng, có một chiếc ô tô chuyển động đều với vận tốc 20 m/s theo hướng từ Tây sang Đông."
+  },
+  {
+    "bbox": [
+      112,
+      2248,
+      616,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1313,
+      2253,
+      1442,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  },
+  {
+    "bbox": [
+      1480,
+      2162,
+      1646,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

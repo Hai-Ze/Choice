@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      522,
+      206
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = 1 - \\frac{1}{(x+1)^2}$."
+  },
+  {
+    "bbox": [
+      212,
+      212,
+      859,
+      309
+    ],
+    "category": "Text",
+    "text": "Giải phương trình $y' = 0 \\Leftrightarrow \\begin{cases} x = 0 \\Rightarrow y = -2 \\\\ x = -2 \\Rightarrow y = -6 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      212,
+      315,
+      1279,
+      363
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có hai điểm cực trị là $A(0; -2)$ và $B(-2; -6)$. Vậy $AB^2 = 20$."
+  },
+  {
+    "bbox": [
+      74,
+      373,
+      1575,
+      528
+    ],
+    "category": "List-item",
+    "text": "**Câu 22.** Cho hình chóp $S.ABCD$ có đáy là hình thoi cạnh $a = 2\\sqrt{5}$, tâm $O$ và $ABC = 60^\\circ$, mặt bên $(SAB)$ là tam giác đều và nằm trong mặt phẳng vuông góc với đáy. Gọi $H$ là trung điểm cạnh $AB$. Tính bình phương khoảng cách từ $H$ đến mặt phẳng $(SAC)$."
+  },
+  {
+    "bbox": [
+      833,
+      540,
+      953,
+      580
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      614,
+      579,
+      1173,
+      1090
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1100,
+      398,
+      1141
+    ],
+    "category": "Text",
+    "text": "Đáp số: 3,75"
+  },
+  {
+    "bbox": [
+      212,
+      1145,
+      895,
+      1310
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} (SAB) \\perp (ABCD) \\\\ (SAB) \\cap (ABCD) = AB \\Rightarrow SH \\perp (ABCD). \\\\ SH \\perp AB \\end{cases}$"
+  },
+  {
+    "bbox": [
+      212,
+      1317,
+      1074,
+      1413
+    ],
+    "category": "Text",
+    "text": "Kẻ $HP$ vuông góc với $AC$, ta có: $\\begin{cases} AC \\perp HP \\\\ AC \\perp SH \\end{cases} \\Rightarrow AC \\perp (SHP)$"
+  },
+  {
+    "bbox": [
+      212,
+      1419,
+      1070,
+      1515
+    ],
+    "category": "Text",
+    "text": "Kẻ $HK$ vuông góc với $SP$, ta có: $\\begin{cases} HK \\perp SP \\\\ HK \\perp AC \\end{cases} \\Rightarrow HK \\perp (SAC)$"
+  },
+  {
+    "bbox": [
+      212,
+      1521,
+      585,
+      1571
+    ],
+    "category": "Text",
+    "text": "Suy ra $d(H, (SAC)) = HK$"
+  },
+  {
+    "bbox": [
+      212,
+      1578,
+      1377,
+      1660
+    ],
+    "category": "Text",
+    "text": "Dễ thấy và $\\Delta SAB$ và $\\Delta ABC$ là các tam giác đều nên $SH = \\sqrt{15}$ và $HP = \\frac{1}{2}AC = \\sqrt{5}$"
+  },
+  {
+    "bbox": [
+      212,
+      1666,
+      646,
+      1751
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } HK^2 = \\frac{SH^2 \\cdot HP^2}{SH^2 + HP^2} = 3,75.\n$$"
+  },
+  {
+    "bbox": [
+      676,
+      1751,
+      969,
+      1793
+    ],
+    "category": "Text",
+    "text": "--------HẾT--------"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1521,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 12 -"
+  }
+]

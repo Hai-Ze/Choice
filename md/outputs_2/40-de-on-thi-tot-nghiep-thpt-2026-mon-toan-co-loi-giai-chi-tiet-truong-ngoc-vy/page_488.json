@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      972,
+      216
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      272,
+      1574,
+      591
+    ],
+    "category": "Text",
+    "text": "a) Vì nền nhà là hình chữ nhật nên tức giác $OABC$ là hình chữ nhật, suy ra $x_A = x_B = 4$, $y_C = y_B = 5$. Do $A$ nằm trên trục $Ox$ nên tọa độ điểm $A$ là $(4;0;0)$. Tường nhà là hình chữ nhật nên tức giác $OCHE$ là hình chữ nhật, suy ra $y_H = y_C = 5$, $z_H = z_E = 3$. Do $H$ nằm trên mặt phẳng $(Oyz)$ nên tọa độ điểm $H$ là $(0;5;3)$. Tứ giác $OAFE$ là hình chữ nhật nên $x_F = x_A = 4$; $z_F = z_E = 3$. Do $F$ nằm trên mặt phẳng $(Ozx)$ nên tọa độ điểm $F$ là $(4;0;3)$."
+  },
+  {
+    "bbox": [
+      156,
+      613,
+      674,
+      666
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Ta có } \\overline{AH} = (-4;5;3) \\Rightarrow AH = 5\\sqrt{2}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      694,
+      373,
+      739
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) } \\overline{AF} = (0;0;3)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      764,
+      554,
+      811
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\overline{AH} \\cdot \\overline{AF} = 0+0+9=9\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      825,
+      1572,
+      995
+    ],
+    "category": "Text",
+    "text": "d) Để tính góc dốc của mái nhà, ta đi tính số đo của góc nhị diện có cạnh là đường thẳng $FG$, hai mặt lần lượt là $(FGQP)$ và $(FGHE)$. Do mặt phẳng $(Ozx)$ vuông góc với hai mặt phẳng $(FGQP)$ và $(FGHE)$ nên góc $PFE$ là góc phẳng nhị diện ứng với góc nhị diện đó."
+  },
+  {
+    "bbox": [
+      156,
+      1014,
+      656,
+      1060
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\overline{FP} = (-2;0;1), \\overline{FE} = (-4;0;0).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1084,
+      1352,
+      1192
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\cos \\widehat{PFE} = \\cos(\\overline{FP}, \\overline{FE}) = \\frac{\\overline{FP} \\cdot \\overline{FE}}{|\\overline{FP}| \\cdot |\\overline{FE}|} = \\frac{(-2) \\cdot (-4) + 0 \\cdot 0 + 1 \\cdot 0}{\\sqrt{(-2)^2 + 0^2 + 1^2} \\cdot \\sqrt{(-4)^2 + 0^2 + 0^2}} = \\frac{2\\sqrt{5}}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1218,
+      990,
+      1268
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó, } \\widehat{PFE} \\approx 26,6^{\\circ}. \\text{ Vậy góc dốc của mái nhà khoảng } 26,6^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1346,
+      808,
+      1388
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      156,
+      1402,
+      1574,
+      1623
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một người thợ muốn làm cửa rào sixth có hình dạng và kích thước như hình vẽ bên dưới, biết đường cong phía trên là một parabol và tức giác $ABDE$ là hình chữ nhật. Chi phí của carh cửa sau khi hoàn thành là 700000 đồng/m². Hỏi cần bao nhiêu triệu đồng để làm một cửa sixth như vậy? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      519,
+      1672,
+      1223,
+      2124
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      2202,
+      493,
+      2238
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

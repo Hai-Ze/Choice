@@ -1,0 +1,132 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      99,
+      798,
+      156
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có: $P(A) = 0,65, P(\\bar{A}) = P(B) = 0,35$."
+  },
+  {
+    "bbox": [
+      83,
+      185,
+      1082,
+      237
+    ],
+    "category": "Text",
+    "text": "$P(E|A)$ là xác suất để nhân viên bị tinh giản, thuộc nhóm trình độ đại học."
+  },
+  {
+    "bbox": [
+      76,
+      266,
+      508,
+      317
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có $P(E|A) = 0,1$."
+  },
+  {
+    "bbox": [
+      83,
+      347,
+      1104,
+      410
+    ],
+    "category": "Text",
+    "text": "$P(E|\\bar{A})$ là xác suất để nhân viên bị tinh giản, thuộc nhóm trình độ cao đẳng."
+  },
+  {
+    "bbox": [
+      76,
+      440,
+      528,
+      502
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có $P(E|\\bar{A}) = 0,15$."
+  },
+  {
+    "bbox": [
+      76,
+      532,
+      1289,
+      594
+    ],
+    "category": "Text",
+    "text": "Thay vào ta được $P(E) = P(A) \\cdot P(E|A) + P(\\bar{A}) \\cdot P(E|\\bar{A}) = 0,65 \\cdot 0,1 + 0,35 \\cdot 0,15 = 0,1175$."
+  },
+  {
+    "bbox": [
+      76,
+      615,
+      1494,
+      732
+    ],
+    "category": "Text",
+    "text": "Ta có xác suất để nhân viên được chọn có trình độ đại học, biết rằng nhân viên này đã bị tinh giản, chính là xác suất $P(A|E)$"
+  },
+  {
+    "bbox": [
+      76,
+      755,
+      691,
+      800
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes và kết quả ở trên, ta có"
+  },
+  {
+    "bbox": [
+      83,
+      819,
+      682,
+      918
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|E) = \\frac{P(A) \\cdot P(E|A)}{P(E)} = \\frac{0,65 \\cdot 0,1}{0,1175} \\approx 0,55.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

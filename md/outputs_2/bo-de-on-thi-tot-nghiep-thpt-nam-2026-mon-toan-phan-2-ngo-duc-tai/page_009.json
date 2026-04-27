@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      258
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho tức diện $ABCD$. Gọi $M, N$ lần lượt là trung điểm của $AB, CD$ và $G$ là trung điểm của $MN$. Trong các khẳng định sau, khẳng định nào sai?"
+  },
+  {
+    "bbox": [
+      222,
+      264,
+      625,
+      314
+    ],
+    "category": "Formula",
+    "text": "A. $\\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC} = \\overrightarrow{GD}$."
+  },
+  {
+    "bbox": [
+      833,
+      264,
+      1304,
+      314
+    ],
+    "category": "Formula",
+    "text": "B. $\\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC} + \\overrightarrow{GD} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      222,
+      326,
+      520,
+      376
+    ],
+    "category": "Formula",
+    "text": "C. $\\overrightarrow{GM} + \\overrightarrow{GN} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      833,
+      326,
+      1388,
+      376
+    ],
+    "category": "Formula",
+    "text": "D. $\\overrightarrow{MA} + \\overrightarrow{MB} + \\overrightarrow{MC} + \\overrightarrow{MD} = 4\\overrightarrow{MG}$."
+  },
+  {
+    "bbox": [
+      192,
+      444,
+      1455,
+      565
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      582,
+      1455,
+      715
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x) = \\frac{-x^2 - 3x + 4}{x - 3}$ có đồ thị là (C). Xét tính đúng sai của các khẳng định sau"
+  },
+  {
+    "bbox": [
+      222,
+      711,
+      568,
+      798
+    ],
+    "category": "Formula",
+    "text": "a) $y' = -1 - \\frac{14}{(x - 3)^2}$."
+  },
+  {
+    "bbox": [
+      222,
+      802,
+      1013,
+      849
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị (C) nhận điểm $I(3; -9)$ làm tâm đối xứng."
+  },
+  {
+    "bbox": [
+      222,
+      855,
+      766,
+      903
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị (C) không cắt trục hoành."
+  },
+  {
+    "bbox": [
+      222,
+      909,
+      955,
+      958
+    ],
+    "category": "Text",
+    "text": "d) Tổng giá tị cực trị của hàm số $f(x)$ bằng $-18$."
+  },
+  {
+    "bbox": [
+      192,
+      984,
+      1455,
+      1194
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong kỳ kiểm tra môn Toán của một trường THPT có 400 học sinh tham gia, trong đó có 180 học sinh nam và 220 học sinh nữ. Khi công bố kết quả kỳ kiểm tra đó, tỉ lệ học sinh đạt điểm giải tương ứng với nam và nữ lần lượt là 25% và 30%. Chọn ngẫu nhiên một học sinh trong số 400 học sinh đó."
+  },
+  {
+    "bbox": [
+      192,
+      1200,
+      1455,
+      1299
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Học sinh được chọn ra đạt điểm giải”, $B$ là biến cố “Học sinh được chọn ra là học sinh nữ”."
+  },
+  {
+    "bbox": [
+      222,
+      1295,
+      781,
+      1376
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(B) = \\frac{9}{20}$ và $P(\\bar{B}) = \\frac{11}{20}$."
+  },
+  {
+    "bbox": [
+      222,
+      1376,
+      827,
+      1424
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(A \\mid \\bar{B}) = 0,3$."
+  },
+  {
+    "bbox": [
+      222,
+      1430,
+      633,
+      1477
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất $P(\\bar{A}) = 0,7225$."
+  },
+  {
+    "bbox": [
+      222,
+      1485,
+      1448,
+      1587
+    ],
+    "category": "Text",
+    "text": "d) Trong số học sinh đạt điểm giải có 59% học sinh nữ đạt điểm giải trong kì kiểm tra môn Toán (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      192,
+      1611,
+      1455,
+      1767
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một ô tô đang chuyển động thẳng trên cao tốc với vận tốc 72 km/h thì thấy phía trước cách 70 m có chướng ngại vật. Ngay lúc phát hiện có chướng ngại vật, ô tô hãm phanh để xe chuyển động chậm dần đều với gia tốc $a = -3 \\text{ m/s}^2$."
+  },
+  {
+    "bbox": [
+      222,
+      1773,
+      1448,
+      1875
+    ],
+    "category": "Text",
+    "text": "a) Kể từ lúc bắt đầu quan sát thấy chướng ngại vật, vận tốc của ô tô được tính theo công thức $v(t) = -3t + 20$ với $t$ tính bằng giây và $v(t)$ tính bằng m/s."
+  },
+  {
+    "bbox": [
+      222,
+      1883,
+      1222,
+      1933
+    ],
+    "category": "Text",
+    "text": "b) Ô tô停止 lại ở giây thứ 6 kể từ lúc phát hiện chướng ngại vật."
+  },
+  {
+    "bbox": [
+      222,
+      1939,
+      1448,
+      2041
+    ],
+    "category": "Text",
+    "text": "c) Khi ô tô停止 lại, khoảng cách từ ô tô đến chướng ngại vật tính bằng mét (làm tròn đến hàng đơn vị) là 3 mét."
+  },
+  {
+    "bbox": [
+      222,
+      2045,
+      1448,
+      2141
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc trung bình của ô tô từ lúc phát hiện chướng ngại vật đến lúc停止 lại là 9,8 m/s."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1337,
+      2245,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

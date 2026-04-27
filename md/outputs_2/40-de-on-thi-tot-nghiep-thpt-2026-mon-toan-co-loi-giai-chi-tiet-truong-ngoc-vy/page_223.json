@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      96,
+      94,
+      1473,
+      293
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ (năm)</td><td>[1,5; 2)</td><td>[2; 2,5)</td><td>[2,5; 3)</td><td>[3; 3,5)</td><td>[3,5; 4)</td></tr><tr><td>Giá trị đại diện</td><td>1,75</td><td>2,25</td><td>2,75</td><td>3,25</td><td>3,75</td></tr><tr><td>Số linh kiện của phân xưởng B</td><td>2</td><td>8</td><td>20</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      349,
+      682,
+      396
+    ],
+    "category": "Text",
+    "text": "Tổng số linh kiện: $n_2 = 2+8+20+7+3 = 40$"
+  },
+  {
+    "bbox": [
+      76,
+      421,
+      1037,
+      506
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình $\\bar{x}_2 = \\frac{1,75 \\cdot 2 + 2,25 \\cdot 8 + 2,75 \\cdot 20 + 3,25 \\cdot 7 + 3,75 \\cdot 3}{2+8+20+7+3} = \\frac{221}{80}$"
+  },
+  {
+    "bbox": [
+      76,
+      531,
+      1334,
+      624
+    ],
+    "category": "Text",
+    "text": "Phương sai: $s_2^2 = \\frac{1}{40}(1,75^2 \\cdot 2 + 2,25^2 \\cdot 8 + 2,75^2 \\cdot 20 + 3,25^2 \\cdot 7 + 3,75^2 \\cdot 3) - \\left(\\frac{221}{80}\\right)^2 = \\frac{1399}{6400} \\approx 0,219$"
+  },
+  {
+    "bbox": [
+      76,
+      649,
+      882,
+      696
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho tức diện $ABCD$. Đặt $\\overline{DA} = \\vec{a}, \\overline{DB} = \\vec{b}, \\overline{DC} = \\vec{c}$."
+  },
+  {
+    "bbox": [
+      612,
+      720,
+      960,
+      1082
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1098,
+      915,
+      1142
+    ],
+    "category": "Text",
+    "text": "Nếu $M, N$ lần lượt là trung điểm của hai cạnh $BD$ và $AC$ thì"
+  },
+  {
+    "bbox": [
+      125,
+      1169,
+      783,
+      1249
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } \\overline{MN} = \\frac{1}{2}(-\\vec{a} + \\vec{b} + \\vec{c}).\n$$"
+  },
+  {
+    "bbox": [
+      476,
+      1169,
+      1136,
+      1249
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\overline{MN} = \\frac{1}{2}(\\vec{a} - \\vec{b} + \\vec{c}).\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      1169,
+      1488,
+      1249
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } \\overline{MN} = \\frac{1}{2}(\\vec{a} + \\vec{b} + \\vec{c}).\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      1169,
+      1488,
+      1249
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\overline{MN} = \\frac{1}{2}(\\vec{a} + \\vec{b} - \\vec{c}).\n$$"
+  },
+  {
+    "bbox": [
+      723,
+      1273,
+      849,
+      1311
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1332,
+      196,
+      1370
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      76,
+      1391,
+      1494,
+      1577
+    ],
+    "category": "Text",
+    "text": "Ta có $M$ là trung điểm của cạnh $BD$ nên $\\overline{DM} = \\frac{1}{2}\\overline{DB} = \\frac{1}{2}\\vec{b}$, $N$ là trung điểm của cạnh $AC$ nên $\\overline{DN} = \\frac{1}{2}(\\overline{DA} + \\overline{DC}) = \\frac{1}{2}(\\vec{a} + \\vec{c})$ suy ra $\\overline{MN} = \\overline{DN} - \\overline{DM} = \\frac{1}{2}(\\vec{a} + \\vec{c}) - \\frac{1}{2}\\vec{b} = \\frac{1}{2}(\\vec{a} - \\vec{b} + \\vec{c})$."
+  },
+  {
+    "bbox": [
+      76,
+      1610,
+      1494,
+      1754
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, cho mặt phẳng $(P): x + y - \\frac{z}{2} = 1$. Một vecto pháp tuyến của mặt phẳng $(P)$ là"
+  },
+  {
+    "bbox": [
+      125,
+      1781,
+      325,
+      1832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A. } \\vec{n} = (1;1;2).\n$$"
+  },
+  {
+    "bbox": [
+      476,
+      1781,
+      700,
+      1832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B. } \\vec{n} = (2;2;-1).\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      1781,
+      1042,
+      1832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C. } \\vec{n} = (1;1;-2).\n$$"
+  },
+  {
+    "bbox": [
+      1174,
+      1781,
+      1377,
+      1832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D. } \\vec{n} = (2;2;1).\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      1860,
+      843,
+      1898
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1918,
+      196,
+      1956
+    ],
+    "category": "Text",
+    "text": "**Chọn B.**"
+  },
+  {
+    "bbox": [
+      76,
+      1985,
+      1484,
+      2058
+    ],
+    "category": "Text",
+    "text": "Ta có $(P): x + y - \\frac{z}{2} = 1 \\Leftrightarrow 2x + 2y - z - 2 = 0$ nên vecto pháp tuyến của mặt phẳng $(P)$ là $\\vec{n} = (2;2;-1)$."
+  },
+  {
+    "bbox": [
+      76,
+      2081,
+      1494,
+      2204
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Gọi $(H)$ là hình phẳng giới hạn bởi các đường $y = \\sin x, Ox, x = 0, x = \\pi$. Diện tích của hình phẳng $(H)$ bằng"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      535,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      211,
+      480,
+      253
+    ],
+    "category": "Text",
+    "text": "### ĐỀ SỐ 29"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      754,
+      153,
+      1340,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1507,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      365,
+      1451,
+      483
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      518,
+      303,
+      556
+    ],
+    "category": "Text",
+    "text": "**Câu 1.**"
+  },
+  {
+    "bbox": [
+      192,
+      572,
+      930,
+      725
+    ],
+    "category": "Text",
+    "text": "Thời gian (phút) truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau. Khoảng tức phân vị của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      221,
+      745,
+      364,
+      783
+    ],
+    "category": "List-item",
+    "text": "A. 10,75."
+  },
+  {
+    "bbox": [
+      392,
+      745,
+      518,
+      783
+    ],
+    "category": "List-item",
+    "text": "B. 4,75."
+  },
+  {
+    "bbox": [
+      564,
+      745,
+      688,
+      783
+    ],
+    "category": "List-item",
+    "text": "C. 4,63."
+  },
+  {
+    "bbox": [
+      734,
+      745,
+      858,
+      783
+    ],
+    "category": "List-item",
+    "text": "D. 4,38."
+  },
+  {
+    "bbox": [
+      942,
+      572,
+      1451,
+      908
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Thời gian (phút)</td><td>Số học sinh</td></tr></thead><tbody><tr><td>[9.5; 12.5)</td><td>3</td></tr><tr><td>[12.5; 15.5)</td><td>12</td></tr><tr><td>[15.5; 18.5)</td><td>15</td></tr><tr><td>[18.5; 21.5)</td><td>24</td></tr><tr><td>[21.5; 24.5)</td><td>2</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      192,
+      926,
+      1454,
+      1096
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho dãy số $(u_n)$ được cho bởi hệ thức truy hồi $$ \\begin{cases} u_1 = 5 \\\\ u_{n+1} = u_n + n, n \\ge 2 \\end{cases} $$ . Giá trị của $u_3$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1118,
+      319,
+      1154
+    ],
+    "category": "List-item",
+    "text": "A. 10."
+  },
+  {
+    "bbox": [
+      525,
+      1118,
+      623,
+      1154
+    ],
+    "category": "List-item",
+    "text": "B. 14."
+  },
+  {
+    "bbox": [
+      828,
+      1118,
+      905,
+      1154
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1129,
+      1118,
+      1206,
+      1154
+    ],
+    "category": "List-item",
+    "text": "D. 9."
+  },
+  {
+    "bbox": [
+      192,
+      1186,
+      997,
+      1232
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nguyên hàm của hàm số $f(x) = 4x + \\sin x$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1248,
+      475,
+      1292
+    ],
+    "category": "List-item",
+    "text": "A. $x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      525,
+      1248,
+      796,
+      1292
+    ],
+    "category": "List-item",
+    "text": "B. $2x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      828,
+      1248,
+      1079,
+      1292
+    ],
+    "category": "List-item",
+    "text": "C. $x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1129,
+      1248,
+      1399,
+      1292
+    ],
+    "category": "List-item",
+    "text": "D. $2x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      192,
+      1322,
+      1454,
+      1423
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho mặt phẳng $(P)$: $3x - y + 2 = 0$. Vectơ nào trong các vectơ dưới đây là một vectơ pháp tuyến của mặt phẳng $(P)$?"
+  },
+  {
+    "bbox": [
+      221,
+      1443,
+      416,
+      1483
+    ],
+    "category": "List-item",
+    "text": "A. $(3; -1; 2)$."
+  },
+  {
+    "bbox": [
+      525,
+      1443,
+      746,
+      1483
+    ],
+    "category": "List-item",
+    "text": "B. $(-1; 0; -1)$."
+  },
+  {
+    "bbox": [
+      828,
+      1443,
+      1022,
+      1483
+    ],
+    "category": "List-item",
+    "text": "C. $(3; 0; -1)$."
+  },
+  {
+    "bbox": [
+      1129,
+      1443,
+      1323,
+      1483
+    ],
+    "category": "List-item",
+    "text": "D. $(3; -1; 0)$."
+  },
+  {
+    "bbox": [
+      192,
+      1515,
+      1454,
+      1614
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy là hình vuông, cạnh bên $SA$ vuông góc với đáy $(ABCD)$. Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      221,
+      1632,
+      462,
+      1674
+    ],
+    "category": "List-item",
+    "text": "A. $CD \\perp (SBC)$."
+  },
+  {
+    "bbox": [
+      525,
+      1632,
+      757,
+      1674
+    ],
+    "category": "List-item",
+    "text": "B. $SA \\perp (ABC)$."
+  },
+  {
+    "bbox": [
+      828,
+      1632,
+      1062,
+      1674
+    ],
+    "category": "List-item",
+    "text": "C. $BC \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      1129,
+      1632,
+      1367,
+      1674
+    ],
+    "category": "List-item",
+    "text": "D. $BD \\perp (SAC)$."
+  },
+  {
+    "bbox": [
+      192,
+      1702,
+      1161,
+      1748
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình sau"
+  },
+  {
+    "bbox": [
+      430,
+      1774,
+      1218,
+      2031
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$-$</td><td>$+$</td><td></td></tr><tr><td>$f(x)$</td><td>$4$</td><td>$+\\infty$</td><td>$2$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      2077,
+      930,
+      2123
+    ],
+    "category": "Text",
+    "text": "Số đường tiệm cận của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      221,
+      2145,
+      301,
+      2181
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      525,
+      2145,
+      602,
+      2181
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      828,
+      2145,
+      905,
+      2181
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1129,
+      2145,
+      1206,
+      2181
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      497,
+      2280
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1451,
+      2284
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

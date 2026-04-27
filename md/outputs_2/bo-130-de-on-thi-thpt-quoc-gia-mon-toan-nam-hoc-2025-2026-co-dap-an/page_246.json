@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      476,
+      118,
+      1527,
+      253
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\begin{cases} x = -1 + t \\\\ y = 2 \\\\ z = 1 + 4t \\end{cases} . \\quad \\text{B} \\begin{cases} x = -1 - t \\\\ y = 2 \\\\ z = 1 + 4t \\end{cases} . \\quad \\text{C} \\begin{cases} x = -1 - t \\\\ y = 0 \\\\ z = 1 - 4t \\end{cases} . \\quad \\text{D} \\begin{cases} x = -1 + t \\\\ y = 2t \\\\ z = 1 + 4t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      268,
+      1510,
+      310
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho $A$ và $\\bar{A}$ là hai biến cố đối nhau. Khẳng định nào dưới đây luôn **đúng**?"
+  },
+  {
+    "bbox": [
+      476,
+      307,
+      1306,
+      394
+    ],
+    "category": "Text",
+    "text": "(A) $P(A) = 1 + P(\\bar{A})$.\n(B) $P(A) = P(\\bar{A})$.\n(C) $P(A) = 1 - P(\\bar{A})$.\n(D) $P(A) + P(\\bar{A}) = 0$."
+  },
+  {
+    "bbox": [
+      448,
+      409,
+      1554,
+      488
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho cấp số cộng ($u_n$) với số hạng đầu $u_1 = -6$ và công sai $d = 4$. Tính tổng $S$ của 14 số hạng đầu tiên của cấp số cộng đó."
+  },
+  {
+    "bbox": [
+      476,
+      485,
+      1456,
+      528
+    ],
+    "category": "Text",
+    "text": "(A) $S = 46$.\n(B) $S = 308$.\n(C) $S = 644$.\n(D) $S = 280$."
+  },
+  {
+    "bbox": [
+      448,
+      541,
+      1554,
+      644
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Biết $\\int_{1}^{3} \\frac{x+2}{x} dx = a + b \\ln c$, với $a, b, c \\in \\mathbb{Z}, c < 9$. Tính tổng $S = a + b + c$."
+  },
+  {
+    "bbox": [
+      476,
+      644,
+      1427,
+      687
+    ],
+    "category": "Text",
+    "text": "(A) $S = 6$.\n(B) $S = 7$.\n(C) $S = 8$.\n(D) $S = 9$."
+  },
+  {
+    "bbox": [
+      448,
+      702,
+      1554,
+      816
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong một lớp học có 15 học sinh nam và 10 học sinh nữ. Giáo viên gọi 4 học sinh lên bảng làm bài tập. Tính xác suất để 4 học sinh lên bảng có cả nam và nữ."
+  },
+  {
+    "bbox": [
+      476,
+      808,
+      1404,
+      881
+    ],
+    "category": "Text",
+    "text": "(A) $\\frac{400}{501}$.\n(B) $\\frac{307}{506}$.\n(C) $\\frac{443}{506}$.\n(D) $\\frac{433}{501}$."
+  },
+  {
+    "bbox": [
+      448,
+      890,
+      1554,
+      971
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $a$. Giá trị sin của góc nhị diện $[A', BD, A]$ bằng"
+  },
+  {
+    "bbox": [
+      476,
+      966,
+      1399,
+      1045
+    ],
+    "category": "Text",
+    "text": "(A) $\\frac{\\sqrt{3}}{4}$.\n(B) $\\frac{\\sqrt{6}}{4}$.\n(C) $\\frac{\\sqrt{6}}{3}$.\n(D) $\\frac{\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      448,
+      1054,
+      1174,
+      1110
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1117,
+      1554,
+      1235
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Lớp 12A có 30 học sinh, trong đó có 17 bạn nữ còn lại là nam. Có 3 bạn tên Hiền, trong đó có 1 bạn nữ và 2 bạn nam. Thầy giáo gọi ngẫu nhiên 1 bạn lên bảng."
+  },
+  {
+    "bbox": [
+      476,
+      1230,
+      934,
+      1303
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để có tên Hiền là $\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      476,
+      1294,
+      1361,
+      1366
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      476,
+      1358,
+      1381,
+      1430
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó nam là $\\frac{2}{13}$."
+  },
+  {
+    "bbox": [
+      476,
+      1425,
+      1549,
+      1529
+    ],
+    "category": "Text",
+    "text": "d) Nếu thầy giáo gọi 1 bạn có tên là Hiền lên bảng thì xác suất để bạn đó là bạn nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      448,
+      1538,
+      1554,
+      1656
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hình lăng trụ tam giác đều $ABC.A'B'C'$ có cạnh đáy bằng $2a$, cạnh bên $AA' = a$. Trong mặt phẳng ($A'B'C'$), kẻ $A'H \\perp B'C'$ tại $H$. Khi đó các мыn đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      476,
+      1654,
+      1243,
+      1696
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $B'C'$ vuông góc với mặt phẳng ($AA'H$)."
+  },
+  {
+    "bbox": [
+      476,
+      1696,
+      1137,
+      1736
+    ],
+    "category": "Text",
+    "text": "b) Hai mặt phẳng ($ABC$) và ($AA'H$) vuông góc."
+  },
+  {
+    "bbox": [
+      476,
+      1736,
+      1332,
+      1778
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách từ điểm $A'$ đến mặt phẳng ($AB'C'$) bằng $a\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      476,
+      1778,
+      1053,
+      1820
+    ],
+    "category": "Text",
+    "text": "d) Thể tích khối tư diện $BCB'A'$ là $a^3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      448,
+      1834,
+      928,
+      1908
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hàm số $f(x) = \\frac{1}{x^2 - 4}$."
+  },
+  {
+    "bbox": [
+      476,
+      1903,
+      1137,
+      1978
+    ],
+    "category": "Text",
+    "text": "a) Ta có $\\int f(x) dx = \\int \\frac{1}{4} \\left( \\frac{1}{x-2} - \\frac{1}{x+2} \\right) dx$."
+  },
+  {
+    "bbox": [
+      476,
+      1978,
+      1327,
+      2089
+    ],
+    "category": "Text",
+    "text": "b) Gọi $F(x)$ là nguyên hàm của $f(x)$.\nGiả sử $F(3) = -\\frac{1}{4} \\ln 5$, khi đó $\\int f(x) dx = \\frac{1}{4} \\ln \\left| \\frac{x-2}{x+2} \\right| + 1$."
+  },
+  {
+    "bbox": [
+      476,
+      2086,
+      1519,
+      2175
+    ],
+    "category": "Text",
+    "text": "c) $\\int_{\\frac{4}{3}}^{3} f(x) dx = \\frac{1}{4} \\ln \\frac{a}{b}$ với $\\frac{a}{b}$ là phân số tối简 và $a, b \\in \\mathbb{N}$. Ta có $a \\cdot b = 15$."
+  },
+  {
+    "bbox": [
+      476,
+      2170,
+      1011,
+      2255
+    ],
+    "category": "Text",
+    "text": "d) $\\int_{3}^{4} \\left[ f(x) + \\frac{f'(x)}{f^2(x)} \\right] dx = \\frac{1}{4} \\ln \\frac{5}{3} + 7$."
+  },
+  {
+    "bbox": [
+      134,
+      2259,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "244 Bùi Tịnh Minh Lâm"
+  }
+]

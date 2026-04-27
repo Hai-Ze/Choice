@@ -1,0 +1,196 @@
+[
+  {
+    "bbox": [
+      133,
+      75,
+      705,
+      117
+    ],
+    "category": "Page-header",
+    "text": "TÀI LIỆU LUYỆN THI THPT QUỐC GIA 2026"
+  },
+  {
+    "bbox": [
+      1226,
+      75,
+      1542,
+      117
+    ],
+    "category": "Page-header",
+    "text": "40 ĐỀ MINH HỌA 2026"
+  },
+  {
+    "bbox": [
+      251,
+      159,
+      362,
+      193
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      1264,
+      193,
+      1532,
+      261
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      836,
+      263,
+      951,
+      301
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      670,
+      307,
+      1102,
+      871
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      892,
+      1302,
+      984
+    ],
+    "category": "Text",
+    "text": "Áp dụng định lý Sin, ta có: $\\frac{AB}{\\sin 135^\\circ} = 2R \\Rightarrow R = \\frac{\\sqrt{34}}{2}$ và tính được $AB = \\sqrt{17}$"
+  },
+  {
+    "bbox": [
+      251,
+      994,
+      1517,
+      1078
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $INH$ là tam giác vuông tại $N$, ta có: $\\sin \\beta = \\frac{z_A - z_B}{AB} = \\frac{1}{\\sqrt{17}} \\Rightarrow \\beta \\approx 14^\\circ \\xrightarrow{STO} A$"
+  },
+  {
+    "bbox": [
+      251,
+      1092,
+      1455,
+      1211
+    ],
+    "category": "Text",
+    "text": "Khi đó: $IH = \\sqrt{R^2 - AH^2} = \\sqrt{\\left(\\frac{\\sqrt{34}}{2}\\right)^2 - \\left(\\frac{\\sqrt{17}}{2}\\right)^2} = \\frac{\\sqrt{17}}{2} \\Rightarrow \\cos \\beta = \\frac{IN}{IH} \\Rightarrow IN = \\cos A \\cdot \\frac{\\sqrt{17}}{2}$"
+  },
+  {
+    "bbox": [
+      251,
+      1225,
+      1304,
+      1308
+    ],
+    "category": "Text",
+    "text": "Mặt khác: $z_H = \\frac{z_A + z_B}{2} = \\frac{5+4}{2} = 4,5 \\Rightarrow IN = 2 \\Rightarrow z_I = z_H + IN = 4,5 + 2 = 6,5$"
+  },
+  {
+    "bbox": [
+      251,
+      1316,
+      1181,
+      1406
+    ],
+    "category": "Text",
+    "text": "Khi đó khoảng cách gần nhất là: $d_{\\min} = z_I - R = 6,5 - \\frac{\\sqrt{34}}{2} \\approx 3,58(\\text{m})$"
+  },
+  {
+    "bbox": [
+      114,
+      1412,
+      1535,
+      1631
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** [PNL] Có hai集合待定 bi: Hộp I待定 10 viên bi gồm 4 viên màu đỏ và 6 viên màu xanh. Hộp II待定 7 viên bi gồm 2 viên màu đỏ và 5 viên màu xanh. Lấy ngẫu nhiên 2 viên bi từ集合I bỏ sang集合II. Sau khi trộn đều, người ta lấy ngẫu nhiên 1 viên bi từ集合II ra. Biết rằng viên bi lấy ra từ集合II là bi màu đỏ. Tính xác suất để 2 viên bi đã chuyển từ集合I sang集合II có màu khác nhau."
+  },
+  {
+    "bbox": [
+      562,
+      1643,
+      889,
+      1854
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      945,
+      1643,
+      1272,
+      1854
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1893,
+      362,
+      1927
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      1264,
+      1927,
+      1532,
+      1995
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      675,
+      2010,
+      1111,
+      2046
+    ],
+    "category": "Text",
+    "text": "------------------ HẾT ------------------"
+  },
+  {
+    "bbox": [
+      821,
+      2261,
+      853,
+      2301
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      861,
+      2268,
+      1439,
+      2301
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SĐT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      1514,
+      2268,
+      1532,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "6"
+  }
+]

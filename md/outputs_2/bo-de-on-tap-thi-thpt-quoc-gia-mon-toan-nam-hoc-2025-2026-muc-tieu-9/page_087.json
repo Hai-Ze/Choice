@@ -1,0 +1,270 @@
+[
+  {
+    "bbox": [
+      522,
+      140,
+      1156,
+      664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      726,
+      717,
+      767
+    ],
+    "category": "Text",
+    "text": "Cácatanh đề sau đây đúng hay sai?"
+  },
+  {
+    "bbox": [
+      190,
+      785,
+      1116,
+      828
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình của mặt phẳng ($E$) là $3x - 2y + 6z - 1200 = 0$."
+  },
+  {
+    "bbox": [
+      190,
+      840,
+      1109,
+      884
+    ],
+    "category": "List-item",
+    "text": "b) Một vecto pháp tuyến của mặt phẳng ($E'$) là $\\vec{n}' = (2; 2; -5)$."
+  },
+  {
+    "bbox": [
+      190,
+      898,
+      1459,
+      940
+    ],
+    "category": "List-item",
+    "text": "c) Khi đào hầm, vị trí đầu tiên mà đường hầm gặp lớp than là $M(a; b; c)$, khi đó $a > 90$."
+  },
+  {
+    "bbox": [
+      190,
+      953,
+      1191,
+      995
+    ],
+    "category": "List-item",
+    "text": "d) Chiều dài đoạn đường hầm nằm trong lớp than đá lớn hơn 80 mét."
+  },
+  {
+    "bbox": [
+      155,
+      1012,
+      198,
+      1049
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1010,
+      569,
+      1073
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      203,
+      1087,
+      1203,
+      1130
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E$) đi qua 3 điểm $A, B, C$ nên có cặp vecto chỉ phương là:"
+  },
+  {
+    "bbox": [
+      203,
+      1141,
+      792,
+      1191
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB} = (140; 150; 120); \\overrightarrow{AC} = (100; 90; 80).\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1208,
+      1152,
+      1252
+    ],
+    "category": "Text",
+    "text": "Chọn $\\vec{u}_1(14; 15; 12)$, $\\vec{u}_2(10; 9; 8)$ là cặp VTCP của mặt phẳng ($E$)."
+  },
+  {
+    "bbox": [
+      203,
+      1269,
+      1383,
+      1314
+    ],
+    "category": "Text",
+    "text": "Khi đó, một vecto pháp tuyến của mặt phẳng ($E$) là $\\vec{n}_E = [\\vec{u}_1, \\vec{u}_2] = (12; 8; -24)$."
+  },
+  {
+    "bbox": [
+      203,
+      1331,
+      1438,
+      1375
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E$) đi qua $A(-20; 30; -200)$ và có VTPT $\\vec{n}_1 = (3; 2; -6)$ có phương trình:"
+  },
+  {
+    "bbox": [
+      203,
+      1394,
+      1208,
+      1436
+    ],
+    "category": "Formula",
+    "text": "$$\n3(x + 20) + 2(y - 30) - 6(z + 200) = 0 \\iff 3x + 2y - 6z - 1200 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1455,
+      351,
+      1496
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      1514,
+      1052,
+      1557
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng ($E'$) đi qua 3 điểm $A', B', C'$ nên có cặp VTCP:"
+  },
+  {
+    "bbox": [
+      203,
+      1566,
+      821,
+      1618
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{A'B'} = (140; 150; 116); \\overrightarrow{A'C'} = (100; 90; 76).\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1627,
+      1555,
+      1681
+    ],
+    "category": "Text",
+    "text": "Suy ra một VTPT của mặt phẳng ($E'$) là $\\vec{n}_{E'} = [\\overrightarrow{A'B'}, \\overrightarrow{A'C'}] = (960; 960; -2400) = 480(2; 2; -5)$."
+  },
+  {
+    "bbox": [
+      203,
+      1696,
+      1184,
+      1740
+    ],
+    "category": "Text",
+    "text": "Suy ra $\\vec{n}_2 = (2; 2; -5)$ là một vecto pháp tuyến của mặt phẳng ($E'$)."
+  },
+  {
+    "bbox": [
+      203,
+      1761,
+      307,
+      1800
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      203,
+      1821,
+      1366,
+      1863
+    ],
+    "category": "Text",
+    "text": "Đường hầm $d$ đi qua $T(-200; 200; 0)$ theo hướng $\\vec{v} = (2; -1; -1)$ có PT tham số:"
+  },
+  {
+    "bbox": [
+      203,
+      1876,
+      635,
+      2041
+    ],
+    "category": "Formula",
+    "text": "$$\nd: \\begin{cases} x = -200 + 2t \\\\ y = 200 - t \\\\ z = -t \\end{cases} \\quad (t \\in \\mathbb{R}).\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2056,
+      1130,
+      2099
+    ],
+    "category": "Text",
+    "text": "Thay vào PT mặt phẳng ($E$) : $3x + 2y - 6z - 1200 = 0$, ta được:"
+  },
+  {
+    "bbox": [
+      203,
+      2120,
+      1374,
+      2161
+    ],
+    "category": "Formula",
+    "text": "$$\n3(-200 + 2t) + 2(200 - t) - 6(-t) - 1200 = 0 \\iff 10t - 1400 = 0 \\iff t = 140.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2180,
+      1184,
+      2222
+    ],
+    "category": "Text",
+    "text": "Vị trí đầu tiên gặp lớp than là $M(80; 60; -140)$. Khi đó $a = 80 < 90$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "87"
+  }
+]

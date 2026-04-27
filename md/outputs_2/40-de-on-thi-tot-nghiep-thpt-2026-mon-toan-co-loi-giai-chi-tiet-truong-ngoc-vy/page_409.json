@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      221,
+      132,
+      985,
+      507
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1077,
+      99,
+      1539,
+      502
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      561,
+      1029,
+      611
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của xe B tại thời điểm t giây là $v_B(t) = 20t$ (m/s)."
+  },
+  {
+    "bbox": [
+      156,
+      635,
+      1116,
+      686
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của xe A tại thời điểm t giây là $v_A(t) = 20t^2 - 80t$ (m/s)."
+  },
+  {
+    "bbox": [
+      156,
+      712,
+      1509,
+      760
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường xe A đi được sau 4 giây là $213,3(m)$ (làm tròn kết quả đến hàng phần chục của mét)."
+  },
+  {
+    "bbox": [
+      156,
+      786,
+      1573,
+      900
+    ],
+    "category": "Text",
+    "text": "d) Sau 5 giây kể từ lúc xuất phát thì khoảng cách giữa hai xe là $38,7(m)$ (làm tròn kết quả đến hàng phần chục của mét)."
+  },
+  {
+    "bbox": [
+      807,
+      919,
+      924,
+      958
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      973,
+      971,
+      1095
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1152,
+      1573,
+      1279
+    ],
+    "category": "Text",
+    "text": "a) Đồ thị biểu diễn vận tốc của xe B là đường thẳng có phương trình: $v_B = mt + n$ ($m \\neq 0$) đi qua điểm $(0;0)$; $(3;60) \\Rightarrow v_B(t) = 20t$."
+  },
+  {
+    "bbox": [
+      156,
+      1301,
+      1573,
+      1428
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị biểu diễn vận tốc của xe A là Parabol có phương trình: $v_A = at^2 + bt + c$ ($a \\neq 0$) đi qua điểm $(0;0)$; $(3;60)$; $(4;0) \\Rightarrow v_A(t) = -20t^2 + 80t$."
+  },
+  {
+    "bbox": [
+      156,
+      1454,
+      1104,
+      1501
+    ],
+    "category": "Text",
+    "text": "c) Ta có $v_A = -20t^2 + 80t = 0 \\Rightarrow t = 4$ nên xe A止步 lại sau giây thứ 4."
+  },
+  {
+    "bbox": [
+      156,
+      1525,
+      1406,
+      1622
+    ],
+    "category": "Text",
+    "text": "Do đó quăng đường xe A đi được sau 4 giây là $S_A = \\int_0^4 (-20t^2 + 80t) dt = \\frac{640}{3}(m) \\approx 213,3(m)$."
+  },
+  {
+    "bbox": [
+      156,
+      1648,
+      1130,
+      1747
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường xe B đi được sau 5 giây đầu là $S_B = \\int_0^5 (20t) dt = 250(m)$"
+  },
+  {
+    "bbox": [
+      156,
+      1775,
+      1366,
+      1855
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai xe sau 5 giây kể từ lúc xuất phát là $\\Delta S = |S_A - S_B| = \\frac{110}{3} \\approx 36,7(m)$."
+  },
+  {
+    "bbox": [
+      156,
+      1932,
+      807,
+      1973
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      156,
+      1989,
+      1573,
+      2166
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một cửa vòm có dạng hình parabol được lắp các tấm kính hình tròn đường kính $1m$ và các tấm kính hình vuông có cạnh $1m$ như hình vẽ. Phần còn lại của cửa được sơn màu trang trí với mức giá $1,2$ triệu đồng $/m^2$. Chi phí sơn màu là bao nhiêu triệu đồng (kết quả làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

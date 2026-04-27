@@ -1,0 +1,492 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      106,
+      685,
+      153
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Khẳng định nào dưới đây đúng"
+  },
+  {
+    "bbox": [
+      212,
+      153,
+      569,
+      209
+    ],
+    "category": "Formula",
+    "text": "A. $\\int (4x^3 - 2)dx = x^4 + C$."
+  },
+  {
+    "bbox": [
+      212,
+      214,
+      633,
+      272
+    ],
+    "category": "Formula",
+    "text": "C. $\\int (4x^3 - 2)dx = x^4 - 2x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      153,
+      1245,
+      209
+    ],
+    "category": "Formula",
+    "text": "B. $\\int (4x^3 - 2)dx = 12x^2 + C$."
+  },
+  {
+    "bbox": [
+      862,
+      214,
+      1312,
+      272
+    ],
+    "category": "Formula",
+    "text": "D. $\\int (4x^3 - 2)dx = 12x^4 - 2x + C$."
+  },
+  {
+    "bbox": [
+      831,
+      279,
+      951,
+      321
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      321,
+      664,
+      378
+    ],
+    "category": "Formula",
+    "text": "Ta có $\\int (4x^3 - 2)dx = x^4 - 2x + C$"
+  },
+  {
+    "bbox": [
+      74,
+      385,
+      1563,
+      565
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Một nhà máy có hai phân xưởng I và II cùng sản xuất một loại sản phẩm. Phân xưởng I sản xuất được 65% số sản phẩm và phân xưởng II sản xuất được 35% số sản phẩm. Biết rằng tỉ lệ sản phẩm bị lỗ do phân xưởng I sản xuất là 8% và phân xưởng II sản xuất là 6%. Chọn ngẫu nhiên một sản phẩm của nhà máy. Xác suất sản phẩm được kiểm tra bị lỗ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      568,
+      337,
+      605
+    ],
+    "category": "List-item",
+    "text": "A. 0,14."
+  },
+  {
+    "bbox": [
+      547,
+      568,
+      668,
+      605
+    ],
+    "category": "List-item",
+    "text": "B. 0,07."
+  },
+  {
+    "bbox": [
+      862,
+      568,
+      999,
+      605
+    ],
+    "category": "List-item",
+    "text": "C. 0,073."
+  },
+  {
+    "bbox": [
+      1177,
+      568,
+      1324,
+      605
+    ],
+    "category": "List-item",
+    "text": "D. 0,052."
+  },
+  {
+    "bbox": [
+      831,
+      616,
+      951,
+      658
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      660,
+      1303,
+      704
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Sản phẩm được kiểm tra là của phân xưởng I sản xuất”."
+  },
+  {
+    "bbox": [
+      212,
+      704,
+      891,
+      749
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố “Sản phẩm được kiểm tra bị lỗ”."
+  },
+  {
+    "bbox": [
+      212,
+      751,
+      859,
+      807
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có: $P(A) = 0,65, P(\\bar{A}) = 0,35$."
+  },
+  {
+    "bbox": [
+      479,
+      817,
+      925,
+      871
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = 0,08, P(B|\\bar{A}) = 0,06.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      877,
+      1554,
+      926
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất toàn phần suy ra: xác suất sản phẩm được kiểm tra bị lỗ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      926,
+      1188,
+      982
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,65 \\cdot 0,08 + 0,35 \\cdot 0,06 = 0,073.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      991,
+      893,
+      1036
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Họ nguyên hàm của hàm số $f(x) = \\cos x - 1$ là"
+  },
+  {
+    "bbox": [
+      212,
+      1047,
+      436,
+      1084
+    ],
+    "category": "List-item",
+    "text": "A. $\\sin x - x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      1047,
+      1037,
+      1084
+    ],
+    "category": "List-item",
+    "text": "B. $\\sin x + C$."
+  },
+  {
+    "bbox": [
+      212,
+      1094,
+      414,
+      1131
+    ],
+    "category": "List-item",
+    "text": "C. $-\\sin x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      1094,
+      1116,
+      1131
+    ],
+    "category": "List-item",
+    "text": "D. $-\\sin x - x + C$."
+  },
+  {
+    "bbox": [
+      831,
+      1138,
+      951,
+      1179
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      208,
+      1181,
+      1152,
+      1226
+    ],
+    "category": "Text",
+    "text": "Ta có họ nguyên hàm của hàm số $f(x) = \\cos x - 1$ là $\\sin x - x + C$."
+  },
+  {
+    "bbox": [
+      74,
+      1235,
+      1539,
+      1385
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Trong không gian $Oxyz$ (đơn vị trên mỗi trục tính theo mét), một thiết bị phát sóng đặt tại vị trí $A(30;0;0)$. Vùng phủ sóng của thiết bị có bán kính bằng $50m$.úp điểm nào dưới đây không thuộc vùng phủ sóng của thiết bị nói trên?"
+  },
+  {
+    "bbox": [
+      212,
+      1389,
+      426,
+      1434
+    ],
+    "category": "List-item",
+    "text": "A. $M(50;0;0)$."
+  },
+  {
+    "bbox": [
+      862,
+      1389,
+      1085,
+      1434
+    ],
+    "category": "List-item",
+    "text": "B. $Q(0;-20;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1444,
+      472,
+      1490
+    ],
+    "category": "List-item",
+    "text": "C. $P(-10;30;10)$."
+  },
+  {
+    "bbox": [
+      862,
+      1444,
+      1108,
+      1490
+    ],
+    "category": "List-item",
+    "text": "D. $N(30;-15;1)$."
+  },
+  {
+    "bbox": [
+      831,
+      1501,
+      951,
+      1543
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1547,
+      462,
+      1584
+    ],
+    "category": "Text",
+    "text": "Bán kính $R = 50$."
+  },
+  {
+    "bbox": [
+      218,
+      1588,
+      506,
+      1640
+    ],
+    "category": "Formula",
+    "text": "$$\nAM = \\sqrt{20^2} = 20 < R\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1650,
+      625,
+      1704
+    ],
+    "category": "Formula",
+    "text": "$$\nAQ = \\sqrt{30^2 + 20^2} = 10\\sqrt{13} < R\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1714,
+      701,
+      1764
+    ],
+    "category": "Formula",
+    "text": "$$\nAP = \\sqrt{40^2 + 30^2 + 10^2} = \\sqrt{2600} > R\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1774,
+      575,
+      1824
+    ],
+    "category": "Formula",
+    "text": "$$\nAN = \\sqrt{15^2 + 1} = \\sqrt{226} < R\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1832,
+      1120,
+      1875
+    ],
+    "category": "Text",
+    "text": "Vậy điểm $P$ không thuộc vùng phủ sóng của thiết bị nói trên."
+  },
+  {
+    "bbox": [
+      74,
+      1877,
+      1466,
+      1971
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = x^3 - x, y = 3x$ và hai đường thẳng $x = 0, x = 3$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      1977,
+      310,
+      2056
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{17}{4}$."
+  },
+  {
+    "bbox": [
+      547,
+      1977,
+      645,
+      2056
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{41}{4}$."
+  },
+  {
+    "bbox": [
+      862,
+      1977,
+      946,
+      2056
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      1177,
+      1977,
+      1281,
+      2056
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{57}{4}$."
+  },
+  {
+    "bbox": [
+      831,
+      2065,
+      951,
+      2107
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2109,
+      855,
+      2204
+    ],
+    "category": "Formula",
+    "text": "Ta có $S = \\int_{0}^{3} |(x^3 - x) - 3x| dx = \\int_{0}^{3} |x^3 - 4x| dx = \\frac{41}{4}$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp - 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

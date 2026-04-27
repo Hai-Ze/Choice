@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      153,
+      75,
+      1573,
+      159
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai, gồm 4 câu, tổng 4,0 điểm.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a) b) c) d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      159,
+      1573,
+      322
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Mức cường độ âm $L(dB)$ được tính bởi công thức $L = 10 \\log \\frac{I}{10^{-12}}$, trong đó $I(W/m^2)$ là cường độ âm. Để đảm bảo sức khỏe cho công nhân, mức cường độ âm trong một nhà máy phải giữ sao cho không vượt quá $85 dB$. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      636,
+      322,
+      1087,
+      624
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      626,
+      482,
+      665
+    ],
+    "category": "Formula",
+    "text": "a) $L = 10 \\log I + 120$."
+  },
+  {
+    "bbox": [
+      193,
+      671,
+      1349,
+      722
+    ],
+    "category": "Formula",
+    "text": "b) Nếu cường độ âm $I = 1000(W/m^2)$ thì mức cường độ âm không vượt quá $125 dB$."
+  },
+  {
+    "bbox": [
+      193,
+      732,
+      1354,
+      784
+    ],
+    "category": "Formula",
+    "text": "c) Để mức cường độ âm không vượt quá $130 dB$ thì cần cường độ âm $I \\le 10(W/m^2)$."
+  },
+  {
+    "bbox": [
+      193,
+      794,
+      1560,
+      844
+    ],
+    "category": "Formula",
+    "text": "d) Cường độ âm của nhà máy đó không vượt quá $10^{-3,5}(W/m^2)$ thì đảm bảo sức khỏe cho công nhân."
+  },
+  {
+    "bbox": [
+      153,
+      849,
+      1174,
+      895
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      547,
+      897,
+      1170,
+      1107
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>1</td><td>3</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>0</td><td>+</td><td>0</td><td>$-$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td>2</td><td>4</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      1107,
+      539,
+      1152
+    ],
+    "category": "Formula",
+    "text": "a) Hàm số có hệ số $a < 0$."
+  },
+  {
+    "bbox": [
+      193,
+      1156,
+      810,
+      1205
+    ],
+    "category": "Formula",
+    "text": "b) Đồ thị hàm số đi qua hai điểm $(1;2)$; $(3;4)$."
+  },
+  {
+    "bbox": [
+      193,
+      1218,
+      729,
+      1264
+    ],
+    "category": "Formula",
+    "text": "c) $f'(x) = 0$ tại các giá trị $x = 2; x = 4$."
+  },
+  {
+    "bbox": [
+      193,
+      1278,
+      858,
+      1358
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của hàm số trên $[2;4]$ bằng $\\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      1360,
+      1573,
+      1560
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Từ một tấm bìa mỏng hình lục giác đều ABCDEF cạnh 4 cm, bên trong có 1 lục giác đều nhỏ hơn. Các đường chéo AD, BE, CF cắt nhau tại O, OA cắt cạnh lục giác đều nhỏ tại M (hình vẽ). Đặt $OM = x$ (cm). Bạn Khôi cắt bỏ 6 tam giác cân bằng nhau có cạnh đáy là cạnh của hình lục giác đều ban đầu và đỉnh là đỉnh của lục giác đều nhỏ phía trong rồi gấp lên sao cho các đỉnh A, B, C, D, E, F trùng nhau tạo thành một khối chóp lục giác đều."
+  },
+  {
+    "bbox": [
+      628,
+      1573,
+      1087,
+      2000
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2017,
+      713,
+      2061
+    ],
+    "category": "Formula",
+    "text": "a) Tam giác OAB đều cạnh bằng 4 cm."
+  },
+  {
+    "bbox": [
+      193,
+      2063,
+      931,
+      2158
+    ],
+    "category": "Formula",
+    "text": "b) Cạnh đáy của khối chóp lục giác đều bằng $\\frac{x\\sqrt{3}}{6}$ cm."
+  },
+  {
+    "bbox": [
+      193,
+      2160,
+      966,
+      2207
+    ],
+    "category": "Formula",
+    "text": "c) Đường cao của khối chóp lục giác đều là $\\sqrt{16-8x}$ cm."
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      556,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1424,
+      2236,
+      1573,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/40"
+  }
+]

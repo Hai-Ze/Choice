@@ -1,0 +1,380 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      615,
+      255
+    ],
+    "category": "Section-header",
+    "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO\nĐỀ MINH HỌA THPT 2025"
+  },
+  {
+    "bbox": [
+      271,
+      264,
+      546,
+      311
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      752,
+      152,
+      1341,
+      251
+    ],
+    "category": "Section-header",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA\nMôn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      264,
+      1507,
+      311
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      364,
+      1452,
+      483
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      515,
+      896,
+      562
+    ],
+    "category": "Text",
+    "text": "Câu 1. Nguyên hàm của hàm số $f(x) = e^x$ là"
+  },
+  {
+    "bbox": [
+      220,
+      566,
+      419,
+      655
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{e^{x+1}}{x+1} + C.$"
+  },
+  {
+    "bbox": [
+      524,
+      566,
+      675,
+      633
+    ],
+    "category": "Formula",
+    "text": "B. $e^x + C.$"
+  },
+  {
+    "bbox": [
+      826,
+      566,
+      980,
+      655
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{e^x}{x} + C.$"
+  },
+  {
+    "bbox": [
+      1127,
+      586,
+      1345,
+      633
+    ],
+    "category": "Formula",
+    "text": "D. $x \\cdot e^{x-1} + C.$"
+  },
+  {
+    "bbox": [
+      192,
+      667,
+      1455,
+      873
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ liên tục, nhận giá trị dương trên đoạn $[a; b]$. Xét hình phẳng ($H$) giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$. Khối tròn xoay được tạo thành khi quay hình phẳng ($H$) quanh trục $Ox$ có thể tích là"
+  },
+  {
+    "bbox": [
+      220,
+      873,
+      544,
+      961
+    ],
+    "category": "Formula",
+    "text": "A. $V = \\pi \\int_{a}^{b} |f(x)| dx.$"
+  },
+  {
+    "bbox": [
+      832,
+      873,
+      1148,
+      961
+    ],
+    "category": "Formula",
+    "text": "B. $V = \\pi^2 \\int_{a}^{b} f(x) dx.$"
+  },
+  {
+    "bbox": [
+      220,
+      961,
+      567,
+      1050
+    ],
+    "category": "Formula",
+    "text": "C. $V = \\pi^2 \\int_{a}^{b} [f(x)]^2 dx.$"
+  },
+  {
+    "bbox": [
+      832,
+      961,
+      1163,
+      1050
+    ],
+    "category": "Formula",
+    "text": "D. $V = \\pi \\int_{a}^{b} [f(x)]^2 dx.$"
+  },
+  {
+    "bbox": [
+      192,
+      1062,
+      1429,
+      1110
+    ],
+    "category": "Text",
+    "text": "Câu 3. Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      369,
+      1133,
+      1275,
+      1363
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">M<sub>1</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>3</td><td>4</td><td>8</td><td>6</td><td>4</td></tr><tr><td rowspan=\"2\">M<sub>2</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>6</td><td>8</td><td>16</td><td>12</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1388,
+      1452,
+      1490
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      220,
+      1508,
+      382,
+      1551
+    ],
+    "category": "Formula",
+    "text": "A. $s_1 = s_2.$"
+  },
+  {
+    "bbox": [
+      524,
+      1508,
+      701,
+      1551
+    ],
+    "category": "Formula",
+    "text": "B. $s_1 = 2s_2.$"
+  },
+  {
+    "bbox": [
+      826,
+      1508,
+      1005,
+      1551
+    ],
+    "category": "Formula",
+    "text": "C. $2s_1 = s_2.$"
+  },
+  {
+    "bbox": [
+      1127,
+      1508,
+      1304,
+      1551
+    ],
+    "category": "Formula",
+    "text": "D. $4s_1 = s_2.$"
+  },
+  {
+    "bbox": [
+      192,
+      1577,
+      1455,
+      1679
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của đường thẳng đi qua điểm $M(1; -3; 5)$ và có một vecto chỉ phương $\\vec{u}(2; -1; 1)$ là"
+  },
+  {
+    "bbox": [
+      220,
+      1681,
+      593,
+      1764
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z-5}{1}.$"
+  },
+  {
+    "bbox": [
+      832,
+      1681,
+      1203,
+      1764
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z+5}{1}.$"
+  },
+  {
+    "bbox": [
+      220,
+      1764,
+      593,
+      1851
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{x-1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}.$"
+  },
+  {
+    "bbox": [
+      832,
+      1764,
+      1203,
+      1851
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{x+1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}.$"
+  },
+  {
+    "bbox": [
+      192,
+      1885,
+      1057,
+      2057
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hàm số $y = \\frac{ax+b}{cx+d} (c \\neq 0, ad - bc + 0)$ có đồ thị như hình vẽ bên. Tiệm cận ngang của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      1076,
+      1885,
+      1395,
+      2182
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      220,
+      2061,
+      387,
+      2142
+    ],
+    "category": "Formula",
+    "text": "A. $x = -1.$"
+  },
+  {
+    "bbox": [
+      423,
+      2061,
+      567,
+      2142
+    ],
+    "category": "Formula",
+    "text": "B. $y = \\frac{1}{2}.$"
+  },
+  {
+    "bbox": [
+      626,
+      2061,
+      792,
+      2142
+    ],
+    "category": "Formula",
+    "text": "C. $y = -1.$"
+  },
+  {
+    "bbox": [
+      826,
+      2061,
+      970,
+      2142
+    ],
+    "category": "Formula",
+    "text": "D. $x = \\frac{1}{2}.$"
+  },
+  {
+    "bbox": [
+      192,
+      2243,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2243,
+      1452,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

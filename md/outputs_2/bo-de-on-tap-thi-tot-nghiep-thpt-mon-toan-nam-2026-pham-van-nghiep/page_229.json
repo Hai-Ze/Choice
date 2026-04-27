@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      833,
+      111,
+      953,
+      151
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      198,
+      151,
+      1591,
+      199
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Sai</td><td>d) Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      250,
+      431,
+      290
+    ],
+    "category": "Section-header",
+    "text": "a) Chọn Đúng"
+  },
+  {
+    "bbox": [
+      621,
+      303,
+      1158,
+      756
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      767,
+      1573,
+      854
+    ],
+    "category": "Text",
+    "text": "Xét hệ trục tọa độ $Oxyz$ với $O$ trùng $A$, các tia $Ox, Oy, Oz$ lần lượt trùng với các tia $AB, AD, AA'$."
+  },
+  {
+    "bbox": [
+      213,
+      871,
+      464,
+      909
+    ],
+    "category": "Text",
+    "text": "Khi đó $C \\ 3;3;0$."
+  },
+  {
+    "bbox": [
+      213,
+      927,
+      396,
+      965
+    ],
+    "category": "Section-header",
+    "text": "b) Chọn Sai"
+  },
+  {
+    "bbox": [
+      213,
+      970,
+      1130,
+      1016
+    ],
+    "category": "Text",
+    "text": "Ta xác định được tọa độ các điểm như sau: $B' \\ 3;0;3$ ; $C' \\ 3;3;3$"
+  },
+  {
+    "bbox": [
+      213,
+      1028,
+      1168,
+      1124
+    ],
+    "category": "Text",
+    "text": "Vì $P$ là trung điểm $B'C'$ nên $P\\left(\\frac{3+3}{2};\\frac{0+3}{2};\\frac{3+3}{2}\\right)$ hay $P\\left(3;\\frac{3}{2};3\\right)$"
+  },
+  {
+    "bbox": [
+      213,
+      1133,
+      905,
+      1226
+    ],
+    "category": "Text",
+    "text": "Tam giác $PCD$ có $P\\left(3;\\frac{3}{2};3\\right)$; $C \\ 3;3;0$; $D \\ 0;3;0$"
+  },
+  {
+    "bbox": [
+      213,
+      1233,
+      1539,
+      1408
+    ],
+    "category": "Text",
+    "text": "Trọng tâm của tam giác $PCD$ có tọa độ là $G\\left(\\frac{3+3+0}{3};\\frac{\\frac{3}{2}+3+3}{3};\\frac{3+0+0}{3}\\right)$ hay $G\\left(2;\\frac{5}{2};1\\right)$"
+  },
+  {
+    "bbox": [
+      213,
+      1420,
+      390,
+      1458
+    ],
+    "category": "Section-header",
+    "text": "c) Chọn Sai"
+  },
+  {
+    "bbox": [
+      213,
+      1463,
+      1345,
+      1527
+    ],
+    "category": "Text",
+    "text": "Ta có: $|\\overrightarrow{KP} + \\overrightarrow{KC} + \\overrightarrow{KD}| = 3|\\overrightarrow{KG}| = 3KG$ với $G$ là trọng tâm của tam giác $PCD$"
+  },
+  {
+    "bbox": [
+      213,
+      1536,
+      1566,
+      1660
+    ],
+    "category": "Text",
+    "text": "Giá trị của biểu thức $|\\overrightarrow{KP} + \\overrightarrow{KC} + \\overrightarrow{KD}|$ nhỏ nhất $\\Leftrightarrow KG$ nhỏ nhất $\\Leftrightarrow K$ là hình chiếu của $G$ lên mặt phẳng $Oxz \\Leftrightarrow K \\ 2;0;1$"
+  },
+  {
+    "bbox": [
+      213,
+      1668,
+      941,
+      1783
+    ],
+    "category": "Text",
+    "text": "Khi đó: $KG = \\sqrt{2 - 2^2 + \\left(\\frac{5}{2} - 0\\right)^2 + 1 - 1^2} = \\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      213,
+      1793,
+      793,
+      1881
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\overrightarrow{KP} + \\overrightarrow{KC} + \\overrightarrow{KD}|_{\\min} = 3KG = 3 \\cdot \\frac{5}{2} = \\frac{15}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1889,
+      396,
+      1927
+    ],
+    "category": "Section-header",
+    "text": "d) Chọn Sai"
+  },
+  {
+    "bbox": [
+      213,
+      1932,
+      1412,
+      2027
+    ],
+    "category": "Text",
+    "text": "Ta có: $A \\ 0;0;0$ , $B \\ 3;0;0$ , $C' \\ 3;3;3$ , $P\\left(3;\\frac{3}{2};3\\right)$. Suy ra $\\overrightarrow{AP} = \\left(3;\\frac{3}{2};3\\right)$, $\\overrightarrow{BC'} = \\ 0;3;3$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

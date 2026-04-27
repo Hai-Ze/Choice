@@ -1,0 +1,320 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      97,
+      326,
+      140
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AD'}$."
+  },
+  {
+    "bbox": [
+      556,
+      97,
+      671,
+      140
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AC'}$."
+  },
+  {
+    "bbox": [
+      906,
+      97,
+      1018,
+      140
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AC}$."
+  },
+  {
+    "bbox": [
+      1255,
+      97,
+      1371,
+      140
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AB'}$."
+  },
+  {
+    "bbox": [
+      803,
+      165,
+      927,
+      204
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      223,
+      277,
+      260
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      162,
+      278,
+      621,
+      323
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB} + \\overline{AD} + \\overline{AA'} = \\overline{AC} + \\overline{AA'} = \\overline{AC'}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      342,
+      1574,
+      453
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABCD$ có đáy là hình thang $ABCD$ và $AD // BC$. Gọi $I$ là giao điểm của $AB$ và $DC$, $M$ là trung điểm $SC$. $DM$ cắt mặt phẳng $(SAB)$ tại $J$. Khẳng định nào sau đây **sai**?"
+  },
+  {
+    "bbox": [
+      195,
+      482,
+      519,
+      526
+    ],
+    "category": "List-item",
+    "text": "A. $S, I, J$ thẳng hàng."
+  },
+  {
+    "bbox": [
+      906,
+      482,
+      1189,
+      529
+    ],
+    "category": "List-item",
+    "text": "B. $DM \\subset mp(SCI)$."
+  },
+  {
+    "bbox": [
+      195,
+      559,
+      476,
+      604
+    ],
+    "category": "List-item",
+    "text": "C. $JM \\subset mp(SAB)$."
+  },
+  {
+    "bbox": [
+      906,
+      559,
+      1243,
+      604
+    ],
+    "category": "List-item",
+    "text": "D. $SI = (SAB) \\cap (SCD)$."
+  },
+  {
+    "bbox": [
+      807,
+      631,
+      924,
+      670
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      689,
+      279,
+      726
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      611,
+      748,
+      1114,
+      1168
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      162,
+      1203,
+      1264,
+      1250
+    ],
+    "category": "Text",
+    "text": "$S, I, J$ thẳng hàng vì ba điểm cùng thuộc hai $mp(SAB)$ và $(SCD)$ nên A đúng."
+  },
+  {
+    "bbox": [
+      162,
+      1279,
+      928,
+      1326
+    ],
+    "category": "Text",
+    "text": "$M \\in SC \\Rightarrow M \\in (SCI)$ nên $DM \\subset mp(SCI)$ vậy B đúng."
+  },
+  {
+    "bbox": [
+      162,
+      1355,
+      752,
+      1400
+    ],
+    "category": "Text",
+    "text": "$M \\notin (SAB)$ nên $JM \\not\\subset mp(SAB)$ vậy C sai."
+  },
+  {
+    "bbox": [
+      157,
+      1422,
+      651,
+      1467
+    ],
+    "category": "Text",
+    "text": "Hiển nhiên D đúng theo giải thích A."
+  },
+  {
+    "bbox": [
+      157,
+      1486,
+      1572,
+      1600
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành và $SA \\perp (ABCD)$. Đường thẳng nào sau đây vuông góc với $SA$?"
+  },
+  {
+    "bbox": [
+      722,
+      1627,
+      1009,
+      1893
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1923,
+      311,
+      1958
+    ],
+    "category": "List-item",
+    "text": "A. $SC$."
+  },
+  {
+    "bbox": [
+      556,
+      1923,
+      662,
+      1958
+    ],
+    "category": "List-item",
+    "text": "B. $BD$."
+  },
+  {
+    "bbox": [
+      906,
+      1923,
+      1007,
+      1958
+    ],
+    "category": "List-item",
+    "text": "C. $SB$."
+  },
+  {
+    "bbox": [
+      1255,
+      1923,
+      1359,
+      1958
+    ],
+    "category": "List-item",
+    "text": "D. $SD$."
+  },
+  {
+    "bbox": [
+      807,
+      1982,
+      924,
+      2021
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      2040,
+      277,
+      2077
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      162,
+      2098,
+      551,
+      2207
+    ],
+    "category": "Formula",
+    "text": "$$\n\\left. \\begin{array}{l} SA \\perp (ABCD) \\\\ BD \\subset (ABCD) \\end{array} \\right\\} \\Rightarrow SA \\perp BD\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

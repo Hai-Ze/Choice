@@ -1,0 +1,159 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      155,
+      1456,
+      365
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một xưởng sản xuất thực phẩm gồm 3 kĩ sư chế biến thực phẩm, 3 kĩ thuật viên và 12 công nhân. Để đảm bảo sản xuất thực phẩm chống dịch Covid 19, xưởng cần chia thành 3 ca sản xuất theo thời gian liên tiếp nhau sao cho mỗi ca có 6 người."
+  },
+  {
+    "bbox": [
+      222,
+      371,
+      1162,
+      422
+    ],
+    "category": "List-item",
+    "text": "a) Số cách phân chia lao động vào 3 ca sản xuất là $C_{18}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      222,
+      426,
+      1446,
+      530
+    ],
+    "category": "List-item",
+    "text": "b) Số cách phân lịch lao động vào 3 ca sản xuất sao cho ca đầu tiên gồm toàn công nhân là $C_{12}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      222,
+      530,
+      1446,
+      634
+    ],
+    "category": "List-item",
+    "text": "c) Số cách phân lịch lao động vào 3 ca sản xuất sao cho mỗi ca có đúng 1 kĩ sư và đúng 1 kĩ thuật viên là $C_6^1 \\cdot C_6^1 \\cdot C_{12}^4$."
+  },
+  {
+    "bbox": [
+      222,
+      634,
+      1446,
+      757
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất sao cho mỗi ca có đúng 1 kĩ thuật viên, 1 kĩ sư chế biến thực phẩm là $\\frac{225}{3094}$."
+  },
+  {
+    "bbox": [
+      216,
+      801,
+      1385,
+      854
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      193,
+      886,
+      1456,
+      1265
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Số lượng của một loại vi kurẩn X trong một phòng thí nghiệm được biểu diễn theo công thức $S(t) = A \\cdot e^{rt}$, trong đó $A$ là số lượng vi kurẩn tại thời điểm chọn mốc thời gian, $r$ là ti lệ tăng trưởng ($r > 0$), $t$ là thời gian tăng trưởng (tính theo đơn vị là giờ).等 0 giờ sáng, số lượng vi kurẩn X là 150 con. Sau 3 giờ, số lượng vi kurẩn X là 450 con. cùng thời điểm lúc 0 giờ, người ta đo được số lượng vi kurẩn Y là 300 con. Biết rằng số lượng vi kurẩn Y tăng 5% mỗi giờ. Hỏi vào lúc may giờ, số lượng vi kurẩn X bằng số lượng vi kurẩn Y. KQ: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      193,
+      1282,
+      1456,
+      1607
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong một công viên có một hồ nước và một đường đi lát gạch hoa. thiết lập hệ trục $Oxy$ như hình vẽ dưới, kiến trúc sư thấy rằng bờ hồ có thể coi một nhánh của đồ thị hàm số $y = \\frac{2x+1}{x-1}$ và đường đi khi đó ứng với đường thẳng $y = -x+4$. Để đảm bảo ánh sáng, kiến trúc sư muốn đặt 2 cột decimal trên bờ hồ và 2 cột decimal trên đường đi sao cho 4 cột decimal này tạo thành một hình vuông. Tính khoảng cách giữa 2 cột decimal trên bờ hồ (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      528,
+      1627,
+      1103,
+      2119
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1140,
+      2158,
+      1203,
+      2200
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      2150,
+      1453,
+      2210
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4"
+  }
+]

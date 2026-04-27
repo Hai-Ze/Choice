@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      193,
+      83,
+      341,
+      129
+    ],
+    "category": "List-item",
+    "text": "A. (2;0;5)"
+  },
+  {
+    "bbox": [
+      193,
+      168,
+      358,
+      215
+    ],
+    "category": "List-item",
+    "text": "B. (2;0;-5)"
+  },
+  {
+    "bbox": [
+      193,
+      255,
+      358,
+      301
+    ],
+    "category": "List-item",
+    "text": "C. (6;0;-5)"
+  },
+  {
+    "bbox": [
+      193,
+      340,
+      341,
+      397
+    ],
+    "category": "List-item",
+    "text": "D. (6;0;5)"
+  },
+  {
+    "bbox": [
+      826,
+      431,
+      938,
+      469
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      476,
+      306,
+      513
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      193,
+      519,
+      677,
+      569
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB} = \\overline{DC}$. Suy ra $D(6;0;-5)$"
+  },
+  {
+    "bbox": [
+      193,
+      602,
+      333,
+      641
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II."
+  },
+  {
+    "bbox": [
+      153,
+      657,
+      1571,
+      746
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Hình vẽ sau mô tả vị trí của máy bay vào thời điểm 9h30 phút. Biết các đơn vị trên hình tính theo đơn vị km. Trong các khẳng định sau đây, khẳng định nào đúng, khẳng định nào sai?"
+  },
+  {
+    "bbox": [
+      634,
+      754,
+      1146,
+      1170
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1178,
+      628,
+      1216
+    ],
+    "category": "Text",
+    "text": "a) Мáy bay đang ở độ cao 9km."
+  },
+  {
+    "bbox": [
+      193,
+      1221,
+      687,
+      1265
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ của máy bay (300;150;9)."
+  },
+  {
+    "bbox": [
+      153,
+      1270,
+      1571,
+      1402
+    ],
+    "category": "Text",
+    "text": "c) Phi công để máy bay ở chế độ tự động với vận tốc theo hướng đông là 750km/h, độ cao không đổi. Biết rằng gió thổi theo hướng đông với vận tốc 10m/s. Giả sử vận tốc và hướng gió không đổi thì lúc 10h30phút máy bay ở tọa độ (150;1086;9)."
+  },
+  {
+    "bbox": [
+      153,
+      1407,
+      1571,
+      1501
+    ],
+    "category": "Text",
+    "text": "d) Sau khi bay đến vị trí lúc 10h30 thì máy bay bayled lại với vận tốc 800km/h với độ cao không đổi, biết lúc đó trời lặng gió thì lúc 11h máy bay ở tọa độ (686;150;9)."
+  },
+  {
+    "bbox": [
+      826,
+      1510,
+      938,
+      1548
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      276,
+      1581,
+      888,
+      1625
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Đúng</td><td>d) Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      1625,
+      1196,
+      1667
+    ],
+    "category": "Text",
+    "text": "a) Dựa vào hình vẽ ta thấy máy bay đang ở độ cao 9km. Suy ra ý a) Đúng."
+  },
+  {
+    "bbox": [
+      193,
+      1672,
+      881,
+      1715
+    ],
+    "category": "Text",
+    "text": "b) Мáy bay ở tọa độ (150;300;9). Suy ra ý b) Sai."
+  },
+  {
+    "bbox": [
+      193,
+      1721,
+      634,
+      1763
+    ],
+    "category": "Text",
+    "text": "c) Vận tốc gió 10m/s = 36km/h"
+  },
+  {
+    "bbox": [
+      193,
+      1766,
+      923,
+      1804
+    ],
+    "category": "Text",
+    "text": "Quăng đường máy bay bay được là: 750 + 36 = 786km"
+  },
+  {
+    "bbox": [
+      193,
+      1808,
+      1045,
+      1853
+    ],
+    "category": "Text",
+    "text": "Do đó tọa độ của máy bay là: (150;1086;9). Suy ra ý c) Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      1865,
+      1571,
+      1988
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường máy bay bay được là: 800. $\\frac{1}{2} = 400km$. Do đó tọa độ máy bay là (150;686;9). Suy ra ý d) Sai."
+  },
+  {
+    "bbox": [
+      153,
+      2002,
+      1560,
+      2101
+    ],
+    "category": "Text",
+    "text": "**Câu 14.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$. Gọi $E, F$ lần lượt là trung điểm của $AB$ và $AA'$. Cho biết $AB = 2, BC = \\sqrt{13}, CC' = 4$."
+  },
+  {
+    "bbox": [
+      193,
+      2108,
+      898,
+      2152
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng AB vuông góc với đường thẳng $AC'$"
+  },
+  {
+    "bbox": [
+      193,
+      2155,
+      824,
+      2198
+    ],
+    "category": "Text",
+    "text": "b) Thể tích khối lăng trụ $ABC.A'B'C'$ bằng 8."
+  }
+]

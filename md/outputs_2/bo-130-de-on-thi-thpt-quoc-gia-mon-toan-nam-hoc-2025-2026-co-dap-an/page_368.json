@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      477,
+      123,
+      1006,
+      162
+    ],
+    "category": "Text",
+    "text": "a) Thời điểm xe ô tô $A$停止 lại là 4 s."
+  },
+  {
+    "bbox": [
+      477,
+      166,
+      1551,
+      320
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường $S(t)$ (đơn vị: mét) mà ô tô $A$ đi được trong thời gian $t$ giây $(0 \\le t \\le 4)$ kể từ khi hăm phanh được tính theo công thức $S(t) = \\int_{0}^{4} v(t)dt$."
+  },
+  {
+    "bbox": [
+      477,
+      320,
+      1551,
+      392
+    ],
+    "category": "Text",
+    "text": "c) Từ khi bắt đầu hăm phanh đến khi停止 lại xe ô tô $A$ đi được quăng đường 32 m."
+  },
+  {
+    "bbox": [
+      477,
+      396,
+      1551,
+      471
+    ],
+    "category": "Text",
+    "text": "d) Để khoảng cách an toàn thì ô tô $A$ bắt đầu hăm phanh khi cách ô tô $B$ ít nhất 37 m."
+  },
+  {
+    "bbox": [
+      448,
+      492,
+      1554,
+      571
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hình集合文字 $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình vuông cạnh có độ dài bằng $a$. Đường thẳng $A'C$ tạo với đáy $ABCD$ góc $\\alpha$ sao cho $\\tan \\alpha = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      477,
+      567,
+      857,
+      610
+    ],
+    "category": "Text",
+    "text": "a) $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      477,
+      612,
+      1339,
+      652
+    ],
+    "category": "Text",
+    "text": "b) Góc nhị diện $[(BCC'B'), BB', (BDD'B')]$ có số đo bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      477,
+      652,
+      1245,
+      692
+    ],
+    "category": "Text",
+    "text": "c) Thể tích khối集合文字 $ABCD \\cdot A'B'C'D'$ là $2a^3$."
+  },
+  {
+    "bbox": [
+      477,
+      690,
+      1046,
+      758
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa $BD$ và $CD'$ bằng $\\frac{a}{3}$."
+  },
+  {
+    "bbox": [
+      448,
+      768,
+      1554,
+      1075
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một đài kiểm soát không lưu tại sân bay có nhiệm vụ kiểm soát, điều hành hoạt động bay của máy bay trong vòng bán kính 70 km. Để theo dõi hành trình của máy bay, ta có thể thiết lập hệ trục toạ độ $Oxyz$ có gốc toạ độ $O$ trùng với vị trí trung tâm của kiểm soát không lưu, mặt phẳng $(Oxy)$ trùng với mặt đất (được coi là mặt phẳng) với trục $Ox$ hướng về phía Tây, trục $Oy$ hướng về phía Nam và trục $Oz$ hướng thẳng đứng lên trời. Đơn vị độ dài trên mỗi trục toạ độ là 1 km. Một máy bay trực thăng đang ở vị trí $A(-65; -25; 30)$ bay theo hướng Tây Nam với độ cao không đổi, vận tốc không đổi 200 km/h, quỹ đạo bay theo đường thẳng."
+  },
+  {
+    "bbox": [
+      477,
+      1075,
+      1551,
+      1152
+    ],
+    "category": "Text",
+    "text": "a) Vùng kiểm soát không lưu của đài kiểm soát trên là vùng ở bên trong và trên bề mặt của mặt cầu $(S)$ có phương trình: $x^2 + y^2 + z^2 = 4900$."
+  },
+  {
+    "bbox": [
+      477,
+      1152,
+      1551,
+      1322
+    ],
+    "category": "Text",
+    "text": "b) máy bay di chuyển theo hướng Tây Nam với quỹ đạo bay là đường thẳng $d$ có phương trình: $\\begin{cases} x = -65 + t \\\\ y = -25 + t \\\\ z = 30 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      477,
+      1322,
+      1551,
+      1399
+    ],
+    "category": "Text",
+    "text": "c) Khi máy bay ở vị trí $A(-65; -25; 30)$ thì đài kiểm soát không lưu của sân bay đã theo dõi được máy bay."
+  },
+  {
+    "bbox": [
+      477,
+      1399,
+      1551,
+      1478
+    ],
+    "category": "Text",
+    "text": "d) Thời gian máy bay di chuyển trong phạm vi đài kiểm soát không lưu của sân bay theo track được là 35 phút."
+  },
+  {
+    "bbox": [
+      448,
+      1496,
+      1247,
+      1551
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1560,
+      1554,
+      1791
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty sản xuất dụng cụ thể thao nhận được một đơn đặt hàng sản xuất 8000 quả bóng tennis. Công ty này sở hữu một số máy móc, mỗi máy có thể sản xuất 30 quả bóng trong một giờ. Chi phí thiết lập các máy này là 200 nghìn đồng cho mỗi máy. Khi được thiết lập, hoạt động sản xuất sẽ hoàn toàn diễn ra tự động dưới sự giám sát. Số tiền phải trả cho người giám sát là 192 nghìn đồng một giờ. Tính chi phí hoạt động thấp nhất (đơn vị nghìn đồng)."
+  },
+  {
+    "bbox": [
+      1254,
+      1791,
+      1554,
+      1851
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      1863,
+      1554,
+      1988
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Phương trình $\\sin 2x = \\cos (\\frac{\\pi}{2} - 3x)$ có tổng số nghiệm trong khoảng $[0; \\pi)$ là $\\frac{a}{b}\\pi$, trong đó $(a, b) = 1$. Tính $a + b$."
+  },
+  {
+    "bbox": [
+      1254,
+      1984,
+      1554,
+      2044
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      448,
+      2059,
+      1554,
+      2257
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một người muốn tạo một集合待定 $\\{x \\mid 0 < x < \\frac{a}{2}\\}$ có dạng hình lăng trụ tam giác đều, không có nắp bằng cách cắt ba góc của một tam giác đều cạnh bằng $a$ các đoạn bằng $x$, $(0 < x < \\frac{a}{2})$ như hình vẽ, rồi gấp lại tạo thành khối lăng trụ tam giác đều. Thể tích khối lăng trụ lớn nhất khi $x = \\frac{a}{b}$. Tìm $b$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "366 Bùi Tịnh Minh Lâm"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1540,
+      263
+    ],
+    "category": "Text",
+    "text": "Dễ thấy $\\begin{cases} AA' // CC' \\\\ AA' = CC' \\end{cases} \\Rightarrow ACC'A'$ là hình bình hành, suy ra giao điểm $O$ của $AC', CA'$ là trung điểm của mỗi đường."
+  },
+  {
+    "bbox": [
+      155,
+      280,
+      1557,
+      510
+    ],
+    "category": "Text",
+    "text": "Tương tự, ta có: $\\begin{cases} AB // C'D' \\\\ AB = C'D' \\end{cases} \\Rightarrow ABC'D'$ là hình bình hành; suy ra $AC', BD'$ cắt nhau tại trung điểm của mỗi đường, do đó $BD'$ nhận $O$ làm trung điểm. Chứng minh tương tự như thế, ta cũng có $DB'$ nhận $O$ làm trung điểm."
+  },
+  {
+    "bbox": [
+      155,
+      527,
+      1489,
+      574
+    ],
+    "category": "Text",
+    "text": "Vậy các đường chéo của hình hộp là $AC', BD', CA', DB'$ cùng đi qua trung điểm $O$ của mỗi đường."
+  },
+  {
+    "bbox": [
+      155,
+      598,
+      1573,
+      715
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông và $SA \\perp (ABCD)$. Gọi $M$ là hình chiếu vuông góc của $A$ trên $SB$. Phát biểu nào sau đây là đúng:"
+  },
+  {
+    "bbox": [
+      205,
+      733,
+      403,
+      770
+    ],
+    "category": "List-item",
+    "text": "A. $AM \\perp SD$."
+  },
+  {
+    "bbox": [
+      555,
+      733,
+      756,
+      770
+    ],
+    "category": "List-item",
+    "text": "B. $AM \\perp CD$."
+  },
+  {
+    "bbox": [
+      906,
+      733,
+      1107,
+      770
+    ],
+    "category": "List-item",
+    "text": "C. $AM \\perp AB$."
+  },
+  {
+    "bbox": [
+      1255,
+      733,
+      1448,
+      770
+    ],
+    "category": "List-item",
+    "text": "D. $AM \\perp SC$."
+  },
+  {
+    "bbox": [
+      807,
+      794,
+      924,
+      833
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      851,
+      279,
+      890
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      628,
+      906,
+      1125,
+      1507
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      160,
+      1546,
+      815,
+      1657
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} BC \\perp AB (gt) \\\\ BC \\perp SA (gt) \\end{cases} \\Rightarrow BC \\perp (SAB) \\Rightarrow BC \\perp AM \\ (1)\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1666,
+      411,
+      1714
+    ],
+    "category": "Formula",
+    "text": "$$\nAM \\perp SB (gt) \\ (2)\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1723,
+      688,
+      1772
+    ],
+    "category": "Formula",
+    "text": "$$\n(1) \\& (2) \\Rightarrow AM \\perp (SBC) \\Rightarrow AM \\perp SC\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1798,
+      839,
+      1881
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tập xác định của hàm số $y = \\frac{\\cot x}{\\sin x - 1}$ là:"
+  },
+  {
+    "bbox": [
+      201,
+      1902,
+      595,
+      1991
+    ],
+    "category": "List-item",
+    "text": "A. $D = \\mathbb{R} \\setminus \\left\\{ \\frac{\\pi}{3} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      942,
+      1902,
+      1273,
+      1991
+    ],
+    "category": "List-item",
+    "text": "B. $D = \\mathbb{R} \\setminus \\left\\{ k \\frac{\\pi}{2} \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      201,
+      2014,
+      658,
+      2105
+    ],
+    "category": "List-item",
+    "text": "C. $D = \\mathbb{R} \\setminus \\left\\{ \\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      942,
+      2014,
+      1338,
+      2105
+    ],
+    "category": "List-item",
+    "text": "D. $D = \\mathbb{R} \\setminus \\left\\{ \\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      807,
+      2129,
+      924,
+      2168
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2188,
+      279,
+      2227
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

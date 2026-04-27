@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      893,
+      215
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      275,
+      367,
+      371
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } S_1 = \\int_{0}^{6} 4t \\, dt = 72 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      400,
+      326,
+      447
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } v_1(6) = 24 \\text{ m/s.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      470,
+      474,
+      529
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) } v_2(t) = \\int a(t) \\, dt = -4t + c.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      554,
+      746,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi phanh cấp } t = 0 \\Rightarrow c = 24 \\Rightarrow v_2(t) = -4t + 24.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      629,
+      812,
+      677
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi xe止止 hắn thì } v_2(t) = 0 \\Rightarrow -4t + 24 = 0 \\Rightarrow t = 6.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      704,
+      1180,
+      800
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Quăng đường đi được của ô tô sau khi đạp phanh là } S_2 = \\int_{0}^{6} (-4t + 24) \\, dt = 72 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      821,
+      1159,
+      867
+    ],
+    "category": "Text",
+    "text": "Tổng quăng đường ô tô chuyển động từ lúc xuất phát đến khi止止 hắn là 144 m."
+  },
+  {
+    "bbox": [
+      76,
+      952,
+      1494,
+      1168
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một trường THPT tỷ lệ học sinh nữ là 58%. Tỷ lệ học sinh nữ và học sinh nam tham gia CLB Toán học lần lượt là: 10% và 16%. Chọn ngẫu nhiên một học sinh của trường. Xét các biến cố: A là biến cố “Học sinh được chọn là học sinh nữ”, B là biến cố “Học sinh được chọn tham gia CLB Toán học”."
+  },
+  {
+    "bbox": [
+      76,
+      1183,
+      800,
+      1226
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được học sinh là nữ là: $P(A) = 0,58$."
+  },
+  {
+    "bbox": [
+      76,
+      1251,
+      1484,
+      1299
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được học sinh tham gia CLB Toán học, biết rằng học sinh đó là nam, là $P(B / \\bar{A}) = 0,16$."
+  },
+  {
+    "bbox": [
+      76,
+      1320,
+      1081,
+      1364
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được học sinh tham gia CLB Toán học là: $P(B) = 0,1252$."
+  },
+  {
+    "bbox": [
+      76,
+      1383,
+      1494,
+      1493
+    ],
+    "category": "Text",
+    "text": "d) Khi mộ bạn tham gia CLB Toán thì xác suất bạn đó là nữ là: $P(A / B) = 0,49$. (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      727,
+      1511,
+      842,
+      1549
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1565,
+      893,
+      1686
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1742,
+      893,
+      1786
+    ],
+    "category": "Text",
+    "text": "a) Xác xuất chọn được học sinh là nữ là: $P(A) = 58\\% = 0,58$."
+  },
+  {
+    "bbox": [
+      76,
+      1805,
+      1494,
+      1914
+    ],
+    "category": "Text",
+    "text": "b) Xác xuất chọn được học sinh tham gia CLB Toán học, biết rằng học sinh đó là nam, là: $P(B / \\bar{A}) = 16\\% = 0,16$."
+  },
+  {
+    "bbox": [
+      76,
+      1937,
+      1084,
+      1981
+    ],
+    "category": "Text",
+    "text": "c) Xác xuất chọn được học sinh tham gia CLB Toán học là: $P(B) = 0,1252$."
+  },
+  {
+    "bbox": [
+      76,
+      2002,
+      298,
+      2045
+    ],
+    "category": "Text",
+    "text": "Ta có sơ đồ cây"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      838,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

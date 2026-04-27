@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      674,
+      117,
+      1128,
+      598
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      598,
+      1012,
+      644
+    ],
+    "category": "Text",
+    "text": "a) Trong bốn giá trị $a,b,c,d$ có đúng một giá trị bằng 0."
+  },
+  {
+    "bbox": [
+      251,
+      652,
+      862,
+      703
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ là hàm số lẻ trên tập $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      713,
+      1005,
+      764
+    ],
+    "category": "Text",
+    "text": "c)úp cực tiểu của đồ thị hàm số $y = f(x)$ là $x = -1$."
+  },
+  {
+    "bbox": [
+      251,
+      777,
+      999,
+      861
+    ],
+    "category": "Text",
+    "text": "d) Số nghiệm thực của phương trình $f(x) = \\frac{2025}{2026}$ là 3."
+  },
+  {
+    "bbox": [
+      835,
+      869,
+      951,
+      908
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      914,
+      335,
+      951
+    ],
+    "category": "Text",
+    "text": "a) Sai"
+  },
+  {
+    "bbox": [
+      251,
+      959,
+      665,
+      1005
+    ],
+    "category": "Text",
+    "text": "Ta có: $f'(x) = 3ax^2 + 2bx + c$."
+  },
+  {
+    "bbox": [
+      251,
+      1043,
+      989,
+      1088
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số cắt trục tung tại gốc tọa độ $O$ nên $d = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      1123,
+      1334,
+      1271
+    ],
+    "category": "Text",
+    "text": "Hàm số có hai điểm cực trị $x = -1, x = 1$ và $f(1) = 2$ nên ta có: $$ \\begin{cases} 3a - 2b + c = 0 \\\\ 3a + 2b + c = 0 \\\\ a + b + c + d = 2 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      251,
+      1311,
+      699,
+      1350
+    ],
+    "category": "Text",
+    "text": "Khi đó: $a = -1, b = 0, c = 3, d = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      1386,
+      919,
+      1431
+    ],
+    "category": "Text",
+    "text": "Vậy trong bốn giá trị $a,b,c,d$ có 2 giá trị bằng 0."
+  },
+  {
+    "bbox": [
+      251,
+      1468,
+      370,
+      1509
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      1513,
+      1382,
+      1561
+    ],
+    "category": "Text",
+    "text": "Do đồ thị hàm số đối xứng qua gốc $O$ nên hàm số $y = f(x)$ là hàm số lẻ trên tập $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      1604,
+      368,
+      1642
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      1646,
+      1334,
+      1695
+    ],
+    "category": "Text",
+    "text": "Theo đồ thị hàm số, ta thấy điểm cực tiểu của đồ thị hàm số $y = f(x)$ là $x = -1$."
+  },
+  {
+    "bbox": [
+      251,
+      1736,
+      370,
+      1775
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      1783,
+      1214,
+      1866
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $y = \\frac{2025}{2026}$ cắt đồ thị hàm số $y = f(x)$ tại 3 điểm phân biệt."
+  },
+  {
+    "bbox": [
+      251,
+      1902,
+      1020,
+      1986
+    ],
+    "category": "Text",
+    "text": "Vậy số nghiệm thực của phương trình $f(x) = \\frac{2025}{2026}$ là 3."
+  },
+  {
+    "bbox": [
+      114,
+      2017,
+      1161,
+      2061
+    ],
+    "category": "Text",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      2061,
+      1528,
+      2163
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho một đa giác đều $(H)$ có 15 đỉnh. Người ta lập một tức giác có 4 đỉnh là 4 đỉnh của $(H)$.\nTính số tức giác được lập thành mà không có cạnh nào là cạnh của $(H)$."
+  },
+  {
+    "bbox": [
+      835,
+      2173,
+      951,
+      2211
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

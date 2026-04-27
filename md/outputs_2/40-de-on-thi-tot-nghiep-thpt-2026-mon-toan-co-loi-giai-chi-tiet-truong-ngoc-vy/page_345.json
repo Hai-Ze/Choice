@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      79,
+      98,
+      527,
+      184
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow OO' = \\left(\\frac{1}{2} \\cdot 7 - \\frac{1}{2} \\cdot 5\\right) \\cdot \\sqrt{3} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      212,
+      1080,
+      396
+    ],
+    "category": "Text",
+    "text": "Thể tích của hầm rược là: $V = \\frac{1}{3} \\cdot OO' \\cdot (S_{ABCD} + S_{A'B'C'D'} + \\sqrt{S_{ABCD} \\cdot S_{A'B'C'D'}})$\n$$ = \\frac{1}{3} \\cdot \\sqrt{3} \\cdot (7^2 + 5^2 + \\sqrt{7^2 \\cdot 5^2}) \\approx 62,93(\\text{m}^3). $$"
+  },
+  {
+    "bbox": [
+      75,
+      471,
+      1494,
+      575
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      75,
+      596,
+      579,
+      680
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{x^2 + 2x + 3}{2x + 1}$"
+  },
+  {
+    "bbox": [
+      75,
+      697,
+      629,
+      742
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số đã cho là $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      75,
+      758,
+      924,
+      801
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình $y' = 0$ có hai nghiệm nguyên dương phân biệt."
+  },
+  {
+    "bbox": [
+      75,
+      818,
+      1288,
+      865
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đã cho có hai điểm cực trị và hai điểm cực trị này nằm về hai phía của trục tung"
+  },
+  {
+    "bbox": [
+      75,
+      877,
+      1494,
+      981
+    ],
+    "category": "List-item",
+    "text": "d) Khi đồ thị hàm số đã cho có hai điểm cực trị thì đường thẳng đi qua hai điểm cực trị của đồ thị hàm số có phương trình $y = x + 1$"
+  },
+  {
+    "bbox": [
+      727,
+      1007,
+      843,
+      1045
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1059,
+      894,
+      1182
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1184,
+      500,
+      1274
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định $D = \\mathbb{R} \\setminus \\{-\\frac{1}{2}\\}$."
+  },
+  {
+    "bbox": [
+      75,
+      1300,
+      1044,
+      1408
+    ],
+    "category": "List-item",
+    "text": "b) $y' = \\frac{2x^2 + 2x - 4}{(2x + 1)^2}$, $y' = 0 \\Leftrightarrow 2x^2 + 2x - 4 = 0 \\Leftrightarrow \\begin{cases} x = 1, y(1) = 2 \\\\ x = -2, y(-2) = -1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      75,
+      1434,
+      1494,
+      1549
+    ],
+    "category": "List-item",
+    "text": "c) Đồ thị hàm số có hai điểm cực trị là $M(1; 2)$ và $N(-2; -1)$ và hai điểm cực trị này nằm về hai phía của trục tung"
+  },
+  {
+    "bbox": [
+      75,
+      1563,
+      1354,
+      1609
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình đường thẳng qua hai điểm cực trị $M, N$ của đồ thị hàm số đã cho là: $y = x + 1$."
+  },
+  {
+    "bbox": [
+      75,
+      1627,
+      1494,
+      1893
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong đường đua, một chiếc xe công thức I bắt đầu chuyển động và nó tăng tốc với gia tốc $a$ (m/s²) không đổi, khi vận tốc đạt 80 m/s thì xe chuyển động đều trong thời gian 56 giây; sau đó nó giảm vận tốc với gia tốc $b$ (m/s²) không đổi cho đến khi background (a và b là các số dương). Biết rằng tổng thời gian chuyển động của xe là 74 giây."
+  },
+  {
+    "bbox": [
+      75,
+      1911,
+      742,
+      1993
+    ],
+    "category": "List-item",
+    "text": "a) Thời điểm xe đạt vận tốc 80 m/s là $t_1 = \\frac{80}{a}(s)$."
+  },
+  {
+    "bbox": [
+      75,
+      2011,
+      1066,
+      2056
+    ],
+    "category": "List-item",
+    "text": "b) Quăng đường mà xe chuyển động với vận tốc không đổi bằng 4,5 km."
+  },
+  {
+    "bbox": [
+      75,
+      2082,
+      287,
+      2162
+    ],
+    "category": "List-item",
+    "text": "c) $\\frac{40}{a} + \\frac{40}{b} = 9$."
+  },
+  {
+    "bbox": [
+      75,
+      2182,
+      861,
+      2227
+    ],
+    "category": "List-item",
+    "text": "d) Tổng quăng đường xe đi được trong 74 giây là 5,6 km."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

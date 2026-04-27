@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      252,
+      120,
+      338,
+      157
+    ],
+    "category": "Section-header",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      252,
+      184,
+      586,
+      225
+    ],
+    "category": "Text",
+    "text": "Điểm $M$ trên thành cầu."
+  },
+  {
+    "bbox": [
+      256,
+      262,
+      772,
+      303
+    ],
+    "category": "Text",
+    "text": "$M$ cách mặt nước 75 m nên $z_M = 75$."
+  },
+  {
+    "bbox": [
+      252,
+      339,
+      1444,
+      434
+    ],
+    "category": "Text",
+    "text": "$M$ cách trục $Oz$ một khoảng 230 m. Tương tự như điểm $A$, từ hình vẽ, $M$ nằm ở phía dương của trục $Oy$, nên $y_M = 230$."
+  },
+  {
+    "bbox": [
+      252,
+      470,
+      1488,
+      517
+    ],
+    "category": "Text",
+    "text": "Vì $M$ cũng nằm trên cầu như $A$, ta giả định $M$ cũng thuộc mặt phẳng ($Oyz$), nên $x_M = 0$."
+  },
+  {
+    "bbox": [
+      252,
+      551,
+      734,
+      595
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ điểm $M$ là $(0; 230; 75)$."
+  },
+  {
+    "bbox": [
+      252,
+      628,
+      1244,
+      672
+    ],
+    "category": "Text",
+    "text": "Điểm $N$ nằm trên dây cáp $AD$ và đoạn $MN$ song song với cột trụ ($Oz$)."
+  },
+  {
+    "bbox": [
+      252,
+      701,
+      1485,
+      786
+    ],
+    "category": "Text",
+    "text": "Vì $MN$ song song với $Oz$, nên hoành độ và tung độ của $N$ phải bằng hoành độ và tung độ của $M$."
+  },
+  {
+    "bbox": [
+      252,
+      824,
+      578,
+      864
+    ],
+    "category": "Text",
+    "text": "Do đó, $N = (0; 230; z_N)$."
+  },
+  {
+    "bbox": [
+      252,
+      901,
+      1271,
+      945
+    ],
+    "category": "Text",
+    "text": "Điểm $N$ nằm trên đoạn thẳng $AD$. Ta có: $A = (0; 343; 75)$, $D = (0; 0; 227)$."
+  },
+  {
+    "bbox": [
+      252,
+      982,
+      1512,
+      1031
+    ],
+    "category": "Text",
+    "text": "Một điểm $N(x; y; z)$ nằm trên $AD$ có thể được biểu diễn như sau: $\\overline{AN} = k \\cdot \\overline{AD}$ với $k \\in [0; 1]$."
+  },
+  {
+    "bbox": [
+      256,
+      1070,
+      1035,
+      1113
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (x_N - x_A; y_N - y_A; z_N - z_A) = k(x_D - x_A; y_D - y_A; z_D - z_A)\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1152,
+      755,
+      1193
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (0; -113; z_N - 75) = k(0; -343; 152)\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1233,
+      723,
+      1274
+    ],
+    "category": "Text",
+    "text": "Từ hoành độ: $0 = k \\cdot 0$ (luôn đúng)."
+  },
+  {
+    "bbox": [
+      252,
+      1307,
+      906,
+      1389
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ tung độ: } -113 = k(-343) \\Rightarrow k = \\frac{-113}{-343} = \\frac{113}{343}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1423,
+      929,
+      1506
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ cao độ: } z_N - 75 = k \\cdot 152 = 75 + \\frac{17176}{343} = \\frac{42901}{343}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1541,
+      732,
+      1624
+    ],
+    "category": "Text",
+    "text": "Tọa độ điểm $N$ là $(0; 230; \\frac{42901}{343})$."
+  },
+  {
+    "bbox": [
+      252,
+      1660,
+      1485,
+      1757
+    ],
+    "category": "Text",
+    "text": "Độ dài đoạn đèn LED $MN$ là khoảng cách giữa $M$ và $N$. Vì $x_M = x_N$ và $y_M = y_N$, độ dài $MN$ chính là giá trị tuyệt đối của hiệu các cao độ $z$:"
+  },
+  {
+    "bbox": [
+      256,
+      1788,
+      927,
+      1876
+    ],
+    "category": "Formula",
+    "text": "$$\nMN = |z_N - z_M| = \\left| \\frac{42901}{343} - 75 \\right| = \\frac{17176}{343} \\approx 50.0758.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1910,
+      985,
+      1954
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần trăm, ta được $MN \\approx 50.08$ m."
+  },
+  {
+    "bbox": [
+      114,
+      1985,
+      1508,
+      2033
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số bậc ba $f(x) = ax^3 + bx^2 + cx + d, (a \\neq 0)$ liên tục trên $\\mathbb{R}$ và có đồ thị như hình vẽ"
+  }
+]

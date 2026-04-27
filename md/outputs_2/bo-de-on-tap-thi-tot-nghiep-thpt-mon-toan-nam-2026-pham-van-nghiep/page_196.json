@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      1274,
+      153
+    ],
+    "category": "Text",
+    "text": "Số người có kết quả xét nghiệm dương tính: $900.99\\% + 9100.2\\% = 1073$"
+  },
+  {
+    "bbox": [
+      212,
+      156,
+      1458,
+      239
+    ],
+    "category": "Text",
+    "text": "Số người cho kết quả xét nghiệm đúng trong số những người có kết quả dương tính:\n$900.99\\% = 891$."
+  },
+  {
+    "bbox": [
+      212,
+      248,
+      1562,
+      383
+    ],
+    "category": "Text",
+    "text": "Do đó, có $\\frac{891}{1073} \\approx 83\\%$ số người có kết quả xét nghiệm dương tính nhận kết quả xét nghiệm đúng."
+  },
+  {
+    "bbox": [
+      212,
+      386,
+      311,
+      423
+    ],
+    "category": "Text",
+    "text": "(c) Sai"
+  },
+  {
+    "bbox": [
+      218,
+      431,
+      1406,
+      496
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A)P(B|A) + P(\\bar{A})P(B|\\bar{A}) = 0,09 \\cdot 0,99 + 0,91 \\cdot 0,02 = 0,1073 = 10,73\\%.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      506,
+      356,
+      548
+    ],
+    "category": "Text",
+    "text": "(d) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      553,
+      888,
+      652
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{0,09 \\cdot 0,99}{0,1073} = \\frac{891}{1073} \\approx 83\\%.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      658,
+      1573,
+      796
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Một đồ lưu niệm bằng thuỷ tinh có chiều cao bằng 14 cm, được thiết kế gồm hai phần, phần dưới là một khối lập phương cạnh bằng 8 cm và phần trên là một phần của khối cầu có đường kính bằng 8 cm (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      257,
+      801,
+      1284,
+      1407
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1425,
+      1478,
+      1477
+    ],
+    "category": "Text",
+    "text": "a) [VD] Thế tích của đồ lưu niệm đó (làm tròn kết quả đến hàng đơn vị) là $738 \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      212,
+      1485,
+      1113,
+      1526
+    ],
+    "category": "Text",
+    "text": "b) [TH] Phần khối cầu có bán kính 4 cm và chiều cao là 6 cm."
+  },
+  {
+    "bbox": [
+      212,
+      1531,
+      1575,
+      1733
+    ],
+    "category": "Text",
+    "text": "c) [TH] Quay hình phẳng giới hạn bởi đồ thị hàm số $y = \\sqrt{8x - x^2}$, trục hoành và hai đường thẳng $x=0$, $x=2$ quanh trục hoành ta thu được khối tròn xoay có thể tích là $V = \\int_{0}^{2} (\\sqrt{8x - x^2})^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      212,
+      1738,
+      992,
+      1792
+    ],
+    "category": "Text",
+    "text": "d) [TH] Khối lập phương có thể tích bằng $512 \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      833,
+      1801,
+      953,
+      1844
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1847,
+      359,
+      1889
+    ],
+    "category": "Text",
+    "text": "(a) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      1892,
+      1431,
+      1972
+    ],
+    "category": "Text",
+    "text": "Phần khối cầu là chỏm cầu có bán kính $R = \\frac{8}{2} = 4$ cm và chiều cao $h = 14 - 8 = 6$ cm."
+  },
+  {
+    "bbox": [
+      212,
+      1977,
+      1215,
+      2058
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích chỏm cầu là } V_1 = \\frac{1}{3} \\pi h^2 (3R - h) = \\frac{1}{3} \\pi \\cdot 6^2 \\cdot (3 \\cdot 4 - 6) = 72\\pi \\, (\\text{cm}^2).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2061,
+      1305,
+      2115
+    ],
+    "category": "Text",
+    "text": "Khối lập phương cạnh bằng 8 cm nên có thể tích bằng $V_2 = 8^3 = 512 \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      212,
+      2122,
+      1045,
+      2176
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích tổng cộng } V = V_1 + V_2 = 512 + 72\\pi \\approx 738,19 \\, (\\text{cm}^3).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2183,
+      1413,
+      2237
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của đồ lưu niệm đó (làm tròn kết quả đến hàng đơn vị) là $738 \\, (\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

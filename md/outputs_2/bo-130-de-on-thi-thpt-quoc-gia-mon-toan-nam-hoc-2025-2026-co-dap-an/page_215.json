@@ -1,0 +1,499 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      128,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      115,
+      488,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\frac{x-3}{2} = \\frac{y-1}{-3} = \\frac{z+4}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      115,
+      1036,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\frac{x+2}{3} = \\frac{y-3}{1} = \\frac{z+3}{-4}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      185,
+      488,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\frac{x+3}{2} = \\frac{y+1}{3} = \\frac{z-4}{-3}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      185,
+      1036,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\frac{x-2}{3} = \\frac{y+3}{1} = \\frac{z-3}{-4}.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      265,
+      1197,
+      345
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Trong không gian với hệ tọa độ $Oxyz$, mặt cầu tâm $I(1; 0; -5)$ bán kính $R = 3$ có phương trình là"
+  },
+  {
+    "bbox": [
+      123,
+      343,
+      552,
+      386
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad (x+1)^2 + y^2 + (z-5)^2 = 9.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      343,
+      1094,
+      386
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad (x+1)^2 + y^2 + (z+5)^2 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      386,
+      552,
+      429
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad (x-1)^2 + y^2 + (z+5)^2 = 9.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      386,
+      1094,
+      429
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad (x-1)^2 + y^2 + (z-5)^2 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      443,
+      1197,
+      523
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hai biến cố độc lập $A, B$ với $P(A) = 0,7$; $P(B) = 0,2$. Khi đó $P(A | B)$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      521,
+      219,
+      564
+    ],
+    "category": "List-item",
+    "text": "A 0,2."
+  },
+  {
+    "bbox": [
+      395,
+      521,
+      491,
+      564
+    ],
+    "category": "List-item",
+    "text": "B 0,7."
+  },
+  {
+    "bbox": [
+      668,
+      521,
+      764,
+      564
+    ],
+    "category": "List-item",
+    "text": "C 0,8."
+  },
+  {
+    "bbox": [
+      940,
+      521,
+      1036,
+      564
+    ],
+    "category": "List-item",
+    "text": "D 0,3."
+  },
+  {
+    "bbox": [
+      93,
+      578,
+      813,
+      619
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Xét mẫu số liệu ghép nhóm cho bởi bảng sau"
+  },
+  {
+    "bbox": [
+      196,
+      637,
+      1094,
+      738
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[20; 30)</td><td>[30; 40)</td><td>[40; 50)</td><td>[50; 60)</td><td>[60; 70)</td><td>[70; 80)</td><td></td></tr><tr><td>Tần số</td><td>25</td><td>20</td><td>20</td><td>15</td><td>14</td><td>6</td><td>100</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      758,
+      834,
+      797
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm đó bằng"
+  },
+  {
+    "bbox": [
+      123,
+      795,
+      211,
+      838
+    ],
+    "category": "List-item",
+    "text": "A 10."
+  },
+  {
+    "bbox": [
+      395,
+      795,
+      481,
+      838
+    ],
+    "category": "List-item",
+    "text": "B 50."
+  },
+  {
+    "bbox": [
+      668,
+      795,
+      754,
+      838
+    ],
+    "category": "List-item",
+    "text": "C 60."
+  },
+  {
+    "bbox": [
+      940,
+      795,
+      1042,
+      838
+    ],
+    "category": "List-item",
+    "text": "D 100."
+  },
+  {
+    "bbox": [
+      93,
+      852,
+      813,
+      893
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Xét mẫu số liệu ghép nhóm cho bởi bảng sau"
+  },
+  {
+    "bbox": [
+      281,
+      911,
+      1013,
+      1206
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm</td><td>Giá trị đại diện</td><td>Tần số</td></tr></thead><tbody><tr><td>[a<sub>1</sub>; a<sub>2</sub>)</td><td>x<sub>1</sub></td><td>n<sub>1</sub></td></tr><tr><td>[a<sub>2</sub>; a<sub>3</sub>)</td><td>x<sub>2</sub></td><td>n<sub>2</sub></td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>[a<sub>m</sub>; a<sub>m+1</sub>)</td><td>x<sub>m</sub></td><td>n<sub>m</sub></td></tr><tr><td></td><td></td><td>n = n<sub>1</sub> + n<sub>2</sub> + ... + n<sub>m</sub></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1227,
+      1197,
+      1303
+    ],
+    "category": "Text",
+    "text": "Gọi $\\bar{x}$ là số trung bình cộng của mẫu số liệu đó. Khi đó phương sai của mẫu số liệu ghép nhóm đó là"
+  },
+  {
+    "bbox": [
+      123,
+      1299,
+      863,
+      1360
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad s = \\frac{n_1(x_1 - \\bar{x})^2 + n_2(x_2 - \\bar{x})^2 + \\dots + n_m(x_m - \\bar{x})^2}{n}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1350,
+      838,
+      1422
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad s^2 = \\frac{n_1(x_1 - \\bar{x}) + n_2(x_2 - \\bar{x}) + \\dots + n_m(x_m - \\bar{x})}{n}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1414,
+      878,
+      1496
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad s^2 = \\frac{n_1(x_1 - \\bar{x})^2 + n_2(x_2 - \\bar{x})^2 + \\dots + n_m(x_m - \\bar{x})^2}{n}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1486,
+      878,
+      1581
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad s^2 = \\frac{n_1(x_1 - \\bar{x})^2 + n_2(x_2 - \\bar{x})^2 + \\dots + n_m(x_m - \\bar{x})^2}{m}.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1589,
+      1197,
+      1706
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Khi đó, diện tích $S$ của hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ là"
+  },
+  {
+    "bbox": [
+      123,
+      1704,
+      399,
+      1818
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad S = \\int_{b}^{a} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1704,
+      961,
+      1818
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad S = \\pi \\int_{b}^{a} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1818,
+      401,
+      1936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = \\int_{a}^{b} [f(x)]^2 \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1818,
+      936,
+      1936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\int_{a}^{b} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1948,
+      1197,
+      2065
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Xét mẫu số liệu ghép nhóm có tức phân vị thứ nhất, tức phân vị thứ hai, tức phân vị thứ ba lần lượt là 27,5; 30,5; 33. Khoảng tức phân vị của mẫu số liệu ghép nhóm đó bằng"
+  },
+  {
+    "bbox": [
+      123,
+      2063,
+      195,
+      2106
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      395,
+      2063,
+      491,
+      2106
+    ],
+    "category": "List-item",
+    "text": "B 2,5."
+  },
+  {
+    "bbox": [
+      668,
+      2063,
+      764,
+      2106
+    ],
+    "category": "List-item",
+    "text": "C 5,5."
+  },
+  {
+    "bbox": [
+      940,
+      2063,
+      1013,
+      2106
+    ],
+    "category": "List-item",
+    "text": "D 5."
+  },
+  {
+    "bbox": [
+      93,
+      2120,
+      1145,
+      2161
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hình hộp $ABCD.A'B'C'D'$. Đảng thức véc-tơ nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      2157,
+      502,
+      2200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AB'} + \\overrightarrow{AD}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      2157,
+      1059,
+      2200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\overrightarrow{DB'} = \\overrightarrow{DA} + \\overrightarrow{DD'} + \\overrightarrow{DC}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      2198,
+      491,
+      2241
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\overrightarrow{AC'} = \\overrightarrow{AC} + \\overrightarrow{AB} + \\overrightarrow{AD}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      2198,
+      1049,
+      2241
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\overrightarrow{DB'} = \\overrightarrow{DA} + \\overrightarrow{DD} + \\overrightarrow{DC}.\n$$"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2259,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 213"
+  }
+]

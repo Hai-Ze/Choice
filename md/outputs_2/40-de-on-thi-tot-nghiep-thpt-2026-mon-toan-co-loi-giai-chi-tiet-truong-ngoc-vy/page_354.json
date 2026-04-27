@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      96,
+      1576,
+      354
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có hai套待 các viên bi: Hộp I có 6 bi đỏ và 4 bi xanh,套 I có 5 bi đỏ và 5 bi xanh (các viên bi có cùng kích thước và khối lượng). Bạn Minh lấy ngẫu nhiên một viên bi từ套 I, bạn Như lấy ngẫu nhiên một viên bi từ套 II. Biết rằng có viên bi đỏ được lấy ra, khi đó xác suất để bạn Như lấy được viên bi đỏ là $\\frac{a}{b}$ ($a, b \\in \\mathbb{N}^*, \\frac{a}{b}$ tối giản). Tính $a - b$."
+  },
+  {
+    "bbox": [
+      154,
+      375,
+      494,
+      412
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      434,
+      924,
+      473
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      492,
+      322,
+      530
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** -3"
+  },
+  {
+    "bbox": [
+      154,
+      546,
+      830,
+      590
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: “Bạn Như lấy được viên bi đỏ”."
+  },
+  {
+    "bbox": [
+      154,
+      603,
+      973,
+      648
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “Có viên bi đỏ trong hai viên được lấy ra”."
+  },
+  {
+    "bbox": [
+      154,
+      667,
+      559,
+      715
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm xác suất $P(A|B)$."
+  },
+  {
+    "bbox": [
+      154,
+      743,
+      1039,
+      828
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất có điều kiện: $P(A|B) = \\frac{P(AB)}{P(B)} = \\frac{n(AB)}{n(B)}$"
+  },
+  {
+    "bbox": [
+      154,
+      853,
+      1574,
+      974
+    ],
+    "category": "Text",
+    "text": "Ta có $n(B) = C_{10}^1 \\cdot C_{10}^1 - C_4^1 \\cdot C_5^1 = 80$ (số cách lấy hai viên bi trong đó có ít nhất 1 bi đỏ) và $n(AB) = C_5^1 \\cdot C_{10}^1 = 50$ (số cách lấy hai viên bi trong đó viên bi của bạn Như là bi đỏ)."
+  },
+  {
+    "bbox": [
+      154,
+      1000,
+      639,
+      1081
+    ],
+    "category": "Text",
+    "text": "Thay số, ta được $P(A|B) = \\frac{50}{80} = \\frac{5}{8}$."
+  },
+  {
+    "bbox": [
+      154,
+      1103,
+      558,
+      1143
+    ],
+    "category": "Text",
+    "text": "Vậy $a = 5, b = 8 \\Rightarrow a - b = -3$."
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 21"
+  }
+]

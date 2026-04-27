@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      78,
+      98,
+      1192,
+      156
+    ],
+    "category": "Formula",
+    "text": "$$\n(a+15)^2 + (b-18)^2 + (c-7)^2 = 576 \\Leftrightarrow a^2 + b^2 + c^2 + 30a - 36b - 14c + 22 = 0 \\quad (4)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      181,
+      1097,
+      229
+    ],
+    "category": "Text",
+    "text": "Giải hệ gồm 4 phương trình trên ta được $a = 1; b = 2; c = -1$ nên $M(1; 2; -1)$."
+  },
+  {
+    "bbox": [
+      76,
+      257,
+      416,
+      302
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } T = 1 + 2 + (-1) = 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      325,
+      1493,
+      438
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác đều cạnh $\\sqrt{2}$. Cạnh $BA' = \\sqrt{6}$. Khoảng cách giữa hai đường thẳng $A'B$ và $B'C$ là ( làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      456,
+      414,
+      492
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      516,
+      843,
+      554
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      573,
+      268,
+      611
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,67"
+  },
+  {
+    "bbox": [
+      210,
+      652,
+      1356,
+      1327
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1358,
+      991,
+      1403
+    ],
+    "category": "Text",
+    "text": "Gọi $D$ là điểm đối xứng với $A$ qua $B$. Khi đó dễ thấy $A'B // B'D$."
+  },
+  {
+    "bbox": [
+      76,
+      1422,
+      559,
+      1461
+    ],
+    "category": "Text",
+    "text": "Dựng $BK \\perp CD$, dựng $BH \\perp B'K$."
+  },
+  {
+    "bbox": [
+      76,
+      1482,
+      696,
+      1532
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } d(A'B, B'C) = d(A'B, (B'CD)) = BH.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1552,
+      1489,
+      1707
+    ],
+    "category": "Text",
+    "text": "Tam giác $ACD$ vuông tại $C$ vì $BA = BC = BD$ (có $B$ là trung điểm của $AD$) nên $K$ là trung điểm $CD$ nên $BK = \\frac{AC}{2} = \\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1731,
+      665,
+      1782
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác } BB' = \\sqrt{A'B^2 - BB'^2} = \\sqrt{6-2} = 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1804,
+      903,
+      1856
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } d(A'B, B'C) = d(A'B, (B'CD)) = d(B, (B'CD)) = BH\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1880,
+      856,
+      1973
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{BH^2} = \\frac{1}{BK^2} + \\frac{1}{BB'^2} = \\frac{4}{2} + \\frac{1}{4} = \\frac{9}{4} \\Rightarrow BH = \\sqrt{\\frac{4}{9}} = \\frac{2}{3} \\approx 0,67.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1992,
+      1495,
+      2214
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Nhân迎境 key niêm 10 năm thành lập trường, các học sinh lựa chọn tham gia thi đấu thể thao hoặc biểu diễn văn nghệ. Lớp 12A1 có 60% số học sinh tham gia thi đấu thể thao và còn lại 40% tham gia diễn văn nghệ. Biết rằng các bạn nữ đều tham gia diễn văn nghệ. Trong số các bạn nam có 20% tham gia văn nghệ và 80% tham gia thi đấu thể thao. Chọn ngẫu nhiên một học sinh trong lớp 12A1. Biết rằng"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

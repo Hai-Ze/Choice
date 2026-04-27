@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      193,
+      307,
+      304,
+      345
+    ],
+    "category": "Text",
+    "text": "**Câu 1.**"
+  },
+  {
+    "bbox": [
+      193,
+      358,
+      1076,
+      456
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ có đồ thị như hình bên"
+  },
+  {
+    "bbox": [
+      222,
+      468,
+      1067,
+      569
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x) + 100$ có giá trị nhỏ nhất trên đoạn $[-2; 1]$ là 101."
+  },
+  {
+    "bbox": [
+      222,
+      583,
+      540,
+      624
+    ],
+    "category": "List-item",
+    "text": "b) $a + b + c + d = 5$."
+  },
+  {
+    "bbox": [
+      222,
+      634,
+      1067,
+      736
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình tiếp tuyến của đồ thị hàm số tại điểm $M(1; 5)$ là $y = 9x - 4$."
+  },
+  {
+    "bbox": [
+      222,
+      739,
+      1067,
+      839
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $S_1, S_2$ lần lượt là diện tích của hình $(H_1), (H_2)$. Khi đó $S_1 = S_2$."
+  },
+  {
+    "bbox": [
+      1085,
+      368,
+      1437,
+      832
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      862,
+      1455,
+      1129
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một nhà đầu tư có kế hoạch xây dựng một trạm điện gió tại thành phố Hà Nội, bao gồm hai huyện là huyện Mỹ Đức và huyện Ứng Hòa. Để tìm hiểu cách dân cư đánh giá dự án này, hội đồng thành phố đã tổ chức một cuộc khảo sát trong số các cử tri hợp lệ. Tại Mỹ Đức, có 1722 cử tri được tham gia khảo sát, trong khi ở Ứng Hòa, con số này là 258. Theo kết quả khảo sát:"
+  },
+  {
+    "bbox": [
+      240,
+      1165,
+      1455,
+      1265
+    ],
+    "category": "List-item",
+    "text": "- Có 1089 người tham gia khảo sát support trạm điện gió, trong đó có 27 người từ Ứng Hòa."
+  },
+  {
+    "bbox": [
+      240,
+      1299,
+      989,
+      1347
+    ],
+    "category": "List-item",
+    "text": "- Các cử tri còn lại bày tỏ sự phản đối dự án này."
+  },
+  {
+    "bbox": [
+      222,
+      1381,
+      1395,
+      1429
+    ],
+    "category": "List-item",
+    "text": "a) Có 38,3% cử tri ở Mỹ Đức phản đối dự án này (làm tròn hàng phần chục)."
+  },
+  {
+    "bbox": [
+      222,
+      1436,
+      1448,
+      1592
+    ],
+    "category": "List-item",
+    "text": "b) Chọn ngẫu nhiên một người được khảo sát, gọi $p_1$ là xác suất người này support trạm điện gió và đến từ Mỹ Đức, $p_2$ là xác suất người này đến từ Mỹ Đức, biết người này support trạm điện gió. Khi đó $p_1 < p_2$."
+  },
+  {
+    "bbox": [
+      222,
+      1592,
+      1448,
+      1696
+    ],
+    "category": "List-item",
+    "text": "c) Chọn ngẫu nhiên 1 người và thấy rằng người này support trạm điện gió. Khả năng người này đến từ Ứng Hòa cao hơn."
+  },
+  {
+    "bbox": [
+      222,
+      1696,
+      1448,
+      1854
+    ],
+    "category": "List-item",
+    "text": "d) Chọn ngẫu nhiên một người được khảo sát thấy rằng người này phản đối trạm điện gió. Xác suất người này là cử tri đến từ Ứng Hòa là 0,25 (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      193,
+      1873,
+      1455,
+      2085
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Dân số nước ta năm 2023 ước tính là $A = 100,3$ triệu người. (Nguồn: Tổng Cục Thống Kê https://gso.gov.vn). Giả sử tỉ lệ tăng dân số hằng năm của nước ta là $r = 0,84\\%$. Biết rằng sau $t$ năm, dân số Việt Nam (tính từ mốc năm 2023) được tính theo công thức: $S = A \\cdot e^{rt}$ triệu người."
+  },
+  {
+    "bbox": [
+      222,
+      2091,
+      1094,
+      2138
+    ],
+    "category": "List-item",
+    "text": "a) Sau 1 năm nữa dân số Việt Nam đạt 101,1 triệu người."
+  },
+  {
+    "bbox": [
+      222,
+      2145,
+      1139,
+      2193
+    ],
+    "category": "List-item",
+    "text": "b) reachable year 2030, population of Vietnam is 120 million."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1452,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 91"
+  }
+]

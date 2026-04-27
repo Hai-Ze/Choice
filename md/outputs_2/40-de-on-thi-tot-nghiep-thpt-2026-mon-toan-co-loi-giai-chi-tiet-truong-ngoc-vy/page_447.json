@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      971,
+      208
+    ],
+    "category": "Formula",
+    "text": "$$\nd) \\text{Theo câu c) } f'(x) = 0 \\Leftrightarrow -x^2 - 4x + 5 = 0 \\Leftrightarrow \\begin{cases} x = 1 \\notin [-7; -4] \\\\ x = -5 \\in [-7; -4] \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      235,
+      723,
+      317
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f(-7) = \\frac{64}{5} ; f(-4) = \\frac{25}{2} ; f(-5) = 12.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      340,
+      943,
+      390
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của hàm số đã cho trên đoạn $[-7; -4]$ là 12."
+  },
+  {
+    "bbox": [
+      76,
+      415,
+      1493,
+      540
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho ba điểm $A(1;2;-4)$, $B(1;-3;1)$, $C(2;2;3)$. Gọi $(S)$ là mặt cầu đi qua ba điểm $A, B, C$ và có tâm $I(a;b;c)$ nằm trên mặt phẳng $(Oxy)$."
+  },
+  {
+    "bbox": [
+      76,
+      569,
+      248,
+      616
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } I(a;b;0)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      644,
+      242,
+      691
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } I(2;1;0)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      714,
+      667,
+      769
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Đường kính của mặt cầu } (S) \\text{ bằng } 2\\sqrt{26}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      797,
+      938,
+      851
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Mặt cầu } (S) \\text{ có phương trình là } (x+2)^2 + (y-1)^2 + z^2 = 104.\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      876,
+      844,
+      915
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      929,
+      894,
+      1052
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1113,
+      737,
+      1161
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Ta có: } I(a;b;c) \\in (Oxy) \\Rightarrow c = 0 \\Rightarrow I(a;b;0)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1186,
+      1493,
+      1311
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) c) d) Gọi phương trình mặt cầu } (S) \\text{ có dạng } x^2 + y^2 + z^2 - 2ax - 2by - 2cz + d = 0, \\text{ với tọa độ tâm } I(a;b;c).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1339,
+      527,
+      1387
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } I(a;b;c) \\in (Oxy) \\Rightarrow c = 0\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1415,
+      698,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} A \\in (S) \\\\ B \\in (S) \\\\ C \\in (S) \\end{cases} \\Rightarrow \\begin{cases} -2a - 4b + d = -21 \\\\ -2a + 6b + d = -11 \\\\ -4a - 4b + d = -17 \\end{cases} \\Leftrightarrow \\begin{cases} a = -2 \\\\ b = 1 \\\\ d = -21 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1608,
+      1183,
+      1665
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó tâm } I(-2;1;0) \\text{ và bán kính } R = \\sqrt{a^2 + b^2 + c^2 - d} = \\sqrt{4+1+0+21} = \\sqrt{26}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1690,
+      705,
+      1744
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đường kính của mặt cầu } (S) \\text{ bằng } 2R = 2\\sqrt{26}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1771,
+      891,
+      1826
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt cầu } (S) \\text{ có phương trình là } (x+2)^2 + (y-1)^2 + z^2 = 26.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1906,
+      1493,
+      2064
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có 10套bộ trong đó có 2套bộ loại I và 8套bộ loại II, các viên bi có cùng kích thước và khối lượng. Mỗi套bộ loại I có 4 bi trắng và 6 bi đỏ, mỗi套bộ loại II có 8 bi trắng và 2 bi đỏ. Bạn Nam lấy ngẫu nhiên một套bộ rồi từ套bộ đó lấy ra ngẫu nhiên một viên bi."
+  },
+  {
+    "bbox": [
+      76,
+      2083,
+      788,
+      2165
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Xác suất để bạn Nam lấy được套bộ loại II là } \\frac{4}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

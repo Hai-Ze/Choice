@@ -1,0 +1,399 @@
+[
+  {
+    "bbox": [
+      91,
+      59,
+      1004,
+      157
+    ],
+    "category": "List-item",
+    "text": "**Câu 7.** Cho hình lập phương $ABCD.A'B'C'D'$ (xem hình vẽ bên). Khẳng định nào sau đây là **sai**?"
+  },
+  {
+    "bbox": [
+      1236,
+      59,
+      1571,
+      331
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      173,
+      515,
+      232
+    ],
+    "category": "List-item",
+    "text": "A. $(\\overline{AB}, \\overline{A'D'}) = 90^\\circ$."
+  },
+  {
+    "bbox": [
+      568,
+      173,
+      864,
+      232
+    ],
+    "category": "List-item",
+    "text": "B. $(\\overline{AB}, \\overline{A'C'}) = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      217,
+      240,
+      518,
+      299
+    ],
+    "category": "List-item",
+    "text": "C. $(\\overline{AC}, \\overline{B'D'}) = 90^\\circ$."
+  },
+  {
+    "bbox": [
+      568,
+      240,
+      858,
+      299
+    ],
+    "category": "List-item",
+    "text": "D. $(\\overline{A'A}, \\overline{CB'}) = 45^\\circ$."
+  },
+  {
+    "bbox": [
+      91,
+      301,
+      962,
+      346
+    ],
+    "category": "List-item",
+    "text": "**Câu 8.** Đồ thị được cho ở hình bên là của hàm số nào sau đây?"
+  },
+  {
+    "bbox": [
+      1132,
+      339,
+      1579,
+      793
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      349,
+      402,
+      429
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{x+3}{x-1}$."
+  },
+  {
+    "bbox": [
+      217,
+      436,
+      459,
+      521
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{x^2+x-3}{x-1}$."
+  },
+  {
+    "bbox": [
+      217,
+      528,
+      480,
+      613
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x^2-2x+3}{x+1}$."
+  },
+  {
+    "bbox": [
+      217,
+      620,
+      418,
+      700
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{2x+3}{x+1}$."
+  },
+  {
+    "bbox": [
+      91,
+      700,
+      1094,
+      783
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Một thư viện ghi lại số giờ đọc sách của 50 sinh viên trong một ngày và thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      217,
+      787,
+      1229,
+      904
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm giờ</td><td>[0; 1)</td><td>[1; 2)</td><td>[2; 3)</td><td>[3; 4)</td><td>[4; 5)</td></tr><tr><td>Số sinh viên</td><td>8</td><td>11</td><td>15</td><td>9</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      217,
+      917,
+      1290,
+      963
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm gần nhất với giá trị nào sau đây?"
+  },
+  {
+    "bbox": [
+      217,
+      978,
+      337,
+      1015
+    ],
+    "category": "List-item",
+    "text": "A. 1,69."
+  },
+  {
+    "bbox": [
+      568,
+      978,
+      686,
+      1015
+    ],
+    "category": "List-item",
+    "text": "B. 1,85."
+  },
+  {
+    "bbox": [
+      921,
+      978,
+      1044,
+      1015
+    ],
+    "category": "List-item",
+    "text": "C. 2,02."
+  },
+  {
+    "bbox": [
+      1273,
+      978,
+      1387,
+      1015
+    ],
+    "category": "List-item",
+    "text": "D. 1,98."
+  },
+  {
+    "bbox": [
+      91,
+      1025,
+      758,
+      1106
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Nghiệm của phương trình $\\sin x = -\\frac{1}{2}$ là"
+  },
+  {
+    "bbox": [
+      217,
+      1113,
+      758,
+      1194
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{6} + k2\\pi; x = \\frac{7\\pi}{6} + k2\\pi \\ (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      921,
+      1113,
+      1487,
+      1194
+    ],
+    "category": "List-item",
+    "text": "B. $x = -\\frac{\\pi}{6} + k2\\pi; x = \\frac{7\\pi}{6} + k2\\pi \\ (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      217,
+      1205,
+      733,
+      1281
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\pi + k2\\pi; x = \\frac{\\pi}{8} + k2\\pi \\ (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      921,
+      1205,
+      1487,
+      1281
+    ],
+    "category": "List-item",
+    "text": "D. $x = -\\frac{\\pi}{6} + k2\\pi; x = \\frac{5\\pi}{6} + k2\\pi \\ (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      91,
+      1281,
+      1590,
+      1369
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Thống kê điểm kiểm tra giữa kỳ 1 môn Toán của 30 học sinh lớp 12C1 của một trường THPT được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      217,
+      1371,
+      1318,
+      1481
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td></tr><tr><td>Số học sinh</td><td>4</td><td>8</td><td>11</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      217,
+      1481,
+      1240,
+      1524
+    ],
+    "category": "Text",
+    "text": "Trung vị của mẫu số liệu gốc thuộc khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      217,
+      1546,
+      361,
+      1595
+    ],
+    "category": "List-item",
+    "text": "A. [2; 4)."
+  },
+  {
+    "bbox": [
+      568,
+      1546,
+      710,
+      1595
+    ],
+    "category": "List-item",
+    "text": "B. [4; 6)."
+  },
+  {
+    "bbox": [
+      921,
+      1546,
+      1061,
+      1595
+    ],
+    "category": "List-item",
+    "text": "C. [6; 8)."
+  },
+  {
+    "bbox": [
+      1273,
+      1546,
+      1425,
+      1595
+    ],
+    "category": "List-item",
+    "text": "D. [8; 10)."
+  },
+  {
+    "bbox": [
+      91,
+      1602,
+      1218,
+      1710
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Cho $(H)$ là hình phẳng giới hạn bởi $(C): y = \\sqrt{x}, y = x - 2$ và trục hoành (xem hình vẽ). Diện tích của $(H)$ bằng"
+  },
+  {
+    "bbox": [
+      1252,
+      1610,
+      1585,
+      1862
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      1720,
+      312,
+      1800
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      568,
+      1720,
+      663,
+      1800
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{16}{3}$."
+  },
+  {
+    "bbox": [
+      217,
+      1807,
+      302,
+      1888
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{7}{3}$."
+  },
+  {
+    "bbox": [
+      568,
+      1807,
+      651,
+      1888
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{8}{3}$."
+  },
+  {
+    "bbox": [
+      133,
+      2016,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "□ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2016,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "□ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1545,
+      2021,
+      1564,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

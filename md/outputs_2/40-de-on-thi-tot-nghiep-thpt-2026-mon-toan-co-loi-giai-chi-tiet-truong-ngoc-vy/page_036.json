@@ -1,0 +1,250 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      99,
+      1565,
+      181
+    ],
+    "category": "Text",
+    "text": "(nghìn đồng), trong khi chi phí sản xuất bình quân cho một sản phẩm là $G(x) = x^2 - 77x + 1000 + \\frac{40000}{x}$"
+  },
+  {
+    "bbox": [
+      155,
+      197,
+      1573,
+      301
+    ],
+    "category": "Text",
+    "text": "(nghìn đồng). Lợi nhuận thu được của doanh nghiệp (tính theo đơn vị nghìn đồng) đạt giá trị lớn nhất bằng bao nhiêu (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      155,
+      318,
+      494,
+      355
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      377,
+      924,
+      416
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      434,
+      337,
+      473
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 384"
+  },
+  {
+    "bbox": [
+      155,
+      492,
+      1305,
+      541
+    ],
+    "category": "Text",
+    "text": "Chi phí sản xuất cho $x$ sản phẩm là $xG(x) = x^3 - 77x^2 + 1000x + 40000$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      568,
+      676,
+      608
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận thu được của doanh nghiệp:"
+  },
+  {
+    "bbox": [
+      161,
+      627,
+      1421,
+      681
+    ],
+    "category": "Formula",
+    "text": "$$\nh(x) = -2x^2 + 1312x - (x^3 - 77x^2 + 1000x + 40000) = -x^3 + 75x^2 + 312x - 40000 \\text{ (nghìn đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      709,
+      616,
+      757
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } h'(x) = -3x^2 + 150x + 312.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      781,
+      509,
+      878
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } h'(x) = 0 \\Leftrightarrow \\begin{cases} x = 52 \\\\ x = -2 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      897,
+      379,
+      941
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      155,
+      953,
+      770,
+      1185
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1211,
+      1048,
+      1257
+    ],
+    "category": "Text",
+    "text": "Vậy lợi nhuận lớn nhất của doanh nghiệp khoảng 384 nghìn đồng."
+  },
+  {
+    "bbox": [
+      155,
+      1270,
+      1575,
+      1491
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong năm 2024, diện tích rừng trồng mới của tỉnh Phú Yên là 1000 ha. Giả sử diện tích rừng trồng mới của tỉnh Phú Yên mỗi năm tiếp theo đều tăng 6% so với diện tích rừng trồng mới của năm liền trước. Kể từ sau năm 2024, năm nào là năm đầu tiên tỉnh Phú Yên có diện tích rừng trồng mới trong năm đó đạt trên 1400 ha?"
+  },
+  {
+    "bbox": [
+      577,
+      1540,
+      1149,
+      1834
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1852,
+      494,
+      1888
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1911,
+      924,
+      1949
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1968,
+      354,
+      2007
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 2030"
+  },
+  {
+    "bbox": [
+      155,
+      2029,
+      1008,
+      2081
+    ],
+    "category": "Text",
+    "text": "Diện tích rừng trồng mới của năm 2024 + 1 là $1000 \\cdot (1 + 0,06)^1$."
+  },
+  {
+    "bbox": [
+      155,
+      2112,
+      1015,
+      2162
+    ],
+    "category": "Text",
+    "text": "Diện tích rừng trồng mới của năm 2024 + 2 là $1000 \\cdot (1 + 0,06)^2$."
+  },
+  {
+    "bbox": [
+      155,
+      2198,
+      337,
+      2225
+    ],
+    "category": "Text",
+    "text": "...................."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

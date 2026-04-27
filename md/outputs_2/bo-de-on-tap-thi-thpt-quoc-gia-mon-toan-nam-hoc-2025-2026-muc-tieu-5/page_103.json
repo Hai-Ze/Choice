@@ -1,0 +1,432 @@
+[
+  {
+    "bbox": [
+      188,
+      135,
+      290,
+      181
+    ],
+    "category": "List-item",
+    "text": "A 12."
+  },
+  {
+    "bbox": [
+      532,
+      135,
+      616,
+      181
+    ],
+    "category": "List-item",
+    "text": "B 6."
+  },
+  {
+    "bbox": [
+      876,
+      135,
+      960,
+      181
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1221,
+      135,
+      1317,
+      181
+    ],
+    "category": "List-item",
+    "text": "D 18."
+  },
+  {
+    "bbox": [
+      150,
+      193,
+      1544,
+      339
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\lim_{x \\to 1} \\frac{f^2(x)-9}{x-1} = \\lim_{x \\to 1} \\frac{(f(x)-3)(f(x)+3)}{x-1} = \\lim_{x \\to 1} \\frac{f(x)-f(1)}{x-1} \\cdot \\lim_{x \\to 1} (f(x)+3) = f'(1) \\cdot (f(1)+3) = 2 \\cdot (3+3) = 12$."
+  },
+  {
+    "bbox": [
+      150,
+      354,
+      1544,
+      443
+    ],
+    "category": "Text",
+    "text": "Câu 7. Diện tích hình phẳng giới hạn bởi đường thẳng $y = x$ và đồ thị của hàm số $y = x^2 - 2x$ bằng"
+  },
+  {
+    "bbox": [
+      188,
+      460,
+      272,
+      507
+    ],
+    "category": "List-item",
+    "text": "A 4."
+  },
+  {
+    "bbox": [
+      532,
+      460,
+      616,
+      507
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      876,
+      460,
+      960,
+      507
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      1221,
+      460,
+      1301,
+      507
+    ],
+    "category": "List-item",
+    "text": "D 3."
+  },
+  {
+    "bbox": [
+      150,
+      522,
+      1544,
+      658
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình hoành độ giao điểm: $x = x^2 - 2x \\Leftrightarrow x^2 - 3x = 0 \\Leftrightarrow x = 0, x = 3$.\nDiện tích $S = \\int_{0}^{3} |x - (x^2 - 2x)| dx = \\int_{0}^{3} (3x - x^2) dx = \\left(\\frac{3}{2}x^2 - \\frac{1}{3}x^3\\right) \\bigg|_{0}^{3} = \\frac{27}{2} - 9 = \\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      150,
+      668,
+      1544,
+      757
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian $Oxyz$, mặt phẳng qua $A(1; 2; -1)$ và vuông góc với các mặt phẳng $(P) : 2x - y + 3z - 2 = 0$; $(Q) : x + y + z - 1 = 0$ có phương trình là"
+  },
+  {
+    "bbox": [
+      188,
+      775,
+      519,
+      818
+    ],
+    "category": "List-item",
+    "text": "A $x + y + 2z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      775,
+      1203,
+      818
+    ],
+    "category": "List-item",
+    "text": "B $4x - y + z - 1 = 0$."
+  },
+  {
+    "bbox": [
+      188,
+      820,
+      535,
+      863
+    ],
+    "category": "List-item",
+    "text": "C $4x - y - 3z - 5 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      820,
+      1190,
+      863
+    ],
+    "category": "List-item",
+    "text": "D $x - y + z + 2 = 0$."
+  },
+  {
+    "bbox": [
+      150,
+      863,
+      1544,
+      1008
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vectơ pháp tuyến của $(P)$ và $(Q)$ lần lượt là $\\vec{n}_P = (2; -1; 3)$, $\\vec{n}_Q = (1; 1; 1)$.\nVectơ pháp tuyến của mặt phẳng cần tìm là $\\vec{n} = [\\vec{n}_P, \\vec{n}_Q] = (-4; 1; 3)$.\nPhương trình mặt phẳng: $-4(x - 1) + 1(y - 2) + 3(z + 1) = 0 \\Leftrightarrow 4x - y - 3z - 5 = 0$."
+  },
+  {
+    "bbox": [
+      150,
+      1025,
+      1544,
+      1157
+    ],
+    "category": "Text",
+    "text": "Câu 9. Trong海里阳学, 度深 $d$ (m) 而 ánh sáng có thể xuyên qua liên hệ với cường độ ánh sáng $I$ bằng công thức $I = I_0 e^{-kd}$. Biết tại độ sâu 10m cường độ ánh sáng bằng một nữa cường độ tại mặt nước, giá trị của $k$ là"
+  },
+  {
+    "bbox": [
+      188,
+      1175,
+      335,
+      1221
+    ],
+    "category": "List-item",
+    "text": "A 0,069."
+  },
+  {
+    "bbox": [
+      532,
+      1175,
+      681,
+      1221
+    ],
+    "category": "List-item",
+    "text": "B 0,077."
+  },
+  {
+    "bbox": [
+      876,
+      1175,
+      1023,
+      1221
+    ],
+    "category": "List-item",
+    "text": "C 0,083."
+  },
+  {
+    "bbox": [
+      1221,
+      1175,
+      1367,
+      1221
+    ],
+    "category": "List-item",
+    "text": "D 0,091."
+  },
+  {
+    "bbox": [
+      150,
+      1233,
+      1544,
+      1343
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ati $d = 10$, $I = \\frac{1}{2}I_0 \\Rightarrow \\frac{1}{2}I_0 = I_0 e^{-10k} \\Rightarrow e^{-10k} = 0,5 \\Rightarrow -10k = \\ln(0,5) \\Rightarrow k = \\frac{\\ln 2}{10} \\approx 0,069$."
+  },
+  {
+    "bbox": [
+      150,
+      1351,
+      988,
+      1404
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tiệm cận xiên của đồ thị hàm số $y = \\frac{2x^2+x}{x+1}$ là"
+  },
+  {
+    "bbox": [
+      188,
+      1415,
+      407,
+      1459
+    ],
+    "category": "List-item",
+    "text": "A $y = 2x + 1$."
+  },
+  {
+    "bbox": [
+      532,
+      1415,
+      752,
+      1459
+    ],
+    "category": "List-item",
+    "text": "B $y = 2x - 3$."
+  },
+  {
+    "bbox": [
+      876,
+      1415,
+      1037,
+      1459
+    ],
+    "category": "List-item",
+    "text": "C $y = 2x$."
+  },
+  {
+    "bbox": [
+      1221,
+      1415,
+      1439,
+      1459
+    ],
+    "category": "List-item",
+    "text": "D $y = 2x - 1$."
+  },
+  {
+    "bbox": [
+      150,
+      1471,
+      1051,
+      1575
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $y = \\frac{2x(x+1)-(x+1)+1}{x+1} = 2x - 1 + \\frac{1}{x+1}$.\nVậy tiệm cận xiên là đường thẳng $y = 2x - 1$."
+  },
+  {
+    "bbox": [
+      150,
+      1593,
+      1544,
+      1678
+    ],
+    "category": "Text",
+    "text": "Câu 11. Khoảng tức phân vị của mẫu số liệu ghép nhóm doanh số bán hàng của 30 cửa hàng là"
+  },
+  {
+    "bbox": [
+      188,
+      1699,
+      290,
+      1745
+    ],
+    "category": "List-item",
+    "text": "A 60."
+  },
+  {
+    "bbox": [
+      532,
+      1699,
+      632,
+      1745
+    ],
+    "category": "List-item",
+    "text": "B 10."
+  },
+  {
+    "bbox": [
+      876,
+      1699,
+      1037,
+      1745
+    ],
+    "category": "List-item",
+    "text": "C 16,375."
+  },
+  {
+    "bbox": [
+      1221,
+      1699,
+      1382,
+      1745
+    ],
+    "category": "List-item",
+    "text": "D 26,375."
+  },
+  {
+    "bbox": [
+      150,
+      1757,
+      1544,
+      1950
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tổng số cửa hàng $n = 30$. Tứ phân vị thứ nhất $Q_1$ ở vị trí thứ 7,5 thuộc nhóm $[40; 50)$: $Q_1 = 40 + \\frac{7,5-7}{10} \\cdot 10 = 40,5$.\nTứ phân vị thứ ba $Q_3$ ở vị trí thứ 22,5 thuộc nhóm $[50; 60)$: $Q_3 = 50 + \\frac{22,5-17}{8} \\cdot 10 = 56,875$.\nKhoảng tức phân vị $\\Delta Q = Q_3 - Q_1 = 56,875 - 40,5 = 16,375$."
+  },
+  {
+    "bbox": [
+      150,
+      1967,
+      1544,
+      2056
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho khối chóp $S.ABCD$ có đáy là hình vuông cạnh $2a$, $SA$ vuông góc với đáy, mặt bên $(SBC)$ tạo với đáy một góc $30^\\circ$. Thể tích khối chóp bằng"
+  },
+  {
+    "bbox": [
+      188,
+      2066,
+      317,
+      2122
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{\\sqrt{3}a^3}{3}$."
+  },
+  {
+    "bbox": [
+      532,
+      2066,
+      674,
+      2122
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{8\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      876,
+      2066,
+      1004,
+      2122
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      1221,
+      2066,
+      1348,
+      2122
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      150,
+      2134,
+      1544,
+      2197
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Góc giữa $(SBC)$ và đáy là $\\angle SBA = 30^\\circ$. Trong tam giác vuông $SAB$:"
+  },
+  {
+    "bbox": [
+      150,
+      2251,
+      829,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1552,
+      2247,
+      1602,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "103"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "bbox": [
+      154,
+      137,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      135,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      247,
+      241,
+      642,
+      800
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      354,
+      835,
+      455,
+      865
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      782,
+      275,
+      1450,
+      778
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1041,
+      835,
+      1141,
+      865
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      202,
+      925,
+      1513,
+      968
+    ],
+    "category": "Text",
+    "text": "Gọi $M, N$ lần lượt là các điểm tiếp xúc của hình chữ nhật $(R)$ với hai mặt cầu $(S_1)$ và $(S_2)$."
+  },
+  {
+    "bbox": [
+      154,
+      987,
+      1544,
+      1072
+    ],
+    "category": "Text",
+    "text": "Ta có $I(2; 1; 1)$, $J(2; 1; 5)$ nên $I(2; 1; 1)$, $J(2; 1; 5)$ nằm cùng phía mặt phẳng $(Oxy)$ và cách $(Oxy)$ một khoảng lần lượt bằng 1 và 5."
+  },
+  {
+    "bbox": [
+      202,
+      1092,
+      1164,
+      1135
+    ],
+    "category": "Text",
+    "text": "Gọi hình chiếu của $I$ và $J$ trên mặt phẳng $(Oxy)$ là điểm $A(2; 1; 0)$."
+  },
+  {
+    "bbox": [
+      202,
+      1148,
+      674,
+      1194
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } OI = \\sqrt{2^2 + 1^2 + 1^2} = \\sqrt{6}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1211,
+      1339,
+      1257
+    ],
+    "category": "Text",
+    "text": "Vì $\\sqrt{6} < 4$ nên $OI < R$ do đó điểm $O$ nằm trong mặt cầu $(S_1)$ (Xem hình 1)."
+  },
+  {
+    "bbox": [
+      154,
+      1275,
+      1546,
+      1362
+    ],
+    "category": "Text",
+    "text": "Gọi hình chiếu của $O$ trên mặt phẳng chứa hình chữ nhật $(R)$ (gọi tắt là mặt phẳng $(R)$) là điểm $K$ thì $d(O, (R)) = OK$. NHận xét rằng,"
+  },
+  {
+    "bbox": [
+      195,
+      1380,
+      1546,
+      1467
+    ],
+    "category": "List-item",
+    "text": "* Khoảng cách từ các điểm $I, J$ và $A$ đến mặt phẳng $(R)$ (thay đổi và luôn tiếp xúc với hai mặt cầu $(S_1), (S_2)$) là không đổi."
+  },
+  {
+    "bbox": [
+      195,
+      1484,
+      691,
+      1525
+    ],
+    "category": "List-item",
+    "text": "* $OK$ nhỏ nhất khi $(R) \\perp (OIJ)$."
+  },
+  {
+    "bbox": [
+      154,
+      1545,
+      1546,
+      1632
+    ],
+    "category": "Text",
+    "text": "Khi $(R) \\perp (OIJ)$ thì có hai vị trí của $(R)$ thỏa mãn, mặt phẳng $(R)$ thỏa mãn $OK$ nhỏ nhất khi và chỉ khi $(R)$ nằm vị trí gần $O$ hơn, ta cũng vẫn gọi mặt phẳng này là $(R)$ (Xem hình 2)."
+  },
+  {
+    "bbox": [
+      202,
+      1650,
+      1164,
+      1693
+    ],
+    "category": "Text",
+    "text": "Gọi hình chiếu của điểm $A$ trên mặt phẳng $(R)$ lần lượt là điểm $H$."
+  },
+  {
+    "bbox": [
+      202,
+      1713,
+      760,
+      1752
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } MN \\cap IJ = S, MN \\cap OA = E.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1772,
+      652,
+      1814
+    ],
+    "category": "Text",
+    "text": "Trong mặt phẳng $(SAE)$ ta có:"
+  },
+  {
+    "bbox": [
+      202,
+      1827,
+      1537,
+      1905
+    ],
+    "category": "Text",
+    "text": "Ta có $NJ = \\frac{1}{2}MI = 2$ và $NJ // MI$ nên tam giác $SMI$ có đường trung bình $NJ \\Rightarrow SJ = IJ$."
+  },
+  {
+    "bbox": [
+      202,
+      1918,
+      814,
+      1955
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } IJ = 5 - 1 = 4 \\text{ nên } SJ = 4 \\text{ và } SI = 8.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1973,
+      1508,
+      2019
+    ],
+    "category": "Text",
+    "text": "Ta có $SI = 2MI = 8$ nên tam giác $SMI$ là nửa tam giác đều cạnh bằng 8, góc $\\widehat{ESA} = 30^\\circ$."
+  },
+  {
+    "bbox": [
+      202,
+      2030,
+      1014,
+      2113
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } EA = SA \\cdot \\tan \\widehat{ESA} = 9 \\cdot \\tan 30^\\circ = 9 \\cdot \\frac{1}{\\sqrt{3}} = 3\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2123,
+      1223,
+      2170
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác, } OA = \\sqrt{2^2 + 1^2 + 0^2} = \\sqrt{5} \\Rightarrow EO = EA - OA = 3\\sqrt{3} - \\sqrt{5}.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      172,
+      2287
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2251,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "159"
+  }
+]

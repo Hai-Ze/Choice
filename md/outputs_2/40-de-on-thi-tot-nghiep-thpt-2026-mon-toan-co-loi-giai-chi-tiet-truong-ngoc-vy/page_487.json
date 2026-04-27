@@ -1,0 +1,250 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      894,
+      156
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      214,
+      1074,
+      275
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của xe kể từ khi bắt đầu đạp phanh là $v(t) = \\int(-2)dt = -2t + C$."
+  },
+  {
+    "bbox": [
+      76,
+      298,
+      665,
+      346
+    ],
+    "category": "Text",
+    "text": "Ta có $v(0) = 10 \\Rightarrow -2 \\cdot 0 + C = 10 \\Leftrightarrow C = 10$."
+  },
+  {
+    "bbox": [
+      76,
+      372,
+      461,
+      420
+    ],
+    "category": "Text",
+    "text": "Vậy vận tốc $v(t) = -2t + 10$."
+  },
+  {
+    "bbox": [
+      76,
+      447,
+      1077,
+      495
+    ],
+    "category": "Text",
+    "text": "Xe background h可见 sau khi đạp phanh thì $v(t) = 0 \\Leftrightarrow -2t + 10 = 0 \\Leftrightarrow t = 5(s)$."
+  },
+  {
+    "bbox": [
+      76,
+      522,
+      486,
+      570
+    ],
+    "category": "Text",
+    "text": "b) Vậy vận tốc $v(t) = -2t + 10$."
+  },
+  {
+    "bbox": [
+      76,
+      593,
+      1340,
+      638
+    ],
+    "category": "Text",
+    "text": "c) Từ lúc phát hiện chướng ngại vật đến khi đạp phanh là 2s nên quăng đường đi được là 20m."
+  },
+  {
+    "bbox": [
+      76,
+      655,
+      1359,
+      713
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường xe đi được kể từ khi bắt đầu đạp phanh là $S(t) = \\int(-2t + 10)dt = -t^2 + 10t + C'$."
+  },
+  {
+    "bbox": [
+      76,
+      736,
+      854,
+      784
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm bắt đầu đạp phanh ta có $S(0) = 0 \\Rightarrow C' = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      815,
+      1039,
+      861
+    ],
+    "category": "Text",
+    "text": "Vậy sau 5 giây thì xe đi được quăng đường là $S(5) = -25 + 10 \\cdot 5 = 25m$."
+  },
+  {
+    "bbox": [
+      76,
+      887,
+      1480,
+      983
+    ],
+    "category": "Text",
+    "text": "Cách khác tính quăng đường từ khi bắt đầu đạp phanh đến khi xe background h可见: $S(t) = \\int_{0}^{5}(-2t + 10)dt = 25$."
+  },
+  {
+    "bbox": [
+      76,
+      1006,
+      1493,
+      1108
+    ],
+    "category": "Text",
+    "text": "Vì khi phát hiện chướng ngại vật em học sinh còn đi thêm 2 giây mới bắt đầu đạp phanh nên sau khi mới tổng quăng đường đi được từ khi bắt đầu phát hiện chướng ngại vật là $25 + 20 = 45m$"
+  },
+  {
+    "bbox": [
+      76,
+      1131,
+      794,
+      1171
+    ],
+    "category": "Text",
+    "text": "Suy ra khi xe background h可见 thì xe cách chướng ngại vật 5m."
+  },
+  {
+    "bbox": [
+      76,
+      1186,
+      1493,
+      1294
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một卧室house được gắn trong hệ trục tọa độ Oxyz như hình vẽ, trong đó nền nhà, bốnバス tường và hai mái nhà đều là hình chữ nhật."
+  },
+  {
+    "bbox": [
+      84,
+      1315,
+      845,
+      1800
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      877,
+      1335,
+      1442,
+      1800
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1817,
+      480,
+      1859
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ điểm H là (0;5;3)."
+  },
+  {
+    "bbox": [
+      76,
+      1882,
+      247,
+      1930
+    ],
+    "category": "Formula",
+    "text": "b) $AH = \\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      1953,
+      273,
+      1997
+    ],
+    "category": "Formula",
+    "text": "c) $\\overline{AH} \\cdot \\overline{AF} = 9$"
+  },
+  {
+    "bbox": [
+      76,
+      2014,
+      1493,
+      2123
+    ],
+    "category": "Text",
+    "text": "d) Góc dốc của mái nhà, tức là số đo của góc nhị diện có cạnh là đường thẳng FG, hai mặt lần lượt là (FGQP) và (FGHE) bằng $26,6^\\circ$ (làm tròn kết quả đến hàng phần mười của độ)"
+  },
+  {
+    "bbox": [
+      727,
+      2148,
+      842,
+      2186
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      838,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

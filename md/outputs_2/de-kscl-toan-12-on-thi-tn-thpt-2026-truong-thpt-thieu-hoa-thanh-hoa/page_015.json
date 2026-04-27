@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      651,
+      99,
+      1140,
+      600
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      607,
+      1236,
+      655
+    ],
+    "category": "Text",
+    "text": "a) Hình chiếu vuông góc của điểm C trên mặt sàn (Oxy) là điểm $C'(0;0;7)$."
+  },
+  {
+    "bbox": [
+      214,
+      664,
+      831,
+      716
+    ],
+    "category": "Text",
+    "text": "b) Nếu $B(x_B; y_B; 0)$ thì $\\overline{AB} = (x_B; y_B - 6; -5)$."
+  },
+  {
+    "bbox": [
+      214,
+      721,
+      677,
+      767
+    ],
+    "category": "Text",
+    "text": "c) Tung độ của điểm $B$ là $y_B = 5$."
+  },
+  {
+    "bbox": [
+      214,
+      774,
+      1376,
+      821
+    ],
+    "category": "Text",
+    "text": "d) Biết điểm $S$ cách lỗ $A$ một khoảng là $SA = 3$ (mét) và $S(a; b; c)$ thì $a + b + c = 12$."
+  },
+  {
+    "bbox": [
+      837,
+      830,
+      951,
+      868
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      870,
+      306,
+      906
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      214,
+      906,
+      469,
+      946
+    ],
+    "category": "Text",
+    "text": "Nguyên tắc chung:"
+  },
+  {
+    "bbox": [
+      214,
+      946,
+      1574,
+      1040
+    ],
+    "category": "Text",
+    "text": "Trong hệ trục tọa độ **Oxyz**, hình chiếu vuông góc của một điểm $M(x_M; y_M; z_M)$ lên các mặt phẳng được xác định:"
+  },
+  {
+    "bbox": [
+      214,
+      1040,
+      885,
+      1089
+    ],
+    "category": "Text",
+    "text": "Hình chiếu lên mặt (Oxy): Tọa độ là $(x_M; y_M; 0)$."
+  },
+  {
+    "bbox": [
+      214,
+      1095,
+      869,
+      1144
+    ],
+    "category": "Text",
+    "text": "Hình chiếu lên mặt (Oxz): Tọa độ là $(x_M; 0; z_M)$."
+  },
+  {
+    "bbox": [
+      214,
+      1152,
+      872,
+      1201
+    ],
+    "category": "Text",
+    "text": "Hình chiếu lên mặt (Oyz): Tọa độ là $(0; y_M; z_M)$."
+  },
+  {
+    "bbox": [
+      214,
+      1207,
+      1574,
+      1312
+    ],
+    "category": "Text",
+    "text": "Sử dụng nguyên tắc trên, suy ra hình chiếu vuông góc của điểm $C(12; 0; 7)$ trên mặt sàn (Oxy) là điểm $C'(12; 0; 0)$."
+  },
+  {
+    "bbox": [
+      214,
+      1320,
+      347,
+      1359
+    ],
+    "category": "Text",
+    "text": "(b) Đúng."
+  },
+  {
+    "bbox": [
+      214,
+      1359,
+      796,
+      1412
+    ],
+    "category": "Text",
+    "text": "Nếu $B(x_B; y_B; 0)$ thì $\\overline{AB} = (x_B; y_B - 6; -5)$."
+  },
+  {
+    "bbox": [
+      214,
+      1419,
+      313,
+      1457
+    ],
+    "category": "Text",
+    "text": "(c) Sai."
+  },
+  {
+    "bbox": [
+      720,
+      1452,
+      1070,
+      1925
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      1932,
+      1075,
+      1981
+    ],
+    "category": "Text",
+    "text": "Gọi $C'(12; 0; 0)$ là hình chiếu của điểm $C$ trên mặt phẳng (Oxy)."
+  },
+  {
+    "bbox": [
+      214,
+      1987,
+      992,
+      2037
+    ],
+    "category": "Text",
+    "text": "Lấy điểm $K(x_K; y_K; z_K)$ là điểm đối xứng của $C$ qua $C'$."
+  },
+  {
+    "bbox": [
+      214,
+      2040,
+      825,
+      2085
+    ],
+    "category": "Text",
+    "text": "Suy ra $C'$ là trung điểm của đoạn thẳng $CK$."
+  }
+]

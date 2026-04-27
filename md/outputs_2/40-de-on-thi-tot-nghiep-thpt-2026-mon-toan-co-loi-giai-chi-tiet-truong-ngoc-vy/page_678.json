@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1495,
+      206
+    ],
+    "category": "Text",
+    "text": "Hình chiếu vuông góc của $S$ trên mặt phẳng đáy là trung điểm $H$ của $AD$, góc giữa $SB$ mặt phẳng đáy $(ABCD)$ là"
+  },
+  {
+    "bbox": [
+      79,
+      233,
+      494,
+      294
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\overline{(SB, (ABCD))} = \\widehat{SBH} = 45^\\circ\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      315,
+      654,
+      365
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có tạo } AB = a, AH = a \\Rightarrow SH = HB = \\sqrt{2}a\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      385,
+      1274,
+      504
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } M \\text{ là trung điểm của } BC \\Rightarrow HDCM \\text{ là hình vuông tâm } O \\Rightarrow HC \\perp DM, DM // HB \\\\ \\Rightarrow HB // (SDM)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      528,
+      522,
+      625
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } \\begin{cases} HC \\perp DM \\\\ SH \\perp DM \\end{cases} \\Rightarrow DM \\perp (SHC)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      649,
+      1199,
+      702
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Kẻ } HI \\perp SO \\Rightarrow HI \\perp (SDM) \\Rightarrow d(HB, SD) = d(HB, (SMD)) = d(H, (SMD)) = HI\n$$"
+  },
+  {
+    "bbox": [
+      79,
+      722,
+      926,
+      903
+    ],
+    "category": "Formula",
+    "text": "$$\nHO = \\frac{1}{2}HC = \\frac{\\sqrt{2}}{2}a \\Rightarrow HI = \\frac{SH.HO}{\\sqrt{SH^2 + HO^2}} = \\frac{\\sqrt{2} \\cdot \\frac{\\sqrt{2}}{2}}{\\sqrt{2 + \\frac{2}{4}}}a = \\frac{\\sqrt{10}}{5}a\n$$"
+  },
+  {
+    "bbox": [
+      79,
+      923,
+      760,
+      1018
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(HB, SD) = \\frac{\\sqrt{10}}{5}a \\Rightarrow m = \\frac{\\sqrt{10}}{5} \\Rightarrow \\frac{3}{5}m^2 = 0,24\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1035,
+      1495,
+      1198
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một thầy giáo có 16 cuốn sách khác nhau gồm 4 cuốn sách Toán, 5 cuốn sách Lý và 7 cuốn sách Hòa. Thầy lấy ra ngẫu nhiên 8 cuốn sách để tăng cho học sinh. Tính xác suất để số sách còn lại của thầy có đủ cả ba môn ( làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      75,
+      1214,
+      415,
+      1251
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1273,
+      844,
+      1312
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1331,
+      270,
+      1370
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,95"
+  },
+  {
+    "bbox": [
+      75,
+      1393,
+      1096,
+      1441
+    ],
+    "category": "Text",
+    "text": "Chọn 8 cuốn sách trong 16 cuốn sách để tăng học sinh có $C_{16}^8 = 12870$ cách."
+  },
+  {
+    "bbox": [
+      75,
+      1459,
+      1419,
+      1506
+    ],
+    "category": "Text",
+    "text": "Chọn 8 cuốn sách trong 16 cuốn để sau khi chọn số sách còn lại không đủ 3 môn ta có 3 trường hợp."
+  },
+  {
+    "bbox": [
+      75,
+      1518,
+      1495,
+      1627
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 1: Chọn 4 cuốn sách Toán và chọn 4 cuốn sách trong 12 cuốn Lý + Hòa còn lại có $C_{12}^4 = 495$ cách."
+  },
+  {
+    "bbox": [
+      75,
+      1651,
+      1401,
+      1700
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 2: Chọn 5 cuốn sách Lí và chọn 3 cuốn sách trong 11 cuốn còn lại có $C_{11}^3 = 165$ cách."
+  },
+  {
+    "bbox": [
+      75,
+      1722,
+      1376,
+      1769
+    ],
+    "category": "Text",
+    "text": "- Trường hợp 3: Chọn 7 cuốn sách Hòa và chọn 1 cuốn sách trong 9 cuốn còn lại có $C_9^1 = 9$ cách."
+  },
+  {
+    "bbox": [
+      75,
+      1788,
+      1376,
+      1835
+    ],
+    "category": "Text",
+    "text": "Do đó xác suất chọn 8 cuốn sách trong 16 cuốn để sau khi chọn số sách còn lại có đủ cả 3 môn là"
+  },
+  {
+    "bbox": [
+      79,
+      1851,
+      515,
+      1937
+    ],
+    "category": "Formula",
+    "text": "$$\n1 - \\frac{495 + 165 + 9}{12870} = \\frac{4067}{4290} \\approx 0,95.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

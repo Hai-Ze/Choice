@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      251,
+      96,
+      455,
+      149
+    ],
+    "category": "Text",
+    "text": "Đáp án: 29,3."
+  },
+  {
+    "bbox": [
+      647,
+      206,
+      1219,
+      706
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      754,
+      1574,
+      847
+    ],
+    "category": "Text",
+    "text": "Đặt $L$ là độ dài của chiếc thang (tính từ mặt đất), và $\\theta$ là góc tạo bởi thang với phương ngang, gọi $d_1$ là đoạn thẳng từ mặt đất lên tới mái hiên, $d_2$ là đoạn từ mái hiên tới tường. Khi đó"
+  },
+  {
+    "bbox": [
+      256,
+      861,
+      619,
+      944
+    ],
+    "category": "Formula",
+    "text": "$$\nL = d_1 + d_2 = \\frac{10}{\\sin \\theta} + \\frac{12}{\\cos \\theta}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      957,
+      776,
+      1048
+    ],
+    "category": "Text",
+    "text": "Miền xác định của $L(\\theta)$ là $\\theta \\in \\left(0, \\frac{\\pi}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      1061,
+      927,
+      1178
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(\\theta) = \\frac{10}{\\sin \\theta} + \\frac{12}{\\cos \\theta}$ liên tục trên $\\left(0, \\frac{\\pi}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      1192,
+      924,
+      1281
+    ],
+    "category": "Text",
+    "text": "Ta tính đạo hàm $f'(\\theta) = -\\frac{10}{\\sin \\theta} \\cot \\theta + \\frac{12}{\\cos \\theta} \\tan \\theta$"
+  },
+  {
+    "bbox": [
+      251,
+      1286,
+      465,
+      1327
+    ],
+    "category": "Text",
+    "text": "Giải $f'(\\theta) = 0$:"
+  },
+  {
+    "bbox": [
+      256,
+      1344,
+      1416,
+      1430
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{12}{\\cos \\theta} \\tan \\theta = \\frac{10}{\\sin \\theta} \\cot \\theta \\Rightarrow 12 \\frac{1}{\\cos \\theta} \\frac{\\sin \\theta}{\\cos \\theta} = 10 \\frac{1}{\\sin \\theta} \\frac{\\cos \\theta}{\\sin \\theta} \\Leftrightarrow \\frac{\\sin^3 \\theta}{\\cos^3 \\theta} = \\frac{10}{12} \\Leftrightarrow \\tan^3 \\theta = \\frac{5}{6}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1438,
+      514,
+      1486
+    ],
+    "category": "Text",
+    "text": "Do đó $\\theta \\approx 0,76\\text{rad}$"
+  },
+  {
+    "bbox": [
+      251,
+      1496,
+      1259,
+      1587
+    ],
+    "category": "Text",
+    "text": "Lập bảng xét dấu $f'(\\theta)$, ta thấy đây là điểm cực tiểu duy nhất trên $\\left(0, \\frac{\\pi}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      1601,
+      1566,
+      1706
+    ],
+    "category": "Text",
+    "text": "Cuối cùng $f(0,76) \\approx 31,07$ nên độ dài thang ngắn nhất cần thiết là $f(0,76) - \\frac{1,2}{\\sin(0,76)} \\approx 29,3\\text{m}$."
+  },
+  {
+    "bbox": [
+      114,
+      1708,
+      1574,
+      1898
+    ],
+    "category": "Text",
+    "text": "**Câu 18:** Cho tức diện $SABC$ có $SA = SB = SC = 5$. Một mặt phẳng ($\\alpha$) thay đổi luôn đi qua trọng tâm $G$ của tức diện và cắt các cạnh $SA, SB, SC$ lần lượt tại $A', B', C'$. Tính giá trị của biểu thức $T = \\frac{1}{SA'} + \\frac{1}{SB'} + \\frac{1}{SC'}$."
+  },
+  {
+    "bbox": [
+      856,
+      1906,
+      968,
+      1945
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1952,
+      438,
+      2004
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,8."
+  }
+]

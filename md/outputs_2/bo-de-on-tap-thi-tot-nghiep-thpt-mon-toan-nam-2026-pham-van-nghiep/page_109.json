@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      455,
+      152
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      545,
+      152,
+      1241,
+      388
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      394,
+      1575,
+      498
+    ],
+    "category": "Text",
+    "text": "Suy ra khi bề rộng gần bằng $2,2(m)$ thì diện tích phần bên trong bể nhỏ nhất, do đó chi phí sẽ thấp nhất"
+  },
+  {
+    "bbox": [
+      212,
+      500,
+      1101,
+      557
+    ],
+    "category": "Text",
+    "text": "Khi đó diện tích đáy bể nhỏ nhất là $S \\approx 2,2, 3,2, 2 \\approx 14,5(m^2)$."
+  },
+  {
+    "bbox": [
+      74,
+      565,
+      1577,
+      715
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một khối tròn xoay được tạo thành khi quay hình phẳng giới hạn bởi đồ thị hàm số $y = \\sqrt{x}$, trục hoành và đường thẳng $x = 2$ quanh trục hoành. Tính thể tích khối tròn xoay đó ( kết quả làm tròn đến hàng phần trăm )."
+  },
+  {
+    "bbox": [
+      765,
+      717,
+      884,
+      759
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      762,
+      396,
+      800
+    ],
+    "category": "Text",
+    "text": "Trả lời: 6,28."
+  },
+  {
+    "bbox": [
+      212,
+      802,
+      1447,
+      856
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số $y = \\sqrt{x}$ cắt trục hoành tại gốc toạ độ nên thể tích khối tròn xoay đó là"
+  },
+  {
+    "bbox": [
+      218,
+      865,
+      742,
+      962
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{2} (\\sqrt{x})^2 dx = \\pi \\int_{0}^{2} x dx = 2\\pi \\approx 6,28\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      970,
+      1575,
+      1150
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Bác bảo vệ của một trường học nhận thấy vào ngày mưa, 25% học sinh sẽ đến trường sau 7 giờ; vào ngày không mưa, 95% học sinh sẽ đến trường trước 7 giờ. Tỉ lệ ngày ưa ở khu vực trường học là 10%. Chọn ngẫu nhiên một học sinh của trường. Biết trong một ngày nào đó, học sinh được chọn đến trường sau 7 giờ, tính xác suất để trời mưa vào ngày hôm đó."
+  },
+  {
+    "bbox": [
+      765,
+      1153,
+      884,
+      1195
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1198,
+      396,
+      1236
+    ],
+    "category": "Text",
+    "text": "Trả lời: 0,36."
+  },
+  {
+    "bbox": [
+      212,
+      1241,
+      1542,
+      1330
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là biến cố “Ngày được chọn có mưa”, $N$ là biến cố “Ngày được chọn không mưa” $A$ là biến cố “Học sinh được chọn đến trường sau 7 giờ”."
+  },
+  {
+    "bbox": [
+      212,
+      1332,
+      1276,
+      1387
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(M) = 0,1; P(N) = 0,9, P(A|M) = 0,25; P(A|N) = 1-0,95 = 0,05$."
+  },
+  {
+    "bbox": [
+      212,
+      1393,
+      1564,
+      1493
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất toàn phần ta có: $P(A) = P(A|M) \\cdot P(M) + P(A|N) \\cdot P(N) = 0,07$."
+  },
+  {
+    "bbox": [
+      212,
+      1495,
+      1564,
+      1648
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức Bayes, xác suất để trời mưa biết học sinh được chọn đêan trường sau 7 giờ là $P(M|A) = \\frac{P(A|M) \\cdot P(M)}{P(A)} = \\frac{5}{14} \\approx 0,36$."
+  },
+  {
+    "bbox": [
+      74,
+      1654,
+      1575,
+      1788
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều, mặt bên $SBC$ là tam giác đều và nằm trong mặt phẳng vuông góc với đáy. Số đo của góc giữa đường thẳng $SA$ và mặt đáy bằng bao nhiêu độ?"
+  },
+  {
+    "bbox": [
+      765,
+      1793,
+      884,
+      1835
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1839,
+      370,
+      1877
+    ],
+    "category": "Text",
+    "text": "Trả lời: 45."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

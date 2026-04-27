@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      96,
+      1351,
+      143
+    ],
+    "category": "Text",
+    "text": "Do đó, số tiền cả gốc và lãi Thầy Khương nhận được sau $n$ năm là $300 \\cdot 1,07^n$ triệu đồng."
+  },
+  {
+    "bbox": [
+      155,
+      166,
+      1549,
+      215
+    ],
+    "category": "Text",
+    "text": "Số tiền cả gốc và lãi nhận được nhiều hơn 600 triệu đồng $\\Leftrightarrow 300 \\cdot 1,07^n > 600 \\Leftrightarrow n > \\log_{1,07} 2 \\approx 10,245$."
+  },
+  {
+    "bbox": [
+      155,
+      238,
+      1573,
+      339
+    ],
+    "category": "Text",
+    "text": "Vậy sau ít nhất 11 năm thì Thầy Khương nhận được số tiền nhiều hơn 600 triệu đồng bao gồm cả gốc và lãi."
+  },
+  {
+    "bbox": [
+      155,
+      357,
+      1575,
+      670
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục toạ độ $Oxyz$ (đơn vị trên mỗi trục là kilômét), đài kiểm soát không lưu sân bay ở vị trí $O(0;0;0)$ và được thiết kế phát hiện máy bay ở khoảng cách tối đa 500 km. Một máy bay đang ở vị trí $A(-1000;-185;30)$ và chuyển động với vận tốc không đổi theo quỹ đạo là đường thẳng $d$ có vectơ chỉ phương $\\vec{u} = (100;80;0)$. Tính khoảng cách từ vị trí $A$ đến khi đài kiểm soát không lưu phát hiện được máy bay (đơn vị km, làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      576,
+      718,
+      1149,
+      1029
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1059,
+      493,
+      1096
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1118,
+      924,
+      1157
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1174,
+      334,
+      1213
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 761"
+  },
+  {
+    "bbox": [
+      155,
+      1228,
+      1573,
+      1337
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là giao điểm của đường thẳng $d$ với mặt cầu $(S)$ tâm $O$ bán kính $R = 500$ km. Khi đó, yêu cầu bài toán là tính độ dài đoạn $AM$."
+  },
+  {
+    "bbox": [
+      155,
+      1357,
+      1112,
+      1506
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } (S): x^2 + y^2 + z^2 = 500^2, d: \\begin{cases} x = -1000 + 100t \\\\ y = -185 + 80t \\\\ z = 30 \\end{cases} \\Rightarrow AM = 20\\sqrt{41} \\cdot t\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1532,
+      277,
+      1568
+    ],
+    "category": "Text",
+    "text": "Tìm $M$ :"
+  },
+  {
+    "bbox": [
+      160,
+      1592,
+      798,
+      1752
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} (-1000+100t)^2 + (-185+80t)^2 + 30^2 &= 250000 \\\\ \\Leftrightarrow 16400t^2 - 229600t + 785125 &= 0 \\\\ \\Leftrightarrow 656t^2 - 9184t + 31405 &= 0 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1763,
+      672,
+      1957
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} t = \\frac{1148 + \\sqrt{30299}}{164} \\Rightarrow AM \\approx 1032 \\\\ t = \\frac{1148 - \\sqrt{30299}}{164} \\Rightarrow AM \\approx 761 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1979,
+      423,
+      2020
+    ],
+    "category": "Text",
+    "text": "Vậy $AM \\approx 761$ km."
+  },
+  {
+    "bbox": [
+      155,
+      2034,
+      1575,
+      2210
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một kỹ sư thiết kế mô hình trang trí cho một sân khấu nổi có dạng hình lập phương $ABCD.A_1B_1C_1D_1$ với độ dài các cạnh bằng 5 m. Để tạo ra nét độcouláo cho sân khấu, người kỹ sư muốn thiết kế một dàn đèn ánh sáng nối từ một điểm $M$ trên đoạn thẳng $AD_1$ xuống một điểm $N$ trên đoạn"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

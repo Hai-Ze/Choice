@@ -1,0 +1,269 @@
+[
+  {
+    "bbox": [
+      217,
+      63,
+      929,
+      144
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Dấu “=” khi } 18x = \\frac{180000}{x} \\Rightarrow x^2 = 10000 \\Rightarrow x = 100.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      148,
+      1196,
+      194
+    ],
+    "category": "Text",
+    "text": "Vậy mỗi chuyển chở 100 kg là tối ưu (khi đó có $3600/100 = 36$ chuyển)."
+  },
+  {
+    "bbox": [
+      92,
+      194,
+      1335,
+      361
+    ],
+    "category": "List-item",
+    "text": "**Câu 18.** Kim tự tháp Memphis nằm tại bang Tennessee (Mỹ) có dạng của một hình chóp tứ giác đều với chiều cao 98 m và cạnh đáy 180 m. Tính số đo góc nhị diện tạo bởi mặt bên và mặt đáy của kim tự tháp đó theo đơn vị độ (làm tròn kết quả đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      217,
+      361,
+      541,
+      408
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      217,
+      414,
+      391,
+      457
+    ],
+    "category": "Text",
+    "text": "Đáp số: 47,4"
+  },
+  {
+    "bbox": [
+      1352,
+      197,
+      1589,
+      543
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      612,
+      457,
+      838,
+      502
+    ],
+    "category": "Section-header",
+    "text": "### Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      514,
+      727,
+      915
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      921,
+      464,
+      970
+    ],
+    "category": "Text",
+    "text": "diện $[S, CD, O]$."
+  },
+  {
+    "bbox": [
+      749,
+      502,
+      1592,
+      639
+    ],
+    "category": "Text",
+    "text": "Gọi hình chóp tứ giác đều là $S.ABCD$ với đường cao $SO$ như hình vẽ ($O = AC \\cap BD$), $M$ là trung điểm của $CD$."
+  },
+  {
+    "bbox": [
+      749,
+      645,
+      1592,
+      734
+    ],
+    "category": "Text",
+    "text": "Góc nhị diện tạo bởi mỗi mặt bên và mặt đáy của kim tự tháp là bằng nhau."
+  },
+  {
+    "bbox": [
+      749,
+      740,
+      1585,
+      851
+    ],
+    "category": "Text",
+    "text": "Xét góc nhị diện tạo bởi mặt bên ($SCD$) và mặt đáy ($ABCD$) là $[S, CD, O]$."
+  },
+  {
+    "bbox": [
+      749,
+      869,
+      1592,
+      915
+    ],
+    "category": "Text",
+    "text": "Ta có $SM \\perp CD$ và $OM \\perp CD$, suy ra $SMO$ là góc phẳng nhị"
+  },
+  {
+    "bbox": [
+      217,
+      983,
+      1447,
+      1066
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét tam giác } SMO, \\text{ ta có: } OM = \\frac{BC}{2} = 90 \\text{ m}; \\tan SMO = \\frac{SO}{OM} = \\frac{98}{90} = \\frac{49}{45} \\Rightarrow SMO \\approx 47,4^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1070,
+      1355,
+      1115
+    ],
+    "category": "Text",
+    "text": "Vậy số đo góc nhị diện tạo bởi mặt bên và mặt đáy của kim tự tháp đó xấp xỉ $47,4^{\\circ}$."
+  },
+  {
+    "bbox": [
+      92,
+      1119,
+      1592,
+      1367
+    ],
+    "category": "List-item",
+    "text": "**Câu 19.** Qua điều tra, các nhà phân tích kinh tế đã nhận định rằng tốc độ tăng trưởng kinh tế (GDP) của một quốc gia sau $t$ năm tính từ đầu năm 2015 là $q(t) = 30 + \\frac{1}{2}\\sqrt{5+t}$ (tỷ USD/năm). Biết rằng GDP của quốc gia đó vào đầu năm 2015 là 100 tỷ USD. Hãy dự đoán GDP của quốc gia đó vào đầu năm 2026 (làm tròn kết quả đến hàng đơn vị của tỷ USD)."
+  },
+  {
+    "bbox": [
+      217,
+      1367,
+      541,
+      1414
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      217,
+      1420,
+      382,
+      1463
+    ],
+    "category": "Text",
+    "text": "Đáp số: 448"
+  },
+  {
+    "bbox": [
+      1228,
+      1172,
+      1587,
+      1411
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      740,
+      1463,
+      966,
+      1508
+    ],
+    "category": "Section-header",
+    "text": "### Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1518,
+      1246,
+      1578
+    ],
+    "category": "Text",
+    "text": "Hàm số mô tả GDP của quốc gia đó sau $t$ năm là $S(t) = \\int q(t)dt$ (tỷ USD)."
+  },
+  {
+    "bbox": [
+      217,
+      1584,
+      1381,
+      1632
+    ],
+    "category": "Text",
+    "text": "GDP tăng thêm của quốc gia đó tính từ năm 2015 ($t = 0$) đến đầu năm 2026 ($t = 11$) là:"
+  },
+  {
+    "bbox": [
+      222,
+      1638,
+      1157,
+      1785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{11} q(t)dt = \\int_{0}^{11} \\left( 30 + \\frac{1}{2}\\sqrt{5+t} \\right) dt = \\left. \\left( 30t + \\frac{(5+t)^{\\frac{3}{2}}}{3} \\right) \\right|_{0}^{11} \\approx 348 \\text{ (tỷ USD).}\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1793,
+      1377,
+      1841
+    ],
+    "category": "Text",
+    "text": "Như vậy, tổng giá trị GDP tính đến đầu năm 2026 xấp xỉ với $348+100 = 448$ tỷ USD."
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1443,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2021,
+      1565,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "7"
+  }
+]

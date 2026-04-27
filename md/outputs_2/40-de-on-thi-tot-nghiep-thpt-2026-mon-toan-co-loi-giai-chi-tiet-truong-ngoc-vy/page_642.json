@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1573,
+      195
+    ],
+    "category": "Text",
+    "text": "học sinh này tham gia biểu diễn văn nghệ, xác suất để học sinh này là nữ là bao nhiêu? (Nếu kết quả là số thập phân thì làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      493,
+      249
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      272,
+      924,
+      310
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      328,
+      348,
+      368
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,63"
+  },
+  {
+    "bbox": [
+      155,
+      391,
+      464,
+      431
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “Học sinh nữ”"
+  },
+  {
+    "bbox": [
+      162,
+      446,
+      734,
+      491
+    ],
+    "category": "Text",
+    "text": "$B$: “Học sinh tham gia biểu diễn thể thao”"
+  },
+  {
+    "bbox": [
+      155,
+      510,
+      520,
+      548
+    ],
+    "category": "Text",
+    "text": "Giả sử $P(A) = x, 0 \\le x \\le 1$."
+  },
+  {
+    "bbox": [
+      155,
+      570,
+      368,
+      614
+    ],
+    "category": "Text",
+    "text": "Sơ đồ hình cây:"
+  },
+  {
+    "bbox": [
+      485,
+      653,
+      1276,
+      1081
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1108,
+      1232,
+      1158
+    ],
+    "category": "Text",
+    "text": "Ta có $P(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) \\Rightarrow 0 \\cdot x + 0,8(1-x) = 0.6 \\Rightarrow x = 0,25$."
+  },
+  {
+    "bbox": [
+      155,
+      1175,
+      1573,
+      1222
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để học sinh được chọn là nữ, biết học sinh này tham gia biểu diễn văn nghệ là"
+  },
+  {
+    "bbox": [
+      162,
+      1238,
+      777,
+      1332
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|\\bar{B}) = \\frac{P(A) \\cdot P(\\bar{B}|A)}{P(\\bar{B})} = \\frac{0,25 \\cdot 1}{0,4} = \\frac{5}{8} \\approx 0,63.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

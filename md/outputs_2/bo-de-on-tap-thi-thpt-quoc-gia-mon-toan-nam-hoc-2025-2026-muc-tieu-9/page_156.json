@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      202,
+      138,
+      1080,
+      182
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là trung điểm của $BC$. Vì $BM // DI$ nên $BM // (SDI)$."
+  },
+  {
+    "bbox": [
+      202,
+      202,
+      954,
+      244
+    ],
+    "category": "Text",
+    "text": "Do đó $d(BM, SD) = d(BM, (SDI)) = d(M, (SDI))$."
+  },
+  {
+    "bbox": [
+      202,
+      254,
+      1420,
+      334
+    ],
+    "category": "Text",
+    "text": "Vì $AD \\cap (SDI) = D$ và $M$ là trung điểm của $AD$ nên $d(M, (SDI)) = \\frac{1}{2}d(A, (SDI))$."
+  },
+  {
+    "bbox": [
+      202,
+      345,
+      1035,
+      387
+    ],
+    "category": "Text",
+    "text": "Trong $(ABCD)$, kẻ $AK \\perp DI$ ($K \\in DI$), $AK \\cap BM = J$."
+  },
+  {
+    "bbox": [
+      202,
+      406,
+      779,
+      448
+    ],
+    "category": "Text",
+    "text": "Trong $(SAK)$, kẻ $AH \\perp SK$ ($H \\in SK$)."
+  },
+  {
+    "bbox": [
+      202,
+      464,
+      900,
+      570
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\begin{cases} DI \\perp AK \\\\ DI \\perp SA \\end{cases} \\Rightarrow DI \\perp (SAK) \\Rightarrow DI \\perp AH.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      585,
+      830,
+      627
+    ],
+    "category": "Text",
+    "text": "Suy ra $AH \\perp (SDI) \\Rightarrow d(A, (SDI)) = AH$."
+  },
+  {
+    "bbox": [
+      202,
+      644,
+      1286,
+      686
+    ],
+    "category": "Text",
+    "text": "Ta có $BM // DI \\Rightarrow JM // DK$ và $M$ là trung điểm của $AD$ nên $AK = 2AJ$."
+  },
+  {
+    "bbox": [
+      202,
+      698,
+      1210,
+      786
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có } \\frac{1}{AJ^2} = \\frac{1}{AB^2} + \\frac{1}{AM^2} = \\frac{1}{1^2} + \\frac{1}{1^2} = 2 \\Rightarrow AJ = \\frac{\\sqrt{2}}{2} \\Rightarrow AK = \\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      794,
+      1054,
+      882
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác } \\frac{1}{AH^2} = \\frac{1}{AK^2} + \\frac{1}{SA^2} = \\frac{1}{2} + \\frac{1}{1} = \\frac{3}{2} \\Rightarrow AH = \\frac{\\sqrt{6}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      888,
+      823,
+      977
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } d(BM, SD) = \\frac{1}{2} \\cdot AH = \\frac{\\sqrt{6}}{6} \\approx 0,41.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      988,
+      745,
+      1032
+    ],
+    "category": "Section-header",
+    "text": "## Cách 2: Gắn hệ trục tọa độ $Oxyz$"
+  },
+  {
+    "bbox": [
+      152,
+      1041,
+      1286,
+      1904
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1918,
+      864,
+      1960
+    ],
+    "category": "Formula",
+    "text": "$$\nA \\equiv O(0; 0; 0), AB \\equiv Ox, AD \\equiv Oy, AS \\equiv Oz.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1977,
+      1035,
+      2021
+    ],
+    "category": "Text",
+    "text": "Tọa độ các điểm: $B(1; 0; 0)$, $M(0; 1; 0)$, $D(0; 2; 0)$, $S(0; 0; 1)$."
+  },
+  {
+    "bbox": [
+      202,
+      2039,
+      1442,
+      2083
+    ],
+    "category": "Text",
+    "text": "Gọi $(\\alpha)$ là mặt phẳng chứa $SD$ và song song với $BM$. Khi đó $d(BM, SD) = d(B, (\\alpha))$."
+  },
+  {
+    "bbox": [
+      202,
+      2093,
+      686,
+      2142
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{BM} = (-1; 1; 0), \\overrightarrow{SD} = (0; 2; -1).\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2155,
+      1153,
+      2205
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vectơ pháp tuyến của mặt phẳng } (\\alpha) \\text{ là } \\vec{n} = [\\overrightarrow{SD}, \\overrightarrow{BM}] = (1; 1; 2).\n$$"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "156"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

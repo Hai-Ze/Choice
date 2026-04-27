@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      517,
+      135,
+      1252,
+      716
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      312,
+      756,
+      825,
+      796
+    ],
+    "category": "Text",
+    "text": "Tiệm cận xiên của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      212,
+      803,
+      383,
+      842
+    ],
+    "category": "List-item",
+    "text": "A. $y = x + 1$."
+  },
+  {
+    "bbox": [
+      547,
+      803,
+      735,
+      842
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x + 1$."
+  },
+  {
+    "bbox": [
+      862,
+      803,
+      1067,
+      842
+    ],
+    "category": "List-item",
+    "text": "C. $y = -2x + 1$."
+  },
+  {
+    "bbox": [
+      1177,
+      803,
+      1369,
+      842
+    ],
+    "category": "List-item",
+    "text": "D. $y = 2x + 1$."
+  },
+  {
+    "bbox": [
+      834,
+      854,
+      953,
+      896
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      901,
+      412,
+      938
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      212,
+      941,
+      1572,
+      1093
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta thấy đường tiệm cận xiên của đồ thị hàm số là đường thẳng đi qua hai điểm $(-1;0)$ và $(0;1)$. Do đó, tiệm cận xiên của đồ thị hàm số đã cho là đường thẳng $y = x + 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1095,
+      1240,
+      1145
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4."
+  },
+  {
+    "bbox": [
+      74,
+      1147,
+      1574,
+      1359
+    ],
+    "category": "List-item",
+    "text": "Câu 1: Trong không gian $Oxyz$, cho mặt phẳng $(P): x - 2y + z = 0$, đường thẳng $d: \\begin{cases} x = 2 + t \\\\ y = -3t \\\\ z = 1 + t \\end{cases}$ và hai điểm $A(2;1;0)$, $B(2;-3;4)$. Các мыnhi đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      212,
+      1371,
+      708,
+      1421
+    ],
+    "category": "Text",
+    "text": "a)úp $A$ thuộc mặt phẳng $(P)$."
+  },
+  {
+    "bbox": [
+      212,
+      1436,
+      1206,
+      1514
+    ],
+    "category": "Text",
+    "text": "b) Hoành độ giao điểm của đường thẳng $d$ và mặt phẳng bằng $\\frac{-3}{8}$."
+  },
+  {
+    "bbox": [
+      212,
+      1521,
+      1478,
+      1572
+    ],
+    "category": "Text",
+    "text": "c) Gọi $H(a;b;c)$ là hình chiếu vuông góc của $B$ lên mặt phẳng $(P)$. Khi đó $a+b+c=3$."
+  },
+  {
+    "bbox": [
+      212,
+      1581,
+      1565,
+      1697
+    ],
+    "category": "Text",
+    "text": "d) Gọi $\\Delta$ là đường thẳng vuông góc với mặt phẳng $(P)$ sao cho khoảng cách từ $A$ đến $\\Delta$ bằng $\\sqrt{2}$. Khi khoảng cách từ $B$ đến $\\Delta$ đạt giá trị lớn nhất thì $\\Delta$ đi qua điểm $M(3;1;-1)$."
+  },
+  {
+    "bbox": [
+      834,
+      1711,
+      953,
+      1751
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      382,
+      1749,
+      1266,
+      1798
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Đúng</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1803,
+      783,
+      1845
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Ta có: $2 - 2 \\cdot 1 + 0 = 0 \\Rightarrow A \\in (P)$"
+  },
+  {
+    "bbox": [
+      212,
+      1853,
+      442,
+      1894
+    ],
+    "category": "Text",
+    "text": "Suy ra a) đúng."
+  },
+  {
+    "bbox": [
+      212,
+      1898,
+      555,
+      1948
+    ],
+    "category": "Text",
+    "text": "b) Sai. Gọi $\\{I\\} = d \\cap (P)$"
+  },
+  {
+    "bbox": [
+      218,
+      1956,
+      549,
+      1996
+    ],
+    "category": "Formula",
+    "text": "$$\nI \\in d \\Rightarrow I(2+t;-3t;1+t)\n$$"
+  },
+  {
+    "bbox": [
+      246,
+      2004,
+      1036,
+      2094
+    ],
+    "category": "Formula",
+    "text": "$$\nI \\in (P) \\Rightarrow 2+t - 2 \\cdot (-3t) + 1 + t = 0 \\Rightarrow t = \\frac{-3}{8} \\Rightarrow I\\left(\\frac{13}{8};\\frac{9}{8};\\frac{5}{8}\\right)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2107,
+      409,
+      2147
+    ],
+    "category": "Text",
+    "text": "Suy ra b) sai."
+  },
+  {
+    "bbox": [
+      212,
+      2147,
+      751,
+      2201
+    ],
+    "category": "Text",
+    "text": "c) Đúng. $d' \\perp (P) \\Rightarrow \\vec{u}_{d'} = \\vec{n}_p = (1;-2;1)$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

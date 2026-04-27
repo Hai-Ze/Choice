@@ -1,0 +1,249 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      153,
+      1455,
+      272
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      193,
+      310,
+      838,
+      627
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một bể bơi hình trụ có đường kính 5 m và chiều cao 1 m; bể được bơm nước vào với tốc độ không đổi $v_0$. Sau khi nước được bơm đầy, bể bơi bị thùng một lỗ ở đáy và nước ch洗 ra ngoài và bể bị ch洗 hết nước trong 8 giờ."
+  },
+  {
+    "bbox": [
+      858,
+      310,
+      1434,
+      676
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      713,
+      1455,
+      868
+    ],
+    "category": "Text",
+    "text": "Biết tốc độ giảm chiều cao của bể bơi khi nước ch洗 ra ngoài vào thời điểm $t$ giờ (tính từ lúc nước đầy bể và background) được cho bởi hàm số $h'(t) = at + b$, với $a, b \\in \\mathbb{R}$. Lúc nước ch洗 hết ra ngoài thì tốc độ giảm chiều cao bằng 0."
+  },
+  {
+    "bbox": [
+      223,
+      876,
+      1197,
+      922
+    ],
+    "category": "List-item",
+    "text": "a) Thể tích của bể bơi sau khi nước được làm đầy là $6,25\\pi \\text{ m}^3$."
+  },
+  {
+    "bbox": [
+      223,
+      935,
+      653,
+      974
+    ],
+    "category": "List-item",
+    "text": "b) $32a + 1 = 0$ và $4b - 1 = 0$."
+  },
+  {
+    "bbox": [
+      223,
+      979,
+      1263,
+      1062
+    ],
+    "category": "List-item",
+    "text": "c) Sau 4 giờ kể từ lúc bể bị rò, lượng nước bị mất đi bằng $\\frac{75\\pi}{16} \\text{ m}^3$."
+  },
+  {
+    "bbox": [
+      223,
+      1062,
+      1121,
+      1109
+    ],
+    "category": "List-item",
+    "text": "d) Lượng nước bị rò rỉ ra ngoài một half sau $8 - 4\\sqrt{2}$ giờ."
+  },
+  {
+    "bbox": [
+      193,
+      1139,
+      305,
+      1176
+    ],
+    "category": "Text",
+    "text": "**Câu 2.**"
+  },
+  {
+    "bbox": [
+      193,
+      1190,
+      1032,
+      1374
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{x + d}$ có đồ thị là đường cong trong hình vẽ bên, biết đường tiệm cận xiên của đồ thị hàm số đi qua hai điểm $(0; 1)$ và $(1; 0)$."
+  },
+  {
+    "bbox": [
+      223,
+      1381,
+      832,
+      1428
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là $\\mathbb{R} \\setminus \\{2\\}$."
+  },
+  {
+    "bbox": [
+      223,
+      1435,
+      886,
+      1482
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đồng biến trên khoảng $(-4; 0)$."
+  },
+  {
+    "bbox": [
+      223,
+      1494,
+      643,
+      1533
+    ],
+    "category": "List-item",
+    "text": "c) Ta có $a + b + c + d = -2$."
+  },
+  {
+    "bbox": [
+      223,
+      1544,
+      1022,
+      1645
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách từ $M(1; -8)$ đến đường thẳng đi qua các điểm cực trị của đồ thị hàm số là $\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      1048,
+      1199,
+      1437,
+      1654
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1669,
+      1455,
+      1879
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một tờ tiền giả lần lượt bị hai người A và B kiểm tra. Xác suất để người A phát hiện ra tờ này giả là 0,7. Nếu người A cho rằng tờ này tiền giả, thì xác suất để người B cũng nhận định như thế là 0,8. Ngược lại, nếu người A cho rằng tờ này là tiền thật thì xác suất để người B cũng nhận định như thế là 0,4."
+  },
+  {
+    "bbox": [
+      223,
+      1886,
+      1127,
+      1933
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để A không phát hiện ra tờ tiền đó giả là 0,2."
+  },
+  {
+    "bbox": [
+      223,
+      1941,
+      1423,
+      1988
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để hai người này đều không phát hiện đây là tờ tiền giả là 0,12."
+  },
+  {
+    "bbox": [
+      223,
+      1996,
+      1448,
+      2094
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để ít nhất một trong hai người này phát hiện ra tờ tiền đó là giả là 0,88."
+  },
+  {
+    "bbox": [
+      223,
+      2101,
+      1448,
+      2202
+    ],
+    "category": "List-item",
+    "text": "d) Biết tờ tiền đó đã bị ít nhất một trong hai người này phát hiện là giả, xác suất để A phát hiện ra nó giả là 79,5% (làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

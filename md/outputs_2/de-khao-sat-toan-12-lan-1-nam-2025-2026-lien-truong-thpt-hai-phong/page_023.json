@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      251,
+      104,
+      729,
+      150
+    ],
+    "category": "Text",
+    "text": "Ta có: $AB \\parallel CD$ nên $AB \\parallel (SCD)$."
+  },
+  {
+    "bbox": [
+      251,
+      161,
+      1038,
+      213
+    ],
+    "category": "Text",
+    "text": "Khi đó: $d(AB, SC) = d(AB, (SCD)) = d(I, (SCD)) = IH$."
+  },
+  {
+    "bbox": [
+      256,
+      223,
+      1307,
+      452
+    ],
+    "category": "Formula",
+    "text": "$$\nID = \\frac{\\sqrt{3}}{2} \\text{ và } SI = \\frac{1}{2} AB = \\frac{1}{2} \\text{ suy ra } IH = \\sqrt{\\frac{SI^2 \\cdot ID^2}{SI^2 + ID^2}} = \\sqrt{\\frac{\\left(\\frac{1}{2}\\right)^2 \\cdot \\left(\\frac{\\sqrt{3}}{2}\\right)^2}{\\left(\\frac{1}{2}\\right)^2 + \\left(\\frac{\\sqrt{3}}{2}\\right)^2}} = \\frac{\\sqrt{3}}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      465,
+      748,
+      504
+    ],
+    "category": "Text",
+    "text": "Vậy $a = 3$ và $b = 4$ suy ra $a+b=7$."
+  },
+  {
+    "bbox": [
+      114,
+      506,
+      1527,
+      830
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một doanh nghiệp sản xuất độc quyền một loại sản phẩm. Giả sử khi sản xuất và bán hết $x$ sản phẩm ($0 < x \\le 2500$), tổng số tiền doanh nghiệp thu được là $f(x) = 2006x - x^2$ (đơn vị: nghìn đồng) và tổng chi phí là $g(x) = x^2 + 1438x - 1209$ (đơn vị: nghìn đồng). Giả sử mức thuế phụ thu trên một đơn vị sản phẩm bán được là $t$ (nghìn đồng) ($0 < t < 320$). Giá trị của $t$ bằng bao nhiêu nghìn đồng để nhà nước nhận được số tiền thuế phụ thu lớn nhất và doanh nghiệp cũng nhận được lợi nhuận lớn nhất theo mức thuế phụ thu đó?"
+  },
+  {
+    "bbox": [
+      836,
+      857,
+      950,
+      896
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      921,
+      421,
+      962
+    ],
+    "category": "Text",
+    "text": "Đáp số: 284"
+  },
+  {
+    "bbox": [
+      251,
+      969,
+      1300,
+      1018
+    ],
+    "category": "Text",
+    "text": "Gọi $\\pi(x)$ là lợi nhuận của doanh nghiệp khi bán $x$ sản phẩm với mức thuế $t$."
+  },
+  {
+    "bbox": [
+      251,
+      1032,
+      1339,
+      1182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Ta có: } \\pi(x) &= f(x) - g(x) - tx = (2006x - x^2) - (x^2 + 1438x - 1209) - tx. \\\\ \\Rightarrow \\pi(x) &= -2x^2 + (568 - t)x + 1209 \\Rightarrow \\pi'(x) = -4x + (568 - t) = 0 \\Rightarrow x = \\frac{568 - t}{4}. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1194,
+      1187,
+      1279
+    ],
+    "category": "Text",
+    "text": "Vì $\\pi(x)$ là hàm bậc hai có $a < 0$ nên suy ra $\\max \\pi(x) = \\pi\\left(\\frac{568-t}{4}\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      1292,
+      1497,
+      1342
+    ],
+    "category": "Text",
+    "text": "Số tiền thuế nhà nước thu được để doanh nghiệp cũng nhận được lợi nhuận lớn nhất là $T(t)$:"
+  },
+  {
+    "bbox": [
+      256,
+      1359,
+      1104,
+      1450
+    ],
+    "category": "Formula",
+    "text": "$$\nT(t) = tx = t\\left(\\frac{568-t}{4}\\right) = \\frac{1}{4}t(568-t) \\le \\frac{1}{4}\\left(\\frac{t+568-t}{2}\\right)^2 = 20164.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1458,
+      1172,
+      1504
+    ],
+    "category": "Text",
+    "text": "Dấu \" = \" $\\Leftrightarrow t = 568 - t \\Leftrightarrow t = 284$ (thỏa mãn điều kiện $0 < t < 320$)."
+  },
+  {
+    "bbox": [
+      251,
+      1513,
+      775,
+      1558
+    ],
+    "category": "Text",
+    "text": "Suy ra, $\\max T(t) = 20164$ khi $t = 284$."
+  },
+  {
+    "bbox": [
+      251,
+      1568,
+      1066,
+      1613
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị của thuế phụ thu cần tìm là $t = 284$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      114,
+      1613,
+      1524,
+      1814
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trong năm đầu tiên đi làm, anh Huy nhận được lương là 10 triệu đồng mỗi tháng. Cứ hết một năm, anh Huy lại được tăng lương, mỗi tháng năm sau tăng 12% so với mỗi tháng năm trước. Kể từ năm thứ 2 mỗi khi lĩnh lương anh Huy đều cất đi phần tăng lương so với năm ngay trước để tiếtniêm mua ô tô. Hỏi tính từ khi đi làm sau ít nhất bao nhiêu năm thì anh Huy mua được ô tô giá 500 triệu biết rằng anh Huy được gia đình hỗ trợ 32% giá trị chiếc xe?"
+  },
+  {
+    "bbox": [
+      836,
+      1816,
+      950,
+      1853
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1851,
+      405,
+      1890
+    ],
+    "category": "Text",
+    "text": "Đáp số: 13"
+  },
+  {
+    "bbox": [
+      251,
+      1892,
+      1267,
+      1937
+    ],
+    "category": "Text",
+    "text": "Số tiền mà anh Huy phải trả để mua xe ô tô là: $500.0,68 = 340$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      1946,
+      1363,
+      1991
+    ],
+    "category": "Text",
+    "text": "Tổng tiền lương năm đầu tiên anh Huy nhận được là: $T_1 = 10.12 = 120$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      2002,
+      1480,
+      2100
+    ],
+    "category": "Text",
+    "text": "Số tiền tiếtniêm được của anh Huy sau năm thứ hai là: $T_2 = 120.1,02 - 120 = 120.0,12$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      251,
+      2105,
+      1515,
+      2204
+    ],
+    "category": "Text",
+    "text": "Số tiền tiếtniêm được của anh Huy sau năm thứ ba là: $T_3 = 120.1,12^2 - 120.1,12 = 120.1,12.0,12$ (triệu đồng)."
+  }
+]

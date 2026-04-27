@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      551,
+      181
+    ],
+    "category": "Text",
+    "text": "thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      197,
+      1548,
+      379
+    ],
+    "category": "Text",
+    "text": "Bài 1. Ống dẫn nước vào của một bể chứa 100 m³ nước có tốc độ dòng ch洗 là 10 m³ mỗi phút và hai ống thoát nước mỗi ống có tốc độ dòng ch洗 là 5 m³ mỗi phút. Trong cùng một khoảng thời gian ống dẫn nước và ống thoát nước có thể không cùng hoạt động. Hình vẽ sau cho thấy thể tích $V$ của chất lỏng trong bể chứa như một hàm theo biến thời gian $t$ (phút) với $0 \\le t \\le 60$."
+  },
+  {
+    "bbox": [
+      355,
+      392,
+      1345,
+      1098
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1144,
+      428,
+      1185
+    ],
+    "category": "Text",
+    "text": "Cácatanh đề:"
+  },
+  {
+    "bbox": [
+      193,
+      1206,
+      1038,
+      1246
+    ],
+    "category": "List-item",
+    "text": "a. Trong 10 phút đầu tiên, chỉ có ống dẫn nước hoạt động."
+  },
+  {
+    "bbox": [
+      193,
+      1258,
+      1548,
+      1344
+    ],
+    "category": "List-item",
+    "text": "b. Trong 60 phút trên, có 20 phút chỉ có ống dẫn nước hoạt động mà các ống thoát nước không hoạt động."
+  },
+  {
+    "bbox": [
+      193,
+      1354,
+      1020,
+      1396
+    ],
+    "category": "List-item",
+    "text": "c. Thể tích nước có trong bể ở thời điểm $t = 58$ là 88 m³."
+  },
+  {
+    "bbox": [
+      193,
+      1407,
+      1422,
+      1450
+    ],
+    "category": "List-item",
+    "text": "d. thể tích nước trung bình có trong bể trong 58 phút đầu tiên không lớn hơn 45 m³."
+  },
+  {
+    "bbox": [
+      154,
+      1466,
+      198,
+      1505
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1466,
+      569,
+      1528
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      1543,
+      1548,
+      1629
+    ],
+    "category": "Text",
+    "text": "Vì ống dẫn nước có tốc độ dòng ch洗 là 10 m³ mỗi phút nên nếu chỉ có ống dẫn nước hoạt động thì sau $t$ (phút) bể nước tăng lên $10t$ m³."
+  },
+  {
+    "bbox": [
+      154,
+      1647,
+      1548,
+      1735
+    ],
+    "category": "Text",
+    "text": "Khi đó, sau 10 phút ống dẫn nước bơm được $10 \\cdot 10 = 100$ m³ nước vào bể. Mà từ hình vẽ, ta thấy tại $t = 10$ phút thì thể tích nước trong bể bằng 75 m³ nênatanh đề a sai."
+  },
+  {
+    "bbox": [
+      203,
+      1756,
+      312,
+      1796
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      1813,
+      1548,
+      1905
+    ],
+    "category": "Text",
+    "text": "Ống dẫn nước hoạt động sẽ tương ứng với khoảng thời gian mà thể tích nước trong bể tăng và thỏa mãn bơm được 10 m³ mỗi phút, ta xét các khoảng thời gian thể tích nước trong bể tăng:"
+  },
+  {
+    "bbox": [
+      258,
+      1911,
+      1442,
+      2127
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Khoảng thời gian</td><td>Lượng nước tăng lên (10t m³)</td><td>Lượng nước tăng thực tế</td></tr></thead><tbody><tr><td>5 phút đầu</td><td>10.5 = 50 m³</td><td>50 m³</td></tr><tr><td>Từ phút 40 – 45 (5 phút)</td><td>10.5 = 50 m³</td><td>25 m³</td></tr><tr><td>Từ phút 50 – 60 (10 phút)</td><td>10.10 = 100 m³</td><td>50 m³</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      154,
+      2137,
+      1548,
+      2223
+    ],
+    "category": "Text",
+    "text": "Từ bảng trên, ta thấy rằng trong 60 phút trên, có 5 phút chỉ có ống dẫn nước hoạt động mà các ống thoát nước không hoạt động."
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "166"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

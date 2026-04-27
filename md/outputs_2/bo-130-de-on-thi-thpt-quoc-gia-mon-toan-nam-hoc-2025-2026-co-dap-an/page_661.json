@@ -1,0 +1,288 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      374,
+      118,
+      924,
+      443
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      474,
+      866,
+      518
+    ],
+    "category": "List-item",
+    "text": "a) $AE = \\sqrt{25 + x^2}$ (km), $BF = \\sqrt{49 + (24 - x)^2}$ (km)."
+  },
+  {
+    "bbox": [
+      124,
+      518,
+      1154,
+      560
+    ],
+    "category": "List-item",
+    "text": "b) Tổng quăng đường đi từ $A$ đến $B$ bằng $\\sqrt{25 + x^2} + \\sqrt{49 + x^2} + EF$ (km)."
+  },
+  {
+    "bbox": [
+      124,
+      560,
+      1193,
+      670
+    ],
+    "category": "List-item",
+    "text": "c) Nếu đặt $f(x) = AE + BF$ (km) thì $f'(x) = \\frac{x}{\\sqrt{x^2 + 25}} + \\frac{x - 24}{\\sqrt{x^2 - 48x + 625}}$, $\\forall x \\in (0; 24)$."
+  },
+  {
+    "bbox": [
+      124,
+      673,
+      1193,
+      750
+    ],
+    "category": "List-item",
+    "text": "d) Người ta muốn đi từ $A$ đến $B$ theo quăng đường ngắn nhất thì họ phải xây cầu sao cho khoảng cách hai điểm $E, H$ bằng 9 km."
+  },
+  {
+    "bbox": [
+      94,
+      768,
+      1197,
+      924
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Thể tích nước của một bể bơi sau $t$ phút bơm tính theo công thức $V(t) = \\frac{1}{100} \\left( 30t^3 - \\frac{t^4}{4} \\right)$ lít với $(0 \\le t \\le 90)$. Tốc độ bơm nước tại thời điểm $t$ được tính bởi công thức $f(t) = V'(t)$."
+  },
+  {
+    "bbox": [
+      124,
+      924,
+      891,
+      962
+    ],
+    "category": "List-item",
+    "text": "a) Thể tích nước của bể bơi sau 20 phút bơm là 2000 lít."
+  },
+  {
+    "bbox": [
+      124,
+      964,
+      1008,
+      1004
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ bơm nước tại thời điểm $t$ là $f(t) = 90t^2 - t^3$ (lít/phút)."
+  },
+  {
+    "bbox": [
+      124,
+      1006,
+      847,
+      1044
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ bơm giảm từ phút thứ 60 đến phút thứ 90."
+  },
+  {
+    "bbox": [
+      124,
+      1046,
+      808,
+      1084
+    ],
+    "category": "List-item",
+    "text": "d) Tốc độ bơm lớn nhất tại thời điểm $t = 60$ phút."
+  },
+  {
+    "bbox": [
+      94,
+      1104,
+      616,
+      1144
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hàm số $f(x) = x - \\sin 2x$."
+  },
+  {
+    "bbox": [
+      124,
+      1144,
+      517,
+      1208
+    ],
+    "category": "List-item",
+    "text": "a) $f\\left(-\\frac{\\pi}{2}\\right) = -\\frac{\\pi}{2}, f(\\pi) = \\pi$."
+  },
+  {
+    "bbox": [
+      124,
+      1206,
+      419,
+      1242
+    ],
+    "category": "List-item",
+    "text": "b) $f'(x) = 1 - \\cos 2x$."
+  },
+  {
+    "bbox": [
+      124,
+      1242,
+      1193,
+      1376
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ trên đoạn $\\left[-\\frac{\\pi}{2}; \\pi\\right]$ có tập nghiệm là $T = \\left\\{-\\frac{\\pi}{6}; \\frac{\\pi}{6}; \\frac{5\\pi}{6}\\right\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      1376,
+      1193,
+      1454
+    ],
+    "category": "List-item",
+    "text": "d) Tổng giá trị lớn nhất và nhỏ nhất của hàm số trên đoạn $\\left[-\\frac{\\pi}{2}; \\pi\\right]$ bằng $\\frac{\\pi}{3} + \\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      94,
+      1464,
+      1197,
+      1655
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Giả sử rằng khi được $t$ năm tuổi, một máy công nghiệp $A$ tạo ra doanh thu với tốc độ $R'(t) = 650 - 4t^2$ (triệu đồng/năm), thời điểm $t = 0$ tính từ lúc máy $A$ bắt đầu hoạt động. Biết rằng chi phí biên cho vận hành và bảo trì là $C'(t) = 48 + 13t^2$ (triệu đồng/năm), ở đây $C(t)$ là chi phí vận hành và bảo trì của máy $A$ khi nó được $t$ năm tuổi."
+  },
+  {
+    "bbox": [
+      124,
+      1653,
+      1092,
+      1735
+    ],
+    "category": "List-item",
+    "text": "a) Doanh thu sau 10 năm của máy $A$ là $\\int_{0}^{10} (650 - 4t^2) dt$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      124,
+      1735,
+      1193,
+      1771
+    ],
+    "category": "List-item",
+    "text": "b) Tổng chi phí vận hành và bảo trì của máy $A$ trong 6 năm là 1224 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      124,
+      1773,
+      1193,
+      1884
+    ],
+    "category": "List-item",
+    "text": "c) Tuổi thọ hữu ích của một máy là số năm $T$ trước khi lợi nhuận (bằng doanh thu trừ chi phí) mà nó tạo ra bắt đầu giảm. Tuổi thọ hữu ích của máy $A$ này là 7 năm."
+  },
+  {
+    "bbox": [
+      124,
+      1888,
+      1193,
+      1966
+    ],
+    "category": "List-item",
+    "text": "d) Lợi nhuận do máy $A$ tạo ra trong suốt thời gian tuổi thọ hữu ích của nó là 2440 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      94,
+      1984,
+      1197,
+      2177
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Giả sử rằng khi tăng $t$ năm tuổi, một máy công nghiệp $A$ tạo ra doanh thu với tốc độ $R'(t) = 650 - 3t^2$ (triệu đồng/năm), thời điểm $t = 0$ tính từ lúc máy $A$ bắt đầu hoạt động. Biết rằng chi phí biên cho vận hành và bảo trì là $C'(t) = 48 + 12t^2$ (triệu đồng/năm), ở đây $C(t)$ là chi phí vận hành và bảo trì của máy $A$ khi nó được $t$ năm tuổi."
+  },
+  {
+    "bbox": [
+      124,
+      2175,
+      1092,
+      2255
+    ],
+    "category": "List-item",
+    "text": "a) Doanh thu sau 12 năm của máy $A$ là $\\int_{0}^{12} (650 - 3t^2) dt$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 659"
+  }
+]

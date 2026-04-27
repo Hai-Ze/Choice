@@ -1,0 +1,289 @@
+[
+  {
+    "bbox": [
+      91,
+      59,
+      1594,
+      371
+    ],
+    "category": "Text",
+    "text": "**Câu 22.** Có hai hộ待待 bóng bàn, hộ $A$待待 4 quả bóng đỏ và 3 quả bóng vàng, hộ $B$待待 6 quả bóng đỏ và 2 quả bóng xanh. Lần thứ nhất người ta lấy ngẫu nhiên một quả bóng từ hộ $A$ bỏ sang hộ $B$, lần thứ hai người ta tiếp tục lấy ngẫu nhiên 1 quả bóng từ hộ $A$ bỏ sang hộ $B$, sau cùng họ lấy ngẫu nhiên 2 quả bóng từ hộ $B$. Tính xác suất để trong 2 quả bóng lấy từ hộ $B$ luôn có quả bóng từ hộ $A$ chuyển qua hộ $B$ trong lần 2, biết rằng 2 quả bóng lấy ra từ $B$ đều màu đỏ. Kết quả được làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      217,
+      378,
+      332,
+      415
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      336,
+      366,
+      541,
+      419
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      438,
+      391,
+      480
+    ],
+    "category": "Text",
+    "text": "Đáp số: 0,17"
+  },
+  {
+    "bbox": [
+      920,
+      210,
+      1202,
+      456
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1301,
+      210,
+      1588,
+      456
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      740,
+      483,
+      966,
+      527
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      527,
+      848,
+      571
+    ],
+    "category": "Text",
+    "text": "Gọi $E$: “2 bóng lấy ra từ hộ $B$ đều màu đỏ”."
+  },
+  {
+    "bbox": [
+      217,
+      571,
+      1520,
+      616
+    ],
+    "category": "Text",
+    "text": "Gọi $F$: “trong 2 bóng lấy ra từ $B$ có chứa đúng quả bóng được chuyển từ $A$ sang $B$ ở lần 2”."
+  },
+  {
+    "bbox": [
+      217,
+      624,
+      401,
+      669
+    ],
+    "category": "Text",
+    "text": "Tính $P(E)$:"
+  },
+  {
+    "bbox": [
+      217,
+      682,
+      980,
+      722
+    ],
+    "category": "Text",
+    "text": "Hộp $A$: 4 đỏ (Đ), 3 vàng (V). Hộp $B$: 6 đỏ, 2 xanh (X)."
+  },
+  {
+    "bbox": [
+      217,
+      722,
+      1081,
+      767
+    ],
+    "category": "Text",
+    "text": "Xét màu bóng chuyển lần 1 rồi lần 2 (lấy không hoàn lại từ $A$):"
+  },
+  {
+    "bbox": [
+      217,
+      775,
+      1243,
+      868
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet (Đ | Đ): \\frac{4}{7} \\cdot \\frac{3}{6} = \\frac{2}{7} \\Rightarrow B \\text{ có 8 đỏ trên 10 bóng} \\longrightarrow P(E | ĐĐ) = \\frac{C_8^2}{C_{10}^2} = \\frac{28}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      881,
+      1173,
+      974
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet (Đ | V): \\frac{4}{7} \\cdot \\frac{3}{6} = \\frac{2}{7} \\Rightarrow B \\text{ có 7 đỏ trên 10} \\longrightarrow P(E | ĐV) = \\frac{C_7^2}{C_{10}^2} = \\frac{21}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      986,
+      1085,
+      1069
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet (V | Đ): \\frac{3}{7} \\cdot \\frac{4}{6} = \\frac{2}{7} \\Rightarrow B \\text{ có 7 đỏ trên 10} \\longrightarrow P(E | VĐ) = \\frac{21}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1081,
+      1166,
+      1174
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet (V | V): \\frac{3}{7} \\cdot \\frac{2}{6} = \\frac{1}{7} \\Rightarrow B \\text{ có 6 đỏ trên 10} \\longrightarrow P(E | VV) = \\frac{C_6^2}{C_{10}^2} = \\frac{15}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1185,
+      877,
+      1268
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(E) = \\frac{2}{7} \\cdot \\frac{28}{45} + \\frac{2}{7} \\cdot \\frac{21}{45} + \\frac{2}{7} \\cdot \\frac{21}{45} + \\frac{1}{7} \\cdot \\frac{15}{45} = \\frac{31}{63}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1276,
+      465,
+      1327
+    ],
+    "category": "Text",
+    "text": "Tính $P(F \\cap E)$:"
+  },
+  {
+    "bbox": [
+      217,
+      1327,
+      1471,
+      1373
+    ],
+    "category": "Text",
+    "text": "Muốn $F$ xảy ra thì **bóng chuyển lần 2 từ $A$ sang $B$ phải là bóng đỏ**, ta có $(Đ, Đ)$ và $(V, Đ)$."
+  },
+  {
+    "bbox": [
+      167,
+      1378,
+      1543,
+      1480
+    ],
+    "category": "List-item",
+    "text": "- Nếu lấy bóng từ $A$ là $(Đ, Đ)$: hộ $B$ có 8 bóng đỏ (trong đó có **quả bóng lần 2**), tổng là 10 bóng. Cặp bóng lấy từ $B$ thỏa $F$ phải chứa “bóng lần 2” và 1 bóng đỏ khác $\\longrightarrow$ 7 catch như thế."
+  },
+  {
+    "bbox": [
+      217,
+      1486,
+      629,
+      1575
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } P(F | ĐĐ) = \\frac{7}{C_{10}^2} = \\frac{7}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      167,
+      1579,
+      1334,
+      1627
+    ],
+    "category": "List-item",
+    "text": "- Nếu lấy bóng từ $A$ là $(V | Đ)$: hộ $B$ có 7 bóng đỏ (gồm bóng lần 2), tổng 10 bóng."
+  },
+  {
+    "bbox": [
+      217,
+      1635,
+      1380,
+      1681
+    ],
+    "category": "Text",
+    "text": "Cặp bóng lấy từ $B$ thỏa $F$ phải chứa bóng lần 2 và 1 bóng đỏ khác $\\longrightarrow$ 7 catch như thế."
+  },
+  {
+    "bbox": [
+      217,
+      1687,
+      622,
+      1776
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } P(F | VĐ) = \\frac{6}{C_{10}^2} = \\frac{6}{45}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1787,
+      1535,
+      1952
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } P(F \\cap E) = \\frac{2}{7} \\cdot \\frac{7}{45} + \\frac{2}{7} \\cdot \\frac{6}{45} = \\frac{26}{315}. \\text{ Xác suất cần tìm } P(F | E) = \\frac{P(F \\cap E)}{P(E)} = \\frac{\\frac{26}{315}}{\\frac{26}{155}} = \\frac{315}{155} \\approx 0,17.\n$$"
+  },
+  {
+    "bbox": [
+      815,
+      1955,
+      889,
+      1996
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1443,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1538,
+      2021,
+      1559,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "9"
+  }
+]

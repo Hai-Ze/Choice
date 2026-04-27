@@ -1,0 +1,361 @@
+[
+  {
+    "bbox": [
+      153,
+      114,
+      1534,
+      209
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình tức diện $ABCD$ có $M, N, O$ lần lượt là trung điểm của $AB, CD, MN$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      162,
+      213,
+      536,
+      260
+    ],
+    "category": "Formula",
+    "text": "A. $\\overline{AB} + \\overline{AC} + \\overline{AD} = 2 \\overline{AO}$."
+  },
+  {
+    "bbox": [
+      911,
+      213,
+      1282,
+      260
+    ],
+    "category": "Formula",
+    "text": "B. $\\overline{AB} + \\overline{AC} + \\overline{AD} = 4 \\overline{AO}$."
+  },
+  {
+    "bbox": [
+      162,
+      275,
+      514,
+      322
+    ],
+    "category": "Formula",
+    "text": "C. $\\overline{AB} + \\overline{AC} + \\overline{AD} = \\overline{AO}$."
+  },
+  {
+    "bbox": [
+      911,
+      275,
+      1282,
+      322
+    ],
+    "category": "Formula",
+    "text": "D. $\\overline{AB} + \\overline{AC} + \\overline{AD} = 3 \\overline{AO}$."
+  },
+  {
+    "bbox": [
+      153,
+      332,
+      1241,
+      381
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho cấp số nhân $(u_n)$ thỏa mãn $u_4 = u_1 \\cdot 8$. Công bội $q$ của $(u_n)$ bằng"
+  },
+  {
+    "bbox": [
+      162,
+      393,
+      233,
+      429
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      536,
+      393,
+      605,
+      429
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      911,
+      393,
+      1003,
+      429
+    ],
+    "category": "List-item",
+    "text": "C. -3."
+  },
+  {
+    "bbox": [
+      1286,
+      393,
+      1376,
+      429
+    ],
+    "category": "List-item",
+    "text": "D. -2."
+  },
+  {
+    "bbox": [
+      153,
+      433,
+      1528,
+      537
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ trục toạ độ $Oxyz$, đường thẳng $d$ đi qua điểm $M(-1; 4; 6)$, nhận $\\vec{u}(3; -2; 7)$ làm vecto chỉ phương có phương trình là"
+  },
+  {
+    "bbox": [
+      162,
+      549,
+      511,
+      635
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{x-3}{-1} = \\frac{y+2}{4} = \\frac{z-7}{6}$."
+  },
+  {
+    "bbox": [
+      911,
+      549,
+      1249,
+      635
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{x-1}{3} = \\frac{y+4}{-2} = \\frac{z+6}{7}$."
+  },
+  {
+    "bbox": [
+      162,
+      647,
+      511,
+      733
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{x+3}{-1} = \\frac{y-2}{4} = \\frac{z+7}{6}$."
+  },
+  {
+    "bbox": [
+      911,
+      647,
+      1249,
+      733
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{x+1}{3} = \\frac{y-4}{-2} = \\frac{z-6}{7}$."
+  },
+  {
+    "bbox": [
+      153,
+      735,
+      1534,
+      827
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = f(x)$ có đạo hàm là $f'(x)$ liên tục trên $[-2; 3]$. Hàm số $y = f'(x)$ có đồ thị như hình vẽ:"
+  },
+  {
+    "bbox": [
+      662,
+      846,
+      1014,
+      1128
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1136,
+      1064,
+      1239
+    ],
+    "category": "Text",
+    "text": "Biết $\\int_{-2}^{1} f'(x)dx = 3$ và diện tích $S = \\frac{5}{3}$. Giá trị $f(3) - f(-2)$ bằng"
+  },
+  {
+    "bbox": [
+      162,
+      1251,
+      259,
+      1337
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      536,
+      1251,
+      655,
+      1337
+    ],
+    "category": "List-item",
+    "text": "B. $-\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      911,
+      1251,
+      1020,
+      1337
+    ],
+    "category": "List-item",
+    "text": "C. $-\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      1286,
+      1251,
+      1371,
+      1337
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      1343,
+      1534,
+      1446
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian với hệ trục toạ độ $Oxyz$, cho mặt phẳng $(P)$ đi qua $O$ và có vecto pháp tuyến $\\vec{n}(2; -2; 1)$. Khoảng cách từ điểm $M(3; -1; 1)$ đến $(P)$ bằng"
+  },
+  {
+    "bbox": [
+      162,
+      1458,
+      245,
+      1542
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{5}{3}$."
+  },
+  {
+    "bbox": [
+      536,
+      1478,
+      605,
+      1514
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      911,
+      1478,
+      979,
+      1514
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1286,
+      1478,
+      1355,
+      1514
+    ],
+    "category": "List-item",
+    "text": "D. 9."
+  },
+  {
+    "bbox": [
+      153,
+      1544,
+      1534,
+      1632
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. (4,0 điểm). Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      153,
+      1632,
+      1349,
+      1679
+    ],
+    "category": "Text",
+    "text": "**Câu 1** Trong mặt phẳng toạ độ $Oxy$, gọi $(S)$ là miền nghiệm của hệ bất phương trình"
+  },
+  {
+    "bbox": [
+      764,
+      1734,
+      923,
+      1940
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x + y \\le 4 \\\\ 2x - y \\ge 1 \\\\ x \\ge 0 \\\\ y \\ge 0. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1948,
+      549,
+      1995
+    ],
+    "category": "List-item",
+    "text": "a)úp $A(1; 2)$ thuộc $(S)$."
+  },
+  {
+    "bbox": [
+      153,
+      2001,
+      562,
+      2048
+    ],
+    "category": "List-item",
+    "text": "b) $(S)$ là một miền tam giác."
+  },
+  {
+    "bbox": [
+      153,
+      2060,
+      526,
+      2144
+    ],
+    "category": "List-item",
+    "text": "c) Diện tích $(S)$ bằng $\\frac{49}{6}$."
+  },
+  {
+    "bbox": [
+      153,
+      2150,
+      1088,
+      2197
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của biểu thức $P = x + 2y$ trên miền $(S)$ bằng 7."
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0156"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1611,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

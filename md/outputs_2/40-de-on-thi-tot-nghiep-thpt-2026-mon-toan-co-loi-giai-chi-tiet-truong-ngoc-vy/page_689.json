@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1167,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      158,
+      100,
+      1098,
+      181
+    ],
+    "category": "Text",
+    "text": "♦ Thế $D(3;0;3)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      162,
+      205,
+      510,
+      288
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{3-2}{2} \\neq \\frac{0+2}{2} = \\frac{3}{3} \\Rightarrow D \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      304,
+      1505,
+      419
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình lăng trụ $ABC.A'B'C'$. Gọi $I, J, K$ lần lượt là trọng tâm tam giác $ABC, ACC', AB'C'$. Mặt phẳng nào sau đây song song với $(IJK)$?"
+  },
+  {
+    "bbox": [
+      205,
+      446,
+      371,
+      493
+    ],
+    "category": "List-item",
+    "text": "A. $(BC'A)$."
+  },
+  {
+    "bbox": [
+      555,
+      446,
+      714,
+      493
+    ],
+    "category": "List-item",
+    "text": "B. $(AA'B)$."
+  },
+  {
+    "bbox": [
+      906,
+      446,
+      1067,
+      493
+    ],
+    "category": "List-item",
+    "text": "C. $(BB'C)$."
+  },
+  {
+    "bbox": [
+      1254,
+      446,
+      1413,
+      493
+    ],
+    "category": "List-item",
+    "text": "D. $(CC'A)$."
+  },
+  {
+    "bbox": [
+      807,
+      519,
+      924,
+      559
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      577,
+      279,
+      616
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      592,
+      652,
+      1129,
+      1132
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1177,
+      1393,
+      1260
+    ],
+    "category": "Text",
+    "text": "Do $I, J, K$ lần lượt là trọng tâm tam giác $ABC, ACC'$ nên $\\frac{AI}{AM} = \\frac{AJ}{AN} = \\frac{2}{3}$ nên $IJ // MN$."
+  },
+  {
+    "bbox": [
+      158,
+      1283,
+      390,
+      1331
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow IJ // (BCC'B')\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1359,
+      489,
+      1406
+    ],
+    "category": "Text",
+    "text": "Tương tự $IK // (BCC'B')$"
+  },
+  {
+    "bbox": [
+      158,
+      1433,
+      440,
+      1481
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (IJK) // (BCC'B')\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1509,
+      448,
+      1556
+    ],
+    "category": "Text",
+    "text": "Hay $(IJK) // (BB'C)$."
+  },
+  {
+    "bbox": [
+      155,
+      1581,
+      1463,
+      1627
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho khối chóp có diện tích đáy bằng $32a^2$, chiều cao bằng $5a$. Tính thể tích khối chóp."
+  },
+  {
+    "bbox": [
+      205,
+      1647,
+      350,
+      1727
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{161}{3}a^3$."
+  },
+  {
+    "bbox": [
+      555,
+      1647,
+      698,
+      1727
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{163}{3}a^3$."
+  },
+  {
+    "bbox": [
+      906,
+      1647,
+      1055,
+      1727
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{160}{3}a^3$."
+  },
+  {
+    "bbox": [
+      1254,
+      1647,
+      1403,
+      1727
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{157}{3}a^3$."
+  },
+  {
+    "bbox": [
+      807,
+      1751,
+      924,
+      1791
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1808,
+      279,
+      1848
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      1868,
+      706,
+      1949
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } V_{chop} = \\frac{1}{3} B.h = \\frac{1}{3} \\cdot 32a^2 \\cdot 5a = \\frac{160}{3} a^3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2024,
+      1572,
+      2127
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      155,
+      2145,
+      701,
+      2198
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\sqrt{x^2 - 5x + 4}$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

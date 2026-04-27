@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      268,
+      97,
+      865,
+      146
+    ],
+    "category": "Text",
+    "text": "Kẻ $AH \\perp SM$ ($H \\in SM$) thì $AH \\perp (SCD)$."
+  },
+  {
+    "bbox": [
+      268,
+      159,
+      1084,
+      352
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } GI &= \\frac{1}{3}AI \\text{ nên } d(G, (SCD)) = \\frac{1}{3}d(A, (SCD)) = \\frac{1}{3}AH \\\\\n&= \\frac{1}{3} \\cdot \\frac{AM \\cdot SA}{\\sqrt{AM^2 + SA^2}} = \\frac{1}{3} \\cdot \\frac{\\sqrt{3a} \\cdot \\sqrt{6a}}{\\sqrt{3a^2 + 6a^2}} = \\frac{\\sqrt{2a}}{3}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      359,
+      631,
+      451
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(G, (SCD)) = \\frac{\\sqrt{2a}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      128,
+      460,
+      1544,
+      727
+    ],
+    "category": "Text",
+    "text": "**Câu 22.** Trong cuộc gặp mặt dặn dò trước khi lên đường tham gia kì thi học sinh giải, có 10 bạn trong đội tuyển gồm 2 bạn đến từ lớp 12A, 3 bạn từ lớp 12B, 5 bạn còn lại đến từ 5 lớp khác (mum lớp một bạn). Thầy giáo xếp ngẫu nhiên các bạn kể trên ngồi vào một bàn dài có 10 ghế mà mỗi bên có 5 ghế xếp đối diện nhau. Xác suất để có học sinh cùng lớp ngồi đối diện nhau bằng $\\frac{a}{b}$ (với $\\frac{a}{b}$ là phân số tối简). Tính $a+b$?"
+  },
+  {
+    "bbox": [
+      783,
+      732,
+      897,
+      771
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      268,
+      792,
+      436,
+      832
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 88."
+  },
+  {
+    "bbox": [
+      268,
+      847,
+      1551,
+      932
+    ],
+    "category": "Text",
+    "text": "Số cách xếp 10 bạn học sinh trong đội tuyển thi HSG vào một bàn dài mà mỗi bên có 5 ghế đối diện nhau là $10! \\Rightarrow n(\\Omega) = 10!$."
+  },
+  {
+    "bbox": [
+      268,
+      954,
+      488,
+      995
+    ],
+    "category": "Text",
+    "text": "Xét các biến cố:"
+  },
+  {
+    "bbox": [
+      349,
+      1016,
+      983,
+      1062
+    ],
+    "category": "Text",
+    "text": "$A$ : \"Có học sinh cùng lớp ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      349,
+      1081,
+      937,
+      1128
+    ],
+    "category": "Text",
+    "text": "$A_1$ : \"Học sinh lớp 12A ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      349,
+      1156,
+      945,
+      1203
+    ],
+    "category": "Text",
+    "text": "$A_2$ : \"Học sinh lớp 12B ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      349,
+      1230,
+      1449,
+      1277
+    ],
+    "category": "Text",
+    "text": "$A_1 \\cap A_2$ : \"Học sinh 12A ngồi đối diện nhau và học sinh 12B ngồi đối diện nhau\"."
+  },
+  {
+    "bbox": [
+      268,
+      1307,
+      992,
+      1356
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow A = A_1 \\cup A_2 \\Rightarrow n(A) = n(A_1) + n(A_2) - n(A_1 \\cap A_2).\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      1378,
+      1551,
+      1472
+    ],
+    "category": "Text",
+    "text": "Sắp xếp 2 hs lớp 12A ngồi vào hai ghế đối diện nhau, hoán đổi vị trí của 2 hs, sau đó sắp xếp 8 hs còn lại $\\Rightarrow n(A_1) = C_5^1 \\cdot 2! \\cdot 8!$."
+  },
+  {
+    "bbox": [
+      268,
+      1495,
+      1551,
+      1579
+    ],
+    "category": "Text",
+    "text": "Từ 3 hs lớp 12B, chọn ra 2 hs sắp xếp 2 hs này ngồi vào hai ghế đối diện, sau đó sắp xếp 8 hs còn lại"
+  },
+  {
+    "bbox": [
+      268,
+      1601,
+      558,
+      1650
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A_2) = A_3^2 \\cdot C_5^1 \\cdot 8!.\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      1673,
+      1383,
+      1720
+    ],
+    "category": "Text",
+    "text": "Sự kiện cả 12A và 12B đều có một cặp ngồi đối diện (các cặp ghế phải khác nhau):"
+  },
+  {
+    "bbox": [
+      231,
+      1737,
+      646,
+      1782
+    ],
+    "category": "Text",
+    "text": "Chọn cập ghế cho 12A: 5 cách."
+  },
+  {
+    "bbox": [
+      231,
+      1797,
+      772,
+      1843
+    ],
+    "category": "Text",
+    "text": "Chọn cập ghế khác cho 12B: còn 4 cách."
+  },
+  {
+    "bbox": [
+      231,
+      1864,
+      989,
+      1913
+    ],
+    "category": "Text",
+    "text": "Chọn 2 trong 3 học sinh 12B để tạo cập đối diện: $C_3^2 = 3$"
+  },
+  {
+    "bbox": [
+      231,
+      1936,
+      891,
+      1982
+    ],
+    "category": "Text",
+    "text": "Sắp xếp trong mỗi cập: $2!$ cho 12A và $2!$ cho 12B."
+  },
+  {
+    "bbox": [
+      231,
+      1998,
+      929,
+      2044
+    ],
+    "category": "Text",
+    "text": "Các 6 học sinh còn lại sắp xếp vào 6 ghế còn lại: $6!$."
+  },
+  {
+    "bbox": [
+      268,
+      2065,
+      329,
+      2104
+    ],
+    "category": "Text",
+    "text": "Vậy"
+  }
+]

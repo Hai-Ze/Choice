@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      636,
+      104,
+      1147,
+      618
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      620,
+      743,
+      666
+    ],
+    "category": "Text",
+    "text": "a)úa độ $D(1,4;-4,8;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      675,
+      1142,
+      820
+    ],
+    "category": "Text",
+    "text": "b)Đường thẳng $AD$ có phương trình là $\\begin{cases} x = 1,4 - 20,6t \\\\ y = -4,8 + 2,2t (t \\in \\mathbb{R}) \\\\ z = 0 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      212,
+      829,
+      1575,
+      974
+    ],
+    "category": "Text",
+    "text": "c) Nếu ô tô đi với vận tốc $45(km/h)$ thì sau đúng $2,9$ giây kể từ thời điểm xuất phát thì biển số của xe đó đã nằm trong vùng nhận diện tốt nhất của camera."
+  },
+  {
+    "bbox": [
+      212,
+      974,
+      1575,
+      1114
+    ],
+    "category": "Text",
+    "text": "d) Nếu camera ghi nhận được hình ảnh biển số xe sau $0,75$ giây này kết thúc đồng thời với thời điểm xe vừa ra khỏi vùng nhận diện tốt nhất, thì đó là vượt quá tốc độ cho phép."
+  },
+  {
+    "bbox": [
+      833,
+      1117,
+      953,
+      1159
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      551,
+      1177,
+      1239,
+      1868
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1887,
+      1396,
+      1971
+    ],
+    "category": "Formula",
+    "text": "$$\n- DP = \\frac{CD}{2} = \\frac{9,6}{2} = 4,8 \\rightarrow y_D = -4,8 \\rightarrow x_D = OP = \\sqrt{OD^2 - DP^2} = 1,4 \\rightarrow D(1,4;-4,8;0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1976,
+      423,
+      2020
+    ],
+    "category": "Text",
+    "text": "- Vậy a) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      2022,
+      1363,
+      2105
+    ],
+    "category": "Formula",
+    "text": "$$\n- Ta có: A \\in (Oxy) \\rightarrow A(x_A; y_A; 0), mà AQ = \\frac{AB}{2} = \\frac{14}{2} = 7 \\rightarrow y_A = -7 \\rightarrow A(x_A; -7; 0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2109,
+      1149,
+      2170
+    ],
+    "category": "Formula",
+    "text": "$$\n- \nVà SA = 27 (m) \\leftrightarrow \\sqrt{(x_A)^2 + 7^2 + 14^2} = 27 \\rightarrow x_A = 22 \\rightarrow A(22; -7; 0)\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      124,
+      121,
+      376,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = \\int_{a}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      121,
+      976,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\pi \\int_{a}^{b} [f(x)]^2 \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      251,
+      1031,
+      293
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Một nguyên hàm $F(x)$ của hàm số $f(x) = 3x^2 - 2x + 2025$ là"
+  },
+  {
+    "bbox": [
+      124,
+      291,
+      499,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad F(x) = x^3 - x^2 + 2025x.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      291,
+      1031,
+      332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad F(x) = x^3 - x^2 + 2025.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      332,
+      371,
+      375
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad F(x) = 6x - 2.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      332,
+      928,
+      375
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad F(x) = x^3 - x^2.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      392,
+      863,
+      435
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      244,
+      459,
+      1048,
+      733
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$0$</td><td>$2$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      766,
+      560,
+      805
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào dưới đây là đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      805,
+      752,
+      845
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số nghịch biến trên khoảng $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      124,
+      845,
+      692,
+      887
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đồng biến trên khoảng $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      887,
+      729,
+      931
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số nghịch biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      931,
+      668,
+      975
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đồng biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      93,
+      992,
+      1196,
+      1071
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Thống kê điểm môn Toán của một số học sinh trong đợt khảo sát lần 1, ta được kết quả như bảng sau:"
+  },
+  {
+    "bbox": [
+      127,
+      1095,
+      1163,
+      1195
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>$[6,5; 7)$</td><td>$[7; 7,5)$</td><td>$[7,5; 8)$</td><td>$[8; 8,5)$</td><td>$[8,5; 9)$</td><td>$[9; 9,5)$</td><td>$[9,5; 10)$</td></tr><tr><td>Số học sinh</td><td>7</td><td>10</td><td>17</td><td>24</td><td>13</td><td>8</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1222,
+      699,
+      1259
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu trên bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1259,
+      218,
+      1299
+    ],
+    "category": "List-item",
+    "text": "A. 3,5."
+  },
+  {
+    "bbox": [
+      395,
+      1259,
+      506,
+      1299
+    ],
+    "category": "List-item",
+    "text": "B. 16,5."
+  },
+  {
+    "bbox": [
+      669,
+      1259,
+      741,
+      1299
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      941,
+      1259,
+      1013,
+      1299
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      93,
+      1316,
+      1196,
+      1395
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian với hệ trục toạ độ $Oxyz$, cho hai vectơ $\\vec{u} = (2; 1; -2)$ và $\\vec{v} = (1; 0; 4)$. Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      124,
+      1395,
+      406,
+      1435
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\vec{u} + \\vec{v} = (3; 1; 2).\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1395,
+      818,
+      1435
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\vec{u} \\perp \\vec{v}.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1435,
+      279,
+      1478
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad |\\vec{u}| = 3.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1435,
+      971,
+      1478
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\vec{u} - \\vec{v} = (1; 1; -6).\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1495,
+      982,
+      1537
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho cấp số nhân $(u_n)$ có $u_1 = 1; u_2 = 4$. Khi đó, $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1537,
+      196,
+      1577
+    ],
+    "category": "List-item",
+    "text": "A. 9."
+  },
+  {
+    "bbox": [
+      395,
+      1537,
+      467,
+      1577
+    ],
+    "category": "List-item",
+    "text": "B. 7."
+  },
+  {
+    "bbox": [
+      669,
+      1537,
+      752,
+      1577
+    ],
+    "category": "List-item",
+    "text": "C. 16."
+  },
+  {
+    "bbox": [
+      941,
+      1537,
+      1031,
+      1577
+    ],
+    "category": "List-item",
+    "text": "D. 12."
+  },
+  {
+    "bbox": [
+      109,
+      1593,
+      823,
+      1646
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1654,
+      754,
+      1699
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x) = (x^2 - 5x + 7) e^x$."
+  },
+  {
+    "bbox": [
+      124,
+      1699,
+      294,
+      1735
+    ],
+    "category": "List-item",
+    "text": "a) $f(0) = 7$."
+  },
+  {
+    "bbox": [
+      124,
+      1735,
+      848,
+      1777
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = (2x - 5)e^x$."
+  },
+  {
+    "bbox": [
+      124,
+      1777,
+      1194,
+      1922
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty; \\frac{5}{2})$ và đồng biến trên khoảng $\\left(\\frac{5}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      124,
+      1922,
+      1194,
+      1997
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị nhỏ nhất và lớn nhất của hàm số $y = f(x)$ trên đoạn $[0; 2]$ lần lượt là 7 và $3e$."
+  },
+  {
+    "bbox": [
+      93,
+      2018,
+      1080,
+      2137
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và thỏa mãn $\\int_{1}^{3} f(x) \\, dx = 2$."
+  },
+  {
+    "bbox": [
+      124,
+      2137,
+      385,
+      2252
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } \\int_{1}^{3} 3f(x) \\, dx = 6.\n$$"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 471"
+  }
+]

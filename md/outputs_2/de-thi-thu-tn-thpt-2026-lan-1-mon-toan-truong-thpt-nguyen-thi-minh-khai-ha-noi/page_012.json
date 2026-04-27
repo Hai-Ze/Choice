@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      373,
+      116,
+      1288,
+      228
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm (giờ)</td><td>[1;2)</td><td>[2;3)</td><td>[3;4)</td><td>[4;5)</td><td>[5;6)</td></tr><tr><td>Số học sinh</td><td>4</td><td>6</td><td>12</td><td>10</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      252,
+      228,
+      1040,
+      271
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên của mẫu số liệu ghép nhóm này là 5."
+  },
+  {
+    "bbox": [
+      252,
+      300,
+      952,
+      345
+    ],
+    "category": "Text",
+    "text": "b) Khoảng tử phân vị của mẫu số liệu này bằng 1,8."
+  },
+  {
+    "bbox": [
+      252,
+      378,
+      768,
+      422
+    ],
+    "category": "Text",
+    "text": "c) Phương sai của mẫu số liệu là 1,66."
+  },
+  {
+    "bbox": [
+      252,
+      458,
+      1541,
+      771
+    ],
+    "category": "Text",
+    "text": "d) Cô giáo chia lớp thành ba nhóm: Nhóm chưa chăm gồm các em học sinh có thời gian tự học tại nhà hàng ngày ít hơn 3 giờ, nhóm đạt yêu cầu gồm các em học sinh có thời gian tự học tại nhà hàng ngày từ 3 giờ trở lên nhưng ít hơn 5 giờ, nhóm chăm chỉ gồm các em học sinh có thời gian tự học tại nhà hàng ngày từ 5 giờ trở lên. Cô giáo chọn ngẫu nhiên 4 học sinh trong lớp để kiểm tra bài tập về nhà. Xác suất để ba nhóm học sinh trên đều có học sinh được chọn bằng $\\frac{88}{247}$."
+  },
+  {
+    "bbox": [
+      844,
+      808,
+      956,
+      845
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      879,
+      372,
+      917
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      258,
+      941,
+      428,
+      974
+    ],
+    "category": "Formula",
+    "text": "$$\nR = 6 - 1 = 5.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1003,
+      372,
+      1040
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      252,
+      1066,
+      925,
+      1113
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa $Q_1$ là $[2;3)$ và $[3;4)$. Khi đó: $Q_1 = 3$."
+  },
+  {
+    "bbox": [
+      252,
+      1145,
+      1109,
+      1225
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa $Q_3$ là $[4;5)$. Khi đó: $Q_3 = 4 + \\frac{30 - 22}{10} \\cdot (5 - 4) = 4,8$."
+  },
+  {
+    "bbox": [
+      252,
+      1251,
+      1242,
+      1299
+    ],
+    "category": "Text",
+    "text": "Khoảng tử phân vị của mẫu số liệu này bằng: $\\Delta_Q = Q_3 - Q_1 = 4,8 - 3 = 1,8$."
+  },
+  {
+    "bbox": [
+      252,
+      1328,
+      341,
+      1365
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      252,
+      1391,
+      1531,
+      1490
+    ],
+    "category": "Text",
+    "text": "Ta có giá trị đại diện của các nhóm $[1;2)$, $[2;3)$, $[3;4)$, $[4;5)$, $[5;6)$ lần lượt là 1,5; 2,5; 3,5; 4,5; 5,5."
+  },
+  {
+    "bbox": [
+      252,
+      1521,
+      1119,
+      1601
+    ],
+    "category": "Text",
+    "text": "Số trung bình: $\\bar{x} = \\frac{4 \\cdot 1,5 + 6 \\cdot 2,5 + 12 \\cdot 3,5 + 10 \\cdot 4,5 + 8 \\cdot 5,5}{40} = 3,8$."
+  },
+  {
+    "bbox": [
+      252,
+      1631,
+      1263,
+      1717
+    ],
+    "category": "Text",
+    "text": "Phương sai: $s^2 = \\frac{4 \\cdot 1,5^2 + 6 \\cdot 2,5^2 + 12 \\cdot 3,5^2 + 10 \\cdot 4,5^2 + 8 \\cdot 5,5^2}{40} - 3,8^2 = 1,51$."
+  },
+  {
+    "bbox": [
+      252,
+      1744,
+      378,
+      1781
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      252,
+      1805,
+      1159,
+      1844
+    ],
+    "category": "Text",
+    "text": "Nhóm 1 (Chưa chăm có thời gian tự học dưới 3 giờ): $4 + 6 = 10$ em."
+  },
+  {
+    "bbox": [
+      252,
+      1863,
+      1370,
+      1906
+    ],
+    "category": "Text",
+    "text": "Nhóm 2 (Đạt yêu cầu có thời gian tự học từ 3 giờ đến dưới 5 giờ): $12 + 10 = 22$ em."
+  },
+  {
+    "bbox": [
+      252,
+      1930,
+      1019,
+      1969
+    ],
+    "category": "Text",
+    "text": "Nhóm 3 (Chăm chỉ có thời gian tự học trên 5 giờ): 8 em."
+  },
+  {
+    "bbox": [
+      252,
+      1992,
+      995,
+      2040
+    ],
+    "category": "Text",
+    "text": "Gọi $\\Omega$ là không gian mẫu, khi đó $n(\\Omega) = C_{40}^4 = 91390$."
+  },
+  {
+    "bbox": [
+      252,
+      2065,
+      1458,
+      2109
+    ],
+    "category": "Text",
+    "text": "Biến cố $A$: \"ba nhóm học sinh trên đều có học sinh được chọn để kiểm tra bài tập về nhà\"."
+  },
+  {
+    "bbox": [
+      252,
+      2127,
+      1319,
+      2170
+    ],
+    "category": "Text",
+    "text": "Chọn 4 học sinh sao cho cả 3 nhóm đều có mặt. Ta có các trường hợp (TH) sau:"
+  }
+]

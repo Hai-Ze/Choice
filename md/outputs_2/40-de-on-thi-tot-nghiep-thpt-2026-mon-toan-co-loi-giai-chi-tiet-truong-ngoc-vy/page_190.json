@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1493,
+      136
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần, ta có xác suất xuất hiện mặt ngửa là:"
+  },
+  {
+    "bbox": [
+      82,
+      156,
+      871,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{B}) = P(A) \\cdot P(\\bar{B} | A) + P(\\bar{A}) \\cdot P(\\bar{B} | \\bar{A}) = \\frac{3}{4} \\cdot \\frac{1}{2} + \\frac{1}{4} \\cdot 1 = \\frac{5}{8}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      254,
+      1493,
+      301
+    ],
+    "category": "Text",
+    "text": "c) Nếu biết mặt ngửa đã xuất hiện, xác suất đồng xu có hai mặt ngửa đã được chọn chính là xác suất có"
+  },
+  {
+    "bbox": [
+      75,
+      323,
+      1248,
+      483
+    ],
+    "category": "Text",
+    "text": "điều kiện $P(\\bar{A} | \\bar{B})$, theo công thức Bayes ta có: $P(\\bar{A} | \\bar{B}) = \\frac{P(\\bar{A}) \\cdot P(\\bar{B} | \\bar{A})}{P(\\bar{B})} = \\frac{\\frac{1}{4} \\cdot 1}{\\frac{5}{8}} = \\frac{2}{5}$."
+  },
+  {
+    "bbox": [
+      75,
+      498,
+      1493,
+      647
+    ],
+    "category": "Text",
+    "text": "d) Gọi biến cố $E$: “Lần tung đầu tiên xuất hiện mặt ngửa” và biến cố $F$: “Lần tung thứ hai xuất hiện mặt ngửa”. Ta có $P(E) = \\frac{3}{4} \\cdot \\frac{1}{2} + \\frac{1}{4} \\cdot 1 = \\frac{5}{8}$. Ta tính $P(E \\cap F)$."
+  },
+  {
+    "bbox": [
+      75,
+      662,
+      1493,
+      811
+    ],
+    "category": "Text",
+    "text": "TH1: Chọn được đồng xu fair coin và mặt ngửa xuất hiện ở lần tung đầu tiên, xác suất lần tung thứ hai xuất hiện mặt ngửa là $\\frac{1}{2}$ nên xác suất cả hai lần tung xuất hiện mặt ngửa từ các đồng xu fair coin bằng"
+  },
+  {
+    "bbox": [
+      82,
+      835,
+      257,
+      917
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{3}{4} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{3}{16}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      941,
+      1443,
+      1022
+    ],
+    "category": "Text",
+    "text": "TH2: Chọn được đồng xu double-headed coin thì xác xuất cả hai lần tung xuất hiện mặt ngửa bằng $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      75,
+      1044,
+      848,
+      1140
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } P(E \\cap F) = \\frac{7}{16}. \\text{ Vậy } P(F | E) = \\frac{P(E \\cap F)}{P(E)} = \\frac{7}{10}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1220,
+      726,
+      1261
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      75,
+      1277,
+      1493,
+      1698
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Kiến trúc sur thiết kế một khu sinh hoạt cộng đồng có dạng hình vuông $ABCD$ có độ dài đường chéo $AC = 45 \\text{ m}$. Trong đó, phần được tô màu đâm là sân chơi, phần còn lại để trồng hoa. Mỗi phần trồng hoa có đường biên cong là một phần của parabol với các định thuộc một trục đối xứng của hình vuông, khoảng cách từ định đó đến định tương ứng của hình vuông bằng $15 \\text{ m}$. Bản thiết kế khu sinh hoạt nhận tâm hình vuông $ABCD$ làm tâm đối xứng và trên hình bên ta có $AM = MN = NB$. Để trang trí cho phần sân chơi tốn $500 \\text{ nghìn đồng} / 1\\text{m}^2$, để trồng hoa tốn $200 \\text{ nghìn đồng} / 1\\text{m}^2$. Tổng số tiền cần dùng là bao nhiêu triệu đồng? (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      588,
+      1710,
+      986,
+      2119
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2142,
+      413,
+      2178
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2201,
+      843,
+      2239
+    ],
+    "category": "Page-footer",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

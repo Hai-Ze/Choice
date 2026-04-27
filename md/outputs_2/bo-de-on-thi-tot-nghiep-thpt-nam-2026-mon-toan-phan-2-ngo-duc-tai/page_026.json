@@ -1,0 +1,390 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      280,
+      156,
+      532,
+      199
+    ],
+    "category": "Text",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      350,
+      210,
+      468,
+      251
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 5"
+  },
+  {
+    "bbox": [
+      278,
+      264,
+      540,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 6 trang)"
+  },
+  {
+    "bbox": [
+      773,
+      153,
+      1314,
+      198
+    ],
+    "category": "Text",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      960,
+      212,
+      1129,
+      247
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      666,
+      264,
+      1426,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      193,
+      365,
+      1452,
+      483
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      193,
+      503,
+      1454,
+      625
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = \\frac{1}{2}$ và công bội $q = 3$. Giá trị của $u_5$ bằng"
+  },
+  {
+    "bbox": [
+      223,
+      627,
+      322,
+      710
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{81}{2}$."
+  },
+  {
+    "bbox": [
+      525,
+      627,
+      641,
+      710
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{163}{2}$."
+  },
+  {
+    "bbox": [
+      826,
+      627,
+      925,
+      710
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{27}{2}$."
+  },
+  {
+    "bbox": [
+      1126,
+      627,
+      1225,
+      710
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{55}{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      722,
+      1454,
+      826
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $f(x)$ có đạo hàm $f'(x) = x^2(x-1)(x-2)^3, \\forall x \\in \\mathbb{R}$. Hàm số $f(x)$ có bao nhiêu điểm cực đại?"
+  },
+  {
+    "bbox": [
+      223,
+      845,
+      298,
+      881
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      525,
+      845,
+      598,
+      881
+    ],
+    "category": "List-item",
+    "text": "B. 0."
+  },
+  {
+    "bbox": [
+      826,
+      845,
+      899,
+      881
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1126,
+      845,
+      1199,
+      881
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      193,
+      915,
+      1212,
+      963
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Số nghiệm nguyên của bất phương trình $\\log_3(2-x) \\le 1$ là"
+  },
+  {
+    "bbox": [
+      223,
+      982,
+      298,
+      1017
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      525,
+      982,
+      598,
+      1017
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      826,
+      982,
+      899,
+      1017
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1126,
+      982,
+      1199,
+      1017
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      193,
+      1049,
+      1454,
+      1175
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, đường thẳng $d$ đi qua điểm $M(1; -1; 3)$ và song song với đường thẳng $d_1$: $\\frac{x-2}{2} = \\frac{y+1}{1} = \\frac{z+3}{-1}$ có phương trình là"
+  },
+  {
+    "bbox": [
+      223,
+      1185,
+      482,
+      1357
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t \\\\ z = 3 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      525,
+      1185,
+      784,
+      1357
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t \\\\ z = 3 + t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      826,
+      1185,
+      1097,
+      1357
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\begin{cases} 2 + t \\\\ y = 1 - t \\\\ z = -1 + 3t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      1126,
+      1185,
+      1375,
+      1357
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\begin{cases} x = 1 + 2t \\\\ y = 1 + t \\\\ z = 3 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1380,
+      1015,
+      1427
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = f(x)$ có đồ thị như hình dưới"
+  },
+  {
+    "bbox": [
+      544,
+      1459,
+      1000,
+      2008
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2052,
+      1257,
+      2099
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào trong các khoảng sau đây?"
+  },
+  {
+    "bbox": [
+      223,
+      2118,
+      352,
+      2157
+    ],
+    "category": "List-item",
+    "text": "A. (0; 1)."
+  },
+  {
+    "bbox": [
+      525,
+      2118,
+      654,
+      2157
+    ],
+    "category": "List-item",
+    "text": "B. (1; 2)."
+  },
+  {
+    "bbox": [
+      826,
+      2118,
+      981,
+      2157
+    ],
+    "category": "List-item",
+    "text": "C. (-1; 0)."
+  },
+  {
+    "bbox": [
+      1126,
+      2118,
+      1285,
+      2157
+    ],
+    "category": "List-item",
+    "text": "D. (-1; 1)."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1454,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 25"
+  }
+]

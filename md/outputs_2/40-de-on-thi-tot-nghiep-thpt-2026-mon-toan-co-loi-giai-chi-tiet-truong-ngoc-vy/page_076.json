@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1495,
+      287
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh $\\sqrt{3}$. Gọi $M, N$ và $P$ lần lượt là trung điểm của các cạnh $AB, AD$ và $DC$. Gọi $H$ là giao điểm của $CN$ và $DM$, biết $SH$ vuông góc $(ABCD)$, $SH = 3$. Tính khoảng cách từ điểm $C$ đến mặt phẳng $(SBP)$."
+  },
+  {
+    "bbox": [
+      75,
+      311,
+      415,
+      348
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      726,
+      370,
+      843,
+      409
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      427,
+      269,
+      468
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,75"
+  },
+  {
+    "bbox": [
+      238,
+      490,
+      1216,
+      1077
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1104,
+      454,
+      1143
+    ],
+    "category": "Text",
+    "text": "Ta chứng minh : $NC \\perp MD$"
+  },
+  {
+    "bbox": [
+      75,
+      1163,
+      1142,
+      1291
+    ],
+    "category": "Text",
+    "text": "Thật vậy : $\\Delta ADM = \\Delta DCM$ vì $\\hat{A} = \\hat{D} = 90^\\circ$; $AD = DC$; $AM = DN$\n$\\Rightarrow \\widehat{ADM} = \\widehat{DCN}$; mà $\\widehat{ADM} + \\widehat{MDC} = 90^\\circ \\Rightarrow \\widehat{MDC} + \\widehat{DCN} = 90^\\circ \\Rightarrow NC \\perp MD$"
+  },
+  {
+    "bbox": [
+      75,
+      1317,
+      1084,
+      1368
+    ],
+    "category": "Text",
+    "text": "Ta có : $BP \\perp NC (MD // BP)$; $BP \\perp SH \\Rightarrow BP \\perp (SNC) \\Rightarrow (SBP) \\perp (SNC)$"
+  },
+  {
+    "bbox": [
+      75,
+      1394,
+      968,
+      1442
+    ],
+    "category": "Text",
+    "text": "Kẻ $HE \\perp SF \\Rightarrow HE \\perp (SBP) \\Rightarrow d(H, (SBP)) = d(C, (SBP)) = HE$"
+  },
+  {
+    "bbox": [
+      75,
+      1465,
+      833,
+      1559
+    ],
+    "category": "Text",
+    "text": "Do $DC^2 = HC \\cdot NC \\Rightarrow HC = \\frac{DC^2}{NC} = \\frac{2\\sqrt{15}}{5} \\Rightarrow HF = \\frac{\\sqrt{15}}{5}$"
+  },
+  {
+    "bbox": [
+      75,
+      1581,
+      689,
+      1672
+    ],
+    "category": "Text",
+    "text": "Mà $HE = \\frac{SH \\cdot HF}{SF} = \\frac{SH \\cdot HF}{\\sqrt{SH^2 + HF^2}} = \\frac{3}{4} = 0,75$"
+  },
+  {
+    "bbox": [
+      75,
+      1694,
+      1495,
+      1811
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Chọn ngẫu nhiên một số tự nhiên thuộc đoạn $[10;199]$. Tính xác suất để chọn được một số lẻ hoặc số chia hết cho 5 (kết quả viết dưới dạng số thập phân)."
+  },
+  {
+    "bbox": [
+      75,
+      1828,
+      415,
+      1865
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      726,
+      1886,
+      843,
+      1925
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1944,
+      253,
+      1983
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,6"
+  },
+  {
+    "bbox": [
+      75,
+      2012,
+      331,
+      2058
+    ],
+    "category": "Text",
+    "text": "Ta có: $n(\\Omega) = 190$"
+  },
+  {
+    "bbox": [
+      75,
+      2078,
+      926,
+      2123
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: Chọn được một số lẻ hoặc số chia hết cho 5."
+  },
+  {
+    "bbox": [
+      75,
+      2144,
+      1134,
+      2227
+    ],
+    "category": "Text",
+    "text": "Trên đoạn $[10;199]$ có $\\frac{199-11}{2}+1 = 95$ số lẻ, trong đó có cả số chia hết cho 5;"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

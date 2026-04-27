@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      188,
+      139,
+      721,
+      182
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có tập xác định là $(0; 32)$."
+  },
+  {
+    "bbox": [
+      188,
+      188,
+      613,
+      271
+    ],
+    "category": "Formula",
+    "text": "b) $f'(x) = \\frac{1}{2\\sqrt{x}} + \\frac{1}{2\\sqrt{32-x}}$."
+  },
+  {
+    "bbox": [
+      191,
+      281,
+      932,
+      323
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ có hai nghiệm phân biệt."
+  },
+  {
+    "bbox": [
+      188,
+      328,
+      1273,
+      418
+    ],
+    "category": "List-item",
+    "text": "d) Hàm số đạt giá trị lớn nhất là $M$ và giá trị nhỏ nhất là $m$ thì $\\frac{m}{M} = \\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      429,
+      198,
+      465
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      426,
+      445,
+      490
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      188,
+      512,
+      904,
+      556
+    ],
+    "category": "List-item",
+    "text": "a) **a) Sai** Hàm số có tập xác định là $\\mathcal{D} = [0; 32]$."
+  },
+  {
+    "bbox": [
+      188,
+      563,
+      853,
+      647
+    ],
+    "category": "List-item",
+    "text": "b) **b) Đúng** Ta có $f'(x) = \\frac{1}{2\\sqrt{x}} - \\frac{1}{2\\sqrt{32-x}}$."
+  },
+  {
+    "bbox": [
+      191,
+      655,
+      975,
+      703
+    ],
+    "category": "List-item",
+    "text": "c) **c) Sai** Ta có $f'(x) = 0 \\Leftrightarrow \\sqrt{32-x} = \\sqrt{x} \\Leftrightarrow x = 16$."
+  },
+  {
+    "bbox": [
+      188,
+      718,
+      613,
+      760
+    ],
+    "category": "List-item",
+    "text": "d) **d) Đúng** Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      643,
+      766,
+      1135,
+      1050
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>16</td><td>32</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(x)$</td><td>↗</td><td>8</td><td>↘</td></tr><tr><td></td><td>$4\\sqrt{2}$</td><td></td><td>$4\\sqrt{2}$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      235,
+      1055,
+      1386,
+      1143
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta có $\\max_{x \\in \\mathcal{D}} f(x) = 8$, $\\min_{x \\in \\mathcal{D}} f(x) = 4\\sqrt{2}$. Vậy $\\frac{m}{M} = \\frac{4\\sqrt{2}}{8} = \\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1585,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "71"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      551,
+      181
+    ],
+    "category": "Text",
+    "text": "thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      203,
+      1548,
+      485
+    ],
+    "category": "Text",
+    "text": "Bài 1. Xét một hệ trục tọa độ $Oxyz$ được cho sẵn, đơn vị trên mỗi trục là $dm$, mặt ngoài của một quả bóng được mô hình hóa bởi phương trình mặt cầu $(x - 2)^2 + (y + 1)^2 + (z + 1)^2 = 6$, quả bóng nằm yên trên sàn nhà. Người ta nhìn thấy một tấm ván ngả xuống đè lên quả bóng, phần giao của tấm ván và sàn nhà là đường thẳng $d$ có phương trình $\\frac{x+2}{2} = \\frac{y+1}{-3} = \\frac{z}{1}$. Gọi $A, B$ lần lượt là hai tiếp điểm của tấm ván, sàn nhà với quả bóng và $I$ là tâm quả bóng. Xét tính đúng sai của cácoorh thêm đề sau:"
+  },
+  {
+    "bbox": [
+      190,
+      502,
+      976,
+      549
+    ],
+    "category": "List-item",
+    "text": "a) Quả bóng có tâm $I(2; -1; -1)$ và bán kính $R = \\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      190,
+      557,
+      1109,
+      603
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng cách từ tâm quả bóng đến đường thẳng $d$ bằng $2\\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      190,
+      607,
+      1140,
+      679
+    ],
+    "category": "List-item",
+    "text": "c) Nếu $\\cos \\widehat{AIB}$ bằng $\\frac{a}{b}$ (phân số tối giản) thì giá trị $a^2 + b^2 = 82$."
+  },
+  {
+    "bbox": [
+      190,
+      685,
+      1546,
+      771
+    ],
+    "category": "List-item",
+    "text": "d) Một con kiến bò từ vị trí $A$ đến vị trí $B$ trên quả bóng với tốc độ 2 cm/s; thời gian ngắn nhất cho chuyển đi này là 21 giây (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      154,
+      792,
+      1546,
+      876
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong không gian với hệ tọa độ $Oxyz$, cho ba điểm $A(a; 0; 0)$, $B(0; b; 0)$, $C(0; 0; c)$ với $a, b, c$ đều dương."
+  },
+  {
+    "bbox": [
+      190,
+      895,
+      1546,
+      1048
+    ],
+    "category": "List-item",
+    "text": "a) Mặt phẳng ($ABC$) đi qua điểm $M(2; -2; 3)$ sao cho độ dài $OA, OB, OC$ theo thứ tự lập thành một cấp số cộng có công sai bằng 2. Khoảng cách từ điểm $D(1; 1; 1)$ tới mặt phẳng ($ABC$) bằng $\\frac{m}{n}$ với $\\frac{m}{n}$ là phân số tối giản. Khi đó $T = m + n = 8$."
+  },
+  {
+    "bbox": [
+      190,
+      1048,
+      973,
+      1122
+    ],
+    "category": "List-item",
+    "text": "b) Mặt phẳng ($ABC$) có phương trình $\\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1$."
+  },
+  {
+    "bbox": [
+      190,
+      1126,
+      1546,
+      1209
+    ],
+    "category": "List-item",
+    "text": "c) Mặt phẳng ($ABC$) đi qua điểm $H(1; 1; 1)$ sao cho $H$ là trực tâm tam giác $ABC$ là $x+y+z-3 = 0$."
+  },
+  {
+    "bbox": [
+      190,
+      1225,
+      1546,
+      1308
+    ],
+    "category": "List-item",
+    "text": "d) Mặt phẳng ($ABC$) đi qua điểm $G(1; 2; 3)$ sao cho $G$ là trọng tâm tam giác $ABC$ là $6x + 3y + 2z + 18 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1331,
+      1546,
+      1506
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho một bể chứa nước và ban đầu chưa có nước. Người ta bắt đầu bơm nước vào bể với lưu lượng là $L_1(t) = 6t + 3$ (lít/phút). cùng lúc đó, do bể có một vết nứt dưới đáy nên nước bị ch洗 ra ngoài với lưu lượng là $L_2(t) = 2t$ (lít/phút). Dung tích tối đa của bể là 2015 lít. Hỏi trong cácoorh thêm đề dưới đây, 无心 无思 là đúng, 无心 无思 là sai?"
+  },
+  {
+    "bbox": [
+      190,
+      1524,
+      1238,
+      1567
+    ],
+    "category": "List-item",
+    "text": "a) Nếu bơm được 30 phút thì 无心 无思 là 无量 无水 trong bể chưa đầy bể."
+  },
+  {
+    "bbox": [
+      190,
+      1578,
+      1161,
+      1622
+    ],
+    "category": "List-item",
+    "text": "b) 无心 无积 无水 được bơm vào bể trong 5 phút đầu tiên là 90 (lít)."
+  },
+  {
+    "bbox": [
+      190,
+      1633,
+      1109,
+      1677
+    ],
+    "category": "List-item",
+    "text": "c) 无心 无积 无水 ch洗 ra từ bể trong 5 phút đầu tiên là 10 (lít)."
+  },
+  {
+    "bbox": [
+      190,
+      1689,
+      1546,
+      1776
+    ],
+    "category": "List-item",
+    "text": "d) Khi nước ch洗 vào vừa làm đầy bể, thì đã có nhiều hơn 900 lít nước bị ch洗 ra ngoài (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      154,
+      1796,
+      1546,
+      1881
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một thùng chứa 100 quả táo trong đó có 80% số quả táo được dán prime, số còn lại không được dán prime. Bạn Hoàng lấy ra một quả trong thùng, sau đó bạn Hà lấy ra một quả thứ hai."
+  },
+  {
+    "bbox": [
+      196,
+      1901,
+      1088,
+      1941
+    ],
+    "category": "List-item",
+    "text": "◇ Gọi $A$ là biến cố: \"Quả táo bạn Hoàng lấy ra có dán prime\"."
+  },
+  {
+    "bbox": [
+      196,
+      1958,
+      1041,
+      1999
+    ],
+    "category": "List-item",
+    "text": "◇ Gọi $B$ là biến cố: \"Quả táo bạn Hà lấy ra có dán prime\"."
+  },
+  {
+    "bbox": [
+      190,
+      2018,
+      384,
+      2095
+    ],
+    "category": "Formula",
+    "text": "a) $P(A) = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      190,
+      2095,
+      769,
+      2176
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(B|A) = \\frac{79}{100}$."
+  },
+  {
+    "bbox": [
+      190,
+      2181,
+      1020,
+      2223
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất bạn Hà lấy ra quả táo có dán prime bằng 0,8."
+  },
+  {
+    "bbox": [
+      159,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1562,
+      2250,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "15"
+  }
+]

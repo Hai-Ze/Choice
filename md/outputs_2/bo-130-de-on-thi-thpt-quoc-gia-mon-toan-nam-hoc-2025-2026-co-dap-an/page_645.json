@@ -1,0 +1,489 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1125,
+      163
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      330,
+      188,
+      963,
+      461
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$1$</td><td>$-3$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      496,
+      854,
+      534
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      123,
+      534,
+      310,
+      573
+    ],
+    "category": "List-item",
+    "text": "(A) $(-3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      395,
+      534,
+      544,
+      573
+    ],
+    "category": "List-item",
+    "text": "(B) $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      668,
+      534,
+      856,
+      573
+    ],
+    "category": "List-item",
+    "text": "(C) $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      940,
+      534,
+      1085,
+      573
+    ],
+    "category": "List-item",
+    "text": "(D) $(-3; 1)$."
+  },
+  {
+    "bbox": [
+      93,
+      591,
+      582,
+      632
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.**解方程 $3^{x-2} = 5$."
+  },
+  {
+    "bbox": [
+      123,
+      632,
+      364,
+      671
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 2 + \\log_3 5$."
+  },
+  {
+    "bbox": [
+      668,
+      632,
+      930,
+      671
+    ],
+    "category": "List-item",
+    "text": "(B) $x = -2 + \\log_5 3$."
+  },
+  {
+    "bbox": [
+      123,
+      673,
+      364,
+      714
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 2 + \\log_5 3$."
+  },
+  {
+    "bbox": [
+      668,
+      673,
+      930,
+      714
+    ],
+    "category": "List-item",
+    "text": "(D) $x = -2 + \\log_3 5$."
+  },
+  {
+    "bbox": [
+      93,
+      733,
+      1197,
+      811
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho tức diện $ABCD$ có $G$ là trọng tâm tam giác $BCD$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      807,
+      524,
+      848
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = 2 \\cdot \\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      668,
+      807,
+      1033,
+      848
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = \\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      123,
+      848,
+      524,
+      895
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = 4 \\cdot \\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      668,
+      848,
+      1069,
+      895
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD} = 3 \\cdot \\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      93,
+      912,
+      1197,
+      991
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho tức diện $OABC$ có $OA, OB, OC$ đối một vuông góc. Gọi $H$ là trực tâm tam giác $ABC$. Hỏi mặt phẳng nào vuông góc với mặt phẳng $(ABC)$?"
+  },
+  {
+    "bbox": [
+      123,
+      991,
+      278,
+      1030
+    ],
+    "category": "List-item",
+    "text": "(A) $(OAH)$."
+  },
+  {
+    "bbox": [
+      395,
+      991,
+      544,
+      1030
+    ],
+    "category": "List-item",
+    "text": "(B) $(OAC)$."
+  },
+  {
+    "bbox": [
+      668,
+      991,
+      821,
+      1030
+    ],
+    "category": "List-item",
+    "text": "(C) $(OBC)$."
+  },
+  {
+    "bbox": [
+      940,
+      991,
+      1089,
+      1030
+    ],
+    "category": "List-item",
+    "text": "(D) $(OAB)$."
+  },
+  {
+    "bbox": [
+      93,
+      1048,
+      1197,
+      1127
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1 = 2$ và công sai $d = 3$. Tính $u_{10}$."
+  },
+  {
+    "bbox": [
+      123,
+      1127,
+      292,
+      1166
+    ],
+    "category": "List-item",
+    "text": "(A) $u_{10} = 32$."
+  },
+  {
+    "bbox": [
+      395,
+      1127,
+      565,
+      1166
+    ],
+    "category": "List-item",
+    "text": "(B) $u_{10} = 35$."
+  },
+  {
+    "bbox": [
+      668,
+      1127,
+      836,
+      1166
+    ],
+    "category": "List-item",
+    "text": "(C) $u_{10} = 26$."
+  },
+  {
+    "bbox": [
+      940,
+      1127,
+      1110,
+      1166
+    ],
+    "category": "List-item",
+    "text": "(D) $u_{10} = 29$."
+  },
+  {
+    "bbox": [
+      93,
+      1184,
+      926,
+      1224
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Có bao nhiêu số tự nhiên gồm hai chữ số phân biệt?"
+  },
+  {
+    "bbox": [
+      123,
+      1224,
+      210,
+      1263
+    ],
+    "category": "List-item",
+    "text": "(A) 72."
+  },
+  {
+    "bbox": [
+      395,
+      1224,
+      482,
+      1263
+    ],
+    "category": "List-item",
+    "text": "(B) 90."
+  },
+  {
+    "bbox": [
+      668,
+      1224,
+      755,
+      1263
+    ],
+    "category": "List-item",
+    "text": "(C) 81."
+  },
+  {
+    "bbox": [
+      940,
+      1224,
+      1041,
+      1263
+    ],
+    "category": "List-item",
+    "text": "(D) 100."
+  },
+  {
+    "bbox": [
+      108,
+      1282,
+      823,
+      1335
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1345,
+      1197,
+      1499
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một xưởng sản xuất thực phẩm gồm 3 kĩ sư chế biến thực phẩm, 3 kĩ thuật viên và 12 công nhân. Để đảm bảo sản xuất thực phẩm chống dịch Covid 19, xưởng cần chia thành 3 ca sản xuất theo thời gian liên tiếp nhau sao cho mỗi ca có 6 người."
+  },
+  {
+    "bbox": [
+      123,
+      1499,
+      944,
+      1540
+    ],
+    "category": "List-item",
+    "text": "a) Số cách phân chia lao động vào 3 ca sản xuất là $C_{18}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      123,
+      1540,
+      1193,
+      1620
+    ],
+    "category": "List-item",
+    "text": "b) Số cách phân lịch lao động vào 3 ca sản xuất sao cho ca đầu tiên gồm toàn công nhân là $C_{12}^6 \\cdot C_{12}^6$."
+  },
+  {
+    "bbox": [
+      123,
+      1620,
+      1193,
+      1700
+    ],
+    "category": "List-item",
+    "text": "c) Số cách phân lịch lao động vào 3 ca sản xuất sao cho mỗi ca có đúng 1 kĩ sư và đúng 1 kĩ thuật viên là $C_6^1 \\cdot C_6^1 \\cdot C_{12}^4$."
+  },
+  {
+    "bbox": [
+      123,
+      1700,
+      1193,
+      1801
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất sao cho mỗi ca có đúng 1 kĩ thuật viên, 1 kĩ sư chế biến thực phẩm là $\\frac{225}{3094}$."
+  },
+  {
+    "bbox": [
+      93,
+      1813,
+      1197,
+      1930
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Giá đóng cửa của một cổ phiếu là giá của cổ phiếu đó cuối một phiên giao dịch. Bảng sau thống kê giá đóng cửa (đơn vị: nghìn đồng) của hai mã cổ phiếu (A) và (B) trong 50 ngày giao dịch liên tiếp"
+  },
+  {
+    "bbox": [
+      247,
+      1956,
+      1044,
+      2105
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Giá đóng cửa</td><td>[18; 20)</td><td>[20; 22)</td><td>[22; 24)</td><td>[24; 26)</td><td>[26; 28)</td></tr><tr><td>Cổ phiếu A</td><td>8</td><td>9</td><td>12</td><td>10</td><td>11</td></tr><tr><td>Cổ phiếu B</td><td>16</td><td>4</td><td>3</td><td>6</td><td>21</td></tr></table>"
+  },
+  {
+    "bbox": [
+      123,
+      2132,
+      1077,
+      2170
+    ],
+    "category": "List-item",
+    "text": "a) Xét mẫu số liệu của cổ phiếu (A) ta có số trung bình là $\\bar{x}_A = 23,28$."
+  },
+  {
+    "bbox": [
+      123,
+      2170,
+      1193,
+      2253
+    ],
+    "category": "List-item",
+    "text": "b) Xét mẫu số liệu của cổ phiếu (A) ta có phương sai của mẫu số liệu ghép nhóm là $s_A^2 = 7,5216$."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 643"
+  }
+]

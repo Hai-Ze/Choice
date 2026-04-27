@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      634,
+      199
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(MP, NH) = \\frac{\\sqrt{3}}{4} \\approx 0,43.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      206,
+      1578,
+      395
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Cho tích phân $I = \\int_{1}^{2} \\frac{(x-1)^2}{x} dx = -\\frac{a}{b} + c \\ln 2$, trong đó $a, b, c$ là các số nguyên dương, phân số $\\frac{a}{b}$ tối简. Giá trị của biểu thức $T = a + b + c$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      833,
+      402,
+      953,
+      444
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      448,
+      378,
+      489
+    ],
+    "category": "Text",
+    "text": "Đáp án: 4."
+  },
+  {
+    "bbox": [
+      212,
+      493,
+      1213,
+      595
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } I = \\int_{1}^{2} \\frac{(x-1)^2}{x} dx = \\int_{1}^{2} \\left( x - 2 + \\frac{1}{x} \\right) dx = \\left. \\left( \\frac{1}{2}x^2 - 2x + \\ln|x| \\right) \\right|_{1}^{2} = -\\frac{1}{2} + \\ln 2.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      604,
+      767,
+      646
+    ],
+    "category": "Text",
+    "text": "Do đó $a = 1; b = 2; c = 1$, như vậy $T = 4$."
+  },
+  {
+    "bbox": [
+      74,
+      648,
+      1578,
+      876
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cho một张 nhôm hình lục giác đều cạnh $90 \\text{ cm}$. Người ta cắt ở mỗi định của张 nhôm hai hình tam giác vuông bằng nhau, biết cạnh góc vuông nhỏ bằng $x$ (cm) (cắt phần tô đâm của张 nhôm) rồi đập张 nhôm như hình vẽ để được một hình lăng trụ lục giác đều không có nắp. Tìm $x$ để thể tích của khối lăng trụ lục giác đều trên là lớn nhất (Nếu kết quả là số thập phân thì làm tròn kết quả đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      332,
+      888,
+      1423,
+      1206
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      765,
+      1219,
+      884,
+      1260
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      712,
+      1263,
+      1074,
+      1556
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1569,
+      506,
+      1610
+    ],
+    "category": "Text",
+    "text": "Điều kiện $0 < x < 45$"
+  },
+  {
+    "bbox": [
+      212,
+      1614,
+      1004,
+      1656
+    ],
+    "category": "Text",
+    "text": "Cạnh đáy của lăng trụ lục giác đều: $AB = HK = 90 - 2x$"
+  },
+  {
+    "bbox": [
+      212,
+      1656,
+      1098,
+      1710
+    ],
+    "category": "Text",
+    "text": "Chiều cao của lăng trụ lục giác đều: $HA = MH \\cdot \\tan 60^\\circ = x\\sqrt{3}$"
+  },
+  {
+    "bbox": [
+      212,
+      1710,
+      1257,
+      1805
+    ],
+    "category": "Text",
+    "text": "Diện tích đáy của lăng trụ lục giác đều: $S_{ABCDEF} = 6S_{ABO} = 6 \\cdot \\frac{\\sqrt{3}}{4} (90 - 2x)^2$"
+  },
+  {
+    "bbox": [
+      212,
+      1815,
+      1279,
+      1898
+    ],
+    "category": "Text",
+    "text": "Thể tích của khối lăng trụ lục giác đều: $V(x) = HA \\cdot S_{ABCDEF} = \\frac{9}{2} x (90 - 2x)^2$"
+  },
+  {
+    "bbox": [
+      212,
+      1902,
+      712,
+      1955
+    ],
+    "category": "Text",
+    "text": "Hay $V(x) = 18x^3 - 1620x^2 + 36450x$"
+  },
+  {
+    "bbox": [
+      212,
+      1965,
+      1122,
+      2019
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $V(x) = 18x^3 - 1620x^2 + 36450x$ trên khoảng $(0; 45)$."
+  },
+  {
+    "bbox": [
+      218,
+      2027,
+      629,
+      2079
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(x) = 54x^2 - 3240x + 36450\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      2091,
+      1152,
+      2143
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(x) = 0 \\Leftrightarrow 54x^2 - 3240x + 36450 = 0 \\Leftrightarrow x = 15 \\text{ hoặc } x = 45 \\text{ (loại).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2154,
+      455,
+      2197
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

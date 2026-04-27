@@ -1,0 +1,358 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      47,
+      1263,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      47,
+      1565,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1572,
+      47,
+      1596,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1199,
+      235
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian $Oxyz$, cho điểm $M(2; -3; 1)$ và mặt phẳng ($P$): $2x - 2y + z + 3 = 0$. Mặt phẳng đi qua điểm $M$ và song song với mặt phẳng ($P$) có phương trình là"
+  },
+  {
+    "bbox": [
+      124,
+      235,
+      459,
+      276
+    ],
+    "category": "List-item",
+    "text": "(A) $2x - 2y + z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      669,
+      235,
+      985,
+      276
+    ],
+    "category": "List-item",
+    "text": "(B) $2x - 2y + z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      278,
+      459,
+      320
+    ],
+    "category": "List-item",
+    "text": "(C) $2x - 2y - z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      669,
+      278,
+      1029,
+      320
+    ],
+    "category": "List-item",
+    "text": "(D) $-2x - 2y + z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      93,
+      349,
+      808,
+      497
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hàm số $y = \\frac{ax + b}{cx + d}$ (với $c \\neq 0$, $ad - bc \\neq 0$) có đồ thị như hình vẽ bên. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      124,
+      495,
+      704,
+      549
+    ],
+    "category": "List-item",
+    "text": "(A) $\\lim_{x \\to -\\infty} f(x) = +\\infty$ và $\\lim_{x \\to +\\infty} f(x) = -\\infty$."
+  },
+  {
+    "bbox": [
+      124,
+      549,
+      681,
+      608
+    ],
+    "category": "List-item",
+    "text": "(B) $\\lim_{x \\to 1^+} f(x) = -\\infty$ và $\\lim_{x \\to 1^-} f(x) = +\\infty$."
+  },
+  {
+    "bbox": [
+      124,
+      608,
+      632,
+      649
+    ],
+    "category": "List-item",
+    "text": "(C) Đồ thị hàm số có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      124,
+      649,
+      746,
+      694
+    ],
+    "category": "List-item",
+    "text": "(D) Hàm số đồng biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      833,
+      380,
+      1191,
+      748
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      757,
+      1198,
+      876
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hai hàm số $y = f(x)$, $y = g(x)$ liên tục trên đoạn $[a; b]$. Xét hình phẳng ($H$) giới hạn bởi các đồ thị $y = f(x)$, $y = g(x)$ và hai đường thẳng $x = a$, $x = b$. Diện tích hình phẳng ($H$) là"
+  },
+  {
+    "bbox": [
+      124,
+      876,
+      425,
+      991
+    ],
+    "category": "List-item",
+    "text": "(A) $\\int_{a}^{b} |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      669,
+      876,
+      966,
+      991
+    ],
+    "category": "List-item",
+    "text": "(B) $\\int_{a}^{b} [f(x) - g(x)] dx$."
+  },
+  {
+    "bbox": [
+      124,
+      991,
+      425,
+      1109
+    ],
+    "category": "List-item",
+    "text": "(C) $\\int_{b}^{a} |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      669,
+      991,
+      966,
+      1109
+    ],
+    "category": "List-item",
+    "text": "(D) $\\int_{a}^{b} |f(x) + g(x)| dx$."
+  },
+  {
+    "bbox": [
+      108,
+      1122,
+      824,
+      1177
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1185,
+      1198,
+      1341
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một tên lửa phóng thẳng đứng từ mặt đất với vận tốc ban đầu $v_0 = 50$ m/s. Gia tốc của tên lửa (do lực đẩy và trọng lực) phụ thuộc vào thời gian theo công thức $a(t) = 10 - 2t$ (m/s²). Sau thời gian 10 s tên lửa hết nhiên liệu và tiếp tục bay với gia tốc $a = -9,8$ m/s²."
+  },
+  {
+    "bbox": [
+      124,
+      1341,
+      1002,
+      1378
+    ],
+    "category": "List-item",
+    "text": "a) Vận tốc của tên lửa đạt được tại thời điểm $t = 10$ s là 50 m/s."
+  },
+  {
+    "bbox": [
+      124,
+      1380,
+      975,
+      1419
+    ],
+    "category": "List-item",
+    "text": "b) Độ cao của tên lửa đạt được tại thời điểm $t = 10$ s là 660 m."
+  },
+  {
+    "bbox": [
+      124,
+      1421,
+      1194,
+      1498
+    ],
+    "category": "List-item",
+    "text": "c) Tên lửa đạt độ cao lớn nhất tại thời điểm $t = 15$ s (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      124,
+      1500,
+      1194,
+      1574
+    ],
+    "category": "List-item",
+    "text": "d) Độ cao lớn nhất tên lửa đạt được (làm tròn kết quả đến hàng đơn vị) là 766 m."
+  },
+  {
+    "bbox": [
+      93,
+      1593,
+      1198,
+      1862
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một tàu thăm dò tự hành (AUV) đang hoạt động dưới biển sâu. Hệ tọa độ $Oxyz$ được thiết lập với mặt nước biển yên tinh là mặt phẳng ($Oxy$), trục $Oz$ hướng thẳng đứng xuống dưới ($độ sâu z > 0$), đơn vị tính bằng hectomét (hm). AUV bắt đầu hành trình từ vị trí $A(8; 6; 1)$ và dự định di chuyển theo đường thẳng đến vị trí cuối $B(4; -2; 2)$. Trong hành trình của mình AUV cần tránh một khu vực hình cầu ($S$), tâm tại điểm $K(2; -4; 2)$, bán kính $R = 1$hm (khu vực có thiết bị nhay cảm)."
+  },
+  {
+    "bbox": [
+      124,
+      1858,
+      1194,
+      1996
+    ],
+    "category": "List-item",
+    "text": "a) Đường thẳng chứa hành trình của AUV có phương trình $\\frac{x - 8}{-4} = \\frac{y - 6}{-8} = \\frac{z - 1}{1}$."
+  },
+  {
+    "bbox": [
+      124,
+      1992,
+      1024,
+      2031
+    ],
+    "category": "List-item",
+    "text": "b) Мặt cầu ($S$) có phương trình $(x - 2)^2 + (y + 4)^2 + (z - 2)^2 = 1$."
+  },
+  {
+    "bbox": [
+      124,
+      2033,
+      1143,
+      2072
+    ],
+    "category": "List-item",
+    "text": "c) Trên hành trình AUV luôn cách tâm $K$ một khoảng lớn hơn bán kính $R$."
+  },
+  {
+    "bbox": [
+      124,
+      2074,
+      1194,
+      2150
+    ],
+    "category": "List-item",
+    "text": "d) Hành trình của AUV không đi qua khu vực có thiết bị nhay cảm hình cầu ($S$)."
+  },
+  {
+    "bbox": [
+      93,
+      2165,
+      1198,
+      2247
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một hệ thống AI được sử dụng để kiểm tra đạo văn trong các bài viết học sinh nộp. Theo thống kê: có 1% bài viết là đạo văn, 99% bài viết là chính chủ (không"
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1458,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "511"
+  }
+]

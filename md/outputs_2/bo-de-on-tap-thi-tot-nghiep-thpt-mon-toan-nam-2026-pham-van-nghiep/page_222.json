@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      316,
+      110,
+      736,
+      155
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_1 | A) = 1 \\Rightarrow P(H_2 | A) = 0\n$$"
+  },
+  {
+    "bbox": [
+      208,
+      166,
+      1112,
+      224
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(H_1 | \\bar{A}) = 0,2$ và ta cần tìm $P(A | H_1)$."
+  },
+  {
+    "bbox": [
+      316,
+      235,
+      535,
+      293
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_2 | \\bar{A}) = 0,8\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      304,
+      1004,
+      458
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(A) = x &\\Rightarrow P(H_1) = P(H_1 | A) \\cdot P(A) + P(H_1 | \\bar{A}) \\cdot P(\\bar{A}) \\\\\n&\\Leftrightarrow 0,44 = 1 \\cdot x + 0,2 \\cdot (1 - x) \\\\\n&\\Leftrightarrow x = 0,3\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      469,
+      1046,
+      566
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A | H_1) = \\frac{P(A | H_1)}{P(H_1)} = \\frac{P(A) \\cdot P(H_1 | A)}{P(H_1)} = \\frac{0,3 \\cdot 1}{0,44} = \\frac{15}{22} \\approx 0,68\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      575,
+      1575,
+      728
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** [3] Cho hình chóp tam giác $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, cạnh bên $SA$ vuông góc với mặt phẳng đáy. Biết $AB = 1$, góc $[S, BC, A] = 45^\\circ$, khoảng cách từ $C$ đến mặt phẳng Biết $(SAB)$ bằng 2. Tính thể tích của khối chóp $S.ABC$ (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      740,
+      953,
+      781
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      785,
+      409,
+      826
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,33"
+  },
+  {
+    "bbox": [
+      616,
+      841,
+      1161,
+      1286
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      208,
+      1304,
+      1023,
+      1400
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} AB \\perp BC \\\\ SA \\perp BC \\end{cases} \\Rightarrow BC \\perp (SAB) \\Rightarrow d(C, (SAB)) = BC = 2$."
+  },
+  {
+    "bbox": [
+      208,
+      1407,
+      977,
+      1563
+    ],
+    "category": "Text",
+    "text": "Lại có $\\begin{cases} BC = (SBC) \\cap (ABC) \\\\ AB \\perp BC \\\\ SA \\perp BC \\end{cases} \\Rightarrow [S, BC, A] = SBA = 45^\\circ$"
+  },
+  {
+    "bbox": [
+      208,
+      1573,
+      1050,
+      1616
+    ],
+    "category": "Text",
+    "text": "Khi đó tam giác $SAB$ vuông cân tại $A$ suy ra $SA = AB = 1$."
+  },
+  {
+    "bbox": [
+      208,
+      1618,
+      1398,
+      1699
+    ],
+    "category": "Text",
+    "text": "Thể tích của khối chóp $S.ABC$ là $V = \\frac{1}{3} S_{ABC} \\cdot SA = \\frac{1}{3} \\cdot \\frac{1}{2} BA \\cdot BC \\cdot SA = \\frac{1}{6} \\cdot 1 \\cdot 2 \\cdot 1 = \\frac{1}{3} \\approx 0,33$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

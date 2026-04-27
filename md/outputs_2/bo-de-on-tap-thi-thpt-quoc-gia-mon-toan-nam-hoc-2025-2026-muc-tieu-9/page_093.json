@@ -1,0 +1,129 @@
+[
+  {
+    "bbox": [
+      203,
+      141,
+      522,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\nF(3; 8) = 9 + 16 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      203,
+      505,
+      242
+    ],
+    "category": "Formula",
+    "text": "$$\nF(3; 4) = 9 + 8 = 17.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      263,
+      522,
+      302
+    ],
+    "category": "Formula",
+    "text": "$$\nF(1; 8) = 3 + 16 = 19.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      323,
+      1147,
+      364
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của hàm $F(x, y)$ là 17, đạt được tại định $B(3; 4)$."
+  },
+  {
+    "bbox": [
+      152,
+      385,
+      1548,
+      648
+    ],
+    "category": "Text",
+    "text": "Bài 6. Trong không gian với hệ trục toạ độ $Oxyz$ (đơn vị độ dài trên mỗi trục tính là mét), một wùn hoa nằm trên mặt phẳng ($P$) : $2x + 2y - z - 12 = 0$. Có hai bóngđèn chiếu sáng cố định được đặt tại các điểm $A(40; -40; 12)$, $B(-40; 50; 38)$. Để đảm bảo kỹ thuật chiếu sáng, các kỹ sư muốn thiết kế trên mặt wùn một đường ray để lắp đặt mộtđèn chiếu sáng $M$ di động trên đường ray ấy. Yêu cầu kỹ thuật đặt ra là góc tạo bởi $MA$ với mặt wùn và góc tạo bởi $MB$ với mặt wùn phải luôn bằng nhau. Độ dài đường ray là bao nhiêu mét (kết quả làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      548,
+      662,
+      1147,
+      1077
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1108,
+      198,
+      1148
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1108,
+      445,
+      1172
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      279,
+      1185,
+      1419,
+      1846
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1897,
+      1198,
+      1983
+    ],
+    "category": "Text",
+    "text": "Gọi $A_1, B_1$ lần lượt là hình chiếu vuông góc của $A, B$ lên mặt phẳng ($P$).\nKhi đó yêu cầu bài toán đặt ra $\\widehat{AMA_1} = \\widehat{BMB_1}$."
+  },
+  {
+    "bbox": [
+      152,
+      1977,
+      1138,
+      2153
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Ta có } \\widehat{AMA_1} = \\widehat{BMB_1} \\Rightarrow \\tan \\widehat{AMA_1} = \\tan \\widehat{BMB_1} \\Rightarrow \\frac{AA_1}{MA_1} = \\frac{BB_1}{MB_1} \\\\ \\Rightarrow \\frac{MA_1}{MB_1} = \\frac{AA_1}{BB_1} = \\frac{\\text{d}(A, (P))}{\\text{d}(B, (P))} = \\frac{8}{10} = \\frac{4}{5}. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "93"
+  }
+]

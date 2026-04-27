@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      1315,
+      138
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô đi được từ lúc đạp phanh đến khi止止 ở trạm thu phí là 36,75m."
+  },
+  {
+    "bbox": [
+      156,
+      154,
+      1133,
+      201
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của ô tô tại thời điểm người tài xế phanh gấp lần 2 là 20m/s."
+  },
+  {
+    "bbox": [
+      156,
+      214,
+      1336,
+      261
+    ],
+    "category": "Text",
+    "text": "c) Thời gian kể từ lúc đạp phanh lần một cho đến khi止止 hắn ở trạm thu phí là 3 giây."
+  },
+  {
+    "bbox": [
+      156,
+      274,
+      1425,
+      320
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường ô tô chuyển động từ lúc phanh lần một đến lúc phanh lần hai là 76,75m."
+  },
+  {
+    "bbox": [
+      807,
+      345,
+      924,
+      384
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      398,
+      971,
+      520
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      580,
+      896,
+      628
+    ],
+    "category": "Text",
+    "text": "a) Xe止止 hắn lên $v_1(t) = 0 \\Leftrightarrow -6t + 21 = 0 \\Leftrightarrow t = 3,5$."
+  },
+  {
+    "bbox": [
+      156,
+      650,
+      1211,
+      695
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ô tô đi được từ lúc đạp phanh đến khi止止 ở trạm thu phí là"
+  },
+  {
+    "bbox": [
+      162,
+      715,
+      712,
+      812
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\int_{0}^{3,5} v_1(t)dt = \\int_{0}^{3,5} (-6t + 21)dt = 36,75m.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      837,
+      1271,
+      887
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của ô tô tại thời điểm người tài xế phanh gấp lần 2 là $v_2(4) = 20(m/s)$."
+  },
+  {
+    "bbox": [
+      156,
+      907,
+      1572,
+      1021
+    ],
+    "category": "Text",
+    "text": "c) Thời gian kể từ lúc đạp phanh lần một cho đến khi止止 hắn ở trạm thu phí là $v_1(t) = 0 \\Leftrightarrow -6t + 21 = 0 \\Leftrightarrow t = 3,5(s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1040,
+      1297,
+      1086
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường ô tô chuyển động từ lúc phanh lần một đến lúc phanh lần hai là"
+  },
+  {
+    "bbox": [
+      162,
+      1104,
+      835,
+      1200
+    ],
+    "category": "Formula",
+    "text": "$$\nS = S_1 + S_2 = 36,75 + \\int_{0}^{4} 5tdt = 36,75 + 40 = 76,75m.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1223,
+      1574,
+      1555
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Khảo sát những người xem bộ phim hoạt hình vừa được phát hành cho thấy 70% người xem là trẻ em và 30% là người lớn. Trong số các trẻ em đến xem phim có 50% yêu thích bộ phim và khẳng định sẽ đi xem tiếp phần 2; 30% yêu thích bộ phim nhưng sẽ không xem tiếp phần 2; 20% còn lại không thích bộ phim và không đi xem tiếp phần 2. Trong số những người lớn đi xem phim có 20% yêu thích bộ phim và khẳng định sẽ đi xem tiếp phần 2; 10% yêu thích bộ phim nhưng sẽ không xem tiếp phần 2; 70% còn lại không thích bộ phim và không xem tiếp phần 2. Chọn ngẫu nhiên 1 người đã xem phim."
+  },
+  {
+    "bbox": [
+      156,
+      1567,
+      1256,
+      1613
+    ],
+    "category": "Text",
+    "text": "a) Biết người được chọn là trẻ em, xác suất để người đó yêu thích bộ phim là 0,56."
+  },
+  {
+    "bbox": [
+      156,
+      1626,
+      898,
+      1671
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để người đó không xem tiếp phần 2 là 0,59."
+  },
+  {
+    "bbox": [
+      156,
+      1684,
+      1412,
+      1729
+    ],
+    "category": "Text",
+    "text": "c) Biết người đó sẽ xem tiếp phần 2 của bộ phim, xác suất để người đó là trẻ em lớn hơn 0,85."
+  },
+  {
+    "bbox": [
+      156,
+      1742,
+      1572,
+      1844
+    ],
+    "category": "Text",
+    "text": "d) Biết người đó yêu thích bộ phim, xác suất để người đó không xem tiếp phần 2 là 0,37 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      807,
+      1862,
+      924,
+      1901
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1916,
+      971,
+      2038
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

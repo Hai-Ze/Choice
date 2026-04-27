@@ -1,0 +1,381 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      415,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      617,
+      150,
+      952,
+      192
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      192,
+      1373,
+      237
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      256,
+      551,
+      338
+    ],
+    "category": "Text",
+    "text": "**Câu 1.**繁界約分 $\\lim_{x \\to 2} \\frac{x-2}{x^2-4}$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      388,
+      208,
+      423
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      476,
+      388,
+      556,
+      423
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      827,
+      365,
+      913,
+      448
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      388,
+      1256,
+      423
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      727,
+      472,
+      843,
+      510
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      530,
+      199,
+      567
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      82,
+      588,
+      703,
+      676
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to 2} \\frac{x-2}{x^2-4} = \\lim_{x \\to 2} \\frac{x-2}{(x-2)(x+2)} = \\lim_{x \\to 2} \\frac{1}{x+2} = \\frac{1}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      697,
+      1036,
+      741
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hàm số nào sau đây mà đồ thị có dạng như hình vẽ bên dưới?"
+  },
+  {
+    "bbox": [
+      581,
+      757,
+      984,
+      1168
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      125,
+      1192,
+      303,
+      1268
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{x}{1-x}$."
+  },
+  {
+    "bbox": [
+      476,
+      1190,
+      650,
+      1268
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{x+1}{1-x}$."
+  },
+  {
+    "bbox": [
+      827,
+      1190,
+      1003,
+      1268
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x+1}{x-1}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1192,
+      1351,
+      1268
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{x}{x-1}$."
+  },
+  {
+    "bbox": [
+      727,
+      1293,
+      843,
+      1331
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1351,
+      199,
+      1388
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1403,
+      1377,
+      1512
+    ],
+    "category": "Text",
+    "text": "Đồ thị trong hình bên có đường tiệm cận ngang $y = 1$ và tiệm cận đứng $x = 1$ nên loại đáp A,B,D\nVậy chọn C"
+  },
+  {
+    "bbox": [
+      76,
+      1531,
+      833,
+      1578
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Heo nguyên hàm của hàm số $f(x) = e^x - 2x$ là."
+  },
+  {
+    "bbox": [
+      125,
+      1624,
+      331,
+      1661
+    ],
+    "category": "List-item",
+    "text": "A. $e^x + x^2 + C$."
+  },
+  {
+    "bbox": [
+      476,
+      1624,
+      681,
+      1661
+    ],
+    "category": "List-item",
+    "text": "B. $e^x - x^2 + C$."
+  },
+  {
+    "bbox": [
+      827,
+      1608,
+      1095,
+      1688
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{x+1}e^x - x^2 + C$."
+  },
+  {
+    "bbox": [
+      1175,
+      1624,
+      1368,
+      1661
+    ],
+    "category": "List-item",
+    "text": "D. $e^x - 2 + C$."
+  },
+  {
+    "bbox": [
+      727,
+      1712,
+      843,
+      1750
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1770,
+      199,
+      1807
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1826,
+      528,
+      1885
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int (e^x - 2x) dx = e^x - x^2 + C$"
+  },
+  {
+    "bbox": [
+      76,
+      1909,
+      807,
+      1991
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Set xác định của hàm số $y = \\frac{1}{\\sin x} - \\frac{1}{\\cos x}$ là"
+  },
+  {
+    "bbox": [
+      125,
+      2017,
+      387,
+      2062
+    ],
+    "category": "List-item",
+    "text": "A. $\\mathbb{R} \\setminus \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      827,
+      2017,
+      1100,
+      2062
+    ],
+    "category": "List-item",
+    "text": "B. $\\mathbb{R} \\setminus \\{k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      125,
+      2088,
+      476,
+      2177
+    ],
+    "category": "List-item",
+    "text": "C. $\\mathbb{R} \\setminus \\{-\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      827,
+      2088,
+      1100,
+      2177
+    ],
+    "category": "List-item",
+    "text": "D. $\\mathbb{R} \\setminus \\{k\\frac{\\pi}{2} | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      727,
+      2203,
+      843,
+      2241
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2256,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

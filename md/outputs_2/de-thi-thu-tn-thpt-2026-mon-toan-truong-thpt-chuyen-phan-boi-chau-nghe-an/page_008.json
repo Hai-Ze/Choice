@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      588,
+      76,
+      1097,
+      120
+    ],
+    "category": "Section-header",
+    "text": "## Hướng dẫn giải một số câu chọn lọc"
+  },
+  {
+    "bbox": [
+      154,
+      114,
+      678,
+      158
+    ],
+    "category": "Section-header",
+    "text": "### PHẦN II. Câu trắc nghiệm đúng sai."
+  },
+  {
+    "bbox": [
+      154,
+      172,
+      1534,
+      390
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Một nhóm 12 bạn học sinh đặt mua 12 vé kề nhau trong một hàng có 12 ghế để xem bộ phim “Mưa Đỏ”. Tuy nhiên, đến hôm đi xem phim thì 3 bạn bận đột xuất nên chỉ có 9 bạn gồm 4 bạn nam và 5 bạn nữ đi xem phim. Nhân viên rạp chiếu phim sắp xếp ngẫu nhiên cho 9 bạn vào 9 trong 12 ghế đã mua( mỗi bạn một ghế)."
+  },
+  {
+    "bbox": [
+      291,
+      402,
+      813,
+      448
+    ],
+    "category": "List-item",
+    "text": "a) Số cách sắp xếp 9 bạn là $79833600$."
+  },
+  {
+    "bbox": [
+      291,
+      469,
+      891,
+      549
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để 9 bạn ngồi cạnh nhau là $\\frac{1}{220}$."
+  },
+  {
+    "bbox": [
+      291,
+      575,
+      1034,
+      655
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để không có hai ghế trống cạnh nhau là $\\frac{6}{11}$."
+  },
+  {
+    "bbox": [
+      291,
+      680,
+      1151,
+      761
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để không có hai bạn nam nào ngồi cạnh nhau là $\\frac{14}{55}$."
+  },
+  {
+    "bbox": [
+      154,
+      784,
+      277,
+      822
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      154,
+      841,
+      272,
+      879
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      154,
+      901,
+      815,
+      982
+    ],
+    "category": "Text",
+    "text": "+) Số cách sắp xếp 5 bạn nữ và 3 ghế bị dư là $\\frac{8!}{3!}$."
+  },
+  {
+    "bbox": [
+      154,
+      1006,
+      1123,
+      1053
+    ],
+    "category": "Text",
+    "text": "+) Số cách sắp xếp 4 bạn nam vào 4 trong 9 khe trống được tạo ra là $A_9^4$."
+  },
+  {
+    "bbox": [
+      154,
+      1082,
+      627,
+      1208
+    ],
+    "category": "Text",
+    "text": "+) Xác xuất cần tìm là $\\frac{A_9^4 \\cdot \\frac{8!}{3!}}{A_{12}^9} = \\frac{14}{55}$."
+  },
+  {
+    "bbox": [
+      154,
+      1227,
+      738,
+      1271
+    ],
+    "category": "Section-header",
+    "text": "### PHẦN III. Câu trắc nghiệm trả lời ngắn."
+  },
+  {
+    "bbox": [
+      154,
+      1271,
+      1532,
+      1366
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Trong không gian với hệ toạ độ $Oxyz$, cho hai điểm $A(6;5;-1), B(4;-2;3)$. Tính số đo góc nhị diện $[A,Ox,B]$ theo đơn vị độ."
+  },
+  {
+    "bbox": [
+      154,
+      1373,
+      277,
+      1409
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      154,
+      1407,
+      1227,
+      1451
+    ],
+    "category": "Text",
+    "text": "Gọi $A', B'$ lần lượt là hình chiếu vuông góc của $A, B$ trên $Ox$ và $\\alpha = [A, Ox, B]$."
+  },
+  {
+    "bbox": [
+      154,
+      1455,
+      1470,
+      1569
+    ],
+    "category": "Text",
+    "text": "Ta có $A'(6;0;0), B'(4;0;0)$. Khi đó $\\alpha = (\\overrightarrow{A'A}, \\overrightarrow{B'B})$ nên $\\cos \\alpha = \\frac{\\overrightarrow{A'A} \\cdot \\overrightarrow{B'B}}{|\\overrightarrow{A'A}| \\cdot |\\overrightarrow{B'B}|} = -\\frac{\\sqrt{2}}{2} \\Rightarrow \\alpha = 135^\\circ$."
+  },
+  {
+    "bbox": [
+      154,
+      1574,
+      329,
+      1612
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 135"
+  },
+  {
+    "bbox": [
+      154,
+      1609,
+      1534,
+      1689
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Anh Bảo vừa tốt nghiệp đại học ngành dược và được nhận vào làm việc tại tập đoàn dược mỹ phẩm PBC với một trong hai phương án lương như sau:"
+  },
+  {
+    "bbox": [
+      291,
+      1686,
+      1534,
+      1766
+    ],
+    "category": "Text",
+    "text": "Phương án 1: lương khởi điểm 10 triệu đồng một tháng, cứ sau tròn 3 năm thì tăng lương mỗi tháng 6 triệu đồng so với mỗi tháng của 3 năm trước đó."
+  },
+  {
+    "bbox": [
+      291,
+      1763,
+      1534,
+      1843
+    ],
+    "category": "Text",
+    "text": "Phương án 2: lương khởi điểm 10 triệu đồng một tháng, cứ sau tròn 3 năm thì tăng lương mỗi tháng 40% so với mỗi tháng của 3 năm trước đó."
+  },
+  {
+    "bbox": [
+      291,
+      1840,
+      1534,
+      1958
+    ],
+    "category": "Text",
+    "text": "Nếu anh Bảo kí hợp đồng làm việc 20 năm thì sau 20 năm đi làm, tổng tiền lương anh nhận được theo phương án 2 nhiều hơn phương án 1 bao nhiêu triệu đồng(làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      154,
+      1958,
+      1303,
+      2007
+    ],
+    "category": "Text",
+    "text": "**Lời giải:** Gọi dãy $(u_n)$ với $u_1, u_2, \\dots$ lần lượt là tổng lương trong 3 năm lần 1, lần 2, $\\dots$"
+  },
+  {
+    "bbox": [
+      154,
+      2016,
+      334,
+      2054
+    ],
+    "category": "Text",
+    "text": "Phương án 1:"
+  },
+  {
+    "bbox": [
+      154,
+      2054,
+      1257,
+      2102
+    ],
+    "category": "Text",
+    "text": "+) Dãy $(u_n)$ là một cấp số cộng với $u_1 = 10 \\cdot 36 = 360, d = 6 \\cdot 36 = 216$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      154,
+      2111,
+      1532,
+      2192
+    ],
+    "category": "Text",
+    "text": "+) Ta có tổng lương sau 20 năm là $S = S_6 + \\frac{2}{3}u_7 = \\frac{6}{2}(2 \\cdot 360 + 5 \\cdot 216) + \\frac{2}{3} \\cdot (360 + 6 \\cdot 216) = 6504$ triệu đồng."
+  },
+  {
+    "bbox": [
+      154,
+      2196,
+      334,
+      2234
+    ],
+    "category": "Text",
+    "text": "Phương án 2:"
+  }
+]

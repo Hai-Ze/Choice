@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      195,
+      1573,
+      310
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1 = 3$ và công sai $d = 2$. Tổng của 100 số hạng đầu bằng"
+  },
+  {
+    "bbox": [
+      206,
+      329,
+      347,
+      364
+    ],
+    "category": "List-item",
+    "text": "A. 15150."
+  },
+  {
+    "bbox": [
+      555,
+      329,
+      695,
+      364
+    ],
+    "category": "List-item",
+    "text": "B. 14850."
+  },
+  {
+    "bbox": [
+      906,
+      329,
+      1045,
+      364
+    ],
+    "category": "List-item",
+    "text": "C. 15850."
+  },
+  {
+    "bbox": [
+      1255,
+      329,
+      1396,
+      364
+    ],
+    "category": "List-item",
+    "text": "D. 14150."
+  },
+  {
+    "bbox": [
+      807,
+      388,
+      924,
+      427
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      446,
+      279,
+      484
+    ],
+    "category": "Text",
+    "text": "**Chọn A.**"
+  },
+  {
+    "bbox": [
+      155,
+      497,
+      974,
+      543
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức tổng $n$ số hạng đầu của cấp số cộng ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      562,
+      1070,
+      650
+    ],
+    "category": "Formula",
+    "text": "$$\nS_n = \\frac{n(u_1 + u_n)}{2} = nu_1 + \\frac{n(n-1)}{2}d = 100 \\cdot 3 + \\frac{100(100-1)}{2} \\cdot 3 = 15150.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      672,
+      1115,
+      722
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có đồ thị bên dưới."
+  },
+  {
+    "bbox": [
+      650,
+      749,
+      1081,
+      1219
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1243,
+      521,
+      1287
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      195,
+      1308,
+      857,
+      1354
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho nghịch biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      195,
+      1383,
+      1076,
+      1430
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho đồng biến trên các khoảng $(-\\infty; 0)$ và $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      1452,
+      773,
+      1497
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho có điểm cực đại bằng $2$."
+  },
+  {
+    "bbox": [
+      195,
+      1509,
+      814,
+      1554
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đã cho có giá trị cực tiểu bằng $-2$."
+  },
+  {
+    "bbox": [
+      807,
+      1574,
+      924,
+      1613
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1632,
+      279,
+      1670
+    ],
+    "category": "Text",
+    "text": "**Chọn C.**"
+  },
+  {
+    "bbox": [
+      155,
+      1683,
+      469,
+      1727
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có"
+  },
+  {
+    "bbox": [
+      155,
+      1746,
+      1419,
+      1794
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng $(0; 2)$; đồng biến trên các khoảng $(-\\infty; 0)$ và $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      155,
+      1817,
+      1085,
+      1862
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho có điểm cực tiểu $x = 2$ và giá trị cực tiểu bằng $y = -2$"
+  },
+  {
+    "bbox": [
+      155,
+      1881,
+      1068,
+      1926
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho có điểm cực đại $x = 0$ và giá trị cực đại bằng $y = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      1953,
+      950,
+      2048
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nếu $\\int_{0}^{2} f(x) dx = 3$ thì $\\int_{0}^{2} [2f(x) + 2027] dx$ bằng:"
+  },
+  {
+    "bbox": [
+      195,
+      2075,
+      324,
+      2110
+    ],
+    "category": "List-item",
+    "text": "A. 4054."
+  },
+  {
+    "bbox": [
+      544,
+      2075,
+      673,
+      2110
+    ],
+    "category": "List-item",
+    "text": "B. 4042."
+  },
+  {
+    "bbox": [
+      906,
+      2075,
+      1037,
+      2110
+    ],
+    "category": "List-item",
+    "text": "C. 4044."
+  },
+  {
+    "bbox": [
+      1244,
+      2075,
+      1373,
+      2110
+    ],
+    "category": "List-item",
+    "text": "D. 4060."
+  },
+  {
+    "bbox": [
+      807,
+      2133,
+      924,
+      2172
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2193,
+      279,
+      2231
+    ],
+    "category": "Text",
+    "text": "**Chọn D.**"
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

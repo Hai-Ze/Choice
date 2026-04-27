@@ -1,0 +1,41 @@
+[
+  {
+    "bbox": [
+      255,
+      103,
+      982,
+      325
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL_H &= \\log \\frac{k}{OH^2} = \\log \\frac{4k}{OB^2 - 2OA \\cdot OB + OA^2} = \\\\\n&= \\log \\frac{4k}{\\frac{k}{10^7} - 2 \\cdot \\frac{k}{10^6} + \\frac{k}{10^5}} = \\log \\frac{4}{\\frac{1}{10^7} - 2 \\cdot \\frac{1}{10^6} + \\frac{1}{10^5}} \\approx 5,69\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      336,
+      1090,
+      418
+    ],
+    "category": "Text",
+    "text": "Ta có trường hợp 2 điểm $O$ nằm gần điểm $B$ : $OH = \\frac{OA - OB}{2}$"
+  },
+  {
+    "bbox": [
+      614,
+      473,
+      1088,
+      534
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      255,
+      618,
+      982,
+      839
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL_H &= \\log \\frac{k}{OH^2} = \\log \\frac{4k}{OA^2 - 2OA \\cdot OB + OB^2} = \\\\\n&= \\log \\frac{4k}{\\frac{k}{10^5} - 2 \\cdot \\frac{k}{10^6} + \\frac{k}{10^7}} = \\log \\frac{4}{\\frac{1}{10^5} - 2 \\cdot \\frac{1}{10^6} + \\frac{1}{10^7}} \\approx 5,69\n\\end{aligned}\n$$"
+  }
+]

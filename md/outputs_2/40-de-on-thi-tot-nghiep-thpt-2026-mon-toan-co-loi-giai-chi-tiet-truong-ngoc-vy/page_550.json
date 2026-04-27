@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      438,
+      97,
+      1133,
+      624
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      652,
+      1090,
+      702
+    ],
+    "category": "Text",
+    "text": "Gọi $O = AC \\cap BD$, chóp $S.ABCD$ là chóp tức giác đều nên $SO \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      80,
+      729,
+      508,
+      832
+    ],
+    "category": "Formula",
+    "text": "$$\n\\left. \\begin{array}{l} AD // BC \\\\ BC \\subset (SBC) \\end{array} \\right\\} \\Rightarrow AD // (SBC).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      858,
+      971,
+      911
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(AD, SC) = d(AD, (SBC)) = d(A, (SBC)) = 2d(O, (SBC)).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      929,
+      740,
+      974
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của $BC$, dựng $OH \\perp SM$."
+  },
+  {
+    "bbox": [
+      76,
+      993,
+      604,
+      1042
+    ],
+    "category": "Text",
+    "text": "Dễ thấy $OH \\perp BC$ (vì $BC \\perp (SOM)$)."
+  },
+  {
+    "bbox": [
+      76,
+      1068,
+      1494,
+      1228
+    ],
+    "category": "Text",
+    "text": "Ta có $SM = \\sqrt{SC^2 - MC^2} = 4$, $OM = 2\\sqrt{2}$, $SO = 2\\sqrt{2}$ vậy tam giác $SOM$ vuông cân định $O \\Rightarrow OH = \\frac{1}{2}SM = 2$."
+  },
+  {
+    "bbox": [
+      76,
+      1254,
+      364,
+      1301
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(AD, SC) = 4.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1325,
+      1494,
+      1482
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một người tham gia trò chơi với ba集合 quả đặc biệt: Hộp màu vàng có 2 điện thoại iPhone và 3 tai nghe,集合 màu bạc có 4 điện thoại iPhone và 1 tai nghe và集合 màu đồng có 3 điện thoại iPhone và 2 tai nghe. Luật chơi được thực hiện qua 2 bước sau:"
+  },
+  {
+    "bbox": [
+      76,
+      1497,
+      702,
+      1541
+    ],
+    "category": "Text",
+    "text": "Bước 1: Người chơi chọn ngẫu nhiên một集合."
+  },
+  {
+    "bbox": [
+      76,
+      1553,
+      928,
+      1598
+    ],
+    "category": "Text",
+    "text": "Bước 2: Từ集合 đã chọn, người chơi lấy ngẫu nhiên 1 món quả:"
+  },
+  {
+    "bbox": [
+      76,
+      1610,
+      1293,
+      1655
+    ],
+    "category": "Text",
+    "text": "- Nếu quả là điện thoại iPhone, người chơi được giữ nó và lấy thêm 1 quả nữa từ cùng集合."
+  },
+  {
+    "bbox": [
+      76,
+      1667,
+      599,
+      1712
+    ],
+    "category": "Text",
+    "text": "- Nếu quả là tai nghe, trò chơi kết thúc."
+  },
+  {
+    "bbox": [
+      76,
+      1726,
+      1494,
+      1830
+    ],
+    "category": "Text",
+    "text": "Biết rằng người chơi lấy được hai điện thoại iPhone, tính xác suất để người đó lấy từ集合 màu bạc (làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      76,
+      1846,
+      414,
+      1882
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1904,
+      843,
+      1943
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1963,
+      252,
+      2002
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,6"
+  },
+  {
+    "bbox": [
+      76,
+      2025,
+      682,
+      2070
+    ],
+    "category": "Text",
+    "text": "Gọi $A_1$ là biến cố: Hộp được chọn màu vàng."
+  },
+  {
+    "bbox": [
+      82,
+      2095,
+      610,
+      2140
+    ],
+    "category": "Text",
+    "text": "$A_2$ là biến cố: Hộp được chọn màu bạc."
+  },
+  {
+    "bbox": [
+      82,
+      2163,
+      629,
+      2209
+    ],
+    "category": "Text",
+    "text": "$A_3$ là biến cố: Hộp được chọn màu đồng."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

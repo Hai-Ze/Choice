@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      160,
+      96,
+      864,
+      216
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{25000 \\cdot e^t \\cdot (e^t + 5) \\cdot (e^t + 5 - 2e^t)}{(e^t + 5)^4} = \\frac{25000 \\cdot e^t \\cdot (5 - e^t)}{(e^t + 5)^3}\n$$"
+  },
+  {
+    "bbox": [
+      178,
+      244,
+      681,
+      291
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Có } f''(t) = 0 \\Leftrightarrow 5 - e^t = 0 \\Leftrightarrow t = \\ln 5.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      312,
+      449,
+      356
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên"
+  },
+  {
+    "bbox": [
+      160,
+      382,
+      709,
+      629
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>t</td><td>0</td><td>ln5</td><td>+ ∞</td></tr><tr><td>f''(t)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>f'(t)</td><td>6250/9</td><td>1250</td><td>0</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      657,
+      1018,
+      701
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có tốc độ bán hàng lớn nhất là 1250."
+  },
+  {
+    "bbox": [
+      156,
+      716,
+      1576,
+      992
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công viên thuê sinh viên tuần tra các con đường và thu gom rác. Các con đường phải tuần tra thể hiện trong sơ đồ dưới đây, với các khoảng cách tính bằng mét. Con đường nối từ nhà bóng tới nhà hát đi dưới một cây cầu nằm trên con đường nối từ nhà还原 tới cửa vào. Biết rằng sinh viên xuất phát từ cửa vào, đi qua tất cả các con đường để tuần tra và dọn rác và kết thúc công việc cũng ở cửa vào. Hỏi quăng đường ngắn nhất mà sinh viên đó đi là bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      593,
+      1017,
+      1117,
+      1289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1324,
+      493,
+      1359
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1383,
+      924,
+      1421
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1440,
+      349,
+      1478
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1000"
+  },
+  {
+    "bbox": [
+      156,
+      1494,
+      539,
+      1538
+    ],
+    "category": "Text",
+    "text": "Ta có đường đi xuất phát từ:"
+  },
+  {
+    "bbox": [
+      156,
+      1556,
+      1269,
+      1595
+    ],
+    "category": "Text",
+    "text": "Cửa vào, nhà bóng, nhà ăn, nhà还原, nhà bóng, nhà hát, cửa vào, nhà还原, nhà hát"
+  },
+  {
+    "bbox": [
+      156,
+      1610,
+      963,
+      1654
+    ],
+    "category": "Text",
+    "text": "Ta cần chọn con đường ngắn nhất đi từ nhà hát đến cửa vào."
+  },
+  {
+    "bbox": [
+      156,
+      1668,
+      922,
+      1711
+    ],
+    "category": "Text",
+    "text": "Tức là đường đi ngắn nhất là: nhà hát, nhà还原, cửa vào."
+  },
+  {
+    "bbox": [
+      156,
+      1725,
+      1348,
+      1769
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất là: $140+145+80+60+90+165+80+80+80+80 = 1000m$."
+  },
+  {
+    "bbox": [
+      156,
+      1784,
+      1574,
+      2152
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Người ta muốn dựng một cột ăngten trên một sường đồi. ăngten được dựng thẳng đứng trong không gian $Oxyz$ với độ dài đơn vị trên mỗi trục bằng mét. Gọi $O$ là gốc cột, $A$ là điểm buộc dây cáp vào cột ăngten và $M, N$ là hai điểm neo dây cáp xuống mặt sường đồi (hình vẽ). Cho biết tọa độ các điểm nói trên lần lượt là $O(0;0;0), A(0;0;6), M(3;-4;3), N(-5;-2;2)$. Góc tạo bởi các sợi dây cáp $MA, NA$ với mặt phẳng sường đồi lần lượt là $a^\\circ$ và $b^\\circ$ (kết quả làm tròn đến hàng đơn vị của độ). Tính giá trị biểu thức $T = a + b$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

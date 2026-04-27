@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      422,
+      104,
+      1139,
+      387
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>0</td><td>5</td><td>+∞</td></tr><tr><td>T'(x)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>T(x)</td><td colspan=\"3\">45 000</td></tr><tr><td></td><td>40 000</td><td></td><td>-∞</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      415,
+      1364,
+      462
+    ],
+    "category": "Text",
+    "text": "Căn cứ vào bảng biến thiên trên, ta thấy hàm số $T(x)$ đạt giá trị lớn nhất bằng 45 000 khi $x = 5$."
+  },
+  {
+    "bbox": [
+      76,
+      483,
+      1326,
+      528
+    ],
+    "category": "Text",
+    "text": "Khi đó, số tiền tăng lên khi cho thuê một căn hộ là $200 \\cdot 5 = 1\\,000$ nghìn đồng $= 1$ triệu đồng."
+  },
+  {
+    "bbox": [
+      76,
+      541,
+      1346,
+      587
+    ],
+    "category": "Text",
+    "text": "Vậy công ty nên cho thuê mỗi căn hộ 3 triệu đồng/1 tháng thì tổng số tiền thu được là lớn nhất."
+  },
+  {
+    "bbox": [
+      76,
+      599,
+      1495,
+      818
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một người đưa thư xuất phát từ vị trí $A$, các điểm cần phát thư nằm dọc con đường cần phải đi qua. Biết rằng người này phải đi trên mỗi con đường ít nhất một lần (để phát được thư cho tất cả các điểm cần phải nằm dọc theo con đường đó) và cuối cùng quay lại điểm xuất phát. độ dài các con đường như hình vẽ (đơn vị độ dài). Hỏi tổng quăng đường người đưa thư có thể đi ngắn nhất có thể là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      458,
+      838,
+      1088,
+      1161
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1191,
+      413,
+      1226
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1249,
+      843,
+      1287
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1308,
+      193,
+      1346
+    ],
+    "category": "Text",
+    "text": "Đáp án:"
+  },
+  {
+    "bbox": [
+      76,
+      1365,
+      234,
+      1403
+    ],
+    "category": "Text",
+    "text": "Đáp án: 41"
+  },
+  {
+    "bbox": [
+      76,
+      1416,
+      1421,
+      1462
+    ],
+    "category": "Text",
+    "text": "Vì đồ thị có đúng hai định bậc lẻ là $A$ và $D$ nên đồ thị có đường đi Euler đi từ định $A$ đến định $D$."
+  },
+  {
+    "bbox": [
+      76,
+      1475,
+      1012,
+      1520
+    ],
+    "category": "Text",
+    "text": "Một đường đi Euler từ $A$ đến $D$ là $AEABEDBCD$ và có độ dài bằng"
+  },
+  {
+    "bbox": [
+      80,
+      1539,
+      492,
+      1575
+    ],
+    "category": "Formula",
+    "text": "$$\n6+8+1+7+5+4+2+3=36.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1593,
+      858,
+      1638
+    ],
+    "category": "Text",
+    "text": "Đường đi ngắn nhất từ $D$ đến $A$ có độ dài bằng $4+1=5$."
+  },
+  {
+    "bbox": [
+      76,
+      1651,
+      1080,
+      1696
+    ],
+    "category": "Text",
+    "text": "Tổng quăng đường người đưa thư có thể đi ngắn nhất có thể là $36+5=41$."
+  },
+  {
+    "bbox": [
+      76,
+      1711,
+      1495,
+      2075
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ tọa độ $Oxyz$ ( mặt phẳng $Oxy$ trùng với mặt đất và xem mặt đất là mặt phẳng), bạn Minh Hiền đặt một tấm gỗ phẳng cắt các trục $Ox, Oy, Oz$ lần lượt tại các điểm $A, B, C$ như hình vẽ và mặt phẳng gỗ có phương trình $x+2y+2z=10$.Tiếp đến, bạn Minh Hiền đặt một mô hình quả cầu bán kính $r=3$ tiếp xúc với tấm gỗ tại điểm $C$. Sau đó Minh Hiền thả quả cầu lăn trên đường thẳng $CF$ ($CF$ là đường vuông góc với $AB$ tại $F$) cho đến khi quả cầu vừa tiếp xúc với mặt phẳng $Oxy$ tại $P(a;b;0)$ thì停止 lại. Tính giá trị của $10a+5b$."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

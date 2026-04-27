@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1324,
+      183
+    ],
+    "category": "Text",
+    "text": "với mọi $t \\in [0; 30]$. Sau 30 giây kể từ khi bắt đầu giảm tốc, ô tô đến trạm thu phí."
+  },
+  {
+    "bbox": [
+      189,
+      201,
+      1273,
+      243
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường từ vị trí ô tô bắt đầu giảm tốc đến trạm thu phí là 500 m."
+  },
+  {
+    "bbox": [
+      189,
+      258,
+      506,
+      297
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $b$ là 90."
+  },
+  {
+    "bbox": [
+      189,
+      304,
+      527,
+      382
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị của $a$ là $-\\frac{5}{9}$."
+  },
+  {
+    "bbox": [
+      189,
+      388,
+      1546,
+      475
+    ],
+    "category": "List-item",
+    "text": "d) Tốc độ tối đa cho phép của phương tiện khi qua trạm thu phí là 30 km/h. Người điều khiển ô tô đó đã tuân thủ đúng tốc độ quy định khi đi qua trạm thu phí."
+  },
+  {
+    "bbox": [
+      153,
+      483,
+      1280,
+      564
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Đổi tốc độ ban đầu: $v_0 = 90 \\text{ km/h} = \\frac{90 \\cdot 1000}{3600} = 25 \\text{ m/s}$."
+  },
+  {
+    "bbox": [
+      153,
+      578,
+      1546,
+      660
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Quăng đường ô tô đi được trong 20 giây đầu (trước khi giảm tốc) là $s_1 = 25 \\cdot 20 = 500$ m."
+  },
+  {
+    "bbox": [
+      202,
+      683,
+      1444,
+      726
+    ],
+    "category": "Text",
+    "text": "Quăng đường từ vị trí bắt đầu giảm tốc đến trạm thu phí là $s_2 = 1000 - 500 = 500$ m."
+  },
+  {
+    "bbox": [
+      202,
+      743,
+      1273,
+      788
+    ],
+    "category": "Text",
+    "text": "b) Sai. Tại thời điểm bắt đầu giảm tốc ($t = 0$), tốc độ của ô tô là 25 m/s."
+  },
+  {
+    "bbox": [
+      202,
+      806,
+      1219,
+      847
+    ],
+    "category": "Text",
+    "text": "Thay vào công thức $v(t) = at + b$, ta có $v(0) = a \\cdot 0 + b = 25 \\Rightarrow b = 25$."
+  },
+  {
+    "bbox": [
+      202,
+      866,
+      1463,
+      910
+    ],
+    "category": "Text",
+    "text": "c) Đúng. Quăng đường đi được từ lúc giảm tốc đến trạm thu phí ($t = 0$ đến $t = 30$) là:"
+  },
+  {
+    "bbox": [
+      266,
+      967,
+      1432,
+      1164
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\ns_2 &= \\int_0^{30} v(t)dt = \\int_0^{30} (at + 25)dt = 500. \\\\\n\\Leftrightarrow \\left[ \\frac{at^2}{2} + 25t \\right]_0^{30} &= 500 \\Leftrightarrow \\frac{a \\cdot 30^2}{2} + 25 \\cdot 30 = 500 \\Leftrightarrow 450a + 750 = 500 \\Leftrightarrow a = -\\frac{5}{9}.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1180,
+      1055,
+      1223
+    ],
+    "category": "Text",
+    "text": "d) Đúng. Tốc độ của ô tô khi đến trạm thu phí ($t = 30$) là:"
+  },
+  {
+    "bbox": [
+      517,
+      1229,
+      1181,
+      1309
+    ],
+    "category": "Formula",
+    "text": "$$\nv(30) = -\\frac{5}{9} \\cdot 30 + 25 = -\\frac{50}{3} + 25 = \\frac{25}{3} \\text{ (m/s).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1322,
+      885,
+      1400
+    ],
+    "category": "Text",
+    "text": "Đổi tốc độ này sang km/h: $\\frac{25}{3} \\cdot 3,6 = 30 \\text{ km/h}$."
+  },
+  {
+    "bbox": [
+      202,
+      1411,
+      1510,
+      1455
+    ],
+    "category": "Text",
+    "text": "Vì tốc độ của xe đúng bằng 30 km/h nên người điều khiển ô tô đã tuân thủ đúng quy định."
+  },
+  {
+    "bbox": [
+      153,
+      1475,
+      1546,
+      1605
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hình hộchữ nhật $ABCD.A'B'C'D'$ có $AB = 4, AD = 3$ và $AA' = 12$. Chọn hệ trục tọa độ $Oxyz$ với gốc $O$ trùng với điểm $A'$; các tia $A'B', A'D', A'A$ lần lượt trùng với các tia $Ox, Oy, Oz$ (tham khảo hình vẽ). Gọi $M$ là trung điểm của đoạn thẳng $AB$."
+  },
+  {
+    "bbox": [
+      605,
+      1617,
+      1091,
+      2175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "54"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

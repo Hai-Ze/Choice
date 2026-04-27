@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      972,
+      156
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      212,
+      1327,
+      256
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô đi được trong 2 giây với vận tốc 36 km/h = 10 m/s là $2 \\cdot 10 = 20$ m"
+  },
+  {
+    "bbox": [
+      156,
+      276,
+      1097,
+      320
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được từ khi bắt đầu tăng tốc là $200 - 20 = 180$ m."
+  },
+  {
+    "bbox": [
+      156,
+      344,
+      1193,
+      394
+    ],
+    "category": "Text",
+    "text": "b) Ta có vận tốc của ô tô khi bắt đầu tăng tốc là $v(t) = at + b (a, b \\in \\mathbb{R}, a > 0)$."
+  },
+  {
+    "bbox": [
+      156,
+      420,
+      1226,
+      469
+    ],
+    "category": "Text",
+    "text": "Gọi $t = 0$ là thời điểm ô tô bắt đầu tăng tốc thì ta có $v(0) = 10$ m/s $\\Leftrightarrow b = 10$ (1)"
+  },
+  {
+    "bbox": [
+      156,
+      488,
+      1573,
+      535
+    ],
+    "category": "Text",
+    "text": "Ô tô nhập làn sau 12 giây tăng tốc nên ta có quăng đường ô tô đi được từ khi tăng tốc đến khi nhập làn"
+  },
+  {
+    "bbox": [
+      156,
+      555,
+      1077,
+      653
+    ],
+    "category": "Text",
+    "text": "được tính là $S = \\int_{0}^{12} v(t)dt = \\int_{0}^{12} (at + 10)dt = \\left(\\frac{at^2}{2} + 10t\\right)\\bigg|_{0}^{12} = 72a + 120$"
+  },
+  {
+    "bbox": [
+      156,
+      681,
+      552,
+      761
+    ],
+    "category": "Text",
+    "text": "Mà $S = 180$ nên ta có $a = \\frac{5}{6}$."
+  },
+  {
+    "bbox": [
+      156,
+      786,
+      413,
+      867
+    ],
+    "category": "Text",
+    "text": "Vậy $v(t) = \\frac{5}{6}t + 10$"
+  },
+  {
+    "bbox": [
+      156,
+      892,
+      1229,
+      973
+    ],
+    "category": "Text",
+    "text": "Vận tốc của ô tô tại thời điểm nhập làn là $v(12) = \\frac{5}{6} \\cdot 12 + 10 = 20$ m/s = 72 km/h."
+  },
+  {
+    "bbox": [
+      156,
+      991,
+      928,
+      1036
+    ],
+    "category": "Text",
+    "text": "c) Trước khi tăng tốc ô tô đi được 20 m trong 2 giây đầu."
+  },
+  {
+    "bbox": [
+      156,
+      1054,
+      1573,
+      1101
+    ],
+    "category": "Text",
+    "text": "Sau khi nhập làn ô tô duy trì sự tăng tốc trong 24 giây kể từ khi bắt đầu tăng tốc nên ta có quăng đường"
+  },
+  {
+    "bbox": [
+      156,
+      1118,
+      974,
+      1215
+    ],
+    "category": "Text",
+    "text": "ô tô đi được trong 24 giây đó là $S_1 = \\int_{0}^{24} \\left(\\frac{5}{6}t + 10\\right)dt = 480$ m."
+  },
+  {
+    "bbox": [
+      156,
+      1243,
+      1573,
+      1388
+    ],
+    "category": "Text",
+    "text": "Sau 24 giây từ khi tăng tốc ô tô duy trì vận tốc cao nhất là $v(24) = \\frac{5}{6} \\cdot 24 + 10 = 30$ m/s nên quăng đường đi được sau 4 giây tiếp theo là $30 \\cdot 4 = 120$ m."
+  },
+  {
+    "bbox": [
+      156,
+      1406,
+      1573,
+      1512
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ô tô đi được trong 30 giây kể từ khi ô tô cách điểm nhập làn 200 m là $20 + 480 + 120 = 620$ m."
+  },
+  {
+    "bbox": [
+      156,
+      1535,
+      1411,
+      1580
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc cao nhất của ô tô trong 5 giây là 30 m/s nên quăng đường đi được là $30 \\cdot 5 = 150$ m"
+  },
+  {
+    "bbox": [
+      156,
+      1604,
+      1426,
+      1662
+    ],
+    "category": "Text",
+    "text": "Vận tốc của ô tô chuyển động chậm dần đều do đạp phanh là $v(t) = \\int a(t)dt = \\int -3dt = -3t + C$"
+  },
+  {
+    "bbox": [
+      156,
+      1686,
+      1166,
+      1734
+    ],
+    "category": "Text",
+    "text": "Gọi thời điểm ô tô bắt đầu đạp phanh là $t = 0$ thì ta có $v(0) = 30 \\Rightarrow C = 30$."
+  },
+  {
+    "bbox": [
+      156,
+      1763,
+      509,
+      1808
+    ],
+    "category": "Text",
+    "text": "Nên ta có $v(t) = -3t + 30$."
+  },
+  {
+    "bbox": [
+      156,
+      1837,
+      860,
+      1884
+    ],
+    "category": "Text",
+    "text": "Khi ô tô停止 hắn $v(t) = 0 \\Leftrightarrow -3t + 30 = 0 \\Leftrightarrow t = 10$."
+  },
+  {
+    "bbox": [
+      156,
+      1911,
+      1335,
+      2009
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được kể từ khi đạp phanh là $S = \\int_{0}^{10} v(t)dt = \\int_{0}^{10} (-3t + 30)dt = 150$ m."
+  },
+  {
+    "bbox": [
+      156,
+      2034,
+      934,
+      2074
+    ],
+    "category": "Text",
+    "text": "Vậy ô tô停止 cách chướng ngại vật là $300 - 150 = 150$ m."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

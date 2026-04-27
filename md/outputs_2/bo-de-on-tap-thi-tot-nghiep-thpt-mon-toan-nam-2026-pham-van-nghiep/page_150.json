@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      200,
+      110,
+      1146,
+      166
+    ],
+    "category": "Text",
+    "text": "* Mặt cầu tâm $I_2$ bán kính $R=5$: $(x-4)^2+(y-9)^2+(z-3)^2 = 25$"
+  },
+  {
+    "bbox": [
+      200,
+      174,
+      1136,
+      227
+    ],
+    "category": "Text",
+    "text": "* Face of the sphere $I_3$ bán kính $R=4$: $(x-8)^2+(y-4)^2+(z-3)^2 = 16$"
+  },
+  {
+    "bbox": [
+      200,
+      235,
+      896,
+      475
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hệ} \\begin{cases} x^2 + y^2 + z^2 = 41 \\\\ (x-4)^2 + (y-4)^2 + (z-6)^2 = 9 \\\\ (x-4)^2 + (y-9)^2 + (z-3)^2 = 25 \\\\ (x-8)^2 + (y-4)^2 + (z-3)^2 = 16 \\end{cases} \\Leftrightarrow \\begin{cases} x = 4 \\\\ y = 4 \\\\ z = 3 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      200,
+      485,
+      427,
+      529
+    ],
+    "category": "Text",
+    "text": "Vậy : $A(4;4;3)$."
+  },
+  {
+    "bbox": [
+      200,
+      541,
+      332,
+      582
+    ],
+    "category": "Section-header",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      193,
+      586,
+      699,
+      628
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa An với Bình là:"
+  },
+  {
+    "bbox": [
+      200,
+      630,
+      775,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = \\sqrt{(4-4)^2 + (4-4)^2 + (3,01-3)^2} = 0,01\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      704,
+      677,
+      747
+    ],
+    "category": "Text",
+    "text": "Thời gian An đi đến nhà Bình là"
+  },
+  {
+    "bbox": [
+      197,
+      751,
+      650,
+      836
+    ],
+    "category": "Formula",
+    "text": "$$\nt = \\frac{AB}{v} = \\frac{0,01 \\cdot 10^3}{20} \\cdot 60 = 30 \\text{ (phút)}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      844,
+      1575,
+      1117
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một khinh khí cầu bay với độ cao (so với mực nước biển) tại thời điểm $t(0 \\le t \\le 29)$ là $h(t)$, trong đó $t$ tính bằng phút, $h(t)$ tính bằng mét. Tốc độ bay của khinh khí cầu được cho bởi hàm số $v(t) = at^2 + bt$ ($a, b \\in \\mathbb{R}$), với $t$ tính bằng phút, $v(t)$ tính bằng mét/phút. Tại thời điểm xuất phát, khinh khí cầu ở độ cao 520 m và 5 phút sau khi xuất phát, khinh khí cầu đã ở độ cao 530 m. Khinh khí cầu sẽ trở lại độ cao khi xuất phát sau 15 phút."
+  },
+  {
+    "bbox": [
+      211,
+      1119,
+      467,
+      1168
+    ],
+    "category": "Text",
+    "text": "a) $h(0) = 520$ m."
+  },
+  {
+    "bbox": [
+      211,
+      1181,
+      1276,
+      1276
+    ],
+    "category": "Text",
+    "text": "b) độ cao của khinh khí cầu tại thời điểm $t(0 \\le t \\le 29)$ là $h(t) = \\int_{0}^{t} v(t)dt$."
+  },
+  {
+    "bbox": [
+      211,
+      1283,
+      1516,
+      1327
+    ],
+    "category": "Text",
+    "text": "c) Giai đoạn khinh khí cầu tăng độ cao kéo dài trong 10 phút kể từ thời điểm xuất phát."
+  },
+  {
+    "bbox": [
+      211,
+      1330,
+      878,
+      1371
+    ],
+    "category": "Text",
+    "text": "d) độ cao tối đa của khinh khí cầu là 540 m."
+  },
+  {
+    "bbox": [
+      758,
+      1375,
+      878,
+      1416
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      200,
+      1422,
+      328,
+      1463
+    ],
+    "category": "Section-header",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      200,
+      1467,
+      1332,
+      1514
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm xuất phát, khinh khí cầu ở độ cao 520 m vậy nên $h(0) = 520$ m"
+  },
+  {
+    "bbox": [
+      205,
+      1525,
+      609,
+      1614
+    ],
+    "category": "Formula",
+    "text": "$$\ns(t) = \\int v(t)dt = \\frac{at^3}{3} + \\frac{bt^2}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      200,
+      1619,
+      1575,
+      1658
+    ],
+    "category": "Text",
+    "text": "Có hệ ba phương trình ba ẩn:"
+  },
+  {
+    "bbox": [
+      205,
+      1664,
+      1319,
+      1938
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} h(0) = 520 \\\\ h(5) = 530 \\\\ h(15) = 520 \\end{cases} \\Leftrightarrow \\begin{cases} C = 520 \\\\ \\frac{125}{3}a + \\frac{25}{2}b + C = 530 \\\\ \\frac{15^3}{3}a + \\frac{15^2}{2}b + C = 520 \\end{cases} \\Leftrightarrow \\begin{cases} a = -\\frac{3}{25} \\\\ b = \\frac{6}{5} \\\\ C = 520 \\end{cases} \\Rightarrow h(t) = -\\frac{3}{25}t^3 + \\frac{6}{5}t^2 + 520\n$$"
+  },
+  {
+    "bbox": [
+      200,
+      1948,
+      332,
+      1988
+    ],
+    "category": "Section-header",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      200,
+      1994,
+      1215,
+      2088
+    ],
+    "category": "Text",
+    "text": "Độ cao của khinh khí cầu tại thời điểm $t(0 \\le t \\le 29)$ là $h(t) = \\int_{0}^{t} v(t)dt$."
+  },
+  {
+    "bbox": [
+      200,
+      2098,
+      286,
+      2134
+    ],
+    "category": "Section-header",
+    "text": "c) Sai"
+  },
+  {
+    "bbox": [
+      205,
+      2142,
+      609,
+      2229
+    ],
+    "category": "Formula",
+    "text": "$$\ns(t) = \\int v(t)dt = \\frac{at^3}{3} + \\frac{bt^2}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      36,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      121,
+      935,
+      655
+    ],
+    "category": "Text",
+    "text": "Hai chiếc flycam được điều知道 cùng bay lên tại một địa điểm. Sau một thời gian bay, chiếc flycam thứ nhất bay đến vị trí điểm $A$ cách mặt đất 10 m, cách điểm xuất phát 5 m về phía nam và 3 m về phía đông. Chiес flycam thứ hai bay đến điểm $B$ cách mặt đất 12 m, cách điểm xuất phát 5 m về phía bắc và 5 m về phía Tây. Chọn hệ trục tọa độ $Oxyz$ với gốc $O$ đặt tại điểm xuất phát của hai chiếc flycam, mặt phẳng ($Oxy$) trùng với mặt đất (coi như phẳng) có trục $Ox$ hướng về phía nam, trục $Oy$."
+  },
+  {
+    "bbox": [
+      962,
+      137,
+      1544,
+      601
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      478,
+      660,
+      899,
+      699
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của điểm $A(5; 3; 10)$."
+  },
+  {
+    "bbox": [
+      478,
+      702,
+      1551,
+      868
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình đường thẳng đi qua vị trí của hai chiếc flycam tại $A$ và $B$ là\n$$ \\begin{cases} x = 5 + 10t \\\\ y = 3 + 8t \\\\ z = 10 - 2t \\end{cases} . $$"
+  },
+  {
+    "bbox": [
+      478,
+      871,
+      1354,
+      910
+    ],
+    "category": "List-item",
+    "text": "c) Мặt phẳng trung trực của đoạn thẳng $AB$ đi qua $M(2; -4; 9)$."
+  },
+  {
+    "bbox": [
+      478,
+      912,
+      1551,
+      1064
+    ],
+    "category": "List-item",
+    "text": "d) Trên mặt đất người ta đặt một thiết bị phá sóng flycam sao cho có thể phá sóng hai chiếc flycam tại hai vị trí $A$, $B$ cùng một lúc. Tổng khoảng cách ngắn nhất từ thiết bị đó đến hai chiếc flycam tại hai vị trí $A$ và $B$ (làm tròn đến hàng phần trăm) bằng 25,46 (m)."
+  },
+  {
+    "bbox": [
+      447,
+      1105,
+      1555,
+      1451
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong chain chuyền sản xuất sữa chua hiện đại của một nhà máy thực phẩm, từng giọt sữa đang âm thầm chuyển mình dưới tác động của hàng triệu vi�u Lactic, những “nghệ nhân tí hon” kiến tạo vị chua thanh đặc trung. Mật độ vi�u (số triệu tế bão trên mỗi ml sữa chua) tại thời điểm $t$ (giờ) được ký hiệu là $N(t)$. Ban đầu ($t = 0$ giờ), mật độ viju do được là $N(0) = 10$ triệu tế bão/ml. Do sự thay đổi về nguồn dinh dưỡng (đường lactose giảm) và độ pH (axit lactic tăng) nên tốc độ thay đổi mật độ viju $N'(t)$ (đơn vị: triệu tế bão/ml mỗi giờ) được mô hình hóa bởi công thức $N'(t) = 24t - 3t^2$ (triệu tế bào/ml/giờ) với $t$ là thời gian tính bằng giờ ($0 \\le t \\le 10$)."
+  },
+  {
+    "bbox": [
+      478,
+      1461,
+      948,
+      1500
+    ],
+    "category": "List-item",
+    "text": "a) $N'(1) = 21$ triệu tế bao/ml/giờ."
+  },
+  {
+    "bbox": [
+      478,
+      1500,
+      829,
+      1574
+    ],
+    "category": "List-item",
+    "text": "b) $\\int N'(t) dt = 12t^2 - t^3$."
+  },
+  {
+    "bbox": [
+      478,
+      1574,
+      1551,
+      1648
+    ],
+    "category": "List-item",
+    "text": "c) So với lúc ban đầu ($t = 0$), mật độ viju đã tăng thêm 36 triệu tế bao/ml khi đến thời điểm $t = 6$ giờ."
+  },
+  {
+    "bbox": [
+      478,
+      1650,
+      1551,
+      1727
+    ],
+    "category": "List-item",
+    "text": "d) At thời điểm $t = 10$ giờ, mật độ viju trong 1 ml sữa chua là 210 triệu tế bao/ml."
+  },
+  {
+    "bbox": [
+      447,
+      1770,
+      1555,
+      2001
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một công ty tổ chức chương trình bốc thăm trúng thưởng nhân迎dịp nghỉ lễ 30/4 và 1/5 cho 100 nhân viên. Trong集合 có 100 vé, trong đó có 4 vé trúng thưởng tour du lịch miễn phí ở Thái Lan, 10 vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng và 20 vé trúng thưởng tour du lịch miễn phí tại Cửa Lò (Nghệ An), các vé còn trúng thưởng năm triệu đồng. Lần lượt từng nhân viên lên bốc ngẫu nhiên một vé (không hoàn lại)."
+  },
+  {
+    "bbox": [
+      478,
+      2012,
+      1551,
+      2116
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng là $\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      478,
+      2114,
+      1551,
+      2250
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng là $\\frac{9}{100}$, biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "398 Bùi Tịnh Minh Lâm"
+  }
+]

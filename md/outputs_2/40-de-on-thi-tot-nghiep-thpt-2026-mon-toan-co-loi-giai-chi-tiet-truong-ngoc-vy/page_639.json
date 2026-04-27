@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      99,
+      955,
+      181
+    ],
+    "category": "Text",
+    "text": "Thể tích khối bê tông cần đổ là: $V = S.h = \\frac{2925}{2} \\cdot 0,16 = 234 (m^3)$."
+  },
+  {
+    "bbox": [
+      75,
+      196,
+      1091,
+      244
+    ],
+    "category": "Text",
+    "text": "Số tiền cần dùng để đổ bê tông con đường đó là: $234 \\cdot 1,08 \\approx 253$ triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      261,
+      1496,
+      544
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một công ty sản xuất dụng cụ thể thao nhận được một đơn đặt hàng sản xuất 8000 quả bóng pickleball. Công ty này sở hữu một số máy móc, mỗi máy có thể sản xuất 30 quả bóng trong một giờ. Chi phí thiết lập các máy này là 200 nghìn đồng cho mỗi máy. Khi được thiết lập, hoạt động sản xuất sẽ hoàn toàn diễn ra tự động dưới sự giám sát. Số tiền phải trả cho người giám sát là 192 nghìn đồng một giờ. Số máy móc công ty nên sử dụng là bao nhiêu để chi phí hoạt động là thấp nhất?"
+  },
+  {
+    "bbox": [
+      75,
+      560,
+      414,
+      597
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      619,
+      843,
+      658
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      676,
+      237,
+      716
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 16"
+  },
+  {
+    "bbox": [
+      75,
+      736,
+      654,
+      782
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số máy móc của công ty ($x \\in \\mathbb{Z}^+$)"
+  },
+  {
+    "bbox": [
+      75,
+      794,
+      573,
+      839
+    ],
+    "category": "Text",
+    "text": "Số quả bóng sản xuất mỗi giờ là $30x$"
+  },
+  {
+    "bbox": [
+      75,
+      859,
+      879,
+      944
+    ],
+    "category": "Text",
+    "text": "Số giờ hoàn thành 8000 quả bóng pickleball là $\\frac{8000}{30x} = \\frac{800}{3x}$"
+  },
+  {
+    "bbox": [
+      75,
+      965,
+      968,
+      1048
+    ],
+    "category": "Text",
+    "text": "Chi phí hoạt động là: $T = 200x + 192 \\cdot \\frac{800}{3x} = 200x + \\frac{51200}{x} \\quad (x > 0)$"
+  },
+  {
+    "bbox": [
+      75,
+      1073,
+      544,
+      1159
+    ],
+    "category": "Formula",
+    "text": "$$\nT' = 200 - \\frac{51200}{x^2} = \\frac{200x^2 - 51200}{x^2}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1182,
+      681,
+      1232
+    ],
+    "category": "Formula",
+    "text": "$$\nT' = 0 \\Leftrightarrow 200x^2 - 51200 = 0 \\Rightarrow x = 16 (x > 0)\n$$"
+  },
+  {
+    "bbox": [
+      86,
+      1259,
+      774,
+      1505
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1518,
+      456,
+      1562
+    ],
+    "category": "Text",
+    "text": "Chi phí thấp nhất khi $x = 16$"
+  },
+  {
+    "bbox": [
+      75,
+      1575,
+      969,
+      1621
+    ],
+    "category": "Text",
+    "text": "Vậy công ty nên sử dụng 16 máy để chi phí hoạt động là thấp nhất."
+  },
+  {
+    "bbox": [
+      75,
+      1635,
+      1494,
+      1746
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty $X$ có 2 phân xưởng $A, B$ cùng sản xuất 2 loại sản phẩm $M, N$. Số đơn vị sản phẩm các loại được sản xuất ra và chi phí mỗi giờ hoạt động của $A, B$ như sau:"
+  },
+  {
+    "bbox": [
+      133,
+      1766,
+      1435,
+      2010
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Phân xưởng 1</th><th>Phân xưởng 2</th></tr></thead><tbody><tr><td>Sản phẩm $M$</td><td>250</td><td>250</td></tr><tr><td>Sản phẩm $N$</td><td>100</td><td>200</td></tr><tr><td>Chi phí</td><td>600.000</td><td>1.000.000</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      75,
+      2065,
+      1494,
+      2228
+    ],
+    "category": "Text",
+    "text": "Công ty nhận được yêu cầu đặt hàng là 5000 đơn vị sản phẩm $M$ và 3000 đơn vị sản phẩm $N$. Công ty đã tìm được cách phân phối thời gian cho mỗi phân xưởng hoạt động thỏa mãn yêu cầu đơn đặt hàng và chi phí thấp nhất. Hỏi chi phí thấp nhất bằng bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

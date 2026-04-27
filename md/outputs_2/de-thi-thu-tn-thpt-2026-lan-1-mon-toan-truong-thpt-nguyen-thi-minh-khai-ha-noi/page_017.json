@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      638,
+      138,
+      1021,
+      490
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      774,
+      586,
+      888,
+      624
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      658,
+      868,
+      705
+    ],
+    "category": "Text",
+    "text": "Không gian mẫu của biến cố là: $C_{12}^4 \\cdot C_4^1 = 1980$"
+  },
+  {
+    "bbox": [
+      251,
+      728,
+      1539,
+      825
+    ],
+    "category": "Text",
+    "text": "Giả sử 4 số lấy ra bao gồm $a,b,c,M$ trong đó $M$ là số chính giữa và $a,b,c$ (giả sử $a < b < c$) là 3 số ở ba vòng tròn xung quanh, vì $a,b,c$ không phân biệt thứ tự nên theo yêu cầu bài toán ta"
+  },
+  {
+    "bbox": [
+      251,
+      835,
+      594,
+      932
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{có: } \\begin{cases} c+b < M < a+b+c \\\\ 3 < c+b < 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      954,
+      759,
+      998
+    ],
+    "category": "Text",
+    "text": "Ta xét các TH có thể xảy ra của số $M$"
+  },
+  {
+    "bbox": [
+      251,
+      1019,
+      1153,
+      1068
+    ],
+    "category": "Text",
+    "text": "TH1: $M \\in \\{1;2;3;4;5;6;7\\}$ thì không tồn tại các số $a,b,c$ thoả mãn"
+  },
+  {
+    "bbox": [
+      251,
+      1100,
+      1141,
+      1146
+    ],
+    "category": "Text",
+    "text": "TH2: $M = 8$. Ta có các bộ $(a;b;c)$ thoả mãn là: $(2;3;4)$. **Có 1 bộ**"
+  },
+  {
+    "bbox": [
+      251,
+      1177,
+      1134,
+      1223
+    ],
+    "category": "Text",
+    "text": "TH3: $M = 9$. Ta có các bộ $(a;b;c)$ thoả mãn là: $(2;3;9)$. **Có 1 bộ**"
+  },
+  {
+    "bbox": [
+      251,
+      1254,
+      1410,
+      1301
+    ],
+    "category": "Text",
+    "text": "TH4: $M = 10$. Ta có các bộ $(a;b;c)$ thoả mãn là: $(2;3;6)$, $(3;4;5)$, $(2;4;5)$. **Có 3 bộ**"
+  },
+  {
+    "bbox": [
+      251,
+      1332,
+      1496,
+      1378
+    ],
+    "category": "Text",
+    "text": "TH5: $M = 11$. Ta có các bộ $(a;b;c)$ thoả mãn là: $(2;3;7)$, $(2;4;6)$, $(3;4;5)$, $(3;4;6)$. **Có 4 bộ**"
+  },
+  {
+    "bbox": [
+      251,
+      1410,
+      1162,
+      1517
+    ],
+    "category": "Text",
+    "text": "TH6: $M = 12$. Ta có các bộ $(a;b;c)$ thoả mãn là:\n$(2;3;8)$, $(2;4;7)$, $(3;4;7)$, $(3;4;6)$, $(3;5;6)$, $(4;5;6)$, $(2,5,6)$. **Có 7 bộ**"
+  },
+  {
+    "bbox": [
+      251,
+      1549,
+      1076,
+      1630
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất của biến cố trên là: $P = \\frac{16}{1980}$. Vậy $1980P = 16$."
+  },
+  {
+    "bbox": [
+      114,
+      1656,
+      1549,
+      1909
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Trong không gian $Oxyz$, mặt đất là mặt phẳng $(Oxy)$, có hai trạm phát sóng trên không: trạm $A$ đặt trên không tại vị trí $A(1;1;3)$, trạm $B$ đặt trên không tại vị trí $(10;13;6)$. Trên mặt đất người ta cần đặt hai trạm thu tín hiệu $M$ và $N$ sao cho khoảng cách giữa hai trạm thu là cố định: $MN = 5$ và tổng chiều dài dây nối từ trạm $A$ đến $M$ và từ trạm $B$ đến $N$ là ngắn nhất. Khi đó, tổng hoành độ hai điểm $M$ và $N$ bằng bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      251,
+      1943,
+      403,
+      1980
+    ],
+    "category": "Text",
+    "text": "Đáp án: 9."
+  }
+]

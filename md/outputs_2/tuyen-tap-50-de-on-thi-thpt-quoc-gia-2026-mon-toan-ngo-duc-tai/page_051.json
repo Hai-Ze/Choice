@@ -1,0 +1,461 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      535,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      345,
+      211,
+      472,
+      253
+    ],
+    "category": "Text",
+    "text": "### ĐỀ SỐ 8"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 6 trang)"
+  },
+  {
+    "bbox": [
+      754,
+      153,
+      1340,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1507,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      193,
+      365,
+      1451,
+      483
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      193,
+      515,
+      1077,
+      562
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      421,
+      589,
+      1227,
+      846
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$1$</td><td>$2$</td><td>$1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      893,
+      1057,
+      939
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoàng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      958,
+      394,
+      999
+    ],
+    "category": "List-item",
+    "text": "A. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      525,
+      958,
+      696,
+      999
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      827,
+      958,
+      963,
+      999
+    ],
+    "category": "List-item",
+    "text": "C. $(0; 1)$."
+  },
+  {
+    "bbox": [
+      1128,
+      958,
+      1292,
+      999
+    ],
+    "category": "List-item",
+    "text": "D. $(-1; 0)$."
+  },
+  {
+    "bbox": [
+      193,
+      1027,
+      1203,
+      1074
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** He tất cả các nguyên hàm của hàm số $f(x) = 4x + \\sin x$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1089,
+      491,
+      1132
+    ],
+    "category": "List-item",
+    "text": "A. $2x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      525,
+      1089,
+      796,
+      1132
+    ],
+    "category": "List-item",
+    "text": "B. $2x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      827,
+      1089,
+      1088,
+      1132
+    ],
+    "category": "List-item",
+    "text": "C. $2x^2 - \\sin x + C$."
+  },
+  {
+    "bbox": [
+      1128,
+      1089,
+      1391,
+      1132
+    ],
+    "category": "List-item",
+    "text": "D. $2x^2 + \\sin x + C$."
+  },
+  {
+    "bbox": [
+      193,
+      1163,
+      1362,
+      1209
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Kết quả khảo sát cân nặng số táo ở lô hàng B được cho ở bảng sau"
+  },
+  {
+    "bbox": [
+      193,
+      1281,
+      1453,
+      1395
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng (g)</td><td>[150; 155)</td><td>[155; 160)</td><td>[160; 165)</td><td>[165; 170)</td><td>[170; 175)</td></tr><tr><td>Số quả táo ở lô hàng B</td><td>1</td><td>3</td><td>7</td><td>10</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      1422,
+      859,
+      1467
+    ],
+    "category": "Text",
+    "text": "Số táo được khảo sát trong bảng số liệu là"
+  },
+  {
+    "bbox": [
+      221,
+      1488,
+      302,
+      1525
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      525,
+      1488,
+      622,
+      1525
+    ],
+    "category": "List-item",
+    "text": "B. 25."
+  },
+  {
+    "bbox": [
+      827,
+      1488,
+      905,
+      1525
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1128,
+      1488,
+      1206,
+      1525
+    ],
+    "category": "List-item",
+    "text": "D. 5."
+  },
+  {
+    "bbox": [
+      193,
+      1558,
+      1453,
+      1658
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, cho mặt phẳng ($P$): $2x - 3y + 6z - 5 = 0$ và điểm $A(2; -3; 1)$. Một vecto pháp tuyến của mặt phẳng ($P$) là"
+  },
+  {
+    "bbox": [
+      221,
+      1677,
+      528,
+      1719
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n}_1 = (2; -3; -5)$."
+  },
+  {
+    "bbox": [
+      833,
+      1677,
+      1112,
+      1719
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n}_2 = (2; -3; 6)$."
+  },
+  {
+    "bbox": [
+      221,
+      1739,
+      501,
+      1781
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n}_3 = (2; 3; -5)$."
+  },
+  {
+    "bbox": [
+      833,
+      1739,
+      1112,
+      1781
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n}_4 = (2; -3; 5)$."
+  },
+  {
+    "bbox": [
+      193,
+      1805,
+      1377,
+      1881
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tìm tập nghiệm $S$ của bất phương trình $\\log_{\\frac{1}{5}}(x^2 - 1) < \\log_{\\frac{1}{5}}(3x - 3)$."
+  },
+  {
+    "bbox": [
+      221,
+      1893,
+      453,
+      1935
+    ],
+    "category": "List-item",
+    "text": "A. $S = (2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      833,
+      1893,
+      1203,
+      1935
+    ],
+    "category": "List-item",
+    "text": "B. $S = (-\\infty; 1) \\cup (2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      221,
+      1955,
+      622,
+      1997
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-\\infty; -1) \\cup (2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      833,
+      1955,
+      1033,
+      1997
+    ],
+    "category": "List-item",
+    "text": "D. $S = (1; 2)$."
+  },
+  {
+    "bbox": [
+      193,
+      2021,
+      709,
+      2078
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** $\\lim (-3n^3 + 2n^2 - 5)$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      2096,
+      328,
+      2133
+    ],
+    "category": "List-item",
+    "text": "A. $-3$."
+  },
+  {
+    "bbox": [
+      525,
+      2096,
+      632,
+      2133
+    ],
+    "category": "List-item",
+    "text": "B. $-6$."
+  },
+  {
+    "bbox": [
+      827,
+      2096,
+      939,
+      2133
+    ],
+    "category": "List-item",
+    "text": "C. $-\\infty$."
+  },
+  {
+    "bbox": [
+      1128,
+      2096,
+      1242,
+      2133
+    ],
+    "category": "List-item",
+    "text": "D. $+\\infty$."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      497,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1453,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

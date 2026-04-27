@@ -1,0 +1,441 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      274,
+      156,
+      536,
+      202
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      210,
+      481,
+      254
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 42"
+  },
+  {
+    "bbox": [
+      271,
+      266,
+      546,
+      313
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      753,
+      154,
+      1341,
+      202
+    ],
+    "category": "Section-header",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      957,
+      212,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      266,
+      1507,
+      313
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      362,
+      1452,
+      482
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      513,
+      899,
+      561
+    ],
+    "category": "Text",
+    "text": "Câu 1. Nguyên hàm của hàm số $f(x) = ex$ là"
+  },
+  {
+    "bbox": [
+      221,
+      563,
+      434,
+      645
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{ex+1}{x+1}+C$."
+  },
+  {
+    "bbox": [
+      524,
+      585,
+      678,
+      624
+    ],
+    "category": "List-item",
+    "text": "B. $ex+C$."
+  },
+  {
+    "bbox": [
+      827,
+      566,
+      982,
+      645
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{ex}{x}+C$."
+  },
+  {
+    "bbox": [
+      1128,
+      585,
+      1349,
+      624
+    ],
+    "category": "List-item",
+    "text": "D. $xex-1+C$."
+  },
+  {
+    "bbox": [
+      192,
+      656,
+      1455,
+      860
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ liên tục, nhận giá trị dương trên đoạn $[a; b]$. Xét hình phẳng ($H$) giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$. Khối tròn xoay được tạo thành khi quay hình phẳng ($H$) quanh trục $Ox$ có thể tích là"
+  },
+  {
+    "bbox": [
+      221,
+      865,
+      528,
+      989
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\pi \\int_{a}^{b} |f(x)|dx$."
+  },
+  {
+    "bbox": [
+      833,
+      865,
+      1134,
+      989
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\pi^2 \\int_{a}^{b} f(x)dx$."
+  },
+  {
+    "bbox": [
+      221,
+      997,
+      560,
+      1122
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\pi^2 \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      833,
+      997,
+      1155,
+      1122
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\pi \\int_{a}^{b} [f(x)]^2 dx$."
+  },
+  {
+    "bbox": [
+      192,
+      1135,
+      1446,
+      1182
+    ],
+    "category": "Text",
+    "text": "Câu 3. Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      363,
+      1195,
+      1274,
+      1424
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">M<sub>1</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>3</td><td>4</td><td>8</td><td>6</td><td>4</td></tr><tr><td rowspan=\"2\">M<sub>2</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>6</td><td>8</td><td>16</td><td>12</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1439,
+      1455,
+      1539
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1560,
+      382,
+      1600
+    ],
+    "category": "List-item",
+    "text": "A. $s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      524,
+      1560,
+      701,
+      1600
+    ],
+    "category": "List-item",
+    "text": "B. $s_1 = 2s_2$."
+  },
+  {
+    "bbox": [
+      827,
+      1560,
+      1004,
+      1600
+    ],
+    "category": "List-item",
+    "text": "C. $2s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      1128,
+      1560,
+      1305,
+      1600
+    ],
+    "category": "List-item",
+    "text": "D. $4s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      192,
+      1626,
+      1455,
+      1726
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của đường thẳng đi qua điểm $M(1; -3; 5)$ và có một véc-tơ chỉ phương $\\vec{u}(2; -1; 1)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1730,
+      593,
+      1811
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z-5}{1}$."
+  },
+  {
+    "bbox": [
+      833,
+      1730,
+      1203,
+      1811
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x-1}{2} = \\frac{y-3}{-1} = \\frac{z+5}{1}$."
+  },
+  {
+    "bbox": [
+      221,
+      1815,
+      593,
+      1896
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x-1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}$."
+  },
+  {
+    "bbox": [
+      833,
+      1815,
+      1203,
+      1896
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x+1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}$."
+  },
+  {
+    "bbox": [
+      192,
+      1908,
+      1125,
+      1956
+    ],
+    "category": "Text",
+    "text": "Câu 5. Tập nghiệm của bất phương trình $\\log_2(x-1) < 3$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1974,
+      359,
+      2014
+    ],
+    "category": "List-item",
+    "text": "A. $(1; 9)$."
+  },
+  {
+    "bbox": [
+      524,
+      1974,
+      697,
+      2014
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 9)$."
+  },
+  {
+    "bbox": [
+      827,
+      1974,
+      998,
+      2014
+    ],
+    "category": "List-item",
+    "text": "C. $(9; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1974,
+      1267,
+      2014
+    ],
+    "category": "List-item",
+    "text": "D. $(1; 7)$."
+  },
+  {
+    "bbox": [
+      192,
+      2043,
+      1455,
+      2141
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $SA \\perp (ABCD)$. Мặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?"
+  },
+  {
+    "bbox": [
+      221,
+      2160,
+      371,
+      2200
+    ],
+    "category": "List-item",
+    "text": "A. $(SAB)$."
+  },
+  {
+    "bbox": [
+      524,
+      2160,
+      676,
+      2200
+    ],
+    "category": "List-item",
+    "text": "B. $(SBC)$."
+  },
+  {
+    "bbox": [
+      827,
+      2160,
+      978,
+      2200
+    ],
+    "category": "List-item",
+    "text": "C. $(SCD)$."
+  },
+  {
+    "bbox": [
+      1128,
+      2160,
+      1281,
+      2200
+    ],
+    "category": "List-item",
+    "text": "D. $(SBD)$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

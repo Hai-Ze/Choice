@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      108,
+      769,
+      158
+    ],
+    "category": "Text",
+    "text": "$\\Delta ABC$ vuông cân tại $B$ nên $AC = 2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      166,
+      782,
+      219
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } CD = \\sqrt{CI^2 + ID^2} = \\sqrt{4+16} = 2\\sqrt{5}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      231,
+      1508,
+      318
+    ],
+    "category": "Text",
+    "text": "Do hai tam giác $IDC$ và $EDA$ đồng dạng nên $AE.CD = CI.AD \\Rightarrow AE = \\frac{CI.AD}{CD} = \\frac{2.6}{2\\sqrt{5}} = \\frac{6}{\\sqrt{5}}$."
+  },
+  {
+    "bbox": [
+      212,
+      331,
+      861,
+      374
+    ],
+    "category": "Text",
+    "text": "Xét $\\Delta SAE$ vuông tại $S$, có $AK$ là đường cao."
+  },
+  {
+    "bbox": [
+      216,
+      385,
+      1062,
+      556
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(A,(SCD)) = AK = \\frac{SA.AE}{\\sqrt{SA^2 + AE^2}} = \\frac{2\\sqrt{3} \\cdot \\frac{6}{\\sqrt{5}}}{\\frac{4\\sqrt{30}}{5}} = \\frac{3\\sqrt{2}}{2} \\approx 2,12\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      570,
+      1576,
+      1203
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** [Mức độ 4]. Để chuẩn bị cho bạn An nhập học đại học vào đầu tháng 9/2024, gia đình bạn ấy đã đăng ký mở một thẻ tín dụng tại ngân hàng $X$ vào ngày 25/8/2024 với hạn mức 100 triệu đồng, trong đó có thể rút tiền mặt tới 50 triệu đồng và sử dụng thẻ để mua sắm tới 50 triệu đồng; mức lãi suất cho vay thẻ tín dụng là 13%/năm, thẻ tín dụng này có thời gian miễn lãi là 45 ngày khi sử dụng thẻ để mua sắm tiêu dùng, chu kì thanh toán là từ 25/8 đến 25/9 và hạn thanh toán là ngày 10/10 cùng năm. Nếu không thanh toán đúng hạn thì sẽ bị tính phí trả chậm là 5% tổng dư nợ và tính lãi của các khoản dư nợ từ ngày phát sinh dư nợ đến hết ngày khách hàng thanh toán cho ngân hàng với lãi suất gấp 1,5 lần lãi suất niêm yết khi mở thẻ. Ngày 01/9/2024, An mua laptop, điện thoại, máy in, tai nghe hết 20 triệu đồng. Ngày 05/9/2024, An mua đồ dùng sinh hoạt, sách vở, quần áo hết 12 triệu đồng. Do sơ xuất nên đến ngày 10/10/2024, gia đình An chưa thanh toán bất kỳ khoản nào. Đến ngày 20/10/2024 gia đình An mới thanh toán toàn bộ dư nợ cho ngân hàng. Tổng số tiền lãi và phí trả chậm mà gia đình bạn An phải trả do thanh toán không đúng hạn là bao nhiêu nghìn đồng? (kết quả cuối cùng làm tròn đến hàng đơn vị, một năm tính là 365 ngày)."
+  },
+  {
+    "bbox": [
+      212,
+      1205,
+      418,
+      1247
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2429."
+  },
+  {
+    "bbox": [
+      833,
+      1251,
+      953,
+      1292
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1296,
+      1127,
+      1337
+    ],
+    "category": "Text",
+    "text": "Giao dịch ngày 01/09/2024 cho tới ngày 20/10/2024 có 50 ngày."
+  },
+  {
+    "bbox": [
+      212,
+      1341,
+      1127,
+      1383
+    ],
+    "category": "Text",
+    "text": "Giao dịch ngày 05/09/2024 cho tới ngày 20/10/2024 có 46 ngày."
+  },
+  {
+    "bbox": [
+      212,
+      1385,
+      547,
+      1426
+    ],
+    "category": "Text",
+    "text": "Lãi suất niêm yết 13%."
+  },
+  {
+    "bbox": [
+      212,
+      1428,
+      621,
+      1471
+    ],
+    "category": "Text",
+    "text": "Lãi trễ hạn $1,5 \\cdot 13\\% = 19,5\\%$."
+  },
+  {
+    "bbox": [
+      212,
+      1479,
+      902,
+      1521
+    ],
+    "category": "Text",
+    "text": "Lãi suất hàng ngày $19,5\\% : 365 = 0,0005342466$."
+  },
+  {
+    "bbox": [
+      212,
+      1530,
+      338,
+      1565
+    ],
+    "category": "Text",
+    "text": "Tính lãi:"
+  },
+  {
+    "bbox": [
+      212,
+      1573,
+      1042,
+      1615
+    ],
+    "category": "Text",
+    "text": "Khoản 20 triệu $20000000 \\cdot 0,0005342466.50 = 534245$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      1623,
+      1042,
+      1665
+    ],
+    "category": "Text",
+    "text": "Khoản 12 triệu $12000000 \\cdot 0,0005342466.46 = 294904$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      1671,
+      814,
+      1714
+    ],
+    "category": "Text",
+    "text": "Tổng lãi: $534245 + 294904 = 829151$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      1719,
+      1033,
+      1764
+    ],
+    "category": "Text",
+    "text": "Phí trả chậm $5\\% \\cdot (20000000 + 12000000) = 1600000$ đồng."
+  },
+  {
+    "bbox": [
+      212,
+      1776,
+      612,
+      1818
+    ],
+    "category": "Text",
+    "text": "Tổng lãi và phí trả chậm là"
+  },
+  {
+    "bbox": [
+      216,
+      1821,
+      691,
+      1863
+    ],
+    "category": "Formula",
+    "text": "$$\n829151 + 1600000 = 2429151 \\text{ đồng}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1866,
+      589,
+      1908
+    ],
+    "category": "Text",
+    "text": "Đáp số: 2429 nghìn đồng."
+  },
+  {
+    "bbox": [
+      74,
+      1910,
+      1576,
+      2173
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Nếu một điện trở $R$ được nối với một ắc-quy có suất điện động $E$ và điện trở trong $r$ thì công suất tiêu pun trên điện trở $R$ là $P = \\frac{E^2 R}{(R+r)^2}$, trong đó $R, r$ được tính bằng ôm ($\\Omega$), $E$ được tính bằng vôn ($V$) và $P$ được tính bằng oát ($W$). Cho $E = 12(V)$ và $r = 2(\\Omega)$, còn $R$ biến thiên thì công suất $P$ đạt giá trị cực đại bằng bao nhiêu $W$?"
+  },
+  {
+    "bbox": [
+      833,
+      2176,
+      953,
+      2217
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

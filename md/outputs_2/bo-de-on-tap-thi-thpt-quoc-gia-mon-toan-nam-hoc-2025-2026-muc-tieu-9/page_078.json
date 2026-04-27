@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1546,
+      225
+    ],
+    "category": "Text",
+    "text": "vị trí camera cách điểm $H$ một khoảng tối thiểu bằng bao nhiêu mét để có thể ghi lại hình ảnh toàn bộ hồ nước khi cạn?"
+  },
+  {
+    "bbox": [
+      501,
+      268,
+      1146,
+      781
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      829,
+      1546,
+      973
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Để nhìn được toàn bộ hồ thì $Q$ phải nằm trên tiếp tuyến tại điểm có độ dốc (hệ số góc) lớn nhất. Và với hàm số bậc ba, điểm mà cho tiếp tuyến có hệ số góc lớn nhất là điểm uốn."
+  },
+  {
+    "bbox": [
+      195,
+      1004,
+      1111,
+      1045
+    ],
+    "category": "Text",
+    "text": "◇ Bước 1: Tìm các hệ số $a, b$ để viết phương trình hàm số $f(x)$."
+  },
+  {
+    "bbox": [
+      235,
+      1054,
+      804,
+      1134
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f(x) = ax^3 - bx^2 = ax^2 \\left(x - \\frac{b}{a}\\right).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1148,
+      881,
+      1191
+    ],
+    "category": "Text",
+    "text": "Vì $P(9; 0)$ thuộc vào đồ thị hàm số $f(x)$ nên:"
+  },
+  {
+    "bbox": [
+      235,
+      1202,
+      1007,
+      1282
+    ],
+    "category": "Formula",
+    "text": "$$\nf(9) = 0 \\Leftrightarrow a \\cdot 9^2 \\left(9 - \\frac{b}{a}\\right) = 0 \\Leftrightarrow 9 - \\frac{b}{a} = 0 \\Leftrightarrow \\frac{b}{a} = 9.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1293,
+      605,
+      1335
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } f(x) = ax^2(x - 9).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1351,
+      1546,
+      1436
+    ],
+    "category": "Text",
+    "text": "Tiếp đến, ta sẽ dựa vào dữ kiện: \"hồ có độ sâu lớn nhất bằng 6 mét\" tức $y_{CT} = \\min_{[0;9]} f(x) = -6$ để xác định hệ số $a, b$."
+  },
+  {
+    "bbox": [
+      235,
+      1452,
+      854,
+      1495
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = a(3x^2 - 18x) = a \\cdot 3x(x - 6);\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1507,
+      740,
+      1605
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x - 6 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = 6 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1616,
+      1335,
+      1700
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } y_{CT} = \\min_{[0;9]} f(6) = -6 \\Leftrightarrow a \\cdot 6^2(6 - 9) = -6 \\Leftrightarrow a = \\frac{-6}{6^2(6 - 9)} = \\frac{1}{18}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1708,
+      797,
+      1787
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow f(x) = \\frac{1}{18}x^2(x - 9) = \\frac{1}{18}(x^3 - 9x^2).\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1794,
+      1181,
+      1836
+    ],
+    "category": "Text",
+    "text": "◇ Bước 2: Tìm vị trí đặt camera cách điểm $H$ một khoảng tối thiểu."
+  },
+  {
+    "bbox": [
+      235,
+      1843,
+      651,
+      1922
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f''(x) = \\frac{1}{18} \\cdot (6x - 18).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1927,
+      1538,
+      2006
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Điểm uốn của hàm số là } x = x_0 \\text{ thỏa mãn: } f''(x_0) = 0 \\Leftrightarrow \\frac{1}{18} \\cdot (6x_0 - 18) = 0 \\Leftrightarrow x = x_0 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      2013,
+      1381,
+      2055
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình tiếp tuyến tại điểm có hoành độ } x_0 = 3 \\text{ là: } y = f'(3)(x - 3) + f(3)\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      2064,
+      1004,
+      2145
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = -\\frac{3}{2}(x - 3) - 3 \\quad (\\text{với } f'(3) = -\\frac{3}{2}; f(3) = -3)\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      2155,
+      774,
+      2235
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = -\\frac{3}{2}x + \\frac{9}{2} - 3 = -\\frac{3}{2}x + \\frac{3}{2} \\quad (d)\n$$"
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "78"
+  },
+  {
+    "bbox": [
+      829,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

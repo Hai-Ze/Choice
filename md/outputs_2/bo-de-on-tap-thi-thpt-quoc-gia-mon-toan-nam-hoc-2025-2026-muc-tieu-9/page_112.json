@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1226,
+      182
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hình lăng trụ $ABC.A'B'C'$. Phát biểu nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      681,
+      194,
+      1019,
+      472
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      552,
+      513,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{A'A}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      552,
+      1192,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC}.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      598,
+      523,
+      647
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{C'B'}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      598,
+      1199,
+      647
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC'}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      643,
+      1288,
+      708
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{A'C'} = \\overrightarrow{AC}$. Khi đó $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BA} + \\overrightarrow{AC} = \\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      153,
+      719,
+      1117,
+      799
+    ],
+    "category": "Text",
+    "text": "Câu 12. Đồ thị hàm số $y = \\frac{2x + 1}{2 - x}$ có đường tiệm cận ngang là"
+  },
+  {
+    "bbox": [
+      191,
+      811,
+      359,
+      853
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad y = -2.\n$$"
+  },
+  {
+    "bbox": [
+      535,
+      811,
+      703,
+      853
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x = -2.\n$$"
+  },
+  {
+    "bbox": [
+      879,
+      811,
+      1021,
+      853
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad y = 1.\n$$"
+  },
+  {
+    "bbox": [
+      1224,
+      811,
+      1368,
+      853
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x = 2.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      868,
+      1156,
+      932
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tiệm cận ngang là $y = \\lim_{x \\to \\infty} \\frac{2x+1}{-x+2} = \\frac{2}{-1} = -2$."
+  },
+  {
+    "bbox": [
+      153,
+      946,
+      1547,
+      1032
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      1053,
+      1547,
+      1138
+    ],
+    "category": "Text",
+    "text": "Bài 1. Qua khảo sát, thời gian hoàn thành một bài thi thử tốt nghiệp của một số học sinh lớp 12 của trường Y được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      383,
+      1144,
+      1311,
+      1260
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (pht)</td><td>[65; 70)</td><td>[70; 75)</td><td>[75; 80)</td><td>[80; 85)</td><td>[85; 90]</td></tr><tr><td>Số học sinh</td><td>5</td><td>13</td><td>18</td><td>35</td><td>31</td></tr></table>"
+  },
+  {
+    "bbox": [
+      188,
+      1286,
+      931,
+      1327
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu trên bằng 20."
+  },
+  {
+    "bbox": [
+      188,
+      1341,
+      1544,
+      1383
+    ],
+    "category": "List-item",
+    "text": "b) Tứ phân vị $Q_3$ của mẫu số liệu trên bằng 85, 9. (kết quả làm tròn đến một chữ số thập phân)"
+  },
+  {
+    "bbox": [
+      188,
+      1397,
+      1518,
+      1439
+    ],
+    "category": "List-item",
+    "text": "c) Phương sai của mẫu số liệu trên bằng 34, 2. (kết quả làm tròn đến một chữ số thập phân)"
+  },
+  {
+    "bbox": [
+      188,
+      1453,
+      1547,
+      1539
+    ],
+    "category": "List-item",
+    "text": "d) Số học sinh có thời gian làm bài từ 65 phút đến dưới 75 phút chiếm tỉ lệ là 17,6%. (kết quả làm tròn đến một chữ số thập phân)"
+  },
+  {
+    "bbox": [
+      153,
+      1554,
+      1500,
+      1618
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tổng số học sinh tham gia khảo sát là: $n = 5 + 13 + 18 + 35 + 31 = 102$."
+  },
+  {
+    "bbox": [
+      153,
+      1632,
+      1547,
+      1716
+    ],
+    "category": "Text",
+    "text": "a) Sai. Khoảng biến thiên $R$ của mẫu số liệu ghép nhóm là hiệu giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên:"
+  },
+  {
+    "bbox": [
+      718,
+      1734,
+      975,
+      1770
+    ],
+    "category": "Formula",
+    "text": "$$\nR = 90 - 65 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1784,
+      585,
+      1825
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định $R = 20$ là sai."
+  },
+  {
+    "bbox": [
+      202,
+      1841,
+      1015,
+      1893
+    ],
+    "category": "Text",
+    "text": "b) Đúng. Ta có $\\frac{3n}{4} = \\frac{3 \\cdot 102}{4} = 76,5$. Bảng tần số tích lũy:"
+  },
+  {
+    "bbox": [
+      350,
+      1897,
+      1348,
+      2069
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian</td><td>[65; 70)</td><td>[70; 75)</td><td>[75; 80)</td><td>[80; 85)</td><td>[85; 90]</td></tr><tr><td>Số học sinh ($n_i$)</td><td>5</td><td>13</td><td>18</td><td>35</td><td>31</td></tr><tr><td>Tần số tích lũy ($cf_i$)</td><td>5</td><td>18</td><td>36</td><td>71</td><td>102</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      2079,
+      1547,
+      2121
+    ],
+    "category": "Text",
+    "text": "Vì $cf_4 = 71 < 76,5 \\le cf_5 = 102$ nên nhóm chứa tứ phân vị thứ ba $Q_3$ là [85; 90]. Ta có:"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "112"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

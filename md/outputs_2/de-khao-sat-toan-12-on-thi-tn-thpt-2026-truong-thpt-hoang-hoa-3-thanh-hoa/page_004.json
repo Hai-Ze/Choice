@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      196,
+      108,
+      1544,
+      200
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      196,
+      218,
+      794,
+      314
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x) = \\tan\\left(x - \\frac{2\\pi}{3}\\right)$"
+  },
+  {
+    "bbox": [
+      335,
+      326,
+      1191,
+      437
+    ],
+    "category": "Formula",
+    "text": "a) Đạo hàm của hàm số đã cho là $f'(x) = \\frac{3}{\\cos^2 x(1 - \\sqrt{3} \\tan x)^2}$"
+  },
+  {
+    "bbox": [
+      335,
+      446,
+      860,
+      540
+    ],
+    "category": "Formula",
+    "text": "b) Với $x = 0$ thì $\\frac{\\sqrt{3}}{4} \\cdot f'(x) - f(x) = 0$"
+  },
+  {
+    "bbox": [
+      335,
+      556,
+      1100,
+      636
+    ],
+    "category": "Formula",
+    "text": "c) Phương trình $f(x) = 0$ có nghiệm âm lớn nhất là $-\\frac{\\pi}{3}$"
+  },
+  {
+    "bbox": [
+      335,
+      646,
+      1056,
+      738
+    ],
+    "category": "Formula",
+    "text": "d) Gọi $M$ là giá trị lớn nhất của $\\frac{1}{f'(x)}$ thì $M \\in (0;1)$"
+  },
+  {
+    "bbox": [
+      196,
+      763,
+      1625,
+      871
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một vật chuyển động đều với vận tốc có phương trình $v(t) = t^2 - 2t + 1$, trong đó $t$ được tính bằng giây, quăng đường $s(t)$ được tính bằng mét."
+  },
+  {
+    "bbox": [
+      335,
+      887,
+      1065,
+      970
+    ],
+    "category": "Formula",
+    "text": "a) Quăng đường đi được của vật sau 2 giây là: $\\frac{2}{3}(m)$"
+  },
+  {
+    "bbox": [
+      335,
+      982,
+      1144,
+      1065
+    ],
+    "category": "Formula",
+    "text": "b) Quăng đường vật đi được khi gia tốc bị triệt tiêu là $\\frac{1}{3}(m)$"
+  },
+  {
+    "bbox": [
+      335,
+      1071,
+      1599,
+      1220
+    ],
+    "category": "Formula",
+    "text": "c) Quăng đường vật đi được trong khoảng từ 2 giây đến thời gian mà vận tốc đạt $9(m/s)$ là: $\\frac{26}{3}(m)$"
+  },
+  {
+    "bbox": [
+      335,
+      1228,
+      1559,
+      1285
+    ],
+    "category": "Formula",
+    "text": "d) Quăng đường vật đi được từ 0 giây đến thời gian mà gia tốc bằng $10(m/s^2)$ là $44(m)$"
+  },
+  {
+    "bbox": [
+      196,
+      1311,
+      1625,
+      1446
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Giả sử 5% email của bạn nhận được là email rác. Bạn sử dụng một hệ thống lọc email rác mà khả năng lọc đúng email rác của hệ thống này là 95% và có 10% những email không phải là email rác nhưng vẫn bị lọc."
+  },
+  {
+    "bbox": [
+      335,
+      1446,
+      938,
+      1492
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất nhận được một email rác là 0,05"
+  },
+  {
+    "bbox": [
+      335,
+      1499,
+      868,
+      1544
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất bị lọc của email rác là 0,93"
+  },
+  {
+    "bbox": [
+      335,
+      1552,
+      1582,
+      1598
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất chọn một email trong số những email bị lọc bất kể có là rác hay không là 0,1425"
+  },
+  {
+    "bbox": [
+      335,
+      1610,
+      1442,
+      1694
+    ],
+    "category": "Formula",
+    "text": "d) Xác suất chọn một email trong số những email bị lọc thực sự là email rác là $\\frac{7}{19}$"
+  },
+  {
+    "bbox": [
+      196,
+      1736,
+      1625,
+      2021
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một sân vận động với sân bóng phẳng hình chữ nhật có chấm trắng trung tâm là nơi giao bóng, một đường kẻ vạch chia đôi sân và các khán đài. Khán đài A gồm những dãy ghế nằm vuông góc với vạch chia hai sân có độ cao tăng dần (các ghế cùng hàng thì cùng độ cao so với mặt sân). Chọn hệ trục tọa độ $Oxyz$ sao cho $O$ trùng với điểm giao bóng, mặt phẳng $Oxy$ trùng với mặt sân, trục $Ox$ trùng với vạch chia hai sân, tia $Oz$ vuông góc với mặt sân (đơn vị đo lấy theo mét)."
+  }
+]

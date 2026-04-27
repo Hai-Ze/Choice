@@ -1,0 +1,482 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      94,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      199,
+      1072,
+      282
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Hàm số $y = \\frac{x+2}{1-x}$ đồng biến trên các khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      205,
+      304,
+      378,
+      341
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      555,
+      304,
+      725,
+      341
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      906,
+      304,
+      1042,
+      341
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 1)$"
+  },
+  {
+    "bbox": [
+      1255,
+      304,
+      1398,
+      341
+    ],
+    "category": "List-item",
+    "text": "D. $(0; +\\infty)$"
+  },
+  {
+    "bbox": [
+      807,
+      368,
+      924,
+      406
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      427,
+      279,
+      465
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      485,
+      694,
+      534
+    ],
+    "category": "Text",
+    "text": "Tập xác định của hàm số là $D = \\mathbb{R} \\setminus \\{1\\}$."
+  },
+  {
+    "bbox": [
+      155,
+      562,
+      565,
+      656
+    ],
+    "category": "Text",
+    "text": "Ta có: $y' = \\frac{3}{(1-x)^2} > 0 \\forall x \\in D$"
+  },
+  {
+    "bbox": [
+      155,
+      678,
+      882,
+      724
+    ],
+    "category": "Text",
+    "text": "Hàm số đồng biến trên các khoảng $(-\\infty; 1)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      155,
+      748,
+      888,
+      845
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nếu $\\int_{0}^{2} f(x) dx = 5$ thì $\\int_{0}^{2} [2f(x) - 1] dx$ bằng:"
+  },
+  {
+    "bbox": [
+      195,
+      871,
+      274,
+      906
+    ],
+    "category": "List-item",
+    "text": "A. 8."
+  },
+  {
+    "bbox": [
+      549,
+      871,
+      627,
+      906
+    ],
+    "category": "List-item",
+    "text": "B. 9."
+  },
+  {
+    "bbox": [
+      864,
+      871,
+      958,
+      906
+    ],
+    "category": "List-item",
+    "text": "C. 10."
+  },
+  {
+    "bbox": [
+      1255,
+      871,
+      1348,
+      906
+    ],
+    "category": "List-item",
+    "text": "D. 12."
+  },
+  {
+    "bbox": [
+      807,
+      929,
+      924,
+      967
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      987,
+      279,
+      1025
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1044,
+      882,
+      1140
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int_{0}^{2} [2f(x) - 1] dx = 2\\int_{0}^{2} f(x) dx - \\int_{0}^{2} dx = 2.5 - 2 = 8$"
+  },
+  {
+    "bbox": [
+      155,
+      1166,
+      1292,
+      1215
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho cấp số cộng $(u_n)$ có số hạng đầu $u_3 = -1$ và $u_4 = 2$. Công sai $d$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1243,
+      284,
+      1278
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      555,
+      1243,
+      649,
+      1278
+    ],
+    "category": "List-item",
+    "text": "B. -3."
+  },
+  {
+    "bbox": [
+      906,
+      1243,
+      980,
+      1278
+    ],
+    "category": "List-item",
+    "text": "C. 5."
+  },
+  {
+    "bbox": [
+      1255,
+      1243,
+      1336,
+      1278
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      807,
+      1301,
+      924,
+      1339
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1360,
+      279,
+      1398
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1419,
+      461,
+      1459
+    ],
+    "category": "Text",
+    "text": "Ta có: $d = u_4 - u_3 = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1485,
+      779,
+      1525
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Phương trình $\\sin x = 0$ có nghiệm là:"
+  },
+  {
+    "bbox": [
+      205,
+      1553,
+      536,
+      1627
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      906,
+      1568,
+      1157,
+      1603
+    ],
+    "category": "List-item",
+    "text": "B. $x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      205,
+      1672,
+      478,
+      1709
+    ],
+    "category": "List-item",
+    "text": "C. $x = k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      906,
+      1659,
+      1214,
+      1733
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      807,
+      1758,
+      924,
+      1796
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1817,
+      279,
+      1855
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      1872,
+      508,
+      1909
+    ],
+    "category": "Text",
+    "text": "$\\sin x = 0 \\Leftrightarrow x = k\\pi, k \\in \\mathbb{Z}$"
+  },
+  {
+    "bbox": [
+      155,
+      1939,
+      926,
+      1984
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập nghiệm của bất phương trình $2^{2x} < 2^{x+6}$ là:"
+  },
+  {
+    "bbox": [
+      205,
+      2007,
+      368,
+      2056
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; 6)$"
+  },
+  {
+    "bbox": [
+      555,
+      2007,
+      689,
+      2056
+    ],
+    "category": "List-item",
+    "text": "B. $(0; 64)$"
+  },
+  {
+    "bbox": [
+      906,
+      2007,
+      1070,
+      2056
+    ],
+    "category": "List-item",
+    "text": "C. $(6; +\\infty)$"
+  },
+  {
+    "bbox": [
+      1255,
+      2007,
+      1372,
+      2056
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 6)$"
+  },
+  {
+    "bbox": [
+      807,
+      2084,
+      924,
+      2122
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2143,
+      271,
+      2181
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      155,
+      2204,
+      730,
+      2244
+    ],
+    "category": "Text",
+    "text": "Cách 1: $2^{2x} < 2^{x+6} \\Leftrightarrow 2x < x+6 \\Leftrightarrow x < 6$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

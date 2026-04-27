@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      159,
+      557,
+      202
+    ],
+    "category": "Text",
+    "text": "hình vuông ($0 < x < 6$)."
+  },
+  {
+    "bbox": [
+      222,
+      199,
+      752,
+      274
+    ],
+    "category": "List-item",
+    "text": "a) Bán kính đường tròn là $r = \\frac{x}{\\pi}$."
+  },
+  {
+    "bbox": [
+      222,
+      270,
+      808,
+      357
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích hình vuông là $\\left(\\frac{6-x}{4}\\right)^2$."
+  },
+  {
+    "bbox": [
+      222,
+      357,
+      1067,
+      445
+    ],
+    "category": "List-item",
+    "text": "c) Tổng diện tích hai hình là $\\frac{(4+\\pi) \\cdot x^2 - 12\\pi x + 36\\pi}{16\\pi}$."
+  },
+  {
+    "bbox": [
+      222,
+      438,
+      1448,
+      563
+    ],
+    "category": "List-item",
+    "text": "d) Khi $x = \\frac{6\\pi}{2+\\pi}$ thì hình vuông và hình tròn tương ứng có tổng diện tích nhỏ nhất."
+  },
+  {
+    "bbox": [
+      192,
+      587,
+      1456,
+      1068
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong dây chuyền sản xuất sữa chua hiện đại của một nhà máy thực phẩm, từng giọt sữa chua âm thầm chuyển mình dưới tác động của hàng triệu vi�uẩn Lactic, những “nghệ nhân tí hon” kiến tạo vị chua thanh đặc trưng. Mật độ vi�uẩn (số triệu tế bào trên mỗi ml sữa chua) tại thời điểm $t$ (giờ) được kí hiệu là $N(t)$. Ban đầu ($t = 0$ giờ), mật độ vijuẩn đo được là $N(0) = 10$ triệu tế bào/ml. Do sự thay đổi về nguồn dinh dưỡng (đường lactose giảm) và độ pH (axit lactic tăng) nên tốc độ thay đổi mật độ vijuẩn $N'(t)$ (đơn vị: triệu tế bào/ml mỗi giờ) được mô hình hóa bởi công thức $N'(t) = 18t - 3t^2$ (triệu tế bào/ml mỗi giờ) với $t$ là thời gian tính bằng giờ ($0 \\le t \\le 7$)."
+  },
+  {
+    "bbox": [
+      222,
+      1075,
+      742,
+      1122
+    ],
+    "category": "List-item",
+    "text": "a) $N'(1) = 15$ triệu tế bào/ml giờ."
+  },
+  {
+    "bbox": [
+      222,
+      1128,
+      495,
+      1175
+    ],
+    "category": "List-item",
+    "text": "b) $N(t) = 9t^2 - t^3$."
+  },
+  {
+    "bbox": [
+      222,
+      1183,
+      1448,
+      1284
+    ],
+    "category": "List-item",
+    "text": "c) So với lúc ban đầu ($t = 0$), mật độ vijuẩn đã tăng thêm 108 triệu tế bào/ml khi đến thời điểm $t = 6$ giờ."
+  },
+  {
+    "bbox": [
+      222,
+      1286,
+      1448,
+      1383
+    ],
+    "category": "List-item",
+    "text": "d) Tại thời điểm $t = 7$ giờ, mật độ vijuẩn trong 1 ml sữa chua là 108 triệu tế bào/ml."
+  },
+  {
+    "bbox": [
+      192,
+      1406,
+      1456,
+      1562
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một thùng chứa 100 quả táo trong đó có 80% số quả táo được dán nhans, số còn lại không được dán nhans. Bạn Hoàng lấy ra một quả trong thùng, sau đó bạn Hà lấy ra một quả thứ hai."
+  },
+  {
+    "bbox": [
+      241,
+      1585,
+      1192,
+      1633
+    ],
+    "category": "List-item",
+    "text": "- Gọi $A$ là biến cố: “Quả táo bạn Hoàng lấy ra có dán nhans”."
+  },
+  {
+    "bbox": [
+      241,
+      1662,
+      1135,
+      1709
+    ],
+    "category": "List-item",
+    "text": "- Gọi $B$ là biến cố: “Quả táo bạn Hà lấy ra có dán nhans”."
+  },
+  {
+    "bbox": [
+      222,
+      1717,
+      418,
+      1798
+    ],
+    "category": "List-item",
+    "text": "a) $P(A) = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      222,
+      1792,
+      850,
+      1875
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có điều kiện $P(B | A) = \\frac{79}{100}$."
+  },
+  {
+    "bbox": [
+      222,
+      1875,
+      1127,
+      1921
+    ],
+    "category": "List-item",
+    "text": "c) Xác xuất bạn Hà lấy ra quả táo có dán nhans bằng 0,8."
+  },
+  {
+    "bbox": [
+      222,
+      1927,
+      1448,
+      2083
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng bạn Hà lấy ra quả táo có dán nhans. Xác suất để Hoàng cũng lấy ra quả táo có dán nhans là 20,2% (làm tròn kết quả đến hàng phần mười theo đơn vị phần trăm)."
+  },
+  {
+    "bbox": [
+      192,
+      2102,
+      1456,
+      2205
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một chiếc điện thoại được đặt trên một giá đỡ có ba chân với điểm đặt $S(0;0;20)$ và các điểm chậm mặt đất của ba chân lần lượt là $A(0;-6;0)$,"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

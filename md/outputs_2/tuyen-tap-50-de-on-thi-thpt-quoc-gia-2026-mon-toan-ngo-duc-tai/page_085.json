@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      222,
+      155,
+      1446,
+      257
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình mặt cầu tâm $A$ và bán kính bằng khoảng cách từ $A$ đến $(P)$ là $(x-1)^2 + (y-1)^2 + (z-2)^2 = 8$."
+  },
+  {
+    "bbox": [
+      222,
+      265,
+      1446,
+      314
+    ],
+    "category": "List-item",
+    "text": "d) Мặt phẳng $(Q)$ qua $A$ và song song với $(P)$ có phương trình $x+2y-z-1=0$."
+  },
+  {
+    "bbox": [
+      192,
+      339,
+      1455,
+      658
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong một cuộc thi pha chế đồ uống gồm hai loại là $X$ và $Y$, mỗi đội chơi được sử dụng tối đa 24 g taste, 9 cốc nước lọc và 210 g đường. Để pha chế 1 cốc đồ uống loại $X$ cần 1 cốc nước lọc, 30 g đường và 1 g taste. Để pha chế 1 cốc đồ uống loại $Y$ cần 1 cốc nước lọc, 10 g đường và 4 g taste. Mỗi cốc đồ uống loại $X$ nhận được 6 điểm thưởng, mỗi cốc đồ uống loại $Y$ nhận được 8 điểm thưởng. Gọi $x, y$ lần lượt là số cốc đồ uống loại $X$, loại $Y$ mà đội chơi cần pha chế."
+  },
+  {
+    "bbox": [
+      222,
+      658,
+      1408,
+      958
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Điều kiện của } x, y \\text{ là các số tự nhiên và thỏa mãn } (I) : \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ x+y \\le 9 \\\\ 30x+10y \\le 210 \\\\ x+4y \\le 24 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      967,
+      967,
+      1014
+    ],
+    "category": "List-item",
+    "text": "b)úp $M(2;1)$ thuộc miền nghiệm của hệ $(I)$."
+  },
+  {
+    "bbox": [
+      222,
+      1020,
+      905,
+      1068
+    ],
+    "category": "List-item",
+    "text": "c) Miền nghiệm của hệ $(I)$ là miền tứ giác."
+  },
+  {
+    "bbox": [
+      222,
+      1075,
+      1446,
+      1176
+    ],
+    "category": "List-item",
+    "text": "d) Để đạt được số điểm thưởng cao nhất, đội chơi cần pha chế 6 cốc đồ uống loại $X$ và 3 cốc đồ uống loại $Y$."
+  },
+  {
+    "bbox": [
+      192,
+      1198,
+      1455,
+      1466
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Để key 70 năm ngày thành lập trường THPT Việt Đức, các cựu học sinh tổ chức phát hành áo key 2025 gây quỹ học bổng. Giả sử doanh số (tính bằng số áo bán được) tuần theo quy luật logistic được mô hình hóa bằng hàm số $f(t) = \\frac{7000}{1+69e^{-t}}, t \\ge 0$, trong đó thời gian $t$ được tính theo đơn vị ngày, kể từ thời điểm ngày phát hành đầu tiên (ngày 11/8/2025)."
+  },
+  {
+    "bbox": [
+      222,
+      1473,
+      1446,
+      1574
+    ],
+    "category": "List-item",
+    "text": "a) Sau ba ngày kể từ thời điểm ngày phát hành đầu tiên, số áo bán ra vượt quá 2000 chiếc."
+  },
+  {
+    "bbox": [
+      222,
+      1583,
+      1078,
+      1632
+    ],
+    "category": "List-item",
+    "text": "b) Tổng số áo được bán ra không vượt quá 7000 miếng."
+  },
+  {
+    "bbox": [
+      222,
+      1639,
+      1446,
+      1735
+    ],
+    "category": "List-item",
+    "text": "c) Ngay tại thời điểm ngày phát hành đầu tiên, số áo được bán ra đã đạt 100 miếng."
+  },
+  {
+    "bbox": [
+      222,
+      1742,
+      1446,
+      1844
+    ],
+    "category": "List-item",
+    "text": "d) Đạo hàm $f'(t)$ sẽ biểu thị tốc độ phát hành. Sau 360 giờ kể từ thời điểm phát hành đầu tiên thì tốc độ phát hành là lớn nhất."
+  },
+  {
+    "bbox": [
+      192,
+      1867,
+      1455,
+      2130
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Bạn Lan chuẩn bị đi tham nhà ngoại tại một thành phố $A$ trong hai ngày thứ sáu và thứ bảy. At thành phố này mỗi ngày chỉ có nắng hoặc sương mù, nếu một ngày là nắng thì khả năng ngày tiếp theo có sương mù là 30%, nếu một ngày ngày là sương mù thì khả năng ngày tiếp theo có sương mù là 40%. Theo dự báo thời tiết, xác suất trời sẽ nắng vào thứ sáu là 0,8."
+  },
+  {
+    "bbox": [
+      222,
+      2137,
+      1115,
+      2186
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất trời sẽ có sương mù vào ngày thứ sáu là 0,2."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

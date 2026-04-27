@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      106,
+      1574,
+      328
+    ],
+    "category": "Text",
+    "text": "Vì số thùng sữa loại I bằng 1,5 lần số thùng sữa loại II nên khi chọn ngẫu nhiên 1 thùng sữa từ cơ sở sản xuất thì xác suất để thùng đó là thùng loại I là $\\frac{3}{5}$; xác suất để thùng đó là thùng loại II là $\\frac{2}{5}$."
+  },
+  {
+    "bbox": [
+      192,
+      335,
+      748,
+      378
+    ],
+    "category": "Text",
+    "text": "TH1: Thùng sữa lấy ra là thùng loại I."
+  },
+  {
+    "bbox": [
+      192,
+      378,
+      1567,
+      516
+    ],
+    "category": "Text",
+    "text": "Vì trong 48套/ thùng loại I để lẫn mỗi thùng 5套 sữa giả nên khi chọn ngẫu nhiên 10套 trong thùng, xác suất để trong 10套 lấy ra có đúng 2套 sữa giả là: $\\frac{C_5^2 \\cdot C_{43}^8}{C_{48}^{10}}$."
+  },
+  {
+    "bbox": [
+      192,
+      522,
+      1488,
+      612
+    ],
+    "category": "Text",
+    "text": "Do đó xác suất lấy được 10套 trong đó có đúng 2套 sữa là giả từ loại I là: $\\frac{3}{5} \\cdot \\frac{C_5^2 \\cdot C_{43}^8}{C_{48}^{10}}$."
+  },
+  {
+    "bbox": [
+      192,
+      618,
+      758,
+      661
+    ],
+    "category": "Text",
+    "text": "TH2: Thùng sữa lấy ra là thùng loại II."
+  },
+  {
+    "bbox": [
+      192,
+      661,
+      1567,
+      799
+    ],
+    "category": "Text",
+    "text": "Vì trong 48套/ thùng loại II để lẫn mỗi thùng 3套 sữa giả nên khi chọn ngẫu nhiên 10套 trong thùng, xác suất để trong 10套 lấy ra có đúng 2套 sữa giả là: $\\frac{C_3^2 \\cdot C_{45}^8}{C_{48}^{10}}$."
+  },
+  {
+    "bbox": [
+      192,
+      805,
+      1498,
+      896
+    ],
+    "category": "Text",
+    "text": "Do đó xác suất lấy được 10套 trong đó có đúng 2套 sữa là giả từ loại II là: $\\frac{2}{5} \\cdot \\frac{C_3^2 \\cdot C_{45}^8}{C_{48}^{10}}$."
+  },
+  {
+    "bbox": [
+      192,
+      902,
+      1485,
+      992
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để trong 10套 lấy ra có đúng 2套 sữa giả là: $\\frac{3}{5} \\cdot \\frac{C_5^2 \\cdot C_{43}^8}{C_{48}^{10}} + \\frac{2}{5} \\cdot \\frac{C_3^2 \\cdot C_{45}^8}{C_{48}^{10}} \\approx 0,17$."
+  },
+  {
+    "bbox": [
+      74,
+      996,
+      1578,
+      1269
+    ],
+    "category": "List-item",
+    "text": "Câu 3. Nhóm của bạn Lan dự định làm thủ công các bó hoa bằng nguyên liệu là kẽm nhung để bán, góp tiền support các em nhỏ mồ côi nhân迎接 ngày quốc tế thiếu nhi 1/6 sắp tới. Biết cần 2 giờ để làm một bó hoa nhỏ có giá 60 nghìn đồng và 3 giờ để làm một bó hoa lớn có giá 100 nghìn đồng. Nhóm của Lan chỉ có thể sắp xếp tối đa 36 giờ để làm và yêu cầu của nhóm đặt ra là phải làm ít nhất 15 bó hoa. Hãy cho biết nhóm bạn Lan thu được số tiền lớn nhất là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      765,
+      1271,
+      883,
+      1312
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1314,
+      408,
+      1357
+    ],
+    "category": "Text",
+    "text": "Đáp số: 1140"
+  },
+  {
+    "bbox": [
+      212,
+      1361,
+      1574,
+      1454
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số bó hoa nhỏ làm được và $y$ là số bó hoa lớn làm được ($x; y \\in \\mathbb{N}$). Từ giả thiết ta có:"
+  },
+  {
+    "bbox": [
+      212,
+      1459,
+      1102,
+      1505
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Nhóm của Lan chỉ có thể sắp xếp tối đa 36 giờ: } 2x+3y \\le 36\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1511,
+      1258,
+      1555
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Nhóm của Lan đặt ra yêu cầu là phải làm ít nhất 15 bó hoa: } x+y \\ge 15.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1561,
+      1468,
+      1607
+    ],
+    "category": "Text",
+    "text": "Cần tìm giá trị lớn nhất của số tiền thu được tương ứng với hàm $F(x; y) = 60x+100y$."
+  },
+  {
+    "bbox": [
+      212,
+      1617,
+      1138,
+      1762
+    ],
+    "category": "Text",
+    "text": "Biểu diễn miễn nghiệm của hệ bất phương trình: $$ \\begin{cases} 2x+3y \\le 36 \\\\ x+y \\ge 15 \\\\ x, y \\ge 0 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      609,
+      1762,
+      1174,
+      2205
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

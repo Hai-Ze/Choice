@@ -1,0 +1,522 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      162,
+      106,
+      692,
+      242
+    ],
+    "category": "Page-header",
+    "text": "Lớp Toán Thầy Phạm Văn Nghiệp\n— 0965.07.27.67 —\nLuyên thi Đại Học, giảng dạy Toán 10; 11; 12"
+  },
+  {
+    "bbox": [
+      761,
+      102,
+      1523,
+      151
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI TỐT NGHIỆP THPT NĂM 2026"
+  },
+  {
+    "bbox": [
+      1044,
+      153,
+      1240,
+      192
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      781,
+      201,
+      1502,
+      244
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      757,
+      238,
+      892,
+      284
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ SỐ 6"
+  },
+  {
+    "bbox": [
+      74,
+      282,
+      1572,
+      380
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      74,
+      380,
+      1192,
+      429
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Khẳng định nào dưới đây đúng"
+  },
+  {
+    "bbox": [
+      213,
+      440,
+      601,
+      518
+    ],
+    "category": "Formula",
+    "text": "A. $\\int 2f(x)dx = \\frac{1}{2}\\int f(x)dx$."
+  },
+  {
+    "bbox": [
+      862,
+      448,
+      1289,
+      509
+    ],
+    "category": "Formula",
+    "text": "B. $\\int 2f(x)dx = \\int 2dx\\int f(x)dx$."
+  },
+  {
+    "bbox": [
+      213,
+      522,
+      592,
+      582
+    ],
+    "category": "Formula",
+    "text": "C. $\\int 2f(x)dx = \\int f(2x)dx$."
+  },
+  {
+    "bbox": [
+      862,
+      522,
+      1246,
+      582
+    ],
+    "category": "Formula",
+    "text": "D. $\\int 2f(x)dx = 2\\int f(x)dx$."
+  },
+  {
+    "bbox": [
+      831,
+      588,
+      951,
+      629
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      629,
+      1101,
+      688
+    ],
+    "category": "Text",
+    "text": "Theo tính chất của nguyên hàm ta có $\\int 2f(x)dx = 2\\int f(x)dx$."
+  },
+  {
+    "bbox": [
+      74,
+      696,
+      814,
+      742
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Heo nguyên hàm của hàm số $f(x) = e^x$ là"
+  },
+  {
+    "bbox": [
+      213,
+      773,
+      402,
+      812
+    ],
+    "category": "Formula",
+    "text": "A. $x.e^{x-1} + C$."
+  },
+  {
+    "bbox": [
+      546,
+      773,
+      689,
+      812
+    ],
+    "category": "Formula",
+    "text": "B. $e^x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      752,
+      1038,
+      836
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{e^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      1177,
+      755,
+      1330,
+      836
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{1}{e^x} + C$."
+  },
+  {
+    "bbox": [
+      831,
+      844,
+      951,
+      885
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      885,
+      1189,
+      944
+    ],
+    "category": "Text",
+    "text": "Heo nguyên hàm của hàm số $f(x) = e^x$ là $\\int f(x)dx = \\int e^x dx = e^x + C$."
+  },
+  {
+    "bbox": [
+      74,
+      950,
+      1531,
+      1056
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Trong không gian $Oxyz$, phương trình mặt phẳng đi qua điểm $M(5;1;2)$ và có một vec tơ pháp tuyến $\\vec{n} = (1;-2;3)$ là"
+  },
+  {
+    "bbox": [
+      213,
+      1067,
+      524,
+      1106
+    ],
+    "category": "Formula",
+    "text": "A. $5x + y + 2z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      862,
+      1067,
+      1164,
+      1106
+    ],
+    "category": "Formula",
+    "text": "B. $x - 2y + 3z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      213,
+      1116,
+      522,
+      1155
+    ],
+    "category": "Formula",
+    "text": "C. $x - 2y + 3z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      862,
+      1116,
+      1170,
+      1155
+    ],
+    "category": "Formula",
+    "text": "D. $5x + y + 2z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      831,
+      1165,
+      951,
+      1206
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1206,
+      1555,
+      1316
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng đi qua điểm $M(5;1;2)$ và có một vec tơ pháp tuyến $\\vec{n} = (1;-2;3)$ là $1(x-5) - 2(y-1) + 3(z-2) = 0$ hay $x - 2y + 3z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      74,
+      1326,
+      1509,
+      1377
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian $Oxyz$, tâm của mặt cầu $(S): (x-2)^2 + (y+3)^2 + (z-1)^2 = 16$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      213,
+      1388,
+      414,
+      1435
+    ],
+    "category": "Formula",
+    "text": "A. $(-2;3;-1)$."
+  },
+  {
+    "bbox": [
+      546,
+      1388,
+      718,
+      1435
+    ],
+    "category": "Formula",
+    "text": "B. $(2;-3;1)$."
+  },
+  {
+    "bbox": [
+      862,
+      1388,
+      1063,
+      1435
+    ],
+    "category": "Formula",
+    "text": "C. $(2;-3;-1)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1388,
+      1338,
+      1435
+    ],
+    "category": "Formula",
+    "text": "D. $(2;3;1)$."
+  },
+  {
+    "bbox": [
+      765,
+      1445,
+      884,
+      1486
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1488,
+      696,
+      1537
+    ],
+    "category": "Text",
+    "text": "Dễ thấy tâm mặt cầu là $(2;-3;1)$."
+  },
+  {
+    "bbox": [
+      74,
+      1547,
+      1557,
+      1646
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Cho hai biến cố $A, B$ có xác suất $P(A) = 0,3; P(B) = 0,6$ và $P(AB) = 0,2$. Xác suất $P(A | B)$ bằng"
+  },
+  {
+    "bbox": [
+      213,
+      1649,
+      285,
+      1728
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{2}{3}$"
+  },
+  {
+    "bbox": [
+      546,
+      1649,
+      614,
+      1728
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{1}{5}$"
+  },
+  {
+    "bbox": [
+      862,
+      1649,
+      928,
+      1728
+    ],
+    "category": "Formula",
+    "text": "C. $\\frac{1}{3}$"
+  },
+  {
+    "bbox": [
+      1177,
+      1649,
+      1248,
+      1728
+    ],
+    "category": "Formula",
+    "text": "D. $\\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      765,
+      1736,
+      884,
+      1777
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1781,
+      716,
+      1876
+    ],
+    "category": "Text",
+    "text": "Ta có $P(A | B) = \\frac{P(AB)}{P(B)} = \\frac{0,2}{0,6} = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      74,
+      1884,
+      1499,
+      2041
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Biết rằng $F(x)$ là một nguyên hàm của $f(x)$ trên $\\mathbb{R}$ thỏa mãn $F(2) = 6$ và $F(4) = 12$. Giá trị của $\\int_{2}^{4} f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      213,
+      2046,
+      312,
+      2083
+    ],
+    "category": "Formula",
+    "text": "A. $-6$."
+  },
+  {
+    "bbox": [
+      546,
+      2046,
+      627,
+      2083
+    ],
+    "category": "Formula",
+    "text": "B. $6$."
+  },
+  {
+    "bbox": [
+      862,
+      2046,
+      953,
+      2083
+    ],
+    "category": "Formula",
+    "text": "C. $18$."
+  },
+  {
+    "bbox": [
+      1177,
+      2046,
+      1294,
+      2083
+    ],
+    "category": "Formula",
+    "text": "D. $-12$."
+  },
+  {
+    "bbox": [
+      765,
+      2091,
+      884,
+      2132
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2134,
+      701,
+      2232
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int_{2}^{4} f(x)dx = F(4) - F(2) = 6$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1504,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 1 -"
+  }
+]

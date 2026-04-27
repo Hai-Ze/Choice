@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      771,
+      114,
+      1196,
+      492
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      933,
+      525,
+      1047,
+      562
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      336,
+      591,
+      497,
+      624
+    ],
+    "category": "Section-header",
+    "text": "Trả lời: 95."
+  },
+  {
+    "bbox": [
+      336,
+      653,
+      790,
+      696
+    ],
+    "category": "Text",
+    "text": "Gắn trục toạ độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      368,
+      741,
+      947,
+      1187
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      1232,
+      1377,
+      1281
+    ],
+    "category": "Text",
+    "text": "Gọi phương trình parabol đi qua 3 điểm $C, M, N$ là $y = ax^2 + bx + c$, ($a \\neq 0$)"
+  },
+  {
+    "bbox": [
+      336,
+      1316,
+      1063,
+      1394
+    ],
+    "category": "Text",
+    "text": "Trục đối xứng của parabol là $x = -\\frac{b}{2a} = 2 \\Leftrightarrow b = -4a$."
+  },
+  {
+    "bbox": [
+      336,
+      1420,
+      1319,
+      1465
+    ],
+    "category": "Text",
+    "text": "Ta có parabol đi qua các điểm $M(2; 8), C(8; 0)$ nên ta có hệ phương trình"
+  },
+  {
+    "bbox": [
+      341,
+      1500,
+      1021,
+      1773
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} a \\cdot 2^2 + 2b + c = 8 \\\\ a \\cdot 8^2 + 8b + c = 0 \\\\ b = -4a \\end{cases} \\Leftrightarrow \\begin{cases} 4a + 2b + c = 8 \\\\ 64a + 8b + c = 0 \\\\ 4a + b = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = -\\frac{2}{9} \\\\ b = \\frac{8}{9} \\\\ c = \\frac{64}{9} \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      336,
+      1811,
+      1063,
+      1887
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow$ Phương trình của parabol là $y = -\\frac{2}{9}x^2 + \\frac{8}{9}x + \\frac{64}{9}$."
+  },
+  {
+    "bbox": [
+      336,
+      1921,
+      1014,
+      2011
+    ],
+    "category": "Text",
+    "text": "Ta có $y(0) = -\\frac{2}{9} \\cdot 0^2 + \\frac{8}{9} \\cdot 0 + \\frac{64}{9} = \\frac{64}{9} \\Rightarrow N\\left(0; \\frac{64}{9}\\right)$."
+  }
+]

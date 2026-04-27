@@ -1,0 +1,92 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      218,
+      109,
+      987,
+      259
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{CH^2} = \\frac{1}{CM^2} + \\frac{1}{CI^2} \\Leftrightarrow \\frac{1}{\\left(\\frac{x\\sqrt{3}}{2}\\right)^2} = \\frac{1}{x^2} + \\frac{1}{(3\\sqrt{3})^2} \\Leftrightarrow x^2 = 9.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      275,
+      789,
+      320
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } IM^2 = MC^2 + IC^2 = 9 + 27 = 36.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      320,
+      1571,
+      375
+    ],
+    "category": "Text",
+    "text": "Vì $M$ thuộc đường thẳng $d$ nên $M(-1+t;-2+t;1+t)$, với $t<1$ do hoành độ $M$ âm."
+  },
+  {
+    "bbox": [
+      218,
+      382,
+      1003,
+      515
+    ],
+    "category": "Formula",
+    "text": "$$\nIM^2 = 36 \\Leftrightarrow (t-2)^2 + (t-4)^2 + (t+4)^2 = 36 \\Leftrightarrow \\begin{cases} t = 0 \\\\ t = \\frac{4}{3}(l) \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      526,
+      726,
+      574
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } M(-1;-2;1) \\text{ và } a+b+c=-2.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1517,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

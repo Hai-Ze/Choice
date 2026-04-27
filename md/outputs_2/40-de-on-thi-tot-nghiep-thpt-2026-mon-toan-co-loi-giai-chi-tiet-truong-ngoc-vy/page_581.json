@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1574,
+      254
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một nhà máy có hai phân xưởng cùng sản xuất một loại sản phẩm. Phân xưởng thứ nhất sản xuất 60% và phân xưởng thứ hai sản xuất 40% tổng số sản phẩm của cả nhà máy. Tỉ lệ phế phẩm của từng phân xưởng lần lượt là 16% và 20%. Lấy ngẫu nhiên một sản phẩm trong kho hàng của nhà máy."
+  },
+  {
+    "bbox": [
+      155,
+      266,
+      1062,
+      312
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để sản phẩm đó do phân xưởng thứ nhất sản xuất là 0,6."
+  },
+  {
+    "bbox": [
+      155,
+      324,
+      777,
+      371
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để lấy được phế phẩm bằng 0,176."
+  },
+  {
+    "bbox": [
+      155,
+      381,
+      1574,
+      487
+    ],
+    "category": "Text",
+    "text": "c) Giả sử đã lấy được phế phẩm, xác suất phế phẩm đó do phân xưởng thứ nhất sản xuất bằng 0,55 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      497,
+      1574,
+      602
+    ],
+    "category": "Text",
+    "text": "d) Nếu lấy được sản phẩm tốt, khả năng sản phẩm đó do phân xưởng thứ hai sản xuất là cao hơn khả năng sản phẩm đó do phân xưởng thứ nhất sản xuất."
+  },
+  {
+    "bbox": [
+      807,
+      620,
+      924,
+      659
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      672,
+      972,
+      797
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      793,
+      1574,
+      897
+    ],
+    "category": "Text",
+    "text": "a) Do phân xưởng thứ nhất sản xuất 60% tổng số sản phẩm của cả nhà máy nên xác suất để sản phẩm đó do phân xưởng thứ nhất sản xuất là 0,6."
+  },
+  {
+    "bbox": [
+      155,
+      907,
+      1062,
+      1020
+    ],
+    "category": "Text",
+    "text": "b) Gọi $A$ là biến cố \"Chọn được sản phẩm từ phân xưởng thứ nhất\",\n$\\bar{A}$ là biến cố \"Chọn được sản phẩm từ phân xưởng thứ hai\"."
+  },
+  {
+    "bbox": [
+      155,
+      1030,
+      816,
+      1078
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố \"Chọn được sản phẩm là phế phẩm\"."
+  },
+  {
+    "bbox": [
+      155,
+      1096,
+      606,
+      1155
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } P(A) = 0,6; P(\\bar{A}) = 0,4;\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      1182,
+      801,
+      1242
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B | A) = 0,16; P(\\bar{B} | A) = 0,84; P(B | \\bar{A}) = 0,2\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1261,
+      997,
+      1309
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức tính xác suất toàn phần, ta có:"
+  },
+  {
+    "bbox": [
+      161,
+      1327,
+      702,
+      1449
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} P(B) &= P(A) \\cdot P(B | A) + P(\\bar{A}) \\cdot P(B | \\bar{A}) \\\\ &= 0,6 \\cdot 0,16 + 0,4 \\cdot 0,2 = 0,176 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1469,
+      717,
+      1517
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất lấy được phế phẩm là 0,176."
+  },
+  {
+    "bbox": [
+      155,
+      1529,
+      1574,
+      1635
+    ],
+    "category": "Text",
+    "text": "c) Chọn được phế phẩm, biến cố phế phẩm đó do phân xưởng thứ nhất sản xuất là $A | B$, áp dụng công thức Bayes, ta được:"
+  },
+  {
+    "bbox": [
+      161,
+      1655,
+      839,
+      1752
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A | B) = \\frac{P(A) \\cdot P(B | A)}{P(B)} = \\frac{0,6 \\cdot 0,16}{0,176} = \\frac{6}{11} \\approx 0,55.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1771,
+      1574,
+      1877
+    ],
+    "category": "Text",
+    "text": "d) Khi lấy được sản phẩm tốt, để so sánh khả năng sản phẩm thuộc phân xưởng, ta tính xác suất để sản phẩm tốt được chọn ấy thuộc phân xưởng thứ nhất"
+  },
+  {
+    "bbox": [
+      155,
+      1895,
+      702,
+      1954
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ ý a) suy ra } P(\\bar{B}) = 1 - 0,176 = 0,824.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1981,
+      1157,
+      2102
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo công thức Bayes, ta có: } P(A | \\bar{B}) = \\frac{P(A) \\cdot P(\\bar{B} | A)}{P(\\bar{B})} = \\frac{0,6 \\cdot 0,84}{0,824} \\approx 0,61\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2122,
+      1114,
+      2169
+    ],
+    "category": "Text",
+    "text": "Vậy khả năng sản phẩm tốt được chọn từ phân xưởng thứ nhất cao hơn."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

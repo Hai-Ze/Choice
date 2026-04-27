@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1494,
+      195
+    ],
+    "category": "Text",
+    "text": "c) Biết sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên $a$ đơn vị sản phẩm lớn hơn 517 triệu đồng, khi đó giá trị nhỏ nhất của $a$ là 100."
+  },
+  {
+    "bbox": [
+      75,
+      209,
+      1397,
+      256
+    ],
+    "category": "Text",
+    "text": "d) sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên 55 đơn vị sản phẩm là 49,79 triệu đồng."
+  },
+  {
+    "bbox": [
+      727,
+      280,
+      843,
+      318
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      335,
+      893,
+      455
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      516,
+      1417,
+      563
+    ],
+    "category": "Text",
+    "text": "a) Lợi nhuận khi bán được $x$ đơn vị sản phẩm được tính bằng công thức $P(x) = -0,0004x^2 + 10,4x$."
+  },
+  {
+    "bbox": [
+      82,
+      589,
+      989,
+      649
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = \\int P'(x)dx = \\int (-0,0008x + 10,4)dx = -0,0004x^2 + 10,4x + C.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      671,
+      760,
+      719
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận ban đầu chưa có nên $P(0) = 0 \\Rightarrow C = 0$."
+  },
+  {
+    "bbox": [
+      75,
+      748,
+      514,
+      795
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(x) = -0,0004x^2 + 10,4x.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      816,
+      975,
+      861
+    ],
+    "category": "Text",
+    "text": "b) Lợi nhuận khi bán được 50 sản phẩm đầu tiên là 519 triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      881,
+      847,
+      929
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(50) = -0,0004 \\cdot 50^2 + 10,4 \\cdot 50 = 519 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      950,
+      1494,
+      1052
+    ],
+    "category": "Text",
+    "text": "c) Biết sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên $a$ đơn vị sản phẩm lớn hơn 517 triệu đồng, khi đó giá trị nhỏ nhất của $a$ là 100."
+  },
+  {
+    "bbox": [
+      75,
+      1067,
+      1096,
+      1113
+    ],
+    "category": "Text",
+    "text": "Sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên $a$ đơn vị sản phẩm là"
+  },
+  {
+    "bbox": [
+      82,
+      1135,
+      1402,
+      1229
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{50}^{a} P'(x)dx = \\int_{50}^{a} (-0,0008x + 10,4)dx = (-0,0004x^2 + 10,4x)\\Big|_{50}^{a} = -0,0004a^2 + 10,4a - 519 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1255,
+      1408,
+      1299
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo đề ta có } -0,0004a^2 + 10,4a - 519 > 517 \\Leftrightarrow -0,0004a^2 + 10,4a - 1036 > 0 \\Leftrightarrow 100 < a < 25900.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1319,
+      537,
+      1364
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của $a$ là 101."
+  },
+  {
+    "bbox": [
+      75,
+      1378,
+      1382,
+      1424
+    ],
+    "category": "Text",
+    "text": "d) sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên 55 đơn vị sản phẩm là 51,79 triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      1448,
+      1230,
+      1545
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\int_{50}^{55} P'(x)dx = \\int_{50}^{55} (-0,0008x + 10,4)dx = (-0,0004x^2 + 10,4x)\\Big|_{50}^{55} = 51,79 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1624,
+      1494,
+      1794
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty truyền thông đấu thầu hai dự án. Khả năng thắng thầu của dự án thứ nhất là 0,6 và dự án thứ hai là 0,5. Khả năng thắng thầu cả hai dự án là 0,4. Gọi $A, B$ lần lượt là biến cố thắng thầu dự án thứ nhất và dự án thứ hai."
+  },
+  {
+    "bbox": [
+      75,
+      1811,
+      528,
+      1855
+    ],
+    "category": "Text",
+    "text": "a) $A$ và $B$ là hai biến cố độc lập."
+  },
+  {
+    "bbox": [
+      75,
+      1869,
+      806,
+      1913
+    ],
+    "category": "Text",
+    "text": "b) Xác suất công ty thắng thầu đúng một dự án là 0,3."
+  },
+  {
+    "bbox": [
+      75,
+      1932,
+      1292,
+      1977
+    ],
+    "category": "Text",
+    "text": "c) Biết công ty thắng thầu dự án thứ nhất, xác suất công ty thắng thầu dự án thứ hai là 0,4."
+  },
+  {
+    "bbox": [
+      75,
+      1998,
+      1402,
+      2042
+    ],
+    "category": "Text",
+    "text": "d) Biết công ty không thắng thầu dự án thứ nhất, xác suất công ty thắng thầu dự án thứ hai là 0,25."
+  },
+  {
+    "bbox": [
+      727,
+      2068,
+      843,
+      2106
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      2121,
+      893,
+      2243
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      838,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

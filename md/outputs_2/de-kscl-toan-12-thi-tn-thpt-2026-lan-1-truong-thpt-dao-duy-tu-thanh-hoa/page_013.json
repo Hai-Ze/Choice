@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      157,
+      106,
+      1434,
+      208
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 0 \\Leftrightarrow 2 - \\frac{3}{(x+3)^2} = 0 \\Leftrightarrow \\frac{2x^2 + 12x + 15}{(x+3)^2} = 0 \\Leftrightarrow 2x^2 + 12x + 15 = 0 \\text{ có hai nghiệm phân biệt.}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      216,
+      1183,
+      300
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số có hai cực trị có tổng hoành độ của cực trị bằng $\\frac{-12}{2} = -6$."
+  },
+  {
+    "bbox": [
+      153,
+      305,
+      1457,
+      394
+    ],
+    "category": "Text",
+    "text": "c) Sai: $\\lim_{x \\to +\\infty} \\frac{2x^2 + 5x}{x+3} = +\\infty$, $\\lim_{x \\to -\\infty} \\frac{2x^2 + 5x}{x+3} = -\\infty$, nên đồ thị hàm số không có tiệm cận ngang."
+  },
+  {
+    "bbox": [
+      153,
+      398,
+      1299,
+      484
+    ],
+    "category": "Text",
+    "text": "d) Sai: Ta có $\\lim_{x \\to +\\infty} [y - (2x - 1)] = \\lim_{x \\to +\\infty} \\frac{3}{x+3} = 0$; $\\lim_{x \\to -\\infty} [y - (2x - 1)] = \\lim_{x \\to -\\infty} \\frac{3}{x+3} = 0$."
+  },
+  {
+    "bbox": [
+      153,
+      484,
+      1081,
+      536
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có tiệm cận xiên là $y = 2x - 1 \\Leftrightarrow 2x - y - 1 = 0$ ($\\Delta$)."
+  },
+  {
+    "bbox": [
+      162,
+      541,
+      1168,
+      663
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ điểm $M(2;1)$ đến $\\Delta$ là $d(M, \\Delta) = \\frac{|2 \\cdot 2 - 1 - 1|}{\\sqrt{2^2 + (-1)^2}} = \\frac{2\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      153,
+      671,
+      1308,
+      754
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho hàm số $y = f(x) = \\frac{ax+b}{cx+1}$ với $a, b, c \\in \\mathbb{R}$ có đồ thị như hình vẽ dưới:"
+  },
+  {
+    "bbox": [
+      710,
+      756,
+      1092,
+      1080
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1089,
+      765,
+      1141
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số $f'(x) < 0, \\forall x \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      153,
+      1146,
+      1417,
+      1201
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ nghịch biến trên khoảng $(1; +\\infty)$ và đồng biến trên khoảng $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      1205,
+      1534,
+      1308
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số $y = f(x)$ có đường tiệm cận đứng là $x = 1$ và đường tiệm cận ngang là $y = -1$."
+  },
+  {
+    "bbox": [
+      153,
+      1308,
+      465,
+      1355
+    ],
+    "category": "Text",
+    "text": "d) Tổng $a+b+c=5$."
+  },
+  {
+    "bbox": [
+      850,
+      1355,
+      972,
+      1397
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      1395,
+      818,
+      1446
+    ],
+    "category": "Text",
+    "text": "a) Sai. Đạo hàm của hàm số $f'(x) < 0, \\forall x \\neq 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1452,
+      960,
+      1504
+    ],
+    "category": "Text",
+    "text": "Dựa vào hình vẽ, đạo hàm của hàm số $f'(x) < 0, \\forall x \\neq 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1509,
+      1362,
+      1563
+    ],
+    "category": "Text",
+    "text": "b) Sai. Từ đồ thị ta có hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty; 1)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      153,
+      1568,
+      1534,
+      1669
+    ],
+    "category": "Text",
+    "text": "c) Đúng. Đồ thị hàm số $y = f(x)$ có đường tiệm cận đứng là $x = 1$ và đường tiệm cận ngang là $y = -1$."
+  },
+  {
+    "bbox": [
+      153,
+      1669,
+      543,
+      1717
+    ],
+    "category": "Text",
+    "text": "d) Sai. Tổng $a+b+c=-2$."
+  },
+  {
+    "bbox": [
+      153,
+      1719,
+      776,
+      1799
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có TCĐ $x = -\\frac{1}{c} = 1 \\Rightarrow c = -1$."
+  },
+  {
+    "bbox": [
+      153,
+      1807,
+      761,
+      1885
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có TCN $y = \\frac{a}{c} = -1 \\Rightarrow a = 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1887,
+      1327,
+      1939
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số cắt trục tung tại điểm $(0; -2) \\Rightarrow b = -2$. Vì $a+b+c=1-2-1=-2$."
+  },
+  {
+    "bbox": [
+      153,
+      1957,
+      1517,
+      2132
+    ],
+    "category": "Text",
+    "text": "Câu 4: Trong đề kiểm tra 15 phút môn Toán của lớp 11A có 20 câu trắc nghiệm. Mỗi câu trắc nghiệm có 4 phương án trả lời, trong đó chỉ có một phương án trả lời đúng. Biết rằng mỗi câu trả lời đúng được 0,5 điểm. Nam giải chắc chắn đúng 10 câu, 10 câu còn lại lựa chọn ngẫu nhiên đáp án. Biết rằng mỗi câu trả lời đúng được 0,5 điểm, trả lời sai không bị trừ điểm"
+  },
+  {
+    "bbox": [
+      153,
+      2134,
+      807,
+      2226
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để đánh đúng hết 20 câu là $\\left(\\frac{1}{4}\\right)^{20}$"
+  },
+  {
+    "bbox": [
+      1514,
+      2242,
+      1532,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

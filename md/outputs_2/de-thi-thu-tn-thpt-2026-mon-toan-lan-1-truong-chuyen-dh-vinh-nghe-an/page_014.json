@@ -1,0 +1,361 @@
+[
+  {
+    "bbox": [
+      152,
+      113,
+      1534,
+      208
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ có đạo hàm là $f'(x)$ liên tục trên $[-2; 3]$. Hàm số $y = f'(x)$ có đồ thị như hình vẽ:"
+  },
+  {
+    "bbox": [
+      648,
+      227,
+      1025,
+      535
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      541,
+      1069,
+      644
+    ],
+    "category": "Text",
+    "text": "Biết $\\int_{-2}^{1} f'(x)dx = 3$ và diện tích $S = \\frac{5}{3}$. Giá trị $f(3) - f(-2)$ bằng"
+  },
+  {
+    "bbox": [
+      161,
+      655,
+      261,
+      738
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      536,
+      655,
+      619,
+      738
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      911,
+      655,
+      1035,
+      738
+    ],
+    "category": "List-item",
+    "text": "C. $-\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      1285,
+      655,
+      1392,
+      738
+    ],
+    "category": "List-item",
+    "text": "D. $-\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      152,
+      742,
+      1534,
+      845
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian với hệ trục toạ độ $Oxyz$, đường thẳng $d$ đi qua điểm $M(-1; 4; 6)$, nhận $\\vec{u}(3; -2; 7)$ làm vecto chỉ phương có phương trình là"
+  },
+  {
+    "bbox": [
+      161,
+      858,
+      505,
+      941
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x+1}{3} = \\frac{y-4}{-2} = \\frac{z-6}{7}$."
+  },
+  {
+    "bbox": [
+      911,
+      858,
+      1254,
+      941
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x+3}{-1} = \\frac{y-2}{4} = \\frac{z+7}{6}$."
+  },
+  {
+    "bbox": [
+      161,
+      952,
+      505,
+      1035
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x-1}{3} = \\frac{y+4}{-2} = \\frac{z+6}{7}$."
+  },
+  {
+    "bbox": [
+      911,
+      952,
+      1254,
+      1035
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x-3}{-1} = \\frac{y+2}{4} = \\frac{z-7}{6}$."
+  },
+  {
+    "bbox": [
+      152,
+      1039,
+      1534,
+      1142
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian với hệ trục toạ độ $Oxyz$, cho mặt phẳng $(P)$ đi qua $O$ và có vecto pháp tuyến $\\vec{n}(2; -2; 1)$. Khoảng cách từ điểm $M(3; -1; 1)$ đến $(P)$ bằng"
+  },
+  {
+    "bbox": [
+      161,
+      1153,
+      234,
+      1210
+    ],
+    "category": "List-item",
+    "text": "A. 9."
+  },
+  {
+    "bbox": [
+      536,
+      1153,
+      605,
+      1210
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      911,
+      1153,
+      990,
+      1236
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{5}{3}$."
+  },
+  {
+    "bbox": [
+      1285,
+      1153,
+      1354,
+      1210
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      152,
+      1239,
+      517,
+      1285
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho mẫu số liệu"
+  },
+  {
+    "bbox": [
+      427,
+      1332,
+      1256,
+      1444
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10)</td><td>[10; 11)</td></tr><tr><td>Tần số</td><td>8</td><td>12</td><td>10</td><td>2</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1492,
+      1137,
+      1539
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba (làm tròn đến hàng phần trăm) của mẫu số liệu bằng"
+  },
+  {
+    "bbox": [
+      161,
+      1544,
+      277,
+      1581
+    ],
+    "category": "List-item",
+    "text": "A. 7,79."
+  },
+  {
+    "bbox": [
+      536,
+      1544,
+      648,
+      1581
+    ],
+    "category": "List-item",
+    "text": "B. 7,76."
+  },
+  {
+    "bbox": [
+      911,
+      1544,
+      1027,
+      1581
+    ],
+    "category": "List-item",
+    "text": "C. 8,63."
+  },
+  {
+    "bbox": [
+      1285,
+      1544,
+      1399,
+      1581
+    ],
+    "category": "List-item",
+    "text": "D. 8,57."
+  },
+  {
+    "bbox": [
+      152,
+      1585,
+      1115,
+      1632
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** He các nguyên hàm của hàm số $f(x) = 2\\sin x + 1$ trên $\\mathbb{R}$ là"
+  },
+  {
+    "bbox": [
+      161,
+      1643,
+      426,
+      1726
+    ],
+    "category": "List-item",
+    "text": "A. $-2\\cos x + 1 + C$.\n$-2\\cos x + x + C$."
+  },
+  {
+    "bbox": [
+      536,
+      1643,
+      788,
+      1680
+    ],
+    "category": "List-item",
+    "text": "B. $2\\cos x + x + C$."
+  },
+  {
+    "bbox": [
+      911,
+      1643,
+      1059,
+      1680
+    ],
+    "category": "List-item",
+    "text": "C. $2\\cos x$."
+  },
+  {
+    "bbox": [
+      1285,
+      1643,
+      1322,
+      1680
+    ],
+    "category": "List-item",
+    "text": "D."
+  },
+  {
+    "bbox": [
+      152,
+      1730,
+      1250,
+      1777
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho cấp số nhân $(u_n)$ thỏa mãn $u_4 = u_1 \\cdot 8$. Công bội $q$ của $(u_n)$ bằng"
+  },
+  {
+    "bbox": [
+      161,
+      1789,
+      234,
+      1826
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      536,
+      1789,
+      627,
+      1826
+    ],
+    "category": "List-item",
+    "text": "B. $-3$."
+  },
+  {
+    "bbox": [
+      911,
+      1789,
+      1002,
+      1826
+    ],
+    "category": "List-item",
+    "text": "C. $-2$."
+  },
+  {
+    "bbox": [
+      1285,
+      1789,
+      1354,
+      1826
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      152,
+      2231,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0179"
+  },
+  {
+    "bbox": [
+      1477,
+      2236,
+      1611,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

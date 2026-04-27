@@ -1,0 +1,436 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1194,
+      182
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho hình hộp $ABCD.A'B'C'D'$. Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      696,
+      194,
+      1005,
+      433
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      512,
+      594,
+      562
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'} = \\overrightarrow{AC'}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      512,
+      1275,
+      562
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AA'} = \\overrightarrow{AD}.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      558,
+      589,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AC} = \\overrightarrow{AC'}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      558,
+      1275,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AC'} = \\overrightarrow{AC}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      608,
+      198,
+      652
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      604,
+      1244,
+      670
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Theo quy tắc hình hộp, ta có $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'} = \\overrightarrow{AC'}$."
+  },
+  {
+    "bbox": [
+      153,
+      683,
+      1547,
+      770
+    ],
+    "category": "Text",
+    "text": "Câu 9. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = x^3 - 3x$, trục hoành $Ox$ và hai đường thẳng $x = -2, x = 2$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      780,
+      296,
+      858
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{16}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      780,
+      640,
+      858
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      879,
+      798,
+      961,
+      840
+    ],
+    "category": "List-item",
+    "text": "C 5."
+  },
+  {
+    "bbox": [
+      1224,
+      798,
+      1304,
+      840
+    ],
+    "category": "List-item",
+    "text": "D 6."
+  },
+  {
+    "bbox": [
+      153,
+      868,
+      1491,
+      972
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $S = \\int_{-2}^{2} |x^3 - 3x|dx$. Vì $y = x^3 - 3x$ là hàm lẻ nên $S = 2 \\int_{0}^{2} |x^3 - 3x|dx$.\n$x^3 - 3x = 0 \\Leftrightarrow x = 0; \\pm\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      153,
+      968,
+      1074,
+      1034
+    ],
+    "category": "Formula",
+    "text": "$$\nS = 2 \\left( \\int_{0}^{\\sqrt{3}} (3x - x^3)dx + \\int_{\\sqrt{3}}^{2} (x^3 - 3x)dx \\right) = 2(2,25 + 0,25) = 5.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1052,
+      981,
+      1094
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tìm họ nguyên hàm của $f(x) = \\cos x - \\sin x$."
+  },
+  {
+    "bbox": [
+      188,
+      1112,
+      491,
+      1154
+    ],
+    "category": "List-item",
+    "text": "A $\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      876,
+      1112,
+      1176,
+      1154
+    ],
+    "category": "List-item",
+    "text": "B $\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      188,
+      1158,
+      524,
+      1198
+    ],
+    "category": "List-item",
+    "text": "C $-\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      876,
+      1158,
+      1208,
+      1198
+    ],
+    "category": "List-item",
+    "text": "D $-\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1198,
+      198,
+      1242
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1198,
+      1348,
+      1260
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $\\int (\\cos x - \\sin x)dx = \\sin x - (-\\cos x) + C = \\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      1272,
+      1501,
+      1320
+    ],
+    "category": "Text",
+    "text": "Câu 11. Trong không gian $Oxyz$, cho hai vecto $\\vec{a} = (0; 3; 1)$, $\\vec{b} = (3; 0; -1)$. Tính $\\cos(\\vec{a}, \\vec{b})$."
+  },
+  {
+    "bbox": [
+      188,
+      1332,
+      519,
+      1410
+    ],
+    "category": "List-item",
+    "text": "A $\\cos(\\vec{a}, \\vec{b}) = -\\frac{1}{100}$."
+  },
+  {
+    "bbox": [
+      876,
+      1332,
+      1176,
+      1410
+    ],
+    "category": "List-item",
+    "text": "B $\\cos(\\vec{a}, \\vec{b}) = \\frac{1}{100}$."
+  },
+  {
+    "bbox": [
+      188,
+      1404,
+      502,
+      1480
+    ],
+    "category": "List-item",
+    "text": "C $\\cos(\\vec{a}, \\vec{b}) = -\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      876,
+      1404,
+      1160,
+      1480
+    ],
+    "category": "List-item",
+    "text": "D $\\cos(\\vec{a}, \\vec{b}) = \\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      153,
+      1480,
+      198,
+      1524
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1470,
+      1239,
+      1572
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $\\cos(\\vec{a}, \\vec{b}) = \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|} = \\frac{0 \\cdot 3 + 3 \\cdot 0 + 1 \\cdot (-1)}{\\sqrt{10} \\cdot \\sqrt{10}} = -\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      153,
+      1586,
+      1547,
+      1673
+    ],
+    "category": "Text",
+    "text": "Câu 12. Khi điều tra chi phí hàng tháng (triệu đồng) của 25 người còn độc thân, thu được mẫu số liệu sau:"
+  },
+  {
+    "bbox": [
+      465,
+      1677,
+      1220,
+      1792
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chi phí</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số người</td><td>5</td><td>5</td><td>7</td><td>5</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1802,
+      1318,
+      1844
+    ],
+    "category": "Text",
+    "text": "Tìm phương sai của mẫu số liệu ghép nhóm trên (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      188,
+      1862,
+      320,
+      1904
+    ],
+    "category": "List-item",
+    "text": "A 6, 62."
+  },
+  {
+    "bbox": [
+      535,
+      1862,
+      663,
+      1904
+    ],
+    "category": "List-item",
+    "text": "B 6, 13."
+  },
+  {
+    "bbox": [
+      876,
+      1862,
+      1008,
+      1904
+    ],
+    "category": "List-item",
+    "text": "C 5, 54."
+  },
+  {
+    "bbox": [
+      1224,
+      1862,
+      1349,
+      1904
+    ],
+    "category": "List-item",
+    "text": "D 5, 82."
+  },
+  {
+    "bbox": [
+      153,
+      1920,
+      198,
+      1964
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1920,
+      1543,
+      2012
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Giá trị đại diện các nhóm: 6, 8, 10, 12, 14. Tần số tương ứng: 5, 5, 7, 5, 3. $n = 25$."
+  },
+  {
+    "bbox": [
+      153,
+      2000,
+      1002,
+      2078
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Trung bình } \\bar{x} = \\frac{5 \\cdot 6 + 5 \\cdot 8 + 7 \\cdot 10 + 5 \\cdot 12 + 3 \\cdot 14}{25} = 9,68.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      2072,
+      1396,
+      2148
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai } s^2 = \\frac{1}{25} (5 \\cdot 6^2 + 5 \\cdot 8^2 + 7 \\cdot 10^2 + 5 \\cdot 12^2 + 3 \\cdot 14^2) - 9,68^2 = 6,6176 \\approx 6,62.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      2160,
+      1547,
+      2202
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mối ý a) b) c) d)"
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      173,
+      2291
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2255,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "69"
+  }
+]

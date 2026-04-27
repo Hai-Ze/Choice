@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      99,
+      618,
+      147
+    ],
+    "category": "Text",
+    "text": "d) Do $M \\in (Oxz)$ nên $M(x; 0; z)$."
+  },
+  {
+    "bbox": [
+      155,
+      175,
+      1277,
+      269
+    ],
+    "category": "Text",
+    "text": "Do $MA \\perp MB$ tại $M$ nên $M$ thuộc mặt cầu $(S): \\left(x+\\frac{1}{2}\\right)^2 + \\left(y-\\frac{3}{2}\\right)^2 + (z-2)^2 = \\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      293,
+      712,
+      335
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ $M$ thỏa mãn hệ phương trình"
+  },
+  {
+    "bbox": [
+      155,
+      351,
+      1016,
+      504
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} \\left(x+\\frac{1}{2}\\right)^2 + \\left(y-\\frac{3}{2}\\right)^2 + (z-2)^2 = \\frac{7}{2} \\\\ y = 0 \\end{cases} \\Leftrightarrow \\begin{cases} \\left(x+\\frac{1}{2}\\right)^2 + (z-2)^2 = \\frac{5}{4} \\\\ y = 0 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      526,
+      1122,
+      622
+    ],
+    "category": "Text",
+    "text": "Suy ra $M$ thuộc đường tròn $(C)$ có tâm $J\\left(-\\frac{1}{2}; 0; 2\\right)$, bán kính $r = \\frac{\\sqrt{5}}{2}$"
+  },
+  {
+    "bbox": [
+      155,
+      647,
+      1124,
+      697
+    ],
+    "category": "Text",
+    "text": "Do $O, M$ cùng thuộc mặt phẳng $(Oxz)$ nên $OM$ nhỏ nhất khi $M \\in OJ$."
+  },
+  {
+    "bbox": [
+      155,
+      720,
+      913,
+      817
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } OM = OJ - r = \\sqrt{\\frac{1}{4} + 4} - \\frac{\\sqrt{5}}{2} = \\frac{\\sqrt{17} - \\sqrt{5}}{2} \\approx 0,94.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      835,
+      1574,
+      996
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhà mạng viễn thông đang triển khai hệ thống phát hiện và chặn các số điện thoại thực hiện cuộc gọi lữa đảo. Tuy nhiên, do hệ thống chưa hoàn hảo, nó có thể chặn nhầm một số điện thoại hợp lệ hoặc bỏ sót một số điện thoại lữa đảo. Hệ thống hoạt động với các thông số sau:"
+  },
+  {
+    "bbox": [
+      155,
+      1007,
+      1382,
+      1054
+    ],
+    "category": "Text",
+    "text": "+Tỷ lệ số điện thoại lữa đảo trong hệ thống: 5% (tức là 5% tổng số thuê bao là số lữa đảo)."
+  },
+  {
+    "bbox": [
+      155,
+      1067,
+      1172,
+      1114
+    ],
+    "category": "Text",
+    "text": "+Xác suất hệ thống phát hiện đúng và chặn một số điện thoại lữa đảo: 94%."
+  },
+  {
+    "bbox": [
+      155,
+      1125,
+      1462,
+      1172
+    ],
+    "category": "Text",
+    "text": "+Xác suất hệ thống chặn nhầm một số điện thoại hợp lệ (tức là số điện thoại không lữa đảo): 3%."
+  },
+  {
+    "bbox": [
+      155,
+      1185,
+      1036,
+      1231
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một số điện thoại đã được thử nghiệm hệ thống."
+  },
+  {
+    "bbox": [
+      155,
+      1242,
+      1308,
+      1289
+    ],
+    "category": "Text",
+    "text": "a) Biết rằng số điện thoại đó là số lữa đảo, xác suất để số điện thoại đó bị chặn là 0.94."
+  },
+  {
+    "bbox": [
+      155,
+      1308,
+      920,
+      1391
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để một số điện thoại bất kỳ bị chặn là $\\frac{151}{2000}$."
+  },
+  {
+    "bbox": [
+      155,
+      1414,
+      1372,
+      1496
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng một số điện thoại bị chặn, xác suất để số điện thoại đó là số lữa đảo bằng $\\frac{90}{151}$."
+  },
+  {
+    "bbox": [
+      155,
+      1519,
+      1469,
+      1602
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng một số điện thoại không bị chặn, xác suất để số điện thoại đó là số hợp lệ bằng $\\frac{1813}{1849}$."
+  },
+  {
+    "bbox": [
+      807,
+      1624,
+      924,
+      1664
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1677,
+      972,
+      1800
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      162,
+      1854,
+      751,
+      1899
+    ],
+    "category": "Text",
+    "text": "A: \"Số điện thoại được chọn là số lữa đảo\";"
+  },
+  {
+    "bbox": [
+      162,
+      1912,
+      529,
+      1958
+    ],
+    "category": "Text",
+    "text": "B: \"Số điện thoại bị chặn\"."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

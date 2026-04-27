@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      98,
+      1048,
+      147
+    ],
+    "category": "Text",
+    "text": "Gọi $S_1$ là diện tích hình phẳng giới hạn bởi các đường $(P_1), y = 0$;"
+  },
+  {
+    "bbox": [
+      161,
+      173,
+      989,
+      222
+    ],
+    "category": "Text",
+    "text": "$S_2$ là diện tích hình phẳng giới hạn bởi các đường $(P_2), x = 0$;"
+  },
+  {
+    "bbox": [
+      161,
+      248,
+      1020,
+      297
+    ],
+    "category": "Text",
+    "text": "$S_3$ là diện tích hình phẳng giới hạn bởi các đường $(P_1)$ và $(P_2)$."
+  },
+  {
+    "bbox": [
+      156,
+      322,
+      1218,
+      373
+    ],
+    "category": "Text",
+    "text": "Từ hình vẽ ta thấy diện tích hình phẳng cần tìm là $S = S_{OABC} - [S_1 + S_2 - S_3]$ (*)"
+  },
+  {
+    "bbox": [
+      156,
+      399,
+      722,
+      448
+    ],
+    "category": "Text",
+    "text": "Gọi phương trình $(P_1)$ là $y = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      156,
+      472,
+      1155,
+      748
+    ],
+    "category": "Text",
+    "text": "Vì $(P_1)$ đi qua $O(0;0), M(3;3), A(8;0)$ nên\n$$ \\begin{cases} c = 0 \\\\ 9a + 3b + c = 3 \\\\ 64a + 8b + c = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = -\\frac{1}{5} \\\\ b = \\frac{8}{5} \\\\ c = 0. \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      156,
+      773,
+      476,
+      854
+    ],
+    "category": "Text",
+    "text": "Suy ra $y = -\\frac{1}{5}x^2 + \\frac{8}{5}x$."
+  },
+  {
+    "bbox": [
+      156,
+      877,
+      747,
+      927
+    ],
+    "category": "Text",
+    "text": "Ta thấy $(P_1)$ và $(P_2)$ đối xứng qua OM nên"
+  },
+  {
+    "bbox": [
+      161,
+      952,
+      619,
+      1049
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = S_2 = \\int_{0}^{8} \\left( -\\frac{1}{5}x^2 + \\frac{8}{5}x \\right) dx = \\frac{256}{15}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1075,
+      1476,
+      1125
+    ],
+    "category": "Text",
+    "text": "Gọi $S_4$ là diện tích hình phẳng giới hạn bởi các đường $(P_1), OM : y = x$, do tính chất đối xứng nên"
+  },
+  {
+    "bbox": [
+      161,
+      1149,
+      695,
+      1247
+    ],
+    "category": "Formula",
+    "text": "$$\nS_3 = 2S_4 = 2 \\int_{0}^{3} \\left[ \\left( -\\frac{1}{5}x^2 + \\frac{8}{5}x \\right) - x \\right] dx = \\frac{9}{5}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1273,
+      924,
+      1361
+    ],
+    "category": "Text",
+    "text": "Thay và (*) ta được $S = 64 - \\left( \\frac{256}{15} + \\frac{256}{15} - \\frac{9}{5} \\right) = \\frac{95}{3} \\approx 32$."
+  },
+  {
+    "bbox": [
+      156,
+      1383,
+      1575,
+      1974
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên mỗi trục tính bằng kilomét và mặt phẳng $Oxy$ trùng với mặt đất, xem mặt đất là mặt phẳng), một máy bay đang bay với vận tốc không đổi trong quá trình tiếp cận đường băng. Lúc 16:00, máy bay ở vị trí $A(4;0;6)$. Một phút sau, máy bay ở vị trí $B(5;3;4,5)$ và sẽ bay tiếp đến điểm $P$ trên đường băng (mặt phẳng $z = 0$). cùng lúc bắt đầu tiếp cận ở $A$, một trực thăng khởi hành từ giàn khoan dầu $C(12;0;0)$ theo hướng tới trạm trên núi $D(-2;14;7)$. Thời gian dự kiến cho chuyển bay này là đúng 5 phút. Biết quỹ đạo bay của trực thăng và máy bay sẽ cắt nhau tại một điểm $M$ nhưng sẽ không xảy ra tai nạn vì thời gian đi qua điểm $M$ của trực thăng và máy bay chênh lệch nhau. tìm thời gian chênh lệch đó là bao nhiêu giây? (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

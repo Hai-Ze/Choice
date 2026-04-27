@@ -1,0 +1,289 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      1546,
+      225
+    ],
+    "category": "List-item",
+    "text": "a) Lợi nhuận khi bán được $x$ đơn vị sản phẩm được tính bằng công thức $P(x) = -0,0008x^2 + 10,4x$."
+  },
+  {
+    "bbox": [
+      188,
+      238,
+      1159,
+      282
+    ],
+    "category": "List-item",
+    "text": "b) Lợi nhuận khi bán được 50 sản phẩm đầu tiên là 519 triệu đồng."
+  },
+  {
+    "bbox": [
+      188,
+      294,
+      1546,
+      382
+    ],
+    "category": "List-item",
+    "text": "c) sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên 55 đơn vị sản phẩm là 49,79 triệu đồng."
+  },
+  {
+    "bbox": [
+      188,
+      393,
+      1546,
+      481
+    ],
+    "category": "List-item",
+    "text": "d) Biết sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên $a$ đơn vị sản phẩm lớn hơn 517 triệu đồng, khi đó giá trị nhỏ nhất của $a$ là 100."
+  },
+  {
+    "bbox": [
+      154,
+      497,
+      199,
+      536
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      497,
+      1501,
+      560
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có hàm lợi nhuận $P(x)$ là nguyên hàm của hàm lợi nhuận biên $P'(x)$:"
+  },
+  {
+    "bbox": [
+      204,
+      570,
+      1016,
+      617
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = \\int (-0,0008x + 10,4)dx = -0,0004x^2 + 10,4x + C.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      631,
+      1373,
+      675
+    ],
+    "category": "Text",
+    "text": "Giả sử khi không bán sản phẩm nào thì lợi nhuận bằng 0, tức $P(0) = 0 \\Rightarrow C = 0$."
+  },
+  {
+    "bbox": [
+      204,
+      694,
+      655,
+      736
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(x) = -0,0004x^2 + 10,4x.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      755,
+      1546,
+      798
+    ],
+    "category": "List-item",
+    "text": "◇ a) **Sai.** Công thức đúng phải là $P(x) = -0,0004x^2 + 10,4x$. Hệ số của $x^2$ trong đề bài bị sai."
+  },
+  {
+    "bbox": [
+      195,
+      812,
+      1546,
+      900
+    ],
+    "category": "List-item",
+    "text": "◇ b) **Đúng.** Lợi nhuận khi bán 50 sản phẩm đầu tiên là: $P(50) = -0,0004 \\cdot (50)^2 + 10,4 \\cdot 50 = -1 + 520 = 519$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      195,
+      915,
+      1036,
+      958
+    ],
+    "category": "List-item",
+    "text": "◇ c) **Sai.** sự thay đổi lợi nhuận từ 50 lên 55 sản phẩm là:"
+  },
+  {
+    "bbox": [
+      235,
+      974,
+      1546,
+      1018
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Delta P = P(55) - P(50) = [-0,0004 \\cdot (55)^2 + 10,4 \\cdot 55] - 519 = 570,79 - 519 = 51,79 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1032,
+      1546,
+      1118
+    ],
+    "category": "List-item",
+    "text": "◇ d) **Sai.** sự thay đổi lợi nhuận từ 50 lên $a$ đơn vị là: $P(a) - P(50) > 517 \\Leftrightarrow -0,0004a^2 + 10,4a - 519 > 517 \\Leftrightarrow -0,0004a^2 + 10,4a - 1036 > 0$."
+  },
+  {
+    "bbox": [
+      235,
+      1135,
+      926,
+      1177
+    ],
+    "category": "Text",
+    "text": "Giải bất phương trình ta được $100 < a < 25900$."
+  },
+  {
+    "bbox": [
+      235,
+      1193,
+      1546,
+      1280
+    ],
+    "category": "Text",
+    "text": "Vì $a > 100$ nên giá trị nhỏ nhất của $a$ không thể là 100 (tại $a = 100$ thì thay đổi đúng bằng 517, không lớn hơn)."
+  },
+  {
+    "bbox": [
+      235,
+      1296,
+      901,
+      1338
+    ],
+    "category": "Text",
+    "text": "Nếu $a$ là số nguyên thì giá trị nhỏ nhất là 101."
+  },
+  {
+    "bbox": [
+      154,
+      1359,
+      191,
+      1396
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1357,
+      1546,
+      1620
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một chiếc máy bay thương mại Vietnam Airlines đang bay trên bầu trời theo một đường thẳng từ $D$ đến $E$ có hình chiếu trên mặt đất là đoạn $CB$. At vị trí $D$ thì máy bay cách mặt đất 9000 m, tại vị trí $E$ thì máy bay cách mặt đất 12000 m. Một ra đa được đặt trên mặt đất tại vị trí $O$ cách $C$ khoảng 20000 m, cách $B$ khoảng 16000 m và góc $\\widehat{BOC} = 90^\\circ$; phạm vi theo dõi của ra đa là 20 km. Xét hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là 1000 m) với $O$ là vị trí đặt ra đa, $B$ thuộc tia $Oy$, $C$ thuộc tia $Ox$."
+  },
+  {
+    "bbox": [
+      188,
+      1640,
+      1384,
+      1682
+    ],
+    "category": "List-item",
+    "text": "a) At $D$, máy bay cách ra đa 21000 m (làm tròn đến hàng nghìn theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      188,
+      1688,
+      1430,
+      1744
+    ],
+    "category": "List-item",
+    "text": "b) Khi máy bay bay đến điểm $I$ thỏa mãn $\\overrightarrow{DI} = \\frac{1}{4}\\overrightarrow{DE}$, máy bay cách mặt đất 9750 m."
+  },
+  {
+    "bbox": [
+      188,
+      1750,
+      1422,
+      1794
+    ],
+    "category": "List-item",
+    "text": "c) Trên hành trình bay từ $D$ đến $E$, máy bay sẽ đi qua điểm có tọa độ $P(16; 3,2; 9,6)$."
+  },
+  {
+    "bbox": [
+      188,
+      1806,
+      1546,
+      1893
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách giữa vị trí đầu tiên và vị trí cuối cùng mà máy bay bay trong phạm vi theo dõi của ra đa là 22500 m (làm tròn đến hàng trăm theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      154,
+      1911,
+      199,
+      1948
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1907,
+      1546,
+      2055
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Từ giả thiết, ta xác định tọa độ các điểm (đơn vị: km): $O(0; 0; 0)$, $C(20; 0; 0)$, $B(0; 16; 0)$. Do $D, E$ có hình chiếu là $C, B$ và độ cao tương ứng là 9 km, 12 km nên: $D(20; 0; 9)$ và $E(0; 16; 12)$."
+  },
+  {
+    "bbox": [
+      195,
+      2071,
+      1546,
+      2158
+    ],
+    "category": "List-item",
+    "text": "◇ a) **Sai.** Khoảng cách từ $D$ đến $O$ là: $OD = \\sqrt{20^2 + 0^2 + 9^2} = \\sqrt{481} \\approx 21,932$ km $\\approx 21932$ m."
+  },
+  {
+    "bbox": [
+      235,
+      2176,
+      1262,
+      2219
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng nghìn ta được 22000 m. Khẳng định 21000 m là sai."
+  },
+  {
+    "bbox": [
+      158,
+      2255,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1599,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "43"
+  }
+]

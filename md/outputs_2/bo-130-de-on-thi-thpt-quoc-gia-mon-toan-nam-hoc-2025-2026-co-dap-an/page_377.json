@@ -1,0 +1,439 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      322,
+      119,
+      969,
+      393
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>3</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>2</td><td>-4</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      426,
+      816,
+      464
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      123,
+      464,
+      248,
+      503
+    ],
+    "category": "List-item",
+    "text": "(A) (0; 3)."
+  },
+  {
+    "bbox": [
+      395,
+      464,
+      559,
+      503
+    ],
+    "category": "List-item",
+    "text": "(B) (3; $+\\infty$)."
+  },
+  {
+    "bbox": [
+      668,
+      464,
+      830,
+      503
+    ],
+    "category": "List-item",
+    "text": "(C) ($-\\infty$; 3)."
+  },
+  {
+    "bbox": [
+      940,
+      464,
+      1101,
+      503
+    ],
+    "category": "List-item",
+    "text": "(D) (0; $+\\infty$)."
+  },
+  {
+    "bbox": [
+      93,
+      519,
+      1196,
+      562
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hàm số $f(x)$ liên tục trên $[a; c]$ và $b$ là số thực tùy ý thuộc đoạn $[a; c]$."
+  },
+  {
+    "bbox": [
+      93,
+      562,
+      1196,
+      713
+    ],
+    "category": "Text",
+    "text": "Nếu biết $\\int_a^b f(x) \\, dx = -5$ và $\\int_b^c f(x) \\, dx = 10$ thì giá trị của $\\int_a^c f(x) \\, dx$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      123,
+      713,
+      195,
+      754
+    ],
+    "category": "List-item",
+    "text": "(A) 5."
+  },
+  {
+    "bbox": [
+      395,
+      713,
+      490,
+      754
+    ],
+    "category": "List-item",
+    "text": "(B) -5."
+  },
+  {
+    "bbox": [
+      668,
+      713,
+      754,
+      754
+    ],
+    "category": "List-item",
+    "text": "(C) 15."
+  },
+  {
+    "bbox": [
+      940,
+      713,
+      1050,
+      754
+    ],
+    "category": "List-item",
+    "text": "(D) -15."
+  },
+  {
+    "bbox": [
+      93,
+      769,
+      1196,
+      852
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Trong không gian với hệ tọa độ $Oxyz$, với $\\vec{i}$, $\\vec{j}$, $\\vec{k}$ là các vecto đơn vị trên trục $Ox$, $Oy$, $Oz$ tương ứng và vecto $\\vec{a} = (1; 0; 1)$. Kết quả nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      848,
+      398,
+      889
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{a} = \\vec{i} + \\vec{j} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      668,
+      848,
+      880,
+      889
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{a} = \\vec{j} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      123,
+      889,
+      335,
+      934
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{a} = \\vec{i} + \\vec{j}$."
+  },
+  {
+    "bbox": [
+      668,
+      889,
+      880,
+      934
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{a} = \\vec{i} + \\vec{k}$."
+  },
+  {
+    "bbox": [
+      93,
+      950,
+      858,
+      992
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Tìm nguyên hàm của hàm số $f(x) = 2026 \\sin x$."
+  },
+  {
+    "bbox": [
+      123,
+      992,
+      635,
+      1064
+    ],
+    "category": "List-item",
+    "text": "(A) $\\int 2026 \\sin x \\, dx = -2026 \\cos x + C$."
+  },
+  {
+    "bbox": [
+      668,
+      992,
+      1145,
+      1064
+    ],
+    "category": "List-item",
+    "text": "(B) $\\int 2026 \\sin x \\, dx = \\sin 1013x + C$."
+  },
+  {
+    "bbox": [
+      123,
+      1064,
+      621,
+      1134
+    ],
+    "category": "List-item",
+    "text": "(C) $\\int 2026 \\sin x \\, dx = 1013 \\sin^2 x + C$."
+  },
+  {
+    "bbox": [
+      668,
+      1064,
+      1154,
+      1134
+    ],
+    "category": "List-item",
+    "text": "(D) $\\int 2026 \\sin x \\, dx = 2026 \\cos x + C$."
+  },
+  {
+    "bbox": [
+      93,
+      1147,
+      858,
+      1188
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho mẫu số liệu ghép nhóm như bảng dưới đây"
+  },
+  {
+    "bbox": [
+      304,
+      1216,
+      984,
+      1365
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>$[u_1; u_2)$</td><td>$[u_2; u_3)$</td><td>$\\dots$</td><td>$[u_k; u_{k+1})$</td></tr><tr><td>Giá trị đại diện</td><td>$c_1$</td><td>$c_2$</td><td>$\\dots$</td><td>$c_k$</td></tr><tr><td>Tần số</td><td>$n_1$</td><td>$n_2$</td><td>$\\dots$</td><td>$n_k$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1401,
+      902,
+      1439
+    ],
+    "category": "Text",
+    "text": "Khi đó phương sai của mẫu số liệu được tính theo công thức"
+  },
+  {
+    "bbox": [
+      123,
+      1435,
+      863,
+      1507
+    ],
+    "category": "List-item",
+    "text": "(A) $s^2 = \\frac{1}{n} [n_1 (c_1 - \\bar{x}) + n_2 (c_2 - \\bar{x}) + \\dots + n_k (c_k - \\bar{x})]$."
+  },
+  {
+    "bbox": [
+      123,
+      1503,
+      918,
+      1571
+    ],
+    "category": "List-item",
+    "text": "(B) $s^2 = \\frac{1}{n} [n_1 (c_1 - \\bar{x})^2 + n_2 (c_2 - \\bar{x})^2 + \\dots + n_k (c_k - \\bar{x})^2]$."
+  },
+  {
+    "bbox": [
+      123,
+      1567,
+      926,
+      1635
+    ],
+    "category": "List-item",
+    "text": "(C) $s^2 = \\frac{1}{n^2} [n_1 (c_1 - \\bar{x})^2 + n_2 (c_2 - \\bar{x})^2 + \\dots + n_k (c_k - \\bar{x})^2]$."
+  },
+  {
+    "bbox": [
+      123,
+      1631,
+      878,
+      1698
+    ],
+    "category": "List-item",
+    "text": "(D) $s^2 = \\frac{1}{n^2} [n_1 (c_1 - \\bar{x}) + n_2 (c_2 - \\bar{x}) + \\dots + n_k (c_k - \\bar{x})]$."
+  },
+  {
+    "bbox": [
+      93,
+      1706,
+      1196,
+      1824
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $A$ và đường thẳng $SA$ đồng thời vuông góc với hai đường thẳng $AB$ và $BC$. Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      1824,
+      356,
+      1865
+    ],
+    "category": "List-item",
+    "text": "(A) $SB \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      395,
+      1824,
+      635,
+      1865
+    ],
+    "category": "List-item",
+    "text": "(B) $BC \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      668,
+      1824,
+      902,
+      1865
+    ],
+    "category": "List-item",
+    "text": "(C) $AC \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      940,
+      1824,
+      1168,
+      1865
+    ],
+    "category": "List-item",
+    "text": "(D) $SC \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      93,
+      1880,
+      823,
+      1934
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1942,
+      1196,
+      2094
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty bất động sản thực hiện cuộc khảo sát khách hàng xem họ có nhu cầu mua ở mức giá nào cho một căn nhà, để tiến hành dự án xây dựng khu đô thị mới Bắc Sông Hương sắp tới. Kết quả khảo sát khách hàng được ghi lại ở bảng sau"
+  },
+  {
+    "bbox": [
+      170,
+      2118,
+      1123,
+      2219
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức giá (triệu đồng/m²)</td><td>$[10; 14)$</td><td>$[14; 18)$</td><td>$[18; 22)$</td><td>$[22; 26)$</td><td>$[26; 30)$</td></tr><tr><td>Số khách hàng</td><td>75</td><td>105</td><td>197</td><td>80</td><td>43</td></tr></table>"
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1503,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1226,
+      2259,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 375"
+  }
+]

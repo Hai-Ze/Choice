@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1514,
+      197
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, đồ thị hàm số có tiệm cận đứng là đường thẳng $x = 2$ nên ta loại đáp án **B**.\nDựa vào bảng biến thiên, đồ thị hàm số có tiệm cận ngang là đường thẳng $y = 2$ nên ta loại đáp án **D**."
+  },
+  {
+    "bbox": [
+      155,
+      222,
+      862,
+      316
+    ],
+    "category": "Text",
+    "text": "Xét đáp án A có $y' = \\frac{3}{(x-2)^2} > 0$ nên loại đáp án **A**."
+  },
+  {
+    "bbox": [
+      155,
+      342,
+      1049,
+      440
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho $\\int_{0}^{5} f(x)dx = -2$. Tích phân $\\int_{0}^{5} [4f(x) - 3x^2]dx$ bằng"
+  },
+  {
+    "bbox": [
+      205,
+      466,
+      336,
+      501
+    ],
+    "category": "List-item",
+    "text": "A. -140."
+  },
+  {
+    "bbox": [
+      555,
+      466,
+      685,
+      501
+    ],
+    "category": "List-item",
+    "text": "B. -130."
+  },
+  {
+    "bbox": [
+      906,
+      466,
+      1037,
+      501
+    ],
+    "category": "List-item",
+    "text": "C. -120."
+  },
+  {
+    "bbox": [
+      1255,
+      466,
+      1382,
+      501
+    ],
+    "category": "List-item",
+    "text": "D. -133."
+  },
+  {
+    "bbox": [
+      807,
+      525,
+      924,
+      563
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      583,
+      279,
+      622
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      640,
+      1118,
+      737
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{5} [4f(x) - 3x^2]dx = 4\\int_{0}^{5} f(x)dx - \\int_{0}^{5} 3x^2dx = -8 - x^3 \\Big|_{0}^{5} = -8 - 125 = -133.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      762,
+      1570,
+      860
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Thời gian sử dụng điện thoại trong một ngày của 30 sinh viên được ghi lại ở bảng sau (đơn vị: phút)."
+  },
+  {
+    "bbox": [
+      223,
+      875,
+      1503,
+      1005
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0; 60)</td><td>[60; 120)</td><td>[120; 180)</td><td>[180; 240)</td><td>[240; 300)</td></tr><tr><td>Số sinh viên</td><td>2</td><td>7</td><td>7</td><td>10</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1061,
+      1429,
+      1106
+    ],
+    "category": "Text",
+    "text": "Hãy tìm khoảng tức phân vị của mẫu số liệu ghép nhóm trên (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      205,
+      1124,
+      313,
+      1158
+    ],
+    "category": "List-item",
+    "text": "A. 112."
+  },
+  {
+    "bbox": [
+      555,
+      1124,
+      664,
+      1158
+    ],
+    "category": "List-item",
+    "text": "B. 117."
+  },
+  {
+    "bbox": [
+      906,
+      1124,
+      1014,
+      1158
+    ],
+    "category": "List-item",
+    "text": "C. 122."
+  },
+  {
+    "bbox": [
+      1255,
+      1124,
+      1370,
+      1158
+    ],
+    "category": "List-item",
+    "text": "D. 127."
+  },
+  {
+    "bbox": [
+      807,
+      1182,
+      924,
+      1220
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1241,
+      279,
+      1279
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1297,
+      1040,
+      1342
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2; \\dots; x_{30}$ là mẫu số liệu được xếp theo thứ tự không giảm."
+  },
+  {
+    "bbox": [
+      155,
+      1371,
+      1021,
+      1483
+    ],
+    "category": "Text",
+    "text": "Ta có: $x_1, x_2 \\in [0; 60)$; $x_3, \\dots, x_9 \\in [60; 120)$; $x_{10}, \\dots, x_{16} \\in [120; 180)$;\n$x_{17}, \\dots, x_{26} \\in [180; 240)$; $x_{27}, \\dots, x_{30} \\in [240; 300)$."
+  },
+  {
+    "bbox": [
+      155,
+      1511,
+      1555,
+      1592
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ hai của mẫu số liệu ghép nhóm là $\\frac{1}{2}(x_{15} + x_{16})$. Do $x_{15}$ và $x_{16}$ thuộc nhóm $[120; 180)$ nên"
+  },
+  {
+    "bbox": [
+      155,
+      1618,
+      1520,
+      1737
+    ],
+    "category": "Text",
+    "text": "tứ phân vị thứ hai của mẫu số liệu ghép nhóm là: $Q_2 = 120 + \\frac{\\frac{30}{2} - (2+7)}{7} \\cdot (180-120) = \\frac{1200}{7} \\approx 171,43$."
+  },
+  {
+    "bbox": [
+      155,
+      1758,
+      1542,
+      1803
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu là $x_8 \\in [60; 120)$. Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      155,
+      1834,
+      751,
+      1953
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 60 + \\frac{\\frac{30}{4} - 2}{7} \\cdot (120 - 60) = \\frac{750}{7} \\approx 107,14.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1974,
+      1498,
+      2020
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu là $x_{23} \\in [180; 240)$. Do đó, tứ phân vị thứ ba của mẫu số liệu ghép"
+  },
+  {
+    "bbox": [
+      155,
+      2050,
+      915,
+      2168
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{nhóm là } Q_3 = 180 + \\frac{\\frac{3 \\cdot 30}{4} - (2+7+7)}{10} \\cdot (240 - 180) = 219.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2190,
+      955,
+      2236
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là: $\\Delta_Q \\approx 112$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

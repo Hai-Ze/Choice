@@ -1,0 +1,431 @@
+[
+  {
+    "bbox": [
+      574,
+      121,
+      1380,
+      466
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      510,
+      1066,
+      559
+    ],
+    "category": "Text",
+    "text": "Số đường tiệm cận ngang của đồ thị hàm số $y = f(x)$"
+  },
+  {
+    "bbox": [
+      336,
+      603,
+      396,
+      637
+    ],
+    "category": "List-item",
+    "text": "A. 1"
+  },
+  {
+    "bbox": [
+      673,
+      603,
+      737,
+      637
+    ],
+    "category": "List-item",
+    "text": "B. 4"
+  },
+  {
+    "bbox": [
+      989,
+      603,
+      1052,
+      637
+    ],
+    "category": "List-item",
+    "text": "C. 2"
+  },
+  {
+    "bbox": [
+      1305,
+      603,
+      1375,
+      637
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      197,
+      666,
+      1625,
+      784
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Cho hai mặt phẳng $(P): 2x - y - z - 3 = 0$ và $(Q): x - z - 2 = 0$. Góc giữa hai mặt phẳng $(P)$ và $(Q)$ bằng"
+  },
+  {
+    "bbox": [
+      336,
+      804,
+      438,
+      838
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      673,
+      804,
+      775,
+      838
+    ],
+    "category": "List-item",
+    "text": "B. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      989,
+      804,
+      1091,
+      838
+    ],
+    "category": "List-item",
+    "text": "C. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      1305,
+      804,
+      1407,
+      838
+    ],
+    "category": "List-item",
+    "text": "D. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      197,
+      861,
+      1413,
+      905
+    ],
+    "category": "List-item",
+    "text": "**Câu 7:** Cho bảng số liệu khảo sát về tuổi thọ (đơn vị: nghìn giờ) của một loại bóng đen:"
+  },
+  {
+    "bbox": [
+      197,
+      905,
+      1503,
+      1017
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ</td><td>[3;5)</td><td>[5;7)</td><td>[7;9)</td><td>[9;11)</td><td>[11;13)</td></tr><tr><td>Số bóng đen</td><td>11</td><td>20</td><td>29</td><td>40</td><td>30</td></tr></table>"
+  },
+  {
+    "bbox": [
+      336,
+      1015,
+      870,
+      1059
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tứ phân vị của mẫu số liệu."
+  },
+  {
+    "bbox": [
+      336,
+      1087,
+      513,
+      1167
+    ],
+    "category": "List-item",
+    "text": "A. $\\Delta_Q = \\frac{87}{8}$."
+  },
+  {
+    "bbox": [
+      673,
+      1087,
+      858,
+      1167
+    ],
+    "category": "List-item",
+    "text": "B. $\\Delta_Q = \\frac{206}{29}$."
+  },
+  {
+    "bbox": [
+      989,
+      1087,
+      1193,
+      1167
+    ],
+    "category": "List-item",
+    "text": "C. $\\Delta_Q = \\frac{4171}{232}$."
+  },
+  {
+    "bbox": [
+      1305,
+      1087,
+      1495,
+      1167
+    ],
+    "category": "List-item",
+    "text": "D. $\\Delta_Q = \\frac{875}{232}$."
+  },
+  {
+    "bbox": [
+      197,
+      1196,
+      1625,
+      1310
+    ],
+    "category": "List-item",
+    "text": "**Câu 8:** Trong không gian $Oxyz$, cho mặt cầu $(S): (x-1)^2 + (y+4)^2 + z^2 = 9$. Toạ độ tâm $I$ và bán kính $r$ của mặt cầu $(S)$ là"
+  },
+  {
+    "bbox": [
+      336,
+      1326,
+      628,
+      1370
+    ],
+    "category": "List-item",
+    "text": "A. $I(1;-4;0), r = 9$."
+  },
+  {
+    "bbox": [
+      989,
+      1326,
+      1258,
+      1370
+    ],
+    "category": "List-item",
+    "text": "B. $I(1;4;0), r = 3$."
+  },
+  {
+    "bbox": [
+      336,
+      1386,
+      632,
+      1430
+    ],
+    "category": "List-item",
+    "text": "C. $I(-1;4;0), r = 9$."
+  },
+  {
+    "bbox": [
+      989,
+      1386,
+      1279,
+      1430
+    ],
+    "category": "List-item",
+    "text": "D. $I(1;-4;0), r = 3$."
+  },
+  {
+    "bbox": [
+      197,
+      1461,
+      1100,
+      1561
+    ],
+    "category": "List-item",
+    "text": "**Câu 9:** Nếu $\\int_{1}^{2} f(x)dx = -3$ và $\\int_{2}^{5} f(x)dx = 5$ thì $\\int_{1}^{5} f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      336,
+      1571,
+      430,
+      1605
+    ],
+    "category": "List-item",
+    "text": "A. $-8$."
+  },
+  {
+    "bbox": [
+      673,
+      1571,
+      749,
+      1605
+    ],
+    "category": "List-item",
+    "text": "B. $2$."
+  },
+  {
+    "bbox": [
+      989,
+      1571,
+      1066,
+      1605
+    ],
+    "category": "List-item",
+    "text": "C. $8$."
+  },
+  {
+    "bbox": [
+      1305,
+      1571,
+      1401,
+      1605
+    ],
+    "category": "List-item",
+    "text": "D. $-2$."
+  },
+  {
+    "bbox": [
+      197,
+      1632,
+      1625,
+      1730
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Cho khối chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, $SA = a\\sqrt{3}$ vuông góc với đáy. Thể tích khối chóp đã cho bằng"
+  },
+  {
+    "bbox": [
+      336,
+      1734,
+      469,
+      1804
+    ],
+    "category": "List-item",
+    "text": "A. $a^3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      673,
+      1734,
+      808,
+      1828
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{a^3\\sqrt{3}}{12}$."
+  },
+  {
+    "bbox": [
+      989,
+      1734,
+      1083,
+      1828
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{a^3}{4}$."
+  },
+  {
+    "bbox": [
+      1305,
+      1734,
+      1442,
+      1828
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{a^3\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      197,
+      1855,
+      1223,
+      1903
+    ],
+    "category": "List-item",
+    "text": "**Câu 11:** Cho cấp số cộng $(u_n)$, biết $u_1 = 3$ và $u_4 = 9$. Giá trị của $u_{15}$ bằng"
+  },
+  {
+    "bbox": [
+      336,
+      1917,
+      426,
+      1951
+    ],
+    "category": "List-item",
+    "text": "A. 31."
+  },
+  {
+    "bbox": [
+      673,
+      1917,
+      763,
+      1951
+    ],
+    "category": "List-item",
+    "text": "B. 33."
+  },
+  {
+    "bbox": [
+      989,
+      1917,
+      1083,
+      1951
+    ],
+    "category": "List-item",
+    "text": "C. 29."
+  },
+  {
+    "bbox": [
+      1305,
+      1917,
+      1401,
+      1951
+    ],
+    "category": "List-item",
+    "text": "D. 87."
+  },
+  {
+    "bbox": [
+      197,
+      1982,
+      917,
+      2028
+    ],
+    "category": "List-item",
+    "text": "**Câu 12:** Tập nghiệm của bất phương trình $3^x \\ge 5$ là"
+  },
+  {
+    "bbox": [
+      336,
+      2034,
+      563,
+      2078
+    ],
+    "category": "List-item",
+    "text": "A. $(\\log_3 5; +\\infty)$."
+  },
+  {
+    "bbox": [
+      673,
+      2034,
+      893,
+      2078
+    ],
+    "category": "List-item",
+    "text": "B. $[\\log_3 5; +\\infty)$."
+  },
+  {
+    "bbox": [
+      989,
+      2034,
+      1216,
+      2078
+    ],
+    "category": "List-item",
+    "text": "C. $(\\log_5 3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1305,
+      2034,
+      1527,
+      2078
+    ],
+    "category": "List-item",
+    "text": "D. $[\\log_5 3; +\\infty)$."
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      101,
+      1232,
+      145
+    ],
+    "category": "Text",
+    "text": "Gọi C: “Bệnh nhân gặp tác dụng phụ nghiêm trọng” thì $P(C) = 0,025 + 0,05 = 0,075$."
+  },
+  {
+    "bbox": [
+      76,
+      176,
+      1092,
+      221
+    ],
+    "category": "Text",
+    "text": "c) Gọi C: “Bệnh nhân gặp tác dụng phụ nghiêm trọng” ta có $P(C) = 0,075$."
+  },
+  {
+    "bbox": [
+      76,
+      242,
+      1495,
+      354
+    ],
+    "category": "Text",
+    "text": "Xác xuất để bệnh nhân được điều trị bằng phác đồ B và gặp tác dụng phụ nghiêm trọng\n$P(B \\cap C) = 0,5 \\cdot 0,1 = 0,05$"
+  },
+  {
+    "bbox": [
+      76,
+      375,
+      1495,
+      534
+    ],
+    "category": "Text",
+    "text": "Suy ra xác suất bệnh nhân đã được điều trị bằng phác đồ B, biết rằng bệnh nhân này gặp tác dụng phụ nghiêm trọng là $P(B|C) = \\frac{P(B \\cap C)}{P(C)} = \\frac{0,05}{0,075} = \\frac{2}{3} > 0,65$."
+  },
+  {
+    "bbox": [
+      76,
+      563,
+      1355,
+      644
+    ],
+    "category": "Text",
+    "text": "d) Gọi D là biến cố “bệnh nhân được chữa khỏi bệnh” suy ra $P(D) = \\frac{1}{2}(P(X) + P(M)) = 0,65$"
+  },
+  {
+    "bbox": [
+      76,
+      661,
+      1495,
+      807
+    ],
+    "category": "Text",
+    "text": "Gọi E là biến cố “bệnh nhân không bị tác dụng phụ nghiêm trọng” suy ra\n$P(E) = \\frac{1}{2}(P(\\bar{Y}) + P(\\bar{N})) = \\frac{1}{2}(0,95 + 0,9) = 0,925$."
+  },
+  {
+    "bbox": [
+      76,
+      826,
+      1495,
+      939
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để bệnh nhân chữa khỏi bệnh và không bị tác dụng phụ nghiêm trọng là $P(D \\cap E) = P(D) \\cdot P(E) = 0,60125$"
+  },
+  {
+    "bbox": [
+      76,
+      958,
+      1495,
+      1061
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Khảo sát chuyển động của xe khách trong 30 phút trên một quăng đường ta thu được kết quả: vận tốc $v$ (mét/phút) của xe khách theo thời gian $t$ (phút) được biểu diễn bởi hàm số:"
+  },
+  {
+    "bbox": [
+      541,
+      1081,
+      1029,
+      1227
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = \\begin{cases} 100t & \\text{khi } 0 \\le t \\le 10 \\\\ 20t + 800 & \\text{khi } 10 < t \\le 20 \\\\ -10t + 1400 & \\text{khi } 20 < t \\le 30 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      468,
+      1251,
+      1096,
+      1585
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1602,
+      828,
+      1647
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của xe khách ở phút thứ 8 là 800 (mét/phút)"
+  },
+  {
+    "bbox": [
+      76,
+      1660,
+      861,
+      1705
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của xe khách ở phút thứ 20 là 1000 (mét/phút)"
+  },
+  {
+    "bbox": [
+      76,
+      1726,
+      1141,
+      1772
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chuyển động của xe khách trong 30 phút khảo sát là $2750(m)$."
+  },
+  {
+    "bbox": [
+      76,
+      1793,
+      1495,
+      1898
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc trung bình của xe khách trong 30 phút khảo sát là 910 (mét/phút) (làm tròn kết quả đến hàng đơn vị của mét/phút)"
+  },
+  {
+    "bbox": [
+      727,
+      1916,
+      843,
+      1955
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1970,
+      893,
+      2092
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2153,
+      1036,
+      2200
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của xe khách ở phút thứ 8 là: $v(8) = 100 \\cdot 8 = 800$ (mét/phút)"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

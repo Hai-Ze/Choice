@@ -1,0 +1,329 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1542,
+      182
+    ],
+    "category": "Text",
+    "text": "Điều Câu 4. Đường cong trong hình vẽ bên dưới là đồ thị hàm số nào trong bốn hàm số dưới đây?"
+  },
+  {
+    "bbox": [
+      561,
+      182,
+      1138,
+      827
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      885,
+      439,
+      965
+    ],
+    "category": "Formula",
+    "text": "A $y = \\frac{-2x + 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      876,
+      903,
+      1171,
+      947
+    ],
+    "category": "Formula",
+    "text": "B $y = -x^3 + x + 1$."
+  },
+  {
+    "bbox": [
+      188,
+      958,
+      439,
+      1037
+    ],
+    "category": "Formula",
+    "text": "C $y = \\frac{-2x - 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      876,
+      975,
+      1201,
+      1019
+    ],
+    "category": "Formula",
+    "text": "D $y = -x^4 + 2x^2 + 1$."
+  },
+  {
+    "bbox": [
+      153,
+      1037,
+      198,
+      1075
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1035,
+      1436,
+      1097
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Đồ thị hàm số có tiệm cận đứng $x = -1$ và tiệm cận ngang $y = -2$."
+  },
+  {
+    "bbox": [
+      204,
+      1095,
+      568,
+      1136
+    ],
+    "category": "Text",
+    "text": "Đồ thị đi qua điểm $(0; 1)$."
+  },
+  {
+    "bbox": [
+      204,
+      1134,
+      649,
+      1211
+    ],
+    "category": "Text",
+    "text": "Kiểm tra hàm số $y = \\frac{-2x + 1}{x + 1}$:"
+  },
+  {
+    "bbox": [
+      204,
+      1205,
+      618,
+      1240
+    ],
+    "category": "Formula",
+    "text": "- TCĐ: $x + 1 = 0 \\Leftrightarrow x = -1$."
+  },
+  {
+    "bbox": [
+      204,
+      1236,
+      523,
+      1311
+    ],
+    "category": "Formula",
+    "text": "- TCN: $y = \\frac{-2}{1} = -2$."
+  },
+  {
+    "bbox": [
+      204,
+      1309,
+      639,
+      1348
+    ],
+    "category": "Formula",
+    "text": "- Tại $x = 0, y = 1$ (thỏa mãn)."
+  },
+  {
+    "bbox": [
+      153,
+      1369,
+      1547,
+      1453
+    ],
+    "category": "Text",
+    "text": "Điều Câu 5. Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng):"
+  },
+  {
+    "bbox": [
+      446,
+      1461,
+      1251,
+      1577
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1586,
+      1283,
+      1627
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình của mẫu số liệu ghép nhóm trên thuộc khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      191,
+      1646,
+      325,
+      1690
+    ],
+    "category": "List-item",
+    "text": "A [7; 9)."
+  },
+  {
+    "bbox": [
+      535,
+      1646,
+      686,
+      1690
+    ],
+    "category": "List-item",
+    "text": "B [9; 11)."
+  },
+  {
+    "bbox": [
+      879,
+      1646,
+      1044,
+      1690
+    ],
+    "category": "List-item",
+    "text": "C [11; 13)."
+  },
+  {
+    "bbox": [
+      1224,
+      1646,
+      1387,
+      1690
+    ],
+    "category": "List-item",
+    "text": "D [13; 15)."
+  },
+  {
+    "bbox": [
+      153,
+      1706,
+      198,
+      1744
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1704,
+      1547,
+      1766
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Giá trị đại diện của các nhóm lần lượt là: $x_1 = 6, x_2 = 8, x_3 = 10, x_4 =$"
+  },
+  {
+    "bbox": [
+      153,
+      1762,
+      320,
+      1797
+    ],
+    "category": "Formula",
+    "text": "$12, x_5 = 14$."
+  },
+  {
+    "bbox": [
+      204,
+      1822,
+      509,
+      1859
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình là:"
+  },
+  {
+    "bbox": [
+      204,
+      1869,
+      1336,
+      1949
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{2 \\cdot 6 + 7 \\cdot 8 + 7 \\cdot 10 + 3 \\cdot 12 + 1 \\cdot 14}{20} = \\frac{12 + 56 + 70 + 36 + 14}{20} = \\frac{188}{20} = 9,4.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1962,
+      665,
+      2002
+    ],
+    "category": "Text",
+    "text": "Giá trị 9,4 thuộc khoảng [9; 11)."
+  },
+  {
+    "bbox": [
+      153,
+      2022,
+      1547,
+      2104
+    ],
+    "category": "Text",
+    "text": "Điều Câu 6. Cho cấp số nhân ($u_n$) với $u_1 = 2$ và công bội $q = 3$. Tìm số hạng thứ 4 của cấp số nhân?"
+  },
+  {
+    "bbox": [
+      191,
+      2127,
+      288,
+      2170
+    ],
+    "category": "List-item",
+    "text": "A 24."
+  },
+  {
+    "bbox": [
+      535,
+      2127,
+      632,
+      2170
+    ],
+    "category": "List-item",
+    "text": "B 54."
+  },
+  {
+    "bbox": [
+      879,
+      2127,
+      989,
+      2170
+    ],
+    "category": "List-item",
+    "text": "C 162."
+  },
+  {
+    "bbox": [
+      1224,
+      2127,
+      1319,
+      2170
+    ],
+    "category": "List-item",
+    "text": "D 48."
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      829,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1598,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "81"
+  }
+]

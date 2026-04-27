@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      114,
+      101,
+      1115,
+      183
+    ],
+    "category": "Formula",
+    "text": "c) $P(A) = P(B)P(A|B) + P(\\bar{B})P(A|\\bar{B}) = \\frac{18}{25} \\cdot 0,7 + \\frac{7}{25} \\cdot 0,2 = 0,56 \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      114,
+      185,
+      1382,
+      282
+    ],
+    "category": "Text",
+    "text": "d) Trong số những học sinh thực sự xét học bạ có ít hơn 80% học sinh đã trả lời sẽ xét học bạ nghĩa là $P(B|A) < 80\\%$."
+  },
+  {
+    "bbox": [
+      114,
+      295,
+      1151,
+      422
+    ],
+    "category": "Formula",
+    "text": "Ta thấy $P(B|A) = \\frac{P(BA)}{P(A)} = \\frac{P(AB)}{P(A)} = \\frac{P(A|B)P(B)}{P(A)} = \\frac{0,7 \\cdot \\frac{18}{25}}{0,56} = 90\\% \\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      66,
+      426,
+      1012,
+      766
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong hệ trục $Oxyz$ (đơn vị trên mỗi trục là km), một số người gặp nạn đã chế tạo ra máy phát tín hiệu cứu nạn đặt tại vị trí $T(-2;1;4)$ với bán kính phát tín hiệu tối đa là $10 \\text{ km}$. Cách đó có mộtchiếctrục thăng tuần tra của cảnh sát không gian đang bay từ vị trí $P(8;3;14)$ theo phương vecto $\\vec{u} = (5;-2;1)$ với tốc độ $200 (\\text{km/h})$. (tham khảo hình vẽ). Các khẳng định sau đây đúng hay sai ?"
+  },
+  {
+    "bbox": [
+      1220,
+      456,
+      1614,
+      620
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1054,
+      698,
+      1252,
+      879
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      962,
+      1105,
+      1043
+    ],
+    "category": "Formula",
+    "text": "a) Phương trình đường bay của cảnh sát tuần tra là $\\frac{x-8}{5} = \\frac{y-3}{-2} = \\frac{z-14}{1}$."
+  },
+  {
+    "bbox": [
+      114,
+      1051,
+      1166,
+      1095
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình vùng phủ sóng cứu nạn là $x^2 + y^2 + z^2 + 4x - 2y - 8z - 93 = 0$."
+  },
+  {
+    "bbox": [
+      114,
+      1103,
+      1072,
+      1151
+    ],
+    "category": "Formula",
+    "text": "c) Khi máy bay bay đến vị trí $(-2;7;12)$ thì phát hiện tín hiệu cứu nạn."
+  },
+  {
+    "bbox": [
+      114,
+      1155,
+      1278,
+      1200
+    ],
+    "category": "Formula",
+    "text": "d) Khi vừa phát hiện tín hiệu cứu nạn, máy bay cần 2 phút để đến vị trí người gặp nạn."
+  },
+  {
+    "bbox": [
+      114,
+      1200,
+      219,
+      1235
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      114,
+      1239,
+      1511,
+      1386
+    ],
+    "category": "Formula",
+    "text": "a) Phương trình đường bay của cảnh sát tuần tra đi qua $P(8;3;14)$ và có vecto chỉ phương $\\vec{u} = (5;-2;1) \\Rightarrow \\frac{x-8}{5} = \\frac{y-3}{-2} = \\frac{z-14}{1} \\rightarrow \\mathbf{D}$."
+  },
+  {
+    "bbox": [
+      114,
+      1394,
+      1421,
+      1441
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình vùng phủ sóng cứu nạn là phương trình mặt cầu $T(-2;1;4)$, bán kính $10 \\text{ km}$"
+  },
+  {
+    "bbox": [
+      154,
+      1453,
+      1040,
+      1562
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Phương trình mặt cầu: } (S): (x+2)^2 + (y-1)^2 + (z-4)^2 &= 100 \\\\ \\Leftrightarrow x^2 + y^2 + z^2 + 4x - 2y - 8z - 79 &= 0 \\rightarrow \\mathbf{S}. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1571,
+      1463,
+      1653
+    ],
+    "category": "Formula",
+    "text": "c) Ta tìm giao điểm của đường bay $\\frac{x-8}{5} = \\frac{y-3}{-2} = \\frac{z-14}{1}$ và $(S): (x+2)^2 + (y-1)^2 + (z-4)^2 = 100$"
+  },
+  {
+    "bbox": [
+      154,
+      1657,
+      1382,
+      1811
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta được: } (5t+8+2)^2 + (-2t+3-1)^2 + (t+14-4)^2 = 100 \\Leftrightarrow \\begin{cases} t = -2 \\Rightarrow M_1(-2;7;12) \\\\ t = -\\frac{26}{15} \\Rightarrow M_2\\left(-\\frac{2}{3};\\frac{97}{15};\\frac{184}{15}\\right) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1821,
+      1120,
+      1907
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta nhận thấy } PM_1 > PM_2 \\text{ nên điểm đầu tiên là } M_2\\left(-\\frac{2}{3};\\frac{97}{15};\\frac{184}{15}\\right) \\rightarrow \\mathbf{S}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1918,
+      1416,
+      2061
+    ],
+    "category": "Formula",
+    "text": "d) Từ chỗ phát hiện tín hiệu là $d = 10 \\text{ km}$, với tốc độ $200 (\\text{km/h})$ thì thời gian tới chỗ cứu hộ là $t = \\frac{10}{200} = 0,05 (\\text{h}) = 0,05 \\cdot 60 (\\text{ph}) = 3 (\\text{phút}) \\rightarrow \\mathbf{S}$."
+  },
+  {
+    "bbox": [
+      1232,
+      2074,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6 – Đáp Án Mã Đề 0101"
+  }
+]

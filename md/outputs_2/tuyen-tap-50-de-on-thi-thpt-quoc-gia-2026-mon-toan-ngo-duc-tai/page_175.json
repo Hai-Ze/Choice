@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      242,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1455,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hai thùng hàng A, B đều chứa 25 quả táo. Kết quả kiểm tra cân nặng của 25 quả táo ở mỗi thùng A và B được cho ở bảng sau:"
+  },
+  {
+    "bbox": [
+      239,
+      280,
+      1408,
+      449
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Cân nặng (g)</th><th>[250; 260)</th><th>[260; 270)</th><th>[270; 280)</th><th>[280; 290)</th><th>[290; 300)</th></tr></thead><tbody><tr><td>Số táo ở thùng A</td><td>2</td><td>4</td><td>12</td><td>4</td><td>3</td></tr><tr><td>Số táo ở thùng B</td><td>1</td><td>3</td><td>7</td><td>10</td><td>4</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      222,
+      475,
+      1448,
+      575
+    ],
+    "category": "List-item",
+    "text": "a) Căn cứ vào phương sai của mẫu số liệu ghép nhóm trên thì cân nặng các quả táo ở thùng A phân tán hơn cân nặng các quả táo ở thùng B."
+  },
+  {
+    "bbox": [
+      222,
+      579,
+      1448,
+      678
+    ],
+    "category": "List-item",
+    "text": "b) Lấy ngẫu nhiên một quả táo từ thùng A và một quả táo từ thùng B. Xác suất để hai quả táo lấy ra đều nặng từ 280g trở lên là 0,1568."
+  },
+  {
+    "bbox": [
+      222,
+      682,
+      1448,
+      782
+    ],
+    "category": "List-item",
+    "text": "c) Lấy ngẫu nhiên một quả táo từ thùng B. Xác suất để quả táo đó có cân nặng từ 280g trở lên là 0,56."
+  },
+  {
+    "bbox": [
+      222,
+      786,
+      1448,
+      890
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng tức phân vị của mẫu số liệu ghép nhóm về cân nặng các quả táo ở thùng B là $\\Delta_{Q_B} \\approx 10$ (g) (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      193,
+      932,
+      949,
+      1248
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Mộtchiếcmươngthoát nước dài 100 m, được đào đều, có lòng uốn cong và hai bên là bờ kè. mặt cắt ngang của mương có thể được mô tả bằng đồ thị hàm số trong khoảng giới hạn bởi các nghiệm (giao điểm với trục hoành). tất cả các đơn vị đều tính bằng mét."
+  },
+  {
+    "bbox": [
+      1008,
+      1008,
+      1408,
+      1295
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      428,
+      1275,
+      707,
+      1356
+    ],
+    "category": "Formula",
+    "text": "$$\ny = -\\frac{1}{8}x^3 - \\frac{3}{2}x - 2.\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1369,
+      1455,
+      1632
+    ],
+    "category": "Text",
+    "text": "Mực nước thấp nhất của con mương được mô tả bởi đường thẳng $y = -2$ (cách mặt đất 2 m). Nhân viên quản lý đo mực nước trong con mương và thấy rằng mực nước thay đổi theo chu kì được tính bởi hàm số $h = a\\cos(\\frac{\\pi}{6}t - \\frac{\\pi}{2}) + b$, ($a > 0$) trong đó $h$ là khoảng cách tới mặt đáy của mực nước trong con mương, $t$ là tháng, với $t = 0$ là tháng 1."
+  },
+  {
+    "bbox": [
+      222,
+      1645,
+      797,
+      1686
+    ],
+    "category": "List-item",
+    "text": "a) Con mương rộng 6 m và sâu 4 m."
+  },
+  {
+    "bbox": [
+      222,
+      1694,
+      1448,
+      1791
+    ],
+    "category": "List-item",
+    "text": "b) Khi con mương đạt mực nước thấp nhất, thể tích nước chứa trong mương là 550 m³."
+  },
+  {
+    "bbox": [
+      222,
+      1812,
+      420,
+      1850
+    ],
+    "category": "List-item",
+    "text": "c) $a = b = 1$."
+  },
+  {
+    "bbox": [
+      222,
+      1861,
+      1276,
+      1906
+    ],
+    "category": "List-item",
+    "text": "d) Vào tháng 9 trong năm, mực nước của con mương là thấp nhất."
+  },
+  {
+    "bbox": [
+      193,
+      1934,
+      1455,
+      2203
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một phòng thí nghiệm có máy đo nồng độ khí $CO_2$ cho thấy: nồng độ khí $CO_2$ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{2000t}{t^2 + 5}$ ppm, với $t \\ge 0$ (Khi nói nồng độ khí $CO_2$ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí $CO_2$)."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

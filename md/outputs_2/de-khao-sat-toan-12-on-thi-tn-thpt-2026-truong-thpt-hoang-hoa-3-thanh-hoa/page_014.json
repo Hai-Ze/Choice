@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      196,
+      102,
+      328,
+      141
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      236,
+      146,
+      1141,
+      202
+    ],
+    "category": "Text",
+    "text": "Gia tốc của vật có phương trình: $a(t) = v'(t) = (t^2 - 2t + 1)' = 2t - 2$"
+  },
+  {
+    "bbox": [
+      236,
+      212,
+      1006,
+      261
+    ],
+    "category": "Text",
+    "text": "Khi gia tốc bị triệt tiêu: $a(t) = 0 \\Leftrightarrow 2t - 2 = 0 \\Leftrightarrow t = 1$"
+  },
+  {
+    "bbox": [
+      236,
+      277,
+      1160,
+      360
+    ],
+    "category": "Text",
+    "text": "Quăng đường vật đi được sau khi gia tốc bị triệt tiêu là: $s(1) = \\frac{1}{3}(m)$"
+  },
+  {
+    "bbox": [
+      196,
+      371,
+      328,
+      409
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      236,
+      412,
+      1158,
+      462
+    ],
+    "category": "Text",
+    "text": "Thời gian vật đạt vận tốc $9(m/s)$ là: $v(t) = t^2 - 2t + 1 = 9 \\Leftrightarrow t = 4$"
+  },
+  {
+    "bbox": [
+      236,
+      474,
+      1462,
+      522
+    ],
+    "category": "Text",
+    "text": "Quăng đường vật đi được trong khoảng từ 2 giây đến thời gian mà vận tốc đạt $9(m/s)$ là:"
+  },
+  {
+    "bbox": [
+      241,
+      536,
+      772,
+      634
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{2}^{4} v(t) \\cdot dt = \\int_{2}^{4} (t^2 - 2t + 1) \\cdot dt = \\frac{26}{3}(m)\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      643,
+      293,
+      681
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      236,
+      686,
+      1141,
+      742
+    ],
+    "category": "Text",
+    "text": "Thời gian vật đạt gia tốc $10(m/s^2)$ là: $a(t) = 2t - 2 = 10 \\Leftrightarrow t = 6$"
+  },
+  {
+    "bbox": [
+      236,
+      754,
+      1318,
+      809
+    ],
+    "category": "Text",
+    "text": "Quăng đường vật đi được từ 0 giây đến thời gian mà gia tốc bằng $10(m/s^2)$ là"
+  },
+  {
+    "bbox": [
+      241,
+      822,
+      767,
+      921
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{6} v(t) \\cdot dt = \\int_{0}^{6} (t^2 - 2t + 1) \\cdot dt = 42(m)\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      930,
+      1625,
+      1064
+    ],
+    "category": "Text",
+    "text": "Câu 3. Giả sử 5% email của bạn nhận được là email rác. Bạn sử dụng một hệ thống lọc email rác mà khả năng lọc đúng email rác của hệ thống này là 95% và có 10% những email không phải là email rác nhưng vẫn bị lọc."
+  },
+  {
+    "bbox": [
+      196,
+      1064,
+      805,
+      1108
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất nhận được một email rác là 0,05"
+  },
+  {
+    "bbox": [
+      196,
+      1115,
+      733,
+      1159
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất bị lọc của email rác là 0,93"
+  },
+  {
+    "bbox": [
+      196,
+      1166,
+      1444,
+      1211
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất chọn một email trong số những email bị lọc bất kể có là rác hay không là 0,1425"
+  },
+  {
+    "bbox": [
+      196,
+      1224,
+      1302,
+      1307
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất chọn một email trong số những email bị lọc thực sự là email rác là $\\frac{7}{19}$"
+  },
+  {
+    "bbox": [
+      859,
+      1317,
+      979,
+      1357
+    ],
+    "category": "Text",
+    "text": "Lời giải:"
+  },
+  {
+    "bbox": [
+      196,
+      1362,
+      328,
+      1400
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      236,
+      1405,
+      1137,
+      1489
+    ],
+    "category": "Text",
+    "text": "Gọi A: “Email nhận được là email rác”\nB: “Email bị lọc đúng email rác của hệ thống lọc email rác”"
+  },
+  {
+    "bbox": [
+      236,
+      1494,
+      1458,
+      1541
+    ],
+    "category": "Text",
+    "text": "Vì 5% email nhận được là rác nên xác suất nhận được một email rác là $P(A) = 5\\% = 0,05$"
+  },
+  {
+    "bbox": [
+      196,
+      1556,
+      293,
+      1594
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      236,
+      1601,
+      969,
+      1653
+    ],
+    "category": "Text",
+    "text": "Xác suất bị lọc của email rác là $P(B|A) = 95\\% = 0,95$"
+  },
+  {
+    "bbox": [
+      196,
+      1668,
+      328,
+      1706
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      236,
+      1713,
+      1421,
+      1771
+    ],
+    "category": "Text",
+    "text": "Xác suất email nhận được không phải là email rác là: $P(\\bar{A}) = 1 - P(A) = 1 - 0,05 = 0,95$"
+  },
+  {
+    "bbox": [
+      236,
+      1786,
+      1280,
+      1843
+    ],
+    "category": "Text",
+    "text": "Xác suất email bị lọc của email không phải email rác là: $P(B|\\bar{A}) = 10\\% = 0,1$"
+  },
+  {
+    "bbox": [
+      236,
+      1852,
+      1076,
+      1897
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất chọn một email bị lọc bất kể là rác hay không là:"
+  },
+  {
+    "bbox": [
+      241,
+      1902,
+      1201,
+      1960
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(B|A) \\cdot P(A) + P(B|\\bar{A}) \\cdot P(\\bar{A}) = 0,95 \\cdot 0,05 + 0,1 \\cdot 0,95 = 0,1425\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      1975,
+      293,
+      2013
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      236,
+      2016,
+      1264,
+      2060
+    ],
+    "category": "Text",
+    "text": "Xác suất chọn một email trong số những email bị lọc thực sự là email rác là:"
+  }
+]

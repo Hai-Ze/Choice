@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      121,
+      95,
+      1035,
+      347
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Hàm số đã cho xác định khi: } & \\Leftrightarrow \\begin{cases} \\sin x \\neq 0 \\\\ \\sin x \\neq 1 \\end{cases} \\Leftrightarrow \\begin{cases} x \\neq k\\pi \\\\ x \\neq \\frac{\\pi}{2} + k2\\pi \\end{cases}, k \\in \\mathbb{Z} . \\\\\n\\Rightarrow \\text{Tập xác định của hàm số là: } & D = \\mathbb{R} \\setminus \\left\\{ \\frac{\\pi}{2} + k2\\pi; k\\pi \\mid k \\in \\mathbb{Z} \\right\\}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      372,
+      1177,
+      422
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Bất phương trình $\\log_4(x+7) > \\log_2(x+1)$ có bao nhiêu nghiệm nguyên"
+  },
+  {
+    "bbox": [
+      125,
+      447,
+      204,
+      482
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      476,
+      447,
+      545,
+      482
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      826,
+      447,
+      905,
+      482
+    ],
+    "category": "List-item",
+    "text": "C. 4."
+  },
+  {
+    "bbox": [
+      1175,
+      447,
+      1252,
+      482
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      727,
+      507,
+      843,
+      545
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      566,
+      190,
+      604
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      76,
+      620,
+      1080,
+      718
+    ],
+    "category": "Text",
+    "text": "Điều kiện xác định của bất phương trình là $\\begin{cases} x+7 > 0 \\\\ x+1 > 0 \\end{cases} \\Leftrightarrow \\begin{cases} x > -7 \\\\ x > -1 \\end{cases} \\Leftrightarrow x > -1$"
+  },
+  {
+    "bbox": [
+      76,
+      744,
+      1288,
+      888
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } \\log_4(x+7) > \\log_2(x+1) &\\Leftrightarrow \\frac{1}{2}\\log_2(x+7) > \\log_2(x+1) \\Leftrightarrow \\log_2(x+7) > \\log_2(x+1)^2 \\\\\n&\\Leftrightarrow x^2 + x - 6 < 0 \\Leftrightarrow -3 < x < 2\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      906,
+      573,
+      951
+    ],
+    "category": "Text",
+    "text": "Kết hợp điều kiện ta được $-3 < x < 2$"
+  },
+  {
+    "bbox": [
+      76,
+      969,
+      554,
+      1007
+    ],
+    "category": "Text",
+    "text": "Vì $x \\in \\mathbb{Z}$ nên tìm được $x = 0, x = 1$."
+  },
+  {
+    "bbox": [
+      76,
+      1086,
+      1494,
+      1190
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      76,
+      1210,
+      516,
+      1292
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{x-1}{x+2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1317,
+      755,
+      1366
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định của hàm số đã cho là $D = \\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      76,
+      1394,
+      1014,
+      1444
+    ],
+    "category": "Text",
+    "text": "b) Hàm số đã cho nghịch biến trên các khoảng $(-\\infty; -2)$ và $(-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      1464,
+      632,
+      1510
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số đã cho không có cực trị."
+  },
+  {
+    "bbox": [
+      76,
+      1528,
+      1260,
+      1617
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị hàm số đã cho cắt trục tung tại điểm $(1; 0)$ và cắt trục hoành tại điểm $\\left(0; -\\frac{1}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      727,
+      1643,
+      843,
+      1681
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1695,
+      893,
+      1819
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1881,
+      490,
+      1929
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định: $D = \\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      76,
+      1957,
+      643,
+      2052
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $y' = \\frac{3}{(x+2)^2} > 0, \\forall x \\in \\mathbb{R} \\setminus \\{-2\\}$."
+  },
+  {
+    "bbox": [
+      76,
+      2079,
+      943,
+      2129
+    ],
+    "category": "Text",
+    "text": "Suy ra hàm số đồng biến trên các khoảng $(-\\infty; -2)$ và $(-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      2149,
+      534,
+      2196
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị hàm số không có cực trị."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

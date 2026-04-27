@@ -1,0 +1,315 @@
+[
+  {
+    "bbox": [
+      93,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1564,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      124,
+      930,
+      162
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng biến thiên của mẫu số liệu ghép nhóm này là 25."
+  },
+  {
+    "bbox": [
+      124,
+      167,
+      700,
+      204
+    ],
+    "category": "List-item",
+    "text": "b) Nhóm chứa tư phân vị thứ 3 là [15; 20)."
+  },
+  {
+    "bbox": [
+      124,
+      207,
+      620,
+      244
+    ],
+    "category": "List-item",
+    "text": "c) Số trung bình của thống kê là 10."
+  },
+  {
+    "bbox": [
+      124,
+      247,
+      1014,
+      285
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng tư phân vị của mẫu số liệu ghép nhóm này lớn hơn 10."
+  },
+  {
+    "bbox": [
+      93,
+      343,
+      787,
+      725
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một khuôn viên dạng nửa hình tròn, trên đó người thiết kế phần để trồng hoa có dạng của một cánh hoa hình parabol có định trùng với tâm và có trục đối xứng vuông góc với đường kính của nửa hình tròn, hai đầu mút của cánh hoa nằm trên nửa đường tròn và cách nhau một khoảng bằng 4 m. Phần còn lại của khuôn viên dành để trồng cỏ Nhật Bản. Biết các kích thước cho như hình vẽ, chi phí để trồng hoa và cỏ Nhật Bản tương ứng là 150 000 đồng/m² và 100 000 đồng/m²."
+  },
+  {
+    "bbox": [
+      820,
+      353,
+      1183,
+      540
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      730,
+      732,
+      767
+    ],
+    "category": "List-item",
+    "text": "a) Bán kính của nửa đường tròn là $R = 4$ m."
+  },
+  {
+    "bbox": [
+      124,
+      770,
+      1037,
+      886
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích của khuôn viên được xác định bởi $S = \\int_{-2}^{2} \\sqrt{20 - x^2} \\, dx$."
+  },
+  {
+    "bbox": [
+      124,
+      888,
+      944,
+      926
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $S_1$ là diện tích phần trồng hoa, khi đó $S_1 = 11,94$ m²."
+  },
+  {
+    "bbox": [
+      124,
+      929,
+      1194,
+      1006
+    ],
+    "category": "List-item",
+    "text": "d) Số tiền cần dùng để trồng hoa và trồng cỏ Nhật Bản trong khuôn viên là 3 738 574 đồng. (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      93,
+      1039,
+      781,
+      1384
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một tháp kiểm soát không lưu ở sân bay cao 109 m đặt một đài kiểm soát không lưu ở độ cao 105 m. máy bay trong phạm vi cách đài kiểm soát 450 km sẽ intelect thị trên màn hình ra đa. Chọn hệ trục toạ độ $Oxyz$ có gốc $O$ trùng với vị trí chân tháp, mặt phẳng ($Oxy$) trùng với mặt đất sao cho trục $Ox$ là hướng Tây, trục $Oy$ là hướng Nam và trục $Oz$ là trục thẳng đứng như hình vẽ dưới đây (đơn vị trên mỗi trục là kilomét)."
+  },
+  {
+    "bbox": [
+      829,
+      1056,
+      1163,
+      1295
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1388,
+      1197,
+      1502
+    ],
+    "category": "Text",
+    "text": "Một máy bay đang ở vị trí $A$ cách mặt đất 8 km, cách 268 km về phía đông, 185 km về phía nam so với tháp kiểm soát không lưu và đang chuyển động theo đường thẳng $d$ có véc-tơ chỉ phương là $\\vec{u} = (82; 76; 0)$ hướng về đài kiểm soát không lưu."
+  },
+  {
+    "bbox": [
+      124,
+      1507,
+      778,
+      1545
+    ],
+    "category": "List-item",
+    "text": "a) Đài kiểm soát không lưu có toạ độ là (0; 0; 0)."
+  },
+  {
+    "bbox": [
+      124,
+      1549,
+      643,
+      1586
+    ],
+    "category": "List-item",
+    "text": "b) Vị trí $A$ có toạ độ là $(-268; 185; 8)$."
+  },
+  {
+    "bbox": [
+      124,
+      1589,
+      1035,
+      1627
+    ],
+    "category": "List-item",
+    "text": "c) Đài kiểm soát không lưu có phát hiện được máy bay tại vị trí $A$."
+  },
+  {
+    "bbox": [
+      124,
+      1630,
+      1192,
+      1668
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách gần nhất giữa máy bay và đài kiểm soát không lưu là 217,96 km."
+  },
+  {
+    "bbox": [
+      110,
+      1713,
+      893,
+      1751
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1767,
+      1197,
+      1847
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Trong không gian $Oxyz$, mặt cầu có cạnh bên ($S$): $(x - 2)^2 + (y - 3)^2 + (z - 4)^2 = 9$ có bán kính là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      900,
+      1864,
+      951,
+      1898
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1852,
+      1197,
+      1912
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1939,
+      1197,
+      2151
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong trò chơi cá ngựa, mỗi người chơi gieo một con xúc xắc cân đối đồng chất. Để được quân cá ngựa được “xuất chuồng” người chơi cần gieo được mặt 6 chấm trong lần gieo đó. Xác suất để người chơi đó có thể “xuất chuồng” một con cá ngựa ngay trong lần gieo đầu tiên là $\\frac{a}{b}$ (với $a, b$ là các số nguyên dương nguyên tố cùng nhau). Giá trị của biểu thức $S = a + b$ bằng"
+  },
+  {
+    "bbox": [
+      900,
+      2168,
+      951,
+      2202
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      2155,
+      1197,
+      2215
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      153
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1476,
+      2260,
+      1509,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "55"
+  }
+]

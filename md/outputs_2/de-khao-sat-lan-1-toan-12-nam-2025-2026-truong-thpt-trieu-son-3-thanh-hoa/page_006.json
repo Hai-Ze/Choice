@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      158,
+      121,
+      449,
+      209
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = \\frac{9^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      535,
+      121,
+      822,
+      209
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = \\frac{9^x}{2\\ln 3} + C$."
+  },
+  {
+    "bbox": [
+      909,
+      142,
+      1203,
+      191
+    ],
+    "category": "List-item",
+    "text": "C. $F(x) = 9^x \\ln 9 + C$."
+  },
+  {
+    "bbox": [
+      1284,
+      142,
+      1530,
+      191
+    ],
+    "category": "List-item",
+    "text": "D. $F(x) = 9^x + C$."
+  },
+  {
+    "bbox": [
+      152,
+      213,
+      1248,
+      261
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho cấp số nhân $(u_n)$ với $u_3 = 10$ và công bội $q = 2$. Giá trị của $u_2$ bằng"
+  },
+  {
+    "bbox": [
+      160,
+      272,
+      267,
+      308
+    ],
+    "category": "List-item",
+    "text": "A. -20."
+  },
+  {
+    "bbox": [
+      535,
+      272,
+      624,
+      308
+    ],
+    "category": "List-item",
+    "text": "B. -5."
+  },
+  {
+    "bbox": [
+      909,
+      272,
+      977,
+      308
+    ],
+    "category": "List-item",
+    "text": "C. 8."
+  },
+  {
+    "bbox": [
+      1284,
+      272,
+      1353,
+      308
+    ],
+    "category": "List-item",
+    "text": "D. 5."
+  },
+  {
+    "bbox": [
+      152,
+      316,
+      1534,
+      411
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, cho điểm $A(-5;2;3)$ và $B$ là điểm đối xứng với $A$ qua trục $Ox$. Độ dài đoạn thẳng $AB$ bằng"
+  },
+  {
+    "bbox": [
+      160,
+      411,
+      284,
+      460
+    ],
+    "category": "List-item",
+    "text": "A. $\\sqrt{29}$."
+  },
+  {
+    "bbox": [
+      535,
+      411,
+      676,
+      460
+    ],
+    "category": "List-item",
+    "text": "B. $2\\sqrt{29}$."
+  },
+  {
+    "bbox": [
+      909,
+      411,
+      1042,
+      460
+    ],
+    "category": "List-item",
+    "text": "C. $2\\sqrt{13}$."
+  },
+  {
+    "bbox": [
+      1284,
+      411,
+      1402,
+      460
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{13}$."
+  },
+  {
+    "bbox": [
+      152,
+      465,
+      1534,
+      545
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Kết quả kiểm tra điểm môn Toán của học sinh lớp 12B được cho bởi mẫu số liệu ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      551,
+      553,
+      1136,
+      1043
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm điểm</td><td>Tần số</td></tr></thead><tbody><tr><td>[0;2)</td><td>5</td></tr><tr><td>[2;4)</td><td>5</td></tr><tr><td>[4;6)</td><td>5</td></tr><tr><td>[6;8)</td><td>25</td></tr><tr><td>[8;10]</td><td>10</td></tr><tr><td></td><td>n = 50</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1051,
+      802,
+      1096
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm ở trên là"
+  },
+  {
+    "bbox": [
+      160,
+      1099,
+      273,
+      1135
+    ],
+    "category": "List-item",
+    "text": "A. 5.76."
+  },
+  {
+    "bbox": [
+      535,
+      1099,
+      646,
+      1135
+    ],
+    "category": "List-item",
+    "text": "B. 7,56."
+  },
+  {
+    "bbox": [
+      909,
+      1099,
+      1022,
+      1135
+    ],
+    "category": "List-item",
+    "text": "C. 6,57."
+  },
+  {
+    "bbox": [
+      1284,
+      1099,
+      1395,
+      1135
+    ],
+    "category": "List-item",
+    "text": "D. 7,56."
+  },
+  {
+    "bbox": [
+      152,
+      1145,
+      1414,
+      1229
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Tiệm cận xiên của đồ thị hàm số $y = 4x - 9 + \\frac{3}{2x-8}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      160,
+      1237,
+      373,
+      1277
+    ],
+    "category": "List-item",
+    "text": "A. $y = -4x + 9$."
+  },
+  {
+    "bbox": [
+      535,
+      1237,
+      746,
+      1277
+    ],
+    "category": "List-item",
+    "text": "B. $y = -2x + 8$."
+  },
+  {
+    "bbox": [
+      909,
+      1237,
+      1096,
+      1277
+    ],
+    "category": "List-item",
+    "text": "C. $y = 4x - 9$."
+  },
+  {
+    "bbox": [
+      1284,
+      1237,
+      1473,
+      1277
+    ],
+    "category": "List-item",
+    "text": "D. $y = 2x - 8$."
+  },
+  {
+    "bbox": [
+      152,
+      1287,
+      1534,
+      1391
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian với hệ tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;-2;1)$ trên mặt phẳng ($Oyz$) có tọa độ là"
+  },
+  {
+    "bbox": [
+      160,
+      1403,
+      338,
+      1452
+    ],
+    "category": "List-item",
+    "text": "A. $(0;-2;1)$."
+  },
+  {
+    "bbox": [
+      535,
+      1403,
+      689,
+      1452
+    ],
+    "category": "List-item",
+    "text": "B. $(0;0;1)$."
+  },
+  {
+    "bbox": [
+      909,
+      1403,
+      1066,
+      1452
+    ],
+    "category": "List-item",
+    "text": "C. $(2;0;1)$."
+  },
+  {
+    "bbox": [
+      1284,
+      1403,
+      1467,
+      1452
+    ],
+    "category": "List-item",
+    "text": "D. $(2;-2;0)$."
+  },
+  {
+    "bbox": [
+      152,
+      1462,
+      1113,
+      1511
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số bậc ba $y = f(x)$ có bảng biến thiên như hình sau"
+  },
+  {
+    "bbox": [
+      522,
+      1539,
+      1141,
+      1793
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1801,
+      915,
+      1850
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      160,
+      1864,
+      311,
+      1913
+    ],
+    "category": "List-item",
+    "text": "A. $(-2;1)$."
+  },
+  {
+    "bbox": [
+      535,
+      1864,
+      714,
+      1913
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty;-1)$."
+  },
+  {
+    "bbox": [
+      909,
+      1864,
+      1060,
+      1913
+    ],
+    "category": "List-item",
+    "text": "C. $(-1;1)$."
+  },
+  {
+    "bbox": [
+      1284,
+      1864,
+      1441,
+      1913
+    ],
+    "category": "List-item",
+    "text": "D. $(-4;0)$."
+  },
+  {
+    "bbox": [
+      152,
+      1931,
+      1534,
+      2015
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      152,
+      2025,
+      1534,
+      2201
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian chọn hệ trục tọa độ $Oxyz$ cho trước, trong đó xem mặt phẳng ($Oxy$) là mặt đất, mỗi đơn vị trên trục tương ứng với 1 km, một ra đa được đặt tại vị trí gốc tọa độ $O$ phát hiện một máy bay chiến đấu di chuyển với vận tốc và hướng không đổi từ điểm $M(500;200;10)$ đến điểm $N(200;700;10)$ trong 40 phút."
+  },
+  {
+    "bbox": [
+      152,
+      2277,
+      316,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1212"
+  },
+  {
+    "bbox": [
+      1398,
+      2281,
+      1534,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

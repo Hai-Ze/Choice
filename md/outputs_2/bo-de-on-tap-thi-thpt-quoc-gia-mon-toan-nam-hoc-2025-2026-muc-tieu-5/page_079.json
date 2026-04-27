@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      171,
+      181,
+      1527,
+      273
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{-1}^{1} f'(x)dx = 20 \\Leftrightarrow f(x)\\Big|_{-1}^{1} = 20 \\Leftrightarrow f(1) - f(-1) = 20 \\Leftrightarrow f(1) = 20 + f(-1) = 20 - \\frac{43}{4} = \\frac{37}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      292,
+      1572,
+      434
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng ($H_2$) bằng 128 nên ta có (do đồ thị nằm dưới trục hoành):\n$$ -\\int_{1}^{5} f'(x)dx = 128 \\Leftrightarrow -f(x)\\Big|_{1}^{5} = 128 \\Leftrightarrow f(1) - f(5) = 128 \\Leftrightarrow f(5) = f(1) - 128 = \\frac{37}{4} - 128 = -\\frac{475}{4}. $$"
+  },
+  {
+    "bbox": [
+      202,
+      451,
+      751,
+      493
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai của các khẳng định:"
+  },
+  {
+    "bbox": [
+      190,
+      504,
+      1352,
+      597
+    ],
+    "category": "List-item",
+    "text": "a) **Sai** Ta có $\\int_{-1}^{5} f'(x)dx = \\int_{-1}^{1} f'(x)dx + \\int_{1}^{5} f'(x)dx = 20 - 128 = -108 \\neq 148$."
+  },
+  {
+    "bbox": [
+      190,
+      607,
+      860,
+      658
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng** Theo tính toán ở trên, $f(5) = -\\frac{475}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      667,
+      1064,
+      710
+    ],
+    "category": "List-item",
+    "text": "c) **Đúng** Từ đồ thị, ta thấy $f'(x)$ có các nghiệm là $-1, 1, 5$."
+  },
+  {
+    "bbox": [
+      235,
+      725,
+      1102,
+      768
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giả sử } f'(x) = a(x + 1)(x - 1)(x - 5) = a(x^3 - 5x^2 - x + 5).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      778,
+      1072,
+      863
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } f(x) = \\int f'(x)dx = a \\left( \\frac{x^4}{4} - \\frac{5x^3}{3} - \\frac{x^2}{2} + 5x \\right) + C.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      873,
+      1072,
+      924
+    ],
+    "category": "Text",
+    "text": "Dựa vào $f(1) = \\frac{37}{4}$ và $f(-1) = -\\frac{43}{4}$ ta có hệ phương trình:"
+  },
+  {
+    "bbox": [
+      352,
+      979,
+      1394,
+      1089
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} a \\left( \\frac{1}{4} - \\frac{5}{3} - \\frac{1}{2} + 5 \\right) + C = \\frac{37}{4} \\\\ a \\left( \\frac{1}{4} + \\frac{5}{3} - \\frac{1}{2} - 5 \\right) + C = -\\frac{43}{4} \\end{cases} \\Leftrightarrow \\begin{cases} a \\cdot \\frac{37}{12} + C = \\frac{37}{4} \\\\ a \\cdot \\left(-\\frac{43}{12}\\right) + C = -\\frac{43}{4} \\end{cases} \\Leftrightarrow \\begin{cases} a = 3 \\\\ C = 0 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1103,
+      740,
+      1154
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } f(x) = \\frac{3}{4}x^4 - 5x^3 - \\frac{3}{2}x^2 + 15x.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1162,
+      1232,
+      1212
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } f(2) = \\frac{3}{4}(2^4) - 5(2^3) - \\frac{3}{2}(2^2) + 15(2) = 12 - 40 - 6 + 30 = -4.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      1220,
+      1360,
+      1271
+    ],
+    "category": "List-item",
+    "text": "d) **Đúng** Xét phương trình hoành độ giao điểm của $y = f(x)$ và $y = -\\frac{3}{2}x^2 + 15x$:"
+  },
+  {
+    "bbox": [
+      402,
+      1323,
+      1375,
+      1455
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{3}{4}x^4 - 5x^3 - \\frac{3}{2}x^2 + 15x = -\\frac{3}{2}x^2 + 15x \\Leftrightarrow \\frac{3}{4}x^4 - 5x^3 = 0 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = \\frac{20}{3} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1465,
+      1182,
+      1515
+    ],
+    "category": "Text",
+    "text": "Trên đoạn $[0; 5]$, ta thấy $f(x) \\le -\\frac{3}{2}x^2 + 15x$. Diện tích cần tìm là:"
+  },
+  {
+    "bbox": [
+      281,
+      1566,
+      1498,
+      1657
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{5} \\left| \\left( \\frac{3}{4}x^4 - 5x^3 - \\frac{3}{2}x^2 + 15x \\right) - \\left( -\\frac{3}{2}x^2 + 15x \\right) \\right| dx = \\int_{0}^{5} \\left( 5x^3 - \\frac{3}{4}x^4 \\right) dx = \\frac{625}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "79"
+  }
+]

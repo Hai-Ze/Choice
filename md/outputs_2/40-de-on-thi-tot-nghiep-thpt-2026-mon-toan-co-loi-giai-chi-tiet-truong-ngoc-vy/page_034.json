@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      614,
+      168,
+      1099,
+      516
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      613,
+      1071,
+      667
+    ],
+    "category": "Text",
+    "text": "a) Nếu gia tốc $a = 0,5(m/s^2)$, thời gian tăng tốc $t_1$ bé hơn 21 giây."
+  },
+  {
+    "bbox": [
+      156,
+      694,
+      1098,
+      748
+    ],
+    "category": "Text",
+    "text": "b) Nếu gia tốc $b = 0,8(m/s^2)$, thời gian giảm tốc $t_2$ lớn hơn 13 giây."
+  },
+  {
+    "bbox": [
+      156,
+      776,
+      420,
+      855
+    ],
+    "category": "Formula",
+    "text": "c) $a+b \\le \\frac{5}{4}(m/s^2)$"
+  },
+  {
+    "bbox": [
+      156,
+      875,
+      1056,
+      920
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường mà robot đã di chuyển từ A đến B là 550 m"
+  },
+  {
+    "bbox": [
+      807,
+      945,
+      924,
+      983
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      997,
+      972,
+      1120
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1178,
+      1082,
+      1229
+    ],
+    "category": "Text",
+    "text": "Lần tăng tốc đầu tiên xe chuyển động với vận tốc $v(t) = a \\cdot t$, ($a > 0$)."
+  },
+  {
+    "bbox": [
+      156,
+      1256,
+      1029,
+      1338
+    ],
+    "category": "Text",
+    "text": "Đến khi xe đạt vận tốc 10 m/s thì xe chuyển động hết $t_1 = \\frac{10}{a}(s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1359,
+      1015,
+      1409
+    ],
+    "category": "Text",
+    "text": "Lần giảm tốc, xe chuyển động với vận tốc $v_2 = 10 - bt$, ($b > 0$)."
+  },
+  {
+    "bbox": [
+      156,
+      1437,
+      1131,
+      1518
+    ],
+    "category": "Text",
+    "text": "Khi xe stop thì xe chuyển động thêm được $10 - bt_2 = 0 \\Rightarrow t_2 = \\frac{10}{b}(s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1537,
+      531,
+      1580
+    ],
+    "category": "Section-header",
+    "text": "Tổng thời gian hành trình"
+  },
+  {
+    "bbox": [
+      156,
+      1602,
+      959,
+      1682
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng thời gian: } t_1 + 40 + t_2 = 70 \\Rightarrow \\frac{10}{a} + \\frac{10}{b} = 30 \\Rightarrow \\frac{1}{a} + \\frac{1}{b} = 3\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1706,
+      1211,
+      1790
+    ],
+    "category": "Text",
+    "text": "a) Nếu gia tốc $a = 0,5(m/s^2)$, thời gian tăng tốc $t_1 = \\frac{10}{0,5} = 20$ giây $< 21$ giây."
+  },
+  {
+    "bbox": [
+      156,
+      1819,
+      1251,
+      1901
+    ],
+    "category": "Text",
+    "text": "b) Nếu gia tốc $b = 0,8(m/s^2)$, thời gian giảm tốc $t_2 = \\frac{10}{0,8} = 12,5$ giây $< 13$ giây."
+  },
+  {
+    "bbox": [
+      156,
+      1929,
+      1349,
+      2016
+    ],
+    "category": "Text",
+    "text": "c) Với $a > 0, b > 0$, ta có bất đằng thức: $(a+b)(\\frac{1}{a}+\\frac{1}{b}) \\ge 4$ mà $\\frac{1}{a}+\\frac{1}{b} = 3$ nên $a+b \\ge \\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      156,
+      2044,
+      1217,
+      2125
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường tăng tốc: $S_1 = \\int_0^{t_1} v(t)dt = \\int_0^{t_1} atdt = \\frac{1}{2}a(t_1)^2 = \\frac{1}{2} \\cdot \\frac{100}{a} = \\frac{50}{a}(m)$."
+  },
+  {
+    "bbox": [
+      156,
+      2152,
+      909,
+      2231
+    ],
+    "category": "Text",
+    "text": "Quăng đường giảm tốc: $S_2 = \\int_0^{t_2} (10 - bt)dt = 10t_2 - \\frac{1}{2}bt_2^2$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      284,
+      162,
+      498,
+      209
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu $M_1$"
+  },
+  {
+    "bbox": [
+      515,
+      94,
+      1298,
+      303
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>6</td><td>4</td><td>8</td><td>6</td><td>4</td></tr><tr><td>$x_i$</td><td>9</td><td>11</td><td>13</td><td>15</td><td>17</td></tr></table>"
+  },
+  {
+    "bbox": [
+      82,
+      307,
+      168,
+      339
+    ],
+    "category": "Formula",
+    "text": "$n = 28$"
+  },
+  {
+    "bbox": [
+      82,
+      364,
+      700,
+      445
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{6.9 + 4.11 + 8.13 + 6.15 + 4.17}{28} = \\frac{360}{28} = \\frac{90}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      464,
+      1056,
+      508
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của một mẫu số liệu ghép nhóm được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      82,
+      528,
+      1085,
+      629
+    ],
+    "category": "Formula",
+    "text": "$$\ns_1 = \\sqrt{\\frac{6(9-\\bar{x})^2 + 4(11-\\bar{x})^2 + 8(13-\\bar{x})^2 + 6(15-\\bar{x})^2 + 4(17-\\bar{x})^2}{28}} = 2,669.\n$$"
+  },
+  {
+    "bbox": [
+      284,
+      780,
+      498,
+      825
+    ],
+    "category": "Text",
+    "text": "Mẫu số liệu $M_2$"
+  },
+  {
+    "bbox": [
+      515,
+      709,
+      1300,
+      919
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>9</td><td>6</td><td>12</td><td>9</td><td>6</td></tr><tr><td>$x_i$</td><td>9</td><td>11</td><td>13</td><td>15</td><td>17</td></tr></table>"
+  },
+  {
+    "bbox": [
+      82,
+      981,
+      168,
+      1013
+    ],
+    "category": "Formula",
+    "text": "$n = 42$"
+  },
+  {
+    "bbox": [
+      82,
+      1038,
+      712,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{9.9 + 6.11 + 12.13 + 9.15 + 6.17}{42} = \\frac{540}{42} = \\frac{90}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1138,
+      1056,
+      1182
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của một mẫu số liệu ghép nhóm được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      82,
+      1202,
+      1104,
+      1303
+    ],
+    "category": "Formula",
+    "text": "$$\ns_2 = \\sqrt{\\frac{9(9-\\bar{x})^2 + 6(11-\\bar{x})^2 + 12(13-\\bar{x})^2 + 9(15-\\bar{x})^2 + 6(17-\\bar{x})^2}{42}} = 2,669.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1332,
+      229,
+      1372
+    ],
+    "category": "Text",
+    "text": "Vậy $s_1 = s_2$"
+  },
+  {
+    "bbox": [
+      76,
+      1399,
+      1349,
+      1446
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho cấp số cộng $(u_n)$ với $u_1 = 2$ và $u_7 = -10$. Công sai của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      125,
+      1475,
+      207,
+      1509
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      476,
+      1475,
+      548,
+      1509
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      826,
+      1475,
+      921,
+      1509
+    ],
+    "category": "List-item",
+    "text": "C. -1."
+  },
+  {
+    "bbox": [
+      1175,
+      1475,
+      1271,
+      1509
+    ],
+    "category": "List-item",
+    "text": "D. -2."
+  },
+  {
+    "bbox": [
+      727,
+      1535,
+      842,
+      1573
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1593,
+      198,
+      1629
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1652,
+      837,
+      1732
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_7 = u_1 + 6d \\Leftrightarrow d = \\frac{u_7 - u_1}{6}$ hay $d = \\frac{-10 - 2}{6} = -2$."
+  },
+  {
+    "bbox": [
+      76,
+      1759,
+      1152,
+      1838
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho biết $x = \\pm \\frac{2\\pi}{3} + k2\\pi$ là họ nghiệm của phương trình nào sau đây ?"
+  },
+  {
+    "bbox": [
+      125,
+      1870,
+      357,
+      1904
+    ],
+    "category": "List-item",
+    "text": "A. $2\\cos x - 1 = 0$."
+  },
+  {
+    "bbox": [
+      476,
+      1870,
+      705,
+      1904
+    ],
+    "category": "List-item",
+    "text": "B. $2\\cos x + 1 = 0$."
+  },
+  {
+    "bbox": [
+      826,
+      1870,
+      1052,
+      1904
+    ],
+    "category": "List-item",
+    "text": "C. $2\\sin x + 1 = 0$."
+  },
+  {
+    "bbox": [
+      1175,
+      1861,
+      1432,
+      1904
+    ],
+    "category": "List-item",
+    "text": "D. $2\\sin x - \\sqrt{3} = 0$."
+  },
+  {
+    "bbox": [
+      727,
+      1933,
+      842,
+      1971
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1991,
+      198,
+      2027
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      82,
+      2052,
+      1132,
+      2131
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\cos x - 1 = 0 \\Leftrightarrow \\cos x = \\frac{1}{2} \\Leftrightarrow \\cos x = \\cos \\frac{\\pi}{3} \\Leftrightarrow x = \\pm \\frac{\\pi}{3} + k2\\pi, (k \\in \\mathbb{Z}) \\dots \\text{Loại A.}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      2156,
+      1198,
+      2237
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\cos x + 1 = 0 \\Leftrightarrow \\cos x = -\\frac{1}{2} \\Leftrightarrow \\cos x = \\cos \\frac{2\\pi}{3} \\Leftrightarrow x = \\pm \\frac{2\\pi}{3} + k2\\pi, (k \\in \\mathbb{Z}) \\dots \\text{Chọn B.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2256,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

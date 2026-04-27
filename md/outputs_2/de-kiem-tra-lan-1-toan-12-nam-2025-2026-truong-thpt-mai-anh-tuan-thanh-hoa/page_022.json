@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      153,
+      76,
+      564,
+      126
+    ],
+    "category": "Text",
+    "text": "TH2: Có 2 đồng xu ngửa."
+  },
+  {
+    "bbox": [
+      153,
+      126,
+      820,
+      175
+    ],
+    "category": "Text",
+    "text": "Hai đồng xu ngửa kề nhau: có 8 khả năng."
+  },
+  {
+    "bbox": [
+      153,
+      175,
+      951,
+      226
+    ],
+    "category": "Text",
+    "text": "Suy ra số kết quả của trường hợp này là $C_8^2 - 8 = 20$."
+  },
+  {
+    "bbox": [
+      153,
+      229,
+      561,
+      280
+    ],
+    "category": "Text",
+    "text": "TH3: Có 3 đồng xu ngửa."
+  },
+  {
+    "bbox": [
+      153,
+      278,
+      808,
+      328
+    ],
+    "category": "Text",
+    "text": "Cả 3 đồng xu ngửa kề nhau: có 8 kết quả."
+  },
+  {
+    "bbox": [
+      153,
+      328,
+      1233,
+      378
+    ],
+    "category": "Text",
+    "text": "Trong 3 đồng xu ngửa, có đúng một cặp kề nhau: có $8 \\cdot 4 = 32$ kết quả."
+  },
+  {
+    "bbox": [
+      153,
+      378,
+      1007,
+      428
+    ],
+    "category": "Text",
+    "text": "Suy ra số kết quả của trường hợp này là $C_8^3 - 8 - 32 = 16$."
+  },
+  {
+    "bbox": [
+      153,
+      430,
+      561,
+      482
+    ],
+    "category": "Text",
+    "text": "TH4: Có 4 đồng xu ngửa."
+  },
+  {
+    "bbox": [
+      153,
+      482,
+      1045,
+      532
+    ],
+    "category": "Text",
+    "text": "Trường hợp này có 2 kết quả thỏa mãn biến cố $A$ xảy ra."
+  },
+  {
+    "bbox": [
+      153,
+      534,
+      674,
+      583
+    ],
+    "category": "Text",
+    "text": "Như vậy $n(A) = 9 + 20 + 16 + 2 = 47$."
+  },
+  {
+    "bbox": [
+      153,
+      595,
+      1192,
+      689
+    ],
+    "category": "Text",
+    "text": "Xác suất để không có hai bạn liền kề cùng đứng là $P = \\frac{n(A)}{n(\\Omega)} = \\frac{47}{256}$."
+  },
+  {
+    "bbox": [
+      153,
+      695,
+      1573,
+      798
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho đồ thị hàm số $y = x^4 - 3x^2 + ax + b$ có $A(2; -2)$ là một điểm cực tiểu. Tính $S = 59b - a$."
+  },
+  {
+    "bbox": [
+      866,
+      803,
+      998,
+      847
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      291,
+      842,
+      510,
+      892
+    ],
+    "category": "Text",
+    "text": "Đáp số: 2026"
+  },
+  {
+    "bbox": [
+      291,
+      892,
+      825,
+      939
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = 4x^3 - 6x + a$, $y'' = 12x^2 - 6$."
+  },
+  {
+    "bbox": [
+      291,
+      941,
+      1417,
+      995
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số $y = x^4 - 3x^2 + ax + b$ có $A(2; -2)$ là một điểm cực tiểu suy ra"
+  },
+  {
+    "bbox": [
+      291,
+      1008,
+      900,
+      1175
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} y(2) = -2 \\\\ y'(2) = 0 \\\\ y''(2) = 42 > 0 \\end{cases} \\Leftrightarrow \\begin{cases} 2a + b = -6 \\\\ a + 20 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = -20 \\\\ b = 34. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      291,
+      1187,
+      808,
+      1230
+    ],
+    "category": "Text",
+    "text": "Vậy $S = 59b - a = 59 \\cdot 34 + 20 = 2026$."
+  },
+  {
+    "bbox": [
+      167,
+      1236,
+      929,
+      1777
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một vật chuyển động trong 4 giờ với vận tốc $v$ (km/h) phụ thuộc thời gian $t$ (h) có đồ thị của vận tốc như hình bên. Trong khoảng thời gian 2 giờ kể từ khi bắt đầu chuyển động, đồ thị đó là mổ phần của đường parabol có định $I(2; 7)$ và trục đối xứng của parabol song song với trục tung, khoảng thời gian còn lại đồ thị là đoạn thẳng $IA$. Tính quăng đường $s$ mà vật di chuyển được trong 4 giờ đó. (kết quả làm ròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      981,
+      1252,
+      1583,
+      1803
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      866,
+      1848,
+      998,
+      1892
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      153,
+      1892,
+      786,
+      1941
+    ],
+    "category": "Text",
+    "text": "Phương trình parabol $v = -t^2 + 4t + 3$"
+  },
+  {
+    "bbox": [
+      153,
+      1941,
+      1499,
+      2014
+    ],
+    "category": "Text",
+    "text": "Quăng đường vật chuyển động được trong khoảng thời gian 2 h đầu là $\\int_0^2 v(t)dt = \\frac{34}{3}$"
+  },
+  {
+    "bbox": [
+      153,
+      2014,
+      1016,
+      2085
+    ],
+    "category": "Text",
+    "text": "Quăng đường vật đi được trong 2 h sau là $\\frac{(7+3)2}{2} = 10$"
+  },
+  {
+    "bbox": [
+      153,
+      2085,
+      1148,
+      2156
+    ],
+    "category": "Text",
+    "text": "Vậy tổng quăng đường vật đi được trong 4 h là $\\frac{34}{3} + 10 \\approx 21,3$"
+  },
+  {
+    "bbox": [
+      153,
+      2158,
+      367,
+      2203
+    ],
+    "category": "Text",
+    "text": "Đáp án: 21,3"
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      298,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1406,
+      2236,
+      1568,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12/13"
+  }
+]

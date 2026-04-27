@@ -1,0 +1,179 @@
+[
+  {
+    "bbox": [
+      152,
+      140,
+      1548,
+      314
+    ],
+    "category": "Text",
+    "text": "vào vòng tròn lớn ở chính giữa, đặt 3 số còn lại vào ba vòng tròn nhỏ xung quanh (ba vòng tròn nhỏ không phân biệt vị trí). Gọi $P$ là xác suất để tổng các số tự nhiên trên hai vòng tròn nhỏ bất kì luôn nhỏ hơn số ở vòng tròn lớn chính giữa đồng thời tổng cả ba số trên ba vòng tròn nhỏ luôn lớn hơn số ở vòng tròn lớn. Tính giá trị của $1980P$."
+  },
+  {
+    "bbox": [
+      152,
+      330,
+      199,
+      369
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      328,
+      446,
+      393
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      721,
+      397,
+      975,
+      629
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      662,
+      890,
+      711
+    ],
+    "category": "Text",
+    "text": "Không gian mẫu của biến cố là: $C_{12}^4 \\cdot C_4^1 = 1980$"
+  },
+  {
+    "bbox": [
+      152,
+      725,
+      1548,
+      916
+    ],
+    "category": "Text",
+    "text": "Giả sử 4 số lấy ra bao gồm $a, b, c, M$ trong đó $M$ là số chính giữa và $a, b, c$ (giả sử $a < b < c$) là 3 số ở ba vòng tròn xung quanh, vì $a, b, c$ không phân biệt thứ tự nên theo yêu cầu bài toán ta có: $\\begin{cases} c + b < M < a + b + c \\\\ 3 < c + b < 12 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      202,
+      934,
+      754,
+      976
+    ],
+    "category": "Text",
+    "text": "Ta xét các TH có thể xảy ra của số $M$"
+  },
+  {
+    "bbox": [
+      202,
+      995,
+      1178,
+      1038
+    ],
+    "category": "Text",
+    "text": "TH1: $M \\in \\{1; 2; 3; 4; 5; 6; 7\\}$ thì không tồn tại các số $a, b, c$ thoả mãn"
+  },
+  {
+    "bbox": [
+      202,
+      1057,
+      1149,
+      1099
+    ],
+    "category": "Text",
+    "text": "TH2: $M = 8$. Ta có các bộ $(a; b; c)$ thoả mãn là: $(2; 3; 4)$. **Có 1 bộ**"
+  },
+  {
+    "bbox": [
+      202,
+      1119,
+      1149,
+      1161
+    ],
+    "category": "Text",
+    "text": "TH3: $M = 9$. Ta có các bộ $(a; b; c)$ thoả mãn là: $(2; 3; 5)$. **Có 1 bộ**"
+  },
+  {
+    "bbox": [
+      202,
+      1180,
+      1402,
+      1222
+    ],
+    "category": "Text",
+    "text": "TH4: $M = 10$. Ta có các bộ $(a; b; c)$ thoả mãn là: $(2; 3; 6)$, $(3; 4; 5)$, $(2; 4; 5)$. **Có 3 bộ**"
+  },
+  {
+    "bbox": [
+      202,
+      1241,
+      1519,
+      1283
+    ],
+    "category": "Text",
+    "text": "TH5: $M = 11$. Ta có các bộ $(a; b; c)$ thoả mãn là: $(2; 3; 7)$, $(2; 4; 6)$, $(3; 4; 5)$, $(3; 4; 6)$. **Có 4 bộ**"
+  },
+  {
+    "bbox": [
+      152,
+      1302,
+      1118,
+      1389
+    ],
+    "category": "Text",
+    "text": "TH6: $M = 12$. Ta có các bộ $(a; b; c)$ thoả mãn là: $(2; 3; 8)$, $(2; 4; 7)$, $(3; 4; 7)$, $(3; 4; 6)$, $(3; 5; 6)$, $(4; 5; 6)$, $(2; 5; 6)$. **Có 7 bộ**"
+  },
+  {
+    "bbox": [
+      202,
+      1404,
+      1069,
+      1455
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất của biến cố trên là: $P = \\frac{16}{1980}$.因此 $1980P = 16$."
+  },
+  {
+    "bbox": [
+      152,
+      1470,
+      191,
+      1506
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      197,
+      1468,
+      1548,
+      1909
+    ],
+    "category": "Text",
+    "text": "Bài 4. Công tử Bạc Liêu có một mảnh đất hình vuông ở một khu đô thị sầm uất, hình vuông có cạnh 40 m, công tử dự định xây một hồ bơi được giới hạn bởi cạnh $AB$ của hình vuông và một parabol đi qua hai đầu mút cạnh đó, định của parabol cách cạnh $AB$ một đoạn 10 m. Từ vị trí $O$ là trung điểm $AB$, kẻ tia $Ot$ bất kì cắt parabol và một cạnh khác của hình vuông theo thứ tự tại các điểm $M, N$. Gọi $P$ là trung điểm $MN$, khi tia $Ot$ quay quanh gốc $O$ thì tập hợp các điểm $P$ tạo thành đường cong ($L$). Công tử dự định sử dụng một loại gạch men đặc biệt để lát nền cho toàn bộ khu vực được giới hạn bởi đường cong ($L$) và parabol. Phần còn lại trên mảnh đất hình vuông đó thì công tử sẽ trồng cỏ. Biết rằng chi phí xây hồ bơi là 5 triệu đồng/m², chi phí lát gạch men là 2 triệu đồng/m², chi phí trồng cỏ tự nhiên là 100 nghìn đồng/m². Tính tổng số tiền mà công tử Bạc Liêu phải chi trả cho toàn bộ dự án trên theo đơn vị tỷ đồng (làm tròn đến hàng phần"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "90"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

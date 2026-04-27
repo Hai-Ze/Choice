@@ -1,0 +1,140 @@
+[
+  {
+    "bbox": [
+      192,
+      128,
+      1137,
+      203
+    ],
+    "category": "Text",
+    "text": "c) Nếu $\\cos \\widehat{AIB}$ bằng $\\frac{a}{b}$ (phân số tối简) thì giá trị $a^2 + b^2 = 82$."
+  },
+  {
+    "bbox": [
+      192,
+      210,
+      808,
+      265
+    ],
+    "category": "Text",
+    "text": "d)神社 $I(2; -1; -1)$ và 神社 $R = \\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      152,
+      275,
+      1535,
+      547
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một cốc cà phê nóng có nhiệt độ ban đầu là $80^\\circ C$ được đặt trong một phòng có nhiệt độ ổn định là $20^\\circ C$. Sau 15 *phút*, nhiệt độ của cốc cà phê giảm xuống còn $50^\\circ C$ (hình vẽ minh họa). Gọi $T(t)$ là nhiệt độ của cốc cà phê tại thời điểm $t$ (phút) và $y(t) = T(t) - 20$ là chênh lệch nhiệt độ giữa cà phê và môi trường. Biết rằng tốc độ thay đổi chênh lệch nhiệt độ tỉ lệ thuận với chính nó, tức là $y'(t) = k \\cdot y(t)$ (với $k$ là hằng số)."
+  },
+  {
+    "bbox": [
+      473,
+      553,
+      1213,
+      883
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      894,
+      958,
+      975
+    ],
+    "category": "Text",
+    "text": "a) Hằng số tốc độ làm matrix của cốc cà phê $k = \\frac{1}{15} \\ln 2$."
+  },
+  {
+    "bbox": [
+      152,
+      981,
+      1529,
+      1084
+    ],
+    "category": "Text",
+    "text": "b) Sau 30 *phút* kể từ khi đặt vào phòng, nhiệt độ của cốc cà phê là $30^\\circ C$ (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      192,
+      1090,
+      639,
+      1145
+    ],
+    "category": "Text",
+    "text": "c) $y(t) = 60e^{kt}$ với mọi $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      152,
+      1160,
+      1429,
+      1267
+    ],
+    "category": "Text",
+    "text": "d) tại thời điểm ban đầu ($t=0$), giá trị của hằng số $C$ trong biểu thức $y(t) = e^{kt+C}$ là $C = \\ln 60$."
+  },
+  {
+    "bbox": [
+      152,
+      1273,
+      1535,
+      1417
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hộp $X$ có 5 bi đen và 5 bi trắng, hộp $Y$ có 6 bi đen và 8 bi trắng. Bạn $H$ lấy ngẫu nhiên 2 viên bi từ hộp $X$ bỏ sang hộp $Y$, sau đó tiếp tục lấy ngẫu nhiên 3 viên bi từ hộp $Y$ (hình vẽ minh họa)."
+  },
+  {
+    "bbox": [
+      399,
+      1488,
+      1388,
+      1925
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1977,
+      1506,
+      2114
+    ],
+    "category": "Text",
+    "text": "a) Biết rằng bạn $H$ đã lấy được 2 viên bi đen và 1 viên bi trắng từ hộp $Y$, xác suất để 2 viên vi đen ấy là từ hộp $X$ chuyển qua bằng $\\frac{448}{1693}$."
+  },
+  {
+    "bbox": [
+      192,
+      2132,
+      1043,
+      2213
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để lấy được 3 viên bi đen từ hộp $Y$ bằng $\\frac{109}{1680}$."
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      313,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 9101"
+  },
+  {
+    "bbox": [
+      1399,
+      2235,
+      1532,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/6"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "bbox": [
+      92,
+      248,
+      1129,
+      408
+    ],
+    "category": "List-item",
+    "text": "**Câu 21.** Trong xưởng thiết kế đồ lưu niệm, người ta muốn chế tạo **một chiếc nón trưng bày bằng mica** (dạng hình nón tròn xoay) sao cho bên trong đặt vừa khít một **quả cầu trang trí** (quả cầu scanned cả mặt đáy và mặt xung quanh của hình nón)."
+  },
+  {
+    "bbox": [
+      217,
+      405,
+      1129,
+      586
+    ],
+    "category": "Text",
+    "text": "Trong hệ trục tọa độ $Oxyz$ (đơn vị cm), cho hai điểm $A(2; 1; 3)$, $B(6; 5; 5)$ là hai đầu mút của đường kính của quả cầu; $B$ cũng là **tâm của đường tròn đáy** của chiếc nón. Đỉnh hình nón là $S$ (có thể thay đổi) sao cho **quả cầu luôn nội tiếp** hình nón đó."
+  },
+  {
+    "bbox": [
+      217,
+      583,
+      1129,
+      747
+    ],
+    "category": "Text",
+    "text": "Trong tất cả các chiếc nón thỏa điều kiện trên, người ta muốn quan sát chiếc nón có **thể tích bé nhất**. Khi đó, mặt phẳng đi qua định $S$ và song song với mặt phẳng chứa đường tròn đáy của nón có dạng $2x + by + cz + d = 0$. Tính $T = b^2 + c^2 + d^2$."
+  },
+  {
+    "bbox": [
+      217,
+      763,
+      331,
+      799
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      336,
+      750,
+      541,
+      804
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      265,
+      1590,
+      770
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      92,
+      1031,
+      1594,
+      1227
+    ],
+    "category": "List-item",
+    "text": "**Câu 22.** Một nhóm 12 người tương ứng với mã số $1; 2;...; 12$ đứng quanh một vòng tròn cùng tham gia trò chơi. Họ được sắp xếp một cách ngẫu nhiên trên 12 vị trí $A, B, ..., M, N$ của đường tròn, vì thế các số được xếp không theo thứ tự định trước. Người quản trò đứng ở vị trí tâm đường tròn, anh ta bốc ngẫu nhiên 2 lần, mỗi lần 1 thẻ và không hoàn lại từ集合待用的各个数{1; 2; 3; 4; 5}. Nếu người quản trò bốc được số chia hết cho 3 thì tất cả những người cùng mang số chia hết cho 3 sẽ tiến về phía tâm đường tròn để"
+  },
+  {
+    "bbox": [
+      217,
+      1224,
+      1125,
+      1380
+    ],
+    "category": "Text",
+    "text": "tham gia một trò chơi nhỏ và tính điểm, nếu người quản trò bốc đúng thẻ có số chia cho 3 dư 1 thì những người mang số chia cho 3 dư 1 cũng tiến lên phía trước, luật chơi tương tự nếu người quản trò bốc được số chia cho 3 dư 2."
+  },
+  {
+    "bbox": [
+      217,
+      1377,
+      1125,
+      1558
+    ],
+    "category": "Text",
+    "text": "Xác suất để sau 2 lần người quản trò bốc thẻ thì không có hai người kề nhau trên đường tròn được chọn bằng $\\frac{a}{b}$ (trong đó $a, b$ nguyên dương và không có ước chung lớn hơn 1), tính $a \\times b$."
+  },
+  {
+    "bbox": [
+      217,
+      1574,
+      331,
+      1610
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      336,
+      1561,
+      541,
+      1615
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1151,
+      1231,
+      1573,
+      1652
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      815,
+      1910,
+      889,
+      1950
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      135,
+      2018,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2018,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1564,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "6"
+  }
+]

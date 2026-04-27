@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1167,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      97,
+      1095,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{3.5,6 + 4.5,8 + 6.6,0 + 5.6,2 + 5.6,4 + 2.6,6}{25} = 6,088\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      202,
+      1194,
+      299
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ lệch chuẩn: } s = \\sqrt{\\frac{5.75^2 + 10.125^2 + 9.175^2 + 4.225^2 + 2.275^2}{30} - 155^2} \\approx 0,29\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      323,
+      1573,
+      497
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Gọi $S$ là diện tích hình phẳng $(H)$ giới hạn bởi các đường $y = f(x)$, trục hoành và hai đường thẳng $x = -1, x = 2$. Đặt $a = \\int_{-1}^{0} f(x)dx, b = \\int_{0}^{2} f(x)dx$, mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      543,
+      514,
+      1185,
+      1282
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      1301,
+      372,
+      1336
+    ],
+    "category": "List-item",
+    "text": "A. $S = b - a$"
+  },
+  {
+    "bbox": [
+      555,
+      1301,
+      719,
+      1336
+    ],
+    "category": "List-item",
+    "text": "B. $S = b + a$"
+  },
+  {
+    "bbox": [
+      906,
+      1301,
+      1088,
+      1336
+    ],
+    "category": "List-item",
+    "text": "C. $S = -b + a$"
+  },
+  {
+    "bbox": [
+      1255,
+      1301,
+      1441,
+      1336
+    ],
+    "category": "List-item",
+    "text": "D. $S = -b - a$"
+  },
+  {
+    "bbox": [
+      807,
+      1359,
+      924,
+      1398
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1418,
+      279,
+      1456
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      1474,
+      244,
+      1509
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      1532,
+      1166,
+      1631
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-1}^{2} |f(x)|dx = \\int_{-1}^{0} |f(x)|dx + \\int_{0}^{2} |f(x)|dx = -\\int_{-1}^{0} f(x)dx + \\int_{0}^{2} f(x)dx = -a + b.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1654,
+      1560,
+      1768
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho tức diện $OABC$ có ba cạnh $OA, OB, OC$ đối một vuông góc và $OA = OB = OC = a$. Gọi $M$ là trung điểm cạnh $AB$. Góc tạo bởi hai vectơ $\\overrightarrow{AC}$ và $\\overrightarrow{OM}$ bằng"
+  },
+  {
+    "bbox": [
+      206,
+      1787,
+      326,
+      1822
+    ],
+    "category": "List-item",
+    "text": "A. $120^\\circ$."
+  },
+  {
+    "bbox": [
+      555,
+      1787,
+      660,
+      1822
+    ],
+    "category": "List-item",
+    "text": "B. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      906,
+      1787,
+      1029,
+      1822
+    ],
+    "category": "List-item",
+    "text": "C. $135^\\circ$."
+  },
+  {
+    "bbox": [
+      1255,
+      1787,
+      1362,
+      1822
+    ],
+    "category": "List-item",
+    "text": "D. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      807,
+      1846,
+      924,
+      1885
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1905,
+      279,
+      1943
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      730,
+      70,
+      995,
+      315
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      320,
+      857,
+      365
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình vận tốc của xe B là $v_B(t) = 15t$."
+  },
+  {
+    "bbox": [
+      196,
+      373,
+      1121,
+      419
+    ],
+    "category": "List-item",
+    "text": "b) Vận tốc lớn nhất của xe A trong 4 giờ đầu di chuyển là $80\\text{km/h}$."
+  },
+  {
+    "bbox": [
+      196,
+      421,
+      972,
+      465
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường xe A đi được trong 3 giờ đầu là $120\\text{km}$."
+  },
+  {
+    "bbox": [
+      196,
+      473,
+      1208,
+      555
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách lớn nhất giữa hai xe trong 4 giờ đầu di chuyển là $\\frac{160}{3}\\text{km}$."
+  },
+  {
+    "bbox": [
+      146,
+      560,
+      1588,
+      826
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một thư viện thực hiện khảo sát 200 độc giả chia làm hai nhóm tuổi: nhóm trẻ (dưới 35 tuổi) và nhóm trung niên (từ 35 tuổi trở lên). Các độc giả chỉ lựa chọn đọc 1 trong 3 loại sách: văn học, khoa học và ẩm thực. Kết quả thu được cho thấy: có 120 người thuộc nhóm trẻ. Có 80 người lựa chọn đọc sách văn học. Số người thuộc nhóm trung niên lựa chọn đọc sách khoa học là 20 người. Biết rằng hai biến cố: “độc giả thuộc nhóm trung niên” và “độc giả lựa chọn đọc sách văn học” là hai biến cố độc lập. Chọn ngẫu nhiên một độc giả được khảo sát."
+  },
+  {
+    "bbox": [
+      196,
+      826,
+      1051,
+      870
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để độc giả được chọn là thuộc nhóm trẻ bằng 0,6."
+  },
+  {
+    "bbox": [
+      196,
+      876,
+      1231,
+      921
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để độc giả được chọn là trung niên và đọc sách văn học là 0,2."
+  },
+  {
+    "bbox": [
+      196,
+      927,
+      1305,
+      972
+    ],
+    "category": "List-item",
+    "text": "c) Trong số các độc giả lựa chọn sách văn học, có đúng 48 người thuộc nhóm trẻ."
+  },
+  {
+    "bbox": [
+      196,
+      972,
+      1579,
+      1017
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng người được chọn thuộc nhóm trung niên, xác suất để người đó đọc sách ẩm thực là 35%."
+  },
+  {
+    "bbox": [
+      146,
+      1017,
+      1586,
+      1106
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một nhóm nghiên cứu quan sát sự phát triển của một whan thể vi�u trong môi trường nuôi cấy hạn chế."
+  },
+  {
+    "bbox": [
+      146,
+      1112,
+      1586,
+      1210
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 1 (từ $t = 0$ đến $t = 3$ giờ): Số lượng vi�u tăng trưởng theo hàm mũ $N(t) = 50e^{0,8t}$ (với $t$ tính bằng giờ, $N$ tính bằng triệu cá thể)."
+  },
+  {
+    "bbox": [
+      146,
+      1210,
+      1586,
+      1307
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 2 (sau 3 giờ): Do nguồn dinh dưỡng cạn kiệt, tốc độ tăng trưởng giảm dần. Từ thời điểm này, số lượng viju lúc này tuân theo hàm số $M(t) = A - Be^{-0,6t}$."
+  },
+  {
+    "bbox": [
+      196,
+      1311,
+      1023,
+      1356
+    ],
+    "category": "List-item",
+    "text": "a) Số lượng viju tại thời điểm bắt đầu là 50 triệu cá thể."
+  },
+  {
+    "bbox": [
+      196,
+      1356,
+      1336,
+      1401
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ tăng trưởng của viju tại thời điểm $t = 3$ lớn hơn 440 triệu cá thể/giờ."
+  },
+  {
+    "bbox": [
+      196,
+      1409,
+      477,
+      1491
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị $B = \\frac{200}{3}$."
+  },
+  {
+    "bbox": [
+      196,
+      1497,
+      1586,
+      1586
+    ],
+    "category": "List-item",
+    "text": "d) Số lượng viju tối đa (ngưỡng bão hòa) mà môi trường này có thể duy trì 1285 triệu cá thể (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      146,
+      1586,
+      767,
+      1628
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      146,
+      1634,
+      1586,
+      1879
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trên mặt phẳng vẽ hai half đường tròn đường kính $AB, AD$, với $AB = 2AD = 4\\text{cm}$ như hình vẽ. Cho biết $BAC = 30^\\circ$. Hình phẳng (H) là phần tô đâm nằm giữa hai half đường tròn, đường thẳng $AB, AC$. Một kỹ sư cần chế tạo chi tiết máy bằng thép có dạng tròn xoay khi xoay hình phẳng (H) quanh trục $AB$. Biết chi phí sản xuất là 15 nghìn đồng/$\\text{cm}^3$. Giá tiền sản xuất một chi tiết máy là bao nhiêu nghìn đồng? (kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      677,
+      1894,
+      1048,
+      2086
+    ],
+    "category": "Picture"
+  }
+]

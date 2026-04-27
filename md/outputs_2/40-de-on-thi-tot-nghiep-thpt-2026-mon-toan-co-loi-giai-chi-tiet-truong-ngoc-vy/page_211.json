@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      98,
+      913,
+      359
+    ],
+    "category": "Text",
+    "text": "Để nhà máy hoạt động được thì\n$$ \\begin{cases} 40+t > 0 \\\\ 120 - \\frac{5t}{2} > 0 \\Rightarrow t \\in (-40; 48). \\\\ 100 - \\frac{t}{2} > 0 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      75,
+      384,
+      1056,
+      474
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm trong một tuần làm được: $S = \\left(100 - \\frac{t}{2}\\right)\\left(120 - \\frac{5t}{2}\\right)(40+t)$."
+  },
+  {
+    "bbox": [
+      75,
+      492,
+      418,
+      539
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm thu được là:"
+  },
+  {
+    "bbox": [
+      82,
+      560,
+      924,
+      657
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\left(100 - \\frac{t}{2}\\right)\\left(120 - \\frac{5t}{2}\\right)(40+t) - \\frac{95(40+t)^2 + 120(40+t)}{4}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      681,
+      1298,
+      865
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f'(t) &= \\frac{-1}{2}\\left(120 - \\frac{5t}{2}\\right)(40+t) - \\frac{5}{2}\\left(100 - \\frac{t}{2}\\right)(40+t) + \\left(100 - \\frac{t}{2}\\right)\\left(120 - \\frac{5t}{2}\\right) - \\frac{95}{2}(40+t) - 30 \\\\ &= \\frac{15}{4}t^2 - \\frac{1135}{2}t - 2330 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      885,
+      515,
+      1025
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(t) = 0 \\Leftrightarrow \\begin{cases} t = -4 \\\\ t = \\frac{466}{3} (L) \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1049,
+      243,
+      1084
+    ],
+    "category": "Text",
+    "text": "Ta có BXD:"
+  },
+  {
+    "bbox": [
+      510,
+      1120,
+      1080,
+      1359
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1372,
+      1494,
+      1472
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có số lượng sản phẩm thu được lớn nhất thì thời gian làm việc trong một tuần là $40 + (-4) = 36$"
+  },
+  {
+    "bbox": [
+      75,
+      1488,
+      1494,
+      1766
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cô Minh Nhàn có 650 triệu đồng dự định gửi tiếtniêm vào các ngân hàng A, B và C. Biết các ngân hàng A, B, C trả lãi suất lần lượt là 8%/năm, 7,5%/năm và 7%/năm. Để phù hợp với nhu cầu, Cô Minh Nhàn mong muốn sau một năm, tổng số tiền lãi bác nhận được là 50 triệu đồng và số tiền bác gửi vào ngân hàng B lớn hơn số tiền gửi vào ngân hàng C là 100 triệu đồng. Cô Minh Nhàn cần gửi vào ngân hàng A và B bao nhiêu triệu đồng để đáp ứng được yêu cầu của cô?"
+  },
+  {
+    "bbox": [
+      75,
+      1783,
+      414,
+      1820
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1842,
+      843,
+      1881
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1899,
+      257,
+      1938
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 550"
+  },
+  {
+    "bbox": [
+      75,
+      1953,
+      1196,
+      1999
+    ],
+    "category": "Text",
+    "text": "Gọi số tiền bác Nhân gửi vào mỗi ngân hàng A, B, C lần lượt là $x, y, z$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      75,
+      2018,
+      318,
+      2058
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      2075,
+      939,
+      2120
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền bác có là 650 triệu đồng, suy ra $x + y + z = 650$ (1)."
+  },
+  {
+    "bbox": [
+      75,
+      2132,
+      944,
+      2236
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền lãi bác nhận được sau một năm là 50 triệu đồng nên $8\\%x + 7,5\\%y + 7\\%z = 50$ hay $8x + 7,5y + 7z = 5000$ (2)."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      153,
+      79,
+      854,
+      120
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Nghiệm của phương trình $\\tan 3x = \\tan x$ là"
+  },
+  {
+    "bbox": [
+      192,
+      122,
+      437,
+      203
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{k\\pi}{6}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      556,
+      122,
+      802,
+      203
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{k\\pi}{2}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      920,
+      141,
+      1169,
+      181
+    ],
+    "category": "List-item",
+    "text": "C. $x = k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      1284,
+      141,
+      1524,
+      181
+    ],
+    "category": "List-item",
+    "text": "D. $x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      153,
+      203,
+      1556,
+      288
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Một bình待 9 viên bi màu xanh và 7 viên bi màu đỏ. Lần lượt lấy ngẫu nhiên ra 1 viên bi rồi trả lại vào bình và tiếp tục lấy ra 1 bi. Xác suất để lấy bi thứ nhất màu đỏ và bi thứ hai màu xanh bằng"
+  },
+  {
+    "bbox": [
+      192,
+      290,
+      289,
+      369
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{9}{16}$."
+  },
+  {
+    "bbox": [
+      556,
+      290,
+      678,
+      369
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{63}{256}$."
+  },
+  {
+    "bbox": [
+      920,
+      290,
+      1039,
+      369
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{16}{256}$."
+  },
+  {
+    "bbox": [
+      1284,
+      290,
+      1378,
+      369
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{9}{17}$."
+  },
+  {
+    "bbox": [
+      153,
+      369,
+      1568,
+      451
+    ],
+    "category": "Text",
+    "text": "**Phần 2. Trắc nghiệm lựa chọn đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      447,
+      1575,
+      623
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Khi xe đạp di chuyển, van V của bánh xe quay quanh trục O theo chiều kim đồng hồ với tốc độ không đổi $12\\text{ rad/s}$. Ban đầu van V ở vị trí A. Sau 2 phút di chuyển, khoảng cách từ van V đến mặt đất là $h$, biết bán kính $OA = 60\\text{ cm}$. Giả sử độ dày của lốp xe không đáng kể. Các kết quả làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      614,
+      617,
+      1247,
+      1027
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1033,
+      1501,
+      1128
+    ],
+    "category": "Text",
+    "text": "a) Với mỗi góc lượng giác $(OA, OV) = \\alpha$, sau 25 vòng quay bánh xe thì $(OA, OV) = \\beta$ ta luôn có $\\sin \\beta = \\sin \\alpha$."
+  },
+  {
+    "bbox": [
+      192,
+      1134,
+      1093,
+      1217
+    ],
+    "category": "Text",
+    "text": "b) Biết $\\cos \\alpha = \\frac{3}{5}$, và vị trí van V như hình vẽ. Khi đó $\\sin \\alpha = -\\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      192,
+      1219,
+      1252,
+      1269
+    ],
+    "category": "Text",
+    "text": "c) Khi góc $\\alpha = 20^\\circ$ thì số đo góc lượng giác $(OA, OV) = 20^\\circ + k \\cdot 360^\\circ$ ($k \\in \\mathbb{Z}$)."
+  },
+  {
+    "bbox": [
+      192,
+      1275,
+      437,
+      1315
+    ],
+    "category": "Text",
+    "text": "d) $h = 114,78 \\text{ cm}$."
+  },
+  {
+    "bbox": [
+      153,
+      1317,
+      1478,
+      1363
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hình lập phương $ABCD.EFGH$ có cạnh bằng $a$. Gọi $I$ là giao điểm của $EG$ và $HF$."
+  },
+  {
+    "bbox": [
+      192,
+      1361,
+      1102,
+      1402
+    ],
+    "category": "Text",
+    "text": "a) Đoạn vuông góc chung của hai đường thẳng $AE$ và $GH$ là $EH$."
+  },
+  {
+    "bbox": [
+      192,
+      1400,
+      765,
+      1443
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách giữa $AE$ và $BH$ bằng $a$."
+  },
+  {
+    "bbox": [
+      192,
+      1441,
+      982,
+      1484
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa hai đường thẳng $BD$ và $EG$ bằng $a$."
+  },
+  {
+    "bbox": [
+      192,
+      1484,
+      1021,
+      1576
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai đường thẳng $AI$ và $DG$ bằng $\\frac{a\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      153,
+      1580,
+      1556,
+      1671
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một vật chuyển động trên đường thẳng được xác định bởi công thức $s(t) = t^3 - 3t^2 + 7t - 2$, trong đó $t > 0$ tính bằng giây và $s$ là quăng đường chuyển động được của vật trong $t$ giây tính bằng mét."
+  },
+  {
+    "bbox": [
+      192,
+      1671,
+      1378,
+      1724
+    ],
+    "category": "Text",
+    "text": "a) Gia tốc của vật tại thời điểm mà vận tốc của chuyển động bằng $16 \\text{ m/s}$ là $10 \\text{ (m/s}^2\\text{)}$."
+  },
+  {
+    "bbox": [
+      192,
+      1726,
+      1140,
+      1773
+    ],
+    "category": "Text",
+    "text": "b) Thời điểm $t = 1$ tại đó vận tốc của chuyển động đạt giá trị nhỏ nhất."
+  },
+  {
+    "bbox": [
+      192,
+      1771,
+      848,
+      1814
+    ],
+    "category": "Text",
+    "text": "c) Tốc độ của vật tại thời điểm $t = 2$ là $7 \\text{ (m/s)}$."
+  },
+  {
+    "bbox": [
+      192,
+      1820,
+      874,
+      1875
+    ],
+    "category": "Text",
+    "text": "d) Gia tốc của vật tại thời điểm $t = 2$ là $6 \\text{ (m/s}^2\\text{)}$."
+  },
+  {
+    "bbox": [
+      153,
+      1885,
+      968,
+      1936
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Cho hai biểu thức $f(x) = 0,1^{x^2-3x+m}$ và $g(x) = 10^{1-x}$."
+  },
+  {
+    "bbox": [
+      192,
+      1942,
+      1302,
+      1993
+    ],
+    "category": "Text",
+    "text": "a) Khi $m = -4$ thì bất phương trình $f(x) < 1$ có tập nghiệm là $(-\\infty; -1) \\cup (4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      192,
+      1999,
+      1128,
+      2048
+    ],
+    "category": "Text",
+    "text": "b) Khi $m = 2$ thì bất phương trình $f(x) \\ge g(x)$ có 3 nghiệm nguyên."
+  },
+  {
+    "bbox": [
+      192,
+      2054,
+      973,
+      2103
+    ],
+    "category": "Text",
+    "text": "c) Bất phương trình $g(x) > 100$ có tập nghiệm là $(-\\infty; 3)$."
+  },
+  {
+    "bbox": [
+      192,
+      2111,
+      912,
+      2159
+    ],
+    "category": "Text",
+    "text": "d) $f(x) \\le g(x)$ với mọi $x \\in \\mathbb{R}$ khi và chỉ khi $m \\le 3$."
+  },
+  {
+    "bbox": [
+      153,
+      2161,
+      1211,
+      2208
+    ],
+    "category": "Text",
+    "text": "**Phần 3. Câu hỏi trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6"
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0102"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1611,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/3"
+  }
+]

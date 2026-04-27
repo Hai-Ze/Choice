@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      153,
+      123,
+      795,
+      211
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $f(x) = \\frac{2}{x+1} + \\ln(x+1)$"
+  },
+  {
+    "bbox": [
+      180,
+      215,
+      742,
+      268
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có tập xác định là $\\mathbb{R} \\setminus \\{-1\\}$."
+  },
+  {
+    "bbox": [
+      180,
+      279,
+      577,
+      381
+    ],
+    "category": "Text",
+    "text": "b) $f'(x) = \\frac{2}{(x+1)^2} + \\frac{1}{x+1}$."
+  },
+  {
+    "bbox": [
+      180,
+      390,
+      628,
+      441
+    ],
+    "category": "Text",
+    "text": "c) $f'(x) = 0$ có nghiệm $x = 1$."
+  },
+  {
+    "bbox": [
+      180,
+      447,
+      871,
+      500
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ là $1 + \\ln 2$."
+  },
+  {
+    "bbox": [
+      153,
+      504,
+      1534,
+      755
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tัng 1 của tào nhà ở một trung tâm triển lãm có dạng hình chóp cụt đều $ABCD.MNPQ$ được mô hình hóa trong không gian tọa độ $Oxyz$ với đơn vị trên các trục là 10 mét (như hình vẽ). Biết $AB = 80\\text{ m}$; $MN = 60\\text{ m}$ và chiều cao của tัng 1 tào nhà là $20\\text{ m}$. Ở các vị trí $H, K$ trên các đoạn thẳng $MD, BN$ người ta nắp các bóng đèn cao áp có khoảng cách đến mặt sàn bằng $15\\text{ m}$."
+  },
+  {
+    "bbox": [
+      153,
+      765,
+      749,
+      859
+    ],
+    "category": "Text",
+    "text": "a) Độ dài đường chéo của mặt sàn nhà là $AC = 80\\sqrt{2}\\text{ m}$."
+  },
+  {
+    "bbox": [
+      153,
+      872,
+      714,
+      939
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ của điểm $B$ là $(40\\sqrt{2}; 0; 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      948,
+      808,
+      1015
+    ],
+    "category": "Text",
+    "text": "c) Tọa độ của véc tơ $\\overline{MD}$ là $(4\\sqrt{2}; -3\\sqrt{2}; 2)$."
+  },
+  {
+    "bbox": [
+      153,
+      1022,
+      918,
+      1077
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai chiếc灯 bằng $5\\sqrt{185}$ (m)"
+  },
+  {
+    "bbox": [
+      959,
+      765,
+      1524,
+      1261
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1302,
+      1488,
+      1391
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Kết quả khảo sát môn Toán của 40 học sinh lớp 12A được thống kê trong bảng ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      233,
+      1397,
+      1450,
+      1506
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[4;5)</td><td>[5;6)</td><td>[6;7)</td><td>[8;9)</td><td>[9;10)</td></tr><tr><td>Số học sinh</td><td>4</td><td>7</td><td>14</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1509,
+      766,
+      1558
+    ],
+    "category": "Text",
+    "text": "a) Khoảng biến thiên của mẫu số liệu là 6."
+  },
+  {
+    "bbox": [
+      153,
+      1563,
+      808,
+      1648
+    ],
+    "category": "Text",
+    "text": "b) Khoảng tức phân vị của mẫu số liệu là $\\frac{35}{14}$."
+  },
+  {
+    "bbox": [
+      153,
+      1651,
+      833,
+      1700
+    ],
+    "category": "Text",
+    "text": "c) Độ lệch chuẩn của mẫu số liệu nhỏ hơn 1,6."
+  },
+  {
+    "bbox": [
+      153,
+      1703,
+      1499,
+      1843
+    ],
+    "category": "Text",
+    "text": "d) Chọn ngẫu nhiên 5 học sinh trong lớp. Xác suất để trong 5 học sinh đó có đúng 2 học sinh có điểm thuộc nhóm chứa trung vị bằng $\\frac{2275}{6327}$."
+  },
+  {
+    "bbox": [
+      153,
+      1889,
+      1018,
+      1937
+    ],
+    "category": "Text",
+    "text": "**Phần III. Trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      1932,
+      1534,
+      2216
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong集合 chứa 100 cái thẻ được đánh số thứ tự liên tiếp từ 1 đến 100. Hai thẻ khác nhau thì đánh số thứ tự khác nhau. Chọn ngẫu nhiên 3 thẻ trong集合. Xác suất để chọn được 3 thẻ có số thứ tự lập thành cấp số cộng, đồng thời có tổng không vượt quá 125 bằng $\\frac{a}{b}$ (trong đó $\\frac{a}{b}$ là phân số tối简). Tính $b - a$."
+  },
+  {
+    "bbox": [
+      153,
+      2228,
+      329,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1012"
+  },
+  {
+    "bbox": [
+      1389,
+      2232,
+      1534,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

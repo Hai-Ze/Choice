@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      190,
+      132
+    ],
+    "category": "Section-header",
+    "text": "## Cách 2:"
+  },
+  {
+    "bbox": [
+      76,
+      161,
+      313,
+      202
+    ],
+    "category": "Text",
+    "text": "Đặt $t = 2^x, t > 0$"
+  },
+  {
+    "bbox": [
+      76,
+      225,
+      1141,
+      271
+    ],
+    "category": "Text",
+    "text": "Bất phương trình trở thành: $t^2 - 64t < 0 \\Leftrightarrow 0 < t < 64 \\Leftrightarrow 0 < 2^x < 64 \\Leftrightarrow x < 6$."
+  },
+  {
+    "bbox": [
+      76,
+      286,
+      1495,
+      388
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng):"
+  },
+  {
+    "bbox": [
+      210,
+      402,
+      1357,
+      534
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5;7)</td><td>[7;9)</td><td>[9;11)</td><td>[11;13)</td><td>[13;15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      588,
+      1224,
+      633
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?"
+  },
+  {
+    "bbox": [
+      126,
+      652,
+      196,
+      687
+    ],
+    "category": "List-item",
+    "text": "A. 7."
+  },
+  {
+    "bbox": [
+      476,
+      652,
+      567,
+      687
+    ],
+    "category": "List-item",
+    "text": "B. 7,6."
+  },
+  {
+    "bbox": [
+      827,
+      652,
+      894,
+      687
+    ],
+    "category": "List-item",
+    "text": "C. 8."
+  },
+  {
+    "bbox": [
+      1177,
+      652,
+      1272,
+      687
+    ],
+    "category": "List-item",
+    "text": "D. 8,6."
+  },
+  {
+    "bbox": [
+      727,
+      711,
+      843,
+      749
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      769,
+      198,
+      807
+    ],
+    "category": "Section-header",
+    "text": "## Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      821,
+      405,
+      860
+    ],
+    "category": "Text",
+    "text": "Ta có cỡ mẫu là $n = 20$."
+  },
+  {
+    "bbox": [
+      76,
+      883,
+      1495,
+      993
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1, x_2, \\dots, x_{20}$ là doanh thu bán hàng trong 20 ngày của một cửa hàng và dãy này đã sắp xếp theo thứ tự tăng dần."
+  },
+  {
+    "bbox": [
+      76,
+      1013,
+      1284,
+      1093
+    ],
+    "category": "Text",
+    "text": "Khi đó tứ phân vị thứ nhất $Q_1$ là trung vị của dãy gồm 10 số liệu đầu nên $Q_1 = \\frac{1}{2}(x_4 + x_5)$."
+  },
+  {
+    "bbox": [
+      76,
+      1118,
+      1495,
+      1345
+    ],
+    "category": "Text",
+    "text": "Do Tứ phân vị thứ nhất của dãy số liệu là $\\frac{1}{2}(x_4 + x_5)$ thuộc nhóm [7;9) nên tứ phân vị thứ nhất của mẫu số liệu là $Q_1 = 7 + \\frac{\\frac{20}{4} - 2}{7}(9 - 7) = 7,86$"
+  },
+  {
+    "bbox": [
+      76,
+      1362,
+      1495,
+      1583
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cắt một vật thể bởi hai mặt phẳng vuông góc với trục $Ox$ tại $x = 1$ và $x = 3$. Một mặt phẳng tùy ý vuông góc với trục $Ox$ tại điểm có hoành độ $x$ ($1 \\le x \\le 3$) cắt vật thể đó theo thiết diện là một hình chữ nhật có độ dài hai cạnh là $3x$ và $3x^2 - 2$. Tính thể tích của phần vật thể giới hạn bởi hai mặt phẳng trên."
+  },
+  {
+    "bbox": [
+      126,
+      1608,
+      278,
+      1642
+    ],
+    "category": "List-item",
+    "text": "A. $V = 156$"
+  },
+  {
+    "bbox": [
+      476,
+      1608,
+      645,
+      1642
+    ],
+    "category": "List-item",
+    "text": "B. $V = 156\\pi$"
+  },
+  {
+    "bbox": [
+      827,
+      1608,
+      976,
+      1642
+    ],
+    "category": "List-item",
+    "text": "C. $V = 312$"
+  },
+  {
+    "bbox": [
+      1177,
+      1608,
+      1348,
+      1642
+    ],
+    "category": "List-item",
+    "text": "D. $V = 312\\pi$"
+  },
+  {
+    "bbox": [
+      727,
+      1666,
+      843,
+      1704
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1724,
+      198,
+      1762
+    ],
+    "category": "Section-header",
+    "text": "## Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1783,
+      788,
+      1959
+    ],
+    "category": "Text",
+    "text": "Diện tích thiết diện là: $S(x) = 3x(3x^2 - 2) = 9x^3 - 6x$\n$\\Rightarrow$ Thể tích vật thể là: $V = \\int_{1}^{3} (9x^3 - 6x) dx = 156$"
+  },
+  {
+    "bbox": [
+      76,
+      1980,
+      1495,
+      2114
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, cho hai véc tơ $\\vec{a}, \\vec{b}$ thỏa mãn $|\\vec{a}| = 2\\sqrt{3}, |\\vec{b}| = 3, (\\vec{a}, \\vec{b}) = 30^\\circ$. Độ dài vec tơ $3\\vec{a} - 2\\vec{b}$ là"
+  },
+  {
+    "bbox": [
+      126,
+      2136,
+      196,
+      2170
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      476,
+      2136,
+      551,
+      2170
+    ],
+    "category": "List-item",
+    "text": "B. 5."
+  },
+  {
+    "bbox": [
+      827,
+      2136,
+      886,
+      2170
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1177,
+      2136,
+      1249,
+      2170
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      727,
+      2194,
+      848,
+      2232
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

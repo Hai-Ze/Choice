@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      162,
+      97,
+      939,
+      276
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} \\frac{x}{2} + 15^{\\circ} = 90^{\\circ} - x + k360^{\\circ} \\\\ \\frac{x}{2} + 15^{\\circ} = -90^{\\circ} + x + k360^{\\circ} \\end{cases} \\Leftrightarrow \\begin{cases} x = 50^{\\circ} + k240^{\\circ} \\\\ x = 210^{\\circ} - k720^{\\circ} \\end{cases}; k \\in \\mathbb{Z}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      302,
+      367,
+      344
+    ],
+    "category": "Text",
+    "text": "Vậy $290^{\\circ} \\in X$."
+  },
+  {
+    "bbox": [
+      156,
+      370,
+      1004,
+      453
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tìm tập nghiệm $S$ của bất phương trình $5^{x+1} - \\frac{1}{5} > 0$."
+  },
+  {
+    "bbox": [
+      205,
+      477,
+      439,
+      524
+    ],
+    "category": "List-item",
+    "text": "A. $S = (-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      555,
+      477,
+      763,
+      524
+    ],
+    "category": "List-item",
+    "text": "B. $S = (1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      906,
+      477,
+      1132,
+      524
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1255,
+      477,
+      1489,
+      524
+    ],
+    "category": "List-item",
+    "text": "D. $S = (-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      807,
+      551,
+      924,
+      589
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      610,
+      271,
+      648
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      156,
+      666,
+      1022,
+      712
+    ],
+    "category": "Text",
+    "text": "Bất phương trình tương đương $5^{x+1} > 5^{-1} \\Leftrightarrow x+1 > -1 \\Leftrightarrow x > -2$."
+  },
+  {
+    "bbox": [
+      156,
+      730,
+      887,
+      779
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình là $S = (-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      156,
+      807,
+      1240,
+      860
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Giá trị nhỏ nhất của hàm số $f(x) = (x^2 - 2)e^{2x}$ trên đoạn $[-1; 2]$ bằng:"
+  },
+  {
+    "bbox": [
+      205,
+      888,
+      298,
+      927
+    ],
+    "category": "List-item",
+    "text": "A. $2e^4$"
+  },
+  {
+    "bbox": [
+      555,
+      888,
+      647,
+      927
+    ],
+    "category": "List-item",
+    "text": "B. $-e^2$"
+  },
+  {
+    "bbox": [
+      906,
+      888,
+      997,
+      927
+    ],
+    "category": "List-item",
+    "text": "C. $2e^2$"
+  },
+  {
+    "bbox": [
+      1255,
+      888,
+      1366,
+      927
+    ],
+    "category": "List-item",
+    "text": "D. $-2e^2$"
+  },
+  {
+    "bbox": [
+      807,
+      951,
+      924,
+      989
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1010,
+      277,
+      1048
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1066,
+      883,
+      1122
+    ],
+    "category": "Text",
+    "text": "Ta có: $f'(x) = 2(x^2 - 2)e^{2x} + 2xe^{2x} = 2(x^2 + x - 2)e^{2x}$"
+  },
+  {
+    "bbox": [
+      162,
+      1147,
+      569,
+      1257
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\begin{cases} x = 1 \\in [-1; 2] \\\\ x = -2 \\notin [-1; 2] \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1284,
+      727,
+      1333
+    ],
+    "category": "Text",
+    "text": "Và $f(-1) = -e^{-2}$; $f(2) = 2e^4$; $f(1) = -e^2$"
+  },
+  {
+    "bbox": [
+      156,
+      1359,
+      1295,
+      1413
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của hàm số $f(x) = (x^2 - 2)e^{2x}$ trên đoạn $[-1; 2]$ bằng $-e^2$ tại $x = 1$."
+  },
+  {
+    "bbox": [
+      156,
+      1442,
+      962,
+      1562
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho $\\int_{0}^{\\frac{\\pi}{2}} f(x)dx = 5$. Tính $I = \\int_{0}^{\\frac{\\pi}{2}} [f(x) + 2\\sin x]dx$."
+  },
+  {
+    "bbox": [
+      205,
+      1595,
+      320,
+      1644
+    ],
+    "category": "List-item",
+    "text": "A. $I = 7$"
+  },
+  {
+    "bbox": [
+      555,
+      1595,
+      722,
+      1669
+    ],
+    "category": "List-item",
+    "text": "B. $I = 5 + \\frac{\\pi}{2}$"
+  },
+  {
+    "bbox": [
+      906,
+      1609,
+      1020,
+      1644
+    ],
+    "category": "List-item",
+    "text": "C. $I = 3$"
+  },
+  {
+    "bbox": [
+      1255,
+      1609,
+      1419,
+      1644
+    ],
+    "category": "List-item",
+    "text": "D. $I = 5 + \\pi$"
+  },
+  {
+    "bbox": [
+      807,
+      1693,
+      924,
+      1731
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1752,
+      277,
+      1790
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      156,
+      1807,
+      235,
+      1843
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      162,
+      1868,
+      1349,
+      1988
+    ],
+    "category": "Formula",
+    "text": "$$\nI = \\int_{0}^{\\frac{\\pi}{2}} [f(x) + 2\\sin x]dx = \\int_{0}^{\\frac{\\pi}{2}} f(x)dx + 2\\int_{0}^{\\frac{\\pi}{2}} \\sin x dx = \\int_{0}^{\\frac{\\pi}{2}} f(x)dx - 2\\cos x \\Big|_{0}^{\\frac{\\pi}{2}} = 5 - 2(0 - 1) = 7.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2008,
+      1570,
+      2107
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Thống kê lợi nhuận hàng tháng (đơn vị: triệu đồng) trong 20 tháng của một nhà đầu tư được cho như sau:"
+  },
+  {
+    "bbox": [
+      201,
+      2126,
+      1526,
+      2198
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Lợi nhuận (đơn vị: triệu đồng)</td><td>[10; 20)</td><td>[20; 30)</td><td>[30; 40)</td><td>[40; 50)</td><td>[50; 60)</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      647,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

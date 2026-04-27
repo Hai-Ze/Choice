@@ -1,0 +1,279 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      116,
+      1143,
+      191
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho phương trình $\\frac{\\sin 2x - \\sin x}{\\cos x + 1} = 0$ (*). Khẳng định sau đúng hay sai."
+  },
+  {
+    "bbox": [
+      124,
+      202,
+      942,
+      242
+    ],
+    "category": "List-item",
+    "text": "a) Điều kiện xác định của phương trình $x \\neq \\pi + k2\\pi, k \\in Z$."
+  },
+  {
+    "bbox": [
+      124,
+      245,
+      589,
+      282
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình có nghiệm $x = \\pi$."
+  },
+  {
+    "bbox": [
+      124,
+      280,
+      813,
+      346
+    ],
+    "category": "List-item",
+    "text": "c) Nghiệm dương nhỏ nhất của phương trình là $\\frac{\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      124,
+      342,
+      855,
+      382
+    ],
+    "category": "List-item",
+    "text": "d) Số nghiệm của phương trình trên đoạn $[0; 2\\pi]$ là 5."
+  },
+  {
+    "bbox": [
+      94,
+      427,
+      1198,
+      639
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Giả sử chiếc nón rộng vành sau có thể mô hình hóa bằng cách cho hình phẳng ($H$) giới hạn bởi đồ thị hàm số $y = f(x) = \\begin{cases} x^3 + 1 & \\text{khi } 0 < x \\le 1 \\\\ \\sqrt{1 - x^2} & \\text{khi } -1 \\le x \\le 0 \\end{cases}$, trục $Ox$ và các đường thẳng $x = -1$ và $x = 1$ quay quanh trục $Ox$. Xét tính đúng sai của các khẳng định sau"
+  },
+  {
+    "bbox": [
+      124,
+      652,
+      1194,
+      810
+    ],
+    "category": "List-item",
+    "text": "a) Diện tích hình phẳng ($H$) được tính theo công thức $S = \\int_{-1}^{1} |\\sqrt{1 - x^2} + x^3 + 1| \\, dx$."
+  },
+  {
+    "bbox": [
+      124,
+      810,
+      1194,
+      917
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích hình phẳng giới hạn bới đồ thị hàm số $y = f(x)$ với trục hoành và hai đường thẳng $x = 0$; $x = 1$ là $\\frac{5}{4} \\, \\text{dm}^2$."
+  },
+  {
+    "bbox": [
+      124,
+      912,
+      1194,
+      1145
+    ],
+    "category": "List-item",
+    "text": "c) Công thức tính thể tích khối tròn xoay trên là $V = \\pi \\int_{0}^{-1} (x^2 - 1) \\, dx + \\pi \\int_{0}^{1} (x^6 + 2x^3 + 1) \\, dx$."
+  },
+  {
+    "bbox": [
+      124,
+      1138,
+      1194,
+      1238
+    ],
+    "category": "List-item",
+    "text": "d) Nếu thể tích của khối tròn xoay có dạng $\\frac{a\\pi}{b}$ với $\\frac{a}{b}$ là phân số tối简 thì $a + b = 139$."
+  },
+  {
+    "bbox": [
+      94,
+      1287,
+      1198,
+      1442
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một người lên kế hoạch tập chạy bộ như sau: Ngày thứ nhất, người đó chạy 2 km, cứ mỗi ngày kế tiếp, người đó chạy nhiều hơn 200 m so với ngày trước đó cho đến khi đạt được mức ôn định 10 km một ngày. Xác định tính đúng, sai của cácoorn định tính đúng, sai của cácm condition sau:"
+  },
+  {
+    "bbox": [
+      124,
+      1458,
+      847,
+      1496
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường chạy được ở ngày thứ hai là 2, 2 km."
+  },
+  {
+    "bbox": [
+      124,
+      1500,
+      842,
+      1537
+    ],
+    "category": "List-item",
+    "text": "b) Quăng đường chạy được ở ngày thứ mười là 4 km."
+  },
+  {
+    "bbox": [
+      124,
+      1537,
+      1194,
+      1578
+    ],
+    "category": "List-item",
+    "text": "c) Để đạt được mức chạy ổn định 10 km một ngày, người đó cần ít nhất 38 ngày."
+  },
+  {
+    "bbox": [
+      124,
+      1578,
+      1004,
+      1620
+    ],
+    "category": "List-item",
+    "text": "d) Tổng quăng đường người đó chạy được sau 60 ngày là 436 km."
+  },
+  {
+    "bbox": [
+      110,
+      1665,
+      894,
+      1721
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1742,
+      1198,
+      1825
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Biết $\\sin \\alpha = -\\frac{5\\sqrt{2}}{17}$ với $-\\frac{\\pi}{2} < \\alpha < 0$. Tính $\\cos \\left(\\alpha - \\frac{\\pi}{4}\\right)$ KQ: [ ]"
+  },
+  {
+    "bbox": [
+      94,
+      1862,
+      1198,
+      1985
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một chất điểm chuyển động có phương trình $s(t) = t^3 - 3t^2 - 9t + 2$, trong đó $t$ được tính bằng giây và $s(t)$ được tính bằng mét. Tính gia tốc của chất điểm đó tại thời điểm vận tốc bằng 0. KQ: [ ]"
+  },
+  {
+    "bbox": [
+      94,
+      2038,
+      1198,
+      2156
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Khi gắn hệ tọa độ $Oxyz$ vào một sân bay, mặt phẳng ($Oxy$) trùng với mặt sân bay. Một máy bay bay theo đường thẳng từ vị trí $A(5; 0; 5)$ đến vị trí $B(10; 10; 3)$ và hạ carnh tại vị trí $M(a; b; 0)$. Giá trị của $a + b$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      105,
+      2156,
+      325,
+      2207
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1476,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "45"
+  }
+]

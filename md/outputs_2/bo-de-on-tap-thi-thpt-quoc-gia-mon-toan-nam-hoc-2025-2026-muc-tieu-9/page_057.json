@@ -1,0 +1,309 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1548,
+      315
+    ],
+    "category": "Text",
+    "text": "d) Ngay sau khi đạt nhiệt độ môi trường, lon sữa được đưa vào máy hâm sữa. Tốc độ tăng nhiệt độ của lon sữa trong máy sau $t$ giờ được xác định bởi: $L'(t) = k \\cdot e^{-0,22t}$ ($k$ là hằng số). Lon sữa được coi là đạt yêu cầu khi nhiệt độ lon sữa bằng $70^\\circ\\text{C}$. Biết rằng thời gian cần thiết để hâm nóng lon sữa là 5 phút thì hằng số $k \\in (720; 730)$."
+  },
+  {
+    "bbox": [
+      153,
+      330,
+      199,
+      370
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      330,
+      445,
+      392
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      202,
+      406,
+      1154,
+      449
+    ],
+    "category": "Text",
+    "text": "a) Tại thời điểm $t = 2$ giờ, tốc độ thay đổi nhiệt độ của lon sữa là:"
+  },
+  {
+    "bbox": [
+      461,
+      461,
+      1237,
+      506
+    ],
+    "category": "Formula",
+    "text": "$$\nT'(2) = 7 \\cdot e^{-0,35 \\cdot 2} = 7 \\cdot e^{-0,7} \\approx 3,476 \\approx 3,48 (^\\circ\\text{C/giờ}).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      514,
+      565,
+      557
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định a) là **Đúng**."
+  },
+  {
+    "bbox": [
+      202,
+      576,
+      1261,
+      618
+    ],
+    "category": "Text",
+    "text": "b) Ta có nhiệt độ $T(t)$ là một nguyên hàm của tốc độ tăng nhiệt độ $T'(t)$:"
+  },
+  {
+    "bbox": [
+      345,
+      625,
+      1352,
+      707
+    ],
+    "category": "Formula",
+    "text": "$$\nT(t) = \\int T'(t)dt = \\int 7e^{-0,35t}dt = \\frac{7}{-0,35}e^{-0,35t} + C = -20e^{-0,35t} + C.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      712,
+      961,
+      754
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm bắt đầu ($t = 0$), nhiệt độ lon sữa là $-4^\\circ\\text{C}$:"
+  },
+  {
+    "bbox": [
+      450,
+      767,
+      1246,
+      810
+    ],
+    "category": "Formula",
+    "text": "$$\nT(0) = -20 \\cdot e^0 + C = -4 \\Rightarrow -20 + C = -4 \\Rightarrow C = 16.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      818,
+      1546,
+      905
+    ],
+    "category": "Text",
+    "text": "Vậy công thức tính nhiệt độ chuẩn phải là $T(t) = -20e^{-0,35t} + 16$. Khẳng định b) phát biểu $T(t) = -20e^{-0,35t}$ là **Sai**."
+  },
+  {
+    "bbox": [
+      202,
+      927,
+      957,
+      967
+    ],
+    "category": "Text",
+    "text": "c) Lon sữa đạt nhiệt độ môi trường khi $T(t) = 10^\\circ\\text{C}$:"
+  },
+  {
+    "bbox": [
+      444,
+      978,
+      1252,
+      1022
+    ],
+    "category": "Formula",
+    "text": "$$\n-20e^{-0,35t} + 16 = 10 \\Leftrightarrow -20e^{-0,35t} = -6 \\Leftrightarrow e^{-0,35t} = 0,3.\n$$"
+  },
+  {
+    "bbox": [
+      431,
+      1037,
+      1268,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow -0,35t = \\ln(0,3) \\Rightarrow t = \\frac{\\ln(0,3)}{-0,35} \\approx 3,4399 \\approx 3,44 (\\text{giờ}).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1122,
+      565,
+      1164
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định c) là **Đúng**."
+  },
+  {
+    "bbox": [
+      202,
+      1186,
+      526,
+      1224
+    ],
+    "category": "Text",
+    "text": "d) Giai đoạn hâm sữa:"
+  },
+  {
+    "bbox": [
+      202,
+      1246,
+      939,
+      1285
+    ],
+    "category": "Text",
+    "text": "- Nhiệt độ ban đầu: $10^\\circ\\text{C}$. Nhiệt độ mục tiêu: $70^\\circ\\text{C}$."
+  },
+  {
+    "bbox": [
+      202,
+      1307,
+      947,
+      1347
+    ],
+    "category": "Text",
+    "text": "- Độ tăng nhiệt độ cần thiết: $\\Delta L = 70 - 10 = 60^\\circ\\text{C}$."
+  },
+  {
+    "bbox": [
+      202,
+      1365,
+      817,
+      1415
+    ],
+    "category": "Text",
+    "text": "- Thời gian hâm sữa: $5 \\text{ phút} = \\frac{5}{60} = \\frac{1}{12} \\text{ giờ}$."
+  },
+  {
+    "bbox": [
+      202,
+      1430,
+      939,
+      1469
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình tích phân cho độ tăng nhiệt độ:"
+  },
+  {
+    "bbox": [
+      533,
+      1477,
+      1164,
+      1570
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{1/12} L'(t)dt = 60 \\Leftrightarrow \\int_{0}^{1/12} k \\cdot e^{-0,22t}dt = 60\n$$"
+  },
+  {
+    "bbox": [
+      463,
+      1581,
+      1237,
+      1678
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow k \\cdot \\left[ \\frac{e^{-0,22t}}{-0,22} \\right]_{0}^{1/12} = 60 \\Leftrightarrow \\frac{k}{-0,22} \\left( e^{-0,22 \\cdot \\frac{1}{12}} - 1 \\right) = 60\n$$"
+  },
+  {
+    "bbox": [
+      632,
+      1687,
+      1067,
+      1769
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow k = \\frac{60 \\cdot (-0,22)}{e^{-11/600} - 1} \\approx 726,62.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1769,
+      892,
+      1812
+    ],
+    "category": "Text",
+    "text": "Vì $726,62 \\in (720; 730)$ nên khẳng định d) là **Đúng**."
+  },
+  {
+    "bbox": [
+      153,
+      1833,
+      191,
+      1870
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1831,
+      1546,
+      2051
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một hệ thống AI được sử dụng để kiểm tra đạo văn trong các bài viết học sinh nộp. Theo thống kê: có 1% bài viết là đạo văn, 99% bài viết là chính chủ (không đạo văn). Part mềm kiểm tra có độ chính xác như sau: Nếu bài viết là đạo văn, phần mềm phát hiện đúng với xác suất 98%; Nếu bài viết là chính chủ, phần mềm cảnh báo nhầm là đạo văn với xác suất 3%. Kiểm tra ngẫu nhiên một bài viết của học sinh nộp."
+  },
+  {
+    "bbox": [
+      202,
+      2069,
+      877,
+      2110
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố \"Bài viết thực sự là đạo văn\"."
+  },
+  {
+    "bbox": [
+      202,
+      2130,
+      1063,
+      2170
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố \"Phần mềm cảnh báo bài viết là đạo văn\"."
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      173,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "57"
+  }
+]

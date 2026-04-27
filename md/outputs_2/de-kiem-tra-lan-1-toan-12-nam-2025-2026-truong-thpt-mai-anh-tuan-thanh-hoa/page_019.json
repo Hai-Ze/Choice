@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      154,
+      82,
+      774,
+      130
+    ],
+    "category": "Text",
+    "text": "Lời giải : a) Cỡ mẫu $n = 100$. Vậy a) đúng."
+  },
+  {
+    "bbox": [
+      283,
+      135,
+      1197,
+      182
+    ],
+    "category": "Text",
+    "text": "b) Từ bảng thống kê ta có: Số trung bình của mẫu số liệu là"
+  },
+  {
+    "bbox": [
+      166,
+      188,
+      742,
+      269
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{3.12 + 5.20 + 7.37 + 9.21 + 11.10}{100} = 6.94\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      279,
+      393,
+      323
+    ],
+    "category": "Text",
+    "text": "Vậy b) đúng"
+  },
+  {
+    "bbox": [
+      205,
+      330,
+      932,
+      392
+    ],
+    "category": "Text",
+    "text": "c) Nhóm chứa mốt số liệu trên là nhóm $[6;8)$."
+  },
+  {
+    "bbox": [
+      154,
+      401,
+      961,
+      459
+    ],
+    "category": "Text",
+    "text": "Do đó: $u_m = 6$; $n_m = 37$; $n_{m-1} = 20$; $n_{m+1} = 21$; $u_{m+1} = 8$."
+  },
+  {
+    "bbox": [
+      154,
+      466,
+      777,
+      513
+    ],
+    "category": "Text",
+    "text": "Vậy mốt của mẫu số liệu ghép nhóm là :"
+  },
+  {
+    "bbox": [
+      158,
+      519,
+      764,
+      622
+    ],
+    "category": "Formula",
+    "text": "$$\nM_0 = 6 + \\frac{37 - 20}{(37 - 20) + (37 - 21)} \\cdot (8 - 6) \\approx 7,03\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      635,
+      342,
+      678
+    ],
+    "category": "Text",
+    "text": "Vậy c) sai."
+  },
+  {
+    "bbox": [
+      154,
+      699,
+      1076,
+      751
+    ],
+    "category": "Text",
+    "text": "d) Gọi $x_1; x_2; \\dots; x_{100}$ là mẫu số liệu theo thứ tự không giảm."
+  },
+  {
+    "bbox": [
+      154,
+      766,
+      944,
+      906
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ hai của dãy số liệu $x_1; x_2; \\dots; x_{100}$ là\n$$ \\frac{1}{2}(x_{50} + x_{51}). $$"
+  },
+  {
+    "bbox": [
+      154,
+      914,
+      703,
+      976
+    ],
+    "category": "Text",
+    "text": "Do $x_{50}$ và $x_{51}$ thuộc nhóm $[6;8)$ nên"
+  },
+  {
+    "bbox": [
+      158,
+      985,
+      635,
+      1111
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_2 = 6 + \\frac{\\frac{2.100}{4} - 32}{37} \\cdot (8 - 6) \\approx 6,97.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1126,
+      357,
+      1171
+    ],
+    "category": "Text",
+    "text": "Vậy d) đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1171,
+      283,
+      1215
+    ],
+    "category": "Section-header",
+    "text": "## Phần 3."
+  },
+  {
+    "bbox": [
+      154,
+      1219,
+      1572,
+      1736
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian $Oxyz$, mộtttức tường hình chữ nhật $ABCD$ có chiều cao $3m$ được dựng vuông góc với mặt phẳng $(Oxy)$ với hai điểm $A(3;1;0)$ và $B(1;4;0)$. Giả sử rằng mặt phẳng $(Oxy)$ là mặt đất, trục $Oz$ hướng lên trên và mỗi đơn vị trên hệ trục tương ứng với $1m$. Một trạm phát sóng được đặt tại điểm $M(5;6;5)$. Trạm phát sóng phát ra các sóng thẳng và truyền về mọi hướng nhưng khi gặpttức tường thì bị chắn lại vì vậy có một vùng sauttức tường không có sóng. Một chất điểm bắt đầu chuyển động thẳng đều trong mặt phẳng $(Oxy)$ từ điểm $N(-6;-4;0)$ qua gốc tọa độ $O$ đến chân tường với vận tốc $0,8m/s$. Tính thời gian theo giây từ lúc chất điểm bắt đầu đi vào vùng mất sóng đến lúc chất điểm catch vào chân tường và quay về vị trí ban đầu, giả thiết độ dày củattức tường là không đáng kể (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      866,
+      1738,
+      998,
+      1782
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      291,
+      1785,
+      509,
+      1840
+    ],
+    "category": "Text",
+    "text": "Đáp án: $21,1$."
+  },
+  {
+    "bbox": [
+      154,
+      2232,
+      298,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1422,
+      2236,
+      1568,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9/13"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      668,
+      94,
+      1060,
+      520
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      538,
+      493,
+      573
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      597,
+      924,
+      634
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      654,
+      337,
+      692
+    ],
+    "category": "Text",
+    "text": "Đáp án: 229"
+  },
+  {
+    "bbox": [
+      156,
+      717,
+      469,
+      762
+    ],
+    "category": "Text",
+    "text": "Gọi $M(x; y; z)$. Ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      790,
+      934,
+      837
+    ],
+    "category": "Formula",
+    "text": "$$\nMA = 13 \\Leftrightarrow M \\in (S_1) \\text{ là mặt cầu tâm } A, \\text{ bán kính } R_1 = 13\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      865,
+      863,
+      914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow x^2 + y^2 + z^2 - 206x - 408y - 124z + 55900 = 0 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      942,
+      955,
+      990
+    ],
+    "category": "Formula",
+    "text": "$$\nMB = 26 \\Leftrightarrow M \\in (S_2) \\text{ là mặt cầu tâm } B, \\text{ bán kính } R_2 = 26\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1018,
+      869,
+      1067
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow x^2 + y^2 + z^2 - 212x - 416y - 148z + 59300 = 0 \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1095,
+      939,
+      1143
+    ],
+    "category": "Formula",
+    "text": "$$\nMC = 85 \\Leftrightarrow M \\in (S_3) \\text{ là mặt cầu tâm } C, \\text{ bán kính } R_3 = 85\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1171,
+      872,
+      1220
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow x^2 + y^2 + z^2 - 210x - 424y - 268z + 66700 = 0 \\quad (3)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1248,
+      1245,
+      1297
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lấy (2) trừ (1) ta được } 6x + 8y + 24z - 3400 = 0 \\Leftrightarrow 3x + 4y + 12z - 1700 = 0 \\quad (4)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1325,
+      1247,
+      1373
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lấy (2) trừ (3) ta được } 2x - 8y - 120z + 7400 = 0 \\Leftrightarrow x - 4y - 60z + 3700 = 0 \\quad (5)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1399,
+      1097,
+      1446
+    ],
+    "category": "Text",
+    "text": "Nhận xét các phương trình (4) và (5) đều là phương trình mặt phẳng."
+  },
+  {
+    "bbox": [
+      156,
+      1472,
+      1573,
+      1596
+    ],
+    "category": "Text",
+    "text": "Suy ra điểm $M$ thuộc giao tuyến $d$ của hai mặt phẳng $(P): 3x + 4y + 12z - 1700 = 0$ và $(Q): x - 4y - 60z + 3700 = 0$."
+  },
+  {
+    "bbox": [
+      156,
+      1622,
+      1259,
+      1745
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\begin{cases} \\vec{n}_{(P)} = (3; 4; 12) \\\\ \\vec{n}_{(Q)} = (1; -4; -60) \\end{cases} \\Rightarrow \\vec{u}_d = [\\vec{n}_{(P)}, \\vec{n}_{(Q)}] = (-192; 192; -16) = -16(12; -12; 1)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1771,
+      1072,
+      1820
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Chọn điểm } T(-500; 800; 0) \\text{ vừa thuộc } (P), \\text{ vừa thuộc } (Q) \\Rightarrow T \\in d\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1848,
+      920,
+      1994
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình tham số của } d \\text{ là } \\begin{cases} x = -500 + 12t \\\\ y = 800 - 12t \\\\ z = t \\end{cases} \\quad (t \\in \\mathbb{R}).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2024,
+      922,
+      2071
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } M \\in d \\Rightarrow M(-500 + 12m; 800 - 12m; m) \\text{ với } m \\in \\mathbb{R}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2099,
+      1145,
+      2147
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay } (x; y; z) = (-500 + 12m; 800 - 12m; m) \\text{ vào phương trình (1) ta được}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      2175,
+      1309,
+      2230
+    ],
+    "category": "Formula",
+    "text": "$$\n(12m - 500)^2 + (800 - 12m)^2 + m^2 = 206(12m - 500) + 408(800 - 12m) + 124m - 55900\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

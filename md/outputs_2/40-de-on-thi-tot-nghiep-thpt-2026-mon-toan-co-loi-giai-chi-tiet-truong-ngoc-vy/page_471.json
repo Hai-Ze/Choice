@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      100,
+      703,
+      182
+    ],
+    "category": "Text",
+    "text": "c) Phương trình đường thẳng $OB : v = \\frac{1}{2}t$"
+  },
+  {
+    "bbox": [
+      156,
+      201,
+      689,
+      245
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $BC : v = t - 1$"
+  },
+  {
+    "bbox": [
+      156,
+      266,
+      652,
+      311
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $CD : v = 3$"
+  },
+  {
+    "bbox": [
+      156,
+      336,
+      763,
+      419
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $DE : v = -\\frac{2}{3}t + \\frac{23}{3}$"
+  },
+  {
+    "bbox": [
+      156,
+      443,
+      1556,
+      722
+    ],
+    "category": "Text",
+    "text": "Suy ra: Trong 10 giây đầu tiên, ca nô chạy với vận tốc $v(t)$ theo hàm $v(t) = \\begin{cases} \\frac{1}{2}t & \\text{khi } 0 \\le t \\le 2 \\\\ t-1 & \\text{khi } 2 < t \\le 4 \\\\ 3 & \\text{khi } 4 < t \\le 7 \\\\ -\\frac{2}{3}t + \\frac{23}{3} & \\text{khi } 7 < t \\le 10 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      156,
+      742,
+      971,
+      787
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường chuyển động của ca nô trong 10 giây là:"
+  },
+  {
+    "bbox": [
+      160,
+      804,
+      892,
+      1025
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\ns &= \\int_{0}^{10} v(t) dt = \\int_{0}^{2} v(t) dt + \\int_{2}^{4} v(t) dt + \\int_{4}^{7} v(t) dt + \\int_{7}^{10} v(t) dt \\\\\n&= \\int_{0}^{2} \\frac{1}{2} t dt + \\int_{2}^{4} (t-1) dt + \\int_{4}^{7} 3 dt + \\int_{7}^{10} \\left(-\\frac{2}{3}t + \\frac{23}{3}\\right) dt = 20 (m)\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1058,
+      842,
+      1134
+    ],
+    "category": "Text",
+    "text": "Vận tốc trung bình của ca nô là: $v_{tb} = \\frac{s}{10} = 2 (m/s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1208,
+      808,
+      1250
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      156,
+      1265,
+      1573,
+      1370
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Thể tích không khí của chiếc lều hội chợ trong hình bên dưới là bao nhiêu ML (megalit) (làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      597,
+      1380,
+      1110,
+      1781
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1814,
+      1304,
+      1889
+    ],
+    "category": "Text",
+    "text": "Biết biên dạng mái lều được cho bởi hai hàm biên: $f(x) = 20 \\cdot e^{-\\frac{1}{40}x}$, $g(x) = 20 \\cdot e^{-\\frac{1}{40}x}$"
+  },
+  {
+    "bbox": [
+      156,
+      1912,
+      493,
+      1948
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      808,
+      1971,
+      924,
+      2010
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2029,
+      342,
+      2068
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 10,6"
+  },
+  {
+    "bbox": [
+      156,
+      2094,
+      1071,
+      2228
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích nửa phải: } A_1 = \\int_{0}^{10} 20e^{-\\frac{1}{40}x} dx = \\left[ -800e^{-\\frac{1}{40}x} \\right]_{0}^{10} \\approx 176,96 m^2\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

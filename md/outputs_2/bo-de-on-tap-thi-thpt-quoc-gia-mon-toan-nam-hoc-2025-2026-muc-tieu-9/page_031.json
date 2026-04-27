@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      1546,
+      226
+    ],
+    "category": "List-item",
+    "text": "d) Lượng nước trong bể lớn nhất trong khoảng thời gian từ 9 giờ sáng đến 18 giờ chiều là 700 gallon nước."
+  },
+  {
+    "bbox": [
+      152,
+      247,
+      1546,
+      553
+    ],
+    "category": "Text",
+    "text": "Bài 4. Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên các trục là mét), một thiết bị bay không người lái xuất phát từ điểm $A(1; 2; 0)$. thiết bị chuyển động thẳng nhanh dần theo hướng của vecto đơn vị $\\vec{u} = (a; b; c)$ với $|\\vec{u}| = 1$. Tốc độ của thiết bị phụ thuộc vào thời gian $t$ (giây) theo công thức $v(t) = mt + 10$ (m/s), trong đó $m$ là hằng số dương. Biết rằng sau 5 giây kể từ lúc xuất phát, thiết bị đi được quăng đường 125 m. Vecto chỉ phương chuyển động $\\vec{u}$ tạo với tia $Ox$ một góc 45°, tạo với tia $Oy$ một góc 60° và tạo với tia $Oz$ một góc nhọn. Kiểm tra tính đúng/sai của các thẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      563,
+      328,
+      641
+    ],
+    "category": "Formula",
+    "text": "a) $c = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      190,
+      641,
+      1071,
+      724
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình quỹ đạo là đường thẳng $\\frac{x-1}{\\sqrt{2}} = \\frac{y-2}{1} = \\frac{z}{1}$."
+  },
+  {
+    "bbox": [
+      190,
+      728,
+      335,
+      768
+    ],
+    "category": "Formula",
+    "text": "c) $m = 4$."
+  },
+  {
+    "bbox": [
+      190,
+      779,
+      1146,
+      822
+    ],
+    "category": "Formula",
+    "text": "d) Sau 10 giây kể từ lúc xuất phát thì thiết bị đạt độ cao 200 mét."
+  },
+  {
+    "bbox": [
+      202,
+      838,
+      1150,
+      882
+    ],
+    "category": "Section-header",
+    "text": "Phần III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      152,
+      902,
+      1546,
+      1108
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một tấm kính làm mặt bàn có hình đáng tam giác đều với 3 định được làm cong. Biết cạnh tấm kính tam giác ban đầu bằng 16 dm. Để cắt góc được đẹp thì người ta dùng đường Parabol ($P$) : $y = -\\frac{\\sqrt{3}}{2}x^2 + \\frac{15\\sqrt{3}}{2}$ có hai nhánh tiếp xúc với hai cạnh của tam giác. Biết diện tích mặt kính là $a\\sqrt{b}$ dm$^2$, (với $a$ là số nguyên dương và $b$ là số nguyên tố). Tính $a + b$."
+  },
+  {
+    "bbox": [
+      440,
+      1113,
+      1234,
+      1550
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1583,
+      1546,
+      1789
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hình lăng trụ $ABC.A'B'C'$ có đáy là tam giác đều cạnh 2. Hình chiếu vuông góc của điểm $A'$ lên mặt phẳng ($ABC$) trùng với trọng tâm của tam giác $ABC$. Biết khoảng cách giữa 2 đường $AA'$ và $BC$ bằng $\\frac{\\sqrt{3}}{2}$. Tính thể tích $V$ của khối lăng trụ $ABC.A'B'C'$ (Kết quả làm tròn đến chữ số hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      152,
+      1808,
+      1546,
+      1891
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một nhà khoa học máy tính đang phát triển một thuật toán mã hóa mới dựa trên hai chuỗi số:"
+  },
+  {
+    "bbox": [
+      181,
+      1914,
+      1546,
+      2000
+    ],
+    "category": "List-item",
+    "text": "+) Chuối A: Các số hạng được chọn từ một cấp số cộng với số hạng đầu là 3 và công sai là 4. Tuy nhiên, chỉ những số hạng có chữ số cuối là 7 mới được đưa vào Chuối A."
+  },
+  {
+    "bbox": [
+      181,
+      2014,
+      1546,
+      2100
+    ],
+    "category": "List-item",
+    "text": "+) Chuối B: Các số hạng được chọn từ một cấp số nhân với số hạng đầu là 2 và công bội là 3. Tuy nhiên, chỉ những số hạng chia hết cho 6 mới được đưa vào Chuối B."
+  },
+  {
+    "bbox": [
+      152,
+      2119,
+      1485,
+      2161
+    ],
+    "category": "Text",
+    "text": "Trong 9000 số nguyên dương đầu tiên, tổng số hạng của chuối A và chuối B bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      152,
+      2181,
+      1546,
+      2222
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hình集合 chữ nhật $ABCD.A'B'C'D'$. tại định $A$ có một con sâu, mỗi lần di chuyển,"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1585,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "31"
+  }
+]

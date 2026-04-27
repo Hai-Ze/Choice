@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      192,
+      82,
+      1233,
+      182
+    ],
+    "category": "Text",
+    "text": "Ta có: $g'(x) = \\frac{3x_0^2 - 6x_0 - 3}{(x_0 - 1)^2}$; $g'(x) = 0 \\Rightarrow 3x_0^2 - 6x_0 - 3 = 0 \\Rightarrow x_0 = 1 + \\sqrt{2} > 1$."
+  },
+  {
+    "bbox": [
+      192,
+      207,
+      1079,
+      308
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\min_{(1; +\\infty)} g(x) = g(1+\\sqrt{2}) = 6\\sqrt{2} \\Rightarrow \\sqrt{5}d \\ge 6\\sqrt{2} \\Rightarrow \\boxed{d \\ge \\frac{6\\sqrt{10}}{5}}$."
+  },
+  {
+    "bbox": [
+      192,
+      335,
+      1007,
+      396
+    ],
+    "category": "Text",
+    "text": "Dấu đẳng thức xảy ra khi $x_0 = 1+\\sqrt{2} \\Rightarrow M(1+\\sqrt{2}; 1+\\sqrt{2})$."
+  },
+  {
+    "bbox": [
+      192,
+      422,
+      1404,
+      501
+    ],
+    "category": "Text",
+    "text": "Khoảng cách $OM$ trên thực tế là $10 \\times \\sqrt{(1+\\sqrt{2})^2 + (1+\\sqrt{2})^2} = 10 \\times (1+\\sqrt{2})\\sqrt{2} \\approx \\boxed{34,1}$ mét."
+  },
+  {
+    "bbox": [
+      152,
+      532,
+      1532,
+      738
+    ],
+    "category": "Text",
+    "text": "**Câu 20.** Trọng lực $\\vec{P}$ là lực hấp dẫn do Trái Đất tác dụng lên một vật được tính bởi công thức $\\vec{P} = m\\vec{g}$, trong đó $m$ là khối lượng của vật (đơn vị: kg), $\\vec{g}$ là vecto gia tốc rơi tự do, có hướng đi xuống và có độ lớn $g = 9,8 m/s^2$. Xác định độ lớn của trọng lực (đơn vị: N) tác dụng lên quả bóng có khối lượng 450 gam ( làm tròn đến hàng phần trăm )."
+  },
+  {
+    "bbox": [
+      820,
+      742,
+      944,
+      781
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      192,
+      808,
+      376,
+      847
+    ],
+    "category": "Text",
+    "text": "**Đáp án: 4,41**"
+  },
+  {
+    "bbox": [
+      192,
+      869,
+      1368,
+      916
+    ],
+    "category": "Text",
+    "text": "Độ lớn của lực hấp dẫn của Trái Đất tác dụng lên quả bởi: $P = mg = 0,45 \\cdot 9,8 = 4,41 N$"
+  },
+  {
+    "bbox": [
+      152,
+      949,
+      1512,
+      1108
+    ],
+    "category": "Text",
+    "text": "**Câu 21.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi cạnh $a$, $\\widehat{ADC} = 60^\\circ$, $SA \\perp (ABCD)$ và $SA = \\sqrt{3}a$, $G$ là trọng tâm tam giác $SAC$. Khoảng cách từ $G$ đến $(SCD)$ bằng: $\\frac{a\\sqrt{m}}{n}$. Tính $m+n$?"
+  },
+  {
+    "bbox": [
+      820,
+      1133,
+      944,
+      1172
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      192,
+      1174,
+      355,
+      1217
+    ],
+    "category": "Text",
+    "text": "**Đáp số : 30**"
+  },
+  {
+    "bbox": [
+      625,
+      1264,
+      1136,
+      1616
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1641,
+      745,
+      1687
+    ],
+    "category": "Text",
+    "text": "Gọi $M, I$ lần lượt là trung điểm $CD, SC$."
+  },
+  {
+    "bbox": [
+      192,
+      1695,
+      1123,
+      1789
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết ta có tam giác $ACD$ đều. Suy ra $AM = \\frac{AD\\sqrt{3}}{2} = \\frac{\\sqrt{3}a}{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      1799,
+      789,
+      1851
+    ],
+    "category": "Text",
+    "text": "Kẻ $AH \\perp SM$ ($H \\in SM$) thì $AH \\perp (SCD)$."
+  },
+  {
+    "bbox": [
+      192,
+      1863,
+      996,
+      1945
+    ],
+    "category": "Text",
+    "text": "Ta có $GI = \\frac{1}{3}AI$ nên $d(G,(SCD)) = \\frac{1}{3}d(A,(SCD)) = \\frac{1}{3}AH$"
+  },
+  {
+    "bbox": [
+      192,
+      1951,
+      774,
+      2136
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{1}{3} \\cdot \\frac{AM \\cdot SA}{\\sqrt{AM^2 + SA^2}} = \\frac{1}{3} \\cdot \\frac{\\frac{\\sqrt{3}a}{2} \\cdot \\sqrt{3}a}{\\sqrt{\\frac{3a^2}{4} + 3a^2}} = \\frac{\\sqrt{15}a}{15}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2146,
+      563,
+      2238
+    ],
+    "category": "Text",
+    "text": "Vậy $d(G,(SCD)) = \\frac{\\sqrt{15}a}{15}$."
+  }
+]

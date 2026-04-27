@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      628,
+      97,
+      1098,
+      572
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      584,
+      551,
+      629
+    ],
+    "category": "Text",
+    "text": "Mệnh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      195,
+      648,
+      898,
+      696
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số đã cho nghịch biến trên khoảng $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      722,
+      881,
+      772
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số đã cho đồng biến trên khoảng $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      195,
+      798,
+      898,
+      846
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số đã cho nghịch biến trên khoảng $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      195,
+      870,
+      640,
+      914
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số đã cho có một cực trị."
+  },
+  {
+    "bbox": [
+      807,
+      933,
+      924,
+      972
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      990,
+      277,
+      1029
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1043,
+      469,
+      1086
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có"
+  },
+  {
+    "bbox": [
+      156,
+      1106,
+      1019,
+      1154
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên các khoảng $(-\\infty; -1)$ và $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      156,
+      1175,
+      659,
+      1219
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho không có điểm cực trị"
+  },
+  {
+    "bbox": [
+      156,
+      1239,
+      854,
+      1288
+    ],
+    "category": "Text",
+    "text": "Câu 5. Nguyên hàm của hàm số $f(x) = x^2 - 2$ là"
+  },
+  {
+    "bbox": [
+      205,
+      1332,
+      518,
+      1392
+    ],
+    "category": "Formula",
+    "text": "A. $\\int f(x)dx = 2x + C$."
+  },
+  {
+    "bbox": [
+      905,
+      1318,
+      1277,
+      1402
+    ],
+    "category": "Formula",
+    "text": "B. $\\int f(x)dx = \\frac{x^3}{3} - 2x + C$."
+  },
+  {
+    "bbox": [
+      205,
+      1424,
+      574,
+      1483
+    ],
+    "category": "Formula",
+    "text": "C. $\\int f(x)dx = x^2 - 2x + C$."
+  },
+  {
+    "bbox": [
+      905,
+      1424,
+      1274,
+      1483
+    ],
+    "category": "Formula",
+    "text": "D. $\\int f(x)dx = x^3 - 2x + C$."
+  },
+  {
+    "bbox": [
+      807,
+      1506,
+      924,
+      1545
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1565,
+      277,
+      1604
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1624,
+      969,
+      1710
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int f(x)dx = \\int (x^2 - 2)dx = \\int x^2dx - 2\\int dx = \\frac{x^3}{3} - 2x + C$."
+  },
+  {
+    "bbox": [
+      156,
+      1729,
+      1092,
+      1773
+    ],
+    "category": "Text",
+    "text": "Câu 6. Bảng dưới đây thống kê cự li ném tạ của một vận động viên."
+  },
+  {
+    "bbox": [
+      240,
+      1787,
+      1490,
+      1920
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cự li (m)</td><td>[19;19,5)</td><td>[19,5; 20)</td><td>[20; 20,5)</td><td>[20,5; 21)</td><td>[21; 21,5)</td></tr><tr><td>Tần số</td><td>13</td><td>45</td><td>24</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1974,
+      1498,
+      2019
+    ],
+    "category": "Text",
+    "text": "Hãy tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả được làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      205,
+      2038,
+      327,
+      2075
+    ],
+    "category": "List-item",
+    "text": "A. 0,43."
+  },
+  {
+    "bbox": [
+      556,
+      2038,
+      676,
+      2075
+    ],
+    "category": "List-item",
+    "text": "B. 0,53."
+  },
+  {
+    "bbox": [
+      905,
+      2038,
+      1032,
+      2075
+    ],
+    "category": "List-item",
+    "text": "C. 0,47."
+  },
+  {
+    "bbox": [
+      1257,
+      2038,
+      1379,
+      2075
+    ],
+    "category": "List-item",
+    "text": "D. 0,57."
+  },
+  {
+    "bbox": [
+      807,
+      2103,
+      924,
+      2142
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2161,
+      277,
+      2200
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      916,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

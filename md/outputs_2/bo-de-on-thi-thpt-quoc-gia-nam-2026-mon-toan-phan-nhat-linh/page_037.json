@@ -1,0 +1,119 @@
+[
+  {
+    "bbox": [
+      131,
+      75,
+      705,
+      116
+    ],
+    "category": "Page-header",
+    "text": "TƯ DUY GIẢI TOÁN VẬN DỤNG CAO 2026"
+  },
+  {
+    "bbox": [
+      1329,
+      81,
+      1542,
+      121
+    ],
+    "category": "Page-header",
+    "text": "KHÓA HỌC 2K8"
+  },
+  {
+    "bbox": [
+      252,
+      211,
+      1536,
+      591
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>$m(t) = e^{kt+C}$ với $C$ là một hằng số xác định</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>$k = -\\frac{\\ln 2}{4}$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>$C = 3\\ln 2$</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Khối lượng I-131 còn lại trong cơ thể tại thời điểm $t = 24$ ngày nhỏ hơn $0,8$ mg</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      591,
+      1536,
+      953
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** [PNL] Trong không gian với hệ trục $Oxyz$ với đơn vị trên mỗi trục tính bằng kilomet, một khinh khí cầu bay thẳng theo hướng từ điểm $A(3;8;0)$ đến điểm $B(-3;-2;15)$ với tốc độ $v$ (km/h). Biết rằng, năng lượng của khinh khí cầu để có thể di chuyển với tốc độ $v$ là $E(v) = v^2 - 40v + 800$ (J). Do phải tránh vùng an toàn là một mặt cầu ($S$) tâm $I$ có phương trình $(x-2)^2 + (y-0,5)^2 + (z-6)^2 = 25$ nên khinh khí cầu bay lệch một góc $\\alpha$ so với $AB$ trong mặt phẳng ($IAB$). Tại một điểm $H$ gần tâm mặt cầu nhất thì vận tốc $v_H$ đạt mức năng lượng thấp nhất và thỏa mãn $v_H = v_0 \\cdot \\cos \\alpha - AH$"
+  },
+  {
+    "bbox": [
+      252,
+      956,
+      1536,
+      1346
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Vận tốc của khinh khí cầu tại vị trí $H$ là 20 (km/h)</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Khoảng cách từ tâm mặt cầu ($S$) đến đường thẳng $AB$ là 3,5 km</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Để giá trị $v_0$ nhỏ nhất thì góc lệch $\\alpha$ thỏa mãn $\\sin \\alpha = \\frac{1}{5}$</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Giá trị nhỏ nhất của $v_0$ là $9 + \\frac{\\sqrt{1551}}{2}$</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      1346,
+      1536,
+      1748
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** [PNL] Để chuẩn bị cho event duyệt binh kỳ niệm Ngày Quốc khánh, một khối duyệt binh danh dự gồm 10 sĩ quan được thành lập bằng cách tuyển chọn ngẫu nhiên từ ba sư đoàn. Chọn 4 sĩ quan từ một danh sách gồm 30 sĩ quan cấp úy và 10 sĩ quan cấp tá từ sư đoàn I. Chọn 3 sĩ quan từ một danh sách gồm 20 sĩ quan cấp úy và 20 sĩ quan cấp tá từ sư đoàn II. Chọn 3 sĩ quan từ một danh sách gồm 40 sĩ quan cấp úy và 10 sĩ quan cấp tá từ sư đoàn III. Từ khối 10 sĩ quan này, ban chỉ huy chọn ra hai vị trí quan trọng: một khối trưởng (được chọn ngẫu nhiên từ các sĩ quan cấp tá có trong khối) và một sĩ quan cầm cờ (được chọn ngẫu nhiên từ các sĩ quan cấp úy có trong khối). Biết rằng hai sĩ quan được chọn vào hai vị trí này thuộc hai đơn vị khác nhau (Kết quả làm tròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      252,
+      1750,
+      1536,
+      2117
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Xác suất để chọn một sĩ quan bất kỳ từ sư đoàn III là sĩ quan cấp tá bằng 0,2</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Xác suất để chọn được khối trưởng thuộc sư đoàn II và sĩ quan cầm cờ thuộc sư đoàn I là 0,3</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Xác suất để sĩ quan cầm cờ thuộc sư đoàn III là 0,4</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Xác suất để khối trưởng là sĩ quan của sư đoàn I là 0,3</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      2268,
+      134,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  },
+  {
+    "bbox": [
+      206,
+      2263,
+      238,
+      2302
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      242,
+      2270,
+      824,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SĐT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      535,
+      2268,
+      571,
+      2302
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1400,
+      2245,
+      1646,
+      2334
+    ],
+    "category": "Picture"
+  }
+]

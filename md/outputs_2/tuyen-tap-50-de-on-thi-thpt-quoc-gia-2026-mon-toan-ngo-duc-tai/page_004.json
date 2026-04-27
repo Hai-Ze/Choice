@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      154,
+      1455,
+      311
+    ],
+    "category": "Text",
+    "text": "sau đó, ô tô bắt đầu tăng tốc với tốc độ $v(t) = at + b$ ($a, b \\in \\mathbb{R}, a > 0$), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng ô tô nhập làn cao tốc sau 12 giây và duy trì sự tăng tốc trong 24 giây kể từ khi bắt đầu tăng tốc."
+  },
+  {
+    "bbox": [
+      222,
+      318,
+      1448,
+      414
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường ô tô đi được từ khi bắt đầu tăng tốc đến khi nhập làn là 180 m."
+  },
+  {
+    "bbox": [
+      222,
+      432,
+      580,
+      474
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $b$ là 10."
+  },
+  {
+    "bbox": [
+      222,
+      486,
+      1448,
+      612
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường $S(t)$ (đơn vị: mét) mà ô tô đi được trong thời gian $t$ giây ($0 \\le t \\le 24$) kể từ khi tăng tốc được tính theo công thức $S(t) = \\int_{0}^{24} v(t), dt$."
+  },
+  {
+    "bbox": [
+      222,
+      607,
+      1448,
+      708
+    ],
+    "category": "List-item",
+    "text": "d) Sau 24 giây kể từ khi tăng tốc, tốc độ của ô tô không vượt quá tốc độ tối đa cho phép là 100 km/h."
+  },
+  {
+    "bbox": [
+      192,
+      730,
+      1455,
+      1102
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trước khi đưa một loại sản phẩm ra thị trường, người ta đã phỏng vấn ngẫu nhiên 200 khách hàng về sản phẩm đó. Kết quả thống kê như sau: có 105 người trả lời “sẽ mua”; có 95 người trả lời “không mua”. Kinh nghiệm cho thấy tỉ lệ khách hàng thực sự sẽ mua sản phẩm tương ứng với những cách trả lời “sẽ mua” và “không mua” lần lượt là 70% và 30%. Gọi $A$ là biến cố “Người được phỏng vấn thực sự sẽ mua sản phẩm”. Gọi $B$ là biến cố “Người được phỏng vấn trả lời sẽ mua sản phẩm”."
+  },
+  {
+    "bbox": [
+      222,
+      1094,
+      797,
+      1175
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất $P(B) = \\frac{21}{40}$ và $P(\\bar{B}) = \\frac{19}{40}$."
+  },
+  {
+    "bbox": [
+      222,
+      1175,
+      838,
+      1222
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có điều kiện $P(A | B) = 0,3$."
+  },
+  {
+    "bbox": [
+      222,
+      1229,
+      609,
+      1276
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất $P(A) = 0,51$."
+  },
+  {
+    "bbox": [
+      222,
+      1283,
+      1448,
+      1439
+    ],
+    "category": "List-item",
+    "text": "d) Trong số những người được phỏng vấn thực sự sẽ mua sản phẩm có 70% người đã trả lời “sẽ mua” khi được phỏng vấn (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      192,
+      1480,
+      980,
+      1846
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Các thiên thạch có đường kính lớn hơn 140m và có thể lại gần Trái Đất ở khoảng cách nhỏ hơn 7500000 km được coi là những vật thể có khả năng va chậm gây nguy hiểm cho Trái Đất. Để theo dõi những thiên thạch này, người ta đã thiết lập các trạm quan sát các vật thể bay gần Trái Đất."
+  },
+  {
+    "bbox": [
+      1011,
+      1495,
+      1437,
+      1846
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1862,
+      1455,
+      2180
+    ],
+    "category": "Text",
+    "text": "Giả sử có một hệ thống quan sát có khả năng theo dõi các vật thể ở độ cao không vượt quá 6600 km so với mực nước biển. Coi Trái Đất là khối cầu có bán kính 6400 km. Chọn hệ trục tọa độ $Oxyz$ trong không gian có gốc $O$ tại tâm Trái Đất và đơn vị độ dài trên mỗi trục tọa độ là 1000 km. Một thiên thạch (coi như một hạt) chuyển động với tốc độ không đổi theo một đường thẳng từ điểm $M(6; 20; 0)$ đến điểm $N(-6; -12; 16)$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

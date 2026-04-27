@@ -1,0 +1,331 @@
+[
+  {
+    "bbox": [
+      193,
+      81,
+      410,
+      118
+    ],
+    "category": "List-item",
+    "text": "B. Đáp án khác."
+  },
+  {
+    "bbox": [
+      193,
+      118,
+      910,
+      157
+    ],
+    "category": "List-item",
+    "text": "C. Điều thi trung bình của lớp 11B cao hơn lớp 11A."
+  },
+  {
+    "bbox": [
+      193,
+      155,
+      910,
+      195
+    ],
+    "category": "List-item",
+    "text": "D. Điều thi trung bình của lớp 11A cao hơn lớp 11B."
+  },
+  {
+    "bbox": [
+      154,
+      193,
+      794,
+      235
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Kết quả tính đạo hàm nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      193,
+      241,
+      431,
+      304
+    ],
+    "category": "Formula",
+    "text": "A. $(3^x)' = 3^x \\ln 3$."
+  },
+  {
+    "bbox": [
+      557,
+      241,
+      759,
+      304
+    ],
+    "category": "Formula",
+    "text": "B. $(e^{2x})' = e^{2x}$."
+  },
+  {
+    "bbox": [
+      921,
+      237,
+      1198,
+      318
+    ],
+    "category": "Formula",
+    "text": "C. $(\\log_3 x)' = \\frac{1}{x \\ln 3}$."
+  },
+  {
+    "bbox": [
+      1284,
+      241,
+      1564,
+      304
+    ],
+    "category": "Formula",
+    "text": "D. $(10^x)' = 10^x \\ln 10$."
+  },
+  {
+    "bbox": [
+      154,
+      318,
+      1566,
+      400
+    ],
+    "category": "Text",
+    "text": "**Phần 2. Trắc nghiệm lựa chọn đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      154,
+      402,
+      968,
+      453
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hai biểu thức $f(x) = 0,1^{x^2-3x+m}$ và $g(x) = 10^{1-x}$."
+  },
+  {
+    "bbox": [
+      193,
+      461,
+      1126,
+      508
+    ],
+    "category": "List-item",
+    "text": "a) Khi $m = 2$ thì bất phương trình $f(x) \\ge g(x)$ có 3 nghiệm nguyên."
+  },
+  {
+    "bbox": [
+      193,
+      516,
+      1303,
+      566
+    ],
+    "category": "List-item",
+    "text": "b) Khi $m = -4$ thì bất phương trình $f(x) < 1$ có tập nghiệm là $(-\\infty;-1) \\cup (4;+\\infty)$."
+  },
+  {
+    "bbox": [
+      193,
+      574,
+      906,
+      621
+    ],
+    "category": "List-item",
+    "text": "c) $f(x) \\le g(x)$ với mọi $x \\in \\mathbb{R}$ khi và chỉ khi $m \\le 3$."
+  },
+  {
+    "bbox": [
+      193,
+      628,
+      976,
+      677
+    ],
+    "category": "List-item",
+    "text": "d) Bất phương trình $g(x) > 100$ có tập nghiệm là $(-\\infty;3)$."
+  },
+  {
+    "bbox": [
+      154,
+      679,
+      1477,
+      725
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hình lập phương $ABCD.EFGH$ có cạnh bằng $a$. Gọi $I$ là giao điểm của $EG$ và $HF$."
+  },
+  {
+    "bbox": [
+      193,
+      725,
+      762,
+      766
+    ],
+    "category": "List-item",
+    "text": "a) Khoảng cách giữa $AE$ và $BH$ bằng $a$."
+  },
+  {
+    "bbox": [
+      193,
+      766,
+      1021,
+      857
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng cách giữa hai đường thẳng $AI$ và $DG$ bằng $\\frac{a\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      193,
+      857,
+      981,
+      902
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng cách giữa hai đường thẳng $BD$ và $EG$ bằng $a$."
+  },
+  {
+    "bbox": [
+      193,
+      902,
+      1103,
+      943
+    ],
+    "category": "List-item",
+    "text": "d) Đoạn vuông góc chung của hai đường thẳng $AE$ và $GH$ là $EH$."
+  },
+  {
+    "bbox": [
+      154,
+      943,
+      1554,
+      1033
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một vật chuyển động trên đường thẳng được xác định bởi công thức $s(t) = t^3 - 3t^2 + 7t - 2$, trong đó $t > 0$ tính bằng giây và $s$ là quăng đường chuyển động được của vật trong $t$ giây tính bằng mét."
+  },
+  {
+    "bbox": [
+      193,
+      1033,
+      1377,
+      1087
+    ],
+    "category": "List-item",
+    "text": "a) Gia tốc của vật tại thời điểm mà vận tốc của chuyển động bằng $16 \\, m/s$ là $10(m/s^2)$."
+  },
+  {
+    "bbox": [
+      193,
+      1097,
+      873,
+      1150
+    ],
+    "category": "List-item",
+    "text": "b) Gia tốc của vật tại thời điểm $t = 2$ là $6(m/s^2)$."
+  },
+  {
+    "bbox": [
+      193,
+      1154,
+      847,
+      1199
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ của vật tại thời điểm $t = 2$ là $7(m/s)$."
+  },
+  {
+    "bbox": [
+      193,
+      1199,
+      1139,
+      1244
+    ],
+    "category": "List-item",
+    "text": "d) Thời điểm $t = 1$ tại đó vận tốc của chuyển động đạt giá trị nhỏ nhất."
+  },
+  {
+    "bbox": [
+      154,
+      1240,
+      1574,
+      1416
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Khi xe đạp di chuyển, van V của bánh xe quay quanh trục O theo chiều kim đồng hồ với tốc độ không đổi $12 \\, rad/s$. Ban đầu van V ở vị trí A. Sau 2 phút di chuyển, khoảng cách từ van V đến mặt đất là $h$, biết bán kính $OA = 60 \\, cm$. Giả sử độ dày của lốp xe không đáng kể. Các kết quả làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      615,
+      1410,
+      1246,
+      1821
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1827,
+      1500,
+      1921
+    ],
+    "category": "List-item",
+    "text": "a) Với mỗi góc lượng giác $(OA, OV) = \\alpha$, sau 25 vòng quay bánh xe thì $(OA, OV) = \\beta$ ta luôn có $\\sin \\beta = \\sin \\alpha$."
+  },
+  {
+    "bbox": [
+      193,
+      1927,
+      437,
+      1966
+    ],
+    "category": "List-item",
+    "text": "b) $h = 114,78 \\, cm$."
+  },
+  {
+    "bbox": [
+      193,
+      1972,
+      1251,
+      2021
+    ],
+    "category": "List-item",
+    "text": "c) Khi góc $\\alpha = 20^\\circ$ thì số đo góc lượng giác $(OA, OV) = 20^\\circ + k \\cdot 360^\\circ$ ($k \\in \\mathbb{Z}$)."
+  },
+  {
+    "bbox": [
+      193,
+      2031,
+      1092,
+      2111
+    ],
+    "category": "List-item",
+    "text": "d) Biết $\\cos \\alpha = \\frac{3}{5}$, và vị trí van V như hình vẽ. Khi đó $\\sin \\alpha = -\\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      154,
+      2111,
+      1210,
+      2155
+    ],
+    "category": "Text",
+    "text": "**Phần 3. Câu hỏi trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6"
+  },
+  {
+    "bbox": [
+      154,
+      2233,
+      313,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1479,
+      2237,
+      1610,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/3"
+  }
+]

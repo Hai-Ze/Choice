@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      953,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      97,
+      1164,
+      147
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d'$ có một vecto chỉ phương là $\\vec{u}_{d'} = (3;-2;-1) = -(-3;2;1)$."
+  },
+  {
+    "bbox": [
+      155,
+      172,
+      994,
+      222
+    ],
+    "category": "Text",
+    "text": "c) Đường thẳng $d$ có một vecto chỉ phương là $\\vec{u}_d = (2;3;-5)$."
+  },
+  {
+    "bbox": [
+      155,
+      248,
+      989,
+      297
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d'$ có một vecto chỉ phương là $\\vec{u}_{d'} = (3;-2;-1)$."
+  },
+  {
+    "bbox": [
+      155,
+      323,
+      1258,
+      374
+    ],
+    "category": "Text",
+    "text": "Gọi $M \\in d \\Rightarrow M(2+2m;3+3m;-4-5m)$ và $N \\in d' \\Rightarrow N(-1+3n;4-2n;4-n)$."
+  },
+  {
+    "bbox": [
+      155,
+      400,
+      941,
+      451
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có $\\overline{MN} = (-3+3n-2m;1-2n-3m;8-n+5m)$."
+  },
+  {
+    "bbox": [
+      155,
+      475,
+      1317,
+      588
+    ],
+    "category": "Text",
+    "text": "$MN$ là đường vuông góc chung của $d$ và $d'$ khi và chỉ khi $\\begin{cases} MN \\perp d \\\\ MN \\perp d' \\end{cases} \\Leftrightarrow \\begin{cases} \\overline{MN} \\cdot \\vec{u}_d = 0 \\\\ \\overline{MN} \\cdot \\vec{u}_{d'} = 0 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      155,
+      614,
+      1391,
+      724
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} 2(-3+3n-2m)+3.(1-2n-3m)-5(8-n+5m) = 0 \\\\ 3(-3+3n-2m)-2.(1-2n-3m)-1(8-n+5m) = 0 \\end{cases} \\Leftrightarrow \\begin{cases} -38m+5n = 43 \\\\ -5m+14n = 19 \\end{cases} \\Leftrightarrow \\begin{cases} m = -1 \\\\ n = 1 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      750,
+      904,
+      803
+    ],
+    "category": "Text",
+    "text": "Suy ra $M(0;0;1), N(2;2;3) \\Rightarrow \\overline{MN} = (2;2;2) = 2(1;1;1)$"
+  },
+  {
+    "bbox": [
+      155,
+      828,
+      1476,
+      881
+    ],
+    "category": "Text",
+    "text": "Phương trình đường vuông góc chung của $d$ và $d'$ đi qua $M(0;0;1)$ và có VTCP $\\overline{MN} = (1;1;1)$ là"
+  },
+  {
+    "bbox": [
+      155,
+      906,
+      381,
+      1118
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = t \\\\ y = t \\\\ z = 1 + t \\end{cases} \\quad (t \\in \\mathbb{R}) \\\\ \\Rightarrow a + b + c = 1\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1139,
+      1196,
+      1197
+    ],
+    "category": "Text",
+    "text": "d) Gọi $I$ là trung điểm của suy ra $I(1;1;2)$ và $IM = IN = \\sqrt{1^2 + 1^2 + 1^2} = \\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      155,
+      1219,
+      1456,
+      1272
+    ],
+    "category": "Text",
+    "text": "Khi đó mặt cầu tâm $I$, bán kính $R = \\sqrt{3}$ tiếp xúc với hai đường thẳng $d, d'$ lần lượt tại $M$ và $N$"
+  },
+  {
+    "bbox": [
+      155,
+      1290,
+      1573,
+      1402
+    ],
+    "category": "Text",
+    "text": "Do $MN$ là khoảng cách giữa hai đường thẳng $d, d'$ nên mặt cầu đường kính $MN$ là mặt cầu có bán kính nhỏ nhất tiếp xúc với hai đường thẳng $d, d'$."
+  },
+  {
+    "bbox": [
+      155,
+      1426,
+      1088,
+      1481
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình mặt cầu cần tìm là $(x-1)^2 + (y-1)^2 + (z-2)^2 = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1498,
+      1575,
+      1728
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trên đường quốc lộ, một ô tô đang di chuyển với vận tốc $45\\text{km/h}$. cùng lúc, một đoàn tàu chạy song song với đường quốc lộ với vận tốc $60\\text{km/h}$. Khi ô tô cách duôi tàu $100\\text{m}$ thì ô tô bắt đầu tăng tốc với vận tốc $v(t) = 2,5t + b(\\text{m/s})$, với $t$ là thời gian kể từ lúc ô tô bắt đầu tăng tốc. Khi đạt đến tốc độ tối đa cho phép $90\\text{km/h}$ thì ô tô giữ nguyên vận tốc."
+  },
+  {
+    "bbox": [
+      155,
+      1742,
+      519,
+      1787
+    ],
+    "category": "Text",
+    "text": "a) Giá trị của $b$ bằng $12,5$."
+  },
+  {
+    "bbox": [
+      155,
+      1805,
+      844,
+      1852
+    ],
+    "category": "Text",
+    "text": "b) Thời gian ô tô đạt vận tốc tối đa cho phép là $5\\text{s}$."
+  },
+  {
+    "bbox": [
+      155,
+      1869,
+      888,
+      1910
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa ô tô và duôi tàu sau $3\\text{s}$ là $51,25\\text{m}$"
+  },
+  {
+    "bbox": [
+      155,
+      1929,
+      1137,
+      1975
+    ],
+    "category": "Text",
+    "text": "d) Thời gian ô tô bắt kịp duôi tàu kể từ lúc ô tô bắt đầu tăng tốc là $15,75\\text{s}$"
+  },
+  {
+    "bbox": [
+      807,
+      1999,
+      924,
+      2038
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2053,
+      972,
+      2176
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

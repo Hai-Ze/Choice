@@ -1,0 +1,457 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1150,
+      274
+    ],
+    "category": "Section-header",
+    "text": "# BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      308,
+      274,
+      982,
+      332
+    ],
+    "category": "Text",
+    "text": "## ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 37"
+  },
+  {
+    "bbox": [
+      507,
+      332,
+      783,
+      384
+    ],
+    "category": "Text",
+    "text": "### ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      281,
+      389,
+      1013,
+      431
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1235,
+      142,
+      1596,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      357,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      512,
+      1162,
+      568
+    ],
+    "category": "Section-header",
+    "text": "### 1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      577,
+      711,
+      619
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Nguyên hàm của hàm số $f(x) = 3^x$ là"
+  },
+  {
+    "bbox": [
+      123,
+      619,
+      293,
+      695
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{3^x}{\\ln 3} + C$."
+  },
+  {
+    "bbox": [
+      395,
+      619,
+      592,
+      695
+    ],
+    "category": "List-item",
+    "text": "(B) $3^x \\ln 3 + C$."
+  },
+  {
+    "bbox": [
+      668,
+      619,
+      816,
+      695
+    ],
+    "category": "List-item",
+    "text": "(C) $3^x + C$."
+  },
+  {
+    "bbox": [
+      941,
+      619,
+      1133,
+      695
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{3^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      94,
+      709,
+      1196,
+      823
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hai hàm số $y = f(x)$ và $y = g(x)$ liên tục trên $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hai hàm số $y = f(x)$, $y = g(x)$ và hai đường thẳng $x = a$, $x = b$ là"
+  },
+  {
+    "bbox": [
+      123,
+      823,
+      496,
+      938
+    ],
+    "category": "List-item",
+    "text": "(A) $S = \\left| \\int_{a}^{b} [f(x) - g(x)]dx \\right|$."
+  },
+  {
+    "bbox": [
+      668,
+      823,
+      1028,
+      938
+    ],
+    "category": "List-item",
+    "text": "(B) $S = \\int_{a}^{b} |f(x) + g(x)|dx$."
+  },
+  {
+    "bbox": [
+      123,
+      938,
+      481,
+      1054
+    ],
+    "category": "List-item",
+    "text": "(C) $S = \\int_{a}^{b} |f(x) - g(x)|dx$."
+  },
+  {
+    "bbox": [
+      668,
+      938,
+      1022,
+      1054
+    ],
+    "category": "List-item",
+    "text": "(D) $S = \\int_{a}^{b} [f(x) - g(x)]dx$."
+  },
+  {
+    "bbox": [
+      94,
+      1071,
+      1010,
+      1113
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Diểm kiểm tra 15 phút của lớp 12 A được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      168,
+      1144,
+      1125,
+      1244
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[3; 4)</td><td>[4; 5)</td><td>[5; 6)</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10)</td></tr><tr><td>Số học sinh</td><td>3</td><td>8</td><td>7</td><td>12</td><td>7</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1277,
+      1196,
+      1352
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên (làm tròn đến hàng phần trăm) là"
+  },
+  {
+    "bbox": [
+      123,
+      1352,
+      234,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(A) 4,84."
+  },
+  {
+    "bbox": [
+      395,
+      1352,
+      507,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(B) 2,10."
+  },
+  {
+    "bbox": [
+      668,
+      1352,
+      777,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(C) 2,09."
+  },
+  {
+    "bbox": [
+      941,
+      1352,
+      1049,
+      1394
+    ],
+    "category": "List-item",
+    "text": "(D) 6,94."
+  },
+  {
+    "bbox": [
+      94,
+      1413,
+      1196,
+      1493
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của đường thẳng đi qua điểm $M(2; 0; -1)$ và có một véc-tơ chỉ phương $\\vec{a} = (4; -6; 2)$ là"
+  },
+  {
+    "bbox": [
+      123,
+      1493,
+      367,
+      1626
+    ],
+    "category": "List-item",
+    "text": "(A) $\\begin{cases} x = -2 + 2t \\\\ y = -3t \\\\ z = 1 + t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      395,
+      1493,
+      627,
+      1626
+    ],
+    "category": "List-item",
+    "text": "(B) $\\begin{cases} x = 2 + 2t \\\\ y = -3t \\\\ z = -1 + t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      668,
+      1493,
+      890,
+      1626
+    ],
+    "category": "List-item",
+    "text": "(C) $\\begin{cases} x = 4 + 2t \\\\ y = -3t \\\\ z = 2 + t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      941,
+      1493,
+      1188,
+      1626
+    ],
+    "category": "List-item",
+    "text": "(D) $\\begin{cases} x = -2 + 4t \\\\ y = -6t \\\\ z = 1 + 2t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      94,
+      1644,
+      1196,
+      1756
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho hàm số $f(x)$ liên tục trên mỗi khoảng $(-\\infty; -\\frac{1}{2})$ và $(-\\frac{1}{2}; +\\infty)$ và có bảng biến thiên như hình vẽ sau:"
+  },
+  {
+    "bbox": [
+      291,
+      1789,
+      1002,
+      2110
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2151,
+      989,
+      2189
+    ],
+    "category": "Text",
+    "text": "Tiệm cận ngang của đồ thị hàm số là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      123,
+      2187,
+      281,
+      2255
+    ],
+    "category": "List-item",
+    "text": "(A) $y = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      395,
+      2187,
+      525,
+      2255
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 2$."
+  },
+  {
+    "bbox": [
+      668,
+      2187,
+      798,
+      2255
+    ],
+    "category": "List-item",
+    "text": "(C) $y = 2$."
+  },
+  {
+    "bbox": [
+      941,
+      2187,
+      1097,
+      2255
+    ],
+    "category": "List-item",
+    "text": "(D) $x = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1460,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "187"
+  }
+]

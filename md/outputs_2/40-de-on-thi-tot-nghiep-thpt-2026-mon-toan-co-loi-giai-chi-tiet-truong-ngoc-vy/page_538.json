@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      630,
+      95,
+      936,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      1373,
+      195
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      1399,
+      262
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho cấp số cộng $(u_n)$ với $u_1 = 2$; $d = 9$. Khi đó số 2018 là số hạng thứ may trong dãy?"
+  },
+  {
+    "bbox": [
+      125,
+      290,
+      244,
+      324
+    ],
+    "category": "List-item",
+    "text": "A. 226."
+  },
+  {
+    "bbox": [
+      476,
+      290,
+      586,
+      324
+    ],
+    "category": "List-item",
+    "text": "B. 225."
+  },
+  {
+    "bbox": [
+      826,
+      290,
+      939,
+      324
+    ],
+    "category": "List-item",
+    "text": "C. 223."
+  },
+  {
+    "bbox": [
+      1175,
+      290,
+      1288,
+      324
+    ],
+    "category": "List-item",
+    "text": "D. 224."
+  },
+  {
+    "bbox": [
+      727,
+      348,
+      843,
+      386
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      407,
+      196,
+      445
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      465,
+      896,
+      514
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_n = u_1 + (n-1)d \\Leftrightarrow 2018 = 2 + (n-1) \\cdot 9 \\Leftrightarrow n = 225$."
+  },
+  {
+    "bbox": [
+      76,
+      543,
+      1030,
+      623
+    ],
+    "category": "Text",
+    "text": "Câu 2. Phương trình $\\sin x = \\frac{1}{2}$ có nghiệm thỏa mãn $-\\frac{\\pi}{2} \\le x \\le \\frac{\\pi}{2}$ là:"
+  },
+  {
+    "bbox": [
+      125,
+      647,
+      353,
+      727
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{5\\pi}{6} + k2\\pi$"
+  },
+  {
+    "bbox": [
+      476,
+      651,
+      611,
+      727
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      826,
+      651,
+      1053,
+      727
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\frac{\\pi}{3} + k2\\pi$."
+  },
+  {
+    "bbox": [
+      1175,
+      651,
+      1310,
+      727
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      727,
+      751,
+      843,
+      789
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      810,
+      196,
+      848
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      868,
+      1221,
+      1045
+    ],
+    "category": "Text",
+    "text": "Ta có $\\sin x = \\frac{1}{2} \\Leftrightarrow \\sin x = \\sin\\left(\\frac{\\pi}{6}\\right) \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\pi - \\frac{\\pi}{6} + k2\\pi \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{5\\pi}{6} + k2\\pi \\end{cases} \\quad (k \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      76,
+      1073,
+      1206,
+      1154
+    ],
+    "category": "Text",
+    "text": "Trường hợp 1: $x = \\frac{\\pi}{6} + k\\pi$. Do $-\\frac{\\pi}{2} \\le x \\le \\frac{\\pi}{2}$ nên $-\\frac{\\pi}{2} \\le \\frac{\\pi}{6} + k2\\pi \\le \\frac{\\pi}{2} \\Leftrightarrow -\\frac{1}{3} \\le k \\le \\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1183,
+      1084,
+      1258
+    ],
+    "category": "Text",
+    "text": "Vì $k \\in \\mathbb{R}$ nên ta chọn được $k = 0$ thỏa mãn. Do đó, ta được nghiệm $x = \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1284,
+      1282,
+      1365
+    ],
+    "category": "Text",
+    "text": "Trường hợp 2: $x = \\frac{5\\pi}{6} + k2\\pi$. Do $-\\frac{\\pi}{2} \\le x \\le \\frac{\\pi}{2}$ nên $-\\frac{\\pi}{2} \\le \\frac{5\\pi}{6} + k2\\pi \\le \\frac{\\pi}{2} \\Leftrightarrow -\\frac{2}{3} \\le k \\le -\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1387,
+      799,
+      1427
+    ],
+    "category": "Text",
+    "text": "Vì $k \\in \\mathbb{R}$ nên ta không chọn được giá trị $k$ thỏa mãn."
+  },
+  {
+    "bbox": [
+      76,
+      1455,
+      662,
+      1528
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình đã cho có nghiệm $x = \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1555,
+      1167,
+      1602
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = e^{x^2+2x-3} - 1$. Tập nghiệm của bất phương trình $y' \\ge 0$ là:"
+  },
+  {
+    "bbox": [
+      125,
+      1627,
+      307,
+      1674
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -1]$."
+  },
+  {
+    "bbox": [
+      826,
+      1627,
+      1144,
+      1674
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; -3] \\cup [1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      125,
+      1702,
+      272,
+      1748
+    ],
+    "category": "List-item",
+    "text": "C. $[-3; 1]$."
+  },
+  {
+    "bbox": [
+      826,
+      1702,
+      1007,
+      1748
+    ],
+    "category": "List-item",
+    "text": "D. $[-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      727,
+      1774,
+      843,
+      1812
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1833,
+      190,
+      1871
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      76,
+      1893,
+      441,
+      1942
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = (2x + 2)e^{x^2+2x-3}$."
+  },
+  {
+    "bbox": [
+      82,
+      1973,
+      801,
+      2022
+    ],
+    "category": "Formula",
+    "text": "$$\ny' \\ge 0 \\Leftrightarrow (2x + 2)e^{x^2+2x-3} \\ge 0 \\Leftrightarrow 2x + 2 \\ge 0 \\Leftrightarrow x \\ge -1.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2048,
+      853,
+      2097
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình $y' \\ge 0$ là $[-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      2123,
+      1116,
+      2172
+    ],
+    "category": "Text",
+    "text": "Câu 4. Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R} \\setminus \\{-1\\}$ và có đồ thị bên dưới."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2256,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1199,
+      314
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho một vật thể trong không gian $Oxyz$. Gọi $\\Omega$ là phần vật thể giới hạn bởi hai mặt phẳng vuông góc với trục $Ox$ tại các điểm có hoành độ $x = a$; $x = b$. Một mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ là $x$ cắt vật thể theo mặt cắt có diện tích là $S(x)$. Giả sử $S(x)$ là hàm số liên tục trên đoạn $[a; b]$. Khi đó thể tích $V$ của phần vật thể $\\Omega$ tính theo công thức"
+  },
+  {
+    "bbox": [
+      123,
+      314,
+      408,
+      427
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad V = \\pi \\int_{a}^{b} S(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      314,
+      973,
+      427
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad V = \\pi \\int_{a}^{b} [S(x)]^2 \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      427,
+      383,
+      544
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad V = \\int_{a}^{b} S(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      427,
+      964,
+      544
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad V = \\pi^2 \\int_{a}^{b} S(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      555,
+      1103,
+      629
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $y = \\frac{2x + 3}{x + 1}$. Tiệm cận đứng của đồ thị hàm số này là"
+  },
+  {
+    "bbox": [
+      123,
+      623,
+      259,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad y = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      623,
+      548,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad y = -1.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      623,
+      806,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad x = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      623,
+      1092,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x = -1.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      704,
+      1197,
+      784
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho mặt phẳng ($P$) có phương trình $x+y-z+8 = 0$. Vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng ($P$)?"
+  },
+  {
+    "bbox": [
+      123,
+      782,
+      367,
+      821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\vec{n} = (1; 1; -1).\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      782,
+      913,
+      821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\vec{n} = (1; -1; 1).\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      823,
+      343,
+      866
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\vec{n} = (1; 1; 8).\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      823,
+      933,
+      866
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\vec{n} = (1; -1; -1).\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      881,
+      1191,
+      924
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      303,
+      944,
+      986,
+      1044
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>$M_1$</td><td>6</td><td>4</td><td>8</td><td>6</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      303,
+      1076,
+      986,
+      1176
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>$M_2$</td><td>9</td><td>6</td><td>12</td><td>9</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1208,
+      1197,
+      1284
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      1282,
+      289,
+      1325
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad s_2 = 2s_1.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      1282,
+      548,
+      1325
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad s_1 = s_2.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1282,
+      837,
+      1325
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad s_2 = \\frac{1}{2}s_1.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      1282,
+      1111,
+      1325
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad s_1 = \\frac{1}{2}s_2.\n$$"
+  },
+  {
+    "bbox": [
+      108,
+      1339,
+      824,
+      1393
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1401,
+      1197,
+      1477
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x) = 2 \\sin x + x$. Xét tính đúng sai của các性能 đề sau"
+  },
+  {
+    "bbox": [
+      123,
+      1481,
+      429,
+      1519
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} f(0) = 0; f(\\pi) = \\pi.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1521,
+      866,
+      1559
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} \\text{Đạo hàm của hàm số đã cho là } f'(x) = -2 \\cos x + 1.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1563,
+      973,
+      1601
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{Số nghiệm của phương trình } f'(x) = 0 \\text{ trên đoạn } [0; 3\\pi] \\text{ là 6.}\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1603,
+      889,
+      1673
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} \\text{Giá trị lớn nhất của } f(x) \\text{ trên đoạn } [0; \\pi] \\text{ là } \\frac{2\\pi}{3} + \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1682,
+      1197,
+      1838
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Bạn Hoàng chọn ngẫu nhiên một bóngđèn led trên quầy. Trên quầy có hai loạiđèn màu trắng và màu vàng có hình thức và kích thước như nhau. Trong đó màu trắng chiếm 60%. Bóngđèn màu trắng có tỉ lệ hỏng là 3%, bóngđèn màu vàng có tỉ lệ hỏng là 2%. Xác suất để bạn Hoàng chọn được:"
+  },
+  {
+    "bbox": [
+      123,
+      1840,
+      588,
+      1876
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\text{Một bóngđèn màu vàng là 0,6.}\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1878,
+      888,
+      1916
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} \\text{Một bóngđèn không hỏng, biết nó màu trắng là 0,97.}\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1918,
+      879,
+      1956
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{Một bóngđèn không hỏng, biết nó màu vàng là 0,98.}\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      1960,
+      649,
+      1998
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} \\text{Một bóngđèn không hỏng là 0,974.}\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      2015,
+      1197,
+      2206
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Hai phương tiện bay không người lái (drone) cùng lúc xuất phát tại cùng một địa điểm trên mặt đất. Sau một thời gian, chiếc thứ nhất đến vị trí cách điểm xuất phát về phía Nam 60 m, về phía Đông 40 m và cách mặt đất 50 m, chiếc thứ hai đến vị trí cách điểm xuất phát về phía Bắc 40 m, về phía Tây 20 m và cách mặt đất 30 m. Tại thời điểm đang xét thì:"
+  },
+  {
+    "bbox": [
+      123,
+      2208,
+      776,
+      2246
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\text{Chiếc thứ nhất cách điểm xuất phát 87,57 m.}\n$$"
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 627"
+  }
+]

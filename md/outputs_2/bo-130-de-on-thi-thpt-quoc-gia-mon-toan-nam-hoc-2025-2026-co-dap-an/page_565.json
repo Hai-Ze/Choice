@@ -1,0 +1,228 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      117,
+      447,
+      194
+    ],
+    "category": "Formula",
+    "text": "b) $v(t) = \\frac{t^3}{3} + 2t^2 + 12$."
+  },
+  {
+    "bbox": [
+      124,
+      191,
+      856,
+      229
+    ],
+    "category": "List-item",
+    "text": "c) Vận tốc của vật tại thời điểm $t = 3$ (s) là 21 (m/s)."
+  },
+  {
+    "bbox": [
+      124,
+      229,
+      1194,
+      307
+    ],
+    "category": "List-item",
+    "text": "d) Quăng đường vật đi được trong 4 (s) đầu tiên kể từ lúc bắt đầu tăng tốc là 124 (m)."
+  },
+  {
+    "bbox": [
+      110,
+      360,
+      893,
+      402
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      425,
+      1198,
+      505
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** An, Bình và Cao dự định tham gia xem một triển lãm tranh. Khả năng mỗi người đi phụ thuộc vào các yếu tố sau:"
+  },
+  {
+    "bbox": [
+      128,
+      581,
+      1198,
+      730
+    ],
+    "category": "List-item",
+    "text": "✔ An: Việc An đi xem triển lãm phụ thuộc hoàn toàn vào thời tiết. Nếu trời không musa, An có 75% khả năng đi xem triển lãm. Nếu trời musa, khả năng này giảm xuống còn 40%. Theo dự báo thời tiết, khả năng trời musa trong ngày diễn ra triển lãm là 25%."
+  },
+  {
+    "bbox": [
+      128,
+      810,
+      1198,
+      924
+    ],
+    "category": "List-item",
+    "text": "✔ Bình: Việc Bình đi xem triển lãm phụ thuộc vào việc An có đi hay không. Nếu An đi, Bình có 90% khả năng đi. Nếu An không đi thì chắc chắn Bình sẽ không đi."
+  },
+  {
+    "bbox": [
+      128,
+      1000,
+      1198,
+      1077
+    ],
+    "category": "List-item",
+    "text": "✔ Cao: Khả năng Cao đi xem triển lãm không phụ thuộc các yếu tố khác. Cao có 50% khả năng đi xem triển lãm."
+  },
+  {
+    "bbox": [
+      94,
+      1153,
+      1198,
+      1230
+    ],
+    "category": "Text",
+    "text": "Xác suất để ít nhất hai trong ba người bạn cùng đi xem triển lãm là bao nhiêu? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      105,
+      1230,
+      405,
+      1289
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1328,
+      1198,
+      1521
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một học sinh ôn thi tốt nghiệp và ghi nhớ toàn bộ nội dung một bài học vào ngày đầu tiên. Giả sử lượng kiến thức còn nhớ sau $t$ ngày (khi chưa ôn tập lại) của học sinh này được xác định bởi công thức $R(t) = 100 \\cdot e^{-0,3t}$, $R(t)$ tính bằng phần trăm. Hỏi sau bao nhiêu ngày thì lượng kiến thức còn nhớ là 30%? (Làm tròn kết quả đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      105,
+      1521,
+      405,
+      1580
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1620,
+      1198,
+      1841
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một hộ làm nghề dệt lụa tơ tầm mỗi ngày sản xuất được $x$ mét vải lụa $1 \\le x \\le 19$. Tổng chi phí sản xuất $x$ mét vải lụa cho bởi công thức $C(x) = \\frac{x^3}{3} + 4x^2 + 200$ (nghìn đồng). Giá của một mét vải lụa là 240 nghìn đồng và giả sử hộ luôn bán hết số sản phẩm trong ngày. Để đạt lợi nhuận tối đa thì mỗi ngày hộ cần sản xuất bao nhiêu mét vải lụa?"
+  },
+  {
+    "bbox": [
+      105,
+      1841,
+      405,
+      1900
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      94,
+      1938,
+      1198,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một chi tiết máy được thiết kế như hình vẽ. Các tức giác $ABCD$, $CDGH$ là các hình vuông có cạnh 3,5 cm và nằm trong hai mặt phẳng vuông góc với nhau. Tứ giác $ABEF$ là hình chữ nhật có cạnh $AF = 5,5$ cm và nằm trong mặt phẳng song song với mặt phẳng $CDGH$. Miets cong $GHEF$ được mài nhẫn theo đường parabol $FG$ (có trục đối xứng song song với đường thẳng $AD$) đi qua điểm $I$ với $I$ lần lượt cách mặt phẳng $ABCD$ và $ABEF$ một khoảng bằng 4 cm và 2 cm. Still mặt cong $ABCD$ được mài nhẫn theo nửa đường tròn đường kính $AD$. Thể tích của chi tiết máy bằng bao nhiêu? (Đơn vị $cm^3$, làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      166,
+      1595,
+      2231
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 563"
+  }
+]

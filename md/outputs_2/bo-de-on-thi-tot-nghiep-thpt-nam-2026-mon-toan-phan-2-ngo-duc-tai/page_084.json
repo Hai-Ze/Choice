@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      96
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      280,
+      156,
+      532,
+      199
+    ],
+    "category": "Text",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      343,
+      211,
+      475,
+      251
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 14"
+  },
+  {
+    "bbox": [
+      278,
+      264,
+      540,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      773,
+      153,
+      1314,
+      198
+    ],
+    "category": "Text",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      960,
+      211,
+      1129,
+      248
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      666,
+      262,
+      1426,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      365,
+      1452,
+      483
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án.**"
+  },
+  {
+    "bbox": [
+      192,
+      517,
+      715,
+      562
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Mind đề nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      222,
+      565,
+      1448,
+      687
+    ],
+    "category": "List-item",
+    "text": "A. $\\int [f(x) + g(x)] dx = \\int f(x) dx + \\int g(x) dx$, với mọi hàm số $f(x)$, $g(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      222,
+      702,
+      1207,
+      779
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f'(x)dx = f(x) + C$ với mọi hàm số $f(x)$ có đạo hàm trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      222,
+      782,
+      1448,
+      903
+    ],
+    "category": "List-item",
+    "text": "C. $\\int [f(x) - g(x)] dx = \\int f(x) dx - \\int g(x) dx$, với mọi hàm số $f(x)$, $g(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      222,
+      919,
+      1448,
+      1041
+    ],
+    "category": "List-item",
+    "text": "D. $\\int kf(x) dx = k \\int f(x) dx$ với mọi hằng số $k$ và với mọi hàm số $f(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      192,
+      1069,
+      1455,
+      1172
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Diện tích hình phẳng giới hạn bởi các đường $y = x^2 + 1$, trục hoành và các đường $x = 0, x = 2$ là?"
+  },
+  {
+    "bbox": [
+      222,
+      1175,
+      391,
+      1258
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      524,
+      1175,
+      693,
+      1258
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      825,
+      1175,
+      990,
+      1258
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\frac{17}{3}$."
+  },
+  {
+    "bbox": [
+      1126,
+      1198,
+      1271,
+      1235
+    ],
+    "category": "List-item",
+    "text": "D. $S = 4$."
+  },
+  {
+    "bbox": [
+      192,
+      1272,
+      1252,
+      1321
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, mặt phẳng ($Oxy$) có phương trình là"
+  },
+  {
+    "bbox": [
+      222,
+      1339,
+      366,
+      1378
+    ],
+    "category": "List-item",
+    "text": "A. $x = 0$."
+  },
+  {
+    "bbox": [
+      524,
+      1339,
+      666,
+      1378
+    ],
+    "category": "List-item",
+    "text": "B. $y = 0$."
+  },
+  {
+    "bbox": [
+      825,
+      1339,
+      1031,
+      1378
+    ],
+    "category": "List-item",
+    "text": "C. $x + y = 0$."
+  },
+  {
+    "bbox": [
+      1126,
+      1339,
+      1268,
+      1378
+    ],
+    "category": "List-item",
+    "text": "D. $z = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      1406,
+      1408,
+      1456
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hai biến cố $A$ và $B$, với $0 < P(B) < 1$. Đẳng thức nào sau đây đúng."
+  },
+  {
+    "bbox": [
+      222,
+      1470,
+      886,
+      1519
+    ],
+    "category": "List-item",
+    "text": "A. $P(A) = P(A | B) \\cdot P(B) + P(A | \\bar{B}) \\cdot P(A)$."
+  },
+  {
+    "bbox": [
+      222,
+      1532,
+      890,
+      1581
+    ],
+    "category": "List-item",
+    "text": "B. $P(A) = P(A | B) \\cdot P(B) + P(A | \\bar{B}) \\cdot P(\\bar{B})$."
+  },
+  {
+    "bbox": [
+      222,
+      1594,
+      899,
+      1643
+    ],
+    "category": "List-item",
+    "text": "C. $P(A) = P(A | B) \\cdot P(A) + P(\\bar{A} | B) \\cdot P(\\bar{A})$."
+  },
+  {
+    "bbox": [
+      222,
+      1656,
+      886,
+      1705
+    ],
+    "category": "List-item",
+    "text": "D. $P(B) = P(A | B) \\cdot P(B) + P(A | \\bar{B}) \\cdot P(\\bar{B})$."
+  },
+  {
+    "bbox": [
+      192,
+      1728,
+      1452,
+      1832
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Trong không gian $Oxyz$, phương trình $x^2 + y^2 + z^2 - 2ax - 2by - 2cz + d = 0$ là phương trình của một mặt cầu khi và chỉ khi"
+  },
+  {
+    "bbox": [
+      222,
+      1845,
+      582,
+      1890
+    ],
+    "category": "List-item",
+    "text": "A. $a^2 + b^2 + c^2 - d > 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1845,
+      1192,
+      1890
+    ],
+    "category": "List-item",
+    "text": "B. $a^2 + b^2 + c^2 + d \\ge 0$."
+  },
+  {
+    "bbox": [
+      222,
+      1905,
+      582,
+      1950
+    ],
+    "category": "List-item",
+    "text": "C. $a^2 + b^2 + c^2 + d > 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1905,
+      1192,
+      1950
+    ],
+    "category": "List-item",
+    "text": "D. $a^2 + b^2 + c^2 - d \\ge 0$."
+  },
+  {
+    "bbox": [
+      192,
+      1982,
+      1205,
+      2031
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho lăng trụ $ABC.A'B'C'$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      222,
+      2034,
+      540,
+      2087
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      834,
+      2034,
+      1158,
+      2087
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC'}$."
+  },
+  {
+    "bbox": [
+      222,
+      2100,
+      549,
+      2153
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{C'B}$."
+  },
+  {
+    "bbox": [
+      834,
+      2100,
+      1158,
+      2153
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{B'C}$."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      475,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2245,
+      1452,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 83"
+  }
+]

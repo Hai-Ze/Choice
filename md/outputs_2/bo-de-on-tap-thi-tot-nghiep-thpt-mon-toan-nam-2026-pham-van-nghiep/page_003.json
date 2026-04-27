@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      46,
+      1541,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      113,
+      1502,
+      195
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      212,
+      197,
+      1575,
+      419
+    ],
+    "category": "Text",
+    "text": "d) Để tạo bất ngờ cho người bốc thăm tiếp theo, sau khi người thứ nhất bốc thăm, người dẫn chương trình giữ lại vé và không công bố kết quả. Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      74,
+      425,
+      1578,
+      693
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một phòng thí nghiệm có máy đo nồng độ khí $CO_2$ cho thấy: nồng độ khí $CO_2$ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{2000t}{t^2 + 5}$ (ppm), với $t \\ge 0$ (Khi nói nồng độ khí $CO_2$ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí $CO_2$)."
+  },
+  {
+    "bbox": [
+      212,
+      693,
+      721,
+      739
+    ],
+    "category": "Text",
+    "text": "Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      212,
+      741,
+      1189,
+      787
+    ],
+    "category": "Text",
+    "text": "a) Nồng độ khí $CO_2$ trong phòng tại thời điểm $t = 0$ là 400 (ppm)."
+  },
+  {
+    "bbox": [
+      212,
+      787,
+      725,
+      898
+    ],
+    "category": "Text",
+    "text": "b) $f'(t) = \\frac{-2000t^2 - 10000}{(t^2 + 5)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      212,
+      907,
+      892,
+      951
+    ],
+    "category": "Text",
+    "text": "c) Nghiệm của phương trình $f'(t) = 0$ là $t = 2$."
+  },
+  {
+    "bbox": [
+      212,
+      957,
+      1573,
+      1047
+    ],
+    "category": "Text",
+    "text": "d) Nồng độ khí $CO_2$ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 947 (ppm)."
+  },
+  {
+    "bbox": [
+      100,
+      1047,
+      938,
+      1571
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hai chiếc flycam được điều令 cùng bay lên tại cùng một địa điểm. Sau một thời gian bay, chiếc flycam thứ nhất bay đến vị trí điểm $A$ cách mặt đất $10m$, cách điểm xuất phát $8m$ về phía nam và $3m$ về phía đông. Chiếc flycam thứ hai bay đến điểm $B$ cách mặt đất $12m$, cách điểm xuất phát $4m$ về phía bắc và $5m$ về phía Tây. Chọn hệ trục tọa độ $Oxyz$ với gốc $O$ đặt tại điểm xuất phát của hai chiếc flycam, mặt phẳng $(Oxy)$ trùng với mặt đất (coi như phẳng) có trục $Ox$ hướng về phía nam, trục $Oy$ hướng về phía đông"
+  },
+  {
+    "bbox": [
+      977,
+      1077,
+      1557,
+      1523
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1573,
+      1307,
+      1622
+    ],
+    "category": "Text",
+    "text": "và trục $Oz$ hướng thẳng đứng lên trời (đơn vị đo mỗi trục là mét). Khi đó:"
+  },
+  {
+    "bbox": [
+      212,
+      1624,
+      660,
+      1674
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ của điểm $A(8;3;10)$."
+  },
+  {
+    "bbox": [
+      212,
+      1683,
+      1525,
+      1836
+    ],
+    "category": "Text",
+    "text": "b) Phương trình đường thẳng đi qua vị trí của hai chiếc flycam tại $A$ và $B$ là $\\begin{cases} x = 8 + 12t \\\\ y = 3 + 8t \\\\ z = 10 - 2t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      212,
+      1847,
+      1140,
+      1897
+    ],
+    "category": "Text",
+    "text": "c) Mặt phẳng trung trực của đoạn thẳng $AB$ đi qua $M(1;-2;1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1906,
+      1575,
+      2050
+    ],
+    "category": "Text",
+    "text": "d) Trên mặt đất người ta đặt một thiết bị phá sóng flycam sao cho có thể phá sóng hai chiếc flycam tại hai vị trí $A$, $B$ cùng một lúc. Tổng khoảng cách ngắn nhất từ thiết bị đó đến hai chiếc flycam tại hai vị trí $A$ và $B$ (làm tròn đến hàng phần trăm) bằng $25,46(m)$."
+  },
+  {
+    "bbox": [
+      212,
+      2056,
+      801,
+      2105
+    ],
+    "category": "Section-header",
+    "text": "Phần III. Câu trắc nghiệm trả lời ngắn."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      738,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "bbox": [
+      597,
+      101,
+      1144,
+      449
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      268,
+      462,
+      1500,
+      508
+    ],
+    "category": "Text",
+    "text": "Gọi $M, m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số trên đoạn $[-1:3]$. Khi đó $M + m$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      517,
+      303,
+      549
+    ],
+    "category": "List-item",
+    "text": "A. -6."
+  },
+  {
+    "bbox": [
+      557,
+      517,
+      646,
+      549
+    ],
+    "category": "List-item",
+    "text": "B. -2."
+  },
+  {
+    "bbox": [
+      896,
+      517,
+      980,
+      549
+    ],
+    "category": "List-item",
+    "text": "C. -3."
+  },
+  {
+    "bbox": [
+      1232,
+      517,
+      1304,
+      549
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      172,
+      555,
+      1539,
+      637
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1 = 7$ và công bội $q = 3$. Khi đó số hạng thứ hai của cấp số nhân đã cho là"
+  },
+  {
+    "bbox": [
+      209,
+      645,
+      359,
+      680
+    ],
+    "category": "List-item",
+    "text": "A. $u_2 = 49$."
+  },
+  {
+    "bbox": [
+      557,
+      645,
+      716,
+      680
+    ],
+    "category": "List-item",
+    "text": "B. $u_2 = 343$."
+  },
+  {
+    "bbox": [
+      896,
+      645,
+      1036,
+      680
+    ],
+    "category": "List-item",
+    "text": "C. $u_2 = 21$."
+  },
+  {
+    "bbox": [
+      1232,
+      645,
+      1374,
+      680
+    ],
+    "category": "List-item",
+    "text": "D. $u_2 = 10$."
+  },
+  {
+    "bbox": [
+      172,
+      686,
+      1465,
+      728
+    ],
+    "category": "Text",
+    "text": "Câu 10. Chọn ngẫu nhiên một số tự nhiên có hai chữ số. Xác suất để số đó chia hết cho 5 là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      207,
+      730,
+      298,
+      803
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{18}{91}$."
+  },
+  {
+    "bbox": [
+      557,
+      730,
+      632,
+      803
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      896,
+      730,
+      968,
+      803
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{2}{9}$."
+  },
+  {
+    "bbox": [
+      1232,
+      730,
+      1328,
+      803
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{19}{90}$."
+  },
+  {
+    "bbox": [
+      172,
+      809,
+      1550,
+      887
+    ],
+    "category": "Text",
+    "text": "Câu 11. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bạn Dùng trong 20 ngày gần nhất được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      233,
+      891,
+      1538,
+      1005
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2.7:3.0)</td><td>[3.0; 3.3)</td><td>[3.3:3.6)</td><td>[3.6:3.9)</td><td>[3.9:4.2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      283,
+      1007,
+      955,
+      1048
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      207,
+      1049,
+      351,
+      1081
+    ],
+    "category": "List-item",
+    "text": "A. 0.6 km."
+  },
+  {
+    "bbox": [
+      557,
+      1049,
+      694,
+      1081
+    ],
+    "category": "List-item",
+    "text": "B. 0,9 km."
+  },
+  {
+    "bbox": [
+      896,
+      1049,
+      1032,
+      1081
+    ],
+    "category": "List-item",
+    "text": "C. 0,3 km."
+  },
+  {
+    "bbox": [
+      1232,
+      1049,
+      1362,
+      1081
+    ],
+    "category": "List-item",
+    "text": "D. 1,5 km."
+  },
+  {
+    "bbox": [
+      167,
+      1095,
+      1547,
+      1180
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho hàm số $f(x)$ có đạo hàm $f'(x) = x(x-1)(x-2)^2, \\forall x \\in \\mathbb{R}$. Số điểm cực trị của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      207,
+      1188,
+      280,
+      1220
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      557,
+      1188,
+      628,
+      1220
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      896,
+      1188,
+      965,
+      1220
+    ],
+    "category": "List-item",
+    "text": "C. 5."
+  },
+  {
+    "bbox": [
+      1232,
+      1188,
+      1296,
+      1220
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      167,
+      1224,
+      1529,
+      1295
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Học sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      167,
+      1301,
+      639,
+      1343
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $y = f'(x) = x^2e^x$."
+  },
+  {
+    "bbox": [
+      203,
+      1349,
+      928,
+      1388
+    ],
+    "category": "List-item",
+    "text": "a) Nghiệm của phương trình $f'(x) = 0$ là $x = 0$ và $x = 2$."
+  },
+  {
+    "bbox": [
+      203,
+      1398,
+      915,
+      1471
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị nhỏ nhất của hàm số trên đoạn $[-1;1]$ bằng $\\frac{1}{e}$."
+  },
+  {
+    "bbox": [
+      203,
+      1475,
+      753,
+      1516
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đồng biến trên khoảng $(-2;+\\infty)$."
+  },
+  {
+    "bbox": [
+      203,
+      1524,
+      885,
+      1565
+    ],
+    "category": "List-item",
+    "text": "d) Đạo hàm của hàm số đã cho là $f'(x) = (x^2 + 2x)e^x$."
+  },
+  {
+    "bbox": [
+      167,
+      1573,
+      1507,
+      1662
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và hàm số $y = f'(x)$ là hàm số bậc ba có đồ thị là đường cong trong hình vẽ sau"
+  },
+  {
+    "bbox": [
+      636,
+      1657,
+      1075,
+      1977
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      1977,
+      402,
+      2018
+    ],
+    "category": "List-item",
+    "text": "a) $f'(2) = 48$."
+  },
+  {
+    "bbox": [
+      214,
+      2026,
+      874,
+      2071
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ đồng biến trên khoảng $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      177,
+      2092,
+      332,
+      2127
+    ],
+    "category": "Page-footer",
+    "text": "Mã dê 1281"
+  },
+  {
+    "bbox": [
+      1394,
+      2097,
+      1514,
+      2131
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

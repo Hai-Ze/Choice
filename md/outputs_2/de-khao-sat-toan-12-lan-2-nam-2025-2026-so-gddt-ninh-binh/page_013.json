@@ -1,0 +1,489 @@
+[
+  {
+    "bbox": [
+      186,
+      113,
+      633,
+      194
+    ],
+    "category": "Page-header",
+    "text": "SỞ GIÁO DỤC VÀ ĐÀO TẠO\nNINH BÌNH"
+  },
+  {
+    "bbox": [
+      310,
+      226,
+      590,
+      266
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ CHÍNH THỨC"
+  },
+  {
+    "bbox": [
+      310,
+      308,
+      510,
+      346
+    ],
+    "category": "Page-header",
+    "text": "MÃ ĐỀ: 0107"
+  },
+  {
+    "bbox": [
+      856,
+      113,
+      1429,
+      272
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ KHẢO SÁT, ĐÁNH GIÁ\nCHẤT LƯỢNG GIÁO DỤC LỚP 12\nLẦN THỨ HAI - NĂM HỌC 2025-2026\nMÔN THI: TOÁN - THPT, GDTX"
+  },
+  {
+    "bbox": [
+      956,
+      278,
+      1338,
+      319
+    ],
+    "category": "Page-header",
+    "text": "(Thời gian làm bài: 90 phút)"
+  },
+  {
+    "bbox": [
+      1181,
+      351,
+      1544,
+      392
+    ],
+    "category": "Page-header",
+    "text": "Đề thi khảo sát gồm 04 trang"
+  },
+  {
+    "bbox": [
+      115,
+      450,
+      885,
+      488
+    ],
+    "category": "Text",
+    "text": "Họ và tên học sinh:...................................................."
+  },
+  {
+    "bbox": [
+      115,
+      502,
+      881,
+      541
+    ],
+    "category": "Text",
+    "text": "Số báo danh:...................................................."
+  },
+  {
+    "bbox": [
+      115,
+      598,
+      1341,
+      643
+    ],
+    "category": "Text",
+    "text": "**PHẦN I.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      115,
+      684,
+      893,
+      732
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      466,
+      734,
+      1212,
+      893
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      115,
+      911,
+      805,
+      954
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      156,
+      958,
+      314,
+      1005
+    ],
+    "category": "List-item",
+    "text": "A. $(6;+\\infty)$."
+  },
+  {
+    "bbox": [
+      504,
+      958,
+      650,
+      1005
+    ],
+    "category": "List-item",
+    "text": "B. $(-3;6)$."
+  },
+  {
+    "bbox": [
+      851,
+      958,
+      1029,
+      1005
+    ],
+    "category": "List-item",
+    "text": "C. $(-1;+\\infty)$."
+  },
+  {
+    "bbox": [
+      1197,
+      958,
+      1349,
+      1005
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty;5)$."
+  },
+  {
+    "bbox": [
+      115,
+      1011,
+      1056,
+      1069
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Biết $\\int f(x)dx = x^2 + \\cos x + C$, khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      156,
+      1096,
+      442,
+      1143
+    ],
+    "category": "List-item",
+    "text": "A. $f(x) = 2x - \\sin x$."
+  },
+  {
+    "bbox": [
+      851,
+      1077,
+      1188,
+      1161
+    ],
+    "category": "List-item",
+    "text": "B. $f(x) = \\frac{x^3}{3} + \\sin x + C$."
+  },
+  {
+    "bbox": [
+      156,
+      1189,
+      442,
+      1236
+    ],
+    "category": "List-item",
+    "text": "C. $f(x) = 2x + \\sin x$."
+  },
+  {
+    "bbox": [
+      851,
+      1169,
+      1188,
+      1253
+    ],
+    "category": "List-item",
+    "text": "D. $f(x) = \\frac{x^3}{3} - \\sin x + C$."
+  },
+  {
+    "bbox": [
+      115,
+      1253,
+      631,
+      1296
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      156,
+      1296,
+      465,
+      1353
+    ],
+    "category": "List-item",
+    "text": "A. $\\int 6^x dx = 6^x \\cdot \\ln 6 + C$."
+  },
+  {
+    "bbox": [
+      851,
+      1296,
+      1095,
+      1353
+    ],
+    "category": "List-item",
+    "text": "B. $\\int 6^x dx = 6^x + C$."
+  },
+  {
+    "bbox": [
+      156,
+      1363,
+      430,
+      1445
+    ],
+    "category": "List-item",
+    "text": "C. $\\int 6^x dx = \\frac{6^x}{\\ln 6} + C$."
+  },
+  {
+    "bbox": [
+      851,
+      1363,
+      1134,
+      1445
+    ],
+    "category": "List-item",
+    "text": "D. $\\int 6^x dx = \\frac{6^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      115,
+      1451,
+      961,
+      1547
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Nếu $\\int_0^1 f(x)dx = 2$ và $\\int_1^3 f(x)dx = 8$ thì $\\int_0^3 f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      156,
+      1553,
+      242,
+      1587
+    ],
+    "category": "List-item",
+    "text": "A. 10."
+  },
+  {
+    "bbox": [
+      504,
+      1553,
+      574,
+      1587
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      851,
+      1553,
+      923,
+      1587
+    ],
+    "category": "List-item",
+    "text": "C. 6."
+  },
+  {
+    "bbox": [
+      1197,
+      1553,
+      1283,
+      1587
+    ],
+    "category": "List-item",
+    "text": "D. 16."
+  },
+  {
+    "bbox": [
+      115,
+      1595,
+      1232,
+      1702
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[-2;3]$ và có đồ thị trong hình bên. Giá trị lớn nhất của hàm số $y = f(x)$ trên đoạn $[-2;3]$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      156,
+      1710,
+      228,
+      1744
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      851,
+      1710,
+      923,
+      1744
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      156,
+      1750,
+      228,
+      1784
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      851,
+      1750,
+      938,
+      1784
+    ],
+    "category": "List-item",
+    "text": "D. -3."
+  },
+  {
+    "bbox": [
+      115,
+      1790,
+      1232,
+      1886
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(\\alpha)$: $x + y + z - 4 = 0$.úp điểm nào sau đây thuộc mặt phẳng $(\\alpha)$?"
+  },
+  {
+    "bbox": [
+      1252,
+      1606,
+      1555,
+      1869
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1896,
+      339,
+      1943
+    ],
+    "category": "List-item",
+    "text": "A. $M(1;2;1)$."
+  },
+  {
+    "bbox": [
+      504,
+      1896,
+      685,
+      1943
+    ],
+    "category": "List-item",
+    "text": "B. $Q(2;2;1)$."
+  },
+  {
+    "bbox": [
+      851,
+      1896,
+      1022,
+      1943
+    ],
+    "category": "List-item",
+    "text": "C. $P(4;1;1)$."
+  },
+  {
+    "bbox": [
+      1197,
+      1896,
+      1381,
+      1943
+    ],
+    "category": "List-item",
+    "text": "D. $N(2;3;0)$."
+  },
+  {
+    "bbox": [
+      115,
+      1947,
+      1041,
+      1989
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Đường cong trong hình bên là đồ thị của hàm số nào sau đây?"
+  },
+  {
+    "bbox": [
+      156,
+      1993,
+      328,
+      2071
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{x-1}{x+1}$."
+  },
+  {
+    "bbox": [
+      851,
+      1993,
+      1039,
+      2071
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{2x+3}{x-1}$."
+  },
+  {
+    "bbox": [
+      156,
+      2077,
+      328,
+      2157
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x+1}{x-1}$."
+  },
+  {
+    "bbox": [
+      851,
+      2077,
+      1039,
+      2157
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{x+1}{3x-3}$."
+  },
+  {
+    "bbox": [
+      1285,
+      1947,
+      1516,
+      2178
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1164,
+      2207,
+      1532,
+      2249
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1/4 – Mã đề thi 0107"
+  }
+]

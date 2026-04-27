@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      152,
+      77,
+      1560,
+      358
+    ],
+    "category": "Text",
+    "text": "thuyền máy để vận chuyển trái cây từ khu vường của mình đến hai tuyến đường $\\Delta_1: 2x + y - 4 = 0$ và $\\Delta_2: x + 2y - 2 = 0$ cho những người lái buôn từ nơi khác đến. Anh Điệp cần xác định một vị trí $M(x_0; y_0)$ thuộc khu vường của mình để tổng các khoảng cách từ vị trí $M$ đó đến hai tuyến đường $\\Delta_1, \\Delta_2$ là bé nhất. Hỏi khoảng cách từ vị trí được chọn làm gốc tọa độ đến điểm $M$ là bao nhiêu mét (làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      478,
+      416,
+      1285,
+      1053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      826,
+      1138,
+      939,
+      1177
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      1180,
+      375,
+      1218
+    ],
+    "category": "Text",
+    "text": "Đáp án: 34,1"
+  },
+  {
+    "bbox": [
+      193,
+      1241,
+      909,
+      1287
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có tiệm cận đứng $x = -b = 1 \\Rightarrow b = -1$."
+  },
+  {
+    "bbox": [
+      193,
+      1307,
+      1395,
+      1402
+    ],
+    "category": "Text",
+    "text": "Khi đó đồ thị hàm số $y = \\frac{x+a}{x-1}$ qua $(2; 3) \\Rightarrow 3 = \\frac{2+a}{2-1} \\Rightarrow a = 1$; hàm số là $\\left[ y = \\frac{x+1}{x-1} \\right]$ (C)."
+  },
+  {
+    "bbox": [
+      152,
+      1424,
+      1572,
+      1517
+    ],
+    "category": "Text",
+    "text": "Ta nhận thấy để khoảng cách từ điểm $m$ thuộc khu vường đến hai đường thẳng là nhỏ nhất thì điểm $M$ phải thuộc đồ thị hàm số."
+  },
+  {
+    "bbox": [
+      193,
+      1535,
+      1383,
+      1632
+    ],
+    "category": "Text",
+    "text": "Gọi $M\\left(x_0; \\frac{x_0+1}{x_0-1}\\right) \\in (C)$, $x_0 > 1$. Tổng khoảng cách từ $M$ đến hai đường thẳng $\\Delta_1, \\Delta_2$ là"
+  },
+  {
+    "bbox": [
+      197,
+      1658,
+      1084,
+      1802
+    ],
+    "category": "Formula",
+    "text": "$$\nd = d(M, \\Delta_1) + d(M, \\Delta_2) = \\frac{\\left|2x_0 + \\frac{x_0+1}{x_0-1} - 4\\right|}{\\sqrt{5}} + \\frac{\\left|x_0 + 2 \\cdot \\frac{x_0+1}{x_0-1} - 2\\right|}{\\sqrt{5}};\n$$"
+  },
+  {
+    "bbox": [
+      197,
+      1828,
+      1035,
+      1928
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{5}d = \\left|\\frac{2x_0^2 - 5x_0 + 5}{x_0 - 1}\\right| + \\left|\\frac{x_0^2 - x_0 + 4}{x_0 - 1}\\right| = \\frac{2x_0^2 - 5x_0 + 5}{x_0 - 1} + \\frac{x_0^2 - x_0 + 4}{x_0 - 1}\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1952,
+      621,
+      2110
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{(vì } \\begin{cases} 2x_0^2 - 5x_0 + 5 > 0 \\\\ x_0 - 1 > 0 \\\\ x_0^2 - x_0 + 4 > 0 \\end{cases}, \\forall x_0 > 1).\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      2136,
+      768,
+      2228
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đặt } \\sqrt{5}d = \\frac{3x_0^2 - 6x_0 + 9}{x_0 - 1} = g(x) \\text{ với } x > 1.\n$$"
+  }
+]

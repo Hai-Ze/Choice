@@ -1,0 +1,194 @@
+[
+  {
+    "bbox": [
+      93,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      158,
+      960,
+      541
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Nhà bác An có tất cả 8信道 cửa�t hình chữ nhật với chiều dài 2 m và chiều rộng 1 m. Hai mặt của mỗi信道 cửa được thiết kế như hình vẽ. Trong đó, phần được tô đâm được sơn màu xanh, phần còn lại được sơn màu trắng. Mỗi phần sơn màu trắng có đường biên cong là một phần của parabol có định nằm trên cạnh của hình chữ nhật. Biết rằng chi phí để sơn màu xanh là 120 nghìn đồng/m² và chi phí sơn màu trắng là 110 nghìn đồng/m². Hỏi để sơn toàn bộ cửa�t trên, bác An phải trả bao nhiêu triệu đồng (làm tròn kết quả đến hàng phần trăm theo đơn vị triệu đồng)?"
+  },
+  {
+    "bbox": [
+      998,
+      174,
+      1185,
+      511
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      536,
+      1197,
+      589
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      602,
+      1197,
+      954
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một doanh nghiệp kinh doanh một loại sản phẩm $T$ được sản xuất trong nước. Qua nghiên cứu thấy rằng nếu chi phí sản xuất mỗi sản phẩm $T$ là $x$ ($) thì số sản phẩm $T$ các nhà máy sản xuất sẽ là $R(x) = x - 200$ và số sản phẩm $T$ mà doanh nghiệp bán được trên thị trường trong nước sẽ là $Q(x) = 4200 - x$. Số sản phẩm còn dư doanh nghiệp xuất khẩu ra thị trường quốc tế với giá bán mỗi sản phẩm ổn định trên thị trường quốc tế là $x_0 = 3200$ ($). Nhà nước đánh thuế trên mỗi sản phẩm xuất khẩu là $a$ ($) và luôn đảm bảo tỉ lệ giữa lãi xuất khẩu của doanh nghiệp và thuế thu được của nhà nước tương ứng là $4 : 1$. Hãy xác định giá trị của $a$ biết lãi mà doanh nghiệp thu được do xuất khẩu là nhiều nhất. KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      906,
+      1197,
+      966
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      990,
+      809,
+      1489
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Trong một trò chơi điện tử, người chơi sẽ khởi đầu tại một trong năm vị trí xuất phát tại các điểm $A, B, C, D, O$. Ban đầu, người chơi sẽ có 50 HP (HP là từ viết tắt của “Health Points”) và người chơi sẽ đi từ điểm xuất phát đến các điểm còn lại để tiêu diệt dịch (các đường đi qua sẽ không thể quay trở lại). Ứng với mỗi đường đi qua, người chơi sẽ mất một lượng HP nhất định được ký hiệu trên sơ đồ dưới đây. Sau cùng, người chơi phải quay lại vị trí xuất phát và tiêu diệt dịch cuối cùng ngay tại đó. Biết đường đi cuối cùng này sẽ mất gấp đối lượng HP yêu cầu. Hỏi sau khi hoàn thành nhiệm vụ thì người chơi có thể giữ lại tối đa bao nhiêu HP?"
+  },
+  {
+    "bbox": [
+      842,
+      1007,
+      1180,
+      1209
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      1481,
+      1197,
+      1534
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      93,
+      1547,
+      1197,
+      1818
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Có ba đồng xu được待用 trong một集合 kín. Đồng xu thứ nhất là một đồng xu cân đối với tỷ lệ mặt sấp và mặt ngửa bằng nhau. Đồng xu thứ hai là một đồng xu bị lối có khả năng mặt ngửa xuất hiện là 70%. Đồng xu thứ ba là một đồng xu hai mặt ngửa (khi tung luôn ra mặt ngửa). Bạn An lấy ngẫu nhiên một đồng xu từ集合 và tung nó hai lần. Kết quả của hai lần tung cho thấy xuất hiện một lần mặt sấp và một lần mặt ngửa. Tính xác suất để đồng xu bạn đã chọn là đồng xu thứ hai (đồng xu bị lối) (kết quả làm tròn đến hàng phần trăm). KQ:"
+  },
+  {
+    "bbox": [
+      979,
+      1774,
+      1197,
+      1827
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      554,
+      1851,
+      595,
+      1882
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      613,
+      1843,
+      691,
+      1882
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      1851,
+      748,
+      1882
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 415"
+  }
+]

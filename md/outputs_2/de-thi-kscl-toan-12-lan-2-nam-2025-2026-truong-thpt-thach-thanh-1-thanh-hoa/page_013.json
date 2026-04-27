@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      153,
+      120,
+      700,
+      172
+    ],
+    "category": "Text",
+    "text": "Vậy $d(SC, BD) = d(A, (BDK)) = 0,75$."
+  },
+  {
+    "bbox": [
+      153,
+      239,
+      1493,
+      400
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một công ty vận tải cần giao hàng đến tất cả các thành phố A, B, C, D, E (hình vẽ bên dưới). Chi phí di chuyển giữa các thành phố được mô tả trên hình. Xe giao hàng của công ty xuất phát từ một thành phố trong năm thành phố trên đi qua tất cả các thành phố còn lại đúng một lần sau đó trở lại thành phố ban đầu. Tìm chi phí thấp nhất của xe giao hàng."
+  },
+  {
+    "bbox": [
+      547,
+      426,
+      1125,
+      770
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      433,
+      803,
+      1213,
+      1247
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Đường đi</td><td>Tổng số chi phí</td></tr></thead><tbody><tr><td>A → B → C → E → D → A</td><td>9+14+12+14+11 = 60</td></tr><tr><td>A → B → E → C → D → A</td><td>9+8+12+13+11 = 53</td></tr><tr><td>A → E → B → C → D → A</td><td>10+8+14+13+11 = 56</td></tr><tr><td>A → E → D → C → B → A</td><td>10+14+13+14+9 = 60</td></tr><tr><td>A → D → C → E → B → A</td><td>11+13+12+8+9 = 53</td></tr><tr><td>A → D → E → C → B → A</td><td>11+14+12+14+9 = 60</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1253,
+      1165,
+      1298
+    ],
+    "category": "Text",
+    "text": "Do đó, tổng số thử thách của đường đi nhận giá trị nhỏ nhất là 53."
+  },
+  {
+    "bbox": [
+      153,
+      1320,
+      1495,
+      1489
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho $f(x)$ là hàm số liên tục trên $\\mathbb{R}$, biết $f(x) = 16x^3 - 15x^2 + 2x\\int_{1}^{2} f(t)dt - 21$. Giá trị của $f(2)$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      834,
+      1540,
+      948,
+      1578
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      292,
+      1621,
+      458,
+      1658
+    ],
+    "category": "Text",
+    "text": "Đáp án: 39."
+  },
+  {
+    "bbox": [
+      292,
+      1701,
+      1027,
+      1797
+    ],
+    "category": "Text",
+    "text": "Giả sử $\\int_{1}^{2} f(t)dt = a$ và $f(x) = 16x^3 - 15x^2 + 2ax - 21$."
+  },
+  {
+    "bbox": [
+      292,
+      1845,
+      467,
+      1879
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có:"
+  },
+  {
+    "bbox": [
+      292,
+      1925,
+      1286,
+      2023
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{1}^{2} (16t^3 - 15t^2 + 2at - 21)dt = a \\Rightarrow \\int_{1}^{2} 2atdt + \\int_{1}^{2} (16t^3 - 15t^2 - 21)dt \\Rightarrow a = -2.\n$$"
+  },
+  {
+    "bbox": [
+      292,
+      2070,
+      996,
+      2117
+    ],
+    "category": "Text",
+    "text": "Do đó: $f(x) = 16x^3 - 15x^2 - 4x - 21$ nên $f(2) = 39$."
+  }
+]

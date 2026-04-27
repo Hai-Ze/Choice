@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1356,
+      182
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hàm số bậc ba $y = ax^3 + bx^2 + cx + d(a \\neq 0)$ có đồ thị như hình vẽ."
+  },
+  {
+    "bbox": [
+      664,
+      186,
+      1027,
+      717
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      736,
+      1084,
+      778
+    ],
+    "category": "Text",
+    "text": "Hàm số nghịch biến trên khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      191,
+      797,
+      399,
+      841
+    ],
+    "category": "List-item",
+    "text": "A) $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      535,
+      797,
+      699,
+      841
+    ],
+    "category": "List-item",
+    "text": "B) $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      879,
+      797,
+      1061,
+      841
+    ],
+    "category": "List-item",
+    "text": "C) $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1224,
+      797,
+      1383,
+      841
+    ],
+    "category": "List-item",
+    "text": "D) $(-4; 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      854,
+      1547,
+      957
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Quan sát đồ thị hàm số, ta thấy trên khoảng $(-1; 1)$, đồ thị có hướng đi xuống từ trái sang phải. Do đó, hàm số nghịch biến trên khoảng $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      975,
+      1547,
+      1062
+    ],
+    "category": "Text",
+    "text": "Câu 6. Miền không bị gạch chéo trong hình vẽ (kể cả bờ) là miền nghiệm của hệ bất phương trình nào dưới đây?"
+  },
+  {
+    "bbox": [
+      672,
+      1074,
+      1016,
+      1427
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1493,
+      472,
+      1658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 2x + y \\le 4 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      877,
+      1493,
+      1158,
+      1658
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\begin{cases} x \\le 0 \\\\ y \\ge 0 \\\\ 2x + y \\le 4 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      191,
+      1658,
+      472,
+      1819
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\begin{cases} x \\ge 0 \\\\ y \\le 0 \\\\ 2x - y \\le 4 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      877,
+      1658,
+      1158,
+      1819
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 2x - y \\le 4 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1821,
+      1417,
+      1882
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Miền nghiệm nằm trong góc phần tư thứ nhất nên $x \\ge 0$ và $y \\ge 0$."
+  },
+  {
+    "bbox": [
+      202,
+      1882,
+      1349,
+      1927
+    ],
+    "category": "Text",
+    "text": "Đường thẳng đi qua $A(0; 4)$ và $B(2; 0)$ có phương trình $\\frac{x}{2} + \\frac{y}{4} = 1 \\Leftrightarrow 2x + y = 4$."
+  },
+  {
+    "bbox": [
+      153,
+      1927,
+      1547,
+      2011
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ điểm gốc tọa độ $O(0; 0)$ vào ta thấy $2(0) + 0 = 0 < 4$. Vì miền nghiệm chứa điểm $O$ nên ta chọn $2x + y \\le 4$."
+  },
+  {
+    "bbox": [
+      202,
+      2007,
+      830,
+      2172
+    ],
+    "category": "Text",
+    "text": "Vậy hệ bất phương trình là $\\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 2x + y \\le 4 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      75,
+      2251,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "90"
+  },
+  {
+    "bbox": [
+      839,
+      2251,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

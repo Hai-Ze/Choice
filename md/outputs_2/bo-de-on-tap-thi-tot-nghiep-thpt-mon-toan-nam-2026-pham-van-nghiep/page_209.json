@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      217,
+      109,
+      839,
+      481
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\nP(E_1 | B) &= \\frac{P(E_1 B)}{P(B)} = \\frac{P(E_1 B)}{P(E_1 B) + P(E_2 B)} \\\\\n&= \\frac{P(E_1) P(B | E_1)}{P(E_1) P(B | E_1) + P(E_2) P(B | E_2)} \\\\\n&= \\frac{\\frac{1}{2} \\cdot \\frac{2}{3}}{\\frac{1}{2} \\cdot \\frac{2}{3} + \\frac{1}{2} \\cdot \\frac{8}{9}} = \\frac{3}{7} \\approx 0,43.\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      488,
+      1201,
+      538
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một vật trang trí (T) là khối tròn xoay có hình dạng (H1) như sau:"
+  },
+  {
+    "bbox": [
+      266,
+      572,
+      1491,
+      1019
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1054,
+      1555,
+      1281
+    ],
+    "category": "Text",
+    "text": "Cắt vật thể (T) bởi một mặt phẳng đi qua trục $PQ$ ta được hình phẳng giới hạn bởi elip có độ dài trục lớn $A_1A_2$ bằng 8cm, độ dài trục nhỏ $B_1B_2$ bằng 4cm và hai đường parabol có chung đỉnh, đối xứng nhau qua trục $PQ$ như hình (H2). Biết $P$ và $Q$ là hai tiêu điểm của elip. Thế tích khối vật thể (T) bằng (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      1293,
+      953,
+      1334
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1338,
+      419,
+      1379
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6,08."
+  },
+  {
+    "bbox": [
+      546,
+      1406,
+      1230,
+      1786
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1813,
+      1088,
+      1858
+    ],
+    "category": "Text",
+    "text": "Lắp hệ trục như hình vẽ, và ta chỉ xét góc phần tư thứ nhất."
+  },
+  {
+    "bbox": [
+      211,
+      1858,
+      1422,
+      1906
+    ],
+    "category": "Text",
+    "text": "Độ dài trục lớn $A_1A_2$ bằng 8cm, độ dài trục nhỏ $B_1B_2$ bằng 4cm suy ra: $a = 4; b = 2$."
+  },
+  {
+    "bbox": [
+      211,
+      1908,
+      579,
+      1962
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } c = \\sqrt{a^2 - b^2} = 2\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1966,
+      745,
+      2031
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } A_2(4;0), B_2(2;0), P(2\\sqrt{3};0).\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2040,
+      906,
+      2137
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình elip: } \\frac{x^2}{16} + \\frac{y^2}{4} = 1 \\Rightarrow y = \\pm 2\\sqrt{1 - \\frac{x^2}{16}}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2141,
+      1288,
+      2206
+    ],
+    "category": "Text",
+    "text": "Gọi $I(2\\sqrt{3}; y_1)$ là giao điểm của parabol và elip (ở góc phần tư thứ nhất)."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

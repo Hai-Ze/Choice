@@ -1,0 +1,299 @@
+[
+  {
+    "bbox": [
+      168,
+      58,
+      1596,
+      292
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>máu này). Xác suất để việc truyền máu diễn ra bằng 27% (làm tròn đến hàng đơn vị của %).</td><td></td><td></td></tr><tr><td>d) Nếu ta chưa biết thông tin gì về nhóm máu của người hiến器血 và người sẽ nhận器血 thì xác suất để có thể thực hiện truyền器血 bằng 0,62 (làm tròn đến hàng phần trăm).</td><td>☐</td><td>☐</td></tr></table>"
+  },
+  {
+    "bbox": [
+      740,
+      297,
+      966,
+      339
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      335,
+      1530,
+      424
+    ],
+    "category": "Text",
+    "text": "Gọi $H, O, A, B, C$ là các biến cố: “có thể thực hiện truyền器血”, “người nhận có nhóm器血 O”, “người nhận có nhóm器血 A”, “người nhận có nhóm器血 B”, “người nhận có nhóm器血 AB”."
+  },
+  {
+    "bbox": [
+      217,
+      420,
+      473,
+      462
+    ],
+    "category": "Section-header",
+    "text": "a) M event đề đúng."
+  },
+  {
+    "bbox": [
+      217,
+      464,
+      691,
+      511
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(H|O) = 33,7\\% = 0,337$."
+  },
+  {
+    "bbox": [
+      217,
+      513,
+      441,
+      558
+    ],
+    "category": "Section-header",
+    "text": "b) M event đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      552,
+      1538,
+      644
+    ],
+    "category": "Text",
+    "text": "Vì người có nhóm器血 A sẽ hiến器血 để truyền được cho người có nhóm器血 A hoặc AB nên xác suất để việc truyền器血 diễn ra là $P(H_1) = 37,5\\% + 7,9\\% = 0,454$."
+  },
+  {
+    "bbox": [
+      217,
+      646,
+      471,
+      692
+    ],
+    "category": "Section-header",
+    "text": "c) M event đề đúng."
+  },
+  {
+    "bbox": [
+      217,
+      686,
+      1584,
+      807
+    ],
+    "category": "Text",
+    "text": "Người hiến器血 có nhóm器血 A nên người nhận phải có nhóm器血 AB thì việc truyền器血 sẽ diễn ra. Ta cần tìm xác suất để người nhận có nhóm器血 AB khi biết họ không thuộc các nhóm器血 O, A. Vậy xác suất cần tính là:"
+  },
+  {
+    "bbox": [
+      222,
+      807,
+      1474,
+      927
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_2) = P(AB | \\overline{(O \\cup A)}) = \\frac{P(AB \\cap \\overline{O} \\cap \\overline{A})}{P(\\overline{(O \\cup A)})} = \\frac{P(AB)}{P(\\overline{(O \\cup A)})} = \\frac{7,9\\%}{1-33,7\\%-37,5\\%} = \\frac{79}{288} \\approx 27\\%.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      929,
+      441,
+      973
+    ],
+    "category": "Section-header",
+    "text": "d) M event đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      973,
+      1243,
+      1022
+    ],
+    "category": "Text",
+    "text": "Vì $\\{O; A; B; C\\}$ là một hệ đầy đủ, theo công thức xác suất toàn phần ta có:"
+  },
+  {
+    "bbox": [
+      222,
+      1030,
+      1338,
+      1136
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} P(H) &= P(O)P(H|O) + P(A)P(H|A) + P(B)P(H|B) + P(C)P(H|C) \\\\ &= 0,337 \\cdot 0,337 + 0,375 \\cdot (0,375 + 0,337) + 0,209 \\cdot (0,209 + 0,337) + 0,079 \\cdot 1 \\approx 0,57. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      488,
+      1177,
+      1216,
+      1222
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN"
+  },
+  {
+    "bbox": [
+      92,
+      1222,
+      1591,
+      1385
+    ],
+    "category": "List-item",
+    "text": "Câu 17. Một hợp tác xã cần vận chuyển 3600 kg sầu riêng trong 1夏季 vụ. Hợp tác xã chia thành nhiều chuyển, mỗi chuyển chở $x$ kg ($1 \\le x \\le 3600, x \\in \\mathbb{N}^*$), và giả sử $x$ là ước của 3600 để chia đều số chuyển. Chi phí cho mỗi chuyển gồm:"
+  },
+  {
+    "bbox": [
+      217,
+      1391,
+      775,
+      1435
+    ],
+    "category": "List-item",
+    "text": "- Phí xe cố định: 50 nghìn đồng/chduy."
+  },
+  {
+    "bbox": [
+      217,
+      1435,
+      1087,
+      1479
+    ],
+    "category": "List-item",
+    "text": "- Phí bảo quản慢 rate theo tải: $0,005x^2$ (nghìn đồng/chduy)."
+  },
+  {
+    "bbox": [
+      217,
+      1479,
+      1108,
+      1524
+    ],
+    "category": "Text",
+    "text": "Hỏi mỗi chuyển nên chở bao nhiêu kg để tổng chi phí là nhỏ nhất?"
+  },
+  {
+    "bbox": [
+      217,
+      1524,
+      541,
+      1577
+    ],
+    "category": "Text",
+    "text": "Trả lời: ☐ ☐ ☐ ☐"
+  },
+  {
+    "bbox": [
+      217,
+      1581,
+      382,
+      1625
+    ],
+    "category": "Text",
+    "text": "Đáp số: 100"
+  },
+  {
+    "bbox": [
+      1131,
+      1282,
+      1598,
+      1592
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      740,
+      1627,
+      966,
+      1670
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1670,
+      1264,
+      1752
+    ],
+    "category": "Text",
+    "text": "Số chuyển cần thực hiện là $\\frac{3600}{x}$. Chi phí mỗi chuyển: $50 + 0,005x^2$ (nghìn)."
+  },
+  {
+    "bbox": [
+      217,
+      1762,
+      922,
+      1844
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } C(x) = \\frac{3600}{x}(50 + 0,005x^2) = \\frac{180000}{x} + 18x.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1854,
+      1231,
+      1946
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Áp dụng AM-GM: } 18x + \\frac{180000}{x} \\ge 2\\sqrt{18x \\cdot \\frac{180000}{x}} = 2\\sqrt{3240000} = 3600.\n$$"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      166,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1143,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1147,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1565,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "6"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1461,
+      136
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Kết quả điều tra về số giờ làm thêm trong một tuần của 100 sinh viên được cho ở biểu đồ bên."
+  },
+  {
+    "bbox": [
+      518,
+      156,
+      1027,
+      729
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      754,
+      585,
+      798
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tức phân vị của số liệu đó."
+  },
+  {
+    "bbox": [
+      126,
+      817,
+      251,
+      852
+    ],
+    "category": "List-item",
+    "text": "A. 4,24."
+  },
+  {
+    "bbox": [
+      476,
+      817,
+      594,
+      852
+    ],
+    "category": "List-item",
+    "text": "B. 3,47."
+  },
+  {
+    "bbox": [
+      826,
+      817,
+      946,
+      852
+    ],
+    "category": "List-item",
+    "text": "C. 4,35."
+  },
+  {
+    "bbox": [
+      1178,
+      817,
+      1299,
+      852
+    ],
+    "category": "List-item",
+    "text": "D. 3,27."
+  },
+  {
+    "bbox": [
+      727,
+      881,
+      843,
+      919
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      940,
+      198,
+      978
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      990,
+      1446,
+      1088
+    ],
+    "category": "Text",
+    "text": "Từ mẫu số liệu ghép nhóm, ta có bảng thống kê số giờ làm thêm trong một tuần của 100 sinh viên như sau:"
+  },
+  {
+    "bbox": [
+      98,
+      1108,
+      1472,
+      1300
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số giờ làm thêm</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td></tr><tr><td>Số giờ làm thêm đại diện</td><td>3</td><td>5</td><td>7</td><td>9</td><td>11</td></tr><tr><td>Số sinh viên</td><td>12</td><td>20</td><td>37</td><td>21</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1356,
+      309,
+      1395
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu $n=100$."
+  },
+  {
+    "bbox": [
+      76,
+      1417,
+      967,
+      1463
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2; \\dots; x_{100}$ là mẫu số liệu được xếp theo thứ tự không giảm."
+  },
+  {
+    "bbox": [
+      76,
+      1492,
+      931,
+      1572
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ hai của dãy số liệu $x_1; x_2; \\dots; x_{100}$ là $\\frac{1}{2}(x_{50} + x_{51})$."
+  },
+  {
+    "bbox": [
+      76,
+      1597,
+      1059,
+      1716
+    ],
+    "category": "Text",
+    "text": "Do $x_{50}$ và $x_{51}$ thuộc nhóm [6;8) nên $Q_2 = 6 + \\frac{\\frac{2 \\cdot 100}{4} - 32}{37} \\cdot (8 - 6) \\approx 6,97$."
+  },
+  {
+    "bbox": [
+      76,
+      1743,
+      1461,
+      1824
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của dãy số liệu $x_1; x_2; \\dots; x_{100}$ là $\\frac{1}{2}(x_{25} + x_{26})$. Do $x_{25}$ và $x_{26}$ thuộc nhóm [4;6) nên"
+  },
+  {
+    "bbox": [
+      80,
+      1849,
+      526,
+      1968
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 4 + \\frac{\\frac{1 \\cdot 100}{4} - 12}{20} \\cdot (6 - 4) = 5,3.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1995,
+      1448,
+      2075
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của dãy số liệu $x_1; x_2; \\dots; x_{100}$ là $\\frac{1}{2}(x_{75} + x_{76})$. Do $x_{75}$ và $x_{76}$ thuộc nhóm [8;10) nên"
+  },
+  {
+    "bbox": [
+      80,
+      2102,
+      565,
+      2221
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 8 + \\frac{\\frac{3 \\cdot 100}{4} - 69}{21} \\cdot (10 - 8) \\approx 8,57.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2256,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

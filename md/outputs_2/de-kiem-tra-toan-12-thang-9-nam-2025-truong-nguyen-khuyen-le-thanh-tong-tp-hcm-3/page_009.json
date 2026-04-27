@@ -1,0 +1,117 @@
+[
+  {
+    "bbox": [
+      91,
+      101,
+      1177,
+      244
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Cho hình chóp $S.ABCD$ có $SA$ vuông góc với đáy. Biết $SA = a$, $ABCD$ là hình chữ nhật với $AB = a$, $BC = 2a$ và $M$ là trung điểm của $CD$."
+  },
+  {
+    "bbox": [
+      1207,
+      101,
+      1588,
+      431
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      426,
+      1596,
+      822
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) $\\overrightarrow{SB} - \\overrightarrow{MB} = \\overrightarrow{SC} + \\overrightarrow{SD}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) $\\cos(\\overrightarrow{SA}, \\overrightarrow{SM}) = \\frac{2\\sqrt{21}}{21}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) $|\\overrightarrow{AM} - \\overrightarrow{SA}| = a\\sqrt{21}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) $\\overrightarrow{SM} \\cdot \\overrightarrow{AB} = \\frac{1}{2}a^2$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      91,
+      863,
+      1123,
+      1091
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Từ một tấm kẽm hình vuông $ABCD$ có cạnh bằng $30 \\text{ cm}$, người ta muốn gập tấm kẽm theo hai cạnh $EF$ và $GH$ cho đến khi $AD$ và $BC$ trùng nhau như hình vẽ bên để được một hình lăng trụ khuyết hai đáy. Biết rằng $AD//EF//GH//BC$. Đặt $DF = CH = x (\\text{cm})$ với $7,5 < x < 15$."
+  },
+  {
+    "bbox": [
+      1141,
+      877,
+      1591,
+      1190
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1188,
+      1596,
+      1510
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) $EG = FH = 30 - x$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Diện tích tam giác $AEG$ bằng $\\sqrt{15(15-x)^2(2x-15)}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Gọi $f(x) = (15-x)^2(2x-15)$, $x \\in (7,5; 15)$ thì $f'(x) = (x-15)(3x-30)$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Thể tích khối lăng trụ $AGE.CHF$ lớn nhất bằng $V_{\\max} = 700\\sqrt{3} \\text{ cm}^3$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      91,
+      1597,
+      1594,
+      1988
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Trong không gian $Oxyz$ cho trước với mặt nước phẳng lặng trùng với mặt phẳng $(Oxy)$, đơn vị trên mỗi trục là mét; có hai con chim bói cá ở các vị trí $A(90; 0; 25)$, $B(80; 30; 15)$ trên các cành cây đang cùng ngắm mục tiêu là một chú cá đang bơi trên mặt hồ. Khi cá nằm im ở vị trí $C(20; 10; 0)$ thì hai con chim quyết định tấn công mục tiêu của mình. Chim bói cá ở vị trí $A$ xuất phát trước con còn lại 1 giây và bay về phía con cá với vận tốc $12 \\text{ m/s}$; chim bói cá còn lại cũng tấn công mục tiêu với vận tốc $15 \\text{ m/s}$."
+  },
+  {
+    "bbox": [
+      812,
+      1767,
+      975,
+      1998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      999,
+      1767,
+      1340,
+      1998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1360,
+      1767,
+      1596,
+      1998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1498,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 852"
+  },
+  {
+    "bbox": [
+      1540,
+      2021,
+      1558,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

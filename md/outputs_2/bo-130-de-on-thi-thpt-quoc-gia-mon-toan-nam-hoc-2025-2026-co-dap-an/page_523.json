@@ -1,0 +1,518 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1505,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      93,
+      159,
+      519,
+      315
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ. Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      550,
+      170,
+      1183,
+      444
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$-2$</td><td>$-1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td colspan=\"3\">$+ \\quad 0 \\quad -$</td><td colspan=\"2\">$- \\quad 0 \\quad +$</td></tr><tr><td>$y$</td><td colspan=\"3\">$-2$</td><td colspan=\"2\">$+\\infty$</td></tr><tr><td></td><td>$-\\infty$</td><td colspan=\"2\">$-\\infty$</td><td colspan=\"2\">$0$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      124,
+      313,
+      288,
+      354
+    ],
+    "category": "List-item",
+    "text": "(A) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      124,
+      356,
+      288,
+      397
+    ],
+    "category": "List-item",
+    "text": "(B) $(-\\infty; 2)$."
+  },
+  {
+    "bbox": [
+      124,
+      399,
+      311,
+      442
+    ],
+    "category": "List-item",
+    "text": "(C) $(-2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      124,
+      442,
+      335,
+      513
+    ],
+    "category": "List-item",
+    "text": "(D) $\\left(-\\frac{3}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      93,
+      528,
+      1197,
+      609
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Trong không gian $Oxyz$, cho mặt phẳng ($P$) có phương trình $4x-2y+2025 = 0$. Véc-tơ nào sau đây là véc-tơ pháp tuyến của mặt phẳng ($P$)?"
+  },
+  {
+    "bbox": [
+      124,
+      607,
+      389,
+      648
+    ],
+    "category": "List-item",
+    "text": "(A) $\\vec{n}_1 (4; -2; 2025)$."
+  },
+  {
+    "bbox": [
+      669,
+      607,
+      889,
+      648
+    ],
+    "category": "List-item",
+    "text": "(B) $\\vec{n}_3 (-2; 1; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      650,
+      321,
+      693
+    ],
+    "category": "List-item",
+    "text": "(C) $\\vec{n}_4 (1; 2; 0)$."
+  },
+  {
+    "bbox": [
+      669,
+      650,
+      864,
+      693
+    ],
+    "category": "List-item",
+    "text": "(D) $\\vec{n}_2 (2; 1; 0)$."
+  },
+  {
+    "bbox": [
+      93,
+      710,
+      1197,
+      868
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Biết hàm số $F(x) = x^2$ là một nguyên hàm của hàm số $f(x)$ trên $\\mathbb{R}$. Tích phân $\\int_{1}^{2} f(x) \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      870,
+      196,
+      911
+    ],
+    "category": "List-item",
+    "text": "(A) 1."
+  },
+  {
+    "bbox": [
+      395,
+      870,
+      491,
+      911
+    ],
+    "category": "List-item",
+    "text": "(B) $-3$."
+  },
+  {
+    "bbox": [
+      669,
+      870,
+      741,
+      911
+    ],
+    "category": "List-item",
+    "text": "(C) 3."
+  },
+  {
+    "bbox": [
+      941,
+      870,
+      1013,
+      911
+    ],
+    "category": "List-item",
+    "text": "(D) 5."
+  },
+  {
+    "bbox": [
+      93,
+      952,
+      708,
+      1069
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Gọi $S_1$ và $S_2$ là diện tích của hai hình phẳng giới hạn bởi đồ thị của hàm số $y = f(x)$ và trục hoành như hình vẽ dưới đây. Tích phân"
+  },
+  {
+    "bbox": [
+      89,
+      1067,
+      328,
+      1184
+    ],
+    "category": "Text",
+    "text": "$\\int_{-2}^{2} |f(x)| \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1186,
+      305,
+      1227
+    ],
+    "category": "List-item",
+    "text": "(A) $-S_1 - S_2$."
+  },
+  {
+    "bbox": [
+      424,
+      1186,
+      581,
+      1227
+    ],
+    "category": "List-item",
+    "text": "(B) $S_1 + S_2$."
+  },
+  {
+    "bbox": [
+      124,
+      1229,
+      282,
+      1272
+    ],
+    "category": "List-item",
+    "text": "(C) $S_1 - S_2$."
+  },
+  {
+    "bbox": [
+      424,
+      1229,
+      604,
+      1272
+    ],
+    "category": "List-item",
+    "text": "(D) $-S_1 + S_2$."
+  },
+  {
+    "bbox": [
+      736,
+      968,
+      1191,
+      1275
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1287,
+      1197,
+      1368
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian $Oxyz$, cho mặt cầu ($S$) có phương trình $x^2 + y^2 + z^2 - 2x - 4y + 6z - 2 = 0$. Dường kính của mặt cầu ($S$) bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1366,
+      196,
+      1407
+    ],
+    "category": "List-item",
+    "text": "(A) 8."
+  },
+  {
+    "bbox": [
+      395,
+      1366,
+      483,
+      1407
+    ],
+    "category": "List-item",
+    "text": "(B) 16."
+  },
+  {
+    "bbox": [
+      669,
+      1366,
+      798,
+      1407
+    ],
+    "category": "List-item",
+    "text": "(C) $2\\sqrt{14}$."
+  },
+  {
+    "bbox": [
+      941,
+      1366,
+      1013,
+      1407
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      93,
+      1425,
+      1197,
+      1597
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho đường thẳng $d$: $\\begin{cases} x = -1 + t \\\\ y = 1 + 3t \\\\ z = -3 - t \\end{cases}$. Diểm nào dưới đây thuộc $d$?"
+  },
+  {
+    "bbox": [
+      124,
+      1597,
+      337,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(A) $M (1; -1; 3)$."
+  },
+  {
+    "bbox": [
+      395,
+      1597,
+      629,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(B) $N (0; -2; -2)$."
+  },
+  {
+    "bbox": [
+      669,
+      1597,
+      873,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(C) $Q (0; 4; -4)$."
+  },
+  {
+    "bbox": [
+      941,
+      1597,
+      1143,
+      1639
+    ],
+    "category": "List-item",
+    "text": "(D) $P (0; -4; 4)$."
+  },
+  {
+    "bbox": [
+      93,
+      1656,
+      1197,
+      1773
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Một vật chuyển động chậm dần đều với vận tốc $v(t) = 160 - 10t$ (m/s). Tính quăng đường $s$ mà vật di chuyển trong khoảng thời gian từ thời điểm $t = 0$ (s) đến thời điểm vật停止 lại."
+  },
+  {
+    "bbox": [
+      124,
+      1773,
+      331,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(A) $s = 3840$ m."
+  },
+  {
+    "bbox": [
+      395,
+      1773,
+      601,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(B) $s = 2560$ m."
+  },
+  {
+    "bbox": [
+      669,
+      1773,
+      873,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(C) $s = 2840$ m."
+  },
+  {
+    "bbox": [
+      941,
+      1773,
+      1143,
+      1814
+    ],
+    "category": "List-item",
+    "text": "(D) $s = 1280$ m."
+  },
+  {
+    "bbox": [
+      108,
+      1833,
+      823,
+      1886
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1896,
+      1141,
+      1937
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $f(x) = \\cos 2x - x$. Xét tính Đúng sai của các мыnhi đề sau"
+  },
+  {
+    "bbox": [
+      124,
+      1935,
+      645,
+      2002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } f\\left(-\\frac{\\pi}{2}\\right) = \\frac{\\pi}{2} - 1; f\\left(\\frac{\\pi}{2}\\right) = -\\frac{\\pi}{2} - 1.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      2000,
+      856,
+      2037
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Đạo hàm của hàm số đã cho là } f'(x) = 2 \\sin 2x - 1.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      2035,
+      1191,
+      2165
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Phương trình } f'(x) = 0 \\text{ có Đúng hai nghiệm trên đoạn } \\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right] \\text{ là } x = -\\frac{\\pi}{12} \\text{ và } x = \\frac{5\\pi}{12}.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      2159,
+      1090,
+      2226
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Giá trị nhỏ nhất của hàm số } y = f(x) \\text{ trên đoạn } \\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right] \\text{ là } -\\frac{\\pi}{2} - 1.\n$$"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1507,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "521"
+  }
+]

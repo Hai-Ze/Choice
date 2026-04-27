@@ -1,0 +1,497 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      951,
+      40,
+      983,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1000,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      54,
+      356,
+      142,
+      404
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      70,
+      446,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation của hàm số $y = 2^x$ là"
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1192,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      662,
+      275,
+      1338,
+      332
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 36"
+  },
+  {
+    "bbox": [
+      862,
+      332,
+      1138,
+      384
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      635,
+      388,
+      1367,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      511,
+      1516,
+      567
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      575,
+      1024,
+      616
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Nguyên hàm của hàm số $y = 2^x$ là"
+  },
+  {
+    "bbox": [
+      477,
+      612,
+      765,
+      686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\int 2^x dx = 2^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      612,
+      1376,
+      686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\int 2^x dx = \\ln 2 \\cdot 2^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      680,
+      790,
+      756
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\int 2^x dx = \\frac{2^x}{\\ln 2} + C.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      680,
+      1356,
+      756
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\int 2^x dx = \\frac{2^x}{x+1} + C.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      771,
+      1553,
+      887
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a, b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ được tính theo công thức"
+  },
+  {
+    "bbox": [
+      477,
+      887,
+      743,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad S = \\int_{a}^{b} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      887,
+      1271,
+      1002
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad S = \\int_{a}^{b} f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1002,
+      753,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = - \\int_{a}^{b} f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      1002,
+      1286,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\int_{b}^{a} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      1137,
+      1553,
+      1216
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Doanh thu bán hàng trong 20 ngày được lựa chọn ngẫu nhiên của một cửa hàng được ghi lại ở bảng sau (đơn vị: triệu đồng)"
+  },
+  {
+    "bbox": [
+      656,
+      1243,
+      1344,
+      1344
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1372,
+      1503,
+      1409
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu trên thuộc khoảng nào trong các khoảng dưới đây?"
+  },
+  {
+    "bbox": [
+      477,
+      1407,
+      595,
+      1449
+    ],
+    "category": "List-item",
+    "text": "A [7; 9)."
+  },
+  {
+    "bbox": [
+      749,
+      1407,
+      885,
+      1449
+    ],
+    "category": "List-item",
+    "text": "B [9; 11)."
+  },
+  {
+    "bbox": [
+      1024,
+      1407,
+      1168,
+      1449
+    ],
+    "category": "List-item",
+    "text": "C [11; 13)."
+  },
+  {
+    "bbox": [
+      1294,
+      1407,
+      1444,
+      1449
+    ],
+    "category": "List-item",
+    "text": "D [13; 15)."
+  },
+  {
+    "bbox": [
+      449,
+      1466,
+      1553,
+      1545
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$, cho hai điểm $M(1; 2; 1)$ và $N(3; 1; -2)$. Đường thẳng $MN$ có phương trình là"
+  },
+  {
+    "bbox": [
+      477,
+      1541,
+      841,
+      1613
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\frac{x+1}{4} = \\frac{y+2}{3} = \\frac{z+1}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      1541,
+      1383,
+      1613
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\frac{x-1}{2} = \\frac{y-2}{-1} = \\frac{z-1}{-3}.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1607,
+      841,
+      1679
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\frac{x-1}{4} = \\frac{y-2}{3} = \\frac{z-1}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      1024,
+      1607,
+      1383,
+      1679
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\frac{x+1}{2} = \\frac{y+2}{-1} = \\frac{z+1}{-3}.\n$$"
+  },
+  {
+    "bbox": [
+      449,
+      1692,
+      1218,
+      1733
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      605,
+      1761,
+      1394,
+      2034
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      449,
+      2071,
+      1430,
+      2108
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng của đồ thị hàm số đã cho là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      477,
+      2106,
+      631,
+      2148
+    ],
+    "category": "List-item",
+    "text": "A $x = -1$."
+  },
+  {
+    "bbox": [
+      749,
+      2106,
+      901,
+      2148
+    ],
+    "category": "List-item",
+    "text": "B $x = -2$."
+  },
+  {
+    "bbox": [
+      1024,
+      2106,
+      1168,
+      2148
+    ],
+    "category": "List-item",
+    "text": "C $y = -1$."
+  },
+  {
+    "bbox": [
+      1294,
+      2106,
+      1444,
+      2148
+    ],
+    "category": "List-item",
+    "text": "D $y = -2$."
+  },
+  {
+    "bbox": [
+      449,
+      2165,
+      1142,
+      2207
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Với $a$ là số thực dương tùy ý, $\\log_4(4a)$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      2205,
+      657,
+      2247
+    ],
+    "category": "List-item",
+    "text": "A $1 + \\log_4 a$."
+  },
+  {
+    "bbox": [
+      749,
+      2205,
+      929,
+      2247
+    ],
+    "category": "List-item",
+    "text": "B $1 - \\log_4 a$."
+  },
+  {
+    "bbox": [
+      1024,
+      2205,
+      1200,
+      2247
+    ],
+    "category": "List-item",
+    "text": "C $4 - \\log_4 a$."
+  },
+  {
+    "bbox": [
+      1294,
+      2205,
+      1479,
+      2247
+    ],
+    "category": "List-item",
+    "text": "D $4 + \\log_4 a$."
+  },
+  {
+    "bbox": [
+      136,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "182 Bùi Tịnh Minh Lâm"
+  }
+]

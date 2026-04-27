@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      151,
+      972,
+      273
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      332,
+      1572,
+      491
+    ],
+    "category": "Text",
+    "text": "a) Ta có xe chuyển động tăng tốc với vận tốc $v_1(t) = at$. Do đó, thời gian từ khi xe bắt đầu chuyển động đến khi xe đạt vận tốc 80 m/s là $t_1 = \\frac{80}{a}(s)$."
+  },
+  {
+    "bbox": [
+      156,
+      510,
+      1572,
+      627
+    ],
+    "category": "Text",
+    "text": "b) Ta có xe chuyển động với vận tốc không đổi $v_2 = 80$ m/s trong thời gian $t_2 = 56$ giây, suy ra quăng đường xe đi được là $s_2 = v_2 \\cdot t_2 = 80 \\cdot 56 = 4480$ m = 4,48 km."
+  },
+  {
+    "bbox": [
+      156,
+      654,
+      1572,
+      898
+    ],
+    "category": "Text",
+    "text": "c) Do xe giảm vận tốc với gia tốc $b$ (m/s²) không đổi cho đến khi停止 lại, suy ra vận tốc là $v_3(t) = \\int(-b(t))dt = -bt + C$ với $t$ là thời gian tính từ khi xe bắt đầu giảm tốc độ; $v_3(0) = 80 \\Rightarrow v_3(t) = 80 - bt$. Vậy, thời gian từ khi xe giảm tốc độ đến khi xe停止 lại là $t_3 = \\frac{80}{b}(s)$."
+  },
+  {
+    "bbox": [
+      156,
+      921,
+      1338,
+      1004
+    ],
+    "category": "Text",
+    "text": "Tổng thời gian chuyển động của xe là $\\frac{80}{a} + 56 + \\frac{80}{b} = 74 \\Rightarrow \\frac{80}{a} + \\frac{80}{b} = 18 \\Rightarrow \\frac{40}{a} + \\frac{40}{b} = 9$."
+  },
+  {
+    "bbox": [
+      156,
+      1026,
+      1254,
+      1149
+    ],
+    "category": "Text",
+    "text": "d) Ta có $s_1 = \\int_0^{t_1} atdt = \\int_0^{t_1} atdt = \\frac{1}{2} \\cdot \\frac{80^2}{a}(m)$, $s_2 = v \\cdot t = 80 \\cdot 56 = 4480$ m = 4,48 km,"
+  },
+  {
+    "bbox": [
+      162,
+      1174,
+      788,
+      1297
+    ],
+    "category": "Formula",
+    "text": "$$\ns_3 = \\int_0^{t_3} (80 - bt)dt = \\int_0^{t_3} (80 - bt)dt = \\frac{1}{2} \\cdot \\frac{80^2}{b}(m).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1321,
+      1428,
+      1409
+    ],
+    "category": "Text",
+    "text": "Tổng quăng đường xe đi được trong 74 giây là $s = \\frac{1}{2} \\cdot 80 \\left( \\frac{80}{a} + \\frac{80}{b} \\right) + 4480 = 5200$ m = 5,2 km."
+  },
+  {
+    "bbox": [
+      156,
+      1430,
+      1575,
+      1867
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một đài kiểm soát không lưu tại sân bay có nhiệm vụ kiểm soát, điều hành hoạt động bay của máy bay trong vòng bán kính 70km. Để theo dõi hành trình của máy bay, ta có thể thiết lập hệ trục toạ độ $Oxyz$ có gốc toạ độ $O$ trùng với vị trí trung tâm của kiểm soát không lưu, mặt phẳng $(Oxy)$ trùng với mặt đất (được coi là mặt phẳng) với trục $Ox$ hướng về phía Tây, trục $Oy$ hướng về phía Nam và trục $Oz$ hướng thẳng đứng lên trời và đơn vị độ dài trên mỗi trục toạ độ là 1km. Một máy bay trực thăng đang ở vị trí $A(-65; -25; 30)$ bay theo hướng Tây Nam với độ cao không đổi, vận tốc không đổi 200km/h, quỹ đạo bay theo đường thẳng."
+  },
+  {
+    "bbox": [
+      156,
+      1886,
+      1575,
+      1998
+    ],
+    "category": "Text",
+    "text": "a) Khi máy bay ở vị trí $A(-65; -25; 30)$ thì đài kiểm soát không lưu của sân bay đã theo dõi được máy bay."
+  },
+  {
+    "bbox": [
+      156,
+      2013,
+      1572,
+      2058
+    ],
+    "category": "Text",
+    "text": "b) máy bay di chuyển theo hướng Tây Nam với quỹ đạo bay là đường thẳng $d$ có phương trình:"
+  },
+  {
+    "bbox": [
+      162,
+      2077,
+      340,
+      2225
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = -65 + t \\\\ y = -25 + t \\\\ z = 30 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

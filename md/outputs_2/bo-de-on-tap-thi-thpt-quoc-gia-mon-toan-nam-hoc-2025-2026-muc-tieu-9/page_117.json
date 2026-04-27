@@ -1,0 +1,159 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      136,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      597,
+      210,
+      1100,
+      740
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      785,
+      709,
+      824
+    ],
+    "category": "Text",
+    "text": "Đặt hệ trục $Oxyz$ như hình vẽ bên."
+  },
+  {
+    "bbox": [
+      202,
+      840,
+      1123,
+      888
+    ],
+    "category": "Text",
+    "text": "$A(0; 6; 0)$, $C(6; 0; 0)$, $B(0; 0; 0)$, $H(2; 2; 0)$, $S(2; 2; 3\\sqrt{2})$, $D(6; 6; 0)$"
+  },
+  {
+    "bbox": [
+      202,
+      898,
+      932,
+      1032
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Áp dụng cộng thức: } d(AC, SD) = \\frac{|[\\overrightarrow{AC}, \\overrightarrow{SD}] \\cdot \\overrightarrow{AD}|}{|[\\overrightarrow{AC}, \\overrightarrow{SD}]|}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1041,
+      1040,
+      1092
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{AC} = (6; -6; 0)$, $\\overrightarrow{SD} = (4; 4; -3\\sqrt{2})$, $\\overrightarrow{AD} = (6; 0; 0)$."
+  },
+  {
+    "bbox": [
+      202,
+      1101,
+      1021,
+      1154
+    ],
+    "category": "Formula",
+    "text": "$$\n[\\overrightarrow{AC}, \\overrightarrow{SD}] = (18\\sqrt{2}; 18\\sqrt{2}; 48) \\Rightarrow [\\overrightarrow{AC}, \\overrightarrow{SD}] \\cdot \\overrightarrow{AD} = 108\\sqrt{2}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1164,
+      950,
+      1272
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(AC, SD) = \\frac{|108\\sqrt{2}|}{\\sqrt{(18\\sqrt{2})^2 + (18\\sqrt{2})^2 + 48^2}} \\approx 2,55\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1292,
+      1547,
+      1415
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trạm tàu cứu hộ được đặt tại vị trí $A(5; 0; 0)$ trên một hòn đảo nhỏ trong không gian $Oxyz$ (đơn vị trên mỗi trục được tính bằng km), được sử dụng làm trạm cứu hộ, cứu nạn trên biển."
+  },
+  {
+    "bbox": [
+      523,
+      1424,
+      1171,
+      1774
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1791,
+      1547,
+      1834
+    ],
+    "category": "Text",
+    "text": "Tàu du lịch $B$ đang di chuyển (vận tốc không đổi) trên tuyến đường được mô tả bởi đường thẳng"
+  },
+  {
+    "bbox": [
+      154,
+      1832,
+      1547,
+      1995
+    ],
+    "category": "Formula",
+    "text": "$$\nd_1: \\begin{cases} x = 2 + t \\\\ y = 1 - 2t \\\\ z = 0 \\end{cases} . \\text{ Tàu chở hàng } C \\text{ đang di chuyển (vận tốc không đổi) trên tuyến đường vận tải}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1993,
+      1547,
+      2200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{được mô tả bởi đường thẳng } d_2: \\begin{cases} x = 2 - s \\\\ y = 11 + s \\\\ z = 0 \\end{cases} . \\text{ Do thời tiết xấu, nên hai tàu } B \\text{ và } C \\text{ gặp sự cố và cần được tiếp cận khẩn cấp. Trạm cứu hộ điều một tàu cứu hộ xuất phát từ } A \\text{ để lần lượt tiếp}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tần và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "117"
+  }
+]

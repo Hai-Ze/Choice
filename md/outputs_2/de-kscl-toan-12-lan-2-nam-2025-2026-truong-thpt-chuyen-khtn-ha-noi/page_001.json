@@ -1,0 +1,472 @@
+[
+  {
+    "bbox": [
+      98,
+      71,
+      612,
+      206
+    ],
+    "category": "Page-header",
+    "text": "TRƯỜNG ĐẠI HỌC KHTN\nTRƯỜNG THPT CHUYÊN KHTN\n(Đề thi gồm 4 trang)"
+  },
+  {
+    "bbox": [
+      755,
+      71,
+      1439,
+      116
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THI KSCL LẦN 2, NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      918,
+      120,
+      1277,
+      206
+    ],
+    "category": "Page-header",
+    "text": "Môn thi: Toán; Lớp: 12\nThời gian làm bài: 90 phút"
+  },
+  {
+    "bbox": [
+      1334,
+      211,
+      1489,
+      247
+    ],
+    "category": "Page-header",
+    "text": "Mã đề 123"
+  },
+  {
+    "bbox": [
+      146,
+      294,
+      1499,
+      337
+    ],
+    "category": "Text",
+    "text": "Họ, tên thí sinh: .................................................................... Số báo danh: ...................................."
+  },
+  {
+    "bbox": [
+      146,
+      337,
+      1379,
+      380
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      146,
+      385,
+      1527,
+      543
+    ],
+    "category": "Text",
+    "text": "Câu 1. Trong không gian với hệ tọa độ $Oxyz$, cho phương trình đường thẳng $d: \\begin{cases} x = 3 - 2t \\\\ y = -1 + 2t \\\\ z = 2 - t \\end{cases}$, $(t \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      146,
+      551,
+      1017,
+      595
+    ],
+    "category": "Text",
+    "text": "Vector nào sau đây là một vector chỉ phương của đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      146,
+      597,
+      402,
+      653
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u}_1 = (-2; 2; -1)$."
+  },
+  {
+    "bbox": [
+      498,
+      597,
+      738,
+      653
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u}_2 = (3; -1; 2)$."
+  },
+  {
+    "bbox": [
+      850,
+      597,
+      1115,
+      653
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u}_3 = (2; -2; -1)$."
+  },
+  {
+    "bbox": [
+      1214,
+      597,
+      1492,
+      653
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u}_4 = (-2; -1; -1)$."
+  },
+  {
+    "bbox": [
+      146,
+      665,
+      1287,
+      749
+    ],
+    "category": "Text",
+    "text": "Câu 2. Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{-5x^2 + 3x + 1}{x - 1}$ có phương trình là:"
+  },
+  {
+    "bbox": [
+      146,
+      757,
+      352,
+      799
+    ],
+    "category": "List-item",
+    "text": "A. $y = 5x + 2$."
+  },
+  {
+    "bbox": [
+      498,
+      757,
+      709,
+      799
+    ],
+    "category": "List-item",
+    "text": "B. $y = -5x + 2$."
+  },
+  {
+    "bbox": [
+      850,
+      757,
+      1069,
+      799
+    ],
+    "category": "List-item",
+    "text": "C. $y = -5 - 2x$."
+  },
+  {
+    "bbox": [
+      1214,
+      757,
+      1418,
+      799
+    ],
+    "category": "List-item",
+    "text": "D. $y = -5x - 2$."
+  },
+  {
+    "bbox": [
+      146,
+      809,
+      822,
+      851
+    ],
+    "category": "Text",
+    "text": "Câu 3. Tập nghiệm của phương trình $\\cos x = 1$ là"
+  },
+  {
+    "bbox": [
+      146,
+      855,
+      495,
+      945
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\{\\frac{\\pi}{2} + k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      850,
+      875,
+      1129,
+      925
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\{k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      146,
+      955,
+      411,
+      1025
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      850,
+      955,
+      1181,
+      1045
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\{\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      146,
+      1055,
+      972,
+      1128
+    ],
+    "category": "Text",
+    "text": "Câu 4. Tập nghiệm của bất phương trình $\\log_{\\frac{1}{2}}(2x - 5) \\ge 1$ là"
+  },
+  {
+    "bbox": [
+      146,
+      1138,
+      312,
+      1226
+    ],
+    "category": "List-item",
+    "text": "A. $\\left(\\frac{5}{2}; \\frac{11}{4}\\right)$."
+  },
+  {
+    "bbox": [
+      498,
+      1138,
+      661,
+      1226
+    ],
+    "category": "List-item",
+    "text": "B. $\\left(\\frac{5}{2}; \\frac{11}{4}\\right]$."
+  },
+  {
+    "bbox": [
+      850,
+      1138,
+      1038,
+      1226
+    ],
+    "category": "List-item",
+    "text": "C. $\\left(\\frac{11}{4}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      1214,
+      1138,
+      1401,
+      1226
+    ],
+    "category": "List-item",
+    "text": "D. $\\left[\\frac{11}{4}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      146,
+      1234,
+      1586,
+      1337
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh $a$. Cạnh bên $SA$ vuông góc với mặt phẳng đáy, $SA = a$. Độ lớn của góc $BSD$ bằng"
+  },
+  {
+    "bbox": [
+      146,
+      1349,
+      354,
+      1389
+    ],
+    "category": "List-item",
+    "text": "A. $BSD = 120^{\\circ}$."
+  },
+  {
+    "bbox": [
+      498,
+      1349,
+      694,
+      1389
+    ],
+    "category": "List-item",
+    "text": "B. $BSD = 45^{\\circ}$."
+  },
+  {
+    "bbox": [
+      850,
+      1349,
+      1044,
+      1389
+    ],
+    "category": "List-item",
+    "text": "C. $BSD = 90^{\\circ}$."
+  },
+  {
+    "bbox": [
+      1214,
+      1349,
+      1410,
+      1389
+    ],
+    "category": "List-item",
+    "text": "D. $BSD = 60^{\\circ}$."
+  },
+  {
+    "bbox": [
+      146,
+      1395,
+      1586,
+      1490
+    ],
+    "category": "Text",
+    "text": "Câu 6. Trong không gian với hệ tọa độ $Oxyz$, cho 3 điểm $A(1; 3; 5)$, $B(2; 1; 0)$, $C(-2; 0; 3)$. Phương trình mặt phẳng $(ABC)$ là"
+  },
+  {
+    "bbox": [
+      146,
+      1500,
+      489,
+      1540
+    ],
+    "category": "List-item",
+    "text": "A. $11x - 17y + 9z - 5 = 0$."
+  },
+  {
+    "bbox": [
+      850,
+      1500,
+      1181,
+      1540
+    ],
+    "category": "List-item",
+    "text": "B. $11x - 17y + 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      146,
+      1550,
+      489,
+      1590
+    ],
+    "category": "List-item",
+    "text": "C. $11x + 17y - 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      850,
+      1550,
+      1193,
+      1590
+    ],
+    "category": "List-item",
+    "text": "D. $17x + 11y - 9z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      146,
+      1604,
+      1510,
+      1654
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hai biến cố $A, B$ sao cho $P(A) = 0,5; P(B) = 0,4; P(A|B) = 0,3$. Khi đó $P(B|A)$ bằng"
+  },
+  {
+    "bbox": [
+      146,
+      1668,
+      247,
+      1750
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{3}{25}$."
+  },
+  {
+    "bbox": [
+      498,
+      1668,
+      594,
+      1750
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{4}{25}$."
+  },
+  {
+    "bbox": [
+      850,
+      1668,
+      952,
+      1750
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{6}{25}$."
+  },
+  {
+    "bbox": [
+      1214,
+      1668,
+      1298,
+      1750
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      146,
+      1762,
+      1586,
+      1908
+    ],
+    "category": "Text",
+    "text": "Câu 8. Biết $I = \\int_{1}^{2} \\frac{1}{2x^2 + 5x + 3} dx = \\ln \\frac{a}{b}$ với $a, b$ là các số nguyên lớn hơn 1, phân số $\\frac{a}{b}$ tối简. Giá trị $T = a + b$ bằng"
+  },
+  {
+    "bbox": [
+      146,
+      1916,
+      247,
+      1954
+    ],
+    "category": "List-item",
+    "text": "A. 28."
+  },
+  {
+    "bbox": [
+      498,
+      1916,
+      594,
+      1954
+    ],
+    "category": "List-item",
+    "text": "B. 29."
+  },
+  {
+    "bbox": [
+      850,
+      1916,
+      942,
+      1954
+    ],
+    "category": "List-item",
+    "text": "C. 12."
+  },
+  {
+    "bbox": [
+      1214,
+      1916,
+      1306,
+      1954
+    ],
+    "category": "List-item",
+    "text": "D. 10."
+  }
+]

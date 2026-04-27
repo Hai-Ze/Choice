@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      524,
+      91,
+      1232,
+      745
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      762,
+      1497,
+      808
+    ],
+    "category": "Text",
+    "text": "a) Khoảng cách thiên thạch gần với trái đất nhất có độ dài bằng $3449\\text{km}$ (Làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      155,
+      822,
+      1575,
+      984
+    ],
+    "category": "Text",
+    "text": "b) Các nhà nghiên cứu của trung tâm戊 trụ Nasa đưa ra giả thiết nếu lúc thiên thạch đang ở vị trí $M$ bất ngờ đổi hướng và lao xuống Trái Đất với phương thẳng thì quăng đường dài nhất nó có thể va chạm với Trái Đất là $14490\\text{km}$ (Làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      155,
+      1008,
+      1575,
+      1182
+    ],
+    "category": "Text",
+    "text": "c) Tại thời điểm thiên thạch đang ở vị trí $M$ thì có 2 vệ tinh đang ở vị trí $A(-6;-5;-6)$, $B(7;-6;7)$ có vận tốc khác nhau di chuyển trong mặt phẳng trung trực của $MN$ và luôn cách Trái Đất với khoảng cố định. Khoảng cách xa nhất của 2 vệ tinh có thể đạt là $18412\\text{km}$ (Làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      155,
+      1200,
+      1326,
+      1292
+    ],
+    "category": "Text",
+    "text": "d) Nếu vệ tinh $A$ đi với vận tốc $v_2 = \\frac{\\pi\\sqrt{97}}{3} \\cdot 10^3 (\\text{km/h})$ thì sẽ va chạm với thiên thạch."
+  },
+  {
+    "bbox": [
+      807,
+      1315,
+      924,
+      1354
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1369,
+      972,
+      1492
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1552,
+      1531,
+      1603
+    ],
+    "category": "Text",
+    "text": "a) Xét đường thẳng $MN$ đi qua điểm $M(0;5;12)$ có vectơ chỉ phương $\\overrightarrow{MN} = (12;0;-12) = 12(1;0;-1)$."
+  },
+  {
+    "bbox": [
+      155,
+      1629,
+      746,
+      1778
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $MN$: $$ \\begin{cases} x = 12 + t \\\\ y = 5 \\\\ z = -t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      155,
+      1804,
+      1254,
+      1854
+    ],
+    "category": "Text",
+    "text": "Gọi là mặt phẳng $(P)$ qua $O$ và vuông góc với $MN$ khi đó $(P)$ có phương trình:"
+  },
+  {
+    "bbox": [
+      162,
+      1881,
+      277,
+      1914
+    ],
+    "category": "Formula",
+    "text": "$$\nx - z = 0\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1939,
+      1199,
+      1988
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là giao điểm $MN$ của và $(P)$ ta có: $12 + 2t = 0 \\Leftrightarrow t = -6 \\Rightarrow H(6;5;6)$"
+  },
+  {
+    "bbox": [
+      155,
+      2008,
+      879,
+      2053
+    ],
+    "category": "Text",
+    "text": "Thiên thạch gần trái đất nhất khi thiên thạch đi qua $H$"
+  },
+  {
+    "bbox": [
+      155,
+      2065,
+      879,
+      2110
+    ],
+    "category": "Text",
+    "text": "Khoảng cách gần nhất của thiên thạch với Trái Đất là:"
+  },
+  {
+    "bbox": [
+      162,
+      2130,
+      947,
+      2180
+    ],
+    "category": "Formula",
+    "text": "$$\nd = 1000 \\cdot OH - 4600 = 1000\\sqrt{6^2 + 5^2 + 6^2} - 4600 \\approx 3449\\text{km.}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

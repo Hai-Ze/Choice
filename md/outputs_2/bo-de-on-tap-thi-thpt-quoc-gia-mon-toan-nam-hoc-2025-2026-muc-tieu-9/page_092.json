@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      202,
+      136,
+      1301,
+      189
+    ],
+    "category": "Text",
+    "text": "TH1: $\\alpha \\in [0, \\arctan 2] \\Rightarrow ON = \\frac{20}{\\cos \\alpha}$. Suy ra: $OP = \\frac{OM+ON}{2} = \\frac{10}{1+\\sin \\alpha} + \\frac{10}{\\cos \\alpha}$."
+  },
+  {
+    "bbox": [
+      202,
+      197,
+      1307,
+      251
+    ],
+    "category": "Text",
+    "text": "TH2: $\\alpha \\in [\\arctan 2, \\frac{\\pi}{2}] \\Rightarrow ON = \\frac{40}{\\sin \\alpha}$. Suy ra: $OP = \\frac{OM+ON}{2} = \\frac{10}{1+\\sin \\alpha} + \\frac{20}{\\sin \\alpha}$."
+  },
+  {
+    "bbox": [
+      202,
+      259,
+      1407,
+      329
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{(L)} = 2 \\left[ \\frac{1}{2} \\int_{0}^{\\arctan 2} \\left( \\frac{10}{1+\\sin \\alpha} + \\frac{10}{\\cos \\alpha} \\right)^2 d\\alpha + \\frac{1}{2} \\int_{\\arctan 2}^{\\frac{\\pi}{2}} \\left( \\frac{10}{1+\\sin \\alpha} + \\frac{20}{\\sin \\alpha} \\right)^2 d\\alpha \\right] = 756,3 \\, (m^2).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      342,
+      1546,
+      431
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí: $5 \\cdot S_b + 2 \\cdot (S_L - S_b) + 0,1 \\cdot (S_V - S_L) = 5 \\cdot \\frac{800}{3} + 2 \\cdot (756,3 - \\frac{800}{3}) + 0,1 \\cdot (1600 - 756,3) = 2396,97 \\approx 2,4$ tỷ."
+  },
+  {
+    "bbox": [
+      153,
+      449,
+      1548,
+      670
+    ],
+    "category": "Text",
+    "text": "Bài 5. Một nhà phân phối có thể thuê tối đa 3 chiếc xe tải loại A và 8 chiếc xe tải loại B để vận chuyển 100 chiếc máy giặt từ nhà máy sản xuất đến nơi tiêu pun. Mỗi xe loại A chở được tối đa 20 máy giặt với giá cước 3 triệu đồng mỗi chuyển, mỗi xe loại B chở được tối đa 10 máy giặt với giá cước 2 triệu đồng mỗi chuyển. Nếu mỗi xe chỉ chở nhiều nhất một chuyển, số tiền cước tối少 (triệu đồng) mà nhà phân phối phải trả là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      153,
+      685,
+      198,
+      722
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      685,
+      1338,
+      748
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $x$ là số chuyển xe loại A được thuê. Điều kiện: $0 \\le x \\le 3$"
+  },
+  {
+    "bbox": [
+      202,
+      762,
+      1072,
+      805
+    ],
+    "category": "Text",
+    "text": "Gọi $y$ là số chuyển xe loại B được thuê. Điều kiện: $0 \\le y \\le 8$"
+  },
+  {
+    "bbox": [
+      202,
+      823,
+      1493,
+      865
+    ],
+    "category": "Text",
+    "text": "Vì $x, y$ là số chuyển và chỉ chở nhiều nhất một chuyển nên $x$ và $y$ cũng là số xe được thuê."
+  },
+  {
+    "bbox": [
+      153,
+      884,
+      1546,
+      971
+    ],
+    "category": "Text",
+    "text": "Mã xe loại A chở được tối đa 20 máy giặt, mã xe loại B chở được tối đa 10 máy giặt và tổng số máy giặt cần vận chuyển là 100."
+  },
+  {
+    "bbox": [
+      202,
+      989,
+      1169,
+      1032
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta thiết lập được bất phương trình } 20x + 10y \\ge 100 \\Leftrightarrow 2x + y \\ge 10\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1050,
+      1367,
+      1093
+    ],
+    "category": "Text",
+    "text": "Giá cước xe loại A: 3 triệu đồng/chduy, giá cước xe loại B: 2 triệu đồng/chduy."
+  },
+  {
+    "bbox": [
+      202,
+      1111,
+      681,
+      1154
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số tiền cước là } F(x, y) = 3x + 2y\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1166,
+      1468,
+      1334
+    ],
+    "category": "Text",
+    "text": "Bài toán trở thành: Tìm các số nguyên dương $x, y$ thỏa mãn hệ điều kiện: $$ \\begin{cases} 0 \\le x \\le 3 \\\\ 0 \\le y \\le 8 \\\\ 2x + y \\ge 10 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      202,
+      1348,
+      948,
+      1391
+    ],
+    "category": "Text",
+    "text": "sao cho hàm $F(x, y) = 3x + 2y$ đạt giá trị nhỏ nhất."
+  },
+  {
+    "bbox": [
+      365,
+      1403,
+      1324,
+      2134
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      2172,
+      1399,
+      2215
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình là tam giác $ABC$ với $A(3; 8)$; $B(3; 4)$; $C(1; 8)$."
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "92"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

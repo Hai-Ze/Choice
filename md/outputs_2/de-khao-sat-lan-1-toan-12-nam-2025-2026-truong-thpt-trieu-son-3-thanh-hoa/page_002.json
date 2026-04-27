@@ -1,0 +1,381 @@
+[
+  {
+    "bbox": [
+      152,
+      116,
+      1535,
+      200
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình chóp $S.ABC$ có đáy là tam giác $ABC$, $SA$ vuông góc với mặt phẳng đáy (minh hoạ như hình bên dưới)."
+  },
+  {
+    "bbox": [
+      686,
+      232,
+      1003,
+      549
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      555,
+      1031,
+      601
+    ],
+    "category": "Text",
+    "text": "Góc giữa đường thẳng $SB$ và mặt phẳng đáy là góc nào sau đây?"
+  },
+  {
+    "bbox": [
+      161,
+      606,
+      285,
+      652
+    ],
+    "category": "List-item",
+    "text": "A. $\\widehat{SBC}$."
+  },
+  {
+    "bbox": [
+      536,
+      606,
+      664,
+      652
+    ],
+    "category": "List-item",
+    "text": "B. $\\widehat{ABC}$."
+  },
+  {
+    "bbox": [
+      911,
+      606,
+      1037,
+      652
+    ],
+    "category": "List-item",
+    "text": "C. $\\widehat{SCB}$."
+  },
+  {
+    "bbox": [
+      1285,
+      606,
+      1404,
+      652
+    ],
+    "category": "List-item",
+    "text": "D. $\\widehat{SBA}$."
+  },
+  {
+    "bbox": [
+      152,
+      656,
+      1535,
+      738
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Chọn ngẫu nhiên 3 viên bi từ một集合 có 10 viên bi gồm 6 bi xanh và 4 bi đỏ, xác suất chọn được 3 viên bi màu xanh là"
+  },
+  {
+    "bbox": [
+      161,
+      747,
+      249,
+      828
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{2}{5}$."
+  },
+  {
+    "bbox": [
+      536,
+      747,
+      621,
+      828
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      911,
+      747,
+      995,
+      828
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      1285,
+      747,
+      1378,
+      828
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{2}{15}$."
+  },
+  {
+    "bbox": [
+      152,
+      836,
+      835,
+      885
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Heo nguyên hàm của hàm số $f(x) = 4^x$ là"
+  },
+  {
+    "bbox": [
+      161,
+      923,
+      415,
+      968
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = 4^x + C$."
+  },
+  {
+    "bbox": [
+      902,
+      903,
+      1188,
+      987
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = \\frac{4^x}{2\\ln 2} + C$."
+  },
+  {
+    "bbox": [
+      152,
+      1018,
+      447,
+      1063
+    ],
+    "category": "List-item",
+    "text": "C. $F(x) = 4^x \\ln 4 + C$."
+  },
+  {
+    "bbox": [
+      902,
+      998,
+      1188,
+      1082
+    ],
+    "category": "List-item",
+    "text": "D. $F(x) = \\frac{4^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      152,
+      1090,
+      1535,
+      1192
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian với hệ tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;-2;1)$ trên mặt phẳng ($Oxy$) có tọa độ là"
+  },
+  {
+    "bbox": [
+      161,
+      1207,
+      342,
+      1252
+    ],
+    "category": "List-item",
+    "text": "A. $(2;-2;0)$."
+  },
+  {
+    "bbox": [
+      536,
+      1207,
+      689,
+      1252
+    ],
+    "category": "List-item",
+    "text": "B. $(0;0;1)$."
+  },
+  {
+    "bbox": [
+      911,
+      1207,
+      1082,
+      1252
+    ],
+    "category": "List-item",
+    "text": "C. $(0;-2;1)$."
+  },
+  {
+    "bbox": [
+      1285,
+      1207,
+      1440,
+      1252
+    ],
+    "category": "List-item",
+    "text": "D. $(2;0;1)$."
+  },
+  {
+    "bbox": [
+      152,
+      1259,
+      1535,
+      1343
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho bảng thống kê đường kính thân gỗ của một số cây xoan đào 6 năm tuổi được trồng ở một lâm trường ở bảng sau."
+  },
+  {
+    "bbox": [
+      390,
+      1362,
+      1301,
+      1492
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Đường kính (cm)</td><td>[40;45)</td><td>[45;50)</td><td>[50;55)</td><td>[55;60)</td><td>[60;65)</td></tr><tr><td>Tần số</td><td>5</td><td>20</td><td>18</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1503,
+      954,
+      1548
+    ],
+    "category": "Text",
+    "text": "Hãy tìm khoảng biến thiên của mẫu số liệu ghép nhóm trên."
+  },
+  {
+    "bbox": [
+      161,
+      1553,
+      248,
+      1588
+    ],
+    "category": "List-item",
+    "text": "A. 25."
+  },
+  {
+    "bbox": [
+      536,
+      1553,
+      621,
+      1588
+    ],
+    "category": "List-item",
+    "text": "B. 30."
+  },
+  {
+    "bbox": [
+      911,
+      1553,
+      976,
+      1588
+    ],
+    "category": "List-item",
+    "text": "C. 6."
+  },
+  {
+    "bbox": [
+      1285,
+      1553,
+      1394,
+      1588
+    ],
+    "category": "List-item",
+    "text": "D. 69,8."
+  },
+  {
+    "bbox": [
+      152,
+      1602,
+      1535,
+      1686
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      152,
+      1700,
+      758,
+      1748
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Xét hàm số $f(x) = x + \\sin x$ trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      161,
+      1767,
+      835,
+      1814
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số $f(x)$ là $f'(x) = 1 - \\cos x$."
+  },
+  {
+    "bbox": [
+      161,
+      1837,
+      1119,
+      1922
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $F(x) = \\frac{x^2}{2} - \\cos x - 2$ là một nguyên hàm của hàm số $f(x)$."
+  },
+  {
+    "bbox": [
+      161,
+      1945,
+      561,
+      2030
+    ],
+    "category": "Text",
+    "text": "c) $\\int f(x)dx = \\frac{x^2}{2} - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      161,
+      2053,
+      1488,
+      2138
+    ],
+    "category": "Text",
+    "text": "d) Gọi $G(x)$ là một nguyên hàm của hàm số $f(x)$ và thỏa mãn $G(0) = 1$. Khi đó $G(\\pi) = \\frac{\\pi^2}{2} + 3$."
+  },
+  {
+    "bbox": [
+      152,
+      2155,
+      954,
+      2204
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x) = x^3 - 3x + 2$ có đồ thị là (C)."
+  },
+  {
+    "bbox": [
+      152,
+      2278,
+      314,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1211"
+  },
+  {
+    "bbox": [
+      1399,
+      2282,
+      1535,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

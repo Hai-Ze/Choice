@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      476,
+      113,
+      1095,
+      380
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      424,
+      414,
+      460
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      483,
+      843,
+      521
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      540,
+      239,
+      578
+    ],
+    "category": "Text",
+    "text": "Đáp án: 97"
+  },
+  {
+    "bbox": [
+      81,
+      600,
+      281,
+      650
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{MA} = (-3; 4; 3)\n$$"
+  },
+  {
+    "bbox": [
+      81,
+      679,
+      274,
+      728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{NA} = (5; 2; 4).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      755,
+      1494,
+      891
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng sường đồi chính là mặt phẳng $(OMN)$ nên có vecto pháp tuyến $\\vec{n} = [\\overrightarrow{OM}, \\overrightarrow{ON}] = (-2; -21; -26)$."
+  },
+  {
+    "bbox": [
+      76,
+      918,
+      955,
+      966
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha, \\beta$ lần lượt là góc tạo bởi $MA, NA$ với mặt phẳng $(AMN)$."
+  },
+  {
+    "bbox": [
+      76,
+      993,
+      1281,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\sin\\alpha = \\frac{|\\overrightarrow{MA} \\cdot \\vec{n}|}{|\\overrightarrow{MA}| \\cdot |\\vec{n}|} = \\frac{|-3 \\cdot (-2) + 4 \\cdot (-21) + 3 \\cdot (-26)|}{\\sqrt{(-3)^2 + 4^2 + 3^2} \\cdot \\sqrt{(-2)^2 + (-21)^2 + (-26)^2}} = \\frac{156}{\\sqrt{38114}} \\Rightarrow \\alpha \\approx 53^{\\circ}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1145,
+      1269,
+      1332
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Khi đó: } \\sin\\beta &= \\frac{|\\overrightarrow{NA} \\cdot \\vec{n}|}{|\\overrightarrow{NA}| \\cdot |\\vec{n}|} = \\frac{|5 \\cdot (-2) + 2 \\cdot (-21) + 4 \\cdot (-26)|}{\\sqrt{5^2 + 2^2 + 4^2} \\cdot \\sqrt{(-2)^2 + (-21)^2 + (-26)^2}} = \\frac{156}{\\sqrt{50445}} \\Rightarrow \\beta \\approx 44^{\\circ} \\\\ \\Rightarrow a = 53; b = 44 \\Rightarrow T = a + b = 97 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1357,
+      1494,
+      1538
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật tâm $I$, $AB = 1$; $BC = \\sqrt{3}$, tam giác $SAC$ vuông tại $S$. Hình chiếu vuông góc của $S$ xuống mặt phẳng đáy trùng với trung điểm $H$ của đoạn $AI$. Tính khoảng cách từ điểm $C$ đến mặt phẳng $(SAB)$ (kết quả làm tròn đến hàng thập phân thứ hai)."
+  },
+  {
+    "bbox": [
+      76,
+      1566,
+      414,
+      1602
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1624,
+      843,
+      1662
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1682,
+      262,
+      1720
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1,55"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

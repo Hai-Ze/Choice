@@ -1,0 +1,548 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      130,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1150,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      297,
+      275,
+      992,
+      333
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 120"
+  },
+  {
+    "bbox": [
+      185,
+      333,
+      1106,
+      391
+    ],
+    "category": "Text",
+    "text": "CHUYÊN KHOA HỌC TỰ NHIÊN HÀ NỘI LẦN 2A - 2025"
+  },
+  {
+    "bbox": [
+      281,
+      391,
+      1012,
+      429
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1235,
+      142,
+      1595,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1235,
+      357,
+      1318,
+      402
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      110,
+      510,
+      1162,
+      566
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      95,
+      574,
+      614,
+      615
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Heo nguyên hàm của hàm số là"
+  },
+  {
+    "bbox": [
+      125,
+      611,
+      356,
+      686
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{x^2 + e^{2x}}{2} + C$."
+  },
+  {
+    "bbox": [
+      670,
+      611,
+      889,
+      686
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{x^2 + e^x}{2} + C$."
+  },
+  {
+    "bbox": [
+      125,
+      682,
+      408,
+      757
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{x^2}{2} + \\frac{e^{2x+1}}{2x+1} + C$."
+  },
+  {
+    "bbox": [
+      670,
+      682,
+      919,
+      757
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{x^2}{2} + 2e^{2x} + C$."
+  },
+  {
+    "bbox": [
+      95,
+      769,
+      949,
+      886
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Cho $\\int_{0}^{2} [f(x) - 3x^2] \\, dx = 4$. Tích phân $\\int_{0}^{2} f(x) \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      886,
+      194,
+      926
+    ],
+    "category": "List-item",
+    "text": "(A) 8."
+  },
+  {
+    "bbox": [
+      396,
+      886,
+      489,
+      926
+    ],
+    "category": "List-item",
+    "text": "(B) -4."
+  },
+  {
+    "bbox": [
+      670,
+      886,
+      754,
+      926
+    ],
+    "category": "List-item",
+    "text": "(C) 12."
+  },
+  {
+    "bbox": [
+      941,
+      886,
+      1012,
+      926
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      95,
+      942,
+      816,
+      983
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Cho hàm số $f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      173,
+      998,
+      1121,
+      1319
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>4</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>0</td><td>+</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$-1$</td><td>3</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      95,
+      1344,
+      769,
+      1381
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên tập nào dưới đây?"
+  },
+  {
+    "bbox": [
+      125,
+      1379,
+      247,
+      1421
+    ],
+    "category": "List-item",
+    "text": "(A) (0; 4)."
+  },
+  {
+    "bbox": [
+      396,
+      1379,
+      558,
+      1421
+    ],
+    "category": "List-item",
+    "text": "(B) $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      670,
+      1379,
+      816,
+      1421
+    ],
+    "category": "List-item",
+    "text": "(C) $(-1; 3)$."
+  },
+  {
+    "bbox": [
+      941,
+      1379,
+      1100,
+      1421
+    ],
+    "category": "List-item",
+    "text": "(D) $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      95,
+      1435,
+      1196,
+      1511
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian $Oxyz$, điểm nào dưới đây thuộc mặt phẳng ($P$): $2x - y + z - 5 = 0$?"
+  },
+  {
+    "bbox": [
+      125,
+      1511,
+      331,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(A) $M(1; -1; 0)$."
+  },
+  {
+    "bbox": [
+      396,
+      1511,
+      596,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(B) $N(1; -1; 2)$."
+  },
+  {
+    "bbox": [
+      670,
+      1511,
+      865,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(C) $P(1; -1; 4)$."
+  },
+  {
+    "bbox": [
+      941,
+      1511,
+      1138,
+      1553
+    ],
+    "category": "List-item",
+    "text": "(D) $Q(1; -1; 3)$."
+  },
+  {
+    "bbox": [
+      95,
+      1567,
+      1196,
+      1645
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Khảo sát trọng lượng của một số quả mít được trồng trong một nông trường ta có số liệu sau"
+  },
+  {
+    "bbox": [
+      244,
+      1660,
+      1047,
+      1759
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Trọng lượng (kg)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td></tr><tr><td>Số quả</td><td>6</td><td>12</td><td>19</td><td>9</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      95,
+      1776,
+      1196,
+      1852
+    ],
+    "category": "Text",
+    "text": "Tìm độ lệch tiêu chuẩn của mẫu số liệu trên. (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      125,
+      1852,
+      233,
+      1892
+    ],
+    "category": "List-item",
+    "text": "(A) 2,19."
+  },
+  {
+    "bbox": [
+      396,
+      1852,
+      505,
+      1892
+    ],
+    "category": "List-item",
+    "text": "(B) 8,72."
+  },
+  {
+    "bbox": [
+      670,
+      1852,
+      776,
+      1892
+    ],
+    "category": "List-item",
+    "text": "(C) 4,80."
+  },
+  {
+    "bbox": [
+      941,
+      1852,
+      1049,
+      1892
+    ],
+    "category": "List-item",
+    "text": "(D) 2,20."
+  },
+  {
+    "bbox": [
+      95,
+      1906,
+      1196,
+      1983
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Trong không gian $Oxyz$, cho hai điểm $A(1; -2; 3)$ và $B(3; 1; 1)$. Đường thẳng $AB$ có phương trình là"
+  },
+  {
+    "bbox": [
+      125,
+      1979,
+      485,
+      2052
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{x-1}{4} = \\frac{y+2}{-1} = \\frac{z-3}{4}$."
+  },
+  {
+    "bbox": [
+      670,
+      1979,
+      1034,
+      2052
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{x-1}{2} = \\frac{y+2}{3} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      125,
+      2048,
+      485,
+      2118
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{x-4}{1} = \\frac{y+1}{-2} = \\frac{z-4}{3}$."
+  },
+  {
+    "bbox": [
+      670,
+      2048,
+      1034,
+      2118
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{x-2}{2} = \\frac{y-3}{-2} = \\frac{z+2}{3}$."
+  },
+  {
+    "bbox": [
+      95,
+      2129,
+      1196,
+      2206
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Cho hình lập phương $ABCD.A'B'C'D'$ có cạnh bằng $2a$. Khoảng cách từ điểm $A'$ đến đường thẳng $BD$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      2204,
+      233,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(A) $a\\sqrt{6}$."
+  },
+  {
+    "bbox": [
+      396,
+      2204,
+      482,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(B) $2a$."
+  },
+  {
+    "bbox": [
+      670,
+      2204,
+      776,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(C) $a\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      941,
+      2204,
+      1068,
+      2246
+    ],
+    "category": "List-item",
+    "text": "(D) $2a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 605"
+  }
+]

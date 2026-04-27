@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      157,
+      122,
+      1151,
+      365
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n&\\Leftrightarrow -x^2 = \\left(\\frac{r+14}{64}\\right)^2 x^4 - 2r \\cdot \\frac{r+14}{64} x^2 \\Leftrightarrow \\left(\\frac{r+14}{64}\\right)^2 x^4 + \\left(1 - 2r \\cdot \\frac{r+14}{64}\\right) x^2 = 0 \\\\\n&\\Leftrightarrow \\left[ x = 0 \\right. \\\\\n&\\qquad \\left. \\left(\\frac{r+14}{64}\\right)^2 \\cdot x^2 = 2r \\cdot \\frac{r+14}{64} - 1 \\right) (*)\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      365,
+      1385,
+      462
+    ],
+    "category": "Text",
+    "text": "Vì $(C)$ có duy nhất một điểm chung với các parabol $(P_1)$ nên phương trình $(*)$ vô nghiệm hoặc có nghiệm kép $x = 0$."
+  },
+  {
+    "bbox": [
+      153,
+      462,
+      977,
+      543
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } 2r \\cdot \\frac{r+14}{64} - 1 \\le 0 \\Leftrightarrow 2r^2 + 28r - 64 \\le 0 \\Leftrightarrow -16 \\le r \\le 2.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      548,
+      1071,
+      642
+    ],
+    "category": "Text",
+    "text": "Hình tròn $(C)$ có diện tích lớn nhất $\\Leftrightarrow r = 2$. Vì vậy $(P_1): y = \\frac{x^2}{4} - 2$."
+  },
+  {
+    "bbox": [
+      153,
+      642,
+      960,
+      707
+    ],
+    "category": "Text",
+    "text": "Parabol $(P_1)$ cắt trục hoành tại điểm $(-2\\sqrt{2}; 0)$ và $(2\\sqrt{2}; 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      713,
+      1292,
+      825
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Chi phí bỏ ra để lát gạch là } 0,24 \\cdot S = 0,24 \\cdot \\left[ 4 \\cdot \\int_{2\\sqrt{2}}^{8} \\left( \\frac{x^2}{4} - 2 \\right) dx + \\pi 2^2 \\right] \\approx 32,2 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      825,
+      1496,
+      1254
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Nhà máy $A$ chuyên sản xuất một loại sản phẩm cho nhà máy $B$. Hai nhà máy thỏa thuận rằng, hằng tháng $A$ cung cấp cho $B$ số lượng sản phẩm theo đơn đặt hàng của $B$ (tối đa 100 tấn sản phẩm). Nếu số lượng đặt hàng là $x$ tấn sản phẩm thì giá bán cho mỗi sản phẩm là $P(x) = 45 - 0,001x^2$ (triệu đồng). Chi phí để $A$ sản xuất $x$ tấn sản phẩm trong một tháng là $C(x) = 100 + 30x$ triệu đồng (gồm 100 triệu đồng chi phí cố định và 30 triệu đồng cho mỗi tấn sản phẩm). Nhà máy $A$ bán cho $B$ bao nhiêu tấn sản phẩm để lợi nhuận thu được là lớn nhất? (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      153,
+      1294,
+      271,
+      1334
+    ],
+    "category": "Text",
+    "text": "Lời giải:"
+  },
+  {
+    "bbox": [
+      153,
+      1348,
+      928,
+      1395
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận của nhà máy $A$ khi sản xuất $x$ tấn sản phẩm là:"
+  },
+  {
+    "bbox": [
+      157,
+      1416,
+      1385,
+      1547
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nH(x) &= xP(x) - C(x) = x(45 - 0,001x^2) - (100 + 30x) = -0,001x^3 + 15x - 100, \\quad 0 \\le x \\le 100 \\\\\nH'(x) &= -0,003x^2 + 15\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1592,
+      903,
+      1646
+    ],
+    "category": "Formula",
+    "text": "$$\nH'(x) = 0 \\Leftrightarrow -0,003x^2 + 15 = 0 \\Leftrightarrow x = 50\\sqrt{2} \\text{ (chọn)}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1691,
+      1042,
+      1758
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } H(0) = -100, H(50\\sqrt{2}) = 500\\sqrt{2} - 100, H(100) = 400\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1805,
+      810,
+      1884
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó: } \\max_{[0;100]} H(x) = H(50\\sqrt{2}) = 500\\sqrt{2} - 100\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1925,
+      1246,
+      1971
+    ],
+    "category": "Text",
+    "text": "Vậy nhà máy $A$ nên sản xuất 70,7 tấn sản phẩm để lợi nhuận thu được là lớn nhất."
+  },
+  {
+    "bbox": [
+      153,
+      1988,
+      1496,
+      2217
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một top không quá 19 học sinh có nhiệm vụ xếp 140 chiếc ghế nhựa thành các đồng. Nhân việc này họ đã nghĩ ra trò chơi “lực sĩ”, thể lệ như sau: Mỗi người bốc một lá thăm trong đó có một lá thăm “lực sĩ”, người bốc phải thăm “lực sĩ” là người duy nhất làm công việc xếp ghế. Những người còn lại, mỗi người lấy một chiếc ghế trong số 140 chiếc nêu trên để ngồi quan sát. Với số ghế còn lại, chàng lực sĩ đã xếp thành các đồng thỏa"
+  }
+]

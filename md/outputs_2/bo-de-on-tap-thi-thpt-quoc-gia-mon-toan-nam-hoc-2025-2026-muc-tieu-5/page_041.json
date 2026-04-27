@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      479,
+      182
+    ],
+    "category": "Text",
+    "text": "mặt phẳng $(ACC'A')$?"
+  },
+  {
+    "bbox": [
+      706,
+      195,
+      991,
+      529
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      616,
+      314,
+      659
+    ],
+    "category": "List-item",
+    "text": "A $AA'$."
+  },
+  {
+    "bbox": [
+      535,
+      616,
+      662,
+      659
+    ],
+    "category": "List-item",
+    "text": "B $BB'$."
+  },
+  {
+    "bbox": [
+      879,
+      616,
+      992,
+      659
+    ],
+    "category": "List-item",
+    "text": "C $AC$."
+  },
+  {
+    "bbox": [
+      1224,
+      616,
+      1339,
+      659
+    ],
+    "category": "List-item",
+    "text": "D $AB$."
+  },
+  {
+    "bbox": [
+      153,
+      675,
+      1545,
+      777
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $BB' // AA'$ (tính chất lăng trụ). Vì $AA' \\subset (ACC'A')$ và $BB' \\not\\subset (ACC'A')$ nên $BB' // (ACC'A')$."
+  },
+  {
+    "bbox": [
+      153,
+      797,
+      1545,
+      882
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho hình chóp $S.ABC$ có $SA \\perp (ABC)$; $SA = 3$; $\\triangle ABC$ vuông cân tại $A$ với $AB = 4$. Thể tích khối chóp $S.ABC$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      901,
+      289,
+      944
+    ],
+    "category": "List-item",
+    "text": "A 48."
+  },
+  {
+    "bbox": [
+      535,
+      901,
+      633,
+      944
+    ],
+    "category": "List-item",
+    "text": "B 16."
+  },
+  {
+    "bbox": [
+      879,
+      901,
+      961,
+      944
+    ],
+    "category": "List-item",
+    "text": "C 8."
+  },
+  {
+    "bbox": [
+      1224,
+      901,
+      1320,
+      944
+    ],
+    "category": "List-item",
+    "text": "D 24."
+  },
+  {
+    "bbox": [
+      153,
+      959,
+      1269,
+      1067
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Diện tích đáy $\\triangle ABC$: $S_{ABC} = \\frac{1}{2}AB \\cdot AC = \\frac{1}{2} \\cdot 4 \\cdot 4 = 8$.\nThể tích khối chóp: $V = \\frac{1}{3}S_{ABC} \\cdot SA = \\frac{1}{3} \\cdot 8 \\cdot 3 = 8$."
+  },
+  {
+    "bbox": [
+      153,
+      1079,
+      1545,
+      1166
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      1186,
+      775,
+      1227
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $f(x) = x^3 + 3x^2 - 4$."
+  },
+  {
+    "bbox": [
+      191,
+      1247,
+      919,
+      1289
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho có đạo hàm là $f'(x) = 3x^2 + 6x$."
+  },
+  {
+    "bbox": [
+      191,
+      1303,
+      938,
+      1345
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đã cho đồng biến trên khoảng $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      191,
+      1358,
+      793,
+      1400
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đã cho đạt cực đại tại $x = -2$."
+  },
+  {
+    "bbox": [
+      191,
+      1413,
+      970,
+      1455
+    ],
+    "category": "List-item",
+    "text": "d) Đồ thị của hàm số đã cho có dạng như hình vẽ sau."
+  },
+  {
+    "bbox": [
+      612,
+      1467,
+      1166,
+      2019
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      2051,
+      445,
+      2114
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      191,
+      2129,
+      978,
+      2172
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Ta có $f'(x) = (x^3 + 3x^2 - 4)' = 3x^2 + 6x$."
+  },
+  {
+    "bbox": [
+      153,
+      2252,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2252,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "41"
+  }
+]

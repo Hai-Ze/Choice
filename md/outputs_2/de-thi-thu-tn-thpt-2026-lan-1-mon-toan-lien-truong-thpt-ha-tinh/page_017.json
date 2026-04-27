@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      252,
+      79,
+      675,
+      176
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(CM, SB) = \\frac{\\sqrt{14}}{3} \\approx 1,25.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      307,
+      1566,
+      474
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Мặt bên $SAB$ là tam giác đều cạnh $\\sqrt{3}$, $ABC$ là tam giác vuông tại $A$ có cạnh $AC = 1$, góc giữa $AD$ và $(SAB)$ bằng $30^\\circ$. Tính thể tích khối chóp $S.ABCD$ (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      1208,
+      482,
+      1488,
+      781
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      885,
+      563,
+      999,
+      601
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      114,
+      601,
+      322,
+      640
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,87."
+  },
+  {
+    "bbox": [
+      252,
+      691,
+      960,
+      736
+    ],
+    "category": "Text",
+    "text": "+ Gọi $H$ là hình chiếu vuông góc của $C$ lên $(SAB)$."
+  },
+  {
+    "bbox": [
+      252,
+      741,
+      710,
+      837
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\begin{aligned} & BC \\parallel AD \\\\ & \\Rightarrow (AD, (SAB)) = (BC, (SAB)) \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      924,
+      1302,
+      971
+    ],
+    "category": "Text",
+    "text": "+ Ta có $(BC, (SAB)) = (BC, BH) = HBC = 30^\\circ$. Xét tam giác $ABC$ vuông tại"
+  },
+  {
+    "bbox": [
+      258,
+      976,
+      755,
+      1028
+    ],
+    "category": "Formula",
+    "text": "$$\nA \\Rightarrow BC = \\sqrt{AB^2 + AC^2} = \\sqrt{3+1} = 2\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1037,
+      1105,
+      1117
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét tam giác } BCH \\text{ vuông tại } H \\Rightarrow CH = BC \\cdot \\sin 30^\\circ = 2 \\cdot \\frac{1}{2} = 1\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1119,
+      1298,
+      1217
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì tam giác } SAB \\text{ đều nên ta có } S_{\\Delta SAB} = \\frac{1}{2} SA \\cdot SB \\cdot \\sin 60^\\circ = \\frac{1}{2} \\cdot \\sqrt{3} \\cdot \\sqrt{3} \\cdot \\frac{\\sqrt{3}}{2} = \\frac{3\\sqrt{3}}{4}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1219,
+      862,
+      1317
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Ta có } V_{S.ABC} = \\frac{1}{3} CH \\cdot S_{\\Delta SAB} = \\frac{1}{3} \\cdot 1 \\cdot \\frac{3\\sqrt{3}}{4} = \\frac{\\sqrt{3}}{4}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1321,
+      652,
+      1417
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{S.ABCD} = 2V_{S.ABC} = \\frac{\\sqrt{3}}{2} \\approx 0,87.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1485,
+      1604,
+      1670
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một bài thi trắc nghiệm có 12 câu hỏi, mỗi câu có 4 phương án lựa chọn trong đó có 1 đáp án đúng. Giả sử mỗi câu trả lời đúng được 5 điểm và mỗi câu trả lời sai bị trừ 2 điểm. Một học sinh không học bài nên đánh hú họa một câu trả lời. Tính xác suất để điểm của học sinh này không lớn hơn 4 (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      916,
+      1760,
+      1033,
+      1797
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      114,
+      1797,
+      322,
+      1837
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,84."
+  },
+  {
+    "bbox": [
+      114,
+      1889,
+      832,
+      1968
+    ],
+    "category": "Text",
+    "text": "Xác suất trả lời đúng của học sinh trong một câu là $\\frac{1}{4}$"
+  },
+  {
+    "bbox": [
+      114,
+      2001,
+      806,
+      2080
+    ],
+    "category": "Text",
+    "text": "Xác suất trả lời sai của học sinh trong một câu là $\\frac{3}{4}$"
+  }
+]

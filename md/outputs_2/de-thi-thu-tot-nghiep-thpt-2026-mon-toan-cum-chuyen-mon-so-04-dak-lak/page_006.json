@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      94,
+      107,
+      769,
+      148
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nghiệm của phương trình $\\log_3(2x-1) = 2$ là"
+  },
+  {
+    "bbox": [
+      133,
+      157,
+      258,
+      228
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{9}{2}$."
+  },
+  {
+    "bbox": [
+      453,
+      160,
+      571,
+      228
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{7}{2}$."
+  },
+  {
+    "bbox": [
+      822,
+      169,
+      950,
+      204
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1157,
+      169,
+      1285,
+      204
+    ],
+    "category": "List-item",
+    "text": "D. $x = 5$."
+  },
+  {
+    "bbox": [
+      94,
+      230,
+      1422,
+      275
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Kết quả đo chiều cao của 100 cây keo ba năm tuổi tại một nông trường được cho ở bảng sau"
+  },
+  {
+    "bbox": [
+      136,
+      280,
+      1436,
+      417
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao (m)</td><td>[8,4; 8,6)</td><td>[8,6; 8,8)</td><td>[8,8; 9,0)</td><td>[9,0; 9,2)</td><td>[9,2; 9,4)</td></tr><tr><td>Số cây</td><td>5</td><td>12</td><td>25</td><td>44</td><td>14</td></tr></table>"
+  },
+  {
+    "bbox": [
+      133,
+      419,
+      833,
+      462
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm bằng"
+  },
+  {
+    "bbox": [
+      133,
+      464,
+      276,
+      498
+    ],
+    "category": "List-item",
+    "text": "A. 0,286."
+  },
+  {
+    "bbox": [
+      453,
+      464,
+      585,
+      498
+    ],
+    "category": "List-item",
+    "text": "B. 0,115."
+  },
+  {
+    "bbox": [
+      822,
+      464,
+      958,
+      498
+    ],
+    "category": "List-item",
+    "text": "C. 0,826."
+  },
+  {
+    "bbox": [
+      1157,
+      464,
+      1294,
+      498
+    ],
+    "category": "List-item",
+    "text": "D. 0,886."
+  },
+  {
+    "bbox": [
+      94,
+      504,
+      1155,
+      547
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian, cho hình hộp $ABCD.A'B'C'D'$. Chọn мыngh đề sai."
+  },
+  {
+    "bbox": [
+      133,
+      555,
+      523,
+      602
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{CA'} = \\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{CC'}$."
+  },
+  {
+    "bbox": [
+      822,
+      555,
+      1211,
+      602
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      133,
+      612,
+      496,
+      659
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{BD} = \\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'}$."
+  },
+  {
+    "bbox": [
+      822,
+      612,
+      1188,
+      659
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{C'A'} = \\overrightarrow{C'B'} + \\overrightarrow{C'D'}$."
+  },
+  {
+    "bbox": [
+      94,
+      667,
+      1554,
+      765
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho cấp số cộng $(u_n)$ có các số hạng đầu lần lượt là 5;9;13;17;.... Tìm số hạng tổng quát $u_n$ của cấp số cộng?"
+  },
+  {
+    "bbox": [
+      133,
+      767,
+      330,
+      807
+    ],
+    "category": "List-item",
+    "text": "A. $u_n = 5n - 1$."
+  },
+  {
+    "bbox": [
+      453,
+      767,
+      646,
+      807
+    ],
+    "category": "List-item",
+    "text": "B. $u_n = 4n + 1$."
+  },
+  {
+    "bbox": [
+      822,
+      767,
+      1018,
+      807
+    ],
+    "category": "List-item",
+    "text": "C. $u_n = 5n + 1$."
+  },
+  {
+    "bbox": [
+      1157,
+      767,
+      1352,
+      807
+    ],
+    "category": "List-item",
+    "text": "D. $u_n = 4n - 1$."
+  },
+  {
+    "bbox": [
+      94,
+      819,
+      1554,
+      911
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian $Oxyz$, cho hình bình hành $ABCD$ có $A(-3;1;2)$, $B(-2;4;-1)$, $C(1;-3;3)$. Tọa độ điểm $D$ là"
+  },
+  {
+    "bbox": [
+      133,
+      913,
+      294,
+      959
+    ],
+    "category": "List-item",
+    "text": "A. $(2;0;0)$."
+  },
+  {
+    "bbox": [
+      453,
+      913,
+      629,
+      959
+    ],
+    "category": "List-item",
+    "text": "B. $(-4;2;5)$."
+  },
+  {
+    "bbox": [
+      822,
+      913,
+      999,
+      959
+    ],
+    "category": "List-item",
+    "text": "C. $(0;-6;6)$."
+  },
+  {
+    "bbox": [
+      1157,
+      913,
+      1352,
+      959
+    ],
+    "category": "List-item",
+    "text": "D. $(-6;7;-2)$."
+  },
+  {
+    "bbox": [
+      94,
+      963,
+      1395,
+      1008
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Một mẫu số liệu ghép nhóm có phương sai bằng 4 thì có độ lệch chuẩn bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      133,
+      1008,
+      212,
+      1042
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      453,
+      1008,
+      523,
+      1042
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      822,
+      1008,
+      889,
+      1042
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1157,
+      1008,
+      1236,
+      1042
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      94,
+      1079,
+      1520,
+      1124
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      94,
+      1126,
+      1199,
+      1173
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x) = x^3 + 3x^2 - 3x + 1$. Xét tính đúng sai các мыngh đề sau"
+  },
+  {
+    "bbox": [
+      94,
+      1185,
+      687,
+      1230
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của $f(x)$ là $f'(x) = x^2 + 6x - 3$."
+  },
+  {
+    "bbox": [
+      94,
+      1236,
+      698,
+      1289
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số nghịch biến trên khoảng $(-2;-1)$."
+  },
+  {
+    "bbox": [
+      94,
+      1291,
+      929,
+      1336
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số trên có hai cực trị gồm một cực tiểu và một cực đại."
+  },
+  {
+    "bbox": [
+      94,
+      1336,
+      837,
+      1381
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số trên đoạn $[-1;2]$ bằng 12."
+  },
+  {
+    "bbox": [
+      94,
+      1383,
+      1554,
+      1588
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Mộtchiếcmáymaybayđangbaytrênkhôngtrung. Xét hệ trục tọa độ $Oxyz$ được gắn như hình vẽ, trong đó gốc $O$ là vị trí của trạm kiểm soát không lưu và điểm $M(x; y; z)$ (km) biểu thị vị trí máy bay trên không trung. tại thời điểm 7 giờ máy bay đang ở vị trí có tọa độ $(50;120;4)$ và chuyển động với vận tốc $\\vec{v} = (300;400;3)$ (km/h). Kết quả làm tròn đến hàng đơn vị tính theo đơn vị km."
+  },
+  {
+    "bbox": [
+      362,
+      1593,
+      1285,
+      2121
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      707,
+      2209,
+      938,
+      2249
+    ],
+    "category": "Page-footer",
+    "text": "2/4 - Mã đề 1202"
+  }
+]

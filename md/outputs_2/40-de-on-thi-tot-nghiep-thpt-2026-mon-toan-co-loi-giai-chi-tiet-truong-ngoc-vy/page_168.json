@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      230,
+      108,
+      981,
+      539
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1064,
+      98,
+      1502,
+      539
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      643,
+      941,
+      690
+    ],
+    "category": "Text",
+    "text": "Gọi quăng đường của chiếc xe đạp tại thời điểm $t$ là $s(t)$."
+  },
+  {
+    "bbox": [
+      156,
+      715,
+      1332,
+      812
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của chiếc xe đạp tại thời điểm $t$ được xác định bởi $v(t) = \\begin{cases} 2t & \\text{khi } 0 \\le t \\le 1 \\\\ 2 & \\text{khi } 1 < t \\le 2 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      156,
+      837,
+      1543,
+      935
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chiếc xe đạp đi được trong 1 giây đầu tiên được xác định bởi công thức $s(t) = \\int_{0}^{1} v(t)dt$"
+  },
+  {
+    "bbox": [
+      156,
+      954,
+      1573,
+      1116
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chiếc xe đạp đi được trong khoảng thời gian từ 1 giây đến 2 giây được xác định bởi công thức $s(t) = \\int_{0}^{2} v(t)dt$"
+  },
+  {
+    "bbox": [
+      156,
+      1142,
+      1125,
+      1191
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường mà chiếc xe đạp đi được trong 2 giây đầu tiên là $4(m)$."
+  },
+  {
+    "bbox": [
+      807,
+      1218,
+      924,
+      1256
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1271,
+      971,
+      1393
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1446,
+      355,
+      1491
+    ],
+    "category": "Text",
+    "text": "a) Theo đồ thị:"
+  },
+  {
+    "bbox": [
+      156,
+      1510,
+      1342,
+      1559
+    ],
+    "category": "Text",
+    "text": "Trong 1 giây đầu đồ thị là một đường thẳng đi qua hai điểm $O, A$ nên có dạng: $v(t) = 2t$"
+  },
+  {
+    "bbox": [
+      156,
+      1585,
+      1325,
+      1634
+    ],
+    "category": "Text",
+    "text": "Trong giây thứ 2 đồ thị là một đường thẳng đi qua hai điểm $A, B$ nên có dạng: $v(t) = 2$"
+  },
+  {
+    "bbox": [
+      156,
+      1660,
+      1361,
+      1756
+    ],
+    "category": "Text",
+    "text": "Vậy, vận tốc của chiếc xe đạp tại thời điểm $t$ được xác định bởi $v(t) = \\begin{cases} 2t & \\text{khi } 0 \\le t \\le 1 \\\\ 2 & \\text{khi } 1 < t \\le 2 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      156,
+      1775,
+      1573,
+      1937
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường chiếc xe đạp đi được trong khoảng thời gian từ $a$ giây đến $b$ giây được xác định bởi công thức $s(t) = \\int_{a}^{b} v(t)dt$."
+  },
+  {
+    "bbox": [
+      156,
+      1956,
+      1573,
+      2118
+    ],
+    "category": "Text",
+    "text": "Do đó quăng đường chiếc xe đạp đi được trong khoảng thời gian từ 0 giây đến 1 giây được xác định bởi công thức $s(t) = \\int_{0}^{1} v(t)dt$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

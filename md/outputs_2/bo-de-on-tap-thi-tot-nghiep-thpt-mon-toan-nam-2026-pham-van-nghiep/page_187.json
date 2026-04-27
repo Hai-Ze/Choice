@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      595,
+      108,
+      1190,
+      301
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>0</td><td>15</td><td>45</td></tr><tr><td>V'(x)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>V(x)</td><td colspan=\"3\">243000</td></tr><tr><td></td><td>0</td><td></td><td>0</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      313,
+      1291,
+      381
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta có: $\\max_{(0;45)} V(x) = 243000 (cm^3)$ khi và chỉ khi $x = 15cm$"
+  },
+  {
+    "bbox": [
+      212,
+      388,
+      1322,
+      432
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của khối lăng trụ lục giác đều lớn nhất khi và chỉ khi $x = 15cm$."
+  },
+  {
+    "bbox": [
+      74,
+      432,
+      1575,
+      895
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Mộtchiếcdồng hồ cát như hình vẽ gồm hai phần đối xứng nhau qua mặt phẳng nằm ngang và đặt trong một hình trụ.Thiết diện thẳng đứng qua trục của nó là hai parabol chung đỉnh và đối xứng nhau qua mặt phẳng nằm ngang. Ban đầu lượng cát dồn hết ở phần trên của đồng hồ thì chiều cao của mực cát bằng $\\frac{2}{3}$ chiều cao của bên đó (xem hình vẽ). Cát cherve từ trên xuống dưới với tốc độ $v(t) = 0,2t + 13$ ($cm^3/phút$). Khi chiều cao của cát còn 4cm thì bề mặt trên cùng của cát tạo thành một đường tròn có chu vi bằng $8\\pi$ cm. Biết sau 20 phút thì cát cherve hết xuống phần bên dưới của đồng hồ. Hỏi chiều cao của khối trụ bên ngoài bằng bao nhiêu centimet? (Nếu kết quả là số thập phân thì làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      708,
+      892,
+      950,
+      1305
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1318,
+      952,
+      1360
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1362,
+      380,
+      1405
+    ],
+    "category": "Text",
+    "text": "Đáp số: 21."
+  },
+  {
+    "bbox": [
+      212,
+      1405,
+      1037,
+      1505
+    ],
+    "category": "Text",
+    "text": "Thể tích cát ban đầu là: $\\int_{0}^{20} v(t)dt = \\int_{0}^{20} (0,2t + 13)dt = 300 cm^3$."
+  },
+  {
+    "bbox": [
+      212,
+      1513,
+      1404,
+      1596
+    ],
+    "category": "Text",
+    "text": "Bán kính đường tròn đáy parabol tròn xoay khi chiều cao cát còn 4cm là: $\\frac{8\\pi}{2\\pi} = 4$."
+  },
+  {
+    "bbox": [
+      212,
+      1596,
+      1079,
+      1651
+    ],
+    "category": "Text",
+    "text": "Xét parabol $(P): y = a\\sqrt{x}$ đi qua điểm $A(4;4)$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      210,
+      1653,
+      762,
+      2077
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      2075,
+      1081,
+      2130
+    ],
+    "category": "Text",
+    "text": "Ta có: $A(4;4) \\in (P) \\Rightarrow 4 = a\\sqrt{4} \\Rightarrow a = 2$. Suy ra $(P): y = 2\\sqrt{x}$."
+  },
+  {
+    "bbox": [
+      212,
+      2135,
+      1569,
+      2228
+    ],
+    "category": "Text",
+    "text": "Khi đó thể tích parabol tròn xoay tạo ra bằng cách xoay hình phẳng giới hạn bởi parabol $(P)$, trục $Ox$ và hai đường thẳng $x = 0$, $x = h$ quanh trục $Ox$ là:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

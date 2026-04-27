@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      154,
+      141,
+      660,
+      181
+    ],
+    "category": "Text",
+    "text": "chọn ngẫu nhiên 1 trong 4 đáp án)."
+  },
+  {
+    "bbox": [
+      202,
+      202,
+      1521,
+      248
+    ],
+    "category": "Text",
+    "text": "c) **Sai.** Áp dụng công thức xác suất toàn phần $P(A) = P(B)P(A|B) + P(\\bar{B})P(A|\\bar{B})$, ta có:"
+  },
+  {
+    "bbox": [
+      608,
+      264,
+      1087,
+      303
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = 0,6 \\cdot 1 + 0,4 \\cdot 0,25 = 0,7.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      312,
+      879,
+      353
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để câu trả lời của Tuấn đúng là 70%."
+  },
+  {
+    "bbox": [
+      202,
+      366,
+      1189,
+      451
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.** Áp dụng công thức Bayes $P(B|A) = \\frac{P(B)P(A|B)}{P(A)}$, ta có:"
+  },
+  {
+    "bbox": [
+      686,
+      457,
+      1013,
+      538
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{0,6 \\cdot 1}{0,7} = \\frac{6}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      543,
+      1546,
+      657
+    ],
+    "category": "Text",
+    "text": "Vậy với câu trắc nghiệm mà câu trả lời của Tuấn là đúng thì xác suất để câu đó là câu mà Tuấn biết đáp án đúng là $\\frac{6}{7}$."
+  },
+  {
+    "bbox": [
+      202,
+      669,
+      1150,
+      712
+    ],
+    "category": "Text",
+    "text": "**Phần III. Câu trả lời ngắn** *Thí sinh trả lời từ câu 1 đến câu 6.*"
+  },
+  {
+    "bbox": [
+      154,
+      733,
+      1546,
+      861
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho khối chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, $BC = 3$, $SA \\perp (ABC)$ và $SB = 6$. Gọi $E$ là trung điểm của cạnh $SB$. Biết góc giữa hai đường thẳng $SA$ và $CE$ bằng $60^\\circ$. Tính thể tích của khối chóp đã cho."
+  },
+  {
+    "bbox": [
+      638,
+      874,
+      1063,
+      1357
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1397,
+      1546,
+      1499
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $H$ là trung điểm của $AB$. Trong tam giác $SAB$, vì $E$ là trung điểm $SB$ nên $EH$ là đường trung bình."
+  },
+  {
+    "bbox": [
+      154,
+      1495,
+      626,
+      1572
+    ],
+    "category": "Text",
+    "text": "Suy ra $EH // SA$ và $EH = \\frac{1}{2}SA$."
+  },
+  {
+    "bbox": [
+      154,
+      1570,
+      882,
+      1609
+    ],
+    "category": "Text",
+    "text": "Vì $SA \\perp (ABC)$ nên $EH \\perp (ABC) \\Rightarrow EH \\perp HC$."
+  },
+  {
+    "bbox": [
+      154,
+      1611,
+      1078,
+      1652
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai đường thẳng $SA$ và $CE$ bằng góc giữa $EH$ và $CE$."
+  },
+  {
+    "bbox": [
+      154,
+      1657,
+      955,
+      1697
+    ],
+    "category": "Text",
+    "text": "Trong tam giác $EHC$ vuông tại $H$, ta có $\\angle CEH = 60^\\circ$."
+  },
+  {
+    "bbox": [
+      202,
+      1719,
+      692,
+      1758
+    ],
+    "category": "Text",
+    "text": "Đặt $SA = h$ và $AB = c$ ($h, c > 0$)."
+  },
+  {
+    "bbox": [
+      195,
+      1778,
+      1546,
+      1821
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Xét tam giác } SAB \\text{ vuông tại } A: SA^2 + AB^2 = SB^2 \\Leftrightarrow h^2 + c^2 = 6^2 = 36 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1831,
+      1119,
+      1917
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Xét tam giác } EHC \\text{ vuông tại } H: CH = EH \\cdot \\tan 60^\\circ = \\frac{h\\sqrt{3}}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1922,
+      945,
+      2000
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Xét tam giác } ABC \\text{ vuông tại } B: HB = \\frac{AB}{2} = \\frac{c}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1998,
+      969,
+      2038
+    ],
+    "category": "Text",
+    "text": "Tam giác $HBC$ vuông tại $B$ (do $AB \\perp BC$), ta có:"
+  },
+  {
+    "bbox": [
+      295,
+      2046,
+      1487,
+      2148
+    ],
+    "category": "Formula",
+    "text": "$$\nCH^2 = HB^2 + BC^2 \\Leftrightarrow \\left(\\frac{h\\sqrt{3}}{2}\\right)^2 = \\left(\\frac{c}{2}\\right)^2 + 3^2 \\Leftrightarrow \\frac{3h^2}{4} = \\frac{c^2}{4} + 9 \\Leftrightarrow 3h^2 - c^2 = 36 \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      101,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "74"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

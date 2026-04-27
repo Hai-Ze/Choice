@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      85,
+      95,
+      832,
+      671
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      689,
+      585,
+      736
+    ],
+    "category": "Text",
+    "text": "Gọi $B_1$ là biến cố lấy được集合 1."
+  },
+  {
+    "bbox": [
+      76,
+      760,
+      590,
+      806
+    ],
+    "category": "Text",
+    "text": "Gọi $B_2$ là biến cố lấy được集合 2."
+  },
+  {
+    "bbox": [
+      76,
+      826,
+      855,
+      872
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố hai sản phẩm lấy ra không có phế phẩm."
+  },
+  {
+    "bbox": [
+      76,
+      882,
+      896,
+      929
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố hai sản phẩm lấy ra có đúng một phế phẩm."
+  },
+  {
+    "bbox": [
+      82,
+      949,
+      1140,
+      1043
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B_1) = \\frac{3}{8}, P(B_2) = \\frac{5}{8}, P(A) = \\frac{3}{8} \\cdot \\frac{C_{97}^2}{C_{100}^2} + \\frac{5}{8} \\cdot \\frac{C_{95}^2}{C_{100}^2}, P(B) = \\frac{3}{8} \\cdot \\frac{C_{97}^1 \\cdot C_3^1}{C_{100}^2} + \\frac{5}{8} \\cdot \\frac{C_{95}^1 \\cdot C_5^1}{C_{100}^2}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1070,
+      764,
+      1149
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để集合 được chọn là集合 1 bằng $\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      76,
+      1176,
+      699,
+      1350
+    ],
+    "category": "Formula",
+    "text": "$$\nb) P(A | B_1) = \\frac{P(AB_1)}{P(B_1)} = \\frac{\\frac{3}{8} \\cdot \\frac{C_{97}^2}{C_{100}^2}}{\\frac{3}{8}} = \\frac{C_{97}^2}{C_{100}^2} = \\frac{776}{825}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1375,
+      547,
+      1469
+    ],
+    "category": "Formula",
+    "text": "$$\nc) P(A) = \\frac{3}{8} \\cdot \\frac{C_{97}^2}{C_{100}^2} + \\frac{5}{8} \\cdot \\frac{C_{95}^2}{C_{100}^2} \\neq \\frac{1833}{2000}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1496,
+      801,
+      1682
+    ],
+    "category": "Formula",
+    "text": "$$\nd) P(B_1 | B) = \\frac{P(B_1 B)}{P(B)} = \\frac{\\frac{3}{8} \\cdot \\frac{C_{97}^1 \\cdot C_3^1}{C_{100}^2}}{\\frac{3}{8} \\cdot \\frac{C_{97}^1 \\cdot C_3^1}{C_{100}^2} + \\frac{5}{8} \\cdot \\frac{C_{95}^1 \\cdot C_5^1}{C_{100}^2}} = \\frac{873}{3248}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1704,
+      1495,
+      1883
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một vật đang ở nhiệt độ $100^\\circ C$ thì được đặt vào môi trường $X$ có nhiệt độ $35^\\circ C$. Kể từ đó, nhiệt độ của vật giảm theo tốc độ $T'(t) = -130 \\cdot e^{-2t}$ ($C/\\text{phút}$), trong đó $T(t)$ là nhiệt độ tính theo $^\\circ C$ tại thời điểm $t$ phút kể từ khi được đặt trong môi trường $X$. Khi đó:"
+  },
+  {
+    "bbox": [
+      76,
+      1902,
+      925,
+      1998
+    ],
+    "category": "Text",
+    "text": "a) Nhiệt độ của vật tại thời điểm $t = 2$ phút là $T(t) = \\int_{0}^{2} T'(t) dt$."
+  },
+  {
+    "bbox": [
+      76,
+      2019,
+      826,
+      2065
+    ],
+    "category": "Text",
+    "text": "b) Tốc độ giảm nhiệt độ của vật tăng dẫn theo thời gian."
+  },
+  {
+    "bbox": [
+      76,
+      2082,
+      557,
+      2179
+    ],
+    "category": "Formula",
+    "text": "$$\nc) T(t) = \\int_{0}^{2} T'(t) dt \\text{ với } T(0) = 100.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "bbox": [
+      118,
+      76,
+      549,
+      156
+    ],
+    "category": "Page-header",
+    "text": "TRƯỜNG THPT YÊN MÔ B\nMã đề 122"
+  },
+  {
+    "bbox": [
+      735,
+      76,
+      1377,
+      119
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ KHẢO SÁT CHẤT LƯỢNG ĐẦU NĂM"
+  },
+  {
+    "bbox": [
+      914,
+      121,
+      1196,
+      159
+    ],
+    "category": "Page-header",
+    "text": "Năm học 2025-2026"
+  },
+  {
+    "bbox": [
+      953,
+      159,
+      1158,
+      193
+    ],
+    "category": "Page-header",
+    "text": "Môn: Toán 12"
+  },
+  {
+    "bbox": [
+      663,
+      193,
+      1449,
+      236
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút (Không kể thời gian giao đề)"
+  },
+  {
+    "bbox": [
+      114,
+      275,
+      266,
+      315
+    ],
+    "category": "Text",
+    "text": "Họ và tên:"
+  },
+  {
+    "bbox": [
+      920,
+      271,
+      1109,
+      311
+    ],
+    "category": "Text",
+    "text": "Số báo danh:"
+  },
+  {
+    "bbox": [
+      114,
+      347,
+      1490,
+      431
+    ],
+    "category": "Text",
+    "text": "**Phần 1 (3 điểm). Trắc nghiệm nhiều phương án lựa chọn** (Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án)"
+  },
+  {
+    "bbox": [
+      114,
+      438,
+      1070,
+      512
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Rút gọn biểu thức $T = \\sin(\\frac{\\pi}{3} + x) + \\sin(\\frac{\\pi}{3} - x)$ ta được kết quả là"
+  },
+  {
+    "bbox": [
+      114,
+      516,
+      273,
+      607
+    ],
+    "category": "List-item",
+    "text": "A. $T = \\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      476,
+      541,
+      645,
+      579
+    ],
+    "category": "List-item",
+    "text": "B. $T = \\sin x$."
+  },
+  {
+    "bbox": [
+      838,
+      536,
+      1057,
+      583
+    ],
+    "category": "List-item",
+    "text": "C. $T = \\sqrt{3} \\cos x$."
+  },
+  {
+    "bbox": [
+      1198,
+      543,
+      1383,
+      579
+    ],
+    "category": "List-item",
+    "text": "D. $T = \\sin 2x$."
+  },
+  {
+    "bbox": [
+      114,
+      607,
+      1500,
+      701
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho $(u_n)$ là cấp số cộng có số hạng đầu bằng 2, công sai bằng 5. Tổng 12 số hạng đầu tiên của cấp số cộng đó bằng?"
+  },
+  {
+    "bbox": [
+      114,
+      701,
+      220,
+      735
+    ],
+    "category": "List-item",
+    "text": "A. 354."
+  },
+  {
+    "bbox": [
+      476,
+      701,
+      578,
+      735
+    ],
+    "category": "List-item",
+    "text": "B. 350."
+  },
+  {
+    "bbox": [
+      838,
+      701,
+      942,
+      735
+    ],
+    "category": "List-item",
+    "text": "C. 345."
+  },
+  {
+    "bbox": [
+      1198,
+      701,
+      1304,
+      735
+    ],
+    "category": "List-item",
+    "text": "D. 453."
+  },
+  {
+    "bbox": [
+      114,
+      735,
+      1490,
+      824
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hình chóp tức giác $S.ABCD$. Gọi $M; N$ lần lượt là trung điểm của $SD$ và $BD$. Khẳng định nào sau đây đúng"
+  },
+  {
+    "bbox": [
+      114,
+      824,
+      342,
+      860
+    ],
+    "category": "List-item",
+    "text": "A. $MN \\parallel (SAD)$."
+  },
+  {
+    "bbox": [
+      476,
+      824,
+      704,
+      860
+    ],
+    "category": "List-item",
+    "text": "B. $MN \\parallel (SDC)$."
+  },
+  {
+    "bbox": [
+      838,
+      824,
+      1066,
+      860
+    ],
+    "category": "List-item",
+    "text": "C. $MN \\parallel (SAC)$."
+  },
+  {
+    "bbox": [
+      1198,
+      824,
+      1422,
+      860
+    ],
+    "category": "List-item",
+    "text": "D. $MN \\parallel (SAB)$."
+  },
+  {
+    "bbox": [
+      114,
+      864,
+      709,
+      907
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hàm số nào sau đây liên tục tại $x = 1$"
+  },
+  {
+    "bbox": [
+      114,
+      907,
+      496,
+      1047
+    ],
+    "category": "List-item",
+    "text": "A. $f(x) = \\begin{cases} \\frac{x^2 - 1}{x - 1} & \\text{Khi } x < 1 \\\\ 2x + 1 & \\text{Khi } x \\ge 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      838,
+      907,
+      1254,
+      1047
+    ],
+    "category": "List-item",
+    "text": "B. $f(x) = \\begin{cases} \\frac{x^2 - 1}{x - 1} & \\text{Khi } x < 1 \\\\ 3x - 1 & \\text{Khi } x \\ge 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      114,
+      1051,
+      496,
+      1193
+    ],
+    "category": "List-item",
+    "text": "C. $f(x) = \\begin{cases} \\frac{x^2 - 1}{x - 1} & \\text{Khi } x < 1 \\\\ 2x - 1 & \\text{Khi } x \\ge 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      838,
+      1051,
+      1218,
+      1193
+    ],
+    "category": "List-item",
+    "text": "D. $f(x) = \\begin{cases} \\frac{x^2 - 1}{x - 1} & \\text{Khi } x < 1 \\\\ x - 1 & \\text{Khi } x \\ge 1 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      114,
+      1201,
+      1075,
+      1265
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho biểu thức $T = x^{\\frac{3}{4}}\\sqrt[4]{x^5} (x > 0)$. Khẳng định nào sau đây đúng"
+  },
+  {
+    "bbox": [
+      114,
+      1273,
+      273,
+      1334
+    ],
+    "category": "List-item",
+    "text": "A. $T = x^{-\\frac{1}{2}}$."
+  },
+  {
+    "bbox": [
+      476,
+      1285,
+      626,
+      1323
+    ],
+    "category": "List-item",
+    "text": "B. $T = x^{-2}$."
+  },
+  {
+    "bbox": [
+      838,
+      1285,
+      974,
+      1323
+    ],
+    "category": "List-item",
+    "text": "C. $T = x^2$."
+  },
+  {
+    "bbox": [
+      1198,
+      1273,
+      1342,
+      1334
+    ],
+    "category": "List-item",
+    "text": "D. $T = x^{\\frac{1}{2}}$."
+  },
+  {
+    "bbox": [
+      114,
+      1334,
+      1519,
+      1418
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình lăng trụ đều $ABC.A'B'C'$ có cạnh đáy bằng $2a$, cạnh bên bằng $3a$. Tính số đo của góc nhị diện $[A; B'C'; A']$"
+  },
+  {
+    "bbox": [
+      114,
+      1426,
+      212,
+      1462
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      476,
+      1426,
+      572,
+      1462
+    ],
+    "category": "List-item",
+    "text": "B. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      838,
+      1426,
+      934,
+      1462
+    ],
+    "category": "List-item",
+    "text": "C. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      1198,
+      1426,
+      1298,
+      1462
+    ],
+    "category": "List-item",
+    "text": "D. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      114,
+      1462,
+      1449,
+      1552
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình chóp $S.ABC$, biết $SA \\perp (ABC)$ và tam giác $ABC$ vuông tại $A$. Đường thẳng $AC$ vuông góc với mặt phẳng nào sau đây"
+  },
+  {
+    "bbox": [
+      114,
+      1552,
+      252,
+      1589
+    ],
+    "category": "List-item",
+    "text": "A. $(SAB)$."
+  },
+  {
+    "bbox": [
+      476,
+      1552,
+      614,
+      1589
+    ],
+    "category": "List-item",
+    "text": "B. $(SAC)$."
+  },
+  {
+    "bbox": [
+      838,
+      1552,
+      974,
+      1589
+    ],
+    "category": "List-item",
+    "text": "C. $(SBC)$."
+  },
+  {
+    "bbox": [
+      1198,
+      1552,
+      1344,
+      1589
+    ],
+    "category": "List-item",
+    "text": "D. $(ABC)$."
+  },
+  {
+    "bbox": [
+      114,
+      1591,
+      1506,
+      1718
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Hai xạ thủ $A$ và $B$ cùng bắn súng một cách độc lập. Xác suất bắn trúng bia của hai xạ thủ $A$ và $B$ lần lượt bằng $\\frac{2}{3}$ và $\\frac{3}{5}$. Xác suất để cả hai xạ thủ $A$ và $B$ cùng bắn trúng bia là:"
+  },
+  {
+    "bbox": [
+      114,
+      1724,
+      208,
+      1803
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{13}{15}$."
+  },
+  {
+    "bbox": [
+      476,
+      1724,
+      566,
+      1803
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{19}{15}$."
+  },
+  {
+    "bbox": [
+      838,
+      1724,
+      918,
+      1803
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      1198,
+      1724,
+      1278,
+      1803
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{2}{5}$."
+  },
+  {
+    "bbox": [
+      114,
+      1803,
+      1500,
+      1888
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Từ một集合 gồm 13 quả cầu cân đối và đồng chất, trong đó có 8 quả cầu màu trắng và 5 quả cầu màu đen. Lấy ngẫu nhiên đồng thời 3 quả cầu từ集合. Tính xác suất lấy được 3 quả cầu cùng màu."
+  },
+  {
+    "bbox": [
+      114,
+      1890,
+      208,
+      1971
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{3}{13}$."
+  },
+  {
+    "bbox": [
+      476,
+      1890,
+      566,
+      1971
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{20}{39}$."
+  },
+  {
+    "bbox": [
+      838,
+      1890,
+      930,
+      1971
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{19}{39}$."
+  },
+  {
+    "bbox": [
+      1198,
+      1890,
+      1294,
+      1971
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{17}{39}$."
+  },
+  {
+    "bbox": [
+      114,
+      1977,
+      773,
+      2057
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Đạo hàm của hàm số $y = \\frac{2}{3}x^3 + x^2 + 1$ là"
+  },
+  {
+    "bbox": [
+      114,
+      2065,
+      333,
+      2103
+    ],
+    "category": "List-item",
+    "text": "A. $y = 6x^2 - 2x$."
+  },
+  {
+    "bbox": [
+      476,
+      2065,
+      739,
+      2103
+    ],
+    "category": "List-item",
+    "text": "B. $y = 2x^2 + 2x + 1$."
+  },
+  {
+    "bbox": [
+      838,
+      2065,
+      1055,
+      2103
+    ],
+    "category": "List-item",
+    "text": "C. $y = 3x^2 + 2x$."
+  },
+  {
+    "bbox": [
+      1198,
+      2065,
+      1418,
+      2103
+    ],
+    "category": "List-item",
+    "text": "D. $y = 2x^2 + 2x$."
+  },
+  {
+    "bbox": [
+      114,
+      2111,
+      1278,
+      2156
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tiếp tuyến của đồ thị hàm số $y = x^2 + 4x - 5$ tại điểm có hoành độ bằng $-5$ là"
+  },
+  {
+    "bbox": [
+      114,
+      2162,
+      321,
+      2200
+    ],
+    "category": "List-item",
+    "text": "A. $y = -6x - 6$."
+  },
+  {
+    "bbox": [
+      476,
+      2162,
+      697,
+      2200
+    ],
+    "category": "List-item",
+    "text": "B. $y = -6x - 30$."
+  },
+  {
+    "bbox": [
+      838,
+      2162,
+      1040,
+      2200
+    ],
+    "category": "List-item",
+    "text": "C. $y = -6x - 1$."
+  },
+  {
+    "bbox": [
+      1198,
+      2162,
+      1404,
+      2200
+    ],
+    "category": "List-item",
+    "text": "D. $y = -6x + 5$."
+  },
+  {
+    "bbox": [
+      726,
+      2269,
+      871,
+      2309
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 122"
+  },
+  {
+    "bbox": [
+      1515,
+      2275,
+      1529,
+      2307
+    ],
+    "category": "Page-footer",
+    "text": "1"
+  }
+]

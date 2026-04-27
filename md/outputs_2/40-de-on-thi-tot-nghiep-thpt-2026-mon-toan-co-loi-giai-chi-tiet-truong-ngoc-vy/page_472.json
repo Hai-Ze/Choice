@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      776,
+      147
+    ],
+    "category": "Text",
+    "text": "Mặt cắt đối xứng nên $A = A_1 + A_2 = 2A_1 \\approx 353,92 m^2$"
+  },
+  {
+    "bbox": [
+      76,
+      174,
+      1020,
+      223
+    ],
+    "category": "Text",
+    "text": "Thể tích không khí: $V = A \\cdot 30 \\approx 353,92 \\cdot 30 \\approx 10617,6m^3 \\approx 10,6(ML)$"
+  },
+  {
+    "bbox": [
+      76,
+      243,
+      1495,
+      587
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử doanh số (tính bằng số sản phẩm) của một sản phẩm mới (trong vòng một số năm nhất định) tuân theo quy luật logistic được mô hình hoá bằng hàm số $f(t) = \\frac{5000}{1+5.e^{-t}}, (t \\ge 0)$, trong đó thời gian $t$ được tính bằng năm kể từ khi phát hành sản phẩm mới. Khi đó đạo hàm $f'(t)$ là biểu thị tốc độ bán hàng. Hỏi sau khi phát hành bao nhiêu năm thì tốc độ bán hàng là lớn nhất? (làm tròn kết quả đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      76,
+      604,
+      413,
+      640
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      663,
+      842,
+      701
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      721,
+      245,
+      759
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1,6"
+  },
+  {
+    "bbox": [
+      76,
+      786,
+      546,
+      868
+    ],
+    "category": "Text",
+    "text": "Xét hàm số: $f(t) = \\frac{5000}{1+5.e^{-t}}, (t \\ge 0)$"
+  },
+  {
+    "bbox": [
+      76,
+      891,
+      1495,
+      1004
+    ],
+    "category": "Text",
+    "text": "Vì đạo hàm $f'(t)$ là biểu thị tốc độ bán hàng nên để biết được sau khi phát hành bao nhiêu năm thì tốc độ bán hàng là lớn nhất ta tìm GTLN của hàm số:"
+  },
+  {
+    "bbox": [
+      82,
+      1028,
+      427,
+      1115
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(t) = \\frac{25000e^{-t}}{(1+5.e^{-t})^2}, (t \\ge 0)\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1145,
+      445,
+      1232
+    ],
+    "category": "Formula",
+    "text": "$$\nf''(t) = \\frac{25000e^{-t}(5.e^{-t} - 1)}{(1+5.e^{-t})^3}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1262,
+      1042,
+      1348
+    ],
+    "category": "Formula",
+    "text": "$$\nf'''(t) = 0 \\Leftrightarrow \\frac{25000e^{-t}(5.e^{-t} - 1)}{(1+5.e^{-t})^3} = 0 \\Leftrightarrow 5e^{-t} - 1 = 0 \\Leftrightarrow e^{-t} = \\frac{1}{5} \\Leftrightarrow t = \\ln 5\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1371,
+      298,
+      1413
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      78,
+      1431,
+      787,
+      1655
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>t</td><td>0</td><td>ln 5</td><td>+∞</td></tr><tr><td>f''(t)</td><td>+</td><td>0</td><td>-</td></tr><tr><td>f'(t)</td><td colspan=\"3\">Max</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1677,
+      648,
+      1726
+    ],
+    "category": "Text",
+    "text": "Hàm số $f'(t)$ đạt GTLN khi $t = \\ln 5 \\approx 1,6$"
+  },
+  {
+    "bbox": [
+      76,
+      1748,
+      916,
+      1792
+    ],
+    "category": "Text",
+    "text": "Vậy sau khi phát hành 1,6 năm thì tốc độ bán hàng là lớn nhất."
+  },
+  {
+    "bbox": [
+      76,
+      1804,
+      1495,
+      2076
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người đưa thư xuất phát từ bưu điện ở vị trí A, các điểm cần phát thư nằm dọc các con đường cần đi qua. Biết rằng người này phải đi trên mỗi con đường ít nhất một lần (để phát được thư cho tất cả các điểm cần phát nằm dọc theo con đường đó) và cuối cùng quay lại điểm xuất phát. Độ dài các con đường như hình vẽ (đơn vị độ dài). Hỏi tổng quăng đường người đưa thư có thể đi ngắn nhất có thể là bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

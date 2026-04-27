@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      67,
+      93,
+      846,
+      368
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Trongep gây quỹ cho chương trình “Áo ấm夏季” , câu lạc bộ tình nguyện của Trường THPT Nguyễn Thị Minh Khai tổ chức một gian hàng bán đồ ăn nhanh trong ngày hội của trường. Hai món được nhiều học sinh yêu thích là Nước chanh và Khoai Tây chiên. Để thuận tiện cho việc bán hàng, câu lạc bộ thiết kế hai loại combo:"
+  },
+  {
+    "bbox": [
+      165,
+      365,
+      833,
+      447
+    ],
+    "category": "List-item",
+    "text": "- Combo A giá 40 nghìn đồng, gồm 2 cốc nước chanh và 1 phần khoai Tây chiên."
+  },
+  {
+    "bbox": [
+      165,
+      441,
+      831,
+      523
+    ],
+    "category": "List-item",
+    "text": "- Combo B giá 60 nghìn đồng, gồm 3 cốc nước chanh và 2 phần khoai Tây chiên."
+  },
+  {
+    "bbox": [
+      114,
+      518,
+      827,
+      717
+    ],
+    "category": "Text",
+    "text": "Do số nguyên liệu chuẩn bị có hạn, trong ngày hôm đó câu lạc bộ chỉ có thể sử dụng không quá 180 cốc nước chanh và không quá 110 phần khoai Tây chiên. Hỏi số tiền lớn nhất mà câu lạc bộ có thể thu được là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      122,
+      725,
+      227,
+      760
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      122,
+      758,
+      943,
+      804
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ là số combo A và combo B mà câu lạc bộ bán được"
+  },
+  {
+    "bbox": [
+      114,
+      807,
+      527,
+      1005
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo giả thiết: } \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ 3x + 2y \\le 180 \\\\ x + 2y \\le 110 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      122,
+      1010,
+      662,
+      1058
+    ],
+    "category": "Formula",
+    "text": "$$\nF(x, y) = 40x + 60y \\text{ đạt giá trị lớn nhất.}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1061,
+      943,
+      1196
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ phương trình là hình không bị tô màu ở hình bên. Các điểm $O(0;0)$, $A(0;55)$, $B(30;40)$, $C(90;0)$ là các điểm biên."
+  },
+  {
+    "bbox": [
+      114,
+      1200,
+      484,
+      1421
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta thấy } \\begin{cases} F(0,0) = 0 \\\\ F(0,55) = 3300 \\\\ F(30,40) = 3600 \\\\ F(90,0) = 3600 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1421,
+      972,
+      1468
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền lớn nhất mà câu lạc bộ thu được 3600 (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      963,
+      131,
+      1492,
+      260
+    ],
+    "category": "Section-header",
+    "text": "♥ GIAN HÀNG ỦNG HỘ ♥\nChương Trình “Áo ấm Mùa Đông”"
+  },
+  {
+    "bbox": [
+      887,
+      258,
+      1604,
+      614
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1045,
+      606,
+      1421,
+      658
+    ],
+    "category": "Text",
+    "text": "♥ Ứng Hộ Vì Áo ấm Vùng Cao ♥"
+  },
+  {
+    "bbox": [
+      1015,
+      807,
+      1583,
+      1220
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1232,
+      2075,
+      1628,
+      2116
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9 – Đáp Án Mã Đề 0101"
+  }
+]

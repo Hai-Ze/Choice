@@ -1,0 +1,189 @@
+[
+  {
+    "bbox": [
+      153,
+      141,
+      625,
+      181
+    ],
+    "category": "Text",
+    "text": "chọn định $B(4; 6)$ thì $a + b = 10$."
+  },
+  {
+    "bbox": [
+      153,
+      201,
+      1547,
+      285
+    ],
+    "category": "Text",
+    "text": "Vậy để đạt số điểm thưởng lớn nhất đội chơi cần pha chế lượng nước tương ứng các giá trị $a, b$ tìm được."
+  },
+  {
+    "bbox": [
+      153,
+      308,
+      1547,
+      391
+    ],
+    "category": "Text",
+    "text": "Bài 6. Vương đưa ra cho con trai của anh ấy một câu đố như sau: trong một ma trận $3 \\times 3$, điền 9 số tự nhiên từ 1 đến 9 thỏa mãn hai điều kiện:"
+  },
+  {
+    "bbox": [
+      195,
+      412,
+      1228,
+      453
+    ],
+    "category": "List-item",
+    "text": "* Tổng của mỗi hàng, mỗi cột và tổng của 3 ô chéo nhau là bằng nhau."
+  },
+  {
+    "bbox": [
+      195,
+      470,
+      880,
+      508
+    ],
+    "category": "List-item",
+    "text": "* Các số điền vào là các số đối một khác nhau."
+  },
+  {
+    "bbox": [
+      153,
+      531,
+      1103,
+      571
+    ],
+    "category": "Text",
+    "text": "Số cách mà con trai anh Vương điền vào ma trận bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      752,
+      577,
+      946,
+      773
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      807,
+      198,
+      846
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      807,
+      445,
+      869
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      752,
+      875,
+      946,
+      1070
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1110,
+      1044,
+      1150
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7 + x_8 + x_9 = 45. \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1168,
+      1547,
+      1344
+    ],
+    "category": "Text",
+    "text": "Tổng mỗi hàng, mỗi cột, mỗi đường chéo bằng nhau nên tổng mỗi hàng, mỗi cột, mỗi đường chéo bằng $45 : 3 = 15$. $\\Rightarrow x_1 + x_5 + x_9 = x_2 + x_5 + x_8 = x_3 + x_5 + x_7 = x_4 + x_5 + x_6 = 15$. $\\Rightarrow (x_1+x_2+x_3+x_4+x_6+x_7+x_8+x_9)+4x_5 = 60$. $\\Leftrightarrow (x_1+x_2+x_3+x_4+x_5+x_6+x_7+x_8+x_9)+3x_5 = 60$. (2) Từ (1) và (2) suy ra $45 + 3x_5 = 60 \\Rightarrow x_5 = 5$."
+  },
+  {
+    "bbox": [
+      153,
+      1363,
+      1547,
+      1539
+    ],
+    "category": "Text",
+    "text": "Giả sử các ô ở góc $x_1, x_3, x_7, x_9$ đều là số lẻ. Mà $x_1 + x_2 + x_3 = 15$ là số lẻ $\\Rightarrow x_2$ phải là số lẻ (vì tổng hai số lẻ $x_1, x_3$ là số chData). Lập luận tương tự cho các ô cạnh khác, ta thấy tất cả 9 ô đều phải là số lẻ, điều này vô lý vì chỉ có 5 số lẻ từ 1 đến 9. $\\Rightarrow x_1, x_3, x_7, x_9$ phải là các số chData từ tập $\\{2, 4, 6, 8\\}$."
+  },
+  {
+    "bbox": [
+      195,
+      1566,
+      1547,
+      1651
+    ],
+    "category": "List-item",
+    "text": "* Chọn vị trí cho số 2 ở các góc: có 4 cách chọn. Khi đó số đối diện qua tâm với nó phải là $15 - 5 - 2 = 8$ (có 1 cách)."
+  },
+  {
+    "bbox": [
+      195,
+      1668,
+      1547,
+      1754
+    ],
+    "category": "List-item",
+    "text": "* Chọn vị trí cho số 4 ở các góc còn lại: có 2 cách chọn. Khi đó số đối diện qua tâm với nó phải là $15 - 5 - 4 = 6$ (có 1 cách)."
+  },
+  {
+    "bbox": [
+      195,
+      1771,
+      1547,
+      1857
+    ],
+    "category": "List-item",
+    "text": "* Với mỗi cách sắp xếp các góc này, các số còn lại ở các cạnh đều được xác định duy nhất để tổng hàng/cột bằng 15."
+  },
+  {
+    "bbox": [
+      153,
+      1886,
+      809,
+      1926
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Có tất cả } 4 \\cdot 2 = 8 \\text{ cách sắp xếp thỏa mãn.}\n$$"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "66"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

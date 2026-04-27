@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      1198,
+      182
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để cả 3 ngỗng con tử vong sau “Cú nhảy tử thần” là 0,02."
+  },
+  {
+    "bbox": [
+      190,
+      194,
+      1290,
+      237
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để ít nhất 1 ngỗng con sống sót sau “Cú nhảy tử thần” là 0,998."
+  },
+  {
+    "bbox": [
+      188,
+      249,
+      1305,
+      292
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để có đúng 2 ngỗng con sống sót sau “Cú nhảy tử thần” là 0,306."
+  },
+  {
+    "bbox": [
+      153,
+      307,
+      1549,
+      411
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $A$ là biến cố ngỗng con đực sống sót, $B$ là biến cố ngỗng con cái thứ nhất sống sót, $C$ là biến cố ngỗng con cái thứ hai sống sót."
+  },
+  {
+    "bbox": [
+      202,
+      429,
+      1076,
+      471
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, các biến cố $A, B, C$ độc lập. Ta có các xác suất:"
+  },
+  {
+    "bbox": [
+      202,
+      488,
+      596,
+      532
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = 0,8 \\Rightarrow P(\\bar{A}) = 0,2.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      549,
+      600,
+      594
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = 0,9 \\Rightarrow P(\\bar{B}) = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      611,
+      600,
+      655
+    ],
+    "category": "Formula",
+    "text": "$$\nP(C) = 0,9 \\Rightarrow P(\\bar{C}) = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      683,
+      809,
+      725
+    ],
+    "category": "List-item",
+    "text": "◇ **a):** Xác suất cả 3 con cùng sống sót là:"
+  },
+  {
+    "bbox": [
+      235,
+      742,
+      1095,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A \\cdot B \\cdot C) = P(A) \\cdot P(B) \\cdot P(C) = 0,8 \\cdot 0,9 \\cdot 0,9 = 0,648.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      798,
+      569,
+      841
+    ],
+    "category": "Text",
+    "text": "⇒ Phát biểu a) **Đúng**."
+  },
+  {
+    "bbox": [
+      194,
+      858,
+      804,
+      900
+    ],
+    "category": "List-item",
+    "text": "◇ **b):** Xác suất cả 3 con cùng tử vong là:"
+  },
+  {
+    "bbox": [
+      235,
+      912,
+      1095,
+      957
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A} \\cdot \\bar{B} \\cdot \\bar{C}) = P(\\bar{A}) \\cdot P(\\bar{B}) \\cdot P(\\bar{C}) = 0,2 \\cdot 0,1 \\cdot 0,1 = 0,002.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      973,
+      787,
+      1016
+    ],
+    "category": "Text",
+    "text": "Vì $0,002 \\neq 0,02$ nên phát biểu b) **Sai**."
+  },
+  {
+    "bbox": [
+      194,
+      1032,
+      1516,
+      1075
+    ],
+    "category": "List-item",
+    "text": "◇ **c):** Xác suất để ít nhất 1 ngỗng con sống sót là biến cố đối của \"cả 3 con cùng tử vong\":"
+  },
+  {
+    "bbox": [
+      235,
+      1087,
+      853,
+      1132
+    ],
+    "category": "Formula",
+    "text": "$$\nP = 1 - P(\\bar{A} \\cdot \\bar{B} \\cdot \\bar{C}) = 1 - 0,002 = 0,998.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1150,
+      417,
+      1191
+    ],
+    "category": "Text",
+    "text": "⇒ c) **Đúng**."
+  },
+  {
+    "bbox": [
+      194,
+      1207,
+      973,
+      1250
+    ],
+    "category": "List-item",
+    "text": "◇ **d):** Để có đúng 2 con sống sót, ta có 3 trường hợp:"
+  },
+  {
+    "bbox": [
+      235,
+      1265,
+      1149,
+      1308
+    ],
+    "category": "List-item",
+    "text": "- TH1: Đực sống, Cái 1 sống, Cái 2死: $0,8 \\cdot 0,9 \\cdot 0,1 = 0,072$."
+  },
+  {
+    "bbox": [
+      235,
+      1324,
+      1149,
+      1367
+    ],
+    "category": "List-item",
+    "text": "- TH2: Đực sống, Cái 1死, Cái 2 sống: $0,8 \\cdot 0,1 \\cdot 0,9 = 0,072$."
+  },
+  {
+    "bbox": [
+      235,
+      1383,
+      1149,
+      1426
+    ],
+    "category": "List-item",
+    "text": "- TH3: Đực死, Cái 1 sống, Cái 2 sống: $0,2 \\cdot 0,9 \\cdot 0,9 = 0,162$."
+  },
+  {
+    "bbox": [
+      235,
+      1440,
+      1297,
+      1483
+    ],
+    "category": "Text",
+    "text": "Xác suất cần tìm: $0,072 + 0,072 + 0,162 = 0,306$. ⇒ Phát biểu d) **Đúng**."
+  },
+  {
+    "bbox": [
+      153,
+      1504,
+      1156,
+      1587
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hàm số $y = f(x) = \\frac{-x^2 + x - 2}{x + 1}$ có đồ thị $(C)$. Khi đó:"
+  },
+  {
+    "bbox": [
+      190,
+      1597,
+      761,
+      1685
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } y' = f'(x) = \\frac{-x^2 - 2x + 3}{(x + 1)^2}; \\forall x \\neq -1.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      1693,
+      1328,
+      1736
+    ],
+    "category": "List-item",
+    "text": "b) Tiệm cận xiên của đồ thị hàm số là đường thẳng có phương trình $y = x - 2$."
+  },
+  {
+    "bbox": [
+      190,
+      1748,
+      1061,
+      1791
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng cách giữa hai điểm cực trị của đồ thị $(C)$ bằng 4."
+  },
+  {
+    "bbox": [
+      188,
+      1803,
+      1546,
+      1892
+    ],
+    "category": "List-item",
+    "text": "d) Trên đồ thị $(C)$ có đúng 4 điểm $M$ có tung độ và hoành độ là các số nguyên sao cho tiếp tuyến của $(C)$ tại $M$ tạo với hai đường tiệm cận $(C)$ một tam giác có diện tích bằng 8."
+  },
+  {
+    "bbox": [
+      153,
+      1906,
+      1130,
+      1970
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Hàm số đã cho có tập xác định $D = \\mathbb{R} \\setminus \\{-1\\}$."
+  },
+  {
+    "bbox": [
+      202,
+      1982,
+      863,
+      2066
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f(x) = \\frac{-x^2 + x - 2}{x + 1} = -x + 2 - \\frac{4}{x + 1}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2076,
+      238,
+      2116
+    ],
+    "category": "Text",
+    "text": "a)"
+  },
+  {
+    "bbox": [
+      202,
+      2127,
+      1526,
+      2217
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = \\frac{(-2x + 1)(x + 1) - 1(-x^2 + x - 2)}{(x + 1)^2} = \\frac{-2x^2 - 2x + x + 1 + x^2 - x + 2}{(x + 1)^2} = \\frac{-x^2 - 2x + 3}{(x + 1)^2}.\n$$"
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "84"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      146,
+      77,
+      1529,
+      131
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho mặt cầu $(S): (x+1)^2 + (y-2)^2 + (z-1)^2 = 9$ và điểm $A(1;-2;5)$."
+  },
+  {
+    "bbox": [
+      196,
+      138,
+      954,
+      189
+    ],
+    "category": "List-item",
+    "text": "a) Miặt cầu $(S)$ có tâm $I(-1;2;-1)$ và bán kính $R=3$."
+  },
+  {
+    "bbox": [
+      196,
+      195,
+      638,
+      241
+    ],
+    "category": "List-item",
+    "text": "b) Điều $A$ nằm ngoài miặt cầu."
+  },
+  {
+    "bbox": [
+      196,
+      244,
+      1424,
+      295
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình miặt phẳng tiếp xúc với miặt cầu $(S)$ tại $T(-2;0;3)$ là $x+2y-2z+8=0$."
+  },
+  {
+    "bbox": [
+      196,
+      306,
+      1587,
+      409
+    ],
+    "category": "List-item",
+    "text": "d) Xét các điểm $M$ thuộc $(S)$ sao cho đường thẳng $AM$ tiếp xúc với $(S)$, điểm $M$ luôn thuộc một miặt phẳng cố định có phương trình là $2x-4y+4z+3=0$."
+  },
+  {
+    "bbox": [
+      146,
+      413,
+      1587,
+      502
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhóm nghiên cứu quan sát sự phát triển của một whần thể vi kur ther trong môi trường nuôi cây hạn chế."
+  },
+  {
+    "bbox": [
+      146,
+      507,
+      1587,
+      606
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 1 (từ $t=0$ đến $t=3$ giờ): Số lượng vi kur ther tăng trưởng theo hàm mũ $N(t) = 50e^{0,8t}$ (với $t$ tính bằng giờ, $N$ tính bằng triệu cá thể)."
+  },
+  {
+    "bbox": [
+      146,
+      606,
+      1587,
+      702
+    ],
+    "category": "Text",
+    "text": "- Giai đoạn 2 (sau 3 giờ): Do nguồn dinh dưỡng cạn kiệt, tốc độ tăng trưởng giảm dần. Từ thời điểm này, số lượng vi kur ther lúc này tuân theo hàm số $M(t) = A - Be^{-0,6t}$."
+  },
+  {
+    "bbox": [
+      196,
+      706,
+      1023,
+      753
+    ],
+    "category": "List-item",
+    "text": "a) Số lượng vi kur ther tại thời điểm bắt đầu là 50 triệu cá thể."
+  },
+  {
+    "bbox": [
+      196,
+      753,
+      1336,
+      799
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ tăng trưởng của vi kur ther tại thời điểm $t=3$ lớn hơn 440 triệu cá thể/giờ."
+  },
+  {
+    "bbox": [
+      196,
+      806,
+      478,
+      887
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị $B = \\frac{200}{3}$."
+  },
+  {
+    "bbox": [
+      196,
+      892,
+      1587,
+      983
+    ],
+    "category": "List-item",
+    "text": "d) Số lượng vi kur ther tối đa (ngưỡng bão hòa) mà môi trường này có thể duy trì 1285 triệu cá thể (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      146,
+      983,
+      1587,
+      1249
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một thư viện thực hiện khảo sát 200 độc giả chia làm hai nhóm tuổi: nhóm trẻ (dưới 35 tuổi) và nhóm trung niên (từ 35 tuổi trở lên). Các độc giả chỉ lựa chọn đọc 1 trong 3 loại sách: văn học, khoa học và ẩm thực. Kết quả thu được cho thấy: có 120 người thuộc nhóm trẻ. Có 80 người lựa chọn đọc sách văn học. Số người thuộc nhóm trung niên lựa chọn đọc sách khoa học là 20 người. Biết rằng hai biến cố: “độc giả thuộc nhóm trung niên” và “độc giả lựa chọn đọc sách văn học” là hai biến cố độc lập. Chọn ngẫu nhiên một độc giả được khảo sát."
+  },
+  {
+    "bbox": [
+      196,
+      1249,
+      1051,
+      1295
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để độc giả được chọn là thuộc nhóm trẻ bằng 0,6."
+  },
+  {
+    "bbox": [
+      196,
+      1299,
+      1232,
+      1345
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để độc giả được chọn là trung niên và đọc sách văn học là 0,2."
+  },
+  {
+    "bbox": [
+      196,
+      1349,
+      1305,
+      1395
+    ],
+    "category": "List-item",
+    "text": "c) Trong số các độc giả lựa chọn sách văn học, có đúng 48 người thuộc nhóm trẻ."
+  },
+  {
+    "bbox": [
+      196,
+      1395,
+      1579,
+      1442
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng người được chọn thuộc nhóm trung niên, xác suất để người đó đọc sách ẩm thực là 35%."
+  },
+  {
+    "bbox": [
+      146,
+      1442,
+      767,
+      1483
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      146,
+      1487,
+      1587,
+      1658
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nhânep Noen, gia đình bạn An cùng nhau trang trí nhà cửa. Tại góc phòng khách, bạn An dự kiến để một cây thông Noen ở vị trí $M$ cách haiхức tường lần lượt là $1m, 2m$. Để cho căn phòng sáng hơn, bạn An sẽ lấp thêm dây đèn led $AB$ dưới sàn nhà, đi qua vị trí đặt cây thông, hai đầu dây đèn chạm vào tường. Hỏi độ dài dây đèn ngắn nhất bạn An cần dùng là bao nhiêu mét? (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      348,
+      1684,
+      755,
+      1926
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      839,
+      1663,
+      1239,
+      1906
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      146,
+      1932,
+      1587,
+      2078
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình chóp tam giác $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$, cạnh bên $SA$ vuông góc với miặt phẳng đáy. Biết $AB = \\sqrt{3}, BC = 1$ và $[S,BC,A] = 60^\\circ$. Tan của góc giữa đường thẳng $SC$ và miặt phẳng $(ABC)$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      146,
+      2082,
+      1587,
+      2128
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trên miặt phẳng vẽ hai nửa đường tròn đường kính $AB, AD$, với $AB = 2AD = 4cm$ như hình vẽ."
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      102,
+      937,
+      152
+    ],
+    "category": "Text",
+    "text": "Diện tích rừng trồng mới của năm $2024+n$ là $1000.(1+0,06)^n$."
+  },
+  {
+    "bbox": [
+      76,
+      183,
+      1203,
+      232
+    ],
+    "category": "Text",
+    "text": "Ta có sau $n$ năm thì diện tích rừng trồng mới của Tỉnh Phú Yên là: $1000.(1+0,06)^n$"
+  },
+  {
+    "bbox": [
+      76,
+      263,
+      1036,
+      313
+    ],
+    "category": "Text",
+    "text": "Khi đó, $1000.(1+0,06)^n > 1400 \\Rightarrow 1,06^n > 1,4 \\Rightarrow n > \\log_{1,06} 1,4 \\approx 5,774$."
+  },
+  {
+    "bbox": [
+      76,
+      335,
+      730,
+      379
+    ],
+    "category": "Text",
+    "text": "Vì $n \\in \\mathbb{N}$ nên giá trị nhỏ nhất thỏa mãn là $n = 6$."
+  },
+  {
+    "bbox": [
+      76,
+      392,
+      1339,
+      438
+    ],
+    "category": "Text",
+    "text": "Vậy sau 6 năm tức đến năm 2030 thì diện tích rừng trồng mới tỉnh Phú Yên đạt trên 1400 ha."
+  },
+  {
+    "bbox": [
+      76,
+      451,
+      1495,
+      835
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một bình hoa có dạng khối tròn xoay với chiều cao là $25\\text{cm}$ (tham khảo hình vẽ). Khi cắt bình hoa theo một mặt phẳng vuông góc với trục của nó thì ta luôn được thiết diện là một hình tròn có bán kính $R = \\frac{4}{9}x^3 - \\frac{5}{3}x^2 + \\frac{4}{3}x + \\frac{25}{36}(\\text{dm})$ với $x \\in [0;\\frac{5}{2}]$ là khoảng cách từ mặt cắt tới mặt đáy của bình hoa (tính theo đơn vị $\\text{dm}$). Lượng nước cần đổ vào bình để mức nước trong bình cao bằng $\\frac{2}{3}$高度 cao của bình chiếm tỉ lệ bao nhiêu phần trăm so với thể tích của bình hoa? (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      685,
+      863,
+      871,
+      1119
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1154,
+      413,
+      1190
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1213,
+      842,
+      1251
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1270,
+      239,
+      1309
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 92"
+  },
+  {
+    "bbox": [
+      76,
+      1324,
+      1492,
+      1370
+    ],
+    "category": "Text",
+    "text": "Diện tích của mặt cắt vuông góc với trục tại vị trí cách mặt đáy của bình hoa một khoảng $x(\\text{dm})$ là:"
+  },
+  {
+    "bbox": [
+      82,
+      1395,
+      717,
+      1491
+    ],
+    "category": "Formula",
+    "text": "$$\nS(x) = \\pi R^2 = \\pi \\left( \\frac{4}{9}x^3 - \\frac{5}{3}x^2 + \\frac{4}{3}x + \\frac{25}{36} \\right)^2 (\\text{dm}^2)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1517,
+      1343,
+      1613
+    ],
+    "category": "Text",
+    "text": "Lượng nước đổ đầy bình hoa là: $V = \\int_{0}^{\\frac{5}{2}} S(x)dx = \\pi \\int_{0}^{\\frac{5}{2}} \\left( \\frac{4}{9}x^3 - \\frac{5}{3}x^2 + \\frac{4}{3}x + \\frac{25}{36} \\right)^2 dx \\approx 3,66(\\text{dm}^3)$"
+  },
+  {
+    "bbox": [
+      76,
+      1641,
+      877,
+      1722
+    ],
+    "category": "Text",
+    "text": "Lượng nước đổ vào bình cao bằng $\\frac{2}{3}$高度 cao của bình là:"
+  },
+  {
+    "bbox": [
+      82,
+      1746,
+      909,
+      1841
+    ],
+    "category": "Formula",
+    "text": "$$\nV_1 = \\int_{0}^{\\frac{5}{3}} S(x)dx = \\pi \\int_{0}^{\\frac{5}{3}} \\left( \\frac{4}{9}x^3 - \\frac{5}{3}x^2 + \\frac{4}{3}x + \\frac{25}{36} \\right)^2 dx \\approx 3,37(\\text{dm}^3)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1870,
+      1495,
+      2059
+    ],
+    "category": "Text",
+    "text": "Vậy tỉ lệ phần trăm lượng nước cần đổ vào bình để mức nước trong bình cao bằng $\\frac{2}{3}$高度 cao của bình so với thể tích của bình hoa là $\\frac{V_1}{V} \\cdot 100\\% = \\frac{3,37}{3,66} \\cdot 100\\% \\approx 92\\%$."
+  },
+  {
+    "bbox": [
+      76,
+      2085,
+      1495,
+      2201
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Xét trong không gian $Oxyz$, đài kiểm soát không lưu sân bay đặt ở gốc toạ độ $O(0;0;0)$, đơn vị trên mỗi trục là ki-lô-mét. Một máy bay chuyển động theo đường thẳng, bay qua hai vị trí"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "bbox": [
+      153,
+      156,
+      196,
+      194
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      132,
+      1352,
+      217
+    ],
+    "category": "Text",
+    "text": "Câu 9. Đường tiệm cận xiên của đồ thị hàm số $y = \\frac{x^2 - 3x + 4}{x + 2}$ là đường thẳng"
+  },
+  {
+    "bbox": [
+      190,
+      227,
+      419,
+      271
+    ],
+    "category": "List-item",
+    "text": "A) $y = -x + 1$."
+  },
+  {
+    "bbox": [
+      535,
+      227,
+      739,
+      271
+    ],
+    "category": "List-item",
+    "text": "B) $y = x - 1$."
+  },
+  {
+    "bbox": [
+      878,
+      227,
+      1081,
+      271
+    ],
+    "category": "List-item",
+    "text": "C) $y = x - 5$."
+  },
+  {
+    "bbox": [
+      1223,
+      227,
+      1449,
+      271
+    ],
+    "category": "List-item",
+    "text": "D) $y = -x - 5$."
+  },
+  {
+    "bbox": [
+      153,
+      306,
+      196,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      283,
+      1037,
+      367
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $y = \\frac{x^2 - 3x + 4}{x + 2} = x - 5 + \\frac{14}{x + 2}$."
+  },
+  {
+    "bbox": [
+      201,
+      382,
+      1144,
+      424
+    ],
+    "category": "Text",
+    "text": "Vì $\\lim_{x \\to \\infty} [y - (x - 5)] = 0$ nên đường tiệm cận xiên là $y = x - 5$."
+  },
+  {
+    "bbox": [
+      153,
+      444,
+      196,
+      482
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      440,
+      1546,
+      524
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tiếp tuyến của đồ thị hàm số $y = x^3 - 3x^2 - 2$ có hệ số góc $k = -3$ có phương trình là"
+  },
+  {
+    "bbox": [
+      190,
+      546,
+      431,
+      589
+    ],
+    "category": "List-item",
+    "text": "A) $y = -3x - 7$."
+  },
+  {
+    "bbox": [
+      876,
+      546,
+      1120,
+      589
+    ],
+    "category": "List-item",
+    "text": "B) $y = -3x + 7$."
+  },
+  {
+    "bbox": [
+      190,
+      591,
+      431,
+      634
+    ],
+    "category": "List-item",
+    "text": "C) $y = -3x + 1$."
+  },
+  {
+    "bbox": [
+      876,
+      591,
+      1120,
+      634
+    ],
+    "category": "List-item",
+    "text": "D) $y = -3x - 1$."
+  },
+  {
+    "bbox": [
+      153,
+      636,
+      196,
+      674
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      632,
+      1544,
+      695
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $y' = 3x^2 - 6x$. Theo đề bài $y'(x_0) = -3 \\Leftrightarrow 3x_0^2 - 6x_0 + 3 = 0 \\Leftrightarrow x_0 = 1$."
+  },
+  {
+    "bbox": [
+      201,
+      695,
+      531,
+      734
+    ],
+    "category": "Text",
+    "text": "Với $x_0 = 1 \\Rightarrow y_0 = -4$."
+  },
+  {
+    "bbox": [
+      201,
+      736,
+      1070,
+      779
+    ],
+    "category": "Text",
+    "text": "Phương trình tiếp tuyến: $y = -3(x - 1) - 4 \\Leftrightarrow y = -3x - 1$."
+  },
+  {
+    "bbox": [
+      153,
+      799,
+      196,
+      837
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      795,
+      1502,
+      840
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hai biến cố $A$ và $B$ độc lập, biết $P(A) = 0,4$; $P(B) = 0,7$. Khi đó $P(\\bar{B}|A)$ bằng"
+  },
+  {
+    "bbox": [
+      190,
+      852,
+      296,
+      930
+    ],
+    "category": "List-item",
+    "text": "A) $\\frac{7}{10}$."
+  },
+  {
+    "bbox": [
+      535,
+      852,
+      625,
+      930
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{4}{7}$."
+  },
+  {
+    "bbox": [
+      878,
+      852,
+      982,
+      930
+    ],
+    "category": "List-item",
+    "text": "C) $\\frac{7}{25}$."
+  },
+  {
+    "bbox": [
+      1223,
+      852,
+      1327,
+      930
+    ],
+    "category": "List-item",
+    "text": "D) $\\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      153,
+      946,
+      196,
+      984
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      942,
+      1068,
+      1005
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $A, B$ độc lập nên $A$ và $\\bar{B}$ cũng độc lập."
+  },
+  {
+    "bbox": [
+      201,
+      1015,
+      1040,
+      1095
+    ],
+    "category": "Text",
+    "text": "Do đó $P(\\bar{B}|A) = P(\\bar{B}) = 1 - P(B) = 1 - 0,7 = 0,3 = \\frac{3}{10}$."
+  },
+  {
+    "bbox": [
+      153,
+      1107,
+      196,
+      1145
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      1101,
+      1546,
+      1195
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho tức diện $ABCD$. Gọi $M, N$ lần lượt là trung điểm của $AD$ và $BC$. Tổng $\\overrightarrow{AB} + \\overrightarrow{DC}$ bằng"
+  },
+  {
+    "bbox": [
+      612,
+      1207,
+      1084,
+      1603
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1685,
+      285,
+      1734
+    ],
+    "category": "List-item",
+    "text": "A) $\\vec{0}$."
+  },
+  {
+    "bbox": [
+      535,
+      1685,
+      669,
+      1734
+    ],
+    "category": "List-item",
+    "text": "B) $2\\overrightarrow{AD}$."
+  },
+  {
+    "bbox": [
+      878,
+      1685,
+      1027,
+      1734
+    ],
+    "category": "List-item",
+    "text": "C) $2\\overrightarrow{NM}$."
+  },
+  {
+    "bbox": [
+      1223,
+      1685,
+      1371,
+      1734
+    ],
+    "category": "List-item",
+    "text": "D) $2\\overrightarrow{MN}$."
+  },
+  {
+    "bbox": [
+      153,
+      1748,
+      196,
+      1786
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      1744,
+      1332,
+      1811
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{MN} = \\overrightarrow{MA} + \\overrightarrow{AB} + \\overrightarrow{BN}$ và $\\overrightarrow{MN} = \\overrightarrow{MD} + \\overrightarrow{DC} + \\overrightarrow{CN}$."
+  },
+  {
+    "bbox": [
+      201,
+      1819,
+      1257,
+      1872
+    ],
+    "category": "Text",
+    "text": "Cộng hai vế ta được: $2\\overrightarrow{MN} = (\\overrightarrow{MA} + \\overrightarrow{MD}) + (\\overrightarrow{AB} + \\overrightarrow{DC}) + (\\overrightarrow{BN} + \\overrightarrow{CN})$."
+  },
+  {
+    "bbox": [
+      201,
+      1882,
+      1120,
+      1933
+    ],
+    "category": "Text",
+    "text": "Vì $M, N$ là trung điểm nên $\\overrightarrow{MA} + \\overrightarrow{MD} = \\vec{0}$ và $\\overrightarrow{BN} + \\overrightarrow{CN} = \\vec{0}$."
+  },
+  {
+    "bbox": [
+      201,
+      1943,
+      548,
+      1992
+    ],
+    "category": "Text",
+    "text": "Vậy $\\overrightarrow{AB} + \\overrightarrow{DC} = 2\\overrightarrow{MN}$."
+  },
+  {
+    "bbox": [
+      153,
+      2011,
+      1546,
+      2098
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      2133,
+      196,
+      2171
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      201,
+      2106,
+      1546,
+      2196
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $y = g(x)$ có đồ thị như hình vẽ và đặt $f(x) = \\int_{0}^{x} g(t)dt$. Gọi $S_1, S_2$ và $S_3$"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1560,
+      2249,
+      1598,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "67"
+  }
+]

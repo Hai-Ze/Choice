@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1574,
+      193
+    ],
+    "category": "Text",
+    "text": "dụng một máy bơm công suất lớn để bơm nước vào bể với tốc độ không đổi là $42m^3 / \\text{giờ}$. Hỏi sau bao nhiêu giờ thì máy bơm bơm đầy bể nước?"
+  },
+  {
+    "bbox": [
+      527,
+      200,
+      1274,
+      619
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      837,
+      625,
+      951,
+      662
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      659,
+      369,
+      702
+    ],
+    "category": "Text",
+    "text": "Đáp số: 16"
+  },
+  {
+    "bbox": [
+      212,
+      698,
+      1443,
+      741
+    ],
+    "category": "Text",
+    "text": "Thể tích nước cần bơm đầy bể là thể tích khối lăng trụ đứng có đáy là hình thang vuông nên"
+  },
+  {
+    "bbox": [
+      217,
+      743,
+      609,
+      828
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\frac{(1,2+2) \\cdot 30}{2} \\cdot 14 = 672m^3.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      835,
+      949,
+      915
+    ],
+    "category": "Text",
+    "text": "Thời gian máy bơm bơm đầy bể nước là: $\\frac{672}{42} = 16 \\text{ giờ}$."
+  },
+  {
+    "bbox": [
+      74,
+      915,
+      1574,
+      1184
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Một xưởng thủ công mỹ nghệ sản xuất loại catch�, đèn trang trí dạng hình chóp cụt, tứ giác đều. Gọi $x$ là độ dài cạnh đáy lớn (đơn vị:dm). Tính toán cho thấy tổng chi phí vật liệu (tính bằng nghìn đồng) cho một catch� là $C(x) = x^2 + 108$ (nghìn đồng). Thời gian sản xuất cho một catch� được xác định là $T(x) = x + 6$ (giờ). Xưởng muốn xác định kích thước $x$ để chi phí vật liệu trung bình trên một giờ sản xuất là thấp nhất, nhằm tối ưu hóa hiệu quả sử dụng thời gian và vật liệu. Hãy tìm giá trị của $x$."
+  },
+  {
+    "bbox": [
+      655,
+      1200,
+      1094,
+      1565
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      837,
+      1579,
+      951,
+      1618
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1619,
+      360,
+      1658
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6"
+  },
+  {
+    "bbox": [
+      212,
+      1658,
+      1443,
+      1754
+    ],
+    "category": "Text",
+    "text": "Gọi hàm chi phí vật liệu trung bình trên một giờ sản xuất là $f(x) = \\frac{C(x)}{T(x)} = \\frac{x^2 + 108}{x + 6}, x > 0$."
+  },
+  {
+    "bbox": [
+      212,
+      1760,
+      863,
+      1863
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = \\frac{x^2 + 12x - 108}{(x+6)^2} = 0 \\Leftrightarrow \\begin{cases} x = -18(L) \\\\ x = 6 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1865,
+      523,
+      1908
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên :"
+  },
+  {
+    "bbox": [
+      530,
+      1930,
+      1248,
+      2175
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>6</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>18</td><td>12</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

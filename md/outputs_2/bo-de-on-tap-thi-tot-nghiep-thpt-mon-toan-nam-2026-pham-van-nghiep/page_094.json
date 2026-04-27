@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      217,
+      116,
+      1352,
+      245
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = \\frac{(x^2 + 2x + 2)'(x-1) - x^2 - 2x - 2}{(x-1)^2} = \\frac{(2x+2)(x-1) - x^2 - 2x - 2}{(x-1)^2} = \\frac{x^2 - 2x - 4}{(x-1)^2}\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      248,
+      897,
+      374
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow x^2 - 2x - 4 = 0 \\Leftrightarrow \\begin{cases} x = 1 - \\sqrt{5} \\notin (2;5) \\\\ x = 1 + \\sqrt{5} \\in (2;5) \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      381,
+      645,
+      467
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f(2) = \\frac{2^2 + 2 \\cdot 2 + 2}{2-1} = 10.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      475,
+      871,
+      615
+    ],
+    "category": "Formula",
+    "text": "$$\nf(1+\\sqrt{5}) = \\frac{(1+\\sqrt{5})^2 + 2 \\cdot (1+\\sqrt{5}) + 2}{(1+\\sqrt{5})-1} = 4+2\\sqrt{5}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      626,
+      851,
+      712
+    ],
+    "category": "Formula",
+    "text": "$$\nf(5) = \\frac{5^2 + 2 \\cdot 5 + 2}{5-1} = \\frac{37}{4}. \\text{ Vậy } \\max_{[2;5]} f(x) = 10.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      723,
+      1185,
+      805
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tiệm cận đứng của đồ thị hàm số $y = f(x) = \\frac{x+2}{x-1}$ là đường thẳng"
+  },
+  {
+    "bbox": [
+      211,
+      811,
+      340,
+      848
+    ],
+    "category": "List-item",
+    "text": "A. $x=1$."
+  },
+  {
+    "bbox": [
+      550,
+      811,
+      699,
+      848
+    ],
+    "category": "List-item",
+    "text": "B. $x=-2$."
+  },
+  {
+    "bbox": [
+      862,
+      811,
+      983,
+      849
+    ],
+    "category": "List-item",
+    "text": "C. $y=1$."
+  },
+  {
+    "bbox": [
+      1174,
+      811,
+      1329,
+      849
+    ],
+    "category": "List-item",
+    "text": "D. $y=-2$."
+  },
+  {
+    "bbox": [
+      765,
+      863,
+      884,
+      904
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      908,
+      333,
+      947
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      951,
+      735,
+      1085
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\begin{cases} \\lim_{x \\to 1^-} f(x) = -\\infty \\\\ \\lim_{x \\to 1^+} f(x) = +\\infty \\end{cases} \\Rightarrow \\text{TCĐ: } x=1.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1093,
+      879,
+      1142
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nguyên hàm của hàm số $f(x) = 3x^2 - \\sin x$ là"
+  },
+  {
+    "bbox": [
+      211,
+      1157,
+      461,
+      1195
+    ],
+    "category": "List-item",
+    "text": "A. $6x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      550,
+      1157,
+      796,
+      1195
+    ],
+    "category": "List-item",
+    "text": "B. $6x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      862,
+      1157,
+      1103,
+      1195
+    ],
+    "category": "List-item",
+    "text": "C. $x^3 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1174,
+      1157,
+      1420,
+      1195
+    ],
+    "category": "List-item",
+    "text": "D. $x^3 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      765,
+      1204,
+      884,
+      1245
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1248,
+      333,
+      1287
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      211,
+      1292,
+      922,
+      1352
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\int f(x)dx = \\int (3x^2 - \\sin x)dx = x^3 + \\cos x + C.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1360,
+      1572,
+      1469
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và các đường thẳng $x = a, x = b$ là"
+  },
+  {
+    "bbox": [
+      211,
+      1482,
+      451,
+      1578
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{a}^{b} f(x)dx$."
+  },
+  {
+    "bbox": [
+      550,
+      1482,
+      803,
+      1578
+    ],
+    "category": "List-item",
+    "text": "B. $S = -\\int_{a}^{b} f(x)dx$."
+  },
+  {
+    "bbox": [
+      862,
+      1482,
+      1103,
+      1578
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\int_{b}^{a} |f(x)|dx$."
+  },
+  {
+    "bbox": [
+      1174,
+      1482,
+      1423,
+      1578
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{a}^{b} |f(x)|dx$."
+  },
+  {
+    "bbox": [
+      765,
+      1588,
+      884,
+      1629
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1633,
+      333,
+      1672
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      211,
+      1678,
+      514,
+      1774
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } S = \\int_{a}^{b} |f(x)|dx.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1782,
+      1345,
+      1831
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      336,
+      1843,
+      1307,
+      1953
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$M_1$ :</td><td>Nhóm</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td><td>[18;20)</td><td>[20;22)</td></tr><tr><td></td><td>Tần số</td><td>2</td><td>4</td><td>8</td><td>6</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      336,
+      1996,
+      1307,
+      2107
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$M_2$ :</td><td>Nhóm</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td></tr><tr><td></td><td>Tần số</td><td>2</td><td>4</td><td>8</td><td>6</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      211,
+      2117,
+      1572,
+      2223
+    ],
+    "category": "Text",
+    "text": "Gọi $\\bar{X}_1$ và $\\bar{X}_2$ lần lượt là số trung bình của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

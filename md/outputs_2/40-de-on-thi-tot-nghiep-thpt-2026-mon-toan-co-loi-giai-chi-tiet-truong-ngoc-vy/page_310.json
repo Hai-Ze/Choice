@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      161,
+      106,
+      1044,
+      463
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      496,
+      875,
+      583
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta có $\\min_{[0;0,3]} f(x) = f\\left(\\frac{3}{14}\\right) \\approx 2,932$."
+  },
+  {
+    "bbox": [
+      155,
+      605,
+      1294,
+      651
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất bạn Trúc Linh chạy mỗi sáng là 2,932 km hay 2932 m."
+  },
+  {
+    "bbox": [
+      155,
+      669,
+      1574,
+      964
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Công ty giao hàng nhanh có 4 kho hàng $A, B, C$ và $D$. Quản lý muốn lên kế hoạch cho xe hàng đi qua tất cả các kho hàng để lấy hàng và quay lại kho hàng ban đầu, với điều kiện là mỗi kho hàng chỉ ghé qua một lần. Khoảng cách giữa các kho hàng (km) được mô tả trong hình bên. Quăng đường ngắn nhất để xe giao hàng hoàn thành việc lấy hàng ở các kho và quay trở lại kho hàng ban đầu là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      620,
+      984,
+      1115,
+      1390
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1409,
+      493,
+      1445
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1468,
+      924,
+      1507
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1526,
+      319,
+      1564
+    ],
+    "category": "Text",
+    "text": "Đáp án: 28"
+  },
+  {
+    "bbox": [
+      155,
+      1580,
+      1068,
+      1625
+    ],
+    "category": "Text",
+    "text": "Xe giao hàng có thể xuất phát từ một trong 4 kho hàng $A, B, C, D$."
+  },
+  {
+    "bbox": [
+      155,
+      1643,
+      1571,
+      1747
+    ],
+    "category": "Text",
+    "text": "Giả sử xe giao hàng xuất phát từ kho $A$. Để đi qua tất cả các kho hàng và quay trở về kho $A$, xe giao hàng có thể đi theo một trong các đường đi:"
+  },
+  {
+    "bbox": [
+      362,
+      1821,
+      1367,
+      2240
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Đường đi</td><td>Tổng quăng đường</td></tr></thead><tbody><tr><td>$A \\to B \\to C \\to D \\to A$</td><td>$9+7+5+8 = 29$</td></tr><tr><td>$A \\to B \\to D \\to C \\to A$</td><td>$9+3+5+11 = 28$</td></tr><tr><td>$A \\to C \\to B \\to D \\to A$</td><td>$11+7+3+8 = 29$</td></tr><tr><td>$A \\to C \\to D \\to B \\to A$</td><td>$11+5+3+9 = 28$</td></tr><tr><td>$A \\to D \\to B \\to C \\to A$</td><td>$8+3+7+11 = 29$</td></tr><tr><td>$A \\to D \\to C \\to B \\to A$</td><td>$8+5+7+9 = 29$</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

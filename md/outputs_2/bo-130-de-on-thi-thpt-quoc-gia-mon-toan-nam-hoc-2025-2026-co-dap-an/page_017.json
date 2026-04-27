@@ -1,0 +1,508 @@
+[
+  {
+    "bbox": [
+      93,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      121,
+      195,
+      162
+    ],
+    "category": "List-item",
+    "text": "A 6."
+  },
+  {
+    "bbox": [
+      395,
+      121,
+      468,
+      162
+    ],
+    "category": "List-item",
+    "text": "B 3."
+  },
+  {
+    "bbox": [
+      668,
+      121,
+      741,
+      162
+    ],
+    "category": "List-item",
+    "text": "C 5."
+  },
+  {
+    "bbox": [
+      941,
+      121,
+      1014,
+      162
+    ],
+    "category": "List-item",
+    "text": "D 4."
+  },
+  {
+    "bbox": [
+      93,
+      181,
+      946,
+      226
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Tập nghiệm của phương trình $\\log_{0,25} (x^2 - 3x) = -1$ là"
+  },
+  {
+    "bbox": [
+      123,
+      226,
+      227,
+      267
+    ],
+    "category": "List-item",
+    "text": "A $\\{4\\}$."
+  },
+  {
+    "bbox": [
+      668,
+      226,
+      824,
+      267
+    ],
+    "category": "List-item",
+    "text": "B $\\{1; -4\\}$."
+  },
+  {
+    "bbox": [
+      123,
+      267,
+      470,
+      355
+    ],
+    "category": "List-item",
+    "text": "C $\\left\\{ \\frac{3 - 2\\sqrt{2}}{2}; \\frac{3 + 2\\sqrt{2}}{2} \\right\\}$."
+  },
+  {
+    "bbox": [
+      668,
+      288,
+      824,
+      331
+    ],
+    "category": "List-item",
+    "text": "D $\\{-1; 4\\}$."
+  },
+  {
+    "bbox": [
+      93,
+      372,
+      1196,
+      450
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình dưới đây. Mind đề nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      450,
+      533,
+      596
+    ],
+    "category": "List-item",
+    "text": "A Hàm số đã cho đồng biến trên các khoảng $(-\\infty; -\\frac{1}{2})$ và $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      123,
+      596,
+      533,
+      706
+    ],
+    "category": "List-item",
+    "text": "B Hàm số đã cho đồng biến trên khoảng $(-\\frac{1}{2}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      123,
+      706,
+      533,
+      786
+    ],
+    "category": "List-item",
+    "text": "C Hàm số đã cho nghịch biến trên khoảng $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      123,
+      786,
+      533,
+      868
+    ],
+    "category": "List-item",
+    "text": "D Hàm số đã cho đồng biến trên khoảng $(-\\infty; 3)$."
+  },
+  {
+    "bbox": [
+      565,
+      458,
+      1196,
+      772
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-\\frac{1}{2}$</td><td>3</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>+</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$+\\infty$</td><td>4</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      884,
+      1158,
+      926
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Hình chiếu vuông góc của điểm $A (2; 3; -1)$ trên mặt phẳng $(Oyz)$ là điểm"
+  },
+  {
+    "bbox": [
+      123,
+      926,
+      313,
+      967
+    ],
+    "category": "List-item",
+    "text": "A $M (2; 0; 0)$."
+  },
+  {
+    "bbox": [
+      395,
+      926,
+      602,
+      967
+    ],
+    "category": "List-item",
+    "text": "B $N (0; -3; 1)$."
+  },
+  {
+    "bbox": [
+      668,
+      926,
+      873,
+      967
+    ],
+    "category": "List-item",
+    "text": "C $P (0; 3; -1)$."
+  },
+  {
+    "bbox": [
+      941,
+      926,
+      1165,
+      967
+    ],
+    "category": "List-item",
+    "text": "D $Q (-2; 3; -1)$."
+  },
+  {
+    "bbox": [
+      93,
+      984,
+      1196,
+      1064
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian với hệ tọa độ $Oxyz$, cho hai véc-tơ $\\vec{x} = (2; 1; -3)$ và $\\vec{y} = (1; 0; -1)$. Tìm tọa độ của véc-tơ $\\vec{a} = \\vec{x} + 2\\vec{y}$."
+  },
+  {
+    "bbox": [
+      123,
+      1064,
+      364,
+      1105
+    ],
+    "category": "List-item",
+    "text": "A $\\vec{a} = (4; 1; -1)$."
+  },
+  {
+    "bbox": [
+      395,
+      1064,
+      637,
+      1105
+    ],
+    "category": "List-item",
+    "text": "B $\\vec{a} = (3; 1; -4)$."
+  },
+  {
+    "bbox": [
+      668,
+      1064,
+      910,
+      1105
+    ],
+    "category": "List-item",
+    "text": "C $\\vec{a} = (0; 1; -1)$."
+  },
+  {
+    "bbox": [
+      941,
+      1064,
+      1183,
+      1105
+    ],
+    "category": "List-item",
+    "text": "D $\\vec{a} = (4; 1; -5)$."
+  },
+  {
+    "bbox": [
+      93,
+      1122,
+      1196,
+      1200
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và có bảng xét dấu đạo hàm như hình vẽ. Số điểm cực trị của hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      93,
+      1259,
+      1196,
+      1398
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-5$</td><td>$-1$</td><td>3</td><td>4</td><td>5</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>–</td><td>0</td><td>+</td><td>–</td><td>0</td><td>–</td><td>0</td><td>+</td></tr></table>"
+  },
+  {
+    "bbox": [
+      123,
+      1434,
+      195,
+      1475
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      395,
+      1434,
+      468,
+      1475
+    ],
+    "category": "List-item",
+    "text": "B 4."
+  },
+  {
+    "bbox": [
+      668,
+      1434,
+      741,
+      1475
+    ],
+    "category": "List-item",
+    "text": "C 5."
+  },
+  {
+    "bbox": [
+      941,
+      1434,
+      1014,
+      1475
+    ],
+    "category": "List-item",
+    "text": "D 2."
+  },
+  {
+    "bbox": [
+      93,
+      1516,
+      725,
+      1634
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hàm số $y = f(x)$ có có đồ thị của hàm số $y = f'(x)$ như hình vẽ bên. Hỏi hàm số $y = f(x)$ có bao nhiêu điểm cực trị?"
+  },
+  {
+    "bbox": [
+      123,
+      1634,
+      195,
+      1675
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      277,
+      1634,
+      350,
+      1675
+    ],
+    "category": "List-item",
+    "text": "B 2."
+  },
+  {
+    "bbox": [
+      432,
+      1634,
+      505,
+      1675
+    ],
+    "category": "List-item",
+    "text": "C 1."
+  },
+  {
+    "bbox": [
+      587,
+      1634,
+      658,
+      1675
+    ],
+    "category": "List-item",
+    "text": "D 4."
+  },
+  {
+    "bbox": [
+      754,
+      1526,
+      1196,
+      1868
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1880,
+      824,
+      1935
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1944,
+      1196,
+      2024
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho tập dữ liệu mẫu $x_1, x_2, \\dots, x_6$; trong đó $x_1$ là giá trị nhỏ nhất, $x_6$ là giá trị lớn nhất. Suy ra"
+  },
+  {
+    "bbox": [
+      123,
+      2024,
+      1128,
+      2065
+    ],
+    "category": "List-item",
+    "text": "a) Trung bình cộng của $x_2, x_3, x_4, x_5$ = Trung bình cộng của $x_1, x_2, \\dots, x_6$."
+  },
+  {
+    "bbox": [
+      123,
+      2065,
+      921,
+      2106
+    ],
+    "category": "List-item",
+    "text": "b) Trung vị của $x_2, x_3, x_4, x_5$ = Trung vị của $x_1, x_2, \\dots, x_6$."
+  },
+  {
+    "bbox": [
+      123,
+      2106,
+      1065,
+      2147
+    ],
+    "category": "List-item",
+    "text": "c) Độ lệch chuẩn của $x_2, x_3, x_4, x_5 \\ge$ Độ lệch chuẩn của $x_1, x_2, \\dots, x_6$."
+  },
+  {
+    "bbox": [
+      123,
+      2147,
+      1178,
+      2188
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng biến thiên của $x_2, x_3, x_4, x_5 \\le$ Khoảng biến thiên của $x_1, x_2, \\dots, x_6$."
+  },
+  {
+    "bbox": [
+      93,
+      2205,
+      625,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $f(x) = 2 \\cos x + x$."
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 15"
+  }
+]

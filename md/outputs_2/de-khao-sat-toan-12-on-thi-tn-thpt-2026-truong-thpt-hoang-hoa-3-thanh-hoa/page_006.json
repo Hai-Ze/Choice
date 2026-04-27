@@ -1,0 +1,70 @@
+[
+  {
+    "bbox": [
+      334,
+      108,
+      1596,
+      199
+    ],
+    "category": "Text",
+    "text": "phí tiền lương mỗi ngày là ít nhất. Khi đó chi phí tiền lương ít nhất mà công ty A phải trả cho nhân viên mỗi ngày là $a$ (nghìn đồng). Giá trị của $a$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      197,
+      199,
+      1616,
+      289
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cần trục chân đế là型式 quay được sử dụng để phục vụ công việc xếp đỡ hàng hóa chủ yếu ngoài các cảng bến, bãi (hình ảnh minh họa)."
+  },
+  {
+    "bbox": [
+      734,
+      286,
+      1228,
+      630
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      334,
+      666,
+      1614,
+      929
+    ],
+    "category": "Text",
+    "text": "Ta chọn hệ trục $Oxyz$ thỏa mãn $(Oxy)$ song song với mặt đất, trục $Ox$ trùng với trục chân đế, trục $Oz$ trùng với trục cần cấu và trục $Oy$ như hình vẽ. Gọi $M$ là vị trí tại định cần cấu, $H$ là hình chiếu của $M$ lên $(Oxy)$. Biết tay cần $KM$ của cần trục dài 50 m, trục cần $OK$ dài 50 m, $(\\vec{k}; \\overline{KM}) = 60^\\circ, (\\vec{i}; \\overline{OH}) = 45^\\circ$. Biết điểm $M$ có tọa độ $M(a; b; c)$ trong hệ tọa độ $Oxyz$ trên, giá trị của $a+b+c$ bằng bao nhiêu? (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      197,
+      949,
+      1614,
+      1228
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Ông Duy có một mành vường hình vuông cạnh bằng 8 m. Ông dự định xây một cái bể bơi đặc biệt (phần kẻ sọc trong hình vẽ bên). Biết $AM = \\frac{AB}{4}$, phần đường cong đi qua các điểm $C, M, N$ là một phần của đường Parabol có trục đối xứng là $MP(MP // AD)$ và chi phí để làm bể bơi là 5 triệu đồng/1m². Số tiền ông Duy phải trả để xây cái bể bơi đó là bao nhiêu triệu đồng? (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      760,
+      1244,
+      1187,
+      1622
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      197,
+      1646,
+      1605,
+      1917
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Một hồ nước ở Bắc Ontario đã phục hồi sau một vụ tràn axit khiến tất cả cá hồi ở đó死. Một chương trình tái thỏa cá đã thỏa 800 con cá hồi vào hồ. Ba năm sau, số lượng được ước tính là 6000 con. Sức chứa của hồ được cho là 8000 con. Để đánh giá khả năng tăng trưởng, người ta mô phỏng số lượng cá trong hồ qua từng năm thông qua hàm số $P(t) = \\frac{c}{1+a \\cdot b^{-t}} (a, b, c \\in \\mathbb{R})$ có đồ thị như hình vẽ bên dưới (trong đó $t$ tính theo năm kể từ lúc bắt đầu thỏa cá vào hồ)."
+  }
+]

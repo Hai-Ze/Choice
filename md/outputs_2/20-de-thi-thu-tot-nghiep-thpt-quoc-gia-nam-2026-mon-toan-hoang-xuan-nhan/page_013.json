@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      217,
+      62,
+      987,
+      109
+    ],
+    "category": "Text",
+    "text": "Quả cầu Genki có tâm $I(8; -1; 58)$, bán kính $R = 10 \\text{ m}$."
+  },
+  {
+    "bbox": [
+      222,
+      119,
+      1131,
+      184
+    ],
+    "category": "Formula",
+    "text": "$$\nID = \\sqrt{(-182-8)^2 + (159+1)^2 + (45-58)^2} = \\sqrt{61869} \\text{ m} \\approx 248,7 \\text{ m}.\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      190,
+      1080,
+      242
+    ],
+    "category": "Text",
+    "text": "Khoảng cách ngắn cần tính là $ID - R = \\sqrt{61869} - 10 \\approx 238,7 \\text{ m}$."
+  },
+  {
+    "bbox": [
+      228,
+      258,
+      1063,
+      529
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      527,
+      474,
+      571
+    ],
+    "category": "Text",
+    "text": "d) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      217,
+      567,
+      1464,
+      611
+    ],
+    "category": "Text",
+    "text": "Sau $t$ giây, điểm $M$ (thuộc mặt cầu gần Frieza nhất) di chuyển đoạn đường: $64t + t = 65t$ (m)."
+  },
+  {
+    "bbox": [
+      217,
+      613,
+      1406,
+      695
+    ],
+    "category": "Text",
+    "text": "Khi $M$ catch vào Frieza (nếu hắn đứng yên) thì $ID - R = 65t \\Rightarrow t = \\frac{ID - R}{65} \\approx 3,67$ (giây)."
+  },
+  {
+    "bbox": [
+      92,
+      738,
+      1159,
+      830
+    ],
+    "category": "Text",
+    "text": "**Câu 16.** Một mật mã mở organ khóa cổng là dãy gồm **4 chữ số** được lập từ tập hợp $\\{0; 1; 2; \\dots; 9\\}$."
+  },
+  {
+    "bbox": [
+      1181,
+      742,
+      1588,
+      1034
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1032,
+      1596,
+      1594
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các mindh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Nếu coi mật mã là một số tự nhiên có 4 chữ số (chữ số đầu khác 0) thì số cách lập mật mã là 10000.</td><td>☐</td><td>☐</td></tr><tr><td>b) Nếu mật mã bắt đầu bằng số lẻ và kết thúc bằng số chData thì số cách lập mật mã là 2250.</td><td>☐</td><td>☐</td></tr><tr><td>c) Nếu chủ nhà muốn lập mật mã là một số tự nhiên có 4 chữ số sao cho chữ số bên trái luôn bé hơn chữ số bên phải thì có 126 cách.</td><td>☐</td><td>☐</td></tr><tr><td>d) Cậu Huy chỉ nhớ mật mã có chứa cả hai chữ số 4 và 5, và là số tự nhiên có 4 chữ số sao cho chữ số bên trái luôn bé hơn chữ số bên phải. Huy thử vận may bấm 5 lần (mối lần chọn ngẫu nhiên trong các mã có thể, không bấm lại mã đã thử), nếu lần thứ $k < 5$ đúng thì停止. Xác suất để Huy chọn đúng mật mã là $\\frac{1}{4}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      740,
+      1594,
+      965,
+      1637
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1637,
+      438,
+      1681
+    ],
+    "category": "Text",
+    "text": "a) Mindh đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      1681,
+      1588,
+      1775
+    ],
+    "category": "Text",
+    "text": "Số tự nhiên có 4 chữ số: chữ số đầu có 9 cách chọn (1 đến 9), ba chữ số sau mỗi chữ số 10 cách chọn nên số cách lập mật mã là: $9 \\cdot 10^3 = 9000 \\neq 10000$."
+  },
+  {
+    "bbox": [
+      217,
+      1777,
+      440,
+      1821
+    ],
+    "category": "Text",
+    "text": "b) Mindh đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      1821,
+      1481,
+      1865
+    ],
+    "category": "Text",
+    "text": "Chữ số đầu lẻ: 5 cách chọn; chữ số cuối chData: 5 cách chọn; hai chữ số giữa: $10 \\cdot 10$ cách chọn."
+  },
+  {
+    "bbox": [
+      217,
+      1869,
+      933,
+      1914
+    ],
+    "category": "Text",
+    "text": "Do đó số cách lập mật mã là $5 \\cdot 10^2 \\cdot 5 = 2500 \\neq 2250$."
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      505,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2022,
+      1558,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "5"
+  }
+]

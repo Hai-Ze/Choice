@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      154,
+      140,
+      854,
+      181
+    ],
+    "category": "Text",
+    "text": "Khối lượng trung bình của 50 quả mít trên bằng"
+  },
+  {
+    "bbox": [
+      191,
+      200,
+      359,
+      243
+    ],
+    "category": "List-item",
+    "text": "A 8,72 kg."
+  },
+  {
+    "bbox": [
+      535,
+      200,
+      702,
+      243
+    ],
+    "category": "List-item",
+    "text": "B 9,12 kg."
+  },
+  {
+    "bbox": [
+      879,
+      200,
+      1045,
+      243
+    ],
+    "category": "List-item",
+    "text": "C 8,82 kg."
+  },
+  {
+    "bbox": [
+      1224,
+      200,
+      1388,
+      243
+    ],
+    "category": "List-item",
+    "text": "D 8,52 kg."
+  },
+  {
+    "bbox": [
+      154,
+      258,
+      1546,
+      360
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Để tính khối lượng trung bình của mẫu số liệu ghép nhóm, trước hết ta xác định giá trị đại diện $x_i$ của mỗi nhóm (là trung điểm của mỗi khoảng):"
+  },
+  {
+    "bbox": [
+      195,
+      372,
+      899,
+      450
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nhóm } [4; 6) \\text{ có giá trị đại diện } x_1 = \\frac{4+6}{2} = 5.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      455,
+      899,
+      534
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nhóm } [6; 8) \\text{ có giá trị đại diện } x_2 = \\frac{6+8}{2} = 7.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      539,
+      930,
+      617
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nhóm } [8; 10) \\text{ có giá trị đại diện } x_3 = \\frac{8+10}{2} = 9.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      622,
+      978,
+      701
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nhóm } [10; 12) \\text{ có giá trị đại diện } x_4 = \\frac{10+12}{2} = 11.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      706,
+      978,
+      785
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nhóm } [12; 14) \\text{ có giá trị đại diện } x_5 = \\frac{12+14}{2} = 13.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      798,
+      746,
+      838
+    ],
+    "category": "Text",
+    "text": "Khối lượng trung bình của 50 quả mít là:"
+  },
+  {
+    "bbox": [
+      225,
+      843,
+      1475,
+      1009
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{n_1x_1 + n_2x_2 + n_3x_3 + n_4x_4 + n_5x_5}{n} \\\\ \\bar{x} = \\frac{6 \\cdot 5 + 12 \\cdot 7 + 19 \\cdot 9 + 9 \\cdot 11 + 4 \\cdot 13}{50} = \\frac{30 + 84 + 171 + 99 + 52}{50} = \\frac{436}{50} = 8,72 \\text{ (kg).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1008,
+      1486,
+      1049
+    ],
+    "category": "Text",
+    "text": "Vậy khối lượng trung bình của 50 quả mít là 8,72 kg. Chọn đáp án tương ứng với giá trị này."
+  },
+  {
+    "bbox": [
+      154,
+      1069,
+      968,
+      1109
+    ],
+    "category": "Text",
+    "text": "Câu 6. Phương trình $1 - \\cos 2x = 0$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      191,
+      1120,
+      497,
+      1192
+    ],
+    "category": "List-item",
+    "text": "A $\\{\\frac{\\pi}{4} + k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      876,
+      1132,
+      1106,
+      1175
+    ],
+    "category": "List-item",
+    "text": "B $\\{k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      191,
+      1196,
+      435,
+      1241
+    ],
+    "category": "List-item",
+    "text": "C $\\{k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      876,
+      1185,
+      1198,
+      1257
+    ],
+    "category": "List-item",
+    "text": "D $\\{\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      154,
+      1252,
+      1388,
+      1315
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $1 - \\cos 2x = 0 \\Leftrightarrow \\cos 2x = 1 \\Leftrightarrow 2x = k2\\pi \\Leftrightarrow x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      154,
+      1329,
+      1546,
+      1416
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hàm số $y = f(x)$ có đạo hàm là $f'(x) = x^2(x + 1)^2(2x - 1)$. Số điểm cực trị của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1435,
+      273,
+      1478
+    ],
+    "category": "List-item",
+    "text": "A 3."
+  },
+  {
+    "bbox": [
+      535,
+      1435,
+      617,
+      1478
+    ],
+    "category": "List-item",
+    "text": "B 0."
+  },
+  {
+    "bbox": [
+      879,
+      1435,
+      961,
+      1478
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1224,
+      1435,
+      1304,
+      1478
+    ],
+    "category": "List-item",
+    "text": "D 1."
+  },
+  {
+    "bbox": [
+      154,
+      1492,
+      1546,
+      1595
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $f'(x) = 0 \\Leftrightarrow x = 0$ (bội 2), $x = -1$ (bội 2), $x = 1/2$ (nghiệm đơn). Đạo hàm chỉ đổi dấu khi đi qua nghiệm lẻ $x = 1/2$. Do đó hàm số có 1 điểm cực trị."
+  },
+  {
+    "bbox": [
+      154,
+      1615,
+      1546,
+      1700
+    ],
+    "category": "Text",
+    "text": "Câu 8. Trong không gian $Oxyz$, phương trình mặt phẳng đi qua $M(1; 2; -3)$ và có vecto pháp tuyến $\\vec{n} = (1; -2; 3)$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1720,
+      552,
+      1763
+    ],
+    "category": "List-item",
+    "text": "A $x - 2y + 3z + 12 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1720,
+      1224,
+      1763
+    ],
+    "category": "List-item",
+    "text": "B $x - 2y - 3z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      191,
+      1765,
+      552,
+      1808
+    ],
+    "category": "List-item",
+    "text": "C $x - 2y + 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1765,
+      1224,
+      1808
+    ],
+    "category": "List-item",
+    "text": "D $x - 2y - 3z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1808,
+      1546,
+      1895
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Phương trình mặt phẳng: $1(x-1) - 2(y-2) + 3(z+3) = 0 \\Leftrightarrow x-2y+3z+12 = 0$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "55"
+  }
+]

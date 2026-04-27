@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      153,
+      113,
+      1534,
+      202
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. (4,0 điểm).** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      208,
+      643,
+      292
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\frac{3x+1}{x+4}$."
+  },
+  {
+    "bbox": [
+      162,
+      302,
+      838,
+      392
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $f(x)$ có đạo hàm là $f'(x) = \\frac{11}{(x+4)^2}$."
+  },
+  {
+    "bbox": [
+      162,
+      402,
+      973,
+      449
+    ],
+    "category": "Text",
+    "text": "b) Với $x_1, x_2 \\in \\mathbb{R}$ thoả mãn $x_1 < -4 < x_2$ thì $f(x_1) < f(x_2)$."
+  },
+  {
+    "bbox": [
+      162,
+      453,
+      1188,
+      501
+    ],
+    "category": "Text",
+    "text": "c) Toạ độ giao điểm của hai đường tiệm cận của đồ thị hàm số là $(3; -4)$."
+  },
+  {
+    "bbox": [
+      162,
+      515,
+      1022,
+      596
+    ],
+    "category": "Text",
+    "text": "d) Giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[0; 1]$ bằng $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      153,
+      599,
+      1372,
+      648
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong mặt phẳng toạ độ $Oxy$, gọi $(S)$ là miền nghiệm của hệ bất phương trình"
+  },
+  {
+    "bbox": [
+      763,
+      656,
+      925,
+      862
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x + y \\le 4 \\\\ 2x - y \\ge 1 \\\\ x \\ge 0 \\\\ y \\ge 0. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      869,
+      549,
+      916
+    ],
+    "category": "Text",
+    "text": "a) Điểm $A(1; 2)$ thuộc $(S)$."
+  },
+  {
+    "bbox": [
+      162,
+      921,
+      570,
+      969
+    ],
+    "category": "Text",
+    "text": "b) $(S)$ là một miền tam giác."
+  },
+  {
+    "bbox": [
+      162,
+      981,
+      533,
+      1064
+    ],
+    "category": "Text",
+    "text": "c) Diện tích $(S)$ bằng $\\frac{49}{6}$."
+  },
+  {
+    "bbox": [
+      162,
+      1067,
+      1099,
+      1115
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của biểu thức $P = x + 2y$ trên miền $(S)$ bằng 7."
+  },
+  {
+    "bbox": [
+      153,
+      1119,
+      1534,
+      1167
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ trục toạ độ $Oxyz$, cho $A(-1; 4; 4)$, $B(-4; 6; 5)$ và đường thẳng"
+  },
+  {
+    "bbox": [
+      158,
+      1173,
+      496,
+      1256
+    ],
+    "category": "Formula",
+    "text": "$$\nd: \\frac{x-2}{2} = \\frac{y-3}{3} = \\frac{z+4}{-5}.\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1261,
+      740,
+      1307
+    ],
+    "category": "Text",
+    "text": "a) Hai đường thẳng $AB$ và $d$ chéo nhau."
+  },
+  {
+    "bbox": [
+      162,
+      1311,
+      856,
+      1358
+    ],
+    "category": "Text",
+    "text": "b) Góc giữa hai đường thẳng $AB$ và $d$ bằng $60^\\circ$."
+  },
+  {
+    "bbox": [
+      162,
+      1362,
+      1380,
+      1414
+    ],
+    "category": "Text",
+    "text": "c) Khi điểm $C$ thay đổi trên $d$, giá trị nhỏ nhất của diện tích tam giác $ABC$ bằng $\\sqrt{42}$."
+  },
+  {
+    "bbox": [
+      162,
+      1419,
+      1336,
+      1467
+    ],
+    "category": "Text",
+    "text": "d) Đường thẳng vuông góc chung của hai đường thẳng $AB$ và $d$ đi qua $M(3; 3; 4)$."
+  },
+  {
+    "bbox": [
+      153,
+      1471,
+      1534,
+      1678
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Nhân迎境 năm mới, cô giáo chuẩn bị 40 bao lì xì may mắn gồm ba loại: loại I có 12 bao, mỗi bao chứa 50 nghìn đồng; loại II có 10 bao, mỗi bao chứa 20 nghìn đồng; loại III là các bao còn lại, mỗi bao chứa 10 nghìn đồng. Ba học sinh An, Bình, Chi theo thứ tự lần lượt lên bốc thăm, mỗi người chỉ bốc đúng một bao lì xì và không hoàn lại. Biết các kết quả tính xác suất được làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      162,
+      1678,
+      954,
+      1724
+    ],
+    "category": "Text",
+    "text": "a) Xác suất An bốc được bao lì xì 10 nghìn đồng là 0,45."
+  },
+  {
+    "bbox": [
+      162,
+      1724,
+      978,
+      1770
+    ],
+    "category": "Text",
+    "text": "b) Xác suất Bình bốc được bao lì xì 10 nghìn đồng là 0,45."
+  },
+  {
+    "bbox": [
+      153,
+      1770,
+      1534,
+      1854
+    ],
+    "category": "Text",
+    "text": "c) Biết Bình bốc được bao lì xì 10 nghìn đồng, xác suất để An bốc được bao lì xì 10 nghìn đồng là 0,44."
+  },
+  {
+    "bbox": [
+      162,
+      1854,
+      1202,
+      1902
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để có ít nhất một bạn bốc được bao lì xì 10 nghìn đồng là 0,84."
+  },
+  {
+    "bbox": [
+      153,
+      1946,
+      1006,
+      1991
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. (3,0 điểm).** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      1991,
+      1534,
+      2078
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Xét một đa giác đều có 60 đinh. Có bao nhiêu đa giác đều có các đinh là một trong các đinh của đa giác đều đã cho?"
+  },
+  {
+    "bbox": [
+      153,
+      2231,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0179"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1611,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

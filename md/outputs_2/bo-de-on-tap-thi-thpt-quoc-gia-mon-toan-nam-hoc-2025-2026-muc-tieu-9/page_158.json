@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1547,
+      227
+    ],
+    "category": "Text",
+    "text": "Vì vật $A$ và $B$ có cùng vận tốc đầu và gia tốc nên quăng đường $A$ đi được sau 5 giây bằng quăng đường $B$ đi được ($OK = 137,5$ m)."
+  },
+  {
+    "bbox": [
+      202,
+      245,
+      1277,
+      287
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, $MK = 17,5$ m. Suy ra khoảng cách giữa hai vật lúc đầu là:"
+  },
+  {
+    "bbox": [
+      518,
+      303,
+      1177,
+      343
+    ],
+    "category": "Formula",
+    "text": "$$\nOM = OK - MK = 137,5 - 17,5 = 120 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      369,
+      1547,
+      455
+    ],
+    "category": "Text",
+    "text": "Độ cao ban đầu của vật $A$ so với mặt đất là $s_A = 120 + s_B$ (với $s_B$ là độ cao ban đầu của vật $B$)."
+  },
+  {
+    "bbox": [
+      202,
+      474,
+      1265,
+      516
+    ],
+    "category": "Text",
+    "text": "Vật $B$ tiếp đất sau 10 giây nên quăng đường $B$ đi được (độ cao của $B$) là:"
+  },
+  {
+    "bbox": [
+      505,
+      524,
+      1192,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\ns_B = 3 \\cdot 10 + \\frac{1}{2} \\cdot 9,8 \\cdot 10^2 = 30 + 490 = 520 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      621,
+      1066,
+      662
+    ],
+    "category": "Text",
+    "text": "Vậy độ cao ban đầu của vật $A$ là $s_A = 120 + 520 = 640$ (m)."
+  },
+  {
+    "bbox": [
+      202,
+      681,
+      652,
+      722
+    ],
+    "category": "Text",
+    "text": "Vật $A$ tiếp đất khi $s_A(t) = 640$:"
+  },
+  {
+    "bbox": [
+      521,
+      730,
+      1174,
+      808
+    ],
+    "category": "Formula",
+    "text": "$$\n3t + \\frac{1}{2} \\cdot 9,8 \\cdot t^2 = 640 \\Leftrightarrow 4,9t^2 + 3t - 640 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      826,
+      1144,
+      869
+    ],
+    "category": "Text",
+    "text": "Giải phương trình bậc hai, ta lấy nghiệm dương: $t \\approx 11,13$ (giây)."
+  },
+  {
+    "bbox": [
+      202,
+      888,
+      982,
+      929
+    ],
+    "category": "Text",
+    "text": "Vậy vật $A$ tiếp đất sau vật $B$ một khoảng thời gian là:"
+  },
+  {
+    "bbox": [
+      667,
+      946,
+      1034,
+      986
+    ],
+    "category": "Formula",
+    "text": "$$\n11,13 - 10 = 1,13 \\text{ (giây).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1010,
+      1547,
+      1191
+    ],
+    "category": "Text",
+    "text": "### **Bài 3.** Ở trung tâm nghiên cứu X có một thiết bị được đặt trên một quả đồi thuộc vùng rừng núi để đo các thông số về thời tiết khí tượng của vùng đó (nhiệt độ, áp suất khí quyển, độ ẩm, mây, gió, mưa...). Cấu tạo bên ngoài của thiết bị gồm hai mặt cầu cắt nhau là ($S_1$) có tâm $I$, bán kính bằng 4 m và mặt cầu ($S_2$) có tâm $J$, bán kính bằng 2 m."
+  },
+  {
+    "bbox": [
+      153,
+      1209,
+      1547,
+      1518
+    ],
+    "category": "Text",
+    "text": "Để đo các thông số cần thiết, người ta lắp đặt một tấm thiết bị điện tử hình chữ nhật ($R$) luôn tiếp xúc với cả hai mặt cầu ($S_1$), ($S_2$) và có thể di chuyển quanh các chỏm cầu để truyền tín hiệu tới hộp điều hành (đường truyền không dây). Chọn hệ trục tọa độ $Oxyz$ trong không gian với độ dài đơn vị trên mỗi trục tọa độ là 1 m và $O(0; 0; 0)$ là vị trí hộp điều hành thiết bị thì $I(2; 1; 1)$ và $J(2; 1; 5)$. Khi khoảng cách từ $O$ đến tấm thiết bị điện tử ($R$) ngắn nhất là lúc đường truyền tín hiệu tốt nhất. Khoảng cách ngắn nhất này bằng bao nhiêu mét? (làm tròn kết quả đến hàng phần trăm, tham khảo mô tả thiết bị như hình vẽ)."
+  },
+  {
+    "bbox": [
+      594,
+      1571,
+      1063,
+      2159
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "158"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

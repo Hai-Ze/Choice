@@ -1,0 +1,179 @@
+[
+  {
+    "bbox": [
+      178,
+      42,
+      1011,
+      87
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      186,
+      185
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      304,
+      163,
+      1305,
+      254
+    ],
+    "category": "Text",
+    "text": "điểm $B$ trên $d$. Khi đó, sau 57,88 giây kể từ lúc phóng thì tên lửa va chạm với UAV (kết quả làm tròn đến hàng phần trăm của giây)."
+  },
+  {
+    "bbox": [
+      82,
+      257,
+      855,
+      354
+    ],
+    "category": "Text",
+    "text": "» Câu 15. Cho hàm số $f(x) = \\left(\\sin \\frac{x}{2} + \\cos \\frac{x}{2}\\right)^2$. Khi đó:"
+  },
+  {
+    "bbox": [
+      220,
+      357,
+      1567,
+      656
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Minsh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>$f(x) = 1 + \\sin x$</td><td></td><td></td></tr><tr><td>(b)</td><td>$f(x)$ liên tục trên $\\mathbb{R}$</td><td></td><td></td></tr><tr><td>(c)</td><td>$\\int f(x)dx = \\int dx + \\int (-\\cos x)dx$</td><td></td><td></td></tr><tr><td>(d)</td><td>$\\int f(x)dx = x + \\cos x + C$</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      82,
+      659,
+      1531,
+      742
+    ],
+    "category": "Text",
+    "text": "» Câu 16. Khi kiểm tra sức khoẻ tổng quát của bệnh nhân ở một bệnh viện, người ta được kết quả như sau:"
+  },
+  {
+    "bbox": [
+      229,
+      754,
+      767,
+      796
+    ],
+    "category": "List-item",
+    "text": "- Có 40% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      229,
+      811,
+      899,
+      852
+    ],
+    "category": "List-item",
+    "text": "- Có 30% bệnh nhân thường xuyên bị stress."
+  },
+  {
+    "bbox": [
+      229,
+      866,
+      1458,
+      909
+    ],
+    "category": "List-item",
+    "text": "- Trong số các bệnh nhân thường xuyên bị stress có 80% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      220,
+      915,
+      793,
+      960
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên 1 bệnh nhân. Khi đó:"
+  },
+  {
+    "bbox": [
+      220,
+      957,
+      1567,
+      1332
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Minsh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Xác suất chọn được bệnh nhân thường xuyên bị stress là 0,3.</td><td></td><td></td></tr><tr><td>(b)</td><td>Xác suất chọn được bệnh nhân bị heavy da dày, biết bệnh nhân đó thường xuyên bị stress, là 0,8.</td><td></td><td></td></tr><tr><td>(c)</td><td>Xác suất chọn được bệnh nhân vừa thường xuyên bị stress vừa bị heavy da dày là 0,24.</td><td></td><td></td></tr><tr><td>(d)</td><td>Xác suất chọn được bệnh nhân thường xuyên bị stress, biết bệnh nhân đó bị heavy da dày, là 0,6.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      32,
+      1334,
+      407,
+      1377
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      82,
+      1382,
+      1531,
+      1842
+    ],
+    "category": "Text",
+    "text": "» Câu 17. Một doanh nghiệp kinh doanh một loại sản phẩm $T$ được sản xuất trong nước. Qua nghiên cứu thấy rằng nếu chi phí sản xuất mỗi sản phẩm $T$ là $x(\\$)$ thì số sản phẩm $T$ các nhà máy sản xuất sẽ là $R(x) = x - 200$ và số sản phẩm $T$ mà doanh nghiệp bán được trên thị trường trong nước sẽ là $Q(x) = 4200 - x$. Số sản phẩm còn dư doanh nghiệp xuất khẩu ra thị trường quốc tế với giá bán mỗi sản phẩm ổn định trên thị trường quốc tế là $x_0 = 3200\\$. Nhà nước đánh thuế trên mỗi sản phẩm xuất khẩu là $a(\\$)$ và luôn đảm bảo tỉ lệ giữa lãi xuất khẩu của doanh nghiệp và thuế thu được của nhà nước tương ứng là 4:1. Hãy xác định giá trị của $a$, biết lãi mà doanh nghiệp thu được do xuất khẩu là nhiều nhất."
+  },
+  {
+    "bbox": [
+      1058,
+      1852,
+      1202,
+      1890
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1227,
+      1844,
+      1529,
+      1894
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      79,
+      2247,
+      582,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1282,
+      2251,
+      1421,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 31"
+  },
+  {
+    "bbox": [
+      1447,
+      2161,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      148,
+      1572,
+      254
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một chiếc hộchứa 9 quả cầu gồm 4 quả cầu màu xanh, 3 quả cầu màu đỏ và 2 quả cầu màu vàng. Lấy ngẫu nhiên 3 quả cầu từ hộp đó."
+  },
+  {
+    "bbox": [
+      155,
+      264,
+      858,
+      311
+    ],
+    "category": "Text",
+    "text": "a) Số cách lấy ngẫu nhiên 3 quả cầu từ hộp đó là 84."
+  },
+  {
+    "bbox": [
+      155,
+      321,
+      936,
+      368
+    ],
+    "category": "Text",
+    "text": "b) Số cách lấy được 3 quả cầu không có quả màu đỏ là 20."
+  },
+  {
+    "bbox": [
+      155,
+      388,
+      1004,
+      469
+    ],
+    "category": "Text",
+    "text": "c) Xác suất lấy được 3 quả cầu không có quả màu đỏ bằng $\\frac{1}{84}$."
+  },
+  {
+    "bbox": [
+      155,
+      493,
+      1033,
+      575
+    ],
+    "category": "Text",
+    "text": "d) Xác suất lấy được 3 quả cầu có ít nhất 1 quả màu đỏ bằng $\\frac{83}{84}$."
+  },
+  {
+    "bbox": [
+      807,
+      598,
+      924,
+      638
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      651,
+      972,
+      774
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      774,
+      827,
+      823
+    ],
+    "category": "Text",
+    "text": "a) Số cách chọn 3 quả cầu từ 9 quả cầu là $C_9^3 = 84$"
+  },
+  {
+    "bbox": [
+      155,
+      842,
+      1572,
+      946
+    ],
+    "category": "Text",
+    "text": "b) Để chọn 3 quả cầu không có quả màu đỏ, ta chỉ có thể chọn từ 4 quả cầu màu xanh và 2 quả cầu màu vàng, tức là chọn từ 6 quả cầu."
+  },
+  {
+    "bbox": [
+      155,
+      963,
+      797,
+      1011
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 3 quả cầu từ 6 quả cầu là $C_6^3 = 20$"
+  },
+  {
+    "bbox": [
+      155,
+      1035,
+      1244,
+      1084
+    ],
+    "category": "Text",
+    "text": "c) Gọi T là phép thử lấy ngẫu nhiên 3 quả trong 9 quả cầu khi đó $n(\\Omega) = C_9^3 = 84$"
+  },
+  {
+    "bbox": [
+      155,
+      1111,
+      1207,
+      1161
+    ],
+    "category": "Text",
+    "text": "Gọi A: “Lấy 3 quả cầu không có quả màu đỏ” khi đó theo ý b $n(A) = C_6^3 = 20$"
+  },
+  {
+    "bbox": [
+      155,
+      1188,
+      1276,
+      1282
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất lấy được 3 quả cầu không có quả màu đỏ là: $P_{(A)} = \\frac{C_6^3}{C_9^3} = \\frac{20}{84} = \\frac{5}{21} \\neq \\frac{1}{84}$"
+  },
+  {
+    "bbox": [
+      155,
+      1308,
+      1153,
+      1389
+    ],
+    "category": "Text",
+    "text": "d) Ta có $\\bar{A}$: “Lấy 3 quả cầu có ít nhất một quả màu đỏ” $P_{(\\bar{A})} = 1 - P_{(A)} = \\frac{16}{21}$"
+  },
+  {
+    "bbox": [
+      155,
+      1465,
+      809,
+      1507
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      1522,
+      1574,
+      1694
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một biển广告cáo có dạng hình vuông $ABCD$ cạnh bằng 4 m và $I$ là trung điểm của đoạn thẳng $CD$. Trên tấm biển đó có đường parabol đinh $I$ đi qua $A, B$ và cắt đường chéo $BD$ tại $M$ (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      681,
+      1711,
+      1049,
+      2125
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

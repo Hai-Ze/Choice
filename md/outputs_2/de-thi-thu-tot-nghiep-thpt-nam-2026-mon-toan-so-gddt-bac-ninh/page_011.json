@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      142,
+      116,
+      1274,
+      198
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{x + d}$ có bảng biến thiên như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      517,
+      218,
+      1188,
+      378
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>1</td><td>2</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$-\\infty$</td><td>$+\\infty$</td><td>$6$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      402,
+      851,
+      458
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trên khoảng $(0;2)$."
+  },
+  {
+    "bbox": [
+      180,
+      480,
+      1085,
+      534
+    ],
+    "category": "Text",
+    "text": "b) Tích giá trị cực đại và giá trị cực tiểu của hàm số $y = f(x)$ bằng 12."
+  },
+  {
+    "bbox": [
+      142,
+      559,
+      1522,
+      688
+    ],
+    "category": "Text",
+    "text": "c) Cho điểm $M$ có hoành độ lớn hơn 1, di chuyển trên đồ thị hàm số $y = f(x)$. Giá trị nhỏ nhất của tổng khoảng cách từ điểm $M$ tới hai trục tọa độ bằng $5 + 2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      180,
+      706,
+      464,
+      742
+    ],
+    "category": "Text",
+    "text": "d) $a + b + c + d = 2$."
+  },
+  {
+    "bbox": [
+      146,
+      755,
+      761,
+      795
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      142,
+      810,
+      916,
+      1125
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một xe ô tô sau khi chờ hết味đèn đỏ đã bắt đầu chuyển động. Trong 6 phút đầu tiên với tốc độ được biểu thị bằng đồ thị là đường cong parabol; biết rằng sau 5 phút thì đạt đến tốc độ cao nhất 1000 m/phút và bắt đầu giảm tốc. Sau khi đi được 6 phút thì xe chuyển động đều (tham khảo hình vẽ). Quăng đường xe đi được sau 8 phút đầu tiên kể từ khi hết味đèn đỏ là bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      1002,
+      763,
+      1557,
+      1083
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      1148,
+      1304,
+      1502
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một cái ly nước hình trụ có chiều cao 12 cm đang chứa một lượng nước bằng $\\frac{2}{3}$ thể tích của ly. Bạn A đặt một vật có dạng hình lập phương vào miếng ly thì thấy một đỉnh của vật đó chậm vào mặt nước đồng thời đường chéo qua đỉnh này của hình lập phương trùng với trục đối xứng của ly (tham khảo hình vẽ). Nếu ban đầu bạn A đổ nước đầy ly thì sau khi đặt khối lập phương như trên, lượng nước tràn ra là bao nhiêu centimet khối (kết quả làm tròn đến hàng phần chục và bỏ qua độ dày của ly)?"
+  },
+  {
+    "bbox": [
+      1341,
+      1161,
+      1473,
+      1413
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      1512,
+      1560,
+      1665
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho đa giác đều 30 cạnh. Chọn ngẫu nhiên 4 đỉnh trong các đỉnh của đa giác đã cho. Tính xác suất để 4 đỉnh được chọn tạo thành một tức giác có 2 góc ở 2 đỉnh liền kề, chung một cạnh của tức giác là 2 góc tù (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      142,
+      1674,
+      1560,
+      1947
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Giả sử nhu cầu tiêu thụ một loại sản phẩm mới của doanh nghiệp $A$ được mô hình hoá bởi hàm số $p = \\frac{1300}{\\sqrt{x}}$, trong đó $p$ là đơn giá (tính bằng nghìn đồng) và $x$ là số lượng đơn vị sản phẩm. Chi phí (tính bằng nghìn đồng) để sản xuất $x$ đơn vị sản phẩm được cho bởi hàm số $C = 10x + 500$. Tìm mức giá (tính bằng nghìn đồng) để mang lại lợi nhuận tối đa."
+  },
+  {
+    "bbox": [
+      142,
+      2097,
+      295,
+      2134
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0103"
+  },
+  {
+    "bbox": [
+      1396,
+      2102,
+      1522,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

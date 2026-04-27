@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      590,
+      111,
+      1182,
+      488
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      98,
+      532,
+      258,
+      577
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 34"
+  },
+  {
+    "bbox": [
+      98,
+      611,
+      1552,
+      717
+    ],
+    "category": "Text",
+    "text": "Vào lúc 9 giờ sáng, chiếc khinh khí cầu thứ nhất ở vị trí $A(2;3;0,5)$, chiếc khinh khí cầu thứ hai ở vị trí $B(-1;-1;0,3)$."
+  },
+  {
+    "bbox": [
+      98,
+      756,
+      1278,
+      807
+    ],
+    "category": "Text",
+    "text": "Mặt đất là mặt phẳng $(Oxy)$, hai điểm $A, B$ nằm về cùng phía so với mặt phẳng $(Oxy)$."
+  },
+  {
+    "bbox": [
+      98,
+      846,
+      1552,
+      945
+    ],
+    "category": "Text",
+    "text": "Gọi $A'$ là điểm đối xứng với $A$ qua mặt phẳng $(Oxy)$. Khi đó $A'(2;3;-0,5)$ và tổng khoảng cách từ vị trí người đó đúng trên mặt đất đến hai khinh khí cầu là: $T = MA + MB = MA' + MB \\ge A'B$."
+  },
+  {
+    "bbox": [
+      98,
+      970,
+      1200,
+      1016
+    ],
+    "category": "Text",
+    "text": "Vậy $T$ đạt giá trị nhỏ nhất bằng $A'B$ đạt được khi và chỉ khi $A', M, B$ thẳng hàng."
+  },
+  {
+    "bbox": [
+      103,
+      1056,
+      478,
+      1105
+    ],
+    "category": "Formula",
+    "text": "$$\nM(a; b; c) \\in (Oxy) \\Rightarrow c = 0.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1145,
+      797,
+      1197
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overline{A'M} = (a-2; b-3; 0,5), \\overline{A'B} = (-3; -4; 0,8).\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1238,
+      1342,
+      1285
+    ],
+    "category": "Text",
+    "text": "Ba điểm $A', M, B$ thẳng hàng khi và chỉ khi hai vecto $\\overline{A'M}, \\overline{A'B}$ cùng phương. Khi đó ta có:"
+  },
+  {
+    "bbox": [
+      103,
+      1324,
+      772,
+      1509
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} \\frac{a-2}{-3} = \\frac{0,5}{0,8} \\\\ \\frac{b-3}{-4} = \\frac{0,5}{0,8} \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{1}{8} \\\\ b = \\frac{1}{2} \\end{cases}. \\text{Vậy } 32a + 60b + 5c = 34.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1549,
+      1552,
+      1706
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $A$, $AB = 1\\text{cm}$, $AC = \\sqrt{2}\\text{cm}$; $\\widehat{SBA} = \\widehat{SCA} = 90^\\circ$, góc giữa $BC$ và mặt phẳng $(SAB)$ bằng $45^\\circ$. Tính khoảng cách giữa hai đường thẳng $SA$ và $BC$, với đơn vị là $\\text{cm}$ (centimet) và kết quả làm tròn đến hàng phần trăm."
+  },
+  {
+    "bbox": [
+      836,
+      1706,
+      950,
+      1744
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      98,
+      1740,
+      278,
+      1783
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 0,68"
+  },
+  {
+    "bbox": [
+      657,
+      1783,
+      1116,
+      2142
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      98,
+      2149,
+      652,
+      2198
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu của $S$ trên $(ABC)$."
+  }
+]

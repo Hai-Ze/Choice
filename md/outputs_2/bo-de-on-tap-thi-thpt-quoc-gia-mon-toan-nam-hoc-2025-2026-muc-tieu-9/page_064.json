@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      136,
+      1109,
+      198
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Thể tích nước ban đầu của khay thứ nhất là:"
+  },
+  {
+    "bbox": [
+      648,
+      207,
+      1049,
+      248
+    ],
+    "category": "Formula",
+    "text": "$$\nV_1 = 20 \\cdot 10 \\cdot 8 = 1600 (\\text{cm}^3)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      257,
+      725,
+      298
+    ],
+    "category": "Text",
+    "text": "Lượng nước đã đổ sang khay thứ hai là:"
+  },
+  {
+    "bbox": [
+      597,
+      305,
+      1098,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{\\text{nước}} = \\frac{1}{4}V_1 = \\frac{1}{4} \\cdot 1600 = 400 (\\text{cm}^3)\n$$"
+  },
+  {
+    "bbox": [
+      381,
+      400,
+      1318,
+      1110
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1154,
+      881,
+      1196
+    ],
+    "category": "Text",
+    "text": "Gọi $h$ là chiều cao của khay thứ hai ($OO' = h$)."
+  },
+  {
+    "bbox": [
+      203,
+      1214,
+      715,
+      1263
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, mực nước cao $h' = \\frac{2}{5}h$."
+  },
+  {
+    "bbox": [
+      154,
+      1278,
+      1545,
+      1362
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là độ dài đường chéo của mặt nước. Theo định lý Ta-lét trong hình thang (xét thiết diện qua đường chéo):"
+  },
+  {
+    "bbox": [
+      542,
+      1371,
+      1157,
+      1452
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x-n}{2n-n} = \\frac{h'}{h} = \\frac{2}{5} \\Rightarrow x-n = \\frac{2}{5}n \\Rightarrow x = \\frac{7}{5}n\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1470,
+      1308,
+      1511
+    ],
+    "category": "Text",
+    "text": "Diện tích đáy dưới ($S'$), diện tích miếng khay ($S$) và diện tích mặt nước ($S_1$):"
+  },
+  {
+    "bbox": [
+      196,
+      1525,
+      351,
+      1577
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond S' = \\frac{n^2}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      1585,
+      467,
+      1642
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond S = \\frac{(2n)^2}{2} = 2n^2.\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      1648,
+      582,
+      1704
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond S_1 = \\frac{x^2}{2} = \\frac{(7n/5)^2}{2} = \\frac{49n^2}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1716,
+      761,
+      1757
+    ],
+    "category": "Text",
+    "text": "Thể tích khối nước trong khay thứ hai:"
+  },
+  {
+    "bbox": [
+      222,
+      1765,
+      1478,
+      2049
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} V_{\\text{nước}} &= \\frac{h'}{3} (S' + S_1 + \\sqrt{S' \\cdot S_1}) = 400 \\\\ \\Leftrightarrow \\frac{2h}{15} \\left( \\frac{n^2}{2} + \\frac{49n^2}{50} + \\sqrt{\\frac{n^2}{2} \\cdot \\frac{49n^2}{50}} \\right) &= 400 \\\\ \\Leftrightarrow \\frac{2h}{15} \\left( \\frac{25n^2 + 49n^2 + 35n^2}{50} \\right) &= 400 \\Leftrightarrow \\frac{2h}{15} \\cdot \\frac{109n^2}{50} = 400 \\Rightarrow h \\cdot n^2 = \\frac{400 \\cdot 375}{109} = \\frac{150000}{109} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2069,
+      643,
+      2110
+    ],
+    "category": "Text",
+    "text": "Thể tíchchiếckhay thứ hai là:"
+  },
+  {
+    "bbox": [
+      381,
+      2118,
+      1313,
+      2215
+    ],
+    "category": "Formula",
+    "text": "$$\na = V_{\\text{khay 2}} = \\frac{h}{3} (S' + S + \\sqrt{S' \\cdot S}) = \\frac{h}{3} \\left( \\frac{n^2}{2} + 2n^2 + \\sqrt{\\frac{n^2}{2} \\cdot 2n^2} \\right)\n$$"
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      101,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "64"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1499,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

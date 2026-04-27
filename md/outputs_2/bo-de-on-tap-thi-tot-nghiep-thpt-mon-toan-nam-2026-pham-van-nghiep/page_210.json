@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      217,
+      111,
+      1084,
+      226
+    ],
+    "category": "Text",
+    "text": "$I$ thuộc elip nên ta có: $\\frac{(2\\sqrt{3})^2}{16} + \\frac{y_I^2}{4} = 1 \\Rightarrow y_I = 1 \\Rightarrow I(2\\sqrt{3}; 1)$."
+  },
+  {
+    "bbox": [
+      213,
+      232,
+      866,
+      282
+    ],
+    "category": "Text",
+    "text": "Phương trình parabol có dạng: $y = mx^2$ ($P$)."
+  },
+  {
+    "bbox": [
+      217,
+      295,
+      1225,
+      377
+    ],
+    "category": "Text",
+    "text": "$I$ thuộc parabol, suy ra $1 = m \\cdot (2\\sqrt{3})^2 \\Leftrightarrow m = \\frac{1}{12}$. Suy ra ($P$): $y = \\frac{1}{12}x^2$."
+  },
+  {
+    "bbox": [
+      213,
+      382,
+      1356,
+      495
+    ],
+    "category": "Text",
+    "text": "Thể tích khối vật thể ($T$): $V = 2 \\cdot \\left( \\pi \\cdot \\int_{0}^{2\\sqrt{3}} \\left( \\frac{1}{12}x^2 \\right)^2 dx + \\pi \\cdot \\int_{2\\sqrt{3}}^{4} 4 \\left( 1 - \\frac{x^2}{16} \\right) dx \\right) \\approx 6,08$."
+  },
+  {
+    "bbox": [
+      74,
+      501,
+      1575,
+      594
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Người ta thiết kế một mẫu gạch lát nền nhà có dạng hình vuông cạnh $4 \\text{ dm}$. Bốn góc viên gạch màu trắng, phần ở giữa màu xanh"
+  },
+  {
+    "bbox": [
+      710,
+      590,
+      1068,
+      952
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      956,
+      1575,
+      1183
+    ],
+    "category": "Text",
+    "text": "Đường viền của phần màu xanh bao gồm bốn đoạn thẳng nằm trên các cạnh hình vuông và bốn đường cong có tính chất: Tích khoảng cách từ một điểm bất kì thuộc đường cong đó đến hai trục đối xứng của viên gạch (hai đường thẳng đi qua tâm viên gạch và lần lượt song song với hai cạnh vuông góc) bằng $2 \\text{ dm}$. Hãy cho biết phần màu xanh có diện tích bằng bao nhiêu decimét vuông (làm tròn kết quả đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      833,
+      1186,
+      952,
+      1227
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1231,
+      404,
+      1272
+    ],
+    "category": "Text",
+    "text": "Đáp án: 13,5"
+  },
+  {
+    "bbox": [
+      213,
+      1280,
+      744,
+      1321
+    ],
+    "category": "Text",
+    "text": "Đặt hệ trục tọa độ $Oxy$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      658,
+      1347,
+      1162,
+      1856
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      1868,
+      1308,
+      2047
+    ],
+    "category": "Text",
+    "text": "Xét điểm $M(x; y)$ thuộc đường cong. Từ giả thiết suy ra $|xy| = 2 \\Leftrightarrow \\begin{cases} y = \\frac{2}{x} \\\\ y = -\\frac{2}{x} \\end{cases}$"
+  },
+  {
+    "bbox": [
+      213,
+      2055,
+      756,
+      2135
+    ],
+    "category": "Text",
+    "text": "Giả sử hàm số $y = \\frac{2}{x}$ có đồ thị là ($C$)"
+  },
+  {
+    "bbox": [
+      213,
+      2138,
+      1169,
+      2184
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AB$, $BC$ lần lượt có phương trình là $y = 2$ và $x = 2$"
+  },
+  {
+    "bbox": [
+      213,
+      2190,
+      1019,
+      2238
+    ],
+    "category": "Text",
+    "text": "Gọi $E = AB \\cap (C)$; $F = BC \\cap (C)$ suy ra $E(1; 2)$; $F(2; 1)$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      113,
+      624,
+      198
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{ĐKXĐ: } 3x - 4 > 0 \\Leftrightarrow x > \\frac{4}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      204,
+      1241,
+      252
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\log_2(3x-4) = 3 \\Leftrightarrow 3x-4 = 2^3 \\Leftrightarrow 3x-4 = 8 \\Leftrightarrow 3x = 12 \\Leftrightarrow x = 4(t/m)\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      257,
+      883,
+      306
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của phương trình là $S = \\{4\\}$."
+  },
+  {
+    "bbox": [
+      74,
+      306,
+      1577,
+      402
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý (a), (b), (c), (d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      402,
+      1577,
+      593
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Một vật dao động điều hoà trên trục $Ox$ có phương trình $x = 3 \\cos\\left(2t - \\frac{\\pi}{3}\\right)$. Ở đây, thời gian $t$ tính bằng giây (s) và đơn vị độ dài trên trục $Ox$ là centimét (cm). Vị trí cân bằng của vật là vị trí tại gốc $O$, tức là khi $x = 0$; khoảng cách từ vật đến vị trí cân bằng là $d = |x|$."
+  },
+  {
+    "bbox": [
+      211,
+      602,
+      1193,
+      683
+    ],
+    "category": "List-item",
+    "text": "a)ocba: Vật ở vị trí cân bằng là $t = \\frac{5\\pi}{12} + k\\pi(s), k \\in \\mathbb{N}$."
+  },
+  {
+    "bbox": [
+      211,
+      683,
+      1083,
+      731
+    ],
+    "category": "List-item",
+    "text": "b) Vật cách vị trí cân bằng một khoảng lớn nhất bằng 3 cm."
+  },
+  {
+    "bbox": [
+      211,
+      731,
+      1331,
+      777
+    ],
+    "category": "List-item",
+    "text": "c) Trong khoảng thời gian từ 0 đến 60 giây, vật đi qua vị trí cân bằng 38 lần."
+  },
+  {
+    "bbox": [
+      211,
+      777,
+      1406,
+      822
+    ],
+    "category": "List-item",
+    "text": "d) tại thời điểm $t = 10$ s, vật cách vị trí cân bằng một khoảng xấp xỉ bằng 2,84 cm."
+  },
+  {
+    "bbox": [
+      833,
+      824,
+      953,
+      867
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      870,
+      312,
+      907
+    ],
+    "category": "Text",
+    "text": "(a) Sai"
+  },
+  {
+    "bbox": [
+      211,
+      912,
+      1199,
+      1090
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Vật ở vị trí cân bằng khi } x = 0 &\\Leftrightarrow 3 \\cos\\left(2t - \\frac{\\pi}{3}\\right) = 0 \\Leftrightarrow \\cos\\left(2t - \\frac{\\pi}{3}\\right) = 0 \\\\ &\\Leftrightarrow 2t - \\frac{\\pi}{3} = \\frac{\\pi}{2} + k\\pi \\Leftrightarrow t = \\frac{5\\pi}{12} + k\\frac{\\pi}{2} \\quad (k \\in \\mathbb{Z}). \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1095,
+      355,
+      1137
+    ],
+    "category": "Text",
+    "text": "(b) Đúng"
+  },
+  {
+    "bbox": [
+      211,
+      1137,
+      731,
+      1225
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } -3 \\le 3 \\cos\\left(2t - \\frac{\\pi}{3}\\right) \\le 3 \\Leftrightarrow |x| \\le 3\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1230,
+      1105,
+      1278
+    ],
+    "category": "Text",
+    "text": "Vậy vật cách vị trí cân bằng một khoảng lớn nhất bằng 3 cm."
+  },
+  {
+    "bbox": [
+      211,
+      1280,
+      350,
+      1322
+    ],
+    "category": "Text",
+    "text": "(c) Đúng"
+  },
+  {
+    "bbox": [
+      211,
+      1326,
+      1225,
+      1446
+    ],
+    "category": "Formula",
+    "text": "$$\n0 \\le t \\le 60 \\Rightarrow 0 \\le \\frac{5\\pi}{12} + k\\frac{\\pi}{2} \\le 60 \\Leftrightarrow -\\frac{5}{6} \\le k \\le \\frac{120 - \\frac{5\\pi}{6}}{\\pi} \\Leftrightarrow -0,83 \\le k \\le 37,36\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1450,
+      1372,
+      1552
+    ],
+    "category": "Text",
+    "text": "Vì $k \\in \\mathbb{Z}$ nên $k \\in [0;37]$. Suy ra phương trình $x = 0$ có 38 nghiệm thuộc $[0;60]$.\nVậy vật đi qua vị trí cân bằng 38 lần."
+  },
+  {
+    "bbox": [
+      211,
+      1554,
+      317,
+      1591
+    ],
+    "category": "Text",
+    "text": "(d) Sai"
+  },
+  {
+    "bbox": [
+      211,
+      1598,
+      476,
+      1647
+    ],
+    "category": "Formula",
+    "text": "$$\nt = 10 \\Rightarrow |x| \\approx 2,98.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1655,
+      1577,
+      1893
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một khu bảo tồn thiên nhiên có hai trạm kiểm lâm và một trạm quan sát. Trong hệ toạ độ $Oxyz$ (đơn vị độ dài trên mỗi trục là kilômét), hai trạm kiểm lâm và trạm quan sát có vị trí lần lượt là $A(10;5;0)$, $B(70;85;0)$ và $I(20;65;0,2)$. Một thiết bị bay không người lái (drone) được thiết kế bay trên đường thẳng đi qua hai điểm $C(10;5;0,1)$ và $D(70;85;0,1)$ để truyền tín hiệu và dữ liệu về trạm quan sát $I$."
+  },
+  {
+    "bbox": [
+      211,
+      1893,
+      1577,
+      2078
+    ],
+    "category": "List-item",
+    "text": "a) cùng một thời điểm, một xe máy xuất phát từ $A$ đi đến $B$ với vận tốc 40 km/h và một ô tô xuất phát từ $B$ đi đến $A$ với vận tốc 60 km/h, sau đó gặp nhau tại $M$. Drone phải di chuyển trước đến vị trí $H$ có hình chiếu trên $AB$ là $M$ để truyền dữ liệu về trạm quan sát $I$. Khi đó vị trí của drone là $(34;37;0,1)$."
+  },
+  {
+    "bbox": [
+      211,
+      2085,
+      1537,
+      2234
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình đường thẳng mô tả cho tuyến đường bay của drone là $\\begin{cases} x = 10 + 3t \\\\ y = 5 + 4t \\\\ z = 0,1 \\end{cases} (t \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1508,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

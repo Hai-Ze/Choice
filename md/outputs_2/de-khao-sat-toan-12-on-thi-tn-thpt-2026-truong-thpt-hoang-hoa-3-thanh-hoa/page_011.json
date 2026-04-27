@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      335,
+      102,
+      1624,
+      213
+    ],
+    "category": "Text",
+    "text": "Ta có: $x_1, x_2, \\dots, x_{11} \\in [3;5)$; $x_{11}, x_{12}, \\dots, x_{31} \\in [5;7)$; $x_{32}, x_{33}, \\dots, x_{60} \\in [7;9)$; $x_{61}, x_{62}, \\dots, x_{100} \\in [9;11)$; $x_{101}, x_{102}, \\dots, x_{130} \\in [11;13)$"
+  },
+  {
+    "bbox": [
+      335,
+      244,
+      1599,
+      348
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của mẫu số liệu gốc là $x_{33} \\in [7;9)$. Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là:"
+  },
+  {
+    "bbox": [
+      733,
+      377,
+      1246,
+      498
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 7 + \\frac{\\frac{130}{4} - (11 + 20)}{29} \\cdot (9 - 7) = \\frac{206}{29}\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      528,
+      1618,
+      631
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu gốc là $x_{98} \\in [9;11)$. Do đó, tứ phân vị thứ ba của mẫu số liệu ghép nhóm là:"
+  },
+  {
+    "bbox": [
+      694,
+      659,
+      1286,
+      781
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 9 + \\frac{\\frac{130 \\cdot 3}{4} - (11 + 20 + 29)}{40} \\cdot (11 - 9) = \\frac{87}{8}\n$$"
+  },
+  {
+    "bbox": [
+      335,
+      808,
+      1008,
+      853
+    ],
+    "category": "Text",
+    "text": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm là:"
+  },
+  {
+    "bbox": [
+      777,
+      880,
+      1206,
+      962
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Delta_Q = Q_3 - Q_1 = \\frac{87}{8} - \\frac{206}{29} = \\frac{875}{232}.\n$$"
+  },
+  {
+    "bbox": [
+      197,
+      994,
+      1644,
+      1109
+    ],
+    "category": "List-item",
+    "text": "**Câu 8:** Trong không gian $Oxyz$, cho mặt cầu $(S): (x-1)^2 + (y+4)^2 + z^2 = 9$. Toạ độ tâm $I$ và bán kính $r$ của mặt cầu $(S)$ là"
+  },
+  {
+    "bbox": [
+      436,
+      1124,
+      728,
+      1169
+    ],
+    "category": "List-item",
+    "text": "A. $I(1; -4; 0), r = 9$."
+  },
+  {
+    "bbox": [
+      988,
+      1124,
+      1258,
+      1169
+    ],
+    "category": "List-item",
+    "text": "B. $I(1; 4; 0), r = 3$."
+  },
+  {
+    "bbox": [
+      436,
+      1186,
+      735,
+      1231
+    ],
+    "category": "List-item",
+    "text": "C. $I(-1; 4; 0), r = 9$."
+  },
+  {
+    "bbox": [
+      988,
+      1186,
+      1279,
+      1231
+    ],
+    "category": "List-item",
+    "text": "D. $I(1; -4; 0), r = 3$."
+  },
+  {
+    "bbox": [
+      914,
+      1244,
+      1031,
+      1282
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      297,
+      1289,
+      410,
+      1326
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      197,
+      1349,
+      1100,
+      1448
+    ],
+    "category": "List-item",
+    "text": "**Câu 9:** Nếu $\\int_{1}^{2} f(x) dx = -3$ và $\\int_{2}^{5} f(x) dx = 5$ thì $\\int_{1}^{5} f(x) dx$ bằng"
+  },
+  {
+    "bbox": [
+      335,
+      1458,
+      431,
+      1492
+    ],
+    "category": "List-item",
+    "text": "A. $-8$."
+  },
+  {
+    "bbox": [
+      672,
+      1458,
+      750,
+      1492
+    ],
+    "category": "List-item",
+    "text": "B. $2$."
+  },
+  {
+    "bbox": [
+      988,
+      1458,
+      1066,
+      1492
+    ],
+    "category": "List-item",
+    "text": "C. $8$."
+  },
+  {
+    "bbox": [
+      1305,
+      1458,
+      1402,
+      1492
+    ],
+    "category": "List-item",
+    "text": "D. $-2$."
+  },
+  {
+    "bbox": [
+      865,
+      1505,
+      976,
+      1542
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      197,
+      1571,
+      310,
+      1608
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      332,
+      1637,
+      1037,
+      1736
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\int_{1}^{5} f(x) dx = \\int_{1}^{2} f(x) dx + \\int_{2}^{5} f(x) dx = -3 + 5 = 2.\n$$"
+  },
+  {
+    "bbox": [
+      201,
+      1767,
+      466,
+      1866
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } \\int_{1}^{5} f(x) dx = 2.\n$$"
+  },
+  {
+    "bbox": [
+      197,
+      1895,
+      1644,
+      1995
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Cho khối chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, $SA = a\\sqrt{3}$ vuông góc với đáy. Thể tích khối chóp đã cho bằng"
+  }
+]

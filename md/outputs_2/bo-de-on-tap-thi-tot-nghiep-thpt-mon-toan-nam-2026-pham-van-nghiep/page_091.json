@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      626,
+      120,
+      1162,
+      432
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      443,
+      1575,
+      678
+    ],
+    "category": "Text",
+    "text": "Bước đầu chúng được lấy “ thăng bằng” để có cùng độ cao và tức giác $ABCD$ là hình thang vuông ở $A$ và $B$ với độ dài $AB = 25\\text{m}$, $AD = 15\\text{m}$, $BC = 18\\text{m}$. Do yêu cầu kĩ thuật, khi lát phẳng phần sân trường phải thoát nước về góc sân ở $C$ nên người ta lấy độ cao ở các điểm $B, C, D$ xuống thấp hơn so với độ cao ở $A$ là $10\\text{cm}$, $a\\text{cm}$, $6\\text{cm}$ tương ứng sao cho bốn điểm $A, B', C', D'$ đồng phẳng. Giá trị của $a$ bằng bao nhiêu? (Đơn vị: cm)"
+  },
+  {
+    "bbox": [
+      833,
+      685,
+      953,
+      727
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      729,
+      404,
+      771
+    ],
+    "category": "Text",
+    "text": "Đáp án: 17,2"
+  },
+  {
+    "bbox": [
+      626,
+      795,
+      1187,
+      1267
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1290,
+      1210,
+      1331
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$ sao cho: $O \\equiv A$, tia $Ox \\equiv AD$; tia $Oy \\equiv AB$."
+  },
+  {
+    "bbox": [
+      211,
+      1338,
+      1407,
+      1384
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có tọa độ các điểm $A(0;0;0)$; $B(0;2500;0)$; $C(1800;2500;0)$; $D(1500;0;0)$"
+  },
+  {
+    "bbox": [
+      211,
+      1392,
+      1575,
+      1542
+    ],
+    "category": "Text",
+    "text": "Khi hạ độ cao các điểm ở các điểm $B, C, D$ xuống thấp hơn so với độ cao ở $A$ là $10\\text{cm}$, $a\\text{cm}$ và $6\\text{cm}$ tương ứng ta có các điểm mới $B'(0;2500;-10)$; $C'(1800;2500;-a)$; $D'(1500;0;-6)$"
+  },
+  {
+    "bbox": [
+      211,
+      1550,
+      981,
+      1596
+    ],
+    "category": "Text",
+    "text": "Theo bài ra có bốn điểm $A; B'; C'; D'$ đồng phẳng."
+  },
+  {
+    "bbox": [
+      211,
+      1596,
+      953,
+      1643
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng $(AB'D')$: $x + y + 250z = 0$."
+  },
+  {
+    "bbox": [
+      211,
+      1651,
+      1282,
+      1698
+    ],
+    "category": "Text",
+    "text": "Do $C'(1800; 2500; -a) \\in (AB'D')$ nên có: $1800 + 2500 - 250a = 0 \\Leftrightarrow a = 17,2$"
+  },
+  {
+    "bbox": [
+      211,
+      1707,
+      456,
+      1750
+    ],
+    "category": "Text",
+    "text": "Vậy $a = 17,2\\text{cm}$."
+  },
+  {
+    "bbox": [
+      1249,
+      1752,
+      1592,
+      1834
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>1</td><td>7</td><td>,</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      1834,
+      1575,
+      2221
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Trước sự phát triển của ngành vật liệu bán dẫn, anh Khoa mở nhà máy sản xuất vi mạch với thiết kế của vi mạch có dạng hình chữ nhật có kích thước $a(\\text{pm}) \\times b(\\text{pm})$ với $1\\text{pm} = 10^{-12}\\text{m}$. Biết rằng chi phí để sản xuất vi mạch bao gồm 50 (triệu đồng) chi phí cho nguyên vật liệu ban đầu, 15 (triệu đồng) /1pm chi phí gia công lắp màng Silic xung quanh thành vi mạch (xem như độ dày khi gia công là không đáng kể) và 32 (triệu đồng)/1pm$^2$ tiền gia công phủ chất làm mind bao quanh cả 2 bề mặt vi mạch (xem như cả bề mặt là hình chữ nhật có kích thước như trên). Biết rằng đơn giá bán ra mỗi chiếc vi mạch là 428 (triệu đồng /pm$^2$) và nếu cả 2 kích thước thành phần của vi mạch giảm đi 15 pm thì lợi nhuận thu được"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

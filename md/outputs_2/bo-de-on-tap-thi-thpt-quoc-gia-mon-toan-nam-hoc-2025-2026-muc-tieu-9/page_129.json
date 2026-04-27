@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      202,
+      140,
+      1034,
+      181
+    ],
+    "category": "Text",
+    "text": "Gọi tam giác ban đầu là $ABC$, dựng hệ trục như hình vẽ."
+  },
+  {
+    "bbox": [
+      522,
+      191,
+      1164,
+      752
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      779,
+      1441,
+      866
+    ],
+    "category": "Text",
+    "text": "Vì tam giác $ABC$ đều nên $AO = 8\\sqrt{3}$, diện tích tam giác là $S_{ABC} = 16^2 \\cdot \\frac{\\sqrt{3}}{4} = 64\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      855,
+      1119,
+      932
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $AC$: $\\frac{x}{8} + \\frac{y}{8\\sqrt{3}} = 1 \\Leftrightarrow y = -x\\sqrt{3} + 8\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      932,
+      1075,
+      974
+    ],
+    "category": "Text",
+    "text": "Hoành độ giao điểm của $(P)$ và $AC$ là nghiệm của phương trình"
+  },
+  {
+    "bbox": [
+      410,
+      981,
+      1288,
+      1068
+    ],
+    "category": "Formula",
+    "text": "$$\n-x\\sqrt{3} + 8\\sqrt{3} = -\\frac{\\sqrt{3}}{2}x^2 + \\frac{15\\sqrt{3}}{2} \\Leftrightarrow x^2 - 2x + 1 = 0 \\Leftrightarrow x = 1.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1068,
+      969,
+      1110
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi $(P)$, $AC$ và trục $Oy$ là"
+  },
+  {
+    "bbox": [
+      289,
+      1121,
+      1408,
+      1248
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{1} \\left[ (-x\\sqrt{3} + 8\\sqrt{3}) - \\left( -\\frac{\\sqrt{3}}{2}x^2 + \\frac{15\\sqrt{3}}{2} \\right) \\right] dx = \\frac{\\sqrt{3}}{2} \\int_{0}^{1} (x - 1)^2 dx = \\frac{1}{2\\sqrt{3}}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1254,
+      545,
+      1294
+    ],
+    "category": "Text",
+    "text": "Diện tích phần mặt kính là"
+  },
+  {
+    "bbox": [
+      596,
+      1301,
+      1100,
+      1384
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{ABC} - 6s = 64\\sqrt{3} - \\frac{6}{2\\sqrt{3}} = 63\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1390,
+      676,
+      1428
+    ],
+    "category": "Text",
+    "text": "Do đó $a = 63, b = 3$.因此 $a + b = 66$."
+  },
+  {
+    "bbox": [
+      154,
+      1449,
+      1547,
+      1654
+    ],
+    "category": "Text",
+    "text": "Bài 2. Cho hình lăng trụ $ABC.A'B'C'$ có đáy là tam giác đều cạnh 2. Hình chiếu vuông góc của điểm $A'$ lên mặt phẳng $(ABC)$ trùng với trọng tâm của tam giác $ABC$. Biết khoảng cách giữa 2 đường $AA'$ và $BC$ bằng $\\frac{\\sqrt{3}}{2}$. Tính thể tích $V$ của khối lăng trụ $ABC.A'B'C'$ (Kết quả làm tròn đến chữ số hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      149,
+      2254,
+      820,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2251,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "129"
+  }
+]

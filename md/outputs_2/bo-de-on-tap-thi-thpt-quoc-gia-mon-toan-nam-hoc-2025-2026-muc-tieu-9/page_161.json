@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1547,
+      226
+    ],
+    "category": "Text",
+    "text": "Khi bạn Việt cách vị trí ban đầu theo phương ngang 6 mét, tức là tại vị trí $x = 6$. Khoảng cách từ bạn Việt đến mặt đất là giá trị của $f(6)$:"
+  },
+  {
+    "bbox": [
+      541,
+      234,
+      1156,
+      317
+    ],
+    "category": "Formula",
+    "text": "$$\nf(6) = \\frac{(6 - 10)^2}{6 + 10} = \\frac{(-4)^2}{16} = \\frac{16}{16} = 1 \\text{ (mét).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      321,
+      1365,
+      362
+    ],
+    "category": "Text",
+    "text": "Vậy khi cách vị trí ban đầu 6 mét theo phương ngang, bạn Việt cách mặt đất 1 mét."
+  },
+  {
+    "bbox": [
+      153,
+      380,
+      1547,
+      526
+    ],
+    "category": "Text",
+    "text": "Bài 5. Trong hệ trục tọa độ $Oxyz$ cho 3 điểm $A(5; -2; 0)$, $B(4; 5; -2)$ và $C(0; 3; 2)$. Diểm $M$ di chuyển trên trục $Ox$. Đặt $Q = 2|\\overrightarrow{MA} + \\overrightarrow{MB} + \\overrightarrow{MC}| + 3|\\overrightarrow{MB} + \\overrightarrow{MC}|$. Biết giá trị nhỏ nhất của $Q$ có dạng $a\\sqrt{b}$ trong đó $a, b \\in \\mathbb{N}$ và $b$ là số nguyên tố. Tính $a + b$."
+  },
+  {
+    "bbox": [
+      153,
+      541,
+      199,
+      582
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      541,
+      1243,
+      605
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $G$ là trọng tâm tam giác $ABC$. Tọa độ điểm $G$ là:"
+  },
+  {
+    "bbox": [
+      573,
+      611,
+      1128,
+      824
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x_G = \\frac{5 + 4 + 0}{3} = 3 \\\\ y_G = \\frac{-2 + 5 + 3}{3} = 2 \\\\ z_G = \\frac{0 - 2 + 2}{3} = 0 \\end{cases} \\Rightarrow G(3; 2; 0).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      820,
+      1024,
+      868
+    ],
+    "category": "Text",
+    "text": "Theo tính chất trọng tâm, ta có: $\\overrightarrow{MA} + \\overrightarrow{MB} + \\overrightarrow{MC} = 3\\overrightarrow{MG}$."
+  },
+  {
+    "bbox": [
+      203,
+      888,
+      1052,
+      930
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là trung điểm của đoạn thẳng $BC$. Tọa độ điểm $I$ là:"
+  },
+  {
+    "bbox": [
+      608,
+      936,
+      1088,
+      1148
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x_I = \\frac{4 + 0}{2} = 2 \\\\ y_I = \\frac{5 + 3}{2} = 4 \\\\ z_I = \\frac{-2 + 2}{2} = 0 \\end{cases} \\Rightarrow I(2; 4; 0).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1144,
+      928,
+      1193
+    ],
+    "category": "Text",
+    "text": "Theo tính chất trung điểm, ta có: $\\overrightarrow{MB} + \\overrightarrow{MC} = 2\\overrightarrow{MI}$."
+  },
+  {
+    "bbox": [
+      203,
+      1213,
+      671,
+      1254
+    ],
+    "category": "Text",
+    "text": "Biểu thức $Q$ được viết lại thành:"
+  },
+  {
+    "bbox": [
+      439,
+      1258,
+      1258,
+      1326
+    ],
+    "category": "Formula",
+    "text": "$$\nQ = 2|3\\overrightarrow{MG}| + 3|2\\overrightarrow{MI}| = 6MG + 6MI = 6(MG + MI).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1328,
+      1036,
+      1371
+    ],
+    "category": "Text",
+    "text": "Để $Q$ đạt giá trị nhỏ nhất thì tổng $MG + MI$ phải nhỏ nhất."
+  },
+  {
+    "bbox": [
+      153,
+      1389,
+      1547,
+      1519
+    ],
+    "category": "Text",
+    "text": "Nhận xét: Hai điểm $G(3; 2; 0)$ và $I(2; 4; 0)$ đều có cao độ $z = 0$ nên cùng nằm trong mặt phẳng ($Oxy$). Đồng thời, do tung độ $y_G = 2 > 0$ và $y_I = 4 > 0$ nên $G$ và $I$ nằm cùng về một phía so với trục $Ox$."
+  },
+  {
+    "bbox": [
+      203,
+      1539,
+      1272,
+      1582
+    ],
+    "category": "Text",
+    "text": "Gọi $G'$ là điểm đối xứng của $G$ qua trục $Ox$. Tọa độ của $G'$ là $G'(3; -2; 0)$."
+  },
+  {
+    "bbox": [
+      203,
+      1602,
+      774,
+      1642
+    ],
+    "category": "Text",
+    "text": "Vì $M \\in Ox$ nên ta luôn có $MG = MG'$."
+  },
+  {
+    "bbox": [
+      203,
+      1660,
+      1003,
+      1703
+    ],
+    "category": "Text",
+    "text": "Xét 3 điểm $M, I, G'$, theo bấtgrand thức tam giác ta có:"
+  },
+  {
+    "bbox": [
+      619,
+      1719,
+      1079,
+      1760
+    ],
+    "category": "Formula",
+    "text": "$$\nMG + MI = MG' + MI \\geq IG'.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1784,
+      1547,
+      1872
+    ],
+    "category": "Text",
+    "text": "Dấu \"=\" xảy ra khi và chỉ khi $M, I, G'$ thẳng hàng (hay $M$ là giao điểm của đường thẳng $IG'$ và trục $Ox$)."
+  },
+  {
+    "bbox": [
+      203,
+      1890,
+      1184,
+      1933
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của $MG + MI$ chính là độ dài đoạn thẳng $IG'$."
+  },
+  {
+    "bbox": [
+      203,
+      1943,
+      1378,
+      1997
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{IG'} = (3 - 2; -2 - 4; 0 - 0) = (1; -6; 0) \\Rightarrow IG' = \\sqrt{1^2 + (-6)^2 + 0^2} = \\sqrt{37}$."
+  },
+  {
+    "bbox": [
+      203,
+      2007,
+      882,
+      2056
+    ],
+    "category": "Text",
+    "text": "Suy ra giá trị nhỏ nhất của $Q$ là: $Q_{\\min} = 6\\sqrt{37}$."
+  },
+  {
+    "bbox": [
+      203,
+      2070,
+      1073,
+      2118
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, $Q_{\\min} = a\\sqrt{b}$ với $a, b \\in \\mathbb{N}$ và $b$ là số nguyên tố."
+  },
+  {
+    "bbox": [
+      203,
+      2136,
+      1247,
+      2178
+    ],
+    "category": "Text",
+    "text": "Đồng nhất hệ số, ta được $a = 6$ và $b = 37$ (thỏa mãn 37 là số nguyên tố)."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "161"
+  }
+]

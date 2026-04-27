@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      153,
+      153,
+      1534,
+      237
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      237,
+      675,
+      285
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x) = \\sin 2x - x$."
+  },
+  {
+    "bbox": [
+      192,
+      291,
+      604,
+      380
+    ],
+    "category": "Formula",
+    "text": "a) $f\\left(-\\frac{\\pi}{2}\\right) = \\frac{\\pi}{2}; f\\left(\\frac{\\pi}{2}\\right) = -\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      386,
+      899,
+      435
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = \\cos 2x - 1$."
+  },
+  {
+    "bbox": [
+      192,
+      442,
+      1211,
+      531
+    ],
+    "category": "Formula",
+    "text": "c) Nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ là $-\\frac{\\pi}{6}$ hoặc $\\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      192,
+      536,
+      966,
+      626
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ là $-\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      647,
+      1333,
+      698
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một ô tô bắt đầu chuyển động thẳng nhanh dần đều với tốc độ $v(t) = 5t$ (m/s);"
+  },
+  {
+    "bbox": [
+      153,
+      722,
+      1534,
+      865
+    ],
+    "category": "Text",
+    "text": "trong đó $t$ là thời gian tính bằng giây kể từ khi ô tô bắt đầu chuyển động. Đi được 6 (s) người lái xe phát hiện chướng ngại vật và phanh cấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc $a = -5$ (m/s²)."
+  },
+  {
+    "bbox": [
+      221,
+      875,
+      1181,
+      921
+    ],
+    "category": "Text",
+    "text": "a) Tốc độ của ô tô tại thời điểm 10 (s) tính từ lúc xuất phát là 10 (m/s)."
+  },
+  {
+    "bbox": [
+      221,
+      921,
+      1167,
+      966
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường ô tô chuyển động được trong 6 giây đầu tiên là 80 m."
+  },
+  {
+    "bbox": [
+      213,
+      968,
+      1508,
+      1082
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường $S$ (đơn vị: mét) mà ô tô chuyển động được kể từ lúc bắt đầu đạp phanh đến khi anh lại được tính theo công thức $S = \\int_{0}^{6} (30 - 5t)dt$."
+  },
+  {
+    "bbox": [
+      213,
+      1082,
+      1534,
+      1167
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường ô tô chuyển động được kể từ lúc bắt đầu chuyển động cho đến khi anh lại là 170 m."
+  },
+  {
+    "bbox": [
+      153,
+      1202,
+      565,
+      1289
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{x-2}{2x+1}$"
+  },
+  {
+    "bbox": [
+      290,
+      1297,
+      836,
+      1388
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định của hàm số là $\\mathbb{R} \\setminus \\left\\{-\\frac{1}{2}\\right\\}$"
+  },
+  {
+    "bbox": [
+      290,
+      1466,
+      836,
+      1561
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số là $y' = \\frac{3}{(2x+1)^2}$"
+  },
+  {
+    "bbox": [
+      290,
+      1634,
+      844,
+      1762
+    ],
+    "category": "Text",
+    "text": "c) Các đường tiệm cận của đồ thị hàm số là $x = \\frac{1}{2}, y = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      290,
+      1792,
+      844,
+      1872
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị của hàm số có dạng như hình bên"
+  },
+  {
+    "bbox": [
+      1006,
+      1293,
+      1530,
+      1770
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1959,
+      1378,
+      2005
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Trong không gian với hệ toạ độ $Oxyz$, cho 3 điểm $A(2; 4; -1)$, $B(1; 4; -1)$, $C(2; 4; 3)$"
+  },
+  {
+    "bbox": [
+      290,
+      2017,
+      715,
+      2068
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ vecto $\\overrightarrow{AB} = (-1; 0; 0)$."
+  },
+  {
+    "bbox": [
+      290,
+      2080,
+      804,
+      2169
+    ],
+    "category": "Text",
+    "text": "b) Toạ độ trung điểm $\\overrightarrow{AB}$ là $\\left(\\frac{3}{2}; 4; 1\\right)$."
+  },
+  {
+    "bbox": [
+      1188,
+      2231,
+      1534,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề thi 121 - Trang 3/5"
+  }
+]

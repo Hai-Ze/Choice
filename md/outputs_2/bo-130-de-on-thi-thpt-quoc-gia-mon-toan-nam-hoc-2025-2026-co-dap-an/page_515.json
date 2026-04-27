@@ -1,0 +1,270 @@
+[
+  {
+    "bbox": [
+      93,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      128,
+      126,
+      161,
+      157
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      124,
+      1015,
+      162
+    ],
+    "category": "Text",
+    "text": "Bước 2: Từ hộp đã chọn, người chơi lấy ngẫu nhiên 1 món quà:"
+  },
+  {
+    "bbox": [
+      186,
+      188,
+      1198,
+      264
+    ],
+    "category": "List-item",
+    "text": "- Nếu quà là điện thoại iPhone, người chơi được giữ nó và lấy thêm 1 quà nữa từ cùng hộp."
+  },
+  {
+    "bbox": [
+      186,
+      274,
+      749,
+      312
+    ],
+    "category": "List-item",
+    "text": "- Nếu quà là tai nghe, trò chơi kết thúc."
+  },
+  {
+    "bbox": [
+      93,
+      335,
+      1199,
+      413
+    ],
+    "category": "Text",
+    "text": "Biết rằng người chơi lấy được 2 điện thoại iPhone, tính xác suất để người đó lấy từ hộp màu bạc (làm tròn kết quả đến chữ số hàng phần chục)."
+  },
+  {
+    "bbox": [
+      979,
+      418,
+      1032,
+      453
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      411,
+      1198,
+      464
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      476,
+      1199,
+      847
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong một trung tâm nghiên cứu robot bay, người ta bố trí một thiết bị định vị tại điểm cố định $A(1; 0; 2)$ trong không gian ba chiều với hệ tọa độ $Oxyz$ (các đơn vị tọa độ được tính bằng mét). thiết bị này giao tiếp đồng thời với hai cảm biến: Cảm biến thứ nhất di chuyển dọc theo đường thẳng $\\Delta$: $\\frac{x-3}{1} = \\frac{y+1}{2} = \\frac{z-4}{-1}$, cảm biến thứ hai được gắn trên mặt phẳng ($\\alpha$): $2x - y + z + 1 = 0$. Giữa hai cảm biến được kết nối bằng một đường truyền $BC$, trong đó $B$ nằm trên đường thẳng $\\Delta$, $C$ nằm trên mặt phẳng ($\\alpha$) và thiết bị định vị tại $A$ là trung điểm của đoạn $BC$. Biết rằng đường thẳng $BC$ có một véctơ chỉ phương $\\vec{u} = (-2; a; b)$, hãy tính giá trị $a + 2b$."
+  },
+  {
+    "bbox": [
+      979,
+      853,
+      1032,
+      888
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      845,
+      1198,
+      897
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      910,
+      1199,
+      1148
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho một hộp quà hình lập phương có cạnh bằng 10 cm. Trong hộp có một quả cầu pha lê lớn đặt vừa khít vào hộp sao cho quả cầu tiếp xúc với tất cả các mặt của hộp. Ở 8 góc của hình lập phương, có 8 quả cầu pha lê nhỏ cùng tiếp xúc với các mặt hộp và tiếp xúc với quả cầu lớn. Đổ epoxy resin (một loại keo tổng hợp trong suốt dùng trong thủ công mỹ nghệ) vào đầy hộp để trang trí. Tính thể tích phần keo cần đổ, theo đơn vị lít (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      979,
+      1154,
+      1032,
+      1188
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1146,
+      1198,
+      1199
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1211,
+      1199,
+      1537
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Một công ty đang thiết kế một bảng广 cáo hình chữ nhật $ABCD$ có kích thước $AB = 12$ m và $AD = 8$ m. Phần trung tâm của bảng sẽ được in nội dung广 cáo, được mô tả là phần tô đâm (xem hình minh họa). Hai đường cong trong hình là một phần của đồ thị hàm số có dạng $y = \\frac{ax + b}{cx + d}$, đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số này đều cách điểm $A$ một khoảng bằng 5 m. Đồ thị giao với cạnh $AB$ tại điểm $E$ thỏa mãn $\\frac{AE}{AB} = \\frac{7}{15}$. Diện tích phần in nội dung广 cáo là bao nhiêu mét vuông (làm tròn kết quả đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      381,
+      1566,
+      915,
+      1945
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      1987,
+      1032,
+      2022
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1979,
+      1198,
+      2032
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      554,
+      2056,
+      595,
+      2088
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      614,
+      2052,
+      691,
+      2088
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      2056,
+      748,
+      2088
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      166,
+      1595,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1511,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 513"
+  }
+]

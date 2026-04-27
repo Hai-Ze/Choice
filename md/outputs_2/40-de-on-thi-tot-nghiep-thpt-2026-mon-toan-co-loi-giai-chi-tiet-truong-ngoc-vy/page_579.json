@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      188,
+      154,
+      980,
+      612
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1061,
+      132,
+      1541,
+      595
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      672,
+      897,
+      721
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của ca nô tại thời điểm $t = 5(s)$ là $3(m/s)$."
+  },
+  {
+    "bbox": [
+      156,
+      747,
+      1156,
+      844
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường ca nô di chuyển được trong 3 giây đầu tiên là: $\\int_{0}^{3} 11dt (m)$"
+  },
+  {
+    "bbox": [
+      156,
+      869,
+      1375,
+      918
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường ca nô đi được trong khoảng thời gian từ 8 giây đến 15 giây bằng $70,5(m)$"
+  },
+  {
+    "bbox": [
+      156,
+      944,
+      1574,
+      1059
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc trung bình $v_{tb}$ của ca nô trong khoảng thời gian từ 3 đến 8 giây bằng $7,67(m/s)$ (kết quả làm tròn đến phần trăm của mét/giây)."
+  },
+  {
+    "bbox": [
+      807,
+      1078,
+      924,
+      1117
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1132,
+      971,
+      1253
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1313,
+      944,
+      1363
+    ],
+    "category": "Text",
+    "text": "a) Dựa vào đồ thị $v(t)$, ta có: $t = 5(s) \\Rightarrow v(5) = 3(m/s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1386,
+      1571,
+      1509
+    ],
+    "category": "Text",
+    "text": "b) Trong 3 giây đầu tiên, vận tốc của ca nô chuyển động theo quy luật vận tốc $v(t)(m/s)$ có dạng đường thẳng và có $v(t) = 11(m/s)$."
+  },
+  {
+    "bbox": [
+      156,
+      1535,
+      1165,
+      1632
+    ],
+    "category": "Text",
+    "text": "Do đó quăng đường ca nô chuyển động trong 3 giây đầu tiên là: $\\int_{0}^{3} 11dt (m)$"
+  },
+  {
+    "bbox": [
+      156,
+      1656,
+      1574,
+      1779
+    ],
+    "category": "Text",
+    "text": "c) Trong khoảng thời gian từ 8 đến 15 giây, đồ thị $v(t)$ là một đường thẳng đi qua hai điểm (8;21) và (15;0). Ta có: $v(t) = at + b$."
+  },
+  {
+    "bbox": [
+      156,
+      1804,
+      780,
+      1901
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta có hệ: $\\begin{cases} 8a + b = 21 \\\\ 15a + b = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = -3 \\\\ b = 45 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      156,
+      1926,
+      622,
+      1975
+    ],
+    "category": "Text",
+    "text": "Do đó $v(t) = -3t + 45 (8 \\le t \\le 15)$."
+  },
+  {
+    "bbox": [
+      156,
+      1998,
+      938,
+      2039
+    ],
+    "category": "Text",
+    "text": "Quăng đường ca nô đi được trong khoảng thời gian này là:"
+  },
+  {
+    "bbox": [
+      161,
+      2056,
+      899,
+      2153
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{8}^{15} (-3t + 45) dt = -\\frac{3t^2}{2} \\Big|_{8}^{15} + 45t \\Big|_{8}^{15} = \\frac{147}{2} = 73,5(m).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2178,
+      1574,
+      2226
+    ],
+    "category": "Text",
+    "text": "d) Trong khoảng thời gian từ 3 đến 8 giây đồ thị $v(t)$ là một Parabol đi qua các điểm có tọa độ lần lượt"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

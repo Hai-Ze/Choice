@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      947,
+      246
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng máy bay 2 là $\\begin{cases} x = 300 - 720t \\\\ y = -250 + 540t \\\\ z = 11 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      155,
+      272,
+      1396,
+      338
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai máy bay tại thời điểm $t$ là $MN = \\sqrt{(50 - 270t)^2 + (-150 + 1140t)^2 + 1}$."
+  },
+  {
+    "bbox": [
+      155,
+      365,
+      1171,
+      470
+    ],
+    "category": "Text",
+    "text": "Để thỏa mãn yêu cầu bài toán $MN \\le 50 \\Rightarrow 1372500t^2 - 369000t + 22501 \\le 0 \\Leftrightarrow 0,09348 \\le t \\le 0,17537$."
+  },
+  {
+    "bbox": [
+      155,
+      490,
+      1295,
+      595
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian máy bay thứ hai xuất hiện trên màn hình radar của máy bay thứ nhất là $0,08189 \\times 60 \\approx 4,91$ phút."
+  },
+  {
+    "bbox": [
+      155,
+      616,
+      1572,
+      724
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có tam giác $ABC$ vuông cân tại $A$, $AB = 5$, $CC' = 10$. Khoảng cách giữa hai đường thẳng $AC$ và $BC'$ bằng bao nhiêu? (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      741,
+      493,
+      778
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      800,
+      924,
+      839
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      856,
+      349,
+      897
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 4,47"
+  },
+  {
+    "bbox": [
+      678,
+      919,
+      1054,
+      1377
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1391,
+      1572,
+      1502
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$ với $A$ trùng với gốc tọa độ $O$, cạnh $AB$ nằm trên trục $Ox$, cạnh $AC$ nằm trên trục $Oy$ và cạnh $AA'$ nằm trên trục $Oz$."
+  },
+  {
+    "bbox": [
+      155,
+      1527,
+      912,
+      1577
+    ],
+    "category": "Text",
+    "text": "Khi đó $A = O(0;0;0)$, $B(5;0;0)$, $C(0;5;0)$, $A'(0;0;10)$."
+  },
+  {
+    "bbox": [
+      155,
+      1604,
+      769,
+      1650
+    ],
+    "category": "Text",
+    "text": "Vì $ACC'A'$ là hình bình hành nên $C'(0;5;10)$"
+  },
+  {
+    "bbox": [
+      155,
+      1676,
+      1310,
+      1743
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{AC} = (0;5;0)$; $\\overrightarrow{BC'} = (-5;5;10)$; $[\\overrightarrow{AC}; \\overrightarrow{BC'}] = (50;0;25) \\Rightarrow [\\overrightarrow{AC}; \\overrightarrow{BC'}] = 25\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      155,
+      1767,
+      839,
+      1830
+    ],
+    "category": "Text",
+    "text": "Mặt khác $\\overrightarrow{AB} = (5;0;0)$ nên $[\\overrightarrow{AC}; \\overrightarrow{BC'}] \\cdot \\overrightarrow{AB} = 250$."
+  },
+  {
+    "bbox": [
+      155,
+      1854,
+      972,
+      1988
+    ],
+    "category": "Text",
+    "text": "Do đó $d(AC, BC') = \\frac{[\\overrightarrow{AC}; \\overrightarrow{BC'}] \\cdot \\overrightarrow{AB}}{[\\overrightarrow{AC}; \\overrightarrow{BC'}]} = \\frac{250}{25\\sqrt{5}} = 2\\sqrt{5} \\approx 4,47$."
+  },
+  {
+    "bbox": [
+      155,
+      2008,
+      1572,
+      2227
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một thùng thăm待 50 thẻ giảm giá cho nhân viên có kích thước, chất liệu như nhau, trong đó có 30 thẻ xanh và 20 thẻ trắng. Lấy ngẫu nhiên ra một thẻ, rồi lại lấy ngẫu nhiên ra một thẻ nữa. Tính xác suất để lấy được một thẻ xanh ở lần thứ nhất và một thẻ trắng ở lần thứ hai? (kết quả được làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

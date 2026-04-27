@@ -1,0 +1,388 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1199,
+      201
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$ trục hoành và hai đường thẳng $x = a, x = b$ ($a < b$) là"
+  },
+  {
+    "bbox": [
+      123,
+      201,
+      331,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\int_{a}^{b} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      394,
+      201,
+      586,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\int_{a}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      667,
+      201,
+      883,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\int_{b}^{a} -f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      201,
+      1167,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\pi \\int_{a}^{b} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      327,
+      1199,
+      432
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x}{2} = \\frac{y}{2} = \\frac{z}{-1}$. Mặt phẳng nào sau đây song song với đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      123,
+      432,
+      307,
+      470
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad x - y = 0.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      432,
+      957,
+      470
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x + y - z - 1 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      473,
+      374,
+      513
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad x + 2z - 1 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      473,
+      984,
+      513
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x + 2y + 3z + 4 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      532,
+      1199,
+      720
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Hộp I chứa 1 quả bóng màu trắng, 3 quả bóng màu đỏ và 2 quả bóng màu đen. Hộp II chứa 2 quả bóng màu trắng, 3 quả bóng màu đỏ và 4 quả bóng màu đen. Hộp III chứa 3 quả bóng màu trắng, 4 quả bóng màu đỏ và 5 quả bóng màu đen. Nếu mỗi套 lấy ra 1 quả bóng, xác suất để 3 quả bóng được lấy ra cùng màu là"
+  },
+  {
+    "bbox": [
+      123,
+      715,
+      232,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\frac{41}{324}.\n$$"
+  },
+  {
+    "bbox": [
+      394,
+      715,
+      489,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\frac{5}{36}.\n$$"
+  },
+  {
+    "bbox": [
+      667,
+      715,
+      761,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\frac{31}{36}.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      715,
+      1048,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\frac{283}{324}.\n$$"
+  },
+  {
+    "bbox": [
+      108,
+      795,
+      824,
+      848
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      857,
+      1199,
+      1030
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Giả sử chi phí tiền xăng $C$ (nghìn đồng) khi xe đi được 100 km phụ thuộc vào tốc độ trung bình $v$ (km/h) trên cả đoạn đường theo công thức $C(v) = \\frac{16\\,000}{v} + \\frac{5}{2}v$ (với $0 < v \\le 120$)."
+  },
+  {
+    "bbox": [
+      123,
+      1026,
+      855,
+      1101
+    ],
+    "category": "List-item",
+    "text": "a) Nếu tài xế lái xe với tốc độ trung bình là 40 (km/h) thì chi phí tiền xăng là 500 nghìn đồng."
+  },
+  {
+    "bbox": [
+      123,
+      1101,
+      689,
+      1172
+    ],
+    "category": "List-item",
+    "text": "b) $C'(v) = \\frac{16\\,000}{v^2} + \\frac{5}{2}$ (với $0 < v < 120$)."
+  },
+  {
+    "bbox": [
+      123,
+      1170,
+      855,
+      1244
+    ],
+    "category": "List-item",
+    "text": "c) Tài xế càng đi nhanh thì chi phí tiền xăng càng giảm."
+  },
+  {
+    "bbox": [
+      123,
+      1244,
+      855,
+      1437
+    ],
+    "category": "List-item",
+    "text": "d) Xe đi trên đường có biển báo như hình vẽ. Biết đây là biển báo tốc độ tối đa cho phép 50 (km/h). Nếu tài xế tuân thủ luật giao thông, chi phí tiền xăng tối thiểu của tài xế khi đi 100 km trên đoạn đường này là 445 nghìn đồng."
+  },
+  {
+    "bbox": [
+      886,
+      1030,
+      1199,
+      1348
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1451,
+      1199,
+      1531
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Vào một buổi sáng, bạn Bảo đi xe đạp từ nhà tới trường với vận tốc $v(t) = 2t^2 + 1$ (mét/phút) (với $t$ là thời gian tính bằng phút, kết từ lúc bắt đầu đi)."
+  },
+  {
+    "bbox": [
+      123,
+      1531,
+      942,
+      1569
+    ],
+    "category": "List-item",
+    "text": "a) Vận tốc của Bảo tại thời điểm $t = 10$ phút là 12,06 km/h."
+  },
+  {
+    "bbox": [
+      123,
+      1573,
+      785,
+      1611
+    ],
+    "category": "List-item",
+    "text": "b) Quăng đường bảo đi được sau 5 phút là 51 m."
+  },
+  {
+    "bbox": [
+      123,
+      1611,
+      1195,
+      1688
+    ],
+    "category": "List-item",
+    "text": "c) Biết quăng đường từ nhà tới trường của Bảo là 2 265 mét. Thời gian cần để di chuyển tới trường của Bảo là 15 phút."
+  },
+  {
+    "bbox": [
+      123,
+      1690,
+      1195,
+      1844
+    ],
+    "category": "List-item",
+    "text": "d) Sau khi di chuyển được 9 phút, Bảo nhìn thấy phía trước có công trường, nên đã thay đổi tốc độ và di chuyển chậm dần đều với gia tốc không đổi. Đi được thêm 30 giây thì Bảo tới công trường. Biết công trường cách nhà Bảo 545 mét. Vận tốc tức thời của Bảo khi tới công trường là 37 mét/phút."
+  },
+  {
+    "bbox": [
+      93,
+      1861,
+      1199,
+      2016
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong một cuộc contest cầu dân ý ở một khu vực, đối với các hộ gia đình sống ở một vùng ngoại ô (mối hộ gia đình có một cấpine và các con), xác suất để người chồng sẽ đi bỏ phiếu là 0,2, xác suất để ngườiine sẽ đi bỏ phiếu là 0,35 và xác suất để cả haiine sẽ đi bỏ phiếu là 0,11."
+  },
+  {
+    "bbox": [
+      123,
+      2016,
+      1171,
+      2054
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để có ít nhất một người trong haiine sẽ đi bỏ phiếu là 0,44."
+  },
+  {
+    "bbox": [
+      123,
+      2054,
+      1195,
+      2133
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để người chồng sẽ đi bỏ phiếu, biết rằng ngườiine đã đi bỏ phiếu là 0,31 (làm tròn kết quả tới hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      123,
+      2133,
+      1195,
+      2249
+    ],
+    "category": "List-item",
+    "text": "c) Giả sử khảo sát 13 hộ gia đình, khi đó xác suất có đúng 2 hộ gia đình mà cảine và chồng đều tham gia bỏ phiếu là 0,26 (làm tròn kết quả tới hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1460,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "105"
+  }
+]

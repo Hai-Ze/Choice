@@ -1,0 +1,541 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      535,
+      201
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      211,
+      480,
+      254
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 18"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      313
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      753,
+      153,
+      1341,
+      201
+    ],
+    "category": "Section-header",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1507,
+      313
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      363,
+      1452,
+      482
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      513,
+      1452,
+      615
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ là hàm đa thức có đạo hàm $f'(x) = x(x^2 - 1)(x - 2)^2$. Số điểm cực tiểu của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      221,
+      636,
+      302,
+      672
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      525,
+      636,
+      602,
+      672
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      828,
+      636,
+      905,
+      672
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1128,
+      636,
+      1205,
+      672
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      192,
+      699,
+      1452,
+      803
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Với $a, b$ là các số thực dương tùy ý, gọi $x = \\log_2 a, y = \\log_2 b, P = \\log_2 (a^2b^3)$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      818,
+      344,
+      865
+    ],
+    "category": "List-item",
+    "text": "A. $x^2y^3$."
+  },
+  {
+    "bbox": [
+      525,
+      818,
+      684,
+      865
+    ],
+    "category": "List-item",
+    "text": "B. $x^2 + y^3$."
+  },
+  {
+    "bbox": [
+      828,
+      823,
+      987,
+      865
+    ],
+    "category": "List-item",
+    "text": "C. $2x + 3y$."
+  },
+  {
+    "bbox": [
+      1128,
+      823,
+      1239,
+      865
+    ],
+    "category": "List-item",
+    "text": "D. $6xy$."
+  },
+  {
+    "bbox": [
+      192,
+      890,
+      1440,
+      938
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho cấp số cộng $u_n$ có $u_1 = -3, u_6 = 27$. Công sai $d$ của cấp số cộng đó là"
+  },
+  {
+    "bbox": [
+      221,
+      957,
+      363,
+      993
+    ],
+    "category": "List-item",
+    "text": "A. $d = 8$."
+  },
+  {
+    "bbox": [
+      525,
+      957,
+      665,
+      993
+    ],
+    "category": "List-item",
+    "text": "B. $d = 5$."
+  },
+  {
+    "bbox": [
+      828,
+      957,
+      967,
+      993
+    ],
+    "category": "List-item",
+    "text": "C. $d = 7$."
+  },
+  {
+    "bbox": [
+      1128,
+      957,
+      1270,
+      993
+    ],
+    "category": "List-item",
+    "text": "D. $d = 6$."
+  },
+  {
+    "bbox": [
+      192,
+      1018,
+      1452,
+      1143
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, cho đường thẳng $d$: $\\frac{x-3}{2} = \\frac{y-4}{-5} = \\frac{z+5}{3}$. Diểm nào sau đây thuộc đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      221,
+      1162,
+      447,
+      1204
+    ],
+    "category": "List-item",
+    "text": "A. $M(3;4;-5)$."
+  },
+  {
+    "bbox": [
+      525,
+      1162,
+      745,
+      1204
+    ],
+    "category": "List-item",
+    "text": "B. $N(2;-5;3)$."
+  },
+  {
+    "bbox": [
+      828,
+      1162,
+      1070,
+      1204
+    ],
+    "category": "List-item",
+    "text": "C. $P(-3;-4;5)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1162,
+      1347,
+      1204
+    ],
+    "category": "List-item",
+    "text": "D. $Q(2;5;-3)$."
+  },
+  {
+    "bbox": [
+      192,
+      1225,
+      1214,
+      1316
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập nghiệm của bất phương trình $\\left(\\frac{3}{4}\\right)^{2x-1} \\le \\left(\\frac{4}{3}\\right)^{-2+x}$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1335,
+      450,
+      1377
+    ],
+    "category": "List-item",
+    "text": "A. $S = (-\\infty; 1]$."
+  },
+  {
+    "bbox": [
+      525,
+      1335,
+      755,
+      1377
+    ],
+    "category": "List-item",
+    "text": "B. $S = (1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      828,
+      1335,
+      1054,
+      1377
+    ],
+    "category": "List-item",
+    "text": "C. $S = [1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1335,
+      1358,
+      1377
+    ],
+    "category": "List-item",
+    "text": "D. $S = (-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      192,
+      1402,
+      1452,
+      1504
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Bảng sau đây biểu diễn mẫu số liệu ghép nhóm thống kê nhu cầu mức giá mua nhà (đơn vị triệu đồng/m²) của khách hàng tại một công ty xây dựng"
+  },
+  {
+    "bbox": [
+      407,
+      1523,
+      1241,
+      1636
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[10; 14)</td><td>[14; 18)</td><td>[18; 22]</td><td>[22; 26)</td><td>[26; 30]</td></tr><tr><td>Tần số</td><td>54</td><td>78</td><td>120</td><td>45</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1657,
+      1082,
+      1703
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên $R$ của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      221,
+      1722,
+      363,
+      1758
+    ],
+    "category": "List-item",
+    "text": "A. $R = 9$."
+  },
+  {
+    "bbox": [
+      525,
+      1722,
+      665,
+      1758
+    ],
+    "category": "List-item",
+    "text": "B. $R = 4$."
+  },
+  {
+    "bbox": [
+      828,
+      1722,
+      987,
+      1758
+    ],
+    "category": "List-item",
+    "text": "C. $R = 20$."
+  },
+  {
+    "bbox": [
+      1128,
+      1722,
+      1305,
+      1758
+    ],
+    "category": "List-item",
+    "text": "D. $R = 108$."
+  },
+  {
+    "bbox": [
+      192,
+      1791,
+      1452,
+      1891
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Trong không gian $Oxyz$, mặt phẳng nào dưới đây nhận $\\vec{n} = (3; 1; -7)$ là một vecto pháp tuyến?"
+  },
+  {
+    "bbox": [
+      221,
+      1910,
+      549,
+      1952
+    ],
+    "category": "List-item",
+    "text": "A. $3x - y - 7z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1910,
+      1088,
+      1952
+    ],
+    "category": "List-item",
+    "text": "B. $3x + z + 7 = 0$."
+  },
+  {
+    "bbox": [
+      221,
+      1973,
+      549,
+      2015
+    ],
+    "category": "List-item",
+    "text": "C. $3x + y - 7z - 3 = 0$."
+  },
+  {
+    "bbox": [
+      834,
+      1973,
+      1090,
+      2015
+    ],
+    "category": "List-item",
+    "text": "D. $3x + y - 7 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      2042,
+      1452,
+      2142
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành, $SA$ vuông góc với mặt phẳng ($ABCD$). Góc giữa hai đường thẳng nào sau đây bằng $90^\\circ$?"
+  },
+  {
+    "bbox": [
+      221,
+      2161,
+      381,
+      2199
+    ],
+    "category": "List-item",
+    "text": "A. $SA, SB$."
+  },
+  {
+    "bbox": [
+      525,
+      2161,
+      692,
+      2199
+    ],
+    "category": "List-item",
+    "text": "B. $SB, AD$."
+  },
+  {
+    "bbox": [
+      828,
+      2161,
+      987,
+      2199
+    ],
+    "category": "List-item",
+    "text": "C. $SA, BD$."
+  },
+  {
+    "bbox": [
+      1128,
+      2161,
+      1287,
+      2199
+    ],
+    "category": "List-item",
+    "text": "D. $SA, SC$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      497,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      98,
+      1206,
+      185
+    ],
+    "category": "Text",
+    "text": "Vậy nồng độ chất độc trong máu thấp nhất là $\\min_{(0;+\\infty)} y = 50 \\log\\left(\\frac{162}{65} + 2\\right) \\approx 32,6$."
+  },
+  {
+    "bbox": [
+      156,
+      205,
+      1575,
+      605
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một xí nghiệp may áo vest và quần âu để chuẩn bị choepdpp. Biết may 1 áo vest hết 2m vải và cần 20 giờ; may 1 quần âu hết 1,5m vải và cần 5 giờ. Xí nghiệp được giao sử dụng không quá 920m vải và số giờ công không vượt quá 6400 giờ. Theo khảo sát thị trường, số lượng quần âu bán ra không nhỏ hơn số lượng áo vest bán ra và số lượng quần âu bán ra không vượt quá 2 lần số lượng áo vest bán ra. Khi xuất ra thị trường, 1 chiếc áo vest lãi 350 nghìn đồng, 1 chiếc quần âu lãi 100 nghìn đồng. Gọi $x, y$ lần lượt là số áo vest và quần âu xí nghiệp cần may và bán ra thị trường để xí nghiệp có số tiền lãi cao nhất. Tính giá trị của biểu thức $T = 2x + 3y$?"
+  },
+  {
+    "bbox": [
+      156,
+      629,
+      493,
+      665
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      688,
+      924,
+      726
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      745,
+      350,
+      784
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1340"
+  },
+  {
+    "bbox": [
+      676,
+      798,
+      1053,
+      1224
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1242,
+      1374,
+      1358
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ ($x, y \\in \\mathbb{N}$) lần lượt là số áo vest và quần âu xí nghiệp cần may và bán ra thị trường. Số vải cần thiết để may số áo vest và quần âu đó là $2x+1,5y$."
+  },
+  {
+    "bbox": [
+      156,
+      1377,
+      1027,
+      1423
+    ],
+    "category": "Text",
+    "text": "Thời gian cần thiết để may số áo vest và quần âu đó là $20x+5y$."
+  },
+  {
+    "bbox": [
+      156,
+      1442,
+      661,
+      1486
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có hệ bất phương trình:"
+  },
+  {
+    "bbox": [
+      162,
+      1503,
+      743,
+      1840
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 2x + \\frac{3}{2}y \\le 920 \\\\ 20x + 5y \\le 6400 \\\\ y \\ge x \\\\ y \\le 2x \\\\ x \\ge 0 \\\\ y \\ge 0 \\end{cases} \\Leftrightarrow \\begin{cases} 4x + 3y \\le 1840 \\\\ 4x + y \\le 1280 \\\\ x - y \\le 0 \\\\ 2x - y \\ge 0 \\\\ x \\ge 0 \\\\ y \\ge 0 \\end{cases} (*)\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1864,
+      1571,
+      1989
+    ],
+    "category": "Text",
+    "text": "Biểu diễn miền nghiệm của hệ bất phương trình (*) lên mặt phẳng tọa độ $Oxy$ ta được miền tử giác $OABC$ trong đó $O(0;0)$, $A(184;368)$, $B(250;280)$, $C(256;256)$."
+  },
+  {
+    "bbox": [
+      156,
+      2014,
+      920,
+      2063
+    ],
+    "category": "Text",
+    "text": "Số tiền lãi là $L(x; y) = 350x + 100y$, đơn vị: nghìn đồng."
+  },
+  {
+    "bbox": [
+      156,
+      2092,
+      1318,
+      2139
+    ],
+    "category": "Text",
+    "text": "Ta có $L(0;0) = 0$, $L(184;368) = 101200$, $L(250;280) = 115500$, $L(256;256) = 115200$."
+  },
+  {
+    "bbox": [
+      156,
+      2160,
+      858,
+      2205
+    ],
+    "category": "Text",
+    "text": "Ta thấy số tiền lãi đạt cao nhất khi $x = 250, y = 280$."
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

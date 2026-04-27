@@ -1,0 +1,405 @@
+[
+  {
+    "bbox": [
+      298,
+      138,
+      573,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      367,
+      182,
+      514,
+      222
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 10"
+  },
+  {
+    "bbox": [
+      294,
+      229,
+      585,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề gồm có 4 trang)"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      226,
+      1528,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      546,
+      196,
+      581
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      524,
+      1116,
+      605
+    ],
+    "category": "Text",
+    "text": "Câu 1. Đường tiệm cận ngang của đồ thị hàm số $y = \\frac{3x + 1}{x - 2}$ là"
+  },
+  {
+    "bbox": [
+      192,
+      617,
+      336,
+      659
+    ],
+    "category": "List-item",
+    "text": "A $x = 3$."
+  },
+  {
+    "bbox": [
+      535,
+      617,
+      679,
+      659
+    ],
+    "category": "List-item",
+    "text": "B $y = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      617,
+      1023,
+      659
+    ],
+    "category": "List-item",
+    "text": "C $y = 3$."
+  },
+  {
+    "bbox": [
+      1224,
+      617,
+      1368,
+      659
+    ],
+    "category": "List-item",
+    "text": "D $x = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      690,
+      196,
+      725
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      671,
+      1546,
+      789
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\lim_{x \\to \\pm\\infty} y = \\lim_{x \\to \\pm\\infty} \\frac{3x + 1}{x - 2} = 3$. vậy đường tiệm cận ngang của đồ thị hàm số là $y = 3$. Chọn đáp án C."
+  },
+  {
+    "bbox": [
+      155,
+      812,
+      196,
+      847
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      808,
+      1498,
+      851
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho cấp số nhân $(u_n)$ với $u_1 = 6$ và $u_2 = -12$. Công bội $q$ của cấp số nhân đã cho là"
+  },
+  {
+    "bbox": [
+      192,
+      863,
+      366,
+      940
+    ],
+    "category": "List-item",
+    "text": "A $q = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      535,
+      881,
+      701,
+      923
+    ],
+    "category": "List-item",
+    "text": "B $q = -2$."
+  },
+  {
+    "bbox": [
+      879,
+      881,
+      1063,
+      923
+    ],
+    "category": "List-item",
+    "text": "C $q = -18$."
+  },
+  {
+    "bbox": [
+      1224,
+      881,
+      1388,
+      923
+    ],
+    "category": "List-item",
+    "text": "D $q = -6$."
+  },
+  {
+    "bbox": [
+      155,
+      968,
+      196,
+      1003
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      949,
+      1420,
+      1029
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Công bội của cấp số nhân là $q = \\frac{u_2}{u_1} = \\frac{-12}{6} = -2$. Chọn đáp án B."
+  },
+  {
+    "bbox": [
+      155,
+      1046,
+      196,
+      1081
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1044,
+      964,
+      1086
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = f(x)$ có bảng biến thiên sau:"
+  },
+  {
+    "bbox": [
+      368,
+      1093,
+      1331,
+      1413
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$-2$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td>$5$</td><td>$+\\infty$</td><td>$0$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1435,
+      706,
+      1477
+    ],
+    "category": "Text",
+    "text": "Giá trị cực đại của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      192,
+      1497,
+      273,
+      1538
+    ],
+    "category": "List-item",
+    "text": "A $0$."
+  },
+  {
+    "bbox": [
+      535,
+      1497,
+      616,
+      1538
+    ],
+    "category": "List-item",
+    "text": "B $1$."
+  },
+  {
+    "bbox": [
+      879,
+      1497,
+      982,
+      1538
+    ],
+    "category": "List-item",
+    "text": "C $-3$."
+  },
+  {
+    "bbox": [
+      1224,
+      1497,
+      1303,
+      1538
+    ],
+    "category": "List-item",
+    "text": "D $5$."
+  },
+  {
+    "bbox": [
+      155,
+      1557,
+      196,
+      1592
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1553,
+      1546,
+      1656
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên, hàm số đạt cực đại tại $x = 1$ và giá trị cực đại tương ứng là $f(1) = 0$. Chọn đáp án A."
+  },
+  {
+    "bbox": [
+      155,
+      1677,
+      196,
+      1712
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1675,
+      1546,
+      1761
+    ],
+    "category": "Text",
+    "text": "Câu 4. Cho hình chóp $S.ABCD$ có $ABCD$ là hình vuông cạnh $a$, tam giác $SAD$ đều. Góc giữa hai đường thẳng $BC$ và $SA$ bằng"
+  },
+  {
+    "bbox": [
+      192,
+      1781,
+      302,
+      1823
+    ],
+    "category": "List-item",
+    "text": "A $60^\\circ$."
+  },
+  {
+    "bbox": [
+      535,
+      1781,
+      645,
+      1823
+    ],
+    "category": "List-item",
+    "text": "B $30^\\circ$."
+  },
+  {
+    "bbox": [
+      879,
+      1781,
+      986,
+      1823
+    ],
+    "category": "List-item",
+    "text": "C $90^\\circ$."
+  },
+  {
+    "bbox": [
+      1224,
+      1781,
+      1334,
+      1823
+    ],
+    "category": "List-item",
+    "text": "D $45^\\circ$."
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "178"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

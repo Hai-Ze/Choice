@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      638,
+      82,
+      1220,
+      479
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      485,
+      1321,
+      573
+    ],
+    "category": "Text",
+    "text": "A. $a=1, b=-2, c=1$. B. $a=1, b=2, c=1$. C. $a=1, b=1, c=-1$. D. $a=2, b=2, c=-1$."
+  },
+  {
+    "bbox": [
+      153,
+      581,
+      1308,
+      626
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho $a, b, x$ là các số thực dương và $a, b \\neq 1$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      192,
+      632,
+      1545,
+      722
+    ],
+    "category": "Text",
+    "text": "A. $\\log_a x = \\frac{\\log_b x}{\\log_a b}$. B. $\\log_a x = \\frac{\\log_b x}{\\log_b a}$. C. $\\log_a x = \\frac{\\log_b a}{\\log_b x}$. D. $\\log_a x = \\frac{\\log_a b}{\\log_b x}$."
+  },
+  {
+    "bbox": [
+      153,
+      735,
+      1039,
+      782
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Tập nghiệm của bất phương trình $\\log_{0,5}(x-7)+2 > 0$ là:"
+  },
+  {
+    "bbox": [
+      192,
+      792,
+      1451,
+      841
+    ],
+    "category": "Text",
+    "text": "A. $[7;11]$. B. $(7;11)$. C. $(-\\infty;11)$. D. $(11;+\\infty)$."
+  },
+  {
+    "bbox": [
+      153,
+      847,
+      1566,
+      931
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Mẫu số liệu ghép nhóm thống kê mức lương của một công ty (đơn vị: triệu đồng) được cho trong bảng dưới đây"
+  },
+  {
+    "bbox": [
+      276,
+      927,
+      1555,
+      1049
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm (đơn vị: triệu đồng)</td><td>[6;8)</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td></td></tr><tr><td>Tần số</td><td>6</td><td>14</td><td>16</td><td>12</td><td>2</td><td>n = 50</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1047,
+      1354,
+      1090
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tức phân vị của mẫu số liệu ghép nhóm (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      192,
+      1090,
+      1402,
+      1127
+    ],
+    "category": "Text",
+    "text": "A. 3,32. B. 3,15. C. 3,34. D. 3,16."
+  },
+  {
+    "bbox": [
+      153,
+      1142,
+      1549,
+      1190
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (x-2)(x+1), \\forall x \\in \\mathbb{R}$. Mindh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      192,
+      1199,
+      1432,
+      1309
+    ],
+    "category": "Text",
+    "text": "A. Hàm số đã cho đồng biến trên $(-\\infty;2)$. B. Hàm số đã cho đồng biến trên $(-1;+\\infty)$.\nC. Hàm số đã cho đồng biến trên $(-1;2)$. D. Hàm số đã cho nghịch biến trên $(-1;2)$."
+  },
+  {
+    "bbox": [
+      153,
+      1317,
+      1571,
+      1396
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 tới câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      1402,
+      1536,
+      1539
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình lăng trụ $ABC.A'B'C'$ có tất cả các cạnh bằng $a$, $\\widehat{A'AB} = 120^\\circ$, $\\widehat{A'AC} = 60^\\circ$. Gọi $M$ là trung điểm của $BC$; $N$ là điểm trên cạnh $BB'$ sao cho $BN = \\frac{2}{3}BB'$."
+  },
+  {
+    "bbox": [
+      567,
+      1560,
+      1156,
+      2103
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2128,
+      456,
+      2174
+    ],
+    "category": "Formula",
+    "text": "a) $\\overrightarrow{AB} + \\overrightarrow{CC'} = \\overrightarrow{AB'}$."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 1002"
+  },
+  {
+    "bbox": [
+      1478,
+      2236,
+      1611,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

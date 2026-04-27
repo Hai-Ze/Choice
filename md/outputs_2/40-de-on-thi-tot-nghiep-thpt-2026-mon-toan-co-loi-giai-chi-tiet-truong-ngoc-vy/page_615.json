@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1494,
+      194
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      76,
+      216,
+      988,
+      303
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x) = \\frac{-x^2 + x - 2}{x+1}$ có đồ thị $(C)$. Khi đó"
+  },
+  {
+    "bbox": [
+      76,
+      327,
+      574,
+      416
+    ],
+    "category": "Formula",
+    "text": "a) $y' = f'(x) = \\frac{-x^2 - 2x + 3}{(x+1)^2}, \\forall x \\neq -1$"
+  },
+  {
+    "bbox": [
+      76,
+      435,
+      584,
+      479
+    ],
+    "category": "Text",
+    "text": "b) Hàm số có hai điểm cực trị trái dấu"
+  },
+  {
+    "bbox": [
+      76,
+      499,
+      879,
+      548
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa hai điểm cực trị của đồ thị $(C)$ bằng 4"
+  },
+  {
+    "bbox": [
+      76,
+      574,
+      790,
+      624
+    ],
+    "category": "Text",
+    "text": "d) Trên đồ thị $(C)$ có đúng 8 điểm có tọa độ nguyên."
+  },
+  {
+    "bbox": [
+      727,
+      650,
+      843,
+      688
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      703,
+      893,
+      825
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      886,
+      1358,
+      986
+    ],
+    "category": "Formula",
+    "text": "a) $y' = f'(x) = \\frac{(-2x+1)(x+1)-(-x^2+x-2)}{(x+1)^2} = \\frac{-2x^2 - x + 1 + x^2 - x + 2}{(x+1)^2} = \\frac{-x^2 - 2x + 3}{(x+1)^2}, \\forall x \\neq -1$"
+  },
+  {
+    "bbox": [
+      76,
+      1008,
+      868,
+      1106
+    ],
+    "category": "Formula",
+    "text": "b) Ta có: $y' = 0 \\Leftrightarrow -x^2 - 2x + 3 = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = -3 \\end{cases} (TM x \\neq -1)$"
+  },
+  {
+    "bbox": [
+      76,
+      1124,
+      579,
+      1170
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số có 2 điểm cực trị trái dấu"
+  },
+  {
+    "bbox": [
+      76,
+      1188,
+      826,
+      1238
+    ],
+    "category": "Text",
+    "text": "c) 2 điểm cực trị của đồ thị hàm số là $A(1; -1), B(-3; 7)$"
+  },
+  {
+    "bbox": [
+      76,
+      1262,
+      986,
+      1318
+    ],
+    "category": "Formula",
+    "text": "Khoảng cách giữa 2 điểm cực trị là $AB = \\sqrt{(1+3)^2 + (-1-7)^2} = 4\\sqrt{5}$"
+  },
+  {
+    "bbox": [
+      76,
+      1348,
+      673,
+      1434
+    ],
+    "category": "Formula",
+    "text": "d) Ta có: $f(x) = \\frac{-x^2 + x - 2}{x+1} = -x + 2 - \\frac{4}{x+1}$"
+  },
+  {
+    "bbox": [
+      76,
+      1457,
+      650,
+      1506
+    ],
+    "category": "Formula",
+    "text": "Vì $x \\in \\mathbb{Z}, f(x) \\in \\mathbb{Z}$ nên $x+1 \\in \\{\\pm1; \\pm2; \\pm4\\}$"
+  },
+  {
+    "bbox": [
+      76,
+      1530,
+      587,
+      1570
+    ],
+    "category": "Text",
+    "text": "Do đó có 6 giá trị $x$ nguyên thỏa mãn"
+  },
+  {
+    "bbox": [
+      76,
+      1582,
+      759,
+      1629
+    ],
+    "category": "Text",
+    "text": "Vậy trên đồ thị hàm số có 6 điểm có tọa độ nguyên"
+  },
+  {
+    "bbox": [
+      76,
+      1643,
+      1494,
+      1852
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một tên lửa phóng thẳng đứng từ mặt đất với vận tốc ban đầu $v_0 = 50 \\, m/s$. Gia tốc của tên lửa (do lực đẩy và trọng lực) phụ thuộc vào thời gian theo công thức $a(t) = 10 - 2t \\, (m/s^2)$. Sau thời gian $10 \\, s$, tên lửa hết nhiên liệu và tiếp tục bay với gia tốc $a(t) = -9,8 \\, (m/s^2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1874,
+      942,
+      1918
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của tên lửa đạt được tại thời điểm $t = 10 \\, s$ là $50 \\, m/s$."
+  },
+  {
+    "bbox": [
+      76,
+      1932,
+      914,
+      1976
+    ],
+    "category": "Text",
+    "text": "b) Độ cao của tên lửa đạt được tại thời điểm $t = 10 \\, s$ là $660 \\, m$."
+  },
+  {
+    "bbox": [
+      76,
+      1990,
+      1244,
+      2037
+    ],
+    "category": "Text",
+    "text": "c) Tên lửa đạt độ cao lớn nhất tại thời điểm $t = 15 \\, s$ (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      76,
+      2051,
+      1163,
+      2095
+    ],
+    "category": "Text",
+    "text": "d) Độ cao lớn nhất tên lửa đạt được (làm tròn kết quả đến hàng đơn vị) là $766 \\, m$."
+  },
+  {
+    "bbox": [
+      727,
+      2114,
+      843,
+      2152
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2168,
+      893,
+      2231
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

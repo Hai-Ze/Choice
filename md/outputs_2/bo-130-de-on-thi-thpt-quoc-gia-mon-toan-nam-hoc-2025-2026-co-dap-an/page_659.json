@@ -1,0 +1,356 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      125,
+      1196,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1150,
+      275
+    ],
+    "category": "Section-header",
+    "text": "# BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      298,
+      275,
+      991,
+      332
+    ],
+    "category": "Text",
+    "text": "## ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 130"
+  },
+  {
+    "bbox": [
+      417,
+      332,
+      875,
+      391
+    ],
+    "category": "Text",
+    "text": "## TỔNG HỢP TOÁN THỰC TẾ"
+  },
+  {
+    "bbox": [
+      281,
+      391,
+      1012,
+      429
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1236,
+      142,
+      1596,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1234,
+      357,
+      1318,
+      402
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      447,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1322,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      511,
+      823,
+      566
+    ],
+    "category": "Section-header",
+    "text": "### 1 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      574,
+      1196,
+      653
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một chiếc hộchứa 9 quả cầu gồm 4 quả màu xanh, 3 quả màu đỏ và 2 quả màu vàng. Lấy ngẫu nhiên 3 quá cầu từ hộ đó."
+  },
+  {
+    "bbox": [
+      124,
+      653,
+      838,
+      691
+    ],
+    "category": "List-item",
+    "text": "a) Số cách lấy ngẫu nhiên 3 quả cầu từ hộ đó là 84."
+  },
+  {
+    "bbox": [
+      124,
+      694,
+      913,
+      732
+    ],
+    "category": "List-item",
+    "text": "b) Số cách lấy được 3 quả cầu không có quả màu đỏ là 20."
+  },
+  {
+    "bbox": [
+      124,
+      732,
+      973,
+      803
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất lấy được 3 quả cầu không có quả màu đỏ bằng $\\frac{1}{84}$."
+  },
+  {
+    "bbox": [
+      124,
+      797,
+      1012,
+      867
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất lấy được 3 quả cầu có ít nhất 1 quả màu đỏ bằng $\\frac{83}{84}$."
+  },
+  {
+    "bbox": [
+      94,
+      889,
+      910,
+      1192
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Xét tam giác $ABC$ có $AC = 2AB$ và $BC = 10$ cm. Trên cạnh $AC$ lấy điểm $D$ sao cho $AD = \\frac{1}{4}AC$, trên cạnh $AB$ lấy điểm $E$ sao cho $AE = \\frac{1}{4}AB$, trên cạnh $AD$ lấy điểm $F$ sao cho $AF = \\frac{1}{4}AD$ và tiếp tục lấy các điểm $G, H, I, J...$ (vô hạn lần) theo quy luật đó. Xét tính đúng sai các мыngh đề sau:"
+  },
+  {
+    "bbox": [
+      949,
+      908,
+      1190,
+      1347
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      1185,
+      331,
+      1256
+    ],
+    "category": "Formula",
+    "text": "a) $\\frac{AB}{AC} = \\frac{AD}{AB}$."
+  },
+  {
+    "bbox": [
+      124,
+      1254,
+      791,
+      1290
+    ],
+    "category": "List-item",
+    "text": "b) Tam giác $ABD$ đồng dạng với tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      124,
+      1292,
+      510,
+      1328
+    ],
+    "category": "List-item",
+    "text": "c) $BD = 5$ cm; $DE = 3$ cm."
+  },
+  {
+    "bbox": [
+      124,
+      1332,
+      877,
+      1370
+    ],
+    "category": "List-item",
+    "text": "d) Độ dài đường gấp khúc $CBDEFGH...$ bằng 20 cm."
+  },
+  {
+    "bbox": [
+      94,
+      1384,
+      1196,
+      1502
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Hộp $A$待dng 4 bi xanh và 4 bi trắng, hộp $B$待dng 6 bi xanh và 3 bi trắng, hộp $C$ không có viên bi nào. Người ta thực hiện liên tiếp ba hành động sau đây hoàn toàn ngẫu nhiên:"
+  },
+  {
+    "bbox": [
+      128,
+      1525,
+      692,
+      1563
+    ],
+    "category": "List-item",
+    "text": "Lấy 1 viên bi từ hộp $A$ bỏ sang hộp $B$."
+  },
+  {
+    "bbox": [
+      128,
+      1588,
+      692,
+      1626
+    ],
+    "category": "List-item",
+    "text": "Lấy 1 viên bi từ hộp $B$ bỏ sang hộp $C$."
+  },
+  {
+    "bbox": [
+      128,
+      1651,
+      692,
+      1689
+    ],
+    "category": "List-item",
+    "text": "Lấy 1 viên bi từ hộp $A$ bỏ sang hộp $C$."
+  },
+  {
+    "bbox": [
+      94,
+      1722,
+      1007,
+      1973
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1988,
+      561,
+      2024
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai các мыngh đề sau"
+  },
+  {
+    "bbox": [
+      124,
+      2024,
+      1196,
+      2128
+    ],
+    "category": "List-item",
+    "text": "a) Nếu từ hộp $A$ đã lấy 1 bi trắng bỏ sang hộp $B$ thì xác suất để lấy bi trắng từ hộp $B$ bỏ sang hộp $C$ bằng $\\frac{3}{5}$."
+  },
+  {
+    "bbox": [
+      124,
+      2120,
+      1036,
+      2194
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để lấy được bi trắng từ hộp $B$ bỏ sang hộp $C$ bằng $\\frac{7}{20}$."
+  },
+  {
+    "bbox": [
+      124,
+      2186,
+      791,
+      2256
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để lấy từ $C$ được 2 bi xanh bằng $\\frac{9}{28}$."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 657"
+  }
+]

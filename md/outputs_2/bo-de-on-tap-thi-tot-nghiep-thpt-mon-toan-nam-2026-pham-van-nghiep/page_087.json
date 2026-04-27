@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1528,
+      253
+    ],
+    "category": "Text",
+    "text": "a) Sai: Diện tích hình phẳng $(H)$ được tính bằng công thức: $S = \\int_{-1}^{0} (\\sqrt{1-x^2}) dx + \\int_{0}^{1} (x^3 + 1) dx$\nKhi đó $S \\approx 2,04 \\text{ dm}^2$"
+  },
+  {
+    "bbox": [
+      212,
+      262,
+      1457,
+      343
+    ],
+    "category": "Text",
+    "text": "b) Đúng: Diện tích thiết diện qua trục đối xứng của khối tròn xoay trên là $\\frac{\\pi + 5}{2} \\text{ dm}^2$."
+  },
+  {
+    "bbox": [
+      212,
+      348,
+      1557,
+      446
+    ],
+    "category": "Text",
+    "text": "c) Đúng: Công thức tính thể tích khối tròn xoay trên là $V = \\pi \\int_{0}^{-1} (x^2 - 1) dx + \\pi \\int_{0}^{1} (x^6 + 2x^3 + 1) dx$."
+  },
+  {
+    "bbox": [
+      212,
+      452,
+      1500,
+      550
+    ],
+    "category": "Text",
+    "text": "d) Đúng: $V = \\pi \\int_{0}^{-1} (x^2 - 1) dx + \\pi \\int_{0}^{1} (x^6 + 2x^3 + 1) dx = \\frac{97\\pi}{42}$ nên $a = 97$ và $b = 42 \\Rightarrow a + b = 139$."
+  },
+  {
+    "bbox": [
+      74,
+      555,
+      1575,
+      692
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Có hai đội thi đấu môn bắn súng. Đội I có 8 vận động viên, đội II có 10 vận động viên. Xác suất đạt huy chương vàng của mỗi vận động viên đội I và đội II tương ứng là 0,6 và 0,55. Chọn ngẫu nhiên một vận động viên."
+  },
+  {
+    "bbox": [
+      212,
+      694,
+      992,
+      773
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để vận động viên chọn ra thuộc đội I là $\\frac{5}{9}$"
+  },
+  {
+    "bbox": [
+      212,
+      777,
+      1346,
+      824
+    ],
+    "category": "Text",
+    "text": "b) Xác suất không đạt huy chương vàng của mỗi vận động viên đội II là 0,45"
+  },
+  {
+    "bbox": [
+      212,
+      829,
+      1125,
+      906
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để vận động viên này đạt huy chương vàng là $\\frac{103}{180}$"
+  },
+  {
+    "bbox": [
+      212,
+      911,
+      1570,
+      1032
+    ],
+    "category": "Text",
+    "text": "d) Giả sử vận động viên được chọn đạt huy chương vàng. Xác suất để vận động viên này thuộc đội I là $\\frac{48}{103}$."
+  },
+  {
+    "bbox": [
+      833,
+      1039,
+      953,
+      1080
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1083,
+      1138,
+      1160
+    ],
+    "category": "Text",
+    "text": "a) Sai: Xác suất để vận động viên chọn ra thuộc đội I là $\\frac{8}{18} = \\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      1163,
+      1573,
+      1247
+    ],
+    "category": "Text",
+    "text": "b) Đúng: Xác suất không đạt huy chương vàng của mỗi vận động viên đội II là $1 - 0,55 = 0,45$"
+  },
+  {
+    "bbox": [
+      212,
+      1254,
+      1573,
+      1345
+    ],
+    "category": "Text",
+    "text": "c) Đúng: Gọi $A$ là biến cố: “Vận động viên đạt huy chương vàng”, $B$ là biến cố: “Thành viên đội I” thì biến cố đối của $B$ là $\\bar{B}$: “Thành viên đội II đạt huy chương vàng”."
+  },
+  {
+    "bbox": [
+      212,
+      1345,
+      1125,
+      1423
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó, } P(B) = \\frac{8}{18} = \\frac{4}{9}; P(\\bar{B}) = \\frac{5}{9}; P(A|B) = 0,6; P(A|\\bar{B}) = 0,55\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1428,
+      808,
+      1471
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần ta có"
+  },
+  {
+    "bbox": [
+      466,
+      1471,
+      1317,
+      1549
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(B) \\cdot P(A|B) + P(\\bar{B}) \\cdot P(A|\\bar{B}) = \\frac{4}{9} \\cdot 0,6 + \\frac{5}{9} \\cdot 0,55 = \\frac{103}{180}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1555,
+      998,
+      1709
+    ],
+    "category": "Text",
+    "text": "d) Đúng: Ta có $P(B|A) = \\frac{P(B) \\cdot P(A|B)}{P(A)} = \\frac{\\frac{4}{9} \\cdot 0,6}{\\frac{103}{180}} = \\frac{48}{103}$"
+  },
+  {
+    "bbox": [
+      74,
+      1714,
+      1575,
+      2002
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Hệ thống phòng không “vòm sixth” là một trong những hệ thống đánh quotes tên lửa từ xa rất nổi tiếng của Israel. Để “vòm sixth” hoạt động được chính xác người ta trang bị một Radar có khả năng phát hiện tên lửa với bán kính 417km. Trong hệ trục tọa độ $Oxyz$, một hệ thống “vòm sixth” đang ở vị trí gốc tọa độ $O(0;0;0)$ và một quả tên lửa đang ở vị trí $A(688;185;-8)$ được phóng lên và bay theo một quỹ đạo là đường thẳng có vecto chỉ phương là $\\vec{u} = (-91;-75;0)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

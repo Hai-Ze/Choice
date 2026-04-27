@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      194,
+      141,
+      441,
+      181
+    ],
+    "category": "Text",
+    "text": "◇ **M a): Đúng.**"
+  },
+  {
+    "bbox": [
+      234,
+      196,
+      1247,
+      241
+    ],
+    "category": "Text",
+    "text": "Với $t = 30$, lượng nước trong bể là $V(30) = 2 \\cdot 30^2 + 3 \\cdot 30 = 1890$ (lít)."
+  },
+  {
+    "bbox": [
+      234,
+      255,
+      788,
+      297
+    ],
+    "category": "Text",
+    "text": "Vì $1890 < 2015$ nên nước chưa đầy bể."
+  },
+  {
+    "bbox": [
+      194,
+      316,
+      408,
+      355
+    ],
+    "category": "Text",
+    "text": "◇ **b): Đúng.**"
+  },
+  {
+    "bbox": [
+      234,
+      373,
+      836,
+      413
+    ],
+    "category": "Text",
+    "text": "Lượng nước bơm vào trong 5 phút đầu là:"
+  },
+  {
+    "bbox": [
+      234,
+      421,
+      1075,
+      498
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{\\text{vào}} = \\int_{0}^{5} (6t + 3) \\, \\text{dt} = (3t^2 + 3t) \\Big|_{0}^{5} = 3 \\cdot 5^2 + 3 \\cdot 5 = 90 \\, (\\text{lít}).\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      506,
+      364,
+      545
+    ],
+    "category": "Text",
+    "text": "◇ **c): Sai.**"
+  },
+  {
+    "bbox": [
+      234,
+      562,
+      819,
+      602
+    ],
+    "category": "Text",
+    "text": "Lượng nước ch exactly ra trong 5 phút đầu là:"
+  },
+  {
+    "bbox": [
+      234,
+      611,
+      1031,
+      688
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{\\text{ra}} = \\int_{0}^{5} 2t \\, \\text{dt} = t^2 \\Big|_{0}^{5} = 25 \\, (\\text{lít}). \\text{ (Đề bài ghi 10 lít là sai).}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      701,
+      408,
+      740
+    ],
+    "category": "Text",
+    "text": "◇ **d): Đúng.**"
+  },
+  {
+    "bbox": [
+      234,
+      755,
+      909,
+      797
+    ],
+    "category": "Text",
+    "text": "Bể đầy khi $V(t) = 2015 \\Leftrightarrow 2t^2 + 3t - 2015 = 0$."
+  },
+  {
+    "bbox": [
+      234,
+      816,
+      965,
+      856
+    ],
+    "category": "Text",
+    "text": "Giải phương trình với $t > 0$, ta được $t = 31$ (phút)."
+  },
+  {
+    "bbox": [
+      234,
+      873,
+      1162,
+      915
+    ],
+    "category": "Text",
+    "text": "Lượng nước đã ch exactly ra ngoài khi đó là: $V_{\\text{ra}}(31) = 31^2 = 961$ (lít)."
+  },
+  {
+    "bbox": [
+      234,
+      932,
+      767,
+      972
+    ],
+    "category": "Text",
+    "text": "Vì $961 > 900$ nên性能 đề này đúng."
+  },
+  {
+    "bbox": [
+      152,
+      993,
+      1547,
+      1078
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một thùng chứa 100 quả táo trong đó có 80% số quả táo được dán nhãn, số còn lại không được dán nhãn. Bạn Hoàng lấy ra một quả trong thùng, sau đó bạn Hà lấy ra một quả thứ hai."
+  },
+  {
+    "bbox": [
+      194,
+      1097,
+      1088,
+      1137
+    ],
+    "category": "Text",
+    "text": "◇ Gọi $A$ là biến cố: \"Quả táo bạn Hoàng lấy ra có dán nhãn\"."
+  },
+  {
+    "bbox": [
+      194,
+      1156,
+      1042,
+      1196
+    ],
+    "category": "Text",
+    "text": "◇ Gọi $B$ là biến cố: \"Quả táo bạn Hà lấy ra có dán nhãn\"."
+  },
+  {
+    "bbox": [
+      190,
+      1215,
+      385,
+      1292
+    ],
+    "category": "Formula",
+    "text": "a) $P(A) = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      190,
+      1294,
+      769,
+      1375
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(B|A) = \\frac{79}{100}$."
+  },
+  {
+    "bbox": [
+      190,
+      1381,
+      1021,
+      1422
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất bạn Hà lấy ra quả táo có dán nhãn bằng 0,8."
+  },
+  {
+    "bbox": [
+      190,
+      1435,
+      1547,
+      1521
+    ],
+    "category": "Formula",
+    "text": "d) Biết rằng bạn Hà lấy ra quả táo có dán nhãn. Xác suất để Hoàng cũng lấy ra quả táo có dán nhãn là 20,2% (làm tròn kết quả đến hàng phần mười theo đơn vị phần trăm)."
+  },
+  {
+    "bbox": [
+      152,
+      1544,
+      1547,
+      1647
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Số quả táo được dán nhãn là $80\\% \\cdot 100 = 80$ quả; số táo không được dán nhãn là 20 quả."
+  },
+  {
+    "bbox": [
+      202,
+      1655,
+      1261,
+      1738
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } P(A) = \\frac{80}{100} = \\frac{4}{5}; P(\\bar{A}) = 1 - \\frac{4}{5} = \\frac{1}{5}; P(B|A) = \\frac{79}{99}; P(B|\\bar{A}) = \\frac{80}{99}.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      1751,
+      934,
+      1832
+    ],
+    "category": "Formula",
+    "text": "a) Đúng Ta có $n(A) = 80$, suy ra $P(A) = \\frac{80}{100} = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      190,
+      1835,
+      585,
+      1912
+    ],
+    "category": "Formula",
+    "text": "b) Sai Ta có $P(B|A) = \\frac{79}{99}$."
+  },
+  {
+    "bbox": [
+      190,
+      1928,
+      984,
+      1974
+    ],
+    "category": "Formula",
+    "text": "c) Đúng Áp dụng công thức xác suất toàn phần, ta có"
+  },
+  {
+    "bbox": [
+      428,
+      1979,
+      1349,
+      2058
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = \\frac{4}{5} \\cdot \\frac{79}{99} + \\frac{1}{5} \\cdot \\frac{80}{99} = 0,8.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      2073,
+      1547,
+      2159
+    ],
+    "category": "Formula",
+    "text": "d) Sai Xác suất để Hoàng cũng lấy ra quả táo có dán nhãn biết bạn Hà lấy ra quả táo có dán nhãn là $P(A|B)$."
+  },
+  {
+    "bbox": [
+      234,
+      2178,
+      688,
+      2222
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức Bayes ta có"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1599,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "63"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1566,
+      253
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường ô tô chuyển động chậm dẫn đều là $S = \\int_{12}^{15} (-8t+120)dt = (-4t^2+120t)\\Big|_{12}^{15} = 36$ (mét)."
+  },
+  {
+    "bbox": [
+      212,
+      258,
+      371,
+      296
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      298,
+      1573,
+      386
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường ô tô đi được từ lúc bắt đầu chuyển động cho đến khi background là $144+36=180$ mét."
+  },
+  {
+    "bbox": [
+      212,
+      394,
+      371,
+      432
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      438,
+      1575,
+      624
+    ],
+    "category": "Text",
+    "text": "Câu 3. Một xét nghiệm $M$ cho kết quả dương tính với bệnh $A$ trong 99,5% trường hợp khi người khám thực sự mắc bệnh và 0,05% trường hợp khi người khám không mắc bệnh (kết quả dương tính giả). Giả sử 1% số người ở một cộng đồng mắc bệnh $A$. Thực hiện xét nghiệm $M$ cho một người dân được lựa chọn ngẫu nhiên trong cộng đồng đó."
+  },
+  {
+    "bbox": [
+      212,
+      624,
+      1049,
+      669
+    ],
+    "category": "Text",
+    "text": "a) Xác suất người được chọn không mắc bệnh $A$ là 0,99."
+  },
+  {
+    "bbox": [
+      212,
+      673,
+      1573,
+      760
+    ],
+    "category": "Text",
+    "text": "b) Nếu người được chọn mắc bệnh $A$ thì xác suất để xét nghiệm $M$ cho kết quả dương tính là 0,005."
+  },
+  {
+    "bbox": [
+      212,
+      770,
+      1415,
+      814
+    ],
+    "category": "Text",
+    "text": "c) Xác suất người được chọn có kết quả xét nghiệm $M$ dương tính lớn hơn 0,014."
+  },
+  {
+    "bbox": [
+      212,
+      819,
+      1575,
+      944
+    ],
+    "category": "Text",
+    "text": "d) Biết người được chọn có kết quả xét nghiệm $M$ là dương tính thì xác suất để người đó thực sự mắc bệnh $A$ là $\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      833,
+      952,
+      953,
+      993
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      993,
+      962,
+      1038
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “Người được chọn mắc bệnh $A$”."
+  },
+  {
+    "bbox": [
+      276,
+      1038,
+      1063,
+      1083
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố: “Người được chọn không mắc bệnh $A$”."
+  },
+  {
+    "bbox": [
+      276,
+      1086,
+      1054,
+      1129
+    ],
+    "category": "Text",
+    "text": "$D$ là biến cố: “Kết quả xét nghiệm $M$ là dương tính”."
+  },
+  {
+    "bbox": [
+      212,
+      1129,
+      1575,
+      1264
+    ],
+    "category": "Text",
+    "text": "a) Vì 1% người trong một cộng đồng mắc bệnh $A$ nên 99% người trong cộng đồng đó không mắc bệnh $A$. vậy xác suất chọn ngẫu nhiên một người trong cộng đồng đó mà không mắc bệnh $A$ là 0,99."
+  },
+  {
+    "bbox": [
+      212,
+      1268,
+      419,
+      1311
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      1313,
+      1573,
+      1401
+    ],
+    "category": "Text",
+    "text": "b) Nếu người được chọn mắc bệnh $A$ thì xác suất để xét nghiệm $M$ cho kết quả dương tính là $1-0,05=0,95$."
+  },
+  {
+    "bbox": [
+      212,
+      1411,
+      371,
+      1449
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1455,
+      1220,
+      1504
+    ],
+    "category": "Text",
+    "text": "c) Ta có: $P(A)=0,01, P(B)=0,99; P(D|A)=0,995; P(D|B)=0,005$"
+  },
+  {
+    "bbox": [
+      212,
+      1508,
+      880,
+      1557
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất toàn phần, ta có:"
+  },
+  {
+    "bbox": [
+      212,
+      1559,
+      1263,
+      1607
+    ],
+    "category": "Formula",
+    "text": "$$\nP(D) = P(D|A) \\cdot P(A) + P(D|B) \\cdot P(B) = 0,995 \\cdot 0,01 + 0,005 \\cdot 0,99 = 0,0149.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1617,
+      371,
+      1655
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1657,
+      721,
+      1704
+    ],
+    "category": "Text",
+    "text": "d) Áp dụng công thức Bayes, ta có"
+  },
+  {
+    "bbox": [
+      212,
+      1706,
+      844,
+      1798
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|D) = \\frac{P(D|A) \\cdot P(A)}{P(D)} = \\frac{0,995 \\cdot 0,01}{0,0149} = \\frac{199}{298}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1808,
+      371,
+      1848
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      1852,
+      1575,
+      2003
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian $Oxyz$ với đơn vị trên mỗi trục là 1 mét, một flycam bay với vận tốc có độ lớn và hướng không đổi. tại thời điểm $t=0$, flycam ở vị trí $A(1;2;3)$ và sau 10 phút nó ở vị trí $B(21;32;33)$."
+  },
+  {
+    "bbox": [
+      212,
+      2013,
+      819,
+      2057
+    ],
+    "category": "Text",
+    "text": "a) Flycam không bay qua vị trí $D(5;8;9)$."
+  },
+  {
+    "bbox": [
+      212,
+      2065,
+      883,
+      2120
+    ],
+    "category": "Text",
+    "text": "b) Vecto vận tốc của flycam là $\\vec{v} = (20;30;30)$."
+  },
+  {
+    "bbox": [
+      212,
+      2129,
+      1162,
+      2174
+    ],
+    "category": "Text",
+    "text": "c) Tốc độ (làm tròn đến hàng phần trăm) của flycam là 0,08 m/s."
+  },
+  {
+    "bbox": [
+      212,
+      2179,
+      925,
+      2224
+    ],
+    "category": "Text",
+    "text": "d) Sau 15 phút, vị trí của flycam là $C(31;47;48)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

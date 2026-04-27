@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      110,
+      790,
+      210
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{h} (2\\sqrt{x})^2 dx = \\frac{4\\pi x^2}{2} \\bigg|_{0}^{h} = 2\\pi h^2 \\text{ (dvtt).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      216,
+      669,
+      305
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } 2\\pi h^2 = 300 \\Rightarrow h = \\sqrt{\\frac{150}{\\pi}}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      313,
+      1046,
+      416
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy chiều cao khối trụ bên ngoài là: } 2 \\cdot \\left( \\frac{3}{2} \\cdot \\sqrt{\\frac{150}{\\pi}} \\right) \\approx 21 \\text{ cm.}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      426,
+      1576,
+      886
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Trong không gian với hệ trục tọa độ $Oxyz$, xét mô hình phòng không như sau: radar đặt tại gốc tọa độ $O(0;0;0)$, tên lửa phòng không đặt tại điểm $M(0;50;0)$, mỗi đơn vị tương ứng với $10m$, mặt phẳng ($Oxy$) trùng với mặt đất, trục $Oz$ vuông góc với mặt đất và hướng lên. Giả sử mọi UAV (phương tiện bay không người lái) và tên lửa đều chuyển động thẳng đều. tại thời điểm $t=0s$, radar phát hiện ra UAV $A$ ở tọa độ $A_0(1100;0;15)$. tại thời điểm $t=1s$, radar theo dõi thấy UAV $A$ ở tọa độ $A_1(1095;1;14,5)$ trên đường thẳng $d$. tại thời điểm $t=6s$, một tên lửa được phóng lên và chuyển động thẳng đều với vận tốc $1300m/s$, va chạm và phá hủy UAV $A$ tại điểm $B$ trên $d$. Hỏi sau bao nhiêu giây kể từ lúc được phóng lên thì tên lửa va chạm với UAV (làm tròn kết quả đến hàng phần trăm của giây)?"
+  },
+  {
+    "bbox": [
+      698,
+      891,
+      1082,
+      1239
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1246,
+      953,
+      1287
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1290,
+      408,
+      1333
+    ],
+    "category": "Text",
+    "text": "Đáp án: 7,93"
+  },
+  {
+    "bbox": [
+      212,
+      1338,
+      1574,
+      1545
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{A_0A_1} = (-5;1;-0,5)$ suy ra vị trí của UAV $A$ sau thời gian $t$ giây kể từ khi xuất phát là\n$$ \\begin{cases} x = 1100 - 5t \\\\ y = t \\\\ z = 15 - 0,5t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      1555,
+      679,
+      1602
+    ],
+    "category": "Text",
+    "text": "Do đó $B(1100 - 5t_1; t_1; 15 - 0,5t_1)$."
+  },
+  {
+    "bbox": [
+      216,
+      1611,
+      1378,
+      1678
+    ],
+    "category": "Formula",
+    "text": "$$\nMB = |\\overrightarrow{MB}| = \\sqrt{(1100 - 5t_1)^2 + (t_1 - 50)^2 + (15 - 0,5t_1)^2} = \\sqrt{26,25t_1^2 - 11115t_1 + 1212725}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1686,
+      1574,
+      1779
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t=6$ thì tên lửa được phóng lên nên thời gian từ lúc tên lửa được phóng lên đến lúc va chạm với UAV $A$ là $t_1 - 6(s)$."
+  },
+  {
+    "bbox": [
+      212,
+      1785,
+      1574,
+      1895
+    ],
+    "category": "Text",
+    "text": "Do mỗi đơn vị tương ứng với $10m$ nên độ dài quăng đường $MB$ là $10\\sqrt{26,25t_1^2 - 11115t_1 + 1212725} (m)$."
+  },
+  {
+    "bbox": [
+      212,
+      1901,
+      1171,
+      1961
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có phương trình: } 10 \\cdot \\sqrt{26,25t_1^2 - 11115t_1 + 1212725} = 1300 \\cdot (t_1 - 6)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1968,
+      846,
+      2012
+    ],
+    "category": "Text",
+    "text": "Giải phương trình trên thu được $t_1 \\approx 13,93$."
+  },
+  {
+    "bbox": [
+      212,
+      2020,
+      1574,
+      2112
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian kể từ lúc tên lửa được phóng lên đến lúc va chạm với UAV $A$ là $t_1 - 6 \\approx 7,93(s)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

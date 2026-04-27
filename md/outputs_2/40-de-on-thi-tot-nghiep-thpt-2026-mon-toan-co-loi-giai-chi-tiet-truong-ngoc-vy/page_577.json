@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      98,
+      408,
+      135
+    ],
+    "category": "List-item",
+    "text": "A. Hình thang."
+  },
+  {
+    "bbox": [
+      555,
+      98,
+      799,
+      135
+    ],
+    "category": "List-item",
+    "text": "B. Hình chữ nhật."
+  },
+  {
+    "bbox": [
+      906,
+      98,
+      1163,
+      135
+    ],
+    "category": "List-item",
+    "text": "C. Hình bình hành."
+  },
+  {
+    "bbox": [
+      1255,
+      98,
+      1431,
+      135
+    ],
+    "category": "List-item",
+    "text": "D. Tam giác."
+  },
+  {
+    "bbox": [
+      807,
+      155,
+      924,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      214,
+      278,
+      251
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      576,
+      294,
+      1146,
+      767
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      810,
+      1266,
+      854
+    ],
+    "category": "Text",
+    "text": "Gọi $O$ là giao điểm của hai đường chéo $AC$ và $BD \\Rightarrow I$ là trung điểm của $AC$ và $BD$"
+  },
+  {
+    "bbox": [
+      160,
+      876,
+      600,
+      983
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} (P) // SA \\\\ BD \\subset (P) \\end{cases} \\Rightarrow (P) \\cap (SAC) = OI\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1007,
+      734,
+      1050
+    ],
+    "category": "Text",
+    "text": "Khi đó $OI // SA$ và $I$ là trung điểm của $SC$"
+  },
+  {
+    "bbox": [
+      160,
+      1072,
+      705,
+      1120
+    ],
+    "category": "Formula",
+    "text": "$$\n(P) \\cap (SBC) = BI \\text{ và } (P) \\cap (SCD) = ID\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1140,
+      574,
+      1183
+    ],
+    "category": "Text",
+    "text": "Vậy thiết diện là tam giác $BDI$"
+  },
+  {
+    "bbox": [
+      157,
+      1204,
+      1570,
+      1319
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình lăng trụ có đáy là tam giác $ABC$ với $AB = a$; $AC = 2a$; $\\widehat{BAC} = 30^\\circ$, chiều cao $h = 3a$. Tính thể tích khối lăng trụ."
+  },
+  {
+    "bbox": [
+      205,
+      1341,
+      366,
+      1405
+    ],
+    "category": "List-item",
+    "text": "A. $V = 3a^3$."
+  },
+  {
+    "bbox": [
+      555,
+      1341,
+      718,
+      1430
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\frac{3a^3}{2}$."
+  },
+  {
+    "bbox": [
+      906,
+      1341,
+      1071,
+      1430
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\frac{3a^3}{4}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1341,
+      1393,
+      1430
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\frac{a^3}{2}$."
+  },
+  {
+    "bbox": [
+      807,
+      1454,
+      924,
+      1492
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1513,
+      278,
+      1550
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      1574,
+      1047,
+      1664
+    ],
+    "category": "Text",
+    "text": "Ta có diện tích đáy là $S = \\frac{1}{2} AB \\cdot AC \\cdot \\sin A = \\frac{1}{2} a \\cdot 2a \\cdot \\sin 30^\\circ = \\frac{a^2}{2}$."
+  },
+  {
+    "bbox": [
+      157,
+      1690,
+      593,
+      1780
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích } V = S \\cdot h = \\frac{a^2}{2} \\cdot 3a = \\frac{3a^3}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1855,
+      1572,
+      1958
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      157,
+      1980,
+      718,
+      2065
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\frac{x^2 + 2x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      157,
+      2087,
+      724,
+      2136
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đồng biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      157,
+      2158,
+      1073,
+      2203
+    ],
+    "category": "List-item",
+    "text": "b) Đường thẳng $y = x + 3$ là tiệm cận xiên của đồ thị hàm số đã cho."
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      818,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

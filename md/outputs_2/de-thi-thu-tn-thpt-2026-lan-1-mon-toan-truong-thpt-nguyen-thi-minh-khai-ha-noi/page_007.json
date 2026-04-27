@@ -1,0 +1,320 @@
+[
+  {
+    "bbox": [
+      656,
+      122,
+      1004,
+      398
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      424,
+      539,
+      468
+    ],
+    "category": "Formula",
+    "text": "A. $y = -x^3 - 3x^2 - 2$."
+  },
+  {
+    "bbox": [
+      585,
+      424,
+      852,
+      468
+    ],
+    "category": "Formula",
+    "text": "B. $y = x^3 - 3x^2 - 2$."
+  },
+  {
+    "bbox": [
+      900,
+      424,
+      1187,
+      468
+    ],
+    "category": "Formula",
+    "text": "C. $y = 2x^3 + 6x^2 - 2$."
+  },
+  {
+    "bbox": [
+      1215,
+      424,
+      1484,
+      468
+    ],
+    "category": "Formula",
+    "text": "D. $y = x^3 + 3x^2 - 2$."
+  },
+  {
+    "bbox": [
+      843,
+      480,
+      957,
+      518
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      536,
+      1028,
+      580
+    ],
+    "category": "Text",
+    "text": "Ta có nhánh cuối đồ thị hướng lên trên nên loại đáp án A."
+  },
+  {
+    "bbox": [
+      251,
+      602,
+      1489,
+      652
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đi qua các điểm $(-2; 2)$, $(0; -2)$, $(1; 2)$ nên hàm số $y = x^3 + 3x^2 - 2$ thỏa mãn."
+  },
+  {
+    "bbox": [
+      114,
+      684,
+      957,
+      736
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Tập nghiệm của phương trình $\\log_2(x^2 - x + 2) = 1$ là"
+  },
+  {
+    "bbox": [
+      251,
+      778,
+      356,
+      824
+    ],
+    "category": "Formula",
+    "text": "A. $\\{0\\}$."
+  },
+  {
+    "bbox": [
+      585,
+      778,
+      710,
+      824
+    ],
+    "category": "Formula",
+    "text": "B. $\\{0; 1\\}$."
+  },
+  {
+    "bbox": [
+      900,
+      778,
+      1049,
+      824
+    ],
+    "category": "Formula",
+    "text": "C. $\\{-1; 0\\}$."
+  },
+  {
+    "bbox": [
+      1215,
+      778,
+      1314,
+      824
+    ],
+    "category": "Formula",
+    "text": "D. $\\{1\\}$."
+  },
+  {
+    "bbox": [
+      843,
+      838,
+      957,
+      876
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      900,
+      441,
+      936
+    ],
+    "category": "Text",
+    "text": "TXĐ: $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      256,
+      959,
+      1063,
+      1057
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_2(x^2 - x + 2) = 1 \\Leftrightarrow x^2 - x + 2 = 2 \\Leftrightarrow x^2 - x = 0 \\Leftrightarrow \\begin{bmatrix} x = 0 \\\\ x = 1 \\end{bmatrix}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1084,
+      1543,
+      1191
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Cho hình hộp $ABCD.A'B'C'D'$ có $\\overrightarrow{AB} = \\vec{a}$, $\\overrightarrow{AD} = \\vec{b}$, $\\overrightarrow{AA'} = \\vec{c}$. Gọi $I$ là trung điểm của đoạn $BC'$. Phân tích vecto $\\overrightarrow{AI}$ qua ba vecto $\\vec{a}, \\vec{b}, \\vec{c}$."
+  },
+  {
+    "bbox": [
+      251,
+      1232,
+      563,
+      1312
+    ],
+    "category": "Formula",
+    "text": "A. $\\overrightarrow{AI} = 2\\vec{a} + \\frac{1}{4}\\vec{b} + \\frac{1}{3}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      585,
+      1232,
+      877,
+      1312
+    ],
+    "category": "Formula",
+    "text": "B. $\\overrightarrow{AI} = \\frac{1}{2}\\vec{a} + \\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      900,
+      1232,
+      1194,
+      1312
+    ],
+    "category": "Formula",
+    "text": "C. $\\overrightarrow{AI} = \\vec{a} + \\frac{1}{2}\\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      1215,
+      1232,
+      1505,
+      1312
+    ],
+    "category": "Formula",
+    "text": "D. $\\overrightarrow{AI} = \\frac{1}{2}\\vec{a} + \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      843,
+      1322,
+      957,
+      1360
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      720,
+      1397,
+      1098,
+      1744
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1772,
+      689,
+      1816
+    ],
+    "category": "Text",
+    "text": "Ta có $I$ là trung điểm $BC'$ nên:"
+  },
+  {
+    "bbox": [
+      256,
+      1842,
+      1364,
+      1922
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AI} = \\frac{1}{2}(\\overrightarrow{AB} + \\overrightarrow{AC'}) = \\frac{1}{2}(\\overrightarrow{AB} + \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}) = \\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{AD} + \\frac{1}{2}\\overrightarrow{AA'} = \\vec{a} + \\frac{1}{2}\\vec{b} + \\frac{1}{2}\\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1948,
+      1081,
+      1998
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Giá trị nhỏ nhất của hàm số $y = x^3 - 3x + 5$ trên đoạn $[2; 4]$ là"
+  },
+  {
+    "bbox": [
+      251,
+      2041,
+      439,
+      2097
+    ],
+    "category": "Formula",
+    "text": "A. $\\min_{[2;4]} y = 5$."
+  },
+  {
+    "bbox": [
+      585,
+      2041,
+      771,
+      2097
+    ],
+    "category": "Formula",
+    "text": "B. $\\min_{[2;4]} y = 0$."
+  },
+  {
+    "bbox": [
+      900,
+      2041,
+      1085,
+      2097
+    ],
+    "category": "Formula",
+    "text": "C. $\\min_{[2;4]} y = 3$."
+  },
+  {
+    "bbox": [
+      1215,
+      2041,
+      1402,
+      2097
+    ],
+    "category": "Formula",
+    "text": "D. $\\min_{[2;4]} y = 7$."
+  },
+  {
+    "bbox": [
+      843,
+      2111,
+      957,
+      2149
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      2173,
+      681,
+      2223
+    ],
+    "category": "Formula",
+    "text": "Ta có $y = x^3 - 3x + 5$, $x \\in [2; 4]$."
+  }
+]

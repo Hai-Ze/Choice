@@ -1,0 +1,41 @@
+[
+  {
+    "bbox": [
+      361,
+      123,
+      1229,
+      577
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      629,
+      878,
+      672
+    ],
+    "category": "Text",
+    "text": "Xác suất để chọn được 2 Ion quá hạn là:"
+  },
+  {
+    "bbox": [
+      341,
+      700,
+      1321,
+      779
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A_1) \\cdot P(B | A_1) + P(A_2) \\cdot P(B | A_2) = \\frac{2}{3} \\times \\frac{195}{506} + \\frac{1}{3} \\times \\frac{315}{1012} = \\frac{365}{1012}\n$$"
+  },
+  {
+    "bbox": [
+      336,
+      812,
+      1377,
+      968
+    ],
+    "category": "Text",
+    "text": "Suy ra xác suất bia được lấy thuộc loại I là: $P(A_1 | B) = \\frac{\\frac{2}{3} \\times \\frac{195}{506}}{\\frac{365}{1012}} = \\frac{52}{73} \\approx 0,71$."
+  }
+]

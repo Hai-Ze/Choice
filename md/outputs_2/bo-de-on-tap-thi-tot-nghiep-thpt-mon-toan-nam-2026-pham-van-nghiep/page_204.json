@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      833,
+      111,
+      953,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      152,
+      1177,
+      262
+    ],
+    "category": "Text",
+    "text": "Một VTCP của đường thẳng đã cho là $\\vec{u} = (-2; 4; 6) = -2(1; -2; -3)$.\n$\\Rightarrow$ Một VTCP của đường thẳng đã cho là $(1; -2; -3)$."
+  },
+  {
+    "bbox": [
+      212,
+      269,
+      1577,
+      318
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\triangle$ đi qua điểm $A(1; 0; -1)$ và có một VTCP $(1; -2; -3)$ có phương trình tham số"
+  },
+  {
+    "bbox": [
+      212,
+      327,
+      464,
+      473
+    ],
+    "category": "Text",
+    "text": "là: $\\triangle: \\begin{cases} x = 1 + t \\\\ y = -2t \\\\ z = -1 - 3t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      74,
+      485,
+      969,
+      530
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Tập nghiệm của bất phương trình $\\log(6+2x) > 1$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      534,
+      380,
+      632
+    ],
+    "category": "List-item",
+    "text": "A. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      547,
+      534,
+      706,
+      632
+    ],
+    "category": "List-item",
+    "text": "B. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      862,
+      534,
+      1041,
+      632
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      1177,
+      534,
+      1382,
+      632
+    ],
+    "category": "List-item",
+    "text": "D. $\\left(-\\frac{5}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      833,
+      637,
+      953,
+      678
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      218,
+      682,
+      745,
+      726
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log(6+2x) > 1 \\Leftrightarrow 6+2x > 10 \\Leftrightarrow x > 2.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      737,
+      773,
+      782
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Nghiệm của phương trình $3^{3x-8} = 9$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      782,
+      360,
+      866
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      547,
+      782,
+      692,
+      866
+    ],
+    "category": "List-item",
+    "text": "B. $x = -2$."
+  },
+  {
+    "bbox": [
+      862,
+      782,
+      985,
+      866
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1177,
+      782,
+      1313,
+      866
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{7}{3}$."
+  },
+  {
+    "bbox": [
+      833,
+      871,
+      953,
+      912
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      218,
+      916,
+      720,
+      995
+    ],
+    "category": "Formula",
+    "text": "$$\n3^{3x-8} = 9 \\Leftrightarrow 3x-8 = \\log_3 9 \\Leftrightarrow x = \\frac{10}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      995,
+      1575,
+      1090
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      1092,
+      1575,
+      1317
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Có một集合 chứa 8 viên bi đỏ được đánh số từ 1 đến 8 và 7 viên bi xanh được đánh số từ 9 đến 15. Bạn An chọn ngẫu nhiên một viên bi không hoàn lại, nếu chọn được viên bi đỏ thì thêm vào集合 4 viên bi xanh đánh số 16 đến 19, nếu chọn được viên bi xanh thì thêm vào集合 3 viên bi đỏ đánh số 16,17,18 và 3 viên bi xanh đánh số 19, 20, 21. Sau đó, bạn Bình chọn ngẫu nhiên một viên bi từ集合."
+  },
+  {
+    "bbox": [
+      212,
+      1319,
+      1575,
+      1446
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để An lấy được viên bi xanh biết Bình lấy được viên bi xanh có số thứ tự lớn hơn 15 là $\\frac{189}{509}$"
+  },
+  {
+    "bbox": [
+      212,
+      1452,
+      963,
+      1535
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để Bình lấy được viên bi xanh là $\\frac{1447}{2700}$."
+  },
+  {
+    "bbox": [
+      212,
+      1541,
+      1333,
+      1624
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để Bình lấy được viên bi đỏ biết An lấy được viên bi xanh là $\\frac{11}{20}$."
+  },
+  {
+    "bbox": [
+      212,
+      1630,
+      926,
+      1712
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để bạn An lấy được viên xanh là $\\frac{8}{15}$."
+  },
+  {
+    "bbox": [
+      833,
+      1720,
+      953,
+      1761
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1765,
+      649,
+      1804
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố An lấy bi đỏ"
+  },
+  {
+    "bbox": [
+      212,
+      1808,
+      674,
+      1851
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố Bình lấy bi đỏ"
+  },
+  {
+    "bbox": [
+      212,
+      1855,
+      1145,
+      1902
+    ],
+    "category": "Text",
+    "text": "Gọi $\\overline{B_1}, \\overline{B_2}$ là biến cố lấy bi xanh nhỏ hơn bằng 15 và lớn hơn 15"
+  },
+  {
+    "bbox": [
+      212,
+      1910,
+      1375,
+      1993
+    ],
+    "category": "Text",
+    "text": "Xác suất Bình lấy bi xanh lớn hơn 15 với điều kiện An lấy bi xanh $P(\\overline{B_2} | \\overline{A}) = \\frac{3}{20}$"
+  },
+  {
+    "bbox": [
+      212,
+      1999,
+      958,
+      2082
+    ],
+    "category": "Text",
+    "text": "Xác suất Bình lấy bi xanh lớn hơn 15: $P(\\overline{B_2}) = \\frac{509}{2700}$"
+  },
+  {
+    "bbox": [
+      212,
+      2088,
+      714,
+      2171
+    ],
+    "category": "Text",
+    "text": "Xác suất An lấy bi đỏ là $P(A) = \\frac{8}{15}$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

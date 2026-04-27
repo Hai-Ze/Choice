@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      204,
+      82,
+      1575,
+      168
+    ],
+    "category": "List-item",
+    "text": "- d) Khoảng cách nhỏ nhất từ $B$ đến đường thẳng $d$ (đi qua $A$ và song song với $(P)$) là $\\frac{8}{\\sqrt{6}}$."
+  },
+  {
+    "bbox": [
+      305,
+      168,
+      1549,
+      252
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Đường thẳng $d$ đi qua $A$ và song song với $(P)$, nên $d$ nằm trong mặt phẳng $(Q)$ vừa tìm ở câu c."
+  },
+  {
+    "bbox": [
+      305,
+      252,
+      1575,
+      341
+    ],
+    "category": "List-item",
+    "text": "  - Khoảng cách từ $B$ đến một đường thẳng $d$ bất kỳ nằm trong $(Q)$ luôn lớn hơn hoặc bằng khoảng cách từ $B$ đến mặt phẳng $(Q)$. Khoảng cách nhỏ nhất chính là $d(B, (Q))$."
+  },
+  {
+    "bbox": [
+      305,
+      346,
+      1201,
+      443
+    ],
+    "category": "Formula",
+    "text": "$$\nd(B, (Q)) = \\frac{|2(2)+1(4)-1(9)-7|}{\\sqrt{2^2+1^2+(-1)^2}} = \\frac{|4+4-9-7|}{\\sqrt{6}} = \\frac{|-8|}{\\sqrt{6}} = \\frac{8}{\\sqrt{6}}\n$$"
+  },
+  {
+    "bbox": [
+      305,
+      445,
+      608,
+      489
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      155,
+      485,
+      859,
+      532
+    ],
+    "category": "Section-header",
+    "text": "## CÂU 4: Xác suất (Bài toán ngỗng Barnacle)"
+  },
+  {
+    "bbox": [
+      305,
+      527,
+      919,
+      570
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Gọi $A$ là biến cố cả 3 con sống sót."
+  },
+  {
+    "bbox": [
+      305,
+      572,
+      754,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = 0,8 \\cdot 0,9 \\cdot 0,9 = 0,648.\n$$"
+  },
+  {
+    "bbox": [
+      305,
+      610,
+      608,
+      653
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      204,
+      651,
+      1246,
+      694
+    ],
+    "category": "List-item",
+    "text": "- b) Xác suất để cả 3 ngỗng con tử vong sau \"Cú nhây tử thần\" là 0,02."
+  },
+  {
+    "bbox": [
+      305,
+      689,
+      861,
+      730
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Gọi $B$ là biến cố cả 3 con死."
+  },
+  {
+    "bbox": [
+      360,
+      732,
+      1131,
+      770
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = (1-0,8) \\cdot (1-0,9) \\cdot (1-0,9) = 0,2 \\cdot 0,1 \\cdot 0,1 = 0,002.\n$$"
+  },
+  {
+    "bbox": [
+      305,
+      770,
+      957,
+      815
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: SAI.** (Đáp án thiếu một chữ số 0)."
+  },
+  {
+    "bbox": [
+      204,
+      811,
+      1328,
+      854
+    ],
+    "category": "List-item",
+    "text": "- c) Xác suất để ít nhất 1 ngỗng con sống sót sau \"Cú nhây tử thần\" là 0,998."
+  },
+  {
+    "bbox": [
+      305,
+      849,
+      1280,
+      891
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Biến cố \"ít nhất 1 con sống\" là biến cố đối của \"cả 3 con死\"."
+  },
+  {
+    "bbox": [
+      305,
+      893,
+      804,
+      930
+    ],
+    "category": "Formula",
+    "text": "$$\nP = 1 - P(B) = 1 - 0,002 = 0,998.\n$$"
+  },
+  {
+    "bbox": [
+      305,
+      932,
+      608,
+      975
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      204,
+      971,
+      1379,
+      1016
+    ],
+    "category": "List-item",
+    "text": "- d) Xác suất để có đúng 2 ngỗng con sống sót sau \"Cú nhây tử thần\" là $0,306$."
+  },
+  {
+    "bbox": [
+      305,
+      1011,
+      976,
+      1053
+    ],
+    "category": "List-item",
+    "text": "  - **Giải:** Có 3 trường hợp để có đúng 2 con sống:"
+  },
+  {
+    "bbox": [
+      407,
+      1051,
+      1254,
+      1092
+    ],
+    "category": "List-item",
+    "text": "    1. Đực死, 2 cái sống: $(1-0,8) \\cdot 0,9 \\cdot 0,9 = 0,2 \\cdot 0,81 = 0,162$."
+  },
+  {
+    "bbox": [
+      407,
+      1094,
+      1258,
+      1137
+    ],
+    "category": "List-item",
+    "text": "    2. Đực sống, cái 1 sống, cái 2死: $0,8 \\cdot 0,9 \\cdot (1-0,9) = 0,072$."
+  },
+  {
+    "bbox": [
+      407,
+      1139,
+      1258,
+      1182
+    ],
+    "category": "List-item",
+    "text": "    3. Đực sống, cái 1死, cái 2 sống: $0,8 \\cdot (1-0,9) \\cdot 0,9 = 0,072$."
+  },
+  {
+    "bbox": [
+      305,
+      1184,
+      1039,
+      1227
+    ],
+    "category": "List-item",
+    "text": "  - Tổng xác suất: $P = 0,162 + 0,072 + 0,072 = 0,306$."
+  },
+  {
+    "bbox": [
+      305,
+      1229,
+      608,
+      1273
+    ],
+    "category": "List-item",
+    "text": "  - **Kết luận: ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      204,
+      1279,
+      221,
+      1305
+    ],
+    "category": "List-item",
+    "text": "-"
+  },
+  {
+    "bbox": [
+      155,
+      1344,
+      1025,
+      1408
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III: Câu trắc nghiệm trả lời ngắn"
+  },
+  {
+    "bbox": [
+      155,
+      1408,
+      734,
+      1446
+    ],
+    "category": "Text",
+    "text": "Câu 1: Tính khoảng cách giữa $AA'$ và $BC$."
+  },
+  {
+    "bbox": [
+      204,
+      1442,
+      1524,
+      1486
+    ],
+    "category": "List-item",
+    "text": "- Lăng trụ đều nên $AA' \\perp (ABC)$. Khoảng cách là độ dài đường cao $AH$ của tam giác đều $ABC$."
+  },
+  {
+    "bbox": [
+      204,
+      1492,
+      622,
+      1578
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = \\frac{AA'}{\\tan 60^{\\circ}} = \\frac{6}{\\sqrt{3}} = 2\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1582,
+      498,
+      1675
+    ],
+    "category": "Formula",
+    "text": "$$\nd = \\frac{2\\sqrt{3} \\cdot \\sqrt{3}}{2} = 3.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1681,
+      399,
+      1718
+    ],
+    "category": "List-item",
+    "text": "- **Đáp án: 3**"
+  },
+  {
+    "bbox": [
+      155,
+      1714,
+      705,
+      1756
+    ],
+    "category": "Text",
+    "text": "Câu 2: Đường đi ngắn nhất của thần lần."
+  },
+  {
+    "bbox": [
+      204,
+      1754,
+      957,
+      1796
+    ],
+    "category": "List-item",
+    "text": "- Sử dụng phương pháp trả phẳng hình hợp chữ nhật."
+  },
+  {
+    "bbox": [
+      204,
+      1792,
+      1176,
+      1835
+    ],
+    "category": "List-item",
+    "text": "- Kết quả tính toán tối ưu: $d \\approx 15,23$. Làm tròn đến hàng đơn vị là 15."
+  },
+  {
+    "bbox": [
+      204,
+      1841,
+      415,
+      1879
+    ],
+    "category": "List-item",
+    "text": "- **Đáp án: 15**"
+  },
+  {
+    "bbox": [
+      155,
+      1875,
+      976,
+      1917
+    ],
+    "category": "Text",
+    "text": "Câu 3: Xác suất chọn 4 số lập thành cấp số cộng từ 1 đến 20."
+  },
+  {
+    "bbox": [
+      204,
+      1917,
+      619,
+      1964
+    ],
+    "category": "List-item",
+    "text": "- Số cách chọn: $C_{20}^4 = 4845$."
+  },
+  {
+    "bbox": [
+      204,
+      1974,
+      1575,
+      2106
+    ],
+    "category": "List-item",
+    "text": "- Gọi cấp số cộng là $a,b,c,d$. Ta có công sai $x = \\frac{d-a}{3}$, do đó $a,d$ có cùng số dư khi chi cho 3, suy ra số cấp số cộng bằng số cách chọn gặp $a,d$ bằng $C_6^2 + C_7^2 + C_7^2 = 57$."
+  }
+]

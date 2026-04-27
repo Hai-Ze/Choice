@@ -1,0 +1,361 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      529,
+      181
+    ],
+    "category": "List-item",
+    "text": "A $F(x) = x^3 + x^2 - 1$."
+  },
+  {
+    "bbox": [
+      188,
+      183,
+      636,
+      226
+    ],
+    "category": "List-item",
+    "text": "C $F(x) = x^3 + x^2 - x + 2025$."
+  },
+  {
+    "bbox": [
+      875,
+      138,
+      1216,
+      181
+    ],
+    "category": "List-item",
+    "text": "B $F(x) = x^3 + x^2 - x$."
+  },
+  {
+    "bbox": [
+      875,
+      183,
+      1274,
+      226
+    ],
+    "category": "List-item",
+    "text": "D $F(x) = x^3 + x^2 - x - 1$."
+  },
+  {
+    "bbox": [
+      154,
+      226,
+      1414,
+      286
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. They need to find $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      202,
+      286,
+      1414,
+      327
+    ],
+    "category": "Text",
+    "text": "Các phương án B, C, D đều có dạng trên. Phương án A có $F'(x) = 3x^2 + 2x \\neq f(x)$."
+  },
+  {
+    "bbox": [
+      154,
+      346,
+      1546,
+      432
+    ],
+    "category": "Text",
+    "text": "Câu 5. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$. Find the function $f(x)$."
+  },
+  {
+    "bbox": [
+      188,
+      451,
+      383,
+      494
+    ],
+    "category": "List-item",
+    "text": "A $Q(6; 5; 2)$."
+  },
+  {
+    "bbox": [
+      188,
+      496,
+      462,
+      539
+    ],
+    "category": "List-item",
+    "text": "C $Q(-2; -3; -4)$."
+  },
+  {
+    "bbox": [
+      875,
+      451,
+      1146,
+      494
+    ],
+    "category": "List-item",
+    "text": "B $Q(-6; -5; -2)$."
+  },
+  {
+    "bbox": [
+      875,
+      496,
+      1123,
+      539
+    ],
+    "category": "List-item",
+    "text": "D $Q(-4; -3; 0)$."
+  },
+  {
+    "bbox": [
+      154,
+      539,
+      1127,
+      599
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. To find $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      202,
+      599,
+      1198,
+      642
+    ],
+    "category": "Text",
+    "text": "We have $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      202,
+      642,
+      1054,
+      804
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Since } f(1) = 1, f(2) = 4, f(3) = 9, \\text{ we have } \\overrightarrow{MN} = (1; 2; 3). \\text{ Call } Q(x; y; z), \\text{ we have } \\overrightarrow{QP} = (7 - x; 7 - y; 5 - z). \\\\ \\text{Since } \\overrightarrow{MN} = \\overrightarrow{QP}, \\text{ we have } \\begin{cases} 7 - x = 1 \\\\ 7 - y = 2 \\\\ 5 - z = 3 \\end{cases} \\Leftrightarrow \\begin{cases} x = 6 \\\\ y = 5 \\\\ z = 2 \\end{cases} \\Rightarrow Q(6; 5; 2).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      816,
+      1546,
+      931
+    ],
+    "category": "Text",
+    "text": "Câu 6. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$. Find the function $f(x)$."
+  },
+  {
+    "bbox": [
+      188,
+      942,
+      357,
+      1020
+    ],
+    "category": "List-item",
+    "text": "A $S_5 = \\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      534,
+      942,
+      701,
+      1020
+    ],
+    "category": "List-item",
+    "text": "B $S_5 = \\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      875,
+      942,
+      1072,
+      1020
+    ],
+    "category": "List-item",
+    "text": "C $S_5 = -\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      1222,
+      942,
+      1414,
+      1020
+    ],
+    "category": "List-item",
+    "text": "D $S_5 = -\\frac{4}{5}$."
+  },
+  {
+    "bbox": [
+      154,
+      1030,
+      1546,
+      1189
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$. Find the function $f(x)$."
+  },
+  {
+    "bbox": [
+      154,
+      1208,
+      840,
+      1249
+    ],
+    "category": "Text",
+    "text": "Câu 7. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      188,
+      1259,
+      357,
+      1337
+    ],
+    "category": "List-item",
+    "text": "A $x = \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      534,
+      1278,
+      755,
+      1321
+    ],
+    "category": "List-item",
+    "text": "B $x = \\log_3 10$."
+  },
+  {
+    "bbox": [
+      875,
+      1278,
+      1092,
+      1321
+    ],
+    "category": "List-item",
+    "text": "C $x = \\log_{10} 3$."
+  },
+  {
+    "bbox": [
+      1222,
+      1278,
+      1414,
+      1321
+    ],
+    "category": "List-item",
+    "text": "D $x = \\sqrt[3]{10}$."
+  },
+  {
+    "bbox": [
+      154,
+      1350,
+      1146,
+      1411
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      154,
+      1427,
+      1546,
+      1513
+    ],
+    "category": "Text",
+    "text": "Câu 8. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$. Find the function $f(x)$."
+  },
+  {
+    "bbox": [
+      652,
+      1526,
+      1046,
+      1923
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      2011,
+      357,
+      2054
+    ],
+    "category": "List-item",
+    "text": "A $(SCD)$."
+  },
+  {
+    "bbox": [
+      534,
+      2011,
+      731,
+      2054
+    ],
+    "category": "List-item",
+    "text": "B $(ABCD)$."
+  },
+  {
+    "bbox": [
+      875,
+      2011,
+      1042,
+      2054
+    ],
+    "category": "List-item",
+    "text": "C $(SAB)$."
+  },
+  {
+    "bbox": [
+      1222,
+      2011,
+      1388,
+      2054
+    ],
+    "category": "List-item",
+    "text": "D $(SBD)$."
+  },
+  {
+    "bbox": [
+      154,
+      2068,
+      1484,
+      2131
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. In the book, they ask for the function $f(x)$ such that $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      202,
+      2147,
+      1092,
+      2188
+    ],
+    "category": "Text",
+    "text": "We have $f(1) = 1$, $f(2) = 4$, $f(3) = 9$."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "66"
+  },
+  {
+    "bbox": [
+      839,
+      2250,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

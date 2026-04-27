@@ -1,0 +1,427 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      354,
+      120,
+      938,
+      329
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>0</td><td>1</td><td>3</td></tr><tr><td>f(x)</td><td>-3</td><td>-4</td><td>0</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      371,
+      848,
+      411
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của hàm số $y = f(x)$ trên đoạn $[0; 3]$ là"
+  },
+  {
+    "bbox": [
+      124,
+      411,
+      219,
+      450
+    ],
+    "category": "List-item",
+    "text": "(A) -4."
+  },
+  {
+    "bbox": [
+      396,
+      411,
+      467,
+      450
+    ],
+    "category": "List-item",
+    "text": "(B) 1."
+  },
+  {
+    "bbox": [
+      669,
+      411,
+      741,
+      450
+    ],
+    "category": "List-item",
+    "text": "(C) 4."
+  },
+  {
+    "bbox": [
+      941,
+      411,
+      1013,
+      450
+    ],
+    "category": "List-item",
+    "text": "(D) 0."
+  },
+  {
+    "bbox": [
+      94,
+      471,
+      824,
+      512
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Tập nghiệm của bất phương trình $3^x < 81$ là"
+  },
+  {
+    "bbox": [
+      124,
+      512,
+      323,
+      553
+    ],
+    "category": "List-item",
+    "text": "(A) $S = (3; 81)$."
+  },
+  {
+    "bbox": [
+      396,
+      512,
+      618,
+      553
+    ],
+    "category": "List-item",
+    "text": "(B) $S = (-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      669,
+      512,
+      891,
+      553
+    ],
+    "category": "List-item",
+    "text": "(C) $S = (4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      941,
+      512,
+      1161,
+      553
+    ],
+    "category": "List-item",
+    "text": "(D) $S = (3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      94,
+      574,
+      1195,
+      654
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, phương trình mặt phẳng đi qua điểm $A(-1; 1; -2)$ và có vectơ pháp tuyến $\\vec{n} = (1; -2; 3)$ là"
+  },
+  {
+    "bbox": [
+      124,
+      654,
+      441,
+      695
+    ],
+    "category": "List-item",
+    "text": "(A) $x - 2y + 3z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      669,
+      654,
+      993,
+      695
+    ],
+    "category": "List-item",
+    "text": "(B) $-x + y - 2z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      695,
+      451,
+      736
+    ],
+    "category": "List-item",
+    "text": "(C) $-x + y - 2z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      669,
+      695,
+      983,
+      736
+    ],
+    "category": "List-item",
+    "text": "(D) $x - 2y + 3z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      94,
+      783,
+      692,
+      895
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Trong không gian, cho hình集合 $ABCD.A'B'C'D'$. Mệnh đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      124,
+      895,
+      505,
+      936
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{CA'} = \\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{CC'}$."
+  },
+  {
+    "bbox": [
+      124,
+      936,
+      499,
+      977
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      124,
+      977,
+      509,
+      1019
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{BD'} = \\overrightarrow{BA} + \\overrightarrow{BD} + \\overrightarrow{BB'}$."
+  },
+  {
+    "bbox": [
+      124,
+      1019,
+      405,
+      1060
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{CA} = \\overrightarrow{CB} + \\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      731,
+      802,
+      1189,
+      1138
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      1161,
+      824,
+      1215
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1247,
+      801,
+      1619
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Thành phố $X$ theo dõi tốc độ gia tăng dân số của hai khu vực $A$ và $B$ trong thời gian 6 năm (từ năm 2019 đến năm 2024). Hình vẽ sau mô tả tốc độ gia tăng dân số của hai khu vực trên trong 6 năm, với đơn vị trên trục $Ot$ tính bằng năm, $t = 0$ ứng với mốc từ đầu năm 2019. Đơn vị trên trục $Oy$ biểu diễn ngàn người tăng thêm mỗi năm. Khu vực $A$ có tốc độ gia tăng dân số theo thời gian được mô tả bởi hàm $P'_{A}(t) = -\\frac{1}{2}t^2 + 2t + 8$."
+  },
+  {
+    "bbox": [
+      94,
+      1617,
+      801,
+      1718
+    ],
+    "category": "Text",
+    "text": "Khu vực $B$ có tốc độ gia tăng dân số theo thời gian được mô tả bởi hàm $P'_{B}(t) = a - \\frac{1}{2}t$."
+  },
+  {
+    "bbox": [
+      94,
+      1716,
+      801,
+      1789
+    ],
+    "category": "Text",
+    "text": "Biết rằng $P_{A}(t)$, $P_{B}(t)$ lần lượt biểu diễn tổng số dân tăng thêm tại khu vực $A$ và $B$ sau $t$ năm."
+  },
+  {
+    "bbox": [
+      124,
+      1789,
+      1161,
+      1827
+    ],
+    "category": "List-item",
+    "text": "a) Tốc độ gia tăng dân số của khu vực $A$ với $t = 4$ là 8 000 (người trên năm)."
+  },
+  {
+    "bbox": [
+      124,
+      1827,
+      521,
+      1868
+    ],
+    "category": "List-item",
+    "text": "b) Ta có $P'_{B}(0) = 8$ và $a = 8$."
+  },
+  {
+    "bbox": [
+      124,
+      1868,
+      1042,
+      1907
+    ],
+    "category": "List-item",
+    "text": "c) Dân số của khu vực $A$ tăng thêm từ 0 đến 5 năm là 33 000 người."
+  },
+  {
+    "bbox": [
+      124,
+      1907,
+      1193,
+      1986
+    ],
+    "category": "List-item",
+    "text": "d) Phần diện tích tô đâm trong hình vẽ biểu diễn sự chênh lệch dân số tăng thêm giữa hai khu vực trong giai đoạn từ 0 đến 5 năm là 9 000 người."
+  },
+  {
+    "bbox": [
+      825,
+      1264,
+      1191,
+      1756
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      2007,
+      600,
+      2083
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = \\frac{x^2 - 3x + 6}{x - 1}$."
+  },
+  {
+    "bbox": [
+      124,
+      2083,
+      811,
+      2124
+    ],
+    "category": "List-item",
+    "text": "a) Đồ thị hàm số cắt trục tung tại điểm $M(0; -5)$."
+  },
+  {
+    "bbox": [
+      124,
+      2124,
+      974,
+      2163
+    ],
+    "category": "List-item",
+    "text": "b) Tiệm cận xiên của đồ thị hàm số có phương trình $y = x - 2$."
+  },
+  {
+    "bbox": [
+      124,
+      2163,
+      721,
+      2204
+    ],
+    "category": "List-item",
+    "text": "c) Tập xác định của hàm số là $\\mathcal{D} = \\mathbb{R} \\setminus \\{1\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      2204,
+      811,
+      2245
+    ],
+    "category": "List-item",
+    "text": "d) Đồ thị $(C)$ của hàm số $y = f(x)$ là hình vẽ bên."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 481"
+  }
+]

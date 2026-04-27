@@ -1,0 +1,537 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      663,
+      275,
+      1338,
+      332
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 33"
+  },
+  {
+    "bbox": [
+      862,
+      332,
+      1137,
+      384
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      636,
+      389,
+      1367,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      515,
+      1516,
+      571
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      584,
+      1555,
+      756
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Trong không gian $Oxyz$, cho đường thẳng $d$: $$ \\begin{cases} x = 1 \\\\ y = 1 + t \\\\ z = 1 - 2t \\end{cases} $$. Một vectơ chỉ phương của $d$ là"
+  },
+  {
+    "bbox": [
+      477,
+      759,
+      631,
+      801
+    ],
+    "category": "List-item",
+    "text": "(A) $(1; 1; 1)$."
+  },
+  {
+    "bbox": [
+      750,
+      759,
+      926,
+      801
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; 1; -2)$."
+  },
+  {
+    "bbox": [
+      1022,
+      759,
+      1196,
+      801
+    ],
+    "category": "List-item",
+    "text": "(C) $(1; 1; -2)$."
+  },
+  {
+    "bbox": [
+      1295,
+      759,
+      1446,
+      801
+    ],
+    "category": "List-item",
+    "text": "(D) $(0; 1; 2)$."
+  },
+  {
+    "bbox": [
+      448,
+      827,
+      1238,
+      869
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** He nguyên hàm của hàm số $f(x) = \\sin x + \\cos x$ là"
+  },
+  {
+    "bbox": [
+      477,
+      872,
+      755,
+      910
+    ],
+    "category": "List-item",
+    "text": "(A) $\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1022,
+      872,
+      1331,
+      910
+    ],
+    "category": "List-item",
+    "text": "(B) $-\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      477,
+      915,
+      783,
+      955
+    ],
+    "category": "List-item",
+    "text": "(C) $-\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1022,
+      915,
+      1301,
+      955
+    ],
+    "category": "List-item",
+    "text": "(D) $\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      448,
+      983,
+      1161,
+      1025
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Cho hàm số $f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      605,
+      1074,
+      1395,
+      1347
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$2$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td>$1$</td><td>$3$</td><td>$1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      448,
+      1401,
+      1152,
+      1438
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      477,
+      1441,
+      639,
+      1483
+    ],
+    "category": "List-item",
+    "text": "(A) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      750,
+      1441,
+      872,
+      1483
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; 2)$."
+  },
+  {
+    "bbox": [
+      1022,
+      1441,
+      1165,
+      1483
+    ],
+    "category": "List-item",
+    "text": "(C) $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      1295,
+      1441,
+      1484,
+      1483
+    ],
+    "category": "List-item",
+    "text": "(D) $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      448,
+      1509,
+      1553,
+      1588
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$, cho $A(1; -2; 3)$. Điều đối xứng với $A$ qua $(Ozx)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      477,
+      1591,
+      700,
+      1633
+    ],
+    "category": "List-item",
+    "text": "(A) $(-1; -2; -3)$."
+  },
+  {
+    "bbox": [
+      750,
+      1591,
+      950,
+      1633
+    ],
+    "category": "List-item",
+    "text": "(B) $(-1; 2; -3)$."
+  },
+  {
+    "bbox": [
+      1022,
+      1591,
+      1171,
+      1633
+    ],
+    "category": "List-item",
+    "text": "(C) $(1; 0; 3)$."
+  },
+  {
+    "bbox": [
+      1295,
+      1591,
+      1446,
+      1633
+    ],
+    "category": "List-item",
+    "text": "(D) $(1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      448,
+      1685,
+      1287,
+      1763
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Hàm số $y = f(x)$ có đồ thị như hình vẽ có thể là đồ thị của hàm số nào trong các hàm số sau"
+  },
+  {
+    "bbox": [
+      477,
+      1763,
+      621,
+      1803
+    ],
+    "category": "List-item",
+    "text": "(A) $y = e^x$."
+  },
+  {
+    "bbox": [
+      890,
+      1763,
+      1096,
+      1803
+    ],
+    "category": "List-item",
+    "text": "(B) $y = \\sqrt{x - 1}$."
+  },
+  {
+    "bbox": [
+      477,
+      1806,
+      693,
+      1848
+    ],
+    "category": "List-item",
+    "text": "(C) $y = \\log_{e^{-1}} x$."
+  },
+  {
+    "bbox": [
+      890,
+      1806,
+      1051,
+      1848
+    ],
+    "category": "List-item",
+    "text": "(D) $y = \\ln x$."
+  },
+  {
+    "bbox": [
+      1326,
+      1702,
+      1532,
+      1921
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1941,
+      1553,
+      2020
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Cho một cấp số cộng có số hạng đầu là $u_1 = 2$ và công sai $d = 3$. Số hạng thứ 10 bằng"
+  },
+  {
+    "bbox": [
+      477,
+      2023,
+      563,
+      2065
+    ],
+    "category": "List-item",
+    "text": "(A) 29."
+  },
+  {
+    "bbox": [
+      750,
+      2023,
+      835,
+      2065
+    ],
+    "category": "List-item",
+    "text": "(B) 32."
+  },
+  {
+    "bbox": [
+      1022,
+      2023,
+      1107,
+      2065
+    ],
+    "category": "List-item",
+    "text": "(C) 26."
+  },
+  {
+    "bbox": [
+      1295,
+      2023,
+      1378,
+      2065
+    ],
+    "category": "List-item",
+    "text": "(D) 30."
+  },
+  {
+    "bbox": [
+      448,
+      2091,
+      1553,
+      2170
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$ thỏa mãn $f'(x) = x(x - 1)(x^2 - 2x + 3)$. Hàm số $f(x)$ có tất cả bao nhiêu điểm cực trị?"
+  },
+  {
+    "bbox": [
+      477,
+      2173,
+      548,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(A) 1."
+  },
+  {
+    "bbox": [
+      750,
+      2173,
+      821,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(B) 2."
+  },
+  {
+    "bbox": [
+      1022,
+      2173,
+      1089,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(C) 3."
+  },
+  {
+    "bbox": [
+      1295,
+      2173,
+      1367,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      136,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "166 Bùi Tịnh Minh Lâm"
+  }
+]

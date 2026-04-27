@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      202,
+      138,
+      969,
+      183
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow k(3 - 8)^2 + 5 = 0 \\iff 25k = -5 \\iff k = -1/5.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      192,
+      601,
+      271
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } g(x) = -\\frac{1}{5}(x - 8)^2 + 5.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      280,
+      308,
+      320
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      339,
+      1357,
+      382
+    ],
+    "category": "Text",
+    "text": "Ký hiệu $S_1, S_2$ là diện tích phần dưới hai mái dốc. Vì tính đối xứng nên $S_1 = S_2$."
+  },
+  {
+    "bbox": [
+      202,
+      402,
+      941,
+      443
+    ],
+    "category": "Text",
+    "text": "Diện tích giới hạn bởi hai parabol và trục hoành là:"
+  },
+  {
+    "bbox": [
+      202,
+      452,
+      1122,
+      545
+    ],
+    "category": "Formula",
+    "text": "$$\nS = S_1 + S_2 = 2S_2 = 2 \\int_{3}^{8} |g(x)|dx = 2 \\int_{3}^{8} \\left[-\\frac{1}{5}(x - 8)^2 + 5\\right] dx.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      554,
+      1506,
+      648
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tính tích phân: } S = 2 \\cdot \\left[-\\frac{1}{15}(x - 8)^3 + 5x\\right]_{3}^{8} = 2 \\cdot \\left(40 - \\left(\\frac{25}{3} + 15\\right)\\right) = \\frac{100}{3} \\approx 33,33 \\text{ (m}^2\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      658,
+      716,
+      701
+    ],
+    "category": "Text",
+    "text": "Vì $33,33 > 30$ nên性能 đề này sai."
+  },
+  {
+    "bbox": [
+      202,
+      722,
+      352,
+      763
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      782,
+      1396,
+      825
+    ],
+    "category": "Text",
+    "text": "Diện tích mặt cắt ngang $S_H$ bằng diện tích hình chữ nhật lớn trừ đi các phần rỗng:"
+  },
+  {
+    "bbox": [
+      276,
+      838,
+      1423,
+      1305
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1331,
+      531,
+      1372
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{ABCD} = 16 \\cdot 6 = 96 \\text{ (m}^2\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1385,
+      1339,
+      1478
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phần hầm chui } S_3 = \\int_{-2}^{2} \\left(-\\frac{1}{4}x^4 + 4\\right) dx = \\left[-\\frac{1}{20}x^5 + 4x\\right]_{-2}^{2} = \\frac{64}{5} = 12,8 \\text{ (m}^2\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1487,
+      1216,
+      1569
+    ],
+    "category": "Formula",
+    "text": "$$\nS_H = S_{ABCD} - (S_1 + S_2) - S_3 = 96 - \\frac{100}{3} - 12,8 = \\frac{748}{15} \\approx 49,87 \\text{ (m}^2\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1577,
+      864,
+      1622
+    ],
+    "category": "Text",
+    "text": "Thể tích vật liệu (với chiều rộng cầu $L = 8\\text{m}$):"
+  },
+  {
+    "bbox": [
+      202,
+      1631,
+      837,
+      1712
+    ],
+    "category": "Formula",
+    "text": "$$\nV = S_H \\cdot 8 = \\frac{748}{15} \\cdot 8 = \\frac{5984}{15} \\approx 398,93 \\text{ (m}^3\\text{).}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1723,
+      781,
+      1765
+    ],
+    "category": "Text",
+    "text": "Vì $398,93 < 500$ nên性能 đề này đúng."
+  },
+  {
+    "bbox": [
+      153,
+      1784,
+      1548,
+      2049
+    ],
+    "category": "Text",
+    "text": "Bài 3. Trong hệ tọa độ $Oxyz$, đơn vị mỗi trục là km, mặt đất trùng với mặt phẳng ($Oxy$), trục $Oz$ hướng lên, đường đi của máy bay được coi là đường thẳng và chúng được coi là các điểm. Một máy bay cất cánh từ mặt đất, đang tăng độ cao và được tháp kiểm soát không lưu phát hiện tại $A(8; 8; 4)$, 2 phút sau đó nó đi đến điểm $B(4; 12; 6)$. máy bay tiếp tục đi vào một lớp mây, bắt đầu ở độ cao 9 km và kết thúc ở độ cao 10 km. Ngay sau khi ra khỏi lớp mây, máy bay chuyển từ chế độ tăng độ cao sang chế độ bay ngang cùng chiều với tia $Oy$. Các性能 đề sau đây đúng hay sai?"
+  },
+  {
+    "bbox": [
+      190,
+      2058,
+      1065,
+      2138
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Phương trình đường thẳng } AB \\text{ là } \\frac{x - 8}{2} = \\frac{y - 8}{2} = \\frac{z - 4}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      2145,
+      934,
+      2188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) máy bay cất cánh tại điểm có hoành độ bằng 16.}\n$$"
+  },
+  {
+    "bbox": [
+      159,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "85"
+  }
+]

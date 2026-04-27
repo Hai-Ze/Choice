@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      152,
+      152,
+      1495,
+      245
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Mỗi ngày bác Lan đều đi bộ để rèn luyện sức khoẻ. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Lan trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      262,
+      261,
+      1383,
+      393
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2, 7; 3, 0)</td><td>[3, 0; 3, 3)</td><td>[3, 3; 3, 6)</td><td>[3, 6; 3, 9)</td><td>[3, 9; 4, 2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      393,
+      1306,
+      436
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm có giá trị gần nhất với giá trị nào dưới đây?"
+  },
+  {
+    "bbox": [
+      192,
+      457,
+      302,
+      493
+    ],
+    "category": "List-item",
+    "text": "A. 3,41."
+  },
+  {
+    "bbox": [
+      547,
+      457,
+      654,
+      493
+    ],
+    "category": "List-item",
+    "text": "B. 0,36."
+  },
+  {
+    "bbox": [
+      901,
+      457,
+      1011,
+      493
+    ],
+    "category": "List-item",
+    "text": "C. 0,13."
+  },
+  {
+    "bbox": [
+      1254,
+      457,
+      1378,
+      493
+    ],
+    "category": "List-item",
+    "text": "D. 0,017."
+  },
+  {
+    "bbox": [
+      152,
+      512,
+      1495,
+      609
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và có đồ thị là đường cong trong hình dưới đây. Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      593,
+      628,
+      1057,
+      984
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1009,
+      315,
+      1054
+    ],
+    "category": "List-item",
+    "text": "A. (0;1)."
+  },
+  {
+    "bbox": [
+      547,
+      1009,
+      685,
+      1054
+    ],
+    "category": "List-item",
+    "text": "B. (-1;1)."
+  },
+  {
+    "bbox": [
+      901,
+      1009,
+      1048,
+      1054
+    ],
+    "category": "List-item",
+    "text": "C. (-∞;1)."
+  },
+  {
+    "bbox": [
+      1254,
+      1009,
+      1409,
+      1054
+    ],
+    "category": "List-item",
+    "text": "D. (0;+∞)."
+  },
+  {
+    "bbox": [
+      152,
+      1088,
+      1479,
+      1136
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Trong không gian $Oxyz$, cho hai vecto $\\vec{a} = (2; 2; 3)$, $\\vec{b} = \\vec{j} - 2\\vec{k}$. Tính tọa độ vecto $\\vec{u} = \\vec{a} + \\vec{b}$."
+  },
+  {
+    "bbox": [
+      192,
+      1163,
+      338,
+      1201
+    ],
+    "category": "List-item",
+    "text": "A. (3;2;1)."
+  },
+  {
+    "bbox": [
+      547,
+      1163,
+      691,
+      1201
+    ],
+    "category": "List-item",
+    "text": "B. (2;3;1)."
+  },
+  {
+    "bbox": [
+      901,
+      1163,
+      1046,
+      1201
+    ],
+    "category": "List-item",
+    "text": "C. (2;1;5)."
+  },
+  {
+    "bbox": [
+      1254,
+      1163,
+      1403,
+      1201
+    ],
+    "category": "List-item",
+    "text": "D. (3;0;3)."
+  },
+  {
+    "bbox": [
+      152,
+      1232,
+      1128,
+      1302
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm của bất phương trình $(2 - \\sqrt{3})^{x-1} \\le (2 + \\sqrt{3})^{-x^2+x+9}$ là"
+  },
+  {
+    "bbox": [
+      192,
+      1331,
+      493,
+      1379
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -4] \\cup [2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      547,
+      1331,
+      848,
+      1379
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; -2] \\cup [4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      901,
+      1331,
+      1042,
+      1379
+    ],
+    "category": "List-item",
+    "text": "C. $[-2; 4]$."
+  },
+  {
+    "bbox": [
+      1254,
+      1331,
+      1397,
+      1379
+    ],
+    "category": "List-item",
+    "text": "D. $[-4; 2]$."
+  },
+  {
+    "bbox": [
+      152,
+      1404,
+      1495,
+      1494
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Kết quả bài kiểm tra môn toán cuối học kỳ I của học sinh khối 12 một trường THPT được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      325,
+      1511,
+      1322,
+      1643
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm số</td><td>[0; 2)</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10]</td></tr><tr><td>Số học sinh</td><td>24</td><td>67</td><td>136</td><td>167</td><td>106</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1643,
+      1495,
+      1731
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng số liệu trên, giáo viên toán có thể nhận định 75% học sinh trong khối có điểm kiểm tra toán cuối học kỳ I từ bao nhiêu trở lên?"
+  },
+  {
+    "bbox": [
+      192,
+      1752,
+      285,
+      1789
+    ],
+    "category": "List-item",
+    "text": "A. 4,0."
+  },
+  {
+    "bbox": [
+      547,
+      1752,
+      638,
+      1789
+    ],
+    "category": "List-item",
+    "text": "B. 5,0."
+  },
+  {
+    "bbox": [
+      901,
+      1752,
+      991,
+      1789
+    ],
+    "category": "List-item",
+    "text": "C. 4,5."
+  },
+  {
+    "bbox": [
+      1254,
+      1752,
+      1347,
+      1789
+    ],
+    "category": "List-item",
+    "text": "D. 5,5."
+  },
+  {
+    "bbox": [
+      152,
+      1812,
+      1490,
+      1936
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, cho vécto $\\vec{u} = (1; 1; -\\sqrt{2})$, $\\vec{v} = (1; 0; m)$. Có bao nhiêu giá trị của $m$ để góc giữa hai vécto $\\vec{u}$ và $\\vec{v}$ bằng $60^\\circ$?"
+  },
+  {
+    "bbox": [
+      192,
+      1957,
+      261,
+      1994
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      547,
+      1957,
+      612,
+      1994
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      901,
+      1957,
+      966,
+      1994
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1254,
+      1957,
+      1322,
+      1994
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      152,
+      2021,
+      1118,
+      2102
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Số điểm cực tiểu của đồ thị hàm số $y = \\frac{1}{5}x^5 - \\frac{3}{4}x^4 + \\frac{2}{3}x^3 + \\frac{1}{2}$ là"
+  },
+  {
+    "bbox": [
+      192,
+      2127,
+      261,
+      2164
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      547,
+      2127,
+      612,
+      2164
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      901,
+      2127,
+      966,
+      2164
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1254,
+      2127,
+      1322,
+      2164
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      152,
+      2251,
+      313,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0121"
+  },
+  {
+    "bbox": [
+      1360,
+      2251,
+      1495,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/6"
+  }
+]

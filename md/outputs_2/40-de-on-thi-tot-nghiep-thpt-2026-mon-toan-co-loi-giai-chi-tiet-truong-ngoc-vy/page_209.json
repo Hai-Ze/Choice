@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      1328,
+      143
+    ],
+    "category": "Text",
+    "text": "b) Phương trình mặt cầu mô tả ranh giới bên trong và bên ngoài Trái Đất là $x^2 + y^2 + z^2 = 41$."
+  },
+  {
+    "bbox": [
+      76,
+      163,
+      1494,
+      276
+    ],
+    "category": "Text",
+    "text": "c)Điểm A chính là giao điểm của bốn mặt cầu: Trái Đất và ba mặt cầu tâm lần lượt $I_1, I_2, I_3$ có bán kính lần lượt là khoảng cách từ các vệ tinh đến An."
+  },
+  {
+    "bbox": [
+      76,
+      288,
+      818,
+      334
+    ],
+    "category": "Text",
+    "text": "d)Tọa độ điểm A chính là nghiệm của hệ phương trình"
+  },
+  {
+    "bbox": [
+      80,
+      352,
+      990,
+      664
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x^2 + y^2 + z^2 = 41 \\\\ (x-4)^2 + (y-4)^2 + (z-6)^2 = 9 \\\\ (x-4)^2 + (y-9)^2 + (z-3)^2 = 25 \\\\ (x-8)^2 + (y-4)^2 + (z-3)^2 = 16 \\end{cases} \\Leftrightarrow \\begin{cases} x^2 + y^2 + z^2 = 41 \\\\ 8x+8y+12z = 100 \\\\ 8x+18y+6z = 122 \\\\ 16x+8y+6z = 114 \\end{cases} \\Leftrightarrow \\begin{cases} x = 4 \\\\ y = 4 \\\\ z = 3 \\end{cases} \\\\ \\Rightarrow A(4;4;3) \\Rightarrow \\overline{AB} = (0;0;0,1).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      689,
+      1010,
+      734
+    ],
+    "category": "Text",
+    "text": "Do đó, quăng đường đi từ nhà An đến nhà Bình là $AB = 0,01 \\cdot 10^3 \\text{ km}$."
+  },
+  {
+    "bbox": [
+      76,
+      761,
+      988,
+      848
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian mà An đi đến nhà Bình là $t = \\frac{S}{v} = \\frac{0,01 \\cdot 10^3}{20} = 0,5 \\text{ giờ}$."
+  },
+  {
+    "bbox": [
+      76,
+      865,
+      726,
+      907
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      922,
+      1496,
+      1371
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một chiếc đồng hồ cát như hình vẽ gồm hai phần đối xứng nhau qua mặt phẳng nằm ngang và đặt trong một hình trụ. thiết diện thẳng đứng qua trục của nó là hai parabol chung đính và đối xứng nhau qua mặt phẳng nằm ngang. Ban đầu lượng cát dồn hết ở phần trên của đồng hồ thì chiều cao của mực cát bằng $\\frac{2}{3}$ chiều cao của bên đó (xem hình vẽ). Cát drain từ trên xuống dưới với tốc độ $v(t) = 0,2t + 13$ ($cm^3/\\text{phút}$). Khi chiều cao của cát còn 4cm thì bề mặt trên cùng của cát tạo thành một đường tròn có chu vi bằng $8\\pi \\text{ cm}$. Biết sau 20 phút thì cát drain hết xuống phần bên dưới của đồng hồ. Hỏi chiều cao của khối trụ bên ngoài bằng bao nhiêu centimet? (Nếu kết quả là số thập phân thì làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      670,
+      1386,
+      912,
+      1798
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1829,
+      414,
+      1865
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1887,
+      843,
+      1925
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1945,
+      238,
+      1983
+    ],
+    "category": "Text",
+    "text": "Đáp án: 21"
+  },
+  {
+    "bbox": [
+      76,
+      2002,
+      868,
+      2100
+    ],
+    "category": "Text",
+    "text": "Thể tích cát ban đầu là: $\\int_{0}^{20} v(t)dt = \\int_{0}^{20} (0,2t + 13)dt = 300 \\text{ cm}^3$."
+  },
+  {
+    "bbox": [
+      76,
+      2127,
+      1169,
+      2208
+    ],
+    "category": "Text",
+    "text": "Bán kính đường tròn đáy parabol tròn xoay khi chiều cao cát còn 4cm là: $\\frac{8\\pi}{2\\pi} = 4$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

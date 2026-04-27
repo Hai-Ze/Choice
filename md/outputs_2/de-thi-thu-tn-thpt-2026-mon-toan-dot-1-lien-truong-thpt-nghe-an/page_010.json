@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      152,
+      75,
+      1566,
+      196
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có ba nhóm máy A, B, C dùng để sản xuất ra hai loại sản phẩm I và II. Để sản xuất một đơn vị sản phẩm mỗi loại phải lần lượt dùng các máy thuộc các nhóm khác nhau. Số máy trong một nhóm và số máy của từng nhóm cần thiết để sản xuất ra một đơn vị sản phẩm thuộc mỗi loại được cho trong bảng sau:"
+  },
+  {
+    "bbox": [
+      228,
+      196,
+      1416,
+      453
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th rowspan=\"2\">Nhóm</th><th rowspan=\"2\">Số máy trong mỗi nhóm</th><th colspan=\"2\">Số máy trong từng nhóm để sản xuất ra một đơn vị sản phẩm</th></tr><tr><th>Loại I</th><th>Loại II</th></tr></thead><tbody><tr><td>A</td><td>10</td><td>2</td><td>2</td></tr><tr><td>B</td><td>4</td><td>0</td><td>2</td></tr><tr><td>C</td><td>12</td><td>2</td><td>4</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      152,
+      453,
+      1525,
+      537
+    ],
+    "category": "Text",
+    "text": "Một đơn vị sản phẩm I lãi năm nghìn đồng, một đơn vị sản phẩm loại II lãi hai nghìn đồng. Trong điều kiện sản xuất đó hãy tính số tiền lãi có thể đạt cao nhất? (tiền lãi có đơn vị nghìn đồng)"
+  },
+  {
+    "bbox": [
+      152,
+      535,
+      1556,
+      701
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Người ta xây dựng một chân tháp bằng bê tông có dạng khối chóp cụt tức giác đều. Cạnh đáy dưới dài 5 m, cạnh đáy trên dài 3 m, cạnh bên dài 2 m. Biết rằng chân tháp được làm bằng bê tông t射 với giá tiền là 1570000 đồng /m³. Tính số tiền để mua bê tông t射 làm chân tháp theo đơn vị triệu đồng. (làm tròn đến hàng phần chục)"
+  },
+  {
+    "bbox": [
+      676,
+      722,
+      1058,
+      1035
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1069,
+      1575,
+      1498
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Hăng Xtul Air – Công ty chuyên về các chuyển bay thuê chuyển vừa có hoạt động thâm nhập thị trường Việt Nam. Hăng đã cho ra mắt dịch vụ sử dụng máy bay riêng của Xtul Air, trong đó cóchiếc Gulfstream G650 là máy bay phản lực thương mại lớn, sức chứa tối đa 20 người, có thể bay từ Hà Nội về TP. Hồ Chí Minh trong 1 tiếng, có giá 10000 USD/giờ. Hăng cho biết với mỗi lần bay, hăng sẽ tốn 5000 USD bao gồm tiền nhiên liệu và bảo hành máy móc. Ngoài ra tốn thêm 1500 USD cho mỗi khách hàng do trọng lượng tăng thêm và các dịch vụ trên máy bay. Để khuyến khích khách hàng trải nghiệm, hăng Xtul Air áp dụng chính sách giảm giá vé cho các chuyển bay, cứ mỗi chuyển bay mọi người sẽ được giảm giá vé theo tỷ lệ phần trăm dựa trên số lượng khách hàng. Cụ thể, nếu chuyển bay có 5 người thì mỗi hành khách được giảm 15% giá vé, chuyển bay có 6 người thì mỗi hành khách được giảm 18% giá vé, và cứ thế ứng với n người thì vé được giảm 3n% giá vé, tối đa 20 hành khách (từ 5 người thì có thể bay). Hỏi lợi nhuận của hăng cao nhất khi số khách hàng trên máy bay là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      543,
+      1494,
+      1178,
+      1772
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1774,
+      1572,
+      1852
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho hình chóp SABC có $SA = 8$ và $SA$ vuông góc $mp(ABC)$; Tam giác $ABC$ vuông tại $C$ có cạnh $BC$ bằng 6. Tính khoảng cách giữa $SB$ và $AC$."
+  },
+  {
+    "bbox": [
+      752,
+      1889,
+      971,
+      1926
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      556,
+      2268
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1407,
+      2236,
+      1572,
+      2272
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10/40"
+  }
+]

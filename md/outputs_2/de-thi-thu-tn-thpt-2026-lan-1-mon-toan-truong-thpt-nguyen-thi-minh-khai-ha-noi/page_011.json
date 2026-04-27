@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      251,
+      118,
+      1452,
+      222
+    ],
+    "category": "Text",
+    "text": "c) Tiếp tuyến của đồ thị hàm số $(C)$ tại giao điểm của đồ thị hàm số $(C)$ với trục tung có phương trình là $y = 3x - 1$."
+  },
+  {
+    "bbox": [
+      251,
+      258,
+      1041,
+      307
+    ],
+    "category": "Text",
+    "text": "d) Số điểm thuộc đồ thị hàm số $(C)$ có tọa độ nguyên là 2."
+  },
+  {
+    "bbox": [
+      843,
+      350,
+      957,
+      388
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      421,
+      333,
+      455
+    ],
+    "category": "Section-header",
+    "text": "### a. Sai"
+  },
+  {
+    "bbox": [
+      251,
+      495,
+      605,
+      540
+    ],
+    "category": "Text",
+    "text": "Tập xác định $D = \\mathbb{R} \\setminus \\{-1\\}$"
+  },
+  {
+    "bbox": [
+      257,
+      584,
+      605,
+      677
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = \\frac{3}{(x+1)^2} > 0 \\text{ với } x \\neq -1\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      711,
+      1087,
+      756
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số luôn đồng biến trên từng khoảng của tập xác định."
+  },
+  {
+    "bbox": [
+      251,
+      788,
+      369,
+      827
+    ],
+    "category": "Section-header",
+    "text": "### b. Đúng"
+  },
+  {
+    "bbox": [
+      257,
+      864,
+      1188,
+      1025
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} y = \\lim_{x \\to +\\infty} \\frac{2x-1}{x+1} = \\lim_{x \\to +\\infty} \\frac{2-\\frac{1}{x}}{1+\\frac{1}{x}} = 2 \\Rightarrow y = 2 \\text{ là đường tiệm cận ngang}\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1066,
+      1060,
+      1147
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to -1^{-}} y = \\lim_{x \\to -1^{-}} \\frac{2x-1}{x+1} = +\\infty \\Rightarrow x = -1 \\text{ là đường tiệm cận đứng}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1183,
+      789,
+      1232
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có tâm đối xứng $I(-1; 2)$"
+  },
+  {
+    "bbox": [
+      251,
+      1273,
+      365,
+      1312
+    ],
+    "category": "Section-header",
+    "text": "### c. Đúng"
+  },
+  {
+    "bbox": [
+      251,
+      1347,
+      659,
+      1394
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } A = (C) \\cap Oy \\Rightarrow A(0; -1)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1437,
+      972,
+      1529
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tiếp tuyến của } (C) \\text{ tại } A \\text{ có } k = y'(x_A) = \\frac{3}{(0+1)^2} = 3\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1568,
+      887,
+      1616
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương trình tiếp tuyến } y = 3(x - 0) - 1 = 3x - 1\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1657,
+      335,
+      1692
+    ],
+    "category": "Section-header",
+    "text": "### d. Sai"
+  },
+  {
+    "bbox": [
+      251,
+      1731,
+      629,
+      1829
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } M \\left( x_0, 2 - \\frac{3}{x_0 + 1} \\right) \\in (C)\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1874,
+      1190,
+      1919
+    ],
+    "category": "Text",
+    "text": "$M$ có tọa độ nguyên khi $x_0 + 1$ là ước của 3. Hay $x_0 + 1 \\in \\{1; -1; 3; -3\\}$"
+  },
+  {
+    "bbox": [
+      251,
+      1959,
+      1128,
+      2004
+    ],
+    "category": "Text",
+    "text": "Có 4 giá trị của $x_0$ thỏa mãn nên có 4 điểm $M$ có tọa độ nguyên."
+  },
+  {
+    "bbox": [
+      114,
+      2045,
+      1548,
+      2131
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Lớp 12B11 có 40 học sinh. Thời gian tự học tại nhà hàng ngày của các học sinh trong lớp được thống kê trong bảng sau:"
+  }
+]

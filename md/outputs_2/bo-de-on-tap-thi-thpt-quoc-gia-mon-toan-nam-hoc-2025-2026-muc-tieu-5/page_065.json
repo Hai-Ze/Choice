@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      576,
+      249
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 5"
+  },
+  {
+    "bbox": [
+      893,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1022,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      746,
+      225,
+      1529,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "**Phần I. Câu trắc nghiệm nhiều phương án lựa chọn** *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      154,
+      535,
+      1424,
+      576
+    ],
+    "category": "Text",
+    "text": "❖ **Câu 1.** Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$ và có bảng biến thiên như hình vẽ sau:"
+  },
+  {
+    "bbox": [
+      407,
+      583,
+      1291,
+      896
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      917,
+      809,
+      959
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ đồng biến trên khoảng nào?"
+  },
+  {
+    "bbox": [
+      191,
+      977,
+      399,
+      1021
+    ],
+    "category": "List-item",
+    "text": "A) $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      535,
+      977,
+      699,
+      1021
+    ],
+    "category": "List-item",
+    "text": "B) $(-2; 4)$."
+  },
+  {
+    "bbox": [
+      879,
+      977,
+      1061,
+      1021
+    ],
+    "category": "List-item",
+    "text": "C) $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1224,
+      977,
+      1383,
+      1021
+    ],
+    "category": "List-item",
+    "text": "D) $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      154,
+      1035,
+      1544,
+      1138
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên, ta thấy trên khoảng $(-1; 2)$, đạo hàm $f'(x) > 0$. Do đó, hàm số đồng biến trên khoảng $(-1; 2)$."
+  },
+  {
+    "bbox": [
+      154,
+      1156,
+      1544,
+      1243
+    ],
+    "category": "Text",
+    "text": "❖ **Câu 2.** Trong không gian $Oxyz$, cho điểm $M(2; -1; 4)$ và mặt phẳng ($P$) : $3x - 2y + z + 1 = 0$. Phương trình của mặt phẳng đi qua $M$ và song song với mặt phẳng ($P$) là"
+  },
+  {
+    "bbox": [
+      191,
+      1262,
+      568,
+      1304
+    ],
+    "category": "List-item",
+    "text": "A) $2x - 2y + 4z - 21 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1262,
+      1147,
+      1304
+    ],
+    "category": "List-item",
+    "text": "B) $x - 2z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      191,
+      1308,
+      583,
+      1349
+    ],
+    "category": "List-item",
+    "text": "C) $10x + 9y + 5z - 74 = 0$."
+  },
+  {
+    "bbox": [
+      876,
+      1308,
+      1239,
+      1349
+    ],
+    "category": "List-item",
+    "text": "D) $3x - 2y + z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1349,
+      1544,
+      1495
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Мặt phẳng song song với ($P$) có dạng ($Q$) : $3x - 2y + z + D = 0$ với $D \\neq 1$. Vì ($Q$) đi qua $M(2; -1; 4)$ nên ta có: $3(2) - 2(-1) + 4 + D = 0 \\Leftrightarrow 6 + 2 + 4 + D = 0 \\Leftrightarrow D = -12$. thus phương trình mặt phẳng là $3x - 2y + z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1513,
+      1547,
+      1599
+    ],
+    "category": "Text",
+    "text": "❖ **Câu 3.** Điều tra về mức lương khởi điểm (đơn vị: triệu đồng) của 20 công nhân, ta có bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      478,
+      1604,
+      1219,
+      1719
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức lương</td><td>[5; 6)</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10)</td></tr><tr><td>Tần số</td><td>4</td><td>5</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1729,
+      1220,
+      1771
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là (làm tròn đến hàng phần trăm):"
+  },
+  {
+    "bbox": [
+      191,
+      1788,
+      392,
+      1832
+    ],
+    "category": "List-item",
+    "text": "A) $s^2 = 0,63$."
+  },
+  {
+    "bbox": [
+      535,
+      1788,
+      738,
+      1832
+    ],
+    "category": "List-item",
+    "text": "B) $s^2 = 2,52$."
+  },
+  {
+    "bbox": [
+      879,
+      1788,
+      1079,
+      1832
+    ],
+    "category": "List-item",
+    "text": "C) $s^2 = 1,26$."
+  },
+  {
+    "bbox": [
+      1224,
+      1788,
+      1424,
+      1832
+    ],
+    "category": "List-item",
+    "text": "D) $s^2 = 1,59$."
+  },
+  {
+    "bbox": [
+      154,
+      1846,
+      1547,
+      1941
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Giá trị đại diện các nhóm lần lượt là: $x_1 = 5,5; x_2 = 6,5; x_3 = 7,5; x_4 = 8,5; x_5 = 9,5$."
+  },
+  {
+    "bbox": [
+      202,
+      1950,
+      1199,
+      2030
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{4 \\cdot 5,5 + 5 \\cdot 6,5 + 5 \\cdot 7,5 + 4 \\cdot 8,5 + 2 \\cdot 9,5}{20} = 7,25.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2038,
+      1601,
+      2144
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai: } s^2 = \\frac{1}{20} [4 \\cdot (5,5)^2 + 5 \\cdot (6,5)^2 + 5 \\cdot (7,5)^2 + 4 \\cdot (8,5)^2 + 2 \\cdot (9,5)^2] - (7,25)^2 = 1,5875 \\approx 1,59.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2164,
+      1467,
+      2206
+    ],
+    "category": "Text",
+    "text": "❖ **Câu 4.** Hàm số nào sau đây không là một nguyên hàm của hàm số $f(x) = 3x^2 + 2x - 1$."
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      829,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "65"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      757,
+      105,
+      1062,
+      380
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      269,
+      400,
+      628,
+      448
+    ],
+    "category": "Text",
+    "text": "Dễ dàng thấy $\\overline{AB} = \\overline{D'C'}$."
+  },
+  {
+    "bbox": [
+      130,
+      477,
+      1488,
+      582
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian với hệ tọa độ $Oxyz$, cho điểm $A(3;2;-1)$. Tìm tọa độ điểm $A'$ thuộc mặt phẳng $(Oxz)$ sao cho độ dài đoạn thẳng $AA'$ ngắn nhất."
+  },
+  {
+    "bbox": [
+      172,
+      596,
+      377,
+      635
+    ],
+    "category": "List-item",
+    "text": "A. $A'(0;0;-1)$."
+  },
+  {
+    "bbox": [
+      130,
+      673,
+      339,
+      717
+    ],
+    "category": "List-item",
+    "text": "B. $A'(0;2;-1)$."
+  },
+  {
+    "bbox": [
+      130,
+      754,
+      336,
+      793
+    ],
+    "category": "List-item",
+    "text": "C. $A'(3;0;-1)$."
+  },
+  {
+    "bbox": [
+      130,
+      828,
+      327,
+      866
+    ],
+    "category": "List-item",
+    "text": "D. $A'(-3;0;1)$."
+  },
+  {
+    "bbox": [
+      852,
+      903,
+      966,
+      941
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      130,
+      969,
+      238,
+      1005
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      137,
+      1035,
+      1121,
+      1082
+    ],
+    "category": "Text",
+    "text": "$AA'$ ngắn nhất nên $A'$ là hình chiếu của $A$ lên mp$(Oxz)$. vậy $A'(3;0;-1)$"
+  },
+  {
+    "bbox": [
+      130,
+      1115,
+      272,
+      1154
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II."
+  },
+  {
+    "bbox": [
+      130,
+      1158,
+      1248,
+      1206
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Cho hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ có đồ thị như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      720,
+      1218,
+      1085,
+      1601
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      268,
+      1625,
+      693,
+      1669
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đạt cực tiểu tại $x = 1$"
+  },
+  {
+    "bbox": [
+      268,
+      1698,
+      844,
+      1746
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số nghịch biến trên khoảng $(-1;1)$"
+  },
+  {
+    "bbox": [
+      268,
+      1783,
+      1001,
+      1831
+    ],
+    "category": "List-item",
+    "text": "c) Đồ thị hàm số cắt trục tung tại điểm có tọa độ $(0;1)$"
+  },
+  {
+    "bbox": [
+      268,
+      1868,
+      539,
+      1906
+    ],
+    "category": "List-item",
+    "text": "d) $a - b + c + d = -1$"
+  },
+  {
+    "bbox": [
+      268,
+      1937,
+      384,
+      1974
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      268,
+      1999,
+      784,
+      2042
+    ],
+    "category": "List-item",
+    "text": "a) Đúng: Hàm số đạt cực tiểu tại $x = 1$"
+  },
+  {
+    "bbox": [
+      268,
+      2072,
+      932,
+      2118
+    ],
+    "category": "List-item",
+    "text": "b) Đúng: Hàm số nghịch biến trên khoảng $(-1;1)$"
+  }
+]

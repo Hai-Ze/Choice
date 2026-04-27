@@ -1,0 +1,148 @@
+[
+  {
+    "bbox": [
+      0,
+      0,
+      188,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      181,
+      43,
+      1015,
+      88
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      83,
+      163,
+      1535,
+      482
+    ],
+    "category": "List-item",
+    "text": "» Câu 15. Một xưởng mộc dùng gỗ sồi để sản xuất 5 chiếc bàn mỗi ngày. Chi phí cho mỗi lần vận chuyển nguyên liệu là 5625 USD, chi phí để lưu trữ một đơn vị nguyên liệu là 10 USD mỗi ngày, trong đó một đơn vị là lượng nguyên liệu cần thiết để sản xuất một chiếc bàn, và lưu ý rằng trong mỗi ngày của chu ki sản xuất (thời gian giữa hai lần nhập nguyên liệu liên tiếp) thì lượng nguyên liệu lưu trữ trung bình mỗi ngày được tính bằng một half tổng lượng nguyên liệu tồn kho đầu kì và lượng nguyên liệu tồn kho cuối kì. Giả sử nguyên liệu được nhập về sau mỗi $x$ ngày. Khi đó:"
+  },
+  {
+    "bbox": [
+      222,
+      478,
+      1571,
+      944
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M�nh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Một chu kì sản xuất, xưởng mộc phải nhập về $5x$ đơn vị nguyên liệu.</td><td></td><td></td></tr><tr><td>(b)</td><td>Chi phí để lưu trữ nguyên liệu trong 3 ngày của một chu kì sản xuất là $50x^2$ USD.</td><td></td><td></td></tr><tr><td>(c)</td><td>Hàm chỉ phí trung bình mỗi ngày trong một chu kì sản xuất là $C(x) = 50x + \\frac{5625}{x}$</td><td></td><td></td></tr><tr><td>(d)</td><td>Để chỉ phí trung bình mỗi ngày của một chu kì sản xuất là ít nhất thì xưởng mộc nên nhập hàng sau mỗi 15 ngày và mỗi lần nhập về 75 đơn vị nguyên liệu.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      83,
+      944,
+      1535,
+      1041
+    ],
+    "category": "List-item",
+    "text": "» Câu 16. Cho hình lăng trụ $ABC.A'B'C'$ có tam giác $ABC$ vuông cân tại $A$, hình chiếu vuông góc $H$ của $A'$ trên $(ABC)$ trùng với trọng tâm tam giác $ABC$, biết $AA' = BC = 2a$. Khi đó:"
+  },
+  {
+    "bbox": [
+      222,
+      1043,
+      1571,
+      1452
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M�nh đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Độ dài đường cao hình lăng trụ bằng: $\\frac{4a\\sqrt{2}}{3}$.</td><td></td><td></td></tr><tr><td>(b)</td><td>Thể tích khối lăng trụ đã cho bằng: $4a^3\\sqrt{2}$.</td><td></td><td></td></tr><tr><td>(c)</td><td>Khoảng cách giữa hai đường thẳng $BB'$ và $AC$ gấp ba lần khoảng cách từ $H$ đến $(ACC'A')$</td><td></td><td></td></tr><tr><td>(d)</td><td>Khoảng cách giữa hai đường thẳng $BB'$ và $AC$ bằng $\\frac{2a\\sqrt{34}}{17}$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      34,
+      1454,
+      410,
+      1498
+    ],
+    "category": "Section-header",
+    "text": "C. Câu hỏi – Trả lời ngắn"
+  },
+  {
+    "bbox": [
+      83,
+      1500,
+      1535,
+      1759
+    ],
+    "category": "List-item",
+    "text": "» Câu 17. Cho tức diện đều $ABCD$ cạnh 1. Trên các mặt phẳng $(BCD)$; $(CDA)$; $(DAB)$; $(ABC)$ lần lượt lấy các điểm $A_1, B_1, C_1, D_1$ sao cho các đường thẳng $AA_1, BB_1, CC_1, DD_1$ lần lượt vuông góc với các mặt phẳng $(BCD)$; $(CDA)$; $(DAB)$; $(ABC)$. Biết thể tích khối tức diện $A_1B_1C_1D_1$ bằng $\\frac{a}{b}\\sqrt{2}$, với $a,b$ là các số nguyên dương và phân số $\\frac{a}{b}$ tối简. Tính $a+b$."
+  },
+  {
+    "bbox": [
+      1059,
+      1765,
+      1204,
+      1803
+    ],
+    "category": "Text",
+    "text": "✓ Trả lời:"
+  },
+  {
+    "bbox": [
+      1229,
+      1758,
+      1533,
+      1808
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      1811,
+      1159,
+      2194
+    ],
+    "category": "List-item",
+    "text": "» Câu 18. Anh $A$ mở một nhà hàng lấu. Anh đã trang bị cho mỗi bàn ăn một nồi lấu có dạng hai hình trụ đồng trục. Bán kính đáy nồi (ngoài) là $R=15cm$, bán kính trụ giữa (trong) là $r=3,5cm$, chiều cao lòng nồi là $h=10cm$. Để khách hàng có trải nghiệm tốt nhất, anh $A$ cần xác định chiều dài tối thiểu $L$ của chiếc đũa sao cho dù đầu đũa có bị trượt vào vị trí nào trong nồi, phần đầu đũa thua ra ngoài meing nồi vẫn phải lớn hơn $5cm$. Tính $L$ (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      1187,
+      1808,
+      1514,
+      2164
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      2248,
+      584,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1284,
+      2252,
+      1437,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "Trang 181"
+  },
+  {
+    "bbox": [
+      1451,
+      2164,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

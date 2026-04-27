@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1162,
+      152
+    ],
+    "category": "Text",
+    "text": "Gọi $B', C', D'$ lần lượt là các điểm $B, C, D$ sau khi hạ xuống ta có:"
+  },
+  {
+    "bbox": [
+      218,
+      156,
+      714,
+      208
+    ],
+    "category": "Formula",
+    "text": "$$\nB'(0;0;10), C'(0;18;a), D'(25;15;6)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      220,
+      295,
+      255
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      218,
+      262,
+      931,
+      319
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB'} = (-25;0;10); \\overline{AC'} = (-25;18;a); \\overline{AD'} = (0;15;6)\n$$"
+  },
+  {
+    "bbox": [
+      215,
+      323,
+      1414,
+      391
+    ],
+    "category": "Formula",
+    "text": "$$\n[\\overline{AB'}; \\overline{AD'}] = (-150;150;-375) \\Rightarrow [\\overline{AB'}; \\overline{AD'}] \\cdot \\overline{AC'} = 3750 + 2700 - (-375a) = 6450 - 375a\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      397,
+      1399,
+      460
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } A, B', C', D' \\text{ đồng phẳng nên } [\\overline{AB'}; \\overline{AD'}] \\cdot \\overline{AC'} = 0 \\Leftrightarrow 6450 - 375a = 0 \\Leftrightarrow a = 17,2.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      469,
+      1573,
+      734
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Một công viên thuê sinh viên tuần tra các con đường và thu gom rác. Các con đường phải tuần tra thể hiện trong sơ đồ dưới đây, với các khoảng cách tính bằng mét. Con đường nối từ nhà bóng tới nhà hát đi dưới một cây cầu nằm trên con đường nối từ nhà mưa tới cửa vào. Biết rằng sinh viên xuất phát từ cửa vào, đi qua tất cả các con đường để tuần tra và dọn rác và kết thúc công việc cũng ở cửa vào. Hỏi quăng đường ngắn nhất mà sinh viên đó đi là bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      540,
+      749,
+      1222,
+      1102
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1128,
+      953,
+      1169
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1173,
+      405,
+      1215
+    ],
+    "category": "Text",
+    "text": "Đáp số: 1000"
+  },
+  {
+    "bbox": [
+      212,
+      1218,
+      638,
+      1260
+    ],
+    "category": "Text",
+    "text": "Ta có đường đi xuất phát từ:"
+  },
+  {
+    "bbox": [
+      212,
+      1263,
+      1448,
+      1306
+    ],
+    "category": "Text",
+    "text": "Cửa vào, nhà bóng, nhà ăn, nhà mưa, nhà bóng, nhà hát, cửa vào, nhà mưa, nhà hát"
+  },
+  {
+    "bbox": [
+      212,
+      1306,
+      1111,
+      1350
+    ],
+    "category": "Text",
+    "text": "Ta cần chọn con đường ngắn nhất đi từ nhà hát đến cửa vào."
+  },
+  {
+    "bbox": [
+      212,
+      1350,
+      1060,
+      1396
+    ],
+    "category": "Text",
+    "text": "Tức là đường đi ngắn nhất là: nhà hát, nhà mưa, cửa vào."
+  },
+  {
+    "bbox": [
+      212,
+      1396,
+      1454,
+      1442
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất là: $140+145+80+60+90+165+80+80+80+80=1000m$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1520,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 13 -"
+  }
+]

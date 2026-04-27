@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      82,
+      55,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1496,
+      196
+    ],
+    "category": "Text",
+    "text": "d) Nếu thời gian di chuyển của thiên thạch trong phạm vi theo dõi của hệ thống quan sát là 3 phút thì thời gian nó di chuyển từ $M$ đến $N$ là 6 phút."
+  },
+  {
+    "bbox": [
+      726,
+      214,
+      844,
+      253
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      267,
+      894,
+      390
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      451,
+      1349,
+      504
+    ],
+    "category": "Text",
+    "text": "a) $\\overline{MN} = (-12;-32;16) = -4(3;8;-4)$ suy ra một VTCP của đường thẳng $MN$ là $\\vec{u} = (3;8;-4)$."
+  },
+  {
+    "bbox": [
+      75,
+      528,
+      1036,
+      677
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số của đường thẳng $MN$ là: $MN : \\begin{cases} x = 6 + 3t \\\\ y = 20 + 8t, t \\in R. \\\\ z = -4t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      698,
+      1045,
+      744
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách từ tâm trái đất đến vị trí $A$ là 13000 km suy ra $OA = 13$"
+  },
+  {
+    "bbox": [
+      75,
+      763,
+      1078,
+      814
+    ],
+    "category": "Text",
+    "text": "Vì $A \\in MN$ nên gọi $A(6+3t; 20+8t; -4t)$ suy ra $\\overline{OA} = (6+3t; 20+8t; -4t)$"
+  },
+  {
+    "bbox": [
+      75,
+      840,
+      956,
+      883
+    ],
+    "category": "Text",
+    "text": "Ta có: $OA^2 = 13^2 \\Leftrightarrow 9t^2 + 36t + 36 + 64t^2 + 320t + 400 + 16t^2 = 169$"
+  },
+  {
+    "bbox": [
+      80,
+      905,
+      780,
+      1015
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 89t^2 + 356t + 267 = 0 \\Leftrightarrow \\begin{cases} t = -1 \\Rightarrow A(3;12;4) \\\\ t = -3 \\Rightarrow A(-3;-4;12) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1037,
+      1345,
+      1094
+    ],
+    "category": "Text",
+    "text": "Xét điểm $A(3;12;4)$, ta có: $\\overline{AM} = (3;8;-4) \\Rightarrow AM = \\sqrt{89}$, $\\overline{AN} = (-9;-24;12) \\Rightarrow AN = \\sqrt{721}$."
+  },
+  {
+    "bbox": [
+      75,
+      1117,
+      638,
+      1214
+    ],
+    "category": "Text",
+    "text": "thỏa $AM < AN$, do đó: $\\begin{cases} A = (3;12;4) \\\\ B = (-3;-4;12) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      1232,
+      1496,
+      1336
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa vị trí đầu tiên và vị trí cuối cùng mà thiên thạch di chuyển trong phạm vi theo dõi của hệ thống quan sát là độ dài đoạn $AB$"
+  },
+  {
+    "bbox": [
+      80,
+      1352,
+      921,
+      1405
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB} = (-6;-16;8) \\Rightarrow AB = 2\\sqrt{89} \\approx 18.867,96 \\text{ km} \\approx 18.900 \\text{ km.}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1431,
+      987,
+      1524
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc di chuyển của thiên thạch là: $v = \\frac{AB}{3} = \\frac{2\\sqrt{89}}{3}$ (km/phút)."
+  },
+  {
+    "bbox": [
+      75,
+      1544,
+      852,
+      1598
+    ],
+    "category": "Text",
+    "text": "Quăng đường: $\\overline{MN} = (-12;-32;16) \\Rightarrow MN = 4\\sqrt{89}$ (km)."
+  },
+  {
+    "bbox": [
+      75,
+      1622,
+      1061,
+      1778
+    ],
+    "category": "Text",
+    "text": "Thời gian nó di chuyển từ $M$ đến $N$ là: $t_{MN} = \\frac{MN}{v} = \\frac{4\\sqrt{89}}{\\frac{2\\sqrt{89}}{3}} = 6$ (phút)."
+  },
+  {
+    "bbox": [
+      75,
+      1855,
+      726,
+      1897
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      75,
+      1911,
+      1496,
+      2230
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Chị Minh Hiền lên kế hoạch làm một cái biển广宣 cáo phẳng, có thiết kế là phần được tô màu đâm trong hình vẽ bên. Đường cong $(P)$ là một parabol có định là điểm $F$, có trục đối xứng là $FH$ và đi qua các điểm $A, B$. Tứ giác $ABCD$ là hình chữ nhật, $AB = 8m, BC = 3m, EH = 6m, FH = 2m$. Bác An kí hợp đồng với công ty X với đơn giá là 1,1 triệu đồng/ $1 m^2$. Hỏi số tiền mà chị Minh Hiền phải trả sau khi làm xong cái biển广宣 cáo là bao nhiêu triệu đồng ( làm tròn kết quả đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      842,
+      2289
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      151,
+      1454,
+      307
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho hai đường thẳng $d_1: \\frac{x-1}{1} = \\frac{y-3}{1} = \\frac{z-2}{2}$ và $d_2: \\frac{x-1}{2} = \\frac{y}{-1} = \\frac{z+1}{-1}$."
+  },
+  {
+    "bbox": [
+      222,
+      309,
+      865,
+      356
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $d_1$ đi qua điểm $A(2;4;4)$."
+  },
+  {
+    "bbox": [
+      222,
+      363,
+      1446,
+      411
+    ],
+    "category": "Text",
+    "text": "b) Đường thẳng vuông góc với cả $d_1, d_2$ có một vecto chỉ phương là $\\vec{u} = (1;1;1)$."
+  },
+  {
+    "bbox": [
+      222,
+      417,
+      1005,
+      464
+    ],
+    "category": "Text",
+    "text": "c) Đường thẳng $d_1$ và đường thẳng $d_2$ chéo nhau."
+  },
+  {
+    "bbox": [
+      222,
+      469,
+      1080,
+      519
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai đường thẳng $d_1$ và $d_2$ là $3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      546,
+      1454,
+      644
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một doanh nghiệp có 45% nhân viên là nữ. Trong các nhân viên nữ có 30% nhân viên có bằng đại học, tỉ lệ này trong các nhân viên nam là 25%."
+  },
+  {
+    "bbox": [
+      222,
+      651,
+      1106,
+      698
+    ],
+    "category": "Text",
+    "text": "a) Tỉ lệ nhân viên nam trong tổng số nhân viên là 55%."
+  },
+  {
+    "bbox": [
+      222,
+      705,
+      1446,
+      805
+    ],
+    "category": "Text",
+    "text": "b) Tỉ lệ các nhân viên nữ không có bằng đại học trong tổ số nhân viên là 13,5%."
+  },
+  {
+    "bbox": [
+      222,
+      811,
+      1446,
+      911
+    ],
+    "category": "Text",
+    "text": "c) Chọn ngẫu nhiên hai nhân viên của doanh nghiệp, xác suất để chọn được hai người khác giới lớn hơn 24,5%."
+  },
+  {
+    "bbox": [
+      222,
+      915,
+      1446,
+      1016
+    ],
+    "category": "Text",
+    "text": "d) Chọn ngẫu nhiên hai nhân viên của doanh nghiệp, xác suất để trong hai người được chọn có đúng một người có bằng đại học không vượt quá 19,8%."
+  },
+  {
+    "bbox": [
+      193,
+      1036,
+      1323,
+      1083
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Vật thể chuyển động trong 10 phút với vận tốc là giá trị hàm số"
+  },
+  {
+    "bbox": [
+      546,
+      1102,
+      1095,
+      1232
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = \\begin{cases} at^2 + bt + c & \\text{nếu } 0 \\le t \\le 6 \\\\ m & \\text{nếu } 6 < t \\le 10, \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1254,
+      1454,
+      1352
+    ],
+    "category": "Text",
+    "text": "(đơn vị: m/phút) phụ thuộc vào thời gian $t$ (đơn vị: phút). Đồ thị của hàm số vận tốc như hình vẽ sau:"
+  },
+  {
+    "bbox": [
+      491,
+      1373,
+      1156,
+      1815
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      222,
+      1864,
+      1446,
+      1960
+    ],
+    "category": "Text",
+    "text": "a) Trong khoảng từ phút thứ 6 đến phút thứ 10, vận tốc vật thể không thay đổi."
+  },
+  {
+    "bbox": [
+      222,
+      1972,
+      1299,
+      2098
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường đi được của vật thể sau 6 phút đầu tiên là $\\int_{0}^{6} v(t) dt$."
+  },
+  {
+    "bbox": [
+      222,
+      2107,
+      450,
+      2145
+    ],
+    "category": "Text",
+    "text": "c) $5a + b = 20$."
+  },
+  {
+    "bbox": [
+      222,
+      2157,
+      1383,
+      2204
+    ],
+    "category": "Text",
+    "text": "d) Tổng quăng đường đi được của vật thể sau 10 phút đầu tiên là 8160 m."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1454,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

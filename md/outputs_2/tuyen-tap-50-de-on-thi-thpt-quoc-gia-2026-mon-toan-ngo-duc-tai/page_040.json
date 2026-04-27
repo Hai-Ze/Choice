@@ -1,0 +1,360 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1454,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Bạn An rất thích nhảy hiện đại. Thời gian tập nhảy mỗi ngày của bạn An trong thời gian gần đây được thống kê ở bảng sau"
+  },
+  {
+    "bbox": [
+      404,
+      282,
+      1243,
+      395
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[5; 15)</td><td>[15; 25)</td><td>[25; 35)</td><td>[35; 45)</td></tr><tr><td>Số ngày</td><td>5</td><td>5</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      438,
+      1398,
+      485
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm gần nhất với giá trị nào sau đây?"
+  },
+  {
+    "bbox": [
+      221,
+      505,
+      346,
+      543
+    ],
+    "category": "List-item",
+    "text": "A. 9,29."
+  },
+  {
+    "bbox": [
+      525,
+      505,
+      647,
+      543
+    ],
+    "category": "List-item",
+    "text": "B. 9,25."
+  },
+  {
+    "bbox": [
+      828,
+      505,
+      951,
+      543
+    ],
+    "category": "List-item",
+    "text": "C. 9,27."
+  },
+  {
+    "bbox": [
+      1129,
+      505,
+      1236,
+      543
+    ],
+    "category": "List-item",
+    "text": "D. 9,3."
+  },
+  {
+    "bbox": [
+      192,
+      568,
+      1030,
+      646
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Biết $\\int f(x) \\, dx = \\cos x + C$ thì $\\int f'(x) \\, dx$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      661,
+      404,
+      698
+    ],
+    "category": "List-item",
+    "text": "A. $\\sin x + C$."
+  },
+  {
+    "bbox": [
+      525,
+      661,
+      710,
+      698
+    ],
+    "category": "List-item",
+    "text": "B. $\\cos x + C$."
+  },
+  {
+    "bbox": [
+      828,
+      661,
+      1038,
+      698
+    ],
+    "category": "List-item",
+    "text": "C. $-\\sin x + C$."
+  },
+  {
+    "bbox": [
+      1129,
+      661,
+      1345,
+      698
+    ],
+    "category": "List-item",
+    "text": "D. $-\\cos x + C$."
+  },
+  {
+    "bbox": [
+      192,
+      731,
+      1454,
+      905
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $d$: $$ \\begin{cases} x = 2 - t \\\\ y = 1 + t \\\\ z = t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      192,
+      910,
+      1136,
+      954
+    ],
+    "category": "Text",
+    "text": "Phương trình nào sau đây là phương trình chính tắc của $d$?"
+  },
+  {
+    "bbox": [
+      221,
+      954,
+      542,
+      1034
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x-2}{-1} = \\frac{y}{1} = \\frac{z+3}{-1}$."
+  },
+  {
+    "bbox": [
+      834,
+      954,
+      1180,
+      1034
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x+2}{1} = \\frac{y}{-1} = \\frac{z-3}{1}$."
+  },
+  {
+    "bbox": [
+      221,
+      1038,
+      568,
+      1119
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x-2}{1} = \\frac{y}{-1} = \\frac{z+3}{1}$."
+  },
+  {
+    "bbox": [
+      834,
+      1038,
+      1155,
+      1119
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x-2}{-1} = \\frac{y-1}{1} = \\frac{z}{1}$."
+  },
+  {
+    "bbox": [
+      192,
+      1155,
+      1056,
+      1254
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Đường cong ở hình bên là đồ thị của một trong bốn hàm số dưới đây. Hàm số đó là hàm số nào?"
+  },
+  {
+    "bbox": [
+      221,
+      1271,
+      494,
+      1316
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^3 - 3x + 2$."
+  },
+  {
+    "bbox": [
+      634,
+      1271,
+      922,
+      1316
+    ],
+    "category": "List-item",
+    "text": "B. $y = x^3 - 3x^2 + 2$."
+  },
+  {
+    "bbox": [
+      221,
+      1333,
+      494,
+      1378
+    ],
+    "category": "List-item",
+    "text": "C. $y = x^3 - 6x + 2$."
+  },
+  {
+    "bbox": [
+      634,
+      1333,
+      946,
+      1378
+    ],
+    "category": "List-item",
+    "text": "D. $y = -x^3 + 3x^2 + 2$."
+  },
+  {
+    "bbox": [
+      1066,
+      1162,
+      1438,
+      1510
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1555,
+      1454,
+      1675
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      1692,
+      744,
+      1781
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{x^2 + 3x + 6}{x + 1}$."
+  },
+  {
+    "bbox": [
+      221,
+      1777,
+      1028,
+      1868
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm số là $y' = \\frac{x^2 + 2x - 3}{(x + 1)^2}, \\forall x \\neq -1$."
+  },
+  {
+    "bbox": [
+      221,
+      1872,
+      922,
+      1917
+    ],
+    "category": "List-item",
+    "text": "b)úp của đồ thị hàm số là (1;5)."
+  },
+  {
+    "bbox": [
+      221,
+      1925,
+      922,
+      1972
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số nghịch biến trên khoảng $(-3; 1)$."
+  },
+  {
+    "bbox": [
+      221,
+      1979,
+      1448,
+      2079
+    ],
+    "category": "List-item",
+    "text": "d) Tổng khoảng cách từ các điểm cực trị của đồ thị hàm số đến trục hoành bằng 2."
+  },
+  {
+    "bbox": [
+      192,
+      2102,
+      1454,
+      2203
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một xe ô tô đang chạy với vận tốc 54 km/h thì người lái xe bất ngờ phát hiện chướng ngại vật trên đường cách đó 25 m. Người lái xe phản ứng một giây,"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1454,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

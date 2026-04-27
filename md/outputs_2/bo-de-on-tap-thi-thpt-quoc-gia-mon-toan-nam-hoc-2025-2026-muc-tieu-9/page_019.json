@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      191,
+      138,
+      304,
+      182
+    ],
+    "category": "List-item",
+    "text": "A) 90°."
+  },
+  {
+    "bbox": [
+      535,
+      138,
+      646,
+      182
+    ],
+    "category": "List-item",
+    "text": "B) 30°."
+  },
+  {
+    "bbox": [
+      879,
+      138,
+      988,
+      182
+    ],
+    "category": "List-item",
+    "text": "C) 45°."
+  },
+  {
+    "bbox": [
+      1224,
+      138,
+      1335,
+      182
+    ],
+    "category": "List-item",
+    "text": "D) 60°."
+  },
+  {
+    "bbox": [
+      154,
+      194,
+      710,
+      242
+    ],
+    "category": "Text",
+    "text": "Câu 6. Tổng $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{SA}$ bằng"
+  },
+  {
+    "bbox": [
+      191,
+      254,
+      304,
+      304
+    ],
+    "category": "List-item",
+    "text": "A) $\\overrightarrow{SC}$."
+  },
+  {
+    "bbox": [
+      535,
+      254,
+      649,
+      304
+    ],
+    "category": "List-item",
+    "text": "B) $\\overrightarrow{SD}$."
+  },
+  {
+    "bbox": [
+      879,
+      254,
+      989,
+      304
+    ],
+    "category": "List-item",
+    "text": "C) $\\overrightarrow{SB}$."
+  },
+  {
+    "bbox": [
+      1224,
+      254,
+      1337,
+      304
+    ],
+    "category": "List-item",
+    "text": "D) $\\overrightarrow{BS}$."
+  },
+  {
+    "bbox": [
+      154,
+      321,
+      1544,
+      408
+    ],
+    "category": "Text",
+    "text": "Câu 7. Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 2^x, y = 0, x = 0, x = 2$. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      191,
+      418,
+      438,
+      510
+    ],
+    "category": "List-item",
+    "text": "A) $S = \\int_{0}^{2} 2^x dx$."
+  },
+  {
+    "bbox": [
+      877,
+      418,
+      1161,
+      510
+    ],
+    "category": "List-item",
+    "text": "B) $S = \\pi \\int_{0}^{2} 2^{2x} dx$."
+  },
+  {
+    "bbox": [
+      191,
+      504,
+      451,
+      594
+    ],
+    "category": "List-item",
+    "text": "C) $S = \\int_{0}^{2} 2^{2x} dx$."
+  },
+  {
+    "bbox": [
+      877,
+      504,
+      1150,
+      594
+    ],
+    "category": "List-item",
+    "text": "D) $S = \\pi \\int_{0}^{2} 2^x dx$."
+  },
+  {
+    "bbox": [
+      154,
+      606,
+      1281,
+      656
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho cấp số nhân $(u_n)$ với $u_1 = 3; q = \\frac{1}{2}$. Số $\\frac{3}{512}$ là số hạng thứ may?"
+  },
+  {
+    "bbox": [
+      191,
+      666,
+      288,
+      710
+    ],
+    "category": "List-item",
+    "text": "A) 11."
+  },
+  {
+    "bbox": [
+      535,
+      666,
+      616,
+      710
+    ],
+    "category": "List-item",
+    "text": "B) 9."
+  },
+  {
+    "bbox": [
+      879,
+      666,
+      974,
+      710
+    ],
+    "category": "List-item",
+    "text": "C) 10."
+  },
+  {
+    "bbox": [
+      1224,
+      666,
+      1321,
+      710
+    ],
+    "category": "List-item",
+    "text": "D) 12."
+  },
+  {
+    "bbox": [
+      154,
+      730,
+      1388,
+      772
+    ],
+    "category": "Text",
+    "text": "Câu 9. Nhiệt độ trong 55 ngày của một địa phương được cho trong bảng ghép lớp:"
+  },
+  {
+    "bbox": [
+      326,
+      776,
+      1373,
+      892
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhiệt độ (°C)</td><td>[19; 22)</td><td>[22; 25)</td><td>[25; 28)</td><td>[28; 31)</td><td>[31; 34)</td><td>[34; 37)</td></tr><tr><td>Số ngày</td><td>5</td><td>7</td><td>8</td><td>16</td><td>12</td><td>7</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      902,
+      1488,
+      944
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu được làm tròn đến chữ số thập phân thứ nhất nằm trong khoảng"
+  },
+  {
+    "bbox": [
+      191,
+      962,
+      361,
+      1006
+    ],
+    "category": "List-item",
+    "text": "A) (17; 19)."
+  },
+  {
+    "bbox": [
+      535,
+      962,
+      704,
+      1006
+    ],
+    "category": "List-item",
+    "text": "B) (20; 21)."
+  },
+  {
+    "bbox": [
+      879,
+      962,
+      1048,
+      1006
+    ],
+    "category": "List-item",
+    "text": "C) (19; 20)."
+  },
+  {
+    "bbox": [
+      1224,
+      962,
+      1392,
+      1006
+    ],
+    "category": "List-item",
+    "text": "D) (23; 25)."
+  },
+  {
+    "bbox": [
+      154,
+      1018,
+      1146,
+      1104
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tìm tập nghiệm của bất phương trình $\\left(\\frac{1}{3}\\right)^x \\le \\left(\\frac{1}{3}\\right)^{-x+2}$"
+  },
+  {
+    "bbox": [
+      191,
+      1120,
+      372,
+      1164
+    ],
+    "category": "List-item",
+    "text": "A) $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      535,
+      1120,
+      710,
+      1164
+    ],
+    "category": "List-item",
+    "text": "B) $[1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      879,
+      1120,
+      1057,
+      1164
+    ],
+    "category": "List-item",
+    "text": "C) $(-\\infty; 1]$."
+  },
+  {
+    "bbox": [
+      1224,
+      1120,
+      1402,
+      1164
+    ],
+    "category": "List-item",
+    "text": "D) $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      1182,
+      1400,
+      1224
+    ],
+    "category": "Text",
+    "text": "Câu 11. Đồ thị trong hình vẽ là đồ thị của hàm số nào trong các hàm số dưới đây?"
+  },
+  {
+    "bbox": [
+      575,
+      1234,
+      1113,
+      1811
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1871,
+      412,
+      1951
+    ],
+    "category": "List-item",
+    "text": "A) $y = \\frac{2x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      877,
+      1871,
+      1098,
+      1951
+    ],
+    "category": "List-item",
+    "text": "B) $y = \\frac{2x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      191,
+      1945,
+      511,
+      2027
+    ],
+    "category": "List-item",
+    "text": "C) $y = \\frac{-x^2 + 3x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      877,
+      1945,
+      1167,
+      2027
+    ],
+    "category": "List-item",
+    "text": "D) $y = \\frac{x^2 - 3x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      154,
+      2042,
+      1544,
+      2127
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trong không gian $Oxyz$, cho điểm $A(2; 1; 1)$, $B(0; 3; -1)$. Мặt cầu đường kính $AB$ có phương trình là"
+  },
+  {
+    "bbox": [
+      191,
+      2145,
+      646,
+      2189
+    ],
+    "category": "List-item",
+    "text": "A) $(x - 1)^2 + (y - 2)^2 + z^2 = 9$."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2250,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "19"
+  }
+]

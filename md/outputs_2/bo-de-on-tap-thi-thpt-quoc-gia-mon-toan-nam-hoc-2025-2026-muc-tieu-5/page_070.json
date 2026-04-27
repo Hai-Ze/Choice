@@ -1,0 +1,300 @@
+[
+  {
+    "bbox": [
+      188,
+      139,
+      1329,
+      182
+    ],
+    "category": "List-item",
+    "text": "a) Góc tấn công của chim $B$ (góc tạo bởi đường bay và mặt nước) lớn hơn $15^\\circ$."
+  },
+  {
+    "bbox": [
+      188,
+      194,
+      1546,
+      282
+    ],
+    "category": "List-item",
+    "text": "b) Tại thời điểm chim $B$ bắt đầu lao xuống, khoảng cách giữa hai chim là $29 \\text{ m}$ (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      190,
+      294,
+      1155,
+      338
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ của chim $A$ theo phương thẳng đứng ($Oz$) bằng $4 \\text{ (m/s)}$."
+  },
+  {
+    "bbox": [
+      188,
+      350,
+      1546,
+      437
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử mặt trời chiếu xuống con chim $B$ thì bóng con chim $B$ trên mặt nước di chuyển với tốc độ lớn hơn $14,5 \\text{ (m/s)}$."
+  },
+  {
+    "bbox": [
+      154,
+      462,
+      199,
+      499
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      462,
+      1348,
+      523
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có tọa độ các điểm: $A(90; 0; 25)$, $B(80; 30; 15)$, $C(20; 10; 0)$."
+  },
+  {
+    "bbox": [
+      194,
+      534,
+      1546,
+      627
+    ],
+    "category": "List-item",
+    "text": "◇ **a) Sai.** Vectơ chỉ phương của đường bay chim $B$ là $\\overrightarrow{BC} = (20 - 80; 10 - 30; 0 - 15) = (-60; -20; -15)$."
+  },
+  {
+    "bbox": [
+      234,
+      640,
+      988,
+      687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài } BC = \\sqrt{(-60)^2 + (-20)^2 + (-15)^2} = 65 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      687,
+      1148,
+      730
+    ],
+    "category": "Text",
+    "text": "Góc $\\alpha$ tạo bởi đường thẳng $BC$ và mặt phẳng ($Oxy$) thỏa mãn:"
+  },
+  {
+    "bbox": [
+      448,
+      788,
+      1330,
+      870
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin \\alpha = \\frac{|z_C - z_B|}{BC} = \\frac{|0 - 15|}{65} = \\frac{15}{65} = \\frac{3}{13} \\Rightarrow \\alpha \\approx 13,34^\\circ < 15^\\circ.\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      884,
+      385,
+      924
+    ],
+    "category": "List-item",
+    "text": "◇ **b) Đúng.**"
+  },
+  {
+    "bbox": [
+      234,
+      933,
+      1339,
+      985
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vectơ } \\overrightarrow{AC} = (-70; 10; -25), \\text{ độ dài } AC = \\sqrt{(-70)^2 + 10^2 + (-25)^2} = 75 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      998,
+      1546,
+      1084
+    ],
+    "category": "Text",
+    "text": "Khi chim $B$ bắt đầu bay (tức là sau khi chim $A$ đã bay được 1 giây), chim $A$ đã đi được quăng đường $s = 12 \\cdot 1 = 12 \\text{ (m)}$."
+  },
+  {
+    "bbox": [
+      234,
+      1094,
+      1546,
+      1173
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vị trí chim } A \\text{ lúc này là } A', \\text{ thỏa mãn } \\overrightarrow{AA'} = \\frac{12}{75} \\overrightarrow{AC} = 0,16 \\cdot (-70; 10; -25) = (-11, 2; 1, 6; -4).\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1182,
+      1106,
+      1224
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra tọa độ } A'(90 - 11, 2; 0 + 1, 6; 25 - 4) = (78, 8; 1, 6; 21).\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1241,
+      782,
+      1281
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai chim lúc này là:"
+  },
+  {
+    "bbox": [
+      234,
+      1292,
+      1587,
+      1384
+    ],
+    "category": "Formula",
+    "text": "$$\nA'B = \\sqrt{(80 - 78, 8)^2 + (30 - 1, 6)^2 + (15 - 21)^2} = \\sqrt{1, 2^2 + 28, 4^2 + (-6)^2} = \\sqrt{844} \\approx 29,05 \\approx 29 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      1401,
+      1546,
+      1520
+    ],
+    "category": "List-item",
+    "text": "◇ **c) Đúng.** Gọi $\\beta$ là góc tạo bởi đường bay chim $A$ và mặt nước ($Oxy$), ta có $\\sin \\beta = \\frac{|z_C - z_A|}{AC} = \\frac{25}{75} = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      234,
+      1515,
+      1400,
+      1556
+    ],
+    "category": "Text",
+    "text": "Tốc độ của chim $A$ theo phương thẳng đứng là thành phần vận tốc theo trục $Oz$:"
+  },
+  {
+    "bbox": [
+      639,
+      1562,
+      1138,
+      1640
+    ],
+    "category": "Formula",
+    "text": "$$\nv_{Az} = v_A \\cdot \\sin \\beta = 12 \\cdot \\frac{1}{3} = 4 \\text{ (m/s).}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      1658,
+      385,
+      1698
+    ],
+    "category": "List-item",
+    "text": "◇ **d) Đúng.**"
+  },
+  {
+    "bbox": [
+      234,
+      1714,
+      1311,
+      1756
+    ],
+    "category": "Text",
+    "text": "Bóng của chim $B$ trên mặt nước là hình chiếu của $B$ lên mặt phẳng ($Oxy$)."
+  },
+  {
+    "bbox": [
+      234,
+      1771,
+      1375,
+      1815
+    ],
+    "category": "Text",
+    "text": "Quăng đường bóng di chuyển là hình chiếu của đoạn $BC$ lên mặt phẳng ($Oxy$):"
+  },
+  {
+    "bbox": [
+      408,
+      1875,
+      1373,
+      1935
+    ],
+    "category": "Formula",
+    "text": "$$\nd = \\sqrt{(x_C - x_B)^2 + (y_C - y_B)^2} = \\sqrt{(-60)^2 + (-20)^2} = 20\\sqrt{10} \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      234,
+      1947,
+      1113,
+      2031
+    ],
+    "category": "Text",
+    "text": "Thời gian chim $B$ bay từ $B$ đến $C$ là $t = \\frac{BC}{v_B} = \\frac{65}{15} = \\frac{13}{3} \\text{ (s).}$"
+  },
+  {
+    "bbox": [
+      234,
+      2038,
+      1375,
+      2127
+    ],
+    "category": "Text",
+    "text": "Tốc độ của bóng là: $v_{bng} = \\frac{d}{t} = \\frac{20\\sqrt{10}}{13/3} = \\frac{60\\sqrt{10}}{13} \\approx 14,598 \\text{ (m/s)} > 14,5 \\text{ (m/s).}$"
+  },
+  {
+    "bbox": [
+      154,
+      2145,
+      191,
+      2182
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      2143,
+      864,
+      2187
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hàm số $y = f(x) = \\sqrt{x} + \\sqrt{32 - x}$."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "70"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

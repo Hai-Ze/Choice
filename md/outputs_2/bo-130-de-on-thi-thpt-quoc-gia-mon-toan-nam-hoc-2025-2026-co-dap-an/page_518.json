@@ -1,0 +1,409 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      41,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      120,
+      1139,
+      161
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Tập nghiệm của phương trình $\\sin x = 1$ là"
+  },
+  {
+    "bbox": [
+      477,
+      157,
+      817,
+      222
+    ],
+    "category": "List-item",
+    "text": "(A) $S = \\{\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      1023,
+      157,
+      1375,
+      222
+    ],
+    "category": "List-item",
+    "text": "(B) $S = \\{\\frac{\\pi}{2} + k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      477,
+      220,
+      745,
+      263
+    ],
+    "category": "List-item",
+    "text": "(C) $S = \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      1023,
+      220,
+      1304,
+      263
+    ],
+    "category": "List-item",
+    "text": "(D) $S = \\{2k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      448,
+      278,
+      1531,
+      320
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho bảng thống kê chiều cao của học sinh lớp 12A và lớp 12B như sau:"
+  },
+  {
+    "bbox": [
+      448,
+      373,
+      1553,
+      557
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Chiều cao (cm)</th><th>[150; 155)</th><th>[155; 160)</th><th>[160; 165)</th><th>[165; 170)</th><th>[170; 175)</th><th>[175; 180)</th><th>[180; 185)</th></tr></thead><tbody><tr><td>12A</td><td>1</td><td>5</td><td>23</td><td>10</td><td>2</td><td>3</td><td>0</td></tr><tr><td>12B</td><td>0</td><td>0</td><td>35</td><td>6</td><td>1</td><td>0</td><td>2</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      448,
+      586,
+      1553,
+      661
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên chiều cao lớp 12A và 12B lần lượt là $\\Delta_A$, $\\Delta_B$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      477,
+      659,
+      714,
+      702
+    ],
+    "category": "List-item",
+    "text": "(A) $\\Delta_B = \\Delta_A + 5$."
+  },
+  {
+    "bbox": [
+      749,
+      659,
+      986,
+      702
+    ],
+    "category": "List-item",
+    "text": "(B) $\\Delta_A = \\Delta_B + 5$."
+  },
+  {
+    "bbox": [
+      1023,
+      659,
+      1206,
+      702
+    ],
+    "category": "List-item",
+    "text": "(C) $\\Delta_A < \\Delta_B$."
+  },
+  {
+    "bbox": [
+      1294,
+      659,
+      1485,
+      702
+    ],
+    "category": "List-item",
+    "text": "(D) $\\Delta_A = \\Delta_B$."
+  },
+  {
+    "bbox": [
+      448,
+      716,
+      1553,
+      821
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Tiệm cận ngang của đồ thị hàm số $y = \\frac{3x + 2}{x - 1}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      477,
+      823,
+      603,
+      866
+    ],
+    "category": "List-item",
+    "text": "(A) $y = 1$."
+  },
+  {
+    "bbox": [
+      749,
+      823,
+      878,
+      866
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 1$."
+  },
+  {
+    "bbox": [
+      1023,
+      823,
+      1150,
+      866
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 3$."
+  },
+  {
+    "bbox": [
+      1294,
+      823,
+      1422,
+      866
+    ],
+    "category": "List-item",
+    "text": "(D) $y = 3$."
+  },
+  {
+    "bbox": [
+      463,
+      882,
+      1173,
+      936
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      944,
+      1553,
+      1100
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một nhà máy có hai phân xưởng cùng sản xuất một loại sản phẩm. Phân xưởng A và B lần lượt sản xuất 55% và 45% tổng số sản phẩm của nhà máy. Tỉ lệ sản phẩm tốt của phân xưởng A và B lần lượt là 90% và 95%. Lấy ngẫu nhiên một sản phẩm trong kho hàng của nhà máy."
+  },
+  {
+    "bbox": [
+      477,
+      1100,
+      1336,
+      1138
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để sản phẩm đó do phân xưởng A sản xuất là 0,55."
+  },
+  {
+    "bbox": [
+      477,
+      1140,
+      1549,
+      1215
+    ],
+    "category": "List-item",
+    "text": "b) Biết rằng sản phẩm lấy ra là sản phẩm tốt, xác suất sản phẩm đó do phân xưởng A sản xuất lớn hơn 0,55."
+  },
+  {
+    "bbox": [
+      477,
+      1217,
+      1549,
+      1294
+    ],
+    "category": "List-item",
+    "text": "c) Biết rằng sản phẩm lấy ra là phế phẩm, xác suất sản phẩm đó do phân xưởng B sản xuất nhỏ hơn 0,25."
+  },
+  {
+    "bbox": [
+      477,
+      1296,
+      1549,
+      1413
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử trong một tháng nhà máy sản xuất được 16800 sản phẩm thì số sản phẩm tốt của phân xưởng A sản xuất ra sẽ nhiều hơn số sản phẩm tốt của phân xưởng B là 1134 sản phẩm."
+  },
+  {
+    "bbox": [
+      448,
+      1432,
+      1553,
+      1650
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trên quốc lộ, một mô tô đang di chuyển từ Cần Thơ đến Sóc Trăng với vận tốc 50 km/h. Cùng lúc đó một ô tô đang di chuyển từ Sóc Trăng đến Cần Thơ với vận tốc 30 km/h, sau 6 phút di chuyển, thì ô tô bắt đầu tăng tốc với vận tốc $v(t) = \\frac{25}{9}t + b$ (m/s), với $t$ là thời gian kể từ lúc ô tô bắt đầu tăng tốc. Giả sử khi đạt đến tốc độ 60 km/h thì ô tô giữ nguyên vận tốc."
+  },
+  {
+    "bbox": [
+      477,
+      1652,
+      1225,
+      1689
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường xe mô tô đi được sau 10 phút là 5 km."
+  },
+  {
+    "bbox": [
+      477,
+      1691,
+      776,
+      1729
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $b$ là 30."
+  },
+  {
+    "bbox": [
+      477,
+      1731,
+      1549,
+      1769
+    ],
+    "category": "List-item",
+    "text": "c) Thời gian ô tô bắt đầu tăng tốc cho đến khi đạt đến tốc độ 60 km/h là 3 giây."
+  },
+  {
+    "bbox": [
+      477,
+      1771,
+      1549,
+      1888
+    ],
+    "category": "List-item",
+    "text": "d) Biết quăng đường Sóc Trăng – Cần Thơ dài 60 km, sau khi ô tô gặp mô tô thì ô tô di chuyển thêm 29 km thì đến Cần Thơ (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      448,
+      1905,
+      1553,
+      1985
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian với hệ trục tọa độ $Oxyz$, cho điểm $M(-1; 0; 2)$ và mặt phẳng"
+  },
+  {
+    "bbox": [
+      448,
+      1987,
+      772,
+      2023
+    ],
+    "category": "Text",
+    "text": "($P$): $x + y - 2z + 4 = 0$."
+  },
+  {
+    "bbox": [
+      477,
+      2023,
+      1255,
+      2061
+    ],
+    "category": "List-item",
+    "text": "a) Một vectơ pháp tuyến của mặt phẳng ($P$) là $(1; 1; -2)$."
+  },
+  {
+    "bbox": [
+      477,
+      2063,
+      948,
+      2101
+    ],
+    "category": "List-item",
+    "text": "b) Mặt phẳng ($P$) đi qua điểm $M$."
+  },
+  {
+    "bbox": [
+      477,
+      2103,
+      1372,
+      2146
+    ],
+    "category": "List-item",
+    "text": "c) Đường thẳng $OM$ có một vectơ chỉ phương là $\\overrightarrow{OM} = (1; 0; -2)$."
+  },
+  {
+    "bbox": [
+      477,
+      2148,
+      1549,
+      2255
+    ],
+    "category": "List-item",
+    "text": "d) Đường thẳng đi qua $M$ và vuông góc với mặt phẳng ($P$) có phương trình là $\\frac{x + 1}{1} = \\frac{y}{1} = \\frac{z - 2}{-2}$."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "516 Bùi Tịnh Minh Lâm"
+  }
+]

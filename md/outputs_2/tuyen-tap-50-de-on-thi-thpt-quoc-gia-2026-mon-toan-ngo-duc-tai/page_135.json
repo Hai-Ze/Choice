@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      535,
+      201
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      336,
+      211,
+      481,
+      253
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 24"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      754,
+      153,
+      1340,
+      201
+    ],
+    "category": "Section-header",
+    "text": "KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1507,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      193,
+      365,
+      1451,
+      483
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      193,
+      501,
+      962,
+      584
+    ],
+    "category": "Text",
+    "text": "Câu 1. Biết $\\int f(x)dx = \\frac{5^x}{\\ln 5} + 3$. Khi đó $f(x)$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      584,
+      1222,
+      668
+    ],
+    "category": "Text",
+    "text": "A. $f(x) = \\frac{5^x}{\\ln 5} + 3$. B. $f(x) = \\frac{5^x}{\\ln 5} + 3x$. C. $f(x) = 5^x + 3x$. D. $5^x$."
+  },
+  {
+    "bbox": [
+      193,
+      679,
+      1454,
+      835
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = f(x)$ liên tục trên $[a; b]$. Gọi $D$ là miễn hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và các đường thẳng $x = a, x = b (a < b)$. Diện tích của $D$ được cho bởi công thức nào sau đây?"
+  },
+  {
+    "bbox": [
+      221,
+      841,
+      1424,
+      968
+    ],
+    "category": "Text",
+    "text": "A. $S = \\int_{a}^{b} |f(x)| dx$. B. $S = \\int_{b}^{a} f(x) dx$. C. $S = \\int_{a}^{b} f(x) dx$. D. $S = \\pi \\int_{b}^{a} f^2(x) dx$."
+  },
+  {
+    "bbox": [
+      193,
+      985,
+      1454,
+      1086
+    ],
+    "category": "Text",
+    "text": "Câu 3. Hai thùng hàng $A, B$ đều chứa 25 quả táo. Kết quả kiểm tra cân nặng của 25 quả táo ở mỗi thùng $A$ và $B$ được cho ở bảng sau"
+  },
+  {
+    "bbox": [
+      239,
+      1111,
+      1407,
+      1279
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cân nặng (g)</td><td>[250; 260)</td><td>[260; 270)</td><td>[270; 280)</td><td>[280; 290)</td><td>[290; 300)</td></tr><tr><td>Số táo ở thùng A</td><td>2</td><td>4</td><td>12</td><td>4</td><td>3</td></tr><tr><td>Số táo ở thùng B</td><td>1</td><td>3</td><td>7</td><td>10</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      1306,
+      1055,
+      1352
+    ],
+    "category": "Text",
+    "text": "Trong các khẳng định dưới đây khẳng định nào đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1367,
+      1448,
+      1468
+    ],
+    "category": "Text",
+    "text": "A. Khối lượng trung bình của các quả táo ở thùng $A$ nặng hơn khối lượng trung bình các quả táo ở thùng."
+  },
+  {
+    "bbox": [
+      221,
+      1486,
+      1407,
+      1533
+    ],
+    "category": "Text",
+    "text": "B. Các quả táo có khối lượng từ 280 g trở lên ở thùng $A$ nhiều hơn thùng $B$."
+  },
+  {
+    "bbox": [
+      221,
+      1549,
+      1448,
+      1650
+    ],
+    "category": "Text",
+    "text": "C. Khối lượng trung bình của các quả táo ở thùng $B$ nặng hơn khối lượng trung bình các quả táo ở thùng $A$."
+  },
+  {
+    "bbox": [
+      221,
+      1667,
+      1025,
+      1714
+    ],
+    "category": "Text",
+    "text": "D. Trung bình khối lượng táo ở thùng $A$ là 280,2 g."
+  },
+  {
+    "bbox": [
+      193,
+      1741,
+      1454,
+      1842
+    ],
+    "category": "Text",
+    "text": "Câu 4. Phương trình tham số của đường thẳng ($d$) đi qua hai điểm $A(1; 2; -3)$ và $B(3; -1; 1)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1852,
+      1392,
+      2026
+    ],
+    "category": "Text",
+    "text": "A. $\\begin{cases} x = 1 + t \\\\ y = -2 + 2t \\\\ z = -1 - 3t \\end{cases}$. B. $\\begin{cases} x = 1 + 3t \\\\ y = -2 - t \\\\ z = -3 + t \\end{cases}$. C. $\\begin{cases} x = -1 + 2t \\\\ y = -2 - 3t \\\\ z = 3 + 4t \\end{cases}$. D. $\\begin{cases} x = -1 + 2t \\\\ y = 5 - 3t \\\\ z = -7 + 4t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      193,
+      2048,
+      1124,
+      2095
+    ],
+    "category": "Text",
+    "text": "Câu 5. Tập nghiệm của bất phương trình $\\log_3(x - 4) \\ge 2$ là"
+  },
+  {
+    "bbox": [
+      221,
+      2114,
+      1311,
+      2157
+    ],
+    "category": "Text",
+    "text": "A. $[9; +\\infty)$. B. $[13; +\\infty)$. C. $(13; +\\infty)$. D. $[10; +\\infty)$."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1451,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "bbox": [
+      235,
+      132,
+      1086,
+      210
+    ],
+    "category": "Text",
+    "text": "Do $\\vec{u}$ tạo với tia $Oz$ một góc nhọn nên $c > 0$, suy ra $c = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      195,
+      218,
+      598,
+      261
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định b): Đúng.**"
+  },
+  {
+    "bbox": [
+      235,
+      268,
+      1288,
+      367
+    ],
+    "category": "Text",
+    "text": "Thiết bị xuất phát từ $A(1; 2; 0)$ và có vectơ chỉ phương $\\vec{u} = \\left(\\frac{\\sqrt{2}}{2}; \\frac{1}{2}; \\frac{1}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      235,
+      374,
+      1193,
+      425
+    ],
+    "category": "Text",
+    "text": "Chọn vectơ chỉ phương cùng phương với $\\vec{u}$ là $\\vec{k} = 2\\vec{u} = (\\sqrt{2}; 1; 1)$."
+  },
+  {
+    "bbox": [
+      235,
+      438,
+      925,
+      481
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng quỹ đạo đi qua $A$ là:"
+  },
+  {
+    "bbox": [
+      235,
+      486,
+      522,
+      570
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{x - 1}{\\sqrt{2}} = \\frac{y - 2}{1} = \\frac{z}{1}.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      581,
+      557,
+      625
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định c): Sai.**"
+  },
+  {
+    "bbox": [
+      235,
+      632,
+      1562,
+      799
+    ],
+    "category": "Text",
+    "text": "Quăng đường $s(t)$ là nguyên hàm của vận tốc $v(t)$: $s(t) = \\int_{0}^{t} (mx+10)dx = \\left(\\frac{1}{2}mx^2 + 10x\\right)\\bigg|_{0}^{t} = \\frac{1}{2}mt^2 + 10t$."
+  },
+  {
+    "bbox": [
+      235,
+      802,
+      1347,
+      931
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, sau 5 giây đi được 125 m: $s(5) = 125 \\Leftrightarrow \\frac{1}{2}m \\cdot 5^2 + 10 \\cdot 5 = 125 \\Leftrightarrow 12,5m + 50 = 125 \\Leftrightarrow 12,5m = 75 \\Leftrightarrow m = 6$. Vậy $m = 6$處 không phải 4."
+  },
+  {
+    "bbox": [
+      195,
+      945,
+      598,
+      989
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định d): Đúng.**"
+  },
+  {
+    "bbox": [
+      235,
+      1002,
+      1164,
+      1046
+    ],
+    "category": "Text",
+    "text": "Sau 10 giây kể từ lúc xuất phát, quăng đường thiết bị đi được là:"
+  },
+  {
+    "bbox": [
+      235,
+      1051,
+      961,
+      1130
+    ],
+    "category": "Formula",
+    "text": "$$\ns(10) = \\frac{1}{2} \\cdot 6 \\cdot 10^2 + 10 \\cdot 10 = 300 + 100 = 400 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1133,
+      1132,
+      1183
+    ],
+    "category": "Text",
+    "text": "Vị trí của thiết bị tại thời điểm $t$ là $M$ sao cho $\\overrightarrow{AM} = s(t) \\cdot \\vec{u}$."
+  },
+  {
+    "bbox": [
+      235,
+      1192,
+      1545,
+      1303
+    ],
+    "category": "Text",
+    "text": "Độ cao của thiết bị chính là cao độ $z$ của điểm $M$: $z_M = z_A + s(10) \\cdot c = 0 + 400 \\cdot \\frac{1}{2} = 200$ (m)."
+  },
+  {
+    "bbox": [
+      152,
+      1323,
+      189,
+      1359
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      195,
+      1321,
+      1334,
+      1362
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hàm số $y = f(x)$, hàm số $y = f'(x)$ có đồ thị như hình vẽ bên dưới."
+  },
+  {
+    "bbox": [
+      517,
+      1376,
+      1166,
+      1713
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1730,
+      1244,
+      1781
+    ],
+    "category": "Text",
+    "text": "Biết $f(-1) = -\\frac{43}{4}$, diện tích hình phẳng $(H_1)$, $(H_2)$ lần lượt bằng 20 và 128."
+  },
+  {
+    "bbox": [
+      189,
+      1789,
+      713,
+      1881
+    ],
+    "category": "List-item",
+    "text": "a) Giá trị của $\\int_{-1}^{5} f'(x)dx$ bằng 148."
+  },
+  {
+    "bbox": [
+      189,
+      1886,
+      632,
+      1938
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $f(5)$ bằng $-\\frac{475}{4}$."
+  },
+  {
+    "bbox": [
+      189,
+      1943,
+      604,
+      1986
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị của $f(2)$ bằng $-4$."
+  },
+  {
+    "bbox": [
+      189,
+      1997,
+      1545,
+      2091
+    ],
+    "category": "List-item",
+    "text": "d) Diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = -\\frac{3}{2}x^2 + 15x$, trục tung và đường thẳng $x = 5$ bằng $\\frac{625}{2}$."
+  },
+  {
+    "bbox": [
+      152,
+      2106,
+      195,
+      2142
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      2104,
+      444,
+      2167
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      204,
+      2180,
+      919,
+      2223
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng $(H_1)$ bằng 20 nên ta có:"
+  },
+  {
+    "bbox": [
+      75,
+      2251,
+      111,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "78"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

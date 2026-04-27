@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      199,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      1496,
+      279
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ các điểm $M, N, P, Q$ vào phương trình mặt phẳng $(\\alpha)$, ta thấy điểm $N(1;0;1)$ thuộc mặt phẳng $(\\alpha)$."
+  },
+  {
+    "bbox": [
+      76,
+      307,
+      1496,
+      465
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 6x+8y+10z-1=0$ và đường thẳng $d: \\frac{x-2}{3} = \\frac{y+1}{4} = \\frac{z-5}{5}$. Góc giữa đường thẳng $d$ và mặt phẳng $(P)$ là"
+  },
+  {
+    "bbox": [
+      125,
+      488,
+      232,
+      527
+    ],
+    "category": "List-item",
+    "text": "A. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      476,
+      488,
+      577,
+      527
+    ],
+    "category": "List-item",
+    "text": "B. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      826,
+      488,
+      928,
+      527
+    ],
+    "category": "List-item",
+    "text": "C. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      1175,
+      488,
+      1269,
+      527
+    ],
+    "category": "List-item",
+    "text": "D. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      727,
+      551,
+      843,
+      590
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      608,
+      199,
+      647
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      664,
+      1078,
+      717
+    ],
+    "category": "Text",
+    "text": "Ta có $\\vec{n}_P = (6;8;10)$; $\\vec{u}_d = (3;4;5) \\Rightarrow \\vec{n}_P = 2\\vec{u}_d$ hay $\\vec{n}_P$ và $\\vec{u}_d$ cùng phương."
+  },
+  {
+    "bbox": [
+      76,
+      744,
+      1084,
+      794
+    ],
+    "category": "Text",
+    "text": "Vậy $d \\perp (P)$, do đó góc giữa đường thẳng $d$ và mặt phẳng $(P)$ bằng $90^\\circ$."
+  },
+  {
+    "bbox": [
+      76,
+      814,
+      1488,
+      918
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình lập phương $ABCD.A'B'C'D'$, có $AC$ cắt $BD$ tại $O$; $A'C'$ cắt $B'D'$ tại $O'$. Gọi $S$ là giao điểm của $AO'$ và $CC'$ thì $S$ không thuộc mặt phẳng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      125,
+      939,
+      337,
+      986
+    ],
+    "category": "List-item",
+    "text": "A. $(DD'C'C)$."
+  },
+  {
+    "bbox": [
+      476,
+      939,
+      679,
+      986
+    ],
+    "category": "List-item",
+    "text": "B. $(BB'C'C)$."
+  },
+  {
+    "bbox": [
+      826,
+      939,
+      1007,
+      986
+    ],
+    "category": "List-item",
+    "text": "C. $(AB'D')$."
+  },
+  {
+    "bbox": [
+      1175,
+      939,
+      1345,
+      986
+    ],
+    "category": "List-item",
+    "text": "D. $(CB'D')$."
+  },
+  {
+    "bbox": [
+      727,
+      1012,
+      843,
+      1051
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1069,
+      199,
+      1108
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      588,
+      1136,
+      969,
+      1692
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      82,
+      1740,
+      458,
+      1849
+    ],
+    "category": "Formula",
+    "text": "$$\nS \\in CC' \\Rightarrow \\begin{cases} S \\in (DD'C'C) \\\\ S \\in (BB'C'C) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1877,
+      804,
+      1926
+    ],
+    "category": "Formula",
+    "text": "$$\nS \\in AO' (O' \\in B'D') \\Rightarrow S \\in (AB'D') \\Rightarrow S \\notin (CB'D').\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1951,
+      1496,
+      2061
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông, cạnh bên $SA$ vuông góc với đáy $(ABCD)$. Phát biểu nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      125,
+      2088,
+      362,
+      2135
+    ],
+    "category": "List-item",
+    "text": "A. $AC \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      476,
+      2088,
+      705,
+      2135
+    ],
+    "category": "List-item",
+    "text": "B. $CD \\perp (SAD)$."
+  },
+  {
+    "bbox": [
+      826,
+      2088,
+      1055,
+      2135
+    ],
+    "category": "List-item",
+    "text": "C. $BD \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      1175,
+      2088,
+      1414,
+      2135
+    ],
+    "category": "List-item",
+    "text": "D. $AD \\perp (SCD)$."
+  },
+  {
+    "bbox": [
+      727,
+      2163,
+      843,
+      2202
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2254,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

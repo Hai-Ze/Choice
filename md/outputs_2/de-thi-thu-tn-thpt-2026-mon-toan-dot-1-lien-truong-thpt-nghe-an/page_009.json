@@ -1,0 +1,169 @@
+[
+  {
+    "bbox": [
+      152,
+      82,
+      1575,
+      246
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Mức cường độ âm $L(dB)$ được tính bởi công thức $L = 10 \\log \\frac{I}{10^{-13}}$, trong đó $I(W/m^2)$ là cường độ âm. Để đảm bảo sức khỏe cho công nhân, mức cường độ âm trong một nhà máy phải giữ sao cho không vượt quá $80 dB$. Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      636,
+      246,
+      1087,
+      547
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      549,
+      482,
+      588
+    ],
+    "category": "Formula",
+    "text": "a) $L = 10 \\log I + 130$."
+  },
+  {
+    "bbox": [
+      192,
+      596,
+      1349,
+      647
+    ],
+    "category": "Formula",
+    "text": "b) Nếu cường độ âm $I = 1000(W/m^2)$ thì mức cường độ âm không vượt quá $175 dB$."
+  },
+  {
+    "bbox": [
+      192,
+      655,
+      1373,
+      707
+    ],
+    "category": "Formula",
+    "text": "c) Để mức cường độ âm không vượt quá $140 dB$ thì cần cường độ âm $I \\le 100(W/m^2)$."
+  },
+  {
+    "bbox": [
+      192,
+      717,
+      1560,
+      768
+    ],
+    "category": "Formula",
+    "text": "d) Cường độ âm của nhà máy đó không vượt quá $10^{-4,5}(W/m^2)$ thì đảm bảo sức khỏe cho công nhân."
+  },
+  {
+    "bbox": [
+      152,
+      772,
+      1573,
+      851
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn, gồm 6 câu, tổng 3,0 điểm** (mối câu 0,5 điểm). Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      152,
+      855,
+      1573,
+      1081
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Dịp cuối tuần một nhóm $n$ bạn gồm Khoa, Khôi, Thảo và $(n-3)$ bạn khác cùng nhau đến rạp chiếu phim xem bộ phim “Mưa đỏ”. Khi xếp tùy ý nhóm bạn này vào dãy ghế được đánh số từ 1 đến $n$, mỗi bạn ngồi một ghế thì xác suất để số ghế của Khoa, Thảo, Khôi theo thứ tự lập thành cấp số cộng là $\\frac{13}{675}$. Tìm $n$?"
+  },
+  {
+    "bbox": [
+      582,
+      1080,
+      1141,
+      1466
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1464,
+      1543,
+      1548
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Chú kiến bị lạc tổ, chú đang loay hoay để tìm tổ. Chú đi theo suy đoán và đặt hệ trục tọa độ Oxy thì đường đi của chú có quỹ đạo là 1 phần đường cong đồ thị của hàm số có công thức"
+  },
+  {
+    "bbox": [
+      159,
+      1552,
+      1307,
+      1605
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) = a(x-b)^2 \\quad (\\text{với a, b là các số thực dương}). \\text{ Hàm số } y = f(x) \\text{ có tính chất:}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1616,
+      1557,
+      1725
+    ],
+    "category": "Text",
+    "text": "Với số thực $k$ gọi hàm số $g(k) = \\max_{[k; k+2]} f(x) - \\min_{[k; k+2]} f(x)$. Hàm số $g(k)$ thỏa mãn $\\begin{cases} g(3) = a \\\\ g(2) + g(6) = 32 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      152,
+      1730,
+      1376,
+      1776
+    ],
+    "category": "Text",
+    "text": "Biết tổ của chú nằm ngay tại gốc tọa độ O. Thời điểm 9h sáng chú đang ở vị trí A (hình vẽ)."
+  },
+  {
+    "bbox": [
+      609,
+      1795,
+      1116,
+      2129
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      2152,
+      1442,
+      2198
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa chú kiến và tổ của mình là bao nhiêu? (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      152,
+      2231,
+      557,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1423,
+      2236,
+      1573,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9/40"
+  }
+]

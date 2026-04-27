@@ -1,0 +1,142 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      1326,
+      250
+    ],
+    "category": "Text",
+    "text": "Xét $\\Delta SAH$ vuông tại $H$ có $SH = \\sqrt{SA^2 - AH^2} = \\sqrt{\\left(\\frac{a\\sqrt{6}}{2}\\right)^2 - \\left(\\frac{a\\sqrt{2}}{2}\\right)^2} = a$"
+  },
+  {
+    "bbox": [
+      251,
+      278,
+      1329,
+      375
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích khối chóp $S.ABC$ là: $V_{SABC} = \\frac{1}{3} \\cdot S_{\\Delta ABC} \\cdot SH = \\frac{1}{3} \\cdot \\frac{a^2}{2} \\cdot a = \\frac{a^3}{6}$ (đvtt)"
+  },
+  {
+    "bbox": [
+      202,
+      396,
+      337,
+      438
+    ],
+    "category": "Section-header",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      202,
+      446,
+      858,
+      507
+    ],
+    "category": "Text",
+    "text": "Vì $SH \\perp (ABC) \\Rightarrow SH \\perp AH \\Rightarrow \\overrightarrow{SH} \\cdot \\overrightarrow{AH} = 0$"
+  },
+  {
+    "bbox": [
+      251,
+      535,
+      1048,
+      586
+    ],
+    "category": "Text",
+    "text": "Vì $\\Delta ABC$ vuông cân tại $A \\Rightarrow AH \\perp BC \\Rightarrow \\overrightarrow{AH} \\cdot \\overrightarrow{HB} = 0$"
+  },
+  {
+    "bbox": [
+      251,
+      617,
+      1249,
+      680
+    ],
+    "category": "Text",
+    "text": "Tính $\\overrightarrow{AH} \\cdot \\overrightarrow{SB} = \\overrightarrow{AH} \\cdot (\\overrightarrow{SH} + \\overrightarrow{HB}) = \\overrightarrow{AH} \\cdot \\overrightarrow{SH} + \\overrightarrow{AH} \\cdot \\overrightarrow{HB} = 0 \\Rightarrow AH \\perp SB$."
+  },
+  {
+    "bbox": [
+      202,
+      707,
+      341,
+      749
+    ],
+    "category": "Section-header",
+    "text": "d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      202,
+      755,
+      1033,
+      852
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ điểm $C$ đến mặt phẳng $(SAB)$ bằng $\\frac{2\\sqrt{5}}{5}a$."
+  },
+  {
+    "bbox": [
+      251,
+      878,
+      1533,
+      1025
+    ],
+    "category": "Text",
+    "text": "Trong $\\Delta ABC$ kẻ $HK \\perp AB$, suy ra $HK // AC$, vậy $HK$ là đường trung bình của $\\Delta ABC$, nên $HK = \\frac{AC}{2} = \\frac{a}{2}$."
+  },
+  {
+    "bbox": [
+      251,
+      1050,
+      1105,
+      1166
+    ],
+    "category": "Text",
+    "text": "Khi đó có $\\begin{cases} AB \\perp HK \\\\ AB \\perp SH \\ (do \\ SH \\perp (ABC)) \\end{cases} \\Rightarrow AB \\perp (SHK)$."
+  },
+  {
+    "bbox": [
+      251,
+      1195,
+      1088,
+      1245
+    ],
+    "category": "Text",
+    "text": "Trong $\\Delta SHK$ kẻ $HI \\perp SK \\Rightarrow HI \\perp AB$. Vậy $HI \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      251,
+      1281,
+      1190,
+      1470
+    ],
+    "category": "Text",
+    "text": "Do đó $d(H, (SAB)) = HI = \\frac{HK \\cdot HS}{\\sqrt{HK^2 + HS^2}} = \\frac{\\frac{a}{2} \\cdot a}{\\sqrt{\\left(\\frac{a}{2}\\right)^2 + a^2}} = \\frac{a\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      251,
+      1498,
+      1387,
+      1597
+    ],
+    "category": "Text",
+    "text": "Vì $H$ là trung điểm của $BC$, nên $d(C, (SAB)) = 2 \\cdot d(H, (SAB)) = 2 \\cdot HI = \\frac{2a\\sqrt{5}}{5}$"
+  },
+  {
+    "bbox": [
+      114,
+      1618,
+      1533,
+      1903
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Hình dưới đây là hình ảnh Cầu Cổng Vàng (The Golden Gate Bridge) ở Mỹ. Xét hệ trục tọa độ $Oxyz$ (như hình vẽ) với $O$ là điểm nằm trên bệ của chân cột trụ tại mặt nước, trục $Oz$ trùng với cột trụ, mặt phẳng $(Oxy)$ là mặt nước và trục $Oy$ cùng phương với cầu (đơn vị trên hệ trục tọa độ là mét). Dây cáp $AD$ (xem như một đoạn thẳng) nối điểm $D$ thuộc trục $Oz$ với một điểm $A$ thuộc mặt phẳng $(Oyz)$. Biết điểm $D$ là đinh cột trụ, cách mặt nước 227 m; điểm $A$ cách mặt nước 75 m và cách trục $Oz$ một khoảng bằng 343 m."
+  }
+]

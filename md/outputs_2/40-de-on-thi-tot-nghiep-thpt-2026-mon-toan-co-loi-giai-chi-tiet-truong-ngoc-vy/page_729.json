@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      956,
+      136
+    ],
+    "category": "Text",
+    "text": "Trong tổng số 90 học sinh, có 50 học sinh nam và 40 học sinh nữ."
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      859,
+      194
+    ],
+    "category": "Text",
+    "text": "Trong số 85 học sinh đạt huy chương, có 48 học sinh nam."
+  },
+  {
+    "bbox": [
+      76,
+      208,
+      995,
+      253
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một học sinh từ đội tuyển sau khi cuộc thi kết thúc."
+  },
+  {
+    "bbox": [
+      76,
+      273,
+      685,
+      352
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được một học sinh nữ là $\\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      76,
+      379,
+      933,
+      458
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được một học sinh nam đạt huy chương là $\\frac{7}{15}$."
+  },
+  {
+    "bbox": [
+      76,
+      484,
+      1202,
+      566
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng học sinh được chọn là nam, xác suất học sinh đó đạt huy chương là $\\frac{24}{25}$."
+  },
+  {
+    "bbox": [
+      76,
+      590,
+      1221,
+      671
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng học sinh được chọn đã đạt huy chương, xác suất học sinh đó là nữ là $\\frac{37}{95}$."
+  },
+  {
+    "bbox": [
+      727,
+      695,
+      843,
+      734
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      748,
+      893,
+      870
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      872,
+      487,
+      909
+    ],
+    "category": "Text",
+    "text": "N: Học sinh được chọn là nam"
+  },
+  {
+    "bbox": [
+      76,
+      930,
+      460,
+      967
+    ],
+    "category": "Text",
+    "text": "F: Học sinh được chọn là nữ"
+  },
+  {
+    "bbox": [
+      76,
+      988,
+      603,
+      1026
+    ],
+    "category": "Text",
+    "text": "H: Học sinh được chọn đạt huy chương"
+  },
+  {
+    "bbox": [
+      76,
+      1045,
+      702,
+      1084
+    ],
+    "category": "Text",
+    "text": "K: Học sinh được chọn không đạt huy chương."
+  },
+  {
+    "bbox": [
+      76,
+      1098,
+      707,
+      1142
+    ],
+    "category": "Text",
+    "text": "Tổng số học sinh (không gian mẫu): $n(\\Omega) = 90$"
+  },
+  {
+    "bbox": [
+      76,
+      1164,
+      342,
+      1206
+    ],
+    "category": "Text",
+    "text": "Thông tin từ đề bài:"
+  },
+  {
+    "bbox": [
+      82,
+      1226,
+      541,
+      1263
+    ],
+    "category": "Formula",
+    "text": "$$\nn(N) = 50; n(F) = 40; n(H) = 85\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1285,
+      756,
+      1329
+    ],
+    "category": "Formula",
+    "text": "$$\nn(N \\cap H) = 48 \\text{ (Số học sinh nam đạt huy chương)}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1355,
+      257,
+      1393
+    ],
+    "category": "Text",
+    "text": "Từ đó suy ra:"
+  },
+  {
+    "bbox": [
+      82,
+      1407,
+      1147,
+      1452
+    ],
+    "category": "Formula",
+    "text": "$$\nn(F \\cap H) = n(H) - n(N \\cap H) = 85 - 48 = 37 \\text{ (Số học sinh nữ đạt huy chương)}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1478,
+      880,
+      1562
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được học sinh nữ: $P(F) = \\frac{n(F)}{n(\\Omega)} = \\frac{40}{90} = \\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      76,
+      1582,
+      791,
+      1627
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được học sinh nam đạt huy chương:"
+  },
+  {
+    "bbox": [
+      82,
+      1647,
+      549,
+      1732
+    ],
+    "category": "Formula",
+    "text": "$$\nP(N \\cap H) = \\frac{n(N \\cap H)}{n(\\Omega)} = \\frac{48}{90} = \\frac{8}{15}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1752,
+      966,
+      1797
+    ],
+    "category": "Text",
+    "text": "c) Xác suất học sinh đạt huy chương, biết rằng học sinh đó là nam:"
+  },
+  {
+    "bbox": [
+      82,
+      1817,
+      591,
+      1900
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H | N) = \\frac{P(N \\cap H)}{P(N)} = \\frac{\\frac{8}{15}}{\\frac{50}{90}} = \\frac{24}{25}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1922,
+      982,
+      1967
+    ],
+    "category": "Text",
+    "text": "d) Xác suất học sinh là nữ, biết rằng học sinh đó đã đạt huy chương:"
+  },
+  {
+    "bbox": [
+      82,
+      1985,
+      586,
+      2069
+    ],
+    "category": "Formula",
+    "text": "$$\nP(F | H) = \\frac{P(F \\cap H)}{P(H)} = \\frac{\\frac{37}{90}}{\\frac{85}{90}} = \\frac{37}{85}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2091,
+      1494,
+      2251
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người đang điều chỉnh ô tô chạy trên đường cao tốc và muốn ra khỏi đường cao tốc. Khi cách lối ra 200 m, người đó điều chỉnh xe cho xe chuyển hướng sang làn đường giảm tốc, tốc độ của ô tô khi đó là 90 km/h. Bốn giây sau đó, người điều chỉnh ô tô bắt đầu giảm tốc độ với vận tốc"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      838,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

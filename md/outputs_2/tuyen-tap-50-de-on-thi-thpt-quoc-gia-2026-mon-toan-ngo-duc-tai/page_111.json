@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      365
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một kho hàng có 1000 thùng hàng với bề ngoài giống hệt nhau, trong đó có 480 thùng hàng loại I và 520 thùng hàng loại II. Trong số các thùng hàng đó, có 80% thùng hàng loại I và 85% thùng hàng loại II đã được kiểm định. Chọn ngẫu nhiên một thùng hàng trong kho."
+  },
+  {
+    "bbox": [
+      222,
+      373,
+      1039,
+      419
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được thùng hàng loại I bằng 48%."
+  },
+  {
+    "bbox": [
+      222,
+      427,
+      1379,
+      473
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất chọn được thùng hàng loại II đã được kiểm định bằng 38,4%."
+  },
+  {
+    "bbox": [
+      222,
+      480,
+      1231,
+      526
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất chọn được thùng hàng chưa kiểm định bằng 17,4%."
+  },
+  {
+    "bbox": [
+      222,
+      535,
+      1448,
+      689
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử thùng hàng được lấy ra là thùng hàng chưa được kiểm định, xác suất thùng hàng đó là thùng loại I thấp hơn xác suất thùng hàng đó là thùng loại II."
+  },
+  {
+    "bbox": [
+      192,
+      713,
+      1455,
+      1194
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hệ thống Kiểm soát không lưu, còn gọi là kiểm soát không lưu (tiếng anh: air traffic control, viết tắt là ATC), là hệ thống chuyên trách đảm nhận việc gửi các hướng dẫn đến máy bay nhằm giúp các máy bay tránh va scan, đồng thời đảm bảo tính hoạt động hiệu quả của nền tảng không lưu. Trong không gian với hệ tọa độ $Oxyz$, xét một đài kiểm soát không lưu sân bay có tọa độ $O(0;0;0)$, mỗi đơn vị trên trục ứng với 1 km. máy bay trong phạm vi cách đài kiểm soát 417 km sẽ intelect thị trên màn hình ra đa. Một máy bay đang ở vị trí $A(-688;-185;8)$ chuyển động theo đường thẳng $d$ có vectơ chỉ phương là $\\vec{u} = (91;75;0)$ và hướng về đài kiểm soát không lưu."
+  },
+  {
+    "bbox": [
+      222,
+      1202,
+      1448,
+      1248
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình đường thẳng mô tả đường bay của máy bay trên là"
+  },
+  {
+    "bbox": [
+      275,
+      1248,
+      664,
+      1438
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = -688 + 91t \\\\ y = -185 + 75t, t \\in \\mathbb{R}. \\\\ z = 8 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1440,
+      1448,
+      1564
+    ],
+    "category": "List-item",
+    "text": "b) Vị trí mà máy bay bay gần đài kiểm soát không lưu nhất là điểm $\\left(-\\frac{375}{2}; \\frac{455}{2}; 8\\right)$."
+  },
+  {
+    "bbox": [
+      222,
+      1564,
+      1448,
+      1664
+    ],
+    "category": "List-item",
+    "text": "c) Vị trí sớm nhất mà máy bay xuất hiện trên màn hình ra đa có tọa độ $(-88;415;8)$."
+  },
+  {
+    "bbox": [
+      222,
+      1666,
+      1448,
+      1823
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử suốt quá trình được theo dõi bở đài kiểm soát không lưu này máy bay luôn giữ vận tốc không đổi là $800\\text{km/h}$ thì thời gian kiểm soát không lưu mất 0,62 giờ (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      216,
+      1879,
+      1386,
+      1933
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      192,
+      1964,
+      1455,
+      2175
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nếu $D_0$ là chênh lệch nhiệt độ ban đầu giữa một vật $M$ và các vật xung quanh, nếu các vật xung quanh ban đầu có nhiệt độ $T_S$ thì nhiệt độ của vật $M$ tại thời điểm $t$ được mô hình hóa bởi hàm số $T(t) = T_S + D_0 \\cdot e^{-kt}$ (1) (trong đó $k$ là hằng số dương phụ thuộc vào vật $M$). Một con gà Tây nướng được lấy từ lò nướng"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1455,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4"
+  }
+]

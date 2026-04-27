@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      154,
+      132,
+      1161,
+      210
+    ],
+    "category": "Text",
+    "text": "Câu 4.统一公理 $q$ 的值。$u_1 = \\frac{1}{4}, u_4 = -2$。"
+  },
+  {
+    "bbox": [
+      191,
+      218,
+      1373,
+      297
+    ],
+    "category": "Text",
+    "text": "A $q = -2$. B $q = 2$. C $q = -\\frac{1}{2}$. D $q = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      305,
+      1254,
+      383
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $u_4 = u_1 \\cdot q^3 \\Leftrightarrow -2 = \\frac{1}{4} \\cdot q^3 \\Leftrightarrow q^3 = -8 \\Leftrightarrow q = -2$。"
+  },
+  {
+    "bbox": [
+      154,
+      395,
+      777,
+      439
+    ],
+    "category": "Text",
+    "text": "Câu 5. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      189,
+      449,
+      1213,
+      612
+    ],
+    "category": "Text",
+    "text": "A $\\int x^5 dx = 5x^4 + C$.\nB $\\int x^5 dx = \\frac{x^5}{\\ln 5} + C$.\nC $\\int x^5 dx = \\frac{1}{6}x^6 + C$.\nD $\\int x^5 dx = x^6 + C$."
+  },
+  {
+    "bbox": [
+      154,
+      608,
+      1544,
+      692
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Áp dụng công thức nguyên hàm cơ bản: $\\int x^n dx = \\frac{x^{n+1}}{n+1} + C$ (với $n \\neq -1$)。"
+  },
+  {
+    "bbox": [
+      202,
+      690,
+      698,
+      772
+    ],
+    "category": "Text",
+    "text": "Vậy $\\int x^5 dx = \\frac{x^6}{6} + C = \\frac{1}{6}x^6 + C$。"
+  },
+  {
+    "bbox": [
+      154,
+      787,
+      1500,
+      831
+    ],
+    "category": "Text",
+    "text": "Câu 6. 选择图中建立的坐标系。"
+  },
+  {
+    "bbox": [
+      191,
+      847,
+      1335,
+      892
+    ],
+    "category": "Text",
+    "text": "A $60^\\circ$. B $45^\\circ$. C $30^\\circ$. D $90^\\circ$。"
+  },
+  {
+    "bbox": [
+      154,
+      906,
+      1546,
+      1013
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. 因为 $CD // AB$，所以 $\\angle BAC = \\angle BCD$，$\\angle ABC = \\angle BCD$，$\\angle BCA = \\angle BCD$，所以 $\\angle BAC = \\angle ABC = \\angle BCA$，即 $\\triangle ABC$ 是等边三角形。"
+  },
+  {
+    "bbox": [
+      202,
+      1034,
+      1413,
+      1076
+    ],
+    "category": "Text",
+    "text": "Trong hình lập phương, $ABB'A'$ 是正方形，所以 $\\angle BAA' = 90^\\circ$。"
+  },
+  {
+    "bbox": [
+      202,
+      1089,
+      483,
+      1133
+    ],
+    "category": "Text",
+    "text": "Do đó $\\angle ABA' = 45^\\circ$。"
+  },
+  {
+    "bbox": [
+      154,
+      1138,
+      998,
+      1222
+    ],
+    "category": "Text",
+    "text": "Câu 7. 确定 $\\left(\\frac{1}{2}\\right)^x < \\frac{1}{8}$ 的解集。"
+  },
+  {
+    "bbox": [
+      191,
+      1238,
+      1400,
+      1283
+    ],
+    "category": "Text",
+    "text": "A $(3; +\\infty)$. B $(-\\infty; 3)$. C $[3; +\\infty)$. D $(-\\infty; 3]$。"
+  },
+  {
+    "bbox": [
+      154,
+      1294,
+      768,
+      1381
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\left(\\frac{1}{2}\\right)^x < \\left(\\frac{1}{2}\\right)^3$。"
+  },
+  {
+    "bbox": [
+      202,
+      1395,
+      1085,
+      1475
+    ],
+    "category": "Text",
+    "text": "因 $\\frac{1}{2} \\in (0; 1)$，所以 $\\left(\\frac{1}{2}\\right)^x < \\left(\\frac{1}{2}\\right)^3$。"
+  },
+  {
+    "bbox": [
+      202,
+      1487,
+      598,
+      1527
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm là $(3; +\\infty)$。"
+  },
+  {
+    "bbox": [
+      154,
+      1546,
+      1546,
+      1634
+    ],
+    "category": "Text",
+    "text": "Câu 8. 选择图中建立的坐标系。"
+  },
+  {
+    "bbox": [
+      671,
+      1645,
+      1018,
+      2178
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tinh và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "135"
+  }
+]

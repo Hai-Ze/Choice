@@ -1,0 +1,81 @@
+[
+  {
+    "bbox": [
+      152,
+      140,
+      1548,
+      404
+    ],
+    "category": "Text",
+    "text": "Bài 3. Ngày nay, để giúp xác định nhanh hàng thật hay giả 1 chiếc đồng hồ Rolex, ta dựa vào tốc độ góc thay đổi giữa các kim của đồng hồ (rad/phút). Chiес đồng hồ Rolex được thẩm định có kích thước chuẩn (loại cho nam) ở kim giờ và kim phút lần lượt là 10 mm và 15 mm. Biết rằng góc giữa hai kim là hàm $\\theta(t)$ với $t$ là số phút thể hiện sau 12 giờ chiều (tức thời điểm hai kim trùng nhau chỉ vào số 12). Xác định thời điểm $t$ đầu tiên mà diện tích tam giác $OAB$ bằng $37,5 \\text{ mm}^2$? (Kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      152,
+      422,
+      1548,
+      604
+    ],
+    "category": "Text",
+    "text": "Bài 4. Có tám người ngồi quanh một bàn tròn. Mỗi người được đưa cho một đồng xu cân đối và đồng chất. Cả tám người cùng tung đồng xu của mình, ai tung được mặt ngửa thì đứng场, còn ai tung được mặt sấp thì vẫn ngồi yên. Biết rằng xác suất để không có hai người đứng cạnh nhau là $\\frac{a}{b}$ ($\\frac{a}{b}$ là phân số tối giản, $a, b \\in \\mathbb{N}^*$). Tính $a^2 + b$."
+  },
+  {
+    "bbox": [
+      152,
+      616,
+      1548,
+      836
+    ],
+    "category": "Text",
+    "text": "Bài 5. Một bể nước có dạng hình chóp cụt tức giác đều có chiều cao $h = 40 \\text{ cm}$, đáy bể là hình vuông cạnh 10 cm và miếng bể là hình vuông cạnh 20 cm. Một viên bi sát hình cầu không nổi bán kính $r = 4 \\text{ cm}$ đặt dưới đáy bể nước. Ban đầu bể cạn, sau đó nước được đổ vào bể với tốc độ không đổi $20 \\text{ cm}^3/\\text{s}$. Tốc độ dâng lên của mực nước trong bể khi viên bi sát ngập một half trong nước là bao nhiêu cm/s (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      478,
+      840,
+      1218,
+      1359
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1394,
+      1548,
+      1703
+    ],
+    "category": "Text",
+    "text": "Bài 6. Để khám phá không gian, các nhà khoa học thường phải quan sát những vật thể xa xôi như sao chổi, tiểu hành tinh và các hiện tượng thiên văn khác. Nh�m mục đích đó, các nhà khoa học thiết kế và phóng các vệ tinh quan sát lên quỹ đạo quanh Trái Đất. Hầu hết các vệ tinh không chuyển động theo vòng tròn hoàn hảo mà có quỹ đạo là một đường elip, với Trái Đất nằm ở một trong hai tiêu điểm của elip. Khi một vệ tinh chuyển động trên quỹ đạo elip, khoảng cách giữa nó và vật thể cần quan sát liên tục thay đổi. Thông thường, nếu khoảng cách từ vệ tinh đến vật thể cần quan sát là ngắn nhất thì các thiết bị cảm biến trên vệ tinh sẽ nhận được tín hiệu tốt nhất."
+  },
+  {
+    "bbox": [
+      152,
+      1721,
+      1548,
+      2116
+    ],
+    "category": "Text",
+    "text": "Cho một vệ tinh (được xem như là một chất điểm) chuyển động xung quanh Trái Đất theo quỹ đạo là một đường elip. Trong không gian với hệ trục tọa độ vuông góc $Oxyz$ (đơn vị trên mỗi trục $Ox, Oy, Oz$ đều bằng 6400 km), giả sử vệ tinh chuyển động trên mặt phẳng tọa độ ($Oxy$) theo quỹ đạo có phương trình là $x^2 + 3y^2 = 17$. Vệ tinh cần quan sát một vật thể (cũng được xem như là một chất điểm) chuyển động trong không gian. Theo các kết quả nghiên cứu, khi vật thể chuyển động đến vị trí $A(2; \\frac{16}{\\sqrt{3}}; 8)$ thì việc quan sát vật thể đó là tốt nhất. Hãy xác định tọa độ điểm $C$ (trên quỹ đạo elip của vệ tinh) trong không gian với hệ trục tọa độ $Oxyz$ nói trên sao cho khoảng cách từ vị trí $C$ đến vị trí $A$ là ngắn nhất. Biết tọa độ $C(a; \\frac{b}{\\sqrt{3}}; 0)$, tính $a + b$?"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "22"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

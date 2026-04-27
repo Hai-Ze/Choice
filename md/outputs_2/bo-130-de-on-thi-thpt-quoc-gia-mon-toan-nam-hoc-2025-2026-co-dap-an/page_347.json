@@ -1,0 +1,288 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      130,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      122,
+      877,
+      163
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $f(x) = x^3 - 3x^2 + 2x$ có đồ thị như hình vẽ bên"
+  },
+  {
+    "bbox": [
+      123,
+      163,
+      379,
+      277
+    ],
+    "category": "Formula",
+    "text": "a) $\\int_{0}^{1} f'(x) \\, dx = 0$."
+  },
+  {
+    "bbox": [
+      123,
+      277,
+      927,
+      387
+    ],
+    "category": "Formula",
+    "text": "b) Gọi $F(x)$ là một nguyên hàm của hàm số $f(x)$, khi đó $F(x) = \\int f'(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      123,
+      385,
+      927,
+      539
+    ],
+    "category": "Formula",
+    "text": "c) Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = 0, x = 2$ là $\\int_{0}^{2} f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      123,
+      537,
+      927,
+      770
+    ],
+    "category": "Formula",
+    "text": "d) Gọi $(D)$ là hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành, trục tung và đường thẳng $x = 1$. Thể tích khối tròn xoay được tạo thành khi quay $(D)$ quanh trục hoành được tính theo công thức $\\pi \\int_{0}^{1} f^2(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      956,
+      135,
+      1191,
+      433
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      788,
+      1198,
+      979
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong cuộc khảo sát ngẫu nhiên 600 học sinh về việc \"thích học\" hay \"không thích học\" môn toán. Kết quả thống kê như sau: có 400 học sinh trả lời \"thích học\" và 200 học sinh trả lời \"không thích học\". Thực tế cho thấy tỉ lệ học sinh \"giỏi toán\" tương ứng với những cách trả lời \"thích học\" và \"không thích học\" lần lượt là 70% và 10%."
+  },
+  {
+    "bbox": [
+      93,
+      981,
+      1061,
+      1057
+    ],
+    "category": "Text",
+    "text": "Gọi $T$ là biến cố \"Học sinh được phỏng vấn trả lời thích học môn toán\".\nGọi $G$ là biến cố \"Học sinh được phỏng vấn giải toán\"."
+  },
+  {
+    "bbox": [
+      123,
+      1055,
+      616,
+      1127
+    ],
+    "category": "Formula",
+    "text": "a) Xác suất $P(T) = \\frac{2}{3}$ và $P(\\bar{T}) = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      123,
+      1123,
+      920,
+      1165
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(G \\mid T) = 0,3, P(G \\mid \\bar{T}) = 0,09$."
+  },
+  {
+    "bbox": [
+      123,
+      1163,
+      466,
+      1203
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất $P(G) = 0,5$."
+  },
+  {
+    "bbox": [
+      123,
+      1203,
+      1194,
+      1319
+    ],
+    "category": "Formula",
+    "text": "d) Trong số những người được phỏng vấn giải toán có 80% người đã trả lời thích học môn toán khi được phỏng vấn (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      93,
+      1344,
+      1198,
+      1448
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Gọi hàm số $F(x) = \\frac{2x^2 - 1}{x}$ là một nguyên hàm của hàm số $f(x)$, với $x \\neq 0$."
+  },
+  {
+    "bbox": [
+      123,
+      1450,
+      371,
+      1524
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = 2 - \\frac{1}{x^2}$."
+  },
+  {
+    "bbox": [
+      123,
+      1522,
+      481,
+      1596
+    ],
+    "category": "Formula",
+    "text": "c) $\\int F(x) \\, dx = f(x) + C$."
+  },
+  {
+    "bbox": [
+      669,
+      1448,
+      1068,
+      1524
+    ],
+    "category": "Formula",
+    "text": "b) $\\int f(x) \\, dx = \\frac{2x^2 - 1}{x} + C$."
+  },
+  {
+    "bbox": [
+      669,
+      1522,
+      1097,
+      1596
+    ],
+    "category": "Formula",
+    "text": "d) $\\int F(x) \\, dx = x^2 - \\ln|x| + C$."
+  },
+  {
+    "bbox": [
+      93,
+      1617,
+      1198,
+      1811
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian với hệ toạ độ $Oxyz$ (đơn vị trên các trục là km) mặt đất được coi là mặt phẳng ($Oxy$) có phương trình $z = 0$. Tại gần sân bay có một máy bay dân dụng đang thực hiện quá trình hạ carnh bắt đầu từ vị trí điểm $A(38; -16; 6)$ và bay thẳng đến vị trí điểm $B(-2; 4; 1)$ gần đường băng. máy bay duy trì tốc độ không đổi 270 km/h trong suốt quá trình hạ carnh."
+  },
+  {
+    "bbox": [
+      123,
+      1813,
+      1194,
+      1985
+    ],
+    "category": "Formula",
+    "text": "a) Phương trình tham số của đường thẳng $d$ biểu diễn đường bay của máy bay từ $A$ đến $B$ là $\\begin{cases} x = 38 - 8t \\\\ y = -16 + 4t \\\\ z = 6 - t \\end{cases}$ (t là tham số hình học)."
+  },
+  {
+    "bbox": [
+      123,
+      1985,
+      975,
+      2026
+    ],
+    "category": "Formula",
+    "text": "b) Quá trình hạ carnh máy bay đi qua vị trí điểm $C(46; -20; 7)$."
+  },
+  {
+    "bbox": [
+      123,
+      2026,
+      1194,
+      2138
+    ],
+    "category": "Formula",
+    "text": "c) Quy định về an toàn bay yêu cầu góc hạ carnh (góc giữa đường bay và mặt đất) không được lớn hơn $5^\\circ$. Đường bay này đã tuân thủ đúng quy định an toàn."
+  },
+  {
+    "bbox": [
+      123,
+      2140,
+      1194,
+      2216
+    ],
+    "category": "Formula",
+    "text": "d) Sau 5 phút kể từ khi bắt đầu hạ carnh may bay ở vị trí điểm $M(18; -6; \\frac{7}{2})$."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 345"
+  }
+]

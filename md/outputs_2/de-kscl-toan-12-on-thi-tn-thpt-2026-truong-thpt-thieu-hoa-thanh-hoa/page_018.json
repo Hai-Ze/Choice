@@ -1,0 +1,100 @@
+[
+  {
+    "bbox": [
+      697,
+      113,
+      1125,
+      573
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      606,
+      1514,
+      735
+    ],
+    "category": "Text",
+    "text": "Vì $G$ là trọng tâm tức diện $SABC$ nên ta có tính chất: $\\overline{MG} = \\frac{1}{4}(\\overline{MS} + \\overline{MA} + \\overline{MB} + \\overline{MC})$, với $M$ là điểm tùy ý."
+  },
+  {
+    "bbox": [
+      251,
+      742,
+      1531,
+      821
+    ],
+    "category": "Text",
+    "text": "Áp dụng tính chất trên cho điểm $M = S$ ta có: $\\overline{SG} = \\frac{1}{4}(\\overline{SS} + \\overline{SA} + \\overline{SB} + \\overline{SC}) = \\frac{1}{4}(\\overline{SA} + \\overline{SB} + \\overline{SC})$."
+  },
+  {
+    "bbox": [
+      251,
+      831,
+      1333,
+      915
+    ],
+    "category": "Text",
+    "text": "Lại có $\\overline{SA} = \\frac{SA}{SA'} \\overline{SA'} = \\frac{5}{SA'} \\overline{SA'}$, $\\overline{SB} = \\frac{SB}{SB'} \\overline{SB'} = \\frac{5}{SB'} \\overline{SB'}$, $\\overline{SC} = \\frac{SC}{SC'} \\overline{SC'} = \\frac{5}{SC'} \\overline{SC'}$."
+  },
+  {
+    "bbox": [
+      251,
+      924,
+      1318,
+      1011
+    ],
+    "category": "Text",
+    "text": "Do đó $\\overline{SG} = \\frac{1}{4}(\\frac{5}{SA'} \\overline{SA'} + \\frac{5}{SB'} \\overline{SB'} + \\frac{5}{SC'} \\overline{SC'}) = \\frac{5}{4SA'} \\overline{SA'} + \\frac{5}{4SB'} \\overline{SB'} + \\frac{5}{4SC'} \\overline{SC'}$."
+  },
+  {
+    "bbox": [
+      251,
+      1025,
+      1474,
+      1106
+    ],
+    "category": "Text",
+    "text": "Vì bốn điểm $A', B', C', G$ đồng phẳng nên phải có $\\frac{5}{4SA'} + \\frac{5}{4SB'} + \\frac{5}{4SC'} = 1 \\Rightarrow T = \\frac{4}{5} = 0,8$."
+  },
+  {
+    "bbox": [
+      114,
+      1111,
+      1568,
+      1547
+    ],
+    "category": "List-item",
+    "text": "**Câu 19.** Trong không gian $Oxyz$, mộtttức tường hình chữ nhật $ABCD$ có chiều cao $3m$ được dụng vuông góc với mặt phẳng $(Oxy)$ với hai điểm $A(3;1;0)$ và $B(1;4;0)$. Giả sử rằng mặt phẳng $(Oxy)$ là mặt đất, trục $Oz$ hướng lên trên và mỗi đơn vị trên hệ trục tương ứng với $1m$. Một trạm phát sóng được đặt tại điểm $M(5;6;5)$. Trạm phát sóng phát ra các sóng thẳng và truyền về mọi hướng nhưng khi gặpttức tường thì bị chắn lại vì vậy có một vùng sauttức tường không có sóng. Một chất điểm bắt đầu chuyển động thẳng đều trong mặt phẳng $(Oxy)$ từ điểm $N(-6;-4;0)$ qua gốc tọa độ $O$ đến chân tường với vận tốc $0,8m/s$. Tính thời gian theo giây từ lúc chất điểm bắt đầu đi vào vùng mất sóng đến lúc chất điểm chạm vào chân tường và quay về vị trí ban đầu, giả thiết độ dày củattức tường là không đáng kể (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      856,
+      1553,
+      968,
+      1590
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1596,
+      448,
+      1649
+    ],
+    "category": "Text",
+    "text": "Đáp án: 21,1."
+  },
+  {
+    "bbox": [
+      437,
+      1666,
+      1383,
+      2207
+    ],
+    "category": "Picture"
+  }
+]

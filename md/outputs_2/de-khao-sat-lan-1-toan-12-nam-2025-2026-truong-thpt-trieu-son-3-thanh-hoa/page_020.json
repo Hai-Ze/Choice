@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      113,
+      118,
+      1535,
+      215
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Trong không gian $Oxyz$, cho điểm $A(-5;2;3)$ và $B$ là điểm đối xứng với $A$ qua trục $Ox$. Độ dài đoạn thẳng $AB$ bằng"
+  },
+  {
+    "bbox": [
+      251,
+      215,
+      369,
+      260
+    ],
+    "category": "List-item",
+    "text": "A. $\\sqrt{13}$."
+  },
+  {
+    "bbox": [
+      586,
+      215,
+      724,
+      260
+    ],
+    "category": "List-item",
+    "text": "B. $2\\sqrt{29}$."
+  },
+  {
+    "bbox": [
+      900,
+      215,
+      1037,
+      260
+    ],
+    "category": "List-item",
+    "text": "C. $2\\sqrt{13}$."
+  },
+  {
+    "bbox": [
+      1216,
+      215,
+      1336,
+      260
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{29}$."
+  },
+  {
+    "bbox": [
+      836,
+      268,
+      950,
+      305
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      307,
+      366,
+      343
+    ],
+    "category": "Text",
+    "text": "**Chọn C**"
+  },
+  {
+    "bbox": [
+      251,
+      343,
+      1114,
+      391
+    ],
+    "category": "Text",
+    "text": "Vì $B$ là điểm đối xứng với $A$ qua trục $Oy$ nên $B(-5;-2;-3)$."
+  },
+  {
+    "bbox": [
+      251,
+      400,
+      592,
+      452
+    ],
+    "category": "Text",
+    "text": "Do đó $\\overline{AB} = (0;-4;-6)$."
+  },
+  {
+    "bbox": [
+      251,
+      458,
+      637,
+      509
+    ],
+    "category": "Text",
+    "text": "Vậy $AB = \\sqrt{16+36} = 2\\sqrt{13}$."
+  },
+  {
+    "bbox": [
+      113,
+      509,
+      1535,
+      590
+    ],
+    "category": "List-item",
+    "text": "**Câu 11:** Bảng sau thống kê khối lượng một số quả măng cụt được lựa chọn ngẫu nhiên trong một thùng hàng"
+  },
+  {
+    "bbox": [
+      251,
+      588,
+      1279,
+      686
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Khối lượng (gam)</td><td>[80;82)</td><td>[82;84)</td><td>[84;86)</td><td>[86;88)</td><td>[88;90)</td></tr><tr><td>Số quả</td><td>17</td><td>20</td><td>25</td><td>16</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      686,
+      973,
+      727
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là:"
+  },
+  {
+    "bbox": [
+      251,
+      730,
+      320,
+      765
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      586,
+      730,
+      669,
+      765
+    ],
+    "category": "List-item",
+    "text": "B. 12."
+  },
+  {
+    "bbox": [
+      900,
+      730,
+      982,
+      765
+    ],
+    "category": "List-item",
+    "text": "C. 10."
+  },
+  {
+    "bbox": [
+      1216,
+      730,
+      1300,
+      765
+    ],
+    "category": "List-item",
+    "text": "D. 20."
+  },
+  {
+    "bbox": [
+      836,
+      772,
+      950,
+      809
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      814,
+      366,
+      850
+    ],
+    "category": "Text",
+    "text": "**Chọn C**"
+  },
+  {
+    "bbox": [
+      251,
+      850,
+      1147,
+      894
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là $90-80=10$."
+  },
+  {
+    "bbox": [
+      113,
+      894,
+      1491,
+      976
+    ],
+    "category": "List-item",
+    "text": "**Câu 12:** Kết quả kiểm tra điểm môn Toán của học sinh lớp 12B được cho bởi mẫu số liệu ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      635,
+      986,
+      1147,
+      1416
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Nhóm điểm</td><td>Tần số</td></tr></thead><tbody><tr><td>[0;2)</td><td>5</td></tr><tr><td>[2;4)</td><td>5</td></tr><tr><td>[4;6)</td><td>5</td></tr><tr><td>[6;8)</td><td>25</td></tr><tr><td>[8;10]</td><td>10</td></tr><tr><td></td><td>n = 50</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1416,
+      896,
+      1460
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm ở trên là"
+  },
+  {
+    "bbox": [
+      251,
+      1460,
+      376,
+      1497
+    ],
+    "category": "List-item",
+    "text": "A. 7,56."
+  },
+  {
+    "bbox": [
+      586,
+      1460,
+      707,
+      1497
+    ],
+    "category": "List-item",
+    "text": "B. 6,57."
+  },
+  {
+    "bbox": [
+      900,
+      1460,
+      1018,
+      1497
+    ],
+    "category": "List-item",
+    "text": "C. 5,76."
+  },
+  {
+    "bbox": [
+      1216,
+      1460,
+      1339,
+      1497
+    ],
+    "category": "List-item",
+    "text": "D. 7,56."
+  },
+  {
+    "bbox": [
+      836,
+      1507,
+      950,
+      1544
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1540,
+      856,
+      1583
+    ],
+    "category": "Text",
+    "text": "Số trung bình cộng của mẫu số liệu đã cho là"
+  },
+  {
+    "bbox": [
+      251,
+      1583,
+      856,
+      1665
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{1 \\cdot 5 + 3 \\cdot 5 + 5 \\cdot 5 + 7 \\cdot 25 + 9 \\cdot 10}{50} = \\frac{31}{5} = 6,2.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1665,
+      906,
+      1708
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm đã cho là"
+  },
+  {
+    "bbox": [
+      251,
+      1710,
+      1316,
+      1805
+    ],
+    "category": "Formula",
+    "text": "$$\ns^2 = \\frac{5(1-6,2)^2 + 5(3-6,2)^2 + 5(5-6,2)^2 + 25(7-6,2)^2 + 10(9-6,2)^2}{50} = 5,76.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1805,
+      1535,
+      1895
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      113,
+      1932,
+      942,
+      1980
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Cho hàm số $y = f(x) = x^3 - 3x + 2$ có đồ thị là (C)."
+  },
+  {
+    "bbox": [
+      251,
+      1986,
+      992,
+      2036
+    ],
+    "category": "List-item",
+    "text": "a) [1] Đạo hàm của hàm số đã cho là $f'(x) = 3x^2 - 3x$."
+  },
+  {
+    "bbox": [
+      251,
+      2042,
+      1114,
+      2092
+    ],
+    "category": "List-item",
+    "text": "b) [1] Giá trị nhỏ nhất của $f(x)$ trên khoảng $(-1;+\\infty)$ bằng 0."
+  },
+  {
+    "bbox": [
+      251,
+      2098,
+      867,
+      2146
+    ],
+    "category": "List-item",
+    "text": "c) [1] Hàm số đồng biến trên khoảng $(-\\infty;4)$."
+  },
+  {
+    "bbox": [
+      251,
+      2152,
+      1283,
+      2204
+    ],
+    "category": "List-item",
+    "text": "d) [2] Khoảng cách từ điểm cực đại của đồ thị (C) đến gốc tọa độ bằng $\\sqrt{17}$."
+  }
+]

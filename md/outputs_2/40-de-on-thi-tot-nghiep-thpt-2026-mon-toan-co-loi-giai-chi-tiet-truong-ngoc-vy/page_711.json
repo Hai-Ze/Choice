@@ -1,0 +1,260 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      97,
+      261,
+      131
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      156,
+      155,
+      379,
+      214
+    ],
+    "category": "Formula",
+    "text": "a) $P(\\bar{A}) = 0,65$."
+  },
+  {
+    "bbox": [
+      156,
+      244,
+      422,
+      290
+    ],
+    "category": "Formula",
+    "text": "b) $P(B|A) = 0,02$."
+  },
+  {
+    "bbox": [
+      156,
+      317,
+      402,
+      376
+    ],
+    "category": "Formula",
+    "text": "c) $P(B|\\bar{A}) = 0,3$."
+  },
+  {
+    "bbox": [
+      156,
+      405,
+      414,
+      451
+    ],
+    "category": "Formula",
+    "text": "d) $P(B) = 0,9765$."
+  },
+  {
+    "bbox": [
+      807,
+      478,
+      924,
+      517
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      532,
+      971,
+      653
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      714,
+      703,
+      773
+    ],
+    "category": "Formula",
+    "text": "a) Ta có $P(A) = 0,65$ nên $P(\\bar{A}) = 0,35$."
+  },
+  {
+    "bbox": [
+      156,
+      801,
+      1572,
+      946
+    ],
+    "category": "Formula",
+    "text": "b) Vì các bóng đen màu trắng có tỉ lệ hỏng là 2% nên $P(\\bar{B}|A) = 0,02$, suy ra $P(B|A) = 1 - P(\\bar{B}|A) = 1 - 0,02 = 0,98$."
+  },
+  {
+    "bbox": [
+      156,
+      973,
+      1572,
+      1118
+    ],
+    "category": "Formula",
+    "text": "c) Vì các bóng đen màu xanh có tỉ lệ hỏng là 3% nên $P(\\bar{B}|\\bar{A}) = 0,03$, suy ra $P(B|\\bar{A}) = 1 - P(\\bar{B}|\\bar{A}) = 1 - 0,03 = 0,97$."
+  },
+  {
+    "bbox": [
+      156,
+      1138,
+      742,
+      1184
+    ],
+    "category": "Text",
+    "text": "d) Theo công thức xác suất toàn phần ta có:"
+  },
+  {
+    "bbox": [
+      162,
+      1203,
+      1159,
+      1261
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,65 \\cdot 0,98 + 0,35 \\cdot 0,97 = 0,9765.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1342,
+      807,
+      1383
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      156,
+      1398,
+      1572,
+      1502
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Anh Thanh Minh có một cái bình待用 rược, thân bình có hai phần: phần phía dưới là hình nón cụt, phần trên là hình cầu bị cắt bỏ 2 đầu chỏm (hình 1)."
+  },
+  {
+    "bbox": [
+      498,
+      1534,
+      751,
+      1798
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      575,
+      1822,
+      670,
+      1856
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      877,
+      1534,
+      1195,
+      1807
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      970,
+      1822,
+      1067,
+      1856
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      156,
+      1899,
+      693,
+      1943
+    ],
+    "category": "Text",
+    "text": "Thiết diện qua trục của bình như hình 2."
+  },
+  {
+    "bbox": [
+      156,
+      1956,
+      1572,
+      2124
+    ],
+    "category": "Text",
+    "text": "Biết $AB = CD = 16\\text{cm}, EF = 30\\text{cm}, h = 12\\text{cm}, h' = 30\\text{cm}$ và giá mỗi lít rược là 100000 đồng. Hỏi số tiền anh Thanh Minh cần để đổ đầy bình rược là bao nhiêu triệu đồng (giả sử độ dày của� bình rược không đáng kể)? (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      156,
+      2141,
+      492,
+      2177
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      2200,
+      924,
+      2238
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      807,
+      2254,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

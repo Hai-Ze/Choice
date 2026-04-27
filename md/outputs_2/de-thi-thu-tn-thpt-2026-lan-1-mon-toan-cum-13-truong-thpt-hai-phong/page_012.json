@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      98,
+      104,
+      1249,
+      192
+    ],
+    "category": "Text",
+    "text": "Giả sử điểm $M$ thuộc nhánh phải của đồ thị $(C) \\Rightarrow M\\left(-1+a; -3+a+\\frac{3}{a}\\right)$ với $a > 0$."
+  },
+  {
+    "bbox": [
+      98,
+      201,
+      1032,
+      294
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } IM^2 = a^2 + \\left(a + \\frac{3}{a}\\right)^2 = 2a^2 + \\frac{9}{a^2} + 6 \\ge 2\\sqrt{2a^2 \\cdot \\frac{9}{a^2}} + 6 = 6\\sqrt{2} + 6\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      299,
+      744,
+      362
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } \\min S_{MNPQ} = MN^2 = 2IM^2 = 12(\\sqrt{2} + 1).\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      367,
+      1486,
+      507
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình lăng trụ $ABC.A'B'C'$ có tất cả các cạnh bằng $a$, $\\widehat{A'AB} = 120^\\circ$, $\\widehat{A'AC} = 60^\\circ$. Gọi $M$ là trung điểm của $BC$; $N$ là điểm trên cạnh $BB'$ sao cho $BN = \\frac{2}{3}BB'$."
+  },
+  {
+    "bbox": [
+      488,
+      530,
+      1156,
+      1147
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      98,
+      1178,
+      361,
+      1225
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } \\overline{AB} + \\overline{CC'} = \\overline{AB'}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1232,
+      318,
+      1279
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } \\overline{NB} = -2\\overline{NB'}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1286,
+      790,
+      1334
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Giả sử } \\overline{A'M} = x \\cdot \\overline{AB} + y \\cdot \\overline{AC} + z \\cdot \\overline{AA'} \\text{ thì } x + y = z.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1347,
+      368,
+      1432
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) } \\overline{A'M} \\cdot \\overline{C'N} = \\frac{4a^2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      767,
+      1442,
+      881,
+      1481
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1503,
+      518,
+      1550
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } \\overline{AB} + \\overline{CC'} = \\overline{AB} + \\overline{BB'} = \\overline{AB'}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1578,
+      316,
+      1625
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } \\overline{NB} = -2\\overline{NB'}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1657,
+      658,
+      1738
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) } \\overline{A'M} = \\overline{AM} - \\overline{AA'} = \\frac{1}{2}(\\overline{AB} + \\overline{AC}) - \\overline{AA'}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1771,
+      957,
+      1853
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Ta có: } \\overline{A'M} = \\frac{1}{2}\\overline{AB} + \\frac{1}{2}\\overline{AC} - \\overline{AA'} \\text{ và } \\overline{C'N} = \\overline{AB} - \\overline{AC} - \\frac{1}{3}\\overline{AA'}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1884,
+      1001,
+      1975
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\overline{A'M} \\cdot \\overline{C'N} = \\left(\\frac{1}{2}\\overline{AB} + \\frac{1}{2}\\overline{AC} - \\overline{AA'}\\right)\\left(\\overline{AB} - \\overline{AC} - \\frac{1}{3}\\overline{AA'}\\right) = \\frac{4a^2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      2004,
+      1499,
+      2106
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hình lăng trụ $ABC.A'B'C'$ có tam giác $ABC$ vuông cân tại $A$, hình chiếu vuông góc của $A'$ trên mặt phẳng $(ABC)$ trùng với trọng tâm $H$ của tam giác $ABC$. Biết $AA' = BC = a\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      98,
+      2144,
+      692,
+      2224
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) độ dài đường cao hình lăng trụ bằng } \\frac{4a}{3}.\n$$"
+  }
+]

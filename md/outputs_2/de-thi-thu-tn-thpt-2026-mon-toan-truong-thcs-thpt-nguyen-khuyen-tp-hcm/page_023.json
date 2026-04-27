@@ -1,0 +1,72 @@
+[
+  {
+    "bbox": [
+      255,
+      119,
+      1379,
+      272
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{(L)} = 2 \\left[ \\frac{1}{2} \\int_{0}^{\\arctan 2} \\left( \\frac{10}{1+\\sin \\alpha} + \\frac{10}{\\cos \\alpha} \\right)^2 d\\alpha + \\frac{1}{2} \\int_{\\arctan 2}^{\\frac{\\pi}{2}} \\left( \\frac{10}{1+\\sin \\alpha} + \\frac{20}{\\sin \\alpha} \\right)^2 d\\alpha \\right] = 756,3(m^2).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      278,
+      433,
+      322
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí:"
+  },
+  {
+    "bbox": [
+      252,
+      373,
+      1536,
+      508
+    ],
+    "category": "Formula",
+    "text": "$$\n5.S_b + 2.(S_L - S_b) + 0,1(S_V - S_L) = 5.\\frac{800}{3} + 2.\\left(756,3 - \\frac{800}{3}\\right) + 0,1(1600 - 756,3) = 2396,97 \\approx 2,4 \\text{ tỉ.}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      511,
+      928,
+      557
+    ],
+    "category": "Text",
+    "text": "**Lưu ý:** Ở trên ta sử dụng công thức của bổ đề sau:"
+  },
+  {
+    "bbox": [
+      252,
+      564,
+      1534,
+      672
+    ],
+    "category": "Text",
+    "text": "Cho một度量单位（L）的图形（L）在坐标系中，x轴和y轴的刻度是r = r(θ)，其中α ≤ θ ≤ β。图形（L）的面积S由两个部分组成，即图形（L）和两个tia（θ = α, θ = β）。"
+  },
+  {
+    "bbox": [
+      768,
+      688,
+      1016,
+      769
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{\\alpha}^{\\beta} \\frac{1}{2} [r(\\theta)]^2 d\\theta\n$$"
+  },
+  {
+    "bbox": [
+      684,
+      816,
+      1064,
+      857
+    ],
+    "category": "Text",
+    "text": "---------------- Hết ----------------"
+  }
+]

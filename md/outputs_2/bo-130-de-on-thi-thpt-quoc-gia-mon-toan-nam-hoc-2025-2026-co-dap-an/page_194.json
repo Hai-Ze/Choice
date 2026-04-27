@@ -1,0 +1,507 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      196,
+      1503,
+      274
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      663,
+      274,
+      1338,
+      331
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 38"
+  },
+  {
+    "bbox": [
+      862,
+      333,
+      1137,
+      384
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      636,
+      389,
+      1367,
+      429
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      510,
+      1516,
+      566
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      575,
+      1392,
+      615
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Cho hàm số $f(x) = e^x + 2$. Khẳng định nào dưới đây là đúng?"
+  },
+  {
+    "bbox": [
+      478,
+      613,
+      838,
+      687
+    ],
+    "category": "Formula",
+    "text": "A $\\int f(x) \\, dx = e^{x-2} + C$."
+  },
+  {
+    "bbox": [
+      1024,
+      613,
+      1423,
+      687
+    ],
+    "category": "Formula",
+    "text": "B $\\int f(x) \\, dx = e^x + 2x + C$."
+  },
+  {
+    "bbox": [
+      478,
+      685,
+      809,
+      757
+    ],
+    "category": "Formula",
+    "text": "C $\\int f(x) \\, dx = e^x + C$."
+  },
+  {
+    "bbox": [
+      1024,
+      685,
+      1423,
+      757
+    ],
+    "category": "Formula",
+    "text": "D $\\int f(x) \\, dx = e^x - 2x + C$."
+  },
+  {
+    "bbox": [
+      449,
+      771,
+      1555,
+      885
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Diện tích $S$ của hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ là"
+  },
+  {
+    "bbox": [
+      478,
+      883,
+      756,
+      997
+    ],
+    "category": "Formula",
+    "text": "A $S = \\int_{a}^{b} |f(x)| \\, dx$."
+  },
+  {
+    "bbox": [
+      1024,
+      883,
+      1285,
+      997
+    ],
+    "category": "Formula",
+    "text": "B $S = \\int_{a}^{b} f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      478,
+      997,
+      756,
+      1115
+    ],
+    "category": "Formula",
+    "text": "C $S = \\int_{b}^{a} |f(x)| \\, dx$."
+  },
+  {
+    "bbox": [
+      1024,
+      997,
+      1306,
+      1115
+    ],
+    "category": "Formula",
+    "text": "D $S = \\int_{a}^{b} -f(x) \\, dx$."
+  },
+  {
+    "bbox": [
+      449,
+      1131,
+      1555,
+      1209
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Thời gian (phút) truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau:"
+  },
+  {
+    "bbox": [
+      469,
+      1235,
+      1532,
+      1334
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[9,5; 12,5)</td><td>[12,5; 15,5)</td><td>[15,5; 18,5)</td><td>[18,5; 21,5)</td><td>[21,5; 24,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>12</td><td>15</td><td>24</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      1360,
+      709,
+      1397
+    ],
+    "category": "Text",
+    "text": "Tổng số học sinh là"
+  },
+  {
+    "bbox": [
+      478,
+      1397,
+      563,
+      1437
+    ],
+    "category": "List-item",
+    "text": "A 24."
+  },
+  {
+    "bbox": [
+      750,
+      1397,
+      835,
+      1437
+    ],
+    "category": "List-item",
+    "text": "B 56."
+  },
+  {
+    "bbox": [
+      1024,
+      1397,
+      1090,
+      1437
+    ],
+    "category": "List-item",
+    "text": "C 2."
+  },
+  {
+    "bbox": [
+      1295,
+      1397,
+      1378,
+      1437
+    ],
+    "category": "List-item",
+    "text": "D 22."
+  },
+  {
+    "bbox": [
+      449,
+      1456,
+      1555,
+      1534
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Phương trình nào sau đây là phương trình mặt cầu ($S$) tâm $A(2; 1; 0)$, đi qua điểm $B(0; 1; 2)$?"
+  },
+  {
+    "bbox": [
+      478,
+      1534,
+      968,
+      1574
+    ],
+    "category": "Formula",
+    "text": "A $(S): (x + 2)^2 + (y + 1)^2 + z^2 = 8$."
+  },
+  {
+    "bbox": [
+      1024,
+      1534,
+      1513,
+      1574
+    ],
+    "category": "Formula",
+    "text": "B $(S): (x - 2)^2 + (y - 1)^2 + z^2 = 8$."
+  },
+  {
+    "bbox": [
+      478,
+      1574,
+      982,
+      1617
+    ],
+    "category": "Formula",
+    "text": "C $(S): (x - 2)^2 + (y - 1)^2 + z^2 = 64$."
+  },
+  {
+    "bbox": [
+      1024,
+      1574,
+      1529,
+      1617
+    ],
+    "category": "Formula",
+    "text": "D $(S): (x + 2)^2 + (y + 1)^2 + z^2 = 64$."
+  },
+  {
+    "bbox": [
+      449,
+      1649,
+      1142,
+      1723
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hàm số $y = \\frac{ax + b}{cx + d}$ ($c \\neq 0; ad - bc \\neq 0$)"
+  },
+  {
+    "bbox": [
+      449,
+      1721,
+      1142,
+      1795
+    ],
+    "category": "Text",
+    "text": "có đồ thị hàm số như hình vẽ. Đường tiệm cận đứng của đồ thị hàm số là đường thẳng"
+  },
+  {
+    "bbox": [
+      478,
+      1795,
+      629,
+      1835
+    ],
+    "category": "List-item",
+    "text": "A $y = -1$."
+  },
+  {
+    "bbox": [
+      647,
+      1795,
+      776,
+      1835
+    ],
+    "category": "List-item",
+    "text": "B $x = 1$."
+  },
+  {
+    "bbox": [
+      818,
+      1795,
+      969,
+      1835
+    ],
+    "category": "List-item",
+    "text": "C $x = -1$."
+  },
+  {
+    "bbox": [
+      987,
+      1795,
+      1116,
+      1835
+    ],
+    "category": "List-item",
+    "text": "D $y = 1$."
+  },
+  {
+    "bbox": [
+      1173,
+      1680,
+      1542,
+      2058
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      449,
+      2068,
+      1258,
+      2110
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Tập nghiệm của bất phương trình $\\log_5(x - 2) \\le 1$ là"
+  },
+  {
+    "bbox": [
+      478,
+      2110,
+      596,
+      2150
+    ],
+    "category": "List-item",
+    "text": "A $(2; 3]$."
+  },
+  {
+    "bbox": [
+      750,
+      2110,
+      908,
+      2150
+    ],
+    "category": "List-item",
+    "text": "B $(-\\infty; 7]$."
+  },
+  {
+    "bbox": [
+      1024,
+      2110,
+      1179,
+      2150
+    ],
+    "category": "List-item",
+    "text": "C $[7; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1295,
+      2110,
+      1414,
+      2150
+    ],
+    "category": "List-item",
+    "text": "D $(2; 7]$."
+  },
+  {
+    "bbox": [
+      449,
+      2167,
+      1555,
+      2245
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng ($Q$): $2x - y + 4z - 5 = 0$ có véc-tơ pháp tuyến là"
+  },
+  {
+    "bbox": [
+      137,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "192 Bùi Tịnh Minh Lâm"
+  }
+]

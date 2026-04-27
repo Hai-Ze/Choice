@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      136,
+      97,
+      1563,
+      196
+    ],
+    "category": "Text",
+    "text": "Câu 10. Trong không gian với hệ trục tọa độ $Oxyz$, cho điểm $A(-4;3;1)$. Gọi $M,N,P$ lần lượt là hình chiếu của $A$ trên $Ox,Oy,Oz$. Viết phương trình mặt phẳng ($MNP$)."
+  },
+  {
+    "bbox": [
+      177,
+      222,
+      489,
+      259
+    ],
+    "category": "List-item",
+    "text": "A. $4x-3y-z+26=0$."
+  },
+  {
+    "bbox": [
+      842,
+      208,
+      1073,
+      277
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x}{-4}+\\frac{y}{3}+z=1$."
+  },
+  {
+    "bbox": [
+      177,
+      300,
+      497,
+      338
+    ],
+    "category": "List-item",
+    "text": "C. $3x-4y-12z+1=0$."
+  },
+  {
+    "bbox": [
+      842,
+      287,
+      1089,
+      358
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x}{-4}+\\frac{y}{3}+\\frac{z}{1}=0$."
+  },
+  {
+    "bbox": [
+      136,
+      360,
+      828,
+      398
+    ],
+    "category": "Text",
+    "text": "Câu 11. Phương trình $1-\\cos 2x=0$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      177,
+      416,
+      381,
+      458
+    ],
+    "category": "List-item",
+    "text": "A. $\\{k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      514,
+      398,
+      795,
+      479
+    ],
+    "category": "List-item",
+    "text": "B. $\\{\\frac{\\pi}{2}+k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      842,
+      416,
+      1061,
+      458
+    ],
+    "category": "List-item",
+    "text": "C. $\\{k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      1172,
+      395,
+      1444,
+      479
+    ],
+    "category": "List-item",
+    "text": "D. $\\{\\frac{\\pi}{4}+k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      136,
+      487,
+      848,
+      561
+    ],
+    "category": "Text",
+    "text": "Câu 12. Tìm nguyên hàm của hàm số $f(x)=x^2+\\frac{2}{x^2}$."
+  },
+  {
+    "bbox": [
+      177,
+      565,
+      530,
+      645
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x)dx = \\frac{x^3}{3}+\\frac{2}{x}+C$."
+  },
+  {
+    "bbox": [
+      842,
+      565,
+      1193,
+      645
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f(x)dx = \\frac{x^3}{3}-\\frac{1}{x}+C$."
+  },
+  {
+    "bbox": [
+      177,
+      650,
+      537,
+      730
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x)dx = \\frac{x^3}{3}+\\frac{1}{x}+C$."
+  },
+  {
+    "bbox": [
+      842,
+      650,
+      1190,
+      730
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f(x)dx = \\frac{x^3}{3}-\\frac{2}{x}+C$."
+  },
+  {
+    "bbox": [
+      136,
+      763,
+      1561,
+      843
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      136,
+      871,
+      1565,
+      1041
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một gia đình cần ít nhất 900gam chất protein và 400 gam chất lipit trong thức ăn mỗi ngày. Biết rằng thịt bò chứa 80% protein và 20% lipit. Thịt lọn chứa 60% protein và 40% lipit. Biết rằng gia đình này chỉ mua nhiều nhất là 1600 gam thịt bò, 1100 gam thịt lọn, giá tiền 1 kg thịt bò là 45000 đồng, 1 kg thịt lọn là 35000 đồng. Giả sử gia đình mua $x$ kg thịt bò và $y$ kg thịt lọn. Khi đó:"
+  },
+  {
+    "bbox": [
+      180,
+      1048,
+      1150,
+      1227
+    ],
+    "category": "List-item",
+    "text": "a) $\\begin{cases} 0 \\le x \\le 1,6 \\\\ 0 \\le y \\le 1,1 \\\\ 4x+3y \\ge 4,5 \\\\ x+2y \\ge 2 \\end{cases}$ là hệ bất phương trình biểu thị các điều kiện của bài toán"
+  },
+  {
+    "bbox": [
+      180,
+      1233,
+      818,
+      1275
+    ],
+    "category": "List-item",
+    "text": "b) Miền nghiệm của hệ trên là miền của tam giác"
+  },
+  {
+    "bbox": [
+      136,
+      1275,
+      1563,
+      1364
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $T$ (nghìn đồng) là số tiền phải trả cho $x$ (kilogam) thịt bò và $y$ (kilogam) thịt lọn. Khi đó, chi phí để mua $x$ kg thịt bò và $y$ kg thịt lọn là: $T=35x+45y$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      180,
+      1370,
+      1119,
+      1412
+    ],
+    "category": "List-item",
+    "text": "d) Gia đình đó mua 0,6 kg thịt bò và 0,7 kg thịt lọn thì chi phí là ít nhất."
+  },
+  {
+    "bbox": [
+      136,
+      1424,
+      604,
+      1505
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $y = \\frac{x^2-3x+6}{x-1}$."
+  },
+  {
+    "bbox": [
+      177,
+      1510,
+      805,
+      1552
+    ],
+    "category": "List-item",
+    "text": "a) Tiệm cận xiên của đồ thị hàm số là $y=x-2$."
+  },
+  {
+    "bbox": [
+      177,
+      1562,
+      1086,
+      1608
+    ],
+    "category": "List-item",
+    "text": "b) Điều cực tiểu của đồ thị hàm số có toạ độ là $(a;b)$ với $a^2+b=12$."
+  },
+  {
+    "bbox": [
+      136,
+      1614,
+      1563,
+      1700
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $I$ là giao điểm hai đường tiệm cận của đồ thị hàm số. Tiếp tuyến của đồ thị hàm số tại điểm có hoành độ $x=2$ cắt hai đường tiệm cận tại $A,B$. Diện tích tam giác $IAB$ bằng 12."
+  },
+  {
+    "bbox": [
+      136,
+      1712,
+      1557,
+      1845
+    ],
+    "category": "List-item",
+    "text": "d) Có tất cả 9 giá trị nguyên của tham số $m$ để phương trình $\\frac{x^2-3x+6}{x-1}=m$ có hai nghiệm phân biệt $x_1,x_2$ thoả mãn $x_1<2<x_2<15$."
+  },
+  {
+    "bbox": [
+      136,
+      1870,
+      1563,
+      2025
+    ],
+    "category": "Text",
+    "text": "Câu 3. Một người nông dân có một mảnh đất hình vuông $ABCD$ cạnh bằng $8m$. Ông ta định chia mảnh đất thành ba phần, bởi các parabol đi qua các định của hình vuông như hình vẽ, biết rằng định của parabol cách cạnh hình vuông $2m$. Ông dự định trồng hoa trên phần diện tích giới hạn bởi các parabol và cạnh hình vuông, trồng cỏ trên phần diện tích còn lại"
+  },
+  {
+    "bbox": [
+      163,
+      2073,
+      447,
+      2110
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - Mã đề 1104"
+  }
+]

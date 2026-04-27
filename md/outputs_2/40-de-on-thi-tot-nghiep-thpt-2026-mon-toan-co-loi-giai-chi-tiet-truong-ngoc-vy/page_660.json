@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      897,
+      146
+    ],
+    "category": "Text",
+    "text": "Ta có $AM \\perp BC, SG \\perp BC$ nên $(SAM) \\perp BC \\Rightarrow MH \\perp BC$."
+  },
+  {
+    "bbox": [
+      76,
+      168,
+      1030,
+      212
+    ],
+    "category": "Text",
+    "text": "Do đó $MH$ là đoạn vuông góc chung của hai đường thẳng $SA$ và $BC$."
+  },
+  {
+    "bbox": [
+      76,
+      230,
+      1376,
+      323
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $AMH$ vuông tại $H$, có $AM = \\frac{\\sqrt{3}}{2}$, $\\widehat{SAM} = 60^\\circ$ nên $MH = AM \\cdot \\sin 60^\\circ = \\frac{3}{4} = 0,75$."
+  },
+  {
+    "bbox": [
+      76,
+      349,
+      493,
+      394
+    ],
+    "category": "Text",
+    "text": "Vậy $d(SA, BC) = MH = 0,75$."
+  },
+  {
+    "bbox": [
+      76,
+      414,
+      1495,
+      751
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có ba đồng xu được待得 trong một集合 kín. Đồng xu thứ nhất là một đồng xu cân đối với tỷ lệ mặt ngửa và mặt sấp bằng nhau. Đồng xu thứ hai là một đồng xu bị lỗ có khả năng mặt ngửa xuất hiện là 70%. Đồng xu thứ ba là một đồng xu hai mặt ngửa (khi tung luôn ra mặt ngửa). Bạn An lấy ngẫu nhiên một đồng xu từ集合 và tung nó hai lần. Kết quả của hai lần tung cho thấy xuất hiện một lần mặt sấp và một lần mặt ngửa. Tính xác suất để đồng xu bạn đã chọn là đồng xu thứ hai (đồng xu bị lỗ) (Kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      76,
+      766,
+      414,
+      804
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      825,
+      843,
+      865
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      883,
+      269,
+      923
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,46"
+  },
+  {
+    "bbox": [
+      76,
+      948,
+      737,
+      997
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố chọn đồng xu thứ $n$ ($n = 1; 2; 3$)"
+  },
+  {
+    "bbox": [
+      82,
+      1016,
+      1158,
+      1063
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố tung hai lần thì thấy xuất hiện một lần mặt sấp và một lần mặt ngửa"
+  },
+  {
+    "bbox": [
+      76,
+      1083,
+      783,
+      1163
+    ],
+    "category": "Text",
+    "text": "Vì chọn ngẫu nhiên nên $P(A_1) = P(A_2) = P(A_3) = \\frac{1}{3}$"
+  },
+  {
+    "bbox": [
+      76,
+      1181,
+      1495,
+      1279
+    ],
+    "category": "Text",
+    "text": "Lấy ngẫu nhiên một đồng xu tung hai lần được một mặt sấp và một mặt ngửa thì ta có ba trường hợp như sau:"
+  },
+  {
+    "bbox": [
+      76,
+      1305,
+      1253,
+      1399
+    ],
+    "category": "Text",
+    "text": "**Trường hợp 1:** Chọn được đồng xu thứ nhất là S-N và N-S nên $P(B|A_1) = 2 \\cdot (\\frac{1}{2})^2 = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      1419,
+      998,
+      1465
+    ],
+    "category": "Text",
+    "text": "**Trường hợp 2:** Chọn được đồng xu thứ hai là S-N và N-S nên ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      1485,
+      562,
+      1531
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A_2) = 0,7 \\cdot 0,3 + 0,3 \\cdot 0,7 = 0,42\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1559,
+      998,
+      1607
+    ],
+    "category": "Text",
+    "text": "**Trường hợp 3:** Chọn được đồng xu thứ ba là N-N nên $P(B|A_3) = 0$"
+  },
+  {
+    "bbox": [
+      76,
+      1627,
+      1117,
+      1673
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức Bayes ta tính được xác suất chọn được đồng xu thứ hai là:"
+  },
+  {
+    "bbox": [
+      82,
+      1693,
+      1350,
+      1856
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_2|B) = \\frac{P(B|A_2) \\cdot P(A_2)}{P(A_1) \\cdot P(B|A_1) + P(A_2) \\cdot P(B|A_2) + P(A_3) \\cdot P(B|A_3)} = \\frac{0,42 \\cdot \\frac{1}{3}}{\\frac{1}{3} \\cdot \\frac{1}{2} + 0,42 \\cdot \\frac{1}{3} + 0 \\cdot \\frac{1}{3}} \\approx 0,46\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1874,
+      740,
+      1918
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất chọn được đồng xu thứ hai là 0,46."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

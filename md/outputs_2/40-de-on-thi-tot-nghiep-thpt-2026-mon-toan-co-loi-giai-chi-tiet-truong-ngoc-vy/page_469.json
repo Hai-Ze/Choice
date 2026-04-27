@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      160,
+      97,
+      503,
+      132
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2025a + 2026b + d = 4\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      208,
+      1575,
+      427
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có hai集合待定的各个元素，且大小和密度。集合第1个有3个元素，第2个有9个元素，第1个集合有6个元素，第2个集合有8个元素。从第1个集合中取1个元素，从第2个集合中取2个元素。调用A是集合 \"从第1个集合中取1个元素，从第2个集合中取2个元素\"，B是集合 \"从第1个集合中取1个元素，从第2个集合中取1个元素\"。"
+  },
+  {
+    "bbox": [
+      154,
+      446,
+      592,
+      527
+    ],
+    "category": "Text",
+    "text": "a) Xác suất của biến cố A là $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      551,
+      596,
+      634
+    ],
+    "category": "Text",
+    "text": "b) Xác suất của biến cố B là $\\frac{15}{22}$"
+  },
+  {
+    "bbox": [
+      154,
+      649,
+      1575,
+      798
+    ],
+    "category": "Text",
+    "text": "c) Giả sử 2元素从集合A中取1个元素，从集合B中取2个元素，则Xác suất取到元素A是 $\\frac{7}{22}$"
+  },
+  {
+    "bbox": [
+      154,
+      813,
+      1575,
+      961
+    ],
+    "category": "Text",
+    "text": "d) Giả sử 2元素从集合A中取1个元素，从集合B中取1个元素，则Xác suất取到元素A是 $\\frac{11}{70}$"
+  },
+  {
+    "bbox": [
+      807,
+      983,
+      924,
+      1022
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1038,
+      972,
+      1160
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1212,
+      1575,
+      1361
+    ],
+    "category": "Text",
+    "text": "a) Số cách lấy 1元素必从集合A中取1个元素，从集合B中取2个元素是12，所以Xác suất taking 1 element from A and 2 elements from B是 $\\frac{12}{15} = \\frac{4}{5}$。"
+  },
+  {
+    "bbox": [
+      154,
+      1384,
+      561,
+      1467
+    ],
+    "category": "Formula",
+    "text": "b) $P(A) = \\frac{3}{12} = \\frac{1}{4} \\Rightarrow P(\\bar{A}) = \\frac{3}{4}$"
+  },
+  {
+    "bbox": [
+      160,
+      1490,
+      676,
+      1584
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{C_7^2}{C_{15}^2} = \\frac{1}{5}; P(B|\\bar{A}) = \\frac{C_6^2}{C_{15}^2} = \\frac{1}{7}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1609,
+      926,
+      1692
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = \\frac{1}{4} \\cdot \\frac{1}{5} + \\frac{3}{4} \\cdot \\frac{1}{7} = \\frac{11}{70}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1707,
+      979,
+      1755
+    ],
+    "category": "Text",
+    "text": "c) Ta cần tính $P(A|B)$, (Xác suất biến cố A với điều kiện B)"
+  },
+  {
+    "bbox": [
+      154,
+      1781,
+      748,
+      1943
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{ta có } P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{\\frac{1}{4} \\cdot \\frac{1}{5}}{\\frac{11}{70}} = \\frac{7}{22}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1964,
+      979,
+      2014
+    ],
+    "category": "Text",
+    "text": "d) Ta cần tính $P(\\bar{A}|B)$, (Xác suất biến cố $\\bar{A}$ với điều kiện B)"
+  },
+  {
+    "bbox": [
+      154,
+      2039,
+      721,
+      2122
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(\\bar{A}|B) = 1 - P(A|B) = 1 - \\frac{7}{22} = \\frac{15}{22}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

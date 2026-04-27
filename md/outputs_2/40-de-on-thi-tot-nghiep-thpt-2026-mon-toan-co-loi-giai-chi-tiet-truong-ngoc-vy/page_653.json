@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      158,
+      97,
+      1005,
+      408
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} \\frac{-b}{2a} = 2 \\\\ y(0) = 11 \\\\ y(2) = 3 \\end{cases} \\Leftrightarrow \\begin{cases} 4a + 2b + c = 3 \\\\ c = 11 \\\\ 4a + b = 0 \\end{cases} \\Rightarrow \\begin{cases} a = 2 \\\\ b = -8 \\\\ c = 11 \\end{cases} \\Rightarrow v(t) = 2t^2 - 8t + 11 \\\\ \\Rightarrow v(4) = 2.4^2 - 8.4 + 11 = 11(m/s)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      433,
+      703,
+      481
+    ],
+    "category": "Formula",
+    "text": "c) With $t = 5 \\Rightarrow v(5) = 2.5^2 - 8.5 + 11 = 21$"
+  },
+  {
+    "bbox": [
+      155,
+      506,
+      1574,
+      720
+    ],
+    "category": "Text",
+    "text": "Gọi $d: v(t) = at + b$ là phương trình đường thẳng thể hiện vận tốc của ô tô khi $5 \\le t \\le 10(s)$ do $d$ đi qua điểm $(5; 21)$ và $(10; 0)$ nên: $\\begin{cases} 5a + b = 11 \\\\ 10a + b = 0 \\end{cases} \\Rightarrow \\begin{cases} a = -\\frac{11}{5} \\\\ b = 22 \\end{cases} \\Rightarrow v(t) = \\frac{-11}{5}t + 22$"
+  },
+  {
+    "bbox": [
+      155,
+      749,
+      1574,
+      988
+    ],
+    "category": "Text",
+    "text": "Gia tốc của ô tô tại thời điểm $t$ giây là: $a(t) = v'(t) = \\frac{-11}{5} = 2,2(m/s^2)$, do đó gia tốc của ô tô tại thời điểm giây thứ 5 đến giây thứ 10 không đổi là $2,2(m/s^2)$\nVậy gia tốc của ô tô tại thời điểm $t = 6$ giây là $2,2(m/s^2)$."
+  },
+  {
+    "bbox": [
+      155,
+      1011,
+      1243,
+      1157
+    ],
+    "category": "Formula",
+    "text": "d) Ta có: phương trình biểu thị vận tốc của ô tô là $v(t) = \\begin{cases} 2t^2 - 8t + 11, & 0 \\le t \\le 5 \\\\ \\frac{-11}{5}t + 22, & 5 < t \\le 10 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      155,
+      1178,
+      1198,
+      1227
+    ],
+    "category": "Text",
+    "text": "Khi đó quăng đường ô tô di chuyển trong khoảng thời gian từ $0 \\le t \\le 10(s)$ là"
+  },
+  {
+    "bbox": [
+      160,
+      1254,
+      1082,
+      1475
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} S &= \\int_{0}^{10} v(t) dt = \\int_{0}^{5} (2t^2 - 8t + 11) dt + \\int_{5}^{10} \\left( \\frac{-11}{5}t + 22 \\right) dt \\\\ &= \\left. \\left( \\frac{2t^3}{3} - 4t^2 + 11t \\right) \\right|_{0}^{5} + \\left. \\left( \\frac{-11t^2}{10} + 22t \\right) \\right|_{5}^{10} \\\\ &= \\frac{115}{3} + \\frac{55}{2} = \\frac{395}{6} (m) \\approx 60 (m) \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1496,
+      1574,
+      1682
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): x - 2y + 2z - 2 = 0$ và điểm $I(-1; 2; -1)$. Biết mặt cầu $(S)$ có tâm $I$ và cắt mặt phẳng $(P)$ theo giao tuyến là đường tròn $(C)$ có diện tích là $25\\pi$."
+  },
+  {
+    "bbox": [
+      155,
+      1701,
+      811,
+      1750
+    ],
+    "category": "Text",
+    "text": "a) Khoảng cách từ $I$ đến mặt phẳng $(P)$ bằng 3."
+  },
+  {
+    "bbox": [
+      155,
+      1775,
+      661,
+      1824
+    ],
+    "category": "Text",
+    "text": "b) Bán kính đường tròn $(C)$ bằng 4."
+  },
+  {
+    "bbox": [
+      155,
+      1851,
+      1405,
+      1901
+    ],
+    "category": "Text",
+    "text": "c) Gọi $H(x_0; y_0; z_0)$ là tọa độ tâm đường tròn $(C)$. Khi đó $2024x_0 + 2025y_0 + 2026z_0 = 6075$"
+  },
+  {
+    "bbox": [
+      155,
+      1924,
+      1039,
+      1981
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu $(S)$ là $(x+1)^2 + (y-2)^2 + (z+1)^2 = \\sqrt{34}$"
+  },
+  {
+    "bbox": [
+      807,
+      2006,
+      924,
+      2045
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2060,
+      972,
+      2182
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "bbox": [
+      152,
+      98,
+      606,
+      191
+    ],
+    "category": "Page-header",
+    "text": "SỞ GD & ĐT HƯNG YÊN\nCỤM CÁC TRƯỜNG THPT"
+  },
+  {
+    "bbox": [
+      267,
+      224,
+      492,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề có 4 trang)"
+  },
+  {
+    "bbox": [
+      832,
+      98,
+      1398,
+      224
+    ],
+    "category": "Page-header",
+    "text": "KỲ THI THỬ TỐT NGHIỆP THPT\nNĂM HỌC 2025 - 2026\nMÔN TOÁN"
+  },
+  {
+    "bbox": [
+      712,
+      224,
+      1520,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài : 90 phút; không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      94,
+      358,
+      1106,
+      404
+    ],
+    "category": "Text",
+    "text": "Họ tên : .................................................................... Số báo danh : ...................."
+  },
+  {
+    "bbox": [
+      1266,
+      358,
+      1436,
+      399
+    ],
+    "category": "Text",
+    "text": "Mã đề 1002"
+  },
+  {
+    "bbox": [
+      94,
+      476,
+      1550,
+      567
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án (3,0 điểm).**"
+  },
+  {
+    "bbox": [
+      94,
+      567,
+      1555,
+      727
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$ và $F(x)$ là nguyên hàm của $f(x)$, biết $\\int_{0}^{7} f(x)dx = 7$ và $F(0) = 3$. Tính $F(7)$."
+  },
+  {
+    "bbox": [
+      127,
+      733,
+      335,
+      781
+    ],
+    "category": "List-item",
+    "text": "A. $F(7) = 4$."
+  },
+  {
+    "bbox": [
+      494,
+      733,
+      711,
+      781
+    ],
+    "category": "List-item",
+    "text": "B. $F(7) = 10$."
+  },
+  {
+    "bbox": [
+      861,
+      733,
+      1083,
+      781
+    ],
+    "category": "List-item",
+    "text": "C. $F(7) = -4$."
+  },
+  {
+    "bbox": [
+      1227,
+      733,
+      1473,
+      781
+    ],
+    "category": "List-item",
+    "text": "D. $F(7) = -10$."
+  },
+  {
+    "bbox": [
+      94,
+      785,
+      1555,
+      887
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Trong không gian $Oxyz$, cho ba điểm $A(-1;-1;-1)$, $B(0; 2; 1)$ và $C(1; -1; 2)$. Face phẳng đi qua $A$ và vuông góc với $BC$ có phương trình là"
+  },
+  {
+    "bbox": [
+      127,
+      887,
+      439,
+      928
+    ],
+    "category": "List-item",
+    "text": "A. $x+3y-z+1=0$."
+  },
+  {
+    "bbox": [
+      494,
+      887,
+      806,
+      928
+    ],
+    "category": "List-item",
+    "text": "B. $x+3y+z-1=0$."
+  },
+  {
+    "bbox": [
+      861,
+      887,
+      1167,
+      928
+    ],
+    "category": "List-item",
+    "text": "C. $x-3y+z+1=0$."
+  },
+  {
+    "bbox": [
+      1227,
+      887,
+      1537,
+      928
+    ],
+    "category": "List-item",
+    "text": "D. $x-3y+z-1=0$."
+  },
+  {
+    "bbox": [
+      94,
+      928,
+      1555,
+      1024
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. độ sâu $h$ (m) của mực nước trong kênh tính theo thời gian $t$ (giờ) trong một ngày ($0 \\le t < 24$) cho bởi công thức"
+  },
+  {
+    "bbox": [
+      94,
+      1034,
+      1113,
+      1128
+    ],
+    "category": "Formula",
+    "text": "$$\nh = 2\\sin\\left(\\pi - \\frac{\\pi t}{6}\\right) + 12. \\text{Độ sâu của mực nước tại thời điểm } t = 3 \\text{ bằng}\n$$"
+  },
+  {
+    "bbox": [
+      127,
+      1135,
+      257,
+      1173
+    ],
+    "category": "List-item",
+    "text": "A. 14m."
+  },
+  {
+    "bbox": [
+      494,
+      1135,
+      611,
+      1173
+    ],
+    "category": "List-item",
+    "text": "B. 11m"
+  },
+  {
+    "bbox": [
+      861,
+      1135,
+      996,
+      1173
+    ],
+    "category": "List-item",
+    "text": "C. 12 m."
+  },
+  {
+    "bbox": [
+      1227,
+      1135,
+      1354,
+      1173
+    ],
+    "category": "List-item",
+    "text": "D. 13m."
+  },
+  {
+    "bbox": [
+      94,
+      1173,
+      1165,
+      1217
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Cho mẫu số liệu điểm môn Toán của một nhóm học sinh như sau:"
+  },
+  {
+    "bbox": [
+      217,
+      1217,
+      1377,
+      1330
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[6;7)</td><td>[7;8)</td><td>[8;9)</td><td>[9;10]</td></tr><tr><td>Số học sinh</td><td>8</td><td>7</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      1328,
+      999,
+      1374
+    ],
+    "category": "Text",
+    "text": "Mốt của mẫu số liệu (kết quả làm tròn đến hàng phần trăm) là:"
+  },
+  {
+    "bbox": [
+      127,
+      1374,
+      265,
+      1412
+    ],
+    "category": "List-item",
+    "text": "A. 7,91."
+  },
+  {
+    "bbox": [
+      494,
+      1374,
+      632,
+      1412
+    ],
+    "category": "List-item",
+    "text": "B. 8,37."
+  },
+  {
+    "bbox": [
+      861,
+      1374,
+      996,
+      1412
+    ],
+    "category": "List-item",
+    "text": "C. 8,38."
+  },
+  {
+    "bbox": [
+      1227,
+      1374,
+      1367,
+      1412
+    ],
+    "category": "List-item",
+    "text": "D. 7,95."
+  },
+  {
+    "bbox": [
+      94,
+      1416,
+      1532,
+      1516
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ biết $AA' = 4$; $AB = 4$; $BC = 6$. Thể tích khối集合 $A'.BCD$ bằng"
+  },
+  {
+    "bbox": [
+      127,
+      1516,
+      219,
+      1554
+    ],
+    "category": "List-item",
+    "text": "A. 48"
+  },
+  {
+    "bbox": [
+      494,
+      1516,
+      583,
+      1554
+    ],
+    "category": "List-item",
+    "text": "B. 32"
+  },
+  {
+    "bbox": [
+      861,
+      1516,
+      952,
+      1554
+    ],
+    "category": "List-item",
+    "text": "C. 16"
+  },
+  {
+    "bbox": [
+      1227,
+      1516,
+      1318,
+      1554
+    ],
+    "category": "List-item",
+    "text": "D. 96"
+  },
+  {
+    "bbox": [
+      94,
+      1554,
+      1555,
+      1682
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Giá của một chiếc máy photocopy lúc mới mua là 60 triệu đồng. Biết rằng giá trị còn lại của nó sau mỗi năm sử dụng chỉ còn 80% giá trị trong năm liền trước đó. Giá trị còn lại của chiếc máy photocopy đó sau 3 năm sử dụng bằng"
+  },
+  {
+    "bbox": [
+      127,
+      1682,
+      427,
+      1722
+    ],
+    "category": "List-item",
+    "text": "A. 24,58 triệu đồng."
+  },
+  {
+    "bbox": [
+      821,
+      1682,
+      1076,
+      1722
+    ],
+    "category": "List-item",
+    "text": "B. 48 triệu đồng."
+  },
+  {
+    "bbox": [
+      127,
+      1722,
+      427,
+      1764
+    ],
+    "category": "List-item",
+    "text": "C. 30,72 triệu đồng."
+  },
+  {
+    "bbox": [
+      821,
+      1722,
+      1103,
+      1764
+    ],
+    "category": "List-item",
+    "text": "D. 38,4 triệu đồng."
+  },
+  {
+    "bbox": [
+      94,
+      1764,
+      1039,
+      1808
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Cho hình集合 $S.ABCD$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      127,
+      1808,
+      641,
+      1849
+    ],
+    "category": "List-item",
+    "text": "A. $SA$ và $CD$ vuông góc với nhau."
+  },
+  {
+    "bbox": [
+      821,
+      1808,
+      1192,
+      1849
+    ],
+    "category": "List-item",
+    "text": "B. $SA$ và $BD$ chéo nhau."
+  },
+  {
+    "bbox": [
+      127,
+      1849,
+      635,
+      1891
+    ],
+    "category": "List-item",
+    "text": "C. $SA$ và $BC$ song song với nhau."
+  },
+  {
+    "bbox": [
+      821,
+      1849,
+      1165,
+      1891
+    ],
+    "category": "List-item",
+    "text": "D. $SA$ và $BD$ cắt nhau."
+  },
+  {
+    "bbox": [
+      94,
+      1891,
+      1555,
+      1997
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng $(P)$ cắt các trục Ox, Oy, Oz lần lượt tại $A(14; 0;0)$; $B(0;7;0)$; $C(0;0;14/3)$. Viết phương trình mặt phẳng $(P)$."
+  },
+  {
+    "bbox": [
+      94,
+      2007,
+      413,
+      2047
+    ],
+    "category": "List-item",
+    "text": "A. $2x + y + z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      423,
+      2007,
+      764,
+      2047
+    ],
+    "category": "List-item",
+    "text": "B. $2x + y + 3z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      774,
+      2007,
+      1117,
+      2047
+    ],
+    "category": "List-item",
+    "text": "C. $x + 2y + 3z - 14 = 0$."
+  },
+  {
+    "bbox": [
+      1155,
+      2007,
+      1483,
+      2047
+    ],
+    "category": "List-item",
+    "text": "D. $x + 2y + 3z + 14 = 0$."
+  },
+  {
+    "bbox": [
+      94,
+      2051,
+      1555,
+      2157
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Trong không gian $Oxyz$, cho mặt phẳng $(P):2x - y + z - 3 = 0$. Vectơ nào dưới đây là một vectơ pháp tuyến của mặt phẳng $(P)$?"
+  },
+  {
+    "bbox": [
+      1232,
+      2208,
+      1555,
+      2252
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1/4 - Mã đề 1002"
+  }
+]

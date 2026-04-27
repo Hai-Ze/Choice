@@ -1,0 +1,320 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1198,
+      275
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Một lớp có 70% học sinh là nữ. Tỉ lệ học sinh đạt học sinh good trong số học sinh nữ là 35%, tỉ lệ học sinh đạt danh hiệu học sinh gọi trong số học sinh nam là 60%. Chọn ngẫu nhiên một học sinh của lớp đó. Gọi $A$ là biến cố “Học sinh được chọn là nữ” và $B$ là biến cố “Học sinh được chọn đạt danh hiệu học sinh good”."
+  },
+  {
+    "bbox": [
+      124,
+      275,
+      574,
+      314
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất của biến cố $\\bar{A}$ là 0,3."
+  },
+  {
+    "bbox": [
+      124,
+      314,
+      805,
+      354
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất của biến cố $\\bar{B}$ với điều kiện $A$ là 0,65."
+  },
+  {
+    "bbox": [
+      124,
+      354,
+      805,
+      425
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất của biến cố $A$ với điều kiện $\\bar{B}$ là $\\frac{91}{100}$."
+  },
+  {
+    "bbox": [
+      124,
+      422,
+      590,
+      459
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất của biến cố $B$ là 0,49."
+  },
+  {
+    "bbox": [
+      110,
+      475,
+      893,
+      530
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      538,
+      1198,
+      703
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một ôtô đang chạy với vận tốc 10 m/s thì gặp chướng ngại vật, người lái xe đạp phanh. Từ thời điểm đó xe ôtô chuyển động chậm dần đều với gia tốc $a = -2$ m/s², trong đó $t$ là thời gian tính bằng giây kể từ lúc đạp phanh. Hỏi ôtô chuyển động được bao nhiêu mét (kể từ lúc đạp phanh đến khi停止). KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      655,
+      1196,
+      715
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      730,
+      1213,
+      848
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho $\\int_{2}^{3} f(x) dx = 1$; $\\int_{2}^{3} g(x) dx = 4$. Tính giá trị của tích phân $\\int_{2}^{3} [f(x) - g(x)] dx$."
+  },
+  {
+    "bbox": [
+      104,
+      848,
+      405,
+      907
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      163,
+      848,
+      405,
+      907
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      920,
+      1198,
+      1084
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Trong không gian $Oxyz$, người ta muốn thiết kế một lều cắm trại có dạng một phần của mặt cầu bằng phần mềm 3D. Cho phương trình bề mặt của lều là $(S): (x-2)^2+(y-3)^2+(z-1)^2 = 9$ và sàn lều nằm trong mặt phẳng $(Oxy)$. Tính bán kính đường tròn sàn của lều (làm tròn đến hàng phần trăm). KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1037,
+      1196,
+      1097
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1110,
+      1198,
+      1313
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Khi gắn hệ tọa độ $Oxyz$ (đơn vị trên mỗi trục tính theo kilômét) vào một sân bay, mặt phẳng $(Oxy)$ trùng với mặt sân bay. Một máy bay bay theo đường thẳng từ vị trí $A(3; -2; 3)$ đến vị trí $B(5; 6; 2)$. Góc giữa đường bay (một phần của đường thẳng $AB$) và sân bay (một phần của mặt phẳng $(Oxy)$) bằng $a$ độ (làm tròn kết quả đến hàng đơn vị). Tính giá trị của $a$."
+  },
+  {
+    "bbox": [
+      900,
+      1265,
+      1196,
+      1325
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1265,
+      1196,
+      1325
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1336,
+      1198,
+      1451
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho hàm số $f(x) = \\frac{1}{x}$ có một nguyên hàm $F(x)$ thỏa mãn $F(1) = 100$. Tính giá trị của $F(e)$."
+  },
+  {
+    "bbox": [
+      900,
+      1403,
+      1196,
+      1463
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1403,
+      1196,
+      1463
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1476,
+      1198,
+      1717
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Bạn Thanh có hai集合待定 bi, các viên bi có cùng kích thước và hình dạng. Hộp thứ nhất có 8 viên bi trắng và 2 viên bi đen,套集 thứ hai có 6 viên bi trắng và 3 viên bi đen. Thanh lấy ngẫu nhiên một viên bi từ套集 thứ nhất để vào套集 thứ hai, sau đó lấy ngẫu nhiên một viên bi từ套集 thứ hai. Biết viên bi lấy ra ở套集 thứ hai là viên bi màu trắng. Tính xác suất viên bi đó thuộc套集 thứ nhất (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      900,
+      1669,
+      1196,
+      1729
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1669,
+      1196,
+      1729
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      555,
+      1752,
+      595,
+      1786
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      614,
+      1746,
+      691,
+      1786
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      1752,
+      747,
+      1786
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      166,
+      1596,
+      2229
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 593"
+  }
+]

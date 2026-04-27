@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      251,
+      123,
+      1116,
+      209
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm chi phí trung bình là $A'(x) = \\frac{0,2x^2 + 500}{x^2}$."
+  },
+  {
+    "bbox": [
+      251,
+      229,
+      1198,
+      275
+    ],
+    "category": "Text",
+    "text": "b) Chi phí trung bình trên mỗi chuyển xe thấp nhất bằng 22 triệu đồng."
+  },
+  {
+    "bbox": [
+      251,
+      289,
+      1534,
+      381
+    ],
+    "category": "Text",
+    "text": "c) Nếu do giới hạn về số lượng tài xế khiến công ty chỉ có thể vận hành tối đa 40 chuyển xe mỗi ngày. Chi phí trung bình mỗi chuyển xe trong trường hợp này thấp nhất bằng 22,5 triệu đồng."
+  },
+  {
+    "bbox": [
+      251,
+      395,
+      1436,
+      442
+    ],
+    "category": "Text",
+    "text": "d) Tổng chi phí vận hành của công ty vận tải trong một ngày thấp nhất bằng 1,1 tỷ đồng."
+  },
+  {
+    "bbox": [
+      836,
+      462,
+      950,
+      500
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      234,
+      523,
+      316,
+      559
+    ],
+    "category": "Text",
+    "text": "a) Sai"
+  },
+  {
+    "bbox": [
+      232,
+      588,
+      1059,
+      673
+    ],
+    "category": "Text",
+    "text": "Đạo hàm của hàm chi phí trung bình là $A'(x) = \\frac{0,2x^2 - 500}{x^2}$."
+  },
+  {
+    "bbox": [
+      234,
+      699,
+      351,
+      737
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      232,
+      763,
+      1167,
+      848
+    ],
+    "category": "Text",
+    "text": "Ta có: $A'(x) = \\frac{0,2x^2 - 500}{x^2} = 0 \\Rightarrow x = 50$. Ta có bảng biến thiên sau:"
+  },
+  {
+    "bbox": [
+      482,
+      869,
+      1282,
+      1138
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      232,
+      1156,
+      1507,
+      1202
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta thấy: Chi phí trung bình trên mỗi chuyển xe thấp nhất bằng 22 triệu đồng."
+  },
+  {
+    "bbox": [
+      234,
+      1223,
+      348,
+      1261
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      232,
+      1279,
+      824,
+      1323
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta có $x \\le 40$, từ bảng biến thiên"
+  },
+  {
+    "bbox": [
+      232,
+      1347,
+      1504,
+      1394
+    ],
+    "category": "Text",
+    "text": "Chi phí trung bình mỗi chuyển xe trong trường hợp này thấp nhất là $A(40) = 22,5$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      234,
+      1425,
+      318,
+      1461
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      232,
+      1485,
+      1528,
+      1586
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí vận hành của công ty vận tải trong một ngày là: $B(x) = x \\cdot A(x) = 0,2x^2 + 2x + 500$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      232,
+      1610,
+      922,
+      1654
+    ],
+    "category": "Text",
+    "text": "Có: $B'(x) = 0,4x + 2 > 0$ với $10 \\le x \\le 100$. Do đó"
+  },
+  {
+    "bbox": [
+      232,
+      1682,
+      1532,
+      1730
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí vận hành của công ty vận tải trong một ngày thấp nhất là: $B(10) = 540$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      114,
+      1757,
+      1534,
+      2071
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Một kiến trúc sur thiết kế bồn hoa trong công viên trên hệ trục tọa độ $Oxy$ (đơn vị: mét). Bồn hoa là hình phẳng giới hạn bởi parabol $(P): y = -x^2 + 4$ và trục hoành $Ox$. Kiến trúc sur bố trí một dải đèn LED thẳng, được mô phỏng bởi đường thẳng $d$ đi qua điểm $M(0;1)$, cắt parabol $(P)$ tại hai điểm phân biệt $A$ và $B$ (có hoành độ lần lượt là $x_1, x_2$). Dải灯 chia bồn hoa thành hai phần riêng biệt: Part hình phẳng nằm phía trên dây cung $AB$ được dùng để trồng Hoa Hồng, phần còn lại của bồn hoa (năm phía dưới dây cung $AB$) được dùng để trồng Cỏ Nhật."
+  },
+  {
+    "bbox": [
+      251,
+      2104,
+      1404,
+      2150
+    ],
+    "category": "Text",
+    "text": "a) Diện tích toàn bộ bồn hoa (tổng diện tích trồng Hoa Hồng và Cỏ Nhật) bằng $16 \\text{ m}^2$."
+  }
+]

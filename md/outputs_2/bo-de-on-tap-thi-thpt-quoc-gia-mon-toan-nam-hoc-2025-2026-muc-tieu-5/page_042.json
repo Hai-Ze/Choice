@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      194,
+      135,
+      1064,
+      235
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{b) Sai.} \\text{ Xét } f'(x) = 0 \\iff 3x^2 + 6x = 0 \\iff \\begin{bmatrix} x = 0 \\\\ x = -2 \\end{bmatrix}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      248,
+      522,
+      292
+    ],
+    "category": "Text",
+    "text": "Bảng xét dấu $f'(x)$:"
+  },
+  {
+    "bbox": [
+      593,
+      297,
+      1188,
+      413
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      235,
+      420,
+      1534,
+      465
+    ],
+    "category": "Text",
+    "text": "Hàm số đồng biến trên các khoảng $(-\\infty; -2)$ và $(0; +\\infty)$, nghịch biến trên khoảng $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      235,
+      478,
+      1546,
+      566
+    ],
+    "category": "Text",
+    "text": "Vì khoảng $(-1; +\\infty)$ chứa khoảng $(-1; 0)$ là khoảng nghịch biến của hàm số nên khẳng định này sai."
+  },
+  {
+    "bbox": [
+      194,
+      583,
+      1546,
+      668
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{c) Đúng.} \\text{ Dựa vào bảng xét dấu, } f'(x) \\text{ đổi dấu từ dương sang âm khi đi qua } x = -2 \\text{ nên hàm số đạt cực đại tại } x = -2.\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      684,
+      845,
+      728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{d) Đúng.} \\text{ Kiểm tra các yếu tố của đồ thị:}\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      743,
+      828,
+      787
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star \\text{ Diểm cực đại: } (-2; f(-2)) = (-2; 0).\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      794,
+      789,
+      838
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star \\text{ Diểm cực tiểu: } (0; f(0)) = (0; -4).\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      845,
+      1544,
+      889
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star \\text{ Giao điểm trục hoành: } x^3 + 3x^2 - 4 = 0 \\iff (x - 1)(x + 2)^2 = 0 \\iff x = 1; x = -2.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      903,
+      887,
+      946
+    ],
+    "category": "Text",
+    "text": "Đồ thị元接per hoàn toàn với các đặc điểm trên."
+  },
+  {
+    "bbox": [
+      152,
+      965,
+      1548,
+      1097
+    ],
+    "category": "Text",
+    "text": "Bài 2. At tỉnh X, 20% dân số thường xuyên chơi thể thao. Trong số những người thường xuyên chơi thể thao, có 70% người có thể lực tốt. Trong số những người không thường xuyên chơi thể thao, có 15% có thể lực tốt. Chọn ngẫu nhiên một người dân tỉnh X."
+  },
+  {
+    "bbox": [
+      190,
+      1114,
+      1255,
+      1158
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất người đó có thể lực tốt và thường xuyên chơi thể thao là 0,14."
+  },
+  {
+    "bbox": [
+      190,
+      1170,
+      1548,
+      1255
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất người đó có thể lực tốt, biết rằng người đó không thường xuyên chơi thể thao là 0,15."
+  },
+  {
+    "bbox": [
+      190,
+      1269,
+      972,
+      1313
+    ],
+    "category": "List-item",
+    "text": "c) Tỉ lệ người có thể lực tốt trong toàn tỉnh X là 36%."
+  },
+  {
+    "bbox": [
+      190,
+      1324,
+      1378,
+      1374
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất người đó thường xuyên chơi thể thao, biết rằng họ có thể lực tốt là $\\frac{8}{13}$."
+  },
+  {
+    "bbox": [
+      152,
+      1387,
+      1548,
+      1490
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $A$ là biến cố: \"Người được chọn thường xuyên chơi thể thao\" $\\Rightarrow P(A) = 0,2$ và $P(\\bar{A}) = 0,8$."
+  },
+  {
+    "bbox": [
+      202,
+      1507,
+      943,
+      1549
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố: \"Người được chọn có thể lực tốt\"."
+  },
+  {
+    "bbox": [
+      202,
+      1567,
+      896,
+      1612
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết: $P(B|A) = 0,7$ và $P(B|\\bar{A}) = 0,15$."
+  },
+  {
+    "bbox": [
+      194,
+      1630,
+      1345,
+      1674
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{a) Đúng.} \\text{ Xác suất người đó có thể lực tốt và thường xuyên chơi thể thao là:}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1689,
+      889,
+      1731
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A \\cap B) = P(A) \\cdot P(B|A) = 0,2 \\cdot 0,7 = 0,14.\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      1746,
+      1315,
+      1790
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{b) Đúng.} \\text{ Đây là xác suất có điều kiện } P(B|\\bar{A}) = 0,15 \\text{ theo dữ kiện đề bài.}\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      1804,
+      980,
+      1848
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{c) Sai.} \\text{ Tỉ lệ người có thể lực tốt trong toàn tỉnh là:}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1861,
+      1502,
+      1905
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A \\cap B) + P(\\bar{A} \\cap B) = 0,14 + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,14 + 0,8 \\cdot 0,15 = 0,26 = 26\\%.\n$$"
+  },
+  {
+    "bbox": [
+      194,
+      1922,
+      1456,
+      1966
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\textbf{d) Sai.} \\text{ Xác suất người đó thường xuyên chơi thể thao, biết rằng họ có thể lực tốt là:}\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1975,
+      662,
+      2031
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0,14}{0,26} = \\frac{7}{13}.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      2047,
+      1548,
+      2181
+    ],
+    "category": "Text",
+    "text": "Bài 3. Giả sử lợi nhuận biên (tính bằng triệu đồng) của một sản phẩm được mô hình hóa bằng công thức $P'(x) = -0,0008x + 10,4$. Ở đây $P(x)$ là lợi nhuận (tính bằng triệu đồng) khi bán được $x$ đơn vị sản phẩm."
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "42"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1509,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

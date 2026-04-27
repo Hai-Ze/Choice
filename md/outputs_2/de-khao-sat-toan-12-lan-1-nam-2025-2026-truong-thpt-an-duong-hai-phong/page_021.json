@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      826,
+      82,
+      939,
+      119
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      806,
+      125,
+      960,
+      164
+    ],
+    "category": "Text",
+    "text": "Đáp án: -5"
+  },
+  {
+    "bbox": [
+      153,
+      195,
+      1563,
+      325
+    ],
+    "category": "Text",
+    "text": "**Câu 18.** Để chặn đường hành lang hình chữ L, người ta dùng một que sào thẳng dài đặt kín những điểm chạm với hành lang (như hình vẽ). Biết $a = 24$ và $b = 3$. Hỏi cái sào thỏa mãn điều kiện trên có chiều dài tối thiểu là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      850,
+      352,
+      1308,
+      702
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      826,
+      728,
+      939,
+      765
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      789,
+      377,
+      827
+    ],
+    "category": "Text",
+    "text": "Đáp án: 33,5"
+  },
+  {
+    "bbox": [
+      540,
+      847,
+      1222,
+      1374
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1392,
+      546,
+      1433
+    ],
+    "category": "Text",
+    "text": "Đặt các điểm như hình vẽ."
+  },
+  {
+    "bbox": [
+      193,
+      1459,
+      1325,
+      1540
+    ],
+    "category": "Text",
+    "text": "Đặt $DF = x$, $x > 0$, ta có $\\Delta ADF$ đồng dạng với $\\Delta BED$ nên $\\frac{EB}{ED} = \\frac{AF}{DF} \\Rightarrow EB = \\frac{ab}{x}$"
+  },
+  {
+    "bbox": [
+      193,
+      1569,
+      1224,
+      1664
+    ],
+    "category": "Text",
+    "text": "Gọi $l$ là chiều dài của que sào, ta có $l^2 = AB^2 = (x+b)^2 + \\left(a + \\frac{ab}{x}\\right)^2 = f(x)$."
+  },
+  {
+    "bbox": [
+      193,
+      1695,
+      325,
+      1732
+    ],
+    "category": "Text",
+    "text": "Đạo hàm:"
+  },
+  {
+    "bbox": [
+      198,
+      1758,
+      1304,
+      1852
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 2(x+b) - 2\\frac{ab}{x^2}\\left(a + \\frac{ab}{x}\\right) = 2(x+b)\\left(1 - \\frac{a^2b}{x^3}\\right); \\quad f'(x) = 0 \\Leftrightarrow x = \\sqrt[3]{a^2b} = 12.\n$$"
+  },
+  {
+    "bbox": [
+      193,
+      1870,
+      824,
+      1918
+    ],
+    "category": "Text",
+    "text": "Dễ dàng suy ra được $\\min f(x) = f(12) = 1125$"
+  },
+  {
+    "bbox": [
+      193,
+      1950,
+      1011,
+      2000
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị nhỏ nhất của que sào là $l = \\sqrt{1125} = 15\\sqrt{5} \\approx 33,5$."
+  },
+  {
+    "bbox": [
+      159,
+      2029,
+      1565,
+      2218
+    ],
+    "category": "Text",
+    "text": "**Câu 19.** Mảnh đất vường của nhà anh Điệp có một phần ranh giới cũng là một phần đường cong (C):\n$y = \\frac{x+a}{x+b}$, bao quanh nó là sport nước. Với hệ trục tọa độ $Oxy$ thích hợp, đơn vị trên mỗi trục là 10 mét thì đường cong (C) đi qua điểm $(2; 3)$ và có đường tiệm cận đứng $x = 1$. Hàng ngày anh Điệp phải dùng"
+  }
+]

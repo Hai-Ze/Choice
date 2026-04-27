@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      128,
+      97,
+      1511,
+      179
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      128,
+      176,
+      1514,
+      343
+    ],
+    "category": "Text",
+    "text": "Câu 1: Một xe ô tô đang chạy với tốc độ 65km/h thì người lái xe bất ngờ phát hiện chướng ngại vật trên đường cách đó 50m. Người lái xe phản ứng một giây, sau đó đạp phanh khẩn cấp. Kể từ thời điểm này, ô tô chuyển động chậm dần đều với tốc độ $v(t) = -10t + 20$ (m/s), trong đó $t$ là thời gian tính bằng giây kể từ lúc đạp phanh. Gọi $s(t)$ là quăng đường xe ô tô đi được trong $t$ (giây) kể từ lúc đạp phanh."
+  },
+  {
+    "bbox": [
+      133,
+      346,
+      1511,
+      434
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường $s(t)$ mà xe ô tô đi được trong thời gian $t$ (giây) là một nguyên hàm của hàm số $v(t)$."
+  },
+  {
+    "bbox": [
+      245,
+      441,
+      504,
+      484
+    ],
+    "category": "Formula",
+    "text": "b) $s(t) = -5t^2 + 20t$."
+  },
+  {
+    "bbox": [
+      245,
+      484,
+      1132,
+      529
+    ],
+    "category": "Text",
+    "text": "c) Thời gian kể từ lúc đạp phanh đến khi xe ô tô dùng hắn là 20 giây."
+  },
+  {
+    "bbox": [
+      245,
+      528,
+      991,
+      567
+    ],
+    "category": "Text",
+    "text": "d) Xe ô tô đó không va vào chướng ngại vật ở trên đường."
+  },
+  {
+    "bbox": [
+      131,
+      565,
+      929,
+      605
+    ],
+    "category": "Text",
+    "text": "Câu 2: Cho hình lập phương $ABCD.A'B'C'D'$ cạnh $a$ (Hình)."
+  },
+  {
+    "bbox": [
+      619,
+      622,
+      990,
+      903
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      266,
+      915,
+      1033,
+      958
+    ],
+    "category": "Text",
+    "text": "a) Khoảng cách giữa hai đường thẳng $AB$ và $B'C'$ bằng $a$."
+  },
+  {
+    "bbox": [
+      266,
+      955,
+      944,
+      996
+    ],
+    "category": "Text",
+    "text": "b) Góc giữa hai đường thẳng $AB$ và $B'D'$ bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      266,
+      992,
+      1088,
+      1035
+    ],
+    "category": "Text",
+    "text": "c) Góc giữa đường thẳng $CD'$ và mặt phẳng ($ABCD$) bằng $60^\\circ$."
+  },
+  {
+    "bbox": [
+      266,
+      1040,
+      876,
+      1087
+    ],
+    "category": "Text",
+    "text": "d) Góc nhi diện $[C, BB', D]$ có số đo bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      131,
+      1090,
+      1514,
+      1221
+    ],
+    "category": "Text",
+    "text": "Câu 3: Dân số của một quốc gia sau $t$ (năm) kể từ năm 2023 được ước tính bởi công thức: $N(t) = 100e^{0,012t}$ ($N(t)$ được tính bằng triệu người $0 \\le t \\le 50$). Xem $N(t)$ là hàm số của biến số $t$ xác định trên đoạn $[0; 50]$."
+  },
+  {
+    "bbox": [
+      266,
+      1221,
+      1514,
+      1307
+    ],
+    "category": "Text",
+    "text": "a) Dân số của quốc gia này vào các năm 2035 ($t = 12$) là: $N(12) = 100e^{0,012 \\cdot 12} = 115,488$ triệu người."
+  },
+  {
+    "bbox": [
+      266,
+      1303,
+      1264,
+      1345
+    ],
+    "category": "Text",
+    "text": "(kết quả tính bằng triệu người, làm tròn kết quả đến chữ số thập phân thứ ba)."
+  },
+  {
+    "bbox": [
+      266,
+      1340,
+      1514,
+      1431
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số $N(t)$ biểu thị tốc độ tăng dân số của quốc gia đó (tính bằng triệu người/năm). Ta có $N'(t) = 1,2 \\cdot e^{0,012t}$."
+  },
+  {
+    "bbox": [
+      266,
+      1431,
+      891,
+      1475
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $N(t)$ luôn đồng biến trên đoạn $[0; 50]$."
+  },
+  {
+    "bbox": [
+      266,
+      1470,
+      1246,
+      1513
+    ],
+    "category": "Text",
+    "text": "d) Vào năm 2045 tốc độ tăng dân số của quốc gia đó là 1,6 triệu người/năm."
+  },
+  {
+    "bbox": [
+      131,
+      1508,
+      1516,
+      1626
+    ],
+    "category": "Text",
+    "text": "Câu 4: Một két nước ngọt待 24 chair nước có khối lượng và hình thức bề ngoài như nhau, trong đó có 16 chair loại I và 8 chair loại II. Bác Tùng lần lượt lấy ra ngẫu nhiên hai chair (lấy không hoàn lại). Xét các biến cố: $A$: \"Lần thứ nhất lấy ra chair nước loại I; $B$: \"Lần thứ hai lấy ra chair nước loại I\"."
+  },
+  {
+    "bbox": [
+      266,
+      1627,
+      492,
+      1709
+    ],
+    "category": "Formula",
+    "text": "a) $P(B|A) = \\frac{16}{23}$."
+  },
+  {
+    "bbox": [
+      891,
+      1627,
+      1123,
+      1709
+    ],
+    "category": "Formula",
+    "text": "b) $P(B|\\bar{A}) = \\frac{15}{23}$."
+  },
+  {
+    "bbox": [
+      266,
+      1715,
+      492,
+      1795
+    ],
+    "category": "Formula",
+    "text": "c) $P(\\bar{B}|A) = \\frac{8}{23}$."
+  },
+  {
+    "bbox": [
+      891,
+      1715,
+      1123,
+      1795
+    ],
+    "category": "Formula",
+    "text": "d) $P(\\bar{B}|\\bar{A}) = \\frac{7}{23}$."
+  },
+  {
+    "bbox": [
+      131,
+      1795,
+      1146,
+      1838
+    ],
+    "category": "Text",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      131,
+      1836,
+      1518,
+      2018
+    ],
+    "category": "Text",
+    "text": "Câu 1: Khi đặt hệ tọa độ $Oxyz$ vào không gian với đơn vị trên trục tính theo kilômét, người ta thấy rằng một không gian phủ sóng điện thoại có dạng một hình cầu ($S$) (tập hợp những điểm nằm trong và nằm trên mặt cầu tương ứng). Biết mặt cầu ($S$) có phương trình $x^2 + y^2 + z^2 - 2x - 4y - 6z + 5 = 0$. Khoảng cách xa nhất giữa hai điểm thuộc vùng phủ sóng là bao nhiêu kilômét?"
+  },
+  {
+    "bbox": [
+      813,
+      2208,
+      830,
+      2237
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

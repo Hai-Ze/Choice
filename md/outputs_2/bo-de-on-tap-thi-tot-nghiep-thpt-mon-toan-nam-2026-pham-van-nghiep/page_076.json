@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      1182,
+      271
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes, ta có: $P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{\\frac{33}{50} \\cdot \\frac{65}{99}}{\\frac{33}{50}} = \\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      74,
+      271,
+      1576,
+      517
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trong một phòng thí nghiệm có máy đo nồng độ khí CO₂ cho thấy: nồng độ khí CO₂ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{2000t}{t^2 + 5}$ (ppm), với $t \\ge 0$ (Khi nói nồng độ khí CO₂ trong không khí là 400 ppm, điều đó có nghĩa là: Trong một triệu phần thể tích của không khí, có 400 phần thể tích là khí CO₂). Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      212,
+      514,
+      1111,
+      558
+    ],
+    "category": "List-item",
+    "text": "a) Nồng độ khí CO₂ trong phòng tại thời điểm $t = 0$ là 400 (ppm)."
+  },
+  {
+    "bbox": [
+      212,
+      562,
+      737,
+      666
+    ],
+    "category": "Formula",
+    "text": "b) $f'(t) = \\frac{-2000t^2 - 10000}{(t^2 + 5)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      212,
+      675,
+      853,
+      716
+    ],
+    "category": "List-item",
+    "text": "c) Nghiệm của phương trình $f'(t) = 0$ là $t = 2$."
+  },
+  {
+    "bbox": [
+      212,
+      716,
+      1566,
+      802
+    ],
+    "category": "List-item",
+    "text": "d) Nồng độ khí CO₂ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 947 (ppm)."
+  },
+  {
+    "bbox": [
+      797,
+      802,
+      913,
+      839
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      839,
+      334,
+      877
+    ],
+    "category": "List-item",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      879,
+      1399,
+      958
+    ],
+    "category": "Text",
+    "text": "Nồng độ khí CO₂ trong phòng tại thời điểm $t = 0$ là $f(0) = 400 + \\frac{2000 \\cdot 0}{0^2 + 5} = 400$ (ppm)."
+  },
+  {
+    "bbox": [
+      212,
+      963,
+      304,
+      1000
+    ],
+    "category": "List-item",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      212,
+      1002,
+      1139,
+      1118
+    ],
+    "category": "Formula",
+    "text": "Ta có $f'(t) = \\frac{2000(t^2 + 5) - 2000t \\cdot 2t}{(t^2 + 5)^2} = \\frac{-2000t^2 + 10000}{(t^2 + 5)^2}$ với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      212,
+      1127,
+      301,
+      1164
+    ],
+    "category": "List-item",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      212,
+      1164,
+      1169,
+      1213
+    ],
+    "category": "Formula",
+    "text": "Ta có $f'(t) = 0 \\Rightarrow -2000t^2 + 10000 = 0 \\Leftrightarrow t^2 = 5 \\Leftrightarrow t = \\sqrt{5}$ (do $t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      212,
+      1215,
+      897,
+      1265
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm của phương trình $f'(t) = 0$ là $t = \\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      212,
+      1272,
+      304,
+      1309
+    ],
+    "category": "List-item",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      212,
+      1309,
+      1451,
+      1379
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên của hàm số $f(t)$ trên $[0; +\\infty)$ ta được $\\max_{[0;+\\infty)} f(t) = f(\\sqrt{5}) \\approx 847$ (ppm)."
+  },
+  {
+    "bbox": [
+      212,
+      1381,
+      1566,
+      1465
+    ],
+    "category": "Text",
+    "text": "Khi đó nồng độ khí CO₂ cao nhất đo được trong phòng thí nghiệm (làm tròn đến hàng đơn vị) là 847 (ppm)."
+  },
+  {
+    "bbox": [
+      74,
+      1461,
+      1576,
+      1776
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Hai chiếc flycam được điều�khiển cùng bay lên tại cùng một địa điểm. Sau một thời gian bay, chiếc flycam thứ nhất bay đến vị trí điểm $A$ cách mặt đất $10m$, cách điểm xuất phát $8m$ về phía nam và $3m$ về phía đông. Chiес flycam thứ hai bay đến điểm $B$ cách mặt đất $12m$, cách điểm xuất phát $4m$ về phía bắc và $5m$ về phía Tây. Chọn hệ trục tọa độ $Oxyz$ với gốc $O$ đặt tại điểm xuất phát của hai chiếc flycam, mặt phẳng $(Oxy)$ trùng với mặt đất (coi như phẳng) có trục $Ox$ hướng về phía nam, trục $Oy$ hướng về phía đông và trục $Oz$ hướng thẳng đứng lên trời (đơn vị đo mỗi trục là mét). Khi đó:"
+  },
+  {
+    "bbox": [
+      536,
+      1783,
+      1115,
+      2228
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

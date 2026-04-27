@@ -1,0 +1,331 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      700,
+      112,
+      1084,
+      535
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      546,
+      855,
+      625
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b})$. B. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c})$."
+  },
+  {
+    "bbox": [
+      213,
+      632,
+      858,
+      712
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d})$. D. $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$."
+  },
+  {
+    "bbox": [
+      833,
+      720,
+      953,
+      760
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      762,
+      1154,
+      869
+    ],
+    "category": "Text",
+    "text": "Vì $M, P$ lần lượt là trung điểm của $AB, CD \\Rightarrow \\begin{cases} 2\\overrightarrow{AM} = \\overrightarrow{AB} \\\\ \\overrightarrow{AC} + \\overrightarrow{AD} = 2\\overrightarrow{AP} \\end{cases}$"
+  },
+  {
+    "bbox": [
+      213,
+      879,
+      1483,
+      959
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{MP} = \\overrightarrow{MA} + \\overrightarrow{AP} = -\\overrightarrow{AM} + \\overrightarrow{AP} = -\\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}(\\overrightarrow{AC} + \\overrightarrow{AD}) = -\\frac{1}{2}\\vec{b} + \\frac{1}{2}\\vec{c} + \\frac{1}{2}\\vec{d} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$"
+  },
+  {
+    "bbox": [
+      74,
+      962,
+      1574,
+      1053
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Mỗi ngày thầy Trung đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của thầy Trung trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      328,
+      1050,
+      1464,
+      1170
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      1170,
+      1345,
+      1215
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm trên gần nhất với số nào sau đây?"
+  },
+  {
+    "bbox": [
+      213,
+      1221,
+      324,
+      1257
+    ],
+    "category": "List-item",
+    "text": "A. 0,35."
+  },
+  {
+    "bbox": [
+      548,
+      1221,
+      638,
+      1257
+    ],
+    "category": "List-item",
+    "text": "B. 0,5."
+  },
+  {
+    "bbox": [
+      862,
+      1221,
+      955,
+      1257
+    ],
+    "category": "List-item",
+    "text": "C. 0,4."
+  },
+  {
+    "bbox": [
+      1177,
+      1221,
+      1266,
+      1257
+    ],
+    "category": "List-item",
+    "text": "D. 0,1"
+  },
+  {
+    "bbox": [
+      833,
+      1265,
+      953,
+      1305
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1307,
+      478,
+      1346
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu là $n = 20$."
+  },
+  {
+    "bbox": [
+      213,
+      1355,
+      443,
+      1395
+    ],
+    "category": "Text",
+    "text": "Ta có bảng sau:"
+  },
+  {
+    "bbox": [
+      220,
+      1395,
+      1483,
+      1557
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Giá trị đại diện</td><td>2,85</td><td>3,15</td><td>3,45</td><td>3,75</td><td>4,05</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      213,
+      1561,
+      943,
+      1605
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu ghép nhóm trên là:"
+  },
+  {
+    "bbox": [
+      545,
+      1607,
+      1238,
+      1686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{3.2,85 + 6.3,15 + 5.3,45 + 4.3,75 + 2.4,05}{20} = 3,38\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1692,
+      908,
+      1737
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm trên là:"
+  },
+  {
+    "bbox": [
+      387,
+      1739,
+      1402,
+      1818
+    ],
+    "category": "Formula",
+    "text": "$$\ns^2 = \\frac{1}{20} \\cdot (3.2,85^2 + 6.3,15^2 + 5.3,45^2 + 4.3,75^2 + 2.4,05^2) - (3,38)^2 = 0,1246.\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      1823,
+      1079,
+      1868
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm trên là $s \\approx 0,35$."
+  },
+  {
+    "bbox": [
+      74,
+      1874,
+      1565,
+      1976
+    ],
+    "category": "List-item",
+    "text": "**Câu 11:** Cho hai biến cố $A$ và $B$ là hai biến cố độc lập với $P(A) = 0,4, P(B) = 0,45$. Khi đó, $P(A|B)$ bằng:"
+  },
+  {
+    "bbox": [
+      213,
+      1982,
+      324,
+      2018
+    ],
+    "category": "List-item",
+    "text": "A. 0,4."
+  },
+  {
+    "bbox": [
+      548,
+      1982,
+      669,
+      2018
+    ],
+    "category": "List-item",
+    "text": "B. 0,45."
+  },
+  {
+    "bbox": [
+      862,
+      1982,
+      965,
+      2018
+    ],
+    "category": "List-item",
+    "text": "C. 0,3."
+  },
+  {
+    "bbox": [
+      1177,
+      1982,
+      1300,
+      2018
+    ],
+    "category": "List-item",
+    "text": "D. 0,18."
+  },
+  {
+    "bbox": [
+      833,
+      2030,
+      953,
+      2070
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2074,
+      1538,
+      2153
+    ],
+    "category": "Text",
+    "text": "Vì $A$ và $B$ là hai biến cố độc lập nên $P(A \\cap B) = P(AB) = P(A) \\cdot P(B) = 0,4 \\cdot 0,45 = \\frac{9}{50} = 0,18$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

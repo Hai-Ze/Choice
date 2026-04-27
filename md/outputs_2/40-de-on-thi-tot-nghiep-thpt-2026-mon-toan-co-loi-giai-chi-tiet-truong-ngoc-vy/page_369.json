@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1575,
+      383
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một nghiên cứu đã chỉ ra rằng tỉ lệ người lao phổi trong nhóm X những người mắc phải hội chứng suy giảm miễn dịch $H$ là 15,2%. Kết quả nghiên cứu về một số triệu chứng lâm sàng như có ho trong vòng bốn tuần, hoặc có bị sốt trong vòng bốn tuần, hoặc ra mồ hôi ban đêm từ ba tuần trở lên của nhóm X cho thấy: trong số những người mắc bệnh lao phổi, có 93,2% trường hợp có ít nhất một triệu chứng; trong số những người không mắc bệnh lao phổi, có 35,8% trường hợp không có triệu chứng nào."
+  },
+  {
+    "bbox": [
+      155,
+      401,
+      1368,
+      447
+    ],
+    "category": "Text",
+    "text": "a) Gặp ngẫu nhiên một bệnh nhân thuộc nhóm X, xác suất bệnh nhân bị lao phổi là 0,152."
+  },
+  {
+    "bbox": [
+      155,
+      465,
+      1573,
+      566
+    ],
+    "category": "Text",
+    "text": "b) Gặp được bệnh nhân không mắc bệnh lao phổi, xác suất bệnh nhân đó có ít nhất một triệu chứng trên là 0,358."
+  },
+  {
+    "bbox": [
+      155,
+      588,
+      1573,
+      692
+    ],
+    "category": "Text",
+    "text": "c) Có 70% bệnh nhân thuộc nhóm X có ít nhất một triệu chứng trên ( kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      155,
+      704,
+      1573,
+      809
+    ],
+    "category": "Text",
+    "text": "d) Trong số những bệnh nhân có ít nhất một triệu chứng trên, có 21% người mắc bệnh lao phổi ( kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      807,
+      827,
+      924,
+      866
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      880,
+      972,
+      1003
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1056,
+      807,
+      1102
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “gặp được người bị lao phổi”"
+  },
+  {
+    "bbox": [
+      161,
+      1114,
+      1302,
+      1160
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố: “gặp được người có ít nhất một triệu chứng trong các triệu chứng trên”"
+  },
+  {
+    "bbox": [
+      155,
+      1172,
+      735,
+      1218
+    ],
+    "category": "Text",
+    "text": "a) xác suất bệnh nhân bị lao phổi là 0,152."
+  },
+  {
+    "bbox": [
+      155,
+      1244,
+      757,
+      1308
+    ],
+    "category": "Formula",
+    "text": "$$\nb) P(B|\\bar{A}) = 1 - P(\\bar{B}|\\bar{A}) = 1 - 0,358 = 0,642.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1336,
+      1352,
+      1394
+    ],
+    "category": "Formula",
+    "text": "$$\nc) P(B) = P(B|A) \\cdot P(A) + P(B|\\bar{A}) \\cdot P(\\bar{A}) = 0,932 \\cdot 0,152 + 0,642 \\cdot 0,848 = 0,68608 \\approx 0,68.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1415,
+      1138,
+      1460
+    ],
+    "category": "Text",
+    "text": "Suy ra: có 69% bệnh nhân thuộc nhóm X có ít nhất một triệu chứng trên."
+  },
+  {
+    "bbox": [
+      155,
+      1480,
+      830,
+      1581
+    ],
+    "category": "Formula",
+    "text": "$$\nd) P(A|B) = \\frac{P(B|A) \\cdot P(A)}{P(B)} = \\frac{0,932 \\cdot 0,152}{0,68608} \\approx 0,21.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1602,
+      1491,
+      1648
+    ],
+    "category": "Text",
+    "text": "Suy ra trong số những bệnh nhân có ít nhất một triệu chứng trên, có 21% người mắc bệnh lao phổi."
+  },
+  {
+    "bbox": [
+      155,
+      1720,
+      807,
+      1761
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      1777,
+      1573,
+      2176
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nhà anh Bảo Toàn có tất cả 8 cánh cửa sixth hình chữ nhật với chiều dài $2m$ và chiều rộng $1m$. Hai mặt của mỗi cánh cửa được thiết kế như hình vẽ dưới đây. Trong đó, phần được tô đâm được sơn màu xanh (phần tô đen), phần còn lại được sơn màu trắng. Mỗi phần sơn màu trắng có đường biên cong là một phần của parabol có định nằm trên cạnh của hình chữ nhật. Biết rằng chi phí để sơn màu xanh là 120 nghìn đồng/$m^2$ và chi phí sơn màu trắng là 110 nghìn đồng/$m^2$. Hỏi, để sơn toàn bộ số cửa sixth trên, anh Bảo Toàn phải tốn bao nhiêu triệu đồng ( làm tròn kết quả đến hàng phần trăm theo đơn vị triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

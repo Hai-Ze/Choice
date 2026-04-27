@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      152,
+      104,
+      801,
+      218
+    ],
+    "category": "Text",
+    "text": "Đặt $ED = x$ thì $DF = 40 - x$; $AD = \\sqrt{x^2 + 400}$;\n$BD = \\sqrt{(40 - x)^2 + 2500}$."
+  },
+  {
+    "bbox": [
+      152,
+      220,
+      746,
+      267
+    ],
+    "category": "Text",
+    "text": "Quăng đường mỗi lượt các đội phải đi là"
+  },
+  {
+    "bbox": [
+      152,
+      265,
+      783,
+      318
+    ],
+    "category": "Formula",
+    "text": "$$\ns = AD + BD = \\sqrt{x^2 + 400} + \\sqrt{(40 - x)^2 + 2500}.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      322,
+      1008,
+      379
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $f(x) = \\sqrt{x^2 + 400} + \\sqrt{(40 - x)^2 + 2500} (0 \\le x \\le 40)$."
+  },
+  {
+    "bbox": [
+      152,
+      386,
+      791,
+      482
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(x) = \\frac{x}{\\sqrt{x^2 + 400}} - \\frac{40 - x}{\\sqrt{(40 - x)^2 + 2500}};\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      491,
+      1307,
+      589
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\frac{x}{\\sqrt{x^2 + 400}} = \\frac{40 - x}{\\sqrt{(40 - x)^2 + 2500}} \\Leftrightarrow 2500x^2 - [20(40 - x)]^2 = 0 \\Leftrightarrow x \\approx 11,4\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      591,
+      1198,
+      640
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên, ta thấy $s$ nhỏ nhất là khoảng $80,6m$ khi $x \\approx 11,4m$."
+  },
+  {
+    "bbox": [
+      152,
+      640,
+      1228,
+      687
+    ],
+    "category": "Text",
+    "text": "Vậy đoạn đường đi ngắn nhất mỗi lượt các đội có thể đi là khoảng $80,6m$."
+  },
+  {
+    "bbox": [
+      152,
+      687,
+      1535,
+      951
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một đại lý vật liệu cần thuê xe chở 140 tấn xi măng và 9 tấn thép tới công trình xây dựng. Nơi thuê có hai loại xe A và B, trong đó xe A có 10 chiếc và xe B có 9 chiếc. Mỗi xe loại A cho thuê với giá 5 triệu đồng và một xe loại B cho thuê với giá 4,5 triệu đồng. Biết rằng mỗi xe loại A chở tối đa 20 tấn xi măng và 0,6 tấn thép, mỗi xe loại B có thể chở tối đa 10 tấn xi măng và 1,5 tấn thép. Để số tiền thuê xe ít nhất đại lý đã thuê $x$ chiếc xe loại A và $y$ chiếc xe loại B. Tính $2x + y$"
+  },
+  {
+    "bbox": [
+      782,
+      955,
+      906,
+      997
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      152,
+      1008,
+      311,
+      1056
+    ],
+    "category": "Text",
+    "text": "**Đáp số: 9.**"
+  },
+  {
+    "bbox": [
+      152,
+      1080,
+      1192,
+      1182
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ lần lượt là số xe loại A và B mà đại lý cần thuê. ĐK $\\begin{cases} 0 \\le x \\le 10 \\\\ 0 \\le y \\le 9 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      607,
+      1196,
+      1078,
+      1564
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1577,
+      639,
+      1677
+    ],
+    "category": "Text",
+    "text": "Từ đề bài ta có: $\\begin{cases} 20x + 10y \\ge 140 \\\\ 0,6x + 1,5y \\ge 9 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      152,
+      1692,
+      741,
+      1741
+    ],
+    "category": "Text",
+    "text": "Khi đó, số tiền thuê xe là: $T = 5x + 4,5y$."
+  },
+  {
+    "bbox": [
+      152,
+      1764,
+      1228,
+      1845
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm $(x, y)$ là tức giác $ABCD$ với $A(\\frac{5}{2};9)$, $B(5;4)$, $C(10;2)$, $D(10;9)$."
+  },
+  {
+    "bbox": [
+      152,
+      1860,
+      1166,
+      1909
+    ],
+    "category": "Text",
+    "text": "Tại định $B$ thì $T = 43$ đạt giá trị nhỏ nhất nên $x = 5, y = 4 \\Rightarrow 2x + y = 14$."
+  },
+  {
+    "bbox": [
+      152,
+      1924,
+      1535,
+      2105
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Vào đầu tháng 1 anh Huy gửi vào ngân hàng 1 tỷ đồng với lãi suất 0,5%/tháng. Từ đó, cứ vào đầu mỗi tháng bắt đầu từ tháng thứ hai anh Huy đến ngân hàng rút ra 30 triệu đồng để tiêu xài. Hỏi sau bao nhiêu tháng anh Huy rút hết tiền trong ngân hàng (tháng cuối cùng có thể rút được ít hơn 30 triệu đồng)."
+  },
+  {
+    "bbox": [
+      152,
+      2105,
+      278,
+      2146
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      152,
+      2152,
+      314,
+      2194
+    ],
+    "category": "Text",
+    "text": "**Đáp án 37**"
+  },
+  {
+    "bbox": [
+      152,
+      2189,
+      1466,
+      2238
+    ],
+    "category": "Text",
+    "text": "Gọi số tiền anh Huy gửi vào ngân hàng ban đầu là $A$ (triệu đồng), với lãi suất $r$ / tháng, và"
+  },
+  {
+    "bbox": [
+      1514,
+      2242,
+      1533,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "7"
+  }
+]

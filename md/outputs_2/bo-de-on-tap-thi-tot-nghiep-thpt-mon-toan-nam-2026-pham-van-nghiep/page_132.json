@@ -1,0 +1,280 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      1185,
+      153
+    ],
+    "category": "Text",
+    "text": "Giá bán ròng sau thuế mỗi sản phẩm xuất khẩu là: $3200 - a$ (USD)"
+  },
+  {
+    "bbox": [
+      212,
+      155,
+      1332,
+      202
+    ],
+    "category": "Text",
+    "text": "Tổng doanh thu từ xuất khẩu là: $D_{XK} = S_{XK} \\cdot (3200 - a) = (2x - 4400)(3200 - a)$"
+  },
+  {
+    "bbox": [
+      212,
+      210,
+      1374,
+      256
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí sản xuất cho số sản phẩm xuất khẩu là: $C_{XK} = S_{XK} \\cdot x = (2x - 4400)x$"
+  },
+  {
+    "bbox": [
+      212,
+      264,
+      828,
+      308
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận từ việc xuất khẩu sản phẩm là:"
+  },
+  {
+    "bbox": [
+      218,
+      310,
+      1423,
+      357
+    ],
+    "category": "Formula",
+    "text": "$$\nL_{XK} = D_{XK} - C_{XK} = (2x - 4400)(3200 - a) - (2x - 4400)x = (2x - 4400)(3200 - a - x) \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      365,
+      1181,
+      411
+    ],
+    "category": "Text",
+    "text": "Thuế thu được từ sản phẩm xuất khẩu là: $T = a \\cdot S_{XK} = a(2x - 4400)$"
+  },
+  {
+    "bbox": [
+      212,
+      419,
+      1576,
+      507
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, tỷ lệ giữa lãi xuất khẩu của doanh nghiệp và thuế thu được của nhà nước tương ứng là 4:1 nên ta có:"
+  },
+  {
+    "bbox": [
+      218,
+      507,
+      1356,
+      590
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{L_{XK}}{T} = \\frac{4}{1} \\Leftrightarrow L_{XK} = 4T \\Leftrightarrow (2x - 4400)(3200 - a - x) = 4a(2x - 4400) \\Leftrightarrow a = \\frac{3200 - x}{5}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      596,
+      1576,
+      722
+    ],
+    "category": "Text",
+    "text": "Thay vào (1) ta được: $L_{XK} = \\frac{8}{5}(x - 2200)(3200 - x)$ tìm giá trị lớn nhất của biểu thức đạt được tại $x = 2700$."
+  },
+  {
+    "bbox": [
+      212,
+      724,
+      644,
+      805
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } a = \\frac{3200 - 2700}{5} = 100.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      812,
+      1563,
+      1082
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Một campus viên dạng half shape tròn, trên đó người ta thiết kế phần để trồng hoa dạng hình parabol có định thể với tâm đường tròn như phần tô màu trong hình vẽ, phần còn lại của campus viên (phần không tô màu) dành để trồng cỏ. Biết các kích thước cho như hình vẽ, chi phí để trồng hoa và trồng cỏ lần lượt là 150 nghìn đồng/m² và 100 nghìn đồng/m². Tính tổng số tiền dùng để trồng hoa và trồng cỏ trong campus viên (kết quả làm tròn đến hàng phần trăm, đơn vị triệu đồng)."
+  },
+  {
+    "bbox": [
+      567,
+      1074,
+      1078,
+      1336
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      795,
+      1358,
+      859,
+      1381
+    ],
+    "category": "Caption",
+    "text": "Hình 5"
+  },
+  {
+    "bbox": [
+      765,
+      1396,
+      884,
+      1437
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1442,
+      393,
+      1478
+    ],
+    "category": "Text",
+    "text": "Trả lời: 3,74"
+  },
+  {
+    "bbox": [
+      638,
+      1476,
+      1152,
+      1756
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      872,
+      1758,
+      929,
+      1778
+    ],
+    "category": "Caption",
+    "text": "Hình 5"
+  },
+  {
+    "bbox": [
+      212,
+      1788,
+      780,
+      1830
+    ],
+    "category": "Text",
+    "text": "Dựng hệ trục tọa độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      212,
+      1836,
+      1467,
+      1882
+    ],
+    "category": "Text",
+    "text": "Parabol có định là góc tọa độ và đi qua điểm có tọa độ (2;4) nên Parabol ($P$): $y = x^2$."
+  },
+  {
+    "bbox": [
+      212,
+      1886,
+      1241,
+      1939
+    ],
+    "category": "Text",
+    "text": "Đường tròn ($C$) có tâm $O$ và bán kính $R = 2\\sqrt{5}$ nên ($C$): $x^2 + y^2 = 20$."
+  },
+  {
+    "bbox": [
+      212,
+      1943,
+      1082,
+      1998
+    ],
+    "category": "Text",
+    "text": "Phương trình half shape đường tròn phía trên $Ox$ là $y = \\sqrt{20 - x^2}$."
+  },
+  {
+    "bbox": [
+      212,
+      2004,
+      982,
+      2047
+    ],
+    "category": "Text",
+    "text": "Gọi $S$ là diện tích phần đất dành để trồng hoa, ta có"
+  },
+  {
+    "bbox": [
+      218,
+      2047,
+      1062,
+      2118
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-2}^{2} \\left| \\sqrt{20 - x^2} - x^2 \\right| dx = \\int_{-2}^{2} \\left( \\sqrt{20 - x^2} - x^2 \\right) dx \\approx 11,94 \\, (m^2).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2124,
+      1127,
+      2207
+    ],
+    "category": "Text",
+    "text": "Diện tích phần đất dành để trồng cỏ là $\\frac{20\\pi}{2} - S = 10\\pi - S \\, (m^2)$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

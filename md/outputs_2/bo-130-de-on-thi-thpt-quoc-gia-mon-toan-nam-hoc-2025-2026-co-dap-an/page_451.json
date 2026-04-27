@@ -1,0 +1,339 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      117,
+      564,
+      183
+    ],
+    "category": "Formula",
+    "text": "b) Hàm số $f(0) = 1$; $f\\left(\\frac{\\pi}{2}\\right) = 3$."
+  },
+  {
+    "bbox": [
+      123,
+      176,
+      955,
+      243
+    ],
+    "category": "Formula",
+    "text": "c) Nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      123,
+      238,
+      848,
+      278
+    ],
+    "category": "Formula",
+    "text": "d) Đạo hàm của hàm số đã cho là $f'(x) = 2 \\cos x + 1$."
+  },
+  {
+    "bbox": [
+      108,
+      303,
+      894,
+      345
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      355,
+      1198,
+      578
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một nhóm gồm $n$ học sinh có tên gọi khác nhau, trong đó có 3 học sinh là An, Bình, Cường. Khi xếp tùy ý $n$ học sinh này vào một dãy ghế theo hàng dọc được đánh số thứ tự, từ 1 đến $n$ (m社区学 sinh ngồi một ghế). Xác suất để số ghi trên ghế ngồi của An bằng trung bình cộng số ghi trên ghế ngồi của Bình và Cường là $\\frac{7}{195}$. Tìm giá trị của $n$."
+  },
+  {
+    "bbox": [
+      978,
+      526,
+      1032,
+      559
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      516,
+      1198,
+      570
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      597,
+      584,
+      1020
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một công ty vận tải cần giao hàng đến tất cả các thành phố $A, B, C, D, E$, (hình vẽ bên). Chi phí di chuyển giữa các thành phố được mô tả trên hình (tính theo đơn vị nghìn đồng). Xe giao hàng của công ty xuất phát từ thành phố $A$ đi qua tất cả các thành phố còn lại đúng một lần sau đó trở lại thành phố $A$. Tìm chi phí thấp nhất của xe giao hàng (tính theo đơn vị nghìn đồng)."
+  },
+  {
+    "bbox": [
+      621,
+      617,
+      1192,
+      1015
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      978,
+      1026,
+      1032,
+      1059
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1016,
+      1198,
+      1070
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1082,
+      1198,
+      1318
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một gia đình sản xuất chiếu cói ở Nga Sơn mỗi ngày sản xuất được $x$ chiếc chiếu ($0 \\le x \\le 20$). Chi phí biên để sản xuất $x$ chiếc chiếu (tính bằng nghìn đồng) cho bởi hàm số $C'(x) = 3x^2 - 4x + 10$. Biết rằng chi phí cố định ban đầu để sản xuất là 500 nghìn đồng. Giả sử gia đình này bán hết chiếu mỗi ngày với giá 270 nghìn đồng/chiếc chiếu. Tính lợi nhuận tối đa theo đơn vị nghìn đồng mà gia đình đó thu được."
+  },
+  {
+    "bbox": [
+      978,
+      1283,
+      1032,
+      1316
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1275,
+      1198,
+      1328
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1340,
+      1198,
+      1527
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(3; -2; -1)$, $B(1; 4; 6)$, $C(3; 38; -16)$, $D(2; 5; 1)$. Diểm $M(a; b; c)$ thỏa mãn biểu thức $P = MD^4 - \\frac{16}{3}MD^3 - 4MA^2 - 5MB^2 - MC^2$ đạt giá trị nhỏ nhất. Tìm giá trị lớn nhất của biểu thức $Q = a + b + c$ (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      978,
+      1492,
+      1032,
+      1525
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1484,
+      1198,
+      1537
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1548,
+      1198,
+      1672
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ có $AB = 10$, $AD = 20$. Khoảng cách giữa hai đường thẳng $AA'$ và $BD$ bằng bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      978,
+      1637,
+      1032,
+      1670
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1627,
+      1198,
+      1680
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1692,
+      1198,
+      2001
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Một doanh nghiệp sản xuất độc quyền một loại sản phẩm. Giả sử khi sản xuất và bán hết $x$ sản phẩm ($0 < x < 2000$), tổng số tiền doanh nghiệp thu được là $F(x) = 2000x - x^2$ (nghìn đồng) và tổng chi phí doanh nghiệp bỏ ra là $G(x) = x^2 + 1440x + 50$ (nghìn đồng). Công ty cũng phải chịu mức thuế phụ thu cho 1 đơn vị sản phẩm bán được là $t$ (nghìn đồng) ($0 < t < 300$). Mức thuế phụ thu $t$ (trên một đơn vị sản phẩm) là bao nhiêu nghìn đồng sao cho nhà nước thu được số tiền thuế phụ thu lớn nhất và doanh nghiệp cũng thu được lợi nhuận nhiều nhất theo đúng mức thuế phụ thu đó?"
+  },
+  {
+    "bbox": [
+      978,
+      1966,
+      1032,
+      1999
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1037,
+      1958,
+      1198,
+      2011
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      554,
+      2031,
+      595,
+      2066
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      613,
+      2026,
+      692,
+      2066
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  },
+  {
+    "bbox": [
+      707,
+      2031,
+      748,
+      2066
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1505,
+      155
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      166,
+      1597,
+      2230
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1458,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "449"
+  }
+]

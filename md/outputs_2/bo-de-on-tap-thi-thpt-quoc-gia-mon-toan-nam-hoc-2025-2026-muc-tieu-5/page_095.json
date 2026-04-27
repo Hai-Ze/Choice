@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      575,
+      249
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 9"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1528,
+      269
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      428,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "**Phần I. Câu trắc nghiệm nhiều phương án lựa chọn** *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      155,
+      535,
+      1483,
+      583
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 1.** Cho hàm số $y = \\frac{2x-2}{x+2}$ có tập xác định là $D$. Hàm số đã cho có đạo hàm trên $D$ là"
+  },
+  {
+    "bbox": [
+      190,
+      594,
+      427,
+      645
+    ],
+    "category": "List-item",
+    "text": "(A) $y' = -\\frac{2}{(x+2)^2}$."
+  },
+  {
+    "bbox": [
+      876,
+      594,
+      1087,
+      645
+    ],
+    "category": "List-item",
+    "text": "(B) $y' = \\frac{6}{(x+2)^2}$."
+  },
+  {
+    "bbox": [
+      190,
+      643,
+      404,
+      694
+    ],
+    "category": "List-item",
+    "text": "(C) $y' = \\frac{2}{(x+2)^2}$."
+  },
+  {
+    "bbox": [
+      876,
+      643,
+      1116,
+      694
+    ],
+    "category": "List-item",
+    "text": "(D) $y' = -\\frac{6}{(x+2)^2}$."
+  },
+  {
+    "bbox": [
+      155,
+      694,
+      1042,
+      754
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $y = \\frac{2x-2}{x+2}$. Đạo hàm của hàm số là:"
+  },
+  {
+    "bbox": [
+      202,
+      752,
+      766,
+      807
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = \\frac{2(x+2)-1(2x-2)}{(x+2)^2} = \\frac{2x+4-2x+2}{(x+2)^2} = \\frac{6}{(x+2)^2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      809,
+      431,
+      846
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án B."
+  },
+  {
+    "bbox": [
+      155,
+      867,
+      1546,
+      953
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 2.** Cho khối lăng trụ có thể tích $V = 32$, đáy là hình vuông cạnh bằng 4. Chiều cao $h$ của khối lăng trụ đã cho bằng"
+  },
+  {
+    "bbox": [
+      190,
+      972,
+      336,
+      1015
+    ],
+    "category": "List-item",
+    "text": "(A) $h = 4$."
+  },
+  {
+    "bbox": [
+      535,
+      972,
+      681,
+      1015
+    ],
+    "category": "List-item",
+    "text": "(B) $h = 8$."
+  },
+  {
+    "bbox": [
+      879,
+      972,
+      1039,
+      1015
+    ],
+    "category": "List-item",
+    "text": "(C) $h = 16$."
+  },
+  {
+    "bbox": [
+      1224,
+      972,
+      1368,
+      1015
+    ],
+    "category": "List-item",
+    "text": "(D) $h = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      1030,
+      1102,
+      1092
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Diện tích đáy của lăng trụ là $S_{đáy} = 4^2 = 16$."
+  },
+  {
+    "bbox": [
+      202,
+      1107,
+      1079,
+      1153
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích khối lăng trụ là } V = S_{đáy} \\cdot h \\Rightarrow 32 = 16 \\cdot h \\Rightarrow h = 2.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1171,
+      431,
+      1208
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án D."
+  },
+  {
+    "bbox": [
+      155,
+      1229,
+      1546,
+      1315
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 3.** Cho hàm số $y = f(x)$ có đồ thị như hình vẽ. Đồ thị hàm số đã cho có đường tiệm cận ngang là"
+  },
+  {
+    "bbox": [
+      577,
+      1319,
+      1112,
+      1834
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1913,
+      336,
+      1956
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      1913,
+      681,
+      1956
+    ],
+    "category": "List-item",
+    "text": "(B) $y = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      1913,
+      1023,
+      1956
+    ],
+    "category": "List-item",
+    "text": "(C) $y = 1$."
+  },
+  {
+    "bbox": [
+      1224,
+      1913,
+      1368,
+      1956
+    ],
+    "category": "List-item",
+    "text": "(D) $y = 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1971,
+      1546,
+      2073
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào đồ thị, ta thấy khi $x \\to \\pm\\infty$ thì $y \\to 2$. vậy đường tiệm cận ngang của đồ thị hàm số là $y = 2$."
+  },
+  {
+    "bbox": [
+      202,
+      2095,
+      431,
+      2132
+    ],
+    "category": "Text",
+    "text": "Chọn đáp án B."
+  },
+  {
+    "bbox": [
+      155,
+      2155,
+      1546,
+      2195
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 4.** Cho hình lập phương $ABCD.A'B'C'D'$ có độ dài cạnh bằng 1. Độ dài của vecto"
+  },
+  {
+    "bbox": [
+      155,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2250,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "95"
+  }
+]

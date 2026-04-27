@@ -1,0 +1,142 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1495,
+      368
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Một loại linh kiện do hai nhà máy I và II cùng sản xuất. Tỉ lệ phế phẩm của các nhà máy I và II lần lượt là 2% và 3%. Trong một lô linh kiện để lẫn lộn 100 sản phẩm của nhà máy I và 150 sản phẩm của nhà máy II. Một nhân viên kiểm tra lấy ngẫu nhiên một linh kiện từ lô hàng đó. Biết rằng linh kiện được lấy ra không là phế phẩm. Tính xác suất để linh kiện đó do nhà máy II sản xuất (kết quả làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      75,
+      385,
+      414,
+      422
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      445,
+      843,
+      483
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      502,
+      269,
+      541
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,60"
+  },
+  {
+    "bbox": [
+      75,
+      563,
+      854,
+      610
+    ],
+    "category": "Text",
+    "text": "Gọi $B_1$ là biến cố: Linh kiện lấy ra do nhà máy I sản xuất,"
+  },
+  {
+    "bbox": [
+      82,
+      632,
+      811,
+      680
+    ],
+    "category": "Text",
+    "text": "$B_2$ là biến cố: Linh kiện lấy ra do nhà máy II sản xuất,"
+  },
+  {
+    "bbox": [
+      82,
+      700,
+      889,
+      747
+    ],
+    "category": "Text",
+    "text": "$A$ là biến cố: Linh kiện được lấy ra không phải là phế phẩm."
+  },
+  {
+    "bbox": [
+      75,
+      765,
+      1293,
+      847
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, ta có $P(B_1) = \\frac{100}{250} = 0,4$; $P(B_2) = \\frac{150}{250} = 0,6$; $P(A|B_1) = 0,98$; $P(A|B_2) = 0,97$."
+  },
+  {
+    "bbox": [
+      75,
+      863,
+      550,
+      909
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất Bayes,"
+  },
+  {
+    "bbox": [
+      82,
+      927,
+      1188,
+      1016
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B_2 | A) = \\frac{P(B_2) \\cdot P(A | B_2)}{P(B_1) \\cdot P(A | B_1) + P(B_2) \\cdot P(A | B_2)} = \\frac{0,6 \\cdot 0,97}{0,4 \\cdot 0,98 + 0,6 \\cdot 0,97} = 0,598 \\approx 0,60.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

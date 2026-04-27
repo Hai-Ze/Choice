@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1495,
+      148
+    ],
+    "category": "Text",
+    "text": "b) Gọi $d$ là đường thẳng đi qua $I$ và vuông góc với $(P)$. Ta có vecto chỉ phương của $d$ là $\\vec{u}_d = (0;1;0)$,"
+  },
+  {
+    "bbox": [
+      75,
+      173,
+      857,
+      322
+    ],
+    "category": "Text",
+    "text": "do đó phương trình đường thẳng $d$ là: $\\begin{cases} x = 4 \\\\ y = 4 + t \\quad (t \\in \\mathbb{R}) \\\\ z = 1 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      348,
+      943,
+      399
+    ],
+    "category": "Text",
+    "text": "c) d) Gọi $M(4;4+t;1)$ là hình chiếu vuông góc của $I$ trên $(P)$."
+  },
+  {
+    "bbox": [
+      75,
+      424,
+      747,
+      473
+    ],
+    "category": "Text",
+    "text": "Ta có: $M \\in (P) \\Rightarrow 4+t = 3 \\Leftrightarrow t = -1 \\Rightarrow M(4;3;1)$"
+  },
+  {
+    "bbox": [
+      75,
+      499,
+      687,
+      565
+    ],
+    "category": "Text",
+    "text": "Do đó: $IM = \\sqrt{(4-4)^2 + (3-4)^2 + (1-1)^2} = 1$"
+  },
+  {
+    "bbox": [
+      75,
+      591,
+      925,
+      645
+    ],
+    "category": "Text",
+    "text": "Bán kính đường tròn cửa lều là $r = \\sqrt{R^2 - IM^2} = \\sqrt{16-1} = \\sqrt{15}$"
+  },
+  {
+    "bbox": [
+      75,
+      664,
+      925,
+      717
+    ],
+    "category": "Text",
+    "text": "Vậy đường tròn cửa lều có tâm $M(4;3;1)$ và bán kính $r = \\sqrt{15}$"
+  },
+  {
+    "bbox": [
+      75,
+      798,
+      1495,
+      900
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một doanh nghiệp có 45% nhân viên là nữ. Tỉ lệ nhân viên nữ và tỉ lệ nhân viên nam mua bảo hiểm nhân thọ lần lượt là 7% và 5%. Chọn ngẫu nhiên một nhân viên của doanh nghiệp."
+  },
+  {
+    "bbox": [
+      75,
+      918,
+      1381,
+      1001
+    ],
+    "category": "Text",
+    "text": "a) Biết rằng nhân viên được chọn có mua bảo hiểm nhân thọ. Xác suất nhân viên đó là nữ là $\\frac{63}{118}$."
+  },
+  {
+    "bbox": [
+      75,
+      1022,
+      1407,
+      1106
+    ],
+    "category": "Text",
+    "text": "b) Biết rằng nhân viên được chọn có mua bảo hiểm nhân thọ. Xác suất nhân viên đó là nam là $\\frac{55}{118}$."
+  },
+  {
+    "bbox": [
+      75,
+      1122,
+      1495,
+      1222
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng nhân viên được chọn có mua bảo hiểm nhân thọ. Khi đó nhân viên đó là nam nhiều hơn là nữ."
+  },
+  {
+    "bbox": [
+      75,
+      1239,
+      1015,
+      1285
+    ],
+    "category": "Text",
+    "text": "d) Xác suất nhân viên được chọn có mua bảo hiểm nhân thọ là 0,061."
+  },
+  {
+    "bbox": [
+      727,
+      1310,
+      844,
+      1349
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1361,
+      894,
+      1485
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1538,
+      1495,
+      1642
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “Nhân viên được chọn là nữ”, $B$ là biến cố: “Nhân viên được chọn có mua bảo hiểm nhân thọ”."
+  },
+  {
+    "bbox": [
+      75,
+      1659,
+      1134,
+      1721
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có: $P(A) = 0,45; P(\\bar{A}) = 0,55; P(B|A) = 0,07; P(B|\\bar{A}) = 0,05$."
+  },
+  {
+    "bbox": [
+      75,
+      1740,
+      877,
+      1785
+    ],
+    "category": "Text",
+    "text": "Xác suất nhân viên được chọn có mua bảo hiểm nhân thọ là"
+  },
+  {
+    "bbox": [
+      82,
+      1802,
+      1069,
+      1865
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,45 \\cdot 0,07 + 0,55 \\cdot 0,05 = 0,059.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1884,
+      1274,
+      1931
+    ],
+    "category": "Text",
+    "text": "Biết rằng nhân viên được chọn có mua bảo hiểm nhân thọ. Xác suất nhân viên đó là nữ là"
+  },
+  {
+    "bbox": [
+      82,
+      1948,
+      599,
+      2045
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{0,07 \\cdot 0,45}{0,059} = \\frac{63}{118}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2064,
+      1295,
+      2111
+    ],
+    "category": "Text",
+    "text": "Biết rằng nhân viên được chọn có mua bảo hiểm nhân thọ. Xác suất nhân viên đó là nam là"
+  },
+  {
+    "bbox": [
+      82,
+      2129,
+      581,
+      2238
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}|B) = \\frac{P(\\bar{A}B)}{P(B)} = \\frac{0,05 \\cdot 0,5}{0,059} = \\frac{55}{118}.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

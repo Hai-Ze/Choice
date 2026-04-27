@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      97,
+      1575,
+      394
+    ],
+    "category": "Text",
+    "text": "tổng chi phí doanh nghiệp bỏ ra là $G(x) = x^2 + 1440x + 50$ (chục nghìn đồng). Công ty cũng phải chịu mức thuế phụ thu cho 1 đơn vị sản phẩm bán được là $t$ (chục nghìn đồng) ($0 < x < 300$). Mức thuế phụ thu $t$ (trên một đơn vị sản phẩm) là bao nhiêu sao cho nhà nước thu được số tiền thuế phụ thu lớn nhất và doanh nghiệp cũng thu được lợi nhuận nhiều nhất theo đúng mức thuế phụ thu đó. (Kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      154,
+      410,
+      494,
+      448
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      470,
+      924,
+      508
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      526,
+      338,
+      566
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 280"
+  },
+  {
+    "bbox": [
+      154,
+      580,
+      680,
+      625
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận = Doanh thu - chi phí - thuế"
+  },
+  {
+    "bbox": [
+      154,
+      643,
+      1267,
+      693
+    ],
+    "category": "Text",
+    "text": "Gọi $f(x)$ là hàm biểu thị tổng lợi nhuận của doanh nghiệp khi bán hết $x$ sản phẩm"
+  },
+  {
+    "bbox": [
+      162,
+      719,
+      1494,
+      768
+    ],
+    "category": "Text",
+    "text": "$g(t)$ là hàm biểu thị tổng mức thuế nhà nước phụ thu ứng với $x$ sản phẩm mà doanh nghiệp bán hết"
+  },
+  {
+    "bbox": [
+      154,
+      796,
+      847,
+      845
+    ],
+    "category": "Text",
+    "text": "Khi đó $f(x) = F(x) - G(x) - x.t$ với $x \\in (0; 2000)$"
+  },
+  {
+    "bbox": [
+      162,
+      871,
+      625,
+      912
+    ],
+    "category": "Formula",
+    "text": "$$\n= 2000x - x^2 - x^2 - 1440x - 50 - xt\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      935,
+      486,
+      982
+    ],
+    "category": "Formula",
+    "text": "$$\n= -2x^2 + (560 - t)x - 50\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1010,
+      792,
+      1089
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = -4x + 560 - t \\Rightarrow x = \\frac{560 - t}{4} \\in (0; 2000)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1109,
+      372,
+      1153
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      154,
+      1167,
+      938,
+      1512
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{560-t}{4}$</td><td>2000</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">Max</td></tr></table>"
+  },
+  {
+    "bbox": [
+      162,
+      1541,
+      1073,
+      1627
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\underset{(0;2000)}{\\text{Max}} f(x) = f\\left(\\frac{560-t}{4}\\right) \\Rightarrow g(t) = x.t = \\frac{560-t}{4} \\cdot t \\text{ với } t \\in (0;300)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1657,
+      459,
+      1737
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow g(t) = -\\frac{1}{4}t^2 + 140t\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1756,
+      372,
+      1800
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      154,
+      1824,
+      940,
+      2095
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$t$</td><td>0</td><td>280</td><td>300</td></tr><tr><td>$g(t)$</td><td colspan=\"3\">Max</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      2130,
+      710,
+      2178
+    ],
+    "category": "Text",
+    "text": "Vậy $g(t)$ max khi $t = 280$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

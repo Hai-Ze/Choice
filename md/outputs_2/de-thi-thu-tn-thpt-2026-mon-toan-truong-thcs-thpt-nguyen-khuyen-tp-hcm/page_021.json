@@ -1,0 +1,131 @@
+[
+  {
+    "bbox": [
+      572,
+      122,
+      1195,
+      538
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      541,
+      1505,
+      632
+    ],
+    "category": "Text",
+    "text": "Vì đường đi chỉ sang phải có 9 cách, và chỉ đi xuống có 5 cách, nên số cách đi từ $A$ đến $B$ là $C_{14}^5 = 2002$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      632,
+      1501,
+      724
+    ],
+    "category": "Text",
+    "text": "Số cách đi sang phải từ $A$ đến $E$ là 4 cách và số cách đi xuống từ $A$ đến $E$ là $C_7^3 = 35$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      724,
+      1501,
+      814
+    ],
+    "category": "Text",
+    "text": "Số cách đi sang phải từ $E$ đến $B$ là 5 cách và số cách đi xuống từ $E$ đến $B$ là 2 cách nên số cách đi từ $E$ đến $B$ là $C_7^5 = 21$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      814,
+      962,
+      857
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{số cách đi từ } A \\text{ đến } E \\text{ rồi đến } B \\text{ là } 35 \\times 21 = 735.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      855,
+      1522,
+      945
+    ],
+    "category": "Text",
+    "text": "Số cách đi sang phải từ $A$ đến $M$ là 6 cách và số cách đi xuống từ $A$ đến $M$ là 1 cách nên số cách đi từ $A$ đến $M$ là $C_7^1 = 7$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      945,
+      692,
+      990
+    ],
+    "category": "Text",
+    "text": "Đi từ $M$ đi xuống $N$ có 1 cách."
+  },
+  {
+    "bbox": [
+      251,
+      988,
+      1522,
+      1077
+    ],
+    "category": "Text",
+    "text": "Số cách đi sang phải từ $N$ đến $B$ là 3 cách và số cách đi xuống từ $N$ đến $B$ là 3 cách nên số cách đi từ $N$ đến $B$ là $C_6^3 = 20$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      1077,
+      1072,
+      1120
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{số cách đi từ } A \\text{ đến } M \\text{ rồi } N \\text{ rồi đến } B \\text{ là } 7 \\times 1 \\times 20 = 140.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1120,
+      1205,
+      1161
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Số cách đi từ } A \\text{ đến } B \\text{ của bé cún là } 2002 - 735 - 140 = 1127 \\text{ cách.}\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1175,
+      1536,
+      1559
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Công tử Bạc Liêu có một mảnh đất hình vuông ở một khu đô thị sầm uất, hình vuông có cạnh 40 m, công tử dự định xây một hồ bơi được giới hạn bởi cạnh $AB$ của hình vuông và một parabol đi qua hai đầu mút cạnh đó, định của parabol cách cạnh $AB$ một đoạn 10 m. Từ vị trí $O$ là trung điểm $AB$, kẻ tia $Ot$ bất kì cắt parabol và một cạnh khác của hình vuông theo thứ tự tại các điểm $M, N$. Gọi $P$ là trung điểm $MN$, khi tia $Ot$ quay quanh gốc $O$ thì tập hợp các điểm $P$ tạo thành đường cong ($L$). Công tử dự định sử dụng một loại gạch men đặc biệt để lát nền cho toàn bộ khu vực được giới hạn bởi đường cong ($L$) và parabol. Phần còn lại trên mảnh đất hình vuông đó thì công tử sẽ trồng cỏ."
+  },
+  {
+    "bbox": [
+      251,
+      1561,
+      1536,
+      1704
+    ],
+    "category": "Text",
+    "text": "Biết rằng chi phí xây hồ bơi là 5 triệu đồng/$m^2$, chi phí lát gạch men là 2 triệu đồng/$m^2$, chi phí trồng cỏ tự nhiên là 100 nghìn đồng/$m^2$. Tính tổng số tiền mà công tử Bạc Liêu phải chi trả cho toàn bộ dự án trên theo đơn vị tỷ đồng (làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      251,
+      1706,
+      427,
+      1747
+    ],
+    "category": "Text",
+    "text": "Đáp án : 2,4"
+  }
+]

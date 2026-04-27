@@ -1,0 +1,209 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      215,
+      108,
+      1016,
+      210
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow t = T(x; y) = \\frac{1}{10} + \\frac{\\sqrt{0,6^2 + x^2}}{6} + \\frac{\\sqrt{0,6^2 + y^2}}{6} + \\frac{1-(x+y)}{10}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      215,
+      687,
+      265
+    ],
+    "category": "Text",
+    "text": "Đến đây ta cần tìm $\\min T(x; y)$."
+  },
+  {
+    "bbox": [
+      211,
+      273,
+      1373,
+      375
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } T(x; y) = \\frac{1}{10} + \\frac{\\sqrt{0,6^2 + x^2}}{6} + \\frac{0,5-x}{10} + \\frac{\\sqrt{0,6^2 + y^2}}{6} + \\frac{0,5-y}{10} = \\frac{1}{10} + f(x) + f(y).\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      378,
+      929,
+      475
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hàm số: } f(u) = \\frac{\\sqrt{0,6^2 + u^2}}{6} + \\frac{0,5-u}{10}, \\quad 0 < u < 1.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      482,
+      1222,
+      577
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f'(u) = \\frac{u}{6\\sqrt{0,6^2 + u^2}} - \\frac{1}{10}, \\quad f'(u) = 0 \\Leftrightarrow \\sqrt{0,6^2 + u^2} = \\frac{5u}{3} \\Leftrightarrow u = \\frac{9}{20}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      586,
+      966,
+      677
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lập bảng biến thiên ta có: } \\min_{u \\in (0;1)} f(u) = f\\left(\\frac{9}{20}\\right) = \\frac{13}{100}.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      688,
+      1241,
+      772
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } T(x; y) = \\frac{1}{10} + f(x) + f(y) \\ge \\frac{1}{10} + \\frac{13}{100} + \\frac{13}{100} = \\frac{9}{25}(h) = 21,6 \\text{ (phút).}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      778,
+      659,
+      858
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Dấu “=” xảy ra khi } x = y = \\frac{9}{20}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      863,
+      1272,
+      906
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Một phần sân trường được định vị bởi các điểm $A, B, C, D$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      211,
+      903,
+      889,
+      1359
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      917,
+      926,
+      1526,
+      1331
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1359,
+      1576,
+      1597
+    ],
+    "category": "Text",
+    "text": "Bước đầu chúng ta lấy thăng bằng để có cùng độ cao, biết $ABCD$ là hình thang vuông ở $A$ và $B$ với độ dài $AB = 25m, AD = 15m, BC = 18m$. Do yêu cầu kỹ thuật khi lát phẳng phần sân trường phải thoát nước về góc sân ở $C$ nên người ta lấy độ cao ở các điểm $B, C, D$ xuống thấp hơn so với độ cao ở $A$ là $10cm, a cm, 6cm$ tương ứng sao cho 4 điểm $A', B', C', D'$ đồng phẳng.Find $a$"
+  },
+  {
+    "bbox": [
+      833,
+      1599,
+      953,
+      1641
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1643,
+      396,
+      1686
+    ],
+    "category": "Text",
+    "text": "Đáp số: 17,2"
+  },
+  {
+    "bbox": [
+      660,
+      1730,
+      1133,
+      2115
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      2117,
+      762,
+      2160
+    ],
+    "category": "Text",
+    "text": "Gắn hệ trục tọa độ như hình vẽ ta có:"
+  },
+  {
+    "bbox": [
+      218,
+      2165,
+      846,
+      2217
+    ],
+    "category": "Formula",
+    "text": "$$\nB(0;0;0), A(25;0;0), C(0;18;0), D(25;15;0)\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1522,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 12 -"
+  }
+]

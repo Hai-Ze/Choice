@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      353,
+      135
+    ],
+    "category": "Text",
+    "text": "Ta có đồ thị hàm số:"
+  },
+  {
+    "bbox": [
+      88,
+      152,
+      355,
+      189
+    ],
+    "category": "Formula",
+    "text": "$$\n45\\text{km/h} = 12,5\\text{m/s}\n$$"
+  },
+  {
+    "bbox": [
+      88,
+      204,
+      340,
+      284
+    ],
+    "category": "Formula",
+    "text": "$$\n60\\text{km/h} = \\frac{50}{3}\\text{m/s}\n$$"
+  },
+  {
+    "bbox": [
+      88,
+      293,
+      331,
+      328
+    ],
+    "category": "Formula",
+    "text": "$$\n90\\text{km/h} = 25\\text{m/s}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      346,
+      425,
+      390
+    ],
+    "category": "Text",
+    "text": "a) Giá trị của $b$ bằng $12,5$"
+  },
+  {
+    "bbox": [
+      76,
+      410,
+      658,
+      454
+    ],
+    "category": "Text",
+    "text": "Vận tốc ban đầu của ô tô: $v(0) = 12.5(m/s)$"
+  },
+  {
+    "bbox": [
+      76,
+      473,
+      555,
+      518
+    ],
+    "category": "Text",
+    "text": "Ô tô bắt đầu tăng tốc $v(t) = 2,5t + b$"
+  },
+  {
+    "bbox": [
+      80,
+      544,
+      329,
+      581
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 2,5 \\cdot 0 + b = 12,5\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      594,
+      231,
+      630
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow b = 12,5\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      652,
+      747,
+      697
+    ],
+    "category": "Text",
+    "text": "b) Thời gian ô tô đạt vận tốc tối đa cho phép là $5s$"
+  },
+  {
+    "bbox": [
+      76,
+      712,
+      753,
+      756
+    ],
+    "category": "Text",
+    "text": "Ô tô bắt đầu tăng tốc thì vận tốc: $v(t) = 2,5t + 12,5$"
+  },
+  {
+    "bbox": [
+      76,
+      777,
+      853,
+      821
+    ],
+    "category": "Text",
+    "text": "Khi vận tốc đạt tối đa $25\\text{m/s}$ thì $2,5t + 12,5 = 25 \\Rightarrow t = 5$"
+  },
+  {
+    "bbox": [
+      76,
+      841,
+      512,
+      884
+    ],
+    "category": "Text",
+    "text": "Vậy vận tốc đạt tối đa khi $t = 5s$"
+  },
+  {
+    "bbox": [
+      76,
+      905,
+      809,
+      945
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa ô tô và duôi tau sau $3s$ là $51,25m$"
+  },
+  {
+    "bbox": [
+      76,
+      970,
+      1223,
+      1066
+    ],
+    "category": "Text",
+    "text": "Sau khi tăng tốc $3s$ thì ô tô đi được quăng đường là: $S(3) = \\int_{0}^{3} (2,5t + 12,5)dt = 48,75m$"
+  },
+  {
+    "bbox": [
+      76,
+      1094,
+      1103,
+      1175
+    ],
+    "category": "Text",
+    "text": "Sau khi ô tô tăng tốc $3s$ thì tau đi được quăng đường là: $S = v \\cdot t = \\frac{50}{3} \\cdot 3 = 50m$"
+  },
+  {
+    "bbox": [
+      76,
+      1198,
+      893,
+      1238
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa ô tô và tau là: $(100 + 50) - 51,75 = 98,25m$"
+  },
+  {
+    "bbox": [
+      76,
+      1258,
+      1059,
+      1303
+    ],
+    "category": "Text",
+    "text": "d) Thời gian ô tô bắt kịp duôi tau kể từ lúc ô tô bắt đầu tăng tốc là $15,75s$"
+  },
+  {
+    "bbox": [
+      76,
+      1323,
+      1492,
+      1367
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được từ khi tăng tốc đến khi đạt vận tốc $25\\text{m/s}$ là:"
+  },
+  {
+    "bbox": [
+      80,
+      1387,
+      523,
+      1483
+    ],
+    "category": "Formula",
+    "text": "$$\nS(5) = \\int_{0}^{5} (2,5t + 12,5)dt = 93,75m\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1508,
+      1248,
+      1549
+    ],
+    "category": "Text",
+    "text": "Quăng đường ô tô đi được trong khoảng thời gian $t$ với $t > 5$ là: $S(t) = 93,75 + 25(t - 5)$"
+  },
+  {
+    "bbox": [
+      76,
+      1575,
+      1076,
+      1655
+    ],
+    "category": "Text",
+    "text": "Quăng đường tau đi được trong khoảng thời gian $t$ với $t > 5$ là: $S(t) = \\frac{50}{3}t$"
+  },
+  {
+    "bbox": [
+      76,
+      1681,
+      740,
+      1762
+    ],
+    "category": "Text",
+    "text": "Theo bài ra ta có pt: $93,75 + 25(t - 5) = \\frac{50}{3}t + 100$"
+  },
+  {
+    "bbox": [
+      80,
+      1784,
+      517,
+      1822
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 281,25 + 75(t - 5) = 50t + 300\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      1835,
+      297,
+      1872
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 25t = 393,75\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      1885,
+      246,
+      1922
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow t = 15,75\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1946,
+      691,
+      1989
+    ],
+    "category": "Text",
+    "text": "Vậy: Thời gian ô tô bắt kịp duôi tau là $15,75s$"
+  },
+  {
+    "bbox": [
+      76,
+      2067,
+      1495,
+      2170
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Ba người bạn An, Bảo và Châu đều muốn đi xem một trận bóng đá. Khả năng mỗi người đi được phụ thuộc vào các yếu tố sau:"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

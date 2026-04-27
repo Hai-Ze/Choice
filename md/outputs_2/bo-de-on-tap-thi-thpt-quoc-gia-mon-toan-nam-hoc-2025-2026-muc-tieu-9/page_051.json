@@ -1,0 +1,208 @@
+[
+  {
+    "bbox": [
+      151,
+      138,
+      1549,
+      405
+    ],
+    "category": "Text",
+    "text": "trồng trong môi trường không có chất $X$ phát triển với tốc độ $h'_{1}(t) = e^{0,1t}$, hoa được trồng trong môi trường có chất $X$ phát triển với tốc độ $h'_{2}(t) = a \\cdot e^{-0,1t}$ ($a \\in \\mathbb{R}$) trong đó $t$ tính bằng ngày, $h'$ tính bằng cm/ngày, $0 \\le t \\le 15$. Biết rằng ở thời điểm ban đầu, tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ gấp 4 lần cây hoa trong môi trường không có chất $X$. Theo đánh giá của nhà khoa học, chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu sau 15 ngày chiều cao của cây lớn hơn so với trồng thông thường."
+  },
+  {
+    "bbox": [
+      189,
+      424,
+      324,
+      463
+    ],
+    "category": "List-item",
+    "text": "a) $a = 4$."
+  },
+  {
+    "bbox": [
+      187,
+      477,
+      1547,
+      566
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_{1}(t) = 10e^{0,1t} + 10$ (cm) (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      189,
+      577,
+      1100,
+      619
+    ],
+    "category": "List-item",
+    "text": "c) Chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      187,
+      632,
+      1547,
+      718
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng sau $t_{0}$ ngày ($0 < t_{0} < 15$), hai cây hoa có chiều cao bằng nhau. Khi đó chiều cao của chúng bằng nhau và bằng 40 cm."
+  },
+  {
+    "bbox": [
+      151,
+      725,
+      189,
+      777
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      197,
+      725,
+      1294,
+      799
+    ],
+    "category": "Text",
+    "text": "**Bài 3.** Cho hàm số $f(x) = 2 \\cos^2 \\frac{x}{2}$. Xét tính đúng, sai của cácoorh thought"
+  },
+  {
+    "bbox": [
+      189,
+      810,
+      756,
+      853
+    ],
+    "category": "List-item",
+    "text": "a) Tập giá trị của hàm số $f(x)$ là $[0; 2]$."
+  },
+  {
+    "bbox": [
+      187,
+      867,
+      478,
+      908
+    ],
+    "category": "List-item",
+    "text": "b) $f(x) = 1 - \\cos x$."
+  },
+  {
+    "bbox": [
+      189,
+      920,
+      1018,
+      963
+    ],
+    "category": "List-item",
+    "text": "c) Một nguyên hàm của hàm số $f(x)$ là $F(x) = x + \\sin x$."
+  },
+  {
+    "bbox": [
+      187,
+      974,
+      1547,
+      1061
+    ],
+    "category": "List-item",
+    "text": "d) Diện tích hình phẳng giới hạn bởi đồ thị hàm số $f(x)$, trục hoành và các đường thẳng $x = 0; x = \\pi$ lớn hơn 4."
+  },
+  {
+    "bbox": [
+      151,
+      1083,
+      189,
+      1119
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      197,
+      1081,
+      1547,
+      1345
+    ],
+    "category": "Text",
+    "text": "**Bài 4.** Trong không gian với hệ tọa độ $Oxyz$, đơn vị trên mỗi trục tọa độ tính bằng mét, mặt phẳng ($Oxy$) trùng với mặt đất, một sường dốc được mô hình hoá bởi mặt phẳng ($\\alpha$) : $2x + 3y + 6z - 35 = 0$. Tại chân sường dốc có một cây thông mọc thẳng đứng (vuông góc với mặt đất) với định của cây là điểm $S$ có tọa độ là $S(5; 7; 26)$. Để cố định cây thông, một sợi dây bảo vệ được buộc tại điểm $Q$ trên cây thông ở độ cao 17 mét so với mặt đất và được kéo vuông góc với mặt sường tại điểm $P$."
+  },
+  {
+    "bbox": [
+      508,
+      1380,
+      1088,
+      1895
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1965,
+      717,
+      2007
+    ],
+    "category": "Text",
+    "text": "Cácoorh thought"
+  },
+  {
+    "bbox": [
+      189,
+      2027,
+      743,
+      2068
+    ],
+    "category": "List-item",
+    "text": "a) Chiều cao của cây thông là 26 mét."
+  },
+  {
+    "bbox": [
+      187,
+      2080,
+      678,
+      2123
+    ],
+    "category": "List-item",
+    "text": "b)úm $P$ có tọa độ là $P(1; 1; 5)$."
+  },
+  {
+    "bbox": [
+      189,
+      2138,
+      1547,
+      2224
+    ],
+    "category": "List-item",
+    "text": "c) Một tia sét đánh trúng cây thông, làm cây bị gãy (phần bị gãy không em $\\alpha$). Đỉnh cây em $\\alpha$ và chạm sường dốc tại điểm $A(1; -1; 6)$. Cây thông đã bị gãy ở độ cao 14 mét."
+  },
+  {
+    "bbox": [
+      147,
+      2255,
+      173,
+      2291
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1549,
+      2250,
+      1585,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "51"
+  }
+]

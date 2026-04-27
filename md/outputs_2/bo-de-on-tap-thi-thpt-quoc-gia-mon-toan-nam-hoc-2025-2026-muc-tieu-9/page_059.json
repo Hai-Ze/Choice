@@ -1,0 +1,260 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      568,
+      182
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định b) là **Đúng**."
+  },
+  {
+    "bbox": [
+      202,
+      203,
+      514,
+      242
+    ],
+    "category": "Text",
+    "text": "c) Ta tính các giá trị:"
+  },
+  {
+    "bbox": [
+      153,
+      242,
+      495,
+      287
+    ],
+    "category": "Formula",
+    "text": "$$\ng(0) = \\sqrt{2} \\sin 0 + 0 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      285,
+      879,
+      368
+    ],
+    "category": "Formula",
+    "text": "$$\ng\\left(\\frac{\\pi}{4}\\right) = \\sqrt{2} \\sin\\left(\\frac{\\pi}{4}\\right) + \\frac{\\pi}{4} = \\sqrt{2} \\cdot \\frac{\\sqrt{2}}{2} + \\frac{\\pi}{4} = 1 + \\frac{\\pi}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      365,
+      564,
+      407
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định c) là **Đúng**."
+  },
+  {
+    "bbox": [
+      202,
+      426,
+      717,
+      469
+    ],
+    "category": "Text",
+    "text": "d) Xét hàm số $g(x)$ trên đoạn $[0; \\pi]$:"
+  },
+  {
+    "bbox": [
+      153,
+      466,
+      648,
+      541
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } g'(x) = 0 \\Leftrightarrow x = \\frac{3\\pi}{4} \\in [0; \\pi].\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      537,
+      1037,
+      578
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên hoặc tính các giá trị tại biên và điểm cực trị:"
+  },
+  {
+    "bbox": [
+      153,
+      583,
+      284,
+      622
+    ],
+    "category": "Formula",
+    "text": "$$\ng(0) = 0.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      622,
+      609,
+      667
+    ],
+    "category": "Formula",
+    "text": "$$\ng(\\pi) = \\sqrt{2} \\sin \\pi + \\pi = \\pi \\approx 3,14.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      665,
+      1072,
+      750
+    ],
+    "category": "Formula",
+    "text": "$$\ng\\left(\\frac{3\\pi}{4}\\right) = \\sqrt{2} \\sin\\left(\\frac{3\\pi}{4}\\right) + \\frac{3\\pi}{4} = \\sqrt{2} \\cdot \\frac{\\sqrt{2}}{2} + \\frac{3\\pi}{4} = 1 + \\frac{3\\pi}{4} \\approx 3,35.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      752,
+      1546,
+      838
+    ],
+    "category": "Text",
+    "text": "So sánh các giá trị trên, ta thấy giá trị nhỏ nhất của hàm số trên đoạn $[0; \\pi]$ là $\\min_{[0;\\pi]} g(x) = g(0) = 0$."
+  },
+  {
+    "bbox": [
+      153,
+      834,
+      1157,
+      910
+    ],
+    "category": "Text",
+    "text": "Giá trị $1 + \\frac{3\\pi}{4}$ thực chất là giá trị lớn nhất của hàm số trên đoạn này."
+  },
+  {
+    "bbox": [
+      153,
+      906,
+      528,
+      949
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định d) là **Sai**."
+  },
+  {
+    "bbox": [
+      153,
+      968,
+      1546,
+      1236
+    ],
+    "category": "Text",
+    "text": "### 4.8. **Bài 4.** Ở Dubai, những hòn đào nhân tạo được xây dựng trên biển để làm địa điểm nghỉ dưỡng. Trên hệ tọa độ $Oxy$, đơn vị mỗi trục tính bằng 100 mét, đường bờ biển của một hòn đào được mô tả như hình vẽ bởi các đồ thị hàm số $y = f(x)$ và $y = g(x)$. Trong đó $y = f(x)$ là một parabol có định $I(4; 2)$, đi qua gốc tọa độ và $g(x) = (2x - 20)e^{0,2x-2}$. Hòn đào này gồm hai phần: phần整張 được giới hạn bởi đường cong $y = f(x)$ và trục hoành; phần nghỉ dưỡng được giới hạn bởi đường cong $y = g(x)$, trục tung và trục hoành (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      514,
+      1280,
+      1162,
+      1664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1735,
+      557,
+      1777
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } f(x) = -0,125x^2 + x.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1796,
+      993,
+      1839
+    ],
+    "category": "Text",
+    "text": "b) Diện tích của整張 lớn hơn 100 nghìn mét vuông."
+  },
+  {
+    "bbox": [
+      153,
+      1857,
+      1546,
+      1940
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng $G(x) = (ax + b)e^{0,2x-2}$ là một nguyên hàm của hàm số $g(x)$ trên $\\mathbb{R}$, khi đó $a - b = 140$."
+  },
+  {
+    "bbox": [
+      202,
+      1963,
+      1015,
+      2006
+    ],
+    "category": "Text",
+    "text": "d) Tổng diện tích hòn đào lớn hơn 500 nghìn mét vuông."
+  },
+  {
+    "bbox": [
+      153,
+      2022,
+      198,
+      2063
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      2022,
+      899,
+      2083
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Giả sử $f(x) = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      153,
+      2081,
+      707,
+      2122
+    ],
+    "category": "Text",
+    "text": "Do đồ thị đi qua gốc tọa độ nên $c = 0$."
+  },
+  {
+    "bbox": [
+      153,
+      2122,
+      1321,
+      2228
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đỉnh } I(4; 2) \\Rightarrow \\begin{cases} -\\frac{b}{2a} = 4 \\\\ a(4)^2 + b(4) = 2 \\end{cases} \\Leftrightarrow \\begin{cases} b = -8a \\\\ 16a + 4(-8a) = 2 \\end{cases} \\Leftrightarrow \\begin{cases} a = -0,125 \\\\ b = 1 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "59"
+  }
+]

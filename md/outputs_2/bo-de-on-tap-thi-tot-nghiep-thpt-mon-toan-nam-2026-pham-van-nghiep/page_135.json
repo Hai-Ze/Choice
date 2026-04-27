@@ -1,0 +1,372 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      112,
+      311,
+      148
+    ],
+    "category": "List-item",
+    "text": "A. -2."
+  },
+  {
+    "bbox": [
+      547,
+      112,
+      640,
+      146
+    ],
+    "category": "List-item",
+    "text": "B. -1."
+  },
+  {
+    "bbox": [
+      862,
+      112,
+      939,
+      146
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1177,
+      112,
+      1249,
+      146
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      833,
+      157,
+      953,
+      198
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      201,
+      929,
+      242
+    ],
+    "category": "Text",
+    "text": "Đồ thị có đường tiệm cận đứng $x=1$ nên $b=-1$."
+  },
+  {
+    "bbox": [
+      212,
+      246,
+      965,
+      288
+    ],
+    "category": "Text",
+    "text": "Đồ thị có đường tiệm cận ngang $y=-1$ nên $a=-1$."
+  },
+  {
+    "bbox": [
+      212,
+      296,
+      431,
+      337
+    ],
+    "category": "Text",
+    "text": "Vậy $a+b=-2$."
+  },
+  {
+    "bbox": [
+      74,
+      341,
+      766,
+      421
+    ],
+    "category": "List-item",
+    "text": "Câu 6: Giá trị của giới hạn $\\lim \\frac{-3}{4n^2 - 2n + 1}$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      427,
+      319,
+      504
+    ],
+    "category": "List-item",
+    "text": "A. $-\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      547,
+      446,
+      642,
+      480
+    ],
+    "category": "List-item",
+    "text": "B. $-\\infty$."
+  },
+  {
+    "bbox": [
+      862,
+      446,
+      929,
+      480
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1177,
+      446,
+      1272,
+      480
+    ],
+    "category": "List-item",
+    "text": "D. -1."
+  },
+  {
+    "bbox": [
+      833,
+      513,
+      953,
+      554
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      559,
+      850,
+      718
+    ],
+    "category": "Text",
+    "text": "Ta có $\\lim \\frac{-3}{4n^2 - 2n + 1} = \\lim \\frac{\\frac{-3}{n^2}}{4 - \\frac{2}{n} + \\frac{1}{n^2}} = \\frac{0}{4} = 0$."
+  },
+  {
+    "bbox": [
+      74,
+      726,
+      946,
+      772
+    ],
+    "category": "List-item",
+    "text": "Câu 7: Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      542,
+      784,
+      1248,
+      1070
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>2</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$-4$</td><td>$-8$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1084,
+      1164,
+      1128
+    ],
+    "category": "Text",
+    "text": "Tổng giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho bằng:"
+  },
+  {
+    "bbox": [
+      212,
+      1134,
+      311,
+      1168
+    ],
+    "category": "List-item",
+    "text": "A. -8."
+  },
+  {
+    "bbox": [
+      547,
+      1134,
+      640,
+      1168
+    ],
+    "category": "List-item",
+    "text": "B. -4."
+  },
+  {
+    "bbox": [
+      862,
+      1134,
+      939,
+      1168
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1177,
+      1134,
+      1292,
+      1168
+    ],
+    "category": "List-item",
+    "text": "D. -12."
+  },
+  {
+    "bbox": [
+      833,
+      1178,
+      953,
+      1218
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1219,
+      1542,
+      1310
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên: Giá trị lớn nhất của hàm số bằng -4; giá trị nhỏ nhất của hàm số là -8. Vậy tổng giá trị lớn nhất và giá trị nhỏ nhất của hàm số đã cho bằng -12."
+  },
+  {
+    "bbox": [
+      74,
+      1314,
+      1573,
+      1411
+    ],
+    "category": "List-item",
+    "text": "Câu 8: Trong không gian với hệ tọa độ $Oxyz$, cho điểm $A(1;2;4)$, $B(2;4;-1)$. Tìm tọa độ trọng tâm $G$ của tam giác $OAB$."
+  },
+  {
+    "bbox": [
+      212,
+      1415,
+      399,
+      1459
+    ],
+    "category": "List-item",
+    "text": "A. $G(3;2;1)$."
+  },
+  {
+    "bbox": [
+      547,
+      1415,
+      720,
+      1459
+    ],
+    "category": "List-item",
+    "text": "B. $G(1;2;1)$."
+  },
+  {
+    "bbox": [
+      862,
+      1415,
+      1062,
+      1459
+    ],
+    "category": "List-item",
+    "text": "C. $G(1;2;-1)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1415,
+      1365,
+      1459
+    ],
+    "category": "List-item",
+    "text": "D. $G(6;3;3)$."
+  },
+  {
+    "bbox": [
+      833,
+      1472,
+      953,
+      1513
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1517,
+      1421,
+      1563
+    ],
+    "category": "Text",
+    "text": "Gọi $G(x_G; y_G; z_G)$ là trọng tâm của tam giác $OAB$ với $A(1;2;4)$, $B(2;4;-1)$, $O(0;0;0)$"
+  },
+  {
+    "bbox": [
+      212,
+      1571,
+      766,
+      1845
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} x_G = \\frac{1+2+0}{3} = 1 \\\\ y_G = \\frac{2+4+0}{3} = 2 \\\\ z_G = \\frac{4+(-1)+0}{3} = 1 \\end{cases} \\Rightarrow G(1;2;1)$."
+  },
+  {
+    "bbox": [
+      74,
+      1853,
+      1576,
+      1946
+    ],
+    "category": "List-item",
+    "text": "Câu 9: Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Ta đặt $\\overline{AB} = \\vec{b}$, $\\overline{AC} = \\vec{c}$ và $\\overline{AD} = \\vec{d}$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

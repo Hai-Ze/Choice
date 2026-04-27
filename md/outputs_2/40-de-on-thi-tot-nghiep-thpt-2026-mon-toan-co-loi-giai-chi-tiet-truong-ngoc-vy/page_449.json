@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1496,
+      196
+    ],
+    "category": "Text",
+    "text": "d) Trong khoảng thời gian kể từ lúc hai xe gặp nhau cho đến giây thứ 28 (kể từ khi Taxi chuyển động rời trạm thu phí) vận tốc trung bình của xe Cứu thương lớn hơn vận tốc trung bình của xe Taxi."
+  },
+  {
+    "bbox": [
+      727,
+      215,
+      843,
+      253
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      268,
+      894,
+      390
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      445,
+      1130,
+      490
+    ],
+    "category": "Text",
+    "text": "Gọi $t$ là thời gian tính từ lúc xe Taxi bắt đầu chuyển động ($t \\ge 0$, đơn vị giây)."
+  },
+  {
+    "bbox": [
+      76,
+      509,
+      764,
+      592
+    ],
+    "category": "Text",
+    "text": "Vận tốc của xe Taxi: $v_T(t) = -\\frac{1}{180}t^2 + \\frac{116}{135}t$ (m/s)."
+  },
+  {
+    "bbox": [
+      76,
+      608,
+      1143,
+      654
+    ],
+    "category": "Text",
+    "text": "Xe Cứu thương xuất phát sau 1 giây ($t=1$) với gia tốc $a$ và vận tốc ban đầu 0."
+  },
+  {
+    "bbox": [
+      76,
+      668,
+      966,
+      713
+    ],
+    "category": "Text",
+    "text": "Gọi $t' = t - 1$ là thời gian chuyển động của xe Cứu thương ($t' \\ge 0$)."
+  },
+  {
+    "bbox": [
+      76,
+      733,
+      576,
+      781
+    ],
+    "category": "Text",
+    "text": "Vận tốc xe Cứu thương: $v_A(t') = at'$."
+  },
+  {
+    "bbox": [
+      76,
+      811,
+      723,
+      889
+    ],
+    "category": "Text",
+    "text": "Quăng đường xe Cứu thương: $S_A(t') = \\frac{1}{2}a(t')^2$."
+  },
+  {
+    "bbox": [
+      76,
+      908,
+      892,
+      954
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường xe Taxi đi được đến khi nhập làn ($t = 20$ s):"
+  },
+  {
+    "bbox": [
+      82,
+      972,
+      837,
+      1208
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nS_T(20) &= \\int_{0}^{20} v_T(t) dt = \\int_{0}^{20} \\left( -\\frac{1}{180}t^2 + \\frac{116}{135}t \\right) dt \\\\\n&= \\left( -\\frac{t^3}{540} + \\frac{58}{135}t^2 \\right) \\Big|_{0}^{20} = -\\frac{20^3}{540} + \\frac{58}{135} \\cdot 20^2 = \\frac{4240}{27} \\approx 157m.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1226,
+      1494,
+      1328
+    ],
+    "category": "Text",
+    "text": "b) Xe Cứu thương xuất phát được 17 giây thì đổi kịp Taxi. Tức là tại $t' = 17$ s (ứng với $t = 18$ s của Taxi)."
+  },
+  {
+    "bbox": [
+      76,
+      1344,
+      759,
+      1388
+    ],
+    "category": "Text",
+    "text": "Tại $t = 18$, quăng đường hai xe đi được bằng nhau."
+  },
+  {
+    "bbox": [
+      82,
+      1409,
+      1310,
+      1518
+    ],
+    "category": "Formula",
+    "text": "$$\nS_T(18) = \\int_{0}^{18} v_T(t) dt = \\int_{0}^{18} \\left( -\\frac{1}{180}t^2 + \\frac{116}{135}t \\right) dt = \\left( -\\frac{t^3}{540} + \\frac{58}{135}t^2 \\right) \\Big|_{0}^{18} = -\\frac{18^3}{540} + \\frac{58}{135} \\cdot 18^2 = \\frac{642}{5} m.\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1545,
+      434,
+      1627
+    ],
+    "category": "Formula",
+    "text": "$$\nS_A(17) = \\frac{1}{2}a \\cdot 17^2 = \\frac{289}{2}a.\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1651,
+      803,
+      1733
+    ],
+    "category": "Formula",
+    "text": "$$\nS_T(18) = S_A(17) \\Rightarrow \\frac{642}{5} = \\frac{289}{2}a \\Rightarrow a = \\frac{1284}{1445} \\ (m/s^2).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1751,
+      811,
+      1796
+    ],
+    "category": "Text",
+    "text": "c) Vận tốc xe Cứu thương khi đổi kịp Taxi ($t' = 17$ s):"
+  },
+  {
+    "bbox": [
+      82,
+      1815,
+      839,
+      1898
+    ],
+    "category": "Formula",
+    "text": "$$\nv_A(17) = a \\cdot t' = \\frac{1284}{1445} \\cdot 17 = \\frac{1284}{5 \\times 17^2} \\cdot 17 = \\frac{1284}{85} \\approx 15 \\ (m/s).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1915,
+      855,
+      1960
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc trung bình từ lúc gặp nhau ($t = 18$) đến $t = 28$:"
+  },
+  {
+    "bbox": [
+      76,
+      1974,
+      845,
+      2019
+    ],
+    "category": "Text",
+    "text": "Vận tốc trung bình của xe Taxi từ lúc $t = 18$ s đến $t = 28$ s"
+  },
+  {
+    "bbox": [
+      82,
+      2039,
+      1047,
+      2178
+    ],
+    "category": "Formula",
+    "text": "$$\nv_T(TB) = \\frac{\\int_{18}^{28} v(t) dt}{28-18} = \\frac{\\int_{18}^{28} \\left[ -\\frac{1}{180}t^2 + \\frac{116}{135}t \\right] dt}{28-18} = \\frac{\\frac{1510}{9}}{10} = \\frac{151}{9} \\approx 16,78 \\ (m/s).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2194,
+      942,
+      2239
+    ],
+    "category": "Text",
+    "text": "Vận tốc trung bình của xe Cứu thương từ lúc $t = 17$ s đến $t = 27$ s"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

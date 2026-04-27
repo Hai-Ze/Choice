@@ -1,0 +1,548 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      1198,
+      200
+    ],
+    "category": "Text",
+    "text": "**CÂU 6.** Cho hình chóp có diện tích mặt đáy là $4a^2$ và chiều cao bằng $3a$. Thế tích của khối chóp tương ứng bằng"
+  },
+  {
+    "bbox": [
+      123,
+      198,
+      226,
+      238
+    ],
+    "category": "List-item",
+    "text": "(A) $4a^3$."
+  },
+  {
+    "bbox": [
+      395,
+      198,
+      514,
+      238
+    ],
+    "category": "List-item",
+    "text": "(B) $12a^3$."
+  },
+  {
+    "bbox": [
+      668,
+      198,
+      769,
+      238
+    ],
+    "category": "List-item",
+    "text": "(C) $2a^3$."
+  },
+  {
+    "bbox": [
+      941,
+      198,
+      1041,
+      238
+    ],
+    "category": "List-item",
+    "text": "(D) $6a^3$."
+  },
+  {
+    "bbox": [
+      93,
+      254,
+      1198,
+      371
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hình phẳng ($H$) giới hạn bởi các đường $y = x^2+3$, $y = 0$, $x = 0$, $x = 5$. Gọi $V$ là thể tích của khối tròn xoay được tạo thành khi quay ($H$) xung quanh trục $Ox$. Mindh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      371,
+      436,
+      486
+    ],
+    "category": "List-item",
+    "text": "(A) $V = \\int_{0}^{5} (x^2 + 3) \\, dx$."
+  },
+  {
+    "bbox": [
+      668,
+      371,
+      1019,
+      486
+    ],
+    "category": "List-item",
+    "text": "(B) $V = \\pi \\int_{0}^{5} (x^2 + 3)^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      123,
+      486,
+      451,
+      602
+    ],
+    "category": "List-item",
+    "text": "(C) $V = \\int_{0}^{5} (x^2 + 3)^2 \\, dx$."
+  },
+  {
+    "bbox": [
+      668,
+      486,
+      1007,
+      602
+    ],
+    "category": "List-item",
+    "text": "(D) $V = \\pi \\int_{0}^{5} (x^2 + 3) \\, dx$."
+  },
+  {
+    "bbox": [
+      93,
+      615,
+      1198,
+      695
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Trong không gian $Oxyz$, cho hai điểm $A(5; -4; 2)$ và $B(1; 2; 4)$. Miặt phẳng đi qua $A$ và vuông góc với đường thẳng $AB$ là?"
+  },
+  {
+    "bbox": [
+      123,
+      695,
+      459,
+      735
+    ],
+    "category": "List-item",
+    "text": "(A) $2x - 3y - z - 20 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      695,
+      1004,
+      735
+    ],
+    "category": "List-item",
+    "text": "(B) $3x - y + 3z - 25 = 0$."
+  },
+  {
+    "bbox": [
+      123,
+      735,
+      459,
+      775
+    ],
+    "category": "List-item",
+    "text": "(C) $3x - y + 3z - 13 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      735,
+      984,
+      775
+    ],
+    "category": "List-item",
+    "text": "(D) $2x - 3y - z + 8 = 0$."
+  },
+  {
+    "bbox": [
+      93,
+      793,
+      823,
+      835
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Tập nghiệm của bất phương trình $\\log x \\ge 1$ là"
+  },
+  {
+    "bbox": [
+      123,
+      835,
+      297,
+      875
+    ],
+    "category": "List-item",
+    "text": "(A) $[10; +\\infty)$."
+  },
+  {
+    "bbox": [
+      395,
+      835,
+      559,
+      875
+    ],
+    "category": "List-item",
+    "text": "(B) $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      668,
+      835,
+      848,
+      875
+    ],
+    "category": "List-item",
+    "text": "(C) $(10; +\\infty)$."
+  },
+  {
+    "bbox": [
+      941,
+      835,
+      1119,
+      875
+    ],
+    "category": "List-item",
+    "text": "(D) $(-\\infty; 10)$."
+  },
+  {
+    "bbox": [
+      93,
+      911,
+      927,
+      991
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $y = ax^3 + 3x - d$ ($a; d \\in \\mathbb{R}$) có đồ thị là đường cong trong hình vẽ. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      991,
+      343,
+      1031
+    ],
+    "category": "List-item",
+    "text": "(A) $a < 0, d > 0$."
+  },
+  {
+    "bbox": [
+      532,
+      991,
+      751,
+      1031
+    ],
+    "category": "List-item",
+    "text": "(B) $a < 0, d < 0$."
+  },
+  {
+    "bbox": [
+      123,
+      1031,
+      343,
+      1071
+    ],
+    "category": "List-item",
+    "text": "(C) $a > 0, d < 0$."
+  },
+  {
+    "bbox": [
+      532,
+      1031,
+      751,
+      1071
+    ],
+    "category": "List-item",
+    "text": "(D) $a > 0, d > 0$."
+  },
+  {
+    "bbox": [
+      953,
+      928,
+      1166,
+      1166
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      1175,
+      769,
+      1217
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Hàm số nào sau đây nghịch biến trên $\\mathbb{R}$?"
+  },
+  {
+    "bbox": [
+      123,
+      1217,
+      317,
+      1277
+    ],
+    "category": "List-item",
+    "text": "(A) $y = \\log_{\\frac{1}{2}} x$."
+  },
+  {
+    "bbox": [
+      395,
+      1217,
+      559,
+      1257
+    ],
+    "category": "List-item",
+    "text": "(B) $y = 3^{-x}$."
+  },
+  {
+    "bbox": [
+      668,
+      1217,
+      857,
+      1257
+    ],
+    "category": "List-item",
+    "text": "(C) $y = 2025^x$."
+  },
+  {
+    "bbox": [
+      941,
+      1217,
+      1081,
+      1257
+    ],
+    "category": "List-item",
+    "text": "(D) $y = 2^x$."
+  },
+  {
+    "bbox": [
+      93,
+      1287,
+      1151,
+      1329
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho cấp số nhân ($u_n$) với $u_1 = 3$ và công bội $q = 2$. Giá trị của $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1329,
+      211,
+      1369
+    ],
+    "category": "List-item",
+    "text": "(A) 12."
+  },
+  {
+    "bbox": [
+      395,
+      1329,
+      483,
+      1369
+    ],
+    "category": "List-item",
+    "text": "(B) 18."
+  },
+  {
+    "bbox": [
+      668,
+      1329,
+      742,
+      1369
+    ],
+    "category": "List-item",
+    "text": "(C) 7."
+  },
+  {
+    "bbox": [
+      941,
+      1329,
+      1013,
+      1369
+    ],
+    "category": "List-item",
+    "text": "(D) 6."
+  },
+  {
+    "bbox": [
+      108,
+      1383,
+      823,
+      1436
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1445,
+      1198,
+      1562
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một集合 có 26 chiếc thẻ cùng loại, mỗi thẻ được ghi một số trong các số 1, 2, ..., 25, 26; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên một chiếc thẻ trong集合. Xét các biến cố."
+  },
+  {
+    "bbox": [
+      127,
+      1583,
+      818,
+      1623
+    ],
+    "category": "List-item",
+    "text": "(A) “Số trên thẻ được rút ra là số chia hết cho 2”."
+  },
+  {
+    "bbox": [
+      127,
+      1644,
+      818,
+      1684
+    ],
+    "category": "List-item",
+    "text": "(B) “Số trên thẻ được rút ra là số chia hết cho 3”."
+  },
+  {
+    "bbox": [
+      127,
+      1705,
+      1081,
+      1745
+    ],
+    "category": "List-item",
+    "text": "(C) “Số trên thẻ được rút ra là số chia hết cho 2 hoặc chia hết cho 3”."
+  },
+  {
+    "bbox": [
+      127,
+      1766,
+      920,
+      1806
+    ],
+    "category": "List-item",
+    "text": "(D) “Số trên thẻ được rút ra là số chia hết cho 6 hoặc 7”."
+  },
+  {
+    "bbox": [
+      93,
+      1829,
+      567,
+      1867
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai các mindh đề sau."
+  },
+  {
+    "bbox": [
+      123,
+      1867,
+      826,
+      1907
+    ],
+    "category": "List-item",
+    "text": "a) Biến cố $A$ và biến cố $B$ là hai biến cố xung黑色."
+  },
+  {
+    "bbox": [
+      123,
+      1907,
+      887,
+      1947
+    ],
+    "category": "List-item",
+    "text": "b) Biến cố $C$ là biến cố giao của biến cố $A$ và biến cố $B$."
+  },
+  {
+    "bbox": [
+      123,
+      1947,
+      328,
+      2017
+    ],
+    "category": "List-item",
+    "text": "c) $P(C) = \\frac{17}{26}$."
+  },
+  {
+    "bbox": [
+      123,
+      2017,
+      328,
+      2079
+    ],
+    "category": "List-item",
+    "text": "d) $P(D) = \\frac{3}{20}$."
+  },
+  {
+    "bbox": [
+      93,
+      2090,
+      1198,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một cơ sở sản xuất khăn đang bán mỗi chiếc khăn với giá 50 000 đồng mộtchiếccà mỗi tháng cơ sở bán được trung bình 34 000chiếccà Cơ sở sản xuất đang có kế hoạch tăng giá bán để có lợi nhuận tốt hơn. Sau khi tham khảo thị trường, người quản lý nhận thấy rằng nếu từ mức giá 50 000 đồng mà cứ tăng thêm 1 000 đồng thì"
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 491"
+  }
+]

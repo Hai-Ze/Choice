@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      567,
+      194
+    ],
+    "category": "Text",
+    "text": "Ra rút ra $AC^2 = \\frac{(x+0,5)^2 (x^2+16)}{x^2}$."
+  },
+  {
+    "bbox": [
+      76,
+      220,
+      670,
+      340
+    ],
+    "category": "Text",
+    "text": "Đặt $f(x) = \\frac{x^4 + x^3 + \\frac{65}{4}x^2 + 16x + 4}{x^2} (x > 0)$."
+  },
+  {
+    "bbox": [
+      76,
+      360,
+      657,
+      402
+    ],
+    "category": "Text",
+    "text": "Bài toán trở thành tìm min $f(x)$ với $x > 0$."
+  },
+  {
+    "bbox": [
+      76,
+      426,
+      156,
+      461
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      81,
+      485,
+      973,
+      711
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nf'(x) &= \\frac{\\left(4x^3 + 3x^2 + \\frac{65}{2}x + 16\\right)x^2 - 2x\\left(x^4 + x^3 + \\frac{65}{4}x^2 + 16x + 4\\right)}{x^4} \\\\\n\\Leftrightarrow f'(x) &= \\frac{2x^4 + x^3 - 16x - 8}{x^3}.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      731,
+      941,
+      869
+    ],
+    "category": "Text",
+    "text": "Vậy $f'(x) = 0 \\Leftrightarrow (x-2)(2x+1)(x^2+2x+4) = 0 \\Leftrightarrow \\begin{cases} x = 2 > 0 \\\\ x = -\\frac{1}{2} < 0. \\end{cases}$"
+  },
+  {
+    "bbox": [
+      76,
+      886,
+      426,
+      931
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên, ta có"
+  },
+  {
+    "bbox": [
+      105,
+      963,
+      830,
+      1354
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1374,
+      852,
+      1455
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, ta có $\\min_{x>0} f(x) = f(2) = \\frac{125}{4}$."
+  },
+  {
+    "bbox": [
+      76,
+      1477,
+      679,
+      1572
+    ],
+    "category": "Text",
+    "text": "Do đó, ta có $\\min AC = \\sqrt{\\frac{125}{4}} = \\frac{5\\sqrt{5}}{2} \\approx 5,6m$."
+  },
+  {
+    "bbox": [
+      76,
+      1589,
+      1494,
+      1810
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty vận tải cần giao hàng đến tất cả các thành phố $A, B, C, D, E$ (hình vẽ bên). Chi phí di chuyển giữa các thành phố được mô tả trên hình (tính theo đơn vị nghìn đồng). Xe giao hàng của công ty xuất phát từ thành phố $A$ đi qua tất cả các thành phố còn lại đúng một lần sau đó trở lại thành phố $A$. Tìm chi phí thấp nhất của xe giao hàng (tính theo đơn vị nghìn đồng)?"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      453,
+      121,
+      1332,
+      243
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doanh thu</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Giá trị đại diện</td><td>6</td><td>8</td><td>10</td><td>12</td><td>14</td></tr><tr><td>Số ngày</td><td>2</td><td>7</td><td>7</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      292,
+      280,
+      1097,
+      360
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{2.6 + 7.8 + 7.10 + 3.12 + 1.14}{20} = 9,4\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      395,
+      1485,
+      525
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Cho hàm số $y = \\frac{ax+b}{cx+d}$ có đồ thị là đường cong trong hình vẽ bên. Tọa độ giao điểm của đồ thị hàm số đã cho và trục hoành là"
+  },
+  {
+    "bbox": [
+      292,
+      555,
+      442,
+      601
+    ],
+    "category": "List-item",
+    "text": "A. $(0; -2)$."
+  },
+  {
+    "bbox": [
+      292,
+      618,
+      421,
+      664
+    ],
+    "category": "List-item",
+    "text": "B. $(2; 0)$."
+  },
+  {
+    "bbox": [
+      292,
+      681,
+      442,
+      727
+    ],
+    "category": "List-item",
+    "text": "C. $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      292,
+      744,
+      421,
+      790
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      836,
+      894,
+      950,
+      932
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      292,
+      939,
+      403,
+      975
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      153,
+      998,
+      933,
+      1047
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      600,
+      1050,
+      1166,
+      1342
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      292,
+      1373,
+      1272,
+      1417
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng của đồ thị hàm số đã cho là đường thẳng có phương trình:"
+  },
+  {
+    "bbox": [
+      292,
+      1450,
+      435,
+      1486
+    ],
+    "category": "List-item",
+    "text": "A. $x = -1$."
+  },
+  {
+    "bbox": [
+      626,
+      1448,
+      775,
+      1486
+    ],
+    "category": "List-item",
+    "text": "B. $y = -1$."
+  },
+  {
+    "bbox": [
+      940,
+      1448,
+      1089,
+      1486
+    ],
+    "category": "List-item",
+    "text": "C. $y = -2$."
+  },
+  {
+    "bbox": [
+      1253,
+      1450,
+      1406,
+      1486
+    ],
+    "category": "List-item",
+    "text": "D. $x = -2$."
+  },
+  {
+    "bbox": [
+      836,
+      1524,
+      950,
+      1562
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      292,
+      1588,
+      403,
+      1624
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      292,
+      1651,
+      902,
+      1713
+    ],
+    "category": "Text",
+    "text": "Ta thấy: $\\lim_{x \\to -2^+} f(x) = +\\infty$ và $\\lim_{x \\to -2^-} f(x) = -\\infty$."
+  },
+  {
+    "bbox": [
+      292,
+      1740,
+      952,
+      1784
+    ],
+    "category": "Text",
+    "text": "Vậy tiệm cận đứng của hàm số đã cho là $x = -2$."
+  },
+  {
+    "bbox": [
+      153,
+      1807,
+      924,
+      1853
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      445,
+      1876,
+      1198,
+      2154
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      2177,
+      519,
+      2219
+    ],
+    "category": "Text",
+    "text": "Mindh đề nào dưới đây sai?"
+  }
+]

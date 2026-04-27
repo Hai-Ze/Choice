@@ -1,0 +1,438 @@
+[
+  {
+    "bbox": [
+      93,
+      40,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      120,
+      448,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad S = \\pi \\int_{1}^{2} |2x - 3| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      120,
+      968,
+      238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad S = \\int_{1}^{2} |2x - 3| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      238,
+      466,
+      354
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = \\pi \\int_{1}^{2} (2x - 3)^2 \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      238,
+      988,
+      354
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\left| \\int_{1}^{2} (2x - 3) \\, dx \\right|.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      370,
+      1197,
+      449
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng đi qua điểm $A(2; 1; -4)$ nhận $\\vec{n} = (3; 2; -1)$ làm một véc-tơ pháp tuyến có phương trình là"
+  },
+  {
+    "bbox": [
+      123,
+      449,
+      618,
+      488
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad 3(x - 2) + 2(y - 1) - (z + 4) = 0.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      449,
+      1162,
+      488
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad 2(x + 3) + (y + 2) - 4(z - 1) = 0.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      490,
+      618,
+      532
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad 3(x + 2) + 2(y + 1) - (z - 4) = 0.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      490,
+      1162,
+      532
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad 2(x - 3) + (y - 2) - 4(z + 1) = 0.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      551,
+      831,
+      593
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Nghiệm của phương trình $\\log_3(2x - 1) = 2$ là"
+  },
+  {
+    "bbox": [
+      123,
+      593,
+      261,
+      661
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad x = \\frac{7}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      593,
+      533,
+      661
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x = \\frac{5}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      593,
+      800,
+      645
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad x = 5.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      593,
+      1072,
+      645
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x = 4.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      679,
+      902,
+      825
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hàm số $y = \\frac{ax + b}{cx + d}$ ($ac \\neq 0, ad - bc \\neq 0$) có đồ thị như hình dưới. Đường tiệm cận đứng của đồ thị hàm số đã cho có phương trình là"
+  },
+  {
+    "bbox": [
+      123,
+      825,
+      253,
+      864
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad y = 2.\n$$"
+  },
+  {
+    "bbox": [
+      321,
+      825,
+      475,
+      864
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x = -1.\n$$"
+  },
+  {
+    "bbox": [
+      518,
+      825,
+      670,
+      864
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad y = -1.\n$$"
+  },
+  {
+    "bbox": [
+      716,
+      825,
+      848,
+      864
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x = 2.\n$$"
+  },
+  {
+    "bbox": [
+      928,
+      710,
+      1191,
+      949
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      961,
+      1197,
+      1077
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hình chóp $S.ABC$ có $SA$ vuông góc với mặt phẳng ($ABC$), tam giác $ABC$ vuông tại $A$ và $SA = 3, AB = 4, AC = 5$. Thể tích của khối chóp $S.ABC$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1077,
+      211,
+      1116
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad 30.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      1077,
+      483,
+      1116
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad 20.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      1077,
+      756,
+      1116
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad 60.\n$$"
+  },
+  {
+    "bbox": [
+      940,
+      1077,
+      1030,
+      1116
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad 10.\n$$"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      93,
+      1136,
+      824,
+      1192
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1200,
+      652,
+      1242
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $f(x) = x^3 - 12x - 8$."
+  },
+  {
+    "bbox": [
+      123,
+      1242,
+      808,
+      1281
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho có đạo hàm là $f'(x) = 3x^2 - 12$."
+  },
+  {
+    "bbox": [
+      123,
+      1283,
+      839,
+      1322
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình $f'(x) = 0$ có tập nghiệm là $S = \\{2\\}$."
+  },
+  {
+    "bbox": [
+      123,
+      1324,
+      309,
+      1361
+    ],
+    "category": "List-item",
+    "text": "c) $f(2) = 24$."
+  },
+  {
+    "bbox": [
+      123,
+      1363,
+      966,
+      1402
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[-3; 3]$ bằng 24."
+  },
+  {
+    "bbox": [
+      93,
+      1420,
+      1197,
+      1764
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủ y sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày ($t \\ge 0$) kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ ($t \\ge 0$), trong đó $k$ là hằng số khác không. Do nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là 2 mg/lít; 1 mg/lít. Cho biết $y(t) = e^{g(t)}$ ($t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      123,
+      1764,
+      867,
+      1803
+    ],
+    "category": "List-item",
+    "text": "a) $g(t) = kt + C$ ($t \\ge 0$) với $C$ là một hằng số xác định."
+  },
+  {
+    "bbox": [
+      123,
+      1803,
+      291,
+      1875
+    ],
+    "category": "List-item",
+    "text": "b) $k = \\frac{\\ln 2}{6}$."
+  },
+  {
+    "bbox": [
+      123,
+      1875,
+      311,
+      1912
+    ],
+    "category": "List-item",
+    "text": "c) $C = 2 \\ln 2$."
+  },
+  {
+    "bbox": [
+      123,
+      1912,
+      1197,
+      1988
+    ],
+    "category": "List-item",
+    "text": "d) Nồng độ thuốc tồn dư trong nước tại thời điểm $t = 25$ (ngày) kể từ lúc sử dụng thuốc lớn hơn 0,25 mg/lít."
+  },
+  {
+    "bbox": [
+      93,
+      2008,
+      1197,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\vec{i}, \\vec{j}, \\vec{k}$ lần lượt là các vecto đơn vị trên các trục $Ox, Oy, Oz$ và độ dài mỗi vecto đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(6; 6; 0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\le t \\le 6$. Ở thời điểm ban đầu ($t = 0$), vật"
+  },
+  {
+    "bbox": [
+      1226,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 653"
+  }
+]

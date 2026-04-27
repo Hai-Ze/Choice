@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      153,
+      75,
+      1573,
+      158
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai, gồm 4 câu, tổng 4,0 điểm.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a) b) c) d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      153,
+      1538,
+      234
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** An và Bình rủ nhau đi câu cá vào ngày nghỉ cuối tuần. Xác suất câu được cá của An là 0,4. Xác suất câu được cá của Bình là 0,7. Khi đó ta có:"
+  },
+  {
+    "bbox": [
+      703,
+      230,
+      1025,
+      613
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      611,
+      787,
+      654
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất An không câu được cá bằng: 0,6"
+  },
+  {
+    "bbox": [
+      193,
+      654,
+      892,
+      696
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có đúng 1 người câu được cá bằng: 0,54"
+  },
+  {
+    "bbox": [
+      193,
+      696,
+      999,
+      738
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để cả 2 người đều không câu được cá bằng: 0,28"
+  },
+  {
+    "bbox": [
+      193,
+      738,
+      910,
+      779
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất có ít nhất 1 người câu được cá bằng: 0,82"
+  },
+  {
+    "bbox": [
+      153,
+      778,
+      1575,
+      976
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Từ một tấm bìa mỏng hình lục giác đều ABCDEF cạnh 6 cm, bên trong có 1 lục giác đều nhỏ hơn. Các đường chéo AD, BE, CF cắt nhau tại O, OA cắt cạnh lục giác đều nhỏ tại M (hình vẽ). Đặt $OM = x$ (cm). Bạn Khôi cắt bỏ 6 tam giác cân bằng nhau có cạnh đáy là cạnh của hình lục giác đều ban đầu và định là định của lục giác đều nhỏ phía trong rồi gấp lên sao cho các định A, B, C, D, E, F trùng nhau tạo thành một khối chóp lục giác đều."
+  },
+  {
+    "bbox": [
+      628,
+      990,
+      1088,
+      1415
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1433,
+      713,
+      1476
+    ],
+    "category": "List-item",
+    "text": "a) Tam giác OAB đều cạnh bằng 6 cm."
+  },
+  {
+    "bbox": [
+      193,
+      1479,
+      949,
+      1574
+    ],
+    "category": "List-item",
+    "text": "b) Cạnh đáy của khối chóp lục giác đều bằng $\\frac{2x\\sqrt{3}}{3}$ cm."
+  },
+  {
+    "bbox": [
+      193,
+      1576,
+      979,
+      1624
+    ],
+    "category": "List-item",
+    "text": "c) Đường cao của khối chóp lục giác đều là $\\sqrt{36-10x}$ cm."
+  },
+  {
+    "bbox": [
+      193,
+      1627,
+      1275,
+      1724
+    ],
+    "category": "List-item",
+    "text": "d) Thế tích lớn nhất mà khối chóp lục giác đều có thể đạt được là $\\frac{144\\sqrt{15}}{125}$ ($cm^3$)."
+  },
+  {
+    "bbox": [
+      153,
+      1727,
+      1173,
+      1773
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      523,
+      1773,
+      1209,
+      2000
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$-2$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      2000,
+      538,
+      2043
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số có hệ số $a > 0$."
+  },
+  {
+    "bbox": [
+      193,
+      2048,
+      854,
+      2097
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số đi qua hai điểm $(-1; 2)$; $(1; -2)$."
+  },
+  {
+    "bbox": [
+      193,
+      2110,
+      744,
+      2156
+    ],
+    "category": "List-item",
+    "text": "c) $f'(x) = 0$ tại các giá trị $x = -2$; $x = 2$."
+  },
+  {
+    "bbox": [
+      193,
+      2169,
+      856,
+      2217
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số trên $[0; 3]$ bằng 18."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      556,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "KSCL MÔN TOÁN L1 25.26"
+  },
+  {
+    "bbox": [
+      1424,
+      2236,
+      1571,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8/40"
+  }
+]

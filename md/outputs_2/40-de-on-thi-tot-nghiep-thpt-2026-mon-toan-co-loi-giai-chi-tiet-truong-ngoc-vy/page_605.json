@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      95,
+      963,
+      197
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } d(A, (SOE)) = AK = \\frac{SA \\cdot AE}{\\sqrt{SA^2 + AE^2}} = \\frac{\\sqrt{5}}{5} \\approx 0.45(\\text{cm}).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      215,
+      1575,
+      496
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Mạng lưới giao thông trong một thành phố được bố trí dạng lưới hình chữ nhật kích thước $10 \\times 12$ như hình vẽ dưới đây. Lần đầu đến thành phố, anh Nam muốn đi từ điểm $A$ đến điểm $B$. Biết rằng tại các điểm giao nhau, anh Nam luôn chọn ngẫu nhiên một trong các hướng đi để quăng đường đi từ $A$ đến $B$ là ngắn nhất. Xác suất để anh Nam không đi qua điểm giao ở vị trí $C$ là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      578,
+      515,
+      1153,
+      997
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1021,
+      493,
+      1057
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1079,
+      924,
+      1119
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1137,
+      348,
+      1177
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,85"
+  },
+  {
+    "bbox": [
+      156,
+      1198,
+      1571,
+      1303
+    ],
+    "category": "Text",
+    "text": "Để đi từ $A$ đến $B$, anh Nam cần đi 10 bước xuống dưới và 12 bước sang phải (không có lựa chọn nào khác). Do đó tổng số bước là $10+12 = 22$."
+  },
+  {
+    "bbox": [
+      156,
+      1317,
+      1573,
+      1432
+    ],
+    "category": "Text",
+    "text": "Số các chọn 12 bước sang phải trong 22 bước (hoặc chọn 10 bước xuống dưới) chính là số các chọn đường đi ngắn nhất từ $A$ đến $B$ và bằng: $C_{22}^{12}$."
+  },
+  {
+    "bbox": [
+      156,
+      1457,
+      868,
+      1507
+    ],
+    "category": "Text",
+    "text": "Số các chọn đường đi ngắn nhất từ $A$ đến $C$ là: $C_{10}^{7}$."
+  },
+  {
+    "bbox": [
+      156,
+      1532,
+      886,
+      1581
+    ],
+    "category": "Text",
+    "text": "Số cách chọn đường đi ngắn nhất từ $C$ đến $B$ là: $C_{12}^{5}$."
+  },
+  {
+    "bbox": [
+      156,
+      1606,
+      1231,
+      1655
+    ],
+    "category": "Text",
+    "text": "Suy ra số cách chọn đường đi ngắn nhất từ $A$ đến $B$ phải đi qua $C$ là $C_{10}^{7} \\times C_{12}^{5}$."
+  },
+  {
+    "bbox": [
+      156,
+      1680,
+      1278,
+      1778
+    ],
+    "category": "Text",
+    "text": "Vậy Xác suất để anh Nam không đi qua điểm giao ở vị trí $C$ là $1 - \\frac{C_{10}^{7} \\times C_{12}^{5}}{C_{22}^{12}} \\approx 0,85$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

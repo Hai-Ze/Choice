@@ -1,0 +1,309 @@
+[
+  {
+    "bbox": [
+      188,
+      132,
+      848,
+      215
+    ],
+    "category": "List-item",
+    "text": "a) Công thức tính $K$ là $K = \\frac{1}{2} \\left(1 - \\frac{h}{R+h}\\right)$."
+  },
+  {
+    "bbox": [
+      188,
+      226,
+      1548,
+      356
+    ],
+    "category": "List-item",
+    "text": "b) Trong một chuyển bay của tàu con thoi, các phi hành gia đã thực hiện một hoạt động ngoài tàu ở độ cao 280 km. Có 2,5% (làm tròn kết quả đến hàng phần mười) diện tích bề mặt Trái Đất có thể nhìn thấy ở độ cao đó."
+  },
+  {
+    "bbox": [
+      190,
+      362,
+      1548,
+      476
+    ],
+    "category": "List-item",
+    "text": "c) Muốn nhìn thấy $\\frac{1}{4}$ diện tích bề mặt Trái Đất, các phi hành gia cần đưa tàu con thoi đạt đến độ cao 6470 km."
+  },
+  {
+    "bbox": [
+      188,
+      492,
+      1278,
+      535
+    ],
+    "category": "List-item",
+    "text": "d) Khi độ cao $h$ càng tăng lên thì $K$ càng tăng nhưng không vượt quá 50%."
+  },
+  {
+    "bbox": [
+      154,
+      555,
+      198,
+      594
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      555,
+      1548,
+      617
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) S Ta có tỷ số $K$ là diện tích nhìn thấy được chia cho diện tích toàn phần"
+  },
+  {
+    "bbox": [
+      401,
+      624,
+      1298,
+      749
+    ],
+    "category": "Formula",
+    "text": "$$\nK = \\frac{S_T}{S} = \\frac{2\\pi R^2 \\left(1 - \\frac{R}{R+h}\\right)}{4\\pi R^2} = \\frac{1}{2} \\left(1 - \\frac{R}{R+h}\\right) = \\frac{1}{2} \\cdot \\frac{h}{R+h}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      771,
+      1419,
+      815
+    ],
+    "category": "List-item",
+    "text": "b) S Với bán kính $R = 6370$ km và chiều cao $h = 280$ km thì tỷ số $K$ tại độ cao $h$ là"
+  },
+  {
+    "bbox": [
+      450,
+      821,
+      1247,
+      903
+    ],
+    "category": "Formula",
+    "text": "$$\nK = \\frac{1}{2} \\cdot \\frac{h}{R+h} = \\frac{1}{2} \\cdot \\frac{280}{6370+280} = \\frac{2}{95} \\approx 0,021 \\approx 2,1\\%.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      918,
+      486,
+      996
+    ],
+    "category": "List-item",
+    "text": "c) S Với $K = \\frac{1}{4}$ thì"
+  },
+  {
+    "bbox": [
+      460,
+      1000,
+      1238,
+      1082
+    ],
+    "category": "Formula",
+    "text": "$$\nK = \\frac{1}{2} \\cdot \\frac{h}{R+h} \\Leftrightarrow \\frac{1}{4} = \\frac{1}{2} \\cdot \\frac{h}{6370+h} \\Leftrightarrow h = 6370 \\text{ (km).}\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1102,
+      586,
+      1143
+    ],
+    "category": "List-item",
+    "text": "d) Đ Khi $h$ càng lớn ta có"
+  },
+  {
+    "bbox": [
+      409,
+      1150,
+      1288,
+      1272
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{h \\to +\\infty} K = \\lim_{h \\to +\\infty} \\frac{1}{2} \\frac{h}{R+h} = \\frac{1}{2} \\lim_{h \\to +\\infty} \\frac{1}{\\frac{R}{h} + 1} = \\frac{1}{2} = 0,5 = 50\\%.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1295,
+      190,
+      1328
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      198,
+      1290,
+      797,
+      1331
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hàm số $f(x) = x^3 - 6x^2 + 9x$."
+  },
+  {
+    "bbox": [
+      190,
+      1351,
+      748,
+      1392
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      190,
+      1403,
+      902,
+      1446
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ đồng biến trên khoảng (1; 3)."
+  },
+  {
+    "bbox": [
+      190,
+      1457,
+      798,
+      1500
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị cực tiểu của hàm số là $y_{CT} = 3$."
+  },
+  {
+    "bbox": [
+      190,
+      1510,
+      1496,
+      1553
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $A, B$ là các điểm cực trị của đồ thị hàm số đã cho. Diện tích tam giác $OAB$ bằng 8."
+  },
+  {
+    "bbox": [
+      154,
+      1572,
+      198,
+      1605
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1568,
+      950,
+      1632
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét hàm số $f(x) = x^3 - 6x^2 + 9x$."
+  },
+  {
+    "bbox": [
+      196,
+      1647,
+      1240,
+      1689
+    ],
+    "category": "List-item",
+    "text": "◇ a) Đúng. Hàm số đã cho là hàm đa thức nên có tập xác định $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      196,
+      1703,
+      763,
+      1745
+    ],
+    "category": "List-item",
+    "text": "◇ b) Sai. Ta có $f'(x) = 3x^2 - 12x + 9$."
+  },
+  {
+    "bbox": [
+      235,
+      1757,
+      848,
+      1854
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow 3(x^2 - 4x + 3) = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = 3 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1868,
+      522,
+      1910
+    ],
+    "category": "Text",
+    "text": "Bảng xét dấu $f'(x)$:"
+  },
+  {
+    "bbox": [
+      565,
+      1916,
+      1212,
+      2047
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>1</td><td>3</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>0</td><td>$-$</td><td>0</td><td>$+$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      235,
+      2068,
+      1298,
+      2111
+    ],
+    "category": "Text",
+    "text": "Vì $f'(x) < 0$ trên khoảng (1; 3) nên hàm số nghịch biến trên khoảng (1; 3)."
+  },
+  {
+    "bbox": [
+      196,
+      2126,
+      1339,
+      2167
+    ],
+    "category": "List-item",
+    "text": "◇ c) Sai. Ta có $y_{C\\text{OE}} = f(1) = 1 - 6 + 9 = 4$ và $y_{CT} = f(3) = 27 - 54 + 27 = 0$."
+  },
+  {
+    "bbox": [
+      235,
+      2180,
+      854,
+      2223
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị cực tiểu của hàm số là $y_{CT} = 0$."
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "140"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

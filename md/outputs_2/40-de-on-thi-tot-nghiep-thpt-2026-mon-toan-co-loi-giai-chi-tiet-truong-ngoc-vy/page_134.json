@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      428,
+      179
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } s(t) = \\frac{1}{6}t^3 - t^2 + 2t.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      205,
+      876,
+      286
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } v(t) = s'(t) = \\frac{1}{2}t^2 - 2t + 2 \\Rightarrow v'(t) = t - 2 = 0 \\Leftrightarrow t = 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      304,
+      298,
+      347
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      82,
+      364,
+      732,
+      605
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>t</td><td>0</td><td>2</td><td>10</td></tr><tr><td>v'</td><td>-</td><td>0</td><td>+</td></tr><tr><td>v</td><td>2</td><td>0</td><td>32</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      626,
+      1491,
+      730
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, từ giây thứ 2 trở đi vận tốc của vật tăng dẫn theo thời gian. Do đó trong 10 giây đầu tiên, khoảng thời gian vật chuyển động nhanh dẫn kéo dài trong 8 giây."
+  },
+  {
+    "bbox": [
+      76,
+      742,
+      1494,
+      1019
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người đưa thư xuất phát từ bưu điện (vị trí C), các điểm cần phát thư nằm dọc các con đường cần đi qua. Biết rằng người này phải đi trên mỗi con đường ít nhất một tần (để phát được thư cho tất cả các điểm cần phát nằm dọc theo con đường đó) và cuối cùng quay lại điểm xuất phát. Sơ đồ các con đường cần đi qua và độ dài của chúng (tính theo km) được biểu diễn ở hình vẽ bên. Hỏi tổng quăng đường người đưa thư có thể đi ngắn nhất có thể là bao nhiêu km?"
+  },
+  {
+    "bbox": [
+      665,
+      1039,
+      905,
+      1422
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1443,
+      413,
+      1478
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1502,
+      843,
+      1539
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1559,
+      238,
+      1597
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 39"
+  },
+  {
+    "bbox": [
+      76,
+      1612,
+      1494,
+      1715
+    ],
+    "category": "Text",
+    "text": "Đồ thị trên chỉ có hai đỉnh bậc lẻ là C và E nên ta có thể tìm được một đường đi Euler từ C đến E (đường đi này đi qua mỗi cạnh đúng một lần)."
+  },
+  {
+    "bbox": [
+      76,
+      1728,
+      1040,
+      1774
+    ],
+    "category": "Text",
+    "text": "Một đường đi Euler từ C đến E là CABDEBCE và tổng độ dài của nó là"
+  },
+  {
+    "bbox": [
+      82,
+      1794,
+      532,
+      1840
+    ],
+    "category": "Formula",
+    "text": "$$\n2+1+3+6+5+4+10 = 31(\\text{km}).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1860,
+      1467,
+      1906
+    ],
+    "category": "Text",
+    "text": "Để quay trở lại điểm xuất phát và có đường đi ngắn nhất, ta cần tìm một đường đi ngắn nhất từ E đến C."
+  },
+  {
+    "bbox": [
+      76,
+      1924,
+      1111,
+      1972
+    ],
+    "category": "Text",
+    "text": "Đường đi ngắn nhất từ E đến C là EBAC và có độ dài là $5+1+2 = 8(\\text{km})$."
+  },
+  {
+    "bbox": [
+      76,
+      2000,
+      1030,
+      2047
+    ],
+    "category": "Text",
+    "text": "Vậy tổng quăng đường đưa thư có thể đi ngắn nhất là $31+8 = 39(\\text{km})$."
+  },
+  {
+    "bbox": [
+      76,
+      2068,
+      1494,
+      2191
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một phần mềm mô phỏng vận động viên tập bắn bia mục tiêu có kích thước nhỏ ($42\\text{cm} \\times 42\\text{cm}$) trong không gian $Oxyz$ (giả sử $|\\vec{i}| = |\\vec{j}| = |\\vec{k}| = 1\\text{cm}$). Cho biết vận động viên đó sử dụng"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

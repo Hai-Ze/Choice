@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      76,
+      83,
+      580,
+      165
+    ],
+    "category": "Text",
+    "text": "b) Chiều cao của bể nước là $\\frac{384}{x^2}$ (dm)."
+  },
+  {
+    "bbox": [
+      76,
+      177,
+      810,
+      259
+    ],
+    "category": "Text",
+    "text": "c) Diện tích xung quanh của bể chứa nước là $\\frac{3072}{x}(dm^2)$."
+  },
+  {
+    "bbox": [
+      76,
+      273,
+      907,
+      354
+    ],
+    "category": "Text",
+    "text": "d) Tổng diện tích cần làm của bể chứa nước là $\\frac{3072}{x} + 6x^2 (dm^2)$."
+  },
+  {
+    "bbox": [
+      76,
+      369,
+      1508,
+      458
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho tam giác $ABC$ với $A(1;1;2)$, $B(5;1;-2)$ và $C(3;5;0)$. Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      76,
+      466,
+      275,
+      510
+    ],
+    "category": "Text",
+    "text": "a) $\\overline{AB} \\cdot \\overline{BC} = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      520,
+      559,
+      571
+    ],
+    "category": "Text",
+    "text": "b) Tọa độ của vectơ $\\overline{BC}$ là $(-2;4;2)$."
+  },
+  {
+    "bbox": [
+      76,
+      586,
+      757,
+      673
+    ],
+    "category": "Text",
+    "text": "c)Điểm $G(\\frac{7}{3};\\frac{9}{3};0)$ là trọng tâm của tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      76,
+      688,
+      1162,
+      737
+    ],
+    "category": "Text",
+    "text": "d)Điểm $H(a;b;c)$ là chân đường cao hạ từ $A$ xuống cạnh $BC$. Khi đó $a+b-c=8$."
+  },
+  {
+    "bbox": [
+      76,
+      755,
+      1224,
+      842
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x) = \\frac{ax^2+bx+c}{x+d}$ có đồ thị là đường cong như hình vẽ dưới đây."
+  },
+  {
+    "bbox": [
+      671,
+      851,
+      979,
+      1183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1198,
+      1394,
+      1245
+    ],
+    "category": "Text",
+    "text": "Biết đường tiệm xiên của đồ thị hàm số đi qua hai điểm $(0;1)$ và $(1;0)$. Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      76,
+      1261,
+      602,
+      1309
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đồng biến trên khoảng $(-4;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      1326,
+      564,
+      1374
+    ],
+    "category": "Text",
+    "text": "b) Tập xác định của hàm số là $\\mathbb{R} \\setminus \\{2\\}$."
+  },
+  {
+    "bbox": [
+      76,
+      1389,
+      428,
+      1426
+    ],
+    "category": "Text",
+    "text": "c) Ta có $a+b+c+d=-2$."
+  },
+  {
+    "bbox": [
+      76,
+      1433,
+      1544,
+      1518
+    ],
+    "category": "Text",
+    "text": "d)Tiếp tuyến tại điểm $M$ thuộc đồ thị hàm số cắt hai đường tiệm cận lần lượt tại $A$ và $B$. Khi đó $MA.MB$ đạt giá trị nhỏ nhất là $8\\sqrt{2}-8$."
+  },
+  {
+    "bbox": [
+      76,
+      1526,
+      1560,
+      1647
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một集合 chứa các viên bi có kích thước và khối lượng như nhau gồm 5 bi trắng, 6 bi đỏ và 7 bi xanh. Chọn ngẫu nhiên 6 viên bi từ集合; trong đó có $x$ viên bi trắng, $y$ viên bi đỏ và $z$ viên bi xanh. Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      76,
+      1654,
+      1499,
+      1785
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được 6 viên bi đủ ba màu, đồng thời ba số $x-y, y-z, z-x$ theo thứ tự lập thành cấp số cộng là $\\frac{40}{221}$."
+  },
+  {
+    "bbox": [
+      76,
+      1794,
+      907,
+      1837
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được ít nhất một viên bi màu xanh nhỏ hơn 0,95."
+  },
+  {
+    "bbox": [
+      76,
+      1853,
+      797,
+      1935
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được 6 viên bi toàn màu xanh là $\\frac{1}{2652}$."
+  },
+  {
+    "bbox": [
+      76,
+      1949,
+      782,
+      2029
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được ít nhất 5 viên bi màu xanh là $\\frac{1}{78}$."
+  },
+  {
+    "bbox": [
+      76,
+      2029,
+      1038,
+      2071
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      2083,
+      1573,
+      2217
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong một phòng thí nghiệm, số lượng của một vi kur ther X được biểu diễn theo công thức $S(t) = A.e^t$, trong đó $A$ là số lượng vi kur ther tại thời điểm chọn mốc thời gian, $r$ là tỉ lệ tăng trưởng ($r > 0$), $t$ là thời gian tăng trưởng (tính theo đơn vị là giờ). Lúc 0 giờ sáng, số lượng vi kur ther X là 150 con. Sau 3 giờ số lượng vi kur ther X là 450 con. Cùng"
+  },
+  {
+    "bbox": [
+      1340,
+      2248,
+      1566,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "3/4 - Mã đề 0101"
+  }
+]

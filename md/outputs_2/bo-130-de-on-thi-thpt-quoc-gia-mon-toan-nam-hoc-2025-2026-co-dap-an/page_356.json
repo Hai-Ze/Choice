@@ -1,0 +1,578 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      141,
+      413,
+      345
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "L winh mai thanh tài, miệt mai tét tét. 1"
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1553,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      497,
+      195,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      663,
+      275,
+      1338,
+      331
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 70"
+  },
+  {
+    "bbox": [
+      580,
+      333,
+      1420,
+      385
+    ],
+    "category": "Text",
+    "text": "THPT NĂNG KHIẾU - HỒ CHÍ MINH - LẦN 1 - 2025"
+  },
+  {
+    "bbox": [
+      636,
+      389,
+      1367,
+      429
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      512,
+      1516,
+      568
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      580,
+      1218,
+      620
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      605,
+      656,
+      1395,
+      937
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>0</td><td>1</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>0</td><td>$-$</td><td>$-$</td><td>0</td><td>$+$</td></tr><tr><td>$y$</td><td>$-\\infty$</td><td>$2$</td><td>$-\\infty$</td><td>$+\\infty$</td><td>$-4$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      449,
+      982,
+      969,
+      1019
+    ],
+    "category": "Text",
+    "text": "Hàm số nghịch biến trong khoảng nào?"
+  },
+  {
+    "bbox": [
+      477,
+      1021,
+      625,
+      1061
+    ],
+    "category": "List-item",
+    "text": "(A) $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      750,
+      1021,
+      872,
+      1061
+    ],
+    "category": "List-item",
+    "text": "(B) (0; 1)."
+  },
+  {
+    "bbox": [
+      1023,
+      1021,
+      1192,
+      1061
+    ],
+    "category": "List-item",
+    "text": "(C) $(-2; -1)$."
+  },
+  {
+    "bbox": [
+      1295,
+      1021,
+      1418,
+      1061
+    ],
+    "category": "List-item",
+    "text": "(D) (1; 2)."
+  },
+  {
+    "bbox": [
+      449,
+      1081,
+      1425,
+      1156
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Cho $\\int \\left(x^2 - \\frac{2}{x}\\right) dx = F(x) + C$. Khẳng định nào sau đây đúng"
+  },
+  {
+    "bbox": [
+      477,
+      1158,
+      658,
+      1210
+    ],
+    "category": "List-item",
+    "text": "(A) $F'(1) = 1$."
+  },
+  {
+    "bbox": [
+      750,
+      1158,
+      935,
+      1210
+    ],
+    "category": "List-item",
+    "text": "(B) $F'(1) = \\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      1023,
+      1158,
+      1201,
+      1210
+    ],
+    "category": "List-item",
+    "text": "(C) $F'(1) = 3$."
+  },
+  {
+    "bbox": [
+      1295,
+      1158,
+      1499,
+      1210
+    ],
+    "category": "List-item",
+    "text": "(D) $F'(1) = -1$."
+  },
+  {
+    "bbox": [
+      449,
+      1242,
+      1362,
+      1283
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Số nghiệm của phương trình $\\log_7(x^2 - 2x) = \\log_7(3x - 6)$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1285,
+      548,
+      1325
+    ],
+    "category": "List-item",
+    "text": "(A) 2."
+  },
+  {
+    "bbox": [
+      750,
+      1285,
+      821,
+      1325
+    ],
+    "category": "List-item",
+    "text": "(B) 0."
+  },
+  {
+    "bbox": [
+      1023,
+      1285,
+      1092,
+      1325
+    ],
+    "category": "List-item",
+    "text": "(C) 3."
+  },
+  {
+    "bbox": [
+      1295,
+      1285,
+      1367,
+      1325
+    ],
+    "category": "List-item",
+    "text": "(D) 1."
+  },
+  {
+    "bbox": [
+      449,
+      1344,
+      1553,
+      1495
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Cho lăng trụ $ABC.A'B'C'$ có diện tích đáy bằng $\\frac{\\sqrt{3}a^2}{4}$, biết thể tích khối chóp $A'.BCC'B'$ bằng $\\frac{\\sqrt{6}a^3}{6}$. Chiều cao của khối lăng trụ đã cho là"
+  },
+  {
+    "bbox": [
+      477,
+      1495,
+      564,
+      1535
+    ],
+    "category": "List-item",
+    "text": "(A) $2a$."
+  },
+  {
+    "bbox": [
+      750,
+      1495,
+      821,
+      1535
+    ],
+    "category": "List-item",
+    "text": "(B) $a$."
+  },
+  {
+    "bbox": [
+      1023,
+      1495,
+      1134,
+      1535
+    ],
+    "category": "List-item",
+    "text": "(C) $\\sqrt{3}a$."
+  },
+  {
+    "bbox": [
+      1295,
+      1495,
+      1406,
+      1535
+    ],
+    "category": "List-item",
+    "text": "(D) $\\sqrt{2}a$."
+  },
+  {
+    "bbox": [
+      449,
+      1557,
+      1553,
+      1636
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho $(u_n)$ là cấp số cộng biết $u_2 + u_9 = 15$. Tổng 10 số hạng đầu của cấp số cộng đó bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1636,
+      577,
+      1676
+    ],
+    "category": "List-item",
+    "text": "(A) 150."
+  },
+  {
+    "bbox": [
+      750,
+      1636,
+      835,
+      1676
+    ],
+    "category": "List-item",
+    "text": "(B) 75."
+  },
+  {
+    "bbox": [
+      1023,
+      1636,
+      1123,
+      1676
+    ],
+    "category": "List-item",
+    "text": "(C) 120."
+  },
+  {
+    "bbox": [
+      1295,
+      1636,
+      1377,
+      1676
+    ],
+    "category": "List-item",
+    "text": "(D) 90."
+  },
+  {
+    "bbox": [
+      449,
+      1698,
+      1553,
+      1815
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Trong không gian $Oxyz$ cho hai mặt phẳng $(\\alpha)$: $(m+1)x+(m-1)y+6z-4 = 0$ và $(\\beta)$: $2x + y + 3z - 3 = 0$. Giá trị của $m$ để hai mặt phẳng $(\\alpha)$ và $(\\beta)$ song song với nhau bằng"
+  },
+  {
+    "bbox": [
+      477,
+      1817,
+      615,
+      1857
+    ],
+    "category": "List-item",
+    "text": "(A) $m = 2$."
+  },
+  {
+    "bbox": [
+      750,
+      1817,
+      887,
+      1857
+    ],
+    "category": "List-item",
+    "text": "(B) $m = 1$."
+  },
+  {
+    "bbox": [
+      1023,
+      1817,
+      1159,
+      1857
+    ],
+    "category": "List-item",
+    "text": "(C) $m = 3$."
+  },
+  {
+    "bbox": [
+      1295,
+      1817,
+      1454,
+      1857
+    ],
+    "category": "List-item",
+    "text": "(D) $m = -1$."
+  },
+  {
+    "bbox": [
+      449,
+      1878,
+      1553,
+      1995
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Cho hình chóp tư giác đều $S.ABCD$, $O$ là giao điểm của $AC$ và $BD$, $M$ là trung điểm của $AD$. Góc nào sau đây là góc phẳng nhị diện của góc nhị diện $[B, AD, S]$?"
+  },
+  {
+    "bbox": [
+      477,
+      1997,
+      599,
+      2039
+    ],
+    "category": "List-item",
+    "text": "(A) $\\widehat{SAB}$."
+  },
+  {
+    "bbox": [
+      750,
+      1997,
+      876,
+      2039
+    ],
+    "category": "List-item",
+    "text": "(B) $\\widehat{SDB}$."
+  },
+  {
+    "bbox": [
+      1023,
+      1997,
+      1155,
+      2039
+    ],
+    "category": "List-item",
+    "text": "(C) $\\widehat{SMO}$."
+  },
+  {
+    "bbox": [
+      1295,
+      1997,
+      1427,
+      2039
+    ],
+    "category": "List-item",
+    "text": "(D) $\\widehat{SMB}$."
+  },
+  {
+    "bbox": [
+      449,
+      2061,
+      1553,
+      2175
+    ],
+    "category": "Text",
+    "text": "CÂU 8. Diện tích hình phẳng giới hạn bởi hai đồ thị hàm số $y = \\frac{x^2 - 2x + 3}{x - 1}$; $y = x$ và hai đường thẳng $x = 2$; $x = 3$ bằng $a \\ln 2 + b$. Giá trị của $a + b$ bằng"
+  },
+  {
+    "bbox": [
+      477,
+      2175,
+      548,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(A) 2."
+  },
+  {
+    "bbox": [
+      750,
+      2175,
+      821,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(B) 1."
+  },
+  {
+    "bbox": [
+      1023,
+      2175,
+      1117,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(C) $-1$."
+  },
+  {
+    "bbox": [
+      1295,
+      2175,
+      1367,
+      2215
+    ],
+    "category": "List-item",
+    "text": "(D) 3."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "354 Bùi Tịnh Minh Lâm"
+  }
+]

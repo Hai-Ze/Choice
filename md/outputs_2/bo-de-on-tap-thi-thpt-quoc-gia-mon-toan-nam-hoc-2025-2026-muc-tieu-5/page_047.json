@@ -1,0 +1,342 @@
+[
+  {
+    "bbox": [
+      155,
+      137,
+      401,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{-1+1}{-2} = 0 \\text{ (đúng).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      202,
+      968,
+      243
+    ],
+    "category": "Text",
+    "text": "❖ Câu 11. Heo nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      190,
+      256,
+      413,
+      310
+    ],
+    "category": "List-item",
+    "text": "A) $\\frac{2025^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      876,
+      258,
+      1077,
+      310
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{2025^x}{2 \\ln 45} + C$."
+  },
+  {
+    "bbox": [
+      190,
+      307,
+      401,
+      348
+    ],
+    "category": "List-item",
+    "text": "C) $2026^x + C$."
+  },
+  {
+    "bbox": [
+      876,
+      307,
+      1207,
+      348
+    ],
+    "category": "List-item",
+    "text": "D) $2025^x \\cdot \\ln 2025 + C$."
+  },
+  {
+    "bbox": [
+      155,
+      344,
+      1359,
+      503
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $\\int 2025^x dx = \\frac{2025^x}{\\ln 2025} + C$. Vì $2025 = 45^2$ nên $\\ln 2025 = 2 \\ln 45$.\nDo đó $\\int 2025^x dx = \\frac{2025^x}{2 \\ln 45} + C$."
+  },
+  {
+    "bbox": [
+      155,
+      518,
+      1547,
+      605
+    ],
+    "category": "Text",
+    "text": "❖ Câu 12. Trong không gian $Oxyz$, vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P) : 11x - 3y - 2026 = 0$?"
+  },
+  {
+    "bbox": [
+      190,
+      623,
+      521,
+      666
+    ],
+    "category": "List-item",
+    "text": "A) $\\vec{n} = (11; -3; 2026)$."
+  },
+  {
+    "bbox": [
+      876,
+      623,
+      1233,
+      666
+    ],
+    "category": "List-item",
+    "text": "B) $\\vec{n} = (11; -3; -2026)$."
+  },
+  {
+    "bbox": [
+      190,
+      666,
+      471,
+      710
+    ],
+    "category": "List-item",
+    "text": "C) $\\vec{n} = (11; -3; 0)$."
+  },
+  {
+    "bbox": [
+      876,
+      666,
+      1132,
+      710
+    ],
+    "category": "List-item",
+    "text": "D) $\\vec{n} = (11; 3; 0)$."
+  },
+  {
+    "bbox": [
+      155,
+      710,
+      1547,
+      811
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Мặt phẳng có phương trình tổng quát $Ax + By + Cz + D = 0$ có vectơ pháp tuyến $\\vec{n} = (A; B; C)$."
+  },
+  {
+    "bbox": [
+      155,
+      815,
+      1018,
+      861
+    ],
+    "category": "Text",
+    "text": "Áp dụng: $(P) : 11x - 3y + 0z - 2026 = 0 \\Rightarrow \\vec{n} = (11; -3; 0)$."
+  },
+  {
+    "bbox": [
+      155,
+      878,
+      1547,
+      965
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      155,
+      986,
+      1168,
+      1026
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $f(x) = x - \\ln x$. Cácoornghedde sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      190,
+      1046,
+      850,
+      1088
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là: $D = (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      190,
+      1092,
+      582,
+      1170
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm $f'(x) = 1 + \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      190,
+      1174,
+      962,
+      1216
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ có nghiệm duy nhất $x = 1$."
+  },
+  {
+    "bbox": [
+      190,
+      1220,
+      1162,
+      1301
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[\\frac{1}{3}; 2]$ bằng $\\frac{1}{3} + \\ln 3$."
+  },
+  {
+    "bbox": [
+      155,
+      1319,
+      1168,
+      1382
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét hàm số $f(x) = x - \\ln x$ trên khoảng $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      190,
+      1397,
+      1544,
+      1440
+    ],
+    "category": "List-item",
+    "text": "❖ a) Đúng. Điều kiện xác định của hàm số logarit $\\ln x$ là $x > 0$. thus set $D = (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      190,
+      1446,
+      1221,
+      1524
+    ],
+    "category": "List-item",
+    "text": "❖ b) Sai. Ta có đạo hàm của hàm số là: $f'(x) = (x)' - (\\ln x)' = 1 - \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      190,
+      1528,
+      1544,
+      1641
+    ],
+    "category": "List-item",
+    "text": "❖ c) Đúng. Xét phương trình $f'(x) = 0 \\Leftrightarrow 1 - \\frac{1}{x} = 0 \\Leftrightarrow x = 1$. Vì $1 \\in D$ nên $x = 1$ là nghiệm duy nhất."
+  },
+  {
+    "bbox": [
+      190,
+      1647,
+      887,
+      1728
+    ],
+    "category": "List-item",
+    "text": "❖ d) Đúng. Xét hàm số $f(x)$ trên đoạn $[\\frac{1}{3}; 2]$."
+  },
+  {
+    "bbox": [
+      235,
+      1728,
+      774,
+      1807
+    ],
+    "category": "Text",
+    "text": "Đạo hàm $f'(x) = 0 \\Leftrightarrow x = 1 \\in [\\frac{1}{3}; 2]$."
+  },
+  {
+    "bbox": [
+      235,
+      1807,
+      952,
+      1851
+    ],
+    "category": "Text",
+    "text": "Tính giá trị tại các điểm đầu mút và điểm cực trị:"
+  },
+  {
+    "bbox": [
+      260,
+      1857,
+      873,
+      1938
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star f\\left(\\frac{1}{3}\\right) = \\frac{1}{3} - \\ln\\left(\\frac{1}{3}\\right) = \\frac{1}{3} + \\ln 3 \\approx 1,43.\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      1942,
+      582,
+      1982
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star f(1) = 1 - \\ln 1 = 1.\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      1988,
+      630,
+      2029
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star f(2) = 2 - \\ln 2 \\approx 1,31.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      2037,
+      1223,
+      2118
+    ],
+    "category": "Text",
+    "text": "So sánh các giá trị trên, ta thấy giá trị lớn nhất là $f\\left(\\frac{1}{3}\\right) = \\frac{1}{3} + \\ln 3$."
+  },
+  {
+    "bbox": [
+      155,
+      2138,
+      1562,
+      2222
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong không gian với hệ toạ độ $Oxyz$, cho tam giác $ABC$, với $A(5; 3; 1)$, $B(1; 6; 2)$, $C(5; 0; 4)$.\nCácoornghedde sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      155,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1562,
+      2251,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "47"
+  }
+]

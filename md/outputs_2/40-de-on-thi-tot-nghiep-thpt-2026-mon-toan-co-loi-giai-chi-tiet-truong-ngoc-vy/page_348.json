@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1574,
+      204
+    ],
+    "category": "Text",
+    "text": "Thời gian máy bay di chuyển trong phạm vi đài kiểm soát không lưu của sân bay theo dõi được là thời gian máy bay di chuyển đượcze 80√2km."
+  },
+  {
+    "bbox": [
+      155,
+      221,
+      730,
+      313
+    ],
+    "category": "Text",
+    "text": "Thời gian đó bằng $\\frac{80\\sqrt{2}}{200} \\cdot 60 \\approx 33,94$ phút."
+  },
+  {
+    "bbox": [
+      155,
+      336,
+      1574,
+      532
+    ],
+    "category": "Text",
+    "text": "d) Vùng kiểm không lưu của đài kiểm soát trên là tập hợp những điểm cách tâm $O(0; 0; 0)$ không quá 70km. Hay tập hợp các điểm ở bên trong và trên bề mặt của mặt cầu ($S$) có phương trình: $x^2 + y^2 + z^2 = 70^2 \\Leftrightarrow x^2 + y^2 + z^2 = 4900$."
+  },
+  {
+    "bbox": [
+      155,
+      548,
+      1574,
+      817
+    ],
+    "category": "Text",
+    "text": "Câu 4. Giả sử có một đồng xu cân bằng (fair coin) và một đồng xu thiên lệch (biased coin) mà mặt ngửa (heads) xuất hiện với xác suất $\\frac{3}{4}$. Một người chơi ngẫu nhiên chọn một trong hai đồng xu và tung nó ba lần. Gọi A là biến cố: \"Người chơi chọn đồng xu cân bằng\", B là biến cố: \"Ba lần tung đồng xu đều xuất hiện mặt ngửa\"."
+  },
+  {
+    "bbox": [
+      155,
+      838,
+      340,
+      918
+    ],
+    "category": "Formula",
+    "text": "a) $P(A) = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      943,
+      375,
+      1024
+    ],
+    "category": "Formula",
+    "text": "b) $P(B | A) = \\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      155,
+      1041,
+      1574,
+      1146
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người đó chọn được đồng xu cân bằng biết rằng kết quả ba lần tung đều xuất hiện mặt ngửa là 0,25 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      1162,
+      1574,
+      1268
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng đồng xu được chọn tung ba lần đều xuất hiện mặt ngửa, xác suất người chơi đó tung lần thứ tư tiếp tục xuất hiện mặt ngửa là 0,69 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      807,
+      1292,
+      924,
+      1331
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1345,
+      972,
+      1468
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1520,
+      1574,
+      1668
+    ],
+    "category": "Text",
+    "text": "a) Vì người chơi chọn ngẫu nhiên một trong hai đồng xu (một cân bằng và một thiên lệch), nên xác suất chọn được đồng xu cân bằng là $P(A) = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      155,
+      1683,
+      1574,
+      1844
+    ],
+    "category": "Text",
+    "text": "b) Vì biến cố $A$ đã xảy ra, tức là chọn được đồng xu cân bằng nên xác suất để mỗi lần xuất hiện mặt ngửa là $\\frac{1}{2}$, do đó xác suất biến cố $B$ với điều kiện biến cố $A$ đã xảy ra là $P(B | A) = \\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}$"
+  },
+  {
+    "bbox": [
+      155,
+      1873,
+      1100,
+      1968
+    ],
+    "category": "Formula",
+    "text": "c) Ta có $P(B) = P(A) \\cdot P(B | A) + P(\\bar{A}) \\cdot P(B | \\bar{A}) = \\frac{1}{2} \\cdot \\frac{1}{8} + \\frac{1}{2} \\cdot \\left(\\frac{3}{4}\\right)^3 = \\frac{35}{128}$"
+  },
+  {
+    "bbox": [
+      162,
+      1996,
+      762,
+      2158
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A | B) = \\frac{P(A) \\cdot P(B | A)}{P(B)} = \\frac{\\frac{1}{2} \\cdot \\frac{1}{8}}{\\frac{35}{128}} = \\frac{\\frac{1}{2} \\cdot \\frac{1}{8}}{\\frac{35}{128}} = \\frac{8}{35} \\approx 0,23\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

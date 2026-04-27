@@ -1,0 +1,381 @@
+[
+  {
+    "bbox": [
+      113,
+      91,
+      1576,
+      174
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho bảng số liệu ghép nhóm về chiều cao đo được của 30 học sinh nam lớp 12A đầu năm học của một trường THPT như sau:"
+  },
+  {
+    "bbox": [
+      253,
+      171,
+      1537,
+      292
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao</td><td>[150; 155)</td><td>[155; 160)</td><td>[160; 165)</td><td>[165; 170)</td><td>[170; 175)</td></tr><tr><td>Tần số</td><td>3</td><td>7</td><td>10</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      253,
+      307,
+      953,
+      352
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên."
+  },
+  {
+    "bbox": [
+      253,
+      356,
+      371,
+      420
+    ],
+    "category": "List-item",
+    "text": "A. $\\sqrt{71}$."
+  },
+  {
+    "bbox": [
+      586,
+      356,
+      727,
+      444
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\sqrt{287}}{3}$."
+  },
+  {
+    "bbox": [
+      901,
+      373,
+      1023,
+      420
+    ],
+    "category": "List-item",
+    "text": "C. $4\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1215,
+      356,
+      1355,
+      444
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{285}}{3}$."
+  },
+  {
+    "bbox": [
+      113,
+      457,
+      906,
+      499
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình lập phương $ABCD.A_1B_1C_1D_1$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      658,
+      515,
+      1041,
+      813
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      113,
+      824,
+      531,
+      867
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      156,
+      872,
+      471,
+      920
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AD} + \\overline{AB}$"
+  },
+  {
+    "bbox": [
+      905,
+      872,
+      1254,
+      920
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AB} + \\overline{AC}$."
+  },
+  {
+    "bbox": [
+      156,
+      933,
+      516,
+      982
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AC_1} = \\overline{AB} + \\overline{AD} + \\overline{AD_1}$."
+  },
+  {
+    "bbox": [
+      905,
+      933,
+      1258,
+      982
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AD} + \\overline{AC}$."
+  },
+  {
+    "bbox": [
+      113,
+      997,
+      827,
+      1039
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Nghiệm của phương trình $\\log_3(x-2) = 1$ là:"
+  },
+  {
+    "bbox": [
+      156,
+      1056,
+      285,
+      1092
+    ],
+    "category": "List-item",
+    "text": "A. $x = 3$."
+  },
+  {
+    "bbox": [
+      531,
+      1056,
+      715,
+      1096
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\log_3 5$."
+  },
+  {
+    "bbox": [
+      905,
+      1056,
+      1036,
+      1092
+    ],
+    "category": "List-item",
+    "text": "C. $x = 5$."
+  },
+  {
+    "bbox": [
+      1280,
+      1056,
+      1401,
+      1092
+    ],
+    "category": "List-item",
+    "text": "D. $x = 1$."
+  },
+  {
+    "bbox": [
+      113,
+      1107,
+      1574,
+      1206
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Thế tich khối tròn xoay tạo thành khi cho hình phẳng giới hạn bởi đồ thị hàm số $f(x) = \\sqrt{x}$, trục hoành và hai đường thẳng $x = 0$, $x = 2$ quay quanh trục $Ox$ là"
+  },
+  {
+    "bbox": [
+      156,
+      1211,
+      290,
+      1307
+    ],
+    "category": "List-item",
+    "text": "A. $\\int_{0}^{2} x dx$."
+  },
+  {
+    "bbox": [
+      531,
+      1211,
+      688,
+      1307
+    ],
+    "category": "List-item",
+    "text": "B. $\\pi \\int_{0}^{2} x dx$."
+  },
+  {
+    "bbox": [
+      905,
+      1211,
+      1066,
+      1307
+    ],
+    "category": "List-item",
+    "text": "C. $\\int_{0}^{2} \\sqrt{x} dx$."
+  },
+  {
+    "bbox": [
+      1280,
+      1211,
+      1464,
+      1307
+    ],
+    "category": "List-item",
+    "text": "D. $\\pi \\int_{0}^{2} \\sqrt{x} dx$."
+  },
+  {
+    "bbox": [
+      113,
+      1314,
+      1574,
+      1397
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Chọn ngẫu nhiên đồng thời hai số từ tập hợp gồm 17 số nguyên dương đầu tiên. Xác suất để chọn được hai số chẫn bằng ?"
+  },
+  {
+    "bbox": [
+      147,
+      1404,
+      248,
+      1484
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{9}{17}$."
+  },
+  {
+    "bbox": [
+      535,
+      1404,
+      634,
+      1484
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{7}{34}$."
+  },
+  {
+    "bbox": [
+      901,
+      1404,
+      1002,
+      1484
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{8}{17}$."
+  },
+  {
+    "bbox": [
+      1280,
+      1404,
+      1379,
+      1484
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{9}{34}$."
+  },
+  {
+    "bbox": [
+      113,
+      1507,
+      1576,
+      1591
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      113,
+      1591,
+      1576,
+      1793
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một người điều剂 ô tô đang ở trên đường cao tốc muốn tách làn ra khỏi đường cao tốc. Khi ô tô cách điểm tách làn 300 m, tốc độ của ô tô là 72 km/h. Năm giây sau đó, ô tô bắt đầu giảm tốc với tốc độ $v(t) = at + b$ (m/s) với $(a, b \\in \\mathbb{R}, a < 0)$, trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu giảm tốc. Biết rằng ô tô tách khỏi làn đường cao tốc sau 12 giây và duy trì sự giảm tốc trong 18 giây kể từ khi bắt đầu giảm tốc."
+  },
+  {
+    "bbox": [
+      156,
+      1798,
+      1166,
+      1843
+    ],
+    "category": "Text",
+    "text": "a) Sau 18 giây kể từ khi giảm tốc, tốc độ của ô tô không vượt quá 35 km/h."
+  },
+  {
+    "bbox": [
+      156,
+      1843,
+      1486,
+      1888
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường ô tô đi được từ khi bắt đầu giảm tốc đến khi tách khỏi làn đường cao tốc là 200 m."
+  },
+  {
+    "bbox": [
+      156,
+      1891,
+      444,
+      1931
+    ],
+    "category": "Text",
+    "text": "c) Giá trị của $b$ là 20."
+  },
+  {
+    "bbox": [
+      113,
+      1933,
+      1574,
+      2023
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường $S(t)$ (đơn vị: mét) mà ô tô đi được trong khoảng thời gian 16 giây kể từ khi giảm tốc nằm trong khoảng từ 250m đến 252m."
+  },
+  {
+    "bbox": [
+      113,
+      2023,
+      1574,
+      2146
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian với hệ tọa độ Oxyz, một cabin cáp treo xuất phát từ điểm $A(10; 3; 0)$ và chuyển động đều theo đường cáp có véc tơ chỉ phương $\\vec{u} = (2; -2; 1)$ (hướng chuyển động cùng chiều với hướng véc tơ $\\vec{u}$ với tốc độ là 4,5 (m/s); (đơn vị trên mỗi trục là mét)."
+  },
+  {
+    "bbox": [
+      113,
+      2279,
+      259,
+      2317
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 121"
+  },
+  {
+    "bbox": [
+      1440,
+      2283,
+      1574,
+      2321
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

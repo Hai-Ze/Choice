@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      110,
+      1420,
+      321
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos AP, BC' = \\left| \\cos \\overrightarrow{AP}, \\overrightarrow{BC'} \\right| = \\frac{\\left| \\overrightarrow{AP} \\cdot \\overrightarrow{BC'} \\right|}{\\left| \\overrightarrow{AP} \\right| \\cdot \\left| \\overrightarrow{BC'} \\right|} = \\frac{\\left| 3.0 + \\frac{3}{2} \\cdot 3 + 3.3 \\right|}{\\sqrt{3^2 + \\left(\\frac{3}{2}\\right)^2 + 3^2} \\cdot \\sqrt{0^2 + 3^2 + 3^2}} = \\frac{\\sqrt{2}}{2}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      326,
+      927,
+      374
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai đường thẳng $AP$ và $BC'$ bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      74,
+      368,
+      1192,
+      418
+    ],
+    "category": "Text",
+    "text": "**PHẦN III. Câu trắc nghiệm trả lời ngắn.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      420,
+      1577,
+      652
+    ],
+    "category": "List-item",
+    "text": "**Câu 17.** Trong một trung tâm logistics, người ta cần thiết kế một thùng hang hình集合 chữ nhật để đóng gói và vận chuyển thiết bị điện tử. Tổng diện tích các mặt ngoài của thùng bằng $36 m^2$ (bao gồm cả mặt đáy, mặt nắp và 4 mặt bên). Để đảm bảo khả năng đóng gói vừa vặn thiết bị, đường chéo không gian của thùng phải dài 6 mét. Thế tích lớn nhất có thể của thùng hàng này là bao nhiêu (tính theo đơn vị mét khối, làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      647,
+      647,
+      1136,
+      972
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      978,
+      953,
+      1019
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1022,
+      402,
+      1063
+    ],
+    "category": "Text",
+    "text": "Đáp án: 11,3"
+  },
+  {
+    "bbox": [
+      661,
+      1073,
+      1124,
+      1507
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1522,
+      1130,
+      1569
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y, z$ ($x, y, z > 0$) lần lượt là độ dài các cạnh $AB, AD, AA'$."
+  },
+  {
+    "bbox": [
+      212,
+      1577,
+      1268,
+      1627
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích tất cả các mặt là } S_{tp} = 2(xy + yz + zx) = 36 \\Leftrightarrow xy + yz + zx = 18 \\ (1).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1633,
+      1114,
+      1688
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài đường chéo } AC' = \\sqrt{x^2 + y^2 + z^2} = 6 \\Leftrightarrow x^2 + y^2 + z^2 = 36.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1694,
+      1279,
+      1748
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } (x + y + z)^2 = x^2 + y^2 + z^2 + 2(xy + yz + zx) = 72 \\Rightarrow x + y + z = 6\\sqrt{2} \\ (2).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1752,
+      986,
+      1807
+    ],
+    "category": "Text",
+    "text": "Từ (2) ta có $y + z = 6\\sqrt{2} - x$, kết hợp với (1) ta được:"
+  },
+  {
+    "bbox": [
+      218,
+      1815,
+      938,
+      1874
+    ],
+    "category": "Formula",
+    "text": "$$\nyz = 18 - x(y + z) = 18 - x(6\\sqrt{2} - x) = x^2 - 6\\sqrt{2}x + 18.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1884,
+      663,
+      1935
+    ],
+    "category": "Text",
+    "text": "Lại có $(y + z)^2 \\ge 4yz, \\forall x, y$ nên"
+  },
+  {
+    "bbox": [
+      212,
+      1945,
+      1122,
+      2013
+    ],
+    "category": "Formula",
+    "text": "$$\n(6\\sqrt{2} - x)^2 \\ge 4(x^2 - 6\\sqrt{2}x + 18) \\Leftrightarrow 3x^2 - 12\\sqrt{2}x \\le 0 \\Leftrightarrow 0 \\le x \\le 4\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2018,
+      1305,
+      2077
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích khối集合 chữ nhật là } V = xyz = x(x^2 - 6\\sqrt{2}x + 18) = x^3 - 6\\sqrt{2}x^2 + 18x.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2083,
+      1496,
+      2144
+    ],
+    "category": "Text",
+    "text": "Bài toán trở thành tìm giá trị lớn nhất của hàm số $f(x) = x^3 - 6\\sqrt{2}x^2 + 18x$ trên $(0; 4\\sqrt{2}]$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

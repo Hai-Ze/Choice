@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      654,
+      154
+    ],
+    "category": "Text",
+    "text": "Ta có: $AB = a\\sqrt{3}; BC = AD = a$."
+  },
+  {
+    "bbox": [
+      212,
+      162,
+      1344,
+      246
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $ABC$ vuông tại $B$, ta có: $\\tan BAC = \\frac{BC}{AB} = \\frac{a}{a\\sqrt{3}} = \\frac{1}{\\sqrt{3}} \\Rightarrow BAC = 30^\\circ$"
+  },
+  {
+    "bbox": [
+      74,
+      252,
+      1550,
+      371
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho các vecto $\\vec{a} = (-1; 2; 3)$, $\\vec{b} = (2; -1; -2)$. Khi đó $[\\vec{a}, \\vec{b}]$ có toạ độ là\nA. $(1; -4; 3)$. B. $(-1; 4; -3)$. C. $(-7; 8; 5)$. D. $(7; -8; -5)$."
+  },
+  {
+    "bbox": [
+      765,
+      380,
+      884,
+      422
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      215,
+      422,
+      829,
+      524
+    ],
+    "category": "Formula",
+    "text": "$$\n[\\vec{a}, \\vec{b}] = \\begin{pmatrix} |2 & 3| \\\\ |-1-2| \\end{pmatrix}; \\begin{pmatrix} 3 & -1| \\\\ |-2 & 2| \\end{pmatrix}; \\begin{pmatrix} -1 & 2| \\\\ |2 & -1| \\end{pmatrix} = (-1; 4; -3).\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      529,
+      1575,
+      624
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Hình phẳng giới hạn bởi đồ thị hàm số $y = 3^x$, trục tung và các đường thẳng $y = 1$, $x = 2$ có diện tích là"
+  },
+  {
+    "bbox": [
+      212,
+      630,
+      482,
+      727
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{1}^{2} (3^x - 1) dx$."
+  },
+  {
+    "bbox": [
+      550,
+      630,
+      817,
+      727
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\int_{1}^{2} (1 - 3^x) dx$."
+  },
+  {
+    "bbox": [
+      861,
+      630,
+      1129,
+      727
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\int_{0}^{2} (3^x - 1) dx$."
+  },
+  {
+    "bbox": [
+      1174,
+      630,
+      1445,
+      727
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{0}^{2} (1 - 3^x) dx$."
+  },
+  {
+    "bbox": [
+      765,
+      735,
+      884,
+      777
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      780,
+      331,
+      820
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      212,
+      824,
+      1575,
+      974
+    ],
+    "category": "Text",
+    "text": "Hình phẳng giới hạn bởi đồ thị hàm số $y = 3^x$, trục tung và các đường thẳng $y = 1$, $x = 2$ có diện tích là: $S = \\int_{0}^{2} |3^x - 1| dx = \\int_{0}^{2} (3^x - 1) dx$."
+  },
+  {
+    "bbox": [
+      74,
+      980,
+      1404,
+      1129
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Trong không gian $Oxyz$, đường thẳng $d: \\begin{cases} x = -1 + 2t \\\\ y = 3 - t \\\\ z = 2 + t \\end{cases}$ có một vecto chỉ phương là"
+  },
+  {
+    "bbox": [
+      212,
+      1137,
+      433,
+      1187
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u} = (2; -1; 1)$."
+  },
+  {
+    "bbox": [
+      550,
+      1137,
+      772,
+      1187
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{v} = (-1; 3; 2)$."
+  },
+  {
+    "bbox": [
+      861,
+      1137,
+      1085,
+      1187
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{a} = (-1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      1174,
+      1137,
+      1414,
+      1187
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{b} = (-1; -1; 1)$."
+  },
+  {
+    "bbox": [
+      765,
+      1197,
+      884,
+      1239
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1242,
+      331,
+      1282
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      215,
+      1286,
+      1325,
+      1435
+    ],
+    "category": "Formula",
+    "text": "$$\nd: \\begin{cases} x = -1 + 2t \\\\ y = 3 - t \\\\ z = 2 + t \\end{cases} \\Rightarrow \\text{Một vecto chỉ phương của đường thẳng } d \\text{ là: } \\vec{u} = (2; -1; 1).\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1438,
+      1498,
+      1530
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a) b) c) d) ở mỗ câu thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      1536,
+      563,
+      1621
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho hàm số $y = \\frac{x^2 + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      212,
+      1625,
+      856,
+      1672
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số nghịch biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1680,
+      807,
+      1724
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số có hai đường tiệm cận."
+  },
+  {
+    "bbox": [
+      212,
+      1726,
+      1095,
+      1770
+    ],
+    "category": "List-item",
+    "text": "c) Tiệm cận xiên của đồ thị hàm số không đi qua gốc tọa độ."
+  },
+  {
+    "bbox": [
+      212,
+      1770,
+      1177,
+      1815
+    ],
+    "category": "List-item",
+    "text": "d) Hiệu giữa giá trị cực đại và giá trị cực tiểu của hàm số bằng 4."
+  },
+  {
+    "bbox": [
+      833,
+      1817,
+      952,
+      1859
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1863,
+      1036,
+      1965
+    ],
+    "category": "List-item",
+    "text": "a) Ta có $y = x + 1 + \\frac{2}{x - 1}$ nên $y' = 1 - \\frac{2}{(x - 1)^2} = \\frac{x^2 - 2x - 1}{(x - 1)^2}$."
+  },
+  {
+    "bbox": [
+      215,
+      1967,
+      1505,
+      2100
+    ],
+    "category": "Text",
+    "text": "$y' > 0 \\Leftrightarrow x \\in (1 - \\sqrt{2}; 1) \\cup (1; 1 + \\sqrt{2})$ nên hàm số nghịch biến trên các khoảng $(1 - \\sqrt{2}; 1)$ và $(1; 1 + \\sqrt{2})$."
+  },
+  {
+    "bbox": [
+      212,
+      2110,
+      371,
+      2150
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

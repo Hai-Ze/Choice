@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      971,
+      215
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      268,
+      1574,
+      367
+    ],
+    "category": "Text",
+    "text": "a) Từ đồ thị ta thấy: Vận tốc chạy bộ của bạn Nam trong khoảng 1 giờ đầu tăng dẫn và 1 giờ sau giảm dẫn."
+  },
+  {
+    "bbox": [
+      156,
+      385,
+      1043,
+      430
+    ],
+    "category": "Text",
+    "text": "Vậy vận tốc chạy bộ của bạn Nam trong 1 giờ thứ 2 giảm dẫn."
+  },
+  {
+    "bbox": [
+      156,
+      448,
+      1095,
+      498
+    ],
+    "category": "Text",
+    "text": "c) Đồ thị $v = v(t)$ đi qua gốc tọa độ nên $v(t)$ có dạng $v(t) = at^2 + bt$."
+  },
+  {
+    "bbox": [
+      156,
+      526,
+      1416,
+      661
+    ],
+    "category": "Text",
+    "text": "Đồ thị $v = v(t)$ có định là $I(1;5)$ nên $\\begin{cases} -\\frac{b}{2a} = 1 \\\\ a + b = 5 \\end{cases} \\Leftrightarrow \\begin{cases} b = -2a \\\\ a + b = 5 \\end{cases} \\Leftrightarrow \\begin{cases} a = -5 \\\\ b = 10 \\end{cases} \\Rightarrow v(t) = -5t^2 + 10t$"
+  },
+  {
+    "bbox": [
+      156,
+      688,
+      1139,
+      813
+    ],
+    "category": "Text",
+    "text": "Gia tốc chạy bộ của bạn Nam tại thời điểm $t$ là : $a(t) = v'(t) = -10t + 10$\n$\\Rightarrow a(1,5) = v'(1,5) = -10 \\cdot 1,5 + 10 = -5(km/h)$"
+  },
+  {
+    "bbox": [
+      156,
+      841,
+      814,
+      938
+    ],
+    "category": "Text",
+    "text": "d) Ta có 1 giờ 30 phút = 1,5 giờ $\\Rightarrow s = \\int_{0}^{1,5} v(t)dt$."
+  },
+  {
+    "bbox": [
+      156,
+      958,
+      1306,
+      1003
+    ],
+    "category": "Text",
+    "text": "Do đó, quăng đường bạn Nam chạy được trong 1 giờ 30 phút kể từ lúc bắt đầu chạy là"
+  },
+  {
+    "bbox": [
+      162,
+      1024,
+      669,
+      1121
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{1,5} (-5t^2 + 10t)dt = \\frac{45}{8} \\approx 5,63(km).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1142,
+      1574,
+      1245
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một cuộc khảo sát tình trạng công việc trên 900 người chỉ có bằng tốt nghiệp THPT tại một địa phương, người ta thu được số liệu như bảng dưới đây"
+  },
+  {
+    "bbox": [
+      537,
+      1263,
+      1190,
+      1454
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Tình trạng<br>Giới tính</th><th>Có việc làm</th><th>Thất nghiệp</th></tr></thead><tbody><tr><td>Nam</td><td>460</td><td>40</td></tr><tr><td>Nữ</td><td>140</td><td>260</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1471,
+      860,
+      1515
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một người trong nhóm này. Khi đó"
+  },
+  {
+    "bbox": [
+      156,
+      1536,
+      701,
+      1615
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để chọn được một nam là $\\frac{5}{9}$."
+  },
+  {
+    "bbox": [
+      156,
+      1642,
+      888,
+      1721
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để chọn được một người có việc làm là $\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      156,
+      1740,
+      1574,
+      1900
+    ],
+    "category": "Text",
+    "text": "c) Tại địa phương này, nếu chỉ có bằng tốt nghiệp THPT thì tỉ lệ nữ thất nghiệp sẽ cao hơn nam. Khảo sát cho thấy xác suất để một người thất nghiệp khi người đó là nữ cao gấp 7 lần xác suất để một người thất nghiệp khi người đó là nam."
+  },
+  {
+    "bbox": [
+      156,
+      1920,
+      1293,
+      2002
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng đã chọn được một người có việc làm, xác suất để người này là nữ là $\\frac{7}{30}$."
+  },
+  {
+    "bbox": [
+      807,
+      2026,
+      924,
+      2064
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2078,
+      971,
+      2201
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      107,
+      1115,
+      154
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** [MĐ2] Trong không gian tọa độ $Oxyz$, cho hai đường thẳng:"
+  },
+  {
+    "bbox": [
+      217,
+      164,
+      942,
+      251
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Delta_1 : \\frac{x-1}{2} = \\frac{y-2}{1} = \\frac{z-3}{-2} \\text{ và } \\Delta_2 : \\frac{x-4}{-1} = \\frac{y-5}{-2} = \\frac{z-6}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      257,
+      1080,
+      309
+    ],
+    "category": "Text",
+    "text": "a) Vecto có tọa độ $(1;2;3)$ là một vecto chỉ phương của $\\Delta_1$."
+  },
+  {
+    "bbox": [
+      212,
+      319,
+      1084,
+      372
+    ],
+    "category": "Text",
+    "text": "b) Vecto có tọa độ $(4;5;6)$ là một vecto chỉ phương của $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      212,
+      385,
+      1213,
+      468
+    ],
+    "category": "Text",
+    "text": "c) Côsin góc giữa hai vecto $\\vec{u}_1 = (2;1;-2)$ và $\\vec{u}_2 = (-1;-2;2)$ bằng $-\\frac{8}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      474,
+      1574,
+      573
+    ],
+    "category": "Text",
+    "text": "d) Góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$ (làm tròn kết quả đến hàng đơn vị của độ) bằng $132^\\circ$."
+  },
+  {
+    "bbox": [
+      833,
+      581,
+      953,
+      623
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      627,
+      1574,
+      827
+    ],
+    "category": "Text",
+    "text": "a) $\\Delta_1$ có vecto chỉ phương là $\\vec{u}_1 = (2;1;-2)$. Do $\\frac{2}{1} \\neq \\frac{1}{2} \\neq \\frac{-2}{3}$ nên vecto có tọa độ $(1;2;3)$ không cùng phương $\\vec{u}_1 = (2;1;-2)$. vậy vecto có tọa độ $(1;2;3)$ không là một vecto chỉ phương của $\\Delta_1$."
+  },
+  {
+    "bbox": [
+      212,
+      835,
+      370,
+      874
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      880,
+      1574,
+      1081
+    ],
+    "category": "Text",
+    "text": "b) $\\Delta_2$ có vecto chỉ phương là $\\vec{u}_2 = (-1;-2;2)$. Do $\\frac{-1}{4} \\neq \\frac{-2}{5} \\neq \\frac{2}{6}$ nên vecto có tọa độ $(4;5;6)$ không cùng phương $\\vec{u}_2 = (-1;-2;2)$. vậy vecto có tọa độ $(4;5;6)$ không là một vecto chỉ phương của $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      212,
+      1088,
+      370,
+      1127
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1127,
+      1574,
+      1326
+    ],
+    "category": "Text",
+    "text": "c) Côsin góc giữa hai vecto $\\vec{u}_1 = (2;1;-2)$ và $\\vec{u}_2 = (-1;-2;2)$ bằng\n$$ \\cos(\\vec{u}_1, \\vec{u}_2) = \\frac{\\vec{u}_1 \\cdot \\vec{u}_2}{|\\vec{u}_1| \\cdot |\\vec{u}_2|} = \\frac{2 \\cdot (-1) + 1 \\cdot (-2) + (-2) \\cdot 2}{\\sqrt{2^2 + 1^2 + (-2)^2} \\cdot \\sqrt{(-1)^2 + (-2)^2 + 2^2}} = \\frac{-8}{9} $$"
+  },
+  {
+    "bbox": [
+      212,
+      1330,
+      419,
+      1374
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      1378,
+      882,
+      1427
+    ],
+    "category": "Text",
+    "text": "d) Góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$ bằng:"
+  },
+  {
+    "bbox": [
+      217,
+      1431,
+      1306,
+      1576
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos(\\Delta_1, \\Delta_2) = |\\cos(\\vec{u}_1, \\vec{u}_2)| = \\frac{|\\vec{u}_1 \\cdot \\vec{u}_2|}{|\\vec{u}_1| \\cdot |\\vec{u}_2|} = \\frac{|2 \\cdot (-1) + 1 \\cdot (-2) + (-2) \\cdot 2|}{\\sqrt{2^2 + 1^2 + (-2)^2} \\cdot \\sqrt{(-1)^2 + (-2)^2 + 2^2}} = \\frac{8}{9}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1586,
+      1192,
+      1636
+    ],
+    "category": "Text",
+    "text": "Do đó góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$ gần bằng: $27^\\circ 15' 57,76''$."
+  },
+  {
+    "bbox": [
+      212,
+      1643,
+      370,
+      1682
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      1690,
+      736,
+      1736
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** [MĐ2] Cho hàm số $y = x^3 - 3x^2 + 2$."
+  },
+  {
+    "bbox": [
+      212,
+      1746,
+      908,
+      1794
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số đã cho là: $y' = 3x^2 - 6x$."
+  },
+  {
+    "bbox": [
+      212,
+      1802,
+      1574,
+      1918
+    ],
+    "category": "Text",
+    "text": "b) Hàm số đã cho đồng biến trên khoảng $(0;2)$, nghịch biến trên các khoảng $(-\\infty;0) \\cup (2;+\\infty)$."
+  },
+  {
+    "bbox": [
+      212,
+      1926,
+      806,
+      1971
+    ],
+    "category": "Text",
+    "text": "c) Bảng biến thiên của hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

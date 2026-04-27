@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      95,
+      878,
+      146
+    ],
+    "category": "Text",
+    "text": "Gọi số lần nhà hàng giảm giá là $x$ lần. $(x \\in \\mathbb{N}, x \\le 20)$"
+  },
+  {
+    "bbox": [
+      155,
+      165,
+      1574,
+      272
+    ],
+    "category": "Text",
+    "text": "Vì mỗi lần giảm, mỗi suất giảm đi 10 ngàn và bán thêm được 10 suất nên sau $x$ lần giảm giá, số tiền mỗi suất là $200-10x$ (ngàn đồng) và số suất bán được là $100+10x$ (suất)"
+  },
+  {
+    "bbox": [
+      155,
+      291,
+      1275,
+      341
+    ],
+    "category": "Text",
+    "text": "Doanh thu trong ngày là $f(x) = (200-10x)(100+10x) = -100x^2+1000x+20000$."
+  },
+  {
+    "bbox": [
+      155,
+      366,
+      911,
+      415
+    ],
+    "category": "Text",
+    "text": "Xét hàm $f(x) = -100x^2+1000x+20000$ với $0 \\le x \\le 20$"
+  },
+  {
+    "bbox": [
+      162,
+      442,
+      621,
+      489
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = -200x+1000 = 0 \\Leftrightarrow x = 5\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      517,
+      708,
+      565
+    ],
+    "category": "Formula",
+    "text": "$$\nf(0) = 20000; f(20) = 0; f(5) = 22500.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      584,
+      1383,
+      689
+    ],
+    "category": "Text",
+    "text": "Vậy ta thấy doanh thu lớn nhất sẽ đạt được là 22 triệu 500 ngàn đồng với số tiền mỗi suất là $200-10 \\cdot 5 = 150$ (ngàn đồng)"
+  },
+  {
+    "bbox": [
+      155,
+      702,
+      1574,
+      922
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cửa hàng thời trang Việt Tiến muốn kinh doanh thêm 2 loại áo thun mẫu mới trong迎对 tết này với số vốn đầu tư không quá 72 triệu đồng. Loại dài tay giá mua vào 800.000 đồng và lãi 150.000 đồng 1 áo, loại ngắn tay giá mua vào 600.000 đồng và lãi 120.000 đồng 1 áo. Cửa hàng ước tính nhu cầu của khách không quá 100 cái cho cả 2 loại. Cửa hàng kinh doanh thu lãi lớn nhất được bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      155,
+      938,
+      493,
+      976
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      997,
+      924,
+      1036
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1054,
+      342,
+      1094
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 13,8"
+  },
+  {
+    "bbox": [
+      155,
+      1113,
+      1473,
+      1159
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ (cái) lần lượt là số áo dài tay và ngắn tay mà cửa hàng nên mua để kinh doanh có lãi nhất."
+  },
+  {
+    "bbox": [
+      155,
+      1179,
+      576,
+      1224
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $x \\ge 0, y \\ge 0, x, y \\in \\mathbb{N}$"
+  },
+  {
+    "bbox": [
+      155,
+      1245,
+      1018,
+      1444
+    ],
+    "category": "Text",
+    "text": "Theo yêu cầu bài toán, ta có hệ bất phương trình\n$$ \\begin{cases} x \\ge 0 \\\\ y \\ge 0 \\\\ x + y \\le 100 \\\\ 8x+6y \\le 720 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      155,
+      1463,
+      1441,
+      1573
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm $x, y$ để biểu thức $F = 150.000x+120.000y$ đạt GTLN trên miền nghiệm của hệ trên\nBiểu diễn miền nghiệm của hệ bất phương trình trên"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

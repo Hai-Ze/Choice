@@ -1,0 +1,371 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1495,
+      265
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình phẳng $D$ giới hạn bởi đường cong $y = \\sqrt{2+\\sin x}$, trục hoành và các đường thẳng $x=0, x=\\pi$. Khối tròn xoay tạo thành khi quay $D$ quay quanh trục hoành có thể tích $V$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      126,
+      288,
+      363,
+      335
+    ],
+    "category": "List-item",
+    "text": "A. $V = 2\\pi(\\pi+1)$"
+  },
+  {
+    "bbox": [
+      475,
+      291,
+      616,
+      328
+    ],
+    "category": "List-item",
+    "text": "B. $V = 2\\pi$"
+  },
+  {
+    "bbox": [
+      826,
+      288,
+      1040,
+      335
+    ],
+    "category": "List-item",
+    "text": "C. $V = 2(\\pi+1)$"
+  },
+  {
+    "bbox": [
+      1175,
+      288,
+      1331,
+      328
+    ],
+    "category": "List-item",
+    "text": "D. $V = 2\\pi^2$"
+  },
+  {
+    "bbox": [
+      727,
+      362,
+      843,
+      401
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      421,
+      199,
+      459
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      75,
+      479,
+      1134,
+      575
+    ],
+    "category": "Text",
+    "text": "Ta có: $V = \\pi \\int_{0}^{\\pi} (\\sqrt{2+\\sin x})^2 dx = \\pi \\int_{0}^{\\pi} (2+\\sin x) dx = \\pi (2x - \\cos x) \\Big|_{0}^{\\pi} = 2\\pi(\\pi+1)$."
+  },
+  {
+    "bbox": [
+      75,
+      598,
+      884,
+      639
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian, cho hình套合 $ABCD.A'B'C'D'$."
+  },
+  {
+    "bbox": [
+      551,
+      675,
+      987,
+      1016
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1072,
+      440,
+      1116
+    ],
+    "category": "Text",
+    "text": "Mệnh đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      126,
+      1135,
+      473,
+      1179
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{CA'} = \\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{CC'}$."
+  },
+  {
+    "bbox": [
+      826,
+      1135,
+      1172,
+      1179
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$."
+  },
+  {
+    "bbox": [
+      126,
+      1202,
+      465,
+      1246
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{BD} = \\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'}$."
+  },
+  {
+    "bbox": [
+      826,
+      1202,
+      1125,
+      1246
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{C'A'} = \\overrightarrow{C'B'} + \\overrightarrow{C'D'}$."
+  },
+  {
+    "bbox": [
+      723,
+      1269,
+      849,
+      1308
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1327,
+      199,
+      1365
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      75,
+      1384,
+      699,
+      1432
+    ],
+    "category": "Text",
+    "text": "Theo quy tắc hình套合: $\\overrightarrow{BA} + \\overrightarrow{BC} + \\overrightarrow{BB'} = \\overrightarrow{BD'}$."
+  },
+  {
+    "bbox": [
+      75,
+      1451,
+      1495,
+      1575
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, cho mặt phẳng $(P): 2x+3y+z-1=0$. Một vecto pháp tuyến của mặt phẳng $(P)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      126,
+      1604,
+      281,
+      1649
+    ],
+    "category": "List-item",
+    "text": "A. $(2;3;1)$."
+  },
+  {
+    "bbox": [
+      475,
+      1604,
+      645,
+      1649
+    ],
+    "category": "List-item",
+    "text": "B. $(1;-2;3)$."
+  },
+  {
+    "bbox": [
+      826,
+      1604,
+      977,
+      1649
+    ],
+    "category": "List-item",
+    "text": "C. $(1;2;3)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1604,
+      1346,
+      1649
+    ],
+    "category": "List-item",
+    "text": "D. $(1;-3;2)$."
+  },
+  {
+    "bbox": [
+      727,
+      1676,
+      843,
+      1715
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1736,
+      199,
+      1774
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      75,
+      1793,
+      857,
+      1844
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P)$ có một vecto pháp tuyến là $\\vec{n}_{(P)} = (2;3;1)$."
+  },
+  {
+    "bbox": [
+      75,
+      1871,
+      1495,
+      1985
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ tọa độ $Oxyz$, cho hai điểm $M(1;0;-1)$ và điểm $N(3;2;-9)$. Đường thẳng $MN$ có phương trình là"
+  },
+  {
+    "bbox": [
+      126,
+      2008,
+      404,
+      2086
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x+1}{1} = \\frac{y}{1} = \\frac{z-1}{-4}$."
+  },
+  {
+    "bbox": [
+      475,
+      2008,
+      751,
+      2086
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x+1}{1} = \\frac{y}{1} = \\frac{z+1}{4}$."
+  },
+  {
+    "bbox": [
+      826,
+      2008,
+      1100,
+      2086
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x+1}{1} = \\frac{y}{1} = \\frac{z-1}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      2008,
+      1440,
+      2086
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x-1}{1} = \\frac{y}{1} = \\frac{z+1}{-4}$."
+  },
+  {
+    "bbox": [
+      727,
+      2110,
+      843,
+      2148
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      2169,
+      199,
+      2207
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

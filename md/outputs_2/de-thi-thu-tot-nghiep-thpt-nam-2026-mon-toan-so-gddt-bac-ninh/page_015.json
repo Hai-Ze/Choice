@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      142,
+      74,
+      1471,
+      114
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thời gian tập luyện trong một ngày(tính theo giờ) của 39 vận động viên được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      318,
+      126,
+      1361,
+      261
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian luyện tập (giờ)</td><td>[0;2)</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10)</td></tr><tr><td>Số vận động viên</td><td>3</td><td>8</td><td>12</td><td>12</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      259,
+      697,
+      301
+    ],
+    "category": "Text",
+    "text": "a) Bảng tần số ghép lớp trên có 5 nhóm."
+  },
+  {
+    "bbox": [
+      180,
+      316,
+      709,
+      370
+    ],
+    "category": "Text",
+    "text": "b) Giá trị đại diện của nhóm $[6;8)$ là 6,5."
+  },
+  {
+    "bbox": [
+      180,
+      388,
+      1207,
+      432
+    ],
+    "category": "Text",
+    "text": "c) Tứ phân vị thứ ba của mẫu số liệu trên (làm tròn đến hàng phần trăm) là 7,04."
+  },
+  {
+    "bbox": [
+      180,
+      451,
+      1193,
+      494
+    ],
+    "category": "Text",
+    "text": "d) Giá trị trung bình của mẫu số liệu trên(làm tròn đến hàng phần trăm) là 5,31."
+  },
+  {
+    "bbox": [
+      142,
+      516,
+      1559,
+      733
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một quần thể vi kurẩn ban đầu có 1000 con. Gọi $P(t)$ là số lượng vi kurẩn của quần thể đó tại thời điểm $t$, trong đó $t$ tính theo giờ ($t \\ge 0$). Tốc độ tăng trưởng vi kurẩn của quần thể này tại thời điểm $t$ được cho bởi hàm số $P'(t) = kt$, trong đó $k$ là một hằng số. Biết rằng sau 2 giờ, số lượng vi kurẩn của quần thể tăng lên thành 1400 vi kurẩn."
+  },
+  {
+    "bbox": [
+      180,
+      733,
+      1262,
+      786
+    ],
+    "category": "Text",
+    "text": "a) Số lượng vi kurẩn $P(t)$ là một nguyên hàm của hàm số tốc độ tăng trưởng $P'(t)$."
+  },
+  {
+    "bbox": [
+      180,
+      794,
+      970,
+      845
+    ],
+    "category": "Text",
+    "text": "b) Số lượng vi kurẩn tại thời điểm $t$ là $P(t) = 200t^2 + 1000$."
+  },
+  {
+    "bbox": [
+      180,
+      845,
+      1165,
+      888
+    ],
+    "category": "Text",
+    "text": "c) Sau 5 giờ, số lượng vi kurẩn tăng thêm 2500 con so với thời điểm ban đầu."
+  },
+  {
+    "bbox": [
+      180,
+      884,
+      851,
+      925
+    ],
+    "category": "Text",
+    "text": "d) Sau 9 giờ số lượng vi kurẩn vượt quá 10000 con."
+  },
+  {
+    "bbox": [
+      146,
+      921,
+      759,
+      959
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      142,
+      975,
+      1559,
+      1274
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho một bể chứa nước có hình dạng là một lăng trục đứng $AEFB.DHGC$. Мặt đáy của lăng trụ là hình thang vuông $AEFB$ (vuông tại $A$ và $E$). Biết rằng chiều dài của bể $AD = 12 \\text{ m}$, chiều rộng của mặt bể $AB = 6 \\text{ m}$, chiều rộng của đáy bể $EF = 3 \\text{ m}$ và chiều cao của bể $AE = 4 \\text{ m}$. Bể được bơm nước vào với lưu lượng không đổi $P = 4 \\text{ m}^3/\\text{giờ}$. Giả sử mặt nước $(IKJL)$ luôn song song với mặt đáy $(HGFE)$ của bể (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      550,
+      1299,
+      1150,
+      1666
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      1692,
+      1524,
+      1792
+    ],
+    "category": "Text",
+    "text": "Tính tốc độ tăng chiều cao của mực nước tại thời điểm $t = 18$ giờ (đơn vị tính theo mét trên giờ, kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      142,
+      1800,
+      1559,
+      2072
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử nhu cầu tiêu pun một loại sản phẩm mới của doanh nghiệp $A$ được mô hình hoá bởi hàm số $p = \\frac{1500}{\\sqrt{x}}$, trong đó $p$ là đơn giá (tính bằng nghìn đồng) và $x$ là số lượng đơn vị sản phẩm. Chi phí (tính bằng nghìn đồng) để sản xuất $x$ đơn vị sản phẩm được cho bởi hàm số $C = 12x + 500$. Tìm mức giá (tính bằng nghìn đồng) để mang lại lợi nhuận tối đa."
+  },
+  {
+    "bbox": [
+      142,
+      2097,
+      296,
+      2134
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0104"
+  },
+  {
+    "bbox": [
+      1396,
+      2102,
+      1522,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

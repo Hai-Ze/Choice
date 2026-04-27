@@ -1,0 +1,209 @@
+[
+  {
+    "bbox": [
+      154,
+      137,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      135,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      488,
+      217,
+      1208,
+      961
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1006,
+      1153,
+      1049
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, tại thời điểm $t = 0$, nồng độ thuốc là $C_0 = 15$ mg/lít."
+  },
+  {
+    "bbox": [
+      202,
+      1068,
+      1234,
+      1110
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 4$ giờ, nồng độ thuốc là 10 mg/lít, ta có phương trình:"
+  },
+  {
+    "bbox": [
+      587,
+      1118,
+      1112,
+      1197
+    ],
+    "category": "Formula",
+    "text": "$$\n15 \\cdot e^{-4r} = 10 \\Leftrightarrow e^{-4r} = \\frac{10}{15} = \\frac{2}{3} \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1197,
+      786,
+      1239
+    ],
+    "category": "Text",
+    "text": "Lấy logarit tự nhiên hai vế của (1), ta được:"
+  },
+  {
+    "bbox": [
+      530,
+      1247,
+      1166,
+      1328
+    ],
+    "category": "Formula",
+    "text": "$$\n-4r = \\ln\\left(\\frac{2}{3}\\right) \\Rightarrow r = -\\frac{1}{4} \\ln\\left(\\frac{2}{3}\\right) \\approx 0,101366\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1336,
+      1175,
+      1378
+    ],
+    "category": "Text",
+    "text": "Để đạt hiệu quả điều trị, bác sĩ tiêm liều mới khi nồng độ còn 6 mg/lít."
+  },
+  {
+    "bbox": [
+      202,
+      1396,
+      1259,
+      1438
+    ],
+    "category": "Text",
+    "text": "Gọi $T$ là khoảng thời gian từ lúc tiêm đến lúc nồng độ còn đúng 6 mg/lít:"
+  },
+  {
+    "bbox": [
+      530,
+      1446,
+      1164,
+      1525
+    ],
+    "category": "Formula",
+    "text": "$$\nC(T) = 15 \\cdot e^{-rT} = 6 \\Leftrightarrow e^{-rT} = \\frac{6}{15} = \\frac{2}{5} \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1525,
+      786,
+      1567
+    ],
+    "category": "Text",
+    "text": "Lấy logarit tự nhiên hai vế của (2), ta được:"
+  },
+  {
+    "bbox": [
+      631,
+      1575,
+      1067,
+      1656
+    ],
+    "category": "Formula",
+    "text": "$$\n-rT = \\ln\\left(\\frac{2}{5}\\right) \\Rightarrow T = \\frac{\\ln(2/5)}{-r}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1666,
+      504,
+      1706
+    ],
+    "category": "Text",
+    "text": "Thay giá trị $r$ vào ta có:"
+  },
+  {
+    "bbox": [
+      424,
+      1712,
+      1274,
+      1804
+    ],
+    "category": "Formula",
+    "text": "$$\nT = \\frac{\\ln(0,4)}{-\\frac{1}{4} \\ln(2/3)} = 4 \\cdot \\frac{\\ln(0,4)}{\\ln(2/3)} \\approx 4 \\cdot \\frac{-0,91629}{-0,40546} \\approx 9,039 \\text{ (giờ)}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1808,
+      815,
+      1850
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng đơn vị, ta được $T \\approx 9$ giờ."
+  },
+  {
+    "bbox": [
+      154,
+      1868,
+      1546,
+      1955
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng thời gian nhiều nhất giữa hai lần tiêm thuốc để đảm bảo nồng độ không xuống dưới 6 mg/lít là 9 giờ."
+  },
+  {
+    "bbox": [
+      154,
+      1973,
+      1546,
+      2133
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hình chóp tức giác đều $S.ABCD$ có đáy là hình vuông cạnh $\\sqrt{3}$, khoảng cách từ điểm $C$ đến mặt phẳng ($SAB$) bằng $\\frac{\\sqrt{6}}{2}$. Thể tích của khối chóp $S.ABCD$ bằng bao nhiêu (làm tròn kết quả đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      154,
+      2255,
+      173,
+      2287
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "173"
+  }
+]

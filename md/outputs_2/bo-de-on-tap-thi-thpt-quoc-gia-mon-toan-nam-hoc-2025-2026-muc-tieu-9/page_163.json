@@ -1,0 +1,362 @@
+[
+  {
+    "bbox": [
+      298,
+      138,
+      573,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      375,
+      182,
+      506,
+      221
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 9"
+  },
+  {
+    "bbox": [
+      294,
+      228,
+      586,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề gồm có 4 trang)"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      184,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      226,
+      1529,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      536,
+      1033,
+      576
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 1. Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      395,
+      583,
+      1304,
+      945
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr><tr><td>$f(x)$</td><td>$-\\infty$</td><td>$2$</td><td>$-2$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      203,
+      981,
+      981,
+      1022
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      192,
+      1042,
+      355,
+      1084
+    ],
+    "category": "List-item",
+    "text": "A) $(-2; 2)$."
+  },
+  {
+    "bbox": [
+      535,
+      1042,
+      699,
+      1084
+    ],
+    "category": "List-item",
+    "text": "B) $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      879,
+      1042,
+      1042,
+      1084
+    ],
+    "category": "List-item",
+    "text": "C) $(-2; 1)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1042,
+      1428,
+      1084
+    ],
+    "category": "List-item",
+    "text": "D) $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      155,
+      1100,
+      1547,
+      1203
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào bảng biến thiên, ta thấy trên khoảng $(-1; 1)$ thì $f'(x) < 0$ (hoặc mũi tên đi xuống). vậy hàm số nghịch biến trên khoảng $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      155,
+      1222,
+      1499,
+      1263
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 2. Cho cấp số nhân $(u_n)$ với $u_1 = 6$ và $u_2 = -12$. Công bội $q$ của cấp số nhân đã cho là"
+  },
+  {
+    "bbox": [
+      192,
+      1276,
+      365,
+      1353
+    ],
+    "category": "List-item",
+    "text": "A) $q = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      535,
+      1294,
+      702,
+      1334
+    ],
+    "category": "List-item",
+    "text": "B) $q = -2$."
+  },
+  {
+    "bbox": [
+      879,
+      1294,
+      1064,
+      1334
+    ],
+    "category": "List-item",
+    "text": "C) $q = -18$."
+  },
+  {
+    "bbox": [
+      1224,
+      1294,
+      1387,
+      1334
+    ],
+    "category": "List-item",
+    "text": "D) $q = -6$."
+  },
+  {
+    "bbox": [
+      155,
+      1362,
+      1511,
+      1442
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Công bội của cấp số nhân được tính theo công thức: $q = \\frac{u_2}{u_1} = \\frac{-12}{6} = -2$."
+  },
+  {
+    "bbox": [
+      155,
+      1453,
+      1547,
+      1541
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 3. Trong không gian $Oxyz$, cho hai điểm $A(1; 1; -2)$ và $B(3; -1; 2)$. Tọa độ của vectơ $\\overrightarrow{BA}$ là"
+  },
+  {
+    "bbox": [
+      192,
+      1565,
+      385,
+      1607
+    ],
+    "category": "List-item",
+    "text": "A) $(2; -2; 4)$."
+  },
+  {
+    "bbox": [
+      535,
+      1565,
+      702,
+      1607
+    ],
+    "category": "List-item",
+    "text": "B) $(2; 0; 0)$."
+  },
+  {
+    "bbox": [
+      879,
+      1565,
+      1074,
+      1607
+    ],
+    "category": "List-item",
+    "text": "C) $(1; -1; 2)$."
+  },
+  {
+    "bbox": [
+      1224,
+      1565,
+      1443,
+      1607
+    ],
+    "category": "List-item",
+    "text": "D) $(-2; 2; -4)$."
+  },
+  {
+    "bbox": [
+      155,
+      1618,
+      1547,
+      1720
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{BA} = (x_A - x_B; y_A - y_B; z_A - z_B) = (1 - 3; 1 - (-1); -2 - 2) = (-2; 2; -4)$."
+  },
+  {
+    "bbox": [
+      155,
+      1738,
+      1547,
+      1826
+    ],
+    "category": "Text",
+    "text": "Đ. Câu 4. Tính thể tích vật thể tròn xoay khi quay hình phẳng giới hạn bởi các đường cong $y = \\sqrt{e^x - x}$, $y = 0$, $x = 1$, $x = 2$ xung quanh trục $Ox$ là:"
+  },
+  {
+    "bbox": [
+      192,
+      1838,
+      471,
+      1916
+    ],
+    "category": "List-item",
+    "text": "A) $\\pi \\left(e^2 - e - \\frac{3}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      879,
+      1838,
+      1085,
+      1916
+    ],
+    "category": "List-item",
+    "text": "B) $e^2 - e - \\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      1916,
+      471,
+      1994
+    ],
+    "category": "List-item",
+    "text": "C) $\\pi \\left(e^2 - e - \\frac{5}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      879,
+      1916,
+      1085,
+      1994
+    ],
+    "category": "List-item",
+    "text": "D) $e^2 - e - \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      1999,
+      1222,
+      2060
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Thể tích vật thể tròn xoay được tính theo công thức:"
+  },
+  {
+    "bbox": [
+      203,
+      2057,
+      1059,
+      2146
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{1}^{2} [f(x)]^2 dx = \\pi \\int_{1}^{2} (\\sqrt{e^x - x})^2 dx = \\pi \\int_{1}^{2} (e^x - x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "163"
+  }
+]

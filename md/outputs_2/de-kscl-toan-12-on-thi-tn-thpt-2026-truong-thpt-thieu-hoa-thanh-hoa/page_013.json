@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      628,
+      106,
+      1139,
+      546
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      551,
+      747,
+      594
+    ],
+    "category": "Text",
+    "text": "Xét tính **đúng-sai** của các мыnh đề sau:"
+  },
+  {
+    "bbox": [
+      214,
+      594,
+      967,
+      640
+    ],
+    "category": "Text",
+    "text": "a) [NB] Kim tự tháp có hình dạng là một hình chóp đều."
+  },
+  {
+    "bbox": [
+      214,
+      643,
+      892,
+      694
+    ],
+    "category": "Text",
+    "text": "b) [TH] Chiều cao của kim tự tháp là $\\sqrt{18579}$ (m)."
+  },
+  {
+    "bbox": [
+      214,
+      702,
+      1495,
+      749
+    ],
+    "category": "Text",
+    "text": "c) [TH] Phần không gian mà kim tự tháp chiếm chỗ là $3118752 \\, m^3$ (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      214,
+      753,
+      1537,
+      845
+    ],
+    "category": "Text",
+    "text": "d) [VD] Chiều dài nhỏ nhất của lỗ khoan mà các nhà khảo cổ muốn tạo bằng 90 mét (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      837,
+      851,
+      951,
+      888
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      894,
+      924,
+      932
+    ],
+    "category": "Text",
+    "text": "Mô hình hoá bài toán ta được hình vẽ minh hoạ sau :"
+  },
+  {
+    "bbox": [
+      384,
+      939,
+      1404,
+      1425
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      214,
+      1427,
+      1566,
+      1517
+    ],
+    "category": "Text",
+    "text": "a) Hình chóp $S.ABCD$ có đáy là đa giác đều (hình vuông), có các cạnh bên bằng nhau, suy ra kim tự tháp có hình dạng là một hình chóp đều là мыnh đề **đúng**."
+  },
+  {
+    "bbox": [
+      214,
+      1521,
+      306,
+      1559
+    ],
+    "category": "Text",
+    "text": "b) **Sai.**"
+  },
+  {
+    "bbox": [
+      214,
+      1565,
+      1302,
+      1709
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Xét } \\triangle ABC \\text{ vuông tại } B, \\text{ ta có: } AC &= \\sqrt{AB^2 + BC^2} = \\sqrt{262^2 + 262^2} = 262\\sqrt{2} \\text{ (m)} \\\\\n\\Rightarrow HC &= \\frac{AC}{2} = 131\\sqrt{2} \\text{ (m)}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1717,
+      1371,
+      1776
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } \\triangle SHC \\text{ vuông tại } H, \\text{ ta có: } SH = \\sqrt{SC^2 - HC^2} = \\sqrt{230^2 - (131\\sqrt{2})^2} = \\sqrt{18578} \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1786,
+      1256,
+      1839
+    ],
+    "category": "Text",
+    "text": "Vậy chiều cao của kim tự tháp là khoảng $\\sqrt{18578}$ mét. Suy ra мыnh đề b) **sai**."
+  },
+  {
+    "bbox": [
+      214,
+      1846,
+      338,
+      1885
+    ],
+    "category": "Text",
+    "text": "c) **Đúng.**"
+  },
+  {
+    "bbox": [
+      214,
+      1885,
+      1558,
+      1976
+    ],
+    "category": "Text",
+    "text": "Phần kim tự tháp chiếm chỗ trong không gian là phần thể tích của kim tự tháp bằng thể tích của khối chóp $S.ABCD$"
+  },
+  {
+    "bbox": [
+      214,
+      1983,
+      1208,
+      2065
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có : } V_{S.ABCD} = \\frac{1}{3} \\cdot SH \\cdot S_{ABCD} = \\frac{1}{3} \\cdot \\sqrt{18578} \\cdot 262^2 \\approx 3118751,754 \\approx 3118752.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      2075,
+      340,
+      2114
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.**"
+  },
+  {
+    "bbox": [
+      214,
+      2114,
+      1572,
+      2205
+    ],
+    "category": "Text",
+    "text": "Để mũi khoan có chiều dài ngắn nhất, các nhà khảo cổ phải khoan từ mặt bên vào vị trí cạnh của khối lập phương (căn phòng)."
+  }
+]

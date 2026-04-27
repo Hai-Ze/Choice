@@ -1,0 +1,341 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      199,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      929,
+      252
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng đã cho được tính bởi công thức $S = \\int_{0}^{2} 3^{x} dx$"
+  },
+  {
+    "bbox": [
+      76,
+      272,
+      1061,
+      318
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian, cho tức diện đều $ABCD$ có các cạnh bằng $a$."
+  },
+  {
+    "bbox": [
+      630,
+      349,
+      932,
+      641
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      678,
+      525,
+      725
+    ],
+    "category": "Text",
+    "text": "Tính tích vô hướng $\\overline{AB}.\\overline{CD}$ bằng"
+  },
+  {
+    "bbox": [
+      126,
+      748,
+      206,
+      785
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      476,
+      748,
+      580,
+      785
+    ],
+    "category": "List-item",
+    "text": "B. $4a^2$."
+  },
+  {
+    "bbox": [
+      826,
+      748,
+      930,
+      785
+    ],
+    "category": "List-item",
+    "text": "C. $2a^2$."
+  },
+  {
+    "bbox": [
+      1175,
+      748,
+      1268,
+      785
+    ],
+    "category": "List-item",
+    "text": "D. $a^2$."
+  },
+  {
+    "bbox": [
+      723,
+      809,
+      850,
+      847
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      866,
+      199,
+      903
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      82,
+      982,
+      1041,
+      1040
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{AB}.\\overline{CD} = (\\overline{CB} - \\overline{CA})\\overline{CD} = \\overline{CB}.\\overline{CD} - \\overline{CA}.\\overline{CD} = a.a.\\cos60^{\\circ} - a.a.\\cos60^{\\circ} = 0\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1071,
+      1495,
+      1191
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, cho mặt phẳng $(P)$ có phương trình $2x - y + z - 4 = 0$. Phương trình mặt phẳng $(Q)$ song song với $(P)$ và đi qua điểm $M(1; -1; 3)$ là"
+  },
+  {
+    "bbox": [
+      126,
+      1214,
+      412,
+      1253
+    ],
+    "category": "List-item",
+    "text": "A. $2x - y + z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      476,
+      1214,
+      774,
+      1253
+    ],
+    "category": "List-item",
+    "text": "B. $2x + 3y - z + 4 = 0$."
+  },
+  {
+    "bbox": [
+      826,
+      1214,
+      1110,
+      1253
+    ],
+    "category": "List-item",
+    "text": "C. $2x - y + z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      1175,
+      1214,
+      1457,
+      1253
+    ],
+    "category": "List-item",
+    "text": "D. $x - y + 3z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      727,
+      1279,
+      843,
+      1317
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1338,
+      199,
+      1376
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1395,
+      756,
+      1448
+    ],
+    "category": "Text",
+    "text": "Vì $(Q)$ song song với $(P)$ nên $\\vec{n}_Q = \\vec{n}_P = (2; -1; 1)$"
+  },
+  {
+    "bbox": [
+      76,
+      1472,
+      1266,
+      1522
+    ],
+    "category": "Text",
+    "text": "Mặt khác, $(Q)$ đi qua điểm $M(1; -1; 3)$ nên phương trình của $(Q)$ là: $2x - y + z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1549,
+      1495,
+      1761
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $d$: $$ \\begin{cases} x = 6 - 3t \\\\ y = 2 \\\\ z = -2 + t \\end{cases} $$. Trong các vecto sau, vecto nào là vecto chỉ phương của đường thẳng $d$?"
+  },
+  {
+    "bbox": [
+      126,
+      1782,
+      358,
+      1827
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u} = (6; 2; -2)$."
+  },
+  {
+    "bbox": [
+      476,
+      1782,
+      698,
+      1827
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{v} = (-3; 2; 1)$."
+  },
+  {
+    "bbox": [
+      826,
+      1782,
+      1052,
+      1827
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{p} = (-3; 0; 1)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1782,
+      1379,
+      1827
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{w} = (3; 0; 1)$."
+  },
+  {
+    "bbox": [
+      727,
+      1855,
+      843,
+      1893
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1914,
+      199,
+      1952
+    ],
+    "category": "Section-header",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      1971,
+      893,
+      2018
+    ],
+    "category": "Text",
+    "text": "Vecto $\\vec{p} = (-3; 0; 1)$ là vecto chỉ phương của đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      76,
+      2047,
+      1495,
+      2234
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Mặt phẳng $(P)$ qua $BD$ và song song với $SA$. Khi đó mặt phẳng $(P)$ cắt các mặt của hình chóp $S.ABCD$ tạo thành đa giác, hỏi đa giác đó là hình gì?"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2257,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

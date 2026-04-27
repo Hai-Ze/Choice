@@ -1,0 +1,227 @@
+[
+  {
+    "bbox": [
+      94,
+      40,
+      129,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1261,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      116,
+      1199,
+      405
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hàm số $f(x) = \\begin{cases} x^2 + x + a & \\text{khi } x \\ge 0 \\\\ 2 + bx & \\text{khi } x < 0 \\end{cases}$ có đạo hàm trên $\\mathbb{R}$ (với $a, b$ là các tham số thực). Nếu $\\int_{-1}^{1} f(x) \\, dx = \\frac{m}{n}$ (tối简) với $m, n \\in \\mathbb{Z}^+$ thì $m + 2n$ bằng\n\n(A) 19. (B) 21. (C) 20. (D) 23."
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1505,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      420,
+      824,
+      474
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      482,
+      196,
+      519
+    ],
+    "category": "Section-header",
+    "text": "CÂU 1."
+  },
+  {
+    "bbox": [
+      94,
+      523,
+      742,
+      940
+    ],
+    "category": "Text",
+    "text": "Một nhà máy sản xuất thuốc nhuộm hoạt động tại khu vực gần một dòng水流 lớn. Trong quá trình sản xuất, nhà máy này thải ra một lượng chất ô nhiễm đáng kể vào môi trường, gây ảnh hưởng nghiêm trọng đến chất lượng nước và sức khỏe cộng đồng. Để cải thiện tình hình và tuân thủ các quy định về bảo vệ môi trường, nhà máy đã quyết định đầu tư vào một hệ thống xử lý nước thải hiện đại. Chi phí để loại bỏ $x\\%$ chất ô nhiễm từ nguồn nước thải được mô hình hóa bởi hàm số phân thức sau:"
+  },
+  {
+    "bbox": [
+      774,
+      535,
+      1183,
+      949
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      111,
+      963,
+      720,
+      1047
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = \\frac{2x + 1}{1 - \\frac{x}{100}} \\quad (\\text{triệu đồng}), \\quad 0 \\le x < 100.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1075,
+      889,
+      1115
+    ],
+    "category": "List-item",
+    "text": "a) Chi phí để loại bỏ 25% chất ô nhiễm là 70 triệu đồng."
+  },
+  {
+    "bbox": [
+      124,
+      1117,
+      686,
+      1156
+    ],
+    "category": "List-item",
+    "text": "b) Không thể loại bỏ 100% chất ô nhiễm."
+  },
+  {
+    "bbox": [
+      124,
+      1158,
+      1193,
+      1231
+    ],
+    "category": "List-item",
+    "text": "c) Để chi phí không quá 200 triệu đồng, nhà máy chỉ có thể xử lý tối đa 50% chất ô nhiễm."
+  },
+  {
+    "bbox": [
+      124,
+      1237,
+      1193,
+      1389
+    ],
+    "category": "List-item",
+    "text": "d) Nếu nhà máy giảm từ 20% chất ô nhiễm trở lên thì doanh thu sẽ tăng lên (nhờ vào việc nâng cao uy tín và hình ảnh thương hiệu) được biểu diễn bởi hàm $R(x) = 12x - 240$ (triệu đồng). Khi đó lợi nhuận do việc loại bỏ chất ô nhiễm có thể đạt hơn 180 triệu đồng."
+  },
+  {
+    "bbox": [
+      94,
+      1406,
+      196,
+      1443
+    ],
+    "category": "Section-header",
+    "text": "CÂU 2."
+  },
+  {
+    "bbox": [
+      94,
+      1446,
+      686,
+      1666
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $f(x) = ax^4 + bx^2 + c$ ($a, b, c \\in \\mathbb{R}, a \\neq 0$) có đồ thị như hình bên. Biết đường thẳng $d$ qua điểm $(0; 3)$ cắt đồ thị $f(x)$ tại hai điểm như hình bên. Biết rằng diện tích miền gạch sọc bằng $\\frac{109}{30}$."
+  },
+  {
+    "bbox": [
+      716,
+      1459,
+      1172,
+      1907
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      1901,
+      1193,
+      1980
+    ],
+    "category": "List-item",
+    "text": "a) Đồ thị hàm số $y = f(x)$ cắt trục hoành tại 4 điểm có hoành độ là $-\\sqrt{3}; 1; -\\sqrt{3}; 1$."
+  },
+  {
+    "bbox": [
+      124,
+      1982,
+      1193,
+      2062
+    ],
+    "category": "List-item",
+    "text": "b) Nếu đường thẳng $d$ có hệ số góc là $k$ thì phương trình đường thẳng $d$ là $y = k(x - 3)$."
+  },
+  {
+    "bbox": [
+      124,
+      2064,
+      1193,
+      2257
+    ],
+    "category": "List-item",
+    "text": "c) Giả sử phương trình đường thẳng là $y = g(x)$. Khi đó $\\int_{-\\sqrt{3}}^{0} [g(x) - f(x)] \\, dx = \\frac{109}{30}$."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1511,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 117"
+  }
+]

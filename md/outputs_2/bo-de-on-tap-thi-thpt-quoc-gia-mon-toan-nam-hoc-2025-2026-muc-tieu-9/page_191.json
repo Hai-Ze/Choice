@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      202,
+      140,
+      1126,
+      182
+    ],
+    "category": "Text",
+    "text": "Số hình chữ nhật thỏa mãn yêu cầu (không phải hình vuông) là:"
+  },
+  {
+    "bbox": [
+      535,
+      195,
+      1161,
+      242
+    ],
+    "category": "Formula",
+    "text": "$$\nC_{12}^2 \\cdot C_{12}^2 - 506 = 4356 - 506 = 3850 \\text{ (cách).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      248,
+      580,
+      288
+    ],
+    "category": "Text",
+    "text": "Vậy có tất cả 3850 cách chọn."
+  },
+  {
+    "bbox": [
+      154,
+      308,
+      1548,
+      616
+    ],
+    "category": "Text",
+    "text": "Bài 6. tại event Tri ân và trưởng thành của học sinh khối 12 của một trường THPT CPV. Kết thúc buổi event, một học sinh khối 12 đại diện cho các bạn thỏa một khinh khí cầu với khát vọng bay cao và vươn xa. Trong không gian $Oxyz$, mỗi đơn vị ứng với 1 m, giả sử khinh khí cầu đang ở vị trí có phương trình là $(S) : (x - 1)^2 + (y - 2)^2 + (z - 10)^2 = 2$. cùng thời điểm đó có ba chiếc flycam $A, B, C$ cách nhau 3 km, 4 km, 5 km và tạo thành một tam giác $ABC$ có ba cạnh tiếp xúc với mặt cầu $(S)$, biết rằng mặt phẳng $(ABC)$ song song với mặt phẳng $(P) : 2x - y + 2z - 17 = 0$ và có phương trình dạng $2x + ay + bz + c = 0$. Tổng giá trị của $T = a + b + c$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      154,
+      631,
+      198,
+      671
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      631,
+      1036,
+      695
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. mặt cầu $(S)$ có tâm $I(1; 2; 10)$, $R = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      202,
+      708,
+      1481,
+      752
+    ],
+    "category": "Text",
+    "text": "Gọi $(C)$ có bán kính $r$ là đường tròn giao tuyến giữa mặt phẳng $(ABC)$ với mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      202,
+      770,
+      887,
+      812
+    ],
+    "category": "Text",
+    "text": "Ta có đường tròn $(C)$ nội tiếp tam giác $(ABC)$."
+  },
+  {
+    "bbox": [
+      202,
+      833,
+      1375,
+      873
+    ],
+    "category": "Text",
+    "text": "Vì tam giác $ABC$ có độ dài ba cạnh 3 km, 4 km, 5 km nên tam giác $ABC$ vuông."
+  },
+  {
+    "bbox": [
+      202,
+      883,
+      921,
+      1037
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } S_{ABC} = p \\cdot r \\Rightarrow r = \\frac{S_{ABC}}{p} = \\frac{\\frac{1}{2} \\cdot 3 \\cdot 4}{\\frac{3 + 4 + 5}{2}} = 1.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1031,
+      1370,
+      1076
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ tâm mặt cầu đến mặt phẳng $(ABC)$ là $d = \\sqrt{R^2 - r^2} = \\sqrt{2 - 1} = 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1094,
+      1548,
+      1181
+    ],
+    "category": "Text",
+    "text": "Do mặt phẳng $(ABC)$ song song với $(P) : 2x - y + 2z - 17 = 0$ nên phương trình mặt phẳng $(ABC)$ có dạng $(P) : 2x - y + 2z + c = 0$ với $c \\neq -17$."
+  },
+  {
+    "bbox": [
+      202,
+      1199,
+      1352,
+      1305
+    ],
+    "category": "Formula",
+    "text": "$$\nd(I, (ABC)) = 1 \\Leftrightarrow \\frac{|2 \\cdot 1 - 2 + 2 \\cdot 10 + c|}{\\sqrt{2^2 + (-1)^2 + 2^2}} = 1 \\Leftrightarrow |20 + c| = 3 \\Leftrightarrow \\begin{cases} c = -17 \\text{ (loại)} \\\\ c = -23. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1327,
+      1425,
+      1369
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } (ABC) : 2x - y + 2z - 23 = 0 \\Rightarrow a = -1; b = 2; c = -23 \\Rightarrow T = a + b + c = -22.\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "191"
+  }
+]

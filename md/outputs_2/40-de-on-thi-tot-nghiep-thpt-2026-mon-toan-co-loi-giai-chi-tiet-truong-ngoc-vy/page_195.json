@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      101,
+      1085,
+      147
+    ],
+    "category": "Text",
+    "text": "Kẻ $HK \\perp CD$ và $HI \\perp SK$. Từ đó suy ra $CD \\perp (SHK) \\Rightarrow CD \\perp HI$."
+  },
+  {
+    "bbox": [
+      155,
+      171,
+      771,
+      224
+    ],
+    "category": "Text",
+    "text": "Suy ra $HI \\perp (SCD)$ hay $d(H, (SCD)) = HI$."
+  },
+  {
+    "bbox": [
+      155,
+      246,
+      1432,
+      339
+    ],
+    "category": "Text",
+    "text": "Nhận thấy $AB = HC = HD = 1$ và $CH \\perp HD$, nên $\\Delta HCD$ vuông cân tại $H$, suy ra $HK = \\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      359,
+      648,
+      462
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow HI = \\frac{SH \\cdot HK}{\\sqrt{SH^2 + HK^2}} = \\frac{\\sqrt{6}}{4} \\approx 0,61.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      479,
+      1576,
+      802
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Có hai chiếc套,套 $I$ có 5 quả bóng màu trắng và 7 quả bóng màu đỏ,套 $II$ có 10 quả bóng màu trắng và 15 quả bóng màu đỏ, các quả bóng có cùng kích thước và khối lượng. Lấy ngẫu nhiên hai quả bóng từ套 $I$ bỏ vào套 $II$. Sau đó, lấy ra ngẫu nhiên một quả bóng từ套 $II$. Xác suất để quả bóng được lấy ra từ套 $II$ là quả bóng được chuyển từ套 $I$ sang, biết rằng quả bóng đó có màu trắng là $\\frac{a}{b}$ (là phân số tối giản). Tính $a+b$."
+  },
+  {
+    "bbox": [
+      155,
+      822,
+      494,
+      860
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      882,
+      924,
+      921
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      939,
+      317,
+      978
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 14"
+  },
+  {
+    "bbox": [
+      155,
+      992,
+      934,
+      1038
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $A$: “Hai quả bóng lấy ra từ套 $I$ khác màu”"
+  },
+  {
+    "bbox": [
+      162,
+      1056,
+      739,
+      1102
+    ],
+    "category": "Text",
+    "text": "$B$: “Quả bóng màu trắng lấy ra từ套 $II$”"
+  },
+  {
+    "bbox": [
+      155,
+      1122,
+      967,
+      1217
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } P(A) = \\frac{5 \\cdot 7}{C_{12}^2} = \\frac{35}{66}; P(\\bar{A}) = \\frac{C_5^2}{C_{12}^2} + \\frac{C_7^2}{C_{12}^2} = \\frac{5}{33} + \\frac{7}{22} = \\frac{31}{66}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1241,
+      1146,
+      1325
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(B|A) \\cdot P(A) + P(B|\\bar{A}) \\cdot P(\\bar{A}) = \\frac{35}{66} \\cdot \\frac{11}{27} + \\frac{5}{33} \\cdot \\frac{12}{27} + \\frac{7}{22} \\cdot \\frac{10}{27} = \\frac{65}{162}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1339,
+      1573,
+      1387
+    ],
+    "category": "Text",
+    "text": "* Xác suất để quả bóng màu trắng lấy ra từ套 $II$ là quả bóng được chuyển từ套 $I$ là"
+  },
+  {
+    "bbox": [
+      162,
+      1405,
+      831,
+      1535
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(B|A) \\cdot P(A)}{P(B)} = \\frac{\\frac{1}{27} \\cdot \\frac{35}{66} + \\frac{2}{27} \\cdot \\frac{5}{33}}{P(B)} = \\frac{1}{13}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1560,
+      585,
+      1600
+    ],
+    "category": "Text",
+    "text": "Vậy: $a = 1; b = 13$ và $a+b = 14$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

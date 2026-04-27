@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      204,
+      135,
+      1072,
+      211
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{OH^2} = \\frac{1}{SO^2} + \\frac{1}{ON^2} \\Rightarrow \\frac{1}{SO^2} = \\frac{1}{OH^2} - \\frac{1}{ON^2} = \\frac{1}{\\left(\\frac{\\sqrt{6}}{4}\\right)^2} - \\frac{1}{\\left(\\frac{\\sqrt{3}}{2}\\right)^2} = \\frac{4}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      224,
+      830,
+      309
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\frac{1}{SO^2} = \\frac{4}{3} \\Leftrightarrow SO^2 = \\frac{3}{4} \\Leftrightarrow SO = \\sqrt{\\frac{3}{4}}.\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      322,
+      1089,
+      406
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy thể tích khối chóp đã cho là } V = SO = \\sqrt{\\frac{3}{4}} \\approx 0,9 \\text{ (dvtt).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      421,
+      1547,
+      507
+    ],
+    "category": "Text",
+    "text": "Bài 5. Để trang bị hệ thống làm mind map cho nhà thi đấu đa năng mới khánh thành, ban quản lý dự kiến lắp đặt một mạng lới vòi phun nước thông minh. Hệ thống sử dụng hai loại vòi:"
+  },
+  {
+    "bbox": [
+      195,
+      527,
+      1010,
+      568
+    ],
+    "category": "List-item",
+    "text": "- Vòi phun áp lực (loại X): Công suất tiêu thụ 5 lít/giờ."
+  },
+  {
+    "bbox": [
+      195,
+      586,
+      1020,
+      627
+    ],
+    "category": "List-item",
+    "text": "- Vòi phun sương (loại Y): Công suất tiêu thụ 11 lít/giờ."
+  },
+  {
+    "bbox": [
+      153,
+      646,
+      1547,
+      864
+    ],
+    "category": "Text",
+    "text": "Theo yêu cầu vận hành của máy bơm trung tâm, tổng lượng nước tiêu thụ của toàn hệ thống phải đạt đúng 3300 lít/giờ và mỗi loại đều có ít nhất 1 vòi. Để đồng bộ với các module điều khiển tự động, các vòi phun được lắp đặt theo từng cụm kỹ thuật, mỗi cụm yêu cầu đúng 8 vòi (không phân biệt loại). Một phương án lắp đặt được coi là \"tối ưu về kỹ thuật\" nếu tổng số vòi của toàn hệ thống là một số chia hết cho 8 đểophớp hoàn toàn với các cụm điều kiện."
+  },
+  {
+    "bbox": [
+      153,
+      884,
+      1547,
+      1014
+    ],
+    "category": "Text",
+    "text": "Người ta chọn ngẫu nhiên một phương án lắp đặt thỏa mãn tổng công suất tiêu thụ. Tính xác suất để phương án được chọn là phương án tối ưu về kỹ thuật (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      153,
+      1030,
+      1404,
+      1093
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $x, y$ lần lượt là số lượng vòi phun loại X và loại Y ($x, y \\in \\mathbb{N}^*$)."
+  },
+  {
+    "bbox": [
+      204,
+      1109,
+      671,
+      1149
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, ta có phương trình:"
+  },
+  {
+    "bbox": [
+      695,
+      1168,
+      1004,
+      1207
+    ],
+    "category": "Formula",
+    "text": "$$\n5x + 11y = 3300 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1234,
+      1230,
+      1274
+    ],
+    "category": "Text",
+    "text": "Vì $3300:5$ và $5x:5$ nên từ (1) suy ra $11y:5$, mà $\\gcd(11,5) = 1$ nên $y:5$."
+  },
+  {
+    "bbox": [
+      204,
+      1295,
+      1036,
+      1335
+    ],
+    "category": "Text",
+    "text": "Đặt $y = 5k$ ($k \\in \\mathbb{N}^*$). Thay vào phương trình (1), ta được:"
+  },
+  {
+    "bbox": [
+      457,
+      1352,
+      1242,
+      1392
+    ],
+    "category": "Formula",
+    "text": "$$\n5x + 11(5k) = 3300 \\Leftrightarrow x + 11k = 660 \\Leftrightarrow x = 660 - 11k\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1419,
+      960,
+      1458
+    ],
+    "category": "Text",
+    "text": "Vì $x \\ge 1 \\Rightarrow 660 - 11k \\ge 1 \\Rightarrow 11k \\le 659 \\Rightarrow k \\le 59,9$."
+  },
+  {
+    "bbox": [
+      204,
+      1479,
+      712,
+      1519
+    ],
+    "category": "Text",
+    "text": "Mà $k \\in \\mathbb{N}^*$ nên $k \\in \\{1; 2; 3; \\dots; 59\\}$."
+  },
+  {
+    "bbox": [
+      204,
+      1539,
+      1222,
+      1579
+    ],
+    "category": "Text",
+    "text": "Số lượng các phương án lắp đặt thỏa mãn tổng công suất là $n(\\Omega) = 59$."
+  },
+  {
+    "bbox": [
+      204,
+      1600,
+      1486,
+      1642
+    ],
+    "category": "Text",
+    "text": "Một phương án được coi là \"tối ưu về kỹ thuật\" khi tổng số vòi $S = x + y$ chia hết cho 8."
+  },
+  {
+    "bbox": [
+      204,
+      1663,
+      784,
+      1703
+    ],
+    "category": "Text",
+    "text": "Ta có: $S = (660 - 11k) + 5k = 660 - 6k$."
+  },
+  {
+    "bbox": [
+      204,
+      1723,
+      769,
+      1763
+    ],
+    "category": "Text",
+    "text": "Yêu cầu bài toán: $S:8 \\Leftrightarrow (660 - 6k):8$."
+  },
+  {
+    "bbox": [
+      204,
+      1784,
+      1543,
+      1825
+    ],
+    "category": "Text",
+    "text": "Ta thấy $660 = 82 \\times 8 + 4$, nên $660 \\equiv 4 \\pmod 8$. Khi đó: $4 - 6k \\equiv 0 \\pmod 8 \\Leftrightarrow 6k \\equiv 4 \\pmod 8$."
+  },
+  {
+    "bbox": [
+      204,
+      1846,
+      1081,
+      1886
+    ],
+    "category": "Text",
+    "text": "Xét các giá trị của $k \\pmod 4$ (vì 6 và 8 cùng chia hết cho 2):"
+  },
+  {
+    "bbox": [
+      204,
+      1905,
+      1094,
+      1946
+    ],
+    "category": "List-item",
+    "text": "- Nếu $k = 4m + 1 \\Rightarrow 6(4m + 1) = 24m + 6 \\equiv 6 \\pmod 8$ (loại)."
+  },
+  {
+    "bbox": [
+      204,
+      1967,
+      1195,
+      2007
+    ],
+    "category": "List-item",
+    "text": "- Nếu $k = 4m + 2 \\Rightarrow 6(4m + 2) = 24m + 12 \\equiv 4 \\pmod 8$ (thỏa mãn)."
+  },
+  {
+    "bbox": [
+      204,
+      2028,
+      1114,
+      2069
+    ],
+    "category": "List-item",
+    "text": "- Nếu $k = 4m + 3 \\Rightarrow 6(4m + 3) = 24m + 18 \\equiv 2 \\pmod 8$ (loại)."
+  },
+  {
+    "bbox": [
+      204,
+      2090,
+      927,
+      2130
+    ],
+    "category": "List-item",
+    "text": "- Nếu $k = 4m \\Rightarrow 6(4m) = 24m \\equiv 0 \\pmod 8$ (loại)."
+  },
+  {
+    "bbox": [
+      204,
+      2151,
+      747,
+      2191
+    ],
+    "category": "Text",
+    "text": "Vậy $k$ có dạng $k = 4m + 2$ với $m \\in \\mathbb{N}$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "175"
+  }
+]

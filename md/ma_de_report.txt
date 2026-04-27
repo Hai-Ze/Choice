@@ -1,0 +1,366 @@
+================================================================================
+BAO CAO MA DE TRONG CAC FILE MD
+================================================================================
+
+THONG KE PATTERN:
+--------------------------------------------------------------------------------
+  ĐỀ\s*(\d+): 66 file
+  Đề\s*[:\.\-]\s*(\d+): 28 file
+  Mã đề\s*[:\.\-]\s*(\d+): 27 file
+  Mã đề thi\s*(\d+): 16 file
+  Đề số\s*(\d+): 6 file
+  Đề thi\s*[:\.\-]\s*(\d+): 6 file
+  DE\s*[:\.\-]\s*(\d+): 1 file
+  ĐỀ ÔN TẬP TỐT NGHIỆP SỐ\s*(\d+): 1 file
+  ĐỀ THI THỬ.*?ĐỀ\s*(\d+): 1 file
+
+================================================================================
+CHI TIET THEO FILE:
+================================================================================
+
+
+20-de-thi-thu-tot-nghiep-thpt-quoc-gia-nam-2026-mon-toan-hoang-xuan-nhan.md:
+  -> So ma de: 19
+  -> Cac ma de: 001, 002, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 017, 018, 019, 020
+
+40-de-on-thi-tot-nghiep-thpt-2026-mon-toan-co-loi-giai-chi-tiet-truong-ngoc-vy.md:
+  -> So ma de: 40
+  -> Cac ma de: 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 5, 6, 7, 8, 9
+
+50-de-on-tap-ky-thi-tot-nghiep-thpt-mon-toan-nam-hoc-2025-2026.md:
+  -> So ma de: 59
+  -> Cac ma de: 01, 02, 03, 04, 05, 06, 07, 08, 09, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 5, 50, 6, 7, 8, 9
+
+bo-130-de-on-thi-thpt-quoc-gia-mon-toan-nam-hoc-2025-2026-co-dap-an.md:
+  -> So ma de: 132
+  -> Cac ma de: 0101, 0122, 1, 10, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 11, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 12, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 13, 130, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 7, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 8, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 9, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
+
+bo-de-on-tap-thi-thpt-quoc-gia-mon-toan-nam-hoc-2025-2026-muc-tieu-5.md:
+  -> So ma de: 10
+  -> Cac ma de: 1, 10, 2, 3, 4, 5, 6, 7, 8, 9
+
+bo-de-on-tap-thi-thpt-quoc-gia-mon-toan-nam-hoc-2025-2026-muc-tieu-9.md:
+  -> So ma de: 10
+  -> Cac ma de: 1, 10, 2, 3, 4, 5, 6, 7, 8, 9
+
+bo-de-on-tap-thi-tot-nghiep-thpt-mon-toan-nam-2026-pham-van-nghiep.md:
+  -> So ma de: 16
+  -> Cac ma de: 1, 10, 11, 12, 13, 14, 15, 2, 27, 3, 4, 5, 6, 7, 8, 9
+
+bo-de-on-thi-thpt-quoc-gia-nam-2026-mon-toan-phan-nhat-linh.md:
+  -> So ma de: 2
+  -> Cac ma de: 11, 40
+
+bo-de-on-thi-tot-nghiep-thpt-nam-2026-mon-toan-phan-2-ngo-duc-tai.md:
+  -> So ma de: 13
+  -> Cac ma de: 1, 11, 12, 13, 14, 16, 2, 3, 4, 5, 7, 8, 9
+
+de-khao-sat-chat-luong-toan-12-dot-1-nam-2025-2026-so-gddt-phu-tho.md:
+  -> So ma de: 1
+  -> Cac ma de: 1008
+
+de-khao-sat-chat-luong-toan-12-dot-2-nam-2025-2026-so-gddt-phu-tho.md:
+  -> So ma de: 1
+  -> Cac ma de: 0112
+
+de-khao-sat-lan-1-toan-12-nam-2025-2026-cum-truong-thpt-qv1-tt1-lvt-bac-ninh.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-khao-sat-lan-1-toan-12-nam-2025-2026-truong-thpt-chuyen-bac-ninh.md:
+  -> So ma de: 1
+  -> Cac ma de: 104
+
+de-khao-sat-lan-1-toan-12-nam-2025-2026-truong-thpt-nguyen-dang-dao-bac-ninh.md:
+  -> So ma de: 1
+  -> Cac ma de: 1101
+
+de-khao-sat-lan-1-toan-12-nam-2025-2026-truong-thpt-nguyen-gia-thieu-ha-noi.md:
+  -> So ma de: 4
+  -> Cac ma de: 1201, 1202, 1203, 1204
+
+de-khao-sat-lan-1-toan-12-nam-2025-2026-truong-thpt-trieu-son-3-thanh-hoa.md:
+  -> So ma de: 4
+  -> Cac ma de: 1, 11, 1211, 1212
+
+de-khao-sat-lan-2-toan-12-nam-2025-2026-truong-thpt-trieu-son-1-thanh-hoa.md:
+  -> So ma de: 1
+  -> Cac ma de: 1201
+
+de-khao-sat-thi-tot-nghiep-thpt-2026-mon-toan-so-gddt-hai-phong.md:
+  -> So ma de: 1
+  -> Cac ma de: 0107
+
+de-khao-sat-tn-thpt-nam-2026-mon-toan-cum-09-truong-thpt-phu-tho.md:
+  -> So ma de: 1
+  -> Cac ma de: 0107
+
+de-khao-sat-toan-12-dau-nam-2025-2026-truong-thpt-thuan-thanh-1-bac-ninh.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-khao-sat-toan-12-dau-nam-2025-2026-truong-thpt-yen-mo-b-ninh-binh.md:
+  -> So ma de: 8
+  -> Cac ma de: 121, 122, 123, 124, 125, 126, 127, 128
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-cum-cac-truong-thpt-bac-ninh.md:
+  -> So ma de: 1
+  -> Cac ma de: 0101
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-lien-truong-thpt-bac-ninh.md:
+  -> So ma de: 2
+  -> Cac ma de: 1001, 1002
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-lien-truong-thpt-hai-phong.md:
+  -> So ma de: 2
+  -> Cac ma de: 201, 202
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-so-gddt-ninh-binh.md:
+  -> So ma de: 4
+  -> Cac ma de: 0101, 0103, 0105, 0107
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-truong-thpt-an-duong-hai-phong.md:
+  -> So ma de: 2
+  -> Cac ma de: 001, 111
+
+de-khao-sat-toan-12-lan-1-nam-2025-2026-truong-thpt-le-quy-don-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 1281
+
+de-khao-sat-toan-12-lan-2-nam-2025-2026-so-gddt-ninh-binh.md:
+  -> So ma de: 4
+  -> Cac ma de: 0101, 0103, 0105, 0107
+
+de-khao-sat-toan-12-lan-2-nam-2025-2026-truong-thpt-tran-phu-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 1207
+
+de-khao-sat-toan-12-nam-2025-2026-truong-thpt-lang-chanh-thanh-hoa.md:
+  -> So ma de: 2
+  -> Cac ma de: 121, 122
+
+de-khao-sat-toan-12-on-thi-tn-thpt-2026-truong-thpt-hoang-hoa-3-thanh-hoa.md:
+  -> KHONG CO MA DE
+
+de-khao-sat-truc-tuyen-toan-12-nam-2025-2026-so-gddt-quang-ninh.md:
+  -> KHONG CO MA DE
+
+de-kiem-tra-lan-1-toan-12-nam-2025-2026-truong-thpt-mai-anh-tuan-thanh-hoa.md:
+  -> So ma de: 3
+  -> Cac ma de: 000, 311, 312
+
+de-kiem-tra-thuong-xuyen-toan-12-nam-2025-2026-truong-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 2
+  -> Cac ma de: 311, 331
+
+de-kiem-tra-thuong-xuyen-toan-12-nam-2025-2026-truong-nguyen-khuyen-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 2690
+
+de-kiem-tra-toan-12-lan-3-nam-2025-2026-truong-thpt-tran-phu-phu-tho.md:
+  -> So ma de: 1
+  -> Cac ma de: 1201
+
+de-kiem-tra-toan-12-thang-01-nam-2026-truong-nguyen-khuyen-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 703
+
+de-kiem-tra-toan-12-thang-10-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm-2.md:
+  -> So ma de: 1
+  -> Cac ma de: 132
+
+de-kiem-tra-toan-12-thang-10-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 0501
+
+de-kiem-tra-toan-12-thang-11-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm-2.md:
+  -> So ma de: 1
+  -> Cac ma de: 0911
+
+de-kiem-tra-toan-12-thang-11-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm-3.md:
+  -> So ma de: 1
+  -> Cac ma de: 112
+
+de-kiem-tra-toan-12-thang-11-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 101
+
+de-kiem-tra-toan-12-thang-2-nam-2026-truong-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 2
+  -> Cac ma de: 124, 611
+
+de-kiem-tra-toan-12-thang-9-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm-2.md:
+  -> So ma de: 1
+  -> Cac ma de: 149
+
+de-kiem-tra-toan-12-thang-9-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm-3.md:
+  -> So ma de: 2
+  -> Cac ma de: 139, 852
+
+de-kiem-tra-toan-12-thang-9-nam-2025-truong-nguyen-khuyen-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 001
+
+de-kscl-toan-12-lan-2-nam-2025-2026-truong-thpt-chuyen-khtn-ha-noi.md:
+  -> So ma de: 4
+  -> Cac ma de: 123, 234, 567, 789
+
+de-kscl-toan-12-on-thi-tn-thpt-2026-truong-thpt-thieu-hoa-thanh-hoa.md:
+  -> So ma de: 2
+  -> Cac ma de: 1211, 1212
+
+de-kscl-toan-12-thi-tn-thpt-2026-lan-1-truong-thpt-dao-duy-tu-thanh-hoa.md:
+  -> So ma de: 2
+  -> Cac ma de: 1701, 1702
+
+de-thi-cong-bang-toan-12-lan-1-nam-2025-2026-truong-thpt-chuyen-khtn-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 611
+
+de-thi-kscl-toan-12-lan-2-nam-2025-2026-truong-thpt-thach-thanh-1-thanh-hoa.md:
+  -> So ma de: 1
+  -> Cac ma de: 121
+
+de-thi-ktcl-toan-12-lan-1-nam-2025-2026-truong-thpt-chuyen-khtn-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 101
+
+de-thi-thu-thpt-qg-mon-toan-nam-2026-cum-truong-thpt-hai-phong.md:
+  -> So ma de: 1
+  -> Cac ma de: 1104
+
+de-thi-thu-thpt-quoc-gia-2026-mon-toan-lan-1-cum-4-truong-thpt-da-nang.md:
+  -> So ma de: 2
+  -> Cac ma de: 1001, 1002
+
+de-thi-thu-tn-thpt-2026-dot-1-mon-toan-truong-thpt-dong-do-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 1321
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-cum-13-truong-thpt-hai-phong.md:
+  -> So ma de: 2
+  -> Cac ma de: 1001, 1002
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-lien-truong-thpt-ha-tinh.md:
+  -> So ma de: 4
+  -> Cac ma de: 0101, 0102, 1, 2
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 999
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-bai-chay-quang-ninh.md:
+  -> So ma de: 1
+  -> Cac ma de: 101
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-cg-tt-cg2-hai-phong.md:
+  -> So ma de: 2
+  -> Cac ma de: 1011, 1012
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-chuyen-tran-phu-hai-phong.md:
+  -> So ma de: 8
+  -> Cac ma de: 0121, 0122, 0123, 0124, 0125, 0126, 0127, 0128
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-cua-lo-nghe-an.md:
+  -> So ma de: 1
+  -> Cac ma de: 1101
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-nguyen-thi-minh-khai-ha-noi.md:
+  -> So ma de: 1
+  -> Cac ma de: 2301
+
+de-thi-thu-tn-thpt-2026-lan-1-mon-toan-truong-thpt-than-uyen-lai-chau.md:
+  -> So ma de: 1
+  -> Cac ma de: 102
+
+de-thi-thu-tn-thpt-2026-lan-2-mon-toan-truong-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 2000
+
+de-thi-thu-tn-thpt-2026-mon-toan-dot-1-lien-truong-thpt-nghe-an.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-thi-thu-tn-thpt-2026-mon-toan-lan-1-truong-chuyen-dh-vinh-nghe-an.md:
+  -> So ma de: 4
+  -> Cac ma de: 0135, 0156, 0168, 0179
+
+de-thi-thu-tn-thpt-2026-mon-toan-lan-1-truong-chuyen-le-khiet-quang-ngai.md:
+  -> So ma de: 1
+  -> Cac ma de: 9101
+
+de-thi-thu-tn-thpt-2026-mon-toan-lan-1-truong-thpt-mo-duc-2-quang-ngai.md:
+  -> So ma de: 1
+  -> Cac ma de: 9122
+
+de-thi-thu-tn-thpt-2026-mon-toan-lan-2-truong-chuyen-phan-boi-chau-nghe-an.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-thi-thu-tn-thpt-2026-mon-toan-lan-2-truong-thpt-phu-duc-hung-yen.md:
+  -> So ma de: 2
+  -> Cac ma de: 1101, 1102
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-le-thanh-tong-tp-hcm.md:
+  -> So ma de: 2
+  -> Cac ma de: 172, 826
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-thcs-thpt-nguyen-khuyen-tp-hcm.md:
+  -> So ma de: 1
+  -> Cac ma de: 423
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-thpt-chuyen-ha-long-quang-ninh.md:
+  -> So ma de: 1
+  -> Cac ma de: 0101
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-thpt-chuyen-phan-boi-chau-nghe-an.md:
+  -> So ma de: 1
+  -> Cac ma de: 0101
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-thpt-nguyen-thi-minh-khai-khanh-hoa.md:
+  -> So ma de: 1
+  -> Cac ma de: 0101
+
+de-thi-thu-tn-thpt-2026-mon-toan-truong-thpt-nguyen-trung-thien-ha-tinh.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-thi-thu-tot-nghiep-thpt-2026-mon-toan-cum-cac-truong-thpt-hung-yen.md:
+  -> So ma de: 2
+  -> Cac ma de: 1001, 1002
+
+de-thi-thu-tot-nghiep-thpt-2026-mon-toan-cum-chuyen-mon-so-04-dak-lak.md:
+  -> So ma de: 3
+  -> Cac ma de: 06, 1201, 1202
+
+de-thi-thu-tot-nghiep-thpt-2026-mon-toan-dot-1-so-gddt-nghe-an.md:
+  -> So ma de: 1
+  -> Cac ma de: 0101
+
+de-thi-thu-tot-nghiep-thpt-2026-mon-toan-lan-1-so-gddt-son-la.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-thi-thu-tot-nghiep-thpt-2026-mon-toan-lan-2-so-gddt-son-la.md:
+  -> So ma de: 1
+  -> Cac ma de: 0120
+
+de-thi-thu-tot-nghiep-thpt-nam-2026-lan-1-mon-toan-so-gddt-lang-son.md:
+  -> So ma de: 1
+  -> Cac ma de: 104
+
+de-thi-thu-tot-nghiep-thpt-nam-2026-mon-toan-so-gddt-bac-ninh.md:
+  -> So ma de: 4
+  -> Cac ma de: 0101, 0102, 0103, 0104
+
+de-thi-thu-tot-nghiep-thpt-nam-2026-mon-toan-so-gddt-cao-bang.md:
+  -> So ma de: 2
+  -> Cac ma de: 0101, 0102
+
+de-thi-thu-tot-nghiep-thpt-nam-2026-mon-toan-so-gddt-hue.md:
+  -> So ma de: 1
+  -> Cac ma de: 1001
+
+tuyen-tap-50-de-on-thi-thpt-quoc-gia-2026-mon-toan-ngo-duc-tai.md:
+  -> So ma de: 49
+  -> Cac ma de: 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 5, 50, 6, 7, 8, 9

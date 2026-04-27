@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1541,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      465,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\Delta: \\begin{cases} x = -1 - 2t \\\\ y = 4t \\\\ z = 1 + 6t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      547,
+      109,
+      780,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\Delta: \\begin{cases} x = -2 + t \\\\ y = 4 \\\\ z = 6 - t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      861,
+      109,
+      1109,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\Delta: \\begin{cases} x = 1 + t \\\\ y = -2t \\\\ z = -1 - 3t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      1176,
+      109,
+      1405,
+      255
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\Delta: \\begin{cases} x = 1 - t \\\\ y = 2t \\\\ z = 1 + 3t \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      267,
+      970,
+      313
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Tập nghiệm của bất phương trình $\\log(6+2x)>1$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      344,
+      381,
+      389
+    ],
+    "category": "List-item",
+    "text": "A. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      547,
+      344,
+      708,
+      389
+    ],
+    "category": "List-item",
+    "text": "B. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      861,
+      344,
+      1042,
+      389
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      1176,
+      321,
+      1383,
+      408
+    ],
+    "category": "List-item",
+    "text": "D. $\\left(-\\frac{5}{2}; +\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      74,
+      419,
+      775,
+      465
+    ],
+    "category": "Text",
+    "text": "**Câu 12:** Nghiệm của phương trình $3^{3x-8} = 9$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      467,
+      362,
+      546
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{10}{3}$."
+  },
+  {
+    "bbox": [
+      547,
+      488,
+      692,
+      523
+    ],
+    "category": "List-item",
+    "text": "B. $x = -2$."
+  },
+  {
+    "bbox": [
+      861,
+      488,
+      984,
+      523
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1176,
+      467,
+      1313,
+      546
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{7}{3}$."
+  },
+  {
+    "bbox": [
+      74,
+      546,
+      1573,
+      642
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      644,
+      1573,
+      869
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Có một集合 chứa 8 viên bi đỏ được đánh số từ 1 đến 8 và 7 viên bi xanh được đánh số từ 9 đến 15. Bạn An chọn ngẫu nhiên một viên bi không hoàn lại, nếu chọn được viên bi đỏ thì thêm vào集合 4 viên bi xanh đánh số 16 đến 19, nếu chọn được viên bi xanh thì thêm vào集合 3 viên bi đỏ đánh số 16,17,18 và 3 viên bi xanh đánh số 19, 20, 21. Sau đó, bạn Bình chọn ngẫu nhiên một viên bi từ集合."
+  },
+  {
+    "bbox": [
+      212,
+      869,
+      1573,
+      998
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để An lấy được viên bi xanh biết Bình lấy được viên bi xanh có số thứ tự lớn hơn 15 là $\\frac{189}{509}$"
+  },
+  {
+    "bbox": [
+      212,
+      1004,
+      963,
+      1087
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để Bình lấy được viên bi xanh là $\\frac{1447}{2700}$."
+  },
+  {
+    "bbox": [
+      212,
+      1093,
+      1334,
+      1176
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để Bình lấy được viên bi đỏ biết An lấy được viên bi xanh là $\\frac{11}{20}$."
+  },
+  {
+    "bbox": [
+      212,
+      1182,
+      925,
+      1265
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để bạn An lấy được viên xanh là $\\frac{8}{15}$."
+  },
+  {
+    "bbox": [
+      74,
+      1288,
+      1565,
+      1850
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      1860,
+      1313,
+      1955
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Cho hàm số $f(x) = \\left(\\sin\\frac{x}{2} + \\cos\\frac{x}{2}\\right)^2$. Xét tính đúng sai của cácoor loa"
+  },
+  {
+    "bbox": [
+      212,
+      1967,
+      1229,
+      2044
+    ],
+    "category": "Text",
+    "text": "a) Trên đoạn $[0; 2\\pi]$ phương trình $f'(x) = 0$ có đúng một nghiệm $\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      2048,
+      381,
+      2093
+    ],
+    "category": "Text",
+    "text": "b) $f(0) = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      2103,
+      472,
+      2148
+    ],
+    "category": "Text",
+    "text": "c) $f(x) = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      212,
+      2158,
+      1081,
+      2211
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số đã cho trên đoạn $[0; 2\\pi]$ là 2."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      738,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1519,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 55 -"
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1238,
+      208
+    ],
+    "category": "Text",
+    "text": "Ta có tức phân vị thứ ba là: $Q_3 = t + \\left(\\frac{75 - cf_3}{n_4}\\right) \\cdot l = 50 + \\left(\\frac{75 - 70}{15}\\right) \\cdot 10 = \\frac{160}{3}$"
+  },
+  {
+    "bbox": [
+      212,
+      218,
+      1500,
+      301
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm trên là: $Q_3 - Q_1 = \\frac{160}{3} - \\frac{395}{13} = \\frac{395}{39} \\approx 22,95$"
+  },
+  {
+    "bbox": [
+      74,
+      306,
+      1577,
+      417
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cho hàm số $y = f(x)$ liên tục trên $[a; b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a; x = b$ được tính bởi công thức nào sau đây?"
+  },
+  {
+    "bbox": [
+      212,
+      431,
+      465,
+      527
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\pi \\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      547,
+      431,
+      770,
+      527
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "bbox": [
+      861,
+      431,
+      1096,
+      527
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      1176,
+      431,
+      1419,
+      527
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{a}^{b} f^2(x) dx$."
+  },
+  {
+    "bbox": [
+      833,
+      536,
+      953,
+      577
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      582,
+      411,
+      621
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      212,
+      627,
+      1536,
+      786
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a; x = b$: $S = \\int_{a}^{b} |f(x)| dx$."
+  },
+  {
+    "bbox": [
+      74,
+      796,
+      1575,
+      933
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Trong không gian với hệ trục tọa độ $Oxyz$, cho đường thẳng $d: \\frac{x-1}{4} = \\frac{y-2}{3} = \\frac{z-3}{-7}$. Phương trình mặt phẳng đi qua $A(1; 2; 3)$ và vuông góc với đường thẳng $d$ là"
+  },
+  {
+    "bbox": [
+      212,
+      944,
+      545,
+      985
+    ],
+    "category": "List-item",
+    "text": "A. $4x + 3y + 7z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      861,
+      944,
+      1189,
+      985
+    ],
+    "category": "List-item",
+    "text": "B. $4x + 3y + 7z + 11 = 0$."
+  },
+  {
+    "bbox": [
+      212,
+      996,
+      545,
+      1037
+    ],
+    "category": "List-item",
+    "text": "C. $4x + 3y - 7z + 11 = 0$."
+  },
+  {
+    "bbox": [
+      861,
+      996,
+      1194,
+      1037
+    ],
+    "category": "List-item",
+    "text": "D. $4x + 3y - 7z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      833,
+      1048,
+      953,
+      1091
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1095,
+      411,
+      1134
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      212,
+      1134,
+      1161,
+      1192
+    ],
+    "category": "Text",
+    "text": "Vì mặt phẳng vuông góc với đường thẳng $d$ nên $\\vec{n} = \\vec{u} = (4; 3; -7)$"
+  },
+  {
+    "bbox": [
+      212,
+      1202,
+      1369,
+      1258
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng đi qua $A(1; 2; 3)$ và có vec tọa pháp tuyến $\\vec{n} = (4; 3; -7)$"
+  },
+  {
+    "bbox": [
+      212,
+      1267,
+      966,
+      1319
+    ],
+    "category": "Formula",
+    "text": "$$\n4(x-1) + 3(y-2) - 7(z-3) = 0 \\Leftrightarrow 4x + 3y - 7z + 11 = 0\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1332,
+      994,
+      1400
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Tìm tập nghiệm $S$ của bất phương trình $(2 - \\sqrt{3})^x < 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1410,
+      423,
+      1461
+    ],
+    "category": "List-item",
+    "text": "A. $S = (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      547,
+      1410,
+      721,
+      1461
+    ],
+    "category": "List-item",
+    "text": "B. $S = (0; 1)$."
+  },
+  {
+    "bbox": [
+      861,
+      1410,
+      1062,
+      1461
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-1; 0)$."
+  },
+  {
+    "bbox": [
+      1176,
+      1410,
+      1389,
+      1461
+    ],
+    "category": "List-item",
+    "text": "D. $S = (-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      833,
+      1470,
+      953,
+      1513
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1518,
+      411,
+      1557
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      212,
+      1565,
+      667,
+      1641
+    ],
+    "category": "Formula",
+    "text": "$$\n(2 - \\sqrt{3})^x < 1 \\Leftrightarrow x > \\log_{(2-\\sqrt{3})} 1 = 0\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1651,
+      933,
+      1702
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình $S = (0; +\\infty)$"
+  },
+  {
+    "bbox": [
+      74,
+      1711,
+      779,
+      1754
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Hình vẽ sau đây là đồ thị hàm số nào?"
+  },
+  {
+    "bbox": [
+      605,
+      1748,
+      1178,
+      2091
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      2095,
+      465,
+      2138
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^3 - 2x + 1$."
+  },
+  {
+    "bbox": [
+      547,
+      2095,
+      810,
+      2138
+    ],
+    "category": "List-item",
+    "text": "B. $y = x^3 - 2x^2 + 1$."
+  },
+  {
+    "bbox": [
+      861,
+      2095,
+      1142,
+      2138
+    ],
+    "category": "List-item",
+    "text": "C. $y = -x^3 + 2x^2 + 1$."
+  },
+  {
+    "bbox": [
+      1176,
+      2095,
+      1443,
+      2138
+    ],
+    "category": "List-item",
+    "text": "D. $y = x^3 + 2x^2 + 1$."
+  },
+  {
+    "bbox": [
+      833,
+      2148,
+      953,
+      2191
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2195,
+      411,
+      2234
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      193,
+      88,
+      403,
+      162
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{\\pi}{2} + k\\pi$."
+  },
+  {
+    "bbox": [
+      826,
+      173,
+      939,
+      211
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      240,
+      306,
+      277
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      197,
+      304,
+      952,
+      396
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{3} + 3 \\tan x = 0 \\Leftrightarrow \\tan x = -\\frac{\\sqrt{3}}{3} \\Leftrightarrow x = -\\frac{\\pi}{6} + k\\pi (k \\in \\mathbb{Z}).\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      428,
+      1005,
+      478
+    ],
+    "category": "Text",
+    "text": "Câu 5. Tìm a để hàm số $\\log_a x$ ($0 < a \\neq 1$) có đồ thị là hình bên"
+  },
+  {
+    "bbox": [
+      752,
+      534,
+      1042,
+      888
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      924,
+      336,
+      974
+    ],
+    "category": "List-item",
+    "text": "A. $a = \\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      193,
+      989,
+      308,
+      1023
+    ],
+    "category": "List-item",
+    "text": "B. $a = 2$"
+  },
+  {
+    "bbox": [
+      193,
+      1044,
+      315,
+      1123
+    ],
+    "category": "List-item",
+    "text": "C. $a = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      193,
+      1144,
+      338,
+      1222
+    ],
+    "category": "List-item",
+    "text": "D. $a = -\\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      826,
+      1240,
+      939,
+      1278
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      1293,
+      306,
+      1329
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      193,
+      1341,
+      1087,
+      1393
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đi qua điểm $(2; 2) \\Rightarrow \\log_a 2 = 2 \\Rightarrow a^2 = 2 \\Rightarrow a = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      1422,
+      1524,
+      1519
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật với $AB = a$, cạnh bên $SA$ vuông góc với đáy và $SA = a\\sqrt{3}$. Số đo của góc nhị diện $[S, DC, B]$ bằng"
+  },
+  {
+    "bbox": [
+      193,
+      1534,
+      302,
+      1569
+    ],
+    "category": "List-item",
+    "text": "A. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      548,
+      1534,
+      653,
+      1569
+    ],
+    "category": "List-item",
+    "text": "B. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      901,
+      1534,
+      1009,
+      1572
+    ],
+    "category": "List-item",
+    "text": "C. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      1255,
+      1534,
+      1349,
+      1569
+    ],
+    "category": "List-item",
+    "text": "D. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      826,
+      1579,
+      939,
+      1617
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      1660,
+      777,
+      2105
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      826,
+      2090,
+      935,
+      2127
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      193,
+      2157,
+      694,
+      2210
+    ],
+    "category": "Formula",
+    "text": "$$\n[S, DC, B] = [S, DC, A] = \\widehat{SDA} = 60^\\circ.\n$$"
+  }
+]

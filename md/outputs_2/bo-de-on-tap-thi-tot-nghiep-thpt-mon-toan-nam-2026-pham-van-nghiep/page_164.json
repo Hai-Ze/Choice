@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      542,
+      107,
+      1202,
+      731
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      752,
+      1573,
+      841
+    ],
+    "category": "Text",
+    "text": "Ta có $H$ là trung điểm của $DL$ nên $GH$ là đường trung bình của $\\Delta LDG'$ nên ta suy ra $G$ là trung điểm của $LG'$."
+  },
+  {
+    "bbox": [
+      212,
+      843,
+      1122,
+      889
+    ],
+    "category": "Text",
+    "text": "Mặt khác: $GC$ là đường trung bình của $\\Delta LDG'$ nên $G'(0;7;0)$"
+  },
+  {
+    "bbox": [
+      212,
+      899,
+      1263,
+      981
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\frac{E'A}{ED} = \\frac{EA}{LD} = \\frac{2}{6} = \\frac{1}{3} \\Rightarrow E'A = \\frac{1}{3}E'D \\Rightarrow E'A = \\frac{1}{2}AD = 2,5 \\Rightarrow E'(7,5;0;0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      987,
+      1032,
+      1068
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác: } \\frac{EF}{E'F'} = \\frac{LE}{LE'} = \\frac{2}{3} \\Rightarrow E'F' = 1,5.EF = 1,5 \\cdot 3,5 = 5,25\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1072,
+      1377,
+      1159
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích khoảng đất khi đó là: } S_{DG'F'E'} = \\frac{(DG' + E'F').DE'}{2} = \\frac{(7 + 5,25) \\cdot 7,5}{2} = 45,9\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1167,
+      336,
+      1208
+    ],
+    "category": "Text",
+    "text": "Đáp án:"
+  },
+  {
+    "bbox": [
+      1249,
+      1205,
+      1593,
+      1287
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>4</td><td>5</td><td>,</td><td>9</td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      1291,
+      1577,
+      1441
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Cho hình hộp $ABCD.A'B'C'D'$ có đáy là hình vuông cạnh $2a$, $AA' = a\\sqrt{3}$, hình chiếu vuông góc của $A$ trên $(A'B'C'D')$ là trung điểm của $A'C'$. Góc nhị diện $[A, A'B', C']$ có số đo bằng bao nhiêu độ?"
+  },
+  {
+    "bbox": [
+      833,
+      1443,
+      953,
+      1484
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1488,
+      373,
+      1529
+    ],
+    "category": "Text",
+    "text": "Đáp số: 45"
+  },
+  {
+    "bbox": [
+      593,
+      1542,
+      1189,
+      1998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      2018,
+      756,
+      2064
+    ],
+    "category": "Text",
+    "text": "+ Xác định góc nhị diện $[A, A'B', C']$"
+  },
+  {
+    "bbox": [
+      212,
+      2072,
+      1573,
+      2162
+    ],
+    "category": "Text",
+    "text": "Gọi $O$ là trung điểm của $A'C'$ suy ra $O$ là tâm của hình vuông $A'B'C'D'$ và $AO \\perp (A'B'C'D')$"
+  },
+  {
+    "bbox": [
+      212,
+      2172,
+      1379,
+      2216
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là trung điểm của $A'B'$ suy ra $OI$ là đường trung bình của tam giác $A'B'C'$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

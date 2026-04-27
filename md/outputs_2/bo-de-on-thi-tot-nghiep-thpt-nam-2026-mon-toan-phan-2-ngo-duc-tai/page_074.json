@@ -1,0 +1,197 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1456,
+      522
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một nhà máy, tốc độ tiêu thụ điện năng của một dây chuyền sản xuất sau khi khởi động có xu hướng giảm dẫn theo thời gian và tiến về mức ổn định. Giả sử sau khi bắt đầu vận hành được $t$ giờ, tốc độ tiêu thụ điện năng của dây chuyền sản xuất này được mô hình bởi hàm số $E'(t) = A + e^{-0,4t}$ (đơn vị: kWh /giờ) ($0 \\le t \\le 8$), trong đó $E(t)$ (kWh) là lượng điện năng tiêu thụ tính từ lúc bắt đầu vận hành. Biết rằng trong 8 giờ đầu tiên, dây chuyền đã tiêu thụ tổng cộng 120kWh."
+  },
+  {
+    "bbox": [
+      222,
+      518,
+      905,
+      600
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} E(t) = At - \\frac{5}{2}e^{-0,4t} + C, \\text{ với } C \\text{ là hằng số.}\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      600,
+      931,
+      649
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} A = 14 \\text{ (kết quả làm tròn đến hàng đơn vị).}\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      655,
+      1400,
+      703
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{ Lượng điện năng tiêu thụ của dây chuyền trong 4 giờ đầu lớn hơn 65kWh.}\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      709,
+      1448,
+      934
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} \\text{ Tốc độ tiêu thụ điện năng trung bình của dây chuyền sản xuất trong khoảng thời gian từ } a \\text{ giờ đến } b \\text{ giờ được xác định bởi công thức } \\bar{v} = \\frac{E(b) - E(a)}{b - a} \\text{ (kWh /giờ). Tốc độ tiêu thụ điện năng trung bình của dây chuyền sản xuất này trong 4 giờ cuối bằng 14,6 kWh/giờ (kết quả làm tròn đến hàng phần mười).}\n$$"
+  },
+  {
+    "bbox": [
+      213,
+      987,
+      1382,
+      1041
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      193,
+      1076,
+      303,
+      1115
+    ],
+    "category": "Section-header",
+    "text": "### Câu 1."
+  },
+  {
+    "bbox": [
+      193,
+      1128,
+      902,
+      1553
+    ],
+    "category": "Text",
+    "text": "Một cái hồ rộng có hình chữ nhật. Tại một góc hồ người ta đóng một cái cọc ở vị trí $K$ cách bờ $AB$ là 2 m và cách bờ $AC$ là 8 m, rồi dùng một cây sào thẳng $PQ$ ngăn một góc của hồ để thả bèo (như hình vẽ). Tính chiều dài ngắn nhất của cây sào để cây sào có thể catch vào hai bờ $AB$, $AC$ và cây cọc (kết quả làm tròn đến hàng đơn vị của mét)."
+  },
+  {
+    "bbox": [
+      587,
+      1511,
+      651,
+      1553
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      659,
+      1503,
+      900,
+      1563
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      933,
+      1138,
+      1437,
+      1475
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1580,
+      1456,
+      1956
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Có 3套 sản phẩm hình thức bên ngoài giống hệt nhau. Hộp I chứa 15 sản phẩm, trong đó có 10 chính phẩm và 5 phế phẩm. Hộp II chứa 10 sản phẩm, trong đó có 6 chính phẩm và 4 phế phẩm. Hộp III chứa 10 sản phẩm, trong đó có 8 chính phẩm và 2 phế phẩm. Người ta chọn ngẫu nhiên 1套 và từ套 đó lấy ra 2 sản phẩm, thì thấy cả 2 sản phẩm đó đều là phế phẩm. Người ta tiếp tục lấy ra 1 sản phẩm nữa từ套 đang chọn. Tìm xác suất sản phẩm tiếp theo cũng là phế phẩm (kết quả làm tròn tới hàng phầm trăm)."
+  },
+  {
+    "bbox": [
+      1142,
+      1911,
+      1204,
+      1952
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1214,
+      1902,
+      1453,
+      1962
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      547,
+      1998,
+      1098,
+      2159
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1453,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 73"
+  }
+]

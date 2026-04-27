@@ -1,0 +1,120 @@
+[
+  {
+    "bbox": [
+      132,
+      75,
+      705,
+      117
+    ],
+    "category": "Page-header",
+    "text": "TƯ DUY GIẢI TOÁN VẬN DỤNG CAO 2026"
+  },
+  {
+    "bbox": [
+      1329,
+      80,
+      1542,
+      121
+    ],
+    "category": "Page-header",
+    "text": "KHÓA HỌC 2K8"
+  },
+  {
+    "bbox": [
+      113,
+      153,
+      1535,
+      352
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** [PNL] Trên một trục tọa độ $Ox$, hai chất điểm đồng thời xuất phát từ gốc tọa độ $O$ tại thời điểm $t = 0$ và chuyển động cùng chiều dương. Chất điểm thứ nhất chuyển động với vận tốc biến thiên theo quy luật $v_A(t) = 4t - t^2$ (m/s) còn chất điểm thứ hai chuyển động nhanh hơn đều với gia tốc không đổi là $a = 2$ (m/s²)"
+  },
+  {
+    "bbox": [
+      252,
+      354,
+      1537,
+      732
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Phương trình vận tốc của chất điểm thứ hai là $v_B(t) = 2t$ (m/s)</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Hai chất điểm gặp nhau tại thời điểm $t = 4$ (giây)</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Khoảng cách lớn nhất giữa hai chất điểm trong quá trình chuyển động là 1,33 mét (Kết quả làm tròn đến hàng phần chục)</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Tại thời điểm hai chất điểm gặp nhau thì vận tốc của chất điểm thứ nhất lớn hơn vận tốc của chất điểm thứ hai</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      732,
+      1535,
+      1076
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** [PNL] Trong không gian với hệ trục tọa độ $Oxyz$ với đơn vị trên mỗi trục là dm, mặt ngoài của một quả bóng được mô hình hóa bởi phương trình mặt cầu $(x-2)^2 + (y+1)^2 + (z+1)^2 = 6$. Quả bóng nằm yên trên sàn nhà. Người ta nhìn thấy một tấm ván ngã xuống đè lên quả bóng, phần giao của tấm ván và sàn nhà là đường thẳng $d$: $\\begin{cases} x = -2 + 2t \\\\ y = -1 - 3t \\\\ z = t \\end{cases}$. Gọi $A, B$ lần lượt là hai tiếp điểm của tấm ván, sàn nhà với quả bóng và $I$ là tâm quả bóng"
+  },
+  {
+    "bbox": [
+      252,
+      1072,
+      1537,
+      1522
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Quả bóng có tâm $I(2;-1;-1)$ và bán kính $R = \\sqrt{6}$</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Khoảng cách từ tâm quả bóng đến đường thẳng $d$ bằng $2\\sqrt{6}$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Nếu $\\cos AIB = \\frac{a}{b}$ (với $\\frac{a}{b}$ phân số tối简 và $a,b \\in \\mathbb{Z}$) thì giá trị biểu thức $a^2 + b^2 = 82$</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Một con kiến bò từ vị trí $A$ đến vị trí $B$ trên quả bóng với tốc độ 2 (cm/s) thì thời gian ngắn nhất cho chuyển đi này là 21 giây (Kết quả làm tròn đến hàng đơn vị)</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      1522,
+      1535,
+      1700
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** [PNL] Người ta nhận thấy rằng xác suất để kinh tế thế giới phát triển là 60%. Trong trường hợp này, xác suất sinh lời khi đầu tư vào bất động sản là 80% và đầu tư vào vàng là 30%. Xác suất để kinh tế thế giới suy thoái là 40%. Khi đó, xác suất sinh lời khi đầu tư vào bất động sản là 10% và đầu tư vào việc mua vàng là 70%"
+  },
+  {
+    "bbox": [
+      252,
+      1702,
+      1537,
+      2209
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>Nếu biết một người đầu tư bất động sản không sinh lời thì xác suất kinh tế suy thoái vượt quá 0,4</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Một nhà đầu tư chọn ngẫu nhiên một trong hai hình thức là bất động sản hoặc vàng thì xác suất để sinh lời trong trường hợp này lớn hơn 0,5</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Nếu biết nhà đầu tư sinh lời thì xác suất kinh tế đang phát triển là lớn hơn 0,5</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Giả định độc lập trong cùng điều kiện kinh tế, một nhà đầu tư có lợi nhuận ở cả hai距离 bất động sản và vàng trong cùng một năm. Anh ta tin rằng điều này chắc chắn chứng tỏ kinh tế đang phát triển</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      2268,
+      135,
+      2299
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  },
+  {
+    "bbox": [
+      206,
+      2262,
+      238,
+      2302
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      242,
+      2270,
+      825,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SĐT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      535,
+      2270,
+      571,
+      2302
+    ],
+    "category": "Picture"
+  }
+]

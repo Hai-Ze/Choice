@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      251,
+      78,
+      1337,
+      179
+    ],
+    "category": "Text",
+    "text": "Có thể xem phần elip nằm phía trên trục $Ox$ là đồ thị hàm số: $y = 4\\sqrt{1 - \\frac{x^2}{25}}$; (C)"
+  },
+  {
+    "bbox": [
+      251,
+      213,
+      1411,
+      294
+    ],
+    "category": "Text",
+    "text": "Gọi $S_1$ là diện tích phần $B$ nằm phía trên trục $Ox$, vậy nó là diện tích của $\\frac{1}{4}$ hình tròn:"
+  },
+  {
+    "bbox": [
+      256,
+      327,
+      535,
+      407
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\frac{1}{4} \\pi \\cdot 1^2 = \\frac{\\pi}{4} (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      434,
+      1534,
+      583
+    ],
+    "category": "Text",
+    "text": "Tổng diện tích phần $B$ và phần $C$ nằm phía trên trục $Ox$ có thể xem là diện tích hình phẳng giới hạn bởi: $y = 4\\sqrt{1 - \\frac{x^2}{25}}$; trục hoành và hai đường thẳng $x = 3$; $x = 5$"
+  },
+  {
+    "bbox": [
+      256,
+      616,
+      660,
+      721
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = \\int_{3}^{5} 4\\sqrt{1 - \\frac{x^2}{25}} dx \\approx 4,47 (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      755,
+      1131,
+      809
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích phần } C \\text{ nằm phía trên trục } Ox: S = S_2 - S_1 = 3,69 (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      844,
+      987,
+      898
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích khu vực } C \\text{ người ta lát gạch. } 2S = 7,38 (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      927,
+      1512,
+      1247
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** At một xí nghiệp chuyên sản xuất vật liệu xây dựng, nếu trong một ngày xí nghiệp sản xuất $x(m^3)$ sản phẩm thì phải bỏ ra các khoản chi phí bao gồm: 2 triệu đồng chi phí cố định; 0,5 triệu đồng chi phí cho mỗi mét khối sản phẩm và $0.005x^2$ triệu đồng chi phí bảo dưỡng máy móc. Biết rằng, mỗi ngày xí nghiệp sản xuất được tối đa $36(m^3)$ sản phẩm. Tìm chi phí trung bình (triệu đồng) trên mỗi mét khối sản phẩm thấp nhất mà xí nghiệp cần bỏ ra (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      251,
+      1259,
+      376,
+      1298
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      251,
+      1310,
+      433,
+      1348
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,70."
+  },
+  {
+    "bbox": [
+      251,
+      1356,
+      1372,
+      1402
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí (triệu đồng) để xí nghiệp sản xuất $x(m^3)$ sản phẩm trong một ngày là:"
+  },
+  {
+    "bbox": [
+      251,
+      1410,
+      869,
+      1452
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = 2 + 0,5x + 0,005x^2 \\text{ với } 0 \\le x \\le 36.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1459,
+      1086,
+      1505
+    ],
+    "category": "Text",
+    "text": "Chi phí trung bình (triệu đồng) trên mỗi mét khối sản phẩm là:"
+  },
+  {
+    "bbox": [
+      251,
+      1513,
+      934,
+      1582
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{C}(x) = \\frac{C(x)}{x} = \\frac{2+0,5x+0,005x^2}{x} = \\frac{2}{x} + 0,5 + 0,005x.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1591,
+      721,
+      1656
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{C}'(x) = -\\frac{2}{x^2} + 0,005 = \\frac{0,005x^2-2}{x^2}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1664,
+      837,
+      1719
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{C}'(x) = 0 \\Rightarrow x^2 = 400 \\Rightarrow x = \\sqrt{400} = 20.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1729,
+      475,
+      1773
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      256,
+      1786,
+      851,
+      2178
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\sqrt{400}$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td></td><td>$-$</td><td>0</td><td>+</td></tr><tr><td>$y$</td><td colspan=\"4\">$+\\infty$<br>0.70<br>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      2194,
+      1026,
+      2240
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta thấy chi phí trung bình thấp nhất là:"
+  }
+]

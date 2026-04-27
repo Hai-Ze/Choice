@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      96,
+      1573,
+      222
+    ],
+    "category": "Text",
+    "text": "$A(-500;-300;500)$ và $B(-200;-200;450)$. Khi máy bay ở gần đài kiểm soát không lưu nhất, toạ độ máy bay là $(a;b;c)$. Tính giá trị của biểu thức $P = a+b+c$."
+  },
+  {
+    "bbox": [
+      462,
+      248,
+      1272,
+      615
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      649,
+      493,
+      685
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      708,
+      924,
+      746
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      764,
+      338,
+      803
+    ],
+    "category": "Text",
+    "text": "Đáp án: 400"
+  },
+  {
+    "bbox": [
+      156,
+      819,
+      1573,
+      928
+    ],
+    "category": "Text",
+    "text": "Máy bay chuyển động theo đường thẳng $\\Delta$ đi qua hai điểm $A, B$ nên sẽ ở gần đài kiểm soát không lưu nhất khi nó ở vị trí $H$ là hình chiếu vuông góc của gốc $O$ lên đường thẳng $\\Delta$."
+  },
+  {
+    "bbox": [
+      156,
+      947,
+      1573,
+      997
+    ],
+    "category": "Text",
+    "text": "+ Đường thẳng $\\Delta$ đi qua $A, B$ nên có VTCP là $\\overline{AB}(300;100;-50)$ do đó phương trình tham số là"
+  },
+  {
+    "bbox": [
+      160,
+      1026,
+      373,
+      1173
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = -500 + 6t \\\\ y = -300 + 2t \\\\ z = 500 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1196,
+      1573,
+      1239
+    ],
+    "category": "Text",
+    "text": "+ Gọi $H$ là hình chiếu vuông góc của $O$ lên $\\Delta$ thì"
+  },
+  {
+    "bbox": [
+      160,
+      1260,
+      1187,
+      1312
+    ],
+    "category": "Formula",
+    "text": "$$\nH(-500+6t;-300+2t;500-t) \\Rightarrow \\overline{OH}(-500+6t;-300+2t;500-t), \\text{ khi đó}\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1339,
+      1213,
+      1390
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{OH} \\perp \\Delta \\text{ nên } \\overline{OH} \\cdot \\overline{AB} = 0 \\Leftrightarrow 300(-500+6t)+100(-300+2t)-50(500-t) = 0\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1418,
+      677,
+      1464
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow t = 100, \\text{ suy ra } H(100;-100;400).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1494,
+      573,
+      1540
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P = a+b+c = 400 \\ (km).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1560,
+      1573,
+      1889
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Mant bể bơi của một dự án chung cư cao cấp có dạng một hình chữ nhật với chiều dài $25m$ và chiều rộng $8m$. Bể bơi sâu $1m$ ở bên đầu nông và sâu $2m$ bên đầu sâu. Biết hai đầu nông, sâu thuộc hai bên theo chiều dài của bể bơi (tham khảo hình vẽ minh họa). Ban đầu bể không có nước, nước bắt đầu được bơm vào bể lúc 7 giờ sáng với tốc độ $1m^3$ mỗi phút. Vào lúc 8 giờ 4 phút sáng thì mực nước dâng lên với tốc độ $\\frac{1}{a} m /$ phút. Giá trị của $a$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

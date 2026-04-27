@@ -1,0 +1,360 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      110,
+      757,
+      153
+    ],
+    "category": "Text",
+    "text": "Đầu mút phải của nhóm 5 là $a_6 = 180$"
+  },
+  {
+    "bbox": [
+      211,
+      162,
+      932,
+      205
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên là $R = a_6 - a_1 = 180 - 155 = 25\\text{cm}$"
+  },
+  {
+    "bbox": [
+      74,
+      215,
+      1567,
+      314
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Cho A và B là hai biến cố độc lập thỏa mãn $P(A)=0,5$ và $P(B)=0,3$. Khi đó $P(A \\cap B)$ bằng:"
+  },
+  {
+    "bbox": [
+      211,
+      317,
+      319,
+      355
+    ],
+    "category": "List-item",
+    "text": "A. 0,8."
+  },
+  {
+    "bbox": [
+      550,
+      317,
+      665,
+      355
+    ],
+    "category": "List-item",
+    "text": "B. 0,2."
+  },
+  {
+    "bbox": [
+      862,
+      317,
+      968,
+      355
+    ],
+    "category": "List-item",
+    "text": "C. 0,6."
+  },
+  {
+    "bbox": [
+      1173,
+      317,
+      1296,
+      355
+    ],
+    "category": "List-item",
+    "text": "D. 0,15."
+  },
+  {
+    "bbox": [
+      765,
+      366,
+      884,
+      407
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      412,
+      334,
+      450
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      211,
+      457,
+      1290,
+      502
+    ],
+    "category": "Text",
+    "text": "Vì A và B là hai biến cố độc lập nên $P(A \\cap B) = P(A) \\cdot P(B) = 0,5 \\cdot 0,3 = 0,15$"
+  },
+  {
+    "bbox": [
+      74,
+      512,
+      1060,
+      556
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Hàm số nào sau đây có đồ thị là đường cong như Hình 1"
+  },
+  {
+    "bbox": [
+      548,
+      567,
+      1114,
+      882
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      895,
+      439,
+      977
+    ],
+    "category": "List-item",
+    "text": "A. $y = x - \\frac{1}{x-1}$."
+  },
+  {
+    "bbox": [
+      550,
+      895,
+      804,
+      977
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x + \\frac{1}{x-1}$."
+  },
+  {
+    "bbox": [
+      862,
+      895,
+      1104,
+      977
+    ],
+    "category": "List-item",
+    "text": "C. $y = -x - \\frac{1}{x-1}$."
+  },
+  {
+    "bbox": [
+      1173,
+      895,
+      1402,
+      977
+    ],
+    "category": "List-item",
+    "text": "D. $y = x + \\frac{1}{x-1}$."
+  },
+  {
+    "bbox": [
+      765,
+      985,
+      884,
+      1026
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1031,
+      334,
+      1069
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      211,
+      1072,
+      1402,
+      1118
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị cho thấy tiệm cận xiên là đường thẳng $y = x$, suy ra loại đáp án B và C"
+  },
+  {
+    "bbox": [
+      211,
+      1125,
+      1316,
+      1225
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $y = x - \\frac{1}{x-1}$ ta có $y' = 1 + \\frac{1}{(x-1)^2} > 0, \\forall x \\neq 1$, suy ra loại đáp án A"
+  },
+  {
+    "bbox": [
+      74,
+      1229,
+      1576,
+      1323
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      1326,
+      1092,
+      1372
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho hàm số $y = f(x) = x^3 + ax^2 + bx + c$ có đồ thị như Hình 2."
+  },
+  {
+    "bbox": [
+      211,
+      1384,
+      927,
+      1430
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ có hai điểm cực trị là 0 và 2."
+  },
+  {
+    "bbox": [
+      211,
+      1437,
+      500,
+      1483
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị $b$ bằng 0."
+  },
+  {
+    "bbox": [
+      211,
+      1488,
+      456,
+      1526
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị $c = -2$."
+  },
+  {
+    "bbox": [
+      211,
+      1531,
+      532,
+      1577
+    ],
+    "category": "List-item",
+    "text": "d) $f(x) = x^3 - 6x^2 + 2$."
+  },
+  {
+    "bbox": [
+      713,
+      1592,
+      1060,
+      1928
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      765,
+      1950,
+      884,
+      1991
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1994,
+      927,
+      2040
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ có hai điểm cực trị là 0 và 2."
+  },
+  {
+    "bbox": [
+      211,
+      2047,
+      419,
+      2090
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      211,
+      2093,
+      500,
+      2139
+    ],
+    "category": "Text",
+    "text": "b) Giá trị $b$ bằng 0."
+  },
+  {
+    "bbox": [
+      211,
+      2142,
+      589,
+      2188
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) = x^3 + ax^2 + bx + c\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1455,
+      274
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho đa giác đều có 100 đỉnh. Khi đó số tam giác tù được tạo thành từ các đỉnh của đa giác đều đã cho là $T$. Tính giá trị $\\frac{T}{96}$."
+  },
+  {
+    "bbox": [
+      1140,
+      215,
+      1203,
+      255
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      205,
+      1453,
+      265
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      286,
+      305,
+      323
+    ],
+    "category": "Text",
+    "text": "**Câu 5.**"
+  },
+  {
+    "bbox": [
+      193,
+      338,
+      839,
+      656
+    ],
+    "category": "Text",
+    "text": "Từ một quả cầu bằng đá trắng sứ bán kính bằng 1 dm, người ta khoan rút lõi ngay “chính giữa” quả cầu như hình sau với đường kính�i khoan là 1 dm được một vật thể có thể tích $V$ là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      860,
+      338,
+      1053,
+      618
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      435,
+      1449,
+      568
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1140,
+      676,
+      1203,
+      716
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      667,
+      1453,
+      727
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      762,
+      949,
+      1185
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Nhân迎p ký niệm ngày 30/4 lịch sử, một màn trình diễn ánh sáng nghệ thuật bằng drone quy mô lớn được tổ chức trên bầu trời TP. Hồ Chí Minh. Hàng trăm chiếc drone được lập trình để tạo thành những hình ảnh ánh ý nghĩa. Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên các trục là mét), mặt đất được coi là mặt phẳng ($Oxy$)."
+  },
+  {
+    "bbox": [
+      970,
+      778,
+      1446,
+      1018
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      1206,
+      1198,
+      1255
+    ],
+    "category": "Section-header",
+    "text": "* **Giai đoạn 1: Hình thành chữ “V” trong “VIỆT NAM”**"
+  },
+  {
+    "bbox": [
+      273,
+      1262,
+      1455,
+      1416
+    ],
+    "category": "Text",
+    "text": "Ba drone $D_1, D_2, D_3$ được điều剂kiển để giữ ổn định các vị trí cố định lần lượt là $A(18;22;50), B(30;12;50), C(18;12;50)$. Các vị trí này tạo thành một phần của chữ “V” thổng lồ."
+  },
+  {
+    "bbox": [
+      241,
+      1452,
+      992,
+      1499
+    ],
+    "category": "Section-header",
+    "text": "* **Giai đoạn 2: Drone đặc nhiệm di chuyển**"
+  },
+  {
+    "bbox": [
+      273,
+      1507,
+      1455,
+      1822
+    ],
+    "category": "Text",
+    "text": "Một drone đặc nhiệm $D_0$, ban đầu đang ở vị trí $M_0(5,45,30)$, nhận được lệch di chuyển thẳng đến một vị trí $M$ trên mặt phẳng ($P$) : $x+y+z = 80$. Miền phẳng ($P$) là miền phẳng chính nơi các drone sẽ sắp xếp thành dòng chữ “TÔI YÊU” sau đó. Vị trí $M$ này được chọn sao cho nó cách đều ba drone $D_1, D_2, D_3$ (tức là $MA = MB = MC$). Drone $D_0$ được lập trình bay với vận tốc không đổi là $v = 10$ m/s."
+  },
+  {
+    "bbox": [
+      193,
+      1864,
+      1455,
+      2128
+    ],
+    "category": "Text",
+    "text": "Để duy trì tín hiệu ổn định, quỹ đạo bay thẳng $M_0M$ của drone $D_0$ phải hoàn toàn nằm ngoài khối cầu nhiếu sóng ($S$) có tâm $I(15;25;40)$ và bán kính $R = 4$ m (được phép tiếp xúc). Hãy tính tổng thời gian (tính bằng giây, làm tròn đến hàng phần chục) di chuyển của drone $D_0$ từ vị trí ban đầu $M_0$ đến vị trí $M$ theo quỹ đạo thẳng đã định, biết rằng quỹ đạo này thỏa mãn điều kiện an toàn."
+  },
+  {
+    "bbox": [
+      205,
+      2140,
+      273,
+      2180
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      279,
+      2132,
+      522,
+      2192
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5"
+  }
+]

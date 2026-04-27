@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      153,
+      130,
+      1546,
+      281
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, sau 5 giây thiết bị đi được 125 m: $S(5) = 125 \\Rightarrow \\frac{1}{2}m \\cdot 5^2 + 10 \\cdot 5 = 125 \\Rightarrow \\frac{25}{2}m + 50 = 125 \\Rightarrow \\frac{25}{2}m = 75 \\Rightarrow m = 6$."
+  },
+  {
+    "bbox": [
+      203,
+      294,
+      362,
+      335
+    ],
+    "category": "Text",
+    "text": "b): Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      330,
+      892,
+      428
+    ],
+    "category": "Text",
+    "text": "Vectơ chỉ phương của quỹ đạo là $\\vec{u} = \\left(\\frac{\\sqrt{2}}{2}; \\frac{1}{2}; \\frac{1}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      153,
+      422,
+      1024,
+      474
+    ],
+    "category": "Text",
+    "text": "Chọn vectơ chỉ phương cùng phương là $\\vec{u}' = 2\\vec{u} = (\\sqrt{2}; 1; 1)$."
+  },
+  {
+    "bbox": [
+      153,
+      468,
+      1546,
+      625
+    ],
+    "category": "Text",
+    "text": "Thiết bị xuất phát từ $A(1; 2; 0)$, nên phương trình chính tắc của đường thẳng quỹ đạo là: $\\frac{x-1}{\\sqrt{2}} = \\frac{y-2}{1} = \\frac{z}{1}$."
+  },
+  {
+    "bbox": [
+      214,
+      639,
+      375,
+      679
+    ],
+    "category": "Text",
+    "text": "d): Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      674,
+      1507,
+      752
+    ],
+    "category": "Text",
+    "text": "Quăng đường thiết bị đi được sau 10 giây là: $S(10) = \\frac{1}{2} \\cdot 6 \\cdot 10^2 + 10 \\cdot 10 = 300 + 100 = 400$ m."
+  },
+  {
+    "bbox": [
+      153,
+      744,
+      996,
+      795
+    ],
+    "category": "Text",
+    "text": "Tọa độ của thiết bị tại thời điểm $t$ là $\\overrightarrow{M(t)} = \\vec{A} + S(t) \\cdot \\vec{u}$."
+  },
+  {
+    "bbox": [
+      153,
+      790,
+      1188,
+      868
+    ],
+    "category": "Text",
+    "text": "Độ cao của thiết bị chính là cao độ $z$: $z(t) = z_A + S(t) \\cdot c = 0 + S(t) \\cdot \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      860,
+      820,
+      938
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 10$: $z(10) = 400 \\cdot \\frac{1}{2} = 200$ m."
+  },
+  {
+    "bbox": [
+      153,
+      948,
+      1546,
+      1080
+    ],
+    "category": "Text",
+    "text": "Bài 3. Hình phẳng ($H$) dưới đây được giới hạn bởi các cạnh $AB, AD$ của hình vuông và các cung phần tư của các đường tròn có bán kính bằng 2 cm với tâm lần lượt là trung điểm của các cạnh $BC$ và $AD$ và được gắn vào hệ trục tọa độ $Oxy$ như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      566,
+      1089,
+      1136,
+      1638
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1685,
+      890,
+      1727
+    ],
+    "category": "Text",
+    "text": "Kiểm tra tính đúng/sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      1747,
+      808,
+      1788
+    ],
+    "category": "List-item",
+    "text": "a) Cung tròn phần tư ($C_2$) có tâm $I_2(4; 2)$."
+  },
+  {
+    "bbox": [
+      190,
+      1798,
+      1120,
+      1845
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình của cung tròn phần tư ($C_1$) là $y = 2 - \\sqrt{4 - x^2}$."
+  },
+  {
+    "bbox": [
+      190,
+      1857,
+      785,
+      1900
+    ],
+    "category": "List-item",
+    "text": "c) Diện tích hình phẳng ($H$) bằng $8 \\text{ cm}^2$."
+  },
+  {
+    "bbox": [
+      190,
+      1912,
+      1546,
+      2044
+    ],
+    "category": "List-item",
+    "text": "d) Người ta muốn tạo ra một vật trang trí dạng khối tròn xoay bằng cách quay hình phẳng ($H$) quanh trục $AB$ thì lúc này vật trang trí có thể tích bằng $72 \\text{ cm}^3$ (Kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      153,
+      2058,
+      1546,
+      2162
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào hình vẽ, ta thiết lập hệ tọa độ với trục $Ox$ thẳng đứng và $Oy$ nằm ngang. Gốc tọa độ $B \\equiv O(0, 0)$."
+  },
+  {
+    "bbox": [
+      153,
+      2167,
+      617,
+      2207
+    ],
+    "category": "Text",
+    "text": "Khi đó: $A(4; 0)$, $C(0; 4)$, $D(4; 4)$."
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "114"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

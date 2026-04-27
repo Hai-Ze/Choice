@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      605,
+      135,
+      1136,
+      682
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      731,
+      400,
+      771
+    ],
+    "category": "Text",
+    "text": "Dựng $BH \\perp CB'$."
+  },
+  {
+    "bbox": [
+      156,
+      790,
+      803,
+      887
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\left. \\begin{array}{l} AB \\perp BC \\\\ AB \\perp BB' \\end{array} \\right\\} \\Rightarrow AB \\perp (BCC'B') \\Rightarrow AB \\perp BH.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      908,
+      1574,
+      1019
+    ],
+    "category": "Text",
+    "text": "Suy ra $BH$ là đường vuông góc chung của hai đường thẳng chéo nhau $AB$ và $CB'$ hay $d(AB, CB') = BH$."
+  },
+  {
+    "bbox": [
+      156,
+      1043,
+      1000,
+      1138
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Dễ thấy } BB' = 6, BC = 3 \\Rightarrow \\frac{1}{BH^2} = \\frac{1}{BB'^2} + \\frac{1}{BC^2} \\Rightarrow BH = \\frac{6\\sqrt{5}}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1158,
+      551,
+      1251
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(AB, CB') = \\frac{6\\sqrt{5}}{5} \\approx 2,7.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1326,
+      1574,
+      1722
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** At địa phương A, người ta tiến hành một đợt kiểm tra diện rộng các con bò để phát hiện một loại bệnh X, không có xét nghiệm nào cho kết quả chính xác 100%. Có một loại xét nghiệm, mà ở đây ta gọi là xét nghiệm Z cho kết quả như sau: Xét nghiệm có độ nhạy 84% (Độ nhạy là xác suất chọn được một mẫu dương tính biết rằng mẫu bị nhiễm bệnh); xác suất dương tính giả là 8% (Dương tính giả là xét nghiệm dương tính nhưng thực tế không bị nhiễm bệnh). Biết rằng tỉ lệ bò ở địa phương A bị mắc bệnh X là 25%. Chọn ngẫu nhiên một con bò địa phương A để xét nghiệm, tính xác suất để chọn được con bò bị nhiễm bệnh, biết rằng con bò dương tính với xét nghiệm (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      156,
+      1739,
+      493,
+      1775
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1798,
+      924,
+      1838
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1856,
+      348,
+      1895
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,78"
+  },
+  {
+    "bbox": [
+      156,
+      1915,
+      927,
+      1959
+    ],
+    "category": "Text",
+    "text": "Gọi M là biến cố “Chọn được một con bò bị nhiễm bệnh”"
+  },
+  {
+    "bbox": [
+      156,
+      1973,
+      1030,
+      2017
+    ],
+    "category": "Text",
+    "text": "N là biến cố “Chọn được một con bò dương tính với xét nghiệm”"
+  },
+  {
+    "bbox": [
+      156,
+      2039,
+      1215,
+      2101
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết bài toán, ta có $P(M) = 0,25$; $P(N|M) = 0,84$; $P(N|\\overline{M}) = 0,08$."
+  },
+  {
+    "bbox": [
+      156,
+      2129,
+      1250,
+      2246
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(M|N) = \\frac{P(M) \\cdot P(N|M)}{P(M) \\cdot P(N|M) + P(\\overline{M}) \\cdot P(N|\\overline{M})} = \\frac{0,25 \\cdot 0,84}{0,25 \\cdot 0,84 + 0,75 \\cdot 0,08} = \\frac{7}{9}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

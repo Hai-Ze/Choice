@@ -1,0 +1,440 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1193,
+      201
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Cho $A$ và $B$ là hai biến cố bất kì, với $0 < P(B) < 1$. Khi đó"
+  },
+  {
+    "bbox": [
+      222,
+      204,
+      555,
+      291
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } P(B \\mid A) = \\frac{P(AB)}{P(B)}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      204,
+      1162,
+      291
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } P(A \\mid B) = \\frac{P(AB)}{P(B)}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      294,
+      555,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } P(A \\mid B) = \\frac{P(B)}{P(AB)}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      294,
+      1162,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } P(B \\mid A) = \\frac{P(AB)}{P(\\bar{B})}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      400,
+      798,
+      447
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      222,
+      452,
+      516,
+      533
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\int 12^x \\, dx = 12^x.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      447,
+      1150,
+      533
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\int 12^x \\, dx = \\frac{12^x}{\\ln 12}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      533,
+      606,
+      620
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\int 12^x \\, dx = \\frac{12^x}{\\ln 12} + C.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      540,
+      1191,
+      620
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\int 12^x \\, dx = 12^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      629,
+      305,
+      667
+    ],
+    "category": "Text",
+    "text": "**Câu 8.**"
+  },
+  {
+    "bbox": [
+      192,
+      680,
+      992,
+      781
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $y = f(x)$ có đồ thị như hình vẽ bên. Tọa độ tâm đối xứng của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      222,
+      800,
+      353,
+      842
+    ],
+    "category": "List-item",
+    "text": "A. (1; 1)."
+  },
+  {
+    "bbox": [
+      408,
+      800,
+      539,
+      842
+    ],
+    "category": "List-item",
+    "text": "B. (2; 2)."
+  },
+  {
+    "bbox": [
+      594,
+      800,
+      725,
+      842
+    ],
+    "category": "List-item",
+    "text": "C. (1; 2)."
+  },
+  {
+    "bbox": [
+      780,
+      800,
+      911,
+      842
+    ],
+    "category": "List-item",
+    "text": "D. (2; 1)."
+  },
+  {
+    "bbox": [
+      1005,
+      689,
+      1445,
+      1090
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1100,
+      1454,
+      1205
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, cho véc-tơ $\\vec{a} = (2; -1; 3)$ và $\\vec{b} = (1; 0; -2)$. Tọa độ của véc-tơ $\\vec{a} - 2\\vec{b}$ là"
+  },
+  {
+    "bbox": [
+      222,
+      1227,
+      413,
+      1269
+    ],
+    "category": "List-item",
+    "text": "A. (1; -1; 5)."
+  },
+  {
+    "bbox": [
+      524,
+      1227,
+      745,
+      1269
+    ],
+    "category": "List-item",
+    "text": "B. (4; -1; -1)."
+  },
+  {
+    "bbox": [
+      825,
+      1227,
+      1016,
+      1269
+    ],
+    "category": "List-item",
+    "text": "C. (3; -1; 1)."
+  },
+  {
+    "bbox": [
+      1126,
+      1227,
+      1315,
+      1269
+    ],
+    "category": "List-item",
+    "text": "D. (0; -1; 7)."
+  },
+  {
+    "bbox": [
+      192,
+      1295,
+      1454,
+      1398
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Khi thống kê số khách hàng vào siêu thị trong 30 ngày đầu tiên khai trương, người ta được kết quả là bảng tần số ghép nhóm như bên dưới."
+  },
+  {
+    "bbox": [
+      192,
+      1461,
+      1507,
+      1576
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[80; 100)</td><td>[100; 120)</td><td>[120; 140)</td><td>[140; 160)</td><td>[160; 180)</td><td>[180; 200)</td><td></td></tr><tr><td>Tần số</td><td>3</td><td>5</td><td>6</td><td>8</td><td>6</td><td>2</td><td>N = 30</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1595,
+      1454,
+      1698
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm trên là bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      222,
+      1717,
+      341,
+      1757
+    ],
+    "category": "List-item",
+    "text": "A. 7,50."
+  },
+  {
+    "bbox": [
+      524,
+      1717,
+      659,
+      1757
+    ],
+    "category": "List-item",
+    "text": "B. 24,50."
+  },
+  {
+    "bbox": [
+      825,
+      1717,
+      960,
+      1757
+    ],
+    "category": "List-item",
+    "text": "C. 19,17."
+  },
+  {
+    "bbox": [
+      1126,
+      1717,
+      1261,
+      1757
+    ],
+    "category": "List-item",
+    "text": "D. 43,67."
+  },
+  {
+    "bbox": [
+      192,
+      1785,
+      1095,
+      1833
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tout cả các nghiệm của phương trình $\\cos x = -1$ là"
+  },
+  {
+    "bbox": [
+      222,
+      1852,
+      577,
+      1892
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } x = \\pi + k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      1852,
+      1166,
+      1892
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } x = \\pi + k\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1901,
+      583,
+      1980
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      1918,
+      1122,
+      1958
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } x = k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1988,
+      1454,
+      2143
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Gọi $M$ là trung điểm của cạnh $SC$, $N$ là trung điểm của $SD$. Khi đó hai đường thẳng $AB$ và $MN$ là hai đường thẳng"
+  },
+  {
+    "bbox": [
+      222,
+      2162,
+      437,
+      2202
+    ],
+    "category": "List-item",
+    "text": "A. chéo nhau."
+  },
+  {
+    "bbox": [
+      524,
+      2162,
+      755,
+      2202
+    ],
+    "category": "List-item",
+    "text": "B. trùng nhau."
+  },
+  {
+    "bbox": [
+      825,
+      2162,
+      1038,
+      2202
+    ],
+    "category": "List-item",
+    "text": "C. song song."
+  },
+  {
+    "bbox": [
+      1126,
+      2162,
+      1315,
+      2202
+    ],
+    "category": "List-item",
+    "text": "D. cắt nhau."
+  },
+  {
+    "bbox": [
+      192,
+      2245,
+      476,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2245,
+      1451,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 71"
+  }
+]

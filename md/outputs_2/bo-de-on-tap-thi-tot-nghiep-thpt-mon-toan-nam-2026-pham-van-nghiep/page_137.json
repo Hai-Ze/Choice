@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      805,
+      204
+    ],
+    "category": "Text",
+    "text": "Khi đó: $P(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0,18}{0,45} = 0,4$."
+  },
+  {
+    "bbox": [
+      74,
+      208,
+      1575,
+      315
+    ],
+    "category": "List-item",
+    "text": "**Câu 12:** Thế tich khối tròn xoay tạo thành khi cho hình phẳng giới hạn bởi đồ thị hàm số $f(x) = \\sqrt{x}$, trục hoành và hai đường thẳng $x = 0, x = 2$ quay quanh trục $Ox$ là"
+  },
+  {
+    "bbox": [
+      212,
+      315,
+      400,
+      410
+    ],
+    "category": "List-item",
+    "text": "A. $\\pi \\int_{0}^{2} \\sqrt{x} \\, dx$."
+  },
+  {
+    "bbox": [
+      546,
+      315,
+      703,
+      410
+    ],
+    "category": "List-item",
+    "text": "B. $\\pi \\int_{0}^{2} x \\, dx$."
+  },
+  {
+    "bbox": [
+      862,
+      315,
+      1023,
+      410
+    ],
+    "category": "List-item",
+    "text": "C. $\\int_{0}^{2} \\sqrt{x} \\, dx$."
+  },
+  {
+    "bbox": [
+      1177,
+      315,
+      1314,
+      410
+    ],
+    "category": "List-item",
+    "text": "D. $\\int_{0}^{2} x \\, dx$."
+  },
+  {
+    "bbox": [
+      833,
+      419,
+      953,
+      461
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      463,
+      1406,
+      558
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức tính thể tích khối tròn xoay ta được: $V = \\pi \\int_{0}^{2} (\\sqrt{x})^2 \\, dx = \\pi \\int_{0}^{2} x \\, dx$."
+  },
+  {
+    "bbox": [
+      212,
+      558,
+      1575,
+      654
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 13 đến câu 16. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      654,
+      1575,
+      842
+    ],
+    "category": "List-item",
+    "text": "**Câu 13:** Giả sử giá bán cho mỗi sản phẩm độc quyền được cho bởi công thức $P(a) = 500 - 3a$ trên mỗi sản phẩm và hàm chi phí trung bình để sản xuất là $\\bar{C}(a) = 0,1a + 4 + \\frac{600}{a}$ trong đó $a$ là số đơn vị sản phẩm và đơn vị tính là USD"
+  },
+  {
+    "bbox": [
+      502,
+      838,
+      1282,
+      1195
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1200,
+      1159,
+      1243
+    ],
+    "category": "List-item",
+    "text": "a) $a = 80$ là lượng sản phẩm bán ra để lợi nhuận thu được tối đa"
+  },
+  {
+    "bbox": [
+      212,
+      1245,
+      992,
+      1287
+    ],
+    "category": "List-item",
+    "text": "b) Giá bán để lợi nhuận thu được tối đa là 260 (USD)"
+  },
+  {
+    "bbox": [
+      212,
+      1291,
+      859,
+      1333
+    ],
+    "category": "List-item",
+    "text": "c) Lợi nhuận thu được tối đa là 19180 (USD)"
+  },
+  {
+    "bbox": [
+      212,
+      1333,
+      1575,
+      1426
+    ],
+    "category": "List-item",
+    "text": "d) Nếu mỗi sản phẩm phải chịu 12,4 (USD) tiền thuế thì giá bán sản phẩm để thu được lợi nhuận tối đa là 266 (USD)"
+  },
+  {
+    "bbox": [
+      833,
+      1431,
+      953,
+      1473
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1473,
+      1354,
+      1561
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Đúng: } L(a) = a \\cdot P - a \\cdot \\bar{C} = a(500 - 3a) - a\\left(0,1a + 4 + \\frac{600}{a}\\right) = -3,1a^2 + 496a - 600\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1569,
+      593,
+      1630
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta thấy: } \\max_{(0;+\\infty)} L(a) = L(80)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1639,
+      1395,
+      1685
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Đúng: Giá bán khi lợi nhuận thu được tối đa là } P(80) = 500 - 3.60 = 260 \\text{ (USD)}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1696,
+      607,
+      1742
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Sai: } L(80) = 19240 \\text{ (USD)}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1751,
+      1335,
+      1834
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Đúng: Chi phí cho một sản phẩm là 12,4 (USD) $\\Rightarrow \\bar{C}_1(a) = 0,1a + \\frac{600}{a} + 16,4\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1838,
+      1249,
+      1925
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } L_1(a) = a(500 - 3a) - a\\left(0,1a + \\frac{600}{a} + 16,4\\right) = -3,1a^2 + 483,6a - 600\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1933,
+      1488,
+      1996
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\max_{(0;+\\infty)} L_1(a) = L_1(78) \\text{ thì giá bán sản phẩm lúc đó là } P(78) = 500 - 3.78 = 266 \\text{ (USD)}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2002,
+      1575,
+      2143
+    ],
+    "category": "List-item",
+    "text": "**Câu 14:** Hình vẽ dưới đây mô tả mặt cắt dọc của ngọn đuốc bằng kim loại được thiết kế cho một đại hội thể thao lớn. Ngọn đuốc có chiều cao 7,5 m; mặt trên có chiều rộng 8 m; mặt dưới có chiều rộng 2 m; hai đường biên của ngọn đuốc đối xứng nhau qua trục $Oy$ và được cho bởi"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

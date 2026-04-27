@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      268,
+      91,
+      1552,
+      183
+    ],
+    "category": "Text",
+    "text": "b) Tại thời điểm 8h, khoảng cách giữa máy bay và một tháp truyền hình $F$ có tọa độ $(1250;1020;0)$ xấp xỉ 700km (sai số không quá 10km)."
+  },
+  {
+    "bbox": [
+      268,
+      191,
+      1552,
+      297
+    ],
+    "category": "Text",
+    "text": "c) Khi đạt độ cao 10km, máy bay đổi vận tốc mới là $\\vec{v}_2 = (400;300;-5)$ để hướng đến sân bay $B$. Tọa độ của máy bay khi vừa đáp xuống sân bay $B$ là $(1450;1520;0)$."
+  },
+  {
+    "bbox": [
+      268,
+      300,
+      1124,
+      346
+    ],
+    "category": "Text",
+    "text": "d) Tại thời điểm 7h độ cao của máy bay so với mặt đất là 7 km."
+  },
+  {
+    "bbox": [
+      852,
+      383,
+      966,
+      422
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      261,
+      456,
+      877,
+      493
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Sai</td><td>b) Sai</td><td>c) Đúng</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      268,
+      534,
+      1035,
+      591
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } \\overline{OM} = (50;120;4) \\Rightarrow OM = \\sqrt{50^2 + 120^2 + 4^2} \\approx 130,06\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      593,
+      1552,
+      673
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách giữa máy bay và trạm không lưu tại thời điểm 6h xấp xỉ 130km. **Suy ra ý a) Sai.**"
+  },
+  {
+    "bbox": [
+      268,
+      677,
+      745,
+      727
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Ta có } \\overline{OM} + 2\\vec{v} = (650;920;10).\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      735,
+      1098,
+      783
+    ],
+    "category": "Text",
+    "text": "Vậy tại thời điểm 8h, tọa độ của máy bay là $M_2(650;920;10)$"
+  },
+  {
+    "bbox": [
+      268,
+      791,
+      1178,
+      848
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\overline{M_2F} = (600;100;10) \\Rightarrow M_2F = \\sqrt{600^2 + 100^2 + 10^2} \\approx 608,36\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      850,
+      1436,
+      896
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách giữa máy bay và tháp truyền hình $F$ xấp xỉ 600km. **Suy ra ý b) Sai.**"
+  },
+  {
+    "bbox": [
+      268,
+      892,
+      1449,
+      936
+    ],
+    "category": "Text",
+    "text": "c) Từ độ cao 10km, với tốc độ hạ độ cao là 5km/h thì máy bay cần 2h để đáp xuống đất."
+  },
+  {
+    "bbox": [
+      268,
+      934,
+      754,
+      984
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\overline{OM_2} + 2\\vec{v}_2 = (1450;1520;0).\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      992,
+      1354,
+      1040
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ của máy bay khi đáp xuống là $M_3(1450;1520;0)$. **Suy ra ý c) Đúng.**"
+  },
+  {
+    "bbox": [
+      268,
+      1048,
+      700,
+      1098
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Ta có } \\overline{OM} + \\vec{v} = (350;520;7)\n$$"
+  },
+  {
+    "bbox": [
+      268,
+      1106,
+      1032,
+      1154
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm 7h, tọa độ của máy bay là $M_1(350;520;7)$"
+  },
+  {
+    "bbox": [
+      268,
+      1158,
+      1166,
+      1204
+    ],
+    "category": "Text",
+    "text": "Vậy độ cao của máy bay so với mặt đất là 7km. **Suy ra ý d) Đúng.**"
+  },
+  {
+    "bbox": [
+      130,
+      1252,
+      1552,
+      1355
+    ],
+    "category": "Text",
+    "text": "**Câu 16.** Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$. Gọi $E, F$ lần lượt là trung điểm của $AB$ và $AA'$. Cho biết $AB = 2, BC = \\sqrt{13}, CC' = 4$."
+  },
+  {
+    "bbox": [
+      172,
+      1361,
+      884,
+      1405
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $BC$ vuông góc với đường thẳng $A'B$"
+  },
+  {
+    "bbox": [
+      172,
+      1405,
+      827,
+      1451
+    ],
+    "category": "Text",
+    "text": "b) Thế tích khối lăng trụ $ABC.A'B'C'$ bằng 24."
+  },
+  {
+    "bbox": [
+      172,
+      1463,
+      1218,
+      1549
+    ],
+    "category": "Text",
+    "text": "c) Côsin của góc giữa đường thẳng $A'B$ và mặt phẳng đáy $(ABC)$ bằng $\\frac{1}{\\sqrt{5}}$."
+  },
+  {
+    "bbox": [
+      172,
+      1563,
+      975,
+      1643
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai đường thẳng $A'B$ và $CE$ bằng $\\frac{7}{6}$."
+  },
+  {
+    "bbox": [
+      130,
+      1647,
+      358,
+      1693
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  }
+]

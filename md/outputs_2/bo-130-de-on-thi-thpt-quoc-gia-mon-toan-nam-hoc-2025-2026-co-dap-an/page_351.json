@@ -1,0 +1,509 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      48,
+      1263,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1597,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      120,
+      451,
+      183
+    ],
+    "category": "List-item",
+    "text": "(A) $\\min_{(-\\infty;1)} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      668,
+      120,
+      966,
+      183
+    ],
+    "category": "List-item",
+    "text": "(B) $\\min_{(0;+\\infty)} f(x) = f(1)$."
+  },
+  {
+    "bbox": [
+      123,
+      183,
+      422,
+      246
+    ],
+    "category": "List-item",
+    "text": "(C) $\\min_{(-\\infty;1)} f(x) = f(0)$."
+  },
+  {
+    "bbox": [
+      668,
+      183,
+      966,
+      246
+    ],
+    "category": "List-item",
+    "text": "(D) $\\min_{(0;+\\infty)} f(x) = f(0)$."
+  },
+  {
+    "bbox": [
+      93,
+      260,
+      1197,
+      341
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Trong không gian với hệ toạ độ $Oxyz$, cho ba điểm $A(3; 2; 1)$, $B(1; -1; 2)$ và $C(1; 2; -1)$. Tìm toạ độ điểm $M$ thỏa mãn $\\overrightarrow{OM} = 2\\overrightarrow{AB} - \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      123,
+      341,
+      362,
+      380
+    ],
+    "category": "List-item",
+    "text": "(A) $M(-2; -6; 4)$."
+  },
+  {
+    "bbox": [
+      668,
+      341,
+      884,
+      380
+    ],
+    "category": "List-item",
+    "text": "(B) $M(2; -6; 4)$."
+  },
+  {
+    "bbox": [
+      123,
+      380,
+      339,
+      425
+    ],
+    "category": "List-item",
+    "text": "(C) $M(-2; 6; 4)$."
+  },
+  {
+    "bbox": [
+      668,
+      380,
+      929,
+      425
+    ],
+    "category": "List-item",
+    "text": "(D) $M(-2; -6; -4)$."
+  },
+  {
+    "bbox": [
+      93,
+      439,
+      988,
+      515
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho $\\int 5^x dx = F(x) + C$. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      515,
+      375,
+      554
+    ],
+    "category": "List-item",
+    "text": "(A) $F'(x) = 5^x \\ln 5$."
+  },
+  {
+    "bbox": [
+      668,
+      515,
+      929,
+      554
+    ],
+    "category": "List-item",
+    "text": "(B) $F'(x) = 5^x + C$."
+  },
+  {
+    "bbox": [
+      123,
+      554,
+      348,
+      599
+    ],
+    "category": "List-item",
+    "text": "(C) $F'(x) = -5^x$."
+  },
+  {
+    "bbox": [
+      668,
+      554,
+      868,
+      599
+    ],
+    "category": "List-item",
+    "text": "(D) $F'(x) = 5^x$."
+  },
+  {
+    "bbox": [
+      93,
+      613,
+      1197,
+      694
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Gọi $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên đoạn $[a; b]$. Mind đề nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      123,
+      694,
+      505,
+      811
+    ],
+    "category": "List-item",
+    "text": "(A) $\\int_a^b f(x) dx = f(a) + f(b)$."
+  },
+  {
+    "bbox": [
+      668,
+      694,
+      1063,
+      811
+    ],
+    "category": "List-item",
+    "text": "(B) $\\int_a^b f(x) dx = F(a) + F(b)$."
+  },
+  {
+    "bbox": [
+      123,
+      811,
+      518,
+      928
+    ],
+    "category": "List-item",
+    "text": "(C) $\\int_a^b f(x) dx = F(b) - F(a)$."
+  },
+  {
+    "bbox": [
+      668,
+      811,
+      1049,
+      928
+    ],
+    "category": "List-item",
+    "text": "(D) $\\int_a^b f(x) dx = f(b) - f(a)$."
+  },
+  {
+    "bbox": [
+      93,
+      942,
+      1032,
+      983
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Bảng dưới đây thống kê cự li ném tạ của một vận động viên"
+  },
+  {
+    "bbox": [
+      214,
+      1006,
+      1078,
+      1105
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Cự li (m)</td><td>[19; 19,5)</td><td>[19,5; 20)</td><td>[20; 20,5)</td><td>[20,5; 21)</td><td>[21; 21,5)</td></tr><tr><td>Tần số</td><td>13</td><td>45</td><td>24</td><td>12</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1132,
+      1197,
+      1207
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm trên là (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      123,
+      1207,
+      234,
+      1246
+    ],
+    "category": "List-item",
+    "text": "(A) 0,28."
+  },
+  {
+    "bbox": [
+      395,
+      1207,
+      505,
+      1246
+    ],
+    "category": "List-item",
+    "text": "(B) 0,22."
+  },
+  {
+    "bbox": [
+      668,
+      1207,
+      777,
+      1246
+    ],
+    "category": "List-item",
+    "text": "(C) 0,24."
+  },
+  {
+    "bbox": [
+      941,
+      1207,
+      1050,
+      1246
+    ],
+    "category": "List-item",
+    "text": "(D) 0,26."
+  },
+  {
+    "bbox": [
+      93,
+      1258,
+      1197,
+      1421
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho mặt phẳng ($P$) có phương trình $\\frac{x}{-2} + \\frac{y}{-1} + \\frac{z}{3} = 1$ cắt ba trục $Ox$, $Oy$, $Oz$ lần lượt tại $A$, $B$, $C$. Khi đó thể tích của khối chóp $OABC$ bằng"
+  },
+  {
+    "bbox": [
+      123,
+      1421,
+      195,
+      1460
+    ],
+    "category": "List-item",
+    "text": "(A) 6."
+  },
+  {
+    "bbox": [
+      395,
+      1421,
+      467,
+      1460
+    ],
+    "category": "List-item",
+    "text": "(B) 3."
+  },
+  {
+    "bbox": [
+      668,
+      1421,
+      741,
+      1460
+    ],
+    "category": "List-item",
+    "text": "(C) 2."
+  },
+  {
+    "bbox": [
+      941,
+      1421,
+      1013,
+      1460
+    ],
+    "category": "List-item",
+    "text": "(D) 1."
+  },
+  {
+    "bbox": [
+      93,
+      1476,
+      1197,
+      1589
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Trong không gian $Oxyz$, cho điểm $I(5; 2; -3)$ và mặt phẳng ($P$) có phương trình $2x + 2y + z + 1 = 0$. Miền cầu ($S$) có tâm $I$ và tiếp xúc với ($P$) có phương trình là"
+  },
+  {
+    "bbox": [
+      123,
+      1589,
+      641,
+      1634
+    ],
+    "category": "List-item",
+    "text": "(A) $(x - 5)^2 + (y - 2)^2 + (z + 3)^2 = 16$."
+  },
+  {
+    "bbox": [
+      668,
+      1589,
+      1167,
+      1634
+    ],
+    "category": "List-item",
+    "text": "(B) $(x - 5)^2 + (y - 2)^2 + (z + 3)^2 = 4$."
+  },
+  {
+    "bbox": [
+      123,
+      1634,
+      641,
+      1679
+    ],
+    "category": "List-item",
+    "text": "(C) $(x + 5)^2 + (y + 2)^2 + (z - 3)^2 = 16$."
+  },
+  {
+    "bbox": [
+      668,
+      1634,
+      1167,
+      1679
+    ],
+    "category": "List-item",
+    "text": "(D) $(x + 5)^2 + (y + 2)^2 + (z - 3)^2 = 4$."
+  },
+  {
+    "bbox": [
+      107,
+      1693,
+      823,
+      1746
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1756,
+      1197,
+      1948
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một đề thi kiểm tra giữa kì của một lớp sinh viên có 20 câu hỏi. Học sinh giải sẽ trả lời đúng hết cả 20 câu. Sinh viên khá trả lời đúng 15 câu, sinh viên trung bình trả lời đúng 10 câu, sinh viên yếu trả lời đúng 5 câu. Tỷ lệ sinh viên giải, khá, trung bình, yếu trong lớp lần lượt là 10%, 20%, 30%, 40%. Giáo viên chọn ngẫu nhiên một học sinh lên bốc tham 3 câu từ 20 câu trên."
+  },
+  {
+    "bbox": [
+      123,
+      1948,
+      710,
+      1987
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được sinh viên giải là 0,1."
+  },
+  {
+    "bbox": [
+      123,
+      1987,
+      1030,
+      2026
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để học sinh được chọn không phải sinh viên yếu là 0,6."
+  },
+  {
+    "bbox": [
+      123,
+      2026,
+      996,
+      2065
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất sinh viên đã chọn được trả lời cả 3 câu đúng là 0,21."
+  },
+  {
+    "bbox": [
+      123,
+      2065,
+      1193,
+      2145
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất sinh viên được chọn trả lời đúng cả 3 câu là sinh viên khá hoặc trung bình là 0,34."
+  },
+  {
+    "bbox": [
+      93,
+      2163,
+      730,
+      2208
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hai hàm số $f(x) = e^{x^2-x} - x^2 + x$."
+  },
+  {
+    "bbox": [
+      123,
+      2208,
+      1039,
+      2247
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm số đã cho là $f'(x) = (2x - 1) e^{x^2-x} - (2x - 1)$."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1226,
+      2259,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 349"
+  }
+]

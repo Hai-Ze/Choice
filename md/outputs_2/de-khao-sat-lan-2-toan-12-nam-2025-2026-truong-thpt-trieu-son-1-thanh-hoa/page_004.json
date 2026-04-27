@@ -1,0 +1,111 @@
+[
+  {
+    "bbox": [
+      217,
+      85,
+      833,
+      125
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 17 đến câu 22."
+  },
+  {
+    "bbox": [
+      217,
+      156,
+      1524,
+      413
+    ],
+    "category": "Text",
+    "text": "**Câu 17.** Trong một trò chơi điện tử, hai bạn An và Bình thi xem ai chạy được quăng đường xa hơn. An chạy với vận tốc $v_A(t) = 5\\sqrt{t}$ (km/h), quăng đường Bình chạy được cho bởi phương trình $S_B(t) = 5t - \\frac{5}{2\\pi}\\sin(2\\pi t)$ (km) (với $t$ là thời gian tính theo giờ). Cuộc đưa kết thúc khi An hoặc Bình chạy được 10 km đầu tiên, khi đó khoảng cách giữa hai bạn là bao nhiêu kilômét? (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      217,
+      429,
+      1524,
+      555
+    ],
+    "category": "Text",
+    "text": "**Câu 18.** Cho hình chóp $S.ABCD$ có đáy là hình vuông $ABCD$ cạnh bằng 2, $SA \\perp (ABCD)$ và $SA = 4$. Tính khoảng cách giữa hai đường thẳng $BD$ và $SC$ (kết quả làm hàng tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      217,
+      564,
+      1524,
+      810
+    ],
+    "category": "Text",
+    "text": "**Câu 19.** Giả sử số lượng tế bào của một whan thể nấm men tại môi trường nuôi cấy trong phòng thí nghiệm được mô hình hoá bằng hàm số $P(t) = \\frac{a}{b+e^{-0,75t}}$, trong đó thời gian $t$ được tính bằng giờ và $a, b$ là các hằng số. Tại thời điểm ban đầu $t = 0$, whan thể có 30 tế bào và tăng với tốc độ 15 tế bào/giờ. Theo mô hình này số lượng tế bào của whan thể luôn thuộc khoảng $[\\alpha; \\beta)$. Khi đó $2\\alpha - \\beta$ bằng bao nhiêu ?"
+  },
+  {
+    "bbox": [
+      211,
+      845,
+      1121,
+      1178
+    ],
+    "category": "Text",
+    "text": "**Câu 20.** Trên đường tròn tâm $O$ bán kính bằng 1 có một điểm $P$ chuyển động (như hình bên). Khi gieo một con xúc xắc, nếu số chấm xuất hiện là 1 hoặc 2 thì điểm $P$ chuyển động theo chiều kim đồng hồ một góc $60^\\circ$, còn trong các trường hợp khác thì điểm $P$ chuyển động theo chiềuled kim đồng hồ một góc $60^\\circ$. Khi gieo xúc xắc 8 lần, xác suất để điểm $P$ trở về đúng vị trí ban đầu là $\\frac{k}{3^5}$. Khi đó, giá trị của $k$ là bao nhiêu? (biết rằng $k$ là số tự nhiên)."
+  },
+  {
+    "bbox": [
+      1182,
+      855,
+      1451,
+      1168
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      1208,
+      1524,
+      1533
+    ],
+    "category": "Text",
+    "text": "**Câu 21.** Nhà máy A chuyên sản xuất một loại sản phẩm cho nhà máy B; Hai nhà máy thỏa thuận rằng, hàng tháng nhà máy A cung cấp cho nhà máy B số lượng sản phẩm theo đơn đặt hàng của nhà máy B (tối đa 90 tấn sản phẩm). Nếu số lượng đặt hàng là $x$ tấn sản phẩm thì giá bán cho mỗi tấn sản phẩm là $p(x) = 90 - 0,01x^2$ (đơn vị triệu đồng). Chi phí để nhà máy A sản suất $x$ tấn sản phẩm trong một tháng là $C(x) = \\frac{1}{2}(200 + 27x)$ (đơn vị triệu đồng), thuế giá trị gia tăng mà nhà máy A phải đóng cho nhà nước là 10% tổng doanh thu mỗi tháng. Hỏi mỗi tháng nhà máy A thu được lợi nhuận cao nhất bao nhiêu triệu đồng (sau khi đã trừ thuế giá trị gia tăng)?"
+  },
+  {
+    "bbox": [
+      217,
+      1562,
+      1524,
+      1895
+    ],
+    "category": "Text",
+    "text": "**Câu 22.** Trong không gian $Oxyz$, bề mặt Trái Đất có phương trình $x^2 + y^2 + z^2 = 1$ (1 đơn vị dài trong không gian $Oxyz$ tương ứng với 6371 km trên thực tế); vị trí $P$ có vĩ độ, kinh độ tương ứng là $\\alpha^\\circ N, \\beta^\\circ E$ ($0 < \\alpha < 90, 0 < \\beta < 180$) có toạ độ $P(\\cos \\alpha^\\circ \\cos \\beta^\\circ; \\cos \\alpha^\\circ \\sin \\beta^\\circ; \\sin \\alpha^\\circ)$. Ứng dụng Google Maps cho phép xác định khoảng cách giữa hai vị trí trên bề mặt Trái Đất khi biết vĩ độ và kinh độ của chúng. Khoảng cách giữa hai vị trí $P$ và $Q$ trên bề mặt Trái Đất là độ dài cung nhỏ $PQ$ của đường tròn có tâm $O$ và đi qua hai điểm $P, Q$. Tính khoảng cách trên mặt đất giữa hồ Hoàn Kiểm (Hà Nội) ở vị trí $21^\\circ 02' N, 105^\\circ 51' E$ và đảo Trường Sa ở vị trí $8^\\circ 39' N, 111^\\circ 56' E$ (đơn vị: km, kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      804,
+      1890,
+      934,
+      1925
+    ],
+    "category": "Text",
+    "text": "--- Hết ---"
+  },
+  {
+    "bbox": [
+      427,
+      1941,
+      1310,
+      1977
+    ],
+    "category": "Text",
+    "text": "Thí sinh không được sử dụng tài liệu. CBCT không giải thích gì thêm!"
+  },
+  {
+    "bbox": [
+      1246,
+      2077,
+      1519,
+      2115
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/4 - Mã đề 1201"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      601,
+      105,
+      965,
+      314
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      326,
+      1495,
+      570
+    ],
+    "category": "Text",
+    "text": "Hình dạng của một quả bóng bầu dục có kích thước nói trên có thể được tạo thành khi quay phần diện tích hình phẳng giới hạn bởi đồ thị hàm số $f(x) = ax^2 + bx + c$, trục hoành và các đường thẳng $x = -4; x = 24$, trong đó $x$ tính bằng cm. Thể tích (đơn vị: cm³, kết quả làm tròn đến hàng đơn vị) của quả bóng bầu dục có kích thước nói trên bằng bao nhiêu."
+  },
+  {
+    "bbox": [
+      75,
+      586,
+      414,
+      623
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      646,
+      843,
+      684
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      702,
+      273,
+      741
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 3390"
+  },
+  {
+    "bbox": [
+      75,
+      762,
+      1495,
+      925
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ Oxy sao cho parabol $f(x) = ax^2 + bx + c$ cắt trục hoành tại các điểm $(-4;0)$, $(24;0)$ và tọa độ đỉnh $I\\left(10; -\\frac{17}{2}\\right)$."
+  },
+  {
+    "bbox": [
+      75,
+      951,
+      365,
+      991
+    ],
+    "category": "Text",
+    "text": "ta có hệ phương trình"
+  },
+  {
+    "bbox": [
+      82,
+      1007,
+      576,
+      1278
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 16a - 4b + c = 0 \\\\ 576a + 24b + c = 0 \\\\ 100a + 10b + c = -\\frac{17}{2} \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{17}{392} \\\\ b = -\\frac{85}{98} \\\\ c = -\\frac{204}{49} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1303,
+      515,
+      1385
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Nên } f(x) = \\frac{17}{392}x^2 - \\frac{85}{98}x - \\frac{204}{49}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1402,
+      523,
+      1448
+    ],
+    "category": "Text",
+    "text": "Thể tích của quả bóng bầu dục là"
+  },
+  {
+    "bbox": [
+      75,
+      1469,
+      1082,
+      1569
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{-4}^{24} [f(x)]^2 dx = \\pi \\int_{-4}^{24} \\left[ \\frac{17}{392}x^2 - \\frac{85}{98}x - \\frac{204}{49} \\right]^2 dx = \\frac{16184\\pi}{15} \\approx 3390 \\text{ cm}^3.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1584,
+      1495,
+      1923
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một nguồn âm phát ra sóng âm là sóng cầu ( mặt đầu sóng là mặt cầu). Khi gắn hệ trục tọa độ Oxyz với đơn vị trên mỗi trục là mét, vị trí nguồn âm có tọa độ $(0; -3; -1)$, cường độ âm chuẩn phát ra có bán kính là 10 mét. Một bạn học sinh di chuyển theo phương thẳng từ vị trí $N(7;10; -4)$ đến vị trí $M(5;0;2)$ để nhận nguồn âm. Khi bạn học sinh đó di chuyển từ $N$ đến $M$ thì vị trí đầu tiên nhận được nguồn âm là $A(x_0; y_0; z_0)$. Tính tổng $x_0 + y_0 + z_0$."
+  },
+  {
+    "bbox": [
+      481,
+      1942,
+      1086,
+      2235
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

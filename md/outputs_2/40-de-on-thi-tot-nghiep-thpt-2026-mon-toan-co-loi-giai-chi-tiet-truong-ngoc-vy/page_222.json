@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      100,
+      1575,
+      244
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = \\frac{ax^2 + bx + c}{mx + n}$ ($a \\neq 0, m \\neq 0$) với $a, b, c, m, n$ là các số thực và đồ thị có dạng như hình vẽ sau."
+  },
+  {
+    "bbox": [
+      629,
+      258,
+      1097,
+      810
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      821,
+      856,
+      866
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đã cho có bao nhiêu đường tiệm cận?"
+  },
+  {
+    "bbox": [
+      205,
+      884,
+      286,
+      918
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      556,
+      884,
+      634,
+      918
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      944,
+      884,
+      1015,
+      918
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1255,
+      884,
+      1334,
+      918
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      807,
+      944,
+      924,
+      982
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1002,
+      278,
+      1040
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      155,
+      1053,
+      1216,
+      1099
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị hàm số ta thấy: hàm số đã cho có 1 tiệm cận đứng và 1 tiệm cận xiên."
+  },
+  {
+    "bbox": [
+      155,
+      1116,
+      908,
+      1166
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      205,
+      1194,
+      494,
+      1241
+    ],
+    "category": "Formula",
+    "text": "A. $F(x) = x \\cdot 2025^{x-1}$."
+  },
+  {
+    "bbox": [
+      905,
+      1194,
+      1225,
+      1241
+    ],
+    "category": "Formula",
+    "text": "B. $F(x) = 2025 \\cdot 2024^x$."
+  },
+  {
+    "bbox": [
+      205,
+      1273,
+      475,
+      1356
+    ],
+    "category": "Formula",
+    "text": "C. $F(x) = \\frac{2025^x}{\\ln 2025}$."
+  },
+  {
+    "bbox": [
+      905,
+      1292,
+      1255,
+      1338
+    ],
+    "category": "Formula",
+    "text": "D. $F(x) = 2025^x \\cdot \\ln 2025$."
+  },
+  {
+    "bbox": [
+      807,
+      1379,
+      924,
+      1417
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1437,
+      278,
+      1475
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      155,
+      1500,
+      751,
+      1583
+    ],
+    "category": "Formula",
+    "text": "Ta có: $\\int f(x) dx = \\int 2025^x dx = \\frac{2025^x}{\\ln 2025} + C$."
+  },
+  {
+    "bbox": [
+      155,
+      1600,
+      1545,
+      1698
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tuổi thọ của một số linh kiện điện tử (đơn vị: năm) được sản xuất bởi phân xưởng $B$ cho như sau:"
+  },
+  {
+    "bbox": [
+      176,
+      1717,
+      1553,
+      1850
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ (năm)</td><td>[1,5; 2)</td><td>[2; 2,5)</td><td>[2,5; 3)</td><td>[3; 3,5)</td><td>[3,5; 4)</td></tr><tr><td>Số linh kiện của phân xưởng $B$</td><td>2</td><td>8</td><td>20</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1904,
+      814,
+      1948
+    ],
+    "category": "Text",
+    "text": "Tính phương sai của mẫu số liệu ghép nhóm trên"
+  },
+  {
+    "bbox": [
+      205,
+      1968,
+      347,
+      2004
+    ],
+    "category": "List-item",
+    "text": "A. 0,219."
+  },
+  {
+    "bbox": [
+      556,
+      1968,
+      692,
+      2004
+    ],
+    "category": "List-item",
+    "text": "B. 0,329."
+  },
+  {
+    "bbox": [
+      905,
+      1968,
+      1042,
+      2004
+    ],
+    "category": "List-item",
+    "text": "C. 0,119."
+  },
+  {
+    "bbox": [
+      1255,
+      1968,
+      1392,
+      2004
+    ],
+    "category": "List-item",
+    "text": "D. 0,129."
+  },
+  {
+    "bbox": [
+      807,
+      2032,
+      924,
+      2070
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      2090,
+      278,
+      2128
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      155,
+      2141,
+      665,
+      2187
+    ],
+    "category": "Text",
+    "text": "Ta có bảng số liệu với giá trị đại diện:"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

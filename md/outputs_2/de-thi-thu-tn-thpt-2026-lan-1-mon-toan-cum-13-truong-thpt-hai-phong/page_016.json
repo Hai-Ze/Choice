@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      98,
+      98,
+      465,
+      144
+    ],
+    "category": "Text",
+    "text": "Tiền phạm mỗi lần vi phạm:"
+  },
+  {
+    "bbox": [
+      98,
+      154,
+      655,
+      200
+    ],
+    "category": "Text",
+    "text": "Lần 1: $x$ (nghìn đồng), với $60 \\le x \\le 300$."
+  },
+  {
+    "bbox": [
+      98,
+      210,
+      476,
+      256
+    ],
+    "category": "Text",
+    "text": "Lần 2: $x - 20$ (nghìn đồng),"
+  },
+  {
+    "bbox": [
+      98,
+      274,
+      912,
+      355
+    ],
+    "category": "Text",
+    "text": "Tiền phạm công nhân vi phạm 1 lần: $S_1 = N_1 x = 2400 \\cdot \\frac{36}{x+10} \\cdot x$"
+  },
+  {
+    "bbox": [
+      98,
+      377,
+      1176,
+      458
+    ],
+    "category": "Text",
+    "text": "Tiền phạm công nhân vi phạm 2 lần: $S_2 = N_2 (2x - 20) = 2400 \\cdot \\frac{4}{x-30} \\cdot (x + x - 20)$"
+  },
+  {
+    "bbox": [
+      98,
+      462,
+      856,
+      550
+    ],
+    "category": "Text",
+    "text": "Tổng tiền phạm $S(x) = S_1 + S_2 = 2400 \\cdot \\left( \\frac{36x}{x+10} + \\frac{8x-80}{x-30} \\right)$"
+  },
+  {
+    "bbox": [
+      103,
+      571,
+      596,
+      686
+    ],
+    "category": "Formula",
+    "text": "$$\nS'(x) = 2400 \\cdot \\left[ \\frac{360}{(x+10)^2} - \\frac{160}{(x-30)^2} \\right]\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      707,
+      828,
+      815
+    ],
+    "category": "Formula",
+    "text": "$$\nS'(x) = 0 \\Leftrightarrow \\frac{360}{(x+10)^2} - \\frac{160}{(x-30)^2} = 0 \\Leftrightarrow \\begin{cases} x = 14 \\ (l) \\\\ x = 110 \\ (n) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      839,
+      828,
+      888
+    ],
+    "category": "Formula",
+    "text": "$$\nS(60) \\approx 106057, \\ S(110) = 103200, \\ S(300) \\approx 104235\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      911,
+      942,
+      961
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất là tại $x = 110$, $S(110) = 103200$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      98,
+      978,
+      637,
+      1024
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền phạm: $S = 103,2$ triệu đồng"
+  },
+  {
+    "bbox": [
+      98,
+      1024,
+      1551,
+      1155
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người gửi tiết kiệm vào ngân hàng 200 triệu đồng theo hình thức lãi kép (tức là tiền lãi được cộng vào vốn của kỳ kế tiếp). Ban đầu người đó gửi với kỳ hạn 3 tháng, lãi suất 2,1% / kỳ hạn, sau 2 năm người đó thay đổi phương thức gửi, chuyển thành kỳ hạn 1 tháng với lãi suất 0,65% / tháng."
+  },
+  {
+    "bbox": [
+      98,
+      1155,
+      1516,
+      1201
+    ],
+    "category": "Text",
+    "text": "Tính tổng số tiền lãi nhận được sau 5 năm (đơn vị là triệu đồng và kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      836,
+      1201,
+      950,
+      1240
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1234,
+      277,
+      1278
+    ],
+    "category": "Text",
+    "text": "Đáp số: 98,2"
+  },
+  {
+    "bbox": [
+      98,
+      1274,
+      655,
+      1316
+    ],
+    "category": "Text",
+    "text": "Xét 2 năm đầu tiên, số tiền nhận được là"
+  },
+  {
+    "bbox": [
+      240,
+      1316,
+      890,
+      1380
+    ],
+    "category": "Formula",
+    "text": "$$\nT_1 = 200 \\cdot 10^6 (1 + 2,1\\%)^{\\frac{2.12}{3}} \\approx 236176000 \\text{ (đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1382,
+      530,
+      1426
+    ],
+    "category": "Text",
+    "text": "Số tiền nhận được sau 5 năm là"
+  },
+  {
+    "bbox": [
+      240,
+      1428,
+      819,
+      1481
+    ],
+    "category": "Formula",
+    "text": "$$\nT_2 = T_1 (1 + 0,65\\%)^{3.12} = 298217000 \\text{ (đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1481,
+      1257,
+      1527
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền lãi nhận được sau 5 năm là $298217000 - 200000000 = 98217000$ (đồng)."
+  },
+  {
+    "bbox": [
+      98,
+      1523,
+      1551,
+      1924
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hai chiếc khinh khí cầu bay lên từ cùng một địa điểm trong không gian. Để theo dõi hành trình của hai khinh khí cầu, người ta chọn hệ trục toạ độ $Oxyz$ với gốc $O$ đặt tại điểm xuất phát của hai khinh khí cầu, mặt phẳng $(Oxy)$ trùng với mặt đất với trục $Ox$ hướng về phía Nam, trục $Oy$ hướng về phía Đông và trục $Oz$ hướng thẳng lên trời (đơn vị đo lấy theo kilômét). Vào lúc 9 giờ sáng, chiếc thứ nhất nằm cách điểm xuất phát 3 km về phía Đông và 2 km về phía Nam, đồng thời cách mặt đất 0,5 km; chiếc thứ hai nằm cách điểm xuất phát 1 km về phía Bắc và 1 km về phía Tây, đồng thời cách mặt đất 0,3 km. cùng thời điểm đó, một người đứng trên mặt đất và nhìn thấy hai khinh khí cầu nói trên. Biết rằng, so với các vị trí quan sát khác trên mặt đất, vị trí người đó đứng có tổng khoảng cách đến hai khinh khí cầu là nhỏ nhất. Vị trí người quan sát đứng lúc đó là $M(a; b; c)$. Tính tổng $32a + 60b + 5c$."
+  },
+  {
+    "bbox": [
+      836,
+      1966,
+      950,
+      2005
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

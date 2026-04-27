@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      155,
+      1455,
+      311
+    ],
+    "category": "Text",
+    "text": "là 0,6 và xác suất Tuấn không biết đáp án đúng là 0,4. Trong trường hợp không biết đáp án Tuấn sẽ dự đoán đáp án đúng bằng cách chọn ngẫu nhiên một trong 4 đáp án của đề thi. Giả sử Tuấn gặp một câu hỏi trắc nghiệm."
+  },
+  {
+    "bbox": [
+      193,
+      318,
+      949,
+      365
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “Câu trả lời của Tuấn là đúng”."
+  },
+  {
+    "bbox": [
+      193,
+      372,
+      986,
+      419
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố “Câu hỏi đó Tuấn đã biết đáp án”."
+  },
+  {
+    "bbox": [
+      223,
+      428,
+      620,
+      476
+    ],
+    "category": "Formula",
+    "text": "a) $P(B) = 0,6, P(\\bar{B}) = 0,4$."
+  },
+  {
+    "bbox": [
+      223,
+      481,
+      1084,
+      530
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện: $P(A | B) = 0,5; P(A | \\bar{B}) = 0,25$."
+  },
+  {
+    "bbox": [
+      223,
+      535,
+      1005,
+      581
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất để câu trả lời của Tuấn đúng là 72%."
+  },
+  {
+    "bbox": [
+      223,
+      588,
+      1448,
+      711
+    ],
+    "category": "Formula",
+    "text": "d) Với câu trắc nghiệm mà câu trả lời của Tuấn là đúng, xác suất để câu đó là câu mà Tuấn biết đáp án đúng là $\\frac{6}{7}$."
+  },
+  {
+    "bbox": [
+      193,
+      745,
+      1164,
+      1185
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Ta coi Trái Đất là hình cầu hoàn hảo với bán kính $R = 6370$ (km) và diện tích toàn phần là $S = 4\\pi R^2$. Các phi hành gia từ tàu vũ trụ chỉ có thể nhìn thấy một phần bề mặt Trái Đất. Ở độ cao $h$, phần diện tích Trái Đất các phi hành gia có thể nhìn thấy sẽ được tính theo công thức $S_T = 2\\pi R^2 \\left(1 - \\frac{R}{R+h}\\right)$, trong đó $R$ là bán kính Trái Đất. Gọi $K$ là tỉ số diện tích bề mặt Trái Đất nhìn thấy được ở độ cao $h$ với diện tích toàn phần của Trái Đất."
+  },
+  {
+    "bbox": [
+      1184,
+      745,
+      1455,
+      1071
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      223,
+      1196,
+      883,
+      1280
+    ],
+    "category": "Formula",
+    "text": "a) Công thức tính $K$ là $K = \\frac{1}{2} \\left(1 - \\frac{h}{R+h}\\right)$."
+  },
+  {
+    "bbox": [
+      223,
+      1280,
+      1448,
+      1434
+    ],
+    "category": "Formula",
+    "text": "b) Trong một chuyển bay của tàu con thoi, các phi hành gia đã thực hiện một hoạt động ngoài tàu ở độ cao 280 km. Có 2,5% (làm tròn kết quả đến hàng phần mười) diện tích bề mặt Trái Đất có thể nhìn thấy ở độ cao đó."
+  },
+  {
+    "bbox": [
+      223,
+      1438,
+      1448,
+      1563
+    ],
+    "category": "Formula",
+    "text": "c) Muốn nhìn thấy $\\frac{1}{4}$ diện tích bề mặt Trái Đất, các phi hành gia cần đưa tàu con thoi đạt đến độ cao 6470 km."
+  },
+  {
+    "bbox": [
+      223,
+      1576,
+      1401,
+      1622
+    ],
+    "category": "Formula",
+    "text": "d) Khi độ cao $h$ càng tăng lên thì $K$ càng tăng nhưng không vượt quá 50%."
+  },
+  {
+    "bbox": [
+      216,
+      1685,
+      1386,
+      1739
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      193,
+      1774,
+      1455,
+      1981
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hình chóp $S.ABCD$ có đáy hình vuông. Cho tam giác $SAB$ vuông tại $S$ và góc $SBA$ bằng $30^\\circ$. Mặt phẳng ($SAB$) vuông góc mặt phẳng đáy. Gọi $M, N$ là trung điểm $AB, BC$. Tìm cosin góc tạo bởi hai đường thẳng ($SM, DN$). (Làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1140,
+      1931,
+      1455,
+      1989
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      193,
+      2007,
+      1455,
+      2162
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một người gửi số tiền 100 triệu đồng vào ngân hàng với lãi suất 7%/năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào vốn để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu"
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2245,
+      1455,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4"
+  }
+]

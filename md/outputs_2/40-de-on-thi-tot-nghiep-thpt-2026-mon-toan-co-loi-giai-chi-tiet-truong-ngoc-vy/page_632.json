@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      98,
+      330,
+      133
+    ],
+    "category": "List-item",
+    "text": "A. 25,6."
+  },
+  {
+    "bbox": [
+      556,
+      98,
+      679,
+      133
+    ],
+    "category": "List-item",
+    "text": "B. 23,7."
+  },
+  {
+    "bbox": [
+      906,
+      98,
+      1029,
+      133
+    ],
+    "category": "List-item",
+    "text": "C. 22,5."
+  },
+  {
+    "bbox": [
+      1257,
+      98,
+      1376,
+      133
+    ],
+    "category": "List-item",
+    "text": "D. 20,8."
+  },
+  {
+    "bbox": [
+      807,
+      162,
+      924,
+      200
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      221,
+      276,
+      258
+    ],
+    "category": "Section-header",
+    "text": "### Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      274,
+      407,
+      312
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu là $n = 60$."
+  },
+  {
+    "bbox": [
+      157,
+      333,
+      1572,
+      439
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1, x_2, \\dots, x_{60}$ là điểm thi môn Toán của 60 thí sinh và giả sử dãy này đã được sắp xếp theo thứ tự tăng dần."
+  },
+  {
+    "bbox": [
+      157,
+      469,
+      1572,
+      546
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất $Q_1$ là $\\frac{x_{15} + x_{16}}{2}$. Do $x_{15}$ và $x_{16}$ đều thuộc nhóm $[39,5; 49,5)$ nên nhóm này chứa $Q_1$."
+  },
+  {
+    "bbox": [
+      157,
+      570,
+      1572,
+      612
+    ],
+    "category": "Text",
+    "text": "Do đó, $p = 5$; $a_5 = 39,5$; $m = m_5 = 15$; $m_1 + m_2 + m_3 + m_4 = 13$; $a_6 - a_5 = 10$ và ta có"
+  },
+  {
+    "bbox": [
+      162,
+      642,
+      572,
+      760
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 39,5 + \\frac{\\frac{60}{4} - 13}{15} \\cdot 10 \\approx 40,83\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      790,
+      1572,
+      867
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba $Q_3$ là $\\frac{x_{45} + x_{46}}{2}$. Do $x_{45}$ và $x_{46}$ đều thuộc nhóm $[59,5; 69,5)$ nên nhóm này chứa $Q_3$."
+  },
+  {
+    "bbox": [
+      157,
+      890,
+      1572,
+      932
+    ],
+    "category": "Text",
+    "text": "Do đó, $p = 7$; $a_7 = 59,5$; $m_7 = 10$; $m_1 + m_2 + m_3 + m_4 + m_5 + m_6 = 40$; $a_6 - a_5 = 10$ và ta có"
+  },
+  {
+    "bbox": [
+      162,
+      962,
+      587,
+      1080
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 59,5 + \\frac{\\frac{3 \\cdot 60}{4} - 40}{10} \\cdot 10 = 64,5\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1102,
+      967,
+      1148
+    ],
+    "category": "Text",
+    "text": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm là: $\\Delta_Q \\approx 23,7$"
+  },
+  {
+    "bbox": [
+      157,
+      1176,
+      1572,
+      1299
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = 0$, $x = -1$, $x = 2$ (như hình vẽ bên). Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      677,
+      1330,
+      1037,
+      1662
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1680,
+      631,
+      1777
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ S = \\int_{-1}^{1} f(x) \\, dx + \\int_{1}^{2} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1680,
+      1342,
+      1777
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ S = -\\int_{-1}^{1} f(x) \\, dx - \\int_{1}^{2} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1800,
+      633,
+      1897
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ S = -\\int_{-1}^{1} f(x) \\, dx + \\int_{1}^{2} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1800,
+      1334,
+      1897
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ S = \\int_{-1}^{1} f(x) \\, dx - \\int_{1}^{2} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      1920,
+      924,
+      1958
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1979,
+      276,
+      2016
+    ],
+    "category": "Section-header",
+    "text": "### Chọn D."
+  },
+  {
+    "bbox": [
+      162,
+      2037,
+      672,
+      2133
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-1}^{2} |f(x)| \\, dx = \\int_{-1}^{1} |f(x)| \\, dx + \\int_{1}^{2} |f(x)| \\, dx\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      193,
+      141,
+      694,
+      181
+    ],
+    "category": "List-item",
+    "text": "a. Dịch bệnh kéo dài trong 6 tuần."
+  },
+  {
+    "bbox": [
+      193,
+      197,
+      1507,
+      241
+    ],
+    "category": "List-item",
+    "text": "b. Tốc độ lây lan dịch bệnh được xác định bởi $N'(t) = (8t - t^2 + 6)e^{t-6}$ (nghìn người/tuần)."
+  },
+  {
+    "bbox": [
+      193,
+      256,
+      1546,
+      342
+    ],
+    "category": "List-item",
+    "text": "c. Số người mắc bệnh cúm lớn nhất bằng 1,87 triệu người (làm tròn kết quả đến hàng phần trăm của triệu người)."
+  },
+  {
+    "bbox": [
+      193,
+      358,
+      1546,
+      443
+    ],
+    "category": "List-item",
+    "text": "d. Tốc độ lây lan dịch bệnh lớn nhất vào một thời điểm nằm trong tuần thứ 4 kể từ lúc có ca bệnh đầu tiên."
+  },
+  {
+    "bbox": [
+      152,
+      464,
+      1546,
+      865
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong hệ tọa độ $Oxyz$, đơn vị trên mỗi trục tính bằng mét, mặt đất trùng với mặt phẳng ($Oxy$). Trên một sân golf có một lớp đất ($E$) nhô lên cao 30 mét so với mặt đất tạo thành một mặt phẳng ngang, trong đó mặt sường dốc ($H$) có phương trình là ($H$) : $2y - 4z - 75 = 0$. Một người chơi golf đánh bóng từ điểm $P(60; 0; 0)$ để cố gắng đưa bóng vào lỗ $L(60; 120; 30)$. Trong cú đánh thứ nhất, đường bay của bóng được mô tả bằng hàm số $z(y) = -\\frac{1}{80}y^2 + \\frac{3}{4}y$, còn trong cú đánh thứ hai, đường bay của bóng được mô tả bằng hàm số $z(y) = -\\frac{1}{80}y^2 + ay$ ($a \\in \\mathbb{R}$) (với $z(y)$ là cao độ của quả bóng khi tung độ của nó là $y$). Biết rằng quỹ đạo của quả bóng trong các lần đánh đều nằm trong mặt phẳng song song với mặt phẳng ($Oyz$)."
+  },
+  {
+    "bbox": [
+      436,
+      901,
+      1259,
+      1196
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1273,
+      655,
+      1313
+    ],
+    "category": "Text",
+    "text": "Cácatanh đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      193,
+      1334,
+      942,
+      1374
+    ],
+    "category": "List-item",
+    "text": "a. Quả bóng không rơi trúng lỗ ở lần ném thứ nhất."
+  },
+  {
+    "bbox": [
+      193,
+      1387,
+      1546,
+      1473
+    ],
+    "category": "List-item",
+    "text": "b. Ở lần ném thứ nhất quả bóng rơi trúng mặt sường tại vị trí có độ cao bằng 10 mét so với mặt đất."
+  },
+  {
+    "bbox": [
+      193,
+      1473,
+      1119,
+      1551
+    ],
+    "category": "List-item",
+    "text": "c. Để quả bóng rơi trúng lỗ $L$ ở lần thứ hai thì giá trị $a$ bằng $\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      193,
+      1557,
+      1546,
+      1644
+    ],
+    "category": "List-item",
+    "text": "d. Biết rằng trong cú đánh thứ hai, quả bóng đã rơi trúng lỗ $L$. Tọa độ điểm có vị trí cao nhất trong đường bay quỹ đạo là $I(60; 70; 61, 25)$."
+  },
+  {
+    "bbox": [
+      152,
+      1663,
+      1546,
+      1913
+    ],
+    "category": "Text",
+    "text": "Bài 3. Ta coi Trái Đất là hình cầu hoàn hảo với bán kính $R = 6370$ (km) và diện tích toàn phần là $S = 4\\pi R^2$. Các phi hành gia từ tàu vũ trụ chỉ có thể nhìn thấy một phần bề mặt Trái Đất. Ở độ cao $h$, phần diện tích Trái Đất các phi hành gia có thể nhìn thấy sẽ được tính theo công thức $S_T = 2\\pi R^2 \\left(1 - \\frac{R}{R+h}\\right)$, trong đó $R$ là bán kính Trái Đất. Gọi $K$ là tỉ số diện tích bề mặt Trái Đất nhìn thấy được ở độ cao $h$ với diện tích toàn phần của Trái Đất."
+  },
+  {
+    "bbox": [
+      193,
+      1933,
+      846,
+      2016
+    ],
+    "category": "List-item",
+    "text": "a) Công thức tính $K$ là $K = \\frac{1}{2} \\left(1 - \\frac{h}{R+h}\\right)$."
+  },
+  {
+    "bbox": [
+      193,
+      2029,
+      1546,
+      2159
+    ],
+    "category": "List-item",
+    "text": "b) Trong một chuyển bay của tàu con thoi, các phi hành gia đã thực hiện một hoạt động ngoài tàu ở độ cao 280 km. Có 2,5% (làm tròn kết quả đến hàng phần mười) diện tích bề mặt Trái Đất có thể nhìn thấy ở độ cao đó."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "35"
+  }
+]

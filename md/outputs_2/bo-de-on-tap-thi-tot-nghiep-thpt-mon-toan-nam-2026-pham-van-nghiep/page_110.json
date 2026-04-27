@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      732,
+      122,
+      1059,
+      468
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      486,
+      1012,
+      531
+    ],
+    "category": "Text",
+    "text": "Không mất tính tổng quát, gọi độ dài cạnh đáy bằng 1"
+  },
+  {
+    "bbox": [
+      212,
+      533,
+      724,
+      575
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là trung điểm của cạnh $BC$"
+  },
+  {
+    "bbox": [
+      212,
+      577,
+      1574,
+      673
+    ],
+    "category": "Text",
+    "text": "Vì mặt bên $SBC$ là tam giác đều và nằm trong mặt phẳng vuông góc với đáy nên $SH \\perp (ABC)$"
+  },
+  {
+    "bbox": [
+      212,
+      682,
+      1042,
+      731
+    ],
+    "category": "Text",
+    "text": "Suy ra $HA$ là hình chiếu của $SA$ trên mặt phẳng $(ABC)$"
+  },
+  {
+    "bbox": [
+      212,
+      740,
+      1419,
+      786
+    ],
+    "category": "Text",
+    "text": "Khi đó góc giữa đường thẳng $SA$ và mặt đáy là góc giữa đường thẳng $SA$ và $HA$"
+  },
+  {
+    "bbox": [
+      212,
+      786,
+      1566,
+      875
+    ],
+    "category": "Text",
+    "text": "Mặt khác hai tam giác $ABC$ và $SBC$ là tam giác đều và bằng nhau nên tam giác $SHA$ vuông cân tại $H$"
+  },
+  {
+    "bbox": [
+      212,
+      884,
+      1155,
+      930
+    ],
+    "category": "Text",
+    "text": "Nên $SAH = 45^\\circ$ góc giữa đường thẳng $SA$ và mặt đáy bằng $45^\\circ$"
+  },
+  {
+    "bbox": [
+      212,
+      930,
+      1172,
+      975
+    ],
+    "category": "Text",
+    "text": "Vậy số đo của góc giữa đường thẳng $SA$ và mặt đáy bằng $45^\\circ$"
+  },
+  {
+    "bbox": [
+      74,
+      975,
+      1576,
+      1259
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Sân nhà bác An có dạng hình chữ nhật $ABCD$. Theo thiết kế ban đầu, mặt sân bằng phẳng và $A, B, C, D$ có độ cao như nhau. Sau đó, bác An thay đổi thiết kế để nước có thể thoát về phía góc sân ở vị trí $C$ bằng cách giữ nguyên độ cao ở $A$, giảm độ cao của sân ở vị trí $B$ và $D$ xuống thấp hơn độ cao ở $A$ lần lượt là $5,5 \\text{ cm}$ và $2,6 \\text{ cm}$. Biết rằng mặt sân sau khi giảm độ cao vẫn là bề mặt phẳng và có dạng là hình bình hành. Bác An phải giảm độ cao ở $C$ xuống bao nhiêu centimét so với độ cao ở $A$?"
+  },
+  {
+    "bbox": [
+      764,
+      1263,
+      883,
+      1305
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1309,
+      378,
+      1346
+    ],
+    "category": "Text",
+    "text": "Trả lời: 8,1."
+  },
+  {
+    "bbox": [
+      688,
+      1364,
+      1097,
+      1711
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1722,
+      1300,
+      1771
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục toạ độ $Oxyz$ sao cho $A(0;0;0), B(0;b;0), D(d;0;0), C(d;b;0)$"
+  },
+  {
+    "bbox": [
+      212,
+      1781,
+      862,
+      1821
+    ],
+    "category": "Text",
+    "text": "Giả sử mặt sân sau khi hạ độ cao là $AB'C'D'$"
+  },
+  {
+    "bbox": [
+      212,
+      1826,
+      890,
+      1876
+    ],
+    "category": "Text",
+    "text": "Khi đó $B'(0;b;-5,5), D'(d;0;-2,6), C'(d;b;-h)$"
+  },
+  {
+    "bbox": [
+      212,
+      1885,
+      1025,
+      1928
+    ],
+    "category": "Text",
+    "text": "Theo giả thuyết tức giác $AB'C'D'$ là hình bình hành nên"
+  },
+  {
+    "bbox": [
+      226,
+      1931,
+      814,
+      2082
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB'} = \\overrightarrow{D'C'} \\Leftrightarrow \\begin{cases} 0 = d - d \\\\ b = b \\\\ -5,5 = -h + 2,6 \\end{cases} \\Rightarrow h = 8,1.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2094,
+      1260,
+      2137
+    ],
+    "category": "Text",
+    "text": "Vậy Bác An cần phải giảm độ cao ở $C$ xuống $8,1 \\text{ cm}$ so với độ cao ở $A$."
+  },
+  {
+    "bbox": [
+      74,
+      2143,
+      1576,
+      2235
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Bạn Hà làm một bài thi gồm 10 câu hỏi. Với mỗi câu hỏi, nếu thí sinh trả lời đúng thì được 1 điểm, trả lời sai thì bị trừ 0,5 điểm. Bạn Hà trả lời 10 câu hỏi một cách độc lập với nhau,"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

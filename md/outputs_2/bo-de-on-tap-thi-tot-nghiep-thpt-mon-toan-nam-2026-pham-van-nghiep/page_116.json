@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1514,
+      262
+    ],
+    "category": "Text",
+    "text": "Phương trình đường thẳng $d'$ đi qua điểm $B(2; -3; 4)$ và vuông góc mp $(P)$ là\n$$ \\begin{cases} x = 2 + t \\\\ y = -3 - 2t \\\\ z = 4 + t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      272,
+      1012,
+      325
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu của $B$ lên mp $(P) \\Rightarrow \\{H\\} = d' \\cap (P)$"
+  },
+  {
+    "bbox": [
+      218,
+      334,
+      648,
+      384
+    ],
+    "category": "Formula",
+    "text": "$$\nH \\in d' \\Rightarrow H(2+t; -3-2t; 4+t)\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      391,
+      864,
+      442
+    ],
+    "category": "Formula",
+    "text": "$$\nH \\in (P) \\Rightarrow 2+t-2(-3-2t)+4+t=0 \\Rightarrow t=-2\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      448,
+      390,
+      498
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow H(0;1;2)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      507,
+      441,
+      549
+    ],
+    "category": "Text",
+    "text": "Suy ra c) đúng."
+  },
+  {
+    "bbox": [
+      212,
+      552,
+      887,
+      596
+    ],
+    "category": "Text",
+    "text": "d) Đúng. Gọi $\\{A'\\} = \\Delta \\cap (P)$. Giả sử $A'(x; y; z)$"
+  },
+  {
+    "bbox": [
+      212,
+      600,
+      1026,
+      657
+    ],
+    "category": "Text",
+    "text": "Vì $A \\in (P)$ mà $\\Delta \\perp (P) \\Rightarrow \\Delta \\perp AA' \\Rightarrow AA' = d(A, \\Delta) = \\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      218,
+      666,
+      644,
+      726
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\sqrt{(x-2)^2 + (y-1)^2 + z^2} = \\sqrt{2}\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      732,
+      702,
+      783
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (x-2)^2 + (y-1)^2 + z^2 = 2 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      793,
+      776,
+      842
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có: } A' \\in (P) \\Rightarrow x-2y+z=0 \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      517,
+      888,
+      1262,
+      1272
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1345,
+      1284,
+      1446
+    ],
+    "category": "Text",
+    "text": "Do $\\begin{cases} \\Delta \\perp (P) \\\\ BH \\perp (P) \\end{cases}$ nên $BH$ song song hoặc正同 $\\Delta \\Rightarrow d(B, \\Delta) = d(H, \\Delta) = HA'$"
+  },
+  {
+    "bbox": [
+      212,
+      1451,
+      1574,
+      1539
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ $B$ đến $\\Delta$ lớn nhất $\\Leftrightarrow HA'$ lớn nhất $\\Leftrightarrow H, A, A'$ thẳng hàng và $A$ nằm giữa $H, A'$"
+  },
+  {
+    "bbox": [
+      212,
+      1546,
+      520,
+      1595
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\overline{AH} = (-2; 0; 2)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1602,
+      598,
+      1653
+    ],
+    "category": "Formula",
+    "text": "$$\nAA' = (x-2; y-1; z)\n$$"
+  },
+  {
+    "bbox": [
+      218,
+      1659,
+      830,
+      1706
+    ],
+    "category": "Text",
+    "text": "$H, A, A'$ thẳng hàng và $A$ nằm giữa $H, A'$"
+  },
+  {
+    "bbox": [
+      218,
+      1709,
+      1083,
+      1861
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\begin{cases} x-2 = -2k \\\\ y-1 = 0k \\\\ z = 2k \\end{cases}, k < 0 \\Rightarrow \\begin{cases} y = 1 \\\\ x-2 = -z \\\\ z = 2k \\end{cases}, k < 0 \\Rightarrow \\begin{cases} y = 1 \\\\ z = 2-x \\\\ z < 0 \\end{cases} \\quad (3)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1871,
+      1369,
+      2188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thế } \\begin{cases} y = 1 \\\\ z = 2 - x \\end{cases} \\text{ vào phương trình (1) & (2) ta suy ra } \\begin{cases} y = 1 \\\\ z = 2 - x \\\\ (x-2)^2 = 1 \\end{cases} \\Rightarrow \\begin{cases} x = 3 \\\\ y = 1 \\quad (\\text{TM}) \\\\ z = -1 \\\\ x = 1 \\\\ y = 1 \\quad (\\text{KTM}) \\\\ z = 1 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

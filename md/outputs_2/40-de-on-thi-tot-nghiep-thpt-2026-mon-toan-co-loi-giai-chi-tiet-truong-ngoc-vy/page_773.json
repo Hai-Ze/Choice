@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      727,
+      133
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      148,
+      1495,
+      433
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Doanh số (tính bằng số sản phẩm) của một sản phẩm mới (trong vòng một số năm nhất định) được mô hình hóa bằng hàm số $f(t) = \\frac{24000}{1+6e^{-t}}$, $t \\ge 0$ trong đó thời gian $t$ được tính bằng năm, kể từ khi phát hành sản phẩm mới. Khi đó, đạo hàm $f'(t)$ sẽ biểu thị tốc độ bán hàng. Tốc độ bán hàng lớn nhất đạt được khi $t = \\ln a$. Tìm $a$."
+  },
+  {
+    "bbox": [
+      76,
+      452,
+      414,
+      488
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      511,
+      843,
+      549
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      568,
+      224,
+      606
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 6"
+  },
+  {
+    "bbox": [
+      76,
+      631,
+      751,
+      736
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(t) = \\frac{144000e^{-t}}{(1+6e^{-t})^2}$ biểu thị tốc độ bán hàng."
+  },
+  {
+    "bbox": [
+      76,
+      768,
+      560,
+      873
+    ],
+    "category": "Text",
+    "text": "Đặt $g(t) = f'(t) = \\frac{144000e^{-t}}{(1+6e^{-t})^2}$, $t \\ge 0$"
+  },
+  {
+    "bbox": [
+      76,
+      903,
+      972,
+      1172
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Tính } g(t) &= \\frac{-144000 \\cdot e^{-t} (1+6e^{-t})^2 - 144000e^{-t} \\cdot 2(1+6e^{-t})(-6 \\cdot e^{-t})}{(1+6e^{-t})^4} \\\\\n&= \\frac{-14400 \\cdot e^{-t} (1+6e^{-t})[1+6e^{-t}-12e^{-t}]}{(1+6e^{-t})^4} = \\frac{-14400e^{-t}(1-6e^{-t})}{(1+6e^{-t})^3}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1201,
+      746,
+      1247
+    ],
+    "category": "Text",
+    "text": "Ta có $g'(t) = 0 \\Leftrightarrow 1-6e^{-t} = 0 \\Leftrightarrow e^{-t} = 6 \\Leftrightarrow t = \\ln 6$"
+  },
+  {
+    "bbox": [
+      76,
+      1270,
+      376,
+      1313
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      92,
+      1326,
+      963,
+      1583
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$t$</td><td>0</td><td>$\\ln 6$</td><td>$+\\infty$</td></tr><tr><td>$g'(t)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$g(t)$</td><td colspan=\"3\">$\\rightarrow$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1618,
+      815,
+      1662
+    ],
+    "category": "Text",
+    "text": "Vậy tốc độ bán hàng lớn nhất khi $t = \\ln 6$ suy ra $a = 6$."
+  },
+  {
+    "bbox": [
+      76,
+      1677,
+      1495,
+      2025
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một công ty trong một đợt hỗ trợ xây dựng nông thôn mới cần thuê xe để chở ít nhất 120 người và 6,5 tấn hàng. Nơi thuê xe có hai loại xe $A$ và $B$, trong đó loại xe $A$ có 9 chiếc và loại xe $B$ có 8 chiếc. Một chiếc xe loại $A$ cho thuê với giá 4 triệu đồng, một chiếc xe loại $B$ cho thuê với giá 3 triệu đồng. Biết rằng mỗi chiếc xe loại $A$ có thể chở tối đa 20 người và 0,5 tấn hàng; mỗi chiếc xe loại $B$ có thể chở tối đa 10 người và 2 tấn hàng. Hỏi chi phí bỏ ra là thấp nhất bao nhiêu triệu đồng để thuê mỗi loại xe?"
+  },
+  {
+    "bbox": [
+      76,
+      2045,
+      414,
+      2081
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2104,
+      843,
+      2142
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2161,
+      240,
+      2199
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 26"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

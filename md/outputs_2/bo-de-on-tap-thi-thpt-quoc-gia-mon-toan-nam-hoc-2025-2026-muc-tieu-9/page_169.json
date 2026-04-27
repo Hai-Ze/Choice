@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      235,
+      138,
+      502,
+      178
+    ],
+    "category": "Text",
+    "text": "kiểm tra cuối kì là"
+  },
+  {
+    "bbox": [
+      235,
+      196,
+      613,
+      240
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|\\bar{A}) = 1 - 0,85 = 0,15.\n$$"
+  },
+  {
+    "bbox": [
+      191,
+      252,
+      1547,
+      335
+    ],
+    "category": "List-item",
+    "text": "c) **Sai** Theo công thức tính xác suất toàn phần, xác suất để An đạt điểm không tốt kiểm tra cuối kì là"
+  },
+  {
+    "bbox": [
+      362,
+      410,
+      1418,
+      455
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{B}) = P(A) \\cdot P(\\bar{B}|A) + P(\\bar{A}) \\cdot P(\\bar{B}|\\bar{A}) = 0,75 \\cdot 0,1 + 0,25 \\cdot 0,85 = 0,2875.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      471,
+      1547,
+      553
+    ],
+    "category": "List-item",
+    "text": "d) **Đúng** Theo công thức tính xác suất toàn phần, xác suất để An đạt điểm tốt kiểm tra cuối kì là"
+  },
+  {
+    "bbox": [
+      362,
+      628,
+      1418,
+      672
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,75 \\cdot 0,9 + 0,25 \\cdot 0,15 = 0,7125.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      676,
+      900,
+      720
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Hoặc } P(B) = 1 - P(\\bar{B}) = 1 - 0,2875 = 0,7125.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      748,
+      1547,
+      1055
+    ],
+    "category": "Text",
+    "text": "### 3. bài 3. Nh�m điều tiết mực nước của hồ chứa trong những ngày mưa lớn, một hồ thủy điện thông báo mở cửa xả lũ trong 5 giờ, bắt đầu từ thời điểm 0h. Lưu lượng nước xả lũ là lượng nước hồ thủy điện xả về hạ lưu trên mỗi đơn vị thời gian, được ước tính bởi hàm số $f(t) = at^3 + bt^2 + 1$ (đơn vị nghìn m³/s), trong đó $t$ được tính bằng đơn vị giờ, là thời gian từ 0h đến 5h. Tại thời điểm 0h, lưu lượng nước xả về hạ lưu là 1 nghìn m³/s và bắt đầu tăng cho đến khi đạt cực đại bằng 3 nghìn m³/s thì lưu lượng nước giảm dần, đến thời điểm 5h thì trở về lại 1 nghìn m³/s. Hàm số $y = f(t)$ có đồ thị như hình vẽ bên."
+  },
+  {
+    "bbox": [
+      517,
+      1071,
+      1167,
+      1525
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1572,
+      367,
+      1612
+    ],
+    "category": "List-item",
+    "text": "a) $f(5) = 1$."
+  },
+  {
+    "bbox": [
+      191,
+      1627,
+      549,
+      1667
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $a$ là $-0,2$."
+  },
+  {
+    "bbox": [
+      191,
+      1681,
+      990,
+      1721
+    ],
+    "category": "List-item",
+    "text": "c) Lưu lượng nước xả lũ đạt cực đại tại thời điểm 3h20."
+  },
+  {
+    "bbox": [
+      191,
+      1737,
+      1318,
+      1778
+    ],
+    "category": "List-item",
+    "text": "d) Tổng lượng nước được hồ chứa xả về hạ lưu từ 0h đến 5h là 20,25 triệu m³."
+  },
+  {
+    "bbox": [
+      152,
+      1794,
+      1547,
+      1857
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét hàm số $f(t) = at^3 + bt^2 + 1$. Vì điểm (5; 1) thuộc đồ thị hàm số $f(t)$ nên:"
+  },
+  {
+    "bbox": [
+      395,
+      1865,
+      1303,
+      1907
+    ],
+    "category": "Formula",
+    "text": "$$\nf(5) = 1 \\Leftrightarrow a \\cdot 5^3 + b \\cdot 5^2 + 1 = 1 \\Leftrightarrow 125a + 25b = 0 \\Leftrightarrow b = -5a.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1917,
+      502,
+      1957
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(t) = 3at^2 + 2bt$."
+  },
+  {
+    "bbox": [
+      152,
+      1963,
+      259,
+      2001
+    ],
+    "category": "Text",
+    "text": "Suy ra:"
+  },
+  {
+    "bbox": [
+      392,
+      2017,
+      1306,
+      2204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f'(t) = 0 \\Leftrightarrow 3at^2 + 2bt = 0 \\Leftrightarrow 3at^2 - 10at = 0 \\Leftrightarrow at(3t - 10) = 0 \\\\ \\Leftrightarrow \\begin{cases} at = 0 \\\\ 3t - 10 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} t = 0 \\\\ t = \\frac{10}{3} \\end{cases} \\text{ (loại } t = 0 \\text{ vì } 0 < t < 5). \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "169"
+  }
+]

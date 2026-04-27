@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1173,
+      192
+    ],
+    "category": "Text",
+    "text": "Dựng $OK \\perp AO'$, ta có $\\begin{cases} B'D' \\perp A'C' \\\\ B'D' \\perp AA' \\end{cases} \\Rightarrow B'D' \\perp (AA'C'C) \\supset OK \\Rightarrow B'D' \\perp OK$."
+  },
+  {
+    "bbox": [
+      79,
+      219,
+      332,
+      267
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow OK \\perp (AB'D').\n$$"
+  },
+  {
+    "bbox": [
+      79,
+      292,
+      646,
+      346
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(B, (AB'D')) = d(O, (AB'D')) = OK.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      367,
+      714,
+      409
+    ],
+    "category": "Text",
+    "text": "Xét $\\Delta AOO'$ vuông tại $O$ có $OK$ là đường cao."
+  },
+  {
+    "bbox": [
+      79,
+      428,
+      892,
+      578
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\frac{1}{OK^2} = \\frac{1}{OA^2} + \\frac{1}{OO'^2} = \\frac{1}{\\left(\\frac{\\sqrt{3} \\cdot \\sqrt{2}}{2}\\right)^2} + \\frac{1}{(\\sqrt{3})^2} = 1 \\Rightarrow OK = 1.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      602,
+      1495,
+      765
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nhà máy có hai phân xưởng $I$ và $II$ tương ứng làm ra 40% và 60% sản phẩm của nhà máy. Biết rằng tỷ lệ phế phẩm của hai phân xưởng $I$ và $II$ tương ứng là 1% và 2%. Chọn ngẫu nhiên một sản phẩm của nhà máy thì thấy nó là phế phẩm. Tính xác suất để sản phẩm đó thuộc phân xưởng $I$."
+  },
+  {
+    "bbox": [
+      75,
+      782,
+      414,
+      818
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      841,
+      843,
+      879
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      898,
+      269,
+      937
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,25"
+  },
+  {
+    "bbox": [
+      75,
+      956,
+      737,
+      1002
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “sản phẩm lấy ra là phế phẩm”."
+  },
+  {
+    "bbox": [
+      75,
+      1014,
+      852,
+      1060
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố “sản phẩm lấy ra thuộc phân xưởng $I$”."
+  },
+  {
+    "bbox": [
+      75,
+      1072,
+      1495,
+      1185
+    ],
+    "category": "Text",
+    "text": "Theo dữ kiện bài toán, xác suất để sản phẩm lấy ra thuộc phân xưởng $I$ biết rằng sản phẩm đó là phế phẩm, ta cần tính $P(B \\setminus A)$."
+  },
+  {
+    "bbox": [
+      75,
+      1211,
+      772,
+      1308
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes: $P(B \\setminus A) = \\frac{P(B) \\cdot P(A \\setminus B)}{P(A)}$."
+  },
+  {
+    "bbox": [
+      75,
+      1335,
+      750,
+      1383
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(B) = 40\\% = 0,4$. $P(A \\setminus B) = 1\\% = 0,01$."
+  },
+  {
+    "bbox": [
+      79,
+      1408,
+      1039,
+      1469
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(B) \\cdot P(A \\setminus B) + P(\\bar{B}) \\cdot P(A \\setminus \\bar{B}) = 0,4 \\cdot 0,01 + 0,6 \\cdot 0,02 = 0,016.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1495,
+      821,
+      1590
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(B \\setminus A) = \\frac{P(B) \\cdot P(A \\setminus B)}{P(A)} = \\frac{0,4 \\cdot 0,01}{0,016} = \\frac{1}{4} = 0,25.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

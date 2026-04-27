@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1006,
+      182
+    ],
+    "category": "Text",
+    "text": "lần lượt là diện tích của các phần hình phẳng được tô màu."
+  },
+  {
+    "bbox": [
+      355,
+      191,
+      1334,
+      751
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      769,
+      760,
+      811
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      830,
+      887,
+      873
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ đạt cực tiểu tại điểm $x = 7$."
+  },
+  {
+    "bbox": [
+      190,
+      886,
+      942,
+      929
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của hàm số tại $x = 10$ là $f(10) = S_1 - S_2$."
+  },
+  {
+    "bbox": [
+      190,
+      942,
+      942,
+      985
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $y = f(x)$ nghịch biến trên khoảng $(7; 10)$."
+  },
+  {
+    "bbox": [
+      190,
+      998,
+      1164,
+      1040
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình $f(x) = 0$ có đúng hai nghiệm phân biệt trên $[0; 14]$."
+  },
+  {
+    "bbox": [
+      153,
+      1049,
+      1396,
+      1137
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào định nghĩa hàm số $f(x) = \\int_{0}^{x} g(t)dt$, ta có $f'(x) = g(x)$."
+  },
+  {
+    "bbox": [
+      195,
+      1151,
+      547,
+      1194
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định a) Sai.**"
+  },
+  {
+    "bbox": [
+      235,
+      1209,
+      1546,
+      1297
+    ],
+    "category": "Text",
+    "text": "Tại $x = 7$, ta thấy $g(x)$ (tức $f'(x)$) đổi dấu từ dương sang âm khi đi qua điểm này. Do đó, hàm số $f(x)$ đạt cực đại tại $x = 7$, không phải cực tiểu."
+  },
+  {
+    "bbox": [
+      195,
+      1311,
+      588,
+      1355
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định b) Đúng.**"
+  },
+  {
+    "bbox": [
+      235,
+      1370,
+      972,
+      1413
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa tích phân và diện tích hình phẳng:"
+  },
+  {
+    "bbox": [
+      573,
+      1417,
+      1205,
+      1511
+    ],
+    "category": "Formula",
+    "text": "$$\nf(10) = \\int_{0}^{10} g(t)dt = \\int_{0}^{7} g(t)dt + \\int_{7}^{10} g(t)dt\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1522,
+      842,
+      1615
+    ],
+    "category": "Text",
+    "text": "Vì trên $[0; 7]$, $g(t) \\ge 0$ nên $\\int_{0}^{7} g(t)dt = S_1$."
+  },
+  {
+    "bbox": [
+      235,
+      1620,
+      895,
+      1712
+    ],
+    "category": "Text",
+    "text": "Vì trên $[7; 10]$, $g(t) \\le 0$ nên $\\int_{7}^{10} g(t)dt = -S_2$."
+  },
+  {
+    "bbox": [
+      235,
+      1723,
+      539,
+      1764
+    ],
+    "category": "Text",
+    "text": "Vậy $f(10) = S_1 - S_2$."
+  },
+  {
+    "bbox": [
+      195,
+      1778,
+      584,
+      1822
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định c) Đúng.**"
+  },
+  {
+    "bbox": [
+      235,
+      1837,
+      1447,
+      1880
+    ],
+    "category": "Text",
+    "text": "Trên khoảng $(7; 10)$, đồ thị hàm số $y = g(x)$ nằm phía dưới trục hoành nên $g(x) < 0$."
+  },
+  {
+    "bbox": [
+      235,
+      1895,
+      1546,
+      1982
+    ],
+    "category": "Text",
+    "text": "Mà $f'(x) = g(x)$, suy ra $f'(x) < 0$ trên $(7; 10)$. Vậy hàm số $f(x)$ nghịch biến trên khoảng này."
+  },
+  {
+    "bbox": [
+      195,
+      1996,
+      550,
+      2040
+    ],
+    "category": "Section-header",
+    "text": "◇ **Khẳng định d) Sai.**"
+  },
+  {
+    "bbox": [
+      235,
+      2057,
+      787,
+      2100
+    ],
+    "category": "Text",
+    "text": "Ta xét các giá trị của $f(x)$ trên $[0; 14]$:"
+  },
+  {
+    "bbox": [
+      260,
+      2108,
+      980,
+      2201
+    ],
+    "category": "Formula",
+    "text": "$$\n\\star f(0) = \\int_{0}^{0} g(t)dt = 0, \\text{ vậy } x = 0 \\text{ là một nghiệm.}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2250,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "68"
+  },
+  {
+    "bbox": [
+      839,
+      2252,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

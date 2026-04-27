@@ -1,0 +1,202 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1494,
+      194
+    ],
+    "category": "Section-header",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      605,
+      262
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho hàm số $f(x) = \\sin 2x - x$."
+  },
+  {
+    "bbox": [
+      76,
+      288,
+      447,
+      376
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = 0$; $f\\left(\\frac{\\pi}{6}\\right) = \\frac{3+\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      402,
+      771,
+      451
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = \\cos 2x - 1$"
+  },
+  {
+    "bbox": [
+      76,
+      476,
+      989,
+      567
+    ],
+    "category": "Formula",
+    "text": "c) Số nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ là 2."
+  },
+  {
+    "bbox": [
+      76,
+      592,
+      1374,
+      682
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ lần lượt là $\\frac{\\pi}{2}$ và $-\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      727,
+      764,
+      843,
+      803
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      818,
+      893,
+      939
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      941,
+      806,
+      1029
+    ],
+    "category": "Formula",
+    "text": "a) $f(0) = \\sin 0 - 0 = 0$; $f\\left(\\frac{\\pi}{6}\\right) = \\sin\\left(2\\cdot\\frac{\\pi}{6}\\right) - \\frac{\\pi}{6} = \\frac{3-\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1057,
+      649,
+      1106
+    ],
+    "category": "Formula",
+    "text": "b) $f(x) = \\sin 2x - x \\Rightarrow f'(x) = 2\\cos 2x - 1$"
+  },
+  {
+    "bbox": [
+      76,
+      1131,
+      856,
+      1221
+    ],
+    "category": "Formula",
+    "text": "c) Hàm số đã cho xác định và liên tục trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      82,
+      1247,
+      1089,
+      1329
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\cos 2x = \\frac{1}{2} = \\cos \\frac{\\pi}{3} \\Leftrightarrow 2x = \\pm \\frac{\\pi}{3} + k2\\pi \\Leftrightarrow x = \\pm \\frac{\\pi}{6} + k\\pi, (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1351,
+      556,
+      1439
+    ],
+    "category": "Formula",
+    "text": "Do $x \\in \\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right] \\Rightarrow x = -\\frac{\\pi}{6}; x = \\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      76,
+      1463,
+      1100,
+      1713
+    ],
+    "category": "Formula",
+    "text": "d) Ta có: $f\\left(-\\frac{\\pi}{2}\\right) = \\frac{\\pi}{2}$; $f\\left(\\frac{\\pi}{2}\\right) = -\\frac{\\pi}{2}$; $f\\left(-\\frac{\\pi}{6}\\right) = -\\frac{\\sqrt{3}}{2} + \\frac{\\pi}{6}$; $f\\left(\\frac{\\pi}{6}\\right) = \\frac{\\sqrt{3}}{2} - \\frac{\\pi}{6}$\n$\\Rightarrow \\max f(x) = \\frac{\\pi}{2}$ khi $x = -\\frac{\\pi}{2}$ và $\\min f(x) = -\\frac{\\pi}{2}$ khi $x = \\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1738,
+      1401,
+      1828
+    ],
+    "category": "Text",
+    "text": "Vậy Giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $\\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ lần lượt là $\\frac{\\pi}{2}$ và $-\\frac{\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      1852,
+      1494,
+      1969
+    ],
+    "category": "Text",
+    "text": "Câu 2. Mộtchiếcmáybaychuyểnđộngtrênđườngbăngvớivậntốc $v(t) (m/s)$ trong 8 giây đầu tiên ($t = 0$ là thời điểm máy bay bắt đầu chuyển động) được cho bởi đồ thị ở hình vẽ dưới đây."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      608,
+      98,
+      1126,
+      634
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      652,
+      508,
+      700
+    ],
+    "category": "Formula",
+    "text": "$$\n+ AD = CD \\cdot \\tan 60^{\\circ} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      725,
+      1296,
+      835
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } \\begin{cases} CD \\perp AD, AD \\subset (ABCD) \\\\ CD \\perp SD, SD \\subset (SCD) \\end{cases} \\Rightarrow [S, CD, B] = \\widehat{SDA} = 60^{\\circ} \\Rightarrow SA = AD \\tan 60^{\\circ} = 3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      856,
+      562,
+      901
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là trung điểm cạnh $SA$"
+  },
+  {
+    "bbox": [
+      155,
+      920,
+      1192,
+      973
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow SC // OK \\Rightarrow SC // (BDK) \\Rightarrow d(SC, BD) = d(C; (BDK)) = d(A, (BDK)).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      994,
+      1573,
+      1036
+    ],
+    "category": "Text",
+    "text": "+ Tứ diện $ABDK$ có $AB, AD, AK$ đối một vuông góc,"
+  },
+  {
+    "bbox": [
+      162,
+      1061,
+      1176,
+      1144
+    ],
+    "category": "Formula",
+    "text": "$$\nAH \\perp (BDK) \\Rightarrow \\frac{1}{AH^2} = \\frac{1}{AB^2} + \\frac{1}{AD^2} + \\frac{1}{AK^2} = 1 + \\frac{1}{3} + \\frac{4}{9} = \\frac{16}{9} \\Rightarrow AH = 0,75.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1165,
+      701,
+      1217
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(SC, BD) = d(A, (BDK)) = 0,75.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1235,
+      1573,
+      1340
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một nhà máy sản xuất sản phẩm A có tỷ lệ sản phẩm bị lõi là 2%. Nhà máy sử dụng hai hệ thống kiểm tra chất lượng độc lập để phát hiện lõi:"
+  },
+  {
+    "bbox": [
+      155,
+      1351,
+      1573,
+      1456
+    ],
+    "category": "Text",
+    "text": "Hệ thống 1: Xác suất phát hiện chính xác sản phẩm lõi là 95%. Xác suất báo lõi nhầm trên một sản phẩm không lõi là 1%."
+  },
+  {
+    "bbox": [
+      155,
+      1468,
+      1573,
+      1574
+    ],
+    "category": "Text",
+    "text": "Hệ thống 2: Xác suất phát hiện chính xác sản phẩm lõi là 90%. Xác suất báo lõi nhầm trên một sản phẩm không lõi là 5%."
+  },
+  {
+    "bbox": [
+      155,
+      1586,
+      1573,
+      1750
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một sản phẩm. Biết rằng sản phẩm này bị cả hai hệ thống kiểm tra đều báo lõi. Tính xác suất để sản phẩm này thực tế không bị lõi. Kết quả xác suất này sau khi đã làm tròn đến hàng phần nghìn là số có dạng $0,0ab$ (ví dụ nếu kết quả là $0,024$ thì $a = 2, b = 4$). Tính giá trị của $a + b$."
+  },
+  {
+    "bbox": [
+      155,
+      1773,
+      493,
+      1808
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1833,
+      924,
+      1871
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1888,
+      317,
+      1927
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 10"
+  },
+  {
+    "bbox": [
+      155,
+      1942,
+      722,
+      1987
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố chọn được sản phẩm lõi."
+  },
+  {
+    "bbox": [
+      155,
+      2000,
+      1470,
+      2047
+    ],
+    "category": "Text",
+    "text": "Gọi $M, N$ lần lượt là biến cố hệ thống 1 kết luận sản phẩm lõi, hệ thống 2 kết luận sản phẩm lõi."
+  },
+  {
+    "bbox": [
+      155,
+      2071,
+      901,
+      2181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta cần tính xác suất điều kiện: } P(\\bar{A} | MN) = \\frac{P(\\bar{A}MN)}{P(MN)}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

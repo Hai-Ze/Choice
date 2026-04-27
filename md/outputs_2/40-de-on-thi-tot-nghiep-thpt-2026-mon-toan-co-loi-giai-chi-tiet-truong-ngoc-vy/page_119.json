@@ -1,0 +1,441 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      444,
+      106,
+      1284,
+      152
+    ],
+    "category": "Section-header",
+    "text": "# ĐỀ ÔN THI TỐT NGHIỆP THPT QUỐC GIA NĂM 2026"
+  },
+  {
+    "bbox": [
+      768,
+      165,
+      960,
+      206
+    ],
+    "category": "Section-header",
+    "text": "## MÔN TOÁN"
+  },
+  {
+    "bbox": [
+      738,
+      229,
+      989,
+      269
+    ],
+    "category": "Text",
+    "text": "Thời gian 90 phút"
+  },
+  {
+    "bbox": [
+      800,
+      282,
+      928,
+      322
+    ],
+    "category": "Text",
+    "text": "ĐỀ SỐ 7"
+  },
+  {
+    "bbox": [
+      155,
+      412,
+      1450,
+      457
+    ],
+    "category": "Section-header",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      474,
+      913,
+      523
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      436,
+      552,
+      1289,
+      781
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      805,
+      1095,
+      850
+    ],
+    "category": "Text",
+    "text": "Tổng số tiệm cận ngang và tiệm cận đứng của đồ thị hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      205,
+      868,
+      285,
+      902
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      555,
+      868,
+      632,
+      902
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      906,
+      868,
+      974,
+      902
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      1255,
+      868,
+      1335,
+      902
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      155,
+      935,
+      968,
+      1010
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Tìm nguyên hàm $F(x)$ của hàm số $f(x) = \\cos^2 \\frac{x}{2}$"
+  },
+  {
+    "bbox": [
+      205,
+      1040,
+      505,
+      1115
+    ],
+    "category": "Formula",
+    "text": "A. $F(x) = 2\\cos\\frac{x}{2} + C$"
+  },
+  {
+    "bbox": [
+      906,
+      1035,
+      1263,
+      1115
+    ],
+    "category": "Formula",
+    "text": "B. $F(x) = \\frac{1}{2}(1+\\sin x) + C$"
+  },
+  {
+    "bbox": [
+      205,
+      1146,
+      499,
+      1221
+    ],
+    "category": "Formula",
+    "text": "C. $F(x) = 2\\sin\\frac{x}{2} + C$"
+  },
+  {
+    "bbox": [
+      906,
+      1142,
+      1263,
+      1221
+    ],
+    "category": "Formula",
+    "text": "D. $F(x) = \\frac{1}{2}(1-\\sin x) + C$"
+  },
+  {
+    "bbox": [
+      155,
+      1241,
+      1263,
+      1287
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      434,
+      1316,
+      1287,
+      1438
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">$M_1$</td><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>6</td><td>4</td><td>8</td><td>6</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      434,
+      1482,
+      1287,
+      1605
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">$M_2$</td><td>Nhóm</td><td>[8;10)</td><td>[10;12)</td><td>[12;14)</td><td>[14;16)</td><td>[16;18)</td></tr><tr><td>Tần số</td><td>9</td><td>6</td><td>12</td><td>9</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1627,
+      1564,
+      1674
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      205,
+      1722,
+      366,
+      1760
+    ],
+    "category": "Formula",
+    "text": "A. $s_1 = 2s_2$."
+  },
+  {
+    "bbox": [
+      555,
+      1722,
+      697,
+      1760
+    ],
+    "category": "Formula",
+    "text": "B. $s_1 = s_2$."
+  },
+  {
+    "bbox": [
+      906,
+      1702,
+      1074,
+      1781
+    ],
+    "category": "Formula",
+    "text": "C. $s_2 = \\frac{3}{2}s_1$."
+  },
+  {
+    "bbox": [
+      1255,
+      1702,
+      1423,
+      1781
+    ],
+    "category": "Formula",
+    "text": "D. $s_1 = \\frac{3}{2}s_2$."
+  },
+  {
+    "bbox": [
+      155,
+      1805,
+      1430,
+      1854
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho cấp số cộng $(u_n)$ với $u_1 = 2$ và $u_7 = -10$. Công sai của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1882,
+      285,
+      1916
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      555,
+      1882,
+      632,
+      1916
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      906,
+      1882,
+      1000,
+      1916
+    ],
+    "category": "List-item",
+    "text": "C. -1."
+  },
+  {
+    "bbox": [
+      1255,
+      1882,
+      1349,
+      1916
+    ],
+    "category": "List-item",
+    "text": "D. -2."
+  },
+  {
+    "bbox": [
+      155,
+      1944,
+      1234,
+      2023
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho biết $x = \\pm\\frac{2\\pi}{3} + k2\\pi$ là họ nghiệm của phương trình nào sau đây ?"
+  },
+  {
+    "bbox": [
+      205,
+      2053,
+      437,
+      2089
+    ],
+    "category": "Formula",
+    "text": "A. $2\\cos x - 1 = 0$."
+  },
+  {
+    "bbox": [
+      555,
+      2053,
+      787,
+      2089
+    ],
+    "category": "Formula",
+    "text": "B. $2\\cos x + 1 = 0$."
+  },
+  {
+    "bbox": [
+      906,
+      2053,
+      1132,
+      2089
+    ],
+    "category": "Formula",
+    "text": "C. $2\\sin x + 1 = 0$."
+  },
+  {
+    "bbox": [
+      1255,
+      2044,
+      1509,
+      2089
+    ],
+    "category": "Formula",
+    "text": "D. $2\\sin x - \\sqrt{3} = 0$."
+  },
+  {
+    "bbox": [
+      155,
+      2119,
+      890,
+      2165
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm $S$ của phương trình $3^{x^2-2x} = 27$."
+  },
+  {
+    "bbox": [
+      205,
+      2190,
+      388,
+      2234
+    ],
+    "category": "Formula",
+    "text": "A. $S = \\{1;3\\}$."
+  },
+  {
+    "bbox": [
+      555,
+      2190,
+      754,
+      2234
+    ],
+    "category": "Formula",
+    "text": "B. $S = \\{-3;1\\}$."
+  },
+  {
+    "bbox": [
+      906,
+      2190,
+      1132,
+      2234
+    ],
+    "category": "Formula",
+    "text": "C. $S = \\{-3;-1\\}$."
+  },
+  {
+    "bbox": [
+      1255,
+      2190,
+      1458,
+      2234
+    ],
+    "category": "Formula",
+    "text": "D. $S = \\{-1;3\\}$."
+  },
+  {
+    "bbox": [
+      155,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      913,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

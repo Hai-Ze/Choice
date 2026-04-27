@@ -1,0 +1,227 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1456,
+      306
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho $X = \\{0; 1; 2; 3; 4; 5; 6; 7; 8\\}$. Hỏi có bao nhiêu số tự nhiên ch巧 có 5 chữ số đối một khác nhau trong đó luôn có mặt chữ số 2 và chữ số 5 được lập từ tập $X$?"
+  },
+  {
+    "bbox": [
+      1140,
+      268,
+      1203,
+      310
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      260,
+      1453,
+      319
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      338,
+      1446,
+      384
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong hệ tọa độ $Oxyz$, một kịch bản tác chiến� phúc tap diễn ra như sau:"
+  },
+  {
+    "bbox": [
+      241,
+      415,
+      954,
+      623
+    ],
+    "category": "List-item",
+    "text": "* **Máy bay trinh sát hiện đại R:** Xuất phát từ vị trí $R_0(200; 100; 20)$ (đơn vị km), di chuyển thẳng đều với véc-tơ vận tốc không đổi $\\vec{v}_R = (-20; -10; 0)$."
+  },
+  {
+    "bbox": [
+      241,
+      658,
+      954,
+      813
+    ],
+    "category": "List-item",
+    "text": "* **Mục tiêu cơ động cao M:** Xuất phát từ vị trí $M_0(10; 20; 15)$ km, di chuyển thẳng đều với véc-tơ vận tốc không đổi $\\vec{v}_M = (30; 40; 0)$."
+  },
+  {
+    "bbox": [
+      241,
+      838,
+      1456,
+      994
+    ],
+    "category": "List-item",
+    "text": "* **Tiêm kích đánh ch巧 tàng hình C:** Xuất phát từ căn cứ mặt đất tại vị trí $C_0(0; 0; 1)$ km vào thời điểm $t = 0$. Tiêm kích C bay theo một đường thẳng với tốc độ không đổi $v_C$ để thực hiện nhiệm vụ đặc biệt."
+  },
+  {
+    "bbox": [
+      978,
+      403,
+      1404,
+      724
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1038,
+      1456,
+      1137
+    ],
+    "category": "Text",
+    "text": "**Nhiệm vụ đặc biệt của tiêm kích C:** Tiêm kích C phải đạt được đồng thời ba điều kiện sau tại cùng một thời điểm $t > 0$:"
+  },
+  {
+    "bbox": [
+      230,
+      1171,
+      1456,
+      1275
+    ],
+    "category": "List-item",
+    "text": "1. **Khóa mục tiêu tối ưu:** Ba điểm gồm tiêm kích C, mục tiêu M, và máy bay trinh sát R phải thẳng hàng."
+  },
+  {
+    "bbox": [
+      230,
+      1311,
+      1456,
+      1519
+    ],
+    "category": "List-item",
+    "text": "2. **Kích hoạt vũ khí chính xác:** Tại thời điểm thẳng hàng nói trên, tiêm kích C phải nằm trên bề mặt của một “khối cầu chiến thuật” có tâm chính là mục tiêu M và bán kính $S_M = 5$ km. Điều này đảm bảo vũ khí có hiệu quả tối đa."
+  },
+  {
+    "bbox": [
+      230,
+      1557,
+      1456,
+      1710
+    ],
+    "category": "List-item",
+    "text": "3. **An toàn hành lang bay:** Véc-tơ chỉ phương của quăng đường bay của tiêm kích C phải vuông góc với véc-tơ pháp tuyến của một mặt phẳng an toàn ($\\alpha$): $x - y + 2z - 10 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      1745,
+      1456,
+      1901
+    ],
+    "category": "Text",
+    "text": "Hãy tính tốc độ không đổi $v_C$ (km/phút) mà tiêm kích C phải duy trì từ lúc xuất phát cho đến khi đồng thời thoả mãn cả ba điều kiện trên, biết thời điểm $t > 0$ là sớm nhất (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1140,
+      1858,
+      1203,
+      1901
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      1850,
+      1453,
+      1909
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1927,
+      1456,
+      2137
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Từ 12 học sinh gồm 5 học sinh good, 4 học sinh khá, 3 học sinh trung bình, giáo viên muốn thành lập 4 nhóm làm 4 bài tập lớn khác nhau, mỗi nhóm 3 học sinh. Tính xác suất để nhóm nào cũng có học sinh good và học sinh khá. (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1140,
+      2095,
+      1203,
+      2137
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1215,
+      2087,
+      1453,
+      2146
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 5"
+  }
+]

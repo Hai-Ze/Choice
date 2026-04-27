@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      824,
+      76,
+      942,
+      120
+    ],
+    "category": "Section-header",
+    "text": "## Nguồn I"
+  },
+  {
+    "bbox": [
+      153,
+      147,
+      1554,
+      249
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1 = 3$, công sai $d = -4$. Số hạng thứ năm của cấp số cộng là"
+  },
+  {
+    "bbox": [
+      193,
+      259,
+      294,
+      293
+    ],
+    "category": "List-item",
+    "text": "A. 768."
+  },
+  {
+    "bbox": [
+      193,
+      326,
+      303,
+      363
+    ],
+    "category": "List-item",
+    "text": "B. -13."
+  },
+  {
+    "bbox": [
+      193,
+      394,
+      339,
+      429
+    ],
+    "category": "List-item",
+    "text": "C. -3072."
+  },
+  {
+    "bbox": [
+      193,
+      464,
+      305,
+      498
+    ],
+    "category": "List-item",
+    "text": "D. -17."
+  },
+  {
+    "bbox": [
+      826,
+      531,
+      938,
+      570
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      598,
+      305,
+      636
+    ],
+    "category": "Text",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      193,
+      668,
+      710,
+      714
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_5 = u_1 + 4d = 3 + 4 \\cdot (-4) = -13$."
+  },
+  {
+    "bbox": [
+      153,
+      751,
+      854,
+      800
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x)$ có đồ thị như hình vẽ"
+  },
+  {
+    "bbox": [
+      556,
+      808,
+      1204,
+      1382
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1390,
+      522,
+      1447
+    ],
+    "category": "Text",
+    "text": "Khi đó, $\\lim_{x \\to +\\infty} f(x)$ bằng"
+  },
+  {
+    "bbox": [
+      193,
+      1462,
+      294,
+      1496
+    ],
+    "category": "List-item",
+    "text": "A. $+\\infty$."
+  },
+  {
+    "bbox": [
+      193,
+      1508,
+      294,
+      1540
+    ],
+    "category": "List-item",
+    "text": "B. $-\\infty$."
+  },
+  {
+    "bbox": [
+      193,
+      1552,
+      264,
+      1585
+    ],
+    "category": "List-item",
+    "text": "C. 1."
+  },
+  {
+    "bbox": [
+      193,
+      1598,
+      285,
+      1634
+    ],
+    "category": "List-item",
+    "text": "D. -1."
+  },
+  {
+    "bbox": [
+      153,
+      1657,
+      777,
+      1698
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nghiệm của phương trình $\\log_2 x = 3$ là"
+  },
+  {
+    "bbox": [
+      193,
+      1712,
+      322,
+      1746
+    ],
+    "category": "List-item",
+    "text": "A. $x = 9$."
+  },
+  {
+    "bbox": [
+      193,
+      1759,
+      317,
+      1795
+    ],
+    "category": "List-item",
+    "text": "B. $x = 8$."
+  },
+  {
+    "bbox": [
+      193,
+      1805,
+      322,
+      1839
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      193,
+      1852,
+      319,
+      1886
+    ],
+    "category": "List-item",
+    "text": "D. $x = 3$."
+  },
+  {
+    "bbox": [
+      153,
+      1909,
+      862,
+      1960
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Nghiệm của phương trình $\\sqrt{3} + 3 \\tan x = 0$ là:"
+  },
+  {
+    "bbox": [
+      193,
+      1976,
+      401,
+      2051
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{3} + k\\pi$."
+  },
+  {
+    "bbox": [
+      193,
+      2067,
+      417,
+      2142
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{\\pi}{2} + k2\\pi$."
+  },
+  {
+    "bbox": [
+      193,
+      2159,
+      422,
+      2234
+    ],
+    "category": "List-item",
+    "text": "C. $x = -\\frac{\\pi}{6} + k\\pi$."
+  }
+]

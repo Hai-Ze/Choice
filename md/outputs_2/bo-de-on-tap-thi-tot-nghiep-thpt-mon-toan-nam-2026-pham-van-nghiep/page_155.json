@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      192,
+      109,
+      1420,
+      156
+    ],
+    "category": "Text",
+    "text": "Chi phí sản xuất $x$ sản phẩm là: $C(x) = 20000 + 800x - 3,6x^2 + 0,004x^3$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      192,
+      164,
+      1567,
+      264
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận khi bán $x$ sản phẩm là: $L(x) = x \\cdot p(x) - C(x) = -0,004x^3 - 5,4x^2 + 1200x - 20000$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      192,
+      264,
+      1081,
+      360
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } L'(x) = -0,012x^2 - 10,8x + 1200. \\quad L'(x) = 0 \\Leftrightarrow \\begin{cases} x = 100 \\\\ x = -1000 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      365,
+      506,
+      404
+    ],
+    "category": "Text",
+    "text": "Với $1 \\le x \\le 200$, ta có:"
+  },
+  {
+    "bbox": [
+      441,
+      432,
+      1326,
+      805
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1000$</td><td>1</td><td>100</td><td>200</td><td>$+\\infty$</td></tr><tr><td>$L'(x)$</td><td colspan=\"2\">$- \\quad 0$</td><td>$+ \\quad 0 \\quad -$</td><td></td><td></td><td></td></tr><tr><td>$L(x)$</td><td colspan=\"6\">42000</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      850,
+      1188,
+      894
+    ],
+    "category": "Text",
+    "text": "Vậy phải sản xuất 100 sản phẩm để lợi nhuận thu được là lớn nhất."
+  },
+  {
+    "bbox": [
+      74,
+      894,
+      1576,
+      1129
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Bánh tráng sau khi tráng, người ta sẽ đặt chúng trên tấm liếp tre rồi phơi nắng. Trên mặt đất phẳng, người ta dựng tấm liếp tre (xem như đoạn thẳng $AB$) có chiều dài bằng 3 m và tạo với mặt đất một góc $60^\\circ$. Tại một thời điểm dưới ánh sáng mặt trời, bóng $BC$ của tấm liếp tre (đoạn thẳng $BC$) trên mặt đất dài 3,6 m và tạo với tấm liếp một góc bằng $120^\\circ$ (tức là $ABC = 120^\\circ$) (hình vẽ bên dưới)."
+  },
+  {
+    "bbox": [
+      458,
+      1126,
+      1190,
+      1335
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1335,
+      1574,
+      1427
+    ],
+    "category": "Text",
+    "text": "Góc giữa mặt đất và đường thẳng chứa tia sáng mặt trời tại thời điểm nói trên bằng bao nhiêu độ? (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      833,
+      1429,
+      953,
+      1470
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      192,
+      1473,
+      371,
+      1517
+    ],
+    "category": "Text",
+    "text": "Đáp số: 27."
+  },
+  {
+    "bbox": [
+      212,
+      1517,
+      1576,
+      1619
+    ],
+    "category": "Text",
+    "text": "Gọi mặt đất là mặt phẳng ($\\alpha$). Khi này góc giữa mặt đất và đường thẳng chứa tia sáng mặt trời tại thời điểm nói trên là góc giữa đường thẳng $CA$ và mặt phẳng ($\\alpha$)."
+  },
+  {
+    "bbox": [
+      632,
+      1682,
+      1161,
+      1935
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1969,
+      1443,
+      2021
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $A$ lên mặt phẳng ($\\alpha$), khi này $(AC, (\\alpha)) = ACH$."
+  },
+  {
+    "bbox": [
+      192,
+      2023,
+      949,
+      2072
+    ],
+    "category": "Text",
+    "text": "Áp dụng định lí Cô – sin trong tam giác $ABC$ ta có"
+  },
+  {
+    "bbox": [
+      198,
+      2072,
+      1252,
+      2165
+    ],
+    "category": "Formula",
+    "text": "$$\nAC = \\sqrt{BC^2 + BA^2 - 2BC.BA.\\cos ABC} = \\sqrt{3,6^2 + 3^2 - 2 \\cdot 3,6 \\cdot 3 \\cdot \\cos 120^\\circ} = \\frac{3\\sqrt{91}}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2167,
+      1156,
+      2215
+    ],
+    "category": "Text",
+    "text": "Áp dụng tỉ số lượng giác trong tam giác $ABH$ vuông tại $H$, ta có"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

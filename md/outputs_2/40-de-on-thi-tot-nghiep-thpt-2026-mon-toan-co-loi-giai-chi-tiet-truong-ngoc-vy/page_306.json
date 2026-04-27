@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      95,
+      690,
+      151
+    ],
+    "category": "Text",
+    "text": "Ta có: $P(B|A) = 0,7$ và $P(B|\\bar{A}) = 0,25$"
+  },
+  {
+    "bbox": [
+      155,
+      169,
+      887,
+      216
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được người bị bệnh tiểu đường là 0,4"
+  },
+  {
+    "bbox": [
+      155,
+      235,
+      1368,
+      281
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó bị bệnh tiểu đường là 0,7"
+  },
+  {
+    "bbox": [
+      155,
+      298,
+      860,
+      344
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được người bị bệnh huyết áp cao là:"
+  },
+  {
+    "bbox": [
+      162,
+      362,
+      1051,
+      422
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = 0,4 \\cdot 0,7 + 0,6 \\cdot 0,25 = 0,43\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      442,
+      1409,
+      489
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được người không bị bệnh tiểu đường, biết người đó bị bệnh huyết áp cao là:"
+  },
+  {
+    "bbox": [
+      162,
+      507,
+      1001,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}|B) = 1 - P(A|B) = 1 - \\frac{P(A) \\cdot P(B|A)}{P(B)} = 1 - \\frac{0,4 \\cdot 0,7}{0,43} \\approx 0,35.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      627,
+      1059,
+      674
+    ],
+    "category": "Text",
+    "text": "Ý d) này ta cũng có thể tính trực tiếp luôn, không cần tính gián tiếp"
+  },
+  {
+    "bbox": [
+      162,
+      688,
+      742,
+      784
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}|B) = \\frac{P(\\bar{A}) \\cdot P(B|\\bar{A})}{P(B)} = \\frac{0,6 \\cdot 0,25}{0,43} \\approx 0,35\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      803,
+      1575,
+      1310
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Các thiên thạch có đường kính lớn hơn 140 m và có thể lại gần Trái Đất ở khoảng cách nhỏ hơn 7500 000 km được coi là những vật thể có khả năng va chạm gây nguy hiểm cho Trái Đất. Để theo dõi những thiên thạch này, người ta đã thiết lập các trạm quan sát các vật thể bay gần Trái Đất. Giả sử có một hệ thống quan sát có khả năng theo dõi các vật thể ở độ cao không vượt quá 6600 km so với mực nước biển. Coi Trái Đất là khối cầu có bán kính 6 400 km. Chọn hệ trục tọa độ $Oxyz$ trong không gian có gốc $O$ tại tâm Trái Đất và đơn vị độ dài trên mỗi trục tọa độ là 1000 km. Một thiên thạch (coi như một hạt) chuyển động với tốc độ không đổi theo một đường thẳng từ điểm $M(6; 20; 0)$ đến điểm $N(-6; -12; 16)$."
+  },
+  {
+    "bbox": [
+      585,
+      1327,
+      1140,
+      1802
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1821,
+      1079,
+      1969
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $MN$ có phương trình tham số là $\\begin{cases} x = 6 + 3t \\\\ y = 20 + 8t, (t \\in \\mathbb{R}) \\\\ z = -4t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      155,
+      1995,
+      1569,
+      2045
+    ],
+    "category": "Text",
+    "text": "b) Vị trí đầu tiên thiên thạch di chuyển vào phạm vi theo dõi của hệ thống quan sát là điểm $A(-3; -4; 12)$."
+  },
+  {
+    "bbox": [
+      155,
+      2064,
+      1575,
+      2170
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách giữa vị trí đầu tiên và vị trí cuối cùng mà thiên thạch di chuyển trong phạm vi theo dõi của hệ thống quan sát là 18 900 km (kết quả làm tròn đến hàng trăm theo đơn vị ki-lô-mét)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      649,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

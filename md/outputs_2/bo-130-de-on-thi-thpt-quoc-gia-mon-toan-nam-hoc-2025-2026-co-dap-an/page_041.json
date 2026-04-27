@@ -1,0 +1,448 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1239,
+      47,
+      1263,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      47,
+      1566,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      47,
+      1597,
+      78
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      119,
+      865,
+      162
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      173,
+      162,
+      1122,
+      435
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$+$</td></tr><tr><td>$y$</td><td>$1$</td><td>$-\\sqrt{2}$</td><td>$+\\infty$</td><td>$-1$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      443,
+      1082,
+      483
+    ],
+    "category": "Text",
+    "text": "Số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      123,
+      481,
+      196,
+      521
+    ],
+    "category": "List-item",
+    "text": "(A) 1."
+  },
+  {
+    "bbox": [
+      395,
+      481,
+      468,
+      521
+    ],
+    "category": "List-item",
+    "text": "(B) 4."
+  },
+  {
+    "bbox": [
+      668,
+      481,
+      741,
+      521
+    ],
+    "category": "List-item",
+    "text": "(C) 2."
+  },
+  {
+    "bbox": [
+      940,
+      481,
+      1013,
+      521
+    ],
+    "category": "List-item",
+    "text": "(D) 3."
+  },
+  {
+    "bbox": [
+      93,
+      539,
+      1197,
+      627
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Biết $\\sqrt[5]{5} \\cdot \\sqrt[4]{25} \\cdot \\sqrt[3]{5} = 5^{\\frac{m}{n}}$ với $m, n \\in \\mathbb{N}$ và nguyên tố cùng nhau. Tính $m + n$."
+  },
+  {
+    "bbox": [
+      123,
+      627,
+      333,
+      669
+    ],
+    "category": "List-item",
+    "text": "(A) $m + n = 79$."
+  },
+  {
+    "bbox": [
+      395,
+      627,
+      604,
+      669
+    ],
+    "category": "List-item",
+    "text": "(B) $m + n = 27$."
+  },
+  {
+    "bbox": [
+      668,
+      627,
+      877,
+      669
+    ],
+    "category": "List-item",
+    "text": "(C) $m + n = 16$."
+  },
+  {
+    "bbox": [
+      940,
+      627,
+      1134,
+      669
+    ],
+    "category": "List-item",
+    "text": "(D) $m + n = 5$."
+  },
+  {
+    "bbox": [
+      93,
+      688,
+      1197,
+      861
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian $Oxyz$, đường thẳng $\\Delta$ đi qua điểm $M(2; -3; 5)$ và song song với đường thẳng $d$: $\\begin{cases} x = 1 + 2t \\\\ y = 3 - t \\\\ z = 4 + t \\end{cases}$ có phương trình tham số là"
+  },
+  {
+    "bbox": [
+      123,
+      861,
+      369,
+      996
+    ],
+    "category": "Formula",
+    "text": "(A) $\\begin{cases} x = 2 + t \\\\ y = -3 + 3t \\\\ z = 5 + 4t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      395,
+      861,
+      641,
+      996
+    ],
+    "category": "Formula",
+    "text": "(B) $\\begin{cases} x = -2 + t \\\\ y = 3 + 3t \\\\ z = -5 + 4t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      668,
+      861,
+      914,
+      996
+    ],
+    "category": "Formula",
+    "text": "(C) $\\begin{cases} x = -2 + 2t \\\\ y = 3 - t \\\\ z = -5 + t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      940,
+      861,
+      1167,
+      996
+    ],
+    "category": "Formula",
+    "text": "(D) $\\begin{cases} x = 2 + 2t \\\\ y = -3 - t \\\\ z = 5 + t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      93,
+      1013,
+      1197,
+      1131
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Một vật chuyển động với gia tốc $a(t) = 2 \\cos t$ (m/s$^2$). Tại thời điểm bắt đầu chuyển động, vật có vận tốc bằng 0 (m/s). Quăng đường vật đi được từ thời điểm $t = 0$ (s) đến thời điểm $t = \\pi$ (s) là"
+  },
+  {
+    "bbox": [
+      123,
+      1129,
+      231,
+      1171
+    ],
+    "category": "List-item",
+    "text": "(A) 4 m."
+  },
+  {
+    "bbox": [
+      395,
+      1129,
+      503,
+      1171
+    ],
+    "category": "List-item",
+    "text": "(B) 0 m."
+  },
+  {
+    "bbox": [
+      668,
+      1129,
+      774,
+      1171
+    ],
+    "category": "List-item",
+    "text": "(C) 2 m."
+  },
+  {
+    "bbox": [
+      940,
+      1129,
+      1074,
+      1171
+    ],
+    "category": "List-item",
+    "text": "(D) $\\sqrt{2}$ m."
+  },
+  {
+    "bbox": [
+      93,
+      1189,
+      1197,
+      1379
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Kết quả khảo sát tại một xã cho thấy có 25% cư dân hút thuốc lá. Tỉ lệ cư dân thường xuyên gặp các vấn đề sức khoẻ về đường hô hấp trong số những người hút thuốc lá và không hút thuốc lá lần lượt là 60% và 25%. Nếu ta gặp một cư dân của xã thường xuyên gặp các vấn đề sức khoẻ về đường hô hấp thì xác suất người đó có hút thuốc lá là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      123,
+      1377,
+      202,
+      1442
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      395,
+      1377,
+      474,
+      1442
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{5}{9}$."
+  },
+  {
+    "bbox": [
+      668,
+      1377,
+      747,
+      1442
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{7}{9}$."
+  },
+  {
+    "bbox": [
+      940,
+      1377,
+      1021,
+      1442
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{8}{9}$."
+  },
+  {
+    "bbox": [
+      108,
+      1456,
+      824,
+      1510
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1518,
+      1197,
+      1674
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một ô tô đang chạy với vận tốc 18 (m/s) thì người lái xe hãm phanh. Sau khi hãm phanh ô tô chuyển động chậm dần đều với vận tốc $v(t) = 18 - 9t$ (m/s), trong đó $t$ là khoảng thời gian được tính bằng giây kể từ lúc ô tô bắt đầu hãm phanh. Khi đó cácobnghedai sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      123,
+      1674,
+      981,
+      1714
+    ],
+    "category": "List-item",
+    "text": "a) Vận tốc tức thời của ô tô tại thời điểm $t = 1$ giây là 9 (m/s)."
+  },
+  {
+    "bbox": [
+      123,
+      1714,
+      1092,
+      1754
+    ],
+    "category": "List-item",
+    "text": "b) Quăng đường xe đi được sau 1 giây kể từ lúc hãm phanh là 14,5 mét."
+  },
+  {
+    "bbox": [
+      123,
+      1754,
+      1069,
+      1794
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường kể từ lúc hãm phanh đến lúc xe停止hẩn là 4,5 mét."
+  },
+  {
+    "bbox": [
+      123,
+      1794,
+      840,
+      1834
+    ],
+    "category": "List-item",
+    "text": "d) Gia tốc tức thời của chuyển động này là 9 (m/s$^2$)."
+  },
+  {
+    "bbox": [
+      93,
+      1877,
+      910,
+      2110
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Mộtycanhcong củatòa nàh códangparabol gồm hai phần: Phần làm cửa lối vào là hình chữ nhật $ABCD$, còn lại là phần tường trang trí. Biết rằng chiều cao cổng là $IO = 9$ m, $EF = 6$ m, $AB = 4$ m. $S_1$ là diện tích phầnycanh của của lối vào hình chữ nhật, $S_2$ là diện tích phầntường trang trí."
+  },
+  {
+    "bbox": [
+      947,
+      1897,
+      1190,
+      2121
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      2123,
+      631,
+      2163
+    ],
+    "category": "List-item",
+    "text": "a) Diện tíchycanhcong là $S = 36$ m$^2$."
+  },
+  {
+    "bbox": [
+      123,
+      2163,
+      707,
+      2203
+    ],
+    "category": "List-item",
+    "text": "b) Diện tích phần cửa vào là $S_1 = 4\\sqrt{5}$ m$^2$."
+  },
+  {
+    "bbox": [
+      123,
+      2203,
+      781,
+      2243
+    ],
+    "category": "List-item",
+    "text": "c) Diện tích phần tường trang trí là $S_2 = 16$ m$^2$."
+  },
+  {
+    "bbox": [
+      1321,
+      119,
+      1504,
+      155
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1226,
+      2259,
+      1511,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 39"
+  }
+]

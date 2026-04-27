@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      821,
+      154
+    ],
+    "category": "Text",
+    "text": "d) Hai đường thẳng $\\Delta_1$ và $\\Delta_2$ chéo nhau."
+  },
+  {
+    "bbox": [
+      764,
+      163,
+      884,
+      205
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      221,
+      203,
+      475,
+      247
+    ],
+    "category": "Section-header",
+    "text": "a) Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      212,
+      285,
+      996,
+      338
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta_1$ có một vecto chỉ phương $\\vec{u}_1 = (1;2;3)$"
+  },
+  {
+    "bbox": [
+      212,
+      345,
+      1032,
+      398
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta_2$ có một vecto chỉ phương $\\vec{u}_2 = (2;4;-1)$"
+  },
+  {
+    "bbox": [
+      212,
+      405,
+      968,
+      451
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc giữa hai đường thẳng $\\Delta_1$ và $\\Delta_2$. Ta có,"
+  },
+  {
+    "bbox": [
+      218,
+      458,
+      912,
+      579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos \\alpha = \\frac{|\\vec{u}_1 \\cdot \\vec{u}_2|}{|\\vec{u}_1| \\cdot |\\vec{u}_2|} = \\frac{|1 \\cdot 2 + 2 \\cdot 4 + 3 \\cdot (-1)|}{\\sqrt{1^2 + 2^2 + 3^2} \\cdot \\sqrt{2^2 + 4^2 + 1^2}} = \\frac{\\sqrt{6}}{6}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      581,
+      458,
+      626
+    ],
+    "category": "Section-header",
+    "text": "b) Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      212,
+      628,
+      1573,
+      836
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta_1$ có một vecto chỉ phương $\\vec{u}_1 = (1;2;3)$ và đi qua điểm $A(0;-3;2)$ nên phương trình tham số của đường thẳng $\\Delta_1$ là $\\begin{cases} x = t \\\\ y = -3 + 2t \\\\ z = 2 + 3t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      212,
+      849,
+      403,
+      886
+    ],
+    "category": "Section-header",
+    "text": "c) Chọn SAI"
+  },
+  {
+    "bbox": [
+      212,
+      890,
+      980,
+      938
+    ],
+    "category": "Text",
+    "text": "Gọi $(P)$ là mặt phẳng chứa $\\Delta_1$ và song song với $\\Delta_2$."
+  },
+  {
+    "bbox": [
+      212,
+      945,
+      1374,
+      1003
+    ],
+    "category": "Text",
+    "text": "Khi đó, $(P)$ đi qua điểm $A(0;-3;2)$ và nhận $\\vec{n} = [\\vec{u}_1, \\vec{u}_2]$ làm vecto pháp tuyến."
+  },
+  {
+    "bbox": [
+      212,
+      1010,
+      485,
+      1070
+    ],
+    "category": "Formula",
+    "text": "$$\n[\\vec{u}_1, \\vec{u}_2] = (-14; 7; 0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1077,
+      1162,
+      1125
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt phẳng $(P)$ là $-14(x-0) + 7(y+3) + 0(z-2) = 0$"
+  },
+  {
+    "bbox": [
+      218,
+      1132,
+      758,
+      1172
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -14x + 7y + 21 = 0 \\Leftrightarrow -2x + y + 3 = 0\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1177,
+      755,
+      1224
+    ],
+    "category": "Text",
+    "text": "Vậy mặt phẳng $(P)$ là $-2x + y + 3 = 0$."
+  },
+  {
+    "bbox": [
+      212,
+      1229,
+      458,
+      1274
+    ],
+    "category": "Section-header",
+    "text": "d) Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      212,
+      1277,
+      1389,
+      1330
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta_1$ đi qua điểm $A(0;-3;2)$ và có một vecto chỉ phương $\\vec{u}_1 = (1;2;3)$"
+  },
+  {
+    "bbox": [
+      212,
+      1337,
+      1423,
+      1391
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $\\Delta_2$ đi qua điểm $B(5;0;-2)$ và có một vecto chỉ phương $\\vec{u}_2 = (2;4;-1)$"
+  },
+  {
+    "bbox": [
+      212,
+      1398,
+      803,
+      1455
+    ],
+    "category": "Text",
+    "text": "Ta có, $[\\vec{u}_1, \\vec{u}_2] = (-14; 7; 0)$, $\\overrightarrow{AB} = (5; 3; -4)$"
+  },
+  {
+    "bbox": [
+      212,
+      1462,
+      821,
+      1522
+    ],
+    "category": "Formula",
+    "text": "$$\n[\\vec{u}_1, \\vec{u}_2] \\overrightarrow{AB} = -14 \\cdot 5 + 7 \\cdot 3 + 0 \\cdot (-4) = -49 (\\neq 0)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1528,
+      779,
+      1575
+    ],
+    "category": "Text",
+    "text": "Hai đường thẳng $\\Delta_1$ và $\\Delta_2$ chéo nhau."
+  },
+  {
+    "bbox": [
+      74,
+      1582,
+      1528,
+      1739
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho hàm số $y = -x^3 + x^2 + 2x$ có đồ thị $(C)$. Hình phẳng $(H_1)$ được giới hạn bởi $(C)$, trục hoành, hai đường thẳng $x = -1$, $x = 0$ và hình phẳng $(H_2)$ được giới hạn bởi $(C)$, trục hoành, hai đường thẳng $x = 0$, $x = 2$ (như hình vẽ)."
+  },
+  {
+    "bbox": [
+      630,
+      1753,
+      1014,
+      2090
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      2113,
+      1094,
+      2211
+    ],
+    "category": "Text",
+    "text": "a) Diện tích của hình $(H_1)$ được tính bởi $\\int_{-1}^{0} (-x^3 + x^2 + 2x) dx$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

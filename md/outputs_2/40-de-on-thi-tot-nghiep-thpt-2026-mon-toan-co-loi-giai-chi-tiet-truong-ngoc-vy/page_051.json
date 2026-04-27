@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1565,
+      195
+    ],
+    "category": "Text",
+    "text": "Vậy khi biết $X$ có phát sinh thêm chi phí khi sử dụng dịch vụ tư vấn thì xác suất để $X$ thuê công ty $A$ tư vấn khoảng 0,5263."
+  },
+  {
+    "bbox": [
+      155,
+      221,
+      1179,
+      329
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Tương tự ý b), ta có } P(\\overline{M} | N) = \\frac{P(\\overline{M}) \\cdot P(N | \\overline{M})}{P(N)} = \\frac{0,6 \\cdot 0,03}{0,038} \\approx 0,4737.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      350,
+      1565,
+      454
+    ],
+    "category": "Text",
+    "text": "Vậy khi biết $X$ có phát sinh thêm chi phí khi sử dụng dịch vụ tư vấn thì xác suất để $X$ thuê công ty $B$ tư vấn khoảng 0,4737."
+  },
+  {
+    "bbox": [
+      155,
+      480,
+      1062,
+      538
+    ],
+    "category": "Text",
+    "text": "Cách khác: Ta có thể sử dụng công thức $P(M | N) + P(\\overline{M} | N) = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      566,
+      903,
+      624
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } P(\\overline{M} | N) = 1 - P(M | N) \\approx 1 - 0,5263 = 0,4737.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      651,
+      1385,
+      699
+    ],
+    "category": "Text",
+    "text": "d) Có $\\overline{N}$ là biến cố: “Công ty $X$ không phát sinh thêm chi phí khi sử dụng dịch vụ tư vấn”."
+  },
+  {
+    "bbox": [
+      155,
+      719,
+      776,
+      777
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó, } P(\\overline{N}) = 1 - P(N) = 1 - 0,038 = 0,962.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      805,
+      895,
+      863
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta cũng có } P(\\overline{N} | M) = 1 - P(N | M) = 1 - 0,05 = 0,95.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      891,
+      1294,
+      1011
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Áp dụng công thức Bayes, ta có: } P(M | \\overline{N}) = \\frac{P(M) \\cdot P(\\overline{N} | M)}{P(\\overline{N})} = \\frac{0,4 \\cdot 0,95}{0,962} \\approx 0,395.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1032,
+      1575,
+      1259
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người điều剂kiển ô tô đang ở đường dẫn muốn nhập làn vào đường cao tốc. Khi xe ô tô cách điểm nhập làn 200m, tốc độ của ô tô là $36\\text{km/h}$. Hai giây sau đó, ô tô bắt đầu tăng tốc với tốc độ $v(t) = at + b$, $(a, b \\in \\mathbb{R}, a > 0)$ trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng ô tô nhập làn cao tốc sau 12 giây và duy trì sự tăng tốc đó trong 24 giây kể từ khi bắt đầu tăng tốc."
+  },
+  {
+    "bbox": [
+      155,
+      1272,
+      1196,
+      1318
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường ô tô đi được từ khi bắt đầu tăng tốc đến khi nhập làn là 180m"
+  },
+  {
+    "bbox": [
+      155,
+      1335,
+      441,
+      1374
+    ],
+    "category": "Text",
+    "text": "b) Giá trị của $b = 10$."
+  },
+  {
+    "bbox": [
+      155,
+      1390,
+      1575,
+      1556
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường $S(t)$ (đơn vị: mét) mà ô tô đi được trong thời gian $t$ giây ($0 \\le t \\le 24$) kể từ khi tăng tốc được tính theo công thức $S(t) = \\int_{0}^{24} v(t)dt$."
+  },
+  {
+    "bbox": [
+      155,
+      1575,
+      1511,
+      1622
+    ],
+    "category": "Text",
+    "text": "d) Sau 24 giây kể từ khi tăng tốc, tốc độ của ô tô không vượt quá tốc độ tối đa cho phép là $100\\text{km/h}$."
+  },
+  {
+    "bbox": [
+      807,
+      1641,
+      924,
+      1680
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1693,
+      972,
+      1817
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1870,
+      1188,
+      1915
+    ],
+    "category": "Text",
+    "text": "a) Khi xe ô tô cách điểm nhập làn 200m, tốc độ của ô tô là $36\\text{km/h} = 10\\text{m/s}$"
+  },
+  {
+    "bbox": [
+      155,
+      1930,
+      1514,
+      1975
+    ],
+    "category": "Text",
+    "text": "Hai giây sau ô tô bắt đầu tăng tốc. Vậy quăng đường ô tô đi được sau 2 giây là: $S = v \\cdot t = 10 \\cdot 2 = 20(\\text{m})$"
+  },
+  {
+    "bbox": [
+      155,
+      1994,
+      1188,
+      2039
+    ],
+    "category": "Text",
+    "text": "Vậy: Khi xe bắt đầu tăng tốc thì xe cách điểm nhập làn là: $200 - 20 = 180(\\text{m})$"
+  },
+  {
+    "bbox": [
+      155,
+      2058,
+      1332,
+      2103
+    ],
+    "category": "Text",
+    "text": "b) Tại thời điểm ô tô bắt đầu tăng tốc thì $t = 0$ và $v = 10\\text{m/s}$. Nên $10 = a \\cdot 0 + b \\Leftrightarrow b = 10$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

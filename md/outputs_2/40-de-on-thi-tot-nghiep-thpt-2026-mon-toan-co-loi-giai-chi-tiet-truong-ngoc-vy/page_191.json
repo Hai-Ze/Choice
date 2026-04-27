@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      97,
+      337,
+      135
+    ],
+    "category": "Page-header",
+    "text": "Đáp án: 349"
+  },
+  {
+    "bbox": [
+      617,
+      156,
+      1102,
+      611
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      628,
+      1238,
+      718
+    ],
+    "category": "Text",
+    "text": "Gắn hệ tọa độ $Oxy$ như hình vẽ: $A\\left(0;\\frac{45}{2}\\right)$, $B\\left(\\frac{45}{2};0\\right)$, $C\\left(0;-\\frac{45}{2}\\right)$, $D\\left(-\\frac{45}{2};0\\right)$."
+  },
+  {
+    "bbox": [
+      156,
+      744,
+      1356,
+      830
+    ],
+    "category": "Text",
+    "text": "Do hình vuông $ABCD$ có $AC = 45$ m nên độ dài cạnh hình vuông là: $AB = \\frac{AC}{\\sqrt{2}} = \\frac{45}{\\sqrt{2}}$ m."
+  },
+  {
+    "bbox": [
+      156,
+      856,
+      1040,
+      943
+    ],
+    "category": "Text",
+    "text": "Diện tích hình vuông $ABCD$ là: $S_{ABCD} = AB^2 = \\frac{45^2}{2} = 1012,5$ m$^2$."
+  },
+  {
+    "bbox": [
+      156,
+      964,
+      969,
+      1057
+    ],
+    "category": "Text",
+    "text": "Vì $AM = MN = NB$ nên $AM = MN = NB = \\frac{AB}{3} = \\frac{15\\sqrt{2}}{2}$ m."
+  },
+  {
+    "bbox": [
+      156,
+      1081,
+      1439,
+      1165
+    ],
+    "category": "Text",
+    "text": "Độ dài cạnh $AH = AM \\cdot \\cos 45^\\circ = \\frac{15}{2}$, $OH = OA - AH = \\frac{45}{2} - \\frac{15}{2} = 15$; $HM = AM \\cdot \\sin 45^\\circ = \\frac{15}{2}$."
+  },
+  {
+    "bbox": [
+      156,
+      1187,
+      640,
+      1274
+    ],
+    "category": "Text",
+    "text": "Vậy tọa độ của điểm $M = \\left(\\frac{15}{2};15\\right)$."
+  },
+  {
+    "bbox": [
+      156,
+      1300,
+      1489,
+      1388
+    ],
+    "category": "Text",
+    "text": "Parabol đi qua điểm $M$ và có định là điểm $E\\left(0;\\frac{15}{2}\\right)$ có phương trình dạng: $(P): y = ax^2 + \\frac{15}{2}$ (1)"
+  },
+  {
+    "bbox": [
+      156,
+      1417,
+      1181,
+      1511
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ điểm $M\\left(\\frac{15}{2};15\\right)$ vào (1) ta được: $15 = a \\cdot \\left(\\frac{15}{2}\\right)^2 + \\frac{15}{2} \\Leftrightarrow a = \\frac{2}{15}$."
+  },
+  {
+    "bbox": [
+      156,
+      1538,
+      776,
+      1620
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình parabol $(P): y = \\frac{2}{15}x^2 + \\frac{15}{2}$."
+  },
+  {
+    "bbox": [
+      156,
+      1643,
+      1571,
+      1725
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng giới hạn bởi $(P)$, đường thẳng $y = 15$, trục $Oy$ và đường thẳng $x = \\frac{15}{2}$ là:"
+  },
+  {
+    "bbox": [
+      162,
+      1747,
+      1164,
+      1872
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\int_{0}^{\\frac{15}{2}} \\left[ 15 - \\left( \\frac{2}{15}x^2 + \\frac{15}{2} \\right) \\right] dx = \\int_{0}^{\\frac{15}{2}} \\left[ \\frac{15}{2} - \\frac{2x^2}{15} \\right] dx = \\frac{15}{2}x \\Big|_{0}^{\\frac{15}{2}} - \\frac{2x^3}{45} \\Big|_{0}^{\\frac{15}{2}} = 37,5 \\text{ m}^2.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1898,
+      1216,
+      1981
+    ],
+    "category": "Text",
+    "text": "Diện tích tam giác $\\Delta AHM$ là: $S_2 = S_{AHM} = \\frac{1}{2} \\cdot AH \\cdot HM = \\frac{1}{2} \\cdot \\frac{15}{2} \\cdot \\frac{15}{2} = 28,125 \\text{ m}^2$."
+  },
+  {
+    "bbox": [
+      156,
+      2003,
+      1102,
+      2052
+    ],
+    "category": "Text",
+    "text": "Diện tích trồng hoa là: $S_{HOA} = 8 \\cdot (S_1 + S_2) = 8 \\cdot (37,5 + 28,125) = 525 \\text{ m}^2$"
+  },
+  {
+    "bbox": [
+      156,
+      2079,
+      1085,
+      2124
+    ],
+    "category": "Text",
+    "text": "Diện tích sân chơi là: $S_{SAN} = S_{ABCD} - S_{HOA} = 1012,5 - 525 = 487,5 \\text{ m}^2$."
+  },
+  {
+    "bbox": [
+      156,
+      2144,
+      1085,
+      2189
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền cần dùng là: $487,5 \\cdot 500000 + 525 \\cdot 200000 = 348750000$ đ"
+  },
+  {
+    "bbox": [
+      156,
+      2208,
+      1067,
+      2254
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền cần dùng để trang trí sân và trồng hoa là 349 triệu đồng."
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2256,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

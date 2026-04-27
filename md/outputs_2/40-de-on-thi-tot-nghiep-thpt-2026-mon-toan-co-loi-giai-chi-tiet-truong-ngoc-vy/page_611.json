@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      630,
+      95,
+      936,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      1373,
+      195
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      214,
+      1218,
+      262
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số cộng $(u_n)$ có số hạng đầu $u_2 = 2$ và $u_3 = 5$. Giá trị của $u_5$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      290,
+      218,
+      324
+    ],
+    "category": "List-item",
+    "text": "A. 12."
+  },
+  {
+    "bbox": [
+      476,
+      290,
+      565,
+      324
+    ],
+    "category": "List-item",
+    "text": "B. 15."
+  },
+  {
+    "bbox": [
+      827,
+      290,
+      914,
+      324
+    ],
+    "category": "List-item",
+    "text": "C. 11."
+  },
+  {
+    "bbox": [
+      1175,
+      290,
+      1272,
+      324
+    ],
+    "category": "List-item",
+    "text": "D. 25."
+  },
+  {
+    "bbox": [
+      727,
+      348,
+      843,
+      386
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      407,
+      199,
+      445
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      465,
+      1053,
+      507
+    ],
+    "category": "Text",
+    "text": "Ta có: $d = u_3 - u_2 = 5 - 2 = 3 \\Rightarrow u_4 = u_3 + d = 5 + 3 = 8 \\Rightarrow u_5 = u_4 + d = 11$."
+  },
+  {
+    "bbox": [
+      76,
+      537,
+      830,
+      581
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Nghiệm của phương trình $\\sin(x+10^\\circ) = -1$ là"
+  },
+  {
+    "bbox": [
+      125,
+      608,
+      429,
+      644
+    ],
+    "category": "List-item",
+    "text": "A. $x = -100^\\circ + k360^\\circ$."
+  },
+  {
+    "bbox": [
+      476,
+      608,
+      758,
+      644
+    ],
+    "category": "List-item",
+    "text": "B. $x = -80^\\circ + k180^\\circ$."
+  },
+  {
+    "bbox": [
+      827,
+      608,
+      1108,
+      644
+    ],
+    "category": "List-item",
+    "text": "C. $x = 100^\\circ + k360^\\circ$."
+  },
+  {
+    "bbox": [
+      1175,
+      608,
+      1482,
+      644
+    ],
+    "category": "List-item",
+    "text": "D. $x = -100^\\circ + k180^\\circ$."
+  },
+  {
+    "bbox": [
+      727,
+      668,
+      843,
+      706
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      727,
+      199,
+      765
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      785,
+      823,
+      896
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\sin(x+10^\\circ) = -1 \\Leftrightarrow \\sin(x+10^\\circ) = \\sin(-90^\\circ)$\n$\\Leftrightarrow x+10^\\circ = -90^\\circ + k360^\\circ \\Leftrightarrow x = -100^\\circ + k360^\\circ, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      76,
+      923,
+      838,
+      967
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tập nghiệm của bất phương trình $4^{x+1} \\le 8^{x-2}$ là"
+  },
+  {
+    "bbox": [
+      125,
+      988,
+      280,
+      1034
+    ],
+    "category": "List-item",
+    "text": "A. $[8; +\\infty)$."
+  },
+  {
+    "bbox": [
+      476,
+      988,
+      561,
+      1026
+    ],
+    "category": "List-item",
+    "text": "B. $\\varnothing$."
+  },
+  {
+    "bbox": [
+      827,
+      988,
+      955,
+      1034
+    ],
+    "category": "List-item",
+    "text": "C. $(0; 8)$."
+  },
+  {
+    "bbox": [
+      1175,
+      988,
+      1330,
+      1034
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; 8]$."
+  },
+  {
+    "bbox": [
+      727,
+      1062,
+      843,
+      1100
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1120,
+      894,
+      1162
+    ],
+    "category": "Text",
+    "text": "Ta có: $4^{x+1} \\le 8^{x-2} \\Leftrightarrow 2^{2x+2} \\le 2^{3x-6} \\Leftrightarrow 2x+2 \\le 3x-6 \\Leftrightarrow x \\ge 8$."
+  },
+  {
+    "bbox": [
+      76,
+      1184,
+      781,
+      1232
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình là $S = [8; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      1261,
+      1494,
+      1370
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x)$ xác định và liên tục trên $[-2; 2]$ và có đồ thị là đường cong trong hình vẽ bên."
+  },
+  {
+    "bbox": [
+      610,
+      1413,
+      950,
+      1774
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1792,
+      552,
+      1842
+    ],
+    "category": "Text",
+    "text": "Hàm số $f(x)$ đạt cực tiểu tại điểm"
+  },
+  {
+    "bbox": [
+      125,
+      1869,
+      251,
+      1903
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      476,
+      1869,
+      619,
+      1903
+    ],
+    "category": "List-item",
+    "text": "B. $x = -2$."
+  },
+  {
+    "bbox": [
+      827,
+      1869,
+      955,
+      1903
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      1175,
+      1869,
+      1320,
+      1903
+    ],
+    "category": "List-item",
+    "text": "D. $x = -1$."
+  },
+  {
+    "bbox": [
+      727,
+      1927,
+      843,
+      1965
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1986,
+      199,
+      2024
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      2038,
+      963,
+      2080
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị đã cho, ta có hàm số đã cho đạt cực tiểu tại điểm $x = -1$."
+  },
+  {
+    "bbox": [
+      76,
+      2109,
+      888,
+      2184
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tìm nguyên hàm $F(x)$ của hàm số $f(x) = \\cos^2 \\frac{x}{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2256,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1495,
+      137
+    ],
+    "category": "Text",
+    "text": "d) Lợi nhuận do máy A tạo ra trong suốt thời gian tuổi thọ hữu ích của nó là"
+  },
+  {
+    "bbox": [
+      75,
+      154,
+      862,
+      252
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{6} (R'(t) - C'(t))dt = \\int_{0}^{6} (-15t^2 + 602)dt = 2532 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      330,
+      1495,
+      493
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhóm nghiên cứu tiến hành khảo sát 10000 người và nhận thấy những người hút thuốc lá có nguy cơ bị ung thư phổi cao hơn so với người không hút thuốc lá. Kết quả khảo sát của nhóm nghiên cứu được trình bày trong bảng dữ liệu thống kê sau đây:"
+  },
+  {
+    "bbox": [
+      308,
+      518,
+      1258,
+      643
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Mắc ung thư phổi</td><td>Không mắc ung thư phổi</td></tr></thead><tbody><tr><td>Hút thuốc lá</td><td>1124 người</td><td>1126 người</td></tr><tr><td>Không hút thuốc lá</td><td>276 người</td><td>7474 người</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      75,
+      678,
+      922,
+      722
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một người trong 10000 người được khảo sát."
+  },
+  {
+    "bbox": [
+      75,
+      736,
+      683,
+      781
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để người đó hút thuốc lá là 14%."
+  },
+  {
+    "bbox": [
+      75,
+      795,
+      1161,
+      841
+    ],
+    "category": "Text",
+    "text": "b) Nếu người đó bị ung thư phổi thì xác suất người đó hút thuốc lá lớn hơn 80%."
+  },
+  {
+    "bbox": [
+      75,
+      853,
+      728,
+      899
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người đó bị ung thư phổi là 14%."
+  },
+  {
+    "bbox": [
+      75,
+      913,
+      1495,
+      1016
+    ],
+    "category": "Text",
+    "text": "d) Dựa theo kết quả khảo sát trên ta thấy, người hút thuốc lá có nguy cơ mắc bệnh ung thư phổi cao cấp khoảng 14 lần (kết quả làm tròn đến hàng đơn vị) so với người không hút thuốc lá."
+  },
+  {
+    "bbox": [
+      726,
+      1034,
+      844,
+      1073
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1087,
+      893,
+      1210
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1264,
+      669,
+      1309
+    ],
+    "category": "Text",
+    "text": "a) Gọi $A$ là biến cố người đó có hút thuốc lá"
+  },
+  {
+    "bbox": [
+      75,
+      1322,
+      655,
+      1368
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố người đó bị ung thư phổi."
+  },
+  {
+    "bbox": [
+      75,
+      1386,
+      1283,
+      1481
+    ],
+    "category": "Text",
+    "text": "Ta có xác suất người đó hút thuốc lá $P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{1124+1126}{10000} = \\frac{2250}{10000} = \\frac{9}{40} = 22,5\\%$."
+  },
+  {
+    "bbox": [
+      75,
+      1507,
+      854,
+      1556
+    ],
+    "category": "Text",
+    "text": "b) Số người bị ung thư phổi là $n(B) = 1124 + 276 = 1400$."
+  },
+  {
+    "bbox": [
+      75,
+      1582,
+      764,
+      1678
+    ],
+    "category": "Text",
+    "text": "Ta có $P(A|B) = \\frac{n(A \\cap B)}{n(B)} = \\frac{1124}{1400} = 80,29 > 80\\%$."
+  },
+  {
+    "bbox": [
+      75,
+      1706,
+      657,
+      1801
+    ],
+    "category": "Text",
+    "text": "c) Ta có $P(B) = \\frac{n(B)}{n(\\Omega)} = \\frac{1124+276}{10000} = 14\\%$."
+  },
+  {
+    "bbox": [
+      75,
+      1829,
+      695,
+      1924
+    ],
+    "category": "Text",
+    "text": "d) Ta tính $P(B|A) = \\frac{P(BA)}{P(A)} = \\frac{1124}{2250} = \\frac{562}{1125}$."
+  },
+  {
+    "bbox": [
+      75,
+      1952,
+      532,
+      2072
+    ],
+    "category": "Text",
+    "text": "Tính $P(B|\\bar{A}) = \\frac{P(B\\bar{A})}{P(\\bar{A})} = \\frac{276}{7750}$."
+  },
+  {
+    "bbox": [
+      75,
+      2098,
+      537,
+      2205
+    ],
+    "category": "Text",
+    "text": "Vậy $\\frac{P(B|A)}{P(B|\\bar{A})} = \\frac{562}{1125} : \\frac{276}{7750} \\approx 14$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

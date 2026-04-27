@@ -1,0 +1,345 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      36,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1564,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      120,
+      1198,
+      238
+    ],
+    "category": "Text",
+    "text": "**CÂU 36.** Hộp $A$待用 4 bi xanh và 4 bi trắng, hộp $B$待用 6 bi xanh và 3 bi trắng, hộp $C$ không có viên bi nào. Người ta thực hiện liên tiếp ba hành động sau đây hoàn toàn ngẫu nhiên:"
+  },
+  {
+    "bbox": [
+      128,
+      265,
+      161,
+      296
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      265,
+      692,
+      301
+    ],
+    "category": "Text",
+    "text": "Lấy 1 viên bi từ hộp $A$ bỏ sang hộp $B$."
+  },
+  {
+    "bbox": [
+      128,
+      330,
+      161,
+      360
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      328,
+      692,
+      365
+    ],
+    "category": "Text",
+    "text": "Lấy 1 viên bi từ hộp $B$ bỏ sang hộp $C$."
+  },
+  {
+    "bbox": [
+      128,
+      394,
+      161,
+      425
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      394,
+      692,
+      430
+    ],
+    "category": "Text",
+    "text": "Lấy 1 viên bi từ hộp $A$ bỏ sang hộp $C$."
+  },
+  {
+    "bbox": [
+      94,
+      465,
+      1007,
+      718
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      734,
+      561,
+      769
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai các mind đề sau"
+  },
+  {
+    "bbox": [
+      124,
+      771,
+      1194,
+      874
+    ],
+    "category": "List-item",
+    "text": "a) Nếu từ hộp $A$ đã lấy 1 bi trắng bỏ sang hộp $B$ thì xác suất để lấy bi trắng từ hộp $B$ bỏ sang hộp $C$ bằng $\\frac{3}{5}$."
+  },
+  {
+    "bbox": [
+      124,
+      867,
+      1036,
+      939
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để lấy được bi trắng từ hộp $B$ bỏ sang hộp $C$ bằng $\\frac{7}{20}$."
+  },
+  {
+    "bbox": [
+      124,
+      932,
+      792,
+      1003
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để lấy từ $C$ được 2 bi xanh bằng $\\frac{9}{28}$."
+  },
+  {
+    "bbox": [
+      124,
+      996,
+      1192,
+      1099
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để 2 bi lấy từ hộp $C$ đều là các bi từ hộp $A$ chuyển sang bằng $\\frac{1}{15}$ biết rằng đó là 2 bi xanh."
+  },
+  {
+    "bbox": [
+      94,
+      1118,
+      1198,
+      1236
+    ],
+    "category": "Text",
+    "text": "**CÂU 37.** Trong khoa Lí của trường đại học Sư phạm có 200 sinh viên trong đó có 95 nam và 105 nữ. Trong kì thi tốt nghiệp có 50 loại học sinh giải, gồm 24 nam và 26 nữ. Lấy ngẫu nhiên một sinh viên. Xét tính đúng, sai của các mind đề sau"
+  },
+  {
+    "bbox": [
+      124,
+      1231,
+      818,
+      1301
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để sinh viên chọn ngẫu nhiên giải là $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      124,
+      1294,
+      1192,
+      1365
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để sinh viên chọn ra là nữ biết rằng sinh viên chọn ra là giải là $\\frac{13}{25}$."
+  },
+  {
+    "bbox": [
+      124,
+      1358,
+      1192,
+      1430
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để sinh viên chọn ra là giải biết rằng sinh viên chọn ra là nữ là $\\frac{26}{105}$."
+  },
+  {
+    "bbox": [
+      124,
+      1425,
+      1185,
+      1463
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử sinh viên chọn ra là giải, khi đó nhiều khả năng đó là sinh viên nam."
+  },
+  {
+    "bbox": [
+      94,
+      1481,
+      1198,
+      1560
+    ],
+    "category": "Text",
+    "text": "**CÂU 38.** Một doanh nghiệp có 45% nhân viên là nữ. Trong các nhân viên nữ có 30% nhân viên có bằng đại học, tỉ lệ này trong các nhân viên nam là 25%."
+  },
+  {
+    "bbox": [
+      124,
+      1562,
+      878,
+      1598
+    ],
+    "category": "List-item",
+    "text": "a) Tỉ lệ nhân viên nam trong tổng số nhân viên là 55%."
+  },
+  {
+    "bbox": [
+      124,
+      1602,
+      1188,
+      1640
+    ],
+    "category": "List-item",
+    "text": "b) Tỉ lệ nhân viên nữ không có bằng đại học trong tổng số nhân viên là 13,5%."
+  },
+  {
+    "bbox": [
+      124,
+      1643,
+      1194,
+      1718
+    ],
+    "category": "List-item",
+    "text": "c) Chọn ngẫu nhiên hai nhân viên trong doanh nghiệp, xác suất để chọn được hai người khác giới lớn hơn 24,5%."
+  },
+  {
+    "bbox": [
+      124,
+      1722,
+      1194,
+      1797
+    ],
+    "category": "List-item",
+    "text": "d) Chọn ngẫu nhiên hai nhân viên trong doanh nghiệp, xác suất để trong hai người được có đúng một người có bằng đại học không vượt quá 19,8%."
+  },
+  {
+    "bbox": [
+      94,
+      1816,
+      1198,
+      2007
+    ],
+    "category": "Text",
+    "text": "**CÂU 39.** Điều kiểm tra cuối kì môn Toán của một học sinh phụ thuộc vào việc học sinh đó có chăm chỉ làm bài tập về nhà hay không. Nếu bạn An chăm chỉ làm bài tập về nhà môn Toán thì xác suất đạt điểm tốt kiểm tra cuối kì là 0,9. Still nếu bạn An không chăm chỉ làm bài tập về nhà thì xác suất đạt điểm không tốt kiểm tra cuối kì là 0,85. Xác suất An chăm chỉ làm bài tập về nhà môn Toán là 0,75."
+  },
+  {
+    "bbox": [
+      124,
+      2009,
+      1194,
+      2084
+    ],
+    "category": "List-item",
+    "text": "a) Nếu An chăm chỉ làm bài tập về nhà môn Toán thì xác suất An được điểm không tốt kiểm tra cuối kì là 0,1."
+  },
+  {
+    "bbox": [
+      124,
+      2087,
+      1194,
+      2161
+    ],
+    "category": "List-item",
+    "text": "b) Nếu An không chăm chỉ làm bài tập về nhà môn Toán thì xác suất An được điểm tốt kiểm tra cuối kì là 0,2."
+  },
+  {
+    "bbox": [
+      124,
+      2165,
+      970,
+      2203
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để An đạt điểm không tốt kiểm tra cuối kì là 0,35."
+  },
+  {
+    "bbox": [
+      124,
+      2206,
+      915,
+      2244
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để An đạt điểm tốt kiểm tra cuối kì là 0,7125."
+  },
+  {
+    "bbox": [
+      1322,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 669"
+  }
+]

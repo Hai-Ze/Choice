@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      251,
+      101,
+      356,
+      188
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      613,
+      101,
+      704,
+      188
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{7}{12}$."
+  },
+  {
+    "bbox": [
+      913,
+      101,
+      1008,
+      188
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{5}{12}$."
+  },
+  {
+    "bbox": [
+      1212,
+      101,
+      1297,
+      188
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      813,
+      220,
+      927,
+      259
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      276,
+      769,
+      320
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “Xạ thủ 1 bắn trúng mục tiêu”"
+  },
+  {
+    "bbox": [
+      257,
+      336,
+      711,
+      381
+    ],
+    "category": "Text",
+    "text": "$B$: “Xạ thủ 2 bắn trúng mục tiêu”"
+  },
+  {
+    "bbox": [
+      257,
+      397,
+      635,
+      442
+    ],
+    "category": "Text",
+    "text": "$M$: “Mục tiêu bị bắn trúng”"
+  },
+  {
+    "bbox": [
+      251,
+      465,
+      932,
+      548
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết ta có: $P(A) = \\frac{1}{4} \\Rightarrow P(\\bar{A}) = 1 - \\frac{1}{4} = \\frac{3}{4}$"
+  },
+  {
+    "bbox": [
+      251,
+      576,
+      719,
+      659
+    ],
+    "category": "Text",
+    "text": "Và $P(B) = \\frac{1}{3} \\Rightarrow P(\\bar{B}) = 1 - \\frac{1}{3} = \\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      251,
+      684,
+      1505,
+      734
+    ],
+    "category": "Text",
+    "text": "Ta có $\\bar{M} = \\bar{A} \\cap \\bar{B}$. Vì $A$ và $B$ là hai biến cố độc lập nên $\\bar{A}$ và $\\bar{B}$ cũng là hai biến cố độc lập."
+  },
+  {
+    "bbox": [
+      251,
+      760,
+      790,
+      843
+    ],
+    "category": "Text",
+    "text": "Do đó $P(\\bar{M}) = P(\\bar{A}) \\cdot P(\\bar{B}) = \\frac{3}{4} \\cdot \\frac{2}{3} = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      257,
+      871,
+      572,
+      952
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M) = 1 - P(\\bar{M}) = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      978,
+      769,
+      1018
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Phương trình $\\sin x = -1$ có nghiệm là ."
+  },
+  {
+    "bbox": [
+      251,
+      1027,
+      563,
+      1102
+    ],
+    "category": "List-item",
+    "text": "A. $x = \\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      901,
+      1042,
+      1199,
+      1079
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\pi + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      251,
+      1158,
+      485,
+      1195
+    ],
+    "category": "List-item",
+    "text": "C. $x = k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      901,
+      1143,
+      1232,
+      1219
+    ],
+    "category": "List-item",
+    "text": "D. $x = -\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      767,
+      1252,
+      881,
+      1291
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      257,
+      1327,
+      724,
+      1402
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin x = -1 \\Leftrightarrow x = -\\frac{\\pi}{2} + k2\\pi, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1402,
+      1462,
+      1479
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Khảo sát thu nhập theo tháng của người lao động ở một công ty thu được mẫu số liệu ghép nhóm như sau"
+  },
+  {
+    "bbox": [
+      248,
+      1481,
+      1398,
+      1652
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thu nhập (triệu đồng)</td><td>[5;8)</td><td>[8;11)</td><td>[11;14)</td><td>[14;17)</td><td>[17;20)</td></tr><tr><td>Số người</td><td>30</td><td>55</td><td>45</td><td>30</td><td>20</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1655,
+      972,
+      1695
+    ],
+    "category": "Text",
+    "text": "Tính thu nhập trung bình của người lao động công ty?"
+  },
+  {
+    "bbox": [
+      251,
+      1722,
+      372,
+      1758
+    ],
+    "category": "List-item",
+    "text": "A. 10,5."
+  },
+  {
+    "bbox": [
+      586,
+      1722,
+      715,
+      1758
+    ],
+    "category": "List-item",
+    "text": "B. 11,75."
+  },
+  {
+    "bbox": [
+      901,
+      1722,
+      1018,
+      1758
+    ],
+    "category": "List-item",
+    "text": "C. 12,5."
+  },
+  {
+    "bbox": [
+      1216,
+      1722,
+      1301,
+      1758
+    ],
+    "category": "List-item",
+    "text": "D. 11."
+  },
+  {
+    "bbox": [
+      835,
+      1794,
+      949,
+      1833
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      242,
+      1918,
+      1404,
+      2158
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thu nhập (triệu đồng)</td><td>[5;8)</td><td>[8;11)</td><td>[11;14)</td><td>[14;17)</td><td>[17;20)</td></tr><tr><td>Số người</td><td>30</td><td>55</td><td>45</td><td>30</td><td>20</td></tr><tr><td>Giá trị đại diện</td><td>6,5</td><td>9,5</td><td>12,5</td><td>15,5</td><td>18,5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      2162,
+      932,
+      2202
+    ],
+    "category": "Text",
+    "text": "Thu nhập trung bình của người lao động công ty là"
+  }
+]

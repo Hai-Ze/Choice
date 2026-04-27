@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      214,
+      103,
+      1333,
+      181
+    ],
+    "category": "Text",
+    "text": "Giải phương trình $y = 0 \\Leftrightarrow 4,8\\sin\\frac{x}{9} = 0 \\Leftrightarrow \\sin\\frac{x}{9} = 0 \\Leftrightarrow \\frac{x}{9} = k\\pi \\Leftrightarrow x = k9\\pi (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      214,
+      186,
+      1076,
+      232
+    ],
+    "category": "Text",
+    "text": "Do đó đồ thị cắt trục $Ox$ tại các điểm có hoành độ $0;9\\pi;18\\pi;\\dots$"
+  },
+  {
+    "bbox": [
+      214,
+      240,
+      1102,
+      290
+    ],
+    "category": "Text",
+    "text": "Vì thế $A(9\\pi;0)$ nên chiều rộng của con sông là $OA = 9\\pi \\approx 28,3m$"
+  },
+  {
+    "bbox": [
+      214,
+      301,
+      1529,
+      447
+    ],
+    "category": "Text",
+    "text": "Cho $0 < m < 4,8$, giải sử đường thẳng $y = m$ cắt $(C)$ tại hai điểm $P(x_3;m), Q(x_4;m)$, $x_3, x_4$ là hai nghiệm dương nhỏ nhất của phương trình $4,8\\sin\\frac{x}{9} = m(2)$ sao cho $x_4 - x_3 = 9$."
+  },
+  {
+    "bbox": [
+      214,
+      456,
+      1221,
+      548
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\sin\\frac{x}{9} = \\frac{m}{4,8}, \\text{ vì } 0 < \\frac{m}{4,8} < 1 \\text{ nên } \\exists \\beta \\in \\left[-\\frac{\\pi}{2};\\frac{\\pi}{2}\\right] \\text{ sao cho } \\sin \\beta = \\frac{m}{4,8} (*)\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      562,
+      1138,
+      667
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó (2) trở thành } \\Leftrightarrow \\sin\\frac{x}{9} = \\sin\\beta \\Leftrightarrow \\begin{cases} x = 9\\beta + k18\\pi \\\\ x = 9(\\pi - \\beta) + k18\\pi \\end{cases} \\quad k \\in \\mathbb{Z}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      679,
+      1043,
+      730
+    ],
+    "category": "Text",
+    "text": "Hai nghiệm dương nhỏ nhất của (2) là $x_3 = 9\\beta, x_4 = 9(\\pi - \\beta)$"
+  },
+  {
+    "bbox": [
+      214,
+      743,
+      1355,
+      826
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } x_4 - x_3 = 9(\\pi - \\beta) - 9\\beta = 0. \\text{ Do vậy } m = 4,8\\sin\\beta \\text{ hay } m = 4,8\\sin\\frac{\\pi-1}{2} \\approx 4,21\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      831,
+      1140,
+      876
+    ],
+    "category": "Text",
+    "text": "Vậy chiều cao của mỗi khối hàng hoá tối đa là $4,21 - 0,7 = 3,51$ mét."
+  },
+  {
+    "bbox": [
+      114,
+      883,
+      1562,
+      1192
+    ],
+    "category": "Text",
+    "text": "**Câu 21.** Hai thí sinh A và B cùng tham gia một cuộc thi vấn đáp. Cán bộ coi thi đưa cho mỗi thí sinh một bộ câu hỏi gồm 10 câu hỏi khác nhau, được待用 trong 10 phong bì dán kín, có hình thức giống hệt nhau, mỗi phong bì待用 1 câu hỏi; thí sinh chọn 3 phong bì để xác định câu hỏi của mình. Biết rằng bộ 10 câu hỏi của các thí sinh là như nhau. Hai phòng bì được gọi là giống nhau nếu chứa cùng một câu hỏi. Xác suất để 3 phong bì A chọn và 3 phong bì B chọn có ít nhất hai phong bì giống nhau là $\\frac{a}{b}$ (trong đó $\\frac{a}{b}$ là phân số tối简 và $a, b \\in \\mathbb{N}$). Tính $a^2 + b^2$."
+  },
+  {
+    "bbox": [
+      837,
+      1202,
+      951,
+      1240
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1239,
+      420,
+      1278
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 3721."
+  },
+  {
+    "bbox": [
+      214,
+      1274,
+      1574,
+      1357
+    ],
+    "category": "Text",
+    "text": "Để dễ hình dung, hãy tưởng tượng bạn A có một集合 bi gồm 10 viên bi đánh số từ 1 đến 10 (tương ứng với 10 câu hỏi được待用 trong phong bì) và bạn B cũng vậy."
+  },
+  {
+    "bbox": [
+      214,
+      1357,
+      898,
+      1403
+    ],
+    "category": "Text",
+    "text": "Số cách bạn A chọn ra 3 viên bi bất kì là: $C_{10}^3$ cách."
+  },
+  {
+    "bbox": [
+      214,
+      1409,
+      913,
+      1456
+    ],
+    "category": "Text",
+    "text": "Số cách bạn B chọn ra 3 viên bi bất kì là: $C_{10}^3$ cách."
+  },
+  {
+    "bbox": [
+      214,
+      1462,
+      924,
+      1511
+    ],
+    "category": "Text",
+    "text": "Vậy số phần tử của không gian mẫu là: $n_{\\Omega} = C_{10}^3 \\cdot C_{10}^3$."
+  },
+  {
+    "bbox": [
+      214,
+      1511,
+      1494,
+      1556
+    ],
+    "category": "Text",
+    "text": "Gọi X là biến cố: \" 3 phong bì A chọn và 3 phong bì B chọn có ít nhất hai phong bì giống nhau\""
+  },
+  {
+    "bbox": [
+      214,
+      1552,
+      1574,
+      1633
+    ],
+    "category": "Text",
+    "text": "Nếu coi là các viên bi, biến cố $X$ sẽ là: \" 3 viên bi $A$ chọn và 3 viên bi $B$ chọn có ít nhất hai viên bi đánh số giống nhau\""
+  },
+  {
+    "bbox": [
+      214,
+      1627,
+      1574,
+      1718
+    ],
+    "category": "Text",
+    "text": "TH1: Cả ba viên bi $A$ chọn và $B$ chọn được đánh số giống nhau. Số cách bạn A chọn ra 3 viên bi bất kì là: $C_{10}^3$ cách."
+  },
+  {
+    "bbox": [
+      214,
+      1718,
+      1574,
+      1808
+    ],
+    "category": "Text",
+    "text": "Khi đó B có một cách duy nhất để chọn bi sao cho \"Cả ba viên bi $A$ chọn và $B$ chọn được đánh số giống nhau\". Do vậy trường hợp này có: $C_{10}^3$ cách."
+  },
+  {
+    "bbox": [
+      214,
+      1812,
+      1574,
+      1902
+    ],
+    "category": "Text",
+    "text": "TH2: \" 3 viên bi $A$ chọn và 3 viên bi $B$ chọn có đúng hai viên bi đánh số giống nhau\" Số cách bạn A chọn ra 3 viên bi bất kì là: $C_{10}^3$ cách (chẳng hạn 3,4,5)."
+  },
+  {
+    "bbox": [
+      214,
+      1906,
+      645,
+      1945
+    ],
+    "category": "Text",
+    "text": "Khi đó B chọn bi theo hai bước:"
+  },
+  {
+    "bbox": [
+      214,
+      1947,
+      1420,
+      1994
+    ],
+    "category": "Text",
+    "text": "Bước 1: Chọn 2 viên đánh số giống A chọn có $C_3^2$ cách (chẳng hạn 3,4 hoặc 4,5 hoặc 3,5)."
+  },
+  {
+    "bbox": [
+      214,
+      1994,
+      1038,
+      2039
+    ],
+    "category": "Text",
+    "text": "Bước 2: Chọn 1 viên đánh số khác A chọn có $10-3=7$ cách."
+  },
+  {
+    "bbox": [
+      214,
+      2039,
+      1251,
+      2088
+    ],
+    "category": "Text",
+    "text": "Do vậy theo quy tắc nhân TH2 có: $C_{10}^3 \\cdot C_3^2 \\cdot 7$ cách. Khi đó $n_X = C_{10}^3 + C_{10}^3 \\cdot C_3^2 \\cdot 7$"
+  },
+  {
+    "bbox": [
+      214,
+      2094,
+      849,
+      2182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{cách nên xác suất cần tìm là } P(X) = \\frac{n_X}{n_{\\Omega}} = \\frac{11}{60}.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      2190,
+      704,
+      2235
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a = 11, b = 60 \\Rightarrow a^2 + b^2 = 3721.\n$$"
+  }
+]

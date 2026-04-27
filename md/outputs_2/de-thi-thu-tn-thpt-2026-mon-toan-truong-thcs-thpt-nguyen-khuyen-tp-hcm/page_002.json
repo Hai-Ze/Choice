@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      91,
+      64,
+      745,
+      165
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nếu $\\int_{-1}^{2} f(x)dx = 5$ thì $\\int_{-1}^{2} 4f(x)dx$ bằng:"
+  },
+  {
+    "bbox": [
+      216,
+      169,
+      1358,
+      251
+    ],
+    "category": "Text",
+    "text": "A. 20. B. 10. C. $\\frac{5}{2}$. D. $\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      91,
+      255,
+      1236,
+      304
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho dãy số $(u_n)$ thoả mãn $u_1 = 2; u_{n+1} = 3u_n, \\forall n \\in \\mathbb{N}^*$. Giá trị của $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      216,
+      314,
+      1367,
+      396
+    ],
+    "category": "Text",
+    "text": "A. 6. B. $\\frac{3}{2}$. C. 18. D. 12."
+  },
+  {
+    "bbox": [
+      91,
+      400,
+      921,
+      454
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Hàm số $y = \\sqrt{-x^2 + 2x}$ đồng biến trên khoảng nào?"
+  },
+  {
+    "bbox": [
+      216,
+      460,
+      1446,
+      509
+    ],
+    "category": "Text",
+    "text": "A. $(0; 1)$. B. $(1; 2)$. C. $(-\\infty; 0)$. D. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      91,
+      519,
+      1103,
+      606
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $y = \\frac{x^2 - 3x + 4}{x+1}$. Tiệm cận đứng của đồ thị hàm số là:"
+  },
+  {
+    "bbox": [
+      216,
+      609,
+      1418,
+      649
+    ],
+    "category": "Text",
+    "text": "A. $y = 1$. B. $x = -1$. C. $x = 1$. D. $y = -1$."
+  },
+  {
+    "bbox": [
+      91,
+      649,
+      1590,
+      695
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Bạn An rất thích nhây hiện đại. Thời gian tập nhây mỗi ngày của bạn An được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      224,
+      704,
+      1402,
+      809
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[20;25)</td><td>[25;30)</td><td>[30;35)</td><td>[35;40)</td><td>[40;45)</td></tr><tr><td>Số ngày</td><td>6</td><td>6</td><td>4</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      216,
+      817,
+      1377,
+      863
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm có giá trị gần nhất với giá trị nào dưới đây?"
+  },
+  {
+    "bbox": [
+      216,
+      889,
+      1304,
+      927
+    ],
+    "category": "Text",
+    "text": "A. 31,25. B. 31,26. C. 5,4. D. 5,6."
+  },
+  {
+    "bbox": [
+      91,
+      935,
+      1593,
+      1042
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Xét hình phẳng $(H)$ giới hạn bởi đồ thị các hàm số $y = x^2 - 4x + 4$, trục tung, trục hoành và đường thẳng $x = 3$. Tính thể tích khối tròn xoay khi quay hình $(H)$ quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      216,
+      1051,
+      1385,
+      1134
+    ],
+    "category": "Text",
+    "text": "A. 33. B. $\\frac{33}{5}$. C. $\\frac{33\\pi}{5}$. D. $33\\pi$."
+  },
+  {
+    "bbox": [
+      533,
+      1190,
+      1169,
+      1235
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      91,
+      1241,
+      1329,
+      1385
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Vận tốc $v(t)$ (tính bằng centimét/giây) của một con lắc đơn theo thời gian $t$ được cho bởi các công thức $v(t) = 2\\sin\\left(2t + \\frac{\\pi}{6}\\right)$."
+  },
+  {
+    "bbox": [
+      1349,
+      1238,
+      1588,
+      1508
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1508,
+      1596,
+      1888
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các мыnh đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Tại thời điểm $t = 0$, vận tốc của con lắc đơn là $v(0) = 1$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Đạo hàm của $v(t)$ là $v'(t) = -4\\cos\\left(2t + \\frac{\\pi}{6}\\right)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Phương trình $v'(t) = 0$ có nghiệm duy nhất trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{6}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Trong khoảng từ 0 đến 10 giây, con lắc đơn có 4 lần đạt vận tốc lớn nhất.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1497,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 423"
+  },
+  {
+    "bbox": [
+      1538,
+      2021,
+      1558,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

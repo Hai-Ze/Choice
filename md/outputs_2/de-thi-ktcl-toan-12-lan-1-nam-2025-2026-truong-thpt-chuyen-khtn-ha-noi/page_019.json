@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      113,
+      119,
+      1531,
+      373
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $d: \\begin{cases} x = t \\\\ y = 0 \\\\ z = 4 \\end{cases}$ và điểm $A(0;6;4)$. Gọi $(P)$ là mặt phẳng thay đổi luôn chứa đường thẳng $d$. Gọi $H$ là hình chiếu vuông góc của điểm $A$ lên mặt phẳng $(P)$. Tính khoảng cách lớn nhất từ gốc tọa độ $O$ đến điểm $H$."
+  },
+  {
+    "bbox": [
+      252,
+      382,
+      389,
+      425
+    ],
+    "category": "Text",
+    "text": "Đáp số: 8"
+  },
+  {
+    "bbox": [
+      835,
+      492,
+      951,
+      531
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      564,
+      1201,
+      611
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d$ đi qua $M(0;0;4)$ và có vecto chỉ phương $\\vec{u} = (1;0;0)$."
+  },
+  {
+    "bbox": [
+      252,
+      619,
+      1122,
+      664
+    ],
+    "category": "Text",
+    "text": "Suy ra $d$ nằm trong mặt phẳng $z = 4$ và song song với trục $Ox$."
+  },
+  {
+    "bbox": [
+      252,
+      668,
+      918,
+      715
+    ],
+    "category": "Text",
+    "text": "Điểm $A(0;6;4)$ cũng nằm trên mặt phẳng $z = 4$."
+  },
+  {
+    "bbox": [
+      252,
+      728,
+      1534,
+      830
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P)$ quay quanh trục $d$. $H$ là hình chiếu của $A$ lên $(P)$. Do đó, $AH \\perp (P)$. Vì $d \\subset (P)$ nên $AH \\perp d$."
+  },
+  {
+    "bbox": [
+      252,
+      838,
+      1043,
+      883
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là hình chiếu vuông góc của $A$ lên đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      252,
+      889,
+      1534,
+      993
+    ],
+    "category": "Text",
+    "text": "Vì $A(0;6;4)$ và $d$ đi qua $K(t;0;4)$ suy ra $\\overrightarrow{AK} \\cdot \\vec{u} = 0 \\Leftrightarrow t = 0$ suy ra $K(0;0;4)$ (chính là điểm $M$)."
+  },
+  {
+    "bbox": [
+      252,
+      995,
+      1389,
+      1039
+    ],
+    "category": "Text",
+    "text": "Trong tam giác $AHK$ vuông tại $H$, điểm $H$ luôn nhìn đoạn $AK$ dưới một góc $90^\\circ$."
+  },
+  {
+    "bbox": [
+      252,
+      1039,
+      1446,
+      1084
+    ],
+    "category": "Text",
+    "text": "Vậy $H$ thuộc đường tròn đường kính $AK$ nằm trong mặt phẳng vuông góc với $d$ tại $K$."
+  },
+  {
+    "bbox": [
+      252,
+      1090,
+      1217,
+      1136
+    ],
+    "category": "Text",
+    "text": "Tâm của đường tròn quỹ tích là trung điểm $I$ của $AK$ suy ra $I(0;3;4)$."
+  },
+  {
+    "bbox": [
+      252,
+      1152,
+      787,
+      1235
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Bán kính đường tròn } R = \\frac{AK}{2} = \\frac{6}{2} = 3.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1243,
+      1528,
+      1346
+    ],
+    "category": "Text",
+    "text": "Quỹ tích của $H$ là đường tròn tâm $I(0;3;4)$, bán kính $R = 3$, nằm trong mặt phẳng $Oyz$ (vì $d$ song song $Ox$ và $A, K$ đều có $x = 0$)."
+  },
+  {
+    "bbox": [
+      252,
+      1356,
+      1376,
+      1412
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khoảng cách từ gốc tọa độ } O(0;0;0) \\text{ đến tâm } I(0;3;4) \\text{ là } OI = \\sqrt{0^2 + 3^2 + 4^2} = 5.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1421,
+      1509,
+      1468
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khoảng cách lớn nhất từ } O \\text{ đến một điểm } H \\text{ trên đường tròn là } OH_{max} = OI + R = 5 + 3 = 8.\n$$"
+  },
+  {
+    "bbox": [
+      835,
+      1476,
+      988,
+      1515
+    ],
+    "category": "Text",
+    "text": "HẾT"
+  }
+]

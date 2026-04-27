@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      667,
+      78,
+      1086,
+      427
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      448,
+      613,
+      492
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đạt cực tiểu tại $x = 1$"
+  },
+  {
+    "bbox": [
+      193,
+      516,
+      1212,
+      564
+    ],
+    "category": "List-item",
+    "text": "b) Tổng giá trị lớn nhất, giá trị nhỏ nhất của hàm số trên đoạn $[-1;0]$ bằng 3"
+  },
+  {
+    "bbox": [
+      193,
+      596,
+      772,
+      644
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số đồng biến trên khoảng $(-\\infty;-1)$"
+  },
+  {
+    "bbox": [
+      193,
+      675,
+      426,
+      714
+    ],
+    "category": "List-item",
+    "text": "d) $2a+3b+c=9$"
+  },
+  {
+    "bbox": [
+      826,
+      739,
+      938,
+      777
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      193,
+      801,
+      676,
+      844
+    ],
+    "category": "List-item",
+    "text": "a) Sai: Hàm số đạt cực tiểu tại $x = 0$"
+  },
+  {
+    "bbox": [
+      193,
+      873,
+      315,
+      912
+    ],
+    "category": "List-item",
+    "text": "b) Đúng:"
+  },
+  {
+    "bbox": [
+      193,
+      940,
+      1057,
+      988
+    ],
+    "category": "List-item",
+    "text": "c) Sai: Hàm số đồng biến trên khoảng $(-\\infty;x_0)$ với $-2 < x_0 < -1$"
+  },
+  {
+    "bbox": [
+      193,
+      1026,
+      1380,
+      1074
+    ],
+    "category": "List-item",
+    "text": "d) Sai: Đồ thị đi qua ba điểm $(-2;1);(-1;2);(0;1)$ và đạt cực trị tại $x = 1$ nên ta được hệ:"
+  },
+  {
+    "bbox": [
+      447,
+      1109,
+      1315,
+      1305
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} -8a+4b-2c+d=1 \\\\ -a+b-c+d=2 \\\\ d=1 \\\\ c=0 \\end{cases} \\Leftrightarrow a=1;b=2;c=0;d=1 \\Rightarrow 2a+3b+c=8\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1335,
+      1566,
+      1615
+    ],
+    "category": "Text",
+    "text": "**Câu 16.** Một doanh nghiệp kinh doanh sản xuất đồng hồ có đồ thị hàm tổng chi phí theo số sản phẩm, là một phần của đồ thị của hàm số $f(x) = \\frac{ax^2+bx+c}{x+e}$ như hình vẽ (mỗi đơn vị trên trục hoành tương ứng với 100 sản phẩm, mỗi đơn vị trên trục tung tương ứng với 1000 USD). Biết rằng tâm đối xứng của đồ thị hàm số đó là điểm $I\\left(-1;\\frac{2}{3}\\right)$ và đường tiệm cận xiên của đồ thị đó đi qua điểm B(3;2)."
+  },
+  {
+    "bbox": [
+      626,
+      1655,
+      1088,
+      2026
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2069,
+      758,
+      2116
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đồng biến trên khoảng $(0;+\\infty)$"
+  },
+  {
+    "bbox": [
+      193,
+      2148,
+      868,
+      2193
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số có đường tiệm cận đứng là $x = 1$"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      972,
+      215
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      275,
+      831,
+      358
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Ta có: } P(T) = \\frac{400}{600} = \\frac{2}{3} \\Rightarrow P(\\bar{T}) = 1 - P(T) = \\frac{1}{3}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      382,
+      1053,
+      441
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Theo đề bài ta có: } P(G|T) = 70\\% = 0,7, P(G|\\bar{T}) = 10\\% = 0,1.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      469,
+      1377,
+      550
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Ta có: } P(G) = P(GT) + P(G\\bar{T}) = P(G|T) \\cdot P(T) + P(G|\\bar{T}) \\cdot P(\\bar{T}) = 0,7 \\cdot \\frac{2}{3} + 0,1 \\cdot \\frac{1}{3} = 0,5\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      577,
+      1093,
+      702
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Ta có: } P(T|G) = \\frac{P(TG)}{P(G)} = \\frac{P(G|T) \\cdot P(T)}{P(G)} = \\frac{0,7 \\cdot \\frac{2}{3}}{0,5} = \\frac{14}{15} \\approx 93,3\\%.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      782,
+      808,
+      823
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      156,
+      840,
+      1572,
+      943
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Hưởng ứng chính sách hiện đại hóa nông thôn, người dân ở khu phố A đồng lòng cùng nhau góp tiền để bê tông một đường đi trong khu phố (phần được tô đâm trong hình vẽ)."
+  },
+  {
+    "bbox": [
+      641,
+      974,
+      1085,
+      1387
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1400,
+      1572,
+      1685
+    ],
+    "category": "Text",
+    "text": "Biết rằng khi chọn hệ trục tọa độ $Oxy$ với đơn vị độ dài trên mỗi trục tọa độ là 10 m, các đường cong $AB, CD$ là mép đường được cho bởi đồ thị hàm số $f(x) = \\frac{1}{32}x^3 - \\frac{3}{8}x + \\frac{3}{2}$ và $g(x) = \\frac{1}{32}x^3 - \\frac{5}{8}x + \\frac{1}{2}$, đồng thời lớp bê tông được đổ dày 16 cm và giá tiền $1\\text{m}^3$ bê tông là 1080000 đồng. Tính số tiền (đơn vị triệu đồng) cần dùng để đổ bê tông con đường đó (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      156,
+      1703,
+      493,
+      1739
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      808,
+      1762,
+      924,
+      1799
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1820,
+      336,
+      1857
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 253"
+  },
+  {
+    "bbox": [
+      156,
+      1874,
+      1572,
+      1918
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng giới hạn bởi hai đồ thị hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      162,
+      1935,
+      1226,
+      2034
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-2}^{7} (f(x) - g(x)) dx = \\int_{-2}^{7} \\left[ \\frac{1}{32}x^3 - \\frac{3}{8}x + \\frac{3}{2} - \\left( \\frac{1}{32}x^3 - \\frac{5}{8}x + \\frac{1}{2} \\right) \\right] dx = \\frac{117}{8} (\\text{dvdt}).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2051,
+      1572,
+      2100
+    ],
+    "category": "Text",
+    "text": "Do đơn vị độ dài trên mỗi trục tọa độ là 10 m nên diện tích thực tế của con đường là"
+  },
+  {
+    "bbox": [
+      162,
+      2122,
+      523,
+      2203
+    ],
+    "category": "Formula",
+    "text": "$$\nS_1 = \\frac{117}{8} \\cdot 10^2 = \\frac{2925}{2} (\\text{m}^2).\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

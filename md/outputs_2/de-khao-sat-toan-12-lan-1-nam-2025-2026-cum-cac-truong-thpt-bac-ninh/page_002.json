@@ -1,0 +1,370 @@
+[
+  {
+    "bbox": [
+      217,
+      70,
+      797,
+      113
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Tập xác định của hàm số $y = \\tan x$ là"
+  },
+  {
+    "bbox": [
+      254,
+      118,
+      624,
+      203
+    ],
+    "category": "Formula",
+    "text": "A. $D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      942,
+      140,
+      1260,
+      185
+    ],
+    "category": "Formula",
+    "text": "B. $D = \\mathbb{R} \\setminus \\{k2\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      254,
+      227,
+      638,
+      312
+    ],
+    "category": "Formula",
+    "text": "C. $D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z}\\right\\}$."
+  },
+  {
+    "bbox": [
+      942,
+      249,
+      1245,
+      294
+    ],
+    "category": "Formula",
+    "text": "D. $D = \\mathbb{R} \\setminus \\{k\\pi \\mid k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      217,
+      335,
+      1014,
+      381
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cấp số cộng $(u_n)$ có $u_3 = 8$, $u_{11} = 32$ có công sai $d$ là"
+  },
+  {
+    "bbox": [
+      254,
+      389,
+      381,
+      422
+    ],
+    "category": "Formula",
+    "text": "A. $d = 4$."
+  },
+  {
+    "bbox": [
+      598,
+      389,
+      723,
+      422
+    ],
+    "category": "Formula",
+    "text": "B. $d = 2$."
+  },
+  {
+    "bbox": [
+      942,
+      389,
+      1068,
+      422
+    ],
+    "category": "Formula",
+    "text": "C. $d = 3$."
+  },
+  {
+    "bbox": [
+      1287,
+      389,
+      1412,
+      422
+    ],
+    "category": "Formula",
+    "text": "D. $d = 1$."
+  },
+  {
+    "bbox": [
+      217,
+      445,
+      1391,
+      522
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, điểm nào sau đây thuộc đường thẳng $d: \\frac{x-1}{1} = \\frac{y}{2} = \\frac{z+1}{-2}$?"
+  },
+  {
+    "bbox": [
+      254,
+      527,
+      449,
+      569
+    ],
+    "category": "Formula",
+    "text": "A. $N(1; 2; -2)$."
+  },
+  {
+    "bbox": [
+      598,
+      527,
+      782,
+      569
+    ],
+    "category": "Formula",
+    "text": "B. $P(-1; 0; 1)$."
+  },
+  {
+    "bbox": [
+      942,
+      527,
+      1132,
+      569
+    ],
+    "category": "Formula",
+    "text": "C. $Q(2; 1; -2)$."
+  },
+  {
+    "bbox": [
+      1287,
+      527,
+      1484,
+      569
+    ],
+    "category": "Formula",
+    "text": "D. $M(1; 0; -1)$."
+  },
+  {
+    "bbox": [
+      217,
+      594,
+      905,
+      639
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Họ nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      254,
+      649,
+      463,
+      725
+    ],
+    "category": "Formula",
+    "text": "A. $\\frac{2025^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      942,
+      649,
+      1132,
+      725
+    ],
+    "category": "Formula",
+    "text": "B. $\\frac{2025^x}{2 \\ln 45} + C$."
+  },
+  {
+    "bbox": [
+      254,
+      751,
+      441,
+      784
+    ],
+    "category": "Formula",
+    "text": "C. $2026^x + C$."
+  },
+  {
+    "bbox": [
+      942,
+      751,
+      1225,
+      784
+    ],
+    "category": "Formula",
+    "text": "D. $2025^x \\cdot \\ln 2025 + C$."
+  },
+  {
+    "bbox": [
+      217,
+      805,
+      1381,
+      890
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian $Oxyz$, vecto nào sau đây là một vecto pháp tuyến của mặt phẳng $(P): 11x - 3y - 2026 = 0$?"
+  },
+  {
+    "bbox": [
+      254,
+      895,
+      527,
+      934
+    ],
+    "category": "Formula",
+    "text": "A. $\\vec{n} = (11; -3; 2026)$."
+  },
+  {
+    "bbox": [
+      598,
+      895,
+      886,
+      934
+    ],
+    "category": "Formula",
+    "text": "B. $\\vec{n} = (11; -3; -2026)$."
+  },
+  {
+    "bbox": [
+      942,
+      895,
+      1165,
+      934
+    ],
+    "category": "Formula",
+    "text": "C. $\\vec{n} = (11; -3; 0)$."
+  },
+  {
+    "bbox": [
+      1287,
+      895,
+      1492,
+      934
+    ],
+    "category": "Formula",
+    "text": "D. $\\vec{n} = (11; 3; 0)$."
+  },
+  {
+    "bbox": [
+      217,
+      952,
+      1529,
+      995
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      217,
+      991,
+      1558,
+      1164
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nhânats 8/3, bạn An.tặng bạn Bình một sợi dây chuyền có mặt là khối tròn xoay hình giọt nước làm bằng đá Moissanite (tham khảo hình 1). Gắn hệ toạ độ $Oxy$ (đơn vị trên mỗi trục là $5mm$) ta có các số liệu như hình 2. Gọi $f(x)$ là hàm số có đồ thị gồm đoạn thẳng $CD$ và một phần đường tròn tâm $O$, bán kính bằng 1 đi qua 3 điểm $A, B, C$."
+  },
+  {
+    "bbox": [
+      632,
+      1170,
+      774,
+      1448
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      669,
+      1462,
+      748,
+      1490
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      875,
+      1210,
+      1267,
+      1458
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      958,
+      1462,
+      1037,
+      1490
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      254,
+      1502,
+      1284,
+      1585
+    ],
+    "category": "Text",
+    "text": "a) Đường cong qua 3 điểm $A, B, C$ có phương trình là $y = \\sqrt{1-x^2} \\left(-1 \\le x \\le \\frac{1}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      221,
+      1610,
+      1558,
+      1715
+    ],
+    "category": "Text",
+    "text": "b) Biết khối lượng riêng của đá Moissanite là $\\rho = 3,2g/cm^3$, khi đó khối lượng của mặt dây chuyền là $2,2 g$ (làm tròn kết quả đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      254,
+      1736,
+      1130,
+      1826
+    ],
+    "category": "Text",
+    "text": "c) Đoạn thẳng $CD$ có phương trình là $y = -\\frac{\\sqrt{2}}{4}x + \\frac{3\\sqrt{2}}{4} \\left(\\frac{1}{3} \\le x \\le 3\\right)$."
+  },
+  {
+    "bbox": [
+      254,
+      1849,
+      823,
+      1892
+    ],
+    "category": "Text",
+    "text": "d) Thể tích mặt dây chuyền lớn hơn $5,5cm^3$."
+  },
+  {
+    "bbox": [
+      217,
+      2098,
+      368,
+      2133
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1434,
+      2102,
+      1558,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

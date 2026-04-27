@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      108,
+      1576,
+      213
+    ],
+    "category": "List-item",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(1;1;0)$ và bán kính bằng 5. Phương trình của $(S)$ là"
+  },
+  {
+    "bbox": [
+      212,
+      221,
+      629,
+      275
+    ],
+    "category": "List-item",
+    "text": "A. $(x+1)^2 + (y-1)^2 + z^2 = 25$."
+  },
+  {
+    "bbox": [
+      775,
+      221,
+      1165,
+      275
+    ],
+    "category": "List-item",
+    "text": "B. $(x+1)^2 + (y-1)^2 + z^2 = 5$."
+  },
+  {
+    "bbox": [
+      212,
+      283,
+      629,
+      337
+    ],
+    "category": "List-item",
+    "text": "C. $(x-1)^2 + (y-1)^2 + z^2 = 25$."
+  },
+  {
+    "bbox": [
+      775,
+      283,
+      1156,
+      337
+    ],
+    "category": "List-item",
+    "text": "D. $(x-1)^2 + (y+1)^2 + z^2 = 5$."
+  },
+  {
+    "bbox": [
+      836,
+      344,
+      951,
+      381
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      381,
+      1071,
+      431
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt cầu $(S)$ có tâm $I(1;1;0)$ và bán kính bằng 5:"
+  },
+  {
+    "bbox": [
+      212,
+      439,
+      585,
+      493
+    ],
+    "category": "Formula",
+    "text": "$$\n(x-1)^2 + (y-1)^2 + z^2 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      501,
+      1569,
+      582
+    ],
+    "category": "List-item",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$ đi qua điểm nào trong các điểm sau đây?"
+  },
+  {
+    "bbox": [
+      212,
+      586,
+      431,
+      632
+    ],
+    "category": "List-item",
+    "text": "A. $B(0;-6;-6)$."
+  },
+  {
+    "bbox": [
+      547,
+      586,
+      747,
+      632
+    ],
+    "category": "List-item",
+    "text": "B. $A(-2;2;0)$."
+  },
+  {
+    "bbox": [
+      861,
+      586,
+      1045,
+      632
+    ],
+    "category": "List-item",
+    "text": "C. $C(4;0;3)$."
+  },
+  {
+    "bbox": [
+      1177,
+      586,
+      1361,
+      632
+    ],
+    "category": "List-item",
+    "text": "D. $D(3;0;3)$."
+  },
+  {
+    "bbox": [
+      767,
+      640,
+      882,
+      678
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      682,
+      1186,
+      761
+    ],
+    "category": "Text",
+    "text": "♦ Thế $B(0;-6;-6)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      212,
+      765,
+      600,
+      845
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{0-2}{2} \\neq \\frac{-6+2}{2} = \\frac{-6}{3} \\Rightarrow B \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      851,
+      1165,
+      932
+    ],
+    "category": "Text",
+    "text": "♦ Thế $A(-2;2;0)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      212,
+      936,
+      585,
+      1016
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{-2-2}{2} \\neq \\frac{2+2}{2} \\neq \\frac{0}{3} \\Rightarrow A \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1022,
+      1149,
+      1102
+    ],
+    "category": "Text",
+    "text": "♦ Thế $C(4;0;3)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      212,
+      1106,
+      565,
+      1186
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{4-2}{2} = \\frac{0+2}{2} = \\frac{3}{3} \\Rightarrow C \\in d\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1192,
+      1149,
+      1272
+    ],
+    "category": "Text",
+    "text": "♦ Thế $D(3;0;3)$ vào phương trình đường thẳng $d: \\frac{x-2}{2} = \\frac{y+2}{2} = \\frac{z}{3}$:"
+  },
+  {
+    "bbox": [
+      212,
+      1276,
+      565,
+      1356
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{3-2}{2} \\neq \\frac{0+2}{2} = \\frac{3}{3} \\Rightarrow D \\notin d\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1362,
+      908,
+      1414
+    ],
+    "category": "List-item",
+    "text": "**Câu 10:** Cho hàm số $y = f(x)$ có đồ thị là hình vẽ như sau:"
+  },
+  {
+    "bbox": [
+      677,
+      1414,
+      1104,
+      1877
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1891,
+      775,
+      1935
+    ],
+    "category": "Text",
+    "text": "Điểm cực đại của đồ thị hàm số đã cho là:"
+  },
+  {
+    "bbox": [
+      212,
+      1937,
+      416,
+      1983
+    ],
+    "category": "List-item",
+    "text": "A. $M(-3;-3)$."
+  },
+  {
+    "bbox": [
+      547,
+      1937,
+      692,
+      1983
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      861,
+      1937,
+      1038,
+      1983
+    ],
+    "category": "List-item",
+    "text": "C. $N(-1;1)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1937,
+      1322,
+      1983
+    ],
+    "category": "List-item",
+    "text": "D. $x = -3$."
+  },
+  {
+    "bbox": [
+      836,
+      1991,
+      951,
+      2029
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2025,
+      903,
+      2069
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị ta có bảng biến thiên của hàm số như sau:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

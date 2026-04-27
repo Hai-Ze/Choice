@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1548,
+      225
+    ],
+    "category": "Text",
+    "text": ">> **Câu 12.** Khi điều tra chi phí hàng tháng (triệu đồng) của 25 người còn độc thân, thu được mẫu số liệu sau:"
+  },
+  {
+    "bbox": [
+      466,
+      229,
+      1221,
+      346
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chi phí</td><td>[5; 7)</td><td>[7; 9)</td><td>[9; 11)</td><td>[11; 13)</td><td>[13; 15)</td></tr><tr><td>Số người</td><td>5</td><td>5</td><td>7</td><td>5</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      355,
+      1318,
+      397
+    ],
+    "category": "Text",
+    "text": "Tìm phương sai của mẫu số liệu ghép nhóm trên (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      191,
+      415,
+      321,
+      457
+    ],
+    "category": "List-item",
+    "text": "A) 6, 62."
+  },
+  {
+    "bbox": [
+      535,
+      415,
+      665,
+      457
+    ],
+    "category": "List-item",
+    "text": "B) 6, 13."
+  },
+  {
+    "bbox": [
+      879,
+      415,
+      1009,
+      457
+    ],
+    "category": "List-item",
+    "text": "C) 5, 54."
+  },
+  {
+    "bbox": [
+      1224,
+      415,
+      1352,
+      457
+    ],
+    "category": "List-item",
+    "text": "D) 5, 82."
+  },
+  {
+    "bbox": [
+      153,
+      476,
+      1548,
+      563
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** *Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai*"
+  },
+  {
+    "bbox": [
+      153,
+      583,
+      1548,
+      846
+    ],
+    "category": "Text",
+    "text": "Bài 1. Anh Việt có một tấm tôn hình tam giác đều $ABC$ với cạnh bằng 6 (dm). Bên trong tấm nhôm này anh vẽ thêm tam giác đều $DEF$ sao cho hai tam giác có cùng trọng tâm, đồng thời các cạnh tương ứng song song nhau. Anh Việt muốn làm một chậu待用 nước dạng hình chóp cụt tam giác đều với đáy nhỏ là $DEF$ và đáy lớn để hở. Anh cắt bỏ ba hình bình hành ở ba góc của tam giác $ABC$ là $AMDN$, $BPEQ$, $CSFR$ (như hình). Kẻ đường cao $AH$ và gọi $O$ là trọng tâm tam giác $ABC$. Đặt $x = DN = DM$ ($0 < x < 2$)."
+  },
+  {
+    "bbox": [
+      484,
+      914,
+      1245,
+      1231
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1275,
+      718,
+      1316
+    ],
+    "category": "Formula",
+    "text": "a) $NP = QR = SM = 6 - 2x$ (dm)."
+  },
+  {
+    "bbox": [
+      202,
+      1330,
+      781,
+      1377
+    ],
+    "category": "Formula",
+    "text": "b) $AH = 3\\sqrt{3}$ (dm) và $OA = 2\\sqrt{3}$ (dm)."
+  },
+  {
+    "bbox": [
+      202,
+      1391,
+      815,
+      1438
+    ],
+    "category": "Formula",
+    "text": "c) $AD = x\\sqrt{3}$ (dm) và $DE = 6 - 3x$ (dm)."
+  },
+  {
+    "bbox": [
+      153,
+      1457,
+      1548,
+      1543
+    ],
+    "category": "Text",
+    "text": "d) Sau khi gập hình và dùng keo dán kín các đoạn gập vào với nhau gồm $DM$ và $DN$, $EP$ với $EQ$, $FS$ với $FR$, sức chứa tối đa của chậu xấp xỉ 4,54 (lít)."
+  },
+  {
+    "bbox": [
+      153,
+      1566,
+      291,
+      1600
+    ],
+    "category": "Text",
+    "text": "Bài 2."
+  },
+  {
+    "bbox": [
+      569,
+      1616,
+      1131,
+      1790
+    ],
+    "category": "Text",
+    "text": "Bạch Đằng sóng场 một trời đông,\nCọc ngầm dựng thẳng khóa muôn dòng,\nNam Hán truyền tan theo triều xuống,\nToàn quân giặc死 gối non水"
+  },
+  {
+    "bbox": [
+      153,
+      1861,
+      1548,
+      2215
+    ],
+    "category": "Text",
+    "text": "Chiến thẳng Bạch Đằng năm 938 là định cao nghệ thuật quân sự, khi Ngô Quyền đã đoán định chính xác nhip lên xuống của thủy triều để nhử thuyền quân Nam Hán vào sâu bến trong, rồi phản công đúng thời khắc nước rút, qua đó đánh代入 được giặc xâm lăng ra khỏi bờ cõi. Để mô hình hóa chiến thuật \"cắm cọc nước rút\" ấy dưới lăng kính Giải tích, ta xét bài toán sau: Xét một整串 cọc được đóng xuống bùn theo phương thẳng đứng; chiều cao mỗi cọc (tính từ mặt bùn đến đầu cọc) là 2,4m. Gọi $h(t)$ (tính bằng mét) là độ sâu mực nước tại整串 cọc (tính từ mặt bùn đến mặt nước) ở thời điểm $t$ (giờ), trong đó $t = 0$ ứng với thời điểm 09:00, $0 \\le t \\le 4$. Thời gian này, mực nước rút nên $h(t)$ theo quy luật $h'(t) = -0,25t - 0,05$ (m/ giờ). Biết rằng vào lúc"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1557,
+      2251,
+      1579,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "9"
+  }
+]

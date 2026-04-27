@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      202,
+      141,
+      309,
+      181
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      152,
+      199,
+      1547,
+      287
+    ],
+    "category": "Text",
+    "text": "Quan sát thấy trong khoảng thời gian từ phút thứ 50 – 60, thể tích nước trong bể là một đường thẳng nên thể tích nước trong bể từ phút thứ 50 – 60 được mô hình hóa bằng hàm số $y = at + b$."
+  },
+  {
+    "bbox": [
+      152,
+      299,
+      1629,
+      518
+    ],
+    "category": "Text",
+    "text": "Mà đường thẳng này đi qua hai điểm (50; 50), (60; 100) nên ta có hệ phương trình $\\begin{cases} 50 = 50a + b \\\\ 100 = 60a + b \\end{cases} \\Leftrightarrow \\begin{cases} a = 5 \\\\ b = -200 \\end{cases} \\Rightarrow y = 5t - 200$."
+  },
+  {
+    "bbox": [
+      202,
+      534,
+      1416,
+      580
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích nước có trong bể ở thời điểm $t = 58$ là $y(58) = 5.58 - 200 = 90$ ($m^3$)."
+  },
+  {
+    "bbox": [
+      202,
+      599,
+      313,
+      640
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      152,
+      656,
+      1547,
+      789
+    ],
+    "category": "Text",
+    "text": "**Nhắc lại lý thuyết:** Giá trị trung bình của một hàm số $f(x)$ liên tục trên đoạn $[a; b]$ là $f_{tb} = \\frac{1}{b-a} \\int_{a}^{b} f(x)dx$."
+  },
+  {
+    "bbox": [
+      202,
+      807,
+      1374,
+      852
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức trên, ta có thể tích nước trung bình trong 58 phút đầu tiên là"
+  },
+  {
+    "bbox": [
+      152,
+      860,
+      1547,
+      991
+    ],
+    "category": "Text",
+    "text": "$V_{tb} = \\frac{1}{58-0} \\int_{0}^{58} f(t)dt = \\frac{1}{58} \\int_{0}^{58} f(t)dt$ với $\\int_{0}^{58} f(t)dt$ bằng phần diện tích gạch chéo màu cam trong hình."
+  },
+  {
+    "bbox": [
+      355,
+      1002,
+      1345,
+      1708
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1737,
+      1547,
+      1831
+    ],
+    "category": "Text",
+    "text": "Nhận thấy diện tích $S_2 = S_1$ nên diện tích $\\int_{0}^{58} f(t)dt$ bằng tổng diện tích hình thang màu hồng"
+  },
+  {
+    "bbox": [
+      147,
+      2252,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2249,
+      1597,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "167"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      475,
+      93,
+      1089,
+      508
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      522,
+      1346,
+      569
+    ],
+    "category": "Text",
+    "text": "a) Phương trình mặt cầu mô tả ranh giới bên ngoài của vùng phủ sáng trên biển của海徒登 là"
+  },
+  {
+    "bbox": [
+      545,
+      588,
+      1028,
+      642
+    ],
+    "category": "Formula",
+    "text": "$$\n(x-10)^2 + (y-20)^2 + (z-30)^2 = 9.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      668,
+      1165,
+      716
+    ],
+    "category": "Text",
+    "text": "b) Người đi biển ở vị trí $A(50; 20; 0)$ nhìn thấy được ánh sáng của ngọn海徒登."
+  },
+  {
+    "bbox": [
+      76,
+      744,
+      1316,
+      792
+    ],
+    "category": "Text",
+    "text": "c) Người đi biển ở vị trí $B(4030; 50; 40)$ không nhìn thấy được ánh sáng của ngọn海徒登."
+  },
+  {
+    "bbox": [
+      76,
+      813,
+      1492,
+      917
+    ],
+    "category": "Text",
+    "text": "d) Nếu hai người đi biển có thể nhìn thấy ánh sáng của ngọn海徒登 thì khoảng cách giữa hai người đó không quá 6 km."
+  },
+  {
+    "bbox": [
+      727,
+      937,
+      843,
+      975
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      989,
+      894,
+      1112
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1172,
+      1159,
+      1220
+    ],
+    "category": "Text",
+    "text": "a) Mặt cầu $(S)$ tâm $I(10; 20; 30)$, bán kính $R = 3 \\text{ km} = 3000 \\text{ m}$ có phương trình"
+  },
+  {
+    "bbox": [
+      513,
+      1247,
+      1052,
+      1303
+    ],
+    "category": "Formula",
+    "text": "$$\n(x-10)^2 + (y-20)^2 + (z-30)^2 = 3000^2\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1328,
+      1492,
+      1461
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\overline{IA} = (40; 0; -30) \\Rightarrow IA = \\sqrt{40^2 + 0^2 + 30^2} = 50 \\text{ m} < R = 3000 \\text{ m}$ nên điểm $A$ nằm trong mặt cầu $(S)$ nên người đi biển ở vị trí $A(50; 20; 0)$ nhìn thấy được ánh sáng của ngọn海徒登."
+  },
+  {
+    "bbox": [
+      76,
+      1487,
+      1492,
+      1687
+    ],
+    "category": "Text",
+    "text": "c) Sai: Ta có $\\overline{IB} = (4020; 30; 10) \\Rightarrow IB = \\sqrt{4020^2 + 30^2 + 10^2} \\approx 4020,12 \\text{ m} > R = 3000 \\text{ m}$ nên điểm $B$ nằm ngoài mặt cầu $(S)$ nên người đi biển ở vị trí $B(4030; 50; 40)$ không nhìn thấy được ánh sáng của ngọn海徒登."
+  },
+  {
+    "bbox": [
+      76,
+      1700,
+      1492,
+      1862
+    ],
+    "category": "Text",
+    "text": "d) Vì bán kính phủ sáng là 3 km nên đường kính phủ sáng là 6 km nên nếu hai người đi biển có thể nhìn thấy ánh sáng của ngọn海徒登 thì hai người đó nằm trong mặt cầu, do đó khoảng cách giữa hai người đó không quá 6 km."
+  },
+  {
+    "bbox": [
+      76,
+      1933,
+      727,
+      1975
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      1991,
+      1492,
+      2198
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một công tỉ đang thiết kế một bảng广量 cáo hình chữ nhật $ABCD$ có kích thước $AB = 12 \\text{ m}$ và $AD = 8 \\text{ m}$. Phần trung tâm của bảng sẽ được in nội dung广量 cáo, được mô tả là phần tô đâm (xem hình minh họa). Hai đường cong trong hình là một phần của đồ thị hàm số có dạng $y = \\frac{ax+b}{cx+d}$, đường"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

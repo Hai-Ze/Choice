@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      155
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      476,
+      118,
+      1530,
+      253
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\begin{cases} x = -3 + 3t \\\\ y = 2 - t \\\\ z = 4 + 4t \\end{cases} \\quad \\text{B} \\begin{cases} x = 3 + 3t \\\\ y = -1 + 2t \\\\ z = 4 + 4t \\end{cases} \\quad \\text{C} \\begin{cases} x = 3 + 3t \\\\ y = 1 - 2t \\\\ z = 4 + 4t \\end{cases} \\quad \\text{D} \\begin{cases} x = 3 - 3t \\\\ y = -1 + 2t \\\\ z = 4 + 4t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      448,
+      270,
+      1554,
+      387
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$ và $SA \\perp (ABC)$. Gọi $M$ là trung điểm của $SC$. Мặt phẳng nào sau đây vuông góc với mặt phẳng $(ABC)$?"
+  },
+  {
+    "bbox": [
+      476,
+      385,
+      1446,
+      427
+    ],
+    "category": "Text",
+    "text": "(A) $(SAB)$. (B) $(SBC)$. (C) $(MAB)$. (D) $(ABC)$."
+  },
+  {
+    "bbox": [
+      448,
+      443,
+      1050,
+      485
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Nghiệm của phương trình $3^x = 10$ là"
+  },
+  {
+    "bbox": [
+      476,
+      483,
+      1425,
+      551
+    ],
+    "category": "Text",
+    "text": "(A) $x = \\log_{10} 3$. (B) $x = \\frac{10}{3}$. (C) $x = \\log_{3} 10$. (D) $x = 3$."
+  },
+  {
+    "bbox": [
+      448,
+      563,
+      1361,
+      605
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cấp số cộng $(u_n)$ có $u_1 = 4$ và $u_2 = 7$. Giá trị của $u_9$ bằng"
+  },
+  {
+    "bbox": [
+      476,
+      603,
+      1379,
+      645
+    ],
+    "category": "Text",
+    "text": "(A) 21. (B) 25. (C) 28. (D) 31."
+  },
+  {
+    "bbox": [
+      448,
+      657,
+      1554,
+      741
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hình hợp $ABCD.EFGH$. Khi đó $\\overrightarrow{AB} + \\overrightarrow{AE} + \\overrightarrow{AD}$ bằng vectơ nào sau đây?"
+  },
+  {
+    "bbox": [
+      476,
+      737,
+      1399,
+      781
+    ],
+    "category": "Text",
+    "text": "(A) $\\overrightarrow{AH}$. (B) $\\overrightarrow{CE}$. (C) $\\overrightarrow{AE}$. (D) $\\overrightarrow{AG}$."
+  },
+  {
+    "bbox": [
+      448,
+      799,
+      1446,
+      841
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Cho hàm số $f(x) = \\sin x - 2x$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      476,
+      839,
+      1504,
+      1012
+    ],
+    "category": "Text",
+    "text": "(A) $f(x)$ đồng biến trên $\\mathbb{R}$.\n(B) $f(x)$ nghịch biến trên $\\mathbb{R}$.\n(C) $f(x)$ đồng biến trên khoảng $(0; +\\infty)$ và nghịch biến trên khoảng $(-\\infty; 0)$.\n(D) $f(x)$ nghịch biến trên khoảng $(0; +\\infty)$ và đồng biến trên khoảng $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      448,
+      1027,
+      1174,
+      1083
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      448,
+      1092,
+      958,
+      1134
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $f(x) = \\cos x + x$."
+  },
+  {
+    "bbox": [
+      476,
+      1134,
+      1346,
+      1313
+    ],
+    "category": "Text",
+    "text": "a) $f(0) = 1$; $f(\\pi) = -1 + \\pi$.\nb) Đạo hàm của hàm số đã cho là $f'(x) = \\sin x + 1$.\nc) Nghiệm của phương trình $f'(x) = 0$ trên đoạn $[0; \\pi]$ là $x = \\frac{\\pi}{4}$.\nd) Giá trị lớn nhất của $f(x)$ trên đoạn $[0; \\pi]$ là $-1 + \\pi$."
+  },
+  {
+    "bbox": [
+      448,
+      1331,
+      1554,
+      1560
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một đoàn tàu đang di chuyển trên đường ray phụ để nhập vào đường ray chính. Khi đoàn tàu cách điểm nhập 300 mét, vận tốc của đoàn tàu là 54 km/h. Bốn giây sau đó, đoàn tàu bắt đầu tăng tốc với vận tốc $v(t) = pt + q$ ($p, q \\in \\mathbb{R}, p > 0$), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng đoàn tàu nhập vào đường ray chính sau 15 giây và duy trì sự tăng tốc trong 20 giây kể từ khi bắt đầu tăng tốc."
+  },
+  {
+    "bbox": [
+      476,
+      1560,
+      1550,
+      1859
+    ],
+    "category": "Text",
+    "text": "a) Quăng đường đoàn tàu đi được từ khi bắt đầu tăng tốc đến khi nhập vào đường ray chính là 250 mét.\nb) Giá trị của $q$ là 15.\nc) Quăng đường $S(t)$ (đơn vị: mét) mà đoàn tàu đi được trong thời gian $t$ giây ($0 \\le t \\le 30$) kể từ khi tăng tốc được tính theo công thức: $S(t) = \\frac{1}{2}pt^2 + 15t$.\nd) Sau 20 giây kể từ khi tăng tốc, vận tốc của đoàn tàu vượt quá vận tốc tối đa cho phép là 150 km/h."
+  },
+  {
+    "bbox": [
+      448,
+      1877,
+      1554,
+      2146
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một công ty nghiên cứu thị trường muốn đánh giá mức độ quan tâm của khách hàng đối với một mẫu sản phẩm mới. They thực hiện một cuộc khảo sát trên 300 người và nhận được kết quả như sau: 120 người trả lời “thích” và 180 người trả lời “không thích”. Theo kinh nghiệm trước đây, tỷ lệ khách hàng thực sự mua sản phẩm trong số những người trả lời “thích” là 80%, còn trong số những người trả lời “không thích” là 25%. Gọi $A$ là biến cố “Người được phỏng vấn thực sự mua sản phẩm” và $B$ là biến cố “Người được phỏng vấn trả lời “thích””."
+  },
+  {
+    "bbox": [
+      476,
+      2142,
+      851,
+      2212
+    ],
+    "category": "Text",
+    "text": "a) $P(B) = \\frac{2}{5}$ và $P(\\bar{B}) = \\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      476,
+      2210,
+      739,
+      2247
+    ],
+    "category": "Text",
+    "text": "b) $P(A | B) = 0,8$."
+  },
+  {
+    "bbox": [
+      134,
+      2259,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "304 Bùi Tịnh Minh Lâm"
+  }
+]

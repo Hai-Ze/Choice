@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      119,
+      356,
+      159
+    ],
+    "category": "List-item",
+    "text": "A. $q = \\pm 2$."
+  },
+  {
+    "bbox": [
+      555,
+      119,
+      685,
+      159
+    ],
+    "category": "List-item",
+    "text": "B. $q = 2$."
+  },
+  {
+    "bbox": [
+      906,
+      119,
+      1057,
+      159
+    ],
+    "category": "List-item",
+    "text": "C. $q = -2$."
+  },
+  {
+    "bbox": [
+      1254,
+      100,
+      1405,
+      181
+    ],
+    "category": "List-item",
+    "text": "D. $q = \\frac{33}{10}$."
+  },
+  {
+    "bbox": [
+      807,
+      205,
+      924,
+      244
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      263,
+      279,
+      301
+    ],
+    "category": "Section-header",
+    "text": "### Chọn C."
+  },
+  {
+    "bbox": [
+      157,
+      319,
+      1511,
+      366
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức số hạng tổng quát cấp số nhân ta có $u_n = u_1 q^{n-1} \\Rightarrow u_6 = u_1 \\cdot q^5 \\Rightarrow q^5 = -32 \\Rightarrow q = -2$"
+  },
+  {
+    "bbox": [
+      157,
+      386,
+      1571,
+      485
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Thống kê lợi nhuận hàng tháng (đơn vị: triệu đồng) trong 20 tháng của một nhà đầu tư được cho như sau:"
+  },
+  {
+    "bbox": [
+      190,
+      504,
+      1537,
+      635
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Lợi nhuận (đơn vị: triệu đồng)</td><td>[510;520)</td><td>[520;530)</td><td>[530;540)</td><td>[540;550)</td><td>[550;560)</td></tr><tr><td>Số tháng</td><td>4</td><td>3</td><td>6</td><td>3</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      690,
+      1571,
+      791
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả các phép tính làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      205,
+      870,
+      325,
+      905
+    ],
+    "category": "List-item",
+    "text": "A. 13,8."
+  },
+  {
+    "bbox": [
+      555,
+      870,
+      667,
+      905
+    ],
+    "category": "List-item",
+    "text": "B. 13,1."
+  },
+  {
+    "bbox": [
+      906,
+      870,
+      1029,
+      905
+    ],
+    "category": "List-item",
+    "text": "C. 14,2."
+  },
+  {
+    "bbox": [
+      1257,
+      870,
+      1377,
+      905
+    ],
+    "category": "List-item",
+    "text": "D. 15,2."
+  },
+  {
+    "bbox": [
+      807,
+      935,
+      924,
+      974
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      992,
+      279,
+      1030
+    ],
+    "category": "Section-header",
+    "text": "### Chọn A."
+  },
+  {
+    "bbox": [
+      174,
+      1044,
+      862,
+      1088
+    ],
+    "category": "Text",
+    "text": "Giá trị đại diện lợi nhuận theo tháng của nhà đầu tư"
+  },
+  {
+    "bbox": [
+      190,
+      1104,
+      1537,
+      1296
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Lợi nhuận (đơn vị: triệu đồng)</td><td>[510;520)</td><td>[520;530)</td><td>[530;540)</td><td>[540;550)</td><td>[550;560)</td></tr><tr><td>Giá trị đại diện</td><td>515</td><td>525</td><td>535</td><td>545</td><td>555</td></tr><tr><td>Số tháng</td><td>4</td><td>3</td><td>6</td><td>3</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1351,
+      882,
+      1395
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận trung bình một tháng của các nhà đầu tư là:"
+  },
+  {
+    "bbox": [
+      542,
+      1415,
+      1189,
+      1495
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x}_B = \\frac{1}{20} (4 \\cdot 515 + \\dots + 4 \\cdot 555) = 535 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1513,
+      937,
+      1557
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của lợi nhuận hàng tháng của nhà đầu tư là:"
+  },
+  {
+    "bbox": [
+      162,
+      1577,
+      805,
+      1668
+    ],
+    "category": "Formula",
+    "text": "$$\ns_B = \\sqrt{\\frac{1}{20} (4 \\cdot 515^2 + \\dots + 4 \\cdot 555^2) - (535)^2} \\approx 13,8\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1676,
+      1571,
+      1882
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Biết một nguyên hàm của hàm số $f(x) = \\sin^2 x$ là $F(x) = \\frac{x}{2} - \\frac{\\sin 2x}{4}$. Thế tích của khối tròn xoay giới hạn bởi đồ thị hàm số $y = \\sin x$, trục hoành và hai đường thẳng $x = 0, x = \\pi$ khi quay quanh trục $Ox$ là:"
+  },
+  {
+    "bbox": [
+      649,
+      1902,
+      1079,
+      2165
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

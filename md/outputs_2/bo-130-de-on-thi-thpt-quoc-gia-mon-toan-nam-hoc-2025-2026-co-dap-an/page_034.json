@@ -1,0 +1,460 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      56,
+      142,
+      413,
+      345
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      56,
+      357,
+      142,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      71,
+      447,
+      398,
+      521
+    ],
+    "category": "Text",
+    "text": "Lpolationmajority"
+  },
+  {
+    "bbox": [
+      142,
+      568,
+      326,
+      601
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1193,
+      124,
+      1554,
+      161
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ....../....../........"
+  },
+  {
+    "bbox": [
+      497,
+      196,
+      1503,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      674,
+      275,
+      1327,
+      332
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 8"
+  },
+  {
+    "bbox": [
+      818,
+      332,
+      1186,
+      385
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ THAM KHẢO - BTT"
+  },
+  {
+    "bbox": [
+      636,
+      389,
+      1367,
+      430
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      465,
+      510,
+      1516,
+      566
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      449,
+      575,
+      1113,
+      615
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Nguyên hàm của hàm số $f(x) = \\cos^2 x$ là"
+  },
+  {
+    "bbox": [
+      478,
+      613,
+      773,
+      683
+    ],
+    "category": "List-item",
+    "text": "(A) $\\frac{1}{2}x + \\frac{1}{4}\\sin 2x + C$."
+  },
+  {
+    "bbox": [
+      1024,
+      613,
+      1319,
+      683
+    ],
+    "category": "List-item",
+    "text": "(B) $\\frac{1}{2}x - \\frac{1}{4}\\sin 2x + C$."
+  },
+  {
+    "bbox": [
+      478,
+      677,
+      699,
+      747
+    ],
+    "category": "List-item",
+    "text": "(C) $\\frac{1}{3}\\cos^3 x + C$."
+  },
+  {
+    "bbox": [
+      1024,
+      677,
+      1242,
+      747
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{1}{3}\\sin^3 x + C$."
+  },
+  {
+    "bbox": [
+      449,
+      755,
+      1554,
+      872
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Thể tích của vật thể nằm giữa hai mặt phẳng $x = a$ và $x = b$, biết rằng thiết diện của vật thể bị cắt bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ ($a \\le x \\le b$) là hình quạt có bán kính $R = x$ và góc ở tâm là $60^\\circ$ bằng"
+  },
+  {
+    "bbox": [
+      478,
+      872,
+      727,
+      989
+    ],
+    "category": "List-item",
+    "text": "(A) $V = \\pi \\int_{a}^{b} x^2 dx$."
+  },
+  {
+    "bbox": [
+      750,
+      872,
+      1016,
+      989
+    ],
+    "category": "List-item",
+    "text": "(B) $V = \\frac{\\pi}{6} \\int_{a}^{b} x^2 dx$."
+  },
+  {
+    "bbox": [
+      1024,
+      872,
+      1273,
+      989
+    ],
+    "category": "List-item",
+    "text": "(C) $V = \\pi \\int_{a}^{b} x^4 dx$."
+  },
+  {
+    "bbox": [
+      1294,
+      872,
+      1552,
+      989
+    ],
+    "category": "List-item",
+    "text": "(D) $V = \\frac{\\pi}{6} \\int_{a}^{b} x^4 dx$."
+  },
+  {
+    "bbox": [
+      449,
+      1000,
+      1554,
+      1118
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Một doanh nghiệp sản xuất với số lượng là $x$ sản phẩm, $x \\in \\mathbb{N}$ và thu được lợi nhuận $f(x)$ được biểu thị bởi bảng biến thiên như sau. Hỏi doanh nghiệp sản xuất bao nhiêu sản phẩm trở đi thì lợi nhuận bắt đầu giảm?"
+  },
+  {
+    "bbox": [
+      716,
+      1133,
+      1285,
+      1405
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>200</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$f(x)$</td><td colspan=\"3\">100</td></tr></table>"
+  },
+  {
+    "bbox": [
+      478,
+      1428,
+      578,
+      1469
+    ],
+    "category": "List-item",
+    "text": "(A) 100."
+  },
+  {
+    "bbox": [
+      750,
+      1428,
+      854,
+      1469
+    ],
+    "category": "List-item",
+    "text": "(B) 201."
+  },
+  {
+    "bbox": [
+      1024,
+      1428,
+      1124,
+      1469
+    ],
+    "category": "List-item",
+    "text": "(C) 101."
+  },
+  {
+    "bbox": [
+      1294,
+      1428,
+      1397,
+      1469
+    ],
+    "category": "List-item",
+    "text": "(D) 200."
+  },
+  {
+    "bbox": [
+      449,
+      1486,
+      1554,
+      1592
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của mặt phẳng đi qua điểm $M(-3; 5; 1)$ và chứa đường thẳng $\\frac{x-1}{2} = \\frac{y+3}{-1} = \\frac{z-5}{1}$ là"
+  },
+  {
+    "bbox": [
+      478,
+      1592,
+      798,
+      1631
+    ],
+    "category": "List-item",
+    "text": "(A) $2x - y + z - 10 = 0$."
+  },
+  {
+    "bbox": [
+      1024,
+      1592,
+      1342,
+      1631
+    ],
+    "category": "List-item",
+    "text": "(B) $2x - y + z + 10 = 0$."
+  },
+  {
+    "bbox": [
+      478,
+      1633,
+      819,
+      1674
+    ],
+    "category": "List-item",
+    "text": "(C) $-x + y + 3z - 11 = 0$."
+  },
+  {
+    "bbox": [
+      1024,
+      1633,
+      1367,
+      1674
+    ],
+    "category": "List-item",
+    "text": "(D) $-x + y + 3z + 11 = 0$."
+  },
+  {
+    "bbox": [
+      449,
+      1705,
+      1135,
+      1885
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Cho hàm số $y = f(x) = \\frac{ax + b}{cx + d}$ ($c \\neq 0$, $ad - bc \\neq 0$) có đồ thị như hình vẽ bên. Tiệm cận đứng của đồ thị hàm số $y = \\frac{1}{f(x)}$ là"
+  },
+  {
+    "bbox": [
+      478,
+      1885,
+      632,
+      1936
+    ],
+    "category": "List-item",
+    "text": "(A) $x = -1$."
+  },
+  {
+    "bbox": [
+      645,
+      1885,
+      773,
+      1936
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 1$."
+  },
+  {
+    "bbox": [
+      814,
+      1885,
+      942,
+      1936
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 0$."
+  },
+  {
+    "bbox": [
+      981,
+      1885,
+      1118,
+      1952
+    ],
+    "category": "List-item",
+    "text": "(D) $x = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      1170,
+      1730,
+      1491,
+      2024
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      449,
+      2033,
+      1437,
+      2075
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Số nghiệm nguyên dương của bất phương trình $\\log_3(x + 5) \\le 2$ là"
+  },
+  {
+    "bbox": [
+      478,
+      2075,
+      549,
+      2114
+    ],
+    "category": "List-item",
+    "text": "(A) 2."
+  },
+  {
+    "bbox": [
+      750,
+      2075,
+      821,
+      2114
+    ],
+    "category": "List-item",
+    "text": "(B) 5."
+  },
+  {
+    "bbox": [
+      1024,
+      2075,
+      1092,
+      2114
+    ],
+    "category": "List-item",
+    "text": "(C) 9."
+  },
+  {
+    "bbox": [
+      1294,
+      2075,
+      1367,
+      2114
+    ],
+    "category": "List-item",
+    "text": "(D) 4."
+  },
+  {
+    "bbox": [
+      449,
+      2130,
+      1554,
+      2247
+    ],
+    "category": "Text",
+    "text": "CÂU 7. Trong không gian với hệ trục tọa độ $Oxyz$, cho mặt phẳng ($P$): $2x+y-2z = 0$ và mặt cầu ($S$): $(x-1)^2 + (y-2)^2 + (z+1)^2 = 5$. Bán kính đường tròn giao tuyến của mặt phẳng ($P$) và mặt cầu ($S$) bằng"
+  },
+  {
+    "bbox": [
+      135,
+      2261,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "32 Bùi Tịnh Minh Lâm"
+  }
+]

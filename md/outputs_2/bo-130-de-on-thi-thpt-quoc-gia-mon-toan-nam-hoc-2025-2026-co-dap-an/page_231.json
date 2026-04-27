@@ -1,0 +1,247 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      110,
+      117,
+      824,
+      172
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      201,
+      776,
+      282
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hàm số $y = f(x)$ xác định trên đoạn $[0; b]$ và có đồ thị $f'(x)$ trên $[0; b]$ như hình vẽ bên."
+  },
+  {
+    "bbox": [
+      124,
+      280,
+      690,
+      319
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trên $(0; a)$."
+  },
+  {
+    "bbox": [
+      124,
+      321,
+      569,
+      359
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đạt cực đại tại $x = a$."
+  },
+  {
+    "bbox": [
+      124,
+      362,
+      772,
+      439
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị lớn nhất của hàm số $y = f(x)$ trên đoạn $[0; b]$ bằng $f(0)$."
+  },
+  {
+    "bbox": [
+      124,
+      441,
+      430,
+      480
+    ],
+    "category": "List-item",
+    "text": "d) $f(b) < f(0) < f(a)$."
+  },
+  {
+    "bbox": [
+      805,
+      211,
+      1197,
+      580
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      611,
+      1197,
+      693
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một vật từ trạng thái nghỉ $t = 0(s)$ chuyển động với vận tốc $v(t)$ (m/s) trong thời gian $t$ giây ($0 \\le t \\le 8$) được cho bởi đồ thị sau:"
+  },
+  {
+    "bbox": [
+      254,
+      722,
+      1033,
+      1368
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1397,
+      1197,
+      1582
+    ],
+    "category": "Text",
+    "text": "Trong khoảng 4 giây đầu tiên kể từ khi bắt đầu chuyển động, đồ thị là một phần Parabol có định $I \\left(\\frac{5}{2}; \\frac{25}{4}\\right)$ và trục đối xứng song song với trục tung; hai giây tiếp theo đồ thị là một đoạn thẳng song song trục hoành; khoảng thời gian còn lại là một phần của đồ thị của hàm số bậc nhất."
+  },
+  {
+    "bbox": [
+      124,
+      1582,
+      834,
+      1622
+    ],
+    "category": "List-item",
+    "text": "a) Tốc độ của vật tại thời điểm $t = 5(s)$ bằng 4 m/s."
+  },
+  {
+    "bbox": [
+      124,
+      1622,
+      1194,
+      1700
+    ],
+    "category": "List-item",
+    "text": "b) Vận tốc của vật tại mỗi thời điểm $t$ giây ($0 \\le t < 4$) được cho bởi công thức $v(t) = t(t - 5)$ m/s."
+  },
+  {
+    "bbox": [
+      124,
+      1702,
+      781,
+      1819
+    ],
+    "category": "List-item",
+    "text": "c) Tốc độ trung bình của vật là $\\frac{1}{8} \\int_{0}^{8} v(t) \\, dt$ m/s."
+  },
+  {
+    "bbox": [
+      124,
+      1819,
+      1194,
+      1893
+    ],
+    "category": "List-item",
+    "text": "d) Quăng đường vật đi được từ khi bắt đầu chuyển động đến giây thứ 8 xấp xỉ 26,7 m."
+  },
+  {
+    "bbox": [
+      94,
+      1912,
+      1197,
+      2104
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một tổ tư vấn bán hàng cho một công ty gồm 9 người, trong đó có 4 người luôn nói thật, 5 người còn lại luôn tự nhận mình nói thật nhưng xác suất để mỗi ngày người này nói thật là 0,5. Một khách hàng gặp ngẫu nhiên một người trong nhóm bán hàng đó để tư vấn. Gọi $A$ là biến cố “Người đó luôn nói thật” và $B$ là biến cố “Người đó luôn tự nhận mình luôn nói thật”."
+  },
+  {
+    "bbox": [
+      124,
+      2102,
+      441,
+      2170
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất $P(A) = \\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      124,
+      2168,
+      675,
+      2208
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có điều kiện $P(B|\\bar{A}) = 0,5$."
+  },
+  {
+    "bbox": [
+      124,
+      2208,
+      460,
+      2246
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất $P(B) = 0,5$."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 229"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "bbox": [
+      273,
+      103,
+      844,
+      151
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A_1 \\cap A_2) = 5 \\cdot 4 \\cdot C_3^2 = 3 \\cdot 2! \\cdot 2! \\cdot 6!.\n$$"
+  },
+  {
+    "bbox": [
+      249,
+      219,
+      985,
+      261
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow n(A) = n(A_1) + n(A_2) - n(A_1 \\cap A_2) = 1440000.\n$$"
+  },
+  {
+    "bbox": [
+      254,
+      283,
+      928,
+      377
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{25}{63} \\Rightarrow a = 25; b = 63 \\Rightarrow a + b = 88.\n$$"
+  }
+]

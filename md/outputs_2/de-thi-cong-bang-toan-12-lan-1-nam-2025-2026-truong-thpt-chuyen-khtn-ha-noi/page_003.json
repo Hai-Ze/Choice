@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      151,
+      123,
+      1510,
+      279
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$ (đơn vị mỗi trục tọa độ là km). Một trạm phát sóng được đặt tại vị trí $A(0, 1, 3)$ và có vùng phủ sóng là hình cầu bán kính 5 km. Một con đường thẳng được mô hình hóa bởi đường thẳng: $d: \\frac{x-1}{1} = \\frac{y}{-1} = \\frac{z}{2}$."
+  },
+  {
+    "bbox": [
+      187,
+      297,
+      1076,
+      341
+    ],
+    "category": "List-item",
+    "text": "a) Vectơ $\\vec{u} = (1; 1; 2)$ là vectơ chỉ phương của đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      187,
+      364,
+      1505,
+      409
+    ],
+    "category": "List-item",
+    "text": "b) Miặt cầu tâm $A(0; 1; 3)$, bán kính $R = 5$ có phương trình là $x^2 + (y - 1)^2 + (z - 3)^2 = 25$."
+  },
+  {
+    "bbox": [
+      187,
+      428,
+      1319,
+      506
+    ],
+    "category": "List-item",
+    "text": "c) Gọi $H$ là hình chiếu vuông góc của $A$ lên $d$. Diểm $H$ có hoành độ bằng $-\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      187,
+      528,
+      1507,
+      610
+    ],
+    "category": "List-item",
+    "text": "d) Doạn đường nằm trong vùng phủ sóng dài 8,16 km. (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      151,
+      654,
+      1318,
+      696
+    ],
+    "category": "Section-header",
+    "text": "### Phần III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      151,
+      699,
+      1510,
+      983
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty thực phẩm muốn tạo ra một loại thức ăn hỗn hợp cho vật nuôi từ hai nguyên liệu chính là ngô và dotu nành. Biết rằng 1 kg ngô có 0,1 kg protein và 0,6 kg carbohydrate, 1 kg dotu nành có 0,4 kg protein và 0,3 kg carbohydrate. Công ty cần sản xuất một bao thức ăn hỗn hợp sao cho tổng khối lượng ngô và dotu nành không vượt quá 100 kg và phải đảm bảo chứa ít nhất 20 kg protein và ít nhất 46,5 kg carbohydrate. Giá thành mỗi kg ngô là 5 nghìn đồng và mỗi kg dotu nành là 9 nghìn đồng. Hỏi chi phí sản xuất một bao thức ăn của công ty thấp nhất là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      151,
+      997,
+      1510,
+      1240
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cường độ một trận động đất $M$ độ Richter được cho bởi công thức $M = \\log A - \\log A_0$ với $A$ là biên độ rung chấn tối đa và $A_0$ là một biên độ chuẩn (hằng số). Ngày 11/3/2011 một trận siêu động đất xảy ra tại vùng Tohoku, Nhật Bản có cường độ 9,1 độ Richter. Trước đó, vào ngày 21/5/2003 trận động đất khác ở phía Bắc Algeria có cường độ 6,8 độ Richter. Hỏi biên độ rung chấn tối đa của trận động đất ở vùng Tohoku, Nhật Bản gấp bao nhiêu lần biên độ rung chấn tối đa của trận động đất ở phía Bắc Algeria? (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      151,
+      1252,
+      1510,
+      1415
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhà máy sản xuất và bán $x$ sản phẩm trong mỗi tháng. Chi phí sản xuất $x$ sản phẩm được cho bởi công thức $C = 10000 + 600x - 0,6x^2 + 0,004x^3$ (nghìn đồng). Biết giá bán của mỗi sản phẩm là $p = 1800 - 6x$ (nghìn đồng). Hỏi mỗi tháng nhà máy nên sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất?"
+  },
+  {
+    "bbox": [
+      151,
+      1424,
+      1510,
+      1590
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, cho điểm $A(1; 1; -1)$ và đường thẳng $d: \\frac{x-4}{2} = \\frac{y-4}{2} = \\frac{z-2}{-1}$. Gọi $H(a; b; c)$ là hình chiếu vuông góc của điểm $A$ trên đường thẳng $d$. Tính tổng $a + b + c$."
+  },
+  {
+    "bbox": [
+      151,
+      1608,
+      1510,
+      1795
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Sau khi một bệnh nhân uống một liều thuốc, nồng độ của thuốc trong máu người đó được mô hình hóa bởi hàm số $C(t) = \\frac{120t}{t^2 + 36}$ (đơn vị: mg/L), trong đó $t$ là thời gian sau khi uống thuốc (đơn vị: giờ) và $t \\ge 0$. Tìm nồng độ thuốc tối đa (đơn vị: mg/L) trong máu của bệnh nhân."
+  },
+  {
+    "bbox": [
+      151,
+      1813,
+      1510,
+      1896
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong không gian $Oxyz$, cho hai điểm $A(2; 0; 1)$ và $B(-1; -6; 7)$ và mặt phẳng ($P$) : $x - y + z - 3 = 0$. Xét điểm $M$ thuộc mặt phẳng ($P$), tìm giá trị nhỏ nhất của $2MA^2 + MB^2$."
+  },
+  {
+    "bbox": [
+      795,
+      1949,
+      861,
+      1985
+    ],
+    "category": "Section-header",
+    "text": "### Hết"
+  },
+  {
+    "bbox": [
+      205,
+      2022,
+      772,
+      2061
+    ],
+    "category": "List-item",
+    "text": "- Thí sinh không được sử dụng tài liệu;"
+  },
+  {
+    "bbox": [
+      205,
+      2088,
+      733,
+      2127
+    ],
+    "category": "List-item",
+    "text": "- Giám thị không giải thích gì thêm."
+  },
+  {
+    "bbox": [
+      821,
+      2210,
+      840,
+      2241
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      95,
+      1496,
+      254
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một nhóm nghiên cứu tiến hành khảo sát 10000 người và nhận thấy những người hút thuốc lá có nguy cơ bị ung thư phổi cao hơn so với người không hút thuốc lá. Kết quả khảo sát của nhóm nghiên cứu được trình bày trong bảng dữ liệu thống kê sau đây:"
+  },
+  {
+    "bbox": [
+      309,
+      280,
+      1258,
+      405
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Mắc ung thư phổi</td><td>Không mắc ung thư phổi</td></tr></thead><tbody><tr><td>Hút thuốc lá</td><td>1124 người</td><td>1126 người</td></tr><tr><td>Không hút thuốc lá</td><td>276 người</td><td>7474 người</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      75,
+      440,
+      922,
+      483
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một người trong 10000 người được khảo sát."
+  },
+  {
+    "bbox": [
+      75,
+      497,
+      684,
+      541
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để người đó hút thuốc lá là 14%."
+  },
+  {
+    "bbox": [
+      75,
+      556,
+      1162,
+      601
+    ],
+    "category": "Text",
+    "text": "b) Nếu người đó bị ung thư phổi thì xác suất người đó hút thuốc lá lớn hơn 80%."
+  },
+  {
+    "bbox": [
+      75,
+      615,
+      728,
+      660
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người đó bị ung thư phổi là 14%."
+  },
+  {
+    "bbox": [
+      75,
+      674,
+      1494,
+      777
+    ],
+    "category": "Text",
+    "text": "d) Dựa theo kết quả khảo sát trên ta thấy, người hút thuốc lá có nguy cơ mắc bệnh ung thư phổi cao cấp khoảng 14 lần (kết quả làm tròn đến hàng đơn vị) so với người không hút thuốc lá."
+  },
+  {
+    "bbox": [
+      75,
+      791,
+      1496,
+      1279
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hai trạm phát sóng $A$ và $B$ được đặt cách nhau $5\\text{km}$ trên một vùng đất bằng phẳng. Để đảm bảo phủ sóng tốt, cả hai trạm đều được xây trên các trụ cao $200\\text{m}$. Trạm $A$ có bán kính phát sóng $3\\text{km}$, và trạm $B$ có bán kính phát sóng $4\\text{km}$. Trên mặt đất có nút giao hai con đường ở vị trí $C$ cách chân hai trạm phát sóng $A$ và $B$ lần lượt là $3\\text{km}$ và $4\\text{km}$. Hai flycam $F_1$ và $F_2$ luôn hoạt động trong vùng phủ sóng của trạm $A$ và trạm $B$ tương ứng. Một ô tô đang di chuyển trên con đường thẳng nối từ chân trạm $A$ đến $C$, rồi cua vào đường thẳng từ $C$ đến chân trạm $B$. Gắn hệ trục tọa độ $Oxyz$ với điểm $O$ trùng với chân trạm $A$, mặt phẳng $(Oxy)$ là mặt đất, tia $Oz$ hướng thẳng đứng lên, chân trạm $B$ nằm trên tia $Ox$ và điểm $C$ có tung độ dương. Đơn vị mỗi trục tọa độ là $1\\text{km}$."
+  },
+  {
+    "bbox": [
+      75,
+      1298,
+      1494,
+      1429
+    ],
+    "category": "Text",
+    "text": "a) Phương trình biểu thị vùng phát sóng của trạm $B$ là phương trình mặt cầu $(S)$:\n$$(x+5)^2 + y^2 + (z-0,2)^2 = 16.$$"
+  },
+  {
+    "bbox": [
+      75,
+      1455,
+      823,
+      1539
+    ],
+    "category": "Text",
+    "text": "b) Phương trình đường thẳng $AC$ là: $\\frac{x}{9} = \\frac{y}{12} = \\frac{z-0,2}{-1}$."
+  },
+  {
+    "bbox": [
+      75,
+      1555,
+      1494,
+      1659
+    ],
+    "category": "Text",
+    "text": "c) Khi ô tô đang ở vị trí cách nút giao $C$ $7\\text{km}$ trên đoạn đường từ chân trạm $A$ tới nút giao $C$ đến. Khi đó ô tô đang nằm trong vùng phát sóng của trạm $B$."
+  },
+  {
+    "bbox": [
+      75,
+      1671,
+      1494,
+      1847
+    ],
+    "category": "Text",
+    "text": "d) Do thời tiết xấu, trạm $A$ giảm công suất phát làm giảm bán kính phủ sóng xuống còn $2\\text{km}$. Biết rằng flycam $F_2$ luôn bay ở độ cao $100\\text{m}$ so với mặt đất và cách trạm $B$ một khoảng không đổi là $3\\text{km}$. Tổng khoảng cách lớn nhất giữa ô tô và 2 flycam có thể đạt được là $12,01\\text{km}$ (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      834,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4"
+  }
+]

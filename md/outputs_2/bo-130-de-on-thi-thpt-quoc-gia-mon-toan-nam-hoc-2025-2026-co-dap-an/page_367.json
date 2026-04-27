@@ -1,0 +1,499 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      130,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      120,
+      1085,
+      281
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>x</td><td>-2</td><td>0</td><td>1</td><td>3</td></tr><tr><td>f'(x)</td><td>+</td><td>-</td><td>0</td><td>+</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      308,
+      755,
+      346
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đạt cực đại tại điểm nào sau đây?"
+  },
+  {
+    "bbox": [
+      124,
+      346,
+      254,
+      385
+    ],
+    "category": "List-item",
+    "text": "(A) $x = 0$."
+  },
+  {
+    "bbox": [
+      395,
+      346,
+      526,
+      385
+    ],
+    "category": "List-item",
+    "text": "(B) $x = 1$."
+  },
+  {
+    "bbox": [
+      668,
+      346,
+      799,
+      385
+    ],
+    "category": "List-item",
+    "text": "(C) $x = 3$."
+  },
+  {
+    "bbox": [
+      941,
+      346,
+      1091,
+      385
+    ],
+    "category": "List-item",
+    "text": "(D) $x = -2$."
+  },
+  {
+    "bbox": [
+      93,
+      399,
+      775,
+      471
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Phương trình $\\sin x = -\\frac{1}{2}$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      124,
+      466,
+      681,
+      537
+    ],
+    "category": "List-item",
+    "text": "(A) $S = \\left\\{ -\\frac{\\pi}{6} + k2\\pi; \\frac{7\\pi}{6} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      537,
+      646,
+      609
+    ],
+    "category": "List-item",
+    "text": "(B) $S = \\left\\{ \\frac{\\pi}{6} + k2\\pi; \\frac{5\\pi}{6} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      609,
+      657,
+      674
+    ],
+    "category": "List-item",
+    "text": "(C) $S = \\left\\{ -\\frac{\\pi}{6} + k2\\pi; \\frac{\\pi}{6} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      124,
+      670,
+      481,
+      741
+    ],
+    "category": "List-item",
+    "text": "(D) $S = \\left\\{ \\frac{1}{6} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$."
+  },
+  {
+    "bbox": [
+      93,
+      755,
+      1197,
+      836
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Trong không gian với hệ tọa độ $Oxyz$, phương trình nào dưới đây là phương trình mặt phẳng đi qua điểm $A(1; 2; -3)$ và có vecto pháp tuyến $\\vec{n} = (1; -2; 3)$?"
+  },
+  {
+    "bbox": [
+      124,
+      834,
+      442,
+      873
+    ],
+    "category": "List-item",
+    "text": "(A) $x - 2y - 3z + 6 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      834,
+      1003,
+      873
+    ],
+    "category": "List-item",
+    "text": "(B) $x - 2y + 3z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      877,
+      442,
+      916
+    ],
+    "category": "List-item",
+    "text": "(C) $x - 2y - 3z - 6 = 0$."
+  },
+  {
+    "bbox": [
+      668,
+      877,
+      1003,
+      916
+    ],
+    "category": "List-item",
+    "text": "(D) $x - 2y + 3z + 12 = 0$."
+  },
+  {
+    "bbox": [
+      93,
+      932,
+      926,
+      976
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Tập nghiệm của bất phương trình $\\log_{0,5}(x - 1) > 1$ là"
+  },
+  {
+    "bbox": [
+      124,
+      976,
+      343,
+      1048
+    ],
+    "category": "List-item",
+    "text": "(A) $(-\\infty; -\\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      395,
+      976,
+      548,
+      1048
+    ],
+    "category": "List-item",
+    "text": "(B) $[1; \\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      668,
+      976,
+      862,
+      1048
+    ],
+    "category": "List-item",
+    "text": "(C) $(\\frac{3}{2}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      941,
+      976,
+      1095,
+      1048
+    ],
+    "category": "List-item",
+    "text": "(D) $(1; \\frac{3}{2})$."
+  },
+  {
+    "bbox": [
+      93,
+      1063,
+      1197,
+      1221
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hàm số $y = f(x)$ có đạo hàm liên tục trên $[0; 2]$, $f(0) = 1$ và $\\int_{0}^{2} f'(x) \\, dx = -3$. Tính $f(2)$."
+  },
+  {
+    "bbox": [
+      124,
+      1221,
+      315,
+      1262
+    ],
+    "category": "List-item",
+    "text": "(A) $f(2) = -4$."
+  },
+  {
+    "bbox": [
+      395,
+      1221,
+      587,
+      1262
+    ],
+    "category": "List-item",
+    "text": "(B) $f(2) = -2$."
+  },
+  {
+    "bbox": [
+      668,
+      1221,
+      836,
+      1262
+    ],
+    "category": "List-item",
+    "text": "(C) $f(2) = 4$."
+  },
+  {
+    "bbox": [
+      941,
+      1221,
+      1132,
+      1262
+    ],
+    "category": "List-item",
+    "text": "(D) $f(2) = -3$."
+  },
+  {
+    "bbox": [
+      93,
+      1278,
+      1028,
+      1320
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Phương trình $2^{2x^2+5x+4} = 4$ có tổng tất cả các nghiệm bằng"
+  },
+  {
+    "bbox": [
+      124,
+      1316,
+      225,
+      1386
+    ],
+    "category": "List-item",
+    "text": "(A) $-\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      395,
+      1316,
+      467,
+      1367
+    ],
+    "category": "List-item",
+    "text": "(B) 1."
+  },
+  {
+    "bbox": [
+      668,
+      1316,
+      761,
+      1367
+    ],
+    "category": "List-item",
+    "text": "(C) $-1$."
+  },
+  {
+    "bbox": [
+      941,
+      1316,
+      1019,
+      1386
+    ],
+    "category": "List-item",
+    "text": "(D) $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      93,
+      1394,
+      1197,
+      1473
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Hàm số $F(x)$ là nguyên hàm của hàm số $f(x) = 3x^2$ và $F(0) = 5$. Khi đó, hàm số $F(x)$ là"
+  },
+  {
+    "bbox": [
+      124,
+      1471,
+      383,
+      1510
+    ],
+    "category": "List-item",
+    "text": "(A) $F(x) = 3x^3 + 5$."
+  },
+  {
+    "bbox": [
+      668,
+      1471,
+      916,
+      1510
+    ],
+    "category": "List-item",
+    "text": "(B) $F(x) = x^3 - 5$."
+  },
+  {
+    "bbox": [
+      124,
+      1514,
+      368,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(C) $F(x) = x^3 + 5$."
+  },
+  {
+    "bbox": [
+      668,
+      1514,
+      918,
+      1555
+    ],
+    "category": "List-item",
+    "text": "(D) $F(x) = 6x + 5$."
+  },
+  {
+    "bbox": [
+      93,
+      1571,
+      823,
+      1625
+    ],
+    "category": "Section-header",
+    "text": "## 2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1633,
+      1197,
+      1750
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Hộp thứ nhất chứa 5 viên bi vàng, 3 viên bi xanh. Hộp thứ hai chứa 4 viên bi vàng, 5 viên bi xanh và 3 viên bi đỏ. Lấy ngẫu nhiên 1 viên bi từ套hộp thứ nhất bỏ vào套hộp thứ hai, sau đó lấy ra 2 viên bi bất kỳ từ套hộp thứ hai"
+  },
+  {
+    "bbox": [
+      124,
+      1746,
+      877,
+      1816
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để lấy được 2 bi vàng từ套hộp thứ hai là $\\frac{5}{32}$."
+  },
+  {
+    "bbox": [
+      124,
+      1812,
+      1193,
+      1916
+    ],
+    "category": "List-item",
+    "text": "b) Biết rằng lấy được bi màu xanh từ套hộp thứ nhất. Xác suất để lấy được 2 viên bi khác màu từ套hộp thứ hai là $\\frac{9}{13}$."
+  },
+  {
+    "bbox": [
+      124,
+      1910,
+      858,
+      1979
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để lấy được bi xanh từ套hộp thứ nhất là $\\frac{3}{8}$."
+  },
+  {
+    "bbox": [
+      124,
+      1975,
+      858,
+      2045
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để lấy được bi vàng từ套hộp thứ nhất là $\\frac{5}{7}$."
+  },
+  {
+    "bbox": [
+      93,
+      2053,
+      1197,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Để đảm bảo an toàn khi lưu thông trên đường, các xe ô tô khi停止đènđỏ phải cách nhau tối thiểu 5 m. Một ô tô A đang chạy với vận tốc 16 m/s thì gặp ô tô B đang停止đènđỏ nên ô tô A hãm phanh và chuyển động chậm dần đều với vận tốc được biểu thị bởi công thức $v_A(t) = 16 - 4t$ (đơn vị tính bằng m/s, thời gian t tính bằng giây)."
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "## QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 365"
+  }
+]

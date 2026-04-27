@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      218,
+      109,
+      748,
+      193
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{0,02n \\cdot 0,68n}{0,02n \\cdot 0,68n + 0,18n \\cdot 0,12n} \\approx 0,39\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      198,
+      1575,
+      484
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Trong hệ toạ độ $Oxyz$ (đơn vị độ dài trên mỗi trục tính là mét), một vường hoa nằm trên mặt phẳng $(P): 2x+2y-z-12=0$. Có hai bóng đen chiếu sáng cố định được đặt tại các điểm $A(40; -40; 12)$, $B(-40; 50; 38)$. Để đảm bảo kỹ thuật chiếu sáng, các kỹ sư muốn thiết kế trên mặt vường một đường ray để lắp đặt một đèn chiếu sáng $M$ di động trên đường ray ấy. Yêu cầu kỹ thuật đặt ra là góc tạo bởi $MA$ với mặt vường và góc tạo bởi $MB$ với mặt vường phải luôn bằng nhau. độ dài đường ray là bao nhiêu mét? (kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      833,
+      487,
+      953,
+      528
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      218,
+      528,
+      975,
+      937
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      950,
+      1192,
+      993
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $A$ lên $(P) \\Rightarrow AH = d(A;(P)) = 8$"
+  },
+  {
+    "bbox": [
+      212,
+      1000,
+      1195,
+      1043
+    ],
+    "category": "Text",
+    "text": "Gọi $K$ là hình chiếu vuông góc của $B$ lên $(P) \\Rightarrow AH = d(B;(P)) = 10$"
+  },
+  {
+    "bbox": [
+      212,
+      1049,
+      842,
+      1091
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc tạo bởi $MA, MB$ với mặt vường."
+  },
+  {
+    "bbox": [
+      218,
+      1098,
+      878,
+      1178
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin \\alpha = \\frac{AH}{MA} = \\frac{BK}{MB} \\Leftrightarrow \\frac{8}{MA} = \\frac{10}{MB} \\Leftrightarrow 4MB = 5MA.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1183,
+      1575,
+      1374
+    ],
+    "category": "Text",
+    "text": "Gọi $M(a; b; c)$, từ $4MB = 5MA \\Leftrightarrow x^2 + y^2 + z^2 - \\frac{3280}{9}x + 400y + \\frac{616}{9}z - \\frac{5104}{9} = 0 \\Rightarrow M$ thuộc mặt cầu $(S)$ có tâm $I\\left(\\frac{1640}{9}; -200; -\\frac{308}{9}\\right)$, $R = \\sqrt{\\left(\\frac{1640}{9}\\right)^2 + (-200)^2 + \\left(-\\frac{308}{9}\\right)^2 + \\frac{5104}{9}}$"
+  },
+  {
+    "bbox": [
+      212,
+      1384,
+      1348,
+      1427
+    ],
+    "category": "Text",
+    "text": "Bên cạnh đó, $M \\in (P) \\Rightarrow M$ thuộc đường tròn $(C)$ là giao tuyến của $(P)$ và $(S)$."
+  },
+  {
+    "bbox": [
+      212,
+      1432,
+      1157,
+      1475
+    ],
+    "category": "Text",
+    "text": "Chiều dài đường ray là chu vi của $(C) \\Rightarrow$ chiều dài đường ray là"
+  },
+  {
+    "bbox": [
+      218,
+      1481,
+      714,
+      1533
+    ],
+    "category": "Formula",
+    "text": "$$\nl = 2\\pi r = 2\\pi \\sqrt{R^2 - d^2(I;(P))} \\approx 1720.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1540,
+      1575,
+      1730
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** **[Mức độ 3]** Một khu vường hình elip $(E)$, có độ dài trục lớn bằng 10 m và trục nhỏ bằng 8 m (như hình vẽ). Khu vực $A$ để trồng hoa; khu vực $B$ để trồng cỏ, là half hình tròn có tâm là một tiêu điểm của elip $(E)$, bán kính bằng 1 m; còn lại là khu vực $C$ (phần tô đâm) người ta lát gạch."
+  },
+  {
+    "bbox": [
+      212,
+      1726,
+      558,
+      1937
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1942,
+      1399,
+      1987
+    ],
+    "category": "Text",
+    "text": "Diện tích phần lát gạch bằng bao nhiêu $m^2$? (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      833,
+      1989,
+      953,
+      2031
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2035,
+      704,
+      2075
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ như hình vẽ:"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

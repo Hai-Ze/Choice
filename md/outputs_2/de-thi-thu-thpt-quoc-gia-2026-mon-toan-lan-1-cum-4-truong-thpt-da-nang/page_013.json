@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      695,
+      85,
+      1081,
+      477
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      297,
+      506,
+      1015,
+      558
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trên khoảng $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      297,
+      596,
+      858,
+      646
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      297,
+      685,
+      505,
+      735
+    ],
+    "category": "Text",
+    "text": "c) $f'(2) = 16$."
+  },
+  {
+    "bbox": [
+      297,
+      769,
+      1163,
+      864
+    ],
+    "category": "Text",
+    "text": "d) Đồ thị hàm số $g(x) = \\frac{\\sqrt{x}}{f'(x)+2}$ có 3 đường tiệm cận đứng."
+  },
+  {
+    "bbox": [
+      902,
+      900,
+      1018,
+      938
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      471,
+      962,
+      1306,
+      1032
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Đúng</td><td>d) Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      297,
+      1038,
+      1603,
+      1154
+    ],
+    "category": "Text",
+    "text": "a) **Đúng**. Vì từ đồ thị của hàm số $y = f'(x)$ ta thấy $f'(x) \\ge 0$ với $\\forall x \\ge 1$ nên hàm số đồng biến trên khoảng $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      297,
+      1194,
+      1603,
+      1296
+    ],
+    "category": "Text",
+    "text": "b) **Sai**. Vì từ đồ thị của hàm số $y = f'(x)$ ta thấy $f'(x)$ chỉ đổi dấu một lần qua $x=1$ nên hàm số có một điểm cực trị."
+  },
+  {
+    "bbox": [
+      297,
+      1324,
+      473,
+      1364
+    ],
+    "category": "Text",
+    "text": "c) **Đúng**. Vì:"
+  },
+  {
+    "bbox": [
+      297,
+      1394,
+      1168,
+      1445
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị ta có hàm số $f'(x)$ có dạng: $f'(x) = a(x+2)^2(x-1)$."
+  },
+  {
+    "bbox": [
+      297,
+      1482,
+      1324,
+      1534
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số $y = f'(x)$ đi qua $(0; -4)$ nên: $-4 = a(0+2)^2(0-1) \\Leftrightarrow a = 1$."
+  },
+  {
+    "bbox": [
+      297,
+      1571,
+      1094,
+      1624
+    ],
+    "category": "Text",
+    "text": "Vậy $f'(x) = (x+2)^2(x-1) \\Rightarrow f'(2) = (2+2)^2(2-1) = 16$."
+  },
+  {
+    "bbox": [
+      297,
+      1657,
+      590,
+      1697
+    ],
+    "category": "Text",
+    "text": "d) **Sai**. Vì: ĐK: $x \\ge 0$"
+  },
+  {
+    "bbox": [
+      297,
+      1728,
+      1614,
+      1945
+    ],
+    "category": "Text",
+    "text": "Ta có: $f'(x)+2 = 0 \\Leftrightarrow f'(x) = -2 \\Leftrightarrow \\begin{cases} x = a < -2 \\\\ x = -1 \\\\ x = b > 0 \\end{cases}$. So ĐK chỉ chọn nghiệm $x = b$. Vì đồ thị HS $g(x)$ chỉ có 1 đường TCĐ."
+  },
+  {
+    "bbox": [
+      159,
+      1982,
+      1625,
+      2143
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Cho một tấm nhôm hình vuông cạnh $12(cm)$. Người ta cắt ở bốn góc của tấm nhôm đó bốn hình vuông bằng nhau, mỗi hình vuông có cạnh $x(cm)$, rồi gấp tấm nhôm lại để được cái集合 không nắp."
+  }
+]

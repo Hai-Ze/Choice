@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1574,
+      215
+    ],
+    "category": "Text",
+    "text": "$M, N$ thuộc đường thẳng có vecto chỉ phương là $\\vec{u} = (1;1;1)$. Khoảng cách nhỏ nhất giữa hai máy bay $M, N$ là bao nhiêu km? (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      833,
+      220,
+      953,
+      261
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      266,
+      452,
+      306
+    ],
+    "category": "Text",
+    "text": "Đáp án: 260 km"
+  },
+  {
+    "bbox": [
+      212,
+      310,
+      1079,
+      356
+    ],
+    "category": "Text",
+    "text": "Gọi tọa điểm đặt đài kiểm soát không lưu là $I(-64;128;64)$"
+  },
+  {
+    "bbox": [
+      212,
+      362,
+      1576,
+      457
+    ],
+    "category": "Text",
+    "text": "Vì máy bay $N$ xuất hiện trên màn hình ra đa nên $IN \\le 500$, tức $N$ nằm trong hoặc trên mặt cầu tâm $I(-64;128;64)$, bán kính $R = 500$."
+  },
+  {
+    "bbox": [
+      218,
+      466,
+      1238,
+      515
+    ],
+    "category": "Formula",
+    "text": "$$\nd(I;P) = IH = 550 > 500 \\ (H \\text{ là hình chiếu vuông góc của } I \\text{ lên } P)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      521,
+      1153,
+      571
+    ],
+    "category": "Text",
+    "text": "Ta có: $M \\in (P): x-2y+2z-1458 = 0$ nên $M$ nằm ngoài mặt cầu."
+  },
+  {
+    "bbox": [
+      753,
+      581,
+      1034,
+      828
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      218,
+      838,
+      1079,
+      890
+    ],
+    "category": "Text",
+    "text": "$M, N$ thuộc đường thẳng có vecto chỉ phương là $\\vec{u} = (1;1;1)$"
+  },
+  {
+    "bbox": [
+      212,
+      896,
+      1396,
+      988
+    ],
+    "category": "Text",
+    "text": "Ta thấy $MN$ không vuông góc với $(P)$, mặt khác: $\\sin(d;P) = |\\cos(\\vec{u}_d;\\vec{n}_P)| = \\frac{\\sqrt{3}}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      992,
+      1131,
+      1041
+    ],
+    "category": "Text",
+    "text": "Vậy để $MN$ ngắn nhất thì $N$ nằm trên mặt cầu $(S)$ và $N \\in IH$."
+  },
+  {
+    "bbox": [
+      212,
+      1049,
+      1172,
+      1140
+    ],
+    "category": "Text",
+    "text": "Khi đó, xét tam giác vuông $NHI$, có $MN = \\frac{NH}{\\sin NMH} = \\frac{NH}{\\sin(d;P)}$."
+  },
+  {
+    "bbox": [
+      212,
+      1145,
+      1052,
+      1237
+    ],
+    "category": "Text",
+    "text": "Trong đó $NH = IH - IN = 550 - 500 = 50$; $\\sin(d;P) = \\frac{\\sqrt{3}}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      1243,
+      674,
+      1372
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } MN = \\frac{50}{\\frac{\\sqrt{3}}{9}} = 150\\sqrt{3} \\approx 260.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1380,
+      1131,
+      1423
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách nhỏ nhất giữa hai máy bay $M, N$ là 260 km."
+  },
+  {
+    "bbox": [
+      74,
+      1428,
+      1576,
+      1761
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Có hai集合待定的题目 (phiếu), mỗi phiếu ghi một câu hỏi. Hộp thứ nhất có 15 phiếu và集合第3题有9张票。Biết rằng sinh viên $A$ đi thi chỉ thuộc 10 câu ở集合第3题。Thầy giáo rút ngẫu nhiên từ mỗi集合 ra một phiếu thi, sau đó cho sinh viên $A$ rút ngẫu nhiên ra 1 phiếu từ 2 phiếu mà thấy giáo already draw. Gọi $E_1$ là biến cố sinh viên $A$ rút ra phiếu từ集合第3题, $E_2$ là biến cố sinh viên $A$ rút ra phiếu từ集合第3题. Nếu sinh viên $A$ rút được phiếu đã học thuộc thì xác suất phiếu đó thuộc集合第3题 bằng bao nhiêu (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      864,
+      1764,
+      981,
+      1804
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1815,
+      399,
+      1857
+    ],
+    "category": "Text",
+    "text": "Đáp số: 0,43"
+  },
+  {
+    "bbox": [
+      212,
+      1860,
+      585,
+      1940
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(E_1) = P(E_2) = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1953,
+      1111,
+      1997
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “Sinh viên A rút được phiếu đã học thuộc”."
+  },
+  {
+    "bbox": [
+      212,
+      2001,
+      850,
+      2093
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(B|E_1) = \\frac{C_9^1}{C_{15}^1} = \\frac{2}{3}, P(B|E_2) = \\frac{C_8^1}{C_9^1} = \\frac{8}{9}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2100,
+      388,
+      2137
+    ],
+    "category": "Text",
+    "text": "Ta cần tính:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

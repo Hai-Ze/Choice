@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      161,
+      144,
+      1541,
+      225
+    ],
+    "category": "Section-header",
+    "text": "## Part II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      161,
+      250,
+      1541,
+      378
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** At một thành phố, người ta thực hiện xét nghiệm đại trà để phát hiện Virus X. Qua thống kê, tỉ lệ người dân có kết quả xét nghiệm Dương tính (được máy báo là nhiễm bệnh) là 12%. Tuy nhiên, xét nghiệm không chính xác tuyệt đối:"
+  },
+  {
+    "bbox": [
+      185,
+      398,
+      1313,
+      441
+    ],
+    "category": "List-item",
+    "text": "* Trong số những người có kết quả Dương tính, có 5% thực chất là không nhiễm bệnh."
+  },
+  {
+    "bbox": [
+      185,
+      462,
+      1538,
+      505
+    ],
+    "category": "List-item",
+    "text": "* Trong số những người có kết quả Âm tính (máy báo không nhiễm), có 2% thực chất là đang nhiễm bệnh."
+  },
+  {
+    "bbox": [
+      161,
+      527,
+      856,
+      568
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một người vừa thực hiện xét nghiệm:"
+  },
+  {
+    "bbox": [
+      199,
+      588,
+      864,
+      632
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để người đó có kết quả Âm tính là 0,98."
+  },
+  {
+    "bbox": [
+      199,
+      658,
+      1524,
+      702
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để người đó thực sự không nhiễm bệnh, biết rằng kết quả xét nghiệm là Âm tính, bằng 0,98."
+  },
+  {
+    "bbox": [
+      199,
+      729,
+      988,
+      772
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để người đó thực sự không nhiễm bệnh là 0,8684."
+  },
+  {
+    "bbox": [
+      199,
+      798,
+      1520,
+      841
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để người đó có kết quả Âm tính, biết rằng người đó thực sự không nhiễm bệnh bé hơn 0,99."
+  },
+  {
+    "bbox": [
+      161,
+      933,
+      1025,
+      1324
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Trong hệ trục $Oxy$ đường biên của một **Hòn Đảo** được mô hình hóa bởi hàm số: $f(x) = \\frac{-x^2 + 10x - 12}{x} (x > 0)$ (đơn vị mỗi trục là $100m$). Ban quản lý Hòn Đảo muốn quây một vùng tam giác an toàn để người dân có thể vui chơi và tắm biển ở khu vực đó. Đặt cố định một điểm ngoài biển tại tọa độ $I(2; 8)$ sau đó Căng 2 tấmgot bảo vệ $IA, IB$ với hai điểm $A, B (x_A > x_B > 0)$ nằm trên đường biên và luôn thỏa mãn $AB // Ox$."
+  },
+  {
+    "bbox": [
+      1065,
+      954,
+      1531,
+      1360
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      199,
+      1369,
+      1541,
+      1471
+    ],
+    "category": "List-item",
+    "text": "a) Đỉnh cao nhất của Hòn Đảo (điểm cực đại của đồ thị hàm số) cách điểm $I$ một khoảng $514(m)$ (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      199,
+      1502,
+      1137,
+      1590
+    ],
+    "category": "List-item",
+    "text": "b) Mind of the curve of the function $f(x) = \\frac{-x^2 + 10x - 12}{x}$ is $M(0; 10)$."
+  },
+  {
+    "bbox": [
+      199,
+      1620,
+      1337,
+      1671
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường ngắn nhất từ hòn đảo đến điểm $I$ là $510(m)$ (làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      199,
+      1698,
+      1541,
+      1802
+    ],
+    "category": "List-item",
+    "text": "d) Nếu điều chỉnh dây phao sao cho khoảng cách từ trạm $I$ đến dây phao $AB$ bằng đúng chiều dài dây phao $AB$ thì diện tích vùng an toàn $\\Delta IAB$ là $605.000(m^2)$."
+  },
+  {
+    "bbox": [
+      161,
+      1833,
+      1541,
+      2047
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cận kề ngày Tet Nguyên Đán. Bác Nghĩa muốn thiết kế một dek lồng cao $40cm$ để treo lên ở hiên nhà. Mặt cắt ngang tại mọi độ cao vuông góc với trục thẳng đứng của dek lồng luôn là một hình vuông (xem hình vẽ). Mặt đáy và đỉnh của dek lồng là hình vuông có cạnh $L_0 = 10\\sqrt{2}(cm)$. Mặt cắt ngang tại vị trí rộng nhất của dek lồng là hình vuông (hình vuông có diện tích lớn nhất) có cạnh $L_{max} = 14\\sqrt{2}(cm)$. Mặt cắt"
+  },
+  {
+    "bbox": [
+      161,
+      2138,
+      670,
+      2177
+    ],
+    "category": "Page-footer",
+    "text": "ĐỀ KTĐK MÔN TOÁN K12 (08-02-2026)"
+  },
+  {
+    "bbox": [
+      1400,
+      2117,
+      1493,
+      2149
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      248,
+      101,
+      1004,
+      252
+    ],
+    "category": "Text",
+    "text": "Mà $E = CH \\cap BK$ với $CH : \\begin{cases} x = 3t \\\\ y = 4t \\\\ z = 0 \\end{cases}$ và $BK : \\begin{cases} x = 3 - 4t' \\\\ y = 3t' \\\\ z = 0 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      248,
+      281,
+      654,
+      460
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{nên } \\begin{cases} 3t = 3 - 4t' \\\\ 4t = 3t' \\end{cases} \\Leftrightarrow \\begin{cases} t = \\frac{9}{25} \\\\ t' = \\frac{12}{25} \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      488,
+      493,
+      577
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow E\\left(\\frac{27}{25}; \\frac{36}{25}; 0\\right).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      605,
+      761,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overline{SE} = \\left(\\frac{27}{25}; \\frac{36}{25}; -\\sqrt{3}\\right); \\overline{BC} = (0; 4; 0).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      722,
+      1235,
+      892
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos(\\overline{SE}, \\overline{BC}) = \\left|\\cos\\left(\\overline{SE}, \\overline{BC}\\right)\\right| = \\frac{|\\overline{SE} \\cdot \\overline{BC}|}{|\\overline{SE}| |\\overline{BC}|} = \\frac{\\frac{144}{25}}{\\frac{2\\sqrt{39}}{5} \\cdot 4} = \\frac{18}{5\\sqrt{39}} \\Rightarrow \\begin{cases} m = 18 \\\\ n = 5 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      919,
+      678,
+      959
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } T = 2m - n = 2 \\cdot 18 - 5 = 31.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      977,
+      1520,
+      1302
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Trong không gian, xét hệ toạ độ $Oxyz$ có gốc $O$ trùng với vị trí một giàn khoan trên biển, mặt phẳng ($Oxy$) trùng với mặt biển (được gọi là mặt phẳng) với tia $Ox$ hướng về phía nam, tia $Oy$ hướng về phía đông, tia $Oz$ hướng thẳng lên trời (tham khảo hình vẽ). Đơn vị đo trong không gian $Oxyz$ lấy theo kilômét. Một chiếc radar đặt tại $O$ có phạm vi theo dõi $30 \\text{ km}$. Một chiếc tàu thám hiểm tại vị trí $A$ ở độ sâu $10 \\text{ km}$ so với mặt nước biển, cách $O$ $25 \\text{ km}$ về phía nam và $15 \\text{ km}$ về phía Tây. Một tàu đánh cá tại vị trí $B(-20; 15; 0)$."
+  },
+  {
+    "bbox": [
+      512,
+      1312,
+      1135,
+      1765
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1789,
+      1506,
+      1940
+    ],
+    "category": "List-item",
+    "text": "a) Một chiếc tàu của cảnh sát biển đang tuần tra di chuyển đến vị trí $C$ cách $O$ $15 \\text{ km}$ về phía nam. Để radar phát hiện ra thì tàu cảnh sát biển cần di chuyển về phía đông cách $O$ tối đa $15\\sqrt{3} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      252,
+      1977,
+      858,
+      2019
+    ],
+    "category": "List-item",
+    "text": "b) Radar phát hiện ra tàu đánh cá tại vị trí $B$."
+  },
+  {
+    "bbox": [
+      252,
+      2043,
+      1124,
+      2095
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng cách từ chiếc tàu thám hiểm đến radar bằng $3\\sqrt{58} \\text{ km}$."
+  },
+  {
+    "bbox": [
+      252,
+      2126,
+      1083,
+      2172
+    ],
+    "category": "List-item",
+    "text": "d) Radar **không** phát hiện được tàu thám hiểm đặt tại vị trí $A$."
+  }
+]

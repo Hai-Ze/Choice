@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      202,
+      134,
+      1115,
+      185
+    ],
+    "category": "Text",
+    "text": "Giả sử $Q$ là điểm trên cung tròn sao cho $\\widehat{QOR} = \\theta$ ($0 \\le \\theta \\le \\pi$)."
+  },
+  {
+    "bbox": [
+      202,
+      202,
+      1186,
+      245
+    ],
+    "category": "Text",
+    "text": "Vì $Q$ nằm trên đường tròn tâm $O$, bán kính 2 nên: $Q(2 \\cos \\theta, 2 \\sin \\theta)$."
+  },
+  {
+    "bbox": [
+      202,
+      264,
+      703,
+      305
+    ],
+    "category": "Text",
+    "text": "Độ dài đoạn đường chèo thuyền là:"
+  },
+  {
+    "bbox": [
+      202,
+      319,
+      1288,
+      373
+    ],
+    "category": "Formula",
+    "text": "$$\nPQ = \\sqrt{(2 \\cos \\theta + 2)^2 + (2 \\sin \\theta)^2} = \\sqrt{8 + 8 \\cos \\theta} = 2\\sqrt{2(1 + \\cos \\theta)} = 4 \\cos \\frac{\\theta}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      382,
+      818,
+      469
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thời gian chèo thuyền: } t_1 = \\frac{PQ}{3} = \\frac{4 \\cos \\frac{\\theta}{2}}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      476,
+      1387,
+      558
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ dài cung tròn từ } Q \\text{ đến } R \\text{ là } l = R\\theta = 2\\theta. \\text{ Thời gian chạy bộ: } t_2 = \\frac{l}{6} = \\frac{2\\theta}{6} = \\frac{\\theta}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      567,
+      604,
+      610
+    ],
+    "category": "Text",
+    "text": "Tổng thời gian di chuyển là:"
+  },
+  {
+    "bbox": [
+      202,
+      621,
+      669,
+      708
+    ],
+    "category": "Formula",
+    "text": "$$\nT(\\theta) = \\frac{4 \\cos \\frac{\\theta}{2}}{3} + \\frac{\\theta}{3} \\text{ với } \\theta \\in [0; \\pi].\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      715,
+      609,
+      794
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } T'(\\theta) = -\\frac{2}{3} \\sin \\frac{\\theta}{2} + \\frac{1}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      802,
+      812,
+      883
+    ],
+    "category": "Formula",
+    "text": "$$\nT'(\\theta) = 0 \\Leftrightarrow \\sin \\frac{\\theta}{2} = \\frac{1}{2} \\Leftrightarrow \\frac{\\theta}{2} = \\frac{\\pi}{6} \\Leftrightarrow \\theta = \\frac{\\pi}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      892,
+      745,
+      935
+    ],
+    "category": "Text",
+    "text": "Tính các giá trị tại các điểm đặc biệt:"
+  },
+  {
+    "bbox": [
+      195,
+      946,
+      563,
+      1024
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond T(0) = \\frac{4}{3} \\approx 1,33 \\text{ (giờ).}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1029,
+      912,
+      1117
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond T\\left(\\frac{\\pi}{3}\\right) = \\frac{4 \\cos \\frac{\\pi}{6}}{3} + \\frac{\\pi}{9} = \\frac{2\\sqrt{3}}{3} + \\frac{\\pi}{9} \\approx 1,50 \\text{ (giờ).}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      1122,
+      776,
+      1204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond T(\\pi) = \\frac{4 \\cos \\frac{\\pi}{2}}{3} + \\frac{\\pi}{3} = \\frac{\\pi}{3} \\approx 1,05 \\text{ (giờ).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1210,
+      1209,
+      1283
+    ],
+    "category": "Text",
+    "text": "So sánh các giá trị trên, ta thấy thời gian ít nhất là $T(\\pi) = \\frac{\\pi}{3} \\approx 1,05$ giờ."
+  },
+  {
+    "bbox": [
+      202,
+      1294,
+      1250,
+      1337
+    ],
+    "category": "Text",
+    "text": "Làm tròn đến hàng phần chục, bạn Nam mất ít thời gian nhất là 1,1 giờ."
+  },
+  {
+    "bbox": [
+      153,
+      1357,
+      1548,
+      1705
+    ],
+    "category": "Text",
+    "text": "Bài 4. Một chiếc khay待用 đầy nước có dạng hình集合 chữ nhật với kích thước: chiều dài 20 cm, chiều rộng 10 cm, chiều cao 8 cm (hình a). Để san bớt nước cho đỡ đầy, người ta đổ nước từ chiếc khay thứ nhất đó sang chiếc khay thứ hai có dạng hình chóp cụt tứ giác đều với đáy khay là hình vuông nhỏ có đường chéo dài $n$ (cm), miếng khay là hình vuông lớn có đường chéo dài $2n$ (cm) (hình b). Sau khi đổ, mực nước ở khay thứ hai cao bằng $\\frac{2}{5}$ chiều cao của khay đó và lượng nước trong khay thứ nhất giảm đi $\\frac{1}{4}$ so với ban đầu. Thế tích của chiếc khay thứ hai theo đơn vị centimet khối có kết quả chính xác đến hàng đơn vị là $a$ (cm$^3$). Tổng các chữ số của số $a$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      394,
+      1735,
+      831,
+      2034
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      568,
+      2042,
+      669,
+      2076
+    ],
+    "category": "Caption",
+    "text": "Hình a"
+  },
+  {
+    "bbox": [
+      927,
+      1705,
+      1313,
+      2003
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1071,
+      2042,
+      1169,
+      2076
+    ],
+    "category": "Caption",
+    "text": "Hình b"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "63"
+  }
+]

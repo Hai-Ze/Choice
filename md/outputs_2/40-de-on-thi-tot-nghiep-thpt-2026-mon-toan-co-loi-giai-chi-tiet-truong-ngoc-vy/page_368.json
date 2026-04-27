@@ -1,0 +1,270 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      256,
+      105,
+      757,
+      521
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      304,
+      564,
+      381,
+      593
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      915,
+      135,
+      1246,
+      558
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      990,
+      572,
+      1069,
+      601
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      76,
+      646,
+      326,
+      696
+    ],
+    "category": "Formula",
+    "text": "a) $\\overline{OP} = (4;0;4,7)$"
+  },
+  {
+    "bbox": [
+      76,
+      720,
+      332,
+      774
+    ],
+    "category": "Formula",
+    "text": "b) $AQ = \\sqrt{290} (m)$"
+  },
+  {
+    "bbox": [
+      76,
+      800,
+      1389,
+      849
+    ],
+    "category": "Text",
+    "text": "c) Thầy Nam muốn treo bóng den tại trung điểm cạnh $PQ$. Tọa độ vị trí bóng den là $(4;7,5;4,7)$."
+  },
+  {
+    "bbox": [
+      76,
+      875,
+      1323,
+      922
+    ],
+    "category": "Text",
+    "text": "d) Hai mái nhà hợp nhau một góc bằng $33,4^\\circ$ (làm tròn kết quả đến hàng phần mười của độ)."
+  },
+  {
+    "bbox": [
+      727,
+      946,
+      843,
+      984
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      998,
+      894,
+      1122
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1180,
+      701,
+      1219
+    ],
+    "category": "Text",
+    "text": "Từ hình vẽ, ta có kích thước ngồi nhà như sau:"
+  },
+  {
+    "bbox": [
+      82,
+      1238,
+      449,
+      1273
+    ],
+    "category": "Formula",
+    "text": "$$\nOA = CB = HG = EF = 8m\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1295,
+      553,
+      1333
+    ],
+    "category": "Formula",
+    "text": "$$\nOC = AB = FG = EH = PQ = 15m\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1355,
+      350,
+      1398
+    ],
+    "category": "Text",
+    "text": "Tọa độ các điểm là :"
+  },
+  {
+    "bbox": [
+      82,
+      1419,
+      1303,
+      1457
+    ],
+    "category": "Text",
+    "text": "$O(0;0;0), A(8;0;0), B(8;15;0), C(0;15;0), E(0;0;3,5), F(8;0;3,5), G(8;15;3,5), H(0;15;3,5).$"
+  },
+  {
+    "bbox": [
+      82,
+      1482,
+      407,
+      1520
+    ],
+    "category": "Text",
+    "text": "$P(4;0;4,7), Q(4;15;4,7)$"
+  },
+  {
+    "bbox": [
+      76,
+      1548,
+      326,
+      1597
+    ],
+    "category": "Formula",
+    "text": "a) $\\overline{OP} = (4;0;4,7)$"
+  },
+  {
+    "bbox": [
+      76,
+      1621,
+      590,
+      1676
+    ],
+    "category": "Formula",
+    "text": "b) $\\overline{AQ} = (-4;15;7) \\Rightarrow AQ = \\sqrt{290} (m)$"
+  },
+  {
+    "bbox": [
+      76,
+      1702,
+      698,
+      1750
+    ],
+    "category": "Text",
+    "text": "c) Tọa độ trung điểm cạnh $PQ$ là $(4;7,5;4,7)$"
+  },
+  {
+    "bbox": [
+      76,
+      1773,
+      1242,
+      1817
+    ],
+    "category": "Text",
+    "text": "d) góc hợp bởi hai mái nhà là góc hai mặt phẳng ($FGQP$) và ($EHQP$) hay góc $EPF$"
+  },
+  {
+    "bbox": [
+      76,
+      1843,
+      656,
+      1888
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overline{PE} = (-4;0;-1,2), \\overline{PF} = (4;0;-1,2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1916,
+      1396,
+      2031
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\cos \\widehat{EPF} = \\cos(\\overline{PE}, \\overline{PF}) = \\frac{\\overline{PE} \\cdot \\overline{PF}}{|\\overline{PE}| \\cdot |\\overline{PF}|} = \\frac{(-4) \\cdot (4) + 0 \\cdot 0 + (-1,2) \\cdot (-1,2)}{\\sqrt{(-4)^2 + 0^2 + (-1,2)^2} \\cdot \\sqrt{4^2 + 0^2 + (-1,2)^2}} = -\\frac{91}{109}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2057,
+      978,
+      2107
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\widehat{EPF} \\approx 146,6^\\circ. \\text{ Vậy hai mái nhà hợp nhau một góc bằng } 146,6^\\circ.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

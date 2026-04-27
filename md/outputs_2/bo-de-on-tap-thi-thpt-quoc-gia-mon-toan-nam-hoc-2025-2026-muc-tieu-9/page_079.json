@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      235,
+      131,
+      964,
+      211
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } Q(0; h) \\in d \\text{ nên: } h = -\\frac{3}{2} \\cdot 0 + \\frac{3}{2} = \\frac{3}{2} = 1,5 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      231,
+      1548,
+      360
+    ],
+    "category": "Text",
+    "text": "Bài 6. Có sáu tấm thẻ, mỗi tấm có một số tự nhiên từ 1 đến 6 được viết trên mặt trước và số 0 được viết trên mặt sau. Sáu tấm thẻ này được sắp xếp sao cho với mỗi số tự nhiên $k \\le 6$, vị trí thứ $k$ intelecti số tự nhiên $k$ (tham khảo hình vẽ)."
+  },
+  {
+    "bbox": [
+      520,
+      365,
+      1175,
+      541
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      576,
+      1548,
+      832
+    ],
+    "category": "Text",
+    "text": "Sử dụng sáu tấm thẻ này và một con xúc xắc, thực hiện các bước sau: Gieo xúc xắc một lần, nếu số chấm xuất hiện ở mặt trên xúc xắc là $k$, thì ta lật tấm thẻ ở vị trí thứ $k$ một lần và đặt lại vào vị trí ban đầu. Sau khi lặp lại thí nghiệm trên 3 lần, nếu biết tổng các số xuất hiện trên cả 6 thẻ là số chans, xác suất để số 1 xuất hiện đúng một lần khi gieo xúc xắc là $\\frac{a}{b}$ (với $a$ và $b$ là các số nguyên dương và phân số $\\frac{a}{b}$ tối简). Tính giá trị của $a + b$."
+  },
+  {
+    "bbox": [
+      152,
+      844,
+      1548,
+      987
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Minh họa thí nghiệm: Ví dụ khi thực hiện thí nghiệm 1 lần: Con xúc xắc gieo được số 4 ta thực hiện lật lá bài ở vị trí số 4 và đặt lại vị trí cũ lúc này số xuất hiện trên 6 lá bài như hình vẽ sau:"
+  },
+  {
+    "bbox": [
+      595,
+      987,
+      1101,
+      1107
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      1142,
+      1548,
+      1269
+    ],
+    "category": "Text",
+    "text": "Tổng trên 6 tấm thẻ lúc này là $T = 1 + 2 + 3 + 0 + 5 + 6 = 17$ là một số lẻ. \nVà sau khi ta thực hiện thí nghiệm này liên tiếp 3 lần thì được kết quả tổng trên 6 tấm thẻ là số chans."
+  },
+  {
+    "bbox": [
+      202,
+      1292,
+      1137,
+      1334
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Tổng các số xuất hiện trên cả 6 thẻ là số chans”."
+  },
+  {
+    "bbox": [
+      202,
+      1354,
+      792,
+      1395
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố “Số 1 xuất hiện đúng 1 lần”."
+  },
+  {
+    "bbox": [
+      152,
+      1413,
+      1548,
+      1536
+    ],
+    "category": "Text",
+    "text": "Yêu cầu bài toán: Tính xác suất để số 1 xuất hiện đúng một lần khi gieo xúc xắc, biết tổng các số xuất hiện trên cả 6 thẻ là số chans $\\Leftrightarrow P(B|A) = \\frac{P(AB)}{P(A)}$ (theo công thức xác suất điều kiện)."
+  },
+  {
+    "bbox": [
+      152,
+      1552,
+      1548,
+      1683
+    ],
+    "category": "Text",
+    "text": "Nhận thấy khi số mặt xuất hiện trên xúc xắc là số chans thì tổng trên 6 tấm thẻ không thay đổi tính chans lẻ (vì khi lật một số chans thì ta vẫn được một số chans, do đó không làm thay đổi tính chans lẻ của tổng 6 tấm thẻ);"
+  },
+  {
+    "bbox": [
+      152,
+      1701,
+      1548,
+      1833
+    ],
+    "category": "Text",
+    "text": "Khi số mặt xuất hiện trên xúc xắc là số lẻ thì tổng trên 6 tấm thẻ sẽ thay đổi tính chans lẻ (vì khi lật một số lẻ (vị trí lẻ) thì ta được một số chans và ngược lại, do đó làm thay đổi tính chans lẻ của tổng 6 tấm thẻ)."
+  },
+  {
+    "bbox": [
+      152,
+      1851,
+      1548,
+      1938
+    ],
+    "category": "Text",
+    "text": "Vậy để sau khi thực hiện lật thẻ 3 lần và được tổng trên 6 tấm thẻ là số chans thì có 2 trường hợp xảy ra:"
+  },
+  {
+    "bbox": [
+      195,
+      1965,
+      1548,
+      2051
+    ],
+    "category": "List-item",
+    "text": "* TH1: Thay đổi tính chans lẻ đúng 3 lần (tức 3 lần thí nghiệm gieo xúc xắc xuất hiện 3 mặt lẻ)."
+  },
+  {
+    "bbox": [
+      195,
+      2067,
+      1548,
+      2153
+    ],
+    "category": "List-item",
+    "text": "* TH2: Thay đổi tính chans lẻ đúng 1 lần (tức 3 lần thí nghiệm gieo xúc xắc có 2 lần xuất hiện mặt chans và 1 lần xuất hiện mặt lẻ): LCC; CLC; CCL."
+  },
+  {
+    "bbox": [
+      152,
+      2181,
+      692,
+      2223
+    ],
+    "category": "Text",
+    "text": "Ta đi tiến hành giải từng trường hợp."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "79"
+  }
+]

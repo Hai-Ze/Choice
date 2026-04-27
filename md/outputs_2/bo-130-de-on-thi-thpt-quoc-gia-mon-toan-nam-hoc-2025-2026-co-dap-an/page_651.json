@@ -1,0 +1,257 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1269,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      123,
+      1199,
+      316
+    ],
+    "category": "Text",
+    "text": "sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày ($t \\ge 0$) kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ ($t \\ge 0$), trong đó $k$ là hằng số khác không. Do nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là 2 mg/lít; 1 mg/lít. Cho biết $y(t) = e^{g(t)}$ ($t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      124,
+      331,
+      874,
+      370
+    ],
+    "category": "List-item",
+    "text": "a) $g(t) = kt + C$ ($t \\ge 0$) với $C$ là một hằng số xác định."
+  },
+  {
+    "bbox": [
+      124,
+      370,
+      315,
+      441
+    ],
+    "category": "List-item",
+    "text": "b) $k = -\\frac{\\ln 2}{6}$."
+  },
+  {
+    "bbox": [
+      124,
+      439,
+      312,
+      474
+    ],
+    "category": "List-item",
+    "text": "c) $C = 3 \\ln 2$."
+  },
+  {
+    "bbox": [
+      124,
+      476,
+      1195,
+      555
+    ],
+    "category": "List-item",
+    "text": "d) Nồng độ thuốc tồn dư trong nước tại thời điểm $t = 20$ (ngày) kể từ lúc sử dụng thuốc lớn hơn 0,4 mg/lít."
+  },
+  {
+    "bbox": [
+      94,
+      606,
+      1199,
+      997
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\vec{i}, \\vec{j}, \\vec{k}$ lần lượt là các vecto đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vecto đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(6; 6; 0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\le t \\le 6$. Ở thời điểm ban đầu ($t = 0$), vật đi qua $A$ với tốc độ 300 m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quăng đường 608 m. Gọi $\\vec{u} = (a; b; c)$ là vecto cùng hướng với vecto $\\overrightarrow{AB}$. Biết rằng $|\\vec{u}| = 1$ và góc giữa vecto $\\vec{u}$ lần lượt với các vecto $\\vec{i}, \\vec{j}, \\vec{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$."
+  },
+  {
+    "bbox": [
+      124,
+      1014,
+      327,
+      1051
+    ],
+    "category": "List-item",
+    "text": "a) $a = \\cos 60^\\circ$."
+  },
+  {
+    "bbox": [
+      124,
+      1051,
+      890,
+      1123
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình đường thẳng $AB$ là $\\frac{x-6}{-1} = \\frac{y-6}{-1} = \\frac{z}{2}$."
+  },
+  {
+    "bbox": [
+      124,
+      1123,
+      257,
+      1158
+    ],
+    "category": "List-item",
+    "text": "c) $\\beta = 3$."
+  },
+  {
+    "bbox": [
+      124,
+      1160,
+      1195,
+      1236
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử sau 5 giây kể từ thời điểm ban đầu, vật đến điểm $B$ ($x_B; y_B; z_B$). Khi đó $x_B = 781$."
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1505,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      1290,
+      893,
+      1345
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1369,
+      1199,
+      1567
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông với $AB = 2$. Biết rằng hình chiếu vuông góc của $S$ trên mặt phẳng ($ABCD$) là trọng tâm $H$ của tam giác $ABC$ và $SH = \\sqrt{2}$. Khoảng cách giữa hai đường thẳng $AC$ và $SD$ bằng bao nhiêu (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      979,
+      1532,
+      1031,
+      1565
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1523,
+      1197,
+      1575
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1623,
+      1199,
+      1883
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng ($x \\in \\mathbb{N}^*; 1 \\le x \\le 4500$) thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0,01x^2 + 400x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{30000}{x} + 270$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết. Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 100 triệu đồng?"
+  },
+  {
+    "bbox": [
+      979,
+      1847,
+      1031,
+      1880
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1838,
+      1197,
+      1890
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1938,
+      1199,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Để đặt được một vật trang trí trên mặt bàn, người ta thiết kế một chân đế như sau. Lấy một khối gỗ có dạng khối chóp cụt tư giác đều với độ dài hai cạnh đáy lần lượt bằng 7,4 cm và 10,4 cm, bề dày của khối gỗ bằng 1,5 cm. Sau đó khoét bỏ đi một phần của khối gỗ sao cho phần đó có dạng vật thể $H$, ở đó $H$ nhận được bằng cách cắt khối cầu bán kính 5,7 cm bởi một mặt phẳng cắt mà mặt cắt là hình tròn bán kính 3,5 cm (xem hình dưới). Thể tích của khối chân đế bằng bao nhiêu centimét khối (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1459,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "649"
+  }
+]

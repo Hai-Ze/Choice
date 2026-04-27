@@ -1,0 +1,122 @@
+[
+  {
+    "bbox": [
+      216,
+      71,
+      1561,
+      236
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thang vuông tại hai định $A$ và $B$, đồng thời $AB = AD = 2BC = 2$ cm. Biết rằng tam giác $SAB$ cân tại $S$, tam giác $SCD$ vuông tại $C$ và số đo góc nhị diện $[S, AB, D]$ bằng $135^\\circ$. Tính thể tích của khối chóp $S.ABCD$ (đơn vị $cm^3$)."
+  },
+  {
+    "bbox": [
+      216,
+      252,
+      1561,
+      352
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Để trang bị hệ thống làm mind map cho nhà thi đấu đa năng mới khánh thành, ban quản lý dự kiến lắp đặt một mạngHands on vòi phun nước thông minh. Hệ thống sử dụng hai loại vòi:"
+  },
+  {
+    "bbox": [
+      264,
+      363,
+      984,
+      407
+    ],
+    "category": "List-item",
+    "text": "- Vòi phun áp lực (loại X): Công suất tiêu thụ 5 lít/giờ."
+  },
+  {
+    "bbox": [
+      264,
+      416,
+      1001,
+      460
+    ],
+    "category": "List-item",
+    "text": "- Vòi phun sương (loại Y): Công suất tiêu thụ 11 lít/giờ."
+  },
+  {
+    "bbox": [
+      216,
+      471,
+      1561,
+      730
+    ],
+    "category": "Text",
+    "text": "Theo yêu cầu vận hành của máy bơm trung tâm, tổng lượng nước tiêu thụ của toàn hệ thống phải đạt đúng 3300 lít/giờ và mỗi loại đều có ít nhất 1 vòi. Để đồng bộ với các module điều control tự động, các vòi phun được lắp đặt theo từng cụm kỹ thuật, mỗi cụm yêu cầu đúng 8 vòi (không phân biệt loại). Một phương án lắp đặt được coi là \"tối ưu về kỹ thuật\" nếu tổng số vòi của toàn hệ thống là một số chia hết cho 8 đểophper hoàn toàn với các cụm điều control."
+  },
+  {
+    "bbox": [
+      216,
+      742,
+      1561,
+      842
+    ],
+    "category": "Text",
+    "text": "Người ta chọn ngẫu nhiên một phương án lắp đặt thỏa mãn tổng công suất tiêu thụ. Tính xác suất để phương án được chọn là phương án tối ưu về kỹ thuật (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      216,
+      851,
+      1561,
+      1059
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong giờ thực hành, một học sinh được giao một thanh gỗ thẳng dài 15 cm (có 14 vạch chia đều trên thanh gỗ). Học sinh đó thực hiện ngẫu nhiên hai nhát cắt tại các vạch chia cm để chia thanh gỗ thành 3 đoạn. Tính xác suất để 3 đoạn gỗ thu được có thể ghép thành 3 cạnh của một tam giác (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      216,
+      1070,
+      1561,
+      1351
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Nhà máy $A$ chuyên sản xuất một loại sản phẩm để cung cấp ra thị trường với khối lượng tối đa 100 tấn mỗi tháng. Nếu số lượng đặt hàng là $x$ tấn sản phẩm thì giá bán cho mỗi tấn sản phẩm là $P(x) = 45 - 0,001x^2$ (triệu đồng). Chi phí để nhà máy $A$ sản xuất $x$ tấn sản phẩm trong một tháng bao gồm: Chi phí cố định 100 triệu đồng; chi phí cho mỗi tấn sản phẩm làm ra 30 triệu đồng. Hỏi mỗi tháng lợi nhuận tối đa mà nhà máy $A$ thu về là bao nhiêu triệu đồng (kết quả làm tròn đến hàng đơn vị)?"
+  },
+  {
+    "bbox": [
+      216,
+      1360,
+      1561,
+      1776
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Những ngày giáp Tết Nguyên Đán cũng là đi step vào vụ Đông Xuân, cây lúa sau khi được cấy trải qua quá trình tăng trưởng đẻ nhánh và phát triển chiều cao trước khi làm dòng, trổ bông. Qua nghiên cứu một giống lúa mới, các nhà khoa học nhận thấy một cây lúa tính từ lúc được cấy bằng một cây mạ với chiều cao 15 cm có tốc độ tăng trưởng chiều cao cho bởi hàm số $v(t) = -0,3t^3 + 2,2t^2$, trong đó $t$ tính theo tuần, $v(t)$ tính bằng cm/tuần. Gọi $h(t)$ là chiều cao của cây lúa ở tuần thứ $t$ ($t \\ge 0, t \\in \\mathbb{R}$). Biết rằng khi đạt chiều cao lớn nhất cây lúa sẽ停止 phát triển chiều cao để tập trung dinh dưỡng nuôi bông. Tính chiều cao lớn nhất của cây lúa (đơn vị cm, kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      782,
+      1840,
+      992,
+      1878
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      216,
+      2097,
+      369,
+      2135
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0101"
+  },
+  {
+    "bbox": [
+      1433,
+      2101,
+      1561,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/4"
+  }
+]

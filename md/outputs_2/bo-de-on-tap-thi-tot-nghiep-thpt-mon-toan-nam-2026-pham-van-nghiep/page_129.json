@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      110,
+      1549,
+      192
+    ],
+    "category": "Text",
+    "text": "b) Thế tích khối tròn xoay được tạo thành khi quay hình $(H_2)$ quanh trục $Ox$ bằng $\\frac{464}{105} \\pi$."
+  },
+  {
+    "bbox": [
+      211,
+      198,
+      861,
+      278
+    ],
+    "category": "Text",
+    "text": "c) Tổng diện tích của $(H_1)$ và $(H_2)$ bằng $\\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      211,
+      284,
+      1270,
+      332
+    ],
+    "category": "Text",
+    "text": "d) Gọi $S_1, S_2$ lần lượt là diện tích của hình $(H_1)$ và $(H_2)$. Khi đó $S_2 > 6S_1$"
+  },
+  {
+    "bbox": [
+      831,
+      341,
+      951,
+      382
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      384,
+      1409,
+      483
+    ],
+    "category": "Text",
+    "text": "a) Diện tích hình $(H_1)$ là $S_1 = \\int_{-1}^{0} |-x^3 + x^2 + 2x| dx = \\int_{-1}^{0} (x^3 - x^2 - 2x) dx \\Rightarrow$oorh thê sai."
+  },
+  {
+    "bbox": [
+      211,
+      486,
+      1574,
+      639
+    ],
+    "category": "Text",
+    "text": "b) Thế tích khối tròn xoay được tạo thành khi quay hình $(H_2)$ quanh trục $Ox$ là\n$V = \\pi \\int_{0}^{2} (-x^3 + x^2 + 2x)^2 dx = \\frac{464}{105} \\pi \\Rightarrow$m限 thê đúng."
+  },
+  {
+    "bbox": [
+      211,
+      646,
+      958,
+      744
+    ],
+    "category": "Text",
+    "text": "c) Diện tích hình $(H_1)$ là $S_1 = \\int_{-1}^{0} (x^3 - x^2 - 2x) dx = \\frac{5}{12}$"
+  },
+  {
+    "bbox": [
+      211,
+      748,
+      1192,
+      845
+    ],
+    "category": "Text",
+    "text": "Diện tích hình $H_2$ là $S_2 = \\int_{0}^{2} |-x^3 + x^2 + 2x| dx = \\int_{0}^{2} (-x^3 + x^2 + 2x) dx = \\frac{8}{3}$."
+  },
+  {
+    "bbox": [
+      211,
+      852,
+      1069,
+      934
+    ],
+    "category": "Text",
+    "text": "Tổng diện tích của hai hình là $S_1 + S_2 = \\frac{37}{12} \\Rightarrow$m限 thê sai."
+  },
+  {
+    "bbox": [
+      211,
+      939,
+      1146,
+      1021
+    ],
+    "category": "Text",
+    "text": "d) $6S_1 = 6 \\cdot \\frac{5}{12} = \\frac{5}{2}$. Ta thấy $\\frac{8}{3} > \\frac{5}{2}$ nên $S_2 > 6S_1 \\Rightarrow$m限 thê đúng."
+  },
+  {
+    "bbox": [
+      74,
+      1026,
+      1564,
+      1205
+    ],
+    "category": "Text",
+    "text": "Câu 4: Một lớp có 70% học sinh là nữ. Tỉ lệ học sinh đạt học sinh giới trong số học sinh nữ là 35%, tỉ lệ học sinh đạt danh hiệu học sinh good trong số học sinh nam là 60%. Chọn ngẫu nhiên một học sinh của lớp đó. Gọi $A$ là biến cố \"Học sinh được chọn là nữ\" và $B$ là biến cố \"Học sinh được chọn đạt danh hiệu học sinh good\"."
+  },
+  {
+    "bbox": [
+      211,
+      1205,
+      684,
+      1251
+    ],
+    "category": "Text",
+    "text": "a) Xác suất của biến cố $\\bar{A}$ là 0,3."
+  },
+  {
+    "bbox": [
+      211,
+      1251,
+      946,
+      1299
+    ],
+    "category": "Text",
+    "text": "b) Xác suất của biến cố $\\bar{B}$ với điều kiện $A$ là 0,65."
+  },
+  {
+    "bbox": [
+      211,
+      1303,
+      944,
+      1384
+    ],
+    "category": "Text",
+    "text": "c) Xác suất của biến cố $A$ với điều kiện $\\bar{B}$ là $\\frac{91}{100}$."
+  },
+  {
+    "bbox": [
+      211,
+      1389,
+      702,
+      1429
+    ],
+    "category": "Text",
+    "text": "d) Xác suất của biến cố $B$ là 0,49."
+  },
+  {
+    "bbox": [
+      831,
+      1437,
+      951,
+      1478
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1481,
+      450,
+      1523
+    ],
+    "category": "Text",
+    "text": "Ta có sơ đồ cây:"
+  },
+  {
+    "bbox": [
+      502,
+      1539,
+      1274,
+      1960
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      1995,
+      342,
+      2036
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      2038,
+      384,
+      2094
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}) = 0,3.\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2105,
+      345,
+      2146
+    ],
+    "category": "Text",
+    "text": "b) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      2148,
+      428,
+      2205
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{B} | A) = 0,65\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

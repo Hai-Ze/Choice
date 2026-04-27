@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      125,
+      119,
+      255,
+      154
+    ],
+    "category": "List-item",
+    "text": "A. $I = 5$."
+  },
+  {
+    "bbox": [
+      476,
+      119,
+      618,
+      154
+    ],
+    "category": "List-item",
+    "text": "B. $I = 36$."
+  },
+  {
+    "bbox": [
+      826,
+      101,
+      958,
+      178
+    ],
+    "category": "List-item",
+    "text": "C. $I = \\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      119,
+      1313,
+      154
+    ],
+    "category": "List-item",
+    "text": "D. $I = 13$."
+  },
+  {
+    "bbox": [
+      727,
+      204,
+      843,
+      241
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      263,
+      198,
+      300
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      77,
+      319,
+      804,
+      415
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } I = \\int_{0}^{4} f(x)dx = \\int_{0}^{2} f(x)dx + \\int_{2}^{4} f(x)dx = 9 + 4 = 13.\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      437,
+      1494,
+      538
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Thời gian luyện tập trong một ngày (tính theo giờ) của một số vận động viên được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      140,
+      554,
+      1428,
+      686
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian luyện tập (giờ)</td><td>[0; 2)</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10)</td></tr><tr><td>Số vận động viên</td><td>3</td><td>8</td><td>12</td><td>12</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      77,
+      741,
+      1325,
+      786
+    ],
+    "category": "Text",
+    "text": "Hãy tìm khoảng tức phân vị của mẫu số liệu ghép nhóm trên (kết quả làm tròn đến phần trăm)."
+  },
+  {
+    "bbox": [
+      125,
+      805,
+      242,
+      840
+    ],
+    "category": "List-item",
+    "text": "A. 1,23."
+  },
+  {
+    "bbox": [
+      476,
+      805,
+      588,
+      840
+    ],
+    "category": "List-item",
+    "text": "B. 1,63."
+  },
+  {
+    "bbox": [
+      826,
+      805,
+      939,
+      840
+    ],
+    "category": "List-item",
+    "text": "C. 1,83."
+  },
+  {
+    "bbox": [
+      1175,
+      805,
+      1294,
+      840
+    ],
+    "category": "List-item",
+    "text": "D. 1,93."
+  },
+  {
+    "bbox": [
+      727,
+      870,
+      843,
+      907
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      928,
+      198,
+      965
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      77,
+      987,
+      904,
+      1028
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2; \\dots; x_{39}$ là thời gian luyện tập của 39 vận động viên."
+  },
+  {
+    "bbox": [
+      77,
+      1052,
+      1494,
+      1248
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ hai của dãy số liệu $x_1; x_2; \\dots; x_{39}$ là $x_{20} \\in [4; 6)$. Do đó tứ phân vị thứ hai của mẫu số liệu ghép nhóm là $Q_2 = 4 + \\frac{\\frac{2.39}{4} - (3+8)}{12} \\cdot (6-4) = \\frac{65}{12} \\approx 5,417$."
+  },
+  {
+    "bbox": [
+      77,
+      1267,
+      1494,
+      1463
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của dãy số liệu $x_1; x_2; \\dots; x_{39}$ là $x_{10} \\in [2; 4)$. Do đó tứ phân vị thứ nhất của mẫu số liệu ghép nhóm là $Q_1 = 2 + \\frac{\\frac{1.39}{4} - 3}{8} \\cdot (4-2) = \\frac{59}{16} = 3,6875$."
+  },
+  {
+    "bbox": [
+      77,
+      1484,
+      1494,
+      1679
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của dãy số liệu $x_1; x_2; \\dots; x_{39}$ là $x_{30} \\in [6; 8)$. Do đó tứ phân vị thứ ba của mẫu số liệu ghép nhóm là $Q_3 = 6 + \\frac{\\frac{3.39}{4} - (3+8+12)}{12} \\cdot (8-6) = \\frac{169}{24} \\approx 7,042$."
+  },
+  {
+    "bbox": [
+      77,
+      1700,
+      884,
+      1748
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là: $\\Delta_Q \\approx 1,63$"
+  },
+  {
+    "bbox": [
+      77,
+      1775,
+      1494,
+      1947
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Gọi $S$ là diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, trục hoành và hai đường thẳng $x = -3$, $x = 2$ (như hình vẽ bên). Đặt $a = \\int_{-3}^{1} f(x)dx$, $b = \\int_{1}^{2} f(x)dx$. Mind đề nào sau đây là đúng."
+  },
+  {
+    "bbox": [
+      611,
+      1996,
+      976,
+      2239
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      77,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2256,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

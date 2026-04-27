@@ -1,0 +1,71 @@
+[
+  {
+    "bbox": [
+      94,
+      98,
+      1555,
+      245
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Một thùng làm kem có dạng hình tròn xoay, có mặt cắt qua trục là dạng parabol như hình vẽ. Biết phương trình đường biên có dạng $f(x) = a\\sqrt{x}$. Hỏi dung tích của thùng bằng bao nhiêu lít? (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      475,
+      270,
+      1139,
+      606
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      601,
+      1555,
+      689
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một khối lập phương có độ dài cạnh là $2\\text{cm}$ được chia thành 8 khối lập phương cạnh $1\\text{cm}$. Hỏi có bao nhiêu tam giác tạo thành từ các định của các khối lập phương cạnh $1\\text{cm}$?"
+  },
+  {
+    "bbox": [
+      94,
+      684,
+      1555,
+      932
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Sau khi phát hiện một bệnh dịch, các chuyên gia y tế ước tính số người nhiễm bệnh kể từ ngày xuất hiện bệnh nhân đầu tiên đến ngày thứ $t$ là $f(t) = 30t^2 - t^3, t = 0,1,2,\\dots,25$. Nếu coi $f(t)$ là hàm số xác định trên đoạn $[0;25]$ thì đạo hàm $f'(t)$ được xem là tốc độ truyền bệnh (người/ngày) tại thời điểm $t$. Giả sử khoảng thời gian mà tốc độ truyền bệnh giảm là từ ngày thứ $m$ đến ngày thứ $n$. Khi đó $n - m$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      94,
+      928,
+      1555,
+      1141
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Một công ty tiến hành khai離 16 giếng dầu trong khu vực được chỉ định. Trung bình mỗi giếng dầu chiết xuất được 240 thùng dầu mỗi ngày. Công ty có thể khai離 nhiều hơn 16 giếng dầu nhưng cứ khai離 thêm một giếng thì lượng dầu mỗi giếng chiết xuất được hằng ngày sẽ giảm 8 thùng. Để giám đốc công ty có thể quyết định số giếng cần thêm cho phù hợp, hãy chỉ ra số giếng công ty khai離 thêm để sản lượng dầu chiết xuất lớn nhất."
+  },
+  {
+    "bbox": [
+      703,
+      1137,
+      942,
+      1177
+    ],
+    "category": "Text",
+    "text": "------ HẾT ------"
+  },
+  {
+    "bbox": [
+      1232,
+      2208,
+      1555,
+      2252
+    ],
+    "category": "Page-footer",
+    "text": "Trang 4/4 - Mã đề 1002"
+  }
+]

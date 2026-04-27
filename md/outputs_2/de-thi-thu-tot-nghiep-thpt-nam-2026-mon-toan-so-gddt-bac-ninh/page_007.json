@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      142,
+      73,
+      1552,
+      117
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ trục tọa độ $Oxyz$, cho các điểm $A(3; -4; 1)$, $B(1; 1; -1)$ và $C(2; 0; -3)$. Khi đó"
+  },
+  {
+    "bbox": [
+      180,
+      120,
+      849,
+      159
+    ],
+    "category": "Text",
+    "text": "a) Toạ độ trọng tâm của tam giác $ABC$ là $(2; 1; -1)$."
+  },
+  {
+    "bbox": [
+      180,
+      162,
+      1197,
+      205
+    ],
+    "category": "Text",
+    "text": "b) Hình chiếu vuông góc của điểm $A$ lên mặt phẳng $(Oxy)$ có toạ độ là $(0; 0; 1)$."
+  },
+  {
+    "bbox": [
+      180,
+      209,
+      1351,
+      261
+    ],
+    "category": "Text",
+    "text": "c) Biết rằng điểm $I$ thoả mãn điều kiện $\\overrightarrow{IA} + 3\\overrightarrow{IB} - 2\\overrightarrow{IC} = \\vec{0}$. Cao độ của điểm $I$ bằng $2$."
+  },
+  {
+    "bbox": [
+      180,
+      258,
+      1214,
+      299
+    ],
+    "category": "Text",
+    "text": "d) Xét $M$ là điểm thay đổi trên mặt phẳng $(Oxy)$. Giá trị nhỏ nhất của biểu thức"
+  },
+  {
+    "bbox": [
+      147,
+      311,
+      645,
+      386
+    ],
+    "category": "Formula",
+    "text": "$$\nS = MA^2 + 3MB^2 - 2MC^2 \\text{ bằng } \\frac{13}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      142,
+      394,
+      1273,
+      473
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{x + d}$ có bảng biến thiên như hình vẽ dưới đây:"
+  },
+  {
+    "bbox": [
+      532,
+      473,
+      1166,
+      627
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>0</td><td>2</td><td>4</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>0</td><td>+</td><td>+</td><td>0</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$2$</td><td>$+\\infty$</td><td>$-\\infty$</td><td>$-6$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      180,
+      629,
+      830,
+      683
+    ],
+    "category": "Text",
+    "text": "a) Hàm số $y = f(x)$ đồng biến trên khoảng $(0; 4)$."
+  },
+  {
+    "bbox": [
+      180,
+      688,
+      1116,
+      741
+    ],
+    "category": "Text",
+    "text": "b) Tích giá trị cực đại và giá trị cực tiểu của hàm số $y = f(x)$ bằng $-12$."
+  },
+  {
+    "bbox": [
+      180,
+      748,
+      484,
+      784
+    ],
+    "category": "Text",
+    "text": "c) $a + b + c + d = -5$."
+  },
+  {
+    "bbox": [
+      142,
+      786,
+      1526,
+      894
+    ],
+    "category": "Text",
+    "text": "d) Cho điểm $M$ có hoành độ lớn hơn $2$, di chuyển trên đồ thị hàm số $y = f(x)$. Giá trị nhỏ nhất của tổng khoảng cách từ điểm $M$ tới hai trục tọa độ bằng $4 + 4\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      142,
+      890,
+      761,
+      928
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      142,
+      926,
+      1560,
+      1078
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho đa giác đều $36$ cạnh. Chọn ngẫu nhiên $4$ đỉnh trong các đỉnh của đa giác đã cho. Tính xác suất để $4$ đỉnh được chọn tạo thành một tức giác có $2$ góc ở $2$ đỉnh liền kề, chung một cạnh của tức giác là $2$ góc tù (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      142,
+      1100,
+      1560,
+      1454
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một cái ly nước hình trụ có chiều cao $9$ cm đang chứa một lượng nước bằng $\\frac{3}{4}$ thể tích của ly. Bạn A đặt một vật có dạng hình lập phương vào miếng ly thì thấy một đỉnh của vật đó catch vào mặt nước đồng thời đường chéo qua đỉnh này của hình lập phương trùng với trục đối xứng của ly (tham khảo hình vẽ). Nếu ban đầu bạn A đổ nước đầy ly thì sau khi đặt khối lập phương như trên, lượng nước tràn ra là bao nhiêu centimet khối (kết quả làm tròn đến hàng phần chục và bỏ qua độ dày của ly)?"
+  },
+  {
+    "bbox": [
+      1321,
+      1045,
+      1464,
+      1321
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      1464,
+      1560,
+      1619
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một xe ô tô sau khi chờ hết đèn đỏ đã bắt đầu chuyển động. Trong $7$ phút đầu tiên với tốc độ được biểu thị bằng đồ thị là đường cong parabol; biết rằng sau $5$ phút thì xe đạt đến tốc độ cao nhất $900$ m/phút và bắt đầu giảm tốc độ. Sau khi đi được $7$ phút thì xe chuyển động đều (tham khảo hình vẽ). Quăng đường xe đi được sau $10$ phút đầu tiên kể từ khi hết đèn đỏ là bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      677,
+      1651,
+      1162,
+      2016
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      2097,
+      296,
+      2134
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0102"
+  },
+  {
+    "bbox": [
+      1396,
+      2102,
+      1522,
+      2137
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

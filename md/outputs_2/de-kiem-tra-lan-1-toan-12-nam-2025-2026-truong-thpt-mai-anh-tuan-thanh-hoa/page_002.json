@@ -1,0 +1,280 @@
+[
+  {
+    "bbox": [
+      153,
+      75,
+      934,
+      121
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Đường cong ở hình sau là đồ thị của hàm số nào?"
+  },
+  {
+    "bbox": [
+      648,
+      125,
+      1073,
+      498
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      503,
+      383,
+      545
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^2 - 4$."
+  },
+  {
+    "bbox": [
+      556,
+      503,
+      761,
+      545
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x^2 - 4$."
+  },
+  {
+    "bbox": [
+      921,
+      503,
+      1105,
+      545
+    ],
+    "category": "List-item",
+    "text": "C. $y = x^3 - 4$."
+  },
+  {
+    "bbox": [
+      1284,
+      503,
+      1564,
+      545
+    ],
+    "category": "List-item",
+    "text": "D. $y = -x^3 + 3x^2 - 4$."
+  },
+  {
+    "bbox": [
+      153,
+      555,
+      1527,
+      635
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong một lớp học có 15 học sinh nam và 10 học sinh nữ. Giáo viên gọi 4 học sinh lên bảng làm bài tập. Tính xác suất để 4 học sinh lên bảng có cả nam và nữ."
+  },
+  {
+    "bbox": [
+      192,
+      637,
+      305,
+      715
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{443}{506}$."
+  },
+  {
+    "bbox": [
+      556,
+      637,
+      671,
+      715
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{400}{501}$."
+  },
+  {
+    "bbox": [
+      921,
+      637,
+      1036,
+      715
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{443}{501}$."
+  },
+  {
+    "bbox": [
+      1284,
+      637,
+      1399,
+      715
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{307}{506}$."
+  },
+  {
+    "bbox": [
+      153,
+      719,
+      1573,
+      796
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      153,
+      800,
+      928,
+      847
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = 2\\cos x - x + \\pi + 2026$."
+  },
+  {
+    "bbox": [
+      153,
+      847,
+      415,
+      892
+    ],
+    "category": "Formula",
+    "text": "a) $f(\\pi) = 2024$."
+  },
+  {
+    "bbox": [
+      153,
+      890,
+      854,
+      932
+    ],
+    "category": "Formula",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 2\\sin x - 1$."
+  },
+  {
+    "bbox": [
+      153,
+      938,
+      1042,
+      1027
+    ],
+    "category": "Formula",
+    "text": "c) Số nghiệm của phương trình $f'(x) = 0$ trên đoạn $\\left[\\frac{-\\pi}{2}; \\frac{\\pi}{2}\\right]$ là 2."
+  },
+  {
+    "bbox": [
+      153,
+      1033,
+      1026,
+      1122
+    ],
+    "category": "Formula",
+    "text": "d) Giá trị nhỏ nhất của $f(x)$ trên đoạn $\\left[\\frac{-\\pi}{2}; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{2} + 2026$."
+  },
+  {
+    "bbox": [
+      153,
+      1122,
+      1550,
+      1205
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Kết quả điều tra về số giờ làm thêm trong một tuần của sinh viên một trường đại học X được cho bởi bảng sau:"
+  },
+  {
+    "bbox": [
+      163,
+      1207,
+      1333,
+      1314
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số giờ làm thêm</td><td>[2; 4)</td><td>[4; 6)</td><td>[6; 8)</td><td>[8; 10)</td><td>[10; 12)</td></tr><tr><td>Số sinh viên</td><td>12</td><td>20</td><td>37</td><td>21</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1322,
+      612,
+      1364
+    ],
+    "category": "Text",
+    "text": "a) Mốt của mẫu số liệu trên là 7,5."
+  },
+  {
+    "bbox": [
+      153,
+      1362,
+      1247,
+      1404
+    ],
+    "category": "Text",
+    "text": "b) Số giờ làm thêm trung bình của mỗi sinh viên trường đại học X không ít hơn 6."
+  },
+  {
+    "bbox": [
+      153,
+      1402,
+      638,
+      1442
+    ],
+    "category": "Text",
+    "text": "c) Số sinh viên được điều tra là 100."
+  },
+  {
+    "bbox": [
+      153,
+      1440,
+      816,
+      1482
+    ],
+    "category": "Text",
+    "text": "d) Tứ phân vị thứ hai của dãy số liệu lớn hơn 6,5."
+  },
+  {
+    "bbox": [
+      153,
+      1476,
+      1575,
+      1748
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Xét hai chiếc khinh khí cầu bay lên từ cùng một điểm trong cùng một ngày. Lúc 9 giờ sáng, chiếc thứ nhất đang ở vị trí A cách điểm xuất phát 2 km về phía nam và 1 km về phía đông, đồng thời cách mặt đất 0,5 km. Chiếc thứ hai đang ở vị trí B nằm cách điểm xuất phát 1 km về phía bắc và 1,5 km về phía Tây đồng thời cách mặt đất 0,8 km. Chọn hệ trục tọa độ $Oxyz$ với gốc O đặt tại điểm xuất phát của hai khinh khí cầu, mặt phẳng $(Oxy)$ trùng với mặt đất, trục $Ox$ hướng về phía nam, trục $Oy$ hướng về phía đông và trục $Oz$ hướng thẳng đứng lên trời (như hình vẽ). Lấy đơn vị đo trên mỗi trục là km."
+  },
+  {
+    "bbox": [
+      652,
+      1752,
+      1123,
+      2140
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2152,
+      1082,
+      2198
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ của khinh khí cầu thứ nhất lúc 9 giờ sáng là $A(2; 1; 0,5)$."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      296,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 311"
+  },
+  {
+    "bbox": [
+      1439,
+      2236,
+      1573,
+      2273
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

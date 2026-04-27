@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      162,
+      100,
+      599,
+      146
+    ],
+    "category": "Formula",
+    "text": "$$\nv_2(t) = 0 \\Leftrightarrow -5t + 30 = 0 \\Leftrightarrow t = 6\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      166,
+      1531,
+      300
+    ],
+    "category": "Text",
+    "text": "Quăng đường $S$ (đơn vị: mét) mà ô tô chuyển động được kể từ lúc bắt đầu đạp phanh đến khi止止 lại khi xe止止 hắn tức là $S = \\int_{0}^{6} (30 - 5t)dt$"
+  },
+  {
+    "bbox": [
+      155,
+      322,
+      1117,
+      374
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc của ô tô tại thời điểm bắt đầu đạp phanh là $v_1(6) = 30(m/s)$"
+  },
+  {
+    "bbox": [
+      155,
+      396,
+      1079,
+      456
+    ],
+    "category": "Text",
+    "text": "Vận tốc của chuyển động sau khi phanh là $v_2(t) = \\int (-5)dx = -5t + C$"
+  },
+  {
+    "bbox": [
+      155,
+      481,
+      745,
+      529
+    ],
+    "category": "Text",
+    "text": "Do $v_2(0) = 30 \\Rightarrow C = 30 \\Rightarrow v_2(t) = -5t + 30$"
+  },
+  {
+    "bbox": [
+      155,
+      555,
+      917,
+      603
+    ],
+    "category": "Text",
+    "text": "Khi xe止止 hắn tức là $v_2(t) = 0 \\Leftrightarrow -5t + 30 = 0 \\Leftrightarrow t = 6$"
+  },
+  {
+    "bbox": [
+      155,
+      629,
+      1328,
+      678
+    ],
+    "category": "Text",
+    "text": "Quăng đường $S(m)$ đi được của ô tô kể từ lúc bắt đầu chuyển động đến khi止止 lại là"
+  },
+  {
+    "bbox": [
+      162,
+      705,
+      681,
+      802
+    ],
+    "category": "Formula",
+    "text": "$$\nS(m) = \\int_{0}^{6} 5tdt + \\int_{0}^{6} (-5t + 30)dt = 180(m)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      820,
+      1575,
+      983
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một túi chứa ba đồng xu công bằng (tức đồng xu có đủ hai mặt sấp ngửa) và một đồng xu có hai mặt ngửa. Một đồng xu được chọn ngẫu nhiên từ túi và được gieo để xem mặt hiện ra là ngửa hay sấp."
+  },
+  {
+    "bbox": [
+      155,
+      1003,
+      1134,
+      1084
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để đồng xu fair coin được chọn và mặt sấp xuất hiện bằng $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      155,
+      1109,
+      692,
+      1189
+    ],
+    "category": "Text",
+    "text": "b) Xác suất xuất hiện mặt ngửa bằng $\\frac{5}{8}$."
+  },
+  {
+    "bbox": [
+      155,
+      1214,
+      1377,
+      1295
+    ],
+    "category": "Text",
+    "text": "c) Nếu biết mặt ngửa đã xuất hiện, xác suất đồng xu có hai mặt ngửa đã được chọn bằng $\\frac{3}{5}$."
+  },
+  {
+    "bbox": [
+      155,
+      1311,
+      1575,
+      1459
+    ],
+    "category": "Text",
+    "text": "d) Nếu gieo đồng xu lần đầu xuất hiện mặt ngửa, xác suất để khi gieo đồng xu đó lần thứ hai vẫn xuất hiện mặt ngửa bằng $\\frac{7}{10}$."
+  },
+  {
+    "bbox": [
+      807,
+      1482,
+      924,
+      1521
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1535,
+      972,
+      1658
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1662,
+      1207,
+      1743
+    ],
+    "category": "Text",
+    "text": "a) Gọi biến cố A: “Chọn được một đồng xu fair coin” $\\Rightarrow P(A) = \\frac{3}{4}, P(\\bar{A}) = \\frac{1}{4}$"
+  },
+  {
+    "bbox": [
+      155,
+      1767,
+      1227,
+      1848
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố B: “Gieo đồng xu xuất hiện mặt sấp” $\\Rightarrow P(B|A) = \\frac{1}{2}, P(B|\\bar{A}) = 0$"
+  },
+  {
+    "bbox": [
+      155,
+      1864,
+      1057,
+      1911
+    ],
+    "category": "Text",
+    "text": "Xác suất để đồng xu fair coin được chọn và mặt sấp xuất hiện bằng"
+  },
+  {
+    "bbox": [
+      162,
+      1931,
+      658,
+      2013
+    ],
+    "category": "Formula",
+    "text": "$$\nP(AB) = P(A) \\cdot P(B|A) = \\frac{3}{4} \\cdot \\frac{1}{2} = \\frac{3}{8}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2037,
+      688,
+      2118
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\Rightarrow P(\\bar{B}|A) = \\frac{1}{2}, P(\\bar{B}|\\bar{A}) = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "bbox": [
+      235,
+      132,
+      469,
+      209
+    ],
+    "category": "List-item",
+    "text": "nhau lớn hơn $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      188,
+      216,
+      1546,
+      375
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng cả 8 học sinh trong Câu lạc bộ Toán học đều có điểm thi không dưới 8. Chọn ngẫu nhiên 6 học sinh trong lớp có điểm thi lớn hơn hoặc bằng 8. Xác suất có đúng 2 em của Câu lạc bộ Toán học được chọn nhỏ hơn $\\frac{1}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      386,
+      199,
+      426
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      386,
+      623,
+      448
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      463,
+      1546,
+      548
+    ],
+    "category": "Text",
+    "text": "Đối với mẫu số liệu ghép nhóm, khoảng biến thiên $R$ là hiệu số giữa đầu mút phải của nhóm cuối cùng và đầu mút trái của nhóm đầu tiên."
+  },
+  {
+    "bbox": [
+      203,
+      571,
+      530,
+      607
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } R = 10 - 5 = 5.\n$$"
+  },
+  {
+    "bbox": [
+      215,
+      632,
+      364,
+      672
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      692,
+      1505,
+      733
+    ],
+    "category": "Text",
+    "text": "Giá trị đại diện của các nhóm lần lượt là: $x_1 = 5,5$; $x_2 = 6,5$; $x_3 = 7,5$; $x_4 = 8,5$; $x_5 = 9,5$."
+  },
+  {
+    "bbox": [
+      203,
+      752,
+      644,
+      793
+    ],
+    "category": "Text",
+    "text": "Điểm trung bình của cả lớp là:"
+  },
+  {
+    "bbox": [
+      400,
+      850,
+      1298,
+      930
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{2 \\cdot 5,5 + 3 \\cdot 6,5 + 8 \\cdot 7,5 + 15 \\cdot 8,5 + 12 \\cdot 9,5}{40} = \\frac{332}{40} = 8,3.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      945,
+      1546,
+      1030
+    ],
+    "category": "Text",
+    "text": "Số học sinh có điểm thấp hơn trung bình (nhỏ hơn 8,3) chắc chắn bao gồm toàn bộ học sinh của 3 nhóm đầu: $2 + 3 + 8 = 13$ (em)."
+  },
+  {
+    "bbox": [
+      154,
+      1049,
+      1546,
+      1134
+    ],
+    "category": "Text",
+    "text": "Ngoài ra còn có thể có thêm các học sinh trong nhóm $[8; 9)$ có điểm từ 8 đến dưới 8,3. Vì vậy có ít nhất 13 học sinh."
+  },
+  {
+    "bbox": [
+      215,
+      1159,
+      359,
+      1198
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      1217,
+      720,
+      1258
+    ],
+    "category": "Text",
+    "text": "Số cách xếp 8 học sinh là $n(\\Omega) = 8!$."
+  },
+  {
+    "bbox": [
+      154,
+      1277,
+      1546,
+      1366
+    ],
+    "category": "Text",
+    "text": "Để không có hai học sinh nữ cạnh nhau, ta xếp 5 nam trước ($5!$ cách), sau đó xếp 3 nữ vào 6 khoảng trống giữa các nam (có $A_6^3$ cách)."
+  },
+  {
+    "bbox": [
+      203,
+      1376,
+      640,
+      1460
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất là: } P = \\frac{5! \\cdot A_6^3}{8!} = \\frac{5}{14}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1467,
+      925,
+      1546
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\frac{5}{14} \\approx 0,357 > 0,333 \\approx \\frac{1}{3} \\text{ nên khẳng định đúng.}\n$$"
+  },
+  {
+    "bbox": [
+      215,
+      1555,
+      324,
+      1594
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      203,
+      1613,
+      918,
+      1654
+    ],
+    "category": "Text",
+    "text": "Số học sinh có điểm thi $\\ge 8$ là $15 + 12 = 27$ (em)."
+  },
+  {
+    "bbox": [
+      203,
+      1677,
+      1307,
+      1716
+    ],
+    "category": "Text",
+    "text": "Trong 27 em này có 8 em thuộc CLB Toán và 19 em không thuộc CLB Toán."
+  },
+  {
+    "bbox": [
+      203,
+      1735,
+      856,
+      1781
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 6 em từ 27 em là $C_{27}^6 = 296\\,010$."
+  },
+  {
+    "bbox": [
+      203,
+      1796,
+      1403,
+      1842
+    ],
+    "category": "Text",
+    "text": "Số cách chọn 6 em có đúng 2 em thuộc CLB Toán là $C_8^2 \\cdot C_{19}^4 = 28 \\cdot 3\\,876 = 108\\,528$."
+  },
+  {
+    "bbox": [
+      203,
+      1851,
+      712,
+      1930
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất là: } P = \\frac{108\\,528}{296\\,010} \\approx 0,3666.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1937,
+      1163,
+      2016
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } 0,3666 > \\frac{1}{3} \\approx 0,3333 \\text{ nên khẳng định xác suất nhỏ hơn } \\frac{1}{3} \\text{ là sai.}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2026,
+      1546,
+      2112
+    ],
+    "category": "Text",
+    "text": "Bài 4. Cho hai hàm số $f(x) = 2 \\sin x - 1$, $g(x) = \\sqrt{2} \\cos (x - \\frac{\\pi}{4})$. Xét tính đúng sai của các thought after this."
+  },
+  {
+    "bbox": [
+      154,
+      2026,
+      191,
+      2068
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      2135,
+      893,
+      2182
+    ],
+    "category": "Formula",
+    "text": "a) Phương trình $f(x) = 0 \\Leftrightarrow x = \\frac{\\pi}{6} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "56"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

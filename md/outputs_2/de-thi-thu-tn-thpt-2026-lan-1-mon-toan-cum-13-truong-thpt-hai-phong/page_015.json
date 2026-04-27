@@ -1,0 +1,130 @@
+[
+  {
+    "bbox": [
+      566,
+      112,
+      1224,
+      545
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      98,
+      565,
+      813,
+      614
+    ],
+    "category": "Text",
+    "text": "Gọi tọa độ điểm $S$ là $S(a;b;c)$. Hãy tính $a-b+c$."
+  },
+  {
+    "bbox": [
+      836,
+      651,
+      950,
+      688
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      700,
+      261,
+      745
+    ],
+    "category": "Text",
+    "text": "Đáp số: 4,5"
+  },
+  {
+    "bbox": [
+      600,
+      750,
+      1193,
+      1137
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      98,
+      1172,
+      1519,
+      1325
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là hình chiếu vuông góc của điểm $S$ lên mặt phẳng $(OMNK)$. Dễ thấy $I$ là tâm của hình chữ nhật $OMNK$. Do đó tọa độ của điểm $I$ là $I(4,5;6;0)$. Suy ra tọa độ của điểm $S$ là $S(4,5;6;6)$. Do đó $a-b+c = 4,5$."
+  },
+  {
+    "bbox": [
+      98,
+      1343,
+      1552,
+      1814
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Để hạn chế vi phạm thời gian làm việc đối với công nhân, giám đốc công ty quyết định xử lý bằng cách phạm tiền. Nhờ sự giám sát chặt chẽ của quản đốc, giám đốc công ty biết được trong một tháng, giữa tỉ lệ công nhân vi phạm đúng $k$ lần ($1 \\le k \\le 2$) là $t_k = \\frac{N_k}{N}$ (trong đó $N_k$ là số công nhân vi phạm đúng $k$ lần, $N$ là tổng số công nhân) và mức phạm mỗi lần vi phạm có mối liên hệ như sau: Nếu mỗi công nhân nộp phạm $x$ nghìn đồng ($60 \\le x \\le 300$) khi vi phạm lần thứ nhất và nộp phạm $x-20$ nghìn đồng khi vi phạm lần thứ hai thì $t_1 = \\frac{36}{x+10}$ và $t_2 = \\frac{4}{x-30}$ (không có công nhân nào vi phạm quá hai lần). Biết rằng $N$ không đổi và bằng 2400. Tổng số tiền nộp phạm trong một tháng ít nhất là bao nhiêu triệu đồng? (kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      767,
+      1822,
+      881,
+      1859
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1882,
+      269,
+      1916
+    ],
+    "category": "Text",
+    "text": "Trả lời: 103"
+  },
+  {
+    "bbox": [
+      98,
+      1933,
+      522,
+      1977
+    ],
+    "category": "Text",
+    "text": "Tổng số công nhân: $N = 2400$."
+  },
+  {
+    "bbox": [
+      98,
+      1995,
+      1199,
+      2077
+    ],
+    "category": "Text",
+    "text": "Số công nhân vi phạm đúng 1 lần: $N_1$, tỉ lệ $t_1 = \\frac{N_1}{N} = \\frac{36}{x+10} \\Rightarrow N_1 = 2400 \\cdot \\frac{36}{x+10}$."
+  },
+  {
+    "bbox": [
+      98,
+      2097,
+      1174,
+      2180
+    ],
+    "category": "Text",
+    "text": "Số công nhân vi phạm đúng 2 lần: $N_2$, tỉ lệ $t_2 = \\frac{N_2}{N} = \\frac{4}{x-30} \\Rightarrow N_2 = 2400 \\cdot \\frac{4}{x-30}$."
+  },
+  {
+    "bbox": [
+      98,
+      2196,
+      689,
+      2239
+    ],
+    "category": "Text",
+    "text": "Không có công nhân nào vi phạm quá 2 lần."
+  }
+]

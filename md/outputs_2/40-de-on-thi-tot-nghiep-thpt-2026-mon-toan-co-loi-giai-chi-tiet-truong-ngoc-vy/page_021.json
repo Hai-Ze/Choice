@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      661,
+      118,
+      1070,
+      565
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      592,
+      881,
+      638
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$ có gốc tọa độ tại $B(0,0,0)$."
+  },
+  {
+    "bbox": [
+      156,
+      661,
+      1119,
+      701
+    ],
+    "category": "Text",
+    "text": "Trục $Ox$ chứa cạnh $BC$; $Oy$ chứa cạnh $BA$; Trục $Oz$ chứa cạnh $BB'$."
+  },
+  {
+    "bbox": [
+      156,
+      722,
+      1186,
+      773
+    ],
+    "category": "Text",
+    "text": "Tọa độ các điểm: $B(0;0;0)$; $C(2;0;0)$; $M(1;0;0)$; $A(0;\\sqrt{3};0)$; $B'(0;0;\\sqrt{2})$."
+  },
+  {
+    "bbox": [
+      156,
+      795,
+      737,
+      845
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overline{AM} = (1; -\\sqrt{3};0)$; $\\overline{B'C} = (2;0; -\\sqrt{2})$"
+  },
+  {
+    "bbox": [
+      156,
+      866,
+      1310,
+      919
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P)$ chứa $B'C$ song song $AM$ qua $C$ nhận $\\vec{n} = [\\overline{B'C}, \\overline{AM}] = (\\sqrt{6};\\sqrt{2};2\\sqrt{3})$"
+  },
+  {
+    "bbox": [
+      161,
+      937,
+      625,
+      989
+    ],
+    "category": "Formula",
+    "text": "$$\n(P): \\sqrt{6}x + \\sqrt{2}y + 2\\sqrt{3}z - 2\\sqrt{6} = 0\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1010,
+      828,
+      1054
+    ],
+    "category": "Text",
+    "text": "Khoảng cách giữa hai đường thẳng $AM$ và $B'C$:"
+  },
+  {
+    "bbox": [
+      161,
+      1072,
+      947,
+      1169
+    ],
+    "category": "Formula",
+    "text": "$$\nd(AM, B'C) = d(M, (P)) = \\frac{|-\\sqrt{6}|}{2\\sqrt{5}} = \\frac{\\sqrt{6}}{2\\sqrt{5}} \\approx 0,5577 \\approx 0,56.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1188,
+      1574,
+      1414
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Hai bạn $A$ và $B$ tranh chức vô dịch trong một cuộc thi cờ tướng. Khi chơi 1 ván cờ, xác suất thẳng của $A$ là 0,55 và của $B$ là 0,45. Mỗi ván cờ không có hòa cờ. Người胜hành chiến thẳng là người đầu tiên thẳng được 5 ván cờ. Tại thời điểm bạn $A$ đã thẳng 4 ván và bạn $B$ mới thẳng 2 ván thì xác suất để $A$勝hành chiến thẳng bằng bao nhiêu? (Kết quả làm tròn đến hang phần trăm)."
+  },
+  {
+    "bbox": [
+      156,
+      1430,
+      493,
+      1467
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1491,
+      924,
+      1528
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1547,
+      345,
+      1586
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,91"
+  },
+  {
+    "bbox": [
+      156,
+      1605,
+      1572,
+      1709
+    ],
+    "category": "Text",
+    "text": "Do tổng xác suất thẳng cờ của $A$ và $B$ trong một ván bằng 1 nên khi $A$ thẳng đồng nghĩa với việc $B$ thua, $A$ thua đồng nghĩa với việc $B$ thẳng."
+  },
+  {
+    "bbox": [
+      156,
+      1727,
+      1374,
+      1852
+    ],
+    "category": "Text",
+    "text": "Gọi $X$ là biến cố: “$A$ là người chiến thẳng” $\\Rightarrow \\overline{X}$ là biến cố: “$B$ là người chiến thẳng”\n$B$ là người chiến thẳng khi $B$ thẳng liên tiếp 3 ván, xác suất $P(\\overline{X}) = 0,45^3$."
+  },
+  {
+    "bbox": [
+      156,
+      1881,
+      1012,
+      1939
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất xảy ra $X$ là: $P(X) = 1 - P(\\overline{X}) = 1 - 0,45^3 = 0,91$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 21"
+  }
+]

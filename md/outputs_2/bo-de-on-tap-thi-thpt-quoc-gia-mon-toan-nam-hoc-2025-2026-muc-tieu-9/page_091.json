@@ -1,0 +1,119 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      242,
+      181
+    ],
+    "category": "Text",
+    "text": "chục)."
+  },
+  {
+    "bbox": [
+      537,
+      194,
+      1150,
+      810
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      842,
+      199,
+      880
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      842,
+      445,
+      905
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      154,
+      919,
+      1548,
+      1050
+    ],
+    "category": "Text",
+    "text": "**Lưu ý:** Ta sử dụng công thức của bổ đề sau: Cho một đường cong ($L$) có phương trình trong hệ tọa độ cực là $r = r(\\theta)$, với $\\alpha \\le \\theta \\le \\beta$. Tính diện tích $S$ của hình phẳng giới hạn bởi đường cong ($L$) và hai tia $\\theta = \\alpha, \\theta = \\beta$:"
+  },
+  {
+    "bbox": [
+      715,
+      1058,
+      981,
+      1150
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{\\alpha}^{\\beta} \\frac{1}{2} [r(\\theta)]^2 d\\theta\n$$"
+  },
+  {
+    "bbox": [
+      456,
+      1162,
+      1234,
+      1856
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1890,
+      1294,
+      1940
+    ],
+    "category": "Text",
+    "text": "Gán hệ trục tọa độ như hình vẽ. Ta dễ dàng tìm được ($P$) : $y = -\\frac{1}{40}x^2 + 10$."
+  },
+  {
+    "bbox": [
+      202,
+      1946,
+      966,
+      2002
+    ],
+    "category": "Text",
+    "text": "Diện tích hồ bơi là: $S_b = 2 \\int_{0}^{20} \\left(-\\frac{1}{40}x^2 + 10\\right) dx = \\frac{800}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      2014,
+      1545,
+      2215
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc tạo bởi tia $Ot$ và trục $Ox$. Lúc đó: $M(OM \\cos \\alpha; OM \\sin \\alpha)$. Vì $M \\in (P) \\Rightarrow OM \\sin \\alpha = -\\frac{1}{40}(OM \\cos \\alpha)^2 + 10$. $\\Rightarrow OM^2(\\cos \\alpha)^2 + 40OM \\sin \\alpha - 400 = 0 \\Leftrightarrow \\begin{cases} OM = \\frac{-20 \\sin \\alpha - 20}{(\\cos \\alpha)^2} \\\\ OM = \\frac{-20 \\sin \\alpha + 20}{(\\cos \\alpha)^2} \\end{cases}$\nTa chọn $OM = \\frac{20 - 20 \\sin \\alpha}{(\\cos \\alpha)^2} = \\frac{20}{1 + \\sin \\alpha}$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1585,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "91"
+  }
+]

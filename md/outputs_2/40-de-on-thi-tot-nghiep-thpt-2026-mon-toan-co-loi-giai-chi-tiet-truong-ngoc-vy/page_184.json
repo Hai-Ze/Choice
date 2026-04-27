@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      78,
+      97,
+      1042,
+      200
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} 2x - 40^{\\circ} = 60^{\\circ} + k360^{\\circ} \\\\ 2x - 40^{\\circ} = 120^{\\circ} + k360^{\\circ} \\end{cases} \\Leftrightarrow \\begin{cases} 2x = 100^{\\circ} + k360^{\\circ} \\\\ 2x = 160^{\\circ} + k360^{\\circ} \\end{cases} \\Leftrightarrow \\begin{cases} x = 50^{\\circ} + k180^{\\circ} \\\\ x = 80^{\\circ} + k180^{\\circ} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      226,
+      478,
+      265
+    ],
+    "category": "Text",
+    "text": "Với $k = 0$ thì $x = 50^{\\circ}, x = 80^{\\circ}$"
+  },
+  {
+    "bbox": [
+      76,
+      296,
+      579,
+      335
+    ],
+    "category": "Text",
+    "text": "Với $k = -1$ thì $x = -130^{\\circ}, x = -100^{\\circ}$."
+  },
+  {
+    "bbox": [
+      76,
+      362,
+      649,
+      416
+    ],
+    "category": "Text",
+    "text": "Vậy có 4 nghiệm thuộc $(-180^{\\circ}; 180^{\\circ})$ là 4"
+  },
+  {
+    "bbox": [
+      76,
+      445,
+      1088,
+      512
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Nếu $\\int_{1}^{4} f(x)dx = 3$ và $\\int_{1}^{4} g(x)dx = -2$ thì $\\int_{1}^{4} (f(x) - g(x))dx$ bằng"
+  },
+  {
+    "bbox": [
+      115,
+      534,
+      210,
+      569
+    ],
+    "category": "List-item",
+    "text": "A. -1."
+  },
+  {
+    "bbox": [
+      470,
+      534,
+      565,
+      569
+    ],
+    "category": "List-item",
+    "text": "B. -5."
+  },
+  {
+    "bbox": [
+      785,
+      534,
+      860,
+      569
+    ],
+    "category": "List-item",
+    "text": "C. 5."
+  },
+  {
+    "bbox": [
+      1175,
+      534,
+      1250,
+      569
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      727,
+      593,
+      843,
+      632
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      652,
+      199,
+      691
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      707,
+      895,
+      757
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int_{1}^{4} [f(x) - g(x)]dx = \\int_{1}^{4} f(x)dx - \\int_{1}^{4} g(x)dx = 3 - (-2) = 5$."
+  },
+  {
+    "bbox": [
+      76,
+      777,
+      1446,
+      822
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Thời gian (phút) truy cập Internet mỗi buổi tối của một số học sinh được cho trong bảng sau:"
+  },
+  {
+    "bbox": [
+      131,
+      836,
+      1439,
+      968
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[9,5;12,5)</td><td>[12,5;15,5)</td><td>[15,5;18,5)</td><td>[18,5;21,5)</td><td>[21,5;24,5)</td></tr><tr><td>Số học sinh</td><td>3</td><td>12</td><td>15</td><td>24</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1022,
+      737,
+      1068
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      125,
+      1084,
+      254,
+      1121
+    ],
+    "category": "List-item",
+    "text": "A. 10,75."
+  },
+  {
+    "bbox": [
+      476,
+      1084,
+      584,
+      1121
+    ],
+    "category": "List-item",
+    "text": "B. 4,75."
+  },
+  {
+    "bbox": [
+      826,
+      1084,
+      934,
+      1121
+    ],
+    "category": "List-item",
+    "text": "C. 4,63."
+  },
+  {
+    "bbox": [
+      1177,
+      1084,
+      1288,
+      1121
+    ],
+    "category": "List-item",
+    "text": "D. 4,38."
+  },
+  {
+    "bbox": [
+      727,
+      1143,
+      843,
+      1182
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1202,
+      197,
+      1241
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1255,
+      328,
+      1294
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu là $n = 56$."
+  },
+  {
+    "bbox": [
+      76,
+      1323,
+      1493,
+      1468
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất $Q_1$ là $\\frac{x_{14} + x_{15}}{2}$. Do $x_{14}, x_{15}$ đều thuộc nhóm $[12,5;15,5)$ nên nhóm này chứa $Q_1$. Do đó, $p = 2; a_2 = 12,5; m_2 = 12; m_1 = 3, a_3 - a_2 = 3$ và ta có"
+  },
+  {
+    "bbox": [
+      80,
+      1497,
+      463,
+      1616
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 12,5 + \\frac{\\frac{56}{2} - 3}{12} \\cdot 3 = 15,25\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1643,
+      1493,
+      1722
+    ],
+    "category": "Text",
+    "text": "Với tứ phân vị thứ ba $Q_3$ là $\\frac{x_{42} + x_{43}}{2}$. Do $x_{42}, x_{43}$ đều thuộc nhóm $[18,5;21,5)$ nên nhóm này chứa $Q_3$."
+  },
+  {
+    "bbox": [
+      76,
+      1745,
+      1493,
+      1788
+    ],
+    "category": "Text",
+    "text": "Do đó, $p = 4; a_4 = 18,5; m_4 = 24; m_1 + m_2 + m_3 = 3 + 12 + 15 = 30; a_5 - a_4 = 3$ và ta có"
+  },
+  {
+    "bbox": [
+      80,
+      1817,
+      472,
+      1936
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 18,5 + \\frac{\\frac{3 \\cdot 56}{2} - 30}{24} \\cdot 3 = 20.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1955,
+      1020,
+      2004
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là: $\\Delta_Q = Q_3 - Q_1 = 4,75$"
+  },
+  {
+    "bbox": [
+      76,
+      2086,
+      1092,
+      2127
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

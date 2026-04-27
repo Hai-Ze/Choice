@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Phần 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      304,
+      1455,
+      625
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Bạn An làmđèn lồng bằng cách dùng một sợi dây đồng dài 28 dm cắt thành ba đoạn để uốn làm khungđèn. Đoạn thứ nhất uốn thành hình vuông $ABCD$ có cạnh bằng $x$ (dm) để làm đáy, hai đoạn còn lại có độ dài bằng nhau uốn thành các đường gấp khúc $ASC$ và $BSD$. Khungđèn sau khi hoàn thiện có hình dạng là một hình chóp tức giác đều $S.ABCD$ và bề mặt ngoài củađèn được dán giấy màu để trang trí, không dán mặt đáy (xem các mối nối, dán là không đáng kể)."
+  },
+  {
+    "bbox": [
+      222,
+      631,
+      1237,
+      678
+    ],
+    "category": "List-item",
+    "text": "a) độ dài cạnh bên của khungđèn bằng $(7 - x)$ dm với $0 < x < 7$."
+  },
+  {
+    "bbox": [
+      222,
+      688,
+      1115,
+      732
+    ],
+    "category": "List-item",
+    "text": "b) Khi $x = 4$ thì độ dài đường cao của khungđèn là 1 dm."
+  },
+  {
+    "bbox": [
+      222,
+      734,
+      1342,
+      786
+    ],
+    "category": "List-item",
+    "text": "c) Khi các cạnh bằng nhau thì diện tích giấy màu cần dùng là $14\\sqrt{3}$ $dm^2$."
+  },
+  {
+    "bbox": [
+      222,
+      792,
+      1268,
+      841
+    ],
+    "category": "List-item",
+    "text": "d) thể tích phần không gian củađèn lồng lớn nhất khi $x \\approx 3,25$ dm."
+  },
+  {
+    "bbox": [
+      192,
+      865,
+      1455,
+      1565
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Ngày nay, nhờ vào hệ thống định vị toàn cầu GPS (Global Positioning System), việc di chuyển của con người hết sức thuận lợi dù bằng đường bộ, đường sixth hay đường hàng không hay đường biển. Nếu có thiết bị bắt sóng GPS, bạn luôn có thể kết nối được đến bốn vệ tinh GPS dù ở bất kìdotrên Trái Đất. Khi thiết bị của bạn biết khoảng từ ít nhất ba vệ tinh đến nó, máy sẽ tính toán ra vị trí hiện tại của bạn bằng một quy trình gọi là Trolateration. Cho biết trái đất có dạng hình cầu bán kính bằng $\\sqrt{41} \\cdot 10^3$ km. Bạn An đang đứng trên mặt đất. Có ba vệ tinh báo về máy chủ tiếp nhận thông tin rằng vệ tinh thứ nhất đang cách An $3 \\cdot 10^3$ km, vệ tinh thứ hai đang cách An $5 \\cdot 10^3$ km, vệ tinh thứ ba đang cách An $4 \\cdot 10^3$ km. Chọn hệ trục tọa độ $Oxyz$ với $O$ là tâm trái đất và đơn vị độ dài trên mỗi trục là $10^3$ km. Tại thời điểm vệ tinh thông báo về máy chủ thì tọa độ của các vệ tinh lần lượt là $I_1$ (4; 4; 6), $I_2$ (4; 9; 3) và $I_3$ (8; 4; 3). Xem vị trí An là điểm $A$ và An cần di chuyển thẳng đến nhà Bình là điểm $B$ (4; 4; 3,01) với tốc độ không đổi 20 km/h."
+  },
+  {
+    "bbox": [
+      222,
+      1567,
+      1215,
+      1619
+    ],
+    "category": "List-item",
+    "text": "a) điểm $A$ đang nằm trên mặt cầu tâm $O$ bán kính $\\sqrt{41} \\cdot 10^3$ km."
+  },
+  {
+    "bbox": [
+      222,
+      1625,
+      1448,
+      1728
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình mặt cầu mô tả ranh giới bên trong và bên ngoài Trái Đất là $x^2 + y^2 + z^2 = \\sqrt{41}$."
+  },
+  {
+    "bbox": [
+      222,
+      1730,
+      1448,
+      1832
+    ],
+    "category": "List-item",
+    "text": "c) điểm $A$ chính là giao điểm của bốn mặt cầu: Trái Đất và ba mặt cầu tâm lần lượt là $I_1, I_2, I_3$ có bán kính lần lượt là khoảng cách từ các vệ tinh đến An."
+  },
+  {
+    "bbox": [
+      222,
+      1842,
+      895,
+      1890
+    ],
+    "category": "List-item",
+    "text": "d) thời gian An đi đến nhà Bình là 30 phút."
+  },
+  {
+    "bbox": [
+      192,
+      1915,
+      1455,
+      2072
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một集合 chứa các viên bi có kích thước và khối lượng như nhau gồm 5 bi trắng, 6 bi đỏ và 7 bi xanh. Chọn ngẫu nhiên 6 viên bi từ集合; trong đó có $x$ viên bi trắng, $y$ viên bi đỏ và $z$ viên bi xanh."
+  },
+  {
+    "bbox": [
+      222,
+      2078,
+      1448,
+      2204
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được 6 viên bi đủ ba màu, đồng thời ba số $x - y, y - z, z - x$ theo thứ tự lập thành cấp số cộng là $\\frac{40}{221}$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2244,
+      1455,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 65"
+  }
+]

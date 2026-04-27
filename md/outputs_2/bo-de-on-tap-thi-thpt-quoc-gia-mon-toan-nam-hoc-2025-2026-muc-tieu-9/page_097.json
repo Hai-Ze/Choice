@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      1471,
+      198
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Giá trị đại diện các nhóm lần lượt là: 20, 5; 23, 5; 26, 5; 29, 5; 32, 5; 35, 5."
+  },
+  {
+    "bbox": [
+      154,
+      198,
+      856,
+      238
+    ],
+    "category": "Text",
+    "text": "Số trung bình $\\bar{x} \\approx 28,99$. Phương sai $s^2 \\approx 19,44$."
+  },
+  {
+    "bbox": [
+      154,
+      243,
+      641,
+      283
+    ],
+    "category": "Text",
+    "text": "Giá trị này thuộc khoảng (19; 20)."
+  },
+  {
+    "bbox": [
+      154,
+      295,
+      1147,
+      381
+    ],
+    "category": "Text",
+    "text": "Câu 10. Tìm tập nghiệm của bất phương trình $\\left(\\frac{1}{3}\\right)^x \\le \\left(\\frac{1}{3}\\right)^{-x+2}$"
+  },
+  {
+    "bbox": [
+      191,
+      397,
+      372,
+      441
+    ],
+    "category": "List-item",
+    "text": "A) $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      535,
+      397,
+      710,
+      441
+    ],
+    "category": "List-item",
+    "text": "B) $[1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      879,
+      397,
+      1056,
+      441
+    ],
+    "category": "List-item",
+    "text": "C) $(-\\infty; 1]$."
+  },
+  {
+    "bbox": [
+      1224,
+      397,
+      1401,
+      441
+    ],
+    "category": "List-item",
+    "text": "D) $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      452,
+      1301,
+      531
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì cơ số $0 < \\frac{1}{3} < 1$ nên bất phương trình tương đương với:"
+  },
+  {
+    "bbox": [
+      154,
+      525,
+      604,
+      562
+    ],
+    "category": "Formula",
+    "text": "$$\nx \\ge -x + 2 \\Leftrightarrow 2x \\ge 2 \\Leftrightarrow x \\ge 1.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      567,
+      558,
+      607
+    ],
+    "category": "Text",
+    "text": "Tập nghiệm là $S = [1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      625,
+      1399,
+      666
+    ],
+    "category": "Text",
+    "text": "Câu 11. Đồ thị trong hình vẽ là đồ thị của hàm số nào trong các hàm số dưới đây?"
+  },
+  {
+    "bbox": [
+      575,
+      678,
+      1113,
+      1254
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1315,
+      412,
+      1394
+    ],
+    "category": "List-item",
+    "text": "A) $y = \\frac{2x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      877,
+      1315,
+      1097,
+      1394
+    ],
+    "category": "List-item",
+    "text": "B) $y = \\frac{2x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      191,
+      1390,
+      511,
+      1470
+    ],
+    "category": "List-item",
+    "text": "C) $y = \\frac{-x^2 + 3x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      877,
+      1390,
+      1167,
+      1470
+    ],
+    "category": "List-item",
+    "text": "D) $y = \\frac{x^2 - 3x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      154,
+      1470,
+      1307,
+      1532
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Đồ thị có tiệm cận đứng $x = 1$ và cắt trục tung tại $(0; -1)$."
+  },
+  {
+    "bbox": [
+      154,
+      1527,
+      1546,
+      1654
+    ],
+    "category": "Text",
+    "text": "Kiểm tra đáp án $y = \\frac{x^2 - 3x + 1}{x - 1}$ có $y(0) = -1$ và đạo hàm $y' = \\frac{x^2 - 2x + 2}{(x - 1)^2} > 0$ nên hàm số đồng biến trên từng khoảng xác định, phù hợp với hình vẽ."
+  },
+  {
+    "bbox": [
+      154,
+      1673,
+      1546,
+      1760
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trong không gian $Oxyz$, cho điểm $A(2; 1; 1)$, $B(0; 3; -1)$. Mặt cầu đường kính $AB$ có phương trình là"
+  },
+  {
+    "bbox": [
+      191,
+      1778,
+      647,
+      1821
+    ],
+    "category": "List-item",
+    "text": "A) $(x - 1)^2 + (y - 2)^2 + z^2 = 9$."
+  },
+  {
+    "bbox": [
+      191,
+      1823,
+      647,
+      1866
+    ],
+    "category": "List-item",
+    "text": "B) $(x - 1)^2 + (y - 2)^2 + z^2 = 3$."
+  },
+  {
+    "bbox": [
+      191,
+      1868,
+      565,
+      1911
+    ],
+    "category": "List-item",
+    "text": "C) $x^2 + (y - 2)^2 + z^2 = 3$."
+  },
+  {
+    "bbox": [
+      191,
+      1913,
+      729,
+      1956
+    ],
+    "category": "List-item",
+    "text": "D) $(x - 1)^2 + (y - 2)^2 + (z + 1)^2 = 9$."
+  },
+  {
+    "bbox": [
+      154,
+      1956,
+      1197,
+      2020
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tâm $I$ của mặt cầu là trung điểm $AB$: $I = (1; 2; 0)$."
+  },
+  {
+    "bbox": [
+      154,
+      2016,
+      1076,
+      2093
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Bán kính } R = \\frac{1}{2}AB = \\frac{1}{2}\\sqrt{(0 - 2)^2 + (3 - 1)^2 + (-1 - 1)^2} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2088,
+      896,
+      2130
+    ],
+    "category": "Text",
+    "text": "Phương trình mặt cầu: $(x - 1)^2 + (y - 2)^2 + z^2 = 3$."
+  },
+  {
+    "bbox": [
+      203,
+      2148,
+      1546,
+      2192
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d)"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "97"
+  }
+]

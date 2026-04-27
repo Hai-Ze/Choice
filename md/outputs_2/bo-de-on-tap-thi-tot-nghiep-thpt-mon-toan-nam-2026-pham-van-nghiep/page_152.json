@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1574,
+      200
+    ],
+    "category": "Text",
+    "text": "Trong số những bệnh nhân có ít nhất một triệu chứng trên, xác suất bệnh nhân mắc bệnh lao phổi là"
+  },
+  {
+    "bbox": [
+      218,
+      200,
+      1030,
+      296
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(AB)}{P(B)} = \\frac{P(B|A) \\cdot P(A)}{P(B)} = \\frac{0,152 \\cdot 0,932}{0,68608} \\approx 21\\%.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      296,
+      1159,
+      347
+    ],
+    "category": "Text",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      351,
+      1574,
+      737
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Thiên thạch với kích thước chỉ 30cm đến 40cm đến từ vùng không gian giữa các hành tinh, khi xuyên vào khí quyển Trái Đất ở độ cao 150km so với mực nước biển, tạo ra vùng không khí bốc cháy quanh nó rộng vài trăm mét gây nên hiện tượng sao băng. Xem Trái Đất là khối cầu có bán kính 6400km. Chọn hệ trục tọa độ Oxyz trong không gian có gốc O tại tâm Trái Đất và đơn vị độ dài trên mỗi trục tọa độ là 1000km. Một thiên thạch (coi như một hạt) được phát hiện ở vị trí điểm M(4,29;7;0) và đang chuyển động thẳng với tốc độ không đổi 960 km/phút đến tâm Trái Đất. Xác định thời điểm (đơn vị phút) thiên thạch bị bốc cháy kể từ lúc phát hiện (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      740,
+      953,
+      781
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      192,
+      781,
+      386,
+      825
+    ],
+    "category": "Text",
+    "text": "Đáp số: 1,73."
+  },
+  {
+    "bbox": [
+      601,
+      840,
+      1080,
+      1225
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1239,
+      856,
+      1282
+    ],
+    "category": "Text",
+    "text": "Thiên thạch được phát hiện ở vị trí điểm M."
+  },
+  {
+    "bbox": [
+      192,
+      1284,
+      1193,
+      1325
+    ],
+    "category": "Text",
+    "text": "Gọi khối cầu tâm O, bán kính OC là Trái đất, với O là tâm Trái đất."
+  },
+  {
+    "bbox": [
+      192,
+      1329,
+      979,
+      1373
+    ],
+    "category": "Text",
+    "text": "phần vành khăn bên ngoài là tầng khí quyển Trái đất"
+  },
+  {
+    "bbox": [
+      192,
+      1375,
+      993,
+      1417
+    ],
+    "category": "Text",
+    "text": "Ta có: 1 đơn vị = 1000km suy ra 6400km = 6,4 (đơn vị)"
+  },
+  {
+    "bbox": [
+      198,
+      1423,
+      1000,
+      1485
+    ],
+    "category": "Formula",
+    "text": "$$\nM(4,29;7;0) \\Rightarrow OM = \\sqrt{(4,29)^2 + 7^2 + 0^2} = 8,21 \\text{ (đơn vị)}\n$$"
+  },
+  {
+    "bbox": [
+      198,
+      1495,
+      678,
+      1536
+    ],
+    "category": "Formula",
+    "text": "$$\nCD = 150\\text{km} \\Rightarrow CD = 0,15 \\text{ (đơn vị)}\n$$"
+  },
+  {
+    "bbox": [
+      198,
+      1545,
+      932,
+      1586
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow DM = OM - OD = 8,21 - 6,4 - 0,15 = 1,66 \\text{ (đơn vị)}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1593,
+      603,
+      1633
+    ],
+    "category": "Text",
+    "text": "Theo thực tế: $DM = 1660 \\text{km}$"
+  },
+  {
+    "bbox": [
+      192,
+      1642,
+      1024,
+      1685
+    ],
+    "category": "Text",
+    "text": "Thời điểm thiên thạch bị bốc cháy kể từ lúc phát hiện là:"
+  },
+  {
+    "bbox": [
+      685,
+      1687,
+      1080,
+      1769
+    ],
+    "category": "Formula",
+    "text": "$$\nt = \\frac{DM}{v} = \\frac{1660}{960} \\approx 1,73 \\text{ (phút)}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1776,
+      1574,
+      2093
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một cơ sở sản xuất sữa giả mua các thùng sữa thật giống nhau (48套/ thùng), rồi thay thế một số套 sữa thật thành các套 sữa giả nhằm thu lợi bất chính. Trong quá trình sản xuất, cơ sở phân ra làm 2 loại: loại I để lẫn mỗi thùng 5套 sữa giả và loại II để lẫn mỗi thùng 3套 sữa giả. Biết rằng số thùng sữa loại I bằng 1,5 lần số thùng sữa loại II. Chọn ngẫu nhiên 1 thùng sữa từ cơ sở sản xuất và từ thùng đó lấy ra ngẫu nhiên 10套. Tính xác suất để trong 10套 lấy ra có đúng 2套 sữa là giả (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      2098,
+      953,
+      2139
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2139,
+      411,
+      2184
+    ],
+    "category": "Text",
+    "text": "Đáp số: 0,17."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

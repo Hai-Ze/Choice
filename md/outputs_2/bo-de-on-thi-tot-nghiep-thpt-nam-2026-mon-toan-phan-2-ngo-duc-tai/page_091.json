@@ -1,0 +1,399 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1455,
+      259
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Tìm hiểu thời gian hoàn thành một bài tập (đơn vị: phút) của một số học sinh thu được kết quả sau"
+  },
+  {
+    "bbox": [
+      372,
+      282,
+      1276,
+      396
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0; 4)</td><td>[4; 8)</td><td>[8; 12)</td><td>[12; 16)</td><td>[16; 20)</td></tr><tr><td>Số học sinh</td><td>2</td><td>4</td><td>7</td><td>4</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      193,
+      422,
+      1349,
+      468
+    ],
+    "category": "Text",
+    "text": "Tính thời gian trung bình (phút) để hoàn thành bài tập của các em học sinh."
+  },
+  {
+    "bbox": [
+      223,
+      488,
+      299,
+      523
+    ],
+    "category": "List-item",
+    "text": "A. 7."
+  },
+  {
+    "bbox": [
+      525,
+      488,
+      642,
+      523
+    ],
+    "category": "List-item",
+    "text": "B. 11,3."
+  },
+  {
+    "bbox": [
+      826,
+      488,
+      942,
+      523
+    ],
+    "category": "List-item",
+    "text": "C. 10,4."
+  },
+  {
+    "bbox": [
+      1127,
+      488,
+      1244,
+      523
+    ],
+    "category": "List-item",
+    "text": "D. 12,5."
+  },
+  {
+    "bbox": [
+      193,
+      551,
+      1446,
+      632
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho $A, B$ là hai biến cố xung khắc. Biết $P(A) = \\frac{1}{3}, P(B) = \\frac{1}{4}$. Tính $P(A \\cup B)$"
+  },
+  {
+    "bbox": [
+      223,
+      634,
+      322,
+      715
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{7}{12}$."
+  },
+  {
+    "bbox": [
+      525,
+      634,
+      624,
+      715
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{12}$."
+  },
+  {
+    "bbox": [
+      826,
+      634,
+      907,
+      715
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{7}$."
+  },
+  {
+    "bbox": [
+      1127,
+      634,
+      1208,
+      715
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      193,
+      727,
+      1455,
+      827
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi và $SB$ vuông góc với mặt phẳng ($ABCD$). mặt phẳng nào sau đây vuông góc với mặt phẳng ($SBD$)?"
+  },
+  {
+    "bbox": [
+      223,
+      845,
+      379,
+      884
+    ],
+    "category": "List-item",
+    "text": "A. ($SAD$)."
+  },
+  {
+    "bbox": [
+      525,
+      845,
+      678,
+      884
+    ],
+    "category": "List-item",
+    "text": "B. ($SCD$)."
+  },
+  {
+    "bbox": [
+      826,
+      845,
+      974,
+      884
+    ],
+    "category": "List-item",
+    "text": "C. ($SAC$)."
+  },
+  {
+    "bbox": [
+      1127,
+      845,
+      1274,
+      884
+    ],
+    "category": "List-item",
+    "text": "D. ($SBC$)."
+  },
+  {
+    "bbox": [
+      193,
+      915,
+      1455,
+      1016
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Bảng biến thiên dưới đây là của hàm số nào trong số các hàm số được cho trong các đáp án A, B, C, D?"
+  },
+  {
+    "bbox": [
+      449,
+      1041,
+      1195,
+      1360
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      223,
+      1396,
+      450,
+      1479
+    ],
+    "category": "List-item",
+    "text": "A. $y = \\frac{2x - 3}{x - 1}$."
+  },
+  {
+    "bbox": [
+      525,
+      1396,
+      734,
+      1479
+    ],
+    "category": "List-item",
+    "text": "B. $y = \\frac{x - 1}{x - 2}$."
+  },
+  {
+    "bbox": [
+      826,
+      1396,
+      1051,
+      1479
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{2x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      1127,
+      1396,
+      1352,
+      1479
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{2x + 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      193,
+      1491,
+      322,
+      1526
+    ],
+    "category": "Text",
+    "text": "**Câu 11.**"
+  },
+  {
+    "bbox": [
+      193,
+      1542,
+      1065,
+      1643
+    ],
+    "category": "Text",
+    "text": "Cho hàm số $y = f(x)$ có đồ thị như hình vẽ bên. Hàm số đã cho đạt cực đại tại điểm nào sau đây?"
+  },
+  {
+    "bbox": [
+      223,
+      1663,
+      365,
+      1699
+    ],
+    "category": "List-item",
+    "text": "A. $x = 2$."
+  },
+  {
+    "bbox": [
+      426,
+      1663,
+      594,
+      1699
+    ],
+    "category": "List-item",
+    "text": "B. $x = -3$."
+  },
+  {
+    "bbox": [
+      629,
+      1663,
+      771,
+      1699
+    ],
+    "category": "List-item",
+    "text": "C. $x = 1$."
+  },
+  {
+    "bbox": [
+      833,
+      1663,
+      1004,
+      1699
+    ],
+    "category": "List-item",
+    "text": "D. $x = -1$."
+  },
+  {
+    "bbox": [
+      1094,
+      1551,
+      1437,
+      2017
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      2036,
+      1292,
+      2079
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình chóp $S.ABC$, gọi $G$ là trọng tâm tam giác $ABC$. Ta có"
+  },
+  {
+    "bbox": [
+      223,
+      2089,
+      612,
+      2136
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      833,
+      2089,
+      1222,
+      2136
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 2\\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      223,
+      2150,
+      612,
+      2197
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 4\\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      833,
+      2150,
+      1202,
+      2197
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{SG}$."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      475,
+      2280
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1455,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 90"
+  }
+]

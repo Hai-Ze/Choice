@@ -1,0 +1,160 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      413,
+      108,
+      1402,
+      852
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      861,
+      705,
+      908
+    ],
+    "category": "Text",
+    "text": "Khi đó $E(R; R; 2R)$ và $A'(0; 0; 35)$"
+  },
+  {
+    "bbox": [
+      212,
+      917,
+      804,
+      961
+    ],
+    "category": "Text",
+    "text": "Thiết lập phương trình $A'E = 33,5$ ta có"
+  },
+  {
+    "bbox": [
+      218,
+      966,
+      780,
+      1029
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sqrt{R^2 + R^2 + (2R - 35)^2} = 33,5 \\Leftrightarrow R = 0,76\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1041,
+      515,
+      1119
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } V = \\frac{4}{3}\\pi R^3 = 1,84\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1123,
+      1576,
+      1374
+    ],
+    "category": "List-item",
+    "text": "**Câu 21:** Thầy N có một khu đất hình tròn bán kính $1(km)$ nằm tiếp xúc với trục đường quốc lộ và tiếp xúc với bờ hồ. Anh dùng khu vực trung tâm được bao quanh bởi bờ hồ, đường quốc lộ và khu đất để làm vường hoa (phần bôi Đâm). Coi trục đường quốc lộ là $Oy$, bờ hồ là một phần đồ thị $y = \\sqrt{x}$ (đơn vị trên trục là $km$). Diện tích phần trồng hoa là may $km^2$ (làm tròn kết quả đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      725,
+      1369,
+      1064,
+      1678
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      829,
+      1681,
+      958,
+      1722
+    ],
+    "category": "Text",
+    "text": "**Lời giải:**"
+  },
+  {
+    "bbox": [
+      212,
+      1727,
+      408,
+      1768
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,66"
+  },
+  {
+    "bbox": [
+      212,
+      1775,
+      1203,
+      1876
+    ],
+    "category": "Text",
+    "text": "- Ta có phương trình đường tròn $(C): \\begin{cases} I(1;a) \\\\ R=1 \\end{cases} \\rightarrow (x-1)^2 + (y-a)^2 = 1$"
+  },
+  {
+    "bbox": [
+      212,
+      1885,
+      1210,
+      1947
+    ],
+    "category": "Text",
+    "text": "- Suy ra $y = a - \\sqrt{1-(x-1)^2}$ vì $y = a - \\sqrt{1-(x-1)^2}$ tiếp xúc với $y = \\sqrt{x}$"
+  },
+  {
+    "bbox": [
+      212,
+      1954,
+      1412,
+      2139
+    ],
+    "category": "Text",
+    "text": "- Điều kiện tiếp xúc: $\\begin{cases} f(x) = g(x) \\\\ f'(x) = g'(x) \\end{cases} \\leftrightarrow \\begin{cases} a - \\sqrt{1-(x-1)^2} = \\sqrt{x} \\\\ \\frac{x-1}{\\sqrt{1-(x-1)^2}} = \\frac{1}{2\\sqrt{x}} \\end{cases} \\rightarrow \\begin{cases} a = 2,1 \\rightarrow STO(B) \\\\ x = 1,39 \\rightarrow STO(A) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1518,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

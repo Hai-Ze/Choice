@@ -1,0 +1,268 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      124,
+      1197,
+      199
+    ],
+    "category": "Text",
+    "text": "Con xúc xắc được gieo liên tục cho đến khi số 1 xuất hiện lần đầu tiên. Hãy tính xác suất để xúc xắc được gieo đúng bốn lần."
+  },
+  {
+    "bbox": [
+      124,
+      197,
+      217,
+      265
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{8}{81}$."
+  },
+  {
+    "bbox": [
+      395,
+      197,
+      474,
+      265
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      668,
+      197,
+      794,
+      265
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{125}{1296}$."
+  },
+  {
+    "bbox": [
+      941,
+      197,
+      1019,
+      265
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1504,
+      153
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      94,
+      279,
+      823,
+      334
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      342,
+      1197,
+      597
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Lạm phát là sự tăng mức giá chung một cách liên tục của hàng hoá và dịch vụ theo thời gian, tức là sự mất giá trị của một loại tiền tệ nào đó. Chẳng hạn, nếu lạm phát là 5% một năm thì sức mua của 1 triệu đồng sau một năm chỉ còn là 950 nghìn đồng (vì đã giảm mất 5% của 1 triệu đồng, tức là 50000 đồng). Nói chung, nếu tỉ lệ lạm phát trung bình là $r\\%$ một năm thì tổng số tiền $P$ ban đầu, sau $n$ năm số tiền đó chỉ còn giá trị là: $A = P\\left(1 - \\frac{r}{100}\\right)^n$. Các мыnhi đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      124,
+      595,
+      1193,
+      670
+    ],
+    "category": "List-item",
+    "text": "a) Nếu tỉ lệ lạm phát là 10% thì sức mua của 100 triệu đồng sau 1 năm sẽ còn lại 90 triệu đồng."
+  },
+  {
+    "bbox": [
+      124,
+      673,
+      1193,
+      748
+    ],
+    "category": "List-item",
+    "text": "b) Nếu tỉ lệ lạm phát là 7% một năm thì sức mua của 100 triệu đồng sau hai năm sẽ còn lại 96490000 đồng."
+  },
+  {
+    "bbox": [
+      124,
+      752,
+      1193,
+      865
+    ],
+    "category": "List-item",
+    "text": "c) Nếu sức mua của 100 triệu đồng sau ba năm chỉ còn lại 80 triệu đồng thì tỉ lệ lạm phát trung bình của ba năm đó là 9,17% (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      124,
+      868,
+      1193,
+      944
+    ],
+    "category": "List-item",
+    "text": "d) Nếu tỉ lệ lạm phát trung bình là 6% một năm thì sau 15 năm sức mua của số tiền ban đầu chỉ còn lại một half."
+  },
+  {
+    "bbox": [
+      94,
+      964,
+      1197,
+      1045
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số $y = f(x)$, hàm số $y = f'(x)$ là hàm số bậc ba và có đồ thị như hình vẽ (hàm số $y = f'(x)$ có 2 điểm cực trị là $x = 0$ và $x = 3$)"
+  },
+  {
+    "bbox": [
+      371,
+      1080,
+      913,
+      1319
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      1345,
+      386,
+      1429
+    ],
+    "category": "Formula",
+    "text": "a) $\\int_{1}^{2} f'(x)dx = 0$."
+  },
+  {
+    "bbox": [
+      124,
+      1421,
+      749,
+      1501
+    ],
+    "category": "Formula",
+    "text": "b) Tồn tại $m \\in (0; 2)$ sao cho $\\int_{0}^{m} f'(x)dx < 0$."
+  },
+  {
+    "bbox": [
+      124,
+      1496,
+      796,
+      1570
+    ],
+    "category": "Formula",
+    "text": "c) Hàm số $y = \\int f'(x)dx$ có đúng 3 điểm cực trị."
+  },
+  {
+    "bbox": [
+      124,
+      1570,
+      358,
+      1608
+    ],
+    "category": "Formula",
+    "text": "d) $f(-1) < f(3)$."
+  },
+  {
+    "bbox": [
+      94,
+      1627,
+      1197,
+      1933
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Gout là một dạng viêm�ophớp gây heavy load và sưng load. bệnh xuất hiện khi hàm lượng acid uric trong máu tăng cao và tạo nên các tinh thể sắc nhọn tích tụ lại ở nhiều loading xương gây nên tình trạng sưng đỏ và heavy load. Một nhóm nghiên cứu tiến hành khảo sát thế quen dinh dưỡng của 80000 phụ nữ từ 22 tuổi trở lên và nhận thấy những người uống từ 2 cốc nước cam trở lên mỗi ngày sẽ tăng nguy cơ mắc bệnh gout, do đường hòa quả (fructose) cao trong nước cam sẽ khiến axit uric lắng đọng ở loading, gây ra sưng và heavy load. Kết quả khảo sát của nhóm nghiên cứu được trình bày trong bảng dữ liệu thống kê $2 \\times 2$ sau đây:"
+  },
+  {
+    "bbox": [
+      94,
+      1994,
+      1412,
+      2142
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td></td><td>Bị bệnh gout</td><td>Không bị bệnh gout</td></tr></thead><tbody><tr><td>Người uống từ 2 cốc nước cam trở lên mỗi ngày</td><td>19721 người</td><td>20128 người</td></tr><tr><td>Người không uống hoặc uống dưới 2 cốc nước cam mỗi ngày</td><td>8279 người</td><td>31872 người</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      124,
+      2173,
+      1193,
+      2249
+    ],
+    "category": "List-item",
+    "text": "a) Đối với phụ nữ từ 22 tuổi trở lên, việc uống từ 2 cốc nước cam trở lên mỗi ngày và việc mắc bệnh gout có liên quan với nhau."
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1509,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 129"
+  }
+]

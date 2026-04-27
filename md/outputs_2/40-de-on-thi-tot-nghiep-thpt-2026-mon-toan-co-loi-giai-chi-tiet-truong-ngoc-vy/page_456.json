@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      104,
+      1571,
+      239
+    ],
+    "category": "Text",
+    "text": "Xác suất để 3 viên bi lấy ra có đúng hai màu bằng $\\frac{a}{b}$ với $\\frac{a}{b}$ là phân số tối giản. Tổng $a+b$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      155,
+      261,
+      494,
+      298
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      320,
+      924,
+      358
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      376,
+      349,
+      415
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1255"
+  },
+  {
+    "bbox": [
+      155,
+      431,
+      857,
+      476
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: Ba viên bi lấy ra có đúng hai màu"
+  },
+  {
+    "bbox": [
+      155,
+      496,
+      1348,
+      545
+    ],
+    "category": "Text",
+    "text": "Số phần tử của không gian mẫu $\\Omega$ bằng số cách lấy 3 viên bi bất kỳ, $n(\\Omega) = C_{30}^3 = 4060$."
+  },
+  {
+    "bbox": [
+      155,
+      565,
+      857,
+      612
+    ],
+    "category": "Text",
+    "text": "Để đeo số phần tử của $A$ ta đeo số phần tử của $\\bar{A}$."
+  },
+  {
+    "bbox": [
+      155,
+      631,
+      1044,
+      680
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Số cách lấy ba viên bi lấy ra cùng màu: } C_6^3 + C_7^3 + C_8^3 + C_9^3 = 195.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      706,
+      1081,
+      755
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Số cách lấy ba viên bi có đủ 3 màu đỏ, xanh, vàng: } C_6^1 \\cdot C_7^1 \\cdot C_8^1 = 336.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      779,
+      1083,
+      828
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Số cách lấy ba viên bi có đủ 3 màu đỏ, xanh, trắng: } C_6^1 \\cdot C_7^1 \\cdot C_9^1 = 378.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      853,
+      1083,
+      902
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Số cách lấy ba viên bi có đủ 3 màu đỏ, trắng, vàng: } C_6^1 \\cdot C_9^1 \\cdot C_8^1 = 432.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      927,
+      1119,
+      976
+    ],
+    "category": "Formula",
+    "text": "$$\n+ \\text{Số cách lấy ba viên bi có đủ 3 màu trắng, xanh, vàng: } C_9^1 \\cdot C_7^1 \\cdot C_8^1 = 504.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1001,
+      1123,
+      1050
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số phần tử của } A \\text{ là } n(A) = 4060 - (195 + 336 + 378 + 432 + 504) = 2215\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1077,
+      704,
+      1164
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{443}{812} \\Rightarrow a+b=1255.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 21"
+  }
+]

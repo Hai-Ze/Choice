@@ -1,0 +1,269 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      357,
+      181
+    ],
+    "category": "Text",
+    "text": "như bảng sau:"
+  },
+  {
+    "bbox": [
+      602,
+      186,
+      1094,
+      529
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Thời gian t (phút)</td><td>Số cuộc gọi</td></tr></thead><tbody><tr><td>0 ≤ t < 1</td><td>21</td></tr><tr><td>1 ≤ t < 2</td><td>23</td></tr><tr><td>2 ≤ t < 3</td><td>24</td></tr><tr><td>3 ≤ t < 4</td><td>17</td></tr><tr><td>4 ≤ t < 5</td><td>15</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      154,
+      539,
+      1501,
+      581
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tức phân vị của mẫu số liệu ghép nhóm trên (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      191,
+      599,
+      320,
+      642
+    ],
+    "category": "List-item",
+    "text": "A) 2, 37."
+  },
+  {
+    "bbox": [
+      535,
+      599,
+      664,
+      642
+    ],
+    "category": "List-item",
+    "text": "B) 2, 28."
+  },
+  {
+    "bbox": [
+      879,
+      599,
+      1009,
+      642
+    ],
+    "category": "List-item",
+    "text": "C) 2, 38."
+  },
+  {
+    "bbox": [
+      1224,
+      599,
+      1351,
+      642
+    ],
+    "category": "List-item",
+    "text": "D) 2, 24."
+  },
+  {
+    "bbox": [
+      154,
+      657,
+      198,
+      695
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      657,
+      1075,
+      719
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Cỡ mẫu $n = 21 + 23 + 24 + 17 + 15 = 100$."
+  },
+  {
+    "bbox": [
+      204,
+      730,
+      1369,
+      809
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất $Q_1$: $\\frac{n}{4} = 25$ nằm ở nhóm [1; 2). $Q_1 = 1 + \\frac{25 - 21}{23} \\cdot 1 \\approx 1,17$."
+  },
+  {
+    "bbox": [
+      204,
+      816,
+      1351,
+      896
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba $Q_3$: $\\frac{3n}{4} = 75$ nằm ở nhóm [3; 4). $Q_3 = 3 + \\frac{75 - 68}{17} \\cdot 1 \\approx 3,41$."
+  },
+  {
+    "bbox": [
+      204,
+      908,
+      1022,
+      949
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị $\\Delta_Q = Q_3 - Q_1 = 3,41 - 1,17 = 2,24$."
+  },
+  {
+    "bbox": [
+      154,
+      960,
+      1544,
+      1053
+    ],
+    "category": "Text",
+    "text": ">> Câu 12. Cho hình lập phương $ABCD.A'B'C'D'$. Đặt $\\overrightarrow{AA'} = \\vec{a}$, $\\overrightarrow{AB} = \\vec{b}$, $\\overrightarrow{AD} = \\vec{c}$. Gọi $M, N$ lần lượt là trung điểm của $AB$ và $DD'$. Phát biểu nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      624,
+      1067,
+      1075,
+      1489
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      1559,
+      571,
+      1637
+    ],
+    "category": "List-item",
+    "text": "A) $\\overrightarrow{MN} = \\frac{1}{2}\\vec{a} - \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      877,
+      1559,
+      1283,
+      1637
+    ],
+    "category": "List-item",
+    "text": "B) $\\overrightarrow{MN} = -\\frac{1}{2}\\vec{a} + \\vec{b} + \\frac{1}{2}\\vec{c}$."
+  },
+  {
+    "bbox": [
+      191,
+      1631,
+      548,
+      1707
+    ],
+    "category": "List-item",
+    "text": "C) $\\overrightarrow{MN} = \\vec{a} + \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      877,
+      1631,
+      1256,
+      1707
+    ],
+    "category": "List-item",
+    "text": "D) $\\overrightarrow{MN} = \\frac{1}{2}\\vec{a} + \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      154,
+      1707,
+      198,
+      1745
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1707,
+      444,
+      1765
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      204,
+      1761,
+      1022,
+      1838
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{MN} = \\overrightarrow{MA} + \\overrightarrow{AD} + \\overrightarrow{DN} = -\\frac{1}{2}\\overrightarrow{AB} + \\overrightarrow{AD} + \\frac{1}{2}\\overrightarrow{DD'}$."
+  },
+  {
+    "bbox": [
+      204,
+      1830,
+      1090,
+      1877
+    ],
+    "category": "Text",
+    "text": "Vì $ABCD.A'B'C'D'$ là hình lập phương nên $\\overrightarrow{DD'} = \\overrightarrow{AA'} = \\vec{a}$."
+  },
+  {
+    "bbox": [
+      204,
+      1873,
+      875,
+      1951
+    ],
+    "category": "Text",
+    "text": "Vậy $\\overrightarrow{MN} = -\\frac{1}{2}\\vec{b} + \\vec{c} + \\frac{1}{2}\\vec{a} = \\frac{1}{2}\\vec{a} - \\frac{1}{2}\\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      154,
+      1962,
+      1547,
+      2049
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mối ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      2071,
+      1547,
+      2199
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một công ty kim cương thống kê có 60% người mua kim cương là nam, có 40% số người mua kim cương là nam trên 50 tuổi và 30% số người mua kim cương là nữ trên 50 tuổi (giả sử chỉ có 2 giới tính nam và nữ)."
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "124"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1501,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

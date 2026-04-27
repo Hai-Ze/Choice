@@ -1,0 +1,479 @@
+[
+  {
+    "bbox": [
+      178,
+      42,
+      1011,
+      87
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      0,
+      0,
+      187,
+      185
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      282,
+      159,
+      506,
+      348
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      777,
+      157,
+      1457,
+      203
+    ],
+    "category": "Text",
+    "text": "KỲ THI TỐT NGHIỆP THPT – MÔN TOÁN"
+  },
+  {
+    "bbox": [
+      894,
+      203,
+      1344,
+      272
+    ],
+    "category": "Section-header",
+    "text": "ĐỀ ÔN TẬP SỐ 31"
+  },
+  {
+    "bbox": [
+      759,
+      279,
+      1482,
+      323
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      95,
+      355,
+      1023,
+      395
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh:...................................................................."
+  },
+  {
+    "bbox": [
+      95,
+      401,
+      1023,
+      437
+    ],
+    "category": "Text",
+    "text": "SBD:...................................................................................................."
+  },
+  {
+    "bbox": [
+      796,
+      437,
+      956,
+      481
+    ],
+    "category": "Section-header",
+    "text": "PHẦN ĐỀ"
+  },
+  {
+    "bbox": [
+      31,
+      488,
+      511,
+      532
+    ],
+    "category": "Section-header",
+    "text": "A. Câu hỏi – Trả lời trắc nghiệm"
+  },
+  {
+    "bbox": [
+      82,
+      537,
+      1202,
+      634
+    ],
+    "category": "List-item",
+    "text": "» Câu 1. Biết $\\int_{1}^{3} \\frac{x+2}{x} dx = a+b \\ln c$, với $a,b,c \\in \\mathbb{Z}$, $c < 9$. Tính tổng $S = a+b+c$."
+  },
+  {
+    "bbox": [
+      220,
+      640,
+      350,
+      675
+    ],
+    "category": "List-item",
+    "text": "A. $S=7$."
+  },
+  {
+    "bbox": [
+      555,
+      640,
+      680,
+      675
+    ],
+    "category": "List-item",
+    "text": "B. $S=5$."
+  },
+  {
+    "bbox": [
+      869,
+      640,
+      994,
+      675
+    ],
+    "category": "List-item",
+    "text": "C. $S=8$."
+  },
+  {
+    "bbox": [
+      1183,
+      640,
+      1311,
+      675
+    ],
+    "category": "List-item",
+    "text": "D. $S=6$."
+  },
+  {
+    "bbox": [
+      82,
+      684,
+      1531,
+      795
+    ],
+    "category": "List-item",
+    "text": "» Câu 2. Trong không gian $Oxyz$, khoảng cách giữa hai mặt phẳng $(P): x+2y+2z-8=0$ và $(Q): x+2y+2z-4=0$ bằng"
+  },
+  {
+    "bbox": [
+      220,
+      810,
+      301,
+      863
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      555,
+      810,
+      637,
+      888
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      869,
+      810,
+      952,
+      888
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{7}{3}$."
+  },
+  {
+    "bbox": [
+      1183,
+      810,
+      1255,
+      863
+    ],
+    "category": "List-item",
+    "text": "D. 1."
+  },
+  {
+    "bbox": [
+      82,
+      895,
+      1531,
+      994
+    ],
+    "category": "List-item",
+    "text": "» Câu 3. Cho hàm số $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên $K$. Cácoornghon đề sau,oornghon đề nào sai?"
+  },
+  {
+    "bbox": [
+      220,
+      1014,
+      563,
+      1077
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x)dx = F(x)+C$."
+  },
+  {
+    "bbox": [
+      869,
+      1010,
+      1198,
+      1077
+    ],
+    "category": "List-item",
+    "text": "B. $(\\int f(x)dx)' = F'(x)$."
+  },
+  {
+    "bbox": [
+      220,
+      1096,
+      546,
+      1163
+    ],
+    "category": "List-item",
+    "text": "C. $(\\int f(x)dx)' = f(x)$."
+  },
+  {
+    "bbox": [
+      869,
+      1096,
+      1204,
+      1163
+    ],
+    "category": "List-item",
+    "text": "D. $(\\int f(x)dx)' = f'(x)$."
+  },
+  {
+    "bbox": [
+      82,
+      1175,
+      1531,
+      1275
+    ],
+    "category": "List-item",
+    "text": "» Câu 4. Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 3^x$, $y = 0$, $x = 0$, $x = 2$. Mindnghon đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      220,
+      1279,
+      420,
+      1375
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      555,
+      1279,
+      780,
+      1375
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\pi \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      869,
+      1279,
+      1078,
+      1375
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      1183,
+      1279,
+      1404,
+      1375
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\pi \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      82,
+      1383,
+      1531,
+      1494
+    ],
+    "category": "List-item",
+    "text": "» Câu 5. Cho hai hàm số $f(x)$ và $g(x)$ liên tục trên $[a;b]$. Diện tích hình phẳng giới hạn bởi đồ thị của các hàm số $y = f(x), y = g(x)$ và các đường thẳng $x = a, x = b$ bằng:"
+  },
+  {
+    "bbox": [
+      220,
+      1504,
+      546,
+      1608
+    ],
+    "category": "List-item",
+    "text": "A. $\\left|\\int_{a}^{b} [f(x) - g(x)] dx\\right|$."
+  },
+  {
+    "bbox": [
+      869,
+      1504,
+      1157,
+      1608
+    ],
+    "category": "List-item",
+    "text": "B. $\\int_{a}^{b} |f(x) + g(x)| dx$."
+  },
+  {
+    "bbox": [
+      220,
+      1618,
+      533,
+      1715
+    ],
+    "category": "List-item",
+    "text": "C. $\\int_{a}^{b} [f(x) - g(x)] dx$."
+  },
+  {
+    "bbox": [
+      869,
+      1618,
+      1163,
+      1715
+    ],
+    "category": "List-item",
+    "text": "D. $\\int_{a}^{b} |f(x) - g(x)| dx$."
+  },
+  {
+    "bbox": [
+      82,
+      1725,
+      1531,
+      1897
+    ],
+    "category": "List-item",
+    "text": "» Câu 6. Trong không gian $Oxyz$, cho điểm $A(2;4;1)$; $B(-1;1;3)$ và mặt phẳng $(P): x-3y+2z-5=0$. Một mặt phẳng $(Q)$ đi qua hai điểm $A, B$ và vuông góc với mặt phẳng $(P)$ có dạng $ax+by+cz-11=0$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      220,
+      1907,
+      455,
+      1945
+    ],
+    "category": "List-item",
+    "text": "A. $a+b+c=-5$."
+  },
+  {
+    "bbox": [
+      555,
+      1907,
+      802,
+      1945
+    ],
+    "category": "List-item",
+    "text": "B. $a+b+c=-15$."
+  },
+  {
+    "bbox": [
+      869,
+      1907,
+      1078,
+      1945
+    ],
+    "category": "List-item",
+    "text": "C. $a+b+c=5$."
+  },
+  {
+    "bbox": [
+      1183,
+      1907,
+      1416,
+      1945
+    ],
+    "category": "List-item",
+    "text": "D. $a+b+c=15$."
+  },
+  {
+    "bbox": [
+      82,
+      1953,
+      1531,
+      2113
+    ],
+    "category": "List-item",
+    "text": "» Câu 7. Cho hàm số $f(x)$ liên tục, có đạo hàm trên $[-1;2]$, $f(-1)=8$, $f(2)=-1$. Tích phân $\\int_{-1}^{2} f'(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      220,
+      2119,
+      291,
+      2155
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      555,
+      2119,
+      649,
+      2155
+    ],
+    "category": "List-item",
+    "text": "B. -9."
+  },
+  {
+    "bbox": [
+      869,
+      2119,
+      943,
+      2155
+    ],
+    "category": "List-item",
+    "text": "C. 9."
+  },
+  {
+    "bbox": [
+      1183,
+      2119,
+      1267,
+      2155
+    ],
+    "category": "List-item",
+    "text": "D. 7."
+  },
+  {
+    "bbox": [
+      79,
+      2247,
+      582,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1282,
+      2251,
+      1437,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 139"
+  },
+  {
+    "bbox": [
+      1447,
+      2161,
+      1643,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

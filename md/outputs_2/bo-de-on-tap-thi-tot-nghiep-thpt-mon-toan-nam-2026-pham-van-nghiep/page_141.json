@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      1085,
+      256
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{- Ta có: } AD: \\begin{cases} \\vec{u}_d = \\vec{AD} = (-20,6; 2,2; 0) \\\\ D(1,4; -4,8; 0) \\end{cases} \\rightarrow AD: \\begin{cases} x = 1,4 - 20,6t \\\\ y = -4,8 + 2,2t \\\\ z = 0 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      265,
+      425,
+      308
+    ],
+    "category": "Text",
+    "text": "- vậy b) Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      309,
+      1428,
+      393
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{- Ta có: } MH = 60 - 22 = 38(m), \\text{Đổi } v = 45(km/h) = 12,5(m/s) \\rightarrow t_{M \\rightarrow H} = \\frac{38}{12,5} = 3,04(s)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      402,
+      382,
+      444
+    ],
+    "category": "Text",
+    "text": "- vậy c) Sai"
+  },
+  {
+    "bbox": [
+      212,
+      446,
+      1501,
+      528
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{- Theo định lí Talet ta có: } \\frac{HK}{DN} = \\frac{AH}{AN} = \\frac{7-6}{7-4,8} = \\frac{5}{11} \\rightarrow HK = \\frac{5}{11}.DN = \\frac{5}{11}.(22-1,4) = \\frac{103}{11}(m)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      541,
+      1300,
+      667
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{- Mà } t_{H \\rightarrow K} = 0,75(s) \\rightarrow v = \\frac{HK}{t_{H \\rightarrow K}} = \\frac{\\frac{103}{11}}{0,75} = \\frac{412}{33}(m/s) = \\frac{2472}{55}(km/h) \\approx 44,9 < 50\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      673,
+      387,
+      714
+    ],
+    "category": "Text",
+    "text": "- vậy d) Sai"
+  },
+  {
+    "bbox": [
+      212,
+      714,
+      922,
+      756
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 17 đến câu 22"
+  },
+  {
+    "bbox": [
+      74,
+      762,
+      1156,
+      1077
+    ],
+    "category": "List-item",
+    "text": "**Câu 17:** Kim tự tháp Cheops của Ai Cập (còn gọi là kim tự tháp Khufu, được xây dựng vào khoảng 2500TCN) có dạng là một hình chóp có đáy là hình vuông cạnh dài khoảng 230 m, hình chiếu của đỉnh trên mặt đáy là tâm của đáy. Biết kim tự tháp cao khoảng 147 m. Tính số đo góc nhị diện (đơn vị: độ) tạo bởi mặt bên và mặt đáy của kim tự tháp này (Kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      1174,
+      759,
+      1497,
+      1016
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1080,
+      953,
+      1122
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1125,
+      377,
+      1167
+    ],
+    "category": "Text",
+    "text": "Đáp án: 52"
+  },
+  {
+    "bbox": [
+      660,
+      1172,
+      1135,
+      1544
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1562,
+      762,
+      1611
+    ],
+    "category": "Text",
+    "text": "Ta tính số đo góc nhị diện $[S, CD, O]$."
+  },
+  {
+    "bbox": [
+      212,
+      1623,
+      1574,
+      1724
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là trung điểm của $CD$ thì $OH \\perp CD$ và $SH \\perp CD$ nên $SHO$ là góc phẳng nhị diện của góc nhị diện $[S, CD, O]$. vậy số đo góc nhị diện $[S, CD, O]$ bằng số đo góc $SHO$."
+  },
+  {
+    "bbox": [
+      212,
+      1732,
+      1248,
+      1813
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } SO = 147, OH = \\frac{1}{2}BC = 115 \\text{ và } \\tan SHO = \\frac{SO}{OH} = \\frac{147}{115} \\Rightarrow SHO \\approx 52^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1817,
+      1577,
+      2180
+    ],
+    "category": "List-item",
+    "text": "**Câu 18:** Điều đặn ngày đầu mỗi tháng, anh Hùng gửi 20 triệu đồng tiết kiệm ở một ngân hàng theo hình thức lãi kép, kỳ hạn 1 tháng với lãi suất tiết kiệm 4%/năm. Sau khi gửi được 12 tháng, kể từ tháng thứ 13, ngân hàng thay đổi lãi suất tiền gửi lên mức 5%/năm với kỳ hạn 1 tháng (số tiền gửi cũ sẽ được tính theo lãi suất mới kể từ tháng thứ 13). Anh Hùng tiếp tục gửi 20 triệu đồng"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

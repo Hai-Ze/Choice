@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      99,
+      485,
+      172
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } \\max_{[-4;-1]} f(x) = f(-2) = -5.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      192,
+      1495,
+      376
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một đoàn tàu đứng yên trong sân ga, ngay trước đầu tàu có một cái cây. Đoàn tàu khởi hành từ trạng thái đứng yên với gia tốc $a = 0,004t(m/s^2)$ và đi qua cái cây trong thời gian 60 giây. Sau 90 giây đoàn tàu chuyển sang trạng thái chuyển động đều."
+  },
+  {
+    "bbox": [
+      536,
+      386,
+      1044,
+      621
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      643,
+      699,
+      693
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của đoàn tàu là $v = 4.10^{-3}t^2 (m/s)$."
+  },
+  {
+    "bbox": [
+      76,
+      719,
+      959,
+      767
+    ],
+    "category": "Text",
+    "text": "b) Sau 90 giây, đoàn tàu chuyển động với vận tốc $58,32(km/h)$."
+  },
+  {
+    "bbox": [
+      76,
+      792,
+      1495,
+      908
+    ],
+    "category": "Text",
+    "text": "c) Sau khi chuyển động đều một thời gian, đoàn tàu gặp một cây cầu có chiều dài $486(m)$. Khi đó đoàn tàu đi qua cây cầu đó trong thời gian 30 giây."
+  },
+  {
+    "bbox": [
+      76,
+      928,
+      626,
+      976
+    ],
+    "category": "Text",
+    "text": "d) Chiều dài của đoàn tàu là $l = 144(m)$."
+  },
+  {
+    "bbox": [
+      727,
+      1003,
+      843,
+      1041
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1056,
+      893,
+      1178
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1237,
+      805,
+      1297
+    ],
+    "category": "Text",
+    "text": "a) Vận tốc của tàu là $v(t) = \\int 0,004t dt = 2.10^{-3}t^2 + C$."
+  },
+  {
+    "bbox": [
+      76,
+      1320,
+      1312,
+      1369
+    ],
+    "category": "Text",
+    "text": "Vì đoàn tàu khởi hành từ trạng thái đứng yên nên $v(0) = 0 \\Rightarrow C = 0 \\Rightarrow v(t) = 2.10^{-3}t^2 (m/s)$"
+  },
+  {
+    "bbox": [
+      76,
+      1388,
+      791,
+      1434
+    ],
+    "category": "Text",
+    "text": "b) Sau 90 giây, đoàn tàu chuyển động với vận tốc là:"
+  },
+  {
+    "bbox": [
+      80,
+      1453,
+      744,
+      1503
+    ],
+    "category": "Formula",
+    "text": "$$\nv(90) = 2.10^{-3} \\cdot 90^2 = 16,2(m/s) = 58,32(km/h).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1527,
+      794,
+      1624
+    ],
+    "category": "Text",
+    "text": "c) Chiều dài của con tàu là $l = \\int_{0}^{60} 2.10^{-3}t^2 dt = 144(m)$"
+  },
+  {
+    "bbox": [
+      76,
+      1651,
+      1048,
+      1699
+    ],
+    "category": "Text",
+    "text": "Tổng độ dài quăng đường con tàu đi qua cầu là $h = 144 + 486 = 630(m)$."
+  },
+  {
+    "bbox": [
+      76,
+      1726,
+      723,
+      1810
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thời gian để tàu qua cầu là } t = \\frac{630}{16,2} = 38,8(s)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1833,
+      1495,
+      2132
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian với hệ tọa độ $Oxyz$ (với đơn vị đo trên các trục tọa độ là mét). Một tàu ngầm đang di chuyển dưới biển sâu với hướng di chuyển theo đường thẳng $\\Delta: \\frac{x-50}{3} = \\frac{y+20}{-4} = \\frac{z-10}{1}$. Hải quân phát hiện một khu vực nguy hiểm được rải thủy lôi, khu vực này có dạng hình cầu $(S)$ với tâm $C(200;-300;60)$ và bán kính $R = 80$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

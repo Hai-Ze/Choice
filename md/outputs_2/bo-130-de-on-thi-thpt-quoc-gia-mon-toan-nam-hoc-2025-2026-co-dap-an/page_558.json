@@ -1,0 +1,427 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      120,
+      1555,
+      201
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[2; 7]$. Hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = 2, x = 7$ có diện tích là"
+  },
+  {
+    "bbox": [
+      477,
+      201,
+      765,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad S = \\pi \\int_{2}^{7} f^2(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      201,
+      1298,
+      316
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad S = \\int_{2}^{7} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      316,
+      773,
+      432
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad S = \\pi \\int_{2}^{7} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      316,
+      1296,
+      432
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad S = \\left| \\int_{2}^{7} f(x) \\, dx \\right|.\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      446,
+      1493,
+      488
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Cho hàm số $y = f(x)$ liên tục trên và có bảng biến thiên như hình vẽ."
+  },
+  {
+    "bbox": [
+      597,
+      511,
+      1404,
+      785
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      818,
+      856,
+      855
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào dưới đây **sai**?"
+  },
+  {
+    "bbox": [
+      477,
+      855,
+      762,
+      914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\max_{(-\\infty; +\\infty)} f(x) = 2.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      855,
+      1262,
+      914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\max_{[-1;1]} f(x) = 2.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      916,
+      715,
+      977
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\min_{[-1;1]} f(x) = 1.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      916,
+      1306,
+      977
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\min_{(-\\infty; +\\infty)} f(x) = 1.\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      993,
+      1167,
+      1035
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Nghiệm của phương trình $\\log_2(3x - 4) = 3$ là"
+  },
+  {
+    "bbox": [
+      477,
+      1035,
+      629,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad x = \\frac{10}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      749,
+      1035,
+      879,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x = 3.\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1035,
+      1167,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad x = \\frac{13}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      1294,
+      1035,
+      1424,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x = 4.\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1113,
+      1553,
+      1191
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng ($P$): $x - 2z + 2 = 0$. Một vec tơ pháp tuyến của mặt phẳng ($P$) là"
+  },
+  {
+    "bbox": [
+      477,
+      1191,
+      715,
+      1231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\vec{n} = (0; 1; -2).\n$$"
+  },
+  {
+    "bbox": [
+      749,
+      1191,
+      987,
+      1231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\vec{n} = (1; 0; -2).\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1191,
+      1262,
+      1231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\vec{n} = (1; -2; 2).\n$$"
+  },
+  {
+    "bbox": [
+      1294,
+      1191,
+      1509,
+      1231
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\vec{n} = (1; 2; 0).\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1268,
+      1083,
+      1384
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho hình chóp tứ giác đều $S.ABCD$. Gọi $O$ là giao điểm của $AC$ và $BD$. Khẳng định nào dưới đây là **sai**?"
+  },
+  {
+    "bbox": [
+      477,
+      1384,
+      668,
+      1424
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad SO \\perp AD.\n$$"
+  },
+  {
+    "bbox": [
+      789,
+      1384,
+      979,
+      1424
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad SO \\perp BD.\n$$"
+  },
+  {
+    "bbox": [
+      477,
+      1424,
+      668,
+      1464
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad SO \\perp CD.\n$$"
+  },
+  {
+    "bbox": [
+      789,
+      1424,
+      975,
+      1464
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad SO \\perp SD.\n$$"
+  },
+  {
+    "bbox": [
+      1125,
+      1287,
+      1543,
+      1620
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1635,
+      1242,
+      1714
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Tập nghiệm của bất phương trình $\\left(\\frac{2}{3}\\right)^{2x-5} \\ge \\frac{2}{3}$."
+  },
+  {
+    "bbox": [
+      477,
+      1714,
+      639,
+      1754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad (3; +\\infty).\n$$"
+  },
+  {
+    "bbox": [
+      749,
+      1714,
+      908,
+      1754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad [3; +\\infty).\n$$"
+  },
+  {
+    "bbox": [
+      1023,
+      1714,
+      1184,
+      1754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad (-\\infty; 3).\n$$"
+  },
+  {
+    "bbox": [
+      1294,
+      1714,
+      1452,
+      1754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad (-\\infty; 3].\n$$"
+  },
+  {
+    "bbox": [
+      447,
+      1774,
+      1173,
+      1828
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1838,
+      1555,
+      2106
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Một công ty dược phẩm giới thiệu một bộ xét nghiệm bệnh sởi. Thử nghiệm trên 10 000 người nghi mắc bệnh sởi, trong đó có 900 người thực sự mắc bệnh sởi cho kết quả như sau: trong số 900 người thực sự mắc bệnh có 99% cho kết quả xét nghiệm dương tính, còn lại cho kết quả xét nghiệm âm tính; trong số những người không mắc bệnh có 98% cho kết quả xét nghiệm âm tính, còn lại cho kết quả xét nghiệm dương tính. Chọn ngẫu nhiên một người trong số những người được thử nghiệm."
+  },
+  {
+    "bbox": [
+      474,
+      2134,
+      1526,
+      2245
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Phát biểu</th><th>Đ</th><th>S</th></tr></thead><tbody><tr><td>a) Xác suất để người được chọn ra thực sự mắc bệnh sởi là 9%.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "556 Bùi Tịnh Minh Lâm"
+  }
+]

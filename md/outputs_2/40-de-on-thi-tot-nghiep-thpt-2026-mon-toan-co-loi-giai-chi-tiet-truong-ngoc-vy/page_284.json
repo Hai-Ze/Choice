@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1487,
+      202
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình chóp $S.ABCD$ có đáy là hình bình hành. Các điểm $I, J$ lần lượt là trọng tâm các tam giác $SAB, SAD$. $M$ là trung điểm $CD$. Chọn мыn đề đúng trong các мыn đề sau:"
+  },
+  {
+    "bbox": [
+      125,
+      227,
+      338,
+      264
+    ],
+    "category": "List-item",
+    "text": "A. $IJ \\not\\subset (SCD)$."
+  },
+  {
+    "bbox": [
+      476,
+      227,
+      691,
+      264
+    ],
+    "category": "List-item",
+    "text": "B. $IJ \\not\\subset (SBM)$."
+  },
+  {
+    "bbox": [
+      826,
+      227,
+      1035,
+      264
+    ],
+    "category": "List-item",
+    "text": "C. $IJ \\not\\subset (SBC)$."
+  },
+  {
+    "bbox": [
+      1175,
+      227,
+      1383,
+      264
+    ],
+    "category": "List-item",
+    "text": "D. $IJ \\not\\subset (SBD)$."
+  },
+  {
+    "bbox": [
+      727,
+      292,
+      843,
+      330
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      350,
+      198,
+      387
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      448,
+      407,
+      1119,
+      950
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      976,
+      762,
+      1020
+    ],
+    "category": "Text",
+    "text": "Gọi $N, P$ lần lượt là trung điểm của cạnh $AB, AD$."
+  },
+  {
+    "bbox": [
+      75,
+      1047,
+      627,
+      1129
+    ],
+    "category": "Text",
+    "text": "Xét $\\triangle SNP$ có $\\frac{SI}{SN} = \\frac{SJ}{SP} = \\frac{2}{3} \\Rightarrow IJ \\parallel NP$."
+  },
+  {
+    "bbox": [
+      75,
+      1152,
+      974,
+      1192
+    ],
+    "category": "Text",
+    "text": "Xét $\\triangle ABD$ có $M$ là đường trung bình trong tam giác $\\Rightarrow NP \\parallel BD$."
+  },
+  {
+    "bbox": [
+      75,
+      1217,
+      298,
+      1255
+    ],
+    "category": "Text",
+    "text": "Suy ra $IJ \\parallel BD$."
+  },
+  {
+    "bbox": [
+      75,
+      1282,
+      573,
+      1428
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} IJ \\not\\subset (SBD) \\\\ (IJ \\parallel BD \\Rightarrow IJ \\not\\subset (SBD)) \\\\ (BD \\subset (SBD)) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      1460,
+      824,
+      1509
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tập nghiệm của bất phương trình $3^{x^2-23} < 9$ là"
+  },
+  {
+    "bbox": [
+      125,
+      1530,
+      276,
+      1576
+    ],
+    "category": "List-item",
+    "text": "A. $(-5;5)$."
+  },
+  {
+    "bbox": [
+      476,
+      1530,
+      630,
+      1576
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty;5)$."
+  },
+  {
+    "bbox": [
+      826,
+      1530,
+      978,
+      1576
+    ],
+    "category": "List-item",
+    "text": "C. $(5;+\\infty)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1530,
+      1303,
+      1576
+    ],
+    "category": "List-item",
+    "text": "D. $(0;5)$."
+  },
+  {
+    "bbox": [
+      727,
+      1606,
+      843,
+      1644
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1663,
+      189,
+      1701
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      75,
+      1724,
+      824,
+      1769
+    ],
+    "category": "Text",
+    "text": "Ta có $3^{x^2-23} < 9 \\Leftrightarrow x^2 - 23 < 2 \\Leftrightarrow x^2 < 25 \\Leftrightarrow -5 < x < 5$."
+  },
+  {
+    "bbox": [
+      75,
+      1794,
+      812,
+      1847
+    ],
+    "category": "Text",
+    "text": "Vậy nghiệm của bất phương trình $3^{x^2-23} < 9$ là $(-5;5)$."
+  },
+  {
+    "bbox": [
+      75,
+      1876,
+      1496,
+      2082
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho lăng trụ tam giác $ABC.A'B'C'$. Biết diện tích mặt bên $(ABB'A')$ bằng 15, khoảng cách từ $C$ đến $(ABB'A')$ bằng 6. Thể tích của khối lăng trụ $ABC.A'B'C'$ bằng bao nhiêu ? (tham khảo hình vẽ bên dưới)."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

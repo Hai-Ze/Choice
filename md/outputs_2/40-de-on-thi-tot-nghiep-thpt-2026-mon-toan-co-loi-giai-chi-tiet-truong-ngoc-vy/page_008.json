@@ -1,0 +1,281 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      125,
+      100,
+      354,
+      138
+    ],
+    "category": "List-item",
+    "text": "A. $2x^2 + 4x + C$."
+  },
+  {
+    "bbox": [
+      476,
+      100,
+      686,
+      138
+    ],
+    "category": "List-item",
+    "text": "B. $x^2 + 4x + C$."
+  },
+  {
+    "bbox": [
+      826,
+      100,
+      970,
+      138
+    ],
+    "category": "List-item",
+    "text": "C. $x^2 + C$."
+  },
+  {
+    "bbox": [
+      1175,
+      100,
+      1339,
+      138
+    ],
+    "category": "List-item",
+    "text": "D. $2x^2 + C$."
+  },
+  {
+    "bbox": [
+      727,
+      163,
+      843,
+      200
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      221,
+      196,
+      257
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      77,
+      276,
+      889,
+      335
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int f(x)dx = \\int (2x+4)dx = 2\\int xdx + 4\\int dx = x^2 + 4x + C$."
+  },
+  {
+    "bbox": [
+      77,
+      352,
+      1494,
+      450
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tuổi thọ của một số linh kiện điện tử (đơn vị: năm) được sản xuất bởi phân xưởng A cho như sau:"
+  },
+  {
+    "bbox": [
+      96,
+      469,
+      1474,
+      602
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ (năm)</td><td>[1,5; 2)</td><td>[2; 2,5)</td><td>[2,5; 3)</td><td>[3; 3,5)</td><td>[3,5; 4)</td></tr><tr><td>Số linh kiện của phân xưởng A</td><td>4</td><td>9</td><td>13</td><td>8</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      77,
+      602,
+      734,
+      643
+    ],
+    "category": "Text",
+    "text": "Tính phương sai của mẫu số liệu ghép nhóm trên"
+  },
+  {
+    "bbox": [
+      125,
+      662,
+      262,
+      697
+    ],
+    "category": "List-item",
+    "text": "A. 0,145."
+  },
+  {
+    "bbox": [
+      476,
+      662,
+      614,
+      697
+    ],
+    "category": "List-item",
+    "text": "B. 0,245."
+  },
+  {
+    "bbox": [
+      826,
+      662,
+      965,
+      697
+    ],
+    "category": "List-item",
+    "text": "C. 0,445."
+  },
+  {
+    "bbox": [
+      1175,
+      662,
+      1309,
+      697
+    ],
+    "category": "List-item",
+    "text": "D. 0,355."
+  },
+  {
+    "bbox": [
+      727,
+      727,
+      843,
+      764
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      786,
+      196,
+      822
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      77,
+      838,
+      584,
+      880
+    ],
+    "category": "Text",
+    "text": "Ta có bảng số liệu với giá trị đại diện:"
+  },
+  {
+    "bbox": [
+      96,
+      896,
+      1474,
+      1095
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ (năm)</td><td>[1,5; 2)</td><td>[2; 2,5)</td><td>[2,5; 3)</td><td>[3; 3,5)</td><td>[3,5; 4)</td></tr><tr><td>Giá trị đại diện</td><td>1,75</td><td>2,25</td><td>2,75</td><td>3,25</td><td>3,75</td></tr><tr><td>Số linh kiện của phân xưởng A</td><td>4</td><td>9</td><td>13</td><td>8</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      77,
+      1153,
+      673,
+      1198
+    ],
+    "category": "Text",
+    "text": "Tổng số linh kiện: $n_1 = 4+9+13+8+6 = 40$"
+  },
+  {
+    "bbox": [
+      77,
+      1224,
+      1036,
+      1308
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình $\\bar{x}_1 = \\frac{1,75 \\cdot 4 + 2,25 \\cdot 9 + 2,75 \\cdot 13 + 3,25 \\cdot 8 + 3,75 \\cdot 6}{4+9+13+8+6} = \\frac{223}{80}$"
+  },
+  {
+    "bbox": [
+      77,
+      1335,
+      1333,
+      1425
+    ],
+    "category": "Text",
+    "text": "Phương sai: $s_1^2 = \\frac{1}{40}(1,75^2 \\cdot 4 + 2,25^2 \\cdot 9 + 2,75^2 \\cdot 13 + 3,25^2 \\cdot 8 + 3,75^2 \\cdot 6) - \\left(\\frac{223}{80}\\right)^2 = \\frac{2271}{6400} \\approx 0,355$"
+  },
+  {
+    "bbox": [
+      77,
+      1454,
+      1494,
+      1572
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho $(H)$ là hình phẳng được tô đâm trong hình vẽ và được giới hạn bởi các đường $y = x^2 + 1$, $x = 0$, $x = 1$, $y = 0$."
+  },
+  {
+    "bbox": [
+      648,
+      1592,
+      919,
+      2003
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      77,
+      2022,
+      1494,
+      2135
+    ],
+    "category": "Text",
+    "text": "Thể tích khối tròn xoay khi cho hình phẳng $(H)$ quay quanh trục $Ox$ được tính theo công thức nào sau đây?"
+  },
+  {
+    "bbox": [
+      77,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2256,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

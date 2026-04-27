@@ -1,0 +1,398 @@
+[
+  {
+    "bbox": [
+      188,
+      130,
+      549,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\overrightarrow{BC'} = -\\vec{a} + \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      130,
+      1209,
+      182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\overrightarrow{BC'} = \\vec{a} - \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      178,
+      525,
+      227
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\overrightarrow{BC'} = \\vec{a} + \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      178,
+      1209,
+      227
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\overrightarrow{BC'} = \\vec{a} + \\vec{b} - \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      227,
+      199,
+      266
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      221,
+      1256,
+      288
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $\\overrightarrow{BC'} = \\overrightarrow{BA} + \\overrightarrow{AC} + \\overrightarrow{CC'} = -\\vec{b} + \\vec{c} + \\vec{a} = \\vec{a} - \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      154,
+      303,
+      1546,
+      388
+    ],
+    "category": "Text",
+    "text": "Câu 11. Thời gian chạy bộ mỗi ngày (tính bằng phút) trong 18 ngày liên tiếp gần nhất của bạn An được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      367,
+      394,
+      1318,
+      510
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[20; 25)</td><td>[25; 30)</td><td>[30; 35)</td><td>[35; 40)</td><td>[40; 45)</td></tr><tr><td>Số ngày</td><td>6</td><td>6</td><td>4</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      519,
+      1287,
+      561
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm đã cho gần nhất với số nào sau đây?"
+  },
+  {
+    "bbox": [
+      191,
+      580,
+      337,
+      623
+    ],
+    "category": "List-item",
+    "text": "A) 31, 44."
+  },
+  {
+    "bbox": [
+      535,
+      580,
+      681,
+      623
+    ],
+    "category": "List-item",
+    "text": "B) 31, 25."
+  },
+  {
+    "bbox": [
+      879,
+      580,
+      1008,
+      623
+    ],
+    "category": "List-item",
+    "text": "C) 5, 59."
+  },
+  {
+    "bbox": [
+      1224,
+      580,
+      1349,
+      623
+    ],
+    "category": "List-item",
+    "text": "D) 5, 60."
+  },
+  {
+    "bbox": [
+      154,
+      642,
+      199,
+      681
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      637,
+      1256,
+      700
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tính toán từ bảng số liệu ta có độ lệch chuẩn $s \\approx 5, 59$."
+  },
+  {
+    "bbox": [
+      154,
+      712,
+      1546,
+      860
+    ],
+    "category": "Text",
+    "text": "Câu 12. Mặt phẳng đi qua điểm $M(3; -1; 1)$ và vuông góc với đường thẳng $\\Delta : \\frac{x+1}{3} = \\frac{y-2}{-2} = \\frac{z+3}{1}$ có phương trình là"
+  },
+  {
+    "bbox": [
+      188,
+      872,
+      552,
+      915
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad 3x - 2y + z + 12 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      872,
+      1224,
+      915
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad x - 2y - 3z - 2 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      915,
+      552,
+      959
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad 3x - 2y + z - 12 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      915,
+      1224,
+      959
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad x - 2y + 3z + 3 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      961,
+      199,
+      998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      957,
+      1546,
+      1020
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Mặt phẳng có VTPT là VTCP của đường thẳng $\\Delta$ nên $\\vec{n} = (3; -2; 1)$."
+  },
+  {
+    "bbox": [
+      154,
+      1020,
+      1194,
+      1061
+    ],
+    "category": "Text",
+    "text": "Phương trình: $3(x - 3) - 2(y + 1) + (z - 1) = 0 \\Leftrightarrow 3x - 2y + z - 12 = 0$."
+  },
+  {
+    "bbox": [
+      154,
+      1078,
+      1546,
+      1165
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      1187,
+      1546,
+      1449
+    ],
+    "category": "Text",
+    "text": "Bài 1. Những ngày giáp Tết Nguyên Đán cũng làep bước vào vụ Đông Xuân, bà con nông dân tích cực xuống đồng cấy lúa. Cây lúa sau khi được cấy trải qua quá trình tăng trưởng đẻ nhánh và phát triển chiều cao trước khi làm dòng, trổ bông. Qua nghiên cứu một giống lúa mới, các nhà khoa học nhận thấy một cây lúa tính từ lúc được cấy bằng một cây mạ với chiều cao 20 cm có tốc độ tăng trưởng chiều cao cho bởi hàm số $v(t) = -0,1t^3 + 1,1t^2$, trong đó $t$ tính theo tuần, $v(t)$ tính bằng cm/tuần. Gọi $h(t)$ là chiều cao của cây lúa ở tuần thứ $t$ ($t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      188,
+      1474,
+      592,
+      1525
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } h(t) = -\\frac{1}{40}t^4 + \\frac{11}{30}t^3 + 20.\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      1533,
+      1107,
+      1574
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Giai đoạn tăng trưởng chiều cao của cây lúa kéo dài 12 tuần.}\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      1586,
+      802,
+      1627
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Chiều cao tối đa của cây lúa là 150 cm.}\n$$"
+  },
+  {
+    "bbox": [
+      188,
+      1641,
+      1413,
+      1684
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Vào thời điểm cây lúa phát triển nhanh nhất, chiều cao của cây đã lớn hơn 80 cm.}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1707,
+      199,
+      1746
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1707,
+      1538,
+      1770
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Dúng. Ta có $h(t) = \\int v(t)dt = \\int(-0,1t^3 + 1,1t^2)dt = -\\frac{1}{40}t^4 + \\frac{11}{30}t^3 + C$."
+  },
+  {
+    "bbox": [
+      154,
+      1770,
+      1137,
+      1818
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $h(0) = 20 \\Rightarrow C = 20$. Suy ra $h(t) = -\\frac{1}{40}t^4 + \\frac{11}{30}t^3 + 20$."
+  },
+  {
+    "bbox": [
+      154,
+      1830,
+      1546,
+      1915
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Sai.} \\text{ Cây tăng trưởng khi } v(t) > 0 \\Leftrightarrow -0,1t^3 + 1,1t^2 > 0 \\Leftrightarrow t^2(-0,1t + 1,1) > 0 \\Leftrightarrow -0,1t + 1,1 > 0 \\Leftrightarrow t < 11.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1919,
+      1245,
+      1961
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian tăng trưởng của cây lúa bé hơn 11 tuần (không phải 12 tuần)."
+  },
+  {
+    "bbox": [
+      205,
+      1982,
+      709,
+      2023
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Sai.} \\text{ Ta có } v(t) \\ge 0 \\Leftrightarrow t \\in [0; 11].\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2025,
+      1309,
+      2067
+    ],
+    "category": "Text",
+    "text": "Chiều cao tối đa của cây lúa là giá trị lớn nhất của hàm số $h(t)$ trên đoạn $[0; 11]$."
+  },
+  {
+    "bbox": [
+      154,
+      2067,
+      704,
+      2163
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } h'(t) = 0 \\Leftrightarrow v(t) = 0 \\Leftrightarrow \\begin{cases} t = 0 \\\\ t = 11 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2163,
+      1194,
+      2214
+    ],
+    "category": "Text",
+    "text": "Tính các giá trị: $h(0) = 20$, $h(11) = -\\frac{1}{40} \\cdot 11^4 + \\frac{11}{30} \\cdot 11^3 + 20 \\approx 141,6$ cm."
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "150"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1499,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

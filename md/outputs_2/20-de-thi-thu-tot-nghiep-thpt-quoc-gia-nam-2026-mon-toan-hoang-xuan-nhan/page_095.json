@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      92,
+      61,
+      686,
+      107
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Nguyên hàm của hàm số $y = 5^x$ là"
+  },
+  {
+    "bbox": [
+      217,
+      110,
+      531,
+      168
+    ],
+    "category": "Formula",
+    "text": "A. $\\int 5^x dx = 5^x \\ln 5 + C$."
+  },
+  {
+    "bbox": [
+      217,
+      178,
+      503,
+      262
+    ],
+    "category": "Formula",
+    "text": "C. $\\int 5^x dx = \\frac{5^x}{\\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      921,
+      110,
+      1182,
+      168
+    ],
+    "category": "Formula",
+    "text": "B. $\\int 5^x dx = 5^x + C$."
+  },
+  {
+    "bbox": [
+      921,
+      178,
+      1222,
+      262
+    ],
+    "category": "Formula",
+    "text": "D. $\\int 5^x dx = \\frac{5^x}{5 \\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      92,
+      266,
+      792,
+      314
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho $f(x) = 5^x$ thì $f(x+2) - f(x)$ bằng."
+  },
+  {
+    "bbox": [
+      217,
+      328,
+      313,
+      363
+    ],
+    "category": "List-item",
+    "text": "A. 25."
+  },
+  {
+    "bbox": [
+      569,
+      328,
+      663,
+      363
+    ],
+    "category": "List-item",
+    "text": "B. 24."
+  },
+  {
+    "bbox": [
+      921,
+      324,
+      1083,
+      372
+    ],
+    "category": "List-item",
+    "text": "C. $25f(x)$."
+  },
+  {
+    "bbox": [
+      1273,
+      324,
+      1439,
+      372
+    ],
+    "category": "List-item",
+    "text": "D. $24f(x)$."
+  },
+  {
+    "bbox": [
+      92,
+      379,
+      887,
+      427
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Họ nguyên hàm của hàm số $f(x) = 3x^2 + \\sin x$ là"
+  },
+  {
+    "bbox": [
+      217,
+      437,
+      452,
+      474
+    ],
+    "category": "List-item",
+    "text": "A. $x^3 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      569,
+      437,
+      805,
+      474
+    ],
+    "category": "List-item",
+    "text": "B. $x^3 + \\sin x + C$."
+  },
+  {
+    "bbox": [
+      921,
+      437,
+      1162,
+      474
+    ],
+    "category": "List-item",
+    "text": "C. $x^3 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      1273,
+      437,
+      1525,
+      474
+    ],
+    "category": "List-item",
+    "text": "D. $3x^3 - \\sin x + C$."
+  },
+  {
+    "bbox": [
+      92,
+      481,
+      1585,
+      571
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, phương trình nào sau đây là phương trình của mặt cầu có tâm $I(7; 6; -5)$ và bán kính 9?"
+  },
+  {
+    "bbox": [
+      217,
+      578,
+      712,
+      630
+    ],
+    "category": "Formula",
+    "text": "A. $(x+7)^2 + (y+6)^2 + (z-5)^2 = 81$."
+  },
+  {
+    "bbox": [
+      921,
+      578,
+      1400,
+      630
+    ],
+    "category": "Formula",
+    "text": "B. $(x+7)^2 + (y+6)^2 + (z-5)^2 = 9$."
+  },
+  {
+    "bbox": [
+      217,
+      638,
+      712,
+      690
+    ],
+    "category": "Formula",
+    "text": "C. $(x-7)^2 + (y-6)^2 + (z+5)^2 = 81$."
+  },
+  {
+    "bbox": [
+      921,
+      638,
+      1400,
+      690
+    ],
+    "category": "Formula",
+    "text": "D. $(x-7)^2 + (y-6)^2 + (z+5)^2 = 9$."
+  },
+  {
+    "bbox": [
+      92,
+      692,
+      1591,
+      774
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Bảng số liệu ghép nhóm về chiều cao đo được (đơn vị: cm) của 30 học sinh nam lớp 12A2 đầu năm học 2024 – 2025 của một trường THPT được cho như sau:"
+  },
+  {
+    "bbox": [
+      231,
+      774,
+      1328,
+      888
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chiều cao</td><td>[150; 155)</td><td>[155; 160)</td><td>[160; 165)</td><td>[165; 170)</td><td>[170; 175)</td></tr><tr><td>Tần số</td><td>3</td><td>7</td><td>10</td><td>7</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      217,
+      904,
+      924,
+      948
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên."
+  },
+  {
+    "bbox": [
+      217,
+      964,
+      359,
+      1053
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{\\sqrt{285}}{3}$."
+  },
+  {
+    "bbox": [
+      569,
+      964,
+      712,
+      1053
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\sqrt{287}}{3}$."
+  },
+  {
+    "bbox": [
+      921,
+      982,
+      1042,
+      1030
+    ],
+    "category": "List-item",
+    "text": "C. $4\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      1273,
+      982,
+      1390,
+      1030
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{71}$."
+  },
+  {
+    "bbox": [
+      92,
+      1053,
+      805,
+      1099
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Diện tích phần gạch sọc trong hình vẽ bằng"
+  },
+  {
+    "bbox": [
+      217,
+      1102,
+      511,
+      1198
+    ],
+    "category": "Formula",
+    "text": "A. $\\int_{-3}^{1} |-x^2 - 2x - 3| dx$."
+  },
+  {
+    "bbox": [
+      569,
+      1102,
+      857,
+      1198
+    ],
+    "category": "Formula",
+    "text": "B. $\\int_{-3}^{1} (x^2 - 2x - 3) dx$."
+  },
+  {
+    "bbox": [
+      217,
+      1207,
+      511,
+      1305
+    ],
+    "category": "Formula",
+    "text": "C. $\\int_{-3}^{1} (x^2 + 2x - 3) dx$."
+  },
+  {
+    "bbox": [
+      569,
+      1207,
+      878,
+      1305
+    ],
+    "category": "Formula",
+    "text": "D. $\\int_{-3}^{1} (-x^2 - 2x + 3) dx$."
+  },
+  {
+    "bbox": [
+      1172,
+      1069,
+      1585,
+      1432
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      533,
+      1438,
+      1169,
+      1482
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG SAI"
+  },
+  {
+    "bbox": [
+      92,
+      1490,
+      800,
+      1577
+    ],
+    "category": "Text",
+    "text": "**Câu 13.** Cho hàm số $y = \\frac{-x^2 + x + 1}{x + 1}$ có đồ thị $(C)$."
+  },
+  {
+    "bbox": [
+      167,
+      1577,
+      1596,
+      1894
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m emh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Đồ thị $(C)$ có tiệm cận đứng $x = -1$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Hàm số đồng biến trên các khoảng $(-2; -1)$, $(-1; 0)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Hàm số có hai điểm cực trị.</td><td>☐</td><td>☐</td></tr><tr><td>d) Đồ thị $(C)$ không cắt trục $Ox$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2017,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2021,
+      1564,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "2"
+  }
+]

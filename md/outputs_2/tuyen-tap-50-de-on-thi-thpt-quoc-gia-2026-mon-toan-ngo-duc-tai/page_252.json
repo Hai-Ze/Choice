@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      286,
+      723,
+      369
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\frac{2x - 3}{x^2 + 4}$."
+  },
+  {
+    "bbox": [
+      222,
+      371,
+      856,
+      418
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $f(x)$ có điểm cực đại là $x = 4$."
+  },
+  {
+    "bbox": [
+      222,
+      425,
+      1241,
+      474
+    ],
+    "category": "List-item",
+    "text": "b) Đồ thị hàm số $y = f(x)$ nhận trục hoành làm tiệm cận ngang."
+  },
+  {
+    "bbox": [
+      222,
+      474,
+      477,
+      556
+    ],
+    "category": "List-item",
+    "text": "c) $f(24) = \\frac{9}{116}$."
+  },
+  {
+    "bbox": [
+      222,
+      556,
+      1189,
+      605
+    ],
+    "category": "List-item",
+    "text": "d) Tập giá trị của hàm số đã cho là đoạn $[a; b]$ thì $3a + 4b = 2$."
+  },
+  {
+    "bbox": [
+      192,
+      646,
+      892,
+      964
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một chiếc máy bay thương mại Comac C919 đang bay trên bầu trời theo một đường thẳng từ $D$ đến $E$ có hình chiếu trên mặt đất là đoạn $CB$. Tại vị trí $D$ thì máy bay bay cách mặt đất 9000 m, tại vị trí $E$ thì máy bay cách mặt đất 12000 m."
+  },
+  {
+    "bbox": [
+      922,
+      656,
+      1435,
+      1065
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1093,
+      1455,
+      1302
+    ],
+    "category": "Text",
+    "text": "Một ra đa được đặt trên mặt đất tại vị trí $O$ cách $C$ khoảng 20000 m, cách $B$ khoảng 16000 m và $\\widehat{BOC} = 90^\\circ$; phạm vi theo dõi của ra đa là 20 km. Xét hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là 1000 m) với $O$ là vị trí đặt ra đa, $B$ thuộc tia $Oy$, $C$ thuộc tia $Ox$."
+  },
+  {
+    "bbox": [
+      222,
+      1310,
+      1442,
+      1357
+    ],
+    "category": "List-item",
+    "text": "a) Tại $D$, máy bay cách ra đa 23000 m (làm tròn đến hàng nghìn đơn vị mét)."
+  },
+  {
+    "bbox": [
+      222,
+      1364,
+      1449,
+      1461
+    ],
+    "category": "List-item",
+    "text": "b) Khi máy bay bay đến điểm $I$ (là trung điểm của $DE$), máy bay cách mặt đất 10500 m."
+  },
+  {
+    "bbox": [
+      222,
+      1468,
+      1449,
+      1569
+    ],
+    "category": "List-item",
+    "text": "c) Trên hành trình bay từ $D$ đến $E$, máy bay sẽ đi qua điểm có tọa độ $P(16; 3,2; 9,6)$."
+  },
+  {
+    "bbox": [
+      222,
+      1572,
+      1449,
+      1727
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách giữa vị trí đầu tiên và vị trí cuối cùng mà máy bay bay trong phạm vi theo dõi của ra đa là 22000 m (làm tròn đến hàng trăm theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      192,
+      1750,
+      1455,
+      2069
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một khinh khí cầu bay với độ cao (so với mực nước biển) tại thời điểm $t$ ($0 \\le t \\le 29$) là $h(t)$, trong đó $t$ tính bằng phút, $h(t)$ tính bằng mét. Tốc độ bay của khinh khí cầu được cho bởi hàm số $v(t) = at^2 + ex$, ($a, b \\in \\mathbb{R}$), với $t$ tính bằng phút, $v(t)$ tính bằng mét/phút. Tại thời điểm xuất phát, khinh khí cầu ở độ cao 520 m và 5 phút sau khi xuất phát, khinh khí cầu đã ở độ cao 530 m. Khinh khí cầu sẽ trở lại độ cao khi xuất phát sau 15 phút."
+  },
+  {
+    "bbox": [
+      222,
+      2079,
+      481,
+      2122
+    ],
+    "category": "List-item",
+    "text": "a) $h(0) = 520$ m."
+  },
+  {
+    "bbox": [
+      222,
+      2125,
+      1377,
+      2211
+    ],
+    "category": "List-item",
+    "text": "b) Độ cao của khinh khí cầu tại thời điểm $t$ ($0 \\le t \\le 29$) là $h(t) = \\int_{0}^{t} v(t) \\, dt$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2286
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

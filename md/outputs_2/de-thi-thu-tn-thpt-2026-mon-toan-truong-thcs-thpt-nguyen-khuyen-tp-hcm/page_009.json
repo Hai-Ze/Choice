@@ -1,0 +1,482 @@
+[
+  {
+    "bbox": [
+      113,
+      126,
+      1446,
+      205
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Trong không gian $Oxyz$, cho mặt phẳng $(P): \\frac{x}{2} + \\frac{y}{3} + \\frac{z}{-2} = 1$ có một vecto pháp tuyến là."
+  },
+  {
+    "bbox": [
+      251,
+      207,
+      463,
+      259
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (2; 3; 2)$."
+  },
+  {
+    "bbox": [
+      599,
+      207,
+      808,
+      259
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (3; 2; 3)$."
+  },
+  {
+    "bbox": [
+      945,
+      207,
+      1170,
+      259
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (2; 3; -2)$."
+  },
+  {
+    "bbox": [
+      1271,
+      207,
+      1497,
+      259
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (3; 2; -3)$."
+  },
+  {
+    "bbox": [
+      836,
+      267,
+      950,
+      305
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      313,
+      1488,
+      444
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P): \\frac{x}{2} + \\frac{y}{3} + \\frac{z}{-2} = 1 \\Leftrightarrow 3x + 2y - 3z - 6 = 0$ nên $(P)$ có một vecto pháp tuyến là $\\vec{n} = (3; 2; -3)$."
+  },
+  {
+    "bbox": [
+      113,
+      451,
+      795,
+      549
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Nếu $\\int_{-1}^{2} f(x) dx = 5$ thì $\\int_{-1}^{2} 4f(x) dx$ bằng"
+  },
+  {
+    "bbox": [
+      251,
+      553,
+      346,
+      613
+    ],
+    "category": "List-item",
+    "text": "A. 20."
+  },
+  {
+    "bbox": [
+      536,
+      553,
+      626,
+      613
+    ],
+    "category": "List-item",
+    "text": "B. 10."
+  },
+  {
+    "bbox": [
+      838,
+      553,
+      925,
+      635
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      1121,
+      553,
+      1203,
+      635
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      836,
+      641,
+      950,
+      679
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      679,
+      728,
+      775
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{-1}^{2} 4f(x) dx = 4 \\int_{-1}^{2} f(x) dx = 4.5 = 20\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      777,
+      1247,
+      827
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Cho dãy số $(u_n)$ thỏa mãn $u_1 = 2, u_{n+1} = 3u_n, \\forall n \\in \\mathbb{N}^*$. Giá trị của $u_3$ bằng"
+  },
+  {
+    "bbox": [
+      251,
+      835,
+      332,
+      895
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      546,
+      835,
+      630,
+      917
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      818,
+      835,
+      908,
+      895
+    ],
+    "category": "List-item",
+    "text": "C. 18."
+  },
+  {
+    "bbox": [
+      1106,
+      857,
+      1196,
+      895
+    ],
+    "category": "List-item",
+    "text": "D. 12."
+  },
+  {
+    "bbox": [
+      836,
+      923,
+      950,
+      961
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      959,
+      1116,
+      1008
+    ],
+    "category": "Text",
+    "text": "Do $u_{n+1} = 3u_n$ nên dãy số $(u_n)$ là cấp số nhân có công bội $q = 3$."
+  },
+  {
+    "bbox": [
+      251,
+      1016,
+      647,
+      1063
+    ],
+    "category": "Text",
+    "text": "Vì vậy $u_3 = u_1 \\cdot q^2 = 2 \\cdot 3^2 = 18$."
+  },
+  {
+    "bbox": [
+      113,
+      1069,
+      946,
+      1123
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Hàm số $y = \\sqrt{-x^2 + 2x}$ đồng biến trên khoảng nào?"
+  },
+  {
+    "bbox": [
+      251,
+      1127,
+      378,
+      1179
+    ],
+    "category": "List-item",
+    "text": "A. (0;1)."
+  },
+  {
+    "bbox": [
+      551,
+      1127,
+      676,
+      1179
+    ],
+    "category": "List-item",
+    "text": "B. (1;2)."
+  },
+  {
+    "bbox": [
+      863,
+      1127,
+      1022,
+      1179
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      1237,
+      1127,
+      1397,
+      1179
+    ],
+    "category": "List-item",
+    "text": "D. (2; $+\\infty$)."
+  },
+  {
+    "bbox": [
+      836,
+      1185,
+      950,
+      1223
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1223,
+      855,
+      1265
+    ],
+    "category": "Text",
+    "text": "Điều kiện bài toán $-x^2 + 2x \\ge 0 \\Leftrightarrow 0 \\le x \\le 2$."
+  },
+  {
+    "bbox": [
+      251,
+      1269,
+      734,
+      1357
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = \\frac{-2x + 2}{2\\sqrt{-x^2 + 2x}} \\ge 0 \\Rightarrow x \\le 1$."
+  },
+  {
+    "bbox": [
+      251,
+      1361,
+      813,
+      1409
+    ],
+    "category": "Text",
+    "text": "Vậy hàm số đồng biến trên khoảng (0;1)."
+  },
+  {
+    "bbox": [
+      113,
+      1421,
+      1125,
+      1509
+    ],
+    "category": "Text",
+    "text": "**Câu 10:** Cho hàm số $y = \\frac{x^2 - 3x + 4}{x + 1}$. Tiệm cận đứng của đồ thị hàm số là"
+  },
+  {
+    "bbox": [
+      251,
+      1513,
+      378,
+      1551
+    ],
+    "category": "List-item",
+    "text": "A. $y = 1$."
+  },
+  {
+    "bbox": [
+      551,
+      1513,
+      695,
+      1551
+    ],
+    "category": "List-item",
+    "text": "B. $x = -1$."
+  },
+  {
+    "bbox": [
+      863,
+      1513,
+      983,
+      1551
+    ],
+    "category": "List-item",
+    "text": "C. $x = 1$."
+  },
+  {
+    "bbox": [
+      1237,
+      1513,
+      1379,
+      1551
+    ],
+    "category": "List-item",
+    "text": "D. $y = -1$."
+  },
+  {
+    "bbox": [
+      836,
+      1557,
+      950,
+      1595
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1597,
+      774,
+      1645
+    ],
+    "category": "Text",
+    "text": "Tập xác định của hàm số $D = \\mathbb{R} \\setminus \\{-1\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      1655,
+      1479,
+      1784
+    ],
+    "category": "Text",
+    "text": "$\\lim_{x \\to (-1)^+} \\frac{x^2 - 3x + 4}{x + 1} = +\\infty$; $\\lim_{x \\to (-1)^-} \\frac{x^2 - 3x + 4}{x + 1} = -\\infty \\Rightarrow x = -1$ là đường tiệm cận đứng của đồ thị hàm số."
+  },
+  {
+    "bbox": [
+      113,
+      1784,
+      1493,
+      1866
+    ],
+    "category": "Text",
+    "text": "**Câu 11:** Bạn An rất thích nhây hiện đại. Thời gian tập nhây mỗi ngày của bạn An được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      322,
+      1869,
+      1459,
+      1972
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[20;25)</td><td>[25;30)</td><td>[30;35)</td><td>[35;40)</td><td>[40;45)</td></tr><tr><td>Số ngày</td><td>6</td><td>6</td><td>4</td><td>1</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1978,
+      1405,
+      2022
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm có giá trị gần nhất với giá trị nào dưới đây?"
+  },
+  {
+    "bbox": [
+      251,
+      2022,
+      388,
+      2060
+    ],
+    "category": "List-item",
+    "text": "A. 31,25."
+  },
+  {
+    "bbox": [
+      539,
+      2022,
+      674,
+      2060
+    ],
+    "category": "List-item",
+    "text": "B. 31,26."
+  },
+  {
+    "bbox": [
+      863,
+      2022,
+      966,
+      2060
+    ],
+    "category": "List-item",
+    "text": "C. 5,4."
+  },
+  {
+    "bbox": [
+      1237,
+      2022,
+      1341,
+      2060
+    ],
+    "category": "List-item",
+    "text": "D. 5,6."
+  },
+  {
+    "bbox": [
+      836,
+      2066,
+      950,
+      2104
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      2104,
+      527,
+      2142
+    ],
+    "category": "Text",
+    "text": "Bảng giá trị đại diện"
+  }
+]

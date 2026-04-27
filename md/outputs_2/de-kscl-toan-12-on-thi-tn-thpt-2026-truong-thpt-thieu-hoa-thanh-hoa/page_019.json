@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      251,
+      98,
+      631,
+      145
+    ],
+    "category": "Text",
+    "text": "Ta có: $C(1;4;3)$, $D(3;1;3)$."
+  },
+  {
+    "bbox": [
+      251,
+      152,
+      1140,
+      200
+    ],
+    "category": "Text",
+    "text": "Gọi $E;F$ lần lượt là giao điểm của $MC;MD$ với mặt phẳng $(Oxy)$."
+  },
+  {
+    "bbox": [
+      251,
+      211,
+      1337,
+      437
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Gọi } E(x; y; 0), \\text{ ta có: } \\overline{MC} = k\\overline{ME} \\Leftrightarrow \\begin{cases} 1-5 = k(x-5) \\\\ 4-6 = k(y-6) \\\\ 3-5 = k(0-5) \\end{cases} \\Leftrightarrow \\begin{cases} x = -5 \\\\ y = 1 \\\\ k = \\frac{2}{5} \\end{cases} \\Rightarrow E(-5;1;0).\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      450,
+      594,
+      537
+    ],
+    "category": "Text",
+    "text": "Tương tự: $F\\left(0; -\\frac{13}{2}; 0\\right)$."
+  },
+  {
+    "bbox": [
+      251,
+      544,
+      1161,
+      590
+    ],
+    "category": "Text",
+    "text": "Gọi $I;H$ lần lượt là giao điểm của đường thẳng $NO$ với $EF$ và $AB$."
+  },
+  {
+    "bbox": [
+      251,
+      601,
+      382,
+      637
+    ],
+    "category": "Text",
+    "text": "Tính $IH$:"
+  },
+  {
+    "bbox": [
+      251,
+      640,
+      1527,
+      736
+    ],
+    "category": "Text",
+    "text": "Vì các $I;H;O;N \\in (Oxy)$ nên chúng ta sẽ chuyển về hệ trục tọa độ trong mặt phẳng $Oxy$ để tìm tọa độ $I;H$."
+  },
+  {
+    "bbox": [
+      251,
+      749,
+      1428,
+      874
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Ta có: } N(-6; -4); O(0; 0) &\\Rightarrow NO: 2x - 3y = 0; E(-5; 1); F(0; -\\frac{13}{2}) &\\Rightarrow EF: 3x + 2y + 13 = 0; \\\\ A(3; 1); B(1; 4) &\\Rightarrow AB: 3x + 2y - 11 = 0. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      883,
+      1041,
+      976
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } I(-3; -2), H\\left(\\frac{33}{13}; \\frac{22}{13}\\right) \\Rightarrow IH = \\frac{24\\sqrt{13}}{13}, IN = \\sqrt{13}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      987,
+      1500,
+      1081
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng quảng đường chất điểm di chuyển cần tính thời gian là } IH + HN = 2IH + IN = \\frac{61\\sqrt{13}}{13}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1088,
+      1016,
+      1193
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy thời gian cần tìm là: } t = \\left( \\frac{61\\sqrt{13}}{13} \\right): 0,8 \\approx 21,1 \\text{ (giây).}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1213,
+      1574,
+      1339
+    ],
+    "category": "Text",
+    "text": "**Câu 20:** Một cây cầu có dạng cung $OA$ của đồ thị hàm số $y = 4,8\\sin\\frac{x}{9}$ và được mô tả trong hệ trục tọa độ với đơn vị trục là mét như ở hình dưới đây:"
+  },
+  {
+    "bbox": [
+      613,
+      1352,
+      1214,
+      1636
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      213,
+      1636,
+      1562,
+      1866
+    ],
+    "category": "Text",
+    "text": "Một xà lan chở khối hàng hóa được xếp thành hình集合 chữ nhật với chiều rộng của khối hàng hóa đó là 9 m sao cho xà lan có thể đi qua được gầm cầu (trục $Ox$ nằm trên mặt sàn của xà lan), để đảm bảo an toàn thì vị trí cao nhất của thùng hàng cách mép dưới cầu 70 cm (Thẳng vị trí cao nhất hướng lên). Tính chiều cao tối đa của khối hàng hóa đó để xà lan có thể đi qua được gầm cầu (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      548,
+      1866,
+      1238,
+      2158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      837,
+      2166,
+      952,
+      2204
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      213,
+      2210,
+      414,
+      2249
+    ],
+    "category": "Text",
+    "text": "Đáp án: 3,51."
+  }
+]

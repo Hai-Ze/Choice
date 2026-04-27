@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1167,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1572,
+      238
+    ],
+    "category": "Text",
+    "text": "Suy ra, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $P(B|A) = \\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      155,
+      254,
+      1572,
+      302
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người thứ nhất không bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      162,
+      320,
+      594,
+      402
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}) = 1 - P(A) = 1 - \\frac{66}{100} = \\frac{17}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      418,
+      1572,
+      565
+    ],
+    "category": "Text",
+    "text": "Nếu người bốc thăm thứ nhất không bốc được vé trúng thưởng năm triệu đồng thì số vé trúng thưởng năm triệu đồng còn lại trong hộ là 66 nên $P(B|\\bar{A}) = \\frac{66}{99}$."
+  },
+  {
+    "bbox": [
+      155,
+      583,
+      1572,
+      686
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      162,
+      704,
+      1024,
+      788
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) = \\frac{33}{50} \\cdot \\frac{65}{99} + \\frac{17}{50} \\cdot \\frac{66}{99} = \\frac{33}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      804,
+      1572,
+      917
+    ],
+    "category": "Text",
+    "text": "d) Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $P(A|B)$."
+  },
+  {
+    "bbox": [
+      155,
+      944,
+      1125,
+      1107
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo công thức Bayes, ta có: } P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{\\frac{33}{50} \\cdot \\frac{65}{99}}{\\frac{33}{50}} = \\frac{65}{99}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1182,
+      808,
+      1224
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      1240,
+      1572,
+      1717
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cô Minh Nhàn muốn nhờ thợ trang trí mộtttức tường hình chữ nhật $ADEF$ với kích thước $EF = 6m$, $DE = 3m$ sao cho cân xứng hai nửa. Phần gạch chéo là hình giới hạn bởi đường gấp khúc $AFED$ và nửa đường tròn đường kính $AD$, được thuê sơn với đơn giá 250000 đồng mỗi mét vuông. Phần màu trắng giới hạn bởi nửa đường tròn đường kính $AD$ và một đường parabol (có định $H$ cách đường thẳng $AB$ một khoảng bằng $2m$ và đi qua hai điểm $B, C$ nằm trên cạnh $AD$ thỏa mãn $AB = CD = 1,5m$) được thuê trang trí bằngttức phù điêu đắp bằng xi măng với đơn giá 1950000 đồng mỗi mét vuông (tham khảo hình vẽ). Hỏi cô Minh Nhàn phải trả bao nhiêu triệu đồng để trang tríttức tường như vậy (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      477,
+      1733,
+      1251,
+      2144
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2173,
+      493,
+      2209
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

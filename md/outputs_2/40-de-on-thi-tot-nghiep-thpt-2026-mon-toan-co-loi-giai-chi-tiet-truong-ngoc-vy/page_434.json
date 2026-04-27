@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      571,
+      112,
+      1152,
+      691
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      727,
+      1371,
+      825
+    ],
+    "category": "Text",
+    "text": "- Gọi $D$ là trung điểm của $B'C'$ $\\Rightarrow \\begin{cases} MN \\perp A'D \\\\ MN \\perp DP \\end{cases} \\Rightarrow MN \\perp (A'DPA) \\Rightarrow (MNP) \\perp (A'DPA)$"
+  },
+  {
+    "bbox": [
+      155,
+      850,
+      1080,
+      900
+    ],
+    "category": "Text",
+    "text": "- Gọi $E = MN \\cap A'D \\Rightarrow EP$ là giao tuyến của $(MNP)$ và $(A'DPA)$."
+  },
+  {
+    "bbox": [
+      155,
+      925,
+      963,
+      977
+    ],
+    "category": "Text",
+    "text": "- Dựng $AH \\perp EP \\Rightarrow AH \\perp (MNP) \\Rightarrow AH = d(A;(MNP))$."
+  },
+  {
+    "bbox": [
+      155,
+      1002,
+      1195,
+      1236
+    ],
+    "category": "Text",
+    "text": "- Gọi $F$ là trung điểm của $AP \\Rightarrow EF \\perp AP$ và $EF = A'A = 2$, $FP = \\frac{AP}{2} = \\frac{3}{2}$\n$\\Rightarrow EP = \\sqrt{EF^2 + FP^2} = \\frac{5}{2} \\Rightarrow AH = \\frac{EF \\cdot AP}{EP} = \\frac{2 \\cdot 3}{\\frac{5}{2}} = \\frac{12}{5}$."
+  },
+  {
+    "bbox": [
+      155,
+      1261,
+      569,
+      1345
+    ],
+    "category": "Text",
+    "text": "Vậy $d(A;(MNP)) = \\frac{12}{5} = 2,4$."
+  },
+  {
+    "bbox": [
+      155,
+      1361,
+      1575,
+      1642
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một cơ quan hành chính nhà nước thực hiện việc tinh简简 biên chế thông qua phỏng vấn. Tỷ lệ nhân viên của cơ quan thuộc hai nhóm trình độ: Đại học, Cao đẳng lần lượt là 65% và 35%. Qua phỏng vấn thì tỷ lệ nhân viên bị tinh简简 của nhóm đại học là 10%, nhóm cao đẳng là 15%. Chọn một nhân viên bất kỳ đã bị tinh简简 thì hãy tính xác suất để người này có trình độ đại học (kết quả là một số thập phân nhỏ hơn 1 đã làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      155,
+      1658,
+      493,
+      1695
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1717,
+      924,
+      1755
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1775,
+      347,
+      1813
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,55"
+  },
+  {
+    "bbox": [
+      155,
+      1834,
+      1109,
+      1878
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “nhân viên được chọn thuộc nhóm trình độ đại học”;"
+  },
+  {
+    "bbox": [
+      162,
+      1891,
+      1065,
+      1936
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố: “nhân viên được chọn thuộc nhóm trình độ cao đẳng”;"
+  },
+  {
+    "bbox": [
+      162,
+      1949,
+      816,
+      1993
+    ],
+    "category": "Text",
+    "text": "$E$ là biến cố: “nhân viên được chọn bị tinh简简”."
+  },
+  {
+    "bbox": [
+      155,
+      2010,
+      340,
+      2055
+    ],
+    "category": "Text",
+    "text": "Ta có $B = \\bar{A}$."
+  },
+  {
+    "bbox": [
+      155,
+      2078,
+      965,
+      2126
+    ],
+    "category": "Text",
+    "text": "Ta cần tính $P(E)$. Theo công thức xác suất toàn phần, ta có"
+  },
+  {
+    "bbox": [
+      162,
+      2155,
+      695,
+      2218
+    ],
+    "category": "Formula",
+    "text": "$$\nP(E) = P(A) \\cdot P(E|A) + P(\\bar{A}) \\cdot P(E|\\bar{A}).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

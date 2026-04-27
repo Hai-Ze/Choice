@@ -1,0 +1,310 @@
+[
+  {
+    "bbox": [
+      146,
+      71,
+      1266,
+      116
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Thống kê mức tiêu dùng của 20 hộ gia đình hàng tháng có bảng số liệu sau"
+  },
+  {
+    "bbox": [
+      242,
+      116,
+      1489,
+      255
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chi phí tiêu dùng (triệu đồng)</td><td>[5;10)</td><td>[10;15)</td><td>[15,20)</td><td>[20;25)</td><td>[25;30)</td></tr><tr><td>Số gia đình</td><td>1</td><td>3</td><td>8</td><td>5</td><td>3</td></tr></table>"
+  },
+  {
+    "bbox": [
+      146,
+      255,
+      703,
+      297
+    ],
+    "category": "Text",
+    "text": "Giá trị trung vị của mẫu số liệu trên bằng"
+  },
+  {
+    "bbox": [
+      146,
+      303,
+      279,
+      340
+    ],
+    "category": "List-item",
+    "text": "A. 18,75."
+  },
+  {
+    "bbox": [
+      498,
+      303,
+      628,
+      340
+    ],
+    "category": "List-item",
+    "text": "B. 18,25."
+  },
+  {
+    "bbox": [
+      850,
+      303,
+      933,
+      340
+    ],
+    "category": "List-item",
+    "text": "C. 18."
+  },
+  {
+    "bbox": [
+      1215,
+      303,
+      1345,
+      340
+    ],
+    "category": "List-item",
+    "text": "D. 13,75."
+  },
+  {
+    "bbox": [
+      146,
+      356,
+      1586,
+      500
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $f(x) = \\frac{ax^2 + 2x - 5}{x^2 - 3x + 2}$ (với $a$ là hằng số). Biết rằng $f(x)$ liên tục tại điểm $x=1$. Giá trị của $f(1)$ bằng"
+  },
+  {
+    "bbox": [
+      146,
+      514,
+      237,
+      549
+    ],
+    "category": "List-item",
+    "text": "A. -6."
+  },
+  {
+    "bbox": [
+      498,
+      514,
+      590,
+      549
+    ],
+    "category": "List-item",
+    "text": "B. -8."
+  },
+  {
+    "bbox": [
+      850,
+      514,
+      926,
+      549
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1215,
+      514,
+      1287,
+      549
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      146,
+      553,
+      1416,
+      601
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = f(x)$. Đồ thị hàm số $f'(x)$ là đồ thị một hàm số bậc 3 như hình vẽ."
+  },
+  {
+    "bbox": [
+      698,
+      627,
+      1012,
+      905
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      146,
+      928,
+      715,
+      974
+    ],
+    "category": "Text",
+    "text": "Số điểm cực tiểu của hàm số $y = f(x)$ là"
+  },
+  {
+    "bbox": [
+      146,
+      993,
+      223,
+      1028
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      498,
+      993,
+      568,
+      1028
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      850,
+      993,
+      928,
+      1028
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1215,
+      993,
+      1295,
+      1028
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      146,
+      1028,
+      1586,
+      1184
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Một hình vuông có cạnh bằng 3. Chia hình vuông đó thành 9 hình vuông bằng nhau và tô màu hình vuông ở chính giữa. Với mỗi hình vuông nhỏ chưa được tô màu, lại chia thành 9 hình vuông bằng nhau và tô màu hình vuông ở chính giữa. Cứ như thế, quá trình trên được lặp lại. Tính diện tích phần được tô màu sau 3 lần chia."
+  },
+  {
+    "bbox": [
+      809,
+      1190,
+      1049,
+      1434
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      146,
+      1477,
+      266,
+      1559
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{217}{81}$."
+  },
+  {
+    "bbox": [
+      511,
+      1477,
+      621,
+      1559
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{161}{81}$."
+  },
+  {
+    "bbox": [
+      850,
+      1477,
+      968,
+      1559
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{217}{729}$."
+  },
+  {
+    "bbox": [
+      1252,
+      1477,
+      1369,
+      1559
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{512}{81}$."
+  },
+  {
+    "bbox": [
+      146,
+      1565,
+      1586,
+      1648
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      146,
+      1654,
+      1586,
+      1918
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một thư viện thực hiện khảo sát 200 độc giả chia làm hai nhóm tuổi: nhóm trẻ (dưới 35 tuổi) và nhóm trung niên (từ 35 tuổi trở lên). Các độc giả chỉ lựa chọn đọc 1 trong 3 loại sách: văn học, khoa học và ẩm thực. Kết quả thu được cho thấy: có 120 người thuộc nhóm trẻ. Có 80 người lựa chọn đọc sách văn học. Số người thuộc nhóm trung niên lựa chọn đọc sách khoa học là 20 người. Biết rằng hai biến cố: “độc giả thuộc nhóm trung niên” và “độc giả lựa chọn đọc sách văn học” là hai biến cố độc lập. Chọn ngẫu nhiên một độc giả được khảo sát."
+  },
+  {
+    "bbox": [
+      196,
+      1918,
+      1051,
+      1963
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để độc giả được chọn là thuộc nhóm trẻ bằng 0,6."
+  },
+  {
+    "bbox": [
+      196,
+      1969,
+      1231,
+      2014
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để độc giả được chọn là trung niên và đọc sách văn học là 0,2."
+  },
+  {
+    "bbox": [
+      196,
+      2020,
+      1304,
+      2065
+    ],
+    "category": "List-item",
+    "text": "c) Trong số các độc giả lựa chọn sách văn học, có đúng 48 người thuộc nhóm trẻ."
+  },
+  {
+    "bbox": [
+      196,
+      2065,
+      1578,
+      2111
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng người được chọn thuộc nhóm trung niên, xác suất để người đó đọc sách ẩm thực là 35%."
+  }
+]

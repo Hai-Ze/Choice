@@ -1,0 +1,222 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1116,
+      208
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Ta có: } f'(x) = 0 \\Leftrightarrow e^x (x^2 + 2x - 3) = 0 \\Leftrightarrow \\begin{cases} e^x = 0 \\ (\\text{voly}) \\\\ x^2 + 2x - 3 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = -3 \\\\ x = 1 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      229,
+      1010,
+      275
+    ],
+    "category": "Text",
+    "text": "Vậy tổng các nghiệm của phương trình $f'(x) = 0$ là $-3+1 = -2$"
+  },
+  {
+    "bbox": [
+      155,
+      298,
+      855,
+      350
+    ],
+    "category": "Text",
+    "text": "d) Hàm số đã cho xác định và liên tục trên $[-5; -2]$."
+  },
+  {
+    "bbox": [
+      155,
+      374,
+      894,
+      485
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } f'(x) = e^x (x^2 + 2x - 3) = 0 \\Leftrightarrow \\begin{cases} x = -3 \\in [-5; -2] \\\\ x = 1 \\notin [-5; -2] \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      512,
+      758,
+      595
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f(-5) = \\frac{22}{e^5}; f(-3) = \\frac{6}{e^3}; f(-2) = \\frac{1}{e^2}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      618,
+      479,
+      700
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } \\max_{[-5; -2]} f(x) = \\frac{6}{e^3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      724,
+      1572,
+      879
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho đường thẳng $\\Delta: \\frac{x-2}{-3} = \\frac{y-1}{2} = \\frac{z-1}{2}$ và hai mặt phẳng $(P): x+2y-2z-2=0$, $(Q): x+2y-2z+4=0$."
+  },
+  {
+    "bbox": [
+      155,
+      903,
+      997,
+      957
+    ],
+    "category": "Text",
+    "text": "a) Мặt phẳng $(P)$ có một vec tơ pháp tuyến là $\\vec{n}_{(P)} = (1; 2; -2)$."
+  },
+  {
+    "bbox": [
+      155,
+      982,
+      874,
+      1130
+    ],
+    "category": "Text",
+    "text": "b) Phương trình tham số của $\\Delta$ là $\\begin{cases} x = 2 - 3t \\\\ y = 1 + 2t \\ (t \\in \\mathbb{R}) \\\\ z = 1 + 2t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      155,
+      1157,
+      1572,
+      1283
+    ],
+    "category": "Text",
+    "text": "c) Gọi $(S)$ là mặt cầu có tâm $I(x_0; y_0; z_0)$ thuộc đường thẳng $\\Delta$ và tiếp xúc với hai mặt phẳng $(P), (Q)$. Khi đó $x_0 + y_0 + z_0 = 4$."
+  },
+  {
+    "bbox": [
+      155,
+      1311,
+      1572,
+      1442
+    ],
+    "category": "Text",
+    "text": "d) Gọi $(S)$ là mặt cầu có tâm $I$ thuộc đường thẳng $\\Delta$ và tiếp xúc với hai mặt phẳng $(P), (Q)$. Khi đó, phương trình mặt cầu $(S)$ là $(x-1)^2 + (y+3)^2 + (z+3)^2 = 1$."
+  },
+  {
+    "bbox": [
+      807,
+      1468,
+      924,
+      1508
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1522,
+      972,
+      1645
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1704,
+      997,
+      1757
+    ],
+    "category": "Text",
+    "text": "a) Мặt phẳng $(P)$ có một vec tơ pháp tuyến là $\\vec{n}_{(P)} = (1; 2; -2)$."
+  },
+  {
+    "bbox": [
+      155,
+      1782,
+      964,
+      1930
+    ],
+    "category": "Text",
+    "text": "b) Ta có: phương trình tham số của $\\Delta$ là $\\begin{cases} x = 2 - 3t \\\\ y = 1 + 2t \\ (t \\in \\mathbb{R}) \\\\ z = 1 + 2t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      155,
+      1959,
+      690,
+      2007
+    ],
+    "category": "Text",
+    "text": "c) d) Vì $I \\in \\Delta \\Rightarrow I(2 - 3t; 1 + 2t; 1 + 2t)$."
+  },
+  {
+    "bbox": [
+      155,
+      2032,
+      1331,
+      2084
+    ],
+    "category": "Text",
+    "text": "Mặt cầu $(S)$ có tâm $I(2 - 3t; 1 + 2t; 1 + 2t)$ thuộc $\\Delta$ và tiếp xúc với $(P), (Q)$ nên ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      2110,
+      1451,
+      2228
+    ],
+    "category": "Formula",
+    "text": "$$\nd(I, (P)) = d(I, (Q)) \\Leftrightarrow \\frac{|(2 - 3t) + 2(1 + 2t) - 2(1 + 2t) - 2|}{\\sqrt{1^2 + 2^2 + (-2)^2}} = \\frac{|(2 - 3t) + 2(1 + 2t) - 2(1 + 2t) + 4|}{\\sqrt{1^2 + 2^2 + (-2)^2}}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

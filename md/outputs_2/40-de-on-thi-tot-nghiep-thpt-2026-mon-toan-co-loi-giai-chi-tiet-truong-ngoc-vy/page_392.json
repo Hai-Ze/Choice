@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      727,
+      133
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      76,
+      149,
+      1495,
+      449
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Từ hình chữ nhật $ABCD$ có chiều dài $AB = 8\\text{cm}$ và chiều rộng $BC = 4\\text{cm}$, người ta cắt bỏ miền ($R$) được giới hạn bởi cạnh $CD$ của hình chữ nhật và hai half đường thẳng parabol có chung định là trung điểm cạnh $AB$, chúng lần lượt đi qua hai đầu mút $C, D$ của hình chữ nhật đó (phần tô Đâm như hình vẽ). Phần còn lại cho quay quanh trục $AB$ để tạo nên một đồ vật làm trang trí, thể tích của vật trang trí đó bằng bao nhiêu $\\text{cm}^3$. Viết kết quả làm tròn đến hàng đơn vị."
+  },
+  {
+    "bbox": [
+      528,
+      470,
+      1009,
+      797
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      830,
+      414,
+      866
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      889,
+      843,
+      928
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      945,
+      255,
+      984
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 201"
+  },
+  {
+    "bbox": [
+      76,
+      1007,
+      670,
+      1052
+    ],
+    "category": "Text",
+    "text": "Phương trình Parabol $OC$ có dạng: $y^2 = ax$"
+  },
+  {
+    "bbox": [
+      76,
+      1078,
+      854,
+      1125
+    ],
+    "category": "Text",
+    "text": "Mặt khác Parabol đi qua điểm $C(4;4) \\Rightarrow 4^2 = 4a \\Rightarrow a = 4$"
+  },
+  {
+    "bbox": [
+      76,
+      1147,
+      757,
+      1198
+    ],
+    "category": "Text",
+    "text": "Khi đó phương trình đường cong $OC$ là $y = \\sqrt{4x}$."
+  },
+  {
+    "bbox": [
+      76,
+      1223,
+      1080,
+      1299
+    ],
+    "category": "Text",
+    "text": "Thể tích của vật thể thu được là: $V = 2\\left(\\pi \\int_{0}^{4} (\\sqrt{4x})^2 dx\\right) = 64\\pi \\approx 201(\\text{cm}^3)$."
+  },
+  {
+    "bbox": [
+      76,
+      1319,
+      1495,
+      1604
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử doanh số (tính bằng số sản phẩm) của một sản phẩm mới (trong vòng một số năm nhất định) tuân theo quy luật logistic được mô hình hoá bằng hàm số $f(t) = \\frac{5000}{1+5e^{-t}}, t \\ge 0$ trong đó thời gian $t$ được tính bằng năm, kể từ khi phát hành sản phẩm mới. Khi đó, đạo hàm $f'(t)$ sẽ biểu thị tốc độ bán hàng. Hỏi sau khi phát hành thì tốc độ bán hàng đạt lớn nhất bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      76,
+      1621,
+      414,
+      1657
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1679,
+      843,
+      1718
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1738,
+      270,
+      1777
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1250"
+  },
+  {
+    "bbox": [
+      76,
+      1800,
+      854,
+      2179
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } f(t) &= \\frac{5000}{1+5e^{-t}} = \\frac{5000e^t}{e^t + 5} \\\\\n\\Rightarrow f'(t) &= \\frac{5000e^t(e^t + 5) - 5000e^{2t}}{(e^t + 5)^2} = \\frac{25000e^t}{(e^t + 5)^2} > 0, \\forall t \\ge 0 \\\\\n\\Rightarrow f''(t) &= \\frac{25000e^t(e^t + 5)^2 - 50000e^t(e^t + 5)e^t}{(e^t + 5)^4}\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

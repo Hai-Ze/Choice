@@ -1,0 +1,431 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      275,
+      157,
+      535,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      345,
+      211,
+      473,
+      253
+    ],
+    "category": "Section-header",
+    "text": "### ĐỀ SỐ 2"
+  },
+  {
+    "bbox": [
+      272,
+      267,
+      546,
+      312
+    ],
+    "category": "Text",
+    "text": "(Đề gồm 5 trang)"
+  },
+  {
+    "bbox": [
+      754,
+      153,
+      1340,
+      201
+    ],
+    "category": "Section-header",
+    "text": "## KÌ THI TỐT NGHIỆP THPT QUỐC GIA"
+  },
+  {
+    "bbox": [
+      958,
+      213,
+      1134,
+      251
+    ],
+    "category": "Text",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      635,
+      265,
+      1507,
+      312
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      192,
+      365,
+      1452,
+      483
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      192,
+      515,
+      950,
+      562
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nguyên hàm của hàm số $f(x) = 2^x + x$ là"
+  },
+  {
+    "bbox": [
+      221,
+      566,
+      465,
+      653
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{2^x}{\\ln 2} + x^2 + C$."
+  },
+  {
+    "bbox": [
+      524,
+      566,
+      796,
+      653
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{2^{x+1}}{x+1} + \\frac{x^2}{2} + C$."
+  },
+  {
+    "bbox": [
+      827,
+      566,
+      1076,
+      653
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{2^x}{\\ln 2} + \\frac{x^2}{2} + C$."
+  },
+  {
+    "bbox": [
+      1128,
+      566,
+      1351,
+      653
+    ],
+    "category": "List-item",
+    "text": "D. $2^x + \\frac{x^2}{2} + C$."
+  },
+  {
+    "bbox": [
+      192,
+      668,
+      1452,
+      769
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình phẳng ($H$) giới hạn bởi đồ thị hàm số $y = 2x - x^2$ và trục hoành. Tính thể tích $V$ của vật thể tròn xoay sinh ra khi ($H$) quay xung quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      221,
+      773,
+      413,
+      854
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\frac{16}{15}\\pi$."
+  },
+  {
+    "bbox": [
+      524,
+      773,
+      694,
+      854
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\frac{16}{15}$."
+  },
+  {
+    "bbox": [
+      827,
+      773,
+      976,
+      854
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      1128,
+      773,
+      1302,
+      854
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\frac{4}{3}\\pi$."
+  },
+  {
+    "bbox": [
+      192,
+      866,
+      1454,
+      968
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Hai bảng dưới đây thống kê lượng cà phê (tính theo $\\text{cm}^3$) được pha chế trong mỗi cốc do hai máy bán cà phê tự động $A$, $B$ thực hiện trong một ngày."
+  },
+  {
+    "bbox": [
+      207,
+      991,
+      1441,
+      1104
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hàm lượng cà phê</td><td>[242; 246)</td><td>[246; 250)</td><td>[250; 254)</td><td>[254; 258)</td><td>[258; 262)</td></tr><tr><td>Tần số</td><td>6</td><td>5</td><td>28</td><td>7</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      451,
+      1104,
+      1192,
+      1149
+    ],
+    "category": "Text",
+    "text": "Lượng cà phê trong mỗi cốc do máy $A$ sản xuất"
+  },
+  {
+    "bbox": [
+      207,
+      1180,
+      1441,
+      1293
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hàm lượng cà phê</td><td>[242; 246)</td><td>[246; 250)</td><td>[250; 254)</td><td>[254; 258)</td><td>[258; 262)</td></tr><tr><td>Tần số</td><td>5</td><td>8</td><td>17</td><td>14</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      451,
+      1293,
+      1192,
+      1338
+    ],
+    "category": "Text",
+    "text": "Lượng cà phê trong mỗi cốc do máy $B$ sản xuất"
+  },
+  {
+    "bbox": [
+      192,
+      1382,
+      1454,
+      1481
+    ],
+    "category": "Text",
+    "text": "Gọi $s_A$, $s_B$ lần lượt là độ lệch chuẩn của hàm lượng cà phê do nhà máy $A$ và nhà máy $B$ sản xuất. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1502,
+      387,
+      1542
+    ],
+    "category": "List-item",
+    "text": "A. $s_A = s_B$."
+  },
+  {
+    "bbox": [
+      524,
+      1502,
+      690,
+      1542
+    ],
+    "category": "List-item",
+    "text": "B. $s_A > s_B$."
+  },
+  {
+    "bbox": [
+      827,
+      1502,
+      1010,
+      1542
+    ],
+    "category": "List-item",
+    "text": "C. $s_A = 2s_B$."
+  },
+  {
+    "bbox": [
+      1128,
+      1502,
+      1294,
+      1542
+    ],
+    "category": "List-item",
+    "text": "D. $s_A < s_B$."
+  },
+  {
+    "bbox": [
+      192,
+      1571,
+      1454,
+      1671
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, phương trình đường thẳng đi qua $A(1; -2; 3)$ và có véc-tơ chỉ phương $\\vec{u} = (2; -1; -2)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1673,
+      592,
+      1754
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{x-1}{4} = \\frac{y+2}{-2} = \\frac{z-3}{-4}$."
+  },
+  {
+    "bbox": [
+      833,
+      1673,
+      1202,
+      1754
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{x-1}{-2} = \\frac{y+2}{-1} = \\frac{z-3}{2}$."
+  },
+  {
+    "bbox": [
+      221,
+      1758,
+      592,
+      1839
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{x-1}{-2} = \\frac{y+2}{1} = \\frac{z-3}{-2}$."
+  },
+  {
+    "bbox": [
+      833,
+      1758,
+      1202,
+      1839
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{x+1}{2} = \\frac{y-2}{-1} = \\frac{z+3}{-2}$."
+  },
+  {
+    "bbox": [
+      192,
+      1853,
+      1083,
+      1938
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập nghiệm của bất phương trình $\\left(\\frac{1}{3}\\right)^x > 224$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1946,
+      573,
+      2017
+    ],
+    "category": "List-item",
+    "text": "A. $S = [\\log_{\\frac{1}{3}} 224; +\\infty)$."
+  },
+  {
+    "bbox": [
+      833,
+      1946,
+      1189,
+      2017
+    ],
+    "category": "List-item",
+    "text": "B. $S = (\\log_{\\frac{1}{3}} 224; +\\infty)$."
+  },
+  {
+    "bbox": [
+      221,
+      2021,
+      573,
+      2092
+    ],
+    "category": "List-item",
+    "text": "C. $S = (-\\infty; \\log_{\\frac{1}{3}} 224]$."
+  },
+  {
+    "bbox": [
+      833,
+      2021,
+      1189,
+      2092
+    ],
+    "category": "List-item",
+    "text": "D. $S = (-\\infty; \\log_{\\frac{1}{3}} 224)$."
+  },
+  {
+    "bbox": [
+      192,
+      2104,
+      1454,
+      2204
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong không gian $Oxyz$, cho mặt phẳng ($P$) có phương trình $2x - z + 1 = 0$. Véc-tơ nào sau đây là một véc-tơ pháp tuyến của ($P$)?"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2284
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1"
+  }
+]

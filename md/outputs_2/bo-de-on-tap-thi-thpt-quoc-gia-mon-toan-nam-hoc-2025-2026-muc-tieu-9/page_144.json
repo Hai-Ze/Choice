@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1354,
+      182
+    ],
+    "category": "Text",
+    "text": "đạt được là bao nhiêu mét so với mặt đất? (Kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      506,
+      194,
+      1183,
+      594
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      625,
+      1547,
+      728
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào hình vẽ ta thấy đồ thị hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ với $a < 0$ và đường thẳng $y = 30$ cắt nhau tại 3 điểm phân biệt có hoành độ $x = 0; x = 50; x = 80$."
+  },
+  {
+    "bbox": [
+      202,
+      750,
+      299,
+      788
+    ],
+    "category": "Text",
+    "text": "Suy ra"
+  },
+  {
+    "bbox": [
+      453,
+      802,
+      1245,
+      843
+    ],
+    "category": "Formula",
+    "text": "$$\nax^3 + bx^2 + cx + d = 30 \\Leftrightarrow ax^3 + bx^2 + cx + d - 30 = 0\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      854,
+      792,
+      893
+    ],
+    "category": "Text",
+    "text": "có 3 nghiệm phân biệt $x = 0; x = 50; x = 80$."
+  },
+  {
+    "bbox": [
+      202,
+      912,
+      1335,
+      955
+    ],
+    "category": "Text",
+    "text": "Suy ra $ax^3 + bx^2 + cx + d - 30 = ax(x - 50)(x - 80) = a(x^3 - 130x^2 + 4000x)$."
+  },
+  {
+    "bbox": [
+      202,
+      973,
+      891,
+      1015
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $f(x) = a(x^3 - 130x^2 + 4000x) + 30$."
+  },
+  {
+    "bbox": [
+      202,
+      1034,
+      725,
+      1076
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(x) = a(3x^2 - 260x + 4000)$."
+  },
+  {
+    "bbox": [
+      202,
+      1091,
+      645,
+      1223
+    ],
+    "category": "Text",
+    "text": "Khi đó $f'(x) = 0 \\Leftrightarrow \\begin{cases} x = 20 \\\\ x = \\frac{200}{3} \\end{cases}$."
+  },
+  {
+    "bbox": [
+      202,
+      1228,
+      1442,
+      1311
+    ],
+    "category": "Text",
+    "text": "Độ cao nhỏ nhất bằng 6 hay $f(20) = 6 \\Leftrightarrow a \\cdot 36000 + 30 = 6 \\Leftrightarrow a = -\\frac{24}{36000} = -\\frac{1}{1500}$."
+  },
+  {
+    "bbox": [
+      202,
+      1320,
+      913,
+      1361
+    ],
+    "category": "Text",
+    "text": "Độ cao lớn nhất mà tàu l muth siêu tốc đạt được là"
+  },
+  {
+    "bbox": [
+      202,
+      1371,
+      597,
+      1452
+    ],
+    "category": "Formula",
+    "text": "$$\nf\\left(\\frac{200}{3}\\right) = \\frac{3230}{81} \\approx 39,9 \\text{ m.}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1470,
+      1547,
+      1646
+    ],
+    "category": "Text",
+    "text": "Bài 5. Một cái cốc thủy tinh dạng hình nón úp behind có chiều cao $a = 3 \\text{ dm}$. Bán kính đáy của nón là $R = 4 \\text{ dm}$. Ban đầu, cốc được đổ đầy nước. Người ta thả một quả cầu bằng sixth đặc làm bằng vật liệu không thấm nước vào cốc. Quả cầu được thả vào sao cho nó tiếp xúc với mặt bên trong của cốc nước (tham khảo hình vẽ) và thể tích nước tràn ra ngoài là lớn nhất (xem hình vẽ)."
+  },
+  {
+    "bbox": [
+      538,
+      1660,
+      1147,
+      1908
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1927,
+      1285,
+      1969
+    ],
+    "category": "Text",
+    "text": "Hỏi thể tích nước lớn nhất đó là bao nhiêu lít (làm tròn đến hàng phần mười)?"
+  },
+  {
+    "bbox": [
+      153,
+      1985,
+      1122,
+      2048
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. TH1: Quả cầu nằm hoàn toàn dưới mặt nước."
+  },
+  {
+    "bbox": [
+      153,
+      2061,
+      1547,
+      2148
+    ],
+    "category": "Text",
+    "text": "Phần thể tích nước tràn ra ngoài bằng thể tích của quả cầu. Thể tích quả cầu lớn nhất khi quả cầu tiếp xúc với mặt bên của cốc nước. Kí hiệu các điểm như hình vẽ, gọi $R$ là bán kính quả cầu"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "144"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

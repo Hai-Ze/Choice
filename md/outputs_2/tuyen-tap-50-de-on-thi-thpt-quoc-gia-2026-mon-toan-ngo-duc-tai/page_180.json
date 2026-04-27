@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      273
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      304,
+      1455,
+      675
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Nhân迎p Tết Trung thu, bác Oanh làm cácđèn lồng cho con. Mốiđèn bác dùng một sợi dây đồng dài 24 dm cắt thành 3 đoạn để uốn làm khungđèn. Đoạn thứ nhất bác uốn thành hình vuông $ABCD$ có cạnh bằng $x$ dm để làm đáy, hai đoạn còn lại có độ dài bằng nhau uốn thành các đường gấp khúc $ASC$ và $BSD$. Khungđèn sau khi hoàn thiện có hình dạng là một hình chóp tứ giác đều $S.ABCD$ và mặt ngoài củađèn được dán giấy màu để trang trí (xem các mối nối, dán là không đáng kể). Khi đó ta có:"
+  },
+  {
+    "bbox": [
+      222,
+      683,
+      1038,
+      730
+    ],
+    "category": "List-item",
+    "text": "a) độ dài cạnh bên của khungđèn bằng $6-x$ (dm)."
+  },
+  {
+    "bbox": [
+      222,
+      736,
+      1258,
+      784
+    ],
+    "category": "List-item",
+    "text": "b) Khi $x = 2$ dm thì độ dài đường cao của khungđèn là $\\sqrt{14}$ (dm)."
+  },
+  {
+    "bbox": [
+      222,
+      791,
+      1448,
+      900
+    ],
+    "category": "List-item",
+    "text": "c) Khi tất cả các cạnh bằng nhau thì diện tích giấy màu cần dùng là $9(1+\\sqrt{3})(\\text{dm}^2)$."
+  },
+  {
+    "bbox": [
+      222,
+      898,
+      1448,
+      999
+    ],
+    "category": "List-item",
+    "text": "d) Thể tích phần không gian củađèn lồng lớn nhất khi $x = 2,79$ dm (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      192,
+      1021,
+      1455,
+      1284
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong không gian với hệ trục tọa độ $Oxyz$, đài kiểm soát không lưu của sân bay đặt tại điểm $O(0;0;0)$, đơn vị độ dài trên mỗi trục ứng với 1 km. máy bay trong phạm vi cách đài kiểm soát không lưu 417 km sẽ hiện thị trên màn hình radar. Một máy bay đang ở vị trí $M(-779; -260; 8)$ chuyển động thẳng đều với tốc độ không đổi theo hướng của vecto $\\vec{u} = (91; 75; 0)$."
+  },
+  {
+    "bbox": [
+      222,
+      1290,
+      1408,
+      1338
+    ],
+    "category": "List-item",
+    "text": "a) Đường thẳng mô tả đường đi của máy bay đi qua điểm $N(-597; -110; 8)$."
+  },
+  {
+    "bbox": [
+      222,
+      1344,
+      1448,
+      1445
+    ],
+    "category": "List-item",
+    "text": "b) Vị trí đầu tiên mà máy bay xuất hiện trên màn hình radar là điểm $P(40; 415; 8)$."
+  },
+  {
+    "bbox": [
+      222,
+      1448,
+      1448,
+      1604
+    ],
+    "category": "List-item",
+    "text": "c) Nếu thời gian máy bay xuất hiện trên màn hình radar là 30 phút thì thời gian máy bay di chuyển từ $M$ đến khi xuất hiện lần cuối cùng trên màn hình radar là 54 phút."
+  },
+  {
+    "bbox": [
+      222,
+      1616,
+      1448,
+      1662
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách giữa máy bay và đài kiểm soát không lưu luôn lớn hơn 294 km."
+  },
+  {
+    "bbox": [
+      192,
+      1682,
+      724,
+      1765
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = \\frac{2x+1}{x}$."
+  },
+  {
+    "bbox": [
+      222,
+      1757,
+      649,
+      1834
+    ],
+    "category": "List-item",
+    "text": "a) $\\int f(x)dx = 2x + \\ln|x| + C$."
+  },
+  {
+    "bbox": [
+      222,
+      1832,
+      1448,
+      1931
+    ],
+    "category": "List-item",
+    "text": "b) Gọi $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên $(0; +\\infty)$ và thỏa mãn $F(1) = 3$. Khi đó $F(x) = 2x + \\ln x + 1$."
+  },
+  {
+    "bbox": [
+      222,
+      1935,
+      591,
+      2015
+    ],
+    "category": "List-item",
+    "text": "c) $\\int f'(2x)dx = \\frac{-1}{4x} + C$."
+  },
+  {
+    "bbox": [
+      222,
+      2011,
+      1448,
+      2164
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $G(x)$ là một nguyên hàm của hàm số $f(x)$. Biết $G(2) = 1$ và $G(5) + G(-5) = 0$. Khi đó tìm được $G(-10) = a\\ln 10 + b\\ln 5 + c\\ln 2 + d$, với $a, b, c$ là các số hữu tỷ. Khi đó $a + b + c + d = -19$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

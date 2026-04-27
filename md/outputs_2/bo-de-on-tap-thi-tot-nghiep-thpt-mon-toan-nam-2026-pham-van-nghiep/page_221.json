@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      211,
+      110,
+      882,
+      156
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình của đường $(P): y = -x^2 + 2$"
+  },
+  {
+    "bbox": [
+      211,
+      162,
+      1493,
+      262
+    ],
+    "category": "Text",
+    "text": "Tọa độ giao điểm $M$ là nghiệm của hệ $\\begin{cases} y = -x^2 + 2 \\\\ y = -x \\end{cases} \\Leftrightarrow \\begin{cases} x^2 - x - 2 = 0 \\\\ y = -x \\end{cases} \\Leftrightarrow \\begin{cases} x = 2 \\\\ y = -2 \\end{cases} \\lor \\begin{cases} x = -1 \\\\ y = 1 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      211,
+      269,
+      1209,
+      375
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng $S_1 = \\int_{-1}^{2} (-x^2 + 2 + x) dx = \\left(-\\frac{1}{3}x^3 + \\frac{1}{2}x^2 + 2x\\right) \\Big|_{-1}^{2} = \\frac{9}{2}$"
+  },
+  {
+    "bbox": [
+      211,
+      378,
+      530,
+      425
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng"
+  },
+  {
+    "bbox": [
+      298,
+      425,
+      1486,
+      531
+    ],
+    "category": "Formula",
+    "text": "$$\nS_2 = \\int_{-2}^{2} (-x^2 + 2 + 2) dx - \\int_{-1}^{2} (-x^2 + 2 + x) dx = \\left(-\\frac{1}{3}x^3 + 4x\\right) \\Big|_{-2}^{2} - \\left(-\\frac{1}{3}x^3 + \\frac{1}{2}x^2 + 2x\\right) \\Big|_{-1}^{2} = \\frac{37}{6}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      538,
+      863,
+      618
+    ],
+    "category": "Text",
+    "text": "Diện tích phần còn lại là $S_3 = 16 - S_1 - S_2 = \\frac{16}{3}$"
+  },
+  {
+    "bbox": [
+      211,
+      624,
+      1126,
+      669
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền bỏ ra là $200S_1 + 180S_2 + 150S_3 = 2810$ (nghìn đồng)"
+  },
+  {
+    "bbox": [
+      74,
+      675,
+      1579,
+      1090
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** [3] Nhà máy A chuyên sản xuất một loại sản phẩm cho nhà máy B. Hai nhà máy thỏa thuận rằng, hàng tháng nhà máy A cung cấp cho nhà máy B số lượng sản phẩm theo đơn đặt hàng của nhà máy B (tối đa 90 tấn sản phẩm). Nếu số lượng đặt hàng là $x$ tấn sản phẩm thì giá bán cho mỗi tấn sản phẩm là $p(x) = 90 - 0,01x^2$ (đơn vị triệu đồng). Chi phí để nhà máy A sản xuất $x$ tấn sản phẩm trong một tháng là $C(x) = \\frac{1}{2}(200 + 27x)$ (đơn vị triệu đồng), thuế giá trị gia tăng mà nhà máy A phải đóng cho nhà nước là 10% tổng doanh thu mỗi tháng. Hỏi mỗi tháng nhà máy A thu được lợi nhuận cao nhất bao nhiêu triệu đồng (sau khi đã trừ thuế giá trị gia tăng)?"
+  },
+  {
+    "bbox": [
+      831,
+      1092,
+      951,
+      1134
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1138,
+      414,
+      1179
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2150"
+  },
+  {
+    "bbox": [
+      211,
+      1181,
+      1574,
+      1281
+    ],
+    "category": "Text",
+    "text": "Số tiền nhà máy A bán $x$ tấn sản phẩm cho nhà máy B là $x \\cdot p(x) = x(90 - 0,01x^2)$, ($0 < x \\le 90$)"
+  },
+  {
+    "bbox": [
+      211,
+      1287,
+      1571,
+      1387
+    ],
+    "category": "Text",
+    "text": "Số tiền thuế giá trị gia tăng mà nhà máy A phải đóng hàng tháng là 0,1. $x \\cdot p(x) = 0,1x(90 - 0,01x^2)$"
+  },
+  {
+    "bbox": [
+      211,
+      1396,
+      775,
+      1438
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận thu được của nhà máy A là"
+  },
+  {
+    "bbox": [
+      225,
+      1443,
+      1502,
+      1575
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} L(x) &= x(90 - 0,01x^2) - \\frac{1}{2}(200 + 27x) - 0,1x(90 - 0,01x^2) = -0,009x^3 + 67,5x - 100 \\rightarrow \\max \\\\ L'(x) &= -0,027x^2 + 67,5 = 0 \\Rightarrow x = 50 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1583,
+      1191,
+      1630
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận lớn nhất khi $x = 50 \\Rightarrow L(x)_{\\max} = L(50) = 2150$ triệu đồng"
+  },
+  {
+    "bbox": [
+      74,
+      1639,
+      1574,
+      1909
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** [3] Nhânep kỉ niệm 60 năm ngày thành lập trường, các học sinh lựa chọn tham gia thi đấu thể thao hoặc biểu diễn văn nghệ. Lớp 12A có 56% số học sinh tham gia thi đấu thể thao và còn lại 44% số học sinh tham gia biểu diễn văn nghệ. Biết rằng các bạn nữ đều tham gia biểu diễn văn nghệ. Trong số các bạn nam có 20% tham gia văn nghệ và 80% tham gia thi đấu thể thao. Chọn ngẫu nhiên 1 học sinh trong lớp, biết rằng học sinh này tham gia biểu diễn văn nghệ. Tính xác suất để học sinh này là nữ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      831,
+      1911,
+      951,
+      1953
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1957,
+      410,
+      1998
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,68"
+  },
+  {
+    "bbox": [
+      211,
+      2010,
+      679,
+      2053
+    ],
+    "category": "Text",
+    "text": "$H_1$: học sinh tham gia văn nghệ"
+  },
+  {
+    "bbox": [
+      886,
+      2006,
+      1078,
+      2053
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_1) = 0,44\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2067,
+      778,
+      2111
+    ],
+    "category": "Text",
+    "text": "$H_2$: học sinh tham gia thi đấu thể thao"
+  },
+  {
+    "bbox": [
+      896,
+      2063,
+      1086,
+      2111
+    ],
+    "category": "Formula",
+    "text": "$$\nP(H_2) = 0,56\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2121,
+      842,
+      2162
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố học sinh được chọn là nữ."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

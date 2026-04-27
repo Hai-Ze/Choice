@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      1033,
+      189
+    ],
+    "category": "Text",
+    "text": "Vì $AM$ là đường cao tam giác đều $ABC$ nên $AM = \\frac{6\\sqrt{3} \\cdot \\sqrt{3}}{2} = 9$ (cm)"
+  },
+  {
+    "bbox": [
+      76,
+      205,
+      1496,
+      424
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Hộp thứ nhất chứa 5 viên bi xanh và 1 viên bi đỏ. Hộp thứ hai chứa 4 viên bi đỏ. Lấy ngẫu nhiên 3 viên bi từ套hộp thứ nhất và bỏ vào套hộp thứ hai, rồi từ套hộp thứ hai lấy ra ngẫu nhiên 2 viên bi. Biết 2 viên bi lấy ra ở套hộp thứ hai có cùng màu. Tính xác suất để 3 viên bi lấy ra từ套hộp thứ nhất cũng có cùng màu."
+  },
+  {
+    "bbox": [
+      76,
+      446,
+      414,
+      482
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      505,
+      843,
+      544
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      562,
+      269,
+      601
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,45"
+  },
+  {
+    "bbox": [
+      76,
+      621,
+      892,
+      665
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố 2 viên bi lấy ra ở套hộp thứ hai có cùng màu"
+  },
+  {
+    "bbox": [
+      76,
+      678,
+      905,
+      724
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố 3 viên bi lấy ra ở套hộp thứ nhất có cùng màu."
+  },
+  {
+    "bbox": [
+      76,
+      744,
+      155,
+      778
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      82,
+      804,
+      1047,
+      896
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{C_5^3}{C_6^3} = \\frac{1}{2}, P(\\bar{B}) = \\frac{1}{2} \\text{ (vì套hộp thứ nhất chỉ có 5 bi xanh và 1 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      916,
+      1496,
+      1015
+    ],
+    "category": "Text",
+    "text": "Xác suất để 2 viên bi được chọn từ套hộp thứ hai có cùng màu, biết 3 viên bi lấy ra ở套hộp thứ nhất có cùng màu là"
+  },
+  {
+    "bbox": [
+      76,
+      1039,
+      1496,
+      1195
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{C_3^2 + C_4^2}{C_7^2} = \\frac{3}{7} \\text{ (vì sau khi lấy 3 viên bi màu xanh từ套hộp thứ nhất sang thì套hộp thứ hai có 3 bi xanh và 4 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1208,
+      1496,
+      1310
+    ],
+    "category": "Text",
+    "text": "Xác suất để 2 viên bi được chọn từ套hộp thứ hai có cùng màu, biết 3 viên bi lấy ra ở套hộp thứ nhất khác màu là"
+  },
+  {
+    "bbox": [
+      76,
+      1334,
+      1496,
+      1491
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|\\bar{B}) = \\frac{C_2^2 + C_5^2}{C_7^2} = \\frac{11}{21} \\text{ (vì sau khi lấy 2 viên bi màu xanh và 1 viên bi đỏ từ套hộp thứ nhất sang thì套hộp thứ hai có 2 bi xanh và 5 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1510,
+      1477,
+      1594
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Áp dụng công thức xác suất toàn phần ta có } P(A) = P(B)P(A|B) + P(\\bar{B})P(A|\\bar{B}) = \\frac{1}{2} \\cdot \\frac{3}{7} + \\frac{1}{2} \\cdot \\frac{11}{21} = \\frac{10}{21}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1617,
+      1113,
+      1781
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo công thức Bayes, ta có: } P(B|A) = \\frac{P(B) \\cdot P(A|B)}{P(A)} = \\frac{\\frac{1}{2} \\cdot \\frac{3}{7}}{\\frac{10}{21}} = \\frac{9}{20} = 0,45.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

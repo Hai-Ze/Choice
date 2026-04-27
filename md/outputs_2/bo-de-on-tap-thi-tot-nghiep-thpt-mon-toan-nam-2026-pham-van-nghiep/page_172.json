@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      110,
+      605,
+      157
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow y' = f'(x) = 3x^2 + 2ax + b\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      168,
+      1135,
+      215
+    ],
+    "category": "Text",
+    "text": "Ta có $x = 0$ là cực trị của hàm số $y = f(x) \\Rightarrow f'(0) = 0 \\Rightarrow b = 0$."
+  },
+  {
+    "bbox": [
+      212,
+      221,
+      419,
+      264
+    ],
+    "category": "Text",
+    "text": "**Chọn ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      212,
+      270,
+      456,
+      310
+    ],
+    "category": "Text",
+    "text": "c) Giá trị $c = -2$."
+  },
+  {
+    "bbox": [
+      212,
+      314,
+      1080,
+      419
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số $y = f(x) = x^3 + ax^2 + bx + c$ đi qua điểm $(0;2)$\n$\\Rightarrow f(0) = 2 \\Rightarrow c = 2$."
+  },
+  {
+    "bbox": [
+      212,
+      429,
+      370,
+      468
+    ],
+    "category": "Text",
+    "text": "**Chọn SAI.**"
+  },
+  {
+    "bbox": [
+      212,
+      473,
+      532,
+      520
+    ],
+    "category": "Text",
+    "text": "d) $f(x) = x^3 - 6x^2 + 2$."
+  },
+  {
+    "bbox": [
+      212,
+      530,
+      651,
+      577
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = f'(x) = 3x^2 + 2ax + b$"
+  },
+  {
+    "bbox": [
+      212,
+      588,
+      1011,
+      685
+    ],
+    "category": "Text",
+    "text": "Ta có $x = 2$ là cực trị của hàm số $y = f(x) \\Rightarrow f'(2) = 0$\n$\\Rightarrow 3.2^2 + 2a.2 + b = 0$"
+  },
+  {
+    "bbox": [
+      212,
+      691,
+      661,
+      730
+    ],
+    "category": "Text",
+    "text": "Vì $b = 0 \\Rightarrow 12 + 4a = 0 \\Rightarrow a = -3$"
+  },
+  {
+    "bbox": [
+      212,
+      737,
+      569,
+      776
+    ],
+    "category": "Text",
+    "text": "Ta có $b = 0, a = -3, c = 2$"
+  },
+  {
+    "bbox": [
+      212,
+      780,
+      573,
+      827
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow y = f(x) = x^3 - 3x^2 + 2\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      839,
+      370,
+      878
+    ],
+    "category": "Text",
+    "text": "**Chọn SAI.**"
+  },
+  {
+    "bbox": [
+      74,
+      883,
+      1575,
+      988
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Trong không gian $Oxyz$, cho đường thẳng $d$ đi qua hai điểm $A(1;2;1)$ và $B(3;0;1)$, mặt phẳng $(\\alpha)$ đi qua ba điểm $M(0;1;0)$, $N(2;1;3)$, $P(4;1;1)$."
+  },
+  {
+    "bbox": [
+      212,
+      994,
+      1120,
+      1045
+    ],
+    "category": "Text",
+    "text": "a) Vecto $\\overrightarrow{AB}$ không là vec tơ chỉ phương của đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      212,
+      1045,
+      665,
+      1097
+    ],
+    "category": "Text",
+    "text": "b) $\\overrightarrow{MN} = (2;0;3)$, $\\overrightarrow{MP} = (4;0;1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1104,
+      1171,
+      1154
+    ],
+    "category": "Text",
+    "text": "c) Mặt phẳng $(\\alpha)$ có một vecto pháp tuyến có tọa độ là $(0;-1;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1161,
+      1059,
+      1210
+    ],
+    "category": "Text",
+    "text": "d) Góc giữa đường thẳng $d$ và mặt phẳng $(\\alpha)$ bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      765,
+      1221,
+      884,
+      1262
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1262,
+      1120,
+      1314
+    ],
+    "category": "Text",
+    "text": "a) Vecto $\\overrightarrow{AB}$ không là vec tơ chỉ phương của đường thẳng $d$."
+  },
+  {
+    "bbox": [
+      212,
+      1317,
+      370,
+      1356
+    ],
+    "category": "Text",
+    "text": "**Chọn SAI.**"
+  },
+  {
+    "bbox": [
+      212,
+      1356,
+      665,
+      1409
+    ],
+    "category": "Text",
+    "text": "b) $\\overrightarrow{MN} = (2;0;3)$, $\\overrightarrow{MP} = (4;0;1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1415,
+      419,
+      1458
+    ],
+    "category": "Text",
+    "text": "**Chọn ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      212,
+      1462,
+      1171,
+      1512
+    ],
+    "category": "Text",
+    "text": "c) Mặt phẳng $(\\alpha)$ có một vecto pháp tuyến có tọa độ là $(0;-1;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1518,
+      861,
+      1636
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} \\overrightarrow{MN} = (2;0;3) \\\\ \\overrightarrow{MP} = (4;0;1) \\end{cases} \\Rightarrow [\\overrightarrow{MN}, \\overrightarrow{MP}] = (0;10;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1642,
+      824,
+      1693
+    ],
+    "category": "Text",
+    "text": "Gọi $\\vec{m}$ là một vec tơ pháp tuyến của $(\\alpha)$."
+  },
+  {
+    "bbox": [
+      212,
+      1701,
+      855,
+      1808
+    ],
+    "category": "Text",
+    "text": "Ta có $\\begin{cases} \\vec{m} \\perp \\overrightarrow{MN} \\\\ \\vec{m} \\perp \\overrightarrow{MP} \\end{cases} \\Rightarrow \\vec{m} = [\\overrightarrow{MN}, \\overrightarrow{MP}] = (0;10;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1816,
+      779,
+      1870
+    ],
+    "category": "Text",
+    "text": "Vec tơ $\\vec{u}(0;-1;0)$ cùng phương với $\\vec{m}$."
+  },
+  {
+    "bbox": [
+      212,
+      1876,
+      1252,
+      1929
+    ],
+    "category": "Text",
+    "text": "Vậy mặt phẳng $(\\alpha)$ có một vecto pháp tuyến có tọa độ là $\\vec{u} = (0;-1;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      1935,
+      419,
+      1978
+    ],
+    "category": "Text",
+    "text": "**Chọn ĐÚNG.**"
+  },
+  {
+    "bbox": [
+      212,
+      1982,
+      1059,
+      2032
+    ],
+    "category": "Text",
+    "text": "d) Góc giữa đường thẳng $d$ và mặt phẳng $(\\alpha)$ bằng $45^\\circ$."
+  },
+  {
+    "bbox": [
+      212,
+      2038,
+      982,
+      2089
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d$ có vecto chỉ phương $\\overrightarrow{AB} = (2;-2;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      2095,
+      948,
+      2148
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(\\alpha)$ có vecto pháp tuyến $\\vec{m} = (0;-1;0)$."
+  },
+  {
+    "bbox": [
+      212,
+      2158,
+      303,
+      2195
+    ],
+    "category": "Text",
+    "text": "Ta có:"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

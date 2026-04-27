@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1572,
+      195
+    ],
+    "category": "Text",
+    "text": "thêm 10 kg. Số cá thua này được bán để làm thức ăn cho động vật với giá 10 nghìn đồng/kg. Hỏi Ông Nam phải bán với giá bao nhiêu nghìn đồng/kg để số tiền bán cá mỗi ngày đạt doanh thu lớn nhất?"
+  },
+  {
+    "bbox": [
+      155,
+      213,
+      493,
+      249
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      272,
+      924,
+      310
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      328,
+      338,
+      367
+    ],
+    "category": "Text",
+    "text": "Đáp án: 220"
+  },
+  {
+    "bbox": [
+      155,
+      382,
+      457,
+      426
+    ],
+    "category": "Text",
+    "text": "Đổi 2 tấn = 2000 kg."
+  },
+  {
+    "bbox": [
+      155,
+      441,
+      886,
+      486
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số tiền tăng thêm mỗi kg cá (nghìn đồng/kg)."
+  },
+  {
+    "bbox": [
+      155,
+      499,
+      393,
+      543
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $x > 0$."
+  },
+  {
+    "bbox": [
+      155,
+      559,
+      864,
+      604
+    ],
+    "category": "Text",
+    "text": "Suy ra số tiền bán 1 kg cá là $30 + x$ (nghìn đồng/kg)."
+  },
+  {
+    "bbox": [
+      155,
+      618,
+      1197,
+      663
+    ],
+    "category": "Text",
+    "text": "Nếu giá bán cứ tăng thêm 2 nghìn đồng/kg thì số cá thua sẽ tăng thêm 10 kg."
+  },
+  {
+    "bbox": [
+      155,
+      685,
+      1278,
+      765
+    ],
+    "category": "Text",
+    "text": "Suy ra giá bán tăng thêm $x$ nghìn đồng/kg thì số cá thua sẽ tăng thêm $\\frac{10x}{2} = 5x$ kg."
+  },
+  {
+    "bbox": [
+      155,
+      783,
+      655,
+      828
+    ],
+    "category": "Text",
+    "text": "Số kg cá bán được là $2000 - 5x$ (kg)."
+  },
+  {
+    "bbox": [
+      155,
+      842,
+      628,
+      886
+    ],
+    "category": "Text",
+    "text": "Suy ra điều kiện của $x$ là $x \\le 400$."
+  },
+  {
+    "bbox": [
+      155,
+      905,
+      1046,
+      955
+    ],
+    "category": "Text",
+    "text": "Số tiền nhận được khi bán cá là $(30 + x)(2000 - 5x)$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      976,
+      1015,
+      1021
+    ],
+    "category": "Text",
+    "text": "Số tiền nhận được khi bán cá thua là $5x \\cdot 10 = 50x$ (nghìn đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      1035,
+      526,
+      1079
+    ],
+    "category": "Text",
+    "text": "Doanh thu của Ông Nam là"
+  },
+  {
+    "bbox": [
+      155,
+      1097,
+      721,
+      1204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nT(x) &= (30 + x)(2000 - 5x) + 50x \\\\\n&= -5x^2 + 1900x + 60000, x \\in (0; 400].\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1231,
+      448,
+      1277
+    ],
+    "category": "Formula",
+    "text": "$$\nT'(x) = -10x + 1900.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1303,
+      445,
+      1342
+    ],
+    "category": "Formula",
+    "text": "$$\nT'(x) = 0 \\Leftrightarrow x = 190.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1369,
+      521,
+      1416
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên của $T(x)$."
+  },
+  {
+    "bbox": [
+      343,
+      1439,
+      1382,
+      1841
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1855,
+      875,
+      1900
+    ],
+    "category": "Text",
+    "text": "Vậy để doanh thu của Ông Nam lớn nhất thì $x = 190$."
+  },
+  {
+    "bbox": [
+      155,
+      1913,
+      817,
+      1958
+    ],
+    "category": "Text",
+    "text": "Suy ra số tiền bán 1 kg cá là 220 nghìn đồng/kg."
+  },
+  {
+    "bbox": [
+      155,
+      1973,
+      1572,
+      2141
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Công ty $X$ có một kho hàng trung tâm tại điểm $A$ và cần giao hàng đến 3 điểm giao hàng khác nhau $B, C, D$ trong thành phố, sau khi giao hàng xong thì xe quay về điểm $A$. Biết rằng khoảng cách giữa các điểm giao hàng cho bởi bảng sau (đơn vị tính km)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

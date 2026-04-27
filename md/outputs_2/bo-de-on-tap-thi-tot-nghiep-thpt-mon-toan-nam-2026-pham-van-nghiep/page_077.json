@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      108,
+      631,
+      155
+    ],
+    "category": "Text",
+    "text": "a) Tọa độ của điểm $A(8;3;10)$."
+  },
+  {
+    "bbox": [
+      212,
+      165,
+      1423,
+      312
+    ],
+    "category": "Text",
+    "text": "b) Phương trình đường thẳng đi qua vị trí của hai chiếc flycam tại $A$ và $B$ là\n$$ \\begin{cases} x = 8+12t \\\\ y = 3+8t \\\\ z = 10-2t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      321,
+      1065,
+      368
+    ],
+    "category": "Text",
+    "text": "c) Мặt phẳng trung trực của đoạn thẳng $AB$ đi qua $M(1;-2;1)$."
+  },
+  {
+    "bbox": [
+      212,
+      371,
+      1574,
+      507
+    ],
+    "category": "Text",
+    "text": "d) Trên mặt đất người ta đặt một thiết bị phá sóng flycam sao cho có thể phá sóng hai chiếc flycam tại hai vị trí $A$, $B$ cùng một lúc. Tổng khoảng cách ngắn nhất từ thiết bị đó đến hai chiếc flycam tại hai vị trí $A$ và $B$ (làm tròn đến hàng phần trăm) bằng $25,46(m)$."
+  },
+  {
+    "bbox": [
+      787,
+      517,
+      900,
+      554
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      551,
+      1305,
+      594
+    ],
+    "category": "Text",
+    "text": "a) Dựa vào hình vẽ ta thấy điểm $A$ có hoành độ là 8, tung độ là 3 và cao độ là 10."
+  },
+  {
+    "bbox": [
+      212,
+      594,
+      334,
+      632
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      218,
+      635,
+      405,
+      679
+    ],
+    "category": "Formula",
+    "text": "$$\nB(-4;-5;12).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      688,
+      1574,
+      738
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AB$ đi qua điểm $A(8;3;10)$ và nhận $\\overrightarrow{AB} = (12;8;-2)$ làm vecto chỉ phương có phương"
+  },
+  {
+    "bbox": [
+      212,
+      748,
+      487,
+      893
+    ],
+    "category": "Text",
+    "text": "trình là\n$$ \\begin{cases} x = 8+12t \\\\ y = 3+8t \\\\ z = 10-2t \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      212,
+      903,
+      334,
+      942
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      212,
+      942,
+      681,
+      989
+    ],
+    "category": "Text",
+    "text": "Gọi $I(2;-1;11)$ là trung điểm $AB$."
+  },
+  {
+    "bbox": [
+      212,
+      998,
+      1574,
+      1105
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng đi qua điểm $I(2;-1;11)$ và nhận $\\overrightarrow{IA} = (6;4;-1)$ làm vecto pháp tuyến có phương trình là\n$$ 6(x-2)+4(y+1)-1(z-11) = 0 \\Leftrightarrow 6x+4y-z+3 = 0. $$"
+  },
+  {
+    "bbox": [
+      212,
+      1112,
+      1515,
+      1160
+    ],
+    "category": "Text",
+    "text": "Thay tọa độ điểm $M(1;-2;1)$ vào phương trình mặt phẳng ta được $6.1+4.(-2)-1+3 = 0$ (đúng)."
+  },
+  {
+    "bbox": [
+      212,
+      1168,
+      302,
+      1206
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      692,
+      1208,
+      1087,
+      1537
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1542,
+      1078,
+      1591
+    ],
+    "category": "Text",
+    "text": "Gọi $A'(8;3-10)$ là điểm đối xứng với $A$ qua mặt phẳng $(Oxy)$."
+  },
+  {
+    "bbox": [
+      212,
+      1600,
+      1032,
+      1647
+    ],
+    "category": "Text",
+    "text": "Với mọi điểm $H \\in (Oxy)$, ta có $HA + HB = HA' + HB \\ge A'B$."
+  },
+  {
+    "bbox": [
+      212,
+      1652,
+      1431,
+      1705
+    ],
+    "category": "Text",
+    "text": "Vậy tổng khoảng cách ngắn nhất từ thiết bị đó đến hai flycam là $A'B = 2\\sqrt{173} \\approx 26,31(m)$."
+  },
+  {
+    "bbox": [
+      212,
+      1707,
+      954,
+      1751
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN"
+  },
+  {
+    "bbox": [
+      74,
+      1748,
+      1574,
+      1832
+    ],
+    "category": "List-item",
+    "text": "Câu 1. Một kiến trúc sư chịu trách nhiệm thiết kế một toà nhà cao 30 mét. Mặt cắt ngang tại mọi độ cao, vuông góc với trục thẳng đứng, luôn là một hình vuông (xem hình vẽ)."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

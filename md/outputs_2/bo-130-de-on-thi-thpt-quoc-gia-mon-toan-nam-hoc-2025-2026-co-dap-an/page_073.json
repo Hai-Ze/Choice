@@ -1,0 +1,427 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      119,
+      1198,
+      239
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Một nhà đầu tư thống kê lại hiệu của giá khi đóng cửa và giá khi mở cửa của một mã cổ phiếu trong 100 ngày giao dịch liên tiếp ở bảng sau (đơn vị: nghìn đồng)."
+  },
+  {
+    "bbox": [
+      288,
+      261,
+      1006,
+      362
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Hiệu</td><td>[-0,5; 0)</td><td>[0,5; 1)</td><td>[1; 1,5)</td><td>[1,5; 2)</td><td>[2; 2,5)</td></tr><tr><td>Số ngày</td><td>32</td><td>40</td><td>16</td><td>8</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      94,
+      386,
+      1114,
+      424
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm trên thuộc half khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      124,
+      424,
+      291,
+      465
+    ],
+    "category": "List-item",
+    "text": "(A) [0,2; 0,3)."
+  },
+  {
+    "bbox": [
+      396,
+      424,
+      563,
+      465
+    ],
+    "category": "List-item",
+    "text": "(B) [0,3; 0,4)."
+  },
+  {
+    "bbox": [
+      669,
+      424,
+      835,
+      465
+    ],
+    "category": "List-item",
+    "text": "(C) [0,4; 0,5)."
+  },
+  {
+    "bbox": [
+      941,
+      424,
+      1107,
+      465
+    ],
+    "category": "List-item",
+    "text": "(D) [0,5; 0,6)."
+  },
+  {
+    "bbox": [
+      94,
+      501,
+      767,
+      615
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Cho hình chóp đều $S.ABCD$, gọi $O$ là giao điểm của $AC$ và $BD$. Khẳng định nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      124,
+      615,
+      382,
+      656
+    ],
+    "category": "List-item",
+    "text": "(A) $\\overrightarrow{AB} + \\overrightarrow{CD} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      453,
+      615,
+      707,
+      656
+    ],
+    "category": "List-item",
+    "text": "(B) $\\overrightarrow{OA} + \\overrightarrow{OC} = \\overrightarrow{0}$."
+  },
+  {
+    "bbox": [
+      124,
+      656,
+      403,
+      701
+    ],
+    "category": "List-item",
+    "text": "(C) $\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC}$."
+  },
+  {
+    "bbox": [
+      453,
+      656,
+      722,
+      701
+    ],
+    "category": "List-item",
+    "text": "(D) $\\overrightarrow{SB} + \\overrightarrow{SD} = \\overrightarrow{SO}$."
+  },
+  {
+    "bbox": [
+      811,
+      519,
+      1171,
+      872
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      891,
+      1198,
+      970
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Trong không gian $Oxyz$, cho hai điểm $A(-2; 0; 0)$, $B(0; 0; 3)$. Diện tích tam giác $OAB$ bằng"
+  },
+  {
+    "bbox": [
+      124,
+      970,
+      196,
+      1009
+    ],
+    "category": "List-item",
+    "text": "(A) 3."
+  },
+  {
+    "bbox": [
+      396,
+      970,
+      468,
+      1009
+    ],
+    "category": "List-item",
+    "text": "(B) 5."
+  },
+  {
+    "bbox": [
+      669,
+      970,
+      741,
+      1009
+    ],
+    "category": "List-item",
+    "text": "(C) 2."
+  },
+  {
+    "bbox": [
+      941,
+      970,
+      1013,
+      1009
+    ],
+    "category": "List-item",
+    "text": "(D) 6."
+  },
+  {
+    "bbox": [
+      94,
+      1025,
+      1198,
+      1104
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Trong không gian $Oxyz$, mặt phẳng ($P$): $x - 2y - z + 4 = 0$ đi qua điểm nào sau đây?"
+  },
+  {
+    "bbox": [
+      124,
+      1104,
+      299,
+      1145
+    ],
+    "category": "List-item",
+    "text": "(A) $Q(0; 0; 4)$."
+  },
+  {
+    "bbox": [
+      396,
+      1104,
+      602,
+      1145
+    ],
+    "category": "List-item",
+    "text": "(B) $M(1; 1; -4)$."
+  },
+  {
+    "bbox": [
+      669,
+      1104,
+      846,
+      1145
+    ],
+    "category": "List-item",
+    "text": "(C) $P(1; 0; 0)$."
+  },
+  {
+    "bbox": [
+      941,
+      1104,
+      1121,
+      1145
+    ],
+    "category": "List-item",
+    "text": "(D) $N(3; 1; 0)$."
+  },
+  {
+    "bbox": [
+      110,
+      1160,
+      824,
+      1213
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      1222,
+      1198,
+      1339
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABC$ có đáy là tam giác $ABC$ vuông tại $B$ có $AB = 1$, $\\widehat{ACB} = 30^\\circ$. Biết $SA$ vuông góc với mặt đáy và $SA = 2$. Gọi $H$ là hình chiếu của $A$ trên $SB$."
+  },
+  {
+    "bbox": [
+      124,
+      1343,
+      396,
+      1380
+    ],
+    "category": "Formula",
+    "text": "a) $d(A, SB) = AH$."
+  },
+  {
+    "bbox": [
+      124,
+      1380,
+      438,
+      1459
+    ],
+    "category": "Formula",
+    "text": "b) $d(B, (SAC)) = \\frac{\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      124,
+      1451,
+      311,
+      1494
+    ],
+    "category": "Formula",
+    "text": "c) $BC = \\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      124,
+      1494,
+      671,
+      1573
+    ],
+    "category": "Formula",
+    "text": "d) Thể tích khối chóp $S.ABC$ bằng $\\frac{\\sqrt{3}}{6}$."
+  },
+  {
+    "bbox": [
+      94,
+      1595,
+      871,
+      1901
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Một chất điểm chuyển động trên trục số trong 6 giây với vận tốc $v$ (m/s) phụ thuộc vào thời gian $t$ (giây) có đồ thị như hình bên. Trong khoảng thời gian 2 giây từ khi bắt đầu chuyển động, đồ thị là một phần đường parabol có định $I(3; 9)$ và có trục đối xứng song song với trục tung. Trong khoảng thời gian còn lại, chất điểm chuyển động trên một đường thẳng có hệ số góc bằng $-8$ và đi qua điểm $M(3; 0)$."
+  },
+  {
+    "bbox": [
+      124,
+      1901,
+      864,
+      1978
+    ],
+    "category": "List-item",
+    "text": "a) Phương trình của parabol là ($P$): $y = v(t) = -t^2 + 6t, t \\in [0; 2]$."
+  },
+  {
+    "bbox": [
+      124,
+      1980,
+      864,
+      2056
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ của chất điểm tại thời điểm $t = 5$ giây là 16 m/s."
+  },
+  {
+    "bbox": [
+      124,
+      2058,
+      864,
+      2135
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường mà chất điểm di chuyển được trong 6 giây là 36 m."
+  },
+  {
+    "bbox": [
+      124,
+      2137,
+      864,
+      2242
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách của chất điểm so với gốc tọa độ sau 6 giây là $\\frac{68}{3}$ m."
+  },
+  {
+    "bbox": [
+      914,
+      1612,
+      1171,
+      2072
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1476,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "71"
+  }
+]

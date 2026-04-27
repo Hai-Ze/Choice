@@ -1,0 +1,441 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      158,
+      1453,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành và $SA \\perp (ABCD)$. Đường thẳng nào sau đây vuông góc với $SA$?"
+  },
+  {
+    "bbox": [
+      221,
+      276,
+      325,
+      312
+    ],
+    "category": "List-item",
+    "text": "A. $SC$."
+  },
+  {
+    "bbox": [
+      525,
+      276,
+      634,
+      312
+    ],
+    "category": "List-item",
+    "text": "B. $BD$."
+  },
+  {
+    "bbox": [
+      827,
+      276,
+      927,
+      312
+    ],
+    "category": "List-item",
+    "text": "C. $SB$."
+  },
+  {
+    "bbox": [
+      1128,
+      276,
+      1235,
+      312
+    ],
+    "category": "List-item",
+    "text": "D. $SD$."
+  },
+  {
+    "bbox": [
+      192,
+      348,
+      998,
+      393
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Nghiệm của phương trình $\\log_2(x-1) = 1$ là"
+  },
+  {
+    "bbox": [
+      221,
+      412,
+      359,
+      448
+    ],
+    "category": "List-item",
+    "text": "A. $x = 3$."
+  },
+  {
+    "bbox": [
+      525,
+      412,
+      661,
+      448
+    ],
+    "category": "List-item",
+    "text": "B. $x = 4$."
+  },
+  {
+    "bbox": [
+      827,
+      412,
+      964,
+      448
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      1128,
+      412,
+      1266,
+      448
+    ],
+    "category": "List-item",
+    "text": "D. $x = 1$."
+  },
+  {
+    "bbox": [
+      192,
+      480,
+      1318,
+      527
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $y = f(x)$ có bảng biến thiên trên đoạn $[0;3]$ như sau"
+  },
+  {
+    "bbox": [
+      531,
+      553,
+      1117,
+      771
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>1</td><td>3</td></tr><tr><td>$y$</td><td>$-3$</td><td></td><td>0</td></tr><tr><td></td><td></td><td>$-4$</td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      817,
+      1056,
+      864
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của hàm số $y = f(x)$ trên đoạn $[0;3]$ là"
+  },
+  {
+    "bbox": [
+      221,
+      884,
+      328,
+      920
+    ],
+    "category": "List-item",
+    "text": "A. $-4$."
+  },
+  {
+    "bbox": [
+      525,
+      884,
+      602,
+      920
+    ],
+    "category": "List-item",
+    "text": "B. $1$."
+  },
+  {
+    "bbox": [
+      827,
+      884,
+      904,
+      920
+    ],
+    "category": "List-item",
+    "text": "C. $4$."
+  },
+  {
+    "bbox": [
+      1128,
+      884,
+      1205,
+      920
+    ],
+    "category": "List-item",
+    "text": "D. $0$."
+  },
+  {
+    "bbox": [
+      192,
+      953,
+      1037,
+      999
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Tập nghiệm của bất phương trình $3^x < 81$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1019,
+      435,
+      1055
+    ],
+    "category": "List-item",
+    "text": "A. $S = (3;81)$."
+  },
+  {
+    "bbox": [
+      525,
+      1019,
+      754,
+      1055
+    ],
+    "category": "List-item",
+    "text": "B. $S = (-\\infty;4)$."
+  },
+  {
+    "bbox": [
+      827,
+      1019,
+      1058,
+      1055
+    ],
+    "category": "List-item",
+    "text": "C. $S = (4;+\\infty)$."
+  },
+  {
+    "bbox": [
+      1128,
+      1019,
+      1359,
+      1055
+    ],
+    "category": "List-item",
+    "text": "D. $S = (3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      192,
+      1089,
+      1479,
+      1189
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian $Oxyz$, phương trình mặt phẳng đi qua điểm $A(-1;1;-2)$ và có véc-tơ pháp tuyến $\\vec{n} = (1;-2;3)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1209,
+      549,
+      1245
+    ],
+    "category": "List-item",
+    "text": "A. $x - 2y + 3z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      833,
+      1209,
+      1165,
+      1245
+    ],
+    "category": "List-item",
+    "text": "B. $-x + y - 2z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      221,
+      1271,
+      559,
+      1307
+    ],
+    "category": "List-item",
+    "text": "C. $-x + y - 2z - 9 = 0$."
+  },
+  {
+    "bbox": [
+      833,
+      1271,
+      1159,
+      1307
+    ],
+    "category": "List-item",
+    "text": "D. $x - 2y + 3z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      1341,
+      1235,
+      1387
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình集合 $ABCD.A'B'C'D'$. Mệnh đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      221,
+      1395,
+      592,
+      1443
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{CA'} = \\vec{CB} + \\vec{CD} + \\vec{CC'}$."
+  },
+  {
+    "bbox": [
+      833,
+      1395,
+      1198,
+      1443
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{AC'} = \\vec{AB} + \\vec{AD} + \\vec{AA'}$."
+  },
+  {
+    "bbox": [
+      221,
+      1455,
+      592,
+      1505
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{BD'} = \\vec{BA} + \\vec{BD} + \\vec{BB'}$."
+  },
+  {
+    "bbox": [
+      833,
+      1455,
+      1107,
+      1505
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{CA} = \\vec{CB} + \\vec{CD}$."
+  },
+  {
+    "bbox": [
+      192,
+      1575,
+      1453,
+      1695
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      1729,
+      1191,
+      1773
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian $Oxyz$, cho $A(1;6;2)$, $B(5;1;3)$, $C(4;0;6)$."
+  },
+  {
+    "bbox": [
+      221,
+      1781,
+      1030,
+      1827
+    ],
+    "category": "List-item",
+    "text": "a) Hình chiếu vuông góc của $B$ lên $(Oxz)$ là $(0;1;0)$."
+  },
+  {
+    "bbox": [
+      221,
+      1831,
+      1008,
+      1913
+    ],
+    "category": "List-item",
+    "text": "b) Tọa độ trọng tâm tam giác $ABC$ là $\\left(\\frac{10}{3};\\frac{7}{3};\\frac{11}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      221,
+      1923,
+      923,
+      1967
+    ],
+    "category": "List-item",
+    "text": "c) Một vecto chỉ phương của $AB$ là $(4;-5;1)$."
+  },
+  {
+    "bbox": [
+      221,
+      1975,
+      1183,
+      2021
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình mặt phẳng $(ABC)$ là $14x + 13y + 9z - 110 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      2047,
+      1453,
+      2203
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Có hai phác đồ điều trị $A$ và $B$ cho một loại bệnh. Phác đồ $A$ có xác suất chữa khỏi bệnh là 60% và xác suất gây tác dụng phụ nghiêm trọng là 5%. Phác đồ $B$ có xác suất chữa khỏi bệnh là 70% và xác suất gây tác dụng phụ nghiêm"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      497,
+      2280
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2280
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      508,
+      140,
+      1089,
+      654
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      738,
+      716,
+      778
+    ],
+    "category": "Text",
+    "text": "Cácoorhmmnnddeh dêddh yhds dêddh"
+  },
+  {
+    "bbox": [
+      190,
+      799,
+      742,
+      839
+    ],
+    "category": "List-item",
+    "text": "a) Chiều cao của cây thông là 26 mét."
+  },
+  {
+    "bbox": [
+      190,
+      852,
+      676,
+      895
+    ],
+    "category": "List-item",
+    "text": "b) Diểm $P$ có tọa độ là $P(1; 1; 5)$."
+  },
+  {
+    "bbox": [
+      190,
+      910,
+      1546,
+      996
+    ],
+    "category": "List-item",
+    "text": "c) Một tia sét đánh trúng cây thông, làm cây bị gãy (phần bị gãy không rời khỏi cây). Đỉnh cây ems ntsu dòc tnt $A(1; -1; 6)$. Cây thông đã bị gãy ở độ cao 14 mét."
+  },
+  {
+    "bbox": [
+      190,
+      1011,
+      1427,
+      1051
+    ],
+    "category": "List-item",
+    "text": "d) Sau khi gãy, vị trí buộc dây trên cây có tọa độ là $Q'(a; b; c)$, khi đó $2a + b + c = 25$."
+  },
+  {
+    "bbox": [
+      154,
+      1066,
+      198,
+      1105
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1066,
+      608,
+      1128
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1128,
+      1546,
+      1257
+    ],
+    "category": "Text",
+    "text": "Vì cây thông mọc thẳng đứng (vuông góc với mặt đất) và đỉnh có tọa độ là $S(5; 7; 26)$ nên chiều cao của cây thông bằng cao độ của điểm $S$ và bằng 26 mét (vì đơn vị trên mỗi trục tọa độ tính bằng mét)."
+  },
+  {
+    "bbox": [
+      203,
+      1279,
+      351,
+      1318
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1319,
+      443,
+      1423
+    ],
+    "category": "Text",
+    "text": "Gọi ý: $\\begin{cases} P \\in PQ \\\\ P \\in (\\alpha) \\end{cases}$ ."
+  },
+  {
+    "bbox": [
+      154,
+      1428,
+      1546,
+      1513
+    ],
+    "category": "Text",
+    "text": "Vì sợi dây bảo vệ $PQ$ được kéo vuông góc với mặt sường nên $PQ \\perp (\\alpha)$. Do đó $PQ$ nhận vecto pháp tuyến của mặt phẳng $(\\alpha)$ là $\\vec{n} = (2; 3; 6)$ làm vecto chỉ phương."
+  },
+  {
+    "bbox": [
+      154,
+      1515,
+      1546,
+      1602
+    ],
+    "category": "Text",
+    "text": "Lại có điểm $Q$ nằm trên cây thông nên sẽ có chung hoành độ và tung độ với điểm $S$ nên $Q(5; 7; q)$.\nVà vì điểm $Q$ cách mặt đất 17 mét nên $Q(5; 7; 17)$."
+  },
+  {
+    "bbox": [
+      154,
+      1604,
+      1546,
+      1647
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $PQ$ đi qua điểm $Q(5; 7; 17)$ và có vecto chỉ phương $\\vec{n} = (2; 3; 6)$ có phương trình"
+  },
+  {
+    "bbox": [
+      154,
+      1647,
+      737,
+      1806
+    ],
+    "category": "Text",
+    "text": "tham số là: $PQ : \\begin{cases} x = 5 + 2t \\\\ y = 7 + 3t \\\\ z = 17 + 6t \\end{cases}$, $t \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      154,
+      1810,
+      747,
+      1850
+    ],
+    "category": "Text",
+    "text": "Vì $P \\in PQ$ nên $P(5 + 2t; 7 + 3t; 17 + 6t)$."
+  },
+  {
+    "bbox": [
+      154,
+      1854,
+      1546,
+      1935
+    ],
+    "category": "Text",
+    "text": "Mà $P \\in (\\alpha)$ nên ta có: $2(5+2t)+3(7+3t)+6(17+6t)-35 = 0 \\Leftrightarrow 10+4t+21+9t+102+36t-35 = 0 \\Leftrightarrow 49t + 98 = 0 \\Leftrightarrow t = -2$."
+  },
+  {
+    "bbox": [
+      154,
+      1943,
+      398,
+      1982
+    ],
+    "category": "Text",
+    "text": "Suy ra $P(1; 1; 5)$."
+  },
+  {
+    "bbox": [
+      203,
+      2005,
+      347,
+      2044
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      2046,
+      1546,
+      2132
+    ],
+    "category": "Text",
+    "text": "Giả sử cây bị gãy tại điểm là $K(5; 7; k)$ và ta có điểm gốc của cây là $G(5; 7; 0)$ (vì cây vuông góc với mặt phẳng $(Oxy)$ nên các điểm thuộc cây sẽ có dạng $(5; 7; k)$, $0 \\le k \\le 26$)."
+  },
+  {
+    "bbox": [
+      154,
+      2134,
+      799,
+      2175
+    ],
+    "category": "Text",
+    "text": "Khi đó tổng chiều dài cây là $AK + KG = 26$"
+  },
+  {
+    "bbox": [
+      154,
+      2177,
+      781,
+      2224
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\sqrt{(5-1)^2 + (7+1)^2 + (k-6)^2} + k = 26\n$$"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "184"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1499,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

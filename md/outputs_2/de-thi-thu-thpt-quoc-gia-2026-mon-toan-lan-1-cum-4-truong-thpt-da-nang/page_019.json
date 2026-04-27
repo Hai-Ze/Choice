@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      158,
+      89,
+      355,
+      130
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 342."
+  },
+  {
+    "bbox": [
+      158,
+      152,
+      276,
+      191
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      260,
+      215,
+      602,
+      265
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(x) = -3x^2 + 6x$."
+  },
+  {
+    "bbox": [
+      260,
+      298,
+      1586,
+      350
+    ],
+    "category": "Text",
+    "text": "Gọi $d$ là tiếp tuyến của đồ thị hàm số song song với mặt đường tại tiếp điểm $M(x_0; y_0) (x_0 > 0)$."
+  },
+  {
+    "bbox": [
+      260,
+      357,
+      1162,
+      452
+    ],
+    "category": "Text",
+    "text": "Khi đó $f'(x_0) = -9 \\Leftrightarrow -3x_0^2 + 6x_0 = -9 \\Leftrightarrow \\begin{cases} x_0 = 3 \\\\ x_0 = -1 \\end{cases} (l) \\Rightarrow M(3; 2)$."
+  },
+  {
+    "bbox": [
+      260,
+      481,
+      1525,
+      532
+    ],
+    "category": "Text",
+    "text": "Độ dài cây cầu ngắn nhất bằng khoảng cách từ điểm $M$ đến đường thẳng $(\\Delta): 9x + y - 60 = 0$."
+  },
+  {
+    "bbox": [
+      265,
+      562,
+      612,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\nh = \\frac{|9 \\cdot 3 + 2 - 60|}{\\sqrt{9^2 + 1^2}} \\approx 3,423.\n$$"
+  },
+  {
+    "bbox": [
+      260,
+      681,
+      1248,
+      727
+    ],
+    "category": "Text",
+    "text": "Vì đơn vị của hệ trục là $100m$ nên độ dài ngắn nhất của cây cầu là $342m$."
+  },
+  {
+    "bbox": [
+      158,
+      750,
+      1625,
+      991
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Trong không gian với một hệ trục tọa độ $Oxyz$ cho trước (mặt phẳng $(Oxy)$ trùng với mặt đất, trục $Oz$ hướng thẳng đứng lên trời, đơn vị đo trên mỗi trục lấy theo kilômét), mộtchiес máy bay đang di chuyển với hướng bay không đổi từ điểm $M(-50; 30; 10)$ đến vị trí hạ cánh là $N(2; 3; 0)$. Đường bay của máy bay hợp với phương thẳng đứng một góc $a^\\circ$. Tìm $a$? (Làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      748,
+      991,
+      1162,
+      1288
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      158,
+      1335,
+      321,
+      1369
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** 80."
+  },
+  {
+    "bbox": [
+      158,
+      1376,
+      398,
+      1418
+    ],
+    "category": "Text",
+    "text": "**Hướng dẫn giải:**"
+  },
+  {
+    "bbox": [
+      163,
+      1425,
+      1441,
+      1539
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{k} = (0; 0; 1), \\overline{MN} = (52; -27; -10), \\cos(\\vec{k}; \\overline{MN}) = \\frac{\\vec{k} \\cdot \\overline{MN}}{|\\vec{k}| \\cdot |\\overline{MN}|} = \\frac{-10}{\\sqrt{3533}} \\Rightarrow (\\vec{k}; \\overline{MN}) \\approx 99^\\circ 41' 7,73''\n$$"
+  },
+  {
+    "bbox": [
+      158,
+      1544,
+      1432,
+      1590
+    ],
+    "category": "Text",
+    "text": "Suy ra góc giữa đường bay của máy bay và phương thẳng đứng bằng $180^\\circ - 99^\\circ 41' 7,73'' \\approx 80^\\circ$"
+  },
+  {
+    "bbox": [
+      158,
+      1638,
+      1507,
+      1791
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Trong không gian với hệ trục tọa độ $Oxyz$ cho hình thang $ABCD$ vuông tại $A$ và $B$. Biết $A(1; 2; 1)$, $B(2; 0; 3)$, $C(6; 1; 2)$ và hình thang có diện tích bằng $12\\sqrt{2}$. Giả sử đỉnh $D(a; b; c)$, tìm $a+b+c$? (Kết quả làm tròn đến chữ số hàng phần chục)"
+  },
+  {
+    "bbox": [
+      158,
+      1791,
+      347,
+      1827
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** 10,7."
+  },
+  {
+    "bbox": [
+      158,
+      1832,
+      398,
+      1875
+    ],
+    "category": "Text",
+    "text": "**Hướng dẫn giải:**"
+  },
+  {
+    "bbox": [
+      298,
+      1902,
+      1131,
+      1956
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB} = (1; -2; 2) \\Rightarrow AB = 3$; $\\overline{BC} = (4; 1; -1) \\Rightarrow BC = 3\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      298,
+      1965,
+      1481,
+      2098
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết $ABCD$ là hình thang vuông tại $A$ và $B$ và có diện tích bằng $6\\sqrt{2}$ nên $\\frac{1}{2} AB(AD + BC) = 6\\sqrt{2} \\Leftrightarrow \\frac{1}{2} \\cdot 3 \\cdot (AD + 3\\sqrt{2}) = 12\\sqrt{2} \\Rightarrow AD = 5\\sqrt{2} \\Rightarrow AD = \\frac{5}{3} BC$."
+  }
+]

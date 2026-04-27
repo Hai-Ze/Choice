@@ -1,0 +1,332 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      618,
+      95,
+      951,
+      135
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      156,
+      1373,
+      201
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      216,
+      1042,
+      271
+    ],
+    "category": "Text",
+    "text": "Câu 1. Số nghiệm của phương trình $2\\sin x - \\sqrt{3} = 0$。Trên đoạn $[0; 2\\pi]$"
+  },
+  {
+    "bbox": [
+      125,
+      296,
+      186,
+      329
+    ],
+    "category": "List-item",
+    "text": "A. 1"
+  },
+  {
+    "bbox": [
+      476,
+      296,
+      540,
+      329
+    ],
+    "category": "List-item",
+    "text": "B. 2"
+  },
+  {
+    "bbox": [
+      826,
+      296,
+      889,
+      329
+    ],
+    "category": "List-item",
+    "text": "C. 3"
+  },
+  {
+    "bbox": [
+      1175,
+      296,
+      1238,
+      329
+    ],
+    "category": "List-item",
+    "text": "D. 4"
+  },
+  {
+    "bbox": [
+      727,
+      355,
+      843,
+      394
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      413,
+      196,
+      451
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      82,
+      471,
+      823,
+      648
+    ],
+    "category": "Formula",
+    "text": "$$\n2\\sin x - \\sqrt{3} = 0 \\Leftrightarrow \\sin x = \\frac{\\sqrt{3}}{2} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{3} + k2\\pi \\\\ x = \\frac{2\\pi}{3} + k2\\pi \\end{cases} \\quad (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      676,
+      973,
+      757
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình có 2 nghiệm thuộc $[0; 2\\pi]$ là $x = \\frac{\\pi}{3}$ và $x = \\frac{2\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      76,
+      781,
+      1143,
+      881
+    ],
+    "category": "Text",
+    "text": "Câu 2. Tổng bình phương các nghiệm của phương trình $5^{3x-2} = \\left(\\frac{1}{5}\\right)^{-x^2}$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      906,
+      206,
+      939
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      476,
+      906,
+      551,
+      939
+    ],
+    "category": "List-item",
+    "text": "B. 5."
+  },
+  {
+    "bbox": [
+      826,
+      906,
+      904,
+      939
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1175,
+      906,
+      1250,
+      939
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      727,
+      965,
+      843,
+      1004
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1022,
+      196,
+      1060
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1082,
+      923,
+      1182
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } 5^{3x-2} = \\left(\\frac{1}{5}\\right)^{-x^2} \\Leftrightarrow 5^{3x-2} = 5^{x^2} \\Leftrightarrow x^2 - 3x + 2 = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = 2 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1209,
+      1089,
+      1309
+    ],
+    "category": "Text",
+    "text": "Vậy tổng bình phương các nghiệm của phương trình $5^{3x-2} = \\left(\\frac{1}{5}\\right)^{-x^2}$ bằng 5."
+  },
+  {
+    "bbox": [
+      76,
+      1337,
+      767,
+      1423
+    ],
+    "category": "Text",
+    "text": "Câu 3. giới hạn dãy số $(u_n)$ với $u_n = \\frac{3n - n^4}{4n - 5}$ là:"
+  },
+  {
+    "bbox": [
+      115,
+      1467,
+      219,
+      1500
+    ],
+    "category": "List-item",
+    "text": "A. $-\\infty$."
+  },
+  {
+    "bbox": [
+      470,
+      1467,
+      571,
+      1500
+    ],
+    "category": "List-item",
+    "text": "B. $+\\infty$."
+  },
+  {
+    "bbox": [
+      826,
+      1448,
+      911,
+      1525
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{3}{4}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1467,
+      1250,
+      1500
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      727,
+      1551,
+      843,
+      1589
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1609,
+      196,
+      1647
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      82,
+      1667,
+      665,
+      1834
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim u_n = \\lim \\frac{3n - n^4}{4n - 5} = \\lim \\left( n^3 \\cdot \\frac{\\frac{3}{n^3} - 1}{4 - \\frac{5}{n}} \\right) = -\\infty.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1859,
+      363,
+      2080
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vì } \\begin{cases} \\lim n^3 = +\\infty \\\\ \\lim \\frac{\\frac{3}{n^3} - 1}{4 - \\frac{5}{n}} = -\\frac{1}{4} \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      833,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

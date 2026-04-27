@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      114,
+      123,
+      619,
+      213
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{x^2 + x + 1}{x + 1}$."
+  },
+  {
+    "bbox": [
+      251,
+      216,
+      748,
+      261
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có tập xác định là $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      251,
+      269,
+      608,
+      360
+    ],
+    "category": "Text",
+    "text": "b) $y' = \\frac{x^2 - 2x}{(x + 1)^2}, \\forall x \\neq -1$."
+  },
+  {
+    "bbox": [
+      251,
+      374,
+      765,
+      419
+    ],
+    "category": "Text",
+    "text": "c) Hàm số có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      288,
+      428,
+      1497,
+      676
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      688,
+      1112,
+      737
+    ],
+    "category": "Text",
+    "text": "d) Khoảng cách giữa hai điểm cực trị của đồ thị hàm số là $2\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      114,
+      756,
+      1533,
+      845
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Thống kê thời gian trung bình sử dụng máy vi tính trong một ngày của nhân viên công ty X cho bởi bảng số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      335,
+      847,
+      1517,
+      942
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian sử dụng (phút)</td><td>[30; 60)</td><td>[60; 90)</td><td>[90; 120)</td><td>[120; 150)</td><td>[150; 180)</td></tr><tr><td>Số nhân viên</td><td>3</td><td>5</td><td>5</td><td>25</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      939,
+      981,
+      982
+    ],
+    "category": "Text",
+    "text": "a) Số phần tử (cỡ mẫu) của mẫu số liệu trên là $n = 40$."
+  },
+  {
+    "bbox": [
+      251,
+      984,
+      995,
+      1028
+    ],
+    "category": "Text",
+    "text": "b) Số trung bình cộng của mẫu số liệu trên bằng 118,5."
+  },
+  {
+    "bbox": [
+      251,
+      1035,
+      861,
+      1079
+    ],
+    "category": "Text",
+    "text": "c) Phương sai của mẫu số liệu trên bằng 945."
+  },
+  {
+    "bbox": [
+      251,
+      1086,
+      946,
+      1133
+    ],
+    "category": "Text",
+    "text": "d) Độ lệch chuẩn của mẫu số liệu trên bằng $3\\sqrt{105}$."
+  },
+  {
+    "bbox": [
+      114,
+      1136,
+      743,
+      1180
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Học sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      1197,
+      1533,
+      1282
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Một công ty thống kê tuổi của các nhân viên và kết quả được cho trong bảng số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      409,
+      1288,
+      1337,
+      1383
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Nhóm</td><td>[23; 26)</td><td>[26; 29)</td><td>[29; 32)</td><td>[32; 35)</td><td>[35; 38)</td></tr><tr><td>Tần số</td><td>23</td><td>40</td><td>56</td><td>33</td><td>8</td></tr></table>"
+  },
+  {
+    "bbox": [
+      251,
+      1381,
+      1533,
+      1464
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm trên (làm tròn đến hàng phần mười) là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      1492,
+      1533,
+      1593
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Hàm số $y = \\log_2(x^2 + 3x)$ nghịch biến trên khoảng $(-\\infty; a)$. Giá trị lớn nhất của $a$ là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      114,
+      1615,
+      1533,
+      1704
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Tại phòng thí nghiệm Sinh học, nhóm nghiên cứu nuôi cấy không liên tục. Vi�uẩn *E.Coli* ở điều kiện tối ưu. sự sinh trưởng của quần thể vi�uẩn bao gồm 4 pha cơ bản:"
+  },
+  {
+    "bbox": [
+      251,
+      1704,
+      1533,
+      1792
+    ],
+    "category": "Text",
+    "text": "- Pha tiêm phát (pha lag): Vijuẩn dần thích nghi với môi trường, tổng hợp vật chất chuẩn bị cho sự phân chia."
+  },
+  {
+    "bbox": [
+      251,
+      1792,
+      1533,
+      1881
+    ],
+    "category": "Text",
+    "text": "- Pha luỹ thua (pha log): Phân chia mạnh me theo tiêm năng, số lượng tế bào tăng theo luỹ thua và đạt đến cực đại ở cuối pha."
+  },
+  {
+    "bbox": [
+      251,
+      1881,
+      1096,
+      1926
+    ],
+    "category": "Text",
+    "text": "- Pha cân bằng: Lượng tế bào sinh ra bằng lượng tế bào chết đi."
+  },
+  {
+    "bbox": [
+      251,
+      1926,
+      1533,
+      2015
+    ],
+    "category": "Text",
+    "text": "- Pha suy vong: Số lượng tế bào trong quần thể ngày càng giảm do chất dinh dưỡng cạn kiệt, chất độc hại tích luỹ ngày càng nhiều."
+  },
+  {
+    "bbox": [
+      251,
+      2015,
+      1533,
+      2209
+    ],
+    "category": "Text",
+    "text": "Giả sử trong giai đoạn “Pha luỹ thua (pha log)”, số lượng của một quần thể vijuẩn *E.Coli* được xác định bởi công thức $P(t) = 100e^{0,1t}$, trong đó thời gian $t$ được tính bằng phút. tại thời điểm $t = 20$, tốc độ tăng trưởng tức thời của quần thể vijuẩn *E.Coli* là bao nhiêu vijuẩn/phút? (làm tròn kết quả đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      1236,
+      2265,
+      1533,
+      2305
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 0105"
+  }
+]

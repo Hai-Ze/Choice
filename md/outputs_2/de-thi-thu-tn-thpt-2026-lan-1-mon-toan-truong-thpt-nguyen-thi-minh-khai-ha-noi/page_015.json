@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      256,
+      118,
+      771,
+      211
+    ],
+    "category": "Formula",
+    "text": "$$\nx_1 = \\frac{27 + \\sqrt{281}}{4} \\approx \\frac{27 + 16.763}{4} \\approx 10.941\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      218,
+      759,
+      308
+    ],
+    "category": "Formula",
+    "text": "$$\nx_2 = \\frac{27 - \\sqrt{281}}{4} \\approx \\frac{27 - 16.763}{4} \\approx 2.559\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      316,
+      1195,
+      362
+    ],
+    "category": "Text",
+    "text": "Nghiệm $x_2 \\approx 2.559$ thỏa mãn điều kiện $x \\le 6$, nên nghiệm này hợp lệ."
+  },
+  {
+    "bbox": [
+      251,
+      370,
+      1117,
+      415
+    ],
+    "category": "Text",
+    "text": "Khoảng cách từ điểm $P$ đến cơ quan của chị Mai là $CP = 6 - x$."
+  },
+  {
+    "bbox": [
+      256,
+      422,
+      959,
+      526
+    ],
+    "category": "Formula",
+    "text": "$$\nCP = 6 - \\frac{27 - \\sqrt{281}}{4} = \\frac{24 - (27 - \\sqrt{281})}{4} = \\frac{-3 + \\sqrt{281}}{4}\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      535,
+      758,
+      617
+    ],
+    "category": "Formula",
+    "text": "$$\nCP \\approx \\frac{-3 + 16.763}{4} \\approx \\frac{13.763}{4} \\approx 3.44075\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      622,
+      1083,
+      668
+    ],
+    "category": "Text",
+    "text": "Làm tròn kết quả đến hàng phần trăm, ta được $CP \\approx 3.44$ km."
+  },
+  {
+    "bbox": [
+      113,
+      692,
+      1544,
+      930
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{x^2 - 4x + 5}{x - 2}$ có đồ thị $(C)$. Gọi $A$ là điểm cực trị có tung độ âm của đồ thị $(C)$. Khoảng cách từ điểm $A$ đến đường tiệm cận xiên của đồ thị hàm số $(C)$ bằng $\\frac{\\sqrt{a}}{b}$ với $a, b \\in \\mathbb{Z}^+$ và $a$ là số nguyên tố. Tính $2026a + b$."
+  },
+  {
+    "bbox": [
+      251,
+      963,
+      452,
+      1002
+    ],
+    "category": "Text",
+    "text": "Đáp án: 4054."
+  },
+  {
+    "bbox": [
+      843,
+      1036,
+      957,
+      1075
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      256,
+      1109,
+      1183,
+      1232
+    ],
+    "category": "Formula",
+    "text": "$$\ny = \\frac{x^2 - 4x + 5}{x - 2} \\Rightarrow y' = \\frac{(2x - 4)(x - 2) - (x^2 - 4x + 5)}{(x - 2)^2} = \\frac{x^2 - 4x + 3}{(x - 2)^2}.\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1271,
+      1034,
+      1371
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 0 \\Leftrightarrow x^2 - 4x + 3 = 0 \\Leftrightarrow \\begin{cases} x = 1 \\Rightarrow y = -2 \\\\ x = 3 \\Rightarrow y = 2 \\end{cases} \\Rightarrow A(1; -2).\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1414,
+      1439,
+      1501
+    ],
+    "category": "Formula",
+    "text": "$$\ny = \\frac{x^2 - 4x + 5}{x - 2} = x - 2 + \\frac{1}{x - 2} \\Rightarrow \\text{đồ thị có tiệm cận xiên: } \\Delta: y = x - 2 \\Rightarrow x - y - 2 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1534,
+      1294,
+      1668
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(A, \\Delta) = \\frac{|1 + 2 - 2|}{\\sqrt{1^2 + (-1)^2}} = \\frac{\\sqrt{2}}{2} \\Rightarrow \\begin{cases} a = 2 \\\\ b = 2 \\end{cases} \\Rightarrow 2026a + b = 2026 \\cdot 2 + 2 = 4054.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1706,
+      1550,
+      1994
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Cho hình chóp $S.ABCD$ có đáy là hình thoi cạnh 1, góc $\\widehat{BAD} = 60^\\circ$. Gọi $O$ là giao điểm của $AC$ và $BD$. Hình chiếu vuông góc của $S$ lên mặt phẳng $(ABCD)$ trùng với điểm $O$. Góc giữa đường thẳng $SC$ và mặt phẳng đáy bằng $60^\\circ$. Khoảng cách từ điểm $A$ đến mặt phẳng $(SCD)$ bằng $\\frac{a\\sqrt{13}}{b}$ với $a, b$ là các số nguyên dương và $\\frac{a}{b}$ là phân số tối简. Tính $a + b$."
+  },
+  {
+    "bbox": [
+      251,
+      2029,
+      418,
+      2069
+    ],
+    "category": "Text",
+    "text": "Đáp án: 16."
+  },
+  {
+    "bbox": [
+      843,
+      2104,
+      957,
+      2142
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  }
+]

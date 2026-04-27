@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      153,
+      131,
+      906,
+      211
+    ],
+    "category": "Text",
+    "text": "3. Biết xác suất để một đội chiến thắng là $a$, tính $\\frac{3}{a}$."
+  },
+  {
+    "bbox": [
+      486,
+      211,
+      1211,
+      310
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      340,
+      1547,
+      486
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Không gian mẫu là $n(\\Omega) = 10!$ (số cách xếp 10 người thành 1 hàng). Gọi $P$ là biến cố “Mỗi 3 bạn đứng liền kề bất kì có tổng các chữ số ghi trên các chiếc áo 3 bạn đó mặc là một số chia hết cho 3”. Từ bộ số 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, ta chia thành các nhóm:"
+  },
+  {
+    "bbox": [
+      195,
+      507,
+      936,
+      549
+    ],
+    "category": "List-item",
+    "text": "* $D_1 = \\{0; 3; 6; 9\\}$ – các số chia hết cho 3 (có 4 số)."
+  },
+  {
+    "bbox": [
+      195,
+      565,
+      926,
+      607
+    ],
+    "category": "List-item",
+    "text": "* $D_2 = \\{1; 4; 7\\}$ – các số chia cho 3 dư 1 (có 3 số)."
+  },
+  {
+    "bbox": [
+      195,
+      623,
+      926,
+      665
+    ],
+    "category": "List-item",
+    "text": "* $D_3 = \\{2; 5; 8\\}$ – các số chia cho 3 dư 2 (có 3 số)."
+  },
+  {
+    "bbox": [
+      153,
+      683,
+      1547,
+      769
+    ],
+    "category": "Text",
+    "text": "Nhận xét: Để một bộ 3 số chia hết cho 3 thì 3 số đó phải cùng thuộc một nhóm hoặc mỗi số thuộc một nhóm khác nhau."
+  },
+  {
+    "bbox": [
+      153,
+      788,
+      1547,
+      876
+    ],
+    "category": "Text",
+    "text": "Xét trường hợp 3 số cùng một nhóm xếp kề nhau: Ví dụ 2, 5, 8, 1, 4, 7 thì tổng của 3 số kề nhau 5, 8, 1 là 14 (không chia hết cho 3). Do đó loại trường hợp này."
+  },
+  {
+    "bbox": [
+      153,
+      894,
+      1547,
+      980
+    ],
+    "category": "Text",
+    "text": "Vậy trong mỗi bộ 3 số xếp cạnh nhau phải luôn có 1 số thuộc $D_1$, 1 số thuộc $D_2$ và 1 số thuộc $D_3$."
+  },
+  {
+    "bbox": [
+      153,
+      1000,
+      1547,
+      1086
+    ],
+    "category": "Text",
+    "text": "Vì nhóm $D_1$ có 4 phần tử, các nhóm khác có 3 phần tử nên các số thuộc $D_1$ phải đứng ở các vị trí 1, 4, 7, 10. Ta có 2 trường hợp thỏa mãn:"
+  },
+  {
+    "bbox": [
+      195,
+      1108,
+      737,
+      1147
+    ],
+    "category": "List-item",
+    "text": "* $D_1 \\ D_2 \\ D_3 \\ D_1 \\ D_2 \\ D_3 \\ D_1 \\ D_2 \\ D_3 \\ D_1$"
+  },
+  {
+    "bbox": [
+      195,
+      1166,
+      737,
+      1205
+    ],
+    "category": "List-item",
+    "text": "* $D_1 \\ D_3 \\ D_2 \\ D_1 \\ D_3 \\ D_2 \\ D_1 \\ D_3 \\ D_2 \\ D_1$"
+  },
+  {
+    "bbox": [
+      153,
+      1225,
+      1319,
+      1267
+    ],
+    "category": "Text",
+    "text": "Số cách xếp trong mỗi trường hợp trên là $4! \\cdot 3! \\cdot 3!$. vậy số cách xếp thỏa mãn là:"
+  },
+  {
+    "bbox": [
+      708,
+      1283,
+      986,
+      1322
+    ],
+    "category": "Formula",
+    "text": "$$\nn(P) = 2 \\cdot 4! \\cdot 3! \\cdot 3!\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1332,
+      667,
+      1373
+    ],
+    "category": "Text",
+    "text": "Xác suất để một đội chiến thắng là:"
+  },
+  {
+    "bbox": [
+      614,
+      1381,
+      1080,
+      1465
+    ],
+    "category": "Formula",
+    "text": "$$\na = \\frac{n(P)}{n(\\Omega)} = \\frac{2 \\cdot 4! \\cdot 3! \\cdot 3!}{10!} = \\frac{1}{2100}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1467,
+      524,
+      1586
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } \\frac{3}{a} = \\frac{3}{\\frac{1}{2100}} = 6300.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1600,
+      1547,
+      1773
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một hộ nông dân dự định trồng súp lơ và hành Tây trên diện tích 10 ha. Nếu trồng súp lơ thì cần 10 công và thu được 3 triệu đồng trên diện tích mỗi ha. Nếu trồng hành Tây thì cần 30 công và thu được 5 triệu đồng trên diện tích mỗi ha. Hỏi số tiền người nông dân thu được nhiều nhất là bao nhiêu triệu đồng, biết rằng tổng số công không vượt quá 150 công?"
+  },
+  {
+    "bbox": [
+      153,
+      1788,
+      1547,
+      1852
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi $x, y$ (đơn vị: ha) lần lượt là diện tích trồng súp lơ và hành Tây ($x, y \\ge 0$)."
+  },
+  {
+    "bbox": [
+      202,
+      1866,
+      1224,
+      1908
+    ],
+    "category": "Text",
+    "text": "Số công cần để trồng $x$ ha súp lơ và $y$ ha hành Tây là $10x + 30y$ (công)."
+  },
+  {
+    "bbox": [
+      202,
+      1927,
+      1224,
+      1969
+    ],
+    "category": "Text",
+    "text": "Biết số công này không vượt quá 150 công, nên ta có bất phương trình:"
+  },
+  {
+    "bbox": [
+      585,
+      1985,
+      1115,
+      2026
+    ],
+    "category": "Formula",
+    "text": "$$\n10x + 30y \\le 150 \\Leftrightarrow x + 3y \\le 15 \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2051,
+      1224,
+      2093
+    ],
+    "category": "Text",
+    "text": "Lại có diện tích đất dự định trồng là 10 ha nên ta có bất phương trình:"
+  },
+  {
+    "bbox": [
+      734,
+      2109,
+      963,
+      2149
+    ],
+    "category": "Formula",
+    "text": "$$\nx + y \\le 10 \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "142"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

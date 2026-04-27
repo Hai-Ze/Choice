@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      251,
+      101,
+      1518,
+      207
+    ],
+    "category": "Text",
+    "text": "Khi đó khoảng cách từ điểm xuất phát $O$ đến $C$ là $OC = \\sqrt{\\left(-\\frac{10}{17}\\right)^2 + \\left(-\\frac{75}{17}\\right)^2 + 0^2} \\approx 4,45(m)$."
+  },
+  {
+    "bbox": [
+      113,
+      213,
+      1529,
+      420
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** Một đa giác đều có 20 đỉnh, tất cả các cạnh của đa giác sơn màu xanh và tất cả các đường chéo của đa giác đó sơn màu đỏ. Gọi $X$ là tập hợp tất cả các tam giác có ba đỉnh là các đỉnh của đa giác đều trên. Người ta chọn ngẫu nhiều từ $X$ một tam giác. Xác suất để chọn được tam giác có ba cạnh cùng màu là $\\frac{a}{b}$ ($a \\in \\mathbb{N}$, $b \\in \\mathbb{N}^*$; $\\frac{a}{b}$ là phân số tối简). Khi đó $a+b$ bằng"
+  },
+  {
+    "bbox": [
+      835,
+      424,
+      951,
+      462
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      460,
+      406,
+      500
+    ],
+    "category": "Text",
+    "text": "**Đáp số: 97**"
+  },
+  {
+    "bbox": [
+      255,
+      508,
+      524,
+      556
+    ],
+    "category": "Formula",
+    "text": "$$\nn(X) = C_{20}^{3} = 1140.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      565,
+      1356,
+      659
+    ],
+    "category": "Text",
+    "text": "Dễ thấy không thể có tam giác nào có 3 cạnh đều là cạnh của đa giác đều ban đầu.\nGọi $A_k$ là biến cố “tam giác được chọn có $k$ cạnh màu xanh”."
+  },
+  {
+    "bbox": [
+      251,
+      671,
+      744,
+      711
+    ],
+    "category": "Text",
+    "text": "TH1: tam giác có 2 cạnh màu xanh."
+  },
+  {
+    "bbox": [
+      251,
+      713,
+      1483,
+      811
+    ],
+    "category": "Text",
+    "text": "Để được tam giác như thế thì 2 cạnh màu xanh là 2 cạnh của đa giác, khi đó ta cần chọn 3 đỉnh liên tiếp của đa giác. Do đó $n(A_2) = 20$."
+  },
+  {
+    "bbox": [
+      251,
+      824,
+      734,
+      864
+    ],
+    "category": "Text",
+    "text": "TH2: tam giác có 1 cạnh màu xanh."
+  },
+  {
+    "bbox": [
+      251,
+      864,
+      1533,
+      953
+    ],
+    "category": "Text",
+    "text": "Để được tam giác như thế thì ta cần chọn 2 đỉnh liên tiếp của đa giác, đỉnh còn lại của tam giác không kề với 2 đỉnh kia."
+  },
+  {
+    "bbox": [
+      251,
+      955,
+      801,
+      999
+    ],
+    "category": "Text",
+    "text": "Chọn 2 đỉnh liên tiếp, có 20 cách chọn."
+  },
+  {
+    "bbox": [
+      251,
+      1001,
+      1388,
+      1045
+    ],
+    "category": "Text",
+    "text": "Chọn đỉnh còn lại, bỏ 2 đỉnh đã chọn và 2 đỉnh kề với 2 đỉnh đó, có 16 cách chọn."
+  },
+  {
+    "bbox": [
+      251,
+      1053,
+      636,
+      1100
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } n(A_1) = 20 \\cdot 16 = 320.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1116,
+      764,
+      1163
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } n(A_0) = 1140 - 20 - 320 = 800.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1177,
+      1063,
+      1261
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất cần tìm là } P(A_0) = \\frac{800}{1140} = \\frac{40}{57} \\text{ hay } a = 40, b = 57.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1271,
+      593,
+      1310
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a + b = 40 + 57 = 97.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1310,
+      1508,
+      1575
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** Nguồn âm đẳng hướng đặt tại điểm $O$ có công suất truyền âm không đổi. Mức cường độ âm tại điểm $M$ cách điểm $O$ một khoảng $R$ được tính bởi công thức $L_M = \\log \\frac{k}{R^2}$ (Ben) với $k$ là hằng số. Biết điểm $O$ thuộc đoạn thẳng $AB$ và mức cường độ âm tại $A$ và $B$ lần lượt là $L_A = 5$ (Ben) và $L_B = 7$ (Ben). Tính mức cường độ âm (Ben) tại trung điểm $AB$ (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      835,
+      1573,
+      951,
+      1612
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1608,
+      428,
+      1649
+    ],
+    "category": "Text",
+    "text": "**Đáp số: 5,69**"
+  },
+  {
+    "bbox": [
+      251,
+      1651,
+      620,
+      1695
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là trung điểm $AB$."
+  },
+  {
+    "bbox": [
+      255,
+      1703,
+      675,
+      1785
+    ],
+    "category": "Formula",
+    "text": "$$\nL_A = \\log \\frac{k}{OA^2} = 5 \\Leftrightarrow OA^2 = \\frac{k}{10^5}\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1795,
+      679,
+      1879
+    ],
+    "category": "Formula",
+    "text": "$$\nL_B = \\log \\frac{k}{OB^2} = 7 \\Leftrightarrow OB^2 = \\frac{k}{10^7}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1891,
+      1090,
+      1974
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có trường hợp 1 điểm } O \\text{ nằm gần điểm } A: OH = \\frac{OB - OA}{2}\n$$"
+  },
+  {
+    "bbox": [
+      607,
+      2035,
+      1156,
+      2109
+    ],
+    "category": "Picture"
+  }
+]

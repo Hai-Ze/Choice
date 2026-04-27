@@ -1,0 +1,350 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      155,
+      1455,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Các bạn học sinh lớp 11A trả lời 40 câu hỏi. Kết quả được thống kể ở bảng sau."
+  },
+  {
+    "bbox": [
+      305,
+      281,
+      1342,
+      394
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số câu trả lời đúng</td><td>[16;21)</td><td>[21;26)</td><td>[26;31)</td><td>[31;36)</td><td>[36;41)</td></tr><tr><td>Số học sinh</td><td>4</td><td>6</td><td>8</td><td>18</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      420,
+      741,
+      466
+    ],
+    "category": "Text",
+    "text": "Xác định nhóm có tần số lớn nhất."
+  },
+  {
+    "bbox": [
+      221,
+      486,
+      390,
+      527
+    ],
+    "category": "List-item",
+    "text": "A. [16;21)."
+  },
+  {
+    "bbox": [
+      525,
+      486,
+      693,
+      527
+    ],
+    "category": "List-item",
+    "text": "B. [21;26)."
+  },
+  {
+    "bbox": [
+      827,
+      486,
+      992,
+      527
+    ],
+    "category": "List-item",
+    "text": "C. [31;36)."
+  },
+  {
+    "bbox": [
+      1129,
+      486,
+      1297,
+      527
+    ],
+    "category": "List-item",
+    "text": "D. [36;41)."
+  },
+  {
+    "bbox": [
+      192,
+      556,
+      1023,
+      603
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Hàm số $y = f(x)$ có bảng biến thiên như sau."
+  },
+  {
+    "bbox": [
+      539,
+      636,
+      1102,
+      817
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>0</td><td>3</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td></td><td>$-0$</td><td>$+0$</td><td>$-0$</td><td>$+0$</td></tr><tr><td>$y$</td><td>$+\\infty$</td><td>$-1$</td><td>1</td><td>$-1$</td><td>$+\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      863,
+      1029,
+      910
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      930,
+      420,
+      971
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -3)$."
+  },
+  {
+    "bbox": [
+      525,
+      930,
+      689,
+      971
+    ],
+    "category": "List-item",
+    "text": "B. $(-3; 3)$."
+  },
+  {
+    "bbox": [
+      827,
+      930,
+      963,
+      971
+    ],
+    "category": "List-item",
+    "text": "C. $(0; 3)$."
+  },
+  {
+    "bbox": [
+      1129,
+      930,
+      1293,
+      971
+    ],
+    "category": "List-item",
+    "text": "D. $(-3; 0)$."
+  },
+  {
+    "bbox": [
+      192,
+      1014,
+      1132,
+      1166
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hình chóp $S.ABC$ có đáy tam giác $ABC$ vuông cân tại $B$, $SA \\perp (ABC)$. Góc giữa hai mặt phẳng $(SBC)$ và $(ABC)$ là"
+  },
+  {
+    "bbox": [
+      1152,
+      1027,
+      1444,
+      1352
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      221,
+      1180,
+      344,
+      1223
+    ],
+    "category": "List-item",
+    "text": "A. $\\widehat{SBA}$."
+  },
+  {
+    "bbox": [
+      443,
+      1180,
+      566,
+      1223
+    ],
+    "category": "List-item",
+    "text": "B. $\\widehat{ASC}$."
+  },
+  {
+    "bbox": [
+      665,
+      1180,
+      788,
+      1223
+    ],
+    "category": "List-item",
+    "text": "C. $\\widehat{SCA}$."
+  },
+  {
+    "bbox": [
+      885,
+      1180,
+      1009,
+      1223
+    ],
+    "category": "List-item",
+    "text": "D. $\\widehat{ASB}$."
+  },
+  {
+    "bbox": [
+      192,
+      1378,
+      1453,
+      1510
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = f(x)$ có đạo hàm liên tục trên $[a; b]$ và $f(a) = -1$, $f(b) = 3$. Khi đó $\\int_a^b f'(x) dx$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      1521,
+      329,
+      1559
+    ],
+    "category": "List-item",
+    "text": "A. $-3$."
+  },
+  {
+    "bbox": [
+      525,
+      1521,
+      602,
+      1559
+    ],
+    "category": "List-item",
+    "text": "B. $4$."
+  },
+  {
+    "bbox": [
+      827,
+      1521,
+      931,
+      1559
+    ],
+    "category": "List-item",
+    "text": "C. $-4$."
+  },
+  {
+    "bbox": [
+      1129,
+      1521,
+      1206,
+      1559
+    ],
+    "category": "List-item",
+    "text": "D. $2$."
+  },
+  {
+    "bbox": [
+      192,
+      1590,
+      1455,
+      1714
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Trong không gian $Oxyz$, đường thẳng $d$ đi qua $M(1; -1; 3)$ và song song với $d_1: \\frac{x-2}{2} = \\frac{y+1}{1} = \\frac{z+3}{-1}$. Phương trình của $d$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1724,
+      468,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t. \\\\ z = 3 + t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      525,
+      1724,
+      759,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\begin{cases} x = 1 + 2t \\\\ y = 1 + t. \\\\ z = 3 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      1724,
+      1085,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\begin{cases} x = 2 + t \\\\ y = 1 - t. \\\\ z = -1 + 3t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      1129,
+      1724,
+      1374,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\begin{cases} x = 1 + 2t \\\\ y = -1 + t. \\\\ z = 3 - t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

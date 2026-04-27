@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      301,
+      120,
+      1214,
+      210
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 0$, vận tốc của con lắc đơn là $v(0) = 2\\sin\\left(\\frac{\\pi}{6}\\right) = 1$."
+  },
+  {
+    "bbox": [
+      252,
+      250,
+      350,
+      286
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      301,
+      318,
+      891,
+      406
+    ],
+    "category": "Text",
+    "text": "Đạo hàm của $v(t)$ là $v'(t) = 4\\cos\\left(2t + \\frac{\\pi}{6}\\right)$."
+  },
+  {
+    "bbox": [
+      252,
+      447,
+      391,
+      485
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      301,
+      515,
+      1531,
+      707
+    ],
+    "category": "Text",
+    "text": "Phương trình $v'(t) = 0 \\Leftrightarrow 4\\cos\\left(2t + \\frac{\\pi}{6}\\right) = 0 \\Leftrightarrow t = \\frac{\\pi}{6} + \\frac{k\\pi}{2} \\Rightarrow$ phương trình có nghiệm duy nhất trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{6}$."
+  },
+  {
+    "bbox": [
+      252,
+      819,
+      391,
+      857
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      301,
+      881,
+      1408,
+      926
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian từ 0 đến 10 giây, con lắc đơn có 4 lần đạt vận tốc lớn nhất."
+  },
+  {
+    "bbox": [
+      301,
+      958,
+      1038,
+      1046
+    ],
+    "category": "Text",
+    "text": "Ta có: $v(t) = 2\\sin\\left(2t + \\frac{\\pi}{6}\\right) \\Rightarrow -2 \\le v(t) \\le 2$ với mọi $t$"
+  },
+  {
+    "bbox": [
+      301,
+      1088,
+      999,
+      1176
+    ],
+    "category": "Text",
+    "text": "Suy ra: $v(t)_{\\max} = 2 \\Leftrightarrow \\sin\\left(2t + \\frac{\\pi}{6}\\right) = 1 \\Leftrightarrow t = \\frac{\\pi}{6} + k\\pi$"
+  },
+  {
+    "bbox": [
+      301,
+      1218,
+      847,
+      1308
+    ],
+    "category": "Text",
+    "text": "Do $0 \\le t \\le 10 \\Rightarrow t \\in \\left\\{\\frac{\\pi}{6}; \\frac{7\\pi}{6}; \\frac{11\\pi}{6}; \\frac{17\\pi}{6}\\right\\}$."
+  },
+  {
+    "bbox": [
+      301,
+      1348,
+      521,
+      1388
+    ],
+    "category": "Text",
+    "text": "Vậy có 4 giá trị."
+  },
+  {
+    "bbox": [
+      114,
+      1419,
+      1502,
+      1538
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Hộp A chứa **4 quả bóng đỏ** và **3 quả bóng xanh**. Hộp B chứa **2 quả bóng đỏ** và **4 quả bóng xanh**. Lấy ngẫu nhiên **2 quả bóng** từ套A bỏ vào套B, sau đó lấy ngẫu nhiên **2 quả bóng** từ套B. Hãy xét tính Đúng/Sai của các мыnh đề sau (hoặc tính các xác suất liên quan):"
+  },
+  {
+    "bbox": [
+      252,
+      1540,
+      1174,
+      1619
+    ],
+    "category": "Text",
+    "text": "a) Xác suất lấy được 2 quả bóng đỏ từ套A để bỏ sang套B là $\\frac{2}{7}$."
+  },
+  {
+    "bbox": [
+      252,
+      1619,
+      1174,
+      1664
+    ],
+    "category": "Text",
+    "text": "b) Sau khi bỏ 2 quả bóng từ套A sang,套B có tất cả 9 quả bóng."
+  },
+  {
+    "bbox": [
+      252,
+      1664,
+      1157,
+      1746
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để 2 quả bóng lấy ra từ套B là 2 quả bóng đỏ là $\\frac{25}{196}$."
+  },
+  {
+    "bbox": [
+      252,
+      1746,
+      1511,
+      1873
+    ],
+    "category": "Text",
+    "text": "d) Biết rằng 2 quả bóng lấy ra từ套B là 2 quả bóng đỏ. Xác suất để 2 quả bóng lấy từ套A (chuyển sang套B) cũng là 2 quả bóng đỏ là $\\frac{12}{25}$."
+  }
+]

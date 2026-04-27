@@ -1,0 +1,120 @@
+[
+  {
+    "bbox": [
+      91,
+      60,
+      842,
+      387
+    ],
+    "category": "List-item",
+    "text": "**Câu 15.** Một vật trang trí có dạng hình chóp tam giác đều $S.ABC$ với chiều cao $110 \\text{ mm}$ và cạnh đáy bằng $120 \\text{ mm}$ như hình vẽ bên. Chọn hệ trục tọa độ $Oxyz$ sao cho gốc tọa độ $O$ trùng với trung điểm của cạnh $BC$, đỉnh $B$ thuộc tia $Ox$ và đỉnh $A$ thuộc tia $Oy$ (đơn vị mỗi trục là $\\text{mm}$, xem hình vẽ). Tia $Oz$ vuông góc mặt phẳng $(ABC)$ và hướng lên trời."
+  },
+  {
+    "bbox": [
+      867,
+      75,
+      1591,
+      443
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      443,
+      1596,
+      838
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các m命 đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Tọa độ các điểm $S(0; 20\\sqrt{3}; 110)$ và $A(0; 60\\sqrt{3}; 0)$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Tọa độ các vecto $\\overline{SB} = (60; -20\\sqrt{3}; 110)$ và $\\overline{AB} = (60; -60\\sqrt{3}; 0)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Một vector pháp tuyến của mặt phẳng $(SAB)$ là $\\vec{n} = (11\\sqrt{3}; -11; 4\\sqrt{3})$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Cosin của góc giữa hai mặt phẳng $(SAB)$ và $(SAC)$ của vật trang trí đó bằng $0,34$ (làm tròn kết quả đến hàng phần trăm).</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      91,
+      1090,
+      919,
+      1213
+    ],
+    "category": "List-item",
+    "text": "**Câu 16.** Một mạch điện gồm 2 bộ phận được mắc nối tiếp, xác suất làm việc tốt trong một khoảng thời gian nào đó của mỗi bộ phận là $0,95$ và $0,98$."
+  },
+  {
+    "bbox": [
+      227,
+      1213,
+      854,
+      1259
+    ],
+    "category": "List-item",
+    "text": "- Gọi $A$ là biến cố: “Bộ phận thứ nhất hỏng”."
+  },
+  {
+    "bbox": [
+      227,
+      1261,
+      834,
+      1306
+    ],
+    "category": "List-item",
+    "text": "- Gọi $B$ là biến cố: “Bộ phận thứ hai hỏng”."
+  },
+  {
+    "bbox": [
+      217,
+      1306,
+      1090,
+      1393
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là biến cố: “Mạch không hoạt động”. Giả sử việc hoạt động tốt hay hỏng của hai bộ phận trên là độc lập nhau."
+  },
+  {
+    "bbox": [
+      939,
+      1122,
+      1600,
+      1339
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1395,
+      1596,
+      1785
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các m命 đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) $P(AB) = 0,001$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Xác suất có điều kiện $P(H|A) = P(H|B)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Xác suất để mạch background làm việc bằng $0,068$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Vào một thời điểm trong khoảng thời gian trên, người ta thấy mạch điện background làm việc, khi đó xác suất để chỉ bộ phận thứ hai hỏng là: $\\frac{19}{69}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1564,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

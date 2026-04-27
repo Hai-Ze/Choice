@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      76,
+      26,
+      1571,
+      67
+    ],
+    "category": "Page-header",
+    "text": "Trung tâm phát triển năng lực bồi dưỡng kiến thức văn hoá Ánh Dương, 38A ngõ 4 đường Lý Sơn, Hà Nội. 0347677777"
+  },
+  {
+    "bbox": [
+      74,
+      67,
+      1571,
+      183
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một công ty giao hàng nhanh trong thành phố đã xây dựng một thuật toán giao hàng tối ưu. Để kiểm chứng, giám đốc yêu cầu ghi nhận thời gian giao của từng đơn hàng trong mẫu 100 đơn chạy thử."
+  },
+  {
+    "bbox": [
+      74,
+      206,
+      617,
+      254
+    ],
+    "category": "Text",
+    "text": "Số liệu được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      265,
+      278,
+      1378,
+      432
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Thời gian (phút)</td><td>[10 ; 20)</td><td>[20 ; 30)</td><td>[30 ; 40)</td><td>[40 ; 50)</td><td>[50 ; 60]</td></tr></thead><tbody><tr><td>Số đơn</td><td>15</td><td>40</td><td>25</td><td>12</td><td>8</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      74,
+      432,
+      1476,
+      477
+    ],
+    "category": "Text",
+    "text": "a) độ phân tán của thời gian giao hàng, ước lượng bằng khoảng biến thiên mẫu số liệu, là 50 phút."
+  },
+  {
+    "bbox": [
+      74,
+      501,
+      1568,
+      549
+    ],
+    "category": "Text",
+    "text": "b) Một half số đơn hàng (trung vị ước lượng của mẫu số liệu) được giao xong không quá 28 phút 45 giây."
+  },
+  {
+    "bbox": [
+      74,
+      572,
+      1499,
+      620
+    ],
+    "category": "Text",
+    "text": "c) Thời gian giao hàng phổ biến nhất (giá trị mốt của mẫu số liệu tính theo công thức) bằng 25 phút."
+  },
+  {
+    "bbox": [
+      74,
+      644,
+      1571,
+      835
+    ],
+    "category": "Text",
+    "text": "d) Công ty có chính sách niêm yết phí ship 20000 đồng cho mỗi đơn. Cam kết nếu giao từ 40 phút trở lên, khách hàng không phải trả phí ship và nhận thêm 60000 đồng tiền bồi thường từ công ty. Sau đợt chạy thử 100 đơn này, tổng tiền phí ship thu được vẫn lớn hơn tổng số tiền bồi thường công ty phải chi trả."
+  },
+  {
+    "bbox": [
+      74,
+      864,
+      1571,
+      1269
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Thầy An là một thủ khoa xuất sắc được tuyển đặc cách vào một trường THPT ở thủ đô. Sau thời gian tập sự, thầy chính thức bắt đầu tính thâm niên biên chế từ ngày 01/01/2020. Năm 2020 (năm thứ nhất), tổng thu nhập ở trường của thầy An là 60 triệu đồng/năm. Giả định mức tăng lương hàng năm là cố định 6 triệu đồng/năm cho mọi năm tiếp theo (bao gồm tăng lương cơ sở và thâm niên). Nhờ được ở nhà công vụ miễn phí và sống tối giản, mỗi năm thầy dành đúng 50% tổng thu nhập hàng năm gửi tiết kiệm để mua nhà (lãi tiền gửi đều rút ra để chi tiêu, không nhập gốc và không tính vào thu nhập)."
+  },
+  {
+    "bbox": [
+      74,
+      1293,
+      1571,
+      1412
+    ],
+    "category": "Text",
+    "text": "Đầu năm 2020, thầy nhắm một căn hộ giá 1500 triệu đồng. Do nhu cầu thị trường, giá căn hộ này liên tục tăng 10% so với giá cuối năm trước (giá cập nhật vào ngày cuối cùng hàng năm, tức ngày 31/12)."
+  },
+  {
+    "bbox": [
+      74,
+      1436,
+      1571,
+      1913
+    ],
+    "category": "Text",
+    "text": "Đầu năm 2025, thầy chốt mua căn hộ trên với giá giao dịch bằng giá thị trường tại thời điểm mua, làm tròn đến hàng triệu đồng. Khi mua, ngoài tiền tiết kiệm tích lũy 5 năm (giai đoạn 2020-2024), thầy được gia đình hỗ trợ đúng 1400 triệu đồng. Số tiền thiếu vay ngân hàng lãi suất cố định 7%/năm trong 35 năm (không thay đổi lãi suất ưu đãi dành cho nhân tài ngành giáo dục). Ngân hàng đưa ra 2 phương án: Phương án 1 là trả một số tiền cố định (gồm cả gốc và lãi); phương án 2 là trả gốc chia đều 35 năm, cộng với tiền lãi tính trên dư nợ thực tế đầu năm đó. Các phương án đều tính lãi theo năm, trả nợ vào cuối của mỗi năm, kỳ đầu tiên 31/12/2025. Các tính toán vay và trả nợ, kết quả được làm tròn đến hàng triệu đồng gần nhất."
+  },
+  {
+    "bbox": [
+      74,
+      1937,
+      1420,
+      1985
+    ],
+    "category": "Text",
+    "text": "a) Giá niêm yết của căn hộ tại thời điểm thầy An chốt mua (đầu năm 2025) là 2250 triệu đồng."
+  },
+  {
+    "bbox": [
+      74,
+      2009,
+      882,
+      2057
+    ],
+    "category": "Text",
+    "text": "b) Số tiền thầy An phải vay ngân hàng là 670 triệu đồng."
+  },
+  {
+    "bbox": [
+      74,
+      2081,
+      1418,
+      2128
+    ],
+    "category": "Text",
+    "text": "c) Tổng số tiền phải trả cả gốc và lãi sau 35 năm của hai phương án chênh nhau hơn 370 triệu."
+  },
+  {
+    "bbox": [
+      74,
+      2152,
+      1571,
+      2270
+    ],
+    "category": "Text",
+    "text": "d) Gọi một năm (từ 2025) là thâm hụt nếu tiền trả nợ cuối năm lớn hơn 50% thu nhập năm đó. Khi đó, số năm thâm hụt liên tiếp từ 2025 theo phương án 2 nhiều hơn đúng 2 năm so với phương án 1."
+  },
+  {
+    "bbox": [
+      84,
+      2276,
+      268,
+      2316
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề: 1202"
+  },
+  {
+    "bbox": [
+      549,
+      2276,
+      1128,
+      2320
+    ],
+    "category": "Page-footer",
+    "text": "GV ra đề: Nguyễn Quốc Hoàn 01/2026"
+  },
+  {
+    "bbox": [
+      1418,
+      2280,
+      1558,
+      2320
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4"
+  }
+]

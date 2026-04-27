@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      1107,
+      256
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình tham số của đường thẳng là $\\begin{cases} x = 1 + t \\\\ y = 3 - t \\\\ z = -2 + 5t \\end{cases}$."
+  },
+  {
+    "bbox": [
+      74,
+      265,
+      1002,
+      311
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ"
+  },
+  {
+    "bbox": [
+      582,
+      324,
+      1197,
+      595
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      605,
+      1350,
+      648
+    ],
+    "category": "Text",
+    "text": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      212,
+      654,
+      291,
+      690
+    ],
+    "category": "List-item",
+    "text": "A. 3."
+  },
+  {
+    "bbox": [
+      547,
+      654,
+      615,
+      688
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      862,
+      654,
+      941,
+      688
+    ],
+    "category": "List-item",
+    "text": "C. 0."
+  },
+  {
+    "bbox": [
+      1177,
+      654,
+      1260,
+      688
+    ],
+    "category": "List-item",
+    "text": "D. 2."
+  },
+  {
+    "bbox": [
+      833,
+      698,
+      953,
+      738
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      742,
+      1575,
+      846
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có $\\lim_{x \\to -1^+} f(x) = -\\infty$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $x = -1$."
+  },
+  {
+    "bbox": [
+      212,
+      854,
+      1575,
+      959
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có $\\lim_{x \\to +\\infty} f(x) = 2$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $y = 2$."
+  },
+  {
+    "bbox": [
+      212,
+      967,
+      1575,
+      1073
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên ta có $\\lim_{x \\to -\\infty} f(x) = 1$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $y = 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1081,
+      801,
+      1123
+    ],
+    "category": "Text",
+    "text": "Vậy đồ thị hàm số có 3 đường tiệm cận."
+  },
+  {
+    "bbox": [
+      74,
+      1127,
+      907,
+      1198
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Tập nghiệm của bất phương trình $\\log_{\\frac{2}{3}} x > 2$ là:"
+  },
+  {
+    "bbox": [
+      212,
+      1204,
+      359,
+      1292
+    ],
+    "category": "List-item",
+    "text": "A. $\\left(0; \\frac{4}{9}\\right)$."
+  },
+  {
+    "bbox": [
+      547,
+      1218,
+      726,
+      1278
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; \\sqrt[3]{4})$."
+  },
+  {
+    "bbox": [
+      862,
+      1218,
+      1042,
+      1278
+    ],
+    "category": "List-item",
+    "text": "C. $(\\sqrt[3]{4}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1204,
+      1349,
+      1292
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; \\frac{4}{9})$."
+  },
+  {
+    "bbox": [
+      833,
+      1302,
+      953,
+      1342
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1348,
+      847,
+      1446
+    ],
+    "category": "Text",
+    "text": "Ta có $\\log_{\\frac{2}{3}} x > 2 \\Leftrightarrow 0 < x < \\left(\\frac{2}{3}\\right)^2 \\Leftrightarrow 0 < x < \\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      1452,
+      1008,
+      1547
+    ],
+    "category": "Text",
+    "text": "Tập nghiệm của bất phương trình $\\log_{\\frac{2}{3}} x > 2$ là $\\left(0; \\frac{4}{9}\\right)$."
+  },
+  {
+    "bbox": [
+      74,
+      1553,
+      1464,
+      1599
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Trong không gian $Oxyz$, mặt phẳng $(P): x - 3y + z - 5 = 0$ có một vecto pháp tuyến là:"
+  },
+  {
+    "bbox": [
+      212,
+      1607,
+      443,
+      1658
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (1; -3; -4)$"
+  },
+  {
+    "bbox": [
+      547,
+      1607,
+      749,
+      1658
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (1; -3; 1)$"
+  },
+  {
+    "bbox": [
+      862,
+      1607,
+      1045,
+      1658
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (1; 3; 1)$"
+  },
+  {
+    "bbox": [
+      1177,
+      1607,
+      1407,
+      1658
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (-1; -3; 1)$"
+  },
+  {
+    "bbox": [
+      833,
+      1670,
+      953,
+      1710
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      212,
+      1714,
+      1375,
+      1764
+    ],
+    "category": "Text",
+    "text": "Theo định nghĩa $(P): ax + by + cz + d = 0$ có một vecto pháp tuyến là $\\vec{n} = (a; b; c)$"
+  },
+  {
+    "bbox": [
+      212,
+      1772,
+      1195,
+      1822
+    ],
+    "category": "Text",
+    "text": "Do đó $(P): x - 3y + z - 5 = 0$ có một vecto pháp tuyến là $\\vec{n} = (1; -3; 1)$"
+  },
+  {
+    "bbox": [
+      74,
+      1832,
+      1575,
+      1928
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$, $ABCD$ là hình chữ nhật tâm $O$. Gọi $I$ là trung điểm $SC$. Mindh đề nào sau đây sai:"
+  },
+  {
+    "bbox": [
+      212,
+      1932,
+      456,
+      1976
+    ],
+    "category": "List-item",
+    "text": "A. $BD \\perp (SAC)$.."
+  },
+  {
+    "bbox": [
+      547,
+      1932,
+      809,
+      1976
+    ],
+    "category": "List-item",
+    "text": "B. $OI \\perp (ABCD)$.."
+  },
+  {
+    "bbox": [
+      862,
+      1932,
+      1052,
+      1976
+    ],
+    "category": "List-item",
+    "text": "C. $BC \\perp SB$.."
+  },
+  {
+    "bbox": [
+      1177,
+      1932,
+      1367,
+      1976
+    ],
+    "category": "List-item",
+    "text": "D. $SD \\perp DC$."
+  },
+  {
+    "bbox": [
+      833,
+      1988,
+      953,
+      2028
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

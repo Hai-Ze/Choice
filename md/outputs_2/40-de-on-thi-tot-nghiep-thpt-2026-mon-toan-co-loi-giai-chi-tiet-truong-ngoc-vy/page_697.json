@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1167,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      646,
+      125,
+      1093,
+      696
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      732,
+      1084,
+      914
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\text{Ta có } \\begin{cases} AM \\parallel A'N \\\\ A'N \\subset (A'NC) \\end{cases} &\\Rightarrow AM \\parallel (A'NC) \\\\\n&\\Rightarrow d(AM; CN) = d(AM; (A'NC)) = d(A; (A'NC)) = d(C'; (A'NC)).\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      936,
+      746,
+      986
+    ],
+    "category": "Text",
+    "text": "Trong mặt phẳng $(A'B'C')$, kẻ $C'D \\perp A'N$."
+  },
+  {
+    "bbox": [
+      155,
+      1012,
+      816,
+      1223
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có : } \\begin{cases} A'N \\perp C'D \\\\ A'N \\perp CC' \\\\ C'D, CC' \\subset (CC'D) \\\\ C'D \\cap CC' = \\{C'\\} \\end{cases} \\Rightarrow A'N \\perp (CC'D).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1249,
+      1016,
+      1298
+    ],
+    "category": "Text",
+    "text": "Trong mặt phẳng $(CC'D)$ kẻ $C'E \\perp CD, E \\in CD \\Rightarrow A'N \\perp C'E$."
+  },
+  {
+    "bbox": [
+      155,
+      1324,
+      1016,
+      1535
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} C'E \\perp CD \\\\ C'E \\perp A'N \\\\ CD, A'N \\subset (A'NC) \\\\ CD \\cap A'N = \\{D\\} \\end{cases} \\Rightarrow C'E \\perp (A'NC) \\Rightarrow d(C'; (A'NC)) = C'E.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1562,
+      1138,
+      1673
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mặt khác, } S_{\\Delta A'B'C'} = 2S_{\\Delta A'NC'} = \\frac{(2\\sqrt{3})^2 \\cdot \\sqrt{3}}{4} = 3\\sqrt{3} \\text{ và } A'N = \\frac{(2\\sqrt{3}) \\cdot \\sqrt{3}}{2} = 3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1694,
+      895,
+      1787
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Mà } S_{\\Delta A'NC'} = \\frac{1}{2} \\cdot C'D \\cdot A'N \\Rightarrow C'D = \\frac{2S_{\\Delta A'NC'}}{A'N} = \\frac{3\\sqrt{3}}{3} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1806,
+      1189,
+      1939
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét tam giác vuông } CC'D \\text{ có } C'E = \\frac{CC' \\cdot C'D}{\\sqrt{CC'^2 + C'D^2}} = \\frac{3 \\cdot \\sqrt{3}}{\\sqrt{3^2 + (\\sqrt{3})^2}} = \\frac{3}{2} = 1,5.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1961,
+      961,
+      2006
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách giữa hai đường thẳng $AM$ và $CN$ là $1,5$."
+  },
+  {
+    "bbox": [
+      155,
+      2024,
+      1573,
+      2245
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Bạn An đi học mỗi ngày bằng một trong hai phương tiện: xe buýt hoặc xe đạp. Vì vội, An chọn ngẫu nhiên một trong hai phương tiện này với xác suất như nhau (tức là 50% đi xe buýt, 50% đi xe đạp). Nếu An đi xe buýt thì xác suất bị muộn học là 6% ; nếu An đi xe đạp thì xác suất bị muộn học là 4% . Hỏi vào một ngày bất kỳ, xác suất An bị muộn học là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

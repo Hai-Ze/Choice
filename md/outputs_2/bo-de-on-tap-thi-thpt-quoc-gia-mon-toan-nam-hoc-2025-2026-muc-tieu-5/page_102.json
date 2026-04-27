@@ -1,0 +1,452 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      575,
+      250
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 10"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1529,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      154,
+      535,
+      990,
+      577
+    ],
+    "category": "Text",
+    "text": "Câu 1. Heo nguyên hàm của hàm số $f(x) = x + \\sin x$ là"
+  },
+  {
+    "bbox": [
+      190,
+      594,
+      478,
+      642
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{1}{2}x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      876,
+      594,
+      1163,
+      642
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{1}{2}x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      190,
+      642,
+      461,
+      682
+    ],
+    "category": "List-item",
+    "text": "C $x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      876,
+      642,
+      1145,
+      682
+    ],
+    "category": "List-item",
+    "text": "D $x^2 + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      154,
+      682,
+      1333,
+      743
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\int (x + \\sin x)dx = \\int xdx + \\int \\sin xdx = \\frac{1}{2}x^2 - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      154,
+      757,
+      1352,
+      800
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho hàm số $f(x) = x^3 - 3x + 2$. Giá trị cực đại của hàm số đã cho bằng"
+  },
+  {
+    "bbox": [
+      190,
+      819,
+      299,
+      861
+    ],
+    "category": "List-item",
+    "text": "A $-1$."
+  },
+  {
+    "bbox": [
+      535,
+      819,
+      616,
+      861
+    ],
+    "category": "List-item",
+    "text": "B $0$."
+  },
+  {
+    "bbox": [
+      879,
+      819,
+      960,
+      861
+    ],
+    "category": "List-item",
+    "text": "C $1$."
+  },
+  {
+    "bbox": [
+      1224,
+      819,
+      1303,
+      861
+    ],
+    "category": "List-item",
+    "text": "D $4$."
+  },
+  {
+    "bbox": [
+      154,
+      877,
+      1086,
+      939
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $f'(x) = 3x^2 - 3$; $f'(x) = 0 \\Leftrightarrow x = \\pm 1$."
+  },
+  {
+    "bbox": [
+      154,
+      939,
+      968,
+      978
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên cho thấy hàm số đạt cực đại tại $x = -1$."
+  },
+  {
+    "bbox": [
+      154,
+      982,
+      1168,
+      1024
+    ],
+    "category": "Text",
+    "text": "Giá trị cực đại là $y_{C\\Omega} = f(-1) = (-1)^3 - 3(-1) + 2 = -1 + 3 + 2 = 4$."
+  },
+  {
+    "bbox": [
+      154,
+      1035,
+      1339,
+      1127
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho $\\int_0^1 f(x)dx = 2$ và $\\int_0^1 g(x)dx = 5$ khi đó $\\int_0^1 [3f(x) - 2g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      190,
+      1138,
+      299,
+      1180
+    ],
+    "category": "List-item",
+    "text": "A $-4$."
+  },
+  {
+    "bbox": [
+      535,
+      1138,
+      634,
+      1180
+    ],
+    "category": "List-item",
+    "text": "B $16$."
+  },
+  {
+    "bbox": [
+      879,
+      1138,
+      982,
+      1180
+    ],
+    "category": "List-item",
+    "text": "C $-3$."
+  },
+  {
+    "bbox": [
+      1224,
+      1138,
+      1319,
+      1180
+    ],
+    "category": "List-item",
+    "text": "D $11$."
+  },
+  {
+    "bbox": [
+      154,
+      1194,
+      1547,
+      1311
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\int_0^1 [3f(x) - 2g(x)]dx = 3 \\int_0^1 f(x)dx - 2 \\int_0^1 g(x)dx = 3(2) - 2(5) = 6 - 10 = -4$."
+  },
+  {
+    "bbox": [
+      154,
+      1333,
+      1547,
+      1375
+    ],
+    "category": "Text",
+    "text": "Câu 4. Trong không gian $Oxyz$, phương trình đường thẳng đi qua điểm $A(1; 2; 3)$ và song song"
+  },
+  {
+    "bbox": [
+      154,
+      1375,
+      715,
+      1536
+    ],
+    "category": "Text",
+    "text": "với đường thẳng $d$ : $\\begin{cases} x = 1 - t \\\\ y = t \\\\ z = -1 - 4t \\end{cases}$ là"
+  },
+  {
+    "bbox": [
+      190,
+      1551,
+      488,
+      1601
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{x+1}{-1} = \\frac{y+2}{1} = \\frac{z+3}{-4}$."
+  },
+  {
+    "bbox": [
+      876,
+      1551,
+      1173,
+      1601
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{x-1}{-1} = \\frac{y+2}{1} = \\frac{z-3}{-4}$."
+  },
+  {
+    "bbox": [
+      190,
+      1597,
+      488,
+      1645
+    ],
+    "category": "List-item",
+    "text": "C $\\frac{x-1}{-1} = \\frac{y-2}{1} = \\frac{z-3}{4}$."
+  },
+  {
+    "bbox": [
+      876,
+      1597,
+      1145,
+      1645
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{x}{1} = \\frac{y-3}{-1} = \\frac{z+1}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      1645,
+      1547,
+      1741
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Đường thẳng $d$ có vecto chỉ phương $\\vec{u}_d = (-1; 1; -4)$, cũng có thể chọn $\\vec{u} = (1; -1; 4)$."
+  },
+  {
+    "bbox": [
+      154,
+      1741,
+      1464,
+      1791
+    ],
+    "category": "Text",
+    "text": "Kiểm tra điểm $A(1; 2; 3)$ thay vào phương trình ở đáp án D: $\\frac{1}{1} = \\frac{2-3}{-1} = \\frac{3+1}{4} = 1$ (thỏa mãn)."
+  },
+  {
+    "bbox": [
+      154,
+      1787,
+      973,
+      1837
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình đường thẳng cần tìm là $\\frac{x}{1} = \\frac{y-3}{-1} = \\frac{z+1}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      1848,
+      1547,
+      1896
+    ],
+    "category": "Text",
+    "text": "Câu 5. Trong không gian $Oxyz$, cho ba vecto $\\vec{a} = (3; 0; 1)$, $\\vec{b} = (1; -1; -2)$ và $\\vec{c} = (2; 1; -1)$."
+  },
+  {
+    "bbox": [
+      154,
+      1896,
+      626,
+      1940
+    ],
+    "category": "Text",
+    "text": "Tích vô hướng $\\vec{a} \\cdot (\\vec{b} + \\vec{c})$ bằng"
+  },
+  {
+    "bbox": [
+      190,
+      1959,
+      273,
+      2001
+    ],
+    "category": "List-item",
+    "text": "A $0$."
+  },
+  {
+    "bbox": [
+      535,
+      1959,
+      616,
+      2001
+    ],
+    "category": "List-item",
+    "text": "B $3$."
+  },
+  {
+    "bbox": [
+      879,
+      1959,
+      960,
+      2001
+    ],
+    "category": "List-item",
+    "text": "C $6$."
+  },
+  {
+    "bbox": [
+      1224,
+      1959,
+      1303,
+      2001
+    ],
+    "category": "List-item",
+    "text": "D $9$."
+  },
+  {
+    "bbox": [
+      154,
+      2015,
+      1196,
+      2079
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\vec{b} + \\vec{c} = (1 + 2; -1 + 1; -2 - 1) = (3; 0; -3)$."
+  },
+  {
+    "bbox": [
+      154,
+      2077,
+      965,
+      2123
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\vec{a} \\cdot (\\vec{b} + \\vec{c}) = 3 \\cdot 3 + 0 \\cdot 0 + 1 \\cdot (-3) = 9 - 3 = 6$."
+  },
+  {
+    "bbox": [
+      154,
+      2135,
+      1376,
+      2191
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hàm số $f(x)$ có $f(1) = 3$ và $f'(1) = 2$. Giá trị của $\\lim_{x \\to 1} \\frac{f^2(x) - 9}{x - 1}$ bằng"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1508,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      68,
+      2250,
+      119,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "102"
+  }
+]

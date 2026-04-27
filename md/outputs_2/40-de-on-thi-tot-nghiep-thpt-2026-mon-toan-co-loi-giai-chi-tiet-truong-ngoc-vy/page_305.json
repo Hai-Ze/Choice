@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      97,
+      1495,
+      260
+    ],
+    "category": "Text",
+    "text": "a) Ta có lợi nhuận khi bán được 50 sản phẩm đầu tiên là $\\int_{0}^{50} P'(x)dx = \\int_{0}^{50} (-0,0008x+10,4)dx = 519$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      75,
+      278,
+      1096,
+      327
+    ],
+    "category": "Text",
+    "text": "b) Ta gọi lợi nhuận khi doanh số tăng từ 50 lên $a$ đơn vị sản phẩm là $P(a)$"
+  },
+  {
+    "bbox": [
+      80,
+      357,
+      1032,
+      565
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(a) &= \\int_{50}^{a} P'(x)dx = \\int_{50}^{a} (-0,0008x+10,4)dx = \\left[-\\frac{0,0008}{2}x^2+10,4x\\right]_{50}^{a} \\\\\n&= -\\frac{1}{2500}a^2+10,4a-519.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      589,
+      1023,
+      671
+    ],
+    "category": "Text",
+    "text": "Ta có $P(a) > 517 \\Leftrightarrow -\\frac{1}{2500}a^2+10,4a-1036 > 0 \\Leftrightarrow 100 < a < 25900$"
+  },
+  {
+    "bbox": [
+      75,
+      687,
+      834,
+      732
+    ],
+    "category": "Text",
+    "text": "c) Lợi nhuận khi bán được $x$ đơn vị sản phẩm được tính"
+  },
+  {
+    "bbox": [
+      80,
+      752,
+      668,
+      834
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = \\int P'(x)dx = -\\frac{0,0008}{2}x^2+10,4x+C\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      860,
+      634,
+      908
+    ],
+    "category": "Text",
+    "text": "Chọn $x = 0$ thì $P(0) = 0$ nên ta có $C = 0$"
+  },
+  {
+    "bbox": [
+      75,
+      927,
+      1067,
+      973
+    ],
+    "category": "Text",
+    "text": "Vậy lợi nhuận khi bán được $x$ đơn vị sản phẩm được tính bằng công thức"
+  },
+  {
+    "bbox": [
+      80,
+      992,
+      464,
+      1075
+    ],
+    "category": "Formula",
+    "text": "$$\nP(x) = -\\frac{0,0008}{2}x^2+10,4x.\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1096,
+      1495,
+      1261
+    ],
+    "category": "Text",
+    "text": "d) Ta có $\\int_{50}^{55} P'(x)dx = \\int_{50}^{55} (-0,0008x+10,4)dx = 51,79$ nên sự thay đổi của lợi nhuận khi doanh số tăng từ 50 lên 55 đơn vị sản phẩm là 51,79 triệu đồng."
+  },
+  {
+    "bbox": [
+      75,
+      1337,
+      1495,
+      1501
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Khi điều tra sức khỏe nhiều người cao tuổi ở một địa phương, người ta thấy rằng có 40% người cao tuổi bị bệnh tiểu đường. Có 70% người bị bệnh tiểu đường bị bệnh cao huyết áp và 25% người không bị bệnh tiểu đường bị cao huyết áp. Chọn ngẫu nhiên 1 người cao tuổi để kiểm tra sức khỏe."
+  },
+  {
+    "bbox": [
+      75,
+      1513,
+      816,
+      1558
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được người bị bệnh tiểu đường là 0,4"
+  },
+  {
+    "bbox": [
+      75,
+      1576,
+      1295,
+      1623
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó bị bệnh tiểu đường là 0,7"
+  },
+  {
+    "bbox": [
+      75,
+      1641,
+      837,
+      1687
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được người bị bệnh huyết áp cao là 0,8"
+  },
+  {
+    "bbox": [
+      75,
+      1705,
+      1330,
+      1805
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được người không bị bệnh tiểu đường, biết người đó bị bệnh huyết áp cao là 0,25"
+  },
+  {
+    "bbox": [
+      726,
+      1834,
+      843,
+      1873
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      1886,
+      894,
+      2011
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      2070,
+      920,
+      2118
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “chọn được người bị bệnh tiểu đường” $\\Rightarrow P(A) = 0,4$."
+  },
+  {
+    "bbox": [
+      80,
+      2138,
+      675,
+      2184
+    ],
+    "category": "Text",
+    "text": "$B$: “chọn được người bị bệnh huyết áp cao”"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

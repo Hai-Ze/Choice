@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      251,
+      119,
+      989,
+      159
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $AON$ vuông tại $O$ có $OH$ là đường cao:"
+  },
+  {
+    "bbox": [
+      256,
+      164,
+      733,
+      258
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{OH^2} = \\frac{1}{OA^2} + \\frac{1}{ON^2} \\Rightarrow OH = \\frac{\\sqrt{15}}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      266,
+      977,
+      359
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } d(OM, AB) = d(O, (DAB)) = OH = \\frac{\\sqrt{15}}{5} \\approx 0,77.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      363,
+      1533,
+      464
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Một cửa hàng cần nhập 2500 chiếc máy tính bảng trong 1 năm. Cửa hàng chọn chia thành nhiều đợt giao hàng, mỗi đợt giao $x$ chiếc ($1 \\le x \\le 2500, x \\in \\mathbb{N}^*$)."
+  },
+  {
+    "bbox": [
+      625,
+      478,
+      1018,
+      744
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      760,
+      925,
+      803
+    ],
+    "category": "Text",
+    "text": "Công ty vận chuyển tính phí cho mỗi đợt như sau:"
+  },
+  {
+    "bbox": [
+      251,
+      799,
+      735,
+      840
+    ],
+    "category": "Text",
+    "text": "+ Phí điều xe cố định: 20 đô la/ đợt."
+  },
+  {
+    "bbox": [
+      251,
+      842,
+      1069,
+      885
+    ],
+    "category": "Text",
+    "text": "+ Phí an ninh- bảo hiểm cho lô hàng lớn: $0,002x^2$ đô la/ đợt."
+  },
+  {
+    "bbox": [
+      251,
+      887,
+      1533,
+      965
+    ],
+    "category": "Text",
+    "text": "Hỏi mỗi đợt công ty nên vận chuyển bao nhiêu máy tính bảng để tổng chi phí vận chuyển trong năm là nhỏ nhất?"
+  },
+  {
+    "bbox": [
+      836,
+      969,
+      950,
+      1007
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1007,
+      432,
+      1045
+    ],
+    "category": "Text",
+    "text": "Đáp án: 100."
+  },
+  {
+    "bbox": [
+      251,
+      1047,
+      985,
+      1090
+    ],
+    "category": "Text",
+    "text": "Chi phí vận chuyển cho mỗi đợt là $0,002x^2 + 20$ đô la."
+  },
+  {
+    "bbox": [
+      251,
+      1098,
+      824,
+      1179
+    ],
+    "category": "Text",
+    "text": "Số lần vận chuyển trong năm là $\\frac{2500}{x}$ lần."
+  },
+  {
+    "bbox": [
+      251,
+      1185,
+      1352,
+      1268
+    ],
+    "category": "Text",
+    "text": "Tổng chi phí vận chuyển trong năm là: $f(x) = (0,002x^2 + 20) \\cdot \\frac{2500}{x} = 5x + \\frac{50000}{x}$"
+  },
+  {
+    "bbox": [
+      251,
+      1274,
+      803,
+      1356
+    ],
+    "category": "Text",
+    "text": "Ta có: $f'(x) = 5 - \\frac{50000}{x^2} = 0 \\Rightarrow x = 100$."
+  },
+  {
+    "bbox": [
+      271,
+      1416,
+      1426,
+      1719
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1737,
+      1488,
+      1820
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta thấy mỗi đợt công ti nên vận chuyển 100 cái máy tính thì tổng chi phí vận chuyển trong năm là nhỏ nhất"
+  },
+  {
+    "bbox": [
+      114,
+      1816,
+      1533,
+      2033
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Trên hệ trục tọa độ $Oxyz$ (đơn vị độ dài: m), một người lái mô tô xuất phát từ vị trí $A(0;0;0)$ đến $B(0;600;0)$ trong 6 phút. Từ $B$, người đó cho xe đổi hướng để tiến thẳng đến $C(1500;600;0)$ với tốc độ không đổi và bằng đúng tốc độ khi đi từ $A$ đến $B$. Hỏi ở phút thứ 8 kể từ khi xe đổi hướng, tốc độ thay đổi khoảng cách của xe mô tô đối với vị trí xuất phát $A$ là bao nhiêu m/phút?"
+  }
+]

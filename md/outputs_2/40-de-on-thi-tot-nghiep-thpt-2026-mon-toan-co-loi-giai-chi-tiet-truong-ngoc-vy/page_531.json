@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      506,
+      115,
+      1111,
+      662
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      698,
+      1094,
+      742
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là trung điểm của $AB$. Suy ra $MN$ là đường trung bình của $\\triangle ABC$."
+  },
+  {
+    "bbox": [
+      79,
+      758,
+      1022,
+      810
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(AC, SM) = d(AC, (SMN)) = d(I, (SMN)) \\ (\\text{với } I = DN \\cap AC)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      833,
+      155,
+      867
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      79,
+      892,
+      1299,
+      1103
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} ID \\cap (SMN) = N \\Rightarrow \\frac{d(I, (SMN))}{d(D, (SMN))} &= \\frac{IN}{DN} = \\frac{1}{5} \\ (\\text{do } AN \\parallel CD \\Rightarrow \\frac{IN}{ID} = \\frac{AN}{CD} = \\frac{1}{4} \\Rightarrow \\frac{IN}{DN} = \\frac{1}{5}) \\\\ \\Rightarrow d(I, (SMN)) &= \\frac{1}{5} d(D, (SMN)). \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1127,
+      414,
+      1164
+    ],
+    "category": "Text",
+    "text": "Xét $\\triangle ADN$ và $\\triangle DCA$ có"
+  },
+  {
+    "bbox": [
+      79,
+      1187,
+      506,
+      1554
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\hat{D} &= \\hat{A} = 90^{\\circ} \\\\ \\frac{AN}{AD} &= \\frac{AD}{DC} = \\frac{1}{2} \\\\ \\Rightarrow \\triangle ADN &= \\triangle DCA \\ (c.g.c) \\\\ \\Rightarrow \\widehat{ADN} &= \\widehat{DCA} \\\\ \\Rightarrow DN \\perp AC \\Rightarrow MN \\perp (SDN). \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1580,
+      155,
+      1615
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      79,
+      1639,
+      747,
+      1805
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} (SMN) \\perp (SDN) \\\\ (SMN) \\cap (SDN) = SN \\Rightarrow d(D, (SMN)) = DH \\\\ \\text{Trong } (SDN), DH \\perp SN \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      79,
+      1834,
+      798,
+      2017
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\triangle SDN \\text{ vuông tại } D: \\quad \\frac{1}{DH^2} &= \\frac{1}{SD^2} + \\frac{1}{DN^2} \\Rightarrow DH = 5 \\\\ \\Rightarrow d(I, (SMN)) &= \\frac{1}{5} d(D, (SMN)) = 1. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2033,
+      1495,
+      2197
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một đoàn tàu gồm 3 toa đỗ ở sân ga. Có 5 hành khách bước lên tàu, mỗi hành khách độc lập với nhau chọn ngẫu nhiên 1 toa. Tính xác suất để mỗi toa có ít nhất 1 hành khách bước lên tàu (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      2215,
+      414,
+      2250
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      129,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1564,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      838,
+      124,
+      1196,
+      162
+    ],
+    "category": "Text",
+    "text": "Ngày làm đề: ..... / ..... / ......."
+  },
+  {
+    "bbox": [
+      142,
+      195,
+      1150,
+      275
+    ],
+    "category": "Section-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      309,
+      275,
+      982,
+      332
+    ],
+    "category": "Text",
+    "text": "ĐỀ THI THỬ TỐT NGHIỆP THPT — ĐỀ 94"
+  },
+  {
+    "bbox": [
+      390,
+      332,
+      903,
+      385
+    ],
+    "category": "Text",
+    "text": "SỞ HẢI PHÒNG - LẦN 1 - 2025"
+  },
+  {
+    "bbox": [
+      281,
+      389,
+      1013,
+      431
+    ],
+    "category": "Text",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1236,
+      142,
+      1596,
+      344
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1234,
+      357,
+      1318,
+      403
+    ],
+    "category": "Text",
+    "text": "ĐIỂM:"
+  },
+  {
+    "bbox": [
+      1251,
+      446,
+      1576,
+      520
+    ],
+    "category": "Text",
+    "text": "Lpolation mài thành tài, miệt mài tất好."
+  },
+  {
+    "bbox": [
+      1321,
+      568,
+      1504,
+      601
+    ],
+    "category": "Text",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      108,
+      510,
+      1162,
+      568
+    ],
+    "category": "Section-header",
+    "text": "1 CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      576,
+      798,
+      618
+    ],
+    "category": "Text",
+    "text": "CÂU 1. Heo nguyên hàm của hàm số $f(x) = x^{2024}$ là"
+  },
+  {
+    "bbox": [
+      124,
+      616,
+      567,
+      689
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\int f(x) \\, dx = \\frac{1}{2023} \\cdot x^{2023} + C.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      616,
+      1105,
+      689
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\int f(x) \\, dx = 2024 \\cdot x^{2023} + C.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      687,
+      567,
+      760
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\int f(x) \\, dx = \\frac{1}{2025} \\cdot x^{2025} + C.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      687,
+      1038,
+      760
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\int f(x) \\, dx = x^{2025} + C.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      775,
+      1196,
+      892
+    ],
+    "category": "Text",
+    "text": "CÂU 2. Công thức tính thể tích $V$ của khối tròn xoay được tạo ra khi quay hình thang cong, giới hạn bởi đồ thị hàm số $y = f(x)$, trục $Ox$ và hai đường thẳng $x = a, x = b (a < b)$, xung quanh trục $Ox$ là"
+  },
+  {
+    "bbox": [
+      124,
+      894,
+      403,
+      1011
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} V = \\int_{a}^{b} |f(x)| \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      894,
+      966,
+      1011
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} V = \\pi \\int_{a}^{b} f^2(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1011,
+      399,
+      1126
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} V = \\int_{a}^{b} f^2(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1011,
+      954,
+      1126
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} V = \\pi \\int_{a}^{b} f(x) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1142,
+      1196,
+      1221
+    ],
+    "category": "Text",
+    "text": "CÂU 3. Một công ty xây dựng khảo sát khách hàng xem họ có nhu cầu mua nhà ở mức giá nào. Kết quả khảo sát được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      170,
+      1249,
+      1123,
+      1349
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức giá (triệu đồng/m²)</td><td>[10; 14)</td><td>[14; 18)</td><td>[18; 22)</td><td>[22; 26)</td><td>[26; 30)</td></tr><tr><td>Số khách hàng</td><td>54</td><td>78</td><td>120</td><td>45</td><td>12</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1379,
+      860,
+      1416
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên $R$ của mẫu số liệu ghép nhóm trên là?"
+  },
+  {
+    "bbox": [
+      124,
+      1416,
+      259,
+      1456
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} R = 4.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      1416,
+      546,
+      1456
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} R = 20.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1416,
+      805,
+      1456
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} R = 9.\n$$"
+  },
+  {
+    "bbox": [
+      941,
+      1416,
+      1105,
+      1456
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} R = 108.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1476,
+      1196,
+      1555
+    ],
+    "category": "Text",
+    "text": "CÂU 4. Trong không gian $Oxyz$, mặt phẳng nào dưới đây nhận $\\vec{n} = (3; 1; -7)$ là một vectơ pháp tuyến?"
+  },
+  {
+    "bbox": [
+      124,
+      1555,
+      373,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} 3x + z + 7 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1555,
+      983,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} 3x - y - 7z + 1 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      124,
+      1597,
+      373,
+      1637
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} 3x + y - 7 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      1597,
+      983,
+      1637
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} 3x + y - 7z - 3 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      1679,
+      713,
+      1754
+    ],
+    "category": "Text",
+    "text": "CÂU 5. Hàm số $y = f(x)$ có đồ thị như hình bên."
+  },
+  {
+    "bbox": [
+      93,
+      1758,
+      660,
+      1796
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đã cho có tiệm cận ngang là"
+  },
+  {
+    "bbox": [
+      124,
+      1796,
+      252,
+      1836
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} y = 2.\n$$"
+  },
+  {
+    "bbox": [
+      275,
+      1796,
+      403,
+      1836
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} x = 2.\n$$"
+  },
+  {
+    "bbox": [
+      426,
+      1796,
+      554,
+      1836
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} y = 1.\n$$"
+  },
+  {
+    "bbox": [
+      577,
+      1796,
+      705,
+      1836
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} x = 1.\n$$"
+  },
+  {
+    "bbox": [
+      749,
+      1695,
+      1169,
+      2111
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      2122,
+      1196,
+      2205
+    ],
+    "category": "Text",
+    "text": "CÂU 6. Cho các số thực dương $a, b$ thỏa mãn $\\log_2 a = x, \\log_2 b = y$. Tính $P = \\log_2 (a^2b^3)$"
+  },
+  {
+    "bbox": [
+      124,
+      2205,
+      292,
+      2245
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} P = 6xy.\n$$"
+  },
+  {
+    "bbox": [
+      395,
+      2205,
+      616,
+      2245
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} P = 2x + 3y.\n$$"
+  },
+  {
+    "bbox": [
+      669,
+      2205,
+      851,
+      2245
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} P = x^2y^3.\n$$"
+  },
+  {
+    "bbox": [
+      941,
+      2205,
+      1156,
+      2245
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} P = x^2 + y^3.\n$$"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 475"
+  }
+]

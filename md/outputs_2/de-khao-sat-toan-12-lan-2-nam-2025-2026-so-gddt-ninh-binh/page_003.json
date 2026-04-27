@@ -1,0 +1,250 @@
+[
+  {
+    "bbox": [
+      113,
+      108,
+      1149,
+      291
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hình集合 chữ nhật $ABCD.A'B'C'D'$ có đáy $ABCD$ là hình chữ nhật với $AB=5$, $AD=6$, $AA'=10$; $G$ là trọng tâm của tam giác $BDA'$. Gắn một hệ tọa độ $Oxyz$ có gốc $O$ trùng với điểm $A$, tia $Ox$ trùng với tia $AB$, tia $Oy$ trùng với tia $AD$, tia $Oz$ trùng với tia $AA'$ (xem hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      1170,
+      110,
+      1502,
+      455
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      301,
+      612,
+      351
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của điểm $C$ là $(5;6;0)$."
+  },
+  {
+    "bbox": [
+      155,
+      359,
+      468,
+      425
+    ],
+    "category": "List-item",
+    "text": "b) $|\\overrightarrow{AC} + 2\\overrightarrow{A'B}| = \\sqrt{661}$."
+  },
+  {
+    "bbox": [
+      155,
+      434,
+      589,
+      524
+    ],
+    "category": "List-item",
+    "text": "c) Tọa độ điểm $G$ là $\\left(2;\\frac{5}{3};\\frac{10}{3}\\right)$."
+  },
+  {
+    "bbox": [
+      155,
+      535,
+      416,
+      615
+    ],
+    "category": "List-item",
+    "text": "d) $\\overrightarrow{AG} \\cdot \\overrightarrow{B'C} = -\\frac{64}{3}$."
+  },
+  {
+    "bbox": [
+      113,
+      620,
+      665,
+      674
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = e^{x^3-3x^2-9x+2026}$."
+  },
+  {
+    "bbox": [
+      155,
+      682,
+      883,
+      734
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số đã cho có đạo hàm là $f'(x) = e^{x^3-3x^2-9x+2026}$."
+  },
+  {
+    "bbox": [
+      155,
+      742,
+      850,
+      795
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $f(x)$ đồng biến trên khoảng $(-\\infty; +\\infty)$."
+  },
+  {
+    "bbox": [
+      155,
+      801,
+      773,
+      852
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $f(x)$ có hai giá trị cực trị trái dấu."
+  },
+  {
+    "bbox": [
+      155,
+      859,
+      1407,
+      912
+    ],
+    "category": "List-item",
+    "text": "d) Tích của giá trị lớn nhất và giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[-2;2]$ bằng $e^{4035}$."
+  },
+  {
+    "bbox": [
+      113,
+      922,
+      1376,
+      972
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ tọa độ $Oxyz$, cho ba điểm $A(-1;0;2)$, $B(2;2;1)$, $C(0;-1;4)$."
+  },
+  {
+    "bbox": [
+      155,
+      981,
+      825,
+      1032
+    ],
+    "category": "List-item",
+    "text": "a) Mặt phẳng $(Oxy)$ có phương trình là $x + y = 0$."
+  },
+  {
+    "bbox": [
+      155,
+      1041,
+      1152,
+      1092
+    ],
+    "category": "List-item",
+    "text": "b) Hình chiếu vuông góc của $B$ trên mặt phẳng $(Oyz)$ là điểm $B'(0;2;1)$."
+  },
+  {
+    "bbox": [
+      155,
+      1098,
+      1290,
+      1143
+    ],
+    "category": "List-item",
+    "text": "c) mặt phẳng đi qua $C$ và vuông góc với $AB$ có phương trình là $3x+2y-z+6=0$."
+  },
+  {
+    "bbox": [
+      113,
+      1151,
+      1527,
+      1259
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $(\\alpha)$ là mặt phẳng chứa trục $Ox$ và song song với đường thẳng $AC$. Khoảng cách từ điểm $B$ đến mặt phẳng $(\\alpha)$ bằng $\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      113,
+      1263,
+      734,
+      1306
+    ],
+    "category": "Text",
+    "text": "**PHẦN III.** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      113,
+      1308,
+      1535,
+      1505
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên mỗi trục là km), một Radar phát hiện một chiếc máy bay di chuyển trên một đường thẳng với tốc độ và hướng bay không đổi. máy bay bay từ điểm $A(712;200;6)$ đến điểm $B(802;220;8)$ trong 8 phút và trong 4 phút tiếp theo máy bay có vị trí là điểm $C(x; y; z)$. Giá trị $x + y + z$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      113,
+      1509,
+      932,
+      1631
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong hình bên là một chiếc đồng hồ treo tường cao cấp được thiết kế có phần ở giữa (phần tô Đm) dát vàng. Part này được thiết kế như sau:"
+  },
+  {
+    "bbox": [
+      155,
+      1631,
+      932,
+      1717
+    ],
+    "category": "List-item",
+    "text": "- Vẽ hình lục giác đều $ABCDEF$ tâm $O$ và có cạnh bằng 4cm;"
+  },
+  {
+    "bbox": [
+      155,
+      1727,
+      932,
+      1826
+    ],
+    "category": "List-item",
+    "text": "- Vẽ parabol $(C_1)$ tiếp xúc với các đường thẳng $OA, OB$ lần lượt tại $A$ và $B$;"
+  },
+  {
+    "bbox": [
+      113,
+      1836,
+      1527,
+      2005
+    ],
+    "category": "List-item",
+    "text": "- Tương tự vẽ parabol $(C_2)$ tiếp xúc với các đường thẳng $OB, OC$ lần lượt tại $B$ và $C$; parabol $(C_3)$ tiếp xúc với các đường thẳng $OC, OD$ lần lượt tại $C$ và $D$; ...; parabol $(C_6)$ tiếp xúc với các đường thẳng $OF, OA$ lần lượt tại $F$ và $A$."
+  },
+  {
+    "bbox": [
+      113,
+      2015,
+      1535,
+      2152
+    ],
+    "category": "Text",
+    "text": "Hình phẳng $(H)$ được giới hạn bởi sáu parabol $(C_1), (C_2), (C_3), (C_4), (C_5), (C_6)$ (phần tô Đm) là phần sẽ được dát vàng. Hỏi phần dát vàng này có diện tích bằng bao nhiêu centimet vuông (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      964,
+      1518,
+      1559,
+      1836
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1223,
+      2207,
+      1532,
+      2251
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 0101"
+  }
+]

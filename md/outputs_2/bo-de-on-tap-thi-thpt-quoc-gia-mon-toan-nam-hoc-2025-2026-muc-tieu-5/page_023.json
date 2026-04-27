@@ -1,0 +1,198 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      551,
+      181
+    ],
+    "category": "Text",
+    "text": "thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      204,
+      190,
+      237
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      202,
+      1548,
+      283
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một vòng quay được chia thành 12 phần bằng nhau và được đánh số từ 1 đến 12 như hình vẽ bên dưới."
+  },
+  {
+    "bbox": [
+      530,
+      286,
+      1169,
+      674
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      711,
+      1548,
+      838
+    ],
+    "category": "Text",
+    "text": "Xét phép thử An và Bình lần lượt quay vòng quay trên. Gọi $A$ là biến cố \"An quay được số chia hết cho 3\"; $B$ là biến cố \"An quay được số chia hết cho 5\"; $C$ là biến cố \"Bình quay được số ch巧\"."
+  },
+  {
+    "bbox": [
+      190,
+      861,
+      958,
+      902
+    ],
+    "category": "List-item",
+    "text": "a) Không gian mẫu của phép thử có số kết quả là 24."
+  },
+  {
+    "bbox": [
+      190,
+      917,
+      1117,
+      958
+    ],
+    "category": "List-item",
+    "text": "b) Số kết quả thuận lợi cho biến cố $A, B, C$ lần lượt là 48, 24, 72."
+  },
+  {
+    "bbox": [
+      190,
+      965,
+      1372,
+      1043
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để Bình quay được số ch巧, biết An quay được số chia hết cho 3 là $\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      190,
+      1046,
+      1344,
+      1124
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để An quay được số chia hết cho 5, biết Bình quay được số lẻ là $\\frac{1}{12}$."
+  },
+  {
+    "bbox": [
+      154,
+      1154,
+      190,
+      1176
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1136,
+      1548,
+      1532
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một nhà khoa học đang nghiên cứu tác dụng của chất $X$ lên sự phát triển của loài hoa Kaiserkrone. Bằng cách trồng hai cây hoa đều cao 10 cm ở một môi trường có chất $X$ và một môi trường không có chất $X$ sau đó đánh giá. Sau 15 ngày trồng hoa, nhà khoa học nhận ra hoa được trồng trong môi trường không có chất $X$ phát triển với tốc độ $h'_1(t) = e^{0,1t}$, hoa được trồng trong môi trường có chất $X$ phát triển với tốc độ $h'_2(t) = a \\cdot e^{-0,1t}$ ($a \\in \\mathbb{R}$) trong đó $t$ tính bằng ngày, $h'$ tính bằng cm/ngày, $0 \\le t \\le 15$. Biết rằng ở thời điểm ban đầu, tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ gấp 4 lần cây hoa trong môi trường không có chất $X$. Theo đánh giá của nhà khoa học, chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu sau 15 ngày chiều cao của cây lớn hơn so với trồng thông thường."
+  },
+  {
+    "bbox": [
+      190,
+      1554,
+      323,
+      1592
+    ],
+    "category": "List-item",
+    "text": "a) $a = 4$."
+  },
+  {
+    "bbox": [
+      190,
+      1608,
+      1548,
+      1695
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_1(t) = 10e^{0,1t} + 10$ (cm) (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      190,
+      1708,
+      1099,
+      1748
+    ],
+    "category": "List-item",
+    "text": "c) Chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      190,
+      1763,
+      1548,
+      1848
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng sau $t_0$ ngày ($0 < t_0 < 15$), hai cây hoa có chiều cao bằng nhau. Khi đó chiều cao của chúng bằng nhau và bằng 40 cm."
+  },
+  {
+    "bbox": [
+      154,
+      1879,
+      190,
+      1903
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1870,
+      1548,
+      2132
+    ],
+    "category": "Text",
+    "text": "Bài 3. Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên các trục là mét), một thiết bị bay không người lái xuất phát từ điểm $A(1; 2; 0)$. thiết bị chuyển động thẳng nhanh dần theo hướng của vecto đơn vị $\\vec{u} = (a; b; c)$ với độ dài $|\\vec{u}| = 1$. Tốc độ của thiết bị phụ thuộc vào thời gian $t$ (giây) theo công thức $v(t) = mt + 10$ (m/s), trong đó $m$ là hằng số dương. Biết rằng sau 5 giây kể từ lúc xuất phát, thiết bị đi được quăng đường 125 m. Vecto chỉ phương chuyển động $\\vec{u}$ tạo với tia $Ox$ một góc 45°, tạo với tia $Oy$ một góc 60° và tạo với tia $Oz$ một góc nhọn."
+  },
+  {
+    "bbox": [
+      190,
+      2142,
+      327,
+      2220
+    ],
+    "category": "List-item",
+    "text": "a) $c = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      159,
+      2255,
+      830,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "23"
+  }
+]

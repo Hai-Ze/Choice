@@ -1,0 +1,320 @@
+[
+  {
+    "bbox": [
+      188,
+      132,
+      759,
+      183
+    ],
+    "category": "List-item",
+    "text": "a) $\\overrightarrow{AB} = (-4; 5; -1)$, $\\overrightarrow{AC} = (0; -1; -1)$."
+  },
+  {
+    "bbox": [
+      188,
+      194,
+      1413,
+      237
+    ],
+    "category": "List-item",
+    "text": "b) Biết điểm $D(a; b; c)$ sao cho tức giác $ABCD$ là hình bình hành, ta có $a + b + c = 9$."
+  },
+  {
+    "bbox": [
+      190,
+      242,
+      475,
+      291
+    ],
+    "category": "List-item",
+    "text": "c) $\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = -10$."
+  },
+  {
+    "bbox": [
+      188,
+      298,
+      1133,
+      386
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $\\alpha$ là số đo góc $A$ của tam giác $ABC$. Khi đó $\\cos \\alpha = \\frac{\\sqrt{21}}{7}$."
+  },
+  {
+    "bbox": [
+      154,
+      399,
+      198,
+      436
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      397,
+      1232,
+      460
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Cho tam giác $ABC$ với $A(5; 3; 1)$, $B(1; 6; 2)$, $C(5; 0; 4)$."
+  },
+  {
+    "bbox": [
+      194,
+      473,
+      343,
+      510
+    ],
+    "category": "Section-header",
+    "text": "◇ a) Sai."
+  },
+  {
+    "bbox": [
+      235,
+      530,
+      593,
+      568
+    ],
+    "category": "Text",
+    "text": "Ta tính tọa độ các vectơ:"
+  },
+  {
+    "bbox": [
+      235,
+      579,
+      788,
+      628
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB} = (1 - 5; 6 - 3; 2 - 1) = (-4; 3; 1).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      637,
+      788,
+      686
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AC} = (5 - 5; 0 - 3; 4 - 1) = (0; -3; 3).\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      702,
+      1403,
+      744
+    ],
+    "category": "Text",
+    "text": "So vớioorgnh thède bâibài đưa ra là $(-4; 5; -1)$ và $(0; -1; -1)$ thì đây làoorgnh thèsai."
+  },
+  {
+    "bbox": [
+      194,
+      764,
+      385,
+      801
+    ],
+    "category": "Section-header",
+    "text": "◇ b) Đúng."
+  },
+  {
+    "bbox": [
+      235,
+      810,
+      1096,
+      858
+    ],
+    "category": "Text",
+    "text": "Tứ giác $ABCD$ là hình bình hành khi và chỉ khi $\\overrightarrow{AD} = \\overrightarrow{BC}$."
+  },
+  {
+    "bbox": [
+      235,
+      867,
+      901,
+      918
+    ],
+    "category": "Text",
+    "text": "Gọi $D(a; b; c)$, ta có $\\overrightarrow{AD} = (a - 5; b - 3; c - 1)$."
+  },
+  {
+    "bbox": [
+      235,
+      915,
+      879,
+      963
+    ],
+    "category": "Text",
+    "text": "Vectơ $\\overrightarrow{BC} = (5 - 1; 0 - 6; 4 - 2) = (4; -6; 2)$."
+  },
+  {
+    "bbox": [
+      235,
+      972,
+      884,
+      1139
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AD} = \\overrightarrow{BC} \\Leftrightarrow \\begin{cases} a - 5 = 4 \\\\ b - 3 = -6 \\\\ c - 1 = 2 \\end{cases} \\Leftrightarrow \\begin{cases} a = 9 \\\\ b = -3 \\\\ c = 3 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1151,
+      1122,
+      1194
+    ],
+    "category": "Text",
+    "text": "Khi đó, $a + b + c = 9 + (-3) + 3 = 9$. Vậyoorgnh thènay đúng."
+  },
+  {
+    "bbox": [
+      194,
+      1213,
+      343,
+      1250
+    ],
+    "category": "Section-header",
+    "text": "◇ c) Sai."
+  },
+  {
+    "bbox": [
+      235,
+      1259,
+      854,
+      1309
+    ],
+    "category": "Text",
+    "text": "Tích vô hướng của hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$ là:"
+  },
+  {
+    "bbox": [
+      235,
+      1318,
+      1027,
+      1367
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = (-4) \\cdot 0 + 3 \\cdot (-3) + 1 \\cdot 3 = 0 - 9 + 3 = -6.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1371,
+      1031,
+      1412
+    ],
+    "category": "Text",
+    "text": "Mindh thèghi kết quả bằng $-10$ nên đây làoorgnh thèsai."
+  },
+  {
+    "bbox": [
+      194,
+      1431,
+      343,
+      1468
+    ],
+    "category": "Section-header",
+    "text": "◇ d) Sai."
+  },
+  {
+    "bbox": [
+      235,
+      1477,
+      737,
+      1578
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\cos \\alpha = \\cos A = \\frac{\\overrightarrow{AB} \\cdot \\overrightarrow{AC}}{|\\overrightarrow{AB}| \\cdot |\\overrightarrow{AC}|}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1593,
+      483,
+      1631
+    ],
+    "category": "Text",
+    "text": "Độ dài các vectơ:"
+  },
+  {
+    "bbox": [
+      235,
+      1640,
+      714,
+      1693
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\overrightarrow{AB}| = \\sqrt{(-4)^2 + 3^2 + 1^2} = \\sqrt{26}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1700,
+      819,
+      1751
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\overrightarrow{AC}| = \\sqrt{0^2 + (-3)^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1760,
+      1064,
+      1852
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\cos \\alpha = \\frac{-6}{\\sqrt{26} \\cdot 3\\sqrt{2}} = \\frac{-2}{\\sqrt{52}} = \\frac{-2}{2\\sqrt{13}} = -\\frac{1}{\\sqrt{13}} = -\\frac{\\sqrt{13}}{13}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1861,
+      916,
+      1947
+    ],
+    "category": "Text",
+    "text": "Giá trị này khác với $\\frac{\\sqrt{21}}{7}$ nên mindh thènay sai."
+  },
+  {
+    "bbox": [
+      154,
+      1964,
+      190,
+      1997
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1958,
+      1548,
+      2223
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một xưởng mộc dùng gỗ sồi để sản xuất 5 chiếc bàn mỗi ngày. Chi phí cho mỗi lần vận chuyển nguyên liệu là 5625 USD, chi phí để lưu trữ một đơn vị nguyên liệu là 10 USD mỗi ngày, trong đó một đơn vị là lượng nguyên liệu cần thiết để sản xuất một chiếc bàn, và lưu ý rằng trong mỗi ngày của chu kì sản xuất (thời gian giữa hai lần nhập nguyên liệu liên tiếp) thì lượng nguyên liệu lưu trữ trung bình mỗi ngày được tính bằng một half tổng lượng nguyên liệu tồn kho đầu kì và lượng nguyên liệu tồn kho cuối kì. Giả sử nguyên liệu được nhập về sau mỗi $x$ ngày."
+  },
+  {
+    "bbox": [
+      75,
+      2251,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "48"
+  },
+  {
+    "bbox": [
+      839,
+      2254,
+      1509,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

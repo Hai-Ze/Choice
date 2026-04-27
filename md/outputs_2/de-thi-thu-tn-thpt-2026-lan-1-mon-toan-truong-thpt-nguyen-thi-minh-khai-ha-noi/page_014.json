@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      658,
+      127,
+      1134,
+      628
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      843,
+      651,
+      957,
+      688
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      759,
+      696,
+      1059,
+      1059
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1084,
+      1535,
+      1173
+    ],
+    "category": "Text",
+    "text": "+) Đặt vị trí của giàn khoan là $A$, hình chiếu vuông góc của giàn khoan trên bờ biển là $B$. Vị trí cơ quan của chị Mai là $C$.úm điểm gặp nhau trên bờ biển là $P$."
+  },
+  {
+    "bbox": [
+      251,
+      1173,
+      502,
+      1215
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, ta có:"
+  },
+  {
+    "bbox": [
+      257,
+      1219,
+      974,
+      1262
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = 10 \\text{ km (khoảng cách từ giàn khoan đến bờ biển)}\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1265,
+      1061,
+      1308
+    ],
+    "category": "Formula",
+    "text": "$$\nBC = 6 \\text{ km (khoảng cách ngang từ } B \\text{ đến cơ quan chị Mai)}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1313,
+      1233,
+      1358
+    ],
+    "category": "Text",
+    "text": "+) Vận tốc của Anh Nam: $v_A = 15 \\text{ km/h}$ Vận tốc của chị Mai: $v_C = 5 \\text{ km/h}$"
+  },
+  {
+    "bbox": [
+      251,
+      1365,
+      1514,
+      1457
+    ],
+    "category": "Text",
+    "text": "Giả sử điểm $P$ cách điểm $B$ một khoảng là $x$ kilômét ($BP = x$). Vì $P$ nằm trên bờ biển giữa $B$ và $C$ (để thời gian di chuyển là nhỏ nhất), nên $0 \\le x \\le 6$."
+  },
+  {
+    "bbox": [
+      251,
+      1457,
+      1292,
+      1502
+    ],
+    "category": "Text",
+    "text": "Khi đó, khoảng cách từ $P$ đến cơ quan của chị Mai là $CP = BC - BP = 6 - x$."
+  },
+  {
+    "bbox": [
+      251,
+      1502,
+      1531,
+      1548
+    ],
+    "category": "Text",
+    "text": "+) Đường đi của Anh Nam từ $A$ đến $P$ là cạnh huyền của tam giác vuông $ABP$ (vuông tại $B$)."
+  },
+  {
+    "bbox": [
+      257,
+      1552,
+      855,
+      1604
+    ],
+    "category": "Formula",
+    "text": "$$\nAP = \\sqrt{AB^2 + BP^2} = \\sqrt{10^2 + x^2} = \\sqrt{100 + x^2}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1614,
+      1001,
+      1717
+    ],
+    "category": "Text",
+    "text": "Thời gian Anh Nam di chuyển là $t_A = \\frac{AP}{v_A} = \\frac{\\sqrt{100 + x^2}}{15}$."
+  },
+  {
+    "bbox": [
+      251,
+      1729,
+      901,
+      1817
+    ],
+    "category": "Text",
+    "text": "Thời gian chị Mai di chuyển là $t_C = \\frac{CP}{v_C} = \\frac{6-x}{5}$."
+  },
+  {
+    "bbox": [
+      251,
+      1826,
+      1019,
+      1873
+    ],
+    "category": "Text",
+    "text": "+) Vì hai người xuất phát và đến nơi cùng lúc nên $t_A = t_C$."
+  },
+  {
+    "bbox": [
+      257,
+      1885,
+      502,
+      1980
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{\\sqrt{100 + x^2}}{15} = \\frac{6 - x}{5}\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      1992,
+      569,
+      2044
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 100 + x^2 = (18 - 3x)^2\n$$"
+  },
+  {
+    "bbox": [
+      257,
+      2057,
+      530,
+      2096
+    ],
+    "category": "Formula",
+    "text": "$$\n8x^2 - 108x + 224 = 0\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      2106,
+      495,
+      2145
+    ],
+    "category": "Text",
+    "text": "Ta có hai nghiệm:"
+  }
+]

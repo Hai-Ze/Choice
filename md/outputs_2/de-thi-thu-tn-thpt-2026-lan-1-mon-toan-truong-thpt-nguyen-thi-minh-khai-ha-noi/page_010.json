@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      251,
+      114,
+      1550,
+      215
+    ],
+    "category": "Text",
+    "text": "được coi là đạt yêu cầu khi nhiệt độ lon sữa bằng $70^\\circ C$. Biết rằng thời gian cần thiết để hâm nóng lon sữa là 5 phút thì hằng số $k \\in (720; 730)$."
+  },
+  {
+    "bbox": [
+      843,
+      256,
+      957,
+      294
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      296,
+      389,
+      338
+    ],
+    "category": "Section-header",
+    "text": "a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      366,
+      955,
+      412
+    ],
+    "category": "Text",
+    "text": "Sau 2 giờ, tốc độ thay đổi nhiệt độ của lon sữa bằng:"
+  },
+  {
+    "bbox": [
+      256,
+      445,
+      563,
+      494
+    ],
+    "category": "Formula",
+    "text": "$$\nT'(2) = 7 \\cdot e^{-0,35 \\cdot 2} \\approx 3,48\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      535,
+      348,
+      573
+    ],
+    "category": "Section-header",
+    "text": "b) SAI"
+  },
+  {
+    "bbox": [
+      251,
+      602,
+      1550,
+      691
+    ],
+    "category": "Text",
+    "text": "Nhiệt độ của lon sữa tính từ thời điểm lấy ra khỏi tử慢 cho đến khi lon sữa đạt nhiệt độ môi trường được tính bởi công thức"
+  },
+  {
+    "bbox": [
+      318,
+      722,
+      794,
+      782
+    ],
+    "category": "Formula",
+    "text": "$$\nT(t) = \\int 7 \\cdot e^{-0,35t} dt = -20 \\cdot e^{-0,35t} + C.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      824,
+      662,
+      878
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } T(0) = -4^\\circ C \\text{ nên } C = 16\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      922,
+      964,
+      970
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } T(t) = -20 \\cdot e^{-0,35t} + 16. \\text{ Suy ra khẳng định b) sai.}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1007,
+      387,
+      1049
+    ],
+    "category": "Section-header",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      1084,
+      745,
+      1123
+    ],
+    "category": "Text",
+    "text": "Lon sữa đạt nhiệt độ môi trường khi:"
+  },
+  {
+    "bbox": [
+      318,
+      1157,
+      669,
+      1407
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} T(t) &= -20 \\cdot e^{-0,35t} + 16 = 10 \\\\ \\Leftrightarrow 20 \\cdot e^{-0,35t} &= 6 \\\\ \\Leftrightarrow t &= -\\frac{1}{0,35} \\ln \\frac{3}{10} \\\\ \\Leftrightarrow t &\\approx 3,44 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1444,
+      389,
+      1486
+    ],
+    "category": "Section-header",
+    "text": "d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      1519,
+      522,
+      1559
+    ],
+    "category": "Text",
+    "text": "5 phút = 1 / 12 giờ."
+  },
+  {
+    "bbox": [
+      251,
+      1602,
+      1078,
+      1847
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Ta có: } \\int_{0}^{1/12} L'(t) dt &= 70^\\circ - 10^\\circ = 60^\\circ \\\\ \\Leftrightarrow \\int_{0}^{1/12} k \\cdot e^{-0,22t} dt &= 60^\\circ \\Leftrightarrow \\frac{k}{0,22} \\left(1 - e^{-0,22/12}\\right) = 60^\\circ \\Leftrightarrow k \\approx 729 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1888,
+      762,
+      1971
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho hàm số $y = \\frac{2x-1}{x+1}$ có đồ thị $(C)$."
+  },
+  {
+    "bbox": [
+      251,
+      2003,
+      772,
+      2048
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đồng biến trên tập xác định."
+  },
+  {
+    "bbox": [
+      251,
+      2078,
+      1000,
+      2128
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số $(C)$ có tâm đối xứng là điểm $I(-1; 2)$"
+  }
+]

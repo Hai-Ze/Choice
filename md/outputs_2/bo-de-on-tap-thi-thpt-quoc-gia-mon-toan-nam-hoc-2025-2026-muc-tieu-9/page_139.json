@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      203,
+      129,
+      1254,
+      212
+    ],
+    "category": "Formula",
+    "text": "$$\n-\\frac{1}{80}y^2 + \\frac{3}{4}y = \\frac{1}{2}y - \\frac{75}{4} \\Leftrightarrow -\\frac{1}{80}y^2 + \\frac{1}{4}y + \\frac{75}{4} = 0 \\Leftrightarrow y^2 - 20y - 1500 = 0.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      223,
+      1216,
+      265
+    ],
+    "category": "Text",
+    "text": "Giải phương trình ta được $y = 50$ (nhận) hoặc $y = -30$ (loại vì $y > 0$)."
+  },
+  {
+    "bbox": [
+      203,
+      275,
+      1007,
+      354
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } y = 50 \\Rightarrow z = \\frac{1}{2}(50) - \\frac{75}{4} = 25 - 18,75 = 6,25 \\text{ mét.}\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      367,
+      897,
+      407
+    ],
+    "category": "Text",
+    "text": "Vậy bóng rơi trúng mặt sường ở độ cao 6,25 mét."
+  },
+  {
+    "bbox": [
+      203,
+      429,
+      308,
+      468
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      486,
+      1547,
+      604
+    ],
+    "category": "Text",
+    "text": "Để quả bóng rơi trúng lỗ $L(60; 120; 30)$ ở lần đánh thứ hai, điểm $(120; 30)$ phải thuộc đồ thị $z(y) = -\\frac{1}{80}y^2 + ay$."
+  },
+  {
+    "bbox": [
+      203,
+      610,
+      1326,
+      691
+    ],
+    "category": "Formula",
+    "text": "$$\n30 = -\\frac{1}{80}(120)^2 + a(120) \\Leftrightarrow 30 = -180 + 120a \\Leftrightarrow 120a = 210 \\Leftrightarrow a = \\frac{210}{120} = \\frac{7}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      704,
+      352,
+      745
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      203,
+      755,
+      1508,
+      835
+    ],
+    "category": "Text",
+    "text": "Trong cú đánh thứ hai, $z(y) = -\\frac{1}{80}y^2 + \\frac{7}{4}y$. Dây là hàm số bậc hai với hệ số $A = -\\frac{1}{80} < 0$."
+  },
+  {
+    "bbox": [
+      203,
+      844,
+      1086,
+      930
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đỉnh của parabol có tung độ } y_I = -\\frac{B}{2A} = -\\frac{\\frac{7}{4}}{2 \\cdot (-\\frac{1}{80})} = 70.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      940,
+      1276,
+      1020
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cao độ cực đại } z_I = z(70) = -\\frac{1}{80}(70)^2 + \\frac{7}{4}(70) = -61,25 + 122,5 = 61,25.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1029,
+      1545,
+      1118
+    ],
+    "category": "Text",
+    "text": "Vì quỹ đạo nằm trong mặt phẳng song song $(Oyz)$ và đi qua $P, L$ có hoành độ $x = 60$ nên điểm cao nhất là $I(60; 70; 61,25)$."
+  },
+  {
+    "bbox": [
+      154,
+      1137,
+      1547,
+      1388
+    ],
+    "category": "Text",
+    "text": "Bài 3. Ta coi Trái Đất là hình cầu hoàn hảo với bán kính $R = 6370$ (km) và diện tích toàn phần là $S = 4\\pi R^2$. Các phi hành gia từ tàu vũ trụ chỉ có thể nhìn thấy một phần bề mặt Trái Đất. Ở độ cao $h$, phần diện tích Trái Đất các phi hành gia có thể nhìn thấy sẽ được tính theo công thức $S_T = 2\\pi R^2 \\left(1 - \\frac{R}{R+h}\\right)$, trong đó $R$ là bán kính Trái Đất. Gọi $K$ là tỉ số diện tích bề mặt Trái Đất nhìn thấy được ở độ cao $h$ với diện tích toàn phần của Trái Đất."
+  },
+  {
+    "bbox": [
+      517,
+      1434,
+      1079,
+      2111
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "139"
+  }
+]

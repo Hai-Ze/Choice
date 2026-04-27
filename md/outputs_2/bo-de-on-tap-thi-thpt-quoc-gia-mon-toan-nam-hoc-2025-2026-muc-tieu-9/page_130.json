@@ -1,0 +1,229 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      136,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      628,
+      213,
+      1071,
+      745
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      787,
+      1547,
+      875
+    ],
+    "category": "Text",
+    "text": "Vì $AA'//BB'$ nên khoảng cách giữa hai đường thẳng $AA'$ và $BB'$ là khoảng cách giữa $AA'$ và mặt phẳng $(BB'C'C)$."
+  },
+  {
+    "bbox": [
+      203,
+      893,
+      1468,
+      935
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ và $M'$ tương ứng là trung điểm của $BC$ và $B'C'$, $H$ là trọng tâm tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      154,
+      955,
+      1547,
+      1041
+    ],
+    "category": "Text",
+    "text": "Ta có $A'H \\perp (ABC)$ nên $A'H \\perp BC$, đồng thời tam giác $ABC$ đều nên $AH \\perp BC$, do đó $BC \\perp (AA'H)$, suy ra $(AA'H) \\perp (BCC'B')$."
+  },
+  {
+    "bbox": [
+      203,
+      1059,
+      1468,
+      1102
+    ],
+    "category": "Text",
+    "text": "Do đó khoảng cách từ $AA'$ đến mặt phẳng $(BB'C'C)$ là khoảng cách giữa $AA'$ và $MM'$."
+  },
+  {
+    "bbox": [
+      203,
+      1113,
+      926,
+      1195
+    ],
+    "category": "Text",
+    "text": "Do $\\frac{MA}{HA} = \\frac{3}{2}$ nên $d_{[MM';AA']} = d_{[M;AA']} = \\frac{3}{2}d_{[H;AA']}$."
+  },
+  {
+    "bbox": [
+      203,
+      1206,
+      626,
+      1245
+    ],
+    "category": "Text",
+    "text": "Kẻ $HK \\perp AA'$ tại $K$. Khi đó"
+  },
+  {
+    "bbox": [
+      334,
+      1250,
+      1369,
+      1395
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{1}{KH^2} = \\frac{1}{AH^2} + \\frac{1}{A'H^2} \\Leftrightarrow \\frac{1}{\\left(\\frac{2}{3} \\cdot \\frac{\\sqrt{3}}{2}\\right)^2} = \\frac{1}{\\left(\\frac{2\\sqrt{3}}{3}\\right)^2} + \\frac{1}{A'H^2} \\Rightarrow A'H = \\frac{2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      1415,
+      813,
+      1457
+    ],
+    "category": "Text",
+    "text": "Thể tích của khối lăng trụ $ABC.A'B'C'$ là"
+  },
+  {
+    "bbox": [
+      533,
+      1464,
+      1162,
+      1552
+    ],
+    "category": "Formula",
+    "text": "$$\nV = S_{ABC} \\cdot A'H = \\frac{2^2\\sqrt{3}}{4} \\cdot \\frac{2}{3} = \\frac{2\\sqrt{3}}{3} \\approx 1,15.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1571,
+      1547,
+      1651
+    ],
+    "category": "Text",
+    "text": "### 3. cul 3. Một nhà khoa học máy tính đang phát triển một thuật toán mã hóa mới dựa trên hai chuỗi số:"
+  },
+  {
+    "bbox": [
+      154,
+      1675,
+      1547,
+      1761
+    ],
+    "category": "List-item",
+    "text": "+) Chuỗi A: Các số hạng được chọn từ một cấp số cộng với số hạng đầu là 3 và công sai là 4. Tuy nhiên, chỉ những số hạng có chữ số cuối là 7 mới được đưa vào Chuỗi A."
+  },
+  {
+    "bbox": [
+      154,
+      1777,
+      1547,
+      1863
+    ],
+    "category": "List-item",
+    "text": "+) Chuỗi B: Các số hạng được chọn từ một cấp số nhân với số hạng đầu là 2 và công bội là 3. Tuy nhiên, chỉ những số hạng chia hết cho 6 mới được đưa vào Chuỗi B."
+  },
+  {
+    "bbox": [
+      154,
+      1883,
+      1485,
+      1925
+    ],
+    "category": "Text",
+    "text": "Trong 9000 số nguyên dương đầu tiên, tổng số hạng của chuỗi A và chuỗi B bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      154,
+      1942,
+      198,
+      1979
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1942,
+      702,
+      2002
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải. +) Tìm chuỗi A:"
+  },
+  {
+    "bbox": [
+      203,
+      2018,
+      1152,
+      2060
+    ],
+    "category": "Text",
+    "text": "Số hạng tổng quát của cấp số cộng là $a_n = 3 + 4.(n - 1) = 4n - 1$."
+  },
+  {
+    "bbox": [
+      203,
+      2078,
+      633,
+      2119
+    ],
+    "category": "Text",
+    "text": "Vì số hạng có chữ số cuối là 7"
+  },
+  {
+    "bbox": [
+      203,
+      2141,
+      546,
+      2181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow 4n - 1 \\equiv 7 \\pmod{10}\n$$"
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "130"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

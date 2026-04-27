@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      196,
+      100,
+      1021,
+      150
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      586,
+      168,
+      1395,
+      515
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      335,
+      558,
+      1067,
+      608
+    ],
+    "category": "Text",
+    "text": "Số đường tiệm cận ngang của đồ thị hàm số $y = f(x)$"
+  },
+  {
+    "bbox": [
+      335,
+      651,
+      397,
+      686
+    ],
+    "category": "List-item",
+    "text": "A. 1"
+  },
+  {
+    "bbox": [
+      672,
+      651,
+      737,
+      686
+    ],
+    "category": "List-item",
+    "text": "B. 4"
+  },
+  {
+    "bbox": [
+      988,
+      651,
+      1052,
+      686
+    ],
+    "category": "List-item",
+    "text": "C. 2"
+  },
+  {
+    "bbox": [
+      1305,
+      651,
+      1376,
+      686
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      914,
+      698,
+      1031,
+      736
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      296,
+      743,
+      411,
+      780
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      330,
+      788,
+      601,
+      850
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} y = -1; \\lim_{x \\to -\\infty} y = 1;\n$$"
+  },
+  {
+    "bbox": [
+      324,
+      856,
+      1006,
+      900
+    ],
+    "category": "Text",
+    "text": "Do đó đồ thị hàm số có hai đường tiệm cận ngang."
+  },
+  {
+    "bbox": [
+      196,
+      922,
+      1645,
+      1041
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hai mặt phẳng $(P): 2x - y - z - 3 = 0$ và $(Q): x - z - 2 = 0$. Góc giữa hai mặt phẳng $(P)$ và $(Q)$ bằng"
+  },
+  {
+    "bbox": [
+      335,
+      1059,
+      439,
+      1094
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      672,
+      1059,
+      775,
+      1094
+    ],
+    "category": "List-item",
+    "text": "B. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      988,
+      1059,
+      1092,
+      1094
+    ],
+    "category": "List-item",
+    "text": "C. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      1305,
+      1059,
+      1408,
+      1094
+    ],
+    "category": "List-item",
+    "text": "D. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      889,
+      1105,
+      1006,
+      1143
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      248,
+      1172,
+      360,
+      1209
+    ],
+    "category": "Text",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      248,
+      1238,
+      1416,
+      1291
+    ],
+    "category": "Text",
+    "text": "Véctơ pháp tuyến của mặt phẳng $(P)$ và $(Q)$ lần lượt là $\\vec{n}_P = (2; -1; -1)$; $\\vec{n}_Q = (1; 0; -1)$"
+  },
+  {
+    "bbox": [
+      252,
+      1324,
+      927,
+      1449
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos((P);(Q)) = \\frac{|\\vec{n}_P \\cdot \\vec{n}_Q|}{|\\vec{n}_P| |\\vec{n}_Q|} = \\frac{\\sqrt{3}}{2} \\Rightarrow ((P);(Q)) = 30^\\circ.\n$$"
+  },
+  {
+    "bbox": [
+      196,
+      1477,
+      1414,
+      1521
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Cho bảng số liệu khảo sát về tuổi thọ (đơn vị: nghìn giờ) của một loại bóng đen:"
+  },
+  {
+    "bbox": [
+      198,
+      1523,
+      1502,
+      1636
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Tuổi thọ</td><td>[3;5)</td><td>[5;7)</td><td>[7;9)</td><td>[9;11)</td><td>[11;13)</td></tr><tr><td>Số bóng đen</td><td>11</td><td>20</td><td>29</td><td>40</td><td>30</td></tr></table>"
+  },
+  {
+    "bbox": [
+      335,
+      1636,
+      869,
+      1678
+    ],
+    "category": "Text",
+    "text": "Tìm khoảng tứ phân vị của mẫu số liệu."
+  },
+  {
+    "bbox": [
+      335,
+      1707,
+      513,
+      1786
+    ],
+    "category": "List-item",
+    "text": "A. $\\Delta_Q = \\frac{87}{8}$."
+  },
+  {
+    "bbox": [
+      672,
+      1707,
+      859,
+      1786
+    ],
+    "category": "List-item",
+    "text": "B. $\\Delta_Q = \\frac{206}{29}$."
+  },
+  {
+    "bbox": [
+      988,
+      1707,
+      1193,
+      1786
+    ],
+    "category": "List-item",
+    "text": "C. $\\Delta_Q = \\frac{4171}{232}$."
+  },
+  {
+    "bbox": [
+      1305,
+      1707,
+      1495,
+      1786
+    ],
+    "category": "List-item",
+    "text": "D. $\\Delta_Q = \\frac{875}{232}$."
+  },
+  {
+    "bbox": [
+      933,
+      1796,
+      1047,
+      1834
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      335,
+      1865,
+      450,
+      1902
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      335,
+      1927,
+      571,
+      1964
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu $n = 130$."
+  },
+  {
+    "bbox": [
+      335,
+      1996,
+      1562,
+      2041
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1, x_2, \\dots, x_{130}$ là mẫu số liệu tuổi thọ của các bóng đen được xếp theo thứ tự không giảm."
+  }
+]

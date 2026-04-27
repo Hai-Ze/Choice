@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      82,
+      100,
+      694,
+      142
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 289m^2 - 28900m + 722500 = 0 \\Leftrightarrow m = 50.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      162,
+      955,
+      217
+    ],
+    "category": "Text",
+    "text": "Vậy toạ độ $M$ là $M(100; 200; 50) \\Rightarrow OM = 50\\sqrt{21} \\approx 229$ (km)."
+  },
+  {
+    "bbox": [
+      76,
+      240,
+      1495,
+      429
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật tâm $O$, $AB = 2$, $BC = 2\\sqrt{3}$. Tam giác $OAS$ cân tại $S$, mặt phẳng $(SAD)$ vuông góc với mặt phẳng $(ABCD)$, góc giữa $SD$ và $(ABCD)$ bằng $60$. Tính khoảng cách giữa hai đường thẳng $SB$ và $AC$?"
+  },
+  {
+    "bbox": [
+      76,
+      448,
+      414,
+      484
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      507,
+      843,
+      545
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      564,
+      245,
+      603
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1,5"
+  },
+  {
+    "bbox": [
+      533,
+      622,
+      1060,
+      1128
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1157,
+      511,
+      1204
+    ],
+    "category": "Text",
+    "text": "Kẻ $SH \\perp AD \\Rightarrow SH \\perp (ABCD)$"
+  },
+  {
+    "bbox": [
+      76,
+      1224,
+      959,
+      1269
+    ],
+    "category": "Text",
+    "text": "Gọi $O$ là giao điểm của hai đường chéo, $I$ là trung điểm của $AO$"
+  },
+  {
+    "bbox": [
+      82,
+      1286,
+      696,
+      1334
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = 2; BC = 2\\sqrt{3} \\Rightarrow AC = 4 \\Rightarrow AO = BO = 2\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1355,
+      654,
+      1400
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\Delta ABO \\text{ là tam giác đều} \\Rightarrow BI \\perp AO \\quad (1)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1419,
+      754,
+      1515
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\begin{cases} SI \\perp AO \\\\ SH \\perp AO \\end{cases} \\Rightarrow (SHI) \\perp AO \\Rightarrow AO \\perp HI \\quad (2)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1535,
+      743,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Từ (1) và (2)} \\Rightarrow H, I, B \\text{ thẳng hàng} \\Rightarrow AO \\perp HB\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1606,
+      1039,
+      1653
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Lại có } AO \\perp SH \\Rightarrow (SHB) \\text{ là mặt phẳng trung trực của đoạn thẳng } AO\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1681,
+      1203,
+      1728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow (SHB) \\perp AC, \\text{ từ } I, \\text{ kẻ } IK \\perp SB \\Rightarrow IK \\text{ là đoạn vuông góc chung của } AC \\text{ và } SB\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1752,
+      1062,
+      1846
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } BI = \\frac{\\sqrt{3}}{2} \\cdot 2 = \\sqrt{3}, \\widehat{SDH} = 60^\\circ, \\widehat{ABH} = 30^\\circ \\text{ (do tam giác } AOB \\text{ đều)}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1867,
+      837,
+      1960
+    ],
+    "category": "Formula",
+    "text": "$$\n\\tan 30^\\circ = \\frac{AH}{AB} \\Rightarrow AH = AB \\cdot \\tan 30^\\circ = \\frac{2\\sqrt{3}}{3} \\Rightarrow DH = \\frac{4\\sqrt{3}}{3}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1981,
+      1351,
+      2075
+    ],
+    "category": "Formula",
+    "text": "$$\n\\tan 60^\\circ = \\frac{SH}{DH} \\Rightarrow SH = DH \\cdot \\tan 60^\\circ = 4, BH = \\sqrt{AH^2 + AB^2} = \\frac{4\\sqrt{3}}{3}; SB = \\sqrt{SH^2 + BH^2} = \\frac{8\\sqrt{3}}{3}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2097,
+      422,
+      2134
+    ],
+    "category": "Text",
+    "text": "Xét $\\Delta BKI \\sim \\Delta BHS$, ta có"
+  },
+  {
+    "bbox": [
+      82,
+      2163,
+      492,
+      2246
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{BI}{BS} = \\frac{KI}{SH} \\Rightarrow KI = \\frac{BI \\cdot SH}{BS} = \\frac{3}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

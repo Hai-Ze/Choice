@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      199,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      153,
+      697,
+      252
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = 3x^2 - 6x - 9$ nên $y' = 0 \\Leftrightarrow \\begin{cases} x = -1 \\\\ x = 3 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      76,
+      271,
+      388,
+      316
+    ],
+    "category": "Text",
+    "text": "Bảng xét dấu của $y'$ là"
+  },
+  {
+    "bbox": [
+      162,
+      395,
+      1435,
+      523
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$3$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td></td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      584,
+      926,
+      632
+    ],
+    "category": "Text",
+    "text": "Do đó hàm số đồng biến trên mỗi khoảng $(-\\infty; -1)$ và $(3; +\\infty)$."
+  },
+  {
+    "bbox": [
+      76,
+      652,
+      1249,
+      698
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Số điểm một cầu thủ bóng rổ ghi được trong 20 trận đấu được cho ở bảng sau:"
+  },
+  {
+    "bbox": [
+      240,
+      713,
+      1329,
+      845
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm số</td><td>$[5,5;10,5)$</td><td>$[10,5;15,5)$</td><td>$[15,5;20,5)$</td><td>$[20,5;25,5)$</td></tr><tr><td>Số trận</td><td>3</td><td>9</td><td>2</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      901,
+      878,
+      945
+    ],
+    "category": "Text",
+    "text": "Hãy tìm khoảng tức phân vị của mẫu số liệu ghép nhóm trên."
+  },
+  {
+    "bbox": [
+      125,
+      964,
+      231,
+      999
+    ],
+    "category": "List-item",
+    "text": "A. 8,6."
+  },
+  {
+    "bbox": [
+      476,
+      964,
+      579,
+      999
+    ],
+    "category": "List-item",
+    "text": "B. 9,7."
+  },
+  {
+    "bbox": [
+      826,
+      964,
+      928,
+      999
+    ],
+    "category": "List-item",
+    "text": "C. 8,9."
+  },
+  {
+    "bbox": [
+      1177,
+      964,
+      1282,
+      999
+    ],
+    "category": "List-item",
+    "text": "D. 9,3."
+  },
+  {
+    "bbox": [
+      727,
+      1027,
+      842,
+      1066
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1086,
+      196,
+      1124
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1141,
+      898,
+      1187
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2; x_3; \\dots; x_{20}$ lần lượt là số trận theo thứ tự không gian"
+  },
+  {
+    "bbox": [
+      76,
+      1216,
+      1342,
+      1258
+    ],
+    "category": "Text",
+    "text": "Do $x_1, \\dots, x_3 \\in [5,5;10,5)$; $x_4, \\dots, x_{12} \\in [10,5;15,5)$; $x_{13}, x_{14} \\in [15,5;20,5)$; $x_{15}, \\dots, x_{20} \\in [20,5;25,5)$"
+  },
+  {
+    "bbox": [
+      76,
+      1287,
+      1493,
+      1367
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ hai của dãy số liệu là $\\frac{1}{2}(x_{10} + x_{11})$ thuộc nhóm $[10,5;15,5)$ nên tức phân vị thứ hai của mẫu"
+  },
+  {
+    "bbox": [
+      76,
+      1393,
+      715,
+      1510
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{số liệu là } Q_2 = 10,5 + \\frac{\\frac{20}{2} - 3}{9} (15,5 - 10,5) = 14,4\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1538,
+      1493,
+      1618
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất của dãy số liệu là $\\frac{1}{2}(x_5 + x_6)$ thuộc nhóm $[10,5;15,5)$ nên tức phân vị thứ nhất của"
+  },
+  {
+    "bbox": [
+      76,
+      1645,
+      775,
+      1762
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{mẫu số liệu là } Q_1 = 10,5 + \\frac{\\frac{20}{4} - 3}{9} (15,5 - 10,5) = 11,6\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1790,
+      1493,
+      1870
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của dãy số liệu là $\\frac{1}{2}(x_{15} + x_{16})$ thuộc nhóm $[20,5;25,5)$ nên tức phân vị thứ ba của mẫu"
+  },
+  {
+    "bbox": [
+      76,
+      1896,
+      763,
+      2015
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{số liệu là } Q_3 = 20,5 + \\frac{\\frac{3 \\cdot 20}{6} - 14}{6} (25,5 - 20,5) = 21,3\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2037,
+      873,
+      2083
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm là: $\\Delta_Q = 9,7$"
+  },
+  {
+    "bbox": [
+      76,
+      2109,
+      861,
+      2149
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Heo nghiệm của phương trình $\\tan 2x - \\tan x = 0$ là:"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      738,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

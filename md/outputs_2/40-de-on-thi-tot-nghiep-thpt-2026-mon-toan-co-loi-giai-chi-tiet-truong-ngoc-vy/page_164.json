@@ -1,0 +1,250 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      206,
+      98,
+      276,
+      131
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      556,
+      98,
+      625,
+      131
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      906,
+      98,
+      972,
+      131
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1255,
+      98,
+      1325,
+      131
+    ],
+    "category": "List-item",
+    "text": "D. 4."
+  },
+  {
+    "bbox": [
+      807,
+      155,
+      924,
+      193
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      214,
+      278,
+      251
+    ],
+    "category": "Section-header",
+    "text": "### Chọn A."
+  },
+  {
+    "bbox": [
+      157,
+      271,
+      1314,
+      323
+    ],
+    "category": "Text",
+    "text": "Vecto pháp tuyến của hai mặt phẳng $(P), (Q)$ lần lượt là $\\vec{n}_1 = (4; m; m)$, $\\vec{n}_2 = (1; -1; 0)$."
+  },
+  {
+    "bbox": [
+      157,
+      348,
+      1045,
+      445
+    ],
+    "category": "Text",
+    "text": "Góc giữa hai mặt phẳng xác định bởi $\\cos 60^\\circ = \\frac{1}{2} = \\frac{|4 - m|}{\\sqrt{16 + 2m^2}\\sqrt{2}}$."
+  },
+  {
+    "bbox": [
+      157,
+      468,
+      861,
+      511
+    ],
+    "category": "Text",
+    "text": "Biến đổi thành $m^2 + 8 = m^2 - 8m + 16$, ta được $m = 1$."
+  },
+  {
+    "bbox": [
+      157,
+      539,
+      1571,
+      696
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho $(H)$ là hình phẳng được tô đâm trong hình vẽ và được giới hạn bởi các đường $y = x - \\frac{1}{2}x^3$, $y = 0$, $x = 0$, $x = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      661,
+      712,
+      1071,
+      1042
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      1060,
+      1571,
+      1174
+    ],
+    "category": "Text",
+    "text": "Thể tích khối tròn xoay khi cho hình phẳng $(H)$ quay quanh trục $Ox$ được tính theo công thức nào sau đây?"
+  },
+  {
+    "bbox": [
+      206,
+      1194,
+      533,
+      1296
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} V = \\int_{0}^{\\sqrt{2}} \\left( x - \\frac{1}{2}x^3 \\right)^2 dx .\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1194,
+      1249,
+      1296
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} V = \\pi \\int_{0}^{\\sqrt{2}} \\left( x - \\frac{1}{2}x^3 \\right)^2 dx .\n$$"
+  },
+  {
+    "bbox": [
+      206,
+      1320,
+      541,
+      1424
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} V = \\pi \\int_{0}^{\\sqrt{2}} \\left( x - \\frac{1}{2}x^3 \\right) dx .\n$$"
+  },
+  {
+    "bbox": [
+      906,
+      1320,
+      1218,
+      1424
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} V = \\int_{0}^{\\sqrt{2}} \\left( x - \\frac{1}{2}x^3 \\right) dx .\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      1450,
+      924,
+      1488
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1509,
+      276,
+      1546
+    ],
+    "category": "Section-header",
+    "text": "### Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      1565,
+      774,
+      1668
+    ],
+    "category": "Text",
+    "text": "Thể tích của vật thể là: $V = \\pi \\int_{0}^{\\sqrt{2}} \\left( x - \\frac{1}{2}x^3 \\right)^2 dx$."
+  },
+  {
+    "bbox": [
+      157,
+      1688,
+      1571,
+      1796
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm các cạnh $AB$ và $CD$. Đặt $\\overline{BA} = \\vec{b}$, $\\overline{AC} = \\vec{c}$, $\\overline{AD} = \\vec{d}$."
+  },
+  {
+    "bbox": [
+      595,
+      1844,
+      1118,
+      2209
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2256,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

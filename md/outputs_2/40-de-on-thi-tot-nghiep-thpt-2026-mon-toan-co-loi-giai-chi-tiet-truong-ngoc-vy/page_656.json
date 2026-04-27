@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      386,
+      102,
+      1169,
+      748
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      774,
+      1319,
+      827
+    ],
+    "category": "Text",
+    "text": "Gọi phương trình đường tròn phía trên trục hoành là: $x^2 + y^2 - 2ax - 2by + c = 0$ ($a^2 + b^2 = 0$)"
+  },
+  {
+    "bbox": [
+      76,
+      853,
+      1172,
+      901
+    ],
+    "category": "Text",
+    "text": "Đường tròn đi qua các điểm có tọa độ: $(0;12), (16;10), (-16;10)$ nên ta có hệ sau:"
+  },
+  {
+    "bbox": [
+      76,
+      928,
+      1039,
+      1075
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 0+144-24b+c=0 \\\\ 256+100-32a-20b+c=0 \\\\ 256+100+32a-20b+c=0 \\end{cases} \\Leftrightarrow \\begin{cases} 24b-c=144 \\\\ 32a+20b-c=356 \\\\ -32a+20b-c=356 \\end{cases} \\Leftrightarrow \\begin{cases} a=0 \\\\ b=-53 \\\\ c=1416 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1104,
+      1296,
+      1155
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình đường tròn là: $x^2 + y^2 + 106y - 1416 = 0$ hay $x^2 + (y+53)^2 = 4225 = 65^2$"
+  },
+  {
+    "bbox": [
+      76,
+      1182,
+      1127,
+      1236
+    ],
+    "category": "Text",
+    "text": "Xét half đường tròn phía trên trục hoành có phương trình: $y = \\sqrt{4225 - x^2} - 53$"
+  },
+  {
+    "bbox": [
+      76,
+      1253,
+      1495,
+      1372
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của bình rược chính là thể tích khối tròn xoay tạo bởi phần hình phẳng giới hạn bởi đồ thị hàm số $y = \\sqrt{4225 - x^2} - 53$, trục hoành và hai đường thẳng $x = -16, x = 16$ quay quanh trục $Ox$."
+  },
+  {
+    "bbox": [
+      76,
+      1396,
+      1035,
+      1492
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{-16}^{16} \\left( \\sqrt{4225 - x^2} - 53 \\right)^2 dx = 12957 \\text{cm}^3 = 12,957 \\text{dm}^3 = 12,957 \\text{ (lít)}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1512,
+      1047,
+      1558
+    ],
+    "category": "Text",
+    "text": "Kết quả lấy đến chữ số hàng phần chục và không làm tròn thì là 12,9 lít."
+  },
+  {
+    "bbox": [
+      76,
+      1576,
+      1495,
+      1838
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một người muốn tạo một集合待定 của khối lăng trụ tam giác đều, không có nắp bằng cách cắt ba góc của một tam giác đều cạnh bằng $a$ các đoạn bằng $x$, ($0 < x < \\frac{a}{2}$) như hình vẽ, rồi gấp lại tạo thành khối lăng trụ tam giác đều. Thể tích khối lăng trụ lớn nhất khi $x = \\frac{a}{b}$. Tìm $b$."
+  },
+  {
+    "bbox": [
+      460,
+      1859,
+      1106,
+      2188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

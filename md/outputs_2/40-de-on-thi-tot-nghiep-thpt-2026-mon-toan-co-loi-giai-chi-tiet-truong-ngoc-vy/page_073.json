@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1244,
+      145
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của xe khách ở phút thứ 20 là $v(20) = 20 \\cdot 20 + 800 = 1200$ (mét/phút)"
+  },
+  {
+    "bbox": [
+      155,
+      167,
+      1083,
+      212
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường chuyển động của xe khách trong 30 phút khảo sát là:"
+  },
+  {
+    "bbox": [
+      160,
+      229,
+      1383,
+      423
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\ns &= \\int_{0}^{30} v(t) dt = \\int_{0}^{10} v(t) dt + \\int_{10}^{20} v(t) dt + \\int_{20}^{30} v(t) dt = \\int_{0}^{10} 100t dt + \\int_{10}^{20} (20t + 800) dt + \\int_{20}^{30} (-10t + 1400) dt \\\\\n&= 50t^2 \\Big|_{0}^{10} + (10t^2 + 800t) \\Big|_{10}^{20} + (-5t^2 + 1400t) \\Big|_{20}^{30} = 27500 (m)\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      448,
+      1459,
+      531
+    ],
+    "category": "Text",
+    "text": "d) Vận tốc trung bình của xe khách trong 30 phút khảo sát là: $v_{tb} = \\frac{s}{30} = \\frac{27500}{30} \\approx 917$ (mét /phút)."
+  },
+  {
+    "bbox": [
+      155,
+      606,
+      808,
+      647
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      662,
+      1574,
+      882
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty kinh doanh bất động sản có 20 căn hộ cho thuê. Biết rằng nếu cho thuê mỗi căn hộ với giá 2 triệu đồng/1 tháng thì tất cả các căn hộ đều có người thuê. Nhưng cứ mỗi lần tăng giá cho thuê mỗi căn hộ thêm 200 nghìn đồng/1 tháng thì có thêm một căn hộ bị bỏ trống. Hỏi công ty nên cho thuê mỗi căn hộ bao nhiêu triệu đồng/1 tháng để tổng số tiền thu được là lớn nhất?"
+  },
+  {
+    "bbox": [
+      609,
+      896,
+      1119,
+      1231
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1251,
+      493,
+      1286
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      808,
+      1310,
+      924,
+      1348
+    ],
+    "category": "Section-header",
+    "text": "### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1367,
+      298,
+      1404
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 3"
+  },
+  {
+    "bbox": [
+      155,
+      1418,
+      1491,
+      1464
+    ],
+    "category": "Text",
+    "text": "Cứ tăng thêm 200 nghìn đồng vào giá thuê một căn hộ trên một tháng thì có một căn hộ bị bỏ trống."
+  },
+  {
+    "bbox": [
+      155,
+      1482,
+      1303,
+      1536
+    ],
+    "category": "Text",
+    "text": "Gọi số lần tăng 200 nghìn đồng vào giá thuê một căn hộ trên một tháng là $x(x \\in \\mathbb{N}^*)$."
+  },
+  {
+    "bbox": [
+      155,
+      1558,
+      689,
+      1602
+    ],
+    "category": "Text",
+    "text": "Khi đó $x$ cũng là số căn hộ bị bỏ trống."
+  },
+  {
+    "bbox": [
+      155,
+      1616,
+      698,
+      1661
+    ],
+    "category": "Text",
+    "text": "Tổng số tiền công ty thu được lúc này là"
+  },
+  {
+    "bbox": [
+      155,
+      1679,
+      1121,
+      1730
+    ],
+    "category": "Formula",
+    "text": "$$\nT(x) = (2000 + 200x)(20 - x) = -200x^2 + 2000x + 40000 \\text{ (nghìn đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1754,
+      898,
+      1804
+    ],
+    "category": "Text",
+    "text": "Xét hàm số $T(x) = -200x^2 + 2000x + 40000$ với $x \\in \\mathbb{N}^*$"
+  },
+  {
+    "bbox": [
+      155,
+      1833,
+      512,
+      1880
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow T'(x) = -400x^2 + 2000\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1890,
+      331,
+      1936
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow T'(x) = 0\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1948,
+      455,
+      1987
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -400x^2 + 2000 = 0\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2002,
+      371,
+      2047
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow x = 5 \\text{ (nhan)}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2073,
+      737,
+      2121
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên của hàm số $T(x)$ như sau:"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

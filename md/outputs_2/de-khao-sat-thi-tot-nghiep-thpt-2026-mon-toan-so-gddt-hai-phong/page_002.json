@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      126,
+      95,
+      1165,
+      146
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho số thực $a > 0$. Biểu thức $\\log(1000a)$ bằng biểu thức nào dưới đây?"
+  },
+  {
+    "bbox": [
+      163,
+      163,
+      354,
+      202
+    ],
+    "category": "List-item",
+    "text": "A. $1000 \\log a$."
+  },
+  {
+    "bbox": [
+      517,
+      163,
+      650,
+      202
+    ],
+    "category": "List-item",
+    "text": "B. $3 \\log a$."
+  },
+  {
+    "bbox": [
+      868,
+      163,
+      1072,
+      202
+    ],
+    "category": "List-item",
+    "text": "C. $1000+\\log a$."
+  },
+  {
+    "bbox": [
+      1229,
+      163,
+      1394,
+      202
+    ],
+    "category": "List-item",
+    "text": "D. $3+\\log a$."
+  },
+  {
+    "bbox": [
+      126,
+      215,
+      1216,
+      265
+    ],
+    "category": "Text",
+    "text": "Câu 8. Nếu cấp số cộng $(u_n)$ có số hạng thứ $n$ là $u_n = 3+5n$ thì công sai $d$ bằng"
+  },
+  {
+    "bbox": [
+      163,
+      282,
+      239,
+      315
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      517,
+      282,
+      589,
+      315
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      868,
+      282,
+      966,
+      315
+    ],
+    "category": "List-item",
+    "text": "C. -2."
+  },
+  {
+    "bbox": [
+      1229,
+      282,
+      1305,
+      315
+    ],
+    "category": "List-item",
+    "text": "D. 8."
+  },
+  {
+    "bbox": [
+      126,
+      324,
+      1523,
+      420
+    ],
+    "category": "Text",
+    "text": "Câu 9. Một cửa hàng quần áo khảo sát một số khách hàng xem họ dự định mua quần áo cho trẻ em với mức giá nào (đơn vị: nghìn đồng). Kết quả khảo sát được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      126,
+      424,
+      1503,
+      544
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức giá</td><td>[60;90)</td><td>[90;120)</td><td>[120;150)</td><td>[150;180)</td><td>[180;210)</td><td>[210;240)</td><td>[240;270)</td><td>[270;300)</td></tr><tr><td>Số khách hàng</td><td>20</td><td>65</td><td>40</td><td>25</td><td>12</td><td>10</td><td>8</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      126,
+      555,
+      1523,
+      661
+    ],
+    "category": "Text",
+    "text": "Khoảng $[a;b), (a,b \\in \\mathbb{R})$ chứa tức phân vị thứ nhất của mẫu số liệu ghép nhóm trên. Tính tổng $S = a+b$ được kết quả là"
+  },
+  {
+    "bbox": [
+      163,
+      672,
+      273,
+      705
+    ],
+    "category": "List-item",
+    "text": "A. 210."
+  },
+  {
+    "bbox": [
+      517,
+      672,
+      608,
+      705
+    ],
+    "category": "List-item",
+    "text": "B. 90."
+  },
+  {
+    "bbox": [
+      868,
+      672,
+      970,
+      705
+    ],
+    "category": "List-item",
+    "text": "C. 150."
+  },
+  {
+    "bbox": [
+      1229,
+      672,
+      1339,
+      705
+    ],
+    "category": "List-item",
+    "text": "D. 120."
+  },
+  {
+    "bbox": [
+      126,
+      718,
+      1523,
+      826
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hàm số $f(x) = ax^3+bx^2+cx+d$ có đồ thị như hình vẽ và $a,b,c,d$ là các số thực. Khẳng định nào sau đây là đúng"
+  },
+  {
+    "bbox": [
+      614,
+      829,
+      1024,
+      1258
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      163,
+      1267,
+      308,
+      1300
+    ],
+    "category": "List-item",
+    "text": "A. $ad > 0$."
+  },
+  {
+    "bbox": [
+      517,
+      1267,
+      694,
+      1300
+    ],
+    "category": "List-item",
+    "text": "B. $a+d < 0$."
+  },
+  {
+    "bbox": [
+      868,
+      1267,
+      1045,
+      1300
+    ],
+    "category": "List-item",
+    "text": "C. $a+d > 0$."
+  },
+  {
+    "bbox": [
+      1229,
+      1267,
+      1374,
+      1300
+    ],
+    "category": "List-item",
+    "text": "D. $ad < 0$."
+  },
+  {
+    "bbox": [
+      126,
+      1317,
+      1523,
+      1424
+    ],
+    "category": "Text",
+    "text": "Câu 11. Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$ và $B(2;-1;1)$. Phương trình của mặt phẳng đi qua điểm $A$ và vuông góc với $AB$ là"
+  },
+  {
+    "bbox": [
+      163,
+      1433,
+      468,
+      1472
+    ],
+    "category": "List-item",
+    "text": "A. $x-3y-2z+13=0$."
+  },
+  {
+    "bbox": [
+      517,
+      1433,
+      822,
+      1472
+    ],
+    "category": "List-item",
+    "text": "B. $x-3y-2z+11=0$."
+  },
+  {
+    "bbox": [
+      868,
+      1433,
+      1162,
+      1472
+    ],
+    "category": "List-item",
+    "text": "C. $x-3y+2z-1=0$."
+  },
+  {
+    "bbox": [
+      1229,
+      1433,
+      1501,
+      1472
+    ],
+    "category": "List-item",
+    "text": "D. $x+3y-2z+1=0$."
+  },
+  {
+    "bbox": [
+      126,
+      1487,
+      799,
+      1528
+    ],
+    "category": "Text",
+    "text": "Câu 12. Tập nghiệm của phương trình $\\cos x = 0$ là"
+  },
+  {
+    "bbox": [
+      163,
+      1563,
+      536,
+      1608
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\{\\pi + k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      868,
+      1537,
+      1251,
+      1630
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\{\\frac{\\pi}{4} + k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      163,
+      1666,
+      485,
+      1713
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\{k2\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      868,
+      1645,
+      1238,
+      1738
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\{\\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      126,
+      1746,
+      1523,
+      1842
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai (4,0 điểm). (Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.)"
+  },
+  {
+    "bbox": [
+      126,
+      1845,
+      1523,
+      1996
+    ],
+    "category": "Text",
+    "text": "Câu 1. Một tổ cắt vải của một công ty may mặc có hai chiếc máy. Xác suất để máy thứ nhất, máy thứ hai hoạt động ổn định lần lượt là 0,95 và 0,98. Biết việc hoạt động ổn định hay không ổn định của hai chiếc máy là độc lập với nhau và tổ cắt vải hoạt động bình thường được khi ít nhất một máy hoạt động ổn định."
+  },
+  {
+    "bbox": [
+      163,
+      1999,
+      944,
+      2044
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất máy thứ nhất hoạt động không ổn định là 0,05."
+  },
+  {
+    "bbox": [
+      163,
+      2053,
+      889,
+      2100
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất chi có một máy hoạt động ổn định là 0,06."
+  },
+  {
+    "bbox": [
+      163,
+      2109,
+      966,
+      2156
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất cả hai máy đều không hoạt động ổn định là 0,01."
+  },
+  {
+    "bbox": [
+      163,
+      2165,
+      923,
+      2212
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để tổ cắt vải hoạt động bình thường là 0,999."
+  },
+  {
+    "bbox": [
+      126,
+      2243,
+      282,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0107"
+  },
+  {
+    "bbox": [
+      1392,
+      2243,
+      1523,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

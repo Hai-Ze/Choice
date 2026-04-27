@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOẤN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      563,
+      111,
+      1219,
+      637
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      639,
+      1380,
+      685
+    ],
+    "category": "Text",
+    "text": "a) Phương trình mặt cầu thể hiện vùng phủ sóng của Radar là $x^2 + y^2 + z^2 = 417$"
+  },
+  {
+    "bbox": [
+      212,
+      691,
+      1177,
+      734
+    ],
+    "category": "Text",
+    "text": "b) Radar phát hiện một quả tên lửa ngay tại vị trí được phóng lên"
+  },
+  {
+    "bbox": [
+      212,
+      734,
+      1574,
+      826
+    ],
+    "category": "Text",
+    "text": "c) Giả sử hệ thống \"Vòm sắt\" gặp trục trặc không thể bắn hạ quả tên lửa khi đó vị trí cuối cùng quả tên lửa xuất hiện trên màn hình radar là $B(415; -40; -8)$"
+  },
+  {
+    "bbox": [
+      212,
+      832,
+      1574,
+      925
+    ],
+    "category": "Text",
+    "text": "d) Nếu hệ thống gặp trục trặc không bắn hạ được tên lửa thì khoảng cách gần nhất từ hệ thống \"vòm sắt\" đến quả tên lửa là $\\approx 190$ km"
+  },
+  {
+    "bbox": [
+      833,
+      928,
+      953,
+      969
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      971,
+      1528,
+      1018
+    ],
+    "category": "Text",
+    "text": "a) Sai: Phương trình mặt cầu tâm $O(0;0;0)$, bán kính $R = 417$ là $(S): x^2 + y^2 + z^2 = 417^2$ (*)"
+  },
+  {
+    "bbox": [
+      212,
+      1026,
+      1165,
+      1072
+    ],
+    "category": "Text",
+    "text": "b) Sai: Thay tọa độ $A(688;185; -8)$ vào phương trình (*) ta được:"
+  },
+  {
+    "bbox": [
+      296,
+      1081,
+      1494,
+      1133
+    ],
+    "category": "Formula",
+    "text": "$$\n688^2 + 185^2 + (-8)^2 = 507633 > 417^2 \\text{ suy ra điểm } A(688;185; -8) \\text{ nằm ngoài mặt cầu.}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1141,
+      1349,
+      1287
+    ],
+    "category": "Text",
+    "text": "c) Sai: Quỹ đạo của tên lửa là đường thẳng có phương trình $d: \\begin{cases} x = 688 - 91t \\\\ y = 185 - 75t \\\\ z = -8 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      212,
+      1298,
+      1574,
+      1399
+    ],
+    "category": "Text",
+    "text": "Giả sử điểm $B(688 - 91t; 185 - 75t; -8)$ là điểm đầu tiên trên màn hình radar phát hiện ra quả tên lửa khi đó điểm $B$ nằm trên mặt cầu $(S): x^2 + y^2 + z^2 = 417^2$. Khi đó:"
+  },
+  {
+    "bbox": [
+      212,
+      1405,
+      1378,
+      1503
+    ],
+    "category": "Formula",
+    "text": "$$\n(688 - 91t)^2 + (185 - 75t)^2 + (-8)^2 = 417^2 \\Leftrightarrow 13906t^2 - 152966t + 333744 = 0 \\Leftrightarrow \\begin{bmatrix} t = 8 \\\\ t = 3 \\end{bmatrix}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1507,
+      1325,
+      1567
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = 8 \\text{ suy ra } B(-40; -415; -8) \\text{ khi đó } \\overrightarrow{AB} = (-728; -600; 0) \\Rightarrow |\\overrightarrow{AB}| \\approx 943,39\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1573,
+      1297,
+      1633
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } t = 3 \\text{ suy ra } B(415; -40; -8) \\text{ khi đó } \\overrightarrow{AB} = (-273; -225; 0) \\Rightarrow |\\overrightarrow{AB}| \\approx 353,77\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1641,
+      1552,
+      1687
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } 353,77 < 943,39 \\text{ nên vị trí cuối cùng quả tên lửa xuất hiện trên Radar là } B(-40; -415; -8)\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1693,
+      1398,
+      1742
+    ],
+    "category": "Text",
+    "text": "d) Sai: Gọi $H(688 - 91t; 185 - 75t; -8)$ là vị trị hệ thống \"vòm sắt\" gần quả tên lửa."
+  },
+  {
+    "bbox": [
+      212,
+      1748,
+      1274,
+      1892
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Khi đó để } \\overrightarrow{OH} \\text{ nhỏ nhất khi và chỉ khi } \\overrightarrow{OH} \\perp \\vec{u} = (-91; -75; 0) \\Leftrightarrow \\overrightarrow{OH} \\cdot \\vec{u} = 0 \\\\ \\Leftrightarrow (688 - 91t) \\cdot (-91) + (185 - 75t) \\cdot (-75) = 0 \\Leftrightarrow 13906t - 76483 = 0 \\Leftrightarrow t = \\frac{11}{2} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1898,
+      1218,
+      2001
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } H\\left(\\frac{375}{2}; -\\frac{455}{2}; -8\\right), |\\overrightarrow{OH}| = \\sqrt{\\left(\\frac{375}{2}\\right)^2 + \\left(-\\frac{455}{2}\\right)^2 + (-8)^2} \\approx 295 \\text{ km.}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2003,
+      749,
+      2048
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6"
+  },
+  {
+    "bbox": [
+      74,
+      2054,
+      1574,
+      2233
+    ],
+    "category": "List-item",
+    "text": "Câu 1: Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình chữ nhật và $AB = 3$, $AD = 1$. Biết $SA = 2$ và vuông góc với mặt phẳng đáy. Gọi $M$ là điểm thuộc đoạn thẳng $DC$ sao cho $DC = 3DM$. Tính khoảng cách giữa hai đường thẳng $BM$ và $SD$. (Kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

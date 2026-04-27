@@ -1,0 +1,442 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      617,
+      94,
+      951,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      135,
+      1373,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      199,
+      1493,
+      314
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số cộng $(u_n)$ với $u_1 = 3$ và $d = -3$. Tổng 10 số hạng đầu tiên của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      125,
+      333,
+      222,
+      367
+    ],
+    "category": "List-item",
+    "text": "A. 26."
+  },
+  {
+    "bbox": [
+      476,
+      333,
+      585,
+      367
+    ],
+    "category": "List-item",
+    "text": "B. -26."
+  },
+  {
+    "bbox": [
+      827,
+      333,
+      956,
+      367
+    ],
+    "category": "List-item",
+    "text": "C. -105."
+  },
+  {
+    "bbox": [
+      1175,
+      333,
+      1280,
+      367
+    ],
+    "category": "List-item",
+    "text": "D. 105."
+  },
+  {
+    "bbox": [
+      727,
+      393,
+      843,
+      430
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      450,
+      198,
+      487
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      509,
+      707,
+      552
+    ],
+    "category": "Text",
+    "text": "Ta có: $S_{10} = 10 \\cdot u_1 + 45 \\cdot d = 30 + 45 \\cdot (-3) = -105$."
+  },
+  {
+    "bbox": [
+      76,
+      576,
+      1123,
+      620
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trên đoạn $[0;3]$, hàm số $y = x^3 - 3x + 4$ đạt giá trị nhỏ nhất tại điểm"
+  },
+  {
+    "bbox": [
+      115,
+      647,
+      238,
+      681
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      470,
+      647,
+      595,
+      681
+    ],
+    "category": "List-item",
+    "text": "B. $x = 0$."
+  },
+  {
+    "bbox": [
+      777,
+      647,
+      901,
+      681
+    ],
+    "category": "List-item",
+    "text": "C. $x = 3$."
+  },
+  {
+    "bbox": [
+      1158,
+      647,
+      1287,
+      681
+    ],
+    "category": "List-item",
+    "text": "D. $x = 2$."
+  },
+  {
+    "bbox": [
+      727,
+      707,
+      843,
+      744
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      764,
+      198,
+      801
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      822,
+      319,
+      865
+    ],
+    "category": "Text",
+    "text": "Ta có $y' = 3x^2 - 3$"
+  },
+  {
+    "bbox": [
+      82,
+      890,
+      405,
+      985
+    ],
+    "category": "Formula",
+    "text": "$$\ny' = 0 \\Leftrightarrow \\begin{cases} x = 1 \\in [0;3] \\\\ x = -1 \\notin [0;3] \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1010,
+      549,
+      1050
+    ],
+    "category": "Text",
+    "text": "Lại có $y(0) = 4$; $y(1) = 2$; $y(3) = 22$."
+  },
+  {
+    "bbox": [
+      76,
+      1077,
+      417,
+      1118
+    ],
+    "category": "Text",
+    "text": "Vậy $\\min_{[0;3]} y = y(1) = 2$."
+  },
+  {
+    "bbox": [
+      76,
+      1147,
+      1219,
+      1244
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Biết $\\int_{0}^{9} f(x)dx = 7$ và $\\int_{9}^{0} g(x)dx = 1$. Khi đó $I = \\int_{0}^{9} [2f(x) + 3g(x)]dx$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      1270,
+      264,
+      1304
+    ],
+    "category": "List-item",
+    "text": "A. $I = 11$."
+  },
+  {
+    "bbox": [
+      476,
+      1270,
+      615,
+      1304
+    ],
+    "category": "List-item",
+    "text": "B. $I = 17$."
+  },
+  {
+    "bbox": [
+      827,
+      1270,
+      966,
+      1304
+    ],
+    "category": "List-item",
+    "text": "C. $I = 23$."
+  },
+  {
+    "bbox": [
+      1175,
+      1270,
+      1302,
+      1304
+    ],
+    "category": "List-item",
+    "text": "D. $I = 8$."
+  },
+  {
+    "bbox": [
+      727,
+      1330,
+      843,
+      1367
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1388,
+      198,
+      1425
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1445,
+      801,
+      1540
+    ],
+    "category": "Text",
+    "text": "Ta có: $I = 2 \\int_{0}^{9} f(x)dx + 3 \\int_{0}^{9} g(x)dx = 2 \\cdot 7 + 3 \\cdot (-1) = 11$."
+  },
+  {
+    "bbox": [
+      76,
+      1562,
+      1493,
+      1665
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Hằng ngày ông Thắng đều đi xe buýt từ nhà đến cơ quan. Dưới đây là bảng thống kê thời gian của 100 lần ông Thắng đi xe buýt từ nhà đến cơ quan."
+  },
+  {
+    "bbox": [
+      91,
+      1679,
+      1481,
+      1811
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[15;18)</td><td>[18;21)</td><td>[21;24)</td><td>[24;27)</td><td>[27;30)</td><td>[30;33)</td></tr><tr><td>Số lượt</td><td>22</td><td>38</td><td>27</td><td>8</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1865,
+      1302,
+      1909
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu ghép nhóm trên (làm tròn kết quả đến hàng phần trăm) là"
+  },
+  {
+    "bbox": [
+      125,
+      1929,
+      264,
+      1963
+    ],
+    "category": "List-item",
+    "text": "A. 18, 24."
+  },
+  {
+    "bbox": [
+      476,
+      1929,
+      615,
+      1963
+    ],
+    "category": "List-item",
+    "text": "B. 17, 24."
+  },
+  {
+    "bbox": [
+      827,
+      1929,
+      966,
+      1963
+    ],
+    "category": "List-item",
+    "text": "C. 22, 67."
+  },
+  {
+    "bbox": [
+      1175,
+      1929,
+      1316,
+      1963
+    ],
+    "category": "List-item",
+    "text": "D. 20, 67."
+  },
+  {
+    "bbox": [
+      727,
+      1993,
+      843,
+      2030
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2052,
+      198,
+      2089
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      76,
+      2105,
+      308,
+      2142
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu $n = 100$."
+  },
+  {
+    "bbox": [
+      76,
+      2165,
+      1222,
+      2210
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1; x_2; \\dots; x_{100}$ là mẫu số liệu gốc gồm thời gian 100 lần đi xe buýt của ông Thắng."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

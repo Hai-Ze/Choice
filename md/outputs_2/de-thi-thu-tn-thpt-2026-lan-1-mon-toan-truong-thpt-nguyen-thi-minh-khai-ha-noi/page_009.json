@@ -1,0 +1,192 @@
+[
+  {
+    "bbox": [
+      252,
+      116,
+      387,
+      157
+    ],
+    "category": "Section-header",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      193,
+      776,
+      243
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\overrightarrow{A'B}(0;10;-5)$; $\\overrightarrow{A'C}(20;10;-5)$"
+  },
+  {
+    "bbox": [
+      255,
+      284,
+      1140,
+      344
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{n}_{(A'BC)} = [\\overrightarrow{A'B}, \\overrightarrow{A'C}] = (0; -100; -200). \\text{ Nên chọn } \\vec{n}_{(A'BC)} = (0;1;2).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      386,
+      986,
+      434
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(A'BC)$ có phương trình là: $y + 2z - 10 = 0$"
+  },
+  {
+    "bbox": [
+      252,
+      471,
+      390,
+      512
+    ],
+    "category": "Section-header",
+    "text": "d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      544,
+      1504,
+      634
+    ],
+    "category": "Text",
+    "text": "Trên dây $A'C$ một điểm sáng $M$ chuyển động đều từ $A'$ đến $C$ với vận tốc $3m/s$ nên sau $t$ giây ta có:"
+  },
+  {
+    "bbox": [
+      255,
+      668,
+      1006,
+      759
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{A'M} = \\frac{3t}{\\sqrt{525}} \\overrightarrow{A'C}, \\text{ suy ra } M\\left(\\frac{60t}{\\sqrt{525}}; \\frac{30t}{\\sqrt{525}}; 5 - \\frac{15t}{\\sqrt{525}}\\right).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      796,
+      1529,
+      882
+    ],
+    "category": "Text",
+    "text": "Trên dây $BD'$, điểm sáng $N$ chuyển động đều từ $B$ đến $D'$ với vận tốc $2m/s$ nên sau $t$ giây ta có:"
+  },
+  {
+    "bbox": [
+      255,
+      922,
+      995,
+      1013
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{BN} = \\frac{2t}{\\sqrt{525}} \\overrightarrow{BD'}, \\text{ suy ra } N\\left(\\frac{40t}{\\sqrt{525}}; 10 - \\frac{20t}{\\sqrt{525}}; \\frac{10t}{\\sqrt{525}}\\right).\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1049,
+      1506,
+      1095
+    ],
+    "category": "Text",
+    "text": "Do $M$ có vận tốc lấn hơn $N$ mà quăng đường bằng nhau nên điểm sáng $M$ sẽ về đích trước."
+  },
+  {
+    "bbox": [
+      252,
+      1100,
+      902,
+      1195
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thời gian để } M \\text{ về đích là } t_0 = \\frac{\\sqrt{525}}{3} \\approx 7,64(s)\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1233,
+      972,
+      1278
+    ],
+    "category": "Text",
+    "text": "Bài toán tương đương với tìm $t \\le t_0$ để $MN$ nhỏ nhất."
+  },
+  {
+    "bbox": [
+      255,
+      1321,
+      1203,
+      1432
+    ],
+    "category": "Formula",
+    "text": "$$\nMN = \\sqrt{\\frac{400t^2}{525} + \\left(10 - \\frac{50t}{\\sqrt{525}}\\right)^2 + \\left(\\frac{25t}{\\sqrt{525}} - 5\\right)^2} = \\sqrt{\\frac{3525}{525}t^2 - \\frac{1250t}{\\sqrt{525}} + 125}\n$$"
+  },
+  {
+    "bbox": [
+      255,
+      1477,
+      795,
+      1521
+    ],
+    "category": "Formula",
+    "text": "$$\nMN_{\\min} \\approx 3,77 \\text{ khi } t \\approx 4,063 \\text{ (thỏa mãn).}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1557,
+      1550,
+      1700
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một lon sữa cho trẻ em được lấy ra khỏi tử lang và đặt trên bàn để rã đông. Nhiệt độ của lon sữa tại thời điểm lấy ra khỏi tử lang là $-4^\\circ C$, và sau $t$ giờ, tốc độ tăng nhiệt độ của lon sữa được cho bởi công thức $T'(t) = 7 \\cdot e^{-0,35t} (^\\circ C / \\text{giờ})$ cho đến khi lon sữa đạt nhiệt độ môi trường là $10^\\circ C$"
+  },
+  {
+    "bbox": [
+      252,
+      1736,
+      1550,
+      1833
+    ],
+    "category": "Text",
+    "text": "a) Sau 2 giờ, tốc độ thay đổi nhiệt độ của lon sữa bằng $3,48^\\circ C / \\text{giờ}$ (Làm tròn kết quả đến hai chữ số thập phân)."
+  },
+  {
+    "bbox": [
+      252,
+      1833,
+      1546,
+      1931
+    ],
+    "category": "Text",
+    "text": "b) Nhiệt độ của lon sữa tính từ thời điểm lấy ra khỏi tử lang cho đến khi lon sữa đạt nhiệt độ môi trường được tính bởi công thức $T(t) = -20 \\cdot e^{-0,35t}$."
+  },
+  {
+    "bbox": [
+      252,
+      1939,
+      1504,
+      2037
+    ],
+    "category": "Text",
+    "text": "c) Thời gian để lon sữa đạt nhiệt độ môi trường là 3,44 giờ. (Làm tròn kết quả đến hai chữ số thập phân của giờ)."
+  },
+  {
+    "bbox": [
+      252,
+      2037,
+      1550,
+      2132
+    ],
+    "category": "Text",
+    "text": "d) Ngay sau khi đạt nhiệt độ môi trường, lon sữa được đưa vào máy hâm sữa. Tốc độ tăng nhiệt độ của lon sữa trong máy sau $t$ giờ được xác định bởi: $L'(t) = k \\cdot e^{-0,22t}$ ($k$ là hằng số). Lon sữa"
+  }
+]

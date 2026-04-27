@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      266,
+      124,
+      1646,
+      588
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      608,
+      1501,
+      790
+    ],
+    "category": "Text",
+    "text": "Ta nhận thấy như sau: Khi trải phẳng hình như trên; độ dài của đoạn dây điện vẫn được bảo toàn; đồng thời nhìn vào hình vẽ trên ta thấy được độ dài đoạn dây điện sẽ lớn hơn hoặc bằng độ dài đoạn $AB$ khi trải hình như trên. Như vậy; ta đi tính độ dài đoạn $AB$ khi trai hình như trên."
+  },
+  {
+    "bbox": [
+      250,
+      817,
+      1195,
+      866
+    ],
+    "category": "Text",
+    "text": "Lấy $O'$ là hình chiếu của $A$ lên $B_1D_1$. $P$ là hình chiếu của $B$ lên $F_1G_1$."
+  },
+  {
+    "bbox": [
+      250,
+      897,
+      1533,
+      995
+    ],
+    "category": "Text",
+    "text": "Khi đó $AO'$ ở hình vẽ trên cũng chính bằng khoảng cách từ điểm $A$ của đề lên $Oy$ và nó cũng bằng $2,5$. Tương tự $BP = 1$."
+  },
+  {
+    "bbox": [
+      255,
+      1024,
+      1217,
+      1072
+    ],
+    "category": "Text",
+    "text": "$O'B_1$ sẽ bằng khoảng cách từ $A$ đến $Oz$ và bằng $1$. Tương tự $F_1P = 0,5$."
+  },
+  {
+    "bbox": [
+      250,
+      1099,
+      1482,
+      1184
+    ],
+    "category": "Text",
+    "text": "Ta có độ dài $B_1F_1 = A_1I_1 + I_1J_1 + J_1K_1 + K_1L_1 + L_1E_1 = 4 + 0,2 \\cdot 2 = 4,4 \\Rightarrow O'P = 1,5 + 4,4 = 5,9$."
+  },
+  {
+    "bbox": [
+      250,
+      1207,
+      1253,
+      1258
+    ],
+    "category": "Text",
+    "text": "Do đó nên theo định lý Pytago ta có $AB = \\sqrt{O'P^2 + (AO' - BP)^2} \\approx 6,09$."
+  },
+  {
+    "bbox": [
+      250,
+      1275,
+      971,
+      1321
+    ],
+    "category": "Text",
+    "text": "Vậy nên độ dài đoạn dây điện tối thiểu xấp xỉ $6,09$ m."
+  },
+  {
+    "bbox": [
+      113,
+      1343,
+      1133,
+      1425
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Với $a,b,c$ là các số thực thỏa mãn $\\frac{3}{8} < a < 1$; $\\frac{1}{3} < b < 1$; $\\frac{1}{8} < c < 1$."
+  },
+  {
+    "bbox": [
+      250,
+      1428,
+      1455,
+      1516
+    ],
+    "category": "Text",
+    "text": "Tính giá trị nhỏ nhất của biểu thức $P = 4 \\log_a \\left( \\frac{3b}{4} - \\frac{1}{4} \\right) + 3 \\log_b \\left( \\frac{c}{2} - \\frac{1}{16} \\right) + 6 \\log_c \\left( \\frac{a}{2} - \\frac{3}{16} \\right)$."
+  },
+  {
+    "bbox": [
+      835,
+      1543,
+      951,
+      1582
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      1588,
+      412,
+      1627
+    ],
+    "category": "Text",
+    "text": "Đáp án: 36"
+  },
+  {
+    "bbox": [
+      250,
+      1636,
+      1186,
+      1730
+    ],
+    "category": "Text",
+    "text": "+ Ta có $b^3 - \\frac{3b-1}{4} = \\frac{4b^3 - 3b + 1}{4} = \\frac{(2b-1)^2(b+1)}{4} \\ge 0 \\Rightarrow \\frac{3b-1}{4} \\le b^3$."
+  },
+  {
+    "bbox": [
+      250,
+      1739,
+      958,
+      1827
+    ],
+    "category": "Text",
+    "text": "Vì $a < 1$ nên $4 \\log_a \\left( \\frac{3b-1}{4} \\right) \\ge 4 \\log_a (b^3) = 12 \\log_a b$."
+  },
+  {
+    "bbox": [
+      250,
+      1841,
+      1130,
+      1933
+    ],
+    "category": "Text",
+    "text": "+ Ta có $c^2 - \\left( \\frac{c}{2} - \\frac{1}{16} \\right) = c^2 - \\frac{c}{2} + \\frac{1}{16} = \\left( c - \\frac{1}{4} \\right)^2 \\ge 0 \\Rightarrow \\frac{c}{2} - \\frac{1}{16} \\le c^2$."
+  },
+  {
+    "bbox": [
+      250,
+      1946,
+      945,
+      2033
+    ],
+    "category": "Text",
+    "text": "Vì $b < 1$ nên $3 \\log_b \\left( \\frac{c}{2} - \\frac{1}{16} \\right) \\ge 3 \\log_b (c^2) = 6 \\log_b c$."
+  },
+  {
+    "bbox": [
+      250,
+      2044,
+      748,
+      2132
+    ],
+    "category": "Text",
+    "text": "+ Ta có $a^4 - \\left( \\frac{a}{2} - \\frac{3}{16} \\right) = a^4 - \\frac{a}{2} + \\frac{3}{16}$."
+  }
+]

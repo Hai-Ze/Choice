@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      1156,
+      151
+    ],
+    "category": "Text",
+    "text": "d) Đường tròn giao tuyến của mặt phẳng $(P)$ và mặt cầu $(S)$ có chu vi là $\\pi\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      727,
+      175,
+      844,
+      214
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      229,
+      894,
+      351
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      351,
+      896,
+      549
+    ],
+    "category": "Text",
+    "text": "a) $(S): x^2 + y^2 + z^2 - 2x + 4y - 6z + 5 = 0$ nên ta có: $\\begin{cases} a = 1 \\\\ b = -2 \\\\ c = 3 \\\\ d = 5 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      76,
+      573,
+      612,
+      623
+    ],
+    "category": "Text",
+    "text": "Vậy tâm của mặt cầu $(S)$ là $I(1; -2; 3)$."
+  },
+  {
+    "bbox": [
+      76,
+      648,
+      1039,
+      706
+    ],
+    "category": "Text",
+    "text": "b) Bán kính của mặt cầu $(S): R = \\sqrt{a^2 + b^2 + c^2 - d} = \\sqrt{1+4+9-5} = 3$."
+  },
+  {
+    "bbox": [
+      76,
+      732,
+      1286,
+      849
+    ],
+    "category": "Text",
+    "text": "c) Khoảng cách từ tâm $I(1; -2; 3)$ tới mặt phẳng $(P): d_{(I,(P))} = \\frac{|2.1-3.(-2)+6.3-12|}{\\sqrt{2^2 + (-3)^2 + 6^2}} = 2$."
+  },
+  {
+    "bbox": [
+      76,
+      875,
+      577,
+      928
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $IH = d_{(I,(P))} = 2; IA = R = 3$."
+  },
+  {
+    "bbox": [
+      76,
+      953,
+      597,
+      1007
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow AH = \\sqrt{IA^2 - IH^2} = \\sqrt{3^2 - 2^2} = \\sqrt{5}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1027,
+      1103,
+      1082
+    ],
+    "category": "Text",
+    "text": "Chu vi đường tròn giao tuyến của mặt phẳng $(P)$ và mặt cầu $(S)$ là: $2\\pi\\sqrt{5}$."
+  },
+  {
+    "bbox": [
+      76,
+      1107,
+      1494,
+      1294
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một ô tô bắt đầu chuyển động thẳng nhanh dần đều với tốc độ $v(t) = 5t$ (m/s); trong đó $t$ là thời gian tính bằng giây kể từ khi ô tô bắt đầu chuyển động. Đi được $6(s)$ người lái xe phát hiện chướng ngại vật và phanh gấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc $a = -5$ (m/s²)."
+  },
+  {
+    "bbox": [
+      76,
+      1312,
+      1035,
+      1358
+    ],
+    "category": "Text",
+    "text": "a) Tốc độ của ô tô tại thời điểm $10(s)$ tính từ lúc xuất phát là $50$ (m/s)."
+  },
+  {
+    "bbox": [
+      76,
+      1376,
+      1003,
+      1422
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường ô tô chuyển động được trong $6(s)$ đầu tiên là $80$ m."
+  },
+  {
+    "bbox": [
+      76,
+      1440,
+      1494,
+      1575
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường $S$ (đơn vị: mét) mà ô tô chuyển động được kể từ lúc bắt đầu đạp phanh đến khi止 lại được tính theo công thức $S = \\int_{0}^{6} (30 - 5t)dt$."
+  },
+  {
+    "bbox": [
+      76,
+      1591,
+      1434,
+      1638
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường ô tô chuyển động được kể từ lúc bắt đầu chuyển động cho đến khi止 lại là $170$ m."
+  },
+  {
+    "bbox": [
+      727,
+      1662,
+      844,
+      1701
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1716,
+      894,
+      1838
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1899,
+      346,
+      1947
+    ],
+    "category": "Formula",
+    "text": "a) $v(10) = 50$ (m/s)"
+  },
+  {
+    "bbox": [
+      76,
+      1975,
+      1171,
+      2041
+    ],
+    "category": "Formula",
+    "text": "b) Quăng đường ô tô chuyển động được trong $6(s)$ đầu tiên là $S = \\int_{0}^{6} 5tdt = 90(m)$"
+  },
+  {
+    "bbox": [
+      76,
+      2061,
+      1035,
+      2123
+    ],
+    "category": "Formula",
+    "text": "c) Vận tốc của chuyển động sau khi phanh là $v_2(t) = \\int (-5)dx = -5t + C$"
+  },
+  {
+    "bbox": [
+      76,
+      2145,
+      663,
+      2195
+    ],
+    "category": "Formula",
+    "text": "Do $v_2(0) = 30 \\Rightarrow C = 30 \\Rightarrow v_2(t) = -5t + 30$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

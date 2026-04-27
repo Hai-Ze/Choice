@@ -1,0 +1,482 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      162,
+      106,
+      692,
+      242
+    ],
+    "category": "Page-header",
+    "text": "Lớp Toán Thầy Phạm Văn Nghiệp\n— 0965.07.27.67 —\nLuyên thi Đại Học, giảng dạy Toán 10; 11; 12"
+  },
+  {
+    "bbox": [
+      761,
+      102,
+      1522,
+      151
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI TỐT NGHIỆP THPT NĂM 2026"
+  },
+  {
+    "bbox": [
+      1044,
+      153,
+      1240,
+      192
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      781,
+      201,
+      1502,
+      242
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      761,
+      239,
+      888,
+      280
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 2"
+  },
+  {
+    "bbox": [
+      74,
+      277,
+      1448,
+      327
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      74,
+      329,
+      1055,
+      375
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho hàm số $f(x)$ có bảng xét dấu của đạo hàm như sau:"
+  },
+  {
+    "bbox": [
+      414,
+      377,
+      1371,
+      494
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-1$</td><td>$0$</td><td>$3$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      498,
+      1027,
+      541
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      212,
+      544,
+      361,
+      588
+    ],
+    "category": "List-item",
+    "text": "A. $(-1;3)$."
+  },
+  {
+    "bbox": [
+      547,
+      544,
+      718,
+      588
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty;-1)$."
+  },
+  {
+    "bbox": [
+      861,
+      544,
+      1008,
+      588
+    ],
+    "category": "List-item",
+    "text": "C. $(-1;0)$."
+  },
+  {
+    "bbox": [
+      1177,
+      544,
+      1338,
+      588
+    ],
+    "category": "List-item",
+    "text": "D. $(0;+\\infty)$."
+  },
+  {
+    "bbox": [
+      833,
+      600,
+      953,
+      641
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      643,
+      902,
+      689
+    ],
+    "category": "Text",
+    "text": "Vì $f'(x) < 0$ trên các khoảng $(-1;0)$ và $(3;+\\infty)$."
+  },
+  {
+    "bbox": [
+      74,
+      698,
+      849,
+      744
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Họ nguyên hàm của hàm số $f(x) = e^{2x-1}$ là"
+  },
+  {
+    "bbox": [
+      212,
+      754,
+      378,
+      840
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{e^{2x}}{4x} + C$."
+  },
+  {
+    "bbox": [
+      547,
+      758,
+      747,
+      840
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{2}e^{2x-1} + C$."
+  },
+  {
+    "bbox": [
+      861,
+      754,
+      1027,
+      840
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{e^{2x}}{2x} + C$."
+  },
+  {
+    "bbox": [
+      1177,
+      776,
+      1374,
+      816
+    ],
+    "category": "List-item",
+    "text": "D. $2e^{2x-1} + C$."
+  },
+  {
+    "bbox": [
+      833,
+      848,
+      953,
+      889
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      893,
+      759,
+      973
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int f(x)dx = \\int e^{2x-1}dx = \\frac{1}{2}e^{2x-1} + C$."
+  },
+  {
+    "bbox": [
+      74,
+      979,
+      1576,
+      1073
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 3^x$, $y = 0$, $x = 0$, $x = 2$. Mindh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      212,
+      1075,
+      409,
+      1169
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      547,
+      1075,
+      771,
+      1169
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\pi \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      861,
+      1075,
+      1078,
+      1169
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\pi \\int_{0}^{2} 3^x dx$."
+  },
+  {
+    "bbox": [
+      1177,
+      1075,
+      1381,
+      1169
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\int_{0}^{2} 3^{2x} dx$."
+  },
+  {
+    "bbox": [
+      833,
+      1181,
+      953,
+      1221
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1223,
+      1576,
+      1368
+    ],
+    "category": "Text",
+    "text": "Diện tích của hình phẳng giới hạn bởi các đường $y = 3^x$, $y = 0$, $x = 0$, $x = 2$ được tính bằng công thức: $S = \\int_{0}^{2} |3^x| dx = \\int_{0}^{2} 3^x dx$ (do $3^x > 0, \\forall x \\in [0;2]$)."
+  },
+  {
+    "bbox": [
+      74,
+      1374,
+      1576,
+      1464
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Chỉ số ô nhiễm không khí (AQI) tại thủ đô Hà Nội trong tháng 6/2024 được thống kê vào 10h30 sáng các ngày trong tháng thể hiện trong bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      244,
+      1462,
+      1369,
+      1558
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Chỉ số (AQI)</td><td>[130;145)</td><td>[145;160)</td><td>[160;175)</td><td>[175;190)</td><td>[190;205)</td></tr><tr><td>Số ngày</td><td>8</td><td>7</td><td>6</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1560,
+      1451,
+      1606
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của mẫu số liệu trên gần nhất với giá trị nào trong các giá trị sau?"
+  },
+  {
+    "bbox": [
+      212,
+      1609,
+      321,
+      1645
+    ],
+    "category": "List-item",
+    "text": "A. 175."
+  },
+  {
+    "bbox": [
+      547,
+      1609,
+      681,
+      1645
+    ],
+    "category": "List-item",
+    "text": "B. 176,5."
+  },
+  {
+    "bbox": [
+      861,
+      1609,
+      982,
+      1645
+    ],
+    "category": "List-item",
+    "text": "C. 180,2"
+  },
+  {
+    "bbox": [
+      1177,
+      1609,
+      1312,
+      1645
+    ],
+    "category": "List-item",
+    "text": "D. 178,2."
+  },
+  {
+    "bbox": [
+      833,
+      1659,
+      953,
+      1699
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1701,
+      1576,
+      1876
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ ba của dãy số liệu thuộc nhóm $[175;190)$ nên tứ phân vị thứ ba của mẫu số liệu là $Q_3 = 175 + \\frac{\\frac{30 \\cdot 3}{4} - (8 + 7 + 6)}{7} (190 - 175) = 178,2$."
+  },
+  {
+    "bbox": [
+      74,
+      1882,
+      1566,
+      1984
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Trong không gian $Oxyz$, đường thẳng đi qua điểm $M(1;3;-2)$ và nhận vecto $\\vec{u} = (1;-1;5)$ làm vecto chỉ phương có phương trình tham số là:"
+  },
+  {
+    "bbox": [
+      212,
+      1986,
+      436,
+      2131
+    ],
+    "category": "List-item",
+    "text": "A. $\\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 - 2t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      547,
+      1986,
+      765,
+      2131
+    ],
+    "category": "List-item",
+    "text": "B. $\\begin{cases} x = 1 + t \\\\ y = -1 + 3t \\\\ z = 5 + 2t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      861,
+      1986,
+      1081,
+      2131
+    ],
+    "category": "List-item",
+    "text": "C. $\\begin{cases} x = 1 + t \\\\ y = 3 - t \\\\ z = -2 + 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      1177,
+      1986,
+      1402,
+      2131
+    ],
+    "category": "List-item",
+    "text": "D. $\\begin{cases} x = 1 + t \\\\ y = 3 + t \\\\ z = -2 + 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      833,
+      2143,
+      953,
+      2184
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1504,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 1 -"
+  }
+]

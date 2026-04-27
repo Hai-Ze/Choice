@@ -1,0 +1,189 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      198,
+      175
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      206,
+      136,
+      445,
+      198
+    ],
+    "category": "Page-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      528,
+      212,
+      1166,
+      765
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      808,
+      712,
+      849
+    ],
+    "category": "Text",
+    "text": "Gọi $O$ là giao điểm của $AC$ và $BD$."
+  },
+  {
+    "bbox": [
+      203,
+      870,
+      1335,
+      911
+    ],
+    "category": "Text",
+    "text": "Vì $S.ABCD$ là hình chóp tứ giác đều (đáy là hình vuông) nên $SO \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      203,
+      926,
+      1387,
+      978
+    ],
+    "category": "Text",
+    "text": "Suy ra thể tích của khối chóp $S.ABCD$ là: $V = \\frac{1}{3}SO \\cdot S_{ABCD} = \\frac{1}{3}SO \\cdot (\\sqrt{3})^2 = SO$"
+  },
+  {
+    "bbox": [
+      203,
+      991,
+      1137,
+      1032
+    ],
+    "category": "Text",
+    "text": "Do đó để tính thể tích khối chóp đã cho, ta đi tính chiều cao $SO$."
+  },
+  {
+    "bbox": [
+      203,
+      1051,
+      864,
+      1093
+    ],
+    "category": "Text",
+    "text": "Gọi $M, N$ lần lượt là trung điểm của $CD, AB$."
+  },
+  {
+    "bbox": [
+      203,
+      1109,
+      1030,
+      1215
+    ],
+    "category": "Text",
+    "text": "Ta có $CD // AB$, mà $\\begin{cases} AB \\subset (SAB) \\\\ CD \\not\\subset (SAB) \\end{cases}$ nên $CD // (SAB)$."
+  },
+  {
+    "bbox": [
+      203,
+      1230,
+      727,
+      1272
+    ],
+    "category": "Text",
+    "text": "Suy ra $d(C, (SAB)) = d(M, (SAB))$."
+  },
+  {
+    "bbox": [
+      558,
+      1286,
+      1131,
+      1697
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1741,
+      1123,
+      1783
+    ],
+    "category": "Text",
+    "text": "Vì $O$ là trung điểm của $MN$ nên $d(M, (SAB)) = 2d(O, (SAB))$."
+  },
+  {
+    "bbox": [
+      203,
+      1794,
+      944,
+      1852
+    ],
+    "category": "Text",
+    "text": "Suy ra $d(O, (SAB)) = \\frac{1}{2}d(C, (SAB)) = \\frac{1}{2} \\cdot \\frac{\\sqrt{6}}{2} = \\frac{\\sqrt{6}}{4}$."
+  },
+  {
+    "bbox": [
+      203,
+      1865,
+      1311,
+      1906
+    ],
+    "category": "Text",
+    "text": "Ta có $SO \\perp (ABCD) \\Rightarrow SO \\perp AB$. Mà $AB \\perp ON$ nên suy ra $AB \\perp (SON)$."
+  },
+  {
+    "bbox": [
+      203,
+      1922,
+      1161,
+      2028
+    ],
+    "category": "Text",
+    "text": "Kẻ $OH \\perp SN$ ($H \\in SN$). Khi đó $\\begin{cases} OH \\perp SN \\\\ OH \\perp AB \\end{cases} \\Rightarrow OH \\perp (SAB)$."
+  },
+  {
+    "bbox": [
+      203,
+      2043,
+      631,
+      2130
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow d(O, (SAB)) = OH = \\frac{\\sqrt{6}}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      2145,
+      698,
+      2184
+    ],
+    "category": "Text",
+    "text": "Trong tam giác vuông $SON$, ta có"
+  },
+  {
+    "bbox": [
+      58,
+      2251,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "174"
+  },
+  {
+    "bbox": [
+      829,
+      2255,
+      1499,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

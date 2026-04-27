@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      110,
+      1246,
+      196
+    ],
+    "category": "Formula",
+    "text": "$$\n= \\frac{1}{2}at_1^2 + 400 + 10t_2 - \\frac{1}{2}bt_2^2 = \\frac{50}{a} + 400 + \\frac{100}{b} - \\frac{50}{b} = 50 \\cdot \\left(\\frac{1}{a} + \\frac{1}{b}\\right) + 400 = 550 \\, m\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      206,
+      1531,
+      252
+    ],
+    "category": "Text",
+    "text": "**Câu 14.** Cho hàm số $f(x)$ có đồ thị của hàm số $y = f'(x)$ là đường cong trong hình vẽ bên dưới"
+  },
+  {
+    "bbox": [
+      662,
+      252,
+      1121,
+      716
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      719,
+      925,
+      766
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $f(x)$ nghịch biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      212,
+      776,
+      517,
+      829
+    ],
+    "category": "List-item",
+    "text": "b) $\\min_{\\mathbb{R}} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      212,
+      835,
+      1138,
+      883
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $g(x) = f(x) - 2025x + 2024$ có đúng hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      212,
+      891,
+      1145,
+      980
+    ],
+    "category": "List-item",
+    "text": "d) Phương trình $f'(\\cos x) = 3$ có đúng 5 nghiệm thuộc $\\left[0; \\frac{5\\pi}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      833,
+      989,
+      952,
+      1030
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      198,
+      1072,
+      1482,
+      1122
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Sai</td><td>b) Đúng</td><td>c) Sai</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1173,
+      392,
+      1210
+    ],
+    "category": "Section-header",
+    "text": "a) Chọn Sai"
+  },
+  {
+    "bbox": [
+      212,
+      1216,
+      1445,
+      1262
+    ],
+    "category": "Text",
+    "text": "Theo đồ thị thì hàm số $f'(x) > 0$ trên $(0; 2)$ nên $f(x)$ đồng biến trên khoảng $(0; 2)$."
+  },
+  {
+    "bbox": [
+      212,
+      1273,
+      435,
+      1314
+    ],
+    "category": "Section-header",
+    "text": "b) Chọn Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      1318,
+      1575,
+      1429
+    ],
+    "category": "Text",
+    "text": "Từ đồ thị thì rõ ràng $f(x)$ nghịch biến trên $(-\\infty; -1)$ và đồng biến trên $(-1; +\\infty)$. Do đó $\\min_{\\mathbb{R}} f(x) = f(-1)$."
+  },
+  {
+    "bbox": [
+      212,
+      1437,
+      390,
+      1475
+    ],
+    "category": "Section-header",
+    "text": "c) Chọn Sai"
+  },
+  {
+    "bbox": [
+      212,
+      1481,
+      1578,
+      1639
+    ],
+    "category": "Text",
+    "text": "Ta có $g'(x) = f'(x) - 2025$. Từ đồ thị ta thấy phương trình $f'(x) - 2025 = 0$ có duy nhất một nghiệm và đồng thời $f'(x)$ đổi dấu từ âm sang dương khi qua điểm đó. Cho nên hàm số $f(x)$ có duy nhất một điểm cực trị."
+  },
+  {
+    "bbox": [
+      212,
+      1650,
+      435,
+      1691
+    ],
+    "category": "Section-header",
+    "text": "d) Chọn Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      1695,
+      967,
+      1800
+    ],
+    "category": "Text",
+    "text": "Theo đồ thị, ta có $f'(\\cos x) = 3 \\Leftrightarrow \\begin{cases} \\cos x = a \\in (-1; 0) \\\\ \\cos x = b \\in (0; 1) \\end{cases}$."
+  },
+  {
+    "bbox": [
+      212,
+      1810,
+      1042,
+      1898
+    ],
+    "category": "Text",
+    "text": "Phương trình $\\cos x = a$ có đúng 2 nghiệm thuộc $\\left[0; \\frac{5\\pi}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      212,
+      1904,
+      1042,
+      1994
+    ],
+    "category": "Text",
+    "text": "Phương trình $\\cos x = b$ có đúng 3 nghiệm thuộc $\\left[0; \\frac{5\\pi}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      212,
+      2004,
+      747,
+      2045
+    ],
+    "category": "Text",
+    "text": "Các nghiệm này khác nhau đối một."
+  },
+  {
+    "bbox": [
+      212,
+      2047,
+      1246,
+      2135
+    ],
+    "category": "Text",
+    "text": "Như vậy phương trình $f'(\\cos x) = 3$ có đúng 5 nghiệm thuộc $\\left[0; \\frac{5\\pi}{2}\\right]$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

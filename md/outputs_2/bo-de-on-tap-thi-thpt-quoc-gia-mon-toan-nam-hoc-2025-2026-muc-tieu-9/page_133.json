@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      152,
+      132,
+      1548,
+      297
+    ],
+    "category": "Text",
+    "text": "giảm 5 sản phẩm/1 tổ/1 giờ. Ngoài ra, số phế phẩm mỗi tuần ước tính là $P(x) = \\frac{95x^2 + 120x}{4}$, với $x$ là thời gian làm việc trong một tuần. Nhà máy cần áp dụng thời gian làm việc mỗi tuần may giờ để số lượng sản phẩm thu được mỗi tuần là lớn nhất?"
+  },
+  {
+    "bbox": [
+      152,
+      312,
+      199,
+      352
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      312,
+      1146,
+      375
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Gọi số giờ làm tăng thêm mỗi tuần là $t$ ($t \\in \\mathbb{R}$)."
+  },
+  {
+    "bbox": [
+      202,
+      385,
+      1278,
+      464
+    ],
+    "category": "Text",
+    "text": "Số tổ công nhân bỏ việc là $\\frac{t}{2}$ nên số tổ công nhân làm việc là $100 - \\frac{t}{2}$ (tổ)."
+  },
+  {
+    "bbox": [
+      202,
+      471,
+      1078,
+      550
+    ],
+    "category": "Text",
+    "text": "Năng suất của tổ công nhân còn $120 - \\frac{5t}{2}$ sản phẩm một giờ."
+  },
+  {
+    "bbox": [
+      202,
+      561,
+      928,
+      604
+    ],
+    "category": "Text",
+    "text": "Số thời gian làm việc một tuần là $x = 40 + t$ (giờ)."
+  },
+  {
+    "bbox": [
+      202,
+      622,
+      670,
+      663
+    ],
+    "category": "Text",
+    "text": "Để nhà máy hoạt động được thì:"
+  },
+  {
+    "bbox": [
+      488,
+      674,
+      1211,
+      867
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 40 + t > 0 \\\\ 100 - \\frac{t}{2} > 0 \\\\ 120 - \\frac{5t}{2} > 0 \\end{cases} \\Rightarrow \\begin{cases} t > -40 \\\\ t < 200 \\\\ t < 48 \\end{cases} \\Rightarrow t \\in (-40; 48).\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      867,
+      1029,
+      910
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm trong một tuần làm được (chưa trừ phế phẩm):"
+  },
+  {
+    "bbox": [
+      569,
+      918,
+      1128,
+      999
+    ],
+    "category": "Formula",
+    "text": "$$\nS(t) = \\left(100 - \\frac{t}{2}\\right) \\left(120 - \\frac{5t}{2}\\right) (40 + t).\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1006,
+      841,
+      1048
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm thu được sau khi trừ phế phẩm là:"
+  },
+  {
+    "bbox": [
+      232,
+      1055,
+      1467,
+      1138
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = S(t) - P(40 + t) = \\left(100 - \\frac{t}{2}\\right) \\left(120 - \\frac{5t}{2}\\right) (40 + t) - \\frac{95(40 + t)^2 + 120(40 + t)}{4}.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1148,
+      295,
+      1185
+    ],
+    "category": "Text",
+    "text": "Đạo hàm:"
+  },
+  {
+    "bbox": [
+      642,
+      1191,
+      1056,
+      1270
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(t) = \\frac{15}{4}t^2 - \\frac{1135}{2}t - 2330.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1267,
+      891,
+      1399
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } f'(t) = 0 \\Leftrightarrow \\begin{cases} t = -4 \\\\ t = \\frac{466}{3} \\end{cases} \\text{ (Loại do } t \\notin (-40; 48))\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1410,
+      652,
+      1452
+    ],
+    "category": "Text",
+    "text": "Ta có bảng biến thiên của $f(t)$:"
+  },
+  {
+    "bbox": [
+      525,
+      1459,
+      1169,
+      1748
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$t$</td><td>$-40$</td><td>$-4$</td><td>$48$</td></tr><tr><td>$f'(t)$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(t)$</td><td colspan=\"3\">(bảng biến thiên)</td></tr></table>"
+  },
+  {
+    "bbox": [
+      202,
+      1785,
+      1280,
+      1828
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên, số lượng sản phẩm thu được lớn nhất khi $t = -4$."
+  },
+  {
+    "bbox": [
+      202,
+      1846,
+      1346,
+      1888
+    ],
+    "category": "Text",
+    "text": "Khi đó, thời gian làm việc trong một tuần là $x = 40 + t = 40 + (-4) = 36$ (giờ)."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "133"
+  }
+]

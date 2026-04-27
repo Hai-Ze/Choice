@@ -1,0 +1,412 @@
+[
+  {
+    "bbox": [
+      298,
+      163,
+      573,
+      250
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO\nĐỀ SỐ 2"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1376,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1022,
+      185,
+      1247,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      225,
+      1529,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      154,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "Phần I. Câu trắc nghiệm nhiều phương án lựa chọn *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      154,
+      534,
+      1547,
+      621
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 1.** Một khối chóp có đường cao $h = 2a$ và diện tích đáy $B = a^2$. Thế tích của khối chóp bằng"
+  },
+  {
+    "bbox": [
+      191,
+      635,
+      300,
+      688
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{2a^3}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      638,
+      647,
+      682
+    ],
+    "category": "List-item",
+    "text": "B $2a^3$."
+  },
+  {
+    "bbox": [
+      879,
+      638,
+      972,
+      682
+    ],
+    "category": "List-item",
+    "text": "C $a^3$."
+  },
+  {
+    "bbox": [
+      1224,
+      635,
+      1332,
+      688
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{3a^3}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      701,
+      1547,
+      812
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Thế tích của khối chóp được tính bởi công thức $V = \\frac{1}{3}Bh$. Thay số vào ta có $V = \\frac{1}{3} \\cdot a^2 \\cdot 2a = \\frac{2a^3}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      821,
+      986,
+      873
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 2.** Tập nghiệm của bất phương trình $(\\frac{1}{3})^x > 81$ là"
+  },
+  {
+    "bbox": [
+      191,
+      885,
+      372,
+      929
+    ],
+    "category": "List-item",
+    "text": "A $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      535,
+      885,
+      714,
+      929
+    ],
+    "category": "List-item",
+    "text": "B $(-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      879,
+      885,
+      1082,
+      929
+    ],
+    "category": "List-item",
+    "text": "C $(-\\infty; -4)$."
+  },
+  {
+    "bbox": [
+      1224,
+      885,
+      1428,
+      929
+    ],
+    "category": "List-item",
+    "text": "D $(-4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      154,
+      942,
+      1196,
+      1045
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có: $(\\frac{1}{3})^x > 81 \\Leftrightarrow 3^{-x} > 3^4 \\Leftrightarrow -x > 4 \\Leftrightarrow x < -4$.\nVậy tập nghiệm của bất phương trình là $S = (-\\infty; -4)$."
+  },
+  {
+    "bbox": [
+      154,
+      1064,
+      1547,
+      1106
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 3.** Thống kê điểm trung bình môn Toán của một số học sinh lớp 12 được mẫu số liệu sau:"
+  },
+  {
+    "bbox": [
+      260,
+      1112,
+      1440,
+      1227
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Khoảng điểm</td><td>[6, 5; 7)</td><td>[7; 7, 5)</td><td>[7, 5; 8)</td><td>[8; 8, 5)</td><td>[8, 5; 9)</td><td>[9; 9, 5)</td><td>[9, 5; 10)</td></tr><tr><td>Tần số</td><td>8</td><td>10</td><td>16</td><td>24</td><td>13</td><td>7</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      1236,
+      1291,
+      1279
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn (kết quả làm tròn đến hàng phần nghìn) của bảng số liệu trên là"
+  },
+  {
+    "bbox": [
+      191,
+      1298,
+      337,
+      1341
+    ],
+    "category": "List-item",
+    "text": "A 0,609."
+  },
+  {
+    "bbox": [
+      535,
+      1298,
+      681,
+      1341
+    ],
+    "category": "List-item",
+    "text": "B 0,785."
+  },
+  {
+    "bbox": [
+      879,
+      1298,
+      1025,
+      1341
+    ],
+    "category": "List-item",
+    "text": "C 0,616."
+  },
+  {
+    "bbox": [
+      1224,
+      1298,
+      1369,
+      1341
+    ],
+    "category": "List-item",
+    "text": "D 0,780."
+  },
+  {
+    "bbox": [
+      154,
+      1354,
+      1059,
+      1418
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Giá trị đại diện của các nhóm lần lượt là:"
+  },
+  {
+    "bbox": [
+      202,
+      1428,
+      1272,
+      1467
+    ],
+    "category": "Formula",
+    "text": "$$\nx_1 = 6,75; x_2 = 7,25; x_3 = 7,75; x_4 = 8,25; x_5 = 8,75; x_6 = 9,25; x_7 = 9,75.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1482,
+      1285,
+      1535
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{8 \\cdot 6,75 + 10 \\cdot 7,25 + 16 \\cdot 7,75 + 24 \\cdot 8,25 + 13 \\cdot 8,75 + 7 \\cdot 9,25 + 4 \\cdot 9,75}{82} = \\frac{666}{82} \\approx 8,122.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1545,
+      855,
+      1596
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai: } s^2 = \\frac{1}{82} \\sum n_i x_i^2 - (\\bar{x})^2 \\approx 0,60856.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1605,
+      674,
+      1649
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ lệch chuẩn: } s = \\sqrt{s^2} \\approx 0,780.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1670,
+      1547,
+      1756
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 4.** Cho hình chóp tức giác đều $S.ABCD$ có đáy $ABCD$ là hình vuông tâm $O$, góc giữa $SC$ và mặt phẳng $(SBD)$ là"
+  },
+  {
+    "bbox": [
+      191,
+      1767,
+      331,
+      1817
+    ],
+    "category": "List-item",
+    "text": "A $\\widehat{CSO}$."
+  },
+  {
+    "bbox": [
+      535,
+      1767,
+      674,
+      1817
+    ],
+    "category": "List-item",
+    "text": "B $\\widehat{CSA}$."
+  },
+  {
+    "bbox": [
+      879,
+      1767,
+      1021,
+      1817
+    ],
+    "category": "List-item",
+    "text": "C $\\widehat{CSD}$."
+  },
+  {
+    "bbox": [
+      1224,
+      1767,
+      1362,
+      1817
+    ],
+    "category": "List-item",
+    "text": "D $\\widehat{SCO}$."
+  },
+  {
+    "bbox": [
+      154,
+      1832,
+      445,
+      1895
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      154,
+      1908,
+      1547,
+      1996
+    ],
+    "category": "Text",
+    "text": "Vì $S.ABCD$ là hình chóp đều nên $SO \\perp (ABCD) \\Rightarrow SO \\perp OC$. Mặt khác $OC \\perp BD$ (tính chất hình vuông). Suy ra $OC \\perp (SBD)$."
+  },
+  {
+    "bbox": [
+      154,
+      1998,
+      1072,
+      2041
+    ],
+    "category": "Text",
+    "text": "Do đó, hình chiếu vuông góc của $C$ lên mặt phẳng $(SBD)$ là $O$."
+  },
+  {
+    "bbox": [
+      154,
+      2041,
+      1263,
+      2085
+    ],
+    "category": "Text",
+    "text": "Góc giữa $SC$ và $(SBD)$ là góc giữa $SC$ và hình chiếu $SO$, chính là góc $\\widehat{CSO}$."
+  },
+  {
+    "bbox": [
+      154,
+      2104,
+      1547,
+      2189
+    ],
+    "category": "Text",
+    "text": "ĐQ **Câu 5.** Trong không gian $Oxyz$, cho hai điểm $A(1; 4; -3)$, $B(1; 1; 3)$. Diểm $M$ thuộc đoạn $AB$ sao cho $MA = 2MB$, tọa độ điểm $M$ là"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lệ Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1599,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "45"
+  }
+]

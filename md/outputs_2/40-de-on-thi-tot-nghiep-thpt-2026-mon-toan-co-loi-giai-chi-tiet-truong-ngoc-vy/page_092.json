@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      1190,
+      137
+    ],
+    "category": "Text",
+    "text": "d) độ dài bé nhất của $OM$ là $2,26 m$ (kết quả được làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      727,
+      162,
+      843,
+      201
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      216,
+      894,
+      337
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      399,
+      1146,
+      452
+    ],
+    "category": "Text",
+    "text": "a) Ta có: $x^2 + y^2 + z^2 - 2x - 4y + 6z - 13 = 0 \\Leftrightarrow (x-1)^2 + (y-2)^2 + (z+3)^2 = 27$."
+  },
+  {
+    "bbox": [
+      76,
+      475,
+      954,
+      530
+    ],
+    "category": "Text",
+    "text": "Vậy mặt cầu $(S)$ có tâm $I(1; 2; -3)$ và bán kính $R = \\sqrt{27} = 3\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      76,
+      556,
+      1494,
+      661
+    ],
+    "category": "Text",
+    "text": "b) Ta có tam giác $MAB$ cân tại $M$ và có $\\widehat{AMB} = 60^\\circ$ và nên tam giác $MAB$ là tam giác đều cạnh bằng $AB = MA = MB = x$."
+  },
+  {
+    "bbox": [
+      76,
+      684,
+      248,
+      722
+    ],
+    "category": "Text",
+    "text": "Vậy $AB = x$."
+  },
+  {
+    "bbox": [
+      76,
+      744,
+      1494,
+      858
+    ],
+    "category": "Text",
+    "text": "* Tam giác $MBC$ cân tại $M$ và có $\\widehat{BMC} = 90^\\circ$. nên tam giác $MBC$ là tam giác vuông cân tại $M$ suy ra $BC = MB\\sqrt{2} = x\\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      877,
+      301,
+      926
+    ],
+    "category": "Text",
+    "text": "Vậy $BC = x\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      946,
+      732,
+      997
+    ],
+    "category": "Text",
+    "text": "* Tam giác $MAC$ cân tại $M$ có $\\widehat{CMA} = 120^\\circ$ có"
+  },
+  {
+    "bbox": [
+      81,
+      1016,
+      1245,
+      1104
+    ],
+    "category": "Formula",
+    "text": "$$\nAC^2 = MA^2 + MC^2 - 2 \\cdot MA \\cdot MC \\cdot \\cos(120^\\circ) = x^2 + x^2 - 2x \\cdot x \\cdot \\left(\\frac{-1}{2}\\right) = 3x^2 \\Leftrightarrow AC = x\\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1127,
+      298,
+      1177
+    ],
+    "category": "Text",
+    "text": "Vậy $AC = x\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      76,
+      1197,
+      1494,
+      1312
+    ],
+    "category": "Text",
+    "text": "c) Tam giác $ABC$ có các cạnh $AB = x, AC = x\\sqrt{3}, BC = x\\sqrt{2}$ nên tam giác $ABC$ không phải là một tam giác cân."
+  },
+  {
+    "bbox": [
+      76,
+      1331,
+      1494,
+      1443
+    ],
+    "category": "Text",
+    "text": "d) Ta có tam giác $ABC$ có $AC^2 = AB^2 + BC^2$ nên tam giác $ABC$ vuông tại $B$ và $AC$ chính là đường kính đường tròn giao tuyến của mặt cầu $(S)$ với mặt phẳng $(ABC)$."
+  },
+  {
+    "bbox": [
+      76,
+      1463,
+      966,
+      1509
+    ],
+    "category": "Text",
+    "text": "Khi đó gọi $K$ là trung điểm $AC$ ta có 3 điểm $M, K, I$ thẳng hàng"
+  },
+  {
+    "bbox": [
+      535,
+      1531,
+      1064,
+      1998
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2036,
+      1015,
+      2129
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $MAI$ vuông tại $A$ có $\\sin 60^\\circ = \\frac{R}{MI} \\Rightarrow MI = \\frac{3\\sqrt{3}}{\\sin 60^\\circ} = 6$."
+  },
+  {
+    "bbox": [
+      76,
+      2153,
+      910,
+      2217
+    ],
+    "category": "Text",
+    "text": "Mặt khác $\\overline{OI} = (1; 2; -3) \\Rightarrow OI = \\sqrt{1^2 + 2^2 + (-3)^2} = \\sqrt{14} < IM$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

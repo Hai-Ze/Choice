@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      152,
+      139,
+      1549,
+      449
+    ],
+    "category": "Text",
+    "text": "trường không có chất $X$ sau đó đánh giá. Sau 15 ngày trồng hoa, nhà khoa học nhận ra hoa được trồng trong môi trường không có chất $X$ phát triển với tốc độ $h'_1(t) = e^{0,1t}$, hoa được trồng trong môi trường có chất $X$ phát triển với tốc độ $h'_2(t) = a \\cdot e^{-0,1t}$ ($a \\in \\mathbb{R}$) trong đó $t$ tính bằng ngày, $h'$ tính bằng cm/ngày, $0 \\le t \\le 15$. Biết rằng ở thời điểm ban đầu, tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ cấp 4 lần cây hoa trong môi trường không có chất $X$. Theo đánh giá của nhà khoa học, chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu sau 15 ngày chiều cao của cây lớn hơn so với trồng thông thường."
+  },
+  {
+    "bbox": [
+      189,
+      469,
+      324,
+      508
+    ],
+    "category": "List-item",
+    "text": "a) $a = 4$."
+  },
+  {
+    "bbox": [
+      187,
+      522,
+      1547,
+      610
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_1(t) = 10e^{0,1t} + 10$ (cm) (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      189,
+      622,
+      1100,
+      664
+    ],
+    "category": "List-item",
+    "text": "c) Chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      187,
+      677,
+      1547,
+      764
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng sau $t_0$ ngày ($0 < t_0 < 15$), hai cây hoa có chiều cao bằng nhau. Khi đó chiều cao của chúng bằng nhau và bằng 40 cm."
+  },
+  {
+    "bbox": [
+      152,
+      779,
+      199,
+      822
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      779,
+      609,
+      842
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      152,
+      855,
+      1547,
+      944
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết: \"Biết rằng ở thời điểm ban đầu (tức $t = 0$), tốc độ tăng trưởng của cây hoa trong môi trường có chất $X$ cấp 4 lần cây hoa trong môi trường không có chất $X$\" ta có:"
+  },
+  {
+    "bbox": [
+      396,
+      955,
+      1302,
+      1003
+    ],
+    "category": "Formula",
+    "text": "$$\nh'_{2}(0) = 4h'_{1}(0) \\Leftrightarrow a \\cdot e^{-0,1 \\cdot 0} = 4 \\cdot e^{0,1 \\cdot 0} \\Leftrightarrow a \\cdot e^{0} = 4 \\cdot e^{0} \\Leftrightarrow a = 4.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1007,
+      472,
+      1053
+    ],
+    "category": "Text",
+    "text": "Suy ra $h'_{2}(t) = 4e^{-0,1t}$."
+  },
+  {
+    "bbox": [
+      202,
+      1071,
+      313,
+      1111
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      152,
+      1130,
+      1547,
+      1221
+    ],
+    "category": "Text",
+    "text": "Hàm số xác định chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau $t$ ngày là $h_1(t) = \\int h'_1(t) dt$ (với $0 \\le t \\le 15$)."
+  },
+  {
+    "bbox": [
+      202,
+      1238,
+      1112,
+      1292
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức nguyên hàm $\\int e^{ax+b} dx = \\frac{1}{a}e^{ax+b} + C$, ta có:"
+  },
+  {
+    "bbox": [
+      494,
+      1296,
+      1202,
+      1382
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int h'_{1}(t) dt = \\int (e^{0,1t}) dt = \\frac{e^{0,1t}}{0,1} + C = 10e^{0,1t} + C.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1401,
+      1138,
+      1445
+    ],
+    "category": "Text",
+    "text": "Lại có $h_1(0) = 10 \\Rightarrow 10 \\cdot e^{0,1 \\cdot 0} + C = 10 \\Leftrightarrow 10 + C = 10 \\Leftrightarrow C = 0$."
+  },
+  {
+    "bbox": [
+      202,
+      1463,
+      479,
+      1506
+    ],
+    "category": "Text",
+    "text": "Vậy $h_1(t) = 10e^{0,1t}$."
+  },
+  {
+    "bbox": [
+      202,
+      1526,
+      348,
+      1568
+    ],
+    "category": "Text",
+    "text": "c) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      1585,
+      1547,
+      1627
+    ],
+    "category": "Text",
+    "text": "Chất $X$ có vai trò kích thích cây tăng trưởng thực sự nếu $h_2(15) > h_1(15) \\Leftrightarrow h_2(15) - h_1(15) > 0$."
+  },
+  {
+    "bbox": [
+      152,
+      1646,
+      1547,
+      1740
+    ],
+    "category": "Text",
+    "text": "Ta có chiều cao của cây hoa được trồng trong môi trường có chất $X$ sau 15 ngày (tức từ 0 đến ngày thứ 15) là $h_2(15) = 10 + \\int_0^{15} h'_2(t) dt$."
+  },
+  {
+    "bbox": [
+      152,
+      1752,
+      1547,
+      1845
+    ],
+    "category": "Text",
+    "text": "Chiều cao của cây hoa được trồng trong môi trường không có chất $X$ sau 15 ngày (tức từ 0 đến ngày thứ 15) là $h_1(15) = 10 + \\int_0^{15} h'_1(t) dt$."
+  },
+  {
+    "bbox": [
+      202,
+      1860,
+      313,
+      1896
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      363,
+      1898,
+      1337,
+      2094
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} h_2(15) - h_1(15) &= \\int_0^{15} h'_2(t) dt - \\int_0^{15} h'_1(t) dt = \\int_0^{15} [h'_2(t) - h'_1(t)] dt \\\\ &= \\int_0^{15} (4e^{-0,1t} - e^{0,1t}) dt \\approx -3,74 < 0. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2108,
+      1528,
+      2152
+    ],
+    "category": "Text",
+    "text": "Suy ra $h_2(15) - h_1(15) < 0$. Vậy chất $X$ không có vai trò kích thích cây tăng trưởng thực sự."
+  },
+  {
+    "bbox": [
+      202,
+      2172,
+      352,
+      2212
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      100,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "76"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

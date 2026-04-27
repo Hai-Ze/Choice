@@ -1,0 +1,246 @@
+[
+  {
+    "bbox": [
+      217,
+      61,
+      1079,
+      101
+    ],
+    "category": "Text",
+    "text": "Vậy máy bay ở vị trí $B$ cách vị trí $A$ là khoảng 403,2524 km."
+  },
+  {
+    "bbox": [
+      92,
+      108,
+      800,
+      351
+    ],
+    "category": "List-item",
+    "text": "**Câu 19.** Cửa vòm lấy ánh sáng của một toà nhà được thiết kế với kích thước như sau: Cửa có hình dạng một parabol có đinh $I$ và đi qua hai điểm $A, B$. Tính diện tích kính cần lắp, biết rằng người ta chỉ sử dụng một lớp kính và bỏ qua diện tích khung cửa."
+  },
+  {
+    "bbox": [
+      217,
+      358,
+      332,
+      396
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      336,
+      346,
+      542,
+      401
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      406,
+      375,
+      446
+    ],
+    "category": "Text",
+    "text": "Đáp số: 4,5"
+  },
+  {
+    "bbox": [
+      817,
+      117,
+      1591,
+      432
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      789,
+      448,
+      1018,
+      491
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      491,
+      1356,
+      539
+    ],
+    "category": "Text",
+    "text": "Hình phẳng cần tính diện tích là một parabol $(P)$ với phương trình $y = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      217,
+      547,
+      1183,
+      636
+    ],
+    "category": "Text",
+    "text": "Parabol $(P)$ có đinh $I\\left(0; \\frac{9}{4}\\right)$ nên $c = \\frac{9}{4}$, suy ra $(P): y = ax^2 + bx + \\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      217,
+      644,
+      1473,
+      822
+    ],
+    "category": "Text",
+    "text": "Vì parabol $(P)$ đi qua các điểm $A\\left(-\\frac{3}{2}; 0\\right), B\\left(\\frac{3}{2}; 0\\right)$ nên $\\begin{cases} \\frac{9}{4}a - \\frac{3}{2}b = -\\frac{9}{4} \\\\ \\frac{9}{4}a + \\frac{3}{2}b = -\\frac{9}{4} \\end{cases}$, suy ra $\\begin{cases} a = -1 \\\\ b = 0 \\end{cases}$."
+  },
+  {
+    "bbox": [
+      217,
+      830,
+      555,
+      911
+    ],
+    "category": "Text",
+    "text": "Do đó $(P): y = -x^2 + \\frac{9}{4}$."
+  },
+  {
+    "bbox": [
+      217,
+      917,
+      1578,
+      1063
+    ],
+    "category": "Text",
+    "text": "Gọi $S$ (m²) là diện tích kính cần lắp. Ta có $S$ bằng diện tích hình phẳng $(H)$ giới hạn bởi parabol, trục hoành và các đường thẳng $x = -\\frac{3}{2}, x = \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      217,
+      1069,
+      998,
+      1213
+    ],
+    "category": "Text",
+    "text": "Ta có: $S = \\int_{-\\frac{3}{2}}^{\\frac{3}{2}} \\left(-x^2 + \\frac{9}{4}\\right) dx = \\left(-\\frac{x^3}{3} + \\frac{9}{4}x\\right) \\Big|_{-\\frac{3}{2}}^{\\frac{3}{2}} = 4,5$ (m²)."
+  },
+  {
+    "bbox": [
+      92,
+      1222,
+      1593,
+      1750
+    ],
+    "category": "List-item",
+    "text": "**Câu 20.** Mảnh đất vường của nhà anh Điệp có một phần ranh giới cũng là một phần đường cong $(C)$: $y = \\frac{x+a}{x+b}$, bao quanh nó là水流 nước. Với hệ trục tọa độ $Oxy$ thích hợp, đơn vị trên mỗi trục là 10 mét thì đường cong $(C)$ đi qua điểm $(2; 3)$ và có đường tiệm cận đứng $x=1$. Hàng ngày anh Điệp phải dùng truyền máy để vận chuyển trái cây từ khu vường của mình đến hai tuyến đường $\\Delta_1: 2x+y-4=0$ và $\\Delta_2: x+2y-2=0$ cho những người lái buôn từ nơi khác đến. Anh Điệp cần xác định một vị trí $M(x_0; y_0)$ thuộc khu vường của mình để tổng các khoảng cách từ vị trí $M$ đó đến hai tuyến đường $\\Delta_1, \\Delta_2$ là bé nhất. Hỏi khoảng cách từ vị trí được chọn làm gốc tọa độ đến điểm $M$ là bao nhiêu mét (làm tròn đến hàng phần chục)?"
+  },
+  {
+    "bbox": [
+      217,
+      1758,
+      332,
+      1795
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      336,
+      1744,
+      542,
+      1798
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      217,
+      1803,
+      389,
+      1845
+    ],
+    "category": "Text",
+    "text": "Đáp số: 34,1"
+  },
+  {
+    "bbox": [
+      1021,
+      1346,
+      1593,
+      1795
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      740,
+      1847,
+      966,
+      1890
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1898,
+      938,
+      1944
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số có tiệm cận đứng $x = -b = 1 \\Rightarrow b = -1$."
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      166,
+      2054
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      506,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1143,
+      2054
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1147,
+      2017,
+      1443,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2022,
+      1559,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "7"
+  }
+]

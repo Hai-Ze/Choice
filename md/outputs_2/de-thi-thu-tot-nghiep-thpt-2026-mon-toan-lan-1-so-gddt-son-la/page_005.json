@@ -1,0 +1,591 @@
+[
+  {
+    "bbox": [
+      197,
+      114,
+      513,
+      161
+    ],
+    "category": "Page-header",
+    "text": "SỞ GD&ĐT SƠN LA"
+  },
+  {
+    "bbox": [
+      217,
+      191,
+      494,
+      275
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ CHÍNH THỨC\n(Đề thi có 04 trang)"
+  },
+  {
+    "bbox": [
+      689,
+      114,
+      1484,
+      197
+    ],
+    "category": "Page-header",
+    "text": "KỲ THI THỬ TỐT NGHIỆP THPT LẦN THỨ NHẤT\nNĂM HỌC 2025 - 2026"
+  },
+  {
+    "bbox": [
+      991,
+      193,
+      1175,
+      231
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN"
+  },
+  {
+    "bbox": [
+      717,
+      231,
+      1453,
+      275
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      1190,
+      315,
+      1448,
+      354
+    ],
+    "category": "Page-header",
+    "text": "MÃ ĐỀ THI 0102"
+  },
+  {
+    "bbox": [
+      114,
+      392,
+      1474,
+      432
+    ],
+    "category": "Text",
+    "text": "Họ và tên thí sinh: .................................................... SBD: ...................................................."
+  },
+  {
+    "bbox": [
+      114,
+      442,
+      1533,
+      525
+    ],
+    "category": "Text",
+    "text": "**PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn.** Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      114,
+      532,
+      1251,
+      581
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho cấp số nhân $(u_n)$ có $u_1 = 2$ và $u_2 = 6$. Số hạng $u_4$ của cấp số nhân đó là"
+  },
+  {
+    "bbox": [
+      153,
+      597,
+      259,
+      631
+    ],
+    "category": "List-item",
+    "text": "A. 162."
+  },
+  {
+    "bbox": [
+      473,
+      597,
+      559,
+      631
+    ],
+    "category": "List-item",
+    "text": "B. 11."
+  },
+  {
+    "bbox": [
+      842,
+      597,
+      928,
+      631
+    ],
+    "category": "List-item",
+    "text": "C. 54."
+  },
+  {
+    "bbox": [
+      1177,
+      597,
+      1267,
+      631
+    ],
+    "category": "List-item",
+    "text": "D. 27."
+  },
+  {
+    "bbox": [
+      114,
+      640,
+      979,
+      685
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Heo tất cả các nguyên hàm của hàm số $y = \\sin x + \\cos x$ là"
+  },
+  {
+    "bbox": [
+      153,
+      697,
+      689,
+      756
+    ],
+    "category": "List-item",
+    "text": "A. $\\int (\\sin x + \\cos x) dx = \\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      842,
+      697,
+      1374,
+      756
+    ],
+    "category": "List-item",
+    "text": "B. $\\int (\\sin x + \\cos x) dx = \\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      153,
+      767,
+      709,
+      826
+    ],
+    "category": "List-item",
+    "text": "C. $\\int (\\sin x + \\cos x) dx = -\\sin x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      842,
+      767,
+      1399,
+      826
+    ],
+    "category": "List-item",
+    "text": "D. $\\int (\\sin x + \\cos x) dx = -\\sin x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      114,
+      835,
+      1533,
+      924
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho mặt phẳng $(P)$: $3x - y + z - 2 = 0$. Vecto nào trong các vecto dưới đây là một vecto pháp tuyến của mặt phẳng $(P)$?"
+  },
+  {
+    "bbox": [
+      153,
+      936,
+      365,
+      985
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{n} = (3; -1; 1)$."
+  },
+  {
+    "bbox": [
+      473,
+      936,
+      688,
+      985
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{n} = (3; -1; 2)$."
+  },
+  {
+    "bbox": [
+      842,
+      936,
+      1076,
+      985
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{n} = (3; -1; -2)$."
+  },
+  {
+    "bbox": [
+      1177,
+      936,
+      1392,
+      985
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{n} = (3; -1; 0)$."
+  },
+  {
+    "bbox": [
+      114,
+      1001,
+      1260,
+      1083
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tiệm cận đứng của đồ thị hàm số $y = \\frac{2x-1}{x-1}$ là đường thẳng có phương trình:"
+  },
+  {
+    "bbox": [
+      153,
+      1097,
+      275,
+      1131
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      473,
+      1097,
+      595,
+      1131
+    ],
+    "category": "List-item",
+    "text": "B. $y = 2$."
+  },
+  {
+    "bbox": [
+      842,
+      1097,
+      964,
+      1131
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      1177,
+      1097,
+      1299,
+      1131
+    ],
+    "category": "List-item",
+    "text": "D. $y = 1$."
+  },
+  {
+    "bbox": [
+      114,
+      1151,
+      1069,
+      1191
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình lập phương $ABCD.A_1B_1C_1D_1$ (tham khảo hình vẽ bên)."
+  },
+  {
+    "bbox": [
+      153,
+      1203,
+      535,
+      1247
+    ],
+    "category": "Text",
+    "text": "Phát biểu nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      153,
+      1255,
+      419,
+      1304
+    ],
+    "category": "List-item",
+    "text": "A. $\\overrightarrow{AC_1} = \\overrightarrow{AA_1} + \\overrightarrow{AB}$."
+  },
+  {
+    "bbox": [
+      798,
+      1255,
+      1068,
+      1304
+    ],
+    "category": "List-item",
+    "text": "B. $\\overrightarrow{AC_1} = \\overrightarrow{AA_1} + \\overrightarrow{CA_1}$."
+  },
+  {
+    "bbox": [
+      153,
+      1316,
+      424,
+      1365
+    ],
+    "category": "List-item",
+    "text": "C. $\\overrightarrow{AC_1} = \\overrightarrow{AA_1} + \\overrightarrow{A_1C}$."
+  },
+  {
+    "bbox": [
+      798,
+      1316,
+      1139,
+      1365
+    ],
+    "category": "List-item",
+    "text": "D. $\\overrightarrow{AC_1} = \\overrightarrow{AA_1} + \\overrightarrow{AB} + \\overrightarrow{AD}$."
+  },
+  {
+    "bbox": [
+      1242,
+      1145,
+      1502,
+      1372
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      114,
+      1396,
+      773,
+      1436
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Tập nghiệm của phương trình $\\cos x = 1$ là"
+  },
+  {
+    "bbox": [
+      153,
+      1446,
+      504,
+      1533
+    ],
+    "category": "List-item",
+    "text": "A. $S = \\{\\frac{\\pi}{2} + k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      842,
+      1446,
+      1167,
+      1533
+    ],
+    "category": "List-item",
+    "text": "B. $S = \\{\\frac{\\pi}{2} + k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      153,
+      1551,
+      419,
+      1597
+    ],
+    "category": "List-item",
+    "text": "C. $S = \\{k\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      842,
+      1551,
+      1126,
+      1597
+    ],
+    "category": "List-item",
+    "text": "D. $S = \\{k2\\pi | k \\in \\mathbb{Z}\\}$."
+  },
+  {
+    "bbox": [
+      114,
+      1611,
+      1161,
+      1660
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Trong không gian $Oxyz$, cho vecto $\\vec{u} = 2\\vec{i} - 5\\vec{k}$. Tọa độ của vecto $\\vec{u}$ là"
+  },
+  {
+    "bbox": [
+      153,
+      1676,
+      333,
+      1722
+    ],
+    "category": "List-item",
+    "text": "A. $(2; -5; 0)$."
+  },
+  {
+    "bbox": [
+      473,
+      1676,
+      627,
+      1722
+    ],
+    "category": "List-item",
+    "text": "B. $(2; 0; 5)$."
+  },
+  {
+    "bbox": [
+      842,
+      1676,
+      1022,
+      1722
+    ],
+    "category": "List-item",
+    "text": "C. $(2; 0; -5)$."
+  },
+  {
+    "bbox": [
+      1177,
+      1676,
+      1356,
+      1722
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 2; -5)$."
+  },
+  {
+    "bbox": [
+      114,
+      1734,
+      1533,
+      1816
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Mỗi ngày bác Sơn đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Sơn được thống kê ở bảng sau:"
+  },
+  {
+    "bbox": [
+      237,
+      1814,
+      1446,
+      1901
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2, 7; 3, 0)</td><td>[3, 0; 3, 3)</td><td>[3, 3; 3, 6)</td><td>[3, 6; 3, 9)</td><td>[3, 9; 4, 2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1908,
+      871,
+      1952
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      153,
+      1960,
+      254,
+      1994
+    ],
+    "category": "List-item",
+    "text": "A. 0,5."
+  },
+  {
+    "bbox": [
+      473,
+      1960,
+      601,
+      1994
+    ],
+    "category": "List-item",
+    "text": "B. 0,975."
+  },
+  {
+    "bbox": [
+      842,
+      1960,
+      970,
+      1994
+    ],
+    "category": "List-item",
+    "text": "C. 0,575."
+  },
+  {
+    "bbox": [
+      1177,
+      1960,
+      1277,
+      1994
+    ],
+    "category": "List-item",
+    "text": "D. 0,9."
+  },
+  {
+    "bbox": [
+      114,
+      2014,
+      1533,
+      2167
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $y = f(x)$ thỏa mãn $f(1) = -2$, $f(2) = 1$ và có đạo hàm liên tục trên đoạn $[1; 2]$. Giá trị của tích phân $I = \\int_{1}^{2} f'(x) dx$ là"
+  },
+  {
+    "bbox": [
+      153,
+      2178,
+      275,
+      2212
+    ],
+    "category": "List-item",
+    "text": "A. $I = 3$."
+  },
+  {
+    "bbox": [
+      473,
+      2178,
+      591,
+      2212
+    ],
+    "category": "List-item",
+    "text": "B. $I = 2$."
+  },
+  {
+    "bbox": [
+      842,
+      2178,
+      978,
+      2212
+    ],
+    "category": "List-item",
+    "text": "C. $I = -1$."
+  },
+  {
+    "bbox": [
+      1177,
+      2178,
+      1316,
+      2212
+    ],
+    "category": "List-item",
+    "text": "D. $I = -3$."
+  },
+  {
+    "bbox": [
+      114,
+      2231,
+      280,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 0102"
+  },
+  {
+    "bbox": [
+      1400,
+      2236,
+      1533,
+      2272
+    ],
+    "category": "Page-footer",
+    "text": "Trang 1/4"
+  }
+]

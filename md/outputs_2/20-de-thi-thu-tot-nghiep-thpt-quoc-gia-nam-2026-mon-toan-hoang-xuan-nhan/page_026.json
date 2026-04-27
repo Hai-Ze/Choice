@@ -1,0 +1,227 @@
+[
+  {
+    "bbox": [
+      218,
+      68,
+      1084,
+      158
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của $\\frac{1}{f'(x)}$ trên miền xác định của nó bằng 1."
+  },
+  {
+    "bbox": [
+      1368,
+      85,
+      1420,
+      137
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1498,
+      85,
+      1548,
+      137
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      739,
+      171,
+      966,
+      213
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      218,
+      229,
+      473,
+      274
+    ],
+    "category": "Section-header",
+    "text": "a) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      281,
+      1337,
+      467
+    ],
+    "category": "Text",
+    "text": "Theo công thức: $\\left(\\tan u\\right)' = \\frac{u'}{\\cos^2 u}$, ta có: $f'(x) = \\frac{\\left(x - \\frac{2\\pi}{3}\\right)'}{\\cos^2\\left(x - \\frac{2\\pi}{3}\\right)} = \\frac{1}{\\cos^2\\left(x - \\frac{2\\pi}{3}\\right)}$."
+  },
+  {
+    "bbox": [
+      218,
+      470,
+      473,
+      514
+    ],
+    "category": "Section-header",
+    "text": "b) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      514,
+      1199,
+      652
+    ],
+    "category": "Text",
+    "text": "Xét $\\frac{\\sqrt{3}}{4} \\cdot f'(x) - f(x) = 0 \\Leftrightarrow \\frac{\\sqrt{3}}{4} \\cdot \\frac{1}{\\cos^2\\left(x - \\frac{2\\pi}{3}\\right)} - \\tan\\left(x - \\frac{2\\pi}{3}\\right) = 0$ (*)."
+  },
+  {
+    "bbox": [
+      218,
+      658,
+      1257,
+      796
+    ],
+    "category": "Text",
+    "text": "Thay $x = 0$ vào (*) ta có: $\\frac{\\sqrt{3}}{4} \\cdot \\frac{1}{\\cos^2\\left(-\\frac{2\\pi}{3}\\right)} - \\tan\\left(-\\frac{2\\pi}{3}\\right) = 0 \\Leftrightarrow 0 = 0$ (đúng)."
+  },
+  {
+    "bbox": [
+      218,
+      799,
+      473,
+      843
+    ],
+    "category": "Section-header",
+    "text": "c) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      843,
+      1339,
+      929
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(x) = 0 \\Leftrightarrow \\tan\\left(x - \\frac{2\\pi}{3}\\right) = 0 \\Leftrightarrow x - \\frac{2\\pi}{3} = k\\pi, k \\in \\mathbb{Z} \\Leftrightarrow x = \\frac{2\\pi}{3} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      218,
+      939,
+      1400,
+      1019
+    ],
+    "category": "Text",
+    "text": "Nghiệm âm lớn nhất của phương trình $f(x) = 0$ là $x = \\frac{2\\pi}{3} - \\pi = -\\frac{\\pi}{3}$ (ứng với $k = -1$)."
+  },
+  {
+    "bbox": [
+      218,
+      1018,
+      473,
+      1062
+    ],
+    "category": "Section-header",
+    "text": "d) Mindh đề đúng."
+  },
+  {
+    "bbox": [
+      218,
+      1062,
+      1298,
+      1236
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\frac{1}{f'(x)} = \\frac{1}{\\frac{1}{\\cos^2\\left(x - \\frac{2\\pi}{3}\\right)}} = \\cos^2\\left(x - \\frac{2\\pi}{3}\\right)$, với điều kiện $\\cos\\left(x - \\frac{2\\pi}{3}\\right) \\neq 0$."
+  },
+  {
+    "bbox": [
+      218,
+      1244,
+      1307,
+      1427
+    ],
+    "category": "Text",
+    "text": "Do đó $\\frac{1}{f'(x)} = \\cos^2\\left(x - \\frac{2\\pi}{3}\\right) \\in (0; 1]$. Giá trị lớn nhất của $\\frac{1}{f'(x)}$ bằng 1, khi đó $x - \\frac{2\\pi}{3} = k\\pi, k \\in \\mathbb{Z} \\Leftrightarrow x = \\frac{2\\pi}{3} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      92,
+      1464,
+      1278,
+      1774
+    ],
+    "category": "List-item",
+    "text": "Câu 14. Xét một hệ trục tọa độ $Oxyz$ được cho sẵn, đơn vị trên mỗi trục là $dm$, mặt ngoài của một quả bóng được mô hình hóa bởi phương trình mặt cầu $(x-2)^2 + (y+1)^2 + (z+1)^2 = 6$, quả bóng nằm yên trên sàn nhà. Người ta nhìn thấy một tấm ván ngã xuống đè lên quả bóng, phần giao của tấm ván và sàn nhà là đường thẳng $d$ có phương trình $\\frac{x+2}{2} = \\frac{y+1}{-3} = \\frac{z}{1}$. Gọi $A, B$ lần lượt là hai tiếp điểm của tấm ván, sàn nhà với quả bóng và $I$ là tâm quả bóng."
+  },
+  {
+    "bbox": [
+      1298,
+      1494,
+      1596,
+      1778
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      1778,
+      1596,
+      1962
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các mindh đề sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) Quả bóng có tâm $I(2; -1; -1)$ và bán kính $R = \\sqrt{6}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Khoảng cách từ tâm quả bóng đến đường thẳng $d$ bằng $2\\sqrt{6}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      165,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      506,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1142,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      2017,
+      1442,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2021,
+      1563,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

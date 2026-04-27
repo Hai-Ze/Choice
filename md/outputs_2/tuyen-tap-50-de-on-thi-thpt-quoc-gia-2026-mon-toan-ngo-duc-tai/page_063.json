@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      785,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      419
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho một vật thể trong không gian $Oxyz$. Gọi $B$ là phần vật thể giới hạn bởi hai mặt phẳng vuông góc với trục $Ox$ tại các điểm có hoành độ $x = a, x = b$. Một mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ là $x$ cắt vật thể theo mặt cắt có diện tích là $S(x)$. Giả sử $S(x)$ là hàm số liên tục trên đoạn $[a; b]$. Khi đó thể tích $V$ của phần vật thể $B$ tính theo công thức"
+  },
+  {
+    "bbox": [
+      221,
+      425,
+      506,
+      548
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ V = \\pi \\int_{a}^{b} S(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      425,
+      1149,
+      548
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ V = \\pi \\int_{a}^{b} [S(x)]^2 dx.\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      557,
+      480,
+      682
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ V = \\int_{a}^{b} S(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      557,
+      1130,
+      682
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ V = \\pi^2 \\int_{a}^{b} S(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      696,
+      1342,
+      780
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hàm số $y = \\frac{2x+3}{x+1}$. Tiệm cận đứng của đồ thị hàm số này là"
+  },
+  {
+    "bbox": [
+      221,
+      782,
+      366,
+      862
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ y = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      782,
+      689,
+      842
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ y = -1.\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      782,
+      968,
+      862
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ x = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      782,
+      1293,
+      842
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ x = -1.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      875,
+      1453,
+      921
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Hai mẫu số liệu ghép nhóm $M_1, M_2$ có bảng tần số ghép nhóm như sau:"
+  },
+  {
+    "bbox": [
+      388,
+      921,
+      1266,
+      1153
+    ],
+    "category": "Table",
+    "text": "<table><tr><td rowspan=\"2\">M<sub>1</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>6</td><td>4</td><td>8</td><td>6</td><td>4</td></tr><tr><td rowspan=\"2\">M<sub>2</sub></td><td>Nhóm</td><td>[8; 10)</td><td>[10; 12)</td><td>[12; 14)</td><td>[14; 16)</td><td>[16; 18)</td></tr><tr><td>Tần số</td><td>9</td><td>6</td><td>12</td><td>9</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1153,
+      1453,
+      1252
+    ],
+    "category": "Text",
+    "text": "Gọi $s_1, s_2$ lần lượt là độ lệch chuẩn của mẫu số liệu ghép nhóm $M_1, M_2$. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1252,
+      400,
+      1312
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ s_2 = 2s_1.\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      1252,
+      687,
+      1312
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ s_1 = s_2.\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      1252,
+      1012,
+      1333
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ s_2 = \\frac{3}{2}s_1.\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      1252,
+      1309,
+      1333
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ s_1 = \\frac{3}{2}s_2.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1380,
+      1453,
+      1499
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      1533,
+      1453,
+      1685
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Lớp 12A có 30 học sinh, trong đó có 17 bạn nữ còn lại là nam. Có 3 bạn tên Hiền, trong đó có 1 bạn nữ và 2 bạn nam. Thầy giáo gọi ngẫu nhiên 1 bạn lên bảng."
+  },
+  {
+    "bbox": [
+      221,
+      1677,
+      905,
+      1757
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để gọi một bạn tên Hiền là $\\frac{1}{10}$."
+  },
+  {
+    "bbox": [
+      221,
+      1751,
+      1399,
+      1832
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó giới tính nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      221,
+      1826,
+      1427,
+      1906
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để có tên Hiền, nhưng với điều kiện bạn đó giới tính nam là $\\frac{2}{13}$."
+  },
+  {
+    "bbox": [
+      221,
+      1900,
+      1448,
+      2018
+    ],
+    "category": "List-item",
+    "text": "d) Nếu thầy giáo gọi một bạn tên Hiền lên bảng thì xác suất để bạn đó mang giới tính nữ là $\\frac{3}{17}$."
+  },
+  {
+    "bbox": [
+      192,
+      2030,
+      850,
+      2118
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = f(x) = \\frac{x^2 + 2x + 5}{x + 1}$."
+  },
+  {
+    "bbox": [
+      221,
+      2114,
+      511,
+      2212
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{a)} \\ y' = \\frac{x^2 + 2x - 3}{(x + 1)^2}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

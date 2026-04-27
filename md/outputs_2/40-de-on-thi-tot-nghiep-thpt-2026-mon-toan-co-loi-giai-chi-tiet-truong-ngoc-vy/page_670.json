@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      914,
+      158
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 4 \\cos x(\\sqrt{2} \\sin x - 1)$"
+  },
+  {
+    "bbox": [
+      76,
+      182,
+      1068,
+      274
+    ],
+    "category": "Text",
+    "text": "c) Tổng các nghiệm của phương trình $f'(x) = 0$ trên đoạn $[0; \\frac{\\pi}{2}]$ là $\\frac{3\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      296,
+      1404,
+      387
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $[0; \\frac{\\pi}{2}]$ lần lượt là $2\\sqrt{2}$ và $4 - \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      727,
+      412,
+      843,
+      451
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      466,
+      894,
+      588
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      646,
+      1040,
+      736
+    ],
+    "category": "Text",
+    "text": "a) $f(0) = \\sqrt{2} \\cos 2 \\cdot 0 + 4 \\sin 0 = \\sqrt{2}$; $f(\\frac{\\pi}{2}) = \\sqrt{2} \\cos \\pi + 4 \\sin \\frac{\\pi}{2} = 4 - \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      760,
+      1193,
+      823
+    ],
+    "category": "Text",
+    "text": "b) $f'(x) = -2\\sqrt{2} \\sin 2x + 4 \\cos x = -4\\sqrt{2} \\sin x \\cos x + 4 \\cos x = -4 \\cos x(\\sqrt{2} \\sin x - 1)$."
+  },
+  {
+    "bbox": [
+      76,
+      847,
+      947,
+      1117
+    ],
+    "category": "Text",
+    "text": "c) $f'(x) = 0 \\Leftrightarrow \\begin{cases} \\cos x = 0 \\\\ \\sin x = \\frac{\\sqrt{2}}{2} = \\sin \\frac{\\pi}{4} \\end{cases} \\Leftrightarrow \\begin{cases} x = \\frac{\\pi}{2} + k\\pi \\\\ x = \\frac{\\pi}{4} + k2\\pi \\\\ x = \\frac{3\\pi}{4} + k2\\pi \\end{cases}, (k \\in \\mathbb{Z})$."
+  },
+  {
+    "bbox": [
+      76,
+      1140,
+      498,
+      1229
+    ],
+    "category": "Text",
+    "text": "Do $x \\in [0; \\frac{\\pi}{2}] \\Rightarrow x = \\frac{\\pi}{2}; x = \\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      76,
+      1255,
+      1133,
+      1345
+    ],
+    "category": "Text",
+    "text": "Tổng các nghiệm của phương trình $f'(x) = 0$ trên đoạn $[0; \\frac{\\pi}{2}]$ là $\\frac{\\pi}{2} + \\frac{\\pi}{4} = \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      76,
+      1368,
+      772,
+      1458
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $f(0) = \\sqrt{2}$; $f(\\frac{\\pi}{2}) = 4 - \\sqrt{2}$; $f(\\frac{\\pi}{4}) = 2\\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      1490,
+      878,
+      1614
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow \\max f(x) = 2\\sqrt{2}$ khi $x = \\frac{\\pi}{4}$ và $\\min f(x) = \\sqrt{2}$ khi $x = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1631,
+      1495,
+      1820
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Xét một chất điểm chuyển động trên một trục thẳng đứng, chiều dương hướng lên trên. Giả sử vị trí $s(t)$ (mét) của chất điểm trên trục số đã chọn tại thời điểm $t$ (giây) được cho bởi công thức $S(t) = -t^3 + 9t^2 - 15t + 2, t \\ge 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1845,
+      809,
+      1895
+    ],
+    "category": "Text",
+    "text": "a) Hàm vận tốc của chất điểm là $v(t) = -3t^2 + 18t - 15$."
+  },
+  {
+    "bbox": [
+      76,
+      1920,
+      735,
+      1970
+    ],
+    "category": "Text",
+    "text": "b) Vận tốc của chất điểm sau 2 giây là $9(m/s)$."
+  },
+  {
+    "bbox": [
+      76,
+      1988,
+      857,
+      2036
+    ],
+    "category": "Text",
+    "text": "c) Vận tốc của chất điểm lớn nhất tại thời điểm $t = 2$ giây."
+  },
+  {
+    "bbox": [
+      76,
+      2049,
+      1100,
+      2095
+    ],
+    "category": "Text",
+    "text": "d) Trong 6 giây đầu tiên chất điểm di chuyển được quăng đường là 20 mét."
+  },
+  {
+    "bbox": [
+      727,
+      2114,
+      843,
+      2153
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2168,
+      894,
+      2231
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

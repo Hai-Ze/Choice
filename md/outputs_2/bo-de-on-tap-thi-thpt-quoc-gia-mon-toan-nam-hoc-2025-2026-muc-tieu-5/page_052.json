@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      154,
+      133,
+      1130,
+      199
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{AB} = (2 - 1; 3 - 1; 2 - (-1)) = (1; 2; 3)$."
+  },
+  {
+    "bbox": [
+      154,
+      213,
+      1545,
+      295
+    ],
+    "category": "Text",
+    "text": "Câu 5. Cho hàm số $y = f(x)$ có đạo hàm $f'(x)$ liên tục trên $[-2; 3]$. Đồ thị hàm số $y = f'(x)$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      617,
+      304,
+      1072,
+      672
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      676,
+      1118,
+      768
+    ],
+    "category": "Text",
+    "text": "Biết $\\int_{-2}^{1} f'(x)dx = 3$ và diện tích $S = \\frac{5}{3}$. Giá trị $f(3) - f(-2)$ bằng"
+  },
+  {
+    "bbox": [
+      192,
+      779,
+      301,
+      829
+    ],
+    "category": "List-item",
+    "text": "A $-\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      779,
+      620,
+      829
+    ],
+    "category": "List-item",
+    "text": "B $\\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      879,
+      779,
+      1001,
+      829
+    ],
+    "category": "List-item",
+    "text": "C $-\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      1224,
+      779,
+      1318,
+      829
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{14}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      838,
+      1365,
+      930
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $f(3) - f(-2) = \\int_{-2}^{3} f'(x)dx = \\int_{-2}^{1} f'(x)dx + \\int_{1}^{3} f'(x)dx$."
+  },
+  {
+    "bbox": [
+      203,
+      942,
+      614,
+      995
+    ],
+    "category": "Text",
+    "text": "Theo đề bài $\\int_{-2}^{1} f'(x)dx = 3$."
+  },
+  {
+    "bbox": [
+      203,
+      1007,
+      1101,
+      1098
+    ],
+    "category": "Text",
+    "text": "Diện tích $S$ nằm dưới trục hoành nên $\\int_{1}^{3} f'(x)dx = -S = -\\frac{5}{3}$."
+  },
+  {
+    "bbox": [
+      203,
+      1110,
+      647,
+      1159
+    ],
+    "category": "Text",
+    "text": "Vậy $f(3) - f(-2) = 3 - \\frac{5}{3} = \\frac{4}{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      1172,
+      1499,
+      1220
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho $F(x)$ là nguyên hàm của hàm số $f(x) = 6x^5 + \\frac{1}{x^3}$ thỏa mãn $F(1) = 0$. Tìm $F(x)$."
+  },
+  {
+    "bbox": [
+      192,
+      1232,
+      540,
+      1281
+    ],
+    "category": "List-item",
+    "text": "A $F(x) = x^6 - \\frac{1}{2x^2} + \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      876,
+      1232,
+      1228,
+      1281
+    ],
+    "category": "List-item",
+    "text": "B $F(x) = x^6 + \\frac{1}{2x^2} - \\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      192,
+      1277,
+      540,
+      1326
+    ],
+    "category": "List-item",
+    "text": "C $F(x) = x^6 - \\frac{1}{2x^2} - \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      876,
+      1277,
+      1213,
+      1326
+    ],
+    "category": "List-item",
+    "text": "D $F(x) = x^6 - \\frac{3}{x^2} + 2$."
+  },
+  {
+    "bbox": [
+      154,
+      1319,
+      1143,
+      1398
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $F(x) = \\int (6x^5 + x^{-3})dx = x^6 - \\frac{1}{2x^2} + C$."
+  },
+  {
+    "bbox": [
+      203,
+      1398,
+      804,
+      1446
+    ],
+    "category": "Text",
+    "text": "Vì $F(1) = 0 \\Rightarrow 1 - \\frac{1}{2} + C = 0 \\Rightarrow C = -\\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      203,
+      1442,
+      565,
+      1491
+    ],
+    "category": "Text",
+    "text": "Vậy $F(x) = x^6 - \\frac{1}{2x^2} - \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      1504,
+      1545,
+      1589
+    ],
+    "category": "Text",
+    "text": "Câu 7. Cho hàm số $y = f(x)$ liên tục trên $[-3; 2]$ và có bảng biến thiên như hình vẽ. Gọi $M, m$ lần lượt là GTLN và GTNN của hàm số trên đoạn $[-1; 2]$. Tính $M + m$."
+  },
+  {
+    "bbox": [
+      541,
+      1597,
+      1156,
+      1870
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-3$</td><td>$-1$</td><td>$0$</td><td>$1$</td><td>$2$</td></tr><tr><td>$f'(x)$</td><td colspan=\"5\">$+ \\quad 0 \\quad - \\quad 0 \\quad + \\quad 0 \\quad -$</td></tr><tr><td>$f(x)$</td><td colspan=\"5\">$\\begin{array}{c} 3 \\\\ \\searrow \\\\ -2 \\end{array} \\quad \\begin{array}{c} 2 \\\\ \\nearrow \\\\ 0 \\end{array}$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1952,
+      273,
+      1992
+    ],
+    "category": "List-item",
+    "text": "A 2."
+  },
+  {
+    "bbox": [
+      535,
+      1952,
+      616,
+      1992
+    ],
+    "category": "List-item",
+    "text": "B 3."
+  },
+  {
+    "bbox": [
+      879,
+      1952,
+      960,
+      1992
+    ],
+    "category": "List-item",
+    "text": "C 4."
+  },
+  {
+    "bbox": [
+      1224,
+      1952,
+      1303,
+      1992
+    ],
+    "category": "List-item",
+    "text": "D 1."
+  },
+  {
+    "bbox": [
+      154,
+      2009,
+      1168,
+      2071
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét trên đoạn $[-1; 2]$, từ bảng biến thiên ta thấy:"
+  },
+  {
+    "bbox": [
+      203,
+      2087,
+      697,
+      2127
+    ],
+    "category": "Text",
+    "text": "- Giá trị lớn nhất $M = f(-1) = 3$."
+  },
+  {
+    "bbox": [
+      203,
+      2148,
+      1038,
+      2188
+    ],
+    "category": "Text",
+    "text": "- Giá trị nhỏ nhất $m = f(0) = 0$. Vậy $M + m = 3 + 0 = 3$."
+  },
+  {
+    "bbox": [
+      75,
+      2251,
+      112,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "52"
+  },
+  {
+    "bbox": [
+      839,
+      2253,
+      1508,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

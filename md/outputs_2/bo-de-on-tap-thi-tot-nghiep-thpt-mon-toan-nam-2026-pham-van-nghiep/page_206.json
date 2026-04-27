@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      117,
+      1573,
+      225
+    ],
+    "category": "Text",
+    "text": "a) Người dùng điện thoại ở vị trí điểm $A\\ 2;2;7$ thì có thể sử dụng dịch vụ của trạm thu phát sóng trên."
+  },
+  {
+    "bbox": [
+      212,
+      227,
+      1575,
+      386
+    ],
+    "category": "Text",
+    "text": "b) Tính theo đường chim bay, khoảng cách nhỏ nhất để một người ở vị trí có toạ độ $B\\ 5;6;7$ di chuyển được tới vùng phù sóng theo đơn vị km là 1,7km (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      212,
+      395,
+      1573,
+      501
+    ],
+    "category": "Text",
+    "text": "c) Người dùng điện thoại ở vị trí có toạ độ $B\\ 5;6;7$ thì không thể sử dụng dịch vụ của trạm thu phát sóng trên."
+  },
+  {
+    "bbox": [
+      212,
+      508,
+      1573,
+      623
+    ],
+    "category": "Text",
+    "text": "d) Phương trình mặt cầu $S$ để mô tả ranh giới bên ngoài của vùng phù sóng trong không gian là $x + 1^2 + y + 3^2 + z + 7^2 = 9$"
+  },
+  {
+    "bbox": [
+      882,
+      639,
+      1003,
+      680
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      680,
+      1575,
+      799
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Có $IA = \\sqrt{2} < 3$ nên người dùng điện thoại ở vị trí điểm $A\\ 2;2;7$ có thể sử dụng dịch vụ của trạm thu phát sóng trên."
+  },
+  {
+    "bbox": [
+      212,
+      801,
+      1575,
+      960
+    ],
+    "category": "Text",
+    "text": "b) Sai. Có $IB = 5$. Tính theo đường chim bay, khoảng cách nhỏ nhất để một người ở vị trí có toạ độ $B\\ 5;6;7$ di chuyển được tới vùng phù sóng theo đơn vị km là 2 km (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      212,
+      969,
+      1575,
+      1075
+    ],
+    "category": "Text",
+    "text": "c) Đúng. Có $IB = 5 > 3$ nên người dùng điện thoại ở vị trí điểm $B\\ 5;6;7$ không thể sử dụng dịch vụ của trạm thu phát sóng trên."
+  },
+  {
+    "bbox": [
+      212,
+      1082,
+      1575,
+      1198
+    ],
+    "category": "Text",
+    "text": "d) Sai. Phương trình mặt cầu $S$ để mô tả ranh giới bên ngoài của vùng phù sóng trong không gian là $x - 1^2 + y - 3^2 + z - 7^2 = 9$."
+  },
+  {
+    "bbox": [
+      74,
+      1211,
+      1575,
+      1403
+    ],
+    "category": "Text",
+    "text": "Câu 4: Một công trình xây dựng dự kiến hoàn thành trong 50 ngày. Gọi $M(t)$ là số ngày công được tính đến hết ngày thứ $t$ (kể từ khi khởi công công trình). Trong kinh tế xây dựng, người ta đã biết rằng $M'(t) = m(t)$ với $m(t)$ là số lượng công nhân được sử dụng tại thời điểm $t$. Biết rằng $m(t) = 100 + 8\\sqrt{t} - 2t$ (với $0 \\le t \\le 50$)."
+  },
+  {
+    "bbox": [
+      212,
+      1409,
+      1069,
+      1453
+    ],
+    "category": "Text",
+    "text": "a) Số công nhân được sử dụng nhiều nhất vào ngày thứ 4."
+  },
+  {
+    "bbox": [
+      212,
+      1453,
+      1488,
+      1498
+    ],
+    "category": "Text",
+    "text": "b) Tổng cộng cần 4000 ngày công để hoàn thành công trình xây dựng đó theo dự kiến."
+  },
+  {
+    "bbox": [
+      212,
+      1500,
+      1172,
+      1544
+    ],
+    "category": "Text",
+    "text": "c) Trong 10 ngày đầu tiên, công trình đã cần hơn 1000 ngày công."
+  },
+  {
+    "bbox": [
+      212,
+      1546,
+      967,
+      1588
+    ],
+    "category": "Text",
+    "text": "d) Có 72 công nhân được sử dụng vào ngày thứ 49."
+  },
+  {
+    "bbox": [
+      833,
+      1592,
+      952,
+      1634
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1636,
+      632,
+      1720
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Ta có $m'(t) = \\frac{4}{\\sqrt{t}} - 2$"
+  },
+  {
+    "bbox": [
+      212,
+      1728,
+      632,
+      1813
+    ],
+    "category": "Formula",
+    "text": "$$\nm'(t) = 0 \\Leftrightarrow \\frac{4}{\\sqrt{t}} - 2 = 0 \\Leftrightarrow t = 4\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1822,
+      447,
+      1865
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      392,
+      1865,
+      1389,
+      2220
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

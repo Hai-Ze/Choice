@@ -1,0 +1,402 @@
+[
+  {
+    "bbox": [
+      188,
+      137,
+      645,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{C} \\ D = \\mathbb{R} \\setminus \\{\\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z}\\}.\n$$"
+  },
+  {
+    "bbox": [
+      875,
+      137,
+      1247,
+      188
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textcircled{D} \\ D = \\mathbb{R} \\setminus \\{k\\pi \\mid k \\in \\mathbb{Z}\\}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      201,
+      1074,
+      244
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cấp số cộng $(u_n)$ có $u_3 = 8, u_{11} = 32$ có công sai $d$ là"
+  },
+  {
+    "bbox": [
+      191,
+      261,
+      335,
+      304
+    ],
+    "category": "List-item",
+    "text": "A) $d = 4$."
+  },
+  {
+    "bbox": [
+      535,
+      261,
+      679,
+      304
+    ],
+    "category": "List-item",
+    "text": "B) $d = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      261,
+      1023,
+      304
+    ],
+    "category": "List-item",
+    "text": "C) $d = 3$."
+  },
+  {
+    "bbox": [
+      1223,
+      261,
+      1367,
+      304
+    ],
+    "category": "List-item",
+    "text": "D) $d = 1$."
+  },
+  {
+    "bbox": [
+      154,
+      321,
+      1494,
+      373
+    ],
+    "category": "Text",
+    "text": "Câu 10. Trong không gian $Oxyz$, điểm nào sau đây thuộc đường thẳng $d: \\frac{x-1}{1} = \\frac{y}{2} = \\frac{z+1}{-2}$?"
+  },
+  {
+    "bbox": [
+      191,
+      383,
+      415,
+      426
+    ],
+    "category": "List-item",
+    "text": "A) $N(1; 2; -2)$."
+  },
+  {
+    "bbox": [
+      535,
+      383,
+      755,
+      426
+    ],
+    "category": "List-item",
+    "text": "B) $P(-1; 0; 1)$."
+  },
+  {
+    "bbox": [
+      879,
+      383,
+      1097,
+      426
+    ],
+    "category": "List-item",
+    "text": "C) $Q(2; 1; -2)$."
+  },
+  {
+    "bbox": [
+      1223,
+      383,
+      1451,
+      426
+    ],
+    "category": "List-item",
+    "text": "D) $M(1; 0; -1)$."
+  },
+  {
+    "bbox": [
+      154,
+      445,
+      967,
+      488
+    ],
+    "category": "Text",
+    "text": "Câu 11. They nguyên hàm của hàm số $f(x) = 2025^x$ là"
+  },
+  {
+    "bbox": [
+      191,
+      501,
+      413,
+      554
+    ],
+    "category": "List-item",
+    "text": "A) $\\frac{2025^{x+1}}{x+1} + C$."
+  },
+  {
+    "bbox": [
+      875,
+      501,
+      1077,
+      554
+    ],
+    "category": "List-item",
+    "text": "B) $\\frac{2025^x}{2 \\ln 45} + C$."
+  },
+  {
+    "bbox": [
+      191,
+      554,
+      401,
+      597
+    ],
+    "category": "List-item",
+    "text": "C) $2026^x + C$."
+  },
+  {
+    "bbox": [
+      875,
+      554,
+      1206,
+      597
+    ],
+    "category": "List-item",
+    "text": "D) $2025^x \\cdot \\ln 2025 + C$."
+  },
+  {
+    "bbox": [
+      154,
+      612,
+      1547,
+      698
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trong không gian $Oxyz$, vectơ nào sau đây là một vectơ pháp tuyến của mặt phẳng $(P) : 11x - 3y - 2026 = 0$?"
+  },
+  {
+    "bbox": [
+      191,
+      717,
+      521,
+      760
+    ],
+    "category": "List-item",
+    "text": "A) $\\vec{n} = (11; -3; 2026)$."
+  },
+  {
+    "bbox": [
+      875,
+      717,
+      1233,
+      760
+    ],
+    "category": "List-item",
+    "text": "B) $\\vec{n} = (11; -3; -2026)$."
+  },
+  {
+    "bbox": [
+      191,
+      760,
+      471,
+      803
+    ],
+    "category": "List-item",
+    "text": "C) $\\vec{n} = (11; -3; 0)$."
+  },
+  {
+    "bbox": [
+      875,
+      760,
+      1131,
+      803
+    ],
+    "category": "List-item",
+    "text": "D) $\\vec{n} = (11; 3; 0)$."
+  },
+  {
+    "bbox": [
+      154,
+      820,
+      1547,
+      908
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      929,
+      1169,
+      970
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hàm số $f(x) = x - \\ln x$. Cácoornghedde sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      191,
+      989,
+      850,
+      1032
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định của hàm số là: $D = (0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      191,
+      1037,
+      582,
+      1117
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm $f'(x) = 1 + \\frac{1}{x}$."
+  },
+  {
+    "bbox": [
+      191,
+      1122,
+      962,
+      1165
+    ],
+    "category": "List-item",
+    "text": "c) Phương trình $f'(x) = 0$ có nghiệm duy nhất $x = 1$."
+  },
+  {
+    "bbox": [
+      191,
+      1170,
+      1162,
+      1250
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[\\frac{1}{3}; 2]$ bằng $\\frac{1}{3} + \\ln 3$."
+  },
+  {
+    "bbox": [
+      154,
+      1271,
+      1562,
+      1355
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong không gian với hệ toạ độ $Oxyz$, cho tam giác $ABC$, với $A(5; 3; 1)$, $B(1; 6; 2)$, $C(5; 0; 4)$. Cácoornghedde sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      191,
+      1368,
+      757,
+      1418
+    ],
+    "category": "List-item",
+    "text": "a) $\\overrightarrow{AB} = (-4; 5; -1)$, $\\overrightarrow{AC} = (0; -1; -1)$."
+  },
+  {
+    "bbox": [
+      191,
+      1429,
+      1412,
+      1472
+    ],
+    "category": "List-item",
+    "text": "b) Biết điểm $D(a; b; c)$ sao cho tức giác $ABCD$ là hình bình hành, ta có $a + b + c = 9$."
+  },
+  {
+    "bbox": [
+      191,
+      1477,
+      473,
+      1527
+    ],
+    "category": "List-item",
+    "text": "c) $\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = -10$."
+  },
+  {
+    "bbox": [
+      191,
+      1534,
+      1131,
+      1622
+    ],
+    "category": "List-item",
+    "text": "d) Gọi $\\alpha$ là số đo góc $A$ của tam giác $ABC$. Khi đó $\\cos \\alpha = \\frac{\\sqrt{21}}{7}$."
+  },
+  {
+    "bbox": [
+      154,
+      1633,
+      1547,
+      1897
+    ],
+    "category": "Text",
+    "text": "Bài 3. Một xưởng mộc dùng gỗ sồi để sản xuất 5 chiếc bàn mỗi ngày. Chi phí cho mỗi lần vận chuyển nguyên liệu là 5625 USD, chi phí để lưu trữ một đơn vị nguyên liệu là 10 USD mỗi ngày, trong đó một đơn vị là lượng nguyên liệu cần thiết để sản xuất một chiếc bàn, và lưu ý rằng trong mỗi ngày của chu kì sản xuất (thời gian giữa hai lần nhập nguyên liệu liên tiếp) thì lượng nguyên liệu lưu trữ trung bình mỗi ngày được tính bằng một half tổng lượng nguyên liệu tồn kho đầu kì và lượng nguyên liệu tồn kho cuối kì. Giả sử nguyên liệu được nhập về sau mỗi $x$ ngày."
+  },
+  {
+    "bbox": [
+      191,
+      1916,
+      1223,
+      1959
+    ],
+    "category": "List-item",
+    "text": "a) Một chu kì sản xuất, xưởng mộc phải nhập về $5x$ đơn vị nguyên liệu."
+  },
+  {
+    "bbox": [
+      191,
+      1970,
+      1418,
+      2013
+    ],
+    "category": "List-item",
+    "text": "b) Chi phí để lưu trữ nguyên liệu trong $x$ ngày của một chu kì sản xuất là $50x^2$ USD."
+  },
+  {
+    "bbox": [
+      191,
+      2018,
+      1418,
+      2099
+    ],
+    "category": "List-item",
+    "text": "c) Hàm chi phí trung bình mỗi ngày trong một chu kì sản xuất là $c(x) = 50x + \\frac{5625}{x}$."
+  },
+  {
+    "bbox": [
+      191,
+      2104,
+      1547,
+      2190
+    ],
+    "category": "List-item",
+    "text": "d) Để chi phí trung bình mỗi ngày của một chu kì sản xuất là ít nhất thì xưởng mộc nên nhập hàng mỗi 15 ngày và mỗi lần nhập về 75 đơn vị nguyên liệu."
+  },
+  {
+    "bbox": [
+      154,
+      2253,
+      830,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1568,
+      2250,
+      1591,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "7"
+  }
+]

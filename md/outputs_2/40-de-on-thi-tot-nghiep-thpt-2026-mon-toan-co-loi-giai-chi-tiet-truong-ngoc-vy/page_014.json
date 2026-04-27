@@ -1,0 +1,162 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      82,
+      100,
+      1245,
+      211
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{60^2}^{90 \\times 60} \\left( \\frac{10^{-7}}{9} t^3 + \\frac{10^{-2}}{5} t + 1 \\right) dt = \\left. \\left( \\frac{10^{-7}}{36} t^4 + 10^{-3} t^2 + t \\right) \\right|_{3600}^{5400} = 1913400 \\text{ (m)} = 1913,4 \\text{ (km)}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      228,
+      1494,
+      333
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường quả tên lửa chứa đầu đạn hạt nhân đi được trong khoảng thời gian 15 phút từ khi tên lửa tầm trung được phóng là"
+  },
+  {
+    "bbox": [
+      82,
+      352,
+      1117,
+      465
+    ],
+    "category": "Formula",
+    "text": "$$\nS_{hn} = \\int_{90 \\times 60}^{105 \\times 60} \\left( \\frac{10^{-7}}{9} t^3 + \\frac{10^{-2}}{5} t + 1 \\right) dt = \\left. \\left( \\frac{10^{-7}}{36} t^4 + 10^{-3} t^2 + t \\right) \\right|_{5400}^{6300} = 2025292,5 \\text{ (m)}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      490,
+      1101,
+      570
+    ],
+    "category": "Text",
+    "text": "Suy ra quăng đường đi được của tên lửa tầm trung là $s = \\frac{1}{2} S_{hn} = 1012646,25$"
+  },
+  {
+    "bbox": [
+      76,
+      595,
+      629,
+      893
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Do đó, ta có } s &= \\int_{0}^{15 \\times 60} \\left( \\frac{10^{-3}}{9} t^2 + n 10^{-2} t \\right) dt \\\\ \\Rightarrow 1012646,25 &= \\left. \\left( \\frac{10^{-3}}{27} t^3 + \\frac{n \\cdot 10^{-2}}{2} t^2 \\right) \\right|_{0}^{900} \\\\ \\Leftrightarrow n &= 243,37. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      921,
+      639,
+      1168
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{d) Ta có } h'(t) &= \\frac{-5m}{648} \\cdot 2t + \\frac{500m}{9} \\quad (m > 0) \\\\ h'(t) = 0 &\\Leftrightarrow \\frac{-5m}{648} (2t - 100 \\cdot 72) = 0 \\\\ &\\Leftrightarrow t = 3600. \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1192,
+      506,
+      1239
+    ],
+    "category": "Text",
+    "text": "Suy ra bảng biến thiên của $h(t)$"
+  },
+  {
+    "bbox": [
+      76,
+      1265,
+      110,
+      1300
+    ],
+    "category": "Text",
+    "text": "??"
+  },
+  {
+    "bbox": [
+      76,
+      1323,
+      806,
+      1386
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên suy ra hàm số $\\max_{(0;+\\infty)} h(t) = h(3600)$"
+  },
+  {
+    "bbox": [
+      76,
+      1407,
+      926,
+      1452
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường quả tên lửa chứa đầu đạn hạt nhân đi được là"
+  },
+  {
+    "bbox": [
+      82,
+      1472,
+      855,
+      1578
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{s} = \\left. \\left( \\frac{10^{-7}}{36} t^4 + 10^{-3} t^2 + t \\right) \\right|_{3600} = 483120 \\text{ (m)} = 483,12 \\text{ (km)}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1596,
+      1496,
+      2087
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Các thiên thạch có đường kính lớn hơn $140m$ và có thể lại gần Trái Đất ở khoảng cách nhỏ hơn $7500000km$ được coi là những vật thể có khả năng va chậm gây nguy hiểm cho Trái Đất. Để theo dõi những thiên thạch này, các nhà nghiên cứu của trung tâm Vũ Trụ Nasa đã thiết lập các trạm quan sát các vật thể bay gần Trái Đất. Giả sử có một hệ thống có khả năng theo dõi các vật thể ở độ cao không quá $4600km$ so với mực nước biển. Coi Trái Đất là khối cầu có bán kính $6400km$. Chọn hệ trục tọa độ $Oxyz$ trong không gian có gốc $O$ là tâm Trái đất và đơn vị độ dài mỗi trục là $1000km$. Một thiên thạch (Coi như một hạt) chuyển động với vận tốc $v_1 = 2\\sqrt{2} \\cdot 10^3 (km/h)$ không đổi theo đường thẳng xuất phát từ điểm $M(0;5;12)$ đến $N(12;5;0)$."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

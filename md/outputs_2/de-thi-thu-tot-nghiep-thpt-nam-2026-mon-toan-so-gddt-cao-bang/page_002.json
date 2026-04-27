@@ -1,0 +1,322 @@
+[
+  {
+    "bbox": [
+      147,
+      69,
+      1503,
+      155
+    ],
+    "category": "Text",
+    "text": "Câu 11. Khảo sát thời gian tập thể dục của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau:"
+  },
+  {
+    "bbox": [
+      286,
+      149,
+      1369,
+      252
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0;20)</td><td>[20;40)</td><td>[40;60)</td><td>[60;80)</td><td>[80;100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      147,
+      249,
+      1002,
+      293
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tức phân vị thứ ba của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      188,
+      295,
+      344,
+      341
+    ],
+    "category": "List-item",
+    "text": "A. [40;60)."
+  },
+  {
+    "bbox": [
+      547,
+      295,
+      700,
+      334
+    ],
+    "category": "List-item",
+    "text": "B. [20;40)."
+  },
+  {
+    "bbox": [
+      907,
+      295,
+      1058,
+      334
+    ],
+    "category": "List-item",
+    "text": "C. [60;80)."
+  },
+  {
+    "bbox": [
+      1268,
+      293,
+      1432,
+      332
+    ],
+    "category": "List-item",
+    "text": "D. [80;100)."
+  },
+  {
+    "bbox": [
+      150,
+      344,
+      1227,
+      395
+    ],
+    "category": "Text",
+    "text": "Câu 12. Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và công bội $q = 3$. Giá trị của $u_4$ bằng"
+  },
+  {
+    "bbox": [
+      188,
+      405,
+      288,
+      439
+    ],
+    "category": "List-item",
+    "text": "A. 162."
+  },
+  {
+    "bbox": [
+      547,
+      405,
+      635,
+      437
+    ],
+    "category": "List-item",
+    "text": "B. 24."
+  },
+  {
+    "bbox": [
+      907,
+      402,
+      994,
+      435
+    ],
+    "category": "List-item",
+    "text": "C. 48."
+  },
+  {
+    "bbox": [
+      1268,
+      400,
+      1356,
+      433
+    ],
+    "category": "List-item",
+    "text": "D. 54."
+  },
+  {
+    "bbox": [
+      150,
+      445,
+      1505,
+      530
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      150,
+      521,
+      1506,
+      783
+    ],
+    "category": "Text",
+    "text": "Câu 1. Trong quá trình sản xuất giấy, việc kiểm soát bọt rất quan trọng để đảm bảo chất lượng sản phẩm. Giả sử $y(x)$ là nồng độ của một chất gây bọt còn dư trong bể xử lý (đơn vị mol/L) tại thời điểm $x$ (giây), $y(x) > 0$ với $x \\ge 0$. Sau khi thêm một lượng chất chống tạo bọt, nồng độ chất gây bọt giảm dàn theo thời gian thỏa mãn hệ thức: $y'(x) = -7.10^{-4}y(x)$ với $x \\ge 0$. Biết rằng tại thời điểm bắt đầu xử lý $x = 0$, nồng độ chất gây bọt là 0,05 mol/L. Xét hàm số $f(x) = \\ln y(x)$ với $x \\ge 0$."
+  },
+  {
+    "bbox": [
+      191,
+      793,
+      446,
+      840
+    ],
+    "category": "Formula",
+    "text": "a) $f'(x) = -7.10^{-4}$."
+  },
+  {
+    "bbox": [
+      191,
+      848,
+      609,
+      896
+    ],
+    "category": "Formula",
+    "text": "b) $f(x) = -7.10^{-4}x + \\ln(0,05)$."
+  },
+  {
+    "bbox": [
+      191,
+      903,
+      563,
+      952
+    ],
+    "category": "Formula",
+    "text": "c) $y(30) - y(15) \\approx 5,7.10^{-4}$."
+  },
+  {
+    "bbox": [
+      150,
+      960,
+      1506,
+      1162
+    ],
+    "category": "Text",
+    "text": "d) Cho biết giá trị trung bình của hàm số liên tục $g(x)$ trên đoạn $[a;b]$ được định nghĩa là $\\frac{1}{b-a} \\int_a^b g(x)dx$. Nồng độ trung bình của chất gây bọt trong khoảng thời gian từ giây thứ 20 đến giây thứ 30 bằng 0,03 mol/L."
+  },
+  {
+    "bbox": [
+      150,
+      1162,
+      1506,
+      1284
+    ],
+    "category": "Text",
+    "text": "Câu 2. An và Bình là bạn thân ngồi cùng bàn. Cả hai đều có الطo quen chuẩn bị sẵn nhiều bút bi mực xanh và bút bi mực đen (tất cả đều còn mực) trong hộp bút của mình. Cả hai bạn cùng dùng loại bút bi E178 giống nhau."
+  },
+  {
+    "bbox": [
+      150,
+      1279,
+      1415,
+      1323
+    ],
+    "category": "Text",
+    "text": "Trong hộp bút của An chỉ có 10 chiếc bút bi E178 gồm: 5 bút bi mực xanh và 5 bút bi mực đen."
+  },
+  {
+    "bbox": [
+      150,
+      1319,
+      1441,
+      1362
+    ],
+    "category": "Text",
+    "text": "Trong hộp bút của Bình chỉ có 10 chiếc bút bi E178 gồm: 6 bút bi mực xanh và 4 bút bi mực đen."
+  },
+  {
+    "bbox": [
+      150,
+      1356,
+      1508,
+      1439
+    ],
+    "category": "Text",
+    "text": "An lấy ngẫu nhiên 1 chiếc bút bi từ hộp của mình bỏ vào hộp của Bình. Sau đó, Bình lấy ngẫu nhiên từ hộp của mình ra 1 chiếc bút bi để làm bài tập."
+  },
+  {
+    "bbox": [
+      191,
+      1442,
+      1257,
+      1522
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để chiếc bút bi An bỏ vào hộp của Bình là bút bi mực xanh bằng $\\frac{6}{11}$."
+  },
+  {
+    "bbox": [
+      191,
+      1530,
+      1349,
+      1611
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để chiếc bút bi Bình lấy ra từ hộp của mình là chiếc bút bi của An bằng $\\frac{1}{11}$."
+  },
+  {
+    "bbox": [
+      191,
+      1618,
+      1308,
+      1698
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để chiếc bút bi Bình lấy ra từ hộp của mình là bút bi mực xanh bằng $\\frac{13}{22}$."
+  },
+  {
+    "bbox": [
+      150,
+      1696,
+      1506,
+      1825
+    ],
+    "category": "Text",
+    "text": "d) Giả sử Bình lấy ra được một chiếc bút bi mực xanh từ hộp của mình. Xác suất để chiếc bút bi đó vốn thuộc về hộp của An ban đầu bằng $\\frac{1}{13}$."
+  },
+  {
+    "bbox": [
+      150,
+      1831,
+      726,
+      1916
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = f(x) = \\frac{x^2 + 4x - 1}{x - 1}$."
+  },
+  {
+    "bbox": [
+      191,
+      1922,
+      831,
+      1971
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đã cho có tập xác định là $D = \\mathbb{R} \\setminus \\{1\\}$."
+  },
+  {
+    "bbox": [
+      191,
+      1981,
+      884,
+      2081
+    ],
+    "category": "Text",
+    "text": "b) Hàm số đã cho có đạo hàm là $f'(x) = \\frac{x^2 - 2x - 3}{(x - 1)^2}$."
+  },
+  {
+    "bbox": [
+      191,
+      2088,
+      994,
+      2141
+    ],
+    "category": "Text",
+    "text": "c) Giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[2;3]$ bằng 7."
+  },
+  {
+    "bbox": [
+      191,
+      2167,
+      1179,
+      2216
+    ],
+    "category": "Text",
+    "text": "d) Phương trình đường tiêm cận xiên của đồ thị hàm số $f(x)$ là $y = x + 5$."
+  },
+  {
+    "bbox": [
+      1192,
+      2239,
+      1503,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4 - Mã đề 0101"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      526,
+      90,
+      1042,
+      492
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      125,
+      513,
+      433,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\int_{-1}^{1} (x^2 - 2 + \\sqrt{|x|}) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      513,
+      1131,
+      608
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\int_{-1}^{1} (x^2 - 2 - \\sqrt{|x|}) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      125,
+      633,
+      455,
+      729
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\int_{-1}^{1} (-x^2 + 2 + \\sqrt{|x|}) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      633,
+      1153,
+      729
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\int_{-1}^{1} (-x^2 + 2 - \\sqrt{|x|}) \\, dx.\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      753,
+      843,
+      791
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      812,
+      198,
+      848
+    ],
+    "category": "Section-header",
+    "text": "### Chọn D."
+  },
+  {
+    "bbox": [
+      77,
+      863,
+      818,
+      906
+    ],
+    "category": "Text",
+    "text": "Diện tích hình phẳng được tô đâm trong hình vẽ bên là:"
+  },
+  {
+    "bbox": [
+      83,
+      926,
+      1117,
+      1022
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{-1}^{1} \\left| x^2 - 2 - (-\\sqrt{|x|}) \\right| \\, dx = \\int_{-1}^{1} \\left( -\\sqrt{|x|} - x^2 + 2 \\right) \\, dx \\quad (\\text{vì } x \\in [-1;1] \\Rightarrow -\\sqrt{|x|} > x^2 - 2).\n$$"
+  },
+  {
+    "bbox": [
+      77,
+      1044,
+      1494,
+      1092
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình hộp $ABCD.A'B'C'D'$. Đặt $\\overline{AB} = \\vec{a}$, $\\overline{AD} = \\vec{b}$, $\\overline{AA'} = \\vec{c}$. Phân tích vectơ $\\overline{AC'}$ theo $\\vec{a}, \\vec{b}, \\vec{c}$?"
+  },
+  {
+    "bbox": [
+      551,
+      1134,
+      986,
+      1474
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      125,
+      1535,
+      384,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\overline{AC'} = \\vec{a} + \\vec{b} - \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      476,
+      1535,
+      733,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\overline{AC'} = \\vec{a} - \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      825,
+      1535,
+      1084,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\overline{AC'} = \\vec{a} + \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      1175,
+      1535,
+      1450,
+      1579
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\overline{AC'} = -\\vec{a} + \\vec{b} + \\vec{c}.\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      1604,
+      843,
+      1642
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      77,
+      1661,
+      198,
+      1697
+    ],
+    "category": "Section-header",
+    "text": "### Chọn C."
+  },
+  {
+    "bbox": [
+      583,
+      1713,
+      981,
+      2029
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      77,
+      2046,
+      926,
+      2095
+    ],
+    "category": "Text",
+    "text": "Theo quy tắc hình hộp, ta có: $\\overline{AC'} = \\overline{AB} + \\overline{AD} + \\overline{AA'} = \\vec{a} + \\vec{b} + \\vec{c}$."
+  },
+  {
+    "bbox": [
+      77,
+      2115,
+      1494,
+      2238
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, cho mặt phẳng $(P)$: $2x - y + z - 3 = 0$. Vectơ nào dưới đây là một vectơ pháp tuyến của mặt phẳng $(P)$?"
+  },
+  {
+    "bbox": [
+      77,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2256,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

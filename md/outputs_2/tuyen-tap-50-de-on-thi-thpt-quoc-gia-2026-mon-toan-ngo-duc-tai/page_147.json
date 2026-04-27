@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      222,
+      152,
+      903,
+      234
+    ],
+    "category": "List-item",
+    "text": "c) Nghiệm phương trình $f'(x) = 0$ là $x = \\frac{1}{e}$."
+  },
+  {
+    "bbox": [
+      222,
+      226,
+      1444,
+      389
+    ],
+    "category": "List-item",
+    "text": "d) Tổng giá trị lớn nhất và giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $\\left[1; \\frac{1}{e^2}\\right]$ là $\\frac{1}{e} + 1$."
+  },
+  {
+    "bbox": [
+      193,
+      399,
+      1455,
+      607
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Ati một khu di tích vào ngày lễ hội hàng năm, tốc độ thay đổi lượng khách tham quan được biểu diễn bằng hàm số $Q'(t) = 4t^3 - 72t^2 + 288t$, trong đó $t$ tính bằng giờ ($0 \\le t \\le 13$), $Q'(t)$ tính bằng khách/giờ. (*Nguồn: R. Larson and B. Edwards, Calculus 10e, Cengage*)."
+  },
+  {
+    "bbox": [
+      193,
+      618,
+      833,
+      661
+    ],
+    "category": "Text",
+    "text": "Sau 2 giờ đã có 500 người có mặt. Khi đó"
+  },
+  {
+    "bbox": [
+      222,
+      668,
+      1446,
+      717
+    ],
+    "category": "List-item",
+    "text": "a) Lượng khách tham quan được biểu diễn bởi hàm số $Q(t) = t^4 - 24t^3 + 144t^2$."
+  },
+  {
+    "bbox": [
+      222,
+      727,
+      1039,
+      770
+    ],
+    "category": "List-item",
+    "text": "b) Sau 5 giờ lượng khách tham quan là 1325 người."
+  },
+  {
+    "bbox": [
+      222,
+      778,
+      1039,
+      824
+    ],
+    "category": "List-item",
+    "text": "c) Lượng khách tham quan lớn nhất là 1296 người."
+  },
+  {
+    "bbox": [
+      222,
+      832,
+      1350,
+      879
+    ],
+    "category": "List-item",
+    "text": "d) Tốc độ thay đổi lượng khách tham quan lớn nhất tại thời điểm $t = 6$."
+  },
+  {
+    "bbox": [
+      193,
+      903,
+      1455,
+      1112
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một phòng học có thiết kế dạng hình集合 chữ nhật với chiều dài 10 m, chiều rộng 7 m và chiều cao 3,3 m. Bức tường có kích thước $7 \\times 3,3$ được trang trí bởi một sốtt tranh, một chiếc quạt trần được treo trên trần nhà tại vị trí chính giữa trần nhà của phòng học."
+  },
+  {
+    "bbox": [
+      272,
+      1136,
+      1371,
+      1524
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      1564,
+      1455,
+      1774
+    ],
+    "category": "Text",
+    "text": "Xét hệ trục tọa độ $Oxyz$ có gốc tọa độ $O$ trùng với gốc phòng và mặt phẳng ($Oxy$) trùng với mặt sàn nhà như hình vẽ (các vecto đơn vị trên các trục có độ dài 1 m). Biết rằng thanh treo động cơ của quạt có độ dài 0,8 m. Giả sử xem động cơchiếccuạt trần là điểm $I$."
+  },
+  {
+    "bbox": [
+      222,
+      1784,
+      1218,
+      1829
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của động cơ quạt là $I(a; b; c)$ với $a = 3,5; b = 5; c = 2,5$."
+  },
+  {
+    "bbox": [
+      222,
+      1837,
+      1081,
+      1882
+    ],
+    "category": "List-item",
+    "text": "b) Khoảng cách từ động cơ quạt đến sàn nhà là 2,5 m."
+  },
+  {
+    "bbox": [
+      222,
+      1890,
+      1446,
+      1986
+    ],
+    "category": "List-item",
+    "text": "c) Khoảng cách từ động cơ quạt đếnttường có trang trí cáctt tranh là 5m."
+  },
+  {
+    "bbox": [
+      222,
+      1994,
+      1446,
+      2203
+    ],
+    "category": "List-item",
+    "text": "d) Người ta muốn dùng thiết bị cảm ứng, khi có người vào phòng thì quạt tự本, khi không có người trong phòng trong 15 phút thì quạt tắt. Giả sử tọa độ của thiết bị đó là $A(0; 2; 1)$. Khoảng cách từ thiết bị $A$ đến động cơ quạt $I$ nhỏ hơn 5,5 m."
+  },
+  {
+    "bbox": [
+      193,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

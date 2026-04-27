@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      103,
+      506,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ F(x) = 2\\cos\\frac{x}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      101,
+      1264,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ F(x) = \\frac{1}{2}(1 + \\sin x) + C\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      210,
+      500,
+      287
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ F(x) = 2\\sin\\frac{x}{2} + C\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      206,
+      1264,
+      287
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ F(x) = \\frac{1}{2}(1 - \\sin x) + C\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      309,
+      924,
+      348
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      367,
+      277,
+      405
+    ],
+    "category": "Section-header",
+    "text": "### Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      427,
+      1424,
+      508
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(x) = \\cos^2\\frac{x}{2} \\Rightarrow F(x) = \\int \\cos^2\\frac{x}{2} dx = \\int \\frac{1+\\cos x}{2} dx = \\frac{1}{2} \\int (1+\\cos x) dx = \\frac{1}{2}(1+\\sin x) + C$"
+  },
+  {
+    "bbox": [
+      157,
+      526,
+      1395,
+      570
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một vận động viên luyện tập chạy cự li 100 m đã ghi lại kết quả luyện tập như sau:"
+  },
+  {
+    "bbox": [
+      338,
+      585,
+      1389,
+      716
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (giây)</td><td>[10, 2; 10, 4)</td><td>[10, 4; 10, 6)</td><td>[10, 6; 10, 8)</td><td>[10, 8; 11)</td></tr><tr><td>Số vận động viên</td><td>3</td><td>7</td><td>8</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      771,
+      1296,
+      816
+    ],
+    "category": "Text",
+    "text": "Hãy xác định phương sai của mẫu số liệu trên (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      205,
+      835,
+      327,
+      871
+    ],
+    "category": "List-item",
+    "text": "A. 0,01."
+  },
+  {
+    "bbox": [
+      556,
+      835,
+      676,
+      871
+    ],
+    "category": "List-item",
+    "text": "B. 0,03."
+  },
+  {
+    "bbox": [
+      905,
+      835,
+      1032,
+      871
+    ],
+    "category": "List-item",
+    "text": "C. 0,06."
+  },
+  {
+    "bbox": [
+      1257,
+      835,
+      1379,
+      871
+    ],
+    "category": "List-item",
+    "text": "D. 0,07."
+  },
+  {
+    "bbox": [
+      807,
+      899,
+      924,
+      938
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      957,
+      277,
+      995
+    ],
+    "category": "Section-header",
+    "text": "### Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      1010,
+      813,
+      1054
+    ],
+    "category": "Text",
+    "text": "Chọn giá trị đại diện cho các nhóm số liệu, ta có:"
+  },
+  {
+    "bbox": [
+      338,
+      1069,
+      1389,
+      1261
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (giây)</td><td>[10, 2; 10, 4)</td><td>[10, 4; 10, 6)</td><td>[10, 6; 10, 8)</td><td>[10, 8; 11)</td></tr><tr><td>Giá trị đại diện</td><td>10,3</td><td>10,5</td><td>10,7</td><td>10,9</td></tr><tr><td>Số vận động viên</td><td>3</td><td>7</td><td>8</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1316,
+      740,
+      1360
+    ],
+    "category": "Text",
+    "text": "Tổng số vận động viên là: $3 + 7 + 8 + 2 = 20$"
+  },
+  {
+    "bbox": [
+      157,
+      1383,
+      1563,
+      1525
+    ],
+    "category": "Text",
+    "text": "Thời gian chạy trung bình của các vận động viên là: $\\bar{x} = \\frac{1}{20}(10,3 \\cdot 3 + 10,5 \\cdot 7 + 10,7 \\cdot 8 + 10,9 \\cdot 2) = 10,59$ (giây)"
+  },
+  {
+    "bbox": [
+      157,
+      1546,
+      1392,
+      1627
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu là: $s^2 = \\frac{1}{20}(10,3^2 \\cdot 3 + 10,5^2 \\cdot 7 + 10,7^2 \\cdot 8 + 10,9^2 \\cdot 2) - 10,59^2 \\approx 0,03$"
+  },
+  {
+    "bbox": [
+      157,
+      1648,
+      1571,
+      1758
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình phẳng giới hạn bởi đồ thị hàm số $y = x^2$ và đường thẳng $y = 4$ quay quanh trục $Ox$. Thế tích khối tròn xoay sinh ra bằng:"
+  },
+  {
+    "bbox": [
+      676,
+      1772,
+      1052,
+      2235
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

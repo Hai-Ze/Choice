@@ -1,0 +1,471 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      154,
+      1454,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho cấp số nhân $(u_n)$ có $u_1 = -2$ và $u_2 = 6$. Số hạng $u_3$ của cấp số nhân đã cho bằng"
+  },
+  {
+    "bbox": [
+      221,
+      275,
+      346,
+      312
+    ],
+    "category": "List-item",
+    "text": "A. -12."
+  },
+  {
+    "bbox": [
+      524,
+      275,
+      623,
+      312
+    ],
+    "category": "List-item",
+    "text": "B. 18."
+  },
+  {
+    "bbox": [
+      827,
+      275,
+      951,
+      312
+    ],
+    "category": "List-item",
+    "text": "C. -18."
+  },
+  {
+    "bbox": [
+      1128,
+      275,
+      1226,
+      312
+    ],
+    "category": "List-item",
+    "text": "D. 10."
+  },
+  {
+    "bbox": [
+      192,
+      341,
+      1071,
+      398
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Nếu $\\log_a b = 3$ và $\\log_a c = -5$ thì $\\log_a (b^2c^3)$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      416,
+      329,
+      453
+    ],
+    "category": "List-item",
+    "text": "A. -9."
+  },
+  {
+    "bbox": [
+      524,
+      416,
+      602,
+      453
+    ],
+    "category": "List-item",
+    "text": "B. 8."
+  },
+  {
+    "bbox": [
+      827,
+      416,
+      925,
+      453
+    ],
+    "category": "List-item",
+    "text": "C. 25."
+  },
+  {
+    "bbox": [
+      1128,
+      416,
+      1251,
+      453
+    ],
+    "category": "List-item",
+    "text": "D. -10."
+  },
+  {
+    "bbox": [
+      192,
+      484,
+      1454,
+      586
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong không gian $Oxyz$, cho mặt cầu $(S)$: $x^2+y^2+z^2-4x+2y-2z-3=0$. Tìm tọa độ tâm $I$ và bán kính $R$ của $(S)$."
+  },
+  {
+    "bbox": [
+      221,
+      605,
+      567,
+      646
+    ],
+    "category": "List-item",
+    "text": "A. $I(2;-1;1)$ và $R = 3$."
+  },
+  {
+    "bbox": [
+      833,
+      605,
+      1202,
+      646
+    ],
+    "category": "List-item",
+    "text": "B. $I(-2;1;-1)$ và $R = 3$."
+  },
+  {
+    "bbox": [
+      221,
+      666,
+      567,
+      707
+    ],
+    "category": "List-item",
+    "text": "C. $I(2;-1;1)$ và $R = 9$."
+  },
+  {
+    "bbox": [
+      833,
+      666,
+      1202,
+      707
+    ],
+    "category": "List-item",
+    "text": "D. $I(-2;1;-1)$ và $R = 9$."
+  },
+  {
+    "bbox": [
+      192,
+      737,
+      1254,
+      784
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Trong không gian $Oxyz$, trục $Oy$ có phương trình tham số là"
+  },
+  {
+    "bbox": [
+      221,
+      792,
+      382,
+      965
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\begin{cases} x = t \\\\ y = t \\\\ z = t. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      792,
+      732,
+      965
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\begin{cases} x = 0 \\\\ y = 2 + t \\\\ z = 0. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      792,
+      984,
+      965
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\begin{cases} x = 0 \\\\ y = 0 \\\\ z = t. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      792,
+      1295,
+      965
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\begin{cases} x = t \\\\ y = 0 \\\\ z = 0. \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      986,
+      1454,
+      1088
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Khảo sát thời gian tập thể dục của một số học sinh thu được mẫu số liệu ghép nhóm sau"
+  },
+  {
+    "bbox": [
+      325,
+      1113,
+      1321,
+      1226
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (phút)</td><td>[0;20)</td><td>[20;40)</td><td>[40;60)</td><td>[60;80)</td><td>[80;100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1252,
+      1078,
+      1299
+    ],
+    "category": "Text",
+    "text": "Nhóm chứa tư phân vị thứ nhất của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      221,
+      1318,
+      389,
+      1359
+    ],
+    "category": "List-item",
+    "text": "A. [40;60)."
+  },
+  {
+    "bbox": [
+      524,
+      1318,
+      692,
+      1359
+    ],
+    "category": "List-item",
+    "text": "B. [20;40)."
+  },
+  {
+    "bbox": [
+      827,
+      1318,
+      991,
+      1359
+    ],
+    "category": "List-item",
+    "text": "C. [60;80)."
+  },
+  {
+    "bbox": [
+      1128,
+      1318,
+      1310,
+      1359
+    ],
+    "category": "List-item",
+    "text": "D. [80;100)."
+  },
+  {
+    "bbox": [
+      192,
+      1388,
+      1430,
+      1435
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hàm số $f(x)$ và $g(x)$ có đạo hàm trên $\\mathbb{R}$. Mind đề nào sau đây sai?"
+  },
+  {
+    "bbox": [
+      221,
+      1437,
+      872,
+      1515
+    ],
+    "category": "List-item",
+    "text": "A. $\\int [f(x) + g(x)] dx = \\int f(x) dx + \\int g(x) dx$."
+  },
+  {
+    "bbox": [
+      221,
+      1517,
+      859,
+      1595
+    ],
+    "category": "List-item",
+    "text": "B. $\\int k f(x) dx = k \\int f(x) dx$ (số thực $k \\neq 0$)."
+  },
+  {
+    "bbox": [
+      221,
+      1597,
+      804,
+      1675
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x)g(x) dx = \\int f(x) dx \\cdot \\int g(x) dx$."
+  },
+  {
+    "bbox": [
+      221,
+      1677,
+      700,
+      1755
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f'(x) dx = f(x) + C(C \\in \\mathbb{R})$."
+  },
+  {
+    "bbox": [
+      192,
+      1770,
+      1454,
+      1872
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Gọi $S$ là diện tích của hình phẳng giới hạn bởi các đường $y = 2^x$, $y = 0$, $x = 0$, $x = 2$. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      221,
+      1874,
+      446,
+      2003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } S = \\int_{0}^{2} 2^{x} dx.\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      1874,
+      794,
+      2003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } S = \\pi \\int_{0}^{2} 2^{2x} dx.\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      1874,
+      1065,
+      2003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } S = \\int_{0}^{2} 2^{2x} dx.\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      1874,
+      1380,
+      2003
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } S = \\pi \\int_{0}^{2} 2^{x} dx.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      2020,
+      1143,
+      2067
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Tập nghiệm của bất phương trình $\\log_3 (x+1) < 2$ là"
+  },
+  {
+    "bbox": [
+      221,
+      2086,
+      386,
+      2127
+    ],
+    "category": "List-item",
+    "text": "A. $(-1;8)$."
+  },
+  {
+    "bbox": [
+      524,
+      2086,
+      696,
+      2127
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty;8)$."
+  },
+  {
+    "bbox": [
+      827,
+      2086,
+      997,
+      2127
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty;7)$."
+  },
+  {
+    "bbox": [
+      1128,
+      2086,
+      1292,
+      2127
+    ],
+    "category": "List-item",
+    "text": "D. $(-1;7)$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1454,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

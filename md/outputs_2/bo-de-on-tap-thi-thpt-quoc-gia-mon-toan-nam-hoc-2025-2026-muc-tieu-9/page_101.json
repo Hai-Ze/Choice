@@ -1,0 +1,340 @@
+[
+  {
+    "bbox": [
+      188,
+      138,
+      1546,
+      226
+    ],
+    "category": "List-item",
+    "text": "d) Trên đường hầm $SP$, một lối thoát hiểm được khoan từ điểm $Q$ cách $P$ 1200 mét, khoan thẳng đứng lên trên mặt đất. Vậy chiều dài của lối thoát hiểm đó lớn hơn 2000 mét."
+  },
+  {
+    "bbox": [
+      154,
+      245,
+      199,
+      286
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      245,
+      566,
+      307
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      307,
+      1546,
+      424
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{AB} = (5; 3; -1)$. Đường thẳng $AB$ đi qua điểm $B(-2; 0; -9)$ và có vecto chỉ phương $\\vec{u}_{AB} = (5; 3; -1)$ có phương trình chính tắc là $AB : \\frac{x+2}{5} = \\frac{y}{3} = \\frac{z+9}{-1}$. (Mind đề ghi $z - 9$ là sai)."
+  },
+  {
+    "bbox": [
+      204,
+      441,
+      346,
+      481
+    ],
+    "category": "Text",
+    "text": "b) Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      477,
+      1168,
+      644
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số của đường thẳng $AB$ là $\\begin{cases} x = -2 + 5t \\\\ y = 3t \\\\ z = -9 - t \\end{cases}$, $t \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      154,
+      644,
+      703,
+      684
+    ],
+    "category": "Text",
+    "text": "Vì $S \\in AB$ nên $S(-2 + 5t; 3t; -9 - t)$."
+  },
+  {
+    "bbox": [
+      154,
+      682,
+      967,
+      728
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{CS} = (-6 + 5t; 3t + 6; -3 - t)$ và $\\overrightarrow{CD} = (3; 5; -2)$."
+  },
+  {
+    "bbox": [
+      154,
+      728,
+      951,
+      772
+    ],
+    "category": "Text",
+    "text": "Ba điểm $C, D, S$ thẳng hàng nên $\\overrightarrow{CS}, \\overrightarrow{CD}$ cùng phương:"
+  },
+  {
+    "bbox": [
+      154,
+      767,
+      600,
+      845
+    ],
+    "category": "Formula",
+    "text": "$$\n\\frac{5t - 6}{3} = \\frac{3t + 6}{5} = \\frac{-3 - t}{-2} \\quad (*)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      839,
+      1041,
+      917
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\frac{5t - 6}{3} = \\frac{3t + 6}{5} \\Leftrightarrow 25t - 30 = 9t + 18 \\Leftrightarrow 16t = 48 \\Leftrightarrow t = 3.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      911,
+      967,
+      989
+    ],
+    "category": "Text",
+    "text": "Thay $t = 3$ vào (*) thấy thỏa mãn $(\\frac{9}{3} = \\frac{15}{5} = \\frac{-6}{-2} = 3)$."
+  },
+  {
+    "bbox": [
+      154,
+      989,
+      843,
+      1033
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow S(13; 9; -12)$. Vậy hoành độ điểm $S$ bằng 13."
+  },
+  {
+    "bbox": [
+      204,
+      1055,
+      302,
+      1093
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      1089,
+      1546,
+      1201
+    ],
+    "category": "Text",
+    "text": "Tốc độ đào đường hầm $Y$ là $v_Y = \\frac{s_Y}{t_Y}$ với $s_Y$ (m) là độ dài đường hầm $Y$ ($s_Y = 100 \\cdot CS$), $t_Y$ là thời gian đào."
+  },
+  {
+    "bbox": [
+      154,
+      1201,
+      1546,
+      1291
+    ],
+    "category": "Text",
+    "text": "Ta có $C(4; -6; -6), S(13; 9; -12) \\Rightarrow CS = \\sqrt{(13 - 4)^2 + (9 + 6)^2 + (-12 + 6)^2} = 3\\sqrt{38}$ (đơn vị trục)."
+  },
+  {
+    "bbox": [
+      154,
+      1295,
+      1130,
+      1335
+    ],
+    "category": "Text",
+    "text": "Vì hai đường hầm bắt đầu đào cùng lúc và cùng đến $S$ nên $t_X = t_Y$."
+  },
+  {
+    "bbox": [
+      154,
+      1339,
+      1423,
+      1381
+    ],
+    "category": "Text",
+    "text": "Ta có $A(-7; -3; -8), S(13; 9; -12)$ và $v_X = 5$ m/ngày. Quăng đường thực $s_X = 100 \\cdot AS$."
+  },
+  {
+    "bbox": [
+      154,
+      1379,
+      1352,
+      1466
+    ],
+    "category": "Formula",
+    "text": "$$\nt_X = \\frac{s_X}{v_X} = \\frac{100 \\cdot \\sqrt{(13 + 7)^2 + (9 + 3)^2 + (-12 + 8)^2}}{5} = \\frac{100 \\cdot 4\\sqrt{35}}{5} = 80\\sqrt{35} \\text{ (ngày).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1462,
+      1134,
+      1552
+    ],
+    "category": "Text",
+    "text": "Tốc độ đào đường hầm $Y$ là: $v_Y = \\frac{100 \\cdot 3\\sqrt{38}}{80\\sqrt{35}} \\approx 3,91 < 4$ (m/ngày)."
+  },
+  {
+    "bbox": [
+      204,
+      1565,
+      306,
+      1603
+    ],
+    "category": "Text",
+    "text": "d) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      1605,
+      1546,
+      1693
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là điểm giao giữa mặt đất và lối thoát hiểm. Khi đó $QH$ là chiều dài lối thoát hiểm, $QH \\perp HP$ (tam giác $HPQ$ vuông tại $H$)."
+  },
+  {
+    "bbox": [
+      154,
+      1693,
+      1266,
+      1737
+    ],
+    "category": "Text",
+    "text": "Lối thoát hiểm khoan thẳng đứng nên $QH$ có vecto chỉ phương $\\vec{u}_1 = (0; 0; 1)$."
+  },
+  {
+    "bbox": [
+      154,
+      1739,
+      865,
+      1781
+    ],
+    "category": "Text",
+    "text": "Đường hầm $SP$ có vecto chỉ phương $\\vec{u} = (2; 1; 2)$."
+  },
+  {
+    "bbox": [
+      154,
+      1783,
+      821,
+      1825
+    ],
+    "category": "Text",
+    "text": "Cosin góc giữa hai đường thẳng $QH$ và $SP$ là:"
+  },
+  {
+    "bbox": [
+      154,
+      1821,
+      1121,
+      1907
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos(QH, SP) = \\cos \\angle HQP = \\frac{|\\vec{u}_1 \\cdot \\vec{u}|}{|\\vec{u}_1| \\cdot |\\vec{u}|} = \\frac{|0 + 0 + 2|}{\\sqrt{1^2} \\cdot \\sqrt{2^2 + 1^2 + 2^2}} = \\frac{2}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1907,
+      661,
+      1947
+    ],
+    "category": "Text",
+    "text": "Trong tam giác vuông $HPQ$, ta có:"
+  },
+  {
+    "bbox": [
+      154,
+      1943,
+      805,
+      2019
+    ],
+    "category": "Formula",
+    "text": "$$\nHQ = PQ \\cdot \\cos \\angle HQP = 1200 \\cdot \\frac{2}{3} = 800 \\text{ (m).}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2015,
+      677,
+      2055
+    ],
+    "category": "Text",
+    "text": "Vì $800 < 2000$ nên khẳng định d sai."
+  },
+  {
+    "bbox": [
+      204,
+      2074,
+      1149,
+      2116
+    ],
+    "category": "Text",
+    "text": "**Phần III. Câu trả lời ngắn** Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      154,
+      2135,
+      191,
+      2176
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      2135,
+      1546,
+      2222
+    ],
+    "category": "Text",
+    "text": "**Bài 1.** Cho hình chóp $S.ABCD$ có đáy là hình vuông có cạnh bằng $4\\sqrt{2}$, các cạnh bên bằng nhau và cùng bằng $2\\sqrt{6}$. Tính khoảng cách giữa hai đường thẳng $AD$ và $SC$."
+  },
+  {
+    "bbox": [
+      149,
+      2255,
+      821,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1596,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "101"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      94,
+      1142,
+      136
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là mục tiêu; $B$ là vị trí chiến sỹ và $BD$ là đường bơi của chiến sỹ."
+  },
+  {
+    "bbox": [
+      156,
+      153,
+      1072,
+      202
+    ],
+    "category": "Text",
+    "text": "Chọn một đơn vị độ dài là 100m suy ra $BC = 1; AB = 10; AC = 3\\sqrt{11}$"
+  },
+  {
+    "bbox": [
+      156,
+      221,
+      1574,
+      325
+    ],
+    "category": "Text",
+    "text": "Gọi vận tốc bơi của chiến sỹ là một đơn vị vận tốc thì vận tốc chạy của chiến sỹ là 3 đơn vị vận tốc. Gọi $x$ là quăng đường chiến sỹ bơi suy ra $BD = x$"
+  },
+  {
+    "bbox": [
+      156,
+      344,
+      1065,
+      398
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường chiến sỹ chạy là $AD = AC - CD = 3\\sqrt{11} - \\sqrt{x^2 - 1}$"
+  },
+  {
+    "bbox": [
+      156,
+      417,
+      1294,
+      514
+    ],
+    "category": "Text",
+    "text": "Thời gian chiến sỹ đến được mục tiêu là: $t = \\frac{3\\sqrt{11} - \\sqrt{x^2 - 1}}{3} + \\frac{x}{1} = \\sqrt{11} - \\frac{1}{3}\\sqrt{x^2 - 1} + x$"
+  },
+  {
+    "bbox": [
+      156,
+      535,
+      1356,
+      727
+    ],
+    "category": "Text",
+    "text": "Xét hàm $f(x) = \\sqrt{11} - \\frac{1}{3}\\sqrt{x^2 - 1} + x$ có $f'(x) = 1 - \\frac{1}{3}\\frac{x}{\\sqrt{x^2 - 1}} = 0 \\Leftrightarrow \\begin{cases} x = \\frac{3\\sqrt{2}}{4} (thoa man) \\\\ x = -\\frac{3\\sqrt{2}}{4} (loai) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      156,
+      746,
+      379,
+      790
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      165,
+      818,
+      805,
+      1132
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>1</td><td>$\\frac{3\\sqrt{2}}{4}$</td><td>10</td></tr><tr><td>$f'(x)$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td colspan=\"3\"></td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1165,
+      1108,
+      1257
+    ],
+    "category": "Text",
+    "text": "Vậy thời gian chiến sỹ đến mục tiêu ngắn nhất khi $f(x)_{\\min} \\Rightarrow x = \\frac{3\\sqrt{2}}{4}$"
+  },
+  {
+    "bbox": [
+      156,
+      1278,
+      894,
+      1371
+    ],
+    "category": "Text",
+    "text": "Vậy chiến sỹ phải bơi $\\frac{3\\sqrt{2}}{4} \\cdot 100 = 75\\sqrt{2}(m) \\approx 106(m)$."
+  },
+  {
+    "bbox": [
+      156,
+      1390,
+      1574,
+      1723
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một cửa hàng điện tử dự định kinh doanh hai loại tivi: loại 50 inch và loại 55 inch với số vốn ban đầu không vượt quá 1,8 tỉ đồng. Giá nhập vào ti vi loại 50 inch là 15 triệu đồng/1 chiếc và lợi nhuận dự kiến 2 triệu đồng/1 chiếc, giá nhập vào tivi loại 55 inch là 25 triệu đồng/1 chiếc và lợi nhuận dự kiến 3 triệu đồng/1 chiếc. Cửa hàng ước tính rằng tổng nhu cầu tiêu pun của thị trường sẽ không vượt quá 100 chiếc tivi cả hai loại. Lợi nhuận lớn nhất mà cửa hàng có thể thu được là bao nhiêu triệu đồng (sau khi đã bán hết hàng)?"
+  },
+  {
+    "bbox": [
+      156,
+      1741,
+      493,
+      1777
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1799,
+      924,
+      1839
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1856,
+      337,
+      1895
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 230"
+  },
+  {
+    "bbox": [
+      156,
+      1911,
+      1035,
+      1957
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ tương ứng là số ti vi loại 50 inch và 55 inch cần nhập về."
+  },
+  {
+    "bbox": [
+      156,
+      1982,
+      970,
+      2129
+    ],
+    "category": "Text",
+    "text": "Theo bài ra, ta có các điều kiện ràng buộc $\\begin{cases} x \\ge 0, y \\ge 0 \\\\ 15x + 25y \\le 1800 \\\\ x + y \\le 100 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      156,
+      2150,
+      1108,
+      2196
+    ],
+    "category": "Text",
+    "text": "Miền nghiệm của hệ bất phương trình được mô tả bằng tức giác $OABC$."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

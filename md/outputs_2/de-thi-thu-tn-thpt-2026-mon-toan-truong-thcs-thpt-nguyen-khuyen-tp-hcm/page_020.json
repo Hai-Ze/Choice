@@ -1,0 +1,121 @@
+[
+  {
+    "bbox": [
+      251,
+      121,
+      956,
+      306
+    ],
+    "category": "Text",
+    "text": "Bán kính hình tròn $(C_3)$ là $R_3 = \\frac{1}{2} A_3 B_3 = \\frac{a}{4}$\n$\\Rightarrow$ Diện tích hình tròn $(C_3)$ là $S_{T3} = \\pi \\cdot \\left(\\frac{a}{4}\\right)^2 = \\frac{\\pi a^2}{16}$."
+  },
+  {
+    "bbox": [
+      251,
+      306,
+      721,
+      354
+    ],
+    "category": "Text",
+    "text": "* Tiếp tục theo quy luật trên, ta có:"
+  },
+  {
+    "bbox": [
+      251,
+      354,
+      1505,
+      527
+    ],
+    "category": "Text",
+    "text": "Diện tích các hình vuông $A_1B_1C_1D_1, A_2B_2C_2D_2, A_3B_3C_3D_3, \\dots$ lần lượt là $a^2, \\frac{a^2}{2}, \\frac{a^2}{4}, \\dots$ lập thành cấp số nhân lùi vô hạn với số hạng đầu $S_{V1} = a^2$, công bội $q_1 = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      251,
+      532,
+      1211,
+      661
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Tổng diện tích các hình vuông là } S_V = a^2 + \\frac{a^2}{2} + \\frac{a^2}{4} + \\dots = \\frac{a^2}{1 - \\frac{1}{2}} = 2a^2\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      666,
+      1507,
+      847
+    ],
+    "category": "Text",
+    "text": "Diện tích các hình tròn nội tiếp tương ứng lần lượt là $\\frac{\\pi a^2}{4}, \\frac{\\pi a^2}{8}, \\frac{\\pi a^2}{16}, \\dots$ lập thành cấp số nhân lùi vô hạn với số hạng đầu $S_{T1} = \\frac{\\pi a^2}{4}$, công bội $q_2 = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      251,
+      850,
+      1349,
+      1017
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Tổng diện tích các hình tròn tương ứng là } S_T = \\frac{\\pi a^2}{4} + \\frac{\\pi a^2}{8} + \\frac{\\pi a^2}{16} + \\dots = \\frac{\\frac{\\pi a^2}{4}}{1 - \\frac{1}{2}} = \\frac{\\pi a^2}{2}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1022,
+      1353,
+      1115
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Tổng diện tích phần tô màu Đm là: } S = S_V - S_T = 2a^2 - \\frac{\\pi a^2}{2} = \\frac{a^2(4 - \\pi)}{2} (\\text{cm}^2)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1120,
+      1429,
+      1211
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } a = 60(\\text{cm}), \\text{ ta có tổng diện tích phần tô màu Đm là: } S = \\frac{60^2 \\cdot (4 - \\pi)}{2} \\approx 1545(\\text{cm}^2)\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      1225,
+      1536,
+      1493
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Trên một ô lưới như hình, hình chữ chữ nhật $AB$ gồm 9 cột và 5 hàng ô vuông. Một bé cún xuất phát từ điểm $A$ và chạy đến điểm $B$. Mỗi bước, bé cún chỉ được chạy sang phải hoặc xuống dưới đúng 1 ô (đi theo các cạnh của ô vuông), vì vậy bé cún luôn đi theo đường ngắn nhất. Trong hình vuông có phần tô Đm là những整数 bùn. Bé cún không được chạy vào miền trong của các vùng tô Đm, nhưng vẫn được phép chạy trên đường biên của chúng. Hỏi bé cún có bao nhiêu cách chạy từ $A$ đến $B$?"
+  },
+  {
+    "bbox": [
+      508,
+      1504,
+      1131,
+      1919
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      836,
+      1932,
+      950,
+      1970
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      2007,
+      452,
+      2045
+    ],
+    "category": "Text",
+    "text": "Dáp án: 1127."
+  }
+]

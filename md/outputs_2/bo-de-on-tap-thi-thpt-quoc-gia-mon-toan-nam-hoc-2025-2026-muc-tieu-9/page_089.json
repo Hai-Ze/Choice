@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      202,
+      140,
+      612,
+      181
+    ],
+    "category": "Text",
+    "text": "Vậy $d(AB, A'C') = AA' = 4$."
+  },
+  {
+    "bbox": [
+      152,
+      202,
+      1548,
+      420
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một tấm bìa cứng có kích thước 60 (cm) và 90 (cm) được cấp đối thành một hình chữ nhật 60 (cm) và 45 (cm) như hình vẽ. Sau đó, cắt ra từ các góc của hình chữ nhật vừa cấp bốn hình vuông bằng nhau có cạnh $x$ (cm). Tấm bìa được mở ra và sáu mép được cấp lên để tạo thành một集合 chữ nhật ($H$) có nắp và đáy (như hình vẽ). Thể tích lớn nhất của khối ($H$) bằng bao nhiêu lít? (làm tròn kết quả đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      162,
+      424,
+      1556,
+      787
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      152,
+      826,
+      1546,
+      929
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Sau khi cấp đối tấm bìa và cắt hình vuông cạnh $x$ ở 4 góc của lớp bìa kép, khi mở ra ta có hình khai triển của集合 chữ nhật có nắp. Các kích thước của集合 ($H$) là:"
+  },
+  {
+    "bbox": [
+      195,
+      949,
+      581,
+      988
+    ],
+    "category": "List-item",
+    "text": "* Chiều cao: $h = 2x$ (cm)."
+  },
+  {
+    "bbox": [
+      195,
+      1007,
+      709,
+      1047
+    ],
+    "category": "List-item",
+    "text": "* Chiều dài đáy: $a = 60 - 2x$ (cm)."
+  },
+  {
+    "bbox": [
+      195,
+      1065,
+      727,
+      1105
+    ],
+    "category": "List-item",
+    "text": "* Chiều rộng đáy: $b = 45 - 2x$ (cm)."
+  },
+  {
+    "bbox": [
+      152,
+      1118,
+      899,
+      1196
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $0 < x < \\frac{45}{2} = 22,5$. Thể tích khối集合 là:"
+  },
+  {
+    "bbox": [
+      456,
+      1202,
+      1242,
+      1244
+    ],
+    "category": "Formula",
+    "text": "$$\nV(x) = (60 - 2x)(45 - 2x) \\cdot 2x = 8x^3 - 420x^2 + 5400x.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1252,
+      652,
+      1293
+    ],
+    "category": "Text",
+    "text": "Ta có $V'(x) = 24x^2 - 840x + 5400$."
+  },
+  {
+    "bbox": [
+      515,
+      1302,
+      1177,
+      1477
+    ],
+    "category": "Formula",
+    "text": "$$\nV'(x) = 0 \\Leftrightarrow \\begin{cases} x = \\frac{35 + 5\\sqrt{13}}{2} \\approx 36,18 \\text{ (loại)} \\\\ x = \\frac{35 - 5\\sqrt{13}}{2} \\approx 13,82 \\text{ (nhận)} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      1479,
+      393,
+      1518
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      513,
+      1524,
+      1185,
+      1845
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{35-5\\sqrt{13}}{2}$</td><td>22,5</td></tr><tr><td>$V'(x)$</td><td>+</td><td>0</td><td>-</td></tr><tr><td>$V(x)$</td><td colspan=\"3\">$V_{\\max}$</td></tr><tr><td></td><td>0</td><td></td><td>0</td></tr></table>"
+  },
+  {
+    "bbox": [
+      152,
+      1851,
+      829,
+      1937
+    ],
+    "category": "Text",
+    "text": "Thể tích lớn nhất đạt được tại $x = \\frac{35 - 5\\sqrt{13}}{2}$:"
+  },
+  {
+    "bbox": [
+      549,
+      1942,
+      1147,
+      2038
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{\\max} = V\\left(\\frac{35 - 5\\sqrt{13}}{2}\\right) \\approx 20468,04 \\text{ cm}^3.\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      2043,
+      859,
+      2083
+    ],
+    "category": "Text",
+    "text": "Đổi đơn vị: $20468,04 \\text{ cm}^3 \\approx 20,468 \\text{ lít} \\approx 20,5 \\text{ lít}$."
+  },
+  {
+    "bbox": [
+      152,
+      2088,
+      891,
+      2129
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích lớn nhất của khối集合 khoảng 20,5 lít."
+  },
+  {
+    "bbox": [
+      152,
+      2149,
+      1546,
+      2190
+    ],
+    "category": "Text",
+    "text": "Bài 3. Cho tập $X = \\{1; 2; 3; \\dots; 12\\}$. Chọn ngẫu nhiên 4 số phân biệt từ tập $X$ rồi đặt 1 số"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "89"
+  }
+]

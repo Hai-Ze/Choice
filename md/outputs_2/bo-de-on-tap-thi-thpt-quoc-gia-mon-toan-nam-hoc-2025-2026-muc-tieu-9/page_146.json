@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      153,
+      140,
+      1548,
+      315
+    ],
+    "category": "Text",
+    "text": "1,3 km và ở vị trí có hoành độ $x = 2$ nó cao 550 mét so với mặt đất (coi trục $Ox$ nằm trên mặt đất, tham khảo hình vẽ). Trên sường núi phía Tây, ở độ cao 900 m, một đường hầm thẳng được xây dựng xuyên qua núi, kéo thẳng đến đỉnh. Đường hầm dài bao nhiêu km (kết quả làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      358,
+      327,
+      1341,
+      773
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      806,
+      1548,
+      908
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Kí hiệu $M, N$ là hai đầu của đường hầm (tham khảo hình vẽ). Khi đó $N$ là đỉnh núi, $M$ là điểm nằm bên sường phía Tây."
+  },
+  {
+    "bbox": [
+      335,
+      920,
+      1363,
+      1412
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1428,
+      979,
+      1478
+    ],
+    "category": "Text",
+    "text": "Độ dài đường hầm là $MN = \\sqrt{(x_N - x_M)^2 + (y_N - y_M)^2}$."
+  },
+  {
+    "bbox": [
+      203,
+      1496,
+      831,
+      1535
+    ],
+    "category": "Text",
+    "text": "Từ dữ kiện bài toán, ta có hệ phương trình:"
+  },
+  {
+    "bbox": [
+      282,
+      1545,
+      1417,
+      1802
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} f(0) = 1,3 \\\\ f(2) = 0,55 \\end{cases} \\Leftrightarrow \\begin{cases} a + b \\cdot 2^0 = 1,3 \\\\ a + b \\cdot 2^{-2} = 0,55 \\end{cases} \\Leftrightarrow \\begin{cases} a + b = 1,3 \\\\ a + b \\cdot 2^{-4} = 0,55 \\end{cases} \\\\ \\Leftrightarrow \\begin{cases} a + b = 1,3 \\\\ a + \\frac{b}{16} = 0,55 \\end{cases} \\Leftrightarrow \\begin{cases} a = 0,5 \\\\ b = 0,8 \\end{cases} \\quad (\\text{vì } 1,3 - 0,55 = 0,75 = \\frac{15b}{16} \\Rightarrow b = 0,8).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1800,
+      1075,
+      1845
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình mô phỏng ngọn núi là $f(x) = 0,5 + 0,8 \\cdot 2^{-x^2}$."
+  },
+  {
+    "bbox": [
+      203,
+      1862,
+      1545,
+      1905
+    ],
+    "category": "Text",
+    "text": "Điểm $M$ nằm ở sường phía Tây (ứng với $x < 0$) và ở độ cao 900 m = 0,9 km. Ta có $f(x_M) = 0,9$:"
+  },
+  {
+    "bbox": [
+      400,
+      1911,
+      1298,
+      1991
+    ],
+    "category": "Formula",
+    "text": "$$\n0,5 + 0,8 \\cdot 2^{-x_M^2} = 0,9 \\Leftrightarrow 0,8 \\cdot 2^{-x_M^2} = 0,4 \\Leftrightarrow 2^{-x_M^2} = \\frac{1}{2} = 2^{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      439,
+      2002,
+      1258,
+      2048
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow -x_M^2 = -1 \\Leftrightarrow x_M^2 = 1 \\Leftrightarrow x_M = -1 \\text{ (do } M \\text{ ở phía Tây).}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      2053,
+      717,
+      2093
+    ],
+    "category": "Text",
+    "text": "Vậy $M(-1; 0,9)$. Đỉnh núi là $N(0; 1,3)$."
+  },
+  {
+    "bbox": [
+      318,
+      2158,
+      1378,
+      2215
+    ],
+    "category": "Formula",
+    "text": "$$\nMN = \\sqrt{(0 - (-1))^2 + (1,3 - 0,9)^2} = \\sqrt{1^2 + 0,4^2} = \\sqrt{1,16} \\approx 1,08 \\text{ (km).}\n$$"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "146"
+  },
+  {
+    "bbox": [
+      829,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

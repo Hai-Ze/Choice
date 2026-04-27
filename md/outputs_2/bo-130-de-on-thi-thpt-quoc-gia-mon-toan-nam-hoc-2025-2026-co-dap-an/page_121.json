@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      123,
+      1097,
+      162
+    ],
+    "category": "Text",
+    "text": "là máy A đến tất cả các máy còn lại để tối ưu hóa việc sử dụng tài nguyên."
+  },
+  {
+    "bbox": [
+      276,
+      194,
+      1009,
+      704
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      752,
+      1032,
+      785
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      743,
+      1196,
+      796
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      812,
+      1196,
+      893
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Có bao nhiêu giá trị nguyên của $a$ để giá trị nhỏ nhất của hàm số $y = |x - a| + 22$ trên đoạn $[-5; 5]$ bằng 22?"
+  },
+  {
+    "bbox": [
+      979,
+      857,
+      1032,
+      891
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      849,
+      1196,
+      902
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      935,
+      807,
+      1293
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Nhân迎 20/11, Thầy Đức tổ chức show âm乐 với 140 bạn học sinh tham dự. Các anh chị trợ giảng đã thống kê lại được số lượng học sinh ở lại coi thầy Đức hát, được biểu diễn qua hàm $f(t) = \\begin{cases} 140 - 25t, & 0 \\le t \\le 2 \\\\ -10(t - 2)^2 + 90, & t > 2 \\end{cases}$ (học sinh), với $t$ là số giờ trôi qua. Hỏi từ lúc bắt đầu cho đến khi học sinh ra về hết, trung bình mỗi giờ còn lại bao nhiêu học sinh ở lại nghe thầy Đức hát?"
+  },
+  {
+    "bbox": [
+      838,
+      948,
+      1176,
+      1277
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      979,
+      1297,
+      1032,
+      1331
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1289,
+      1196,
+      1342
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1374,
+      1199,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 5.** Trong mô hình toán học, bề mặt Trái Đất là mặt cầu với bán kính 6371 km (theo: science.nasa.gov/earth/facts). Mỗi kinh tuyến là một nửa đường tròn có đường kính là trục của Trái Đất (đoạn thẳng nối cực Bắc $N$ và cực Nam $S$). Kinh tuyến gốc là kinh tuyến đi qua Đài Thiên văn Greenwich ở London. Miền phẳng chứa kinh tuyến gốc chia Trái Đất làm hai nửa là bán cầu Đông và bán cầu Tây, nước ta nằm ở bán cầu Đông. Kinh độ của một điểm $P$ trên bề mặt Trái Đất là số đo của góc nhị diện có hai mặt tương ứng chứa kinh tuyến gốc và kinh tuyến đi qua $P$ (cạnh của góc nhị diện này là đường thẳng chứa trục Trái Đất). Kinh độ nhận giá trị trong đoạn từ $0^\\circ$ đến $180^\\circ$. Vĩ độ của điểm $P$ là số đo của góc giữa mặt phẳng chứa đường xích đạo và đường thẳng đi qua $P$ và tâm $O$ của Trái Đất. Vĩ độ nhận giá trị trong đoạn từ $0^\\circ$ đến $90^\\circ$. Mỗi điểm trên bề mặt Trái Đất thuộc một trong hai bán cầu Bắc hoặc Nam và thuộc một trong hai bán cầu Đông hoặc Tây. Vì vậy, đi kèm với vĩ độ, còn có chữ $E$ hoặc $W$ nếu vị trí đó tương ứng thuộc bán cầu Đông hay bán cầu Tây và có chữ $N$, $S$ nếu vị trí đó tương ứng ở bán cầu Bắc hay bán cầu Nam. (hình vẽ)\nBiết một vị trí ở Hà Nội có tọa độ là $21^\\circ N, 106^\\circ E$ và một vị trí ở thủ đô Reykjavik"
+  },
+  {
+    "bbox": [
+      637,
+      1388,
+      1181,
+      1881
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      168,
+      1595,
+      2232
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1442,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm"
+  },
+  {
+    "bbox": [
+      1460,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "119"
+  }
+]

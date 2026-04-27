@@ -1,0 +1,239 @@
+[
+  {
+    "bbox": [
+      153,
+      142,
+      406,
+      177
+    ],
+    "category": "Text",
+    "text": "hình vẽ bên dưới."
+  },
+  {
+    "bbox": [
+      530,
+      181,
+      1168,
+      569
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      605,
+      1548,
+      732
+    ],
+    "category": "Text",
+    "text": "Xét phép thử An và Bình lần lượt quay vòng quay trên. Gọi $A$ là biến cố \"An quay được số chia hết cho 3\"; $B$ là biến cố \"An quay được số chia hết cho 5\"; $C$ là biến cố \"Bình quay được số ch巧\"."
+  },
+  {
+    "bbox": [
+      190,
+      756,
+      958,
+      797
+    ],
+    "category": "List-item",
+    "text": "a) Không gian mẫu của phép thử có số kết quả là 24."
+  },
+  {
+    "bbox": [
+      190,
+      811,
+      1117,
+      852
+    ],
+    "category": "List-item",
+    "text": "b) Số kết quả thuận lợi cho biến cố $A, B, C$ lần lượt là 48, 24, 72."
+  },
+  {
+    "bbox": [
+      190,
+      859,
+      1372,
+      938
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để Bình quay được số ch巧, biết An quay được số chia hết cho 3 là $\\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      190,
+      941,
+      1344,
+      1018
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để An quay được số chia hết cho 5, biết Bình quay được số lẻ là $\\frac{1}{12}$."
+  },
+  {
+    "bbox": [
+      153,
+      1030,
+      198,
+      1068
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1030,
+      445,
+      1092
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      190,
+      1118,
+      1526,
+      1216
+    ],
+    "category": "List-item",
+    "text": "a) **Sai** Khi An quay thì có 12 khả năng xảy ra, còn khi Bình quay thì có 12 khả năng xảy ra.\nTheo quy tắc nhân, số phần tử của không gian mẫu là $n(\\Omega) = 12 \\cdot 12 = 144$."
+  },
+  {
+    "bbox": [
+      190,
+      1235,
+      341,
+      1274
+    ],
+    "category": "List-item",
+    "text": "b) **Đúng**"
+  },
+  {
+    "bbox": [
+      261,
+      1292,
+      1546,
+      1377
+    ],
+    "category": "List-item",
+    "text": "☆ Xét biến cố $A$: An quay được số chia hết cho 3 (gồm $\\{3, 6, 9, 12\\}$) có 4 khả năng, Bình quay ngẫu nhiên có 12 khả năng. thus $n(A) = 4 \\cdot 12 = 48$."
+  },
+  {
+    "bbox": [
+      261,
+      1387,
+      1546,
+      1472
+    ],
+    "category": "List-item",
+    "text": "☆ Xét biến cố $B$: An quay được số chia hết cho 5 (gồm $\\{5, 10\\}$) có 2 khả năng, Bình quay ngẫu nhiên có 12 khả năng. thus $n(B) = 2 \\cdot 12 = 24$."
+  },
+  {
+    "bbox": [
+      261,
+      1482,
+      1546,
+      1569
+    ],
+    "category": "List-item",
+    "text": "☆ Xét biến cố $C$: An quay ngẫu nhiên có 12 khả năng, Bình quay được số ch巧 (gồm $\\{2, 4, 6, 8, 10, 12\\}$) có 6 khả năng. thus $n(C) = 12 \\cdot 6 = 72$."
+  },
+  {
+    "bbox": [
+      190,
+      1585,
+      1546,
+      1670
+    ],
+    "category": "List-item",
+    "text": "c) **Sai** Vì việc quay của An và Bình là độc lập nên việc An quay được số chia hết cho 3 không ảnh hưởng đến xác suất quay của Bình."
+  },
+  {
+    "bbox": [
+      235,
+      1687,
+      1546,
+      1773
+    ],
+    "category": "Text",
+    "text": "Khi An quay được số chia hết cho 3, số khả năng Bình quay được số ch巧 vẫn là 6 khả năng trong tổng số 12 khả năng của Bình."
+  },
+  {
+    "bbox": [
+      235,
+      1781,
+      887,
+      1859
+    ],
+    "category": "Text",
+    "text": "Do đó xác suất cần tìm là $P(C|A) = \\frac{6}{12} = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      190,
+      1869,
+      1449,
+      1910
+    ],
+    "category": "List-item",
+    "text": "d) **Sai** Tương tự, việc Bình quay được số lẻ không ảnh hưởng đến kết quả quay của An."
+  },
+  {
+    "bbox": [
+      235,
+      1926,
+      1218,
+      1969
+    ],
+    "category": "Text",
+    "text": "Số khả năng An quay được số chia hết cho 5 là 2 khả năng ($\\{5, 10\\}$)."
+  },
+  {
+    "bbox": [
+      235,
+      1984,
+      1546,
+      2101
+    ],
+    "category": "Text",
+    "text": "Xác suất để An quay được số chia hết cho 5 khi biết Bình quay được số lẻ là $P(B|\\text{Bình lẻ}) = \\frac{2}{12} = \\frac{1}{6}$."
+  },
+  {
+    "bbox": [
+      153,
+      2123,
+      189,
+      2158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      196,
+      2123,
+      1546,
+      2206
+    ],
+    "category": "Text",
+    "text": "Bài 2. Một nhà khoa học đang nghiên cứu tác dụng của chất $X$ lên sự phát triển của loài hoa Kaiserkrone. Bằng cách trồng hai cây hoa đều cao 10 cm ở một môi trường có chất $X$ và một môi"
+  },
+  {
+    "bbox": [
+      159,
+      2254,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1561,
+      2251,
+      1598,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "75"
+  }
+]

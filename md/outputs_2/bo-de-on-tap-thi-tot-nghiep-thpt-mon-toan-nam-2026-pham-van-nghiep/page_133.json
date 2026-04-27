@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      109,
+      1407,
+      153
+    ],
+    "category": "Text",
+    "text": "Số tiền dùng để trồng hoa là $S \\cdot 150000 = 1791000$ nghìn đồng $= 1,791$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      212,
+      159,
+      1529,
+      205
+    ],
+    "category": "Text",
+    "text": "Số tiền dùng để trồng cỏ là $(10\\pi - S) \\cdot 100000 = 1947592,654$ nghìn đồng $1,948$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      212,
+      212,
+      1119,
+      255
+    ],
+    "category": "Text",
+    "text": "Vậy tổng số tiền cần là $1,791+1,948 = 3,739 \\approx 3,74$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      74,
+      261,
+      1556,
+      485
+    ],
+    "category": "List-item",
+    "text": "**Câu 6:** Bạn Thanh có hai hộ待 bi, các viên bi có cùng kích thước và hình dạng. Hộp thứ nhất có 8 viên bi trắng và 2 viên bi đen, hộ thứ hai có 6 viên bi trắng và 3 viên bi đen. Thanh lấy ngẫu nhiên một viên bi từ hộ thứ nhất để vào hộ thứ hai, sau đó lấy ngẫu nhiên một viên bi từ hộ thứ hai. Biết viên bi lấy ra ở hộ thứ hai là viên bi màu trắng. Tính xác suất viên bi đó thuộc hộ thứ nhất (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      765,
+      488,
+      884,
+      529
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      209,
+      534,
+      399,
+      574
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,12"
+  },
+  {
+    "bbox": [
+      212,
+      576,
+      1574,
+      711
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Viên bi lấy ra ở hộ thứ hai là viên bi màu trắng”, $B$ là biến cố “Viên bi lấy ra ở hộ thứ hai thuộc hộ thứ nhất”, $C$ là biến cố “Từ hộ thứ nhất lấy được viên bi trắng”."
+  },
+  {
+    "bbox": [
+      212,
+      714,
+      522,
+      758
+    ],
+    "category": "Text",
+    "text": "Ta cần tính $P(B|A)$."
+  },
+  {
+    "bbox": [
+      212,
+      768,
+      1216,
+      849
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(C) = \\frac{8}{10} = \\frac{4}{5} \\Rightarrow P(\\bar{C}) = 1 - P(C) = \\frac{1}{5}, P(B) = \\frac{1}{10}, P(A|B) = \\frac{4}{5}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      855,
+      1402,
+      937
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } P(A) = P(AC) + P(A\\bar{C}) = P(C)P(A|C) + P(\\bar{C})P(A|\\bar{C}) = \\frac{4}{5} \\cdot \\frac{7}{10} + \\frac{1}{5} \\cdot \\frac{6}{10} = \\frac{17}{25}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      943,
+      1458,
+      1102
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } P(B|A) = \\frac{P(AB)}{P(A)} = \\frac{P(B)P(A|B)}{P(A)} = \\frac{\\frac{1}{10} \\cdot \\frac{4}{5}}{\\frac{17}{25}} = \\frac{2}{17} \\approx 0,12. \\text{Vậy } P(B|A) = \\frac{2}{17} \\approx 0,12.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      80,
+      97,
+      506,
+      311
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{align*}\n\\overline{MS} \\cdot \\overline{CB} &= (\\overline{MC} + \\overline{CS}) \\cdot \\overline{CB} \\\\\n&= \\overline{MC} \\cdot \\overline{CB} + \\overline{CS} \\cdot \\overline{CB} \\\\\n&= 0 + |\\overline{CS}| \\cdot |\\overline{CB}| \\cdot \\cos 60 = \\frac{a^2}{2}\n\\end{align*}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      386,
+      1494,
+      490
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      76,
+      507,
+      645,
+      565
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $f(x) = \\sqrt{x^2 - 2x + 3}$."
+  },
+  {
+    "bbox": [
+      76,
+      586,
+      702,
+      631
+    ],
+    "category": "Text",
+    "text": "a) Tập xác định của hàm số đã cho là : $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      76,
+      650,
+      831,
+      740
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = \\frac{1-x}{\\sqrt{x^2 - 2x + 3}}$."
+  },
+  {
+    "bbox": [
+      76,
+      758,
+      757,
+      805
+    ],
+    "category": "Text",
+    "text": "c) Số nghiệm của phương trình $f'(x) = 0$ bằng 2."
+  },
+  {
+    "bbox": [
+      76,
+      822,
+      697,
+      867
+    ],
+    "category": "Text",
+    "text": "d) Giá trị nhỏ nhất của hàm số đã cho bằng 2."
+  },
+  {
+    "bbox": [
+      727,
+      886,
+      843,
+      925
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      940,
+      894,
+      1062
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1123,
+      818,
+      1166
+    ],
+    "category": "Text",
+    "text": "a) Vì $x^2 - 2x + 3 > 0 \\quad \\forall x \\in \\mathbb{R}$ nên tập xác định: $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      76,
+      1186,
+      1039,
+      1278
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $f(x) = \\sqrt{x^2 - 2x + 3} \\Rightarrow f'(x) = \\frac{2x-2}{2\\sqrt{x^2 - 2x + 3}} = \\frac{x-1}{\\sqrt{x^2 - 2x + 3}}$."
+  },
+  {
+    "bbox": [
+      76,
+      1302,
+      553,
+      1347
+    ],
+    "category": "Text",
+    "text": "c) d) $f'(x) = 0 \\Leftrightarrow x-1 = 0 \\Leftrightarrow x = 1$"
+  },
+  {
+    "bbox": [
+      76,
+      1371,
+      298,
+      1414
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      266,
+      1426,
+      1302,
+      1797
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1814,
+      1192,
+      1876
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên: $\\min_{\\mathbb{R}} y = \\sqrt{2}$ khi $x = 1$ và hàm số không có giá trị lớn nhất."
+  },
+  {
+    "bbox": [
+      76,
+      1893,
+      1494,
+      2148
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Giả sử rằng khi tăng $t$ năm tuổi, một máy công nghiệp $A$ tạo ra doanh thu với tốc độ $R'(t) = 650 - 3t^2$ (triệu đồng/năm), thời điểm $t = 0$ tính từ lúc máy $A$ bắt đầu hoạt động. Biết rằng chi phí biên cho vận hành và bảo trì là $C'(t) = 48 + 12t^2$ (triệu đồng/năm), ở đây $C(t)$ là chi phí vận hành và bảo trì của máy $A$ khi nó được $t$ năm tuổi."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1573,
+      137
+    ],
+    "category": "Text",
+    "text": "a) Giả sử thùng hàng được lấy ra là thùng hàng chưa được kiểm định, xác suất thùng hàng đó là thùng"
+  },
+  {
+    "bbox": [
+      155,
+      155,
+      754,
+      276
+    ],
+    "category": "Text",
+    "text": "loại I là: $P(A|\\bar{B}) = \\frac{n(\\bar{A}\\bar{B})}{n(\\bar{B})} = \\frac{96}{174} \\approx 55,2\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      296,
+      1573,
+      343
+    ],
+    "category": "Text",
+    "text": "Giả sử thùng hàng được lấy ra là thùng hàng chưa được kiểm định, xác suất thùng hàng đó là thùng loại II"
+  },
+  {
+    "bbox": [
+      155,
+      362,
+      677,
+      481
+    ],
+    "category": "Text",
+    "text": "là: $P(\\bar{A}|\\bar{B}) = \\frac{n(\\bar{A}\\bar{B})}{n(\\bar{B})} = \\frac{78}{174} \\approx 44,8\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      508,
+      577,
+      569
+    ],
+    "category": "Text",
+    "text": "Nhận xét: $P(A|\\bar{B}) > P(\\bar{A}|\\bar{B})$."
+  },
+  {
+    "bbox": [
+      155,
+      594,
+      1098,
+      678
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được thùng hàng loại I là: $P(A) = \\frac{480}{480+520} = 48\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      694,
+      1041,
+      740
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được thùng hàng loại II và đã được kiểm định là:"
+  },
+  {
+    "bbox": [
+      162,
+      759,
+      630,
+      869
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}\\bar{B}) = \\frac{n(\\bar{A}\\bar{B})}{n(\\Omega)} = \\frac{442}{1000} = 44,2\\%.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      889,
+      873,
+      935
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được thùng hàng chưa kiểm định là:"
+  },
+  {
+    "bbox": [
+      155,
+      954,
+      696,
+      1063
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cách 1: } P(\\bar{B}) = \\frac{n(\\bar{B})}{n(\\Omega)} = \\frac{174}{1000} = 17,4\\%.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1088,
+      1249,
+      1151
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cách 2: } P(\\bar{B}) = P(A) \\cdot P(\\bar{B}|A) + P(\\bar{A}) \\cdot P(\\bar{B}|\\bar{A}) = 0,48 \\cdot 0,2 + 0,52 \\cdot 0,15 = 17,4\\%.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1174,
+      1573,
+      1495
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Tại một nhà máy sản xuất một loại phân bón. Gọi $P(x)$ là lợi nhuận (tính theo triệu đồng) thu được từ việc bán $x$ (tấn) sản phẩm trong một tuần. Khi đó đạo hàm $P'(x)$ gọi là lợi nhuận cận biên, cho biết tốc độ tăng lợi nhuận theo lượng sản phẩm bán được. Giả sử lợi nhuận cận biên (tính theo triệu đồng trên tấn) của nhà máy được ước lượng bởi công thức: $P'(x) = 17 - 0,025x$ với $0 \\le x \\le 1000$. Biết nhà máy lỗ 24 triệu đồng nếu không bán được lượng sản phẩm nào trong tuần."
+  },
+  {
+    "bbox": [
+      522,
+      1508,
+      1201,
+      1935
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1952,
+      1573,
+      2067
+    ],
+    "category": "Text",
+    "text": "a) Công thức lợi nhuận (tính theo triệu đồng) thu được từ việc bán $x$ (tấn) sản phẩm trong một tuần là $P(x) = 17x - 0,0125x^2$."
+  },
+  {
+    "bbox": [
+      155,
+      2086,
+      1375,
+      2133
+    ],
+    "category": "Text",
+    "text": "b) Lợi nhuận nhà máy thu được khi bán 80 tấn sản phẩm trong tuần là 1 tỉ 256 triệu đồng."
+  },
+  {
+    "bbox": [
+      155,
+      2146,
+      1313,
+      2192
+    ],
+    "category": "Text",
+    "text": "c) Nếu nhà máy bán được từ 1,2 tấn sản phẩm trên tuần trở lên thì nhà máy luôn có lãi."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

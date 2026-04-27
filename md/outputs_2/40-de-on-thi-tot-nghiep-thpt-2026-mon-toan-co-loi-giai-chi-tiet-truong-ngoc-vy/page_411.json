@@ -1,0 +1,240 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      95,
+      1575,
+      395
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một phần đường chạy của tàu l reln siêu tốc (hình 1) khi gắn hệ trục toạ độ Oxy được mô phỏng ở hình 2, đơn vị trên mỗi trục là mét. Biết đường chạy của nó là một phần đồ thị hàm bậc ba $y = ax^3 + bx^2 + cx + d$ ($0 \\le x < 90$); tàu l reln siêu tốc xuất phát từ điểm A, đi qua các điểm C, D đồng thời đạt độ cao nhỏ nhất so với mặt đất là 6m. độ cao lớn nhất mà tàu l reln siêu tốc đạt được là bao nhiêu mét so với mặt đất? (Kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      317,
+      413,
+      842,
+      664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      574,
+      685,
+      674,
+      719
+    ],
+    "category": "Caption",
+    "text": "Hình 1"
+  },
+  {
+    "bbox": [
+      896,
+      413,
+      1410,
+      664
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1204,
+      685,
+      1305,
+      719
+    ],
+    "category": "Caption",
+    "text": "Hình 2"
+  },
+  {
+    "bbox": [
+      154,
+      800,
+      493,
+      836
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      858,
+      924,
+      897
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      916,
+      347,
+      955
+    ],
+    "category": "Text",
+    "text": "Đáp án: 39,9"
+  },
+  {
+    "bbox": [
+      154,
+      979,
+      1575,
+      1096
+    ],
+    "category": "Text",
+    "text": "Dựa vào hình 2 ta thấy đồ thị hàm số $y = f(x) = ax^3 + bx^2 + cx + d$ ($a < 0$) và đường thẳng $y = 30$ cắt nhau tại 3 điểm phân biệt có hoành độ $x = 0; x = 50; x = 80$."
+  },
+  {
+    "bbox": [
+      154,
+      1120,
+      1476,
+      1165
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow ax^3 + bx^2 + cx + d = 30 \\Leftrightarrow ax^3 + bx^2 + cx + d - 30 = 0 \\text{ có 3 nghiệm phân biệt } x = 0; x = 50; x = 80.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1190,
+      1111,
+      1244
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow ax^3 + bx^2 + cx + d - 30 = ax(x-50)(x-80) = a(x^3 - 130x^2 + 4000x)\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1271,
+      1184,
+      1326
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } f(x) = a(x^3 - 130x^2 + 4000x) + 30 \\Rightarrow f'(x) = a(3x^2 - 260x + 4000)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1351,
+      557,
+      1491
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow \\begin{cases} x = 20 & (TM) \\\\ x = \\frac{200}{3} & (TM) \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1517,
+      1030,
+      1600
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo bài ra độ cao nhỏ nhất bằng 6 hay } f(20) = 6 \\Leftrightarrow a = -\\frac{1}{1500}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1622,
+      1140,
+      1709
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Độ cao lớn nhất mà tàu l reln siêu tốc đạt được là } f\\left(\\frac{200}{3}\\right) = \\frac{3230}{81} \\approx 39,9.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1731,
+      1575,
+      2008
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nhóm của bạn Lan dự định làm thủ công các bó hoa bằng nguyên liệu là kẽm nhung để bán, góp tiền support hộ các em nhỏ mồ côi nhânepp day quoc tet thieu nhi 1/6 sắp tới. Biết cần 2 giờ để làm một bó hoa nhỏ có giá 60 nghìn đồng và 3 giờ để làm một bó hoa lớn có giá 100 nghìn đồng. Nhóm của Lan chỉ có thể sắp xếp tối đa 36 giờ để làm và yêu cầu của nhóm đặt ra là phải làm ít nhất 15 bó hoa. Hãy cho biết nhóm bạn Lan thu được số tiền lớn nhất là bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      154,
+      2024,
+      493,
+      2060
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      2082,
+      924,
+      2121
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      2140,
+      350,
+      2179
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1140"
+  },
+  {
+    "bbox": [
+      154,
+      2200,
+      985,
+      2239
+    ],
+    "category": "Text",
+    "text": "Giả sử nhóm của bạn Lan làm $x$ bó hoa nhỏ và $y$ bó hoa lớn."
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

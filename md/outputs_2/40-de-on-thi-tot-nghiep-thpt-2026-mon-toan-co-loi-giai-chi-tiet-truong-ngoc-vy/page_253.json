@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      968,
+      194
+    ],
+    "category": "Text",
+    "text": "Lấy đạo hàm hai vế theo biến $t$, ta được $s'(t) = \\frac{x(t) \\cdot x'(t)}{\\sqrt{10^2 + x^2(t)}}$"
+  },
+  {
+    "bbox": [
+      155,
+      214,
+      1574,
+      324
+    ],
+    "category": "Text",
+    "text": "Ta có $s'(t)$ là tốc độ thay đổi khoảng cách giữa máy bay và ra đa tại thời điểm $t$, $x'(t)$ là vận tốc của máy bay tại thời điểm $t$."
+  },
+  {
+    "bbox": [
+      155,
+      340,
+      1080,
+      388
+    ],
+    "category": "Text",
+    "text": "Xét tại thời điểm $t = t_0$ là thời điểm máy bay cách ra đa $16 \\text{ km}$. Ta có"
+  },
+  {
+    "bbox": [
+      162,
+      412,
+      679,
+      468
+    ],
+    "category": "Formula",
+    "text": "$$\ns'(t_0) = 546, x(t_0) = \\sqrt{16^2 - 10^2} = 2\\sqrt{39}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      491,
+      824,
+      596
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } x'(t_0) = \\frac{s'(t_0)\\sqrt{10^2 + x^2(t_0)}}{x(t_0)} = \\frac{546 \\cdot 16}{2\\sqrt{39}} \\approx 699\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      617,
+      683,
+      662
+    ],
+    "category": "Text",
+    "text": "Vậy vận tốc của máy bay là $699 \\text{ km/h}$."
+  },
+  {
+    "bbox": [
+      155,
+      680,
+      1574,
+      900
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Nam và ba người bạn lên kế hoạch cho một chuyển đi phetrong xuyên Việt, ghé thăm 4 thành phố: Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh (TP.HCM) và Cần Thơ. Heo xuất phát từ Hà Nội, đi qua tất cả các thành phố còn lại đúng một lần rồi quay về Hà Nội. Bảng chi phí nhiên liệu (tính bằng lít xăng) giữa các thành phố như sau:"
+  },
+  {
+    "bbox": [
+      490,
+      925,
+      1238,
+      1126
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>Hà Nội</th><th>Đà Nẵng</th><th>TP.HCM</th><th>Cần Thơ</th></tr></thead><tbody><tr><td>Hà Nội</td><td>0</td><td>40</td><td>90</td><td>110</td></tr><tr><td>Đà Nẵng</td><td>40</td><td>0</td><td>50</td><td>70</td></tr><tr><td>TP.HCM</td><td>90</td><td>50</td><td>0</td><td>30</td></tr><tr><td>Cần Thơ</td><td>110</td><td>70</td><td>30</td><td>0</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1150,
+      1574,
+      1253
+    ],
+    "category": "Text",
+    "text": "Xe của nhóm hiện đã có sẵn 150 lít xăng. Để hoàn thành hành trình, họ cần đổ thêm ít nhất bao nhiêu lít xăng?"
+  },
+  {
+    "bbox": [
+      155,
+      1270,
+      493,
+      1307
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1329,
+      924,
+      1368
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1387,
+      318,
+      1426
+    ],
+    "category": "Text",
+    "text": "Đáp án: 80"
+  },
+  {
+    "bbox": [
+      155,
+      1440,
+      1516,
+      1544
+    ],
+    "category": "Text",
+    "text": "Vì lịch trình xuất phát từ Hà Nội (HN), đi qua các thành phố Đà Nẵng (ĐN), Thành phố Hồ Chí Minh (HCM), Cần Thơ (CT) đúng một lần rồi trở về Hà Nội. Ta đi tìm lịch trình tốn ít nhiên liệu nhất."
+  },
+  {
+    "bbox": [
+      490,
+      1558,
+      1239,
+      1896
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1911,
+      1098,
+      1956
+    ],
+    "category": "Text",
+    "text": "Từ sơ đồ trên, ta chọn một trong các hành trình tiếtniêm nhất như sau:"
+  },
+  {
+    "bbox": [
+      155,
+      1973,
+      1101,
+      2019
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Hà Nội} \\xrightarrow{40} \\text{Đà Nẵng} \\xrightarrow{50} \\text{HCM} \\xrightarrow{30} \\text{Cần Thơ} \\xrightarrow{110} \\text{Hà Nội}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2032,
+      888,
+      2078
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số nhiên liệu cần sử dụng: } 40 + 50 + 30 + 110 = 230 (l).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2096,
+      687,
+      2142
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy họ cần đổ thêm: } 230 - 150 = 80 (l).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "bbox": [
+      203,
+      140,
+      606,
+      181
+    ],
+    "category": "Text",
+    "text": "a) Xác suất $P(B) = 0,0395$."
+  },
+  {
+    "bbox": [
+      203,
+      200,
+      811,
+      243
+    ],
+    "category": "Text",
+    "text": "b) Xác suất $P(A) = 0,01$ và $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      203,
+      261,
+      770,
+      303
+    ],
+    "category": "Text",
+    "text": "c) Xác suất có điều kiện $P(A|B) = 0,7$."
+  },
+  {
+    "bbox": [
+      154,
+      322,
+      1546,
+      407
+    ],
+    "category": "Text",
+    "text": "d) Trong số những bài viết bị phần mềm cảnh báo là đạo văn, có nhiều khả năng là bài viết chính chủ hơn là đạo văn."
+  },
+  {
+    "bbox": [
+      154,
+      426,
+      198,
+      464
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      424,
+      1165,
+      487
+    ],
+    "category": "Text",
+    "text": "*Hướng dẫn giải.* Từ giả thiết của bài toán, ta có các xác suất sau:"
+  },
+  {
+    "bbox": [
+      195,
+      502,
+      914,
+      543
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond P(A) = 1\\% = 0,01 \\Rightarrow P(\\bar{A}) = 1 - 0,01 = 0,99.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      561,
+      1440,
+      602
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Xác suất phần mềm báo đạo văn khi bài thực sự là đạo văn: } P(B|A) = 98\\% = 0,98.\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      618,
+      1422,
+      659
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Xác suất phần mềm báo nhầm đạo văn khi bài là chính chủ: } P(B|\\bar{A}) = 3\\% = 0,03.\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      679,
+      491,
+      720
+    ],
+    "category": "Text",
+    "text": "Xét các khẳng định:"
+  },
+  {
+    "bbox": [
+      203,
+      741,
+      880,
+      786
+    ],
+    "category": "Text",
+    "text": "a) **Đúng.** Áp dụng công thức xác suất đầy đủ:"
+  },
+  {
+    "bbox": [
+      405,
+      799,
+      1292,
+      903
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(B) &= P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) \\\\\nP(B) &= 0,01 \\cdot 0,98 + 0,99 \\cdot 0,03 = 0,0098 + 0,0297 = 0,0395.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      927,
+      1546,
+      1012
+    ],
+    "category": "Text",
+    "text": "b) **Đúng.** Theo thống kê đề bài cho: 1% bài đạo văn nên $P(A) = 0,01$ và 99% bài chính chủ nên $P(\\bar{A}) = 0,99$."
+  },
+  {
+    "bbox": [
+      203,
+      1034,
+      1546,
+      1079
+    ],
+    "category": "Text",
+    "text": "c) **Sai.** Áp dụng công thức Bayes để tính xác suất bài viết thực sự là đạo văn khi có cảnh báo:"
+  },
+  {
+    "bbox": [
+      545,
+      1087,
+      1152,
+      1265
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(A|B) &= \\frac{P(A \\cap B)}{P(B)} = \\frac{P(A) \\cdot P(B|A)}{P(B)} \\\\\nP(A|B) &= \\frac{0,01 \\cdot 0,98}{0,0395} = \\frac{0,0098}{0,0395} \\approx 0,2481.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1272,
+      510,
+      1311
+    ],
+    "category": "Text",
+    "text": "Giá trị này khác với 0,7."
+  },
+  {
+    "bbox": [
+      203,
+      1330,
+      1315,
+      1373
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.** Xác suất bài viết là đạo văn khi có cảnh báo là $P(A|B) \\approx 24,81\\%$."
+  },
+  {
+    "bbox": [
+      203,
+      1390,
+      1396,
+      1433
+    ],
+    "category": "Text",
+    "text": "Xác suất bài viết là chính chủ khi có cảnh báo là $P(\\bar{A}|B) = 1 - P(A|B) \\approx 75,19\\%$."
+  },
+  {
+    "bbox": [
+      154,
+      1452,
+      1546,
+      1538
+    ],
+    "category": "Text",
+    "text": "Vì $75,19\\% > 24,81\\%$ nên trong số những bài bị cảnh báo đạo văn, khả năng bài đó là chính chủ (bị báo nhầm) cao hơn nhiều so với khả năng nó thực sự là đạo văn."
+  },
+  {
+    "bbox": [
+      154,
+      1557,
+      190,
+      1595
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1555,
+      767,
+      1599
+    ],
+    "category": "Text",
+    "text": "**Bài 3.** Cho hàm số $g(x) = \\sqrt{2} \\sin x + x$."
+  },
+  {
+    "bbox": [
+      190,
+      1614,
+      979,
+      1661
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số đã cho là $g'(x) = \\sqrt{2} \\cos x + 1$."
+  },
+  {
+    "bbox": [
+      190,
+      1667,
+      1122,
+      1746
+    ],
+    "category": "Text",
+    "text": "b) Trên đoạn $[0; \\pi]$, phương trình $g'(x) = 0$ có nghiệm là $x = \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      1748,
+      632,
+      1821
+    ],
+    "category": "Text",
+    "text": "c) $g(0) = 0$ và $g(\\frac{\\pi}{4}) = 1 + \\frac{\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      190,
+      1825,
+      1094,
+      1902
+    ],
+    "category": "Text",
+    "text": "d) Giá trị nhỏ nhất của hàm số $g(x)$ trên đoạn $[0; \\pi]$ là $1 + \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      1921,
+      198,
+      1959
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      203,
+      1913,
+      1144,
+      1979
+    ],
+    "category": "Text",
+    "text": "*Hướng dẫn giải.* a) Ta có $g'(x) = (\\sqrt{2} \\sin x + x)' = \\sqrt{2} \\cos x + 1$."
+  },
+  {
+    "bbox": [
+      154,
+      1979,
+      565,
+      2022
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định a) là **Đúng**."
+  },
+  {
+    "bbox": [
+      203,
+      2033,
+      1285,
+      2124
+    ],
+    "category": "Text",
+    "text": "b) Xét phương trình $g'(x) = 0 \\Leftrightarrow \\sqrt{2} \\cos x + 1 = 0 \\Leftrightarrow \\cos x = -\\frac{1}{\\sqrt{2}} = -\\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      2120,
+      515,
+      2199
+    ],
+    "category": "Text",
+    "text": "Vì $x \\in [0; \\pi]$ nên $x = \\frac{3\\pi}{4}$."
+  },
+  {
+    "bbox": [
+      64,
+      2251,
+      100,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "58"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

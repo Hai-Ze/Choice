@@ -1,0 +1,169 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      1548,
+      271
+    ],
+    "category": "Text",
+    "text": "Biết $MN = 20$ cm, $ABCD$ là hình chữ nhật có $AB = 16$ cm, $AD = 32$ cm, hai cung $APD$ và $BQC$ là một phần của các đường parabol với định lần lượt là $P, Q$ và $PQ = 8$ cm. Tính thể tích của mô hình đó theo đơn vị $cm^3$. (Kết quả làm tròn đến hàng đơn vị)"
+  },
+  {
+    "bbox": [
+      153,
+      286,
+      199,
+      326
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      286,
+      829,
+      348
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Chọn hệ $Oxy$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      388,
+      358,
+      1300,
+      902
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      921,
+      1548,
+      1007
+    ],
+    "category": "Text",
+    "text": "Khi đó, cung $APD$ là một phần của đường parabol định $P(0; 4)$ và bề lõm quay lên nên có phương trình dạng $y = ax^2 + 4, a > 0$."
+  },
+  {
+    "bbox": [
+      204,
+      1016,
+      1279,
+      1096
+    ],
+    "category": "Text",
+    "text": "Parabol đi qua $D(16; 8)$ nên ta có $8 = 256a + 4 \\Leftrightarrow a = \\frac{1}{64} \\Rightarrow y = \\frac{1}{64}x^2 + 4$."
+  },
+  {
+    "bbox": [
+      204,
+      1103,
+      1544,
+      1182
+    ],
+    "category": "Text",
+    "text": "Tương tự, ta có cung $BQC$ là một phần của đường parabol có phương trình là $y = -\\frac{1}{64}x^2 - 4$."
+  },
+  {
+    "bbox": [
+      204,
+      1192,
+      967,
+      1235
+    ],
+    "category": "Text",
+    "text": "Thể tích của khối tròn xoay cần tìm là $V = V_1 - 2V_2$."
+  },
+  {
+    "bbox": [
+      153,
+      1244,
+      1544,
+      1361
+    ],
+    "category": "Text",
+    "text": "$V_1$ là thể tích của khối tròn xoay do hình phẳng giới hạn bởi parabol $y = \\frac{1}{64}x^2 + 4$, trục hoành và hai đường thẳng $x = -16, x = 16$ quay quanh $Ox$ nên"
+  },
+  {
+    "bbox": [
+      540,
+      1370,
+      1158,
+      1497
+    ],
+    "category": "Formula",
+    "text": "$$\nV_1 = \\pi \\int_{-16}^{16} \\left( \\frac{1}{64}x^2 + 4 \\right)^2 dx = \\frac{14336}{15}\\pi \\ (cm^3)\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1518,
+      1285,
+      1561
+    ],
+    "category": "Text",
+    "text": "$V_2$ là thể tích của khối nón có bán kính đáy bằng 8 và chiều cao bằng 6 nên"
+  },
+  {
+    "bbox": [
+      637,
+      1567,
+      1064,
+      1646
+    ],
+    "category": "Formula",
+    "text": "$$\nV_2 = \\frac{1}{3}\\pi \\cdot 8^2 \\cdot 6 = 128\\pi \\ (cm^3).\n$$"
+  },
+  {
+    "bbox": [
+      204,
+      1657,
+      1020,
+      1739
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } V = \\frac{14336}{15}\\pi - 2 \\cdot 128\\pi = \\frac{10496}{15}\\pi \\approx 2198,3 \\ (cm^3).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1748,
+      1548,
+      2014
+    ],
+    "category": "Text",
+    "text": "Bài 3. Ngày nay, để giúp xác định nhanh hàng thật hay giả 1 chiếc đồng hồ Rolex, ta dựa vào tốc độ góc thay đổi giữa các kim của đồng hồ (rad/phút). Chi� đồng hồ Rolex được thẩm định có kích thước chuẩn (loại cho nam) ở kim giờ và kim phút lần lượt là 10 mm và 15 mm. Biết rằng góc giữa hai kim là hàm $\\theta(t)$ với $t$ là số phút thể hiện sau 12 giờ chiều (tức thời điểm hai kim trùng nhau chỉ vào số 12). Xác định thời điểm $t$ đầu tiên mà diện tích tam giác $OAB$ bằng $37,5 \\ mm^2$? (Kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      153,
+      2255,
+      174,
+      2289
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      179,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "103"
+  }
+]

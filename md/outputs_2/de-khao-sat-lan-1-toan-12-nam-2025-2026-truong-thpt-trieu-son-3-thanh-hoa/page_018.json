@@ -1,0 +1,401 @@
+[
+  {
+    "bbox": [
+      556,
+      114,
+      1089,
+      156
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT MÃ ĐỀ GỐC 2"
+  },
+  {
+    "bbox": [
+      691,
+      197,
+      956,
+      235
+    ],
+    "category": "Text",
+    "text": "(Mã 1212 và 1214)"
+  },
+  {
+    "bbox": [
+      114,
+      270,
+      1533,
+      360
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      114,
+      398,
+      1241,
+      444
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho cấp số nhân $(u_n)$ với $u_3 = 10$ và công bội $q = 2$. Giá trị của $u_2$ bằng"
+  },
+  {
+    "bbox": [
+      251,
+      452,
+      327,
+      489
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      587,
+      452,
+      698,
+      487
+    ],
+    "category": "List-item",
+    "text": "B. -20."
+  },
+  {
+    "bbox": [
+      901,
+      452,
+      992,
+      487
+    ],
+    "category": "List-item",
+    "text": "C. -5."
+  },
+  {
+    "bbox": [
+      1216,
+      452,
+      1290,
+      487
+    ],
+    "category": "List-item",
+    "text": "D. 8."
+  },
+  {
+    "bbox": [
+      836,
+      492,
+      951,
+      529
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      536,
+      667,
+      615
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_3 = u_2q \\Leftrightarrow u_2 = \\frac{u_3}{q} = 5$."
+  },
+  {
+    "bbox": [
+      114,
+      621,
+      749,
+      662
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Nghiệm của phương trình $5^{x+1} = 7$ là"
+  },
+  {
+    "bbox": [
+      251,
+      684,
+      481,
+      725
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1 + \\log_5 7$."
+  },
+  {
+    "bbox": [
+      587,
+      684,
+      815,
+      725
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1 - \\log_5 7$."
+  },
+  {
+    "bbox": [
+      901,
+      684,
+      1151,
+      725
+    ],
+    "category": "List-item",
+    "text": "C. $x = -1 + \\log_5 7$."
+  },
+  {
+    "bbox": [
+      1216,
+      665,
+      1406,
+      752
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{1}{\\log_5 7}$."
+  },
+  {
+    "bbox": [
+      836,
+      759,
+      951,
+      796
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      800,
+      897,
+      844
+    ],
+    "category": "Text",
+    "text": "Ta có $5^{x+1} = 7 \\Leftrightarrow x+1 = \\log_5 7 \\Leftrightarrow x = -1 + \\log_5 7$"
+  },
+  {
+    "bbox": [
+      114,
+      848,
+      1533,
+      930
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hình chóp $S.ABC$ có đáy là tam giác $ABC$, $SA$ vuông góc với mặt phẳng đáy (minh hoạ như hình bên dưới)."
+  },
+  {
+    "bbox": [
+      726,
+      963,
+      1061,
+      1314
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1316,
+      1129,
+      1360
+    ],
+    "category": "Text",
+    "text": "Góc giữa đường thẳng $SC$ và mặt phẳng đáy là góc nào sau đây?"
+  },
+  {
+    "bbox": [
+      251,
+      1364,
+      369,
+      1408
+    ],
+    "category": "List-item",
+    "text": "A. $\\widehat{SBA}$."
+  },
+  {
+    "bbox": [
+      587,
+      1364,
+      715,
+      1408
+    ],
+    "category": "List-item",
+    "text": "B. $\\widehat{ACB}$."
+  },
+  {
+    "bbox": [
+      901,
+      1364,
+      1027,
+      1408
+    ],
+    "category": "List-item",
+    "text": "C. $\\widehat{SCB}$."
+  },
+  {
+    "bbox": [
+      1216,
+      1364,
+      1336,
+      1408
+    ],
+    "category": "List-item",
+    "text": "D. $\\widehat{SCA}$."
+  },
+  {
+    "bbox": [
+      836,
+      1413,
+      951,
+      1450
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1453,
+      365,
+      1490
+    ],
+    "category": "Text",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      251,
+      1492,
+      823,
+      1545
+    ],
+    "category": "Text",
+    "text": "Ta có $SA \\perp (ABC) \\Rightarrow (SC, (ABC)) = \\widehat{SCA}$"
+  },
+  {
+    "bbox": [
+      114,
+      1549,
+      1533,
+      1629
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Chọn ngẫu nhiên 3 viên bi từ một集合 có 10 viên bi gồm 4 bi xanh và 6 bi đỏ, xác suất chọn được 3 viên bi màu xanh là"
+  },
+  {
+    "bbox": [
+      251,
+      1635,
+      351,
+      1715
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{2}{15}$."
+  },
+  {
+    "bbox": [
+      587,
+      1635,
+      680,
+      1715
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{15}$."
+  },
+  {
+    "bbox": [
+      901,
+      1635,
+      1005,
+      1715
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{1}{30}$."
+  },
+  {
+    "bbox": [
+      1216,
+      1635,
+      1319,
+      1715
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{1}{20}$."
+  },
+  {
+    "bbox": [
+      836,
+      1720,
+      951,
+      1757
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1760,
+      365,
+      1797
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      251,
+      1797,
+      579,
+      1844
+    ],
+    "category": "Text",
+    "text": "Ta có $n(\\Omega) = C_{10}^3 = 120$."
+  },
+  {
+    "bbox": [
+      251,
+      1850,
+      1141,
+      1901
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố 3 viên bi chọn được màu xanh $\\Rightarrow n(A) = C_4^3 = 4$."
+  },
+  {
+    "bbox": [
+      251,
+      1907,
+      641,
+      2004
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow P(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{4}{120} = \\frac{1}{30}\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      2012,
+      809,
+      2058
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Họ nguyên hàm của hàm số $f(x) = 9^x$ là"
+  },
+  {
+    "bbox": [
+      251,
+      2072,
+      537,
+      2152
+    ],
+    "category": "List-item",
+    "text": "A. $F(x) = \\frac{9^x}{2\\ln 3} + C$."
+  },
+  {
+    "bbox": [
+      587,
+      2072,
+      890,
+      2152
+    ],
+    "category": "List-item",
+    "text": "B. $F(x) = 9^x \\cdot \\ln 9 + C$."
+  }
+]

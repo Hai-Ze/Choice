@@ -1,0 +1,102 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1169,
+      60,
+      1530,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      157,
+      94,
+      812,
+      136
+    ],
+    "category": "Text",
+    "text": "Khoảng cách bình phương giữa truyền và ô tô là"
+  },
+  {
+    "bbox": [
+      161,
+      157,
+      1371,
+      214
+    ],
+    "category": "Formula",
+    "text": "$$\nD^2(t) = (x_C - x_B)^2 + (y_C - y_B)^2 + (z_C - z_B)^2 = (-30 + 20t)^2 + (0 - (-40 + 10t))^2 + (20 - 0)^2.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      240,
+      1305,
+      285
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó } D^2(t) = 400t^2 - 1200t + 900 + 100t^2 - 800t + 1600 + 400 = 500t^2 - 2000t + 2900.\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      312,
+      1236,
+      394
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Hàm } D^2(t) \\text{ là hàm bậc hai nên đạt cực tiểu tại } t_0 = \\frac{-(-2000)}{2 \\cdot 500} = \\frac{2000}{1000} = 2 \\text{ (giây).}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      417,
+      1551,
+      469
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Giá trị nhỏ nhất: } D_{\\min}^2 = 500 \\cdot (2)^2 - 2000 \\cdot 2 + 2900 = 2000 - 4000 + 2900 = 900 \\rightarrow D_{\\min} = \\sqrt{900} = 30(m).\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      487,
+      631,
+      531
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách nhỏ nhất là 30 m."
+  },
+  {
+    "bbox": [
+      157,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      921,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 21"
+  }
+]

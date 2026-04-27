@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      251,
+      101,
+      1509,
+      190
+    ],
+    "category": "Text",
+    "text": "Thay các giá trị của $k$ vào $x = \\frac{11\\pi}{32} + \\frac{k\\pi}{2}$ ta được tập hợp các nghiệm trên khoảng $\\left(\\frac{\\pi}{4}; \\frac{19\\pi}{2}\\right)$:"
+  },
+  {
+    "bbox": [
+      255,
+      201,
+      1033,
+      291
+    ],
+    "category": "Formula",
+    "text": "$$\nx \\in \\left\\{ \\frac{11\\pi}{32}; \\frac{11\\pi}{32} + \\frac{\\pi}{2}; \\frac{11\\pi}{32} + \\frac{2\\pi}{2}; \\dots; \\frac{11\\pi}{32} + \\frac{17\\pi}{2}; \\frac{11\\pi}{32} + \\frac{18\\pi}{2} \\right\\}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      314,
+      691,
+      359
+    ],
+    "category": "Text",
+    "text": "Tính tổng các nghiệm có 2 cách:"
+  },
+  {
+    "bbox": [
+      251,
+      379,
+      849,
+      470
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cách 1: Bấm máy } \\sum_{k=0}^{18} \\left( \\frac{11\\pi}{32} + \\frac{k\\pi}{2} \\right) = \\frac{2945\\pi}{32}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      496,
+      1328,
+      586
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Cách 2: Tính: } \\frac{11\\pi}{32} + \\left( \\frac{11\\pi}{32} + \\frac{\\pi}{2} \\right) + \\left( \\frac{11\\pi}{32} + \\frac{2\\pi}{2} \\right) + \\dots + \\left( \\frac{11\\pi}{32} + \\frac{17\\pi}{2} \\right) + \\left( \\frac{11\\pi}{32} + \\frac{18\\pi}{2} \\right)\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      616,
+      1305,
+      699
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Coi mỗi nghiệm là 1 số hạng trong cấp số cộng với } x_1 = \\frac{11\\pi}{32}, \\text{ công sai } d = \\frac{\\pi}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      722,
+      894,
+      772
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } k \\in \\{0; 1; 2; \\dots; 17; 18\\} \\text{ nên số số hạng } n = 19.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      802,
+      1225,
+      935
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng các nghiệm là: } S = \\frac{(x_1 + x_{19}) \\cdot n}{2} = \\frac{\\left( \\frac{11\\pi}{32} + \\frac{11\\pi}{32} + \\frac{18\\pi}{2} \\right) \\cdot 19}{2} = \\frac{2945\\pi}{32}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      953,
+      1201,
+      999
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      114,
+      1001,
+      1516,
+      1179
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi cạnh 1, góc $\\widehat{BAD} = 60^\\circ$. Tam giác $SAB$ vuông cân tại $S$ và nằm trong mặt phẳng vuông góc với đáy. Biết khoảng cách từ $AB$ đến $SC$ bằng $\\frac{\\sqrt{a}}{b}$ ($a; b \\in \\mathbb{Z}^*$) ($\\frac{a}{b}$ là phân số tối简). Tính tổng $a+b$?"
+  },
+  {
+    "bbox": [
+      835,
+      1183,
+      951,
+      1221
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1217,
+      388,
+      1259
+    ],
+    "category": "Text",
+    "text": "Đáp số: 7"
+  },
+  {
+    "bbox": [
+      601,
+      1268,
+      1176,
+      1759
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1769,
+      999,
+      1817
+    ],
+    "category": "Text",
+    "text": "Vì $\\widehat{BAD} = 60^\\circ$ nên $\\triangle ABC$ là tam giác đều cạnh bằng 1."
+  },
+  {
+    "bbox": [
+      251,
+      1821,
+      655,
+      1863
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là trung điểm của $AB$."
+  },
+  {
+    "bbox": [
+      251,
+      1863,
+      767,
+      1907
+    ],
+    "category": "Text",
+    "text": "$\\triangle ABD$ là tam giác đều nên $DI \\perp AB$."
+  },
+  {
+    "bbox": [
+      251,
+      1907,
+      1357,
+      1998
+    ],
+    "category": "Text",
+    "text": "Vì tam giác $SAB$ vuông cân tại $S$ và nằm trong mặt phẳng vuông góc với đáy nên $SI \\perp (ABCD)$."
+  },
+  {
+    "bbox": [
+      251,
+      2006,
+      934,
+      2051
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là chân đường vuông góc kẻ từ $I$ đến $SD$."
+  },
+  {
+    "bbox": [
+      251,
+      2055,
+      1203,
+      2152
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} AB \\perp SI \\\\ AB \\perp DI \\end{cases} \\Rightarrow AB \\perp (SDI) \\Rightarrow AB \\perp IH \\text{ mà } AB \\parallel CD \\text{ do đó } IH \\perp CD.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      2163,
+      757,
+      2205
+    ],
+    "category": "Text",
+    "text": "Lại có $IH \\perp SD$ suy ra $IH \\perp (SCD)$."
+  }
+]

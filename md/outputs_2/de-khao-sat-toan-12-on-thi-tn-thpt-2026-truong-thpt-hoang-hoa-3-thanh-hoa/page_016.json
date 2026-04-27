@@ -1,0 +1,130 @@
+[
+  {
+    "bbox": [
+      638,
+      120,
+      1349,
+      529
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      575,
+      428,
+      612
+    ],
+    "category": "Text",
+    "text": "a) Sai."
+  },
+  {
+    "bbox": [
+      336,
+      644,
+      1197,
+      727
+    ],
+    "category": "Text",
+    "text": "b) Đúng. Ta có: $\\sin \\widehat{MOH} = \\frac{MH}{OM} \\Leftrightarrow \\frac{1}{3} = \\frac{h}{OM} \\Rightarrow OM = 3h$"
+  },
+  {
+    "bbox": [
+      336,
+      755,
+      1338,
+      898
+    ],
+    "category": "Text",
+    "text": "c) Sai. $\\cos \\widehat{MOH} = \\frac{OH}{OM} \\Leftrightarrow \\frac{2\\sqrt{2}}{3} = \\frac{OH}{3h} \\Rightarrow OH = 2\\sqrt{2}h \\Rightarrow \\begin{cases} M(2\\sqrt{2}h; 0; h) \\\\ N(2\\sqrt{2}h; 10; h) \\end{cases}$"
+  },
+  {
+    "bbox": [
+      336,
+      930,
+      1085,
+      1086
+    ],
+    "category": "Text",
+    "text": "d) Đúng. $ON = \\sqrt{9h^2 + 100}$\n$\\sin \\widehat{NOK} = \\frac{NK}{ON} \\Leftrightarrow \\frac{10}{\\sqrt{10}} = \\frac{h}{\\sqrt{9h^2 + 100}} \\Rightarrow h = 10$"
+  },
+  {
+    "bbox": [
+      197,
+      1116,
+      853,
+      1157
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      197,
+      1164,
+      1614,
+      1354
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Cho lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác vuông và $AB = BC = a$, $AA' = a\\sqrt{2}$, $M$ là trung điểm của $BC$. Khoảng cách $d$ giữa hai đường thẳng $AM$ và $B'C$ được viết dưới dạng $d = \\frac{a\\sqrt{m}}{n}$, $m; n \\in \\mathbb{Z}$. Khi đó tổng $m+n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      914,
+      1364,
+      1032,
+      1402
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      796,
+      1409,
+      1188,
+      1842
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      336,
+      1852,
+      1184,
+      1891
+    ],
+    "category": "Text",
+    "text": "Do $\\triangle ABC$ vuông và có $AB = BC$ nên $\\triangle ABC$ vuông cân tại $B$."
+  },
+  {
+    "bbox": [
+      336,
+      1897,
+      1024,
+      1947
+    ],
+    "category": "Text",
+    "text": "Gọi $N$ là trung điểm của $BB'$, ta có: $B'C \\parallel (AMN)$."
+  },
+  {
+    "bbox": [
+      336,
+      1959,
+      1244,
+      2014
+    ],
+    "category": "Text",
+    "text": "Khi đó: $d(AM, B'C) = d(B'C, (AMN)) = d(C, (AMN)) = d(B, (AMN))$."
+  },
+  {
+    "bbox": [
+      336,
+      2025,
+      926,
+      2064
+    ],
+    "category": "Text",
+    "text": "Kẻ $BH \\perp AM$ tại $H$ và Kẻ $BK \\perp NH$ tại $K$."
+  }
+]

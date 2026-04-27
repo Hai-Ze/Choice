@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      98,
+      1495,
+      213
+    ],
+    "category": "Text",
+    "text": "c) Nếu người dùng điện thoại ở vị trí có toạ độ $B(5;6;7)$ thì không thể sử dụng dịch vụ của trạm thu phát sóng đó."
+  },
+  {
+    "bbox": [
+      75,
+      232,
+      1495,
+      348
+    ],
+    "category": "Text",
+    "text": "d) Tính theo đường chim bay, khoảng cách lớn nhất để một người ở vị trí có toạ độ $B(5;6;7)$ di chuyển được tới vùng phủ sóng theo đơn vị kilômét là 8 km."
+  },
+  {
+    "bbox": [
+      727,
+      372,
+      844,
+      411
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      424,
+      894,
+      548
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      548,
+      1495,
+      681
+    ],
+    "category": "Text",
+    "text": "a) Phương trình mặt cầu $(S)$ tâm $I(1;3;7)$ bán kính 3 km mô tả ranh giới bên ngoài của vùng phủ sóng trong không gian là $(x-1)^2 + (y-3)^2 + (z-7)^2 = 9$."
+  },
+  {
+    "bbox": [
+      75,
+      705,
+      1495,
+      914
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $IA = \\sqrt{(2-1)^2 + (2-3)^2 + (7-7)^2} = \\sqrt{2} < 3$ nên điểm $A$ nằm trong mặt cầu. Vì điểm $A$ nằm trong mặt cầu nên người dùng điện thoại ở vị trí có toạ độ $A(2;2;7)$ có thể sử dụng dịch vụ của trạm thu phát sóng đó."
+  },
+  {
+    "bbox": [
+      75,
+      933,
+      1495,
+      1073
+    ],
+    "category": "Text",
+    "text": "c) Ta có: $IB = \\sqrt{(5-1)^2 + (6-3)^2 + (7-7)^2} = 5 > 3$ nên điểm $B$ nằm ngoài mặt cầu. vậy người dùng điện thoại ở vị trí có toạ độ $B(5;6;7)$ không thể sử dụng dịch vụ của trạm thu phát sóng đó."
+  },
+  {
+    "bbox": [
+      75,
+      1100,
+      1495,
+      1342
+    ],
+    "category": "Text",
+    "text": "d) Ta có: $\\overline{IB}(4;3;0)$; $IB = \\sqrt{(5-1)^2 + (6-3)^2 + (7-7)^2} = 5 > 3$ nên điểm $B$ nằm ngoài mặt cầu. Phương trình đường thẳng $BI$ dạng: $\\begin{cases} x = 1 + 4t \\\\ y = 3 + 3t \\\\ z = 7 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      75,
+      1367,
+      897,
+      1418
+    ],
+    "category": "Text",
+    "text": "Gọi mặt cầu $(S) \\cap BI \\equiv E$ suy ra toạ độ $E$ là nghiệm của hệ"
+  },
+  {
+    "bbox": [
+      75,
+      1444,
+      1083,
+      2101
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = 1 + 4t \\\\ y = 3 + 3t \\\\ z = 7 \\\\ (x-1)^2 + (y-3)^2 + (z-7)^2 = 9 \\end{cases} \\Leftrightarrow \\begin{cases} t = \\frac{3}{5} \\\\ x = \\frac{17}{5} \\\\ y = \\frac{24}{5} \\\\ z = 7 \\\\ t = -\\frac{3}{5} \\\\ x = -\\frac{7}{5} \\\\ y = \\frac{6}{5} \\\\ z = 7 \\end{cases} \\Rightarrow E\\left(\\frac{17}{5};\\frac{24}{5};7\\right) \\Rightarrow EB \\approx 1,7 \\Rightarrow E\\left(-\\frac{7}{5};\\frac{6}{5};7\\right) \\Rightarrow EB = 8\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2124,
+      1495,
+      2239
+    ],
+    "category": "Text",
+    "text": "Vậy khoảng cách lớn nhất để một người ở vị trí có toạ độ $B(5;6;7)$ di chuyển được tới vùng phủ sóng theo đơn vị kilômét là 8 km."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

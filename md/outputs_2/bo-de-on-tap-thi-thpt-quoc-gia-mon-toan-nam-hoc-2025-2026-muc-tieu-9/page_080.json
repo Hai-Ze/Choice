@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      195,
+      140,
+      708,
+      181
+    ],
+    "category": "List-item",
+    "text": "◇ Thay đổi tính chăn lẻ đúng 3 lần"
+  },
+  {
+    "bbox": [
+      235,
+      188,
+      943,
+      279
+    ],
+    "category": "Text",
+    "text": "Ta có xác suất để gieo được số lẻ là $\\frac{C_3^1}{C_6^1} = \\frac{3}{6} = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      235,
+      273,
+      1048,
+      351
+    ],
+    "category": "Text",
+    "text": "Suy ra xác suất cả 3 lần đều lẻ là $P(A_1) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}$."
+  },
+  {
+    "bbox": [
+      235,
+      358,
+      715,
+      399
+    ],
+    "category": "Text",
+    "text": "Suy ra xác suất cả 3 lần đều lẻ là"
+  },
+  {
+    "bbox": [
+      727,
+      406,
+      1053,
+      484
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_1) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      486,
+      816,
+      526
+    ],
+    "category": "Text",
+    "text": "Xác suất số 1 xuất hiện đúng một lần là"
+  },
+  {
+    "bbox": [
+      391,
+      532,
+      1386,
+      690
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(A_1B_1) &= \\frac{1}{6} \\cdot \\frac{2}{6} \\cdot \\frac{2}{6} + \\frac{2}{6} \\cdot \\frac{2}{6} \\cdot \\frac{1}{6} + \\frac{2}{6} \\cdot \\frac{1}{6} \\cdot \\frac{2}{6} \\\\\n&= \\frac{1}{18} \\quad (\\text{vì số 1 có thể xuất hiện ở lần thí nghiệm thứ 1, 2, 3}).\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      195,
+      705,
+      802,
+      746
+    ],
+    "category": "List-item",
+    "text": "◇ TH2: Thay đổi tính chăn lẻ đúng 1 lần."
+  },
+  {
+    "bbox": [
+      235,
+      763,
+      748,
+      803
+    ],
+    "category": "Text",
+    "text": "Xác suất để 3 lần gieo được LCC là"
+  },
+  {
+    "bbox": [
+      433,
+      810,
+      1348,
+      889
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_2) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}. \\text{ Xác suất số 1 xuất hiện đúng một lần là}\n$$"
+  },
+  {
+    "bbox": [
+      700,
+      898,
+      1078,
+      978
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_2B_2) = \\frac{1}{6} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{24}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      976,
+      748,
+      1016
+    ],
+    "category": "Text",
+    "text": "Xác suất để 3 lần gieo được CLC là"
+  },
+  {
+    "bbox": [
+      433,
+      1022,
+      1348,
+      1101
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_3) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}. \\text{ Xác suất số 1 xuất hiện đúng một lần là}\n$$"
+  },
+  {
+    "bbox": [
+      700,
+      1110,
+      1078,
+      1190
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_3B_3) = \\frac{1}{2} \\cdot \\frac{1}{6} \\cdot \\frac{1}{2} = \\frac{1}{24}.\n$$"
+  },
+  {
+    "bbox": [
+      235,
+      1188,
+      748,
+      1228
+    ],
+    "category": "Text",
+    "text": "Xác suất để 3 lần gieo được CCL là"
+  },
+  {
+    "bbox": [
+      433,
+      1234,
+      1348,
+      1313
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_4) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{8}. \\text{ Xác suất số 1 xuất hiện đúng một lần là}\n$$"
+  },
+  {
+    "bbox": [
+      700,
+      1322,
+      1078,
+      1402
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A_4B_4) = \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{6} = \\frac{1}{24}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1412,
+      549,
+      1452
+    ],
+    "category": "Text",
+    "text": "Khi đó xác suất cần tính là"
+  },
+  {
+    "bbox": [
+      154,
+      1455,
+      1242,
+      1766
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(B|A) &= \\frac{P(AB)}{P(A)} \\\\\n&= \\frac{P(A_1B_1) + P(A_2B_2) + P(A_3B_3) + P(A_4B_4)}{P(A_1) + P(A_2) + P(A_3) + P(A_4)} \\\\\n&= \\frac{\\frac{1}{18} + \\frac{1}{24} + \\frac{1}{24} + \\frac{1}{24}}{\\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8} + \\frac{1}{8}} = \\frac{13}{36} = \\frac{a}{b}. \\\\\n\\Rightarrow a + b &= 49.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      65,
+      2251,
+      100,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "80"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1499,
+      2294
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

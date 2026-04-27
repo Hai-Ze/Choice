@@ -1,0 +1,242 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      94,
+      420,
+      136
+    ],
+    "category": "Text",
+    "text": "d) Dựa vào đồ thị ta thấy:"
+  },
+  {
+    "bbox": [
+      76,
+      156,
+      1272,
+      238
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian 1 giây vận tốc của chuyển động được xác định là $v(t) = \\frac{4}{3}t$ (m/s)"
+  },
+  {
+    "bbox": [
+      76,
+      254,
+      1494,
+      401
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian từ 3 giây đến 4,5 giây vận tốc của chuyển động được xác định là $v(t) = \\frac{-4}{3}t + 8$ (m/s),"
+  },
+  {
+    "bbox": [
+      76,
+      423,
+      1258,
+      472
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian từ 4,5 giây đến 8 giây vận tốc của chuyển động là $v(t) = 8$ (m/s)"
+  },
+  {
+    "bbox": [
+      76,
+      494,
+      972,
+      539
+    ],
+    "category": "Text",
+    "text": "Ta có quăng đường mà vật di chuyển được trong 8 giây đầu tiên là:"
+  },
+  {
+    "bbox": [
+      474,
+      559,
+      1096,
+      657
+    ],
+    "category": "Formula",
+    "text": "$$\ns = \\int_{0}^{3} \\frac{4}{3}tdt + \\int_{3}^{4,5} \\left(-\\frac{4}{3}t + 8\\right)dt + \\int_{4,5}^{8} 8dt = 38,5(m).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      686,
+      1205,
+      769
+    ],
+    "category": "Text",
+    "text": "Vận tốc chạy trung bình của ca nô 8 giây đầu tiên là: $v_{tb} = \\frac{s}{t} = \\frac{38,5}{8} = 4,8125(m/s)$."
+  },
+  {
+    "bbox": [
+      76,
+      792,
+      1494,
+      902
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong không gian $Oxyz$, cho mặt cầu $(S): x^2 + y^2 + z^2 - 2x + 4y + 1 = 0$ có tâm $I$ và bán kính $R$."
+  },
+  {
+    "bbox": [
+      76,
+      925,
+      797,
+      975
+    ],
+    "category": "Text",
+    "text": "a) Mặt cầu $(S)$ có tâm $I(1;-2;0)$ và bán kính $R = 2$."
+  },
+  {
+    "bbox": [
+      76,
+      1001,
+      905,
+      1051
+    ],
+    "category": "Text",
+    "text": "b) Bán kính của mặt cầu $(S)$ là đoạn $IM$ với điểm $M(1;1;2)$."
+  },
+  {
+    "bbox": [
+      76,
+      1077,
+      976,
+      1127
+    ],
+    "category": "Text",
+    "text": "c) Mặt cầu $(S)$ có đường kính $AB$ với $A(0;1;-2)$ và $B(2;-1;-4)$."
+  },
+  {
+    "bbox": [
+      76,
+      1153,
+      911,
+      1203
+    ],
+    "category": "Text",
+    "text": "d) Mặt cầu $(S)$ tiếp xúc với mặt phẳng $(P): x + y - z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      727,
+      1229,
+      843,
+      1267
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1282,
+      893,
+      1403
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1405,
+      1099,
+      1539
+    ],
+    "category": "Text",
+    "text": "a) Mặt cầu $(S): x^2 + y^2 + z^2 - 2x + 4y + 1 = 0$ có $a=1, b=-2, c=0, d=1 \\Rightarrow$ tâm $I(1;-2;0)$ và bán kính $R = \\sqrt{a^2 + b^2 + c^2 - d} = 2$."
+  },
+  {
+    "bbox": [
+      76,
+      1565,
+      1122,
+      1691
+    ],
+    "category": "Text",
+    "text": "b) Xét $M(1;1;2): 1^2 + 1^2 + 2^2 - 2 \\cdot 1 + 4 \\cdot 1 + 1 = 9$ do đó $M$ không nằm trên $(S)$\nVậy bán kính mặt cầu $(S)$ không là đoạn $IM$."
+  },
+  {
+    "bbox": [
+      76,
+      1719,
+      1256,
+      1800
+    ],
+    "category": "Text",
+    "text": "c) Mặt cầu $(S)$ nhận $AB$ làm đường kính thì $\\frac{AB}{2} = R$ và tâm $I$ là trung điểm của $AB$."
+  },
+  {
+    "bbox": [
+      76,
+      1824,
+      1155,
+      1906
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overline{AB} = (2;-2;-2) \\Rightarrow |\\overline{AB}| = \\sqrt{2^2 + (-2)^2 + (-2)^2} = 2\\sqrt{3} \\Rightarrow \\frac{AB}{2} = \\sqrt{3} \\neq R = 2\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1926,
+      1144,
+      1980
+    ],
+    "category": "Text",
+    "text": "d) Mặt cầu $(S)$ tiếp xúc với mặt phẳng $(P): x + y - z - 2 = 0 \\Leftrightarrow R = d(I,(P))$."
+  },
+  {
+    "bbox": [
+      76,
+      2004,
+      739,
+      2121
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } d(I,(P)) = \\frac{|1 + (-2) - 0 - 2|}{\\sqrt{1^2 + 1^2 + (-1)^2}} = \\sqrt{3} \\neq R = 2.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

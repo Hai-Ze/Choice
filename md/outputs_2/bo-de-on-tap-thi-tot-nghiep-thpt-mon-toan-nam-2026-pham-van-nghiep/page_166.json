@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      107,
+      1576,
+      289
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Hộp thứ nhất chứa 5 viên bi xanh và 1 viên bi đỏ. Hộp thứ hai chứa 4 viên bi đỏ. Lấy ngẫu nhiên 3 viên bi từ套hộp thứ nhất và bỏ vào套hộp thứ hai, rồi từ套hộp thứ hai lấy ra ngẫu nhiên 2 viên bi. Biết 2 viên bi lấy ra ở套hộp thứ hai có cùng màu. Tính xác suất để 3 viên bi lấy ra từ套hộp thứ nhất cũng có cùng màu."
+  },
+  {
+    "bbox": [
+      741,
+      292,
+      868,
+      333
+    ],
+    "category": "Text",
+    "text": "Lời giải:"
+  },
+  {
+    "bbox": [
+      214,
+      336,
+      398,
+      377
+    ],
+    "category": "Text",
+    "text": "Đáp số: 0,45"
+  },
+  {
+    "bbox": [
+      214,
+      381,
+      1100,
+      424
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố 2 viên bi lấy ra ở套hộp thứ hai có cùng màu"
+  },
+  {
+    "bbox": [
+      214,
+      426,
+      1108,
+      469
+    ],
+    "category": "Text",
+    "text": "Gọi $B$ là biến cố 3 viên bi lấy ra ở套hộp thứ nhất có cùng màu."
+  },
+  {
+    "bbox": [
+      214,
+      473,
+      295,
+      508
+    ],
+    "category": "Text",
+    "text": "Ta có"
+  },
+  {
+    "bbox": [
+      218,
+      518,
+      1239,
+      611
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = \\frac{C_5^3}{C_6^3} = \\frac{1}{2}, P(\\bar{B}) = \\frac{1}{2} \\text{ (vì套hộp thứ nhất chỉ có 5 bi xanh và 1 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      617,
+      1576,
+      706
+    ],
+    "category": "Text",
+    "text": "Xác suất để 2 viên bi được chọn từ套hộp thứ hai có cùng màu, biết 3 viên bi lấy ra ở套hộp thứ nhất có cùng màu là"
+  },
+  {
+    "bbox": [
+      214,
+      710,
+      1576,
+      849
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{C_3^2 + C_4^2}{C_7^2} = \\frac{3}{7} \\text{ (vì sau khi lấy 3 viên bi màu xanh từ套hộp thứ nhất sang thì套hộp thứ hai có 3 bi xanh và 4 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      853,
+      1576,
+      937
+    ],
+    "category": "Text",
+    "text": "Xác suất để 2 viên bi được chọn từ套hộp thứ hai có cùng màu, biết 3 viên bi lấy ra ở套hộp thứ nhất khác màu là"
+  },
+  {
+    "bbox": [
+      214,
+      947,
+      1576,
+      1088
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|\\bar{B}) = \\frac{C_2^2 + C_5^2}{C_7^2} = \\frac{11}{21} \\text{ (vì sau khi lấy 2 viên bi màu xanh và 1 viên bi đỏ từ套hộp thứ nhất sang thì套hộp thứ hai có 2 bi xanh và 5 bi đỏ).}\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1088,
+      1576,
+      1134
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức xác suất toàn phần ta có"
+  },
+  {
+    "bbox": [
+      218,
+      1136,
+      1020,
+      1216
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = P(B)P(A|B) + P(\\bar{B})P(A|\\bar{B}) = \\frac{1}{2} \\cdot \\frac{3}{7} + \\frac{1}{2} \\cdot \\frac{11}{21} = \\frac{10}{21}.\n$$"
+  },
+  {
+    "bbox": [
+      214,
+      1224,
+      1278,
+      1384
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo công thức Bayes, ta có: } P(B|A) = \\frac{P(B) \\cdot P(A|B)}{P(A)} = \\frac{\\frac{1}{2} \\cdot \\frac{3}{7}}{\\frac{10}{21}} = \\frac{9}{20} = 0,45.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1390,
+      1576,
+      1524
+    ],
+    "category": "List-item",
+    "text": "**Câu 5:** Một nhà sản xuất cần làm những套hộp待dụng hình trụ có thể tích 330 ml. Tìm bán kính của套hộp待dụng để chi phí vật liệu dùng để sản xuất là nhỏ nhất (kết quả được tính theo centimét và làm tròn đến chữ số thập phân thứ hai)."
+  },
+  {
+    "bbox": [
+      833,
+      1526,
+      953,
+      1568
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1571,
+      398,
+      1612
+    ],
+    "category": "Text",
+    "text": "Đáp số: 3,74"
+  },
+  {
+    "bbox": [
+      214,
+      1616,
+      523,
+      1655
+    ],
+    "category": "Text",
+    "text": "Đổi $330 \\text{ ml} = 330 \\text{ cm}^3$."
+  },
+  {
+    "bbox": [
+      214,
+      1667,
+      714,
+      1710
+    ],
+    "category": "Text",
+    "text": "Gọi $r$ ($r > 0$) là bán kính của套hộp."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

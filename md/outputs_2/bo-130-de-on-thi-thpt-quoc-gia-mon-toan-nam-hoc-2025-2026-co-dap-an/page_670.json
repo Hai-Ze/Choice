@@ -1,0 +1,268 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      409,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      448,
+      121,
+      1555,
+      237
+    ],
+    "category": "Text",
+    "text": "**CÂU 33.** Có hai套bóng $A$ và $B$ chỉ待dựng các quả bóng đỏ và trắng, trong đó套$B$待dựng 4 quả bóng đỏ và 5 quả bóng trắng; tổng số bóng hai套 không quá 20. Xét hai phép thử ngẫu nhiên sau:"
+  },
+  {
+    "bbox": [
+      448,
+      237,
+      1555,
+      379
+    ],
+    "category": "Text",
+    "text": "**Phép thử thứ nhất:** Lấy ngẫu nhiên 1 quả bóng từ套$A$ bỏ vào套$B$ rồi lấy ngẫu nhiên 1 quả bóng từ套$A$. Bằng thực nghiệm người ta biết được rằng khả năng lấy được quả bóng đỏ từ套$B$ thứ hai bằng $\\frac{33}{70}$."
+  },
+  {
+    "bbox": [
+      448,
+      377,
+      1555,
+      452
+    ],
+    "category": "Text",
+    "text": "**Phép thử thứ hai:** Lấy ngẫu nhiên 2 quả bóng từ套$A$ bỏ vào套$B$. Sau đó tiếp tục lấy ngẫu nhiên 2 quả bóng từ套$B$."
+  },
+  {
+    "bbox": [
+      448,
+      452,
+      925,
+      489
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai các m命hề sau:"
+  },
+  {
+    "bbox": [
+      478,
+      489,
+      1549,
+      565
+    ],
+    "category": "List-item",
+    "text": "a) Trong phép thử thứ nhất, nếu lấy được quả bóng đỏ từ套$A$ bỏ sang套$B$ thì xác suất lấy được quả bóng trắng từ套$B$ bằng 0,4."
+  },
+  {
+    "bbox": [
+      478,
+      567,
+      1272,
+      607
+    ],
+    "category": "List-item",
+    "text": "b) Hộp thứ nhất待dựng 4 quả bóng đỏ và 3 quả bóng trắng."
+  },
+  {
+    "bbox": [
+      478,
+      607,
+      1298,
+      677
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để lấy được 2 quả bóng đỏ từ套$B$ bằng $\\frac{166}{1155}$."
+  },
+  {
+    "bbox": [
+      478,
+      675,
+      1551,
+      777
+    ],
+    "category": "List-item",
+    "text": "d) Nếu biết rằng hai quả bóng lấy được từ套$B$ cùng có màu đỏ, xác suất để có ít nhất 1 quả là từ套$A$ chuyển sang bằng $\\frac{67}{128}$."
+  },
+  {
+    "bbox": [
+      448,
+      788,
+      1555,
+      906
+    ],
+    "category": "Text",
+    "text": "**CÂU 34.** Một cái bể nước có dạng khối chóp tư giác đều ngược với cạnh đáy bằng $3\\sqrt{2}$ dm và chiều cao bằng 6 dm (tham khảo hình vẽ bên–các kích thước được nêu ra là phần bên trong hình)."
+  },
+  {
+    "bbox": [
+      729,
+      929,
+      1272,
+      1254
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      448,
+      1285,
+      1555,
+      1400
+    ],
+    "category": "Text",
+    "text": "Nước được bơm vào bể với tốc độ không đổi là 2 lít/phút và ban đầu bể không chứa nước (các kết quả bên dưới được làm tròn đến hai chữ số thập phân sau dấu phấy). Xét tính đúng sai các m命hề sau:"
+  },
+  {
+    "bbox": [
+      478,
+      1400,
+      1009,
+      1439
+    ],
+    "category": "List-item",
+    "text": "a) Bể nước được bơm đầy sau 18 phút."
+  },
+  {
+    "bbox": [
+      478,
+      1439,
+      1547,
+      1540
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ dâng lên của nước là 0,23 dm/phút khi thể tích nước trong bể bằng $\\frac{1}{3}$ thể tích của bể."
+  },
+  {
+    "bbox": [
+      478,
+      1544,
+      1549,
+      1722
+    ],
+    "category": "List-item",
+    "text": "c) Khi mực nước cách miệng bể 0,5 dm, người ta background bể với ước lượng tốc độ giảm chiều cao của mực nước trong bể theo thời gian $t$ (phút) được mô hình hóa bởi hàm số $h'(t) = \\frac{1}{350}t - \\frac{193}{700}$ (dm/phút). Sau 5 phút, thể tích nước trong bể là 11,97 dm³."
+  },
+  {
+    "bbox": [
+      478,
+      1724,
+      1491,
+      1763
+    ],
+    "category": "List-item",
+    "text": "d) cùng với dữ kiện của thì sau 23,59 phút nước trong bể vừa được xả hết."
+  },
+  {
+    "bbox": [
+      448,
+      1782,
+      1555,
+      1973
+    ],
+    "category": "Text",
+    "text": "**CÂU 35.** Một con sư tử đangđổi theo một con ngựa vần và chúng cùng chạy trên một đường thẳng. Ngựa vần đã nhận ra sư tử khi sư tử cách nó khoảng 40 m. Từ thời điểm này, sư tửđổi theo ngựa vần với tốc độ $v_1(t) = 15e^{-0,1t}$ m/s và ngựa vần bỏ chạy với tốc độ $v_2(t) = 20 - 20e^{-0,1t}$ m/s ($t$ được tính bằng giây với $0 \\le t \\le 60$). Xét tính đúng sai các m命hề sau:"
+  },
+  {
+    "bbox": [
+      478,
+      1973,
+      1463,
+      2014
+    ],
+    "category": "List-item",
+    "text": "a) tại thời điểm ban đầu $t = 0$ giây, vận tốc của con ngựa vần là 20 m/s."
+  },
+  {
+    "bbox": [
+      478,
+      2014,
+      1549,
+      2091
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ của sư tử giảm dần theo thời gian, trong khi tốc độ của ngựa vần tăng dần theo thời gian."
+  },
+  {
+    "bbox": [
+      478,
+      2093,
+      1549,
+      2170
+    ],
+    "category": "List-item",
+    "text": "c) Sư tử ở gần ngựa vần nhất khi $v'_1(t) = v'_2(t)$ và khoảng cách ngắn nhất giữa chúng là 1,72 mét (làm tròn đến hàng phần trăm theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      478,
+      2172,
+      1549,
+      2250
+    ],
+    "category": "List-item",
+    "text": "d) Sư tử sẽ không bắt được ngựa vần và khoảng cách ngắn nhất giữa chúng là 1,92 mét (làm tròn đến hàng phần trăm theo đơn vị mét)."
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "668 Bùi Tịnh Minh Lâm"
+  }
+]

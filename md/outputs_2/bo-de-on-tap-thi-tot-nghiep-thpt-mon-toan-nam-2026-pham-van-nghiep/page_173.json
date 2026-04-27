@@ -1,0 +1,382 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      216,
+      108,
+      1223,
+      305
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\n\\sin(d, (\\alpha)) &= |\\cos(\\vec{u}; \\vec{n})| = \\frac{|2.0 + (-2) \\cdot (-1) + 0.0|}{\\sqrt{2^2 + (-2)^2 + 0^2} \\cdot \\sqrt{0^2 + (-1)^2 + 0^2}} = \\frac{2}{2\\sqrt{2} \\cdot 1} = \\frac{\\sqrt{2}}{2} \\\\\n\\Rightarrow (d, (\\alpha)) &= 45^\\circ\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      312,
+      1036,
+      360
+    ],
+    "category": "Text",
+    "text": "Vậy góc giữa đường thẳng $d$ và mặt phẳng $(\\alpha)$ là $45^\\circ$."
+  },
+  {
+    "bbox": [
+      212,
+      367,
+      419,
+      410
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      74,
+      418,
+      720,
+      515
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $f(x) = \\left(\\sin\\frac{x}{2} + \\cos\\frac{x}{2}\\right)^2$"
+  },
+  {
+    "bbox": [
+      225,
+      524,
+      479,
+      569
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      225,
+      579,
+      585,
+      624
+    ],
+    "category": "Formula",
+    "text": "b) $f(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      225,
+      631,
+      685,
+      689
+    ],
+    "category": "Formula",
+    "text": "c) $\\int f(x)dx = \\int dx + \\int (-\\cos x)dx$."
+  },
+  {
+    "bbox": [
+      225,
+      694,
+      610,
+      752
+    ],
+    "category": "Formula",
+    "text": "d) $\\int f(x)dx = x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      765,
+      761,
+      884,
+      802
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      225,
+      807,
+      1268,
+      903
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hàm số } f(x) = \\left( \\sin \\frac{x}{2} + \\cos \\frac{x}{2} \\right)^2 = \\sin^2 \\frac{x}{2} + 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2} + \\cos^2 \\frac{x}{2} = 1 + \\sin x\n$$"
+  },
+  {
+    "bbox": [
+      225,
+      913,
+      486,
+      957
+    ],
+    "category": "Formula",
+    "text": "a) $f(x) = 1 + \\sin x$."
+  },
+  {
+    "bbox": [
+      225,
+      964,
+      421,
+      1007
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      225,
+      1013,
+      592,
+      1058
+    ],
+    "category": "Formula",
+    "text": "b) $f(x)$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      225,
+      1068,
+      765,
+      1113
+    ],
+    "category": "Text",
+    "text": "Ta có $f(x) = 1 + \\sin x$ liên tục trên $\\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      225,
+      1119,
+      421,
+      1162
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG"
+  },
+  {
+    "bbox": [
+      225,
+      1165,
+      685,
+      1223
+    ],
+    "category": "Formula",
+    "text": "c) $\\int f(x)dx = \\int dx + \\int (-\\cos x)dx$."
+  },
+  {
+    "bbox": [
+      225,
+      1227,
+      901,
+      1286
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int f(x)dx = \\int (1 + \\sin x)dx = \\int dx + \\int \\sin xdx$."
+  },
+  {
+    "bbox": [
+      225,
+      1294,
+      371,
+      1333
+    ],
+    "category": "Text",
+    "text": "Chọn SAI"
+  },
+  {
+    "bbox": [
+      225,
+      1337,
+      589,
+      1395
+    ],
+    "category": "Formula",
+    "text": "d) $\\int f(x)dx = x + \\cos x + C$"
+  },
+  {
+    "bbox": [
+      225,
+      1398,
+      861,
+      1456
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int f(x)dx = \\int (1 + \\sin x)dx = x - \\cos x + C$"
+  },
+  {
+    "bbox": [
+      225,
+      1464,
+      371,
+      1503
+    ],
+    "category": "Text",
+    "text": "Chọn SAI"
+  },
+  {
+    "bbox": [
+      74,
+      1509,
+      1575,
+      1590
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Khi kiểm tra sức khoẻ tổng quát của bệnh nhân ở một bệnh viện, người ta được kết quả như sau:"
+  },
+  {
+    "bbox": [
+      212,
+      1600,
+      755,
+      1641
+    ],
+    "category": "List-item",
+    "text": "- Có 40% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      212,
+      1645,
+      884,
+      1687
+    ],
+    "category": "List-item",
+    "text": "- Có 30% bệnh nhân thường xuyên bị stress."
+  },
+  {
+    "bbox": [
+      212,
+      1690,
+      1445,
+      1732
+    ],
+    "category": "List-item",
+    "text": "- Trong số các bệnh nhân thường xuyên bị stress có 80% bệnh nhân bị heavy da dày."
+  },
+  {
+    "bbox": [
+      220,
+      1732,
+      678,
+      1777
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên 1 bệnh nhân."
+  },
+  {
+    "bbox": [
+      212,
+      1782,
+      1149,
+      1824
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được bệnh nhân thường xuyên bị stress là 0,3."
+  },
+  {
+    "bbox": [
+      212,
+      1830,
+      1571,
+      1912
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được bệnh nhân bị heavy da dày, biết bệnh nhân đó thường xuyên bị stress, là 0,8."
+  },
+  {
+    "bbox": [
+      212,
+      1924,
+      1508,
+      1966
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được bệnh nhân vừa thường xuyên bị stress vừa bị heavy da dày là 0,24."
+  },
+  {
+    "bbox": [
+      212,
+      1973,
+      1571,
+      2057
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được bệnh nhân thường xuyên bị stress, biết bệnh nhân đó bị heavy da dày, là 0,6."
+  },
+  {
+    "bbox": [
+      765,
+      2069,
+      884,
+      2110
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      2114,
+      440,
+      2150
+    ],
+    "category": "Text",
+    "text": "Xét các biến cố:"
+  },
+  {
+    "bbox": [
+      218,
+      2160,
+      687,
+      2201
+    ],
+    "category": "List-item",
+    "text": "A : “B�h n hân bị heavy da dày”;"
+  },
+  {
+    "bbox": [
+      218,
+      2205,
+      812,
+      2246
+    ],
+    "category": "List-item",
+    "text": "B : “B�h n hân thường xuyên bị stress”;"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2265,
+      1505,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 5 -"
+  }
+]

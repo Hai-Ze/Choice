@@ -1,0 +1,141 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      107,
+      1334,
+      219
+    ],
+    "category": "Text",
+    "text": "Ta có $f'(x) = 3x^2 - 12\\sqrt{2}x + 18$ và $f'(x) = 0 \\Leftrightarrow \\begin{cases} x = \\sqrt{2} \\\\ x = 3\\sqrt{2} \\end{cases}$, ta có bảng biến thiên"
+  },
+  {
+    "bbox": [
+      568,
+      246,
+      1213,
+      484
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>X</td><td>0</td><td>√2</td><td>3√2</td><td>4√2</td></tr><tr><td>f'(X)</td><td>+</td><td>0</td><td>-</td><td>0</td><td>+</td></tr><tr><td>f(X)</td><td>0</td><td>8√2</td><td>0</td><td>8√2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      507,
+      1264,
+      611
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } x = \\sqrt{2} \\text{ thì } \\begin{cases} y + z = 5\\sqrt{2} \\\\ yz = 8 \\end{cases} \\Rightarrow (x; y; z) \\in \\left\\{ (\\sqrt{2}; \\sqrt{2}; 4\\sqrt{2}), (\\sqrt{2}; 4\\sqrt{2}; \\sqrt{2}) \\right\\}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      620,
+      1040,
+      724
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Với } x = 4\\sqrt{2} \\text{ thì } \\begin{cases} y + z = 2\\sqrt{2} \\\\ yz = 2 \\end{cases} \\Rightarrow (x; y; z) = (4\\sqrt{2}; \\sqrt{2}; \\sqrt{2}).\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      731,
+      1573,
+      841
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích của khối hộ lớn nhất là $8\\sqrt{2} \\approx 11,3m^3$ khi $(x; y; z) = (4\\sqrt{2}; \\sqrt{2}; \\sqrt{2})$ và các hoán vị của nó."
+  },
+  {
+    "bbox": [
+      74,
+      845,
+      1575,
+      1182
+    ],
+    "category": "List-item",
+    "text": "**Câu 18.** Một công ty xây dựng một hệ thống Giám sát môi trường tại khu công nghiệp. Hai cảm biến không dây được đặt tại hai vị trí $A, B$ trong không gian ba chiều để thu thập dữ liệu không khí. Để đảm bảo tín hiệu truyền giữa hai cảm biến cố định, công ty thiết kế một bóng bảo vệ tín hiệu hình cầu di động nhưng luôn đi qua cả hai cảm biến $A$ và $B$. Bóng này cần tiếp xúc với mặt đất để đảm bảo tính ổn định. Giả sử trong không gian với hệ tọa độ $Oxyz$, tọa độ các điểm là $A(3;5;-2), B(-1;3;2)$ và mặt đất được mô tả bằng mặt phẳng: $(P): 2x + y - 2z + 9 = 0$."
+  },
+  {
+    "bbox": [
+      647,
+      1186,
+      1136,
+      1689
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1695,
+      1575,
+      1897
+    ],
+    "category": "Text",
+    "text": "Trong quá trình mô phỏng, điểm tiếp xúc giữa bóng bảo vệ và mặt đất (gọi là $C$) thay đổi. Kỹ sư cần xác định khoảng cách từ gốc tọa độ $O(0;0;0)$ đến điểm tiếp xúc $C$ để đánh giá mức độ ảnh hưởng từ vị trí đặt thiết bị. Gọi $m_1$ là giá trị lớn nhất, và $m_2$ là giá trị nhỏ nhất của độ dài $OC$. Tính giá trị $m_1^2 + m_2^2$."
+  },
+  {
+    "bbox": [
+      833,
+      1906,
+      952,
+      1947
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1951,
+      395,
+      1991
+    ],
+    "category": "Text",
+    "text": "Đáp án: 76."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 9 -"
+  }
+]

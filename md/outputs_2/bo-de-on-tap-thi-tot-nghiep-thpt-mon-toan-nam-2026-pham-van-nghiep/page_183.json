@@ -1,0 +1,352 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      882,
+      161
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số nghịch biến trên khoảng $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      212,
+      171,
+      804,
+      217
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đạt cực tiểu tại điểm $x_0 = -1$."
+  },
+  {
+    "bbox": [
+      212,
+      225,
+      1191,
+      271
+    ],
+    "category": "List-item",
+    "text": "c) Đạo hàm của hàm số nhận giá trị không âm trên khoảng $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      212,
+      279,
+      1024,
+      327
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số trên đoạn $[-1; 0]$ bằng 1."
+  },
+  {
+    "bbox": [
+      833,
+      338,
+      953,
+      379
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      381,
+      1496,
+      500
+    ],
+    "category": "Text",
+    "text": "Ta có: $f'(x) = a(x+1)(x-1)(a > 0)$; $f'(x) < 0, x \\in (-\\infty; -1)$ và $(1; +\\infty)$; $f'(x) > 0, x \\in (-1; 1)$;\n$\\max_{[-1;0]} f(x) = f(0) < 0$."
+  },
+  {
+    "bbox": [
+      212,
+      508,
+      882,
+      558
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số nghịch biến trên khoảng $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      212,
+      565,
+      419,
+      608
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      614,
+      804,
+      660
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số đạt cực tiểu tại điểm $x_0 = -1$."
+  },
+  {
+    "bbox": [
+      212,
+      663,
+      419,
+      706
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      712,
+      1191,
+      758
+    ],
+    "category": "List-item",
+    "text": "c) Đạo hàm của hàm số nhận giá trị không âm trên khoảng $(-1; 1)$."
+  },
+  {
+    "bbox": [
+      212,
+      765,
+      419,
+      808
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      812,
+      1024,
+      860
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị lớn nhất của hàm số trên đoạn $[-1; 0]$ bằng 1."
+  },
+  {
+    "bbox": [
+      212,
+      871,
+      370,
+      910
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      915,
+      1577,
+      1114
+    ],
+    "category": "List-item",
+    "text": "Câu 2. Vào năm 2014, dân số nước ta khoảng 90,7 triệu người. Giả sử, dân số nước ta sau $t$ năm được xác định bởi hàm số $S(t)$ ( đơn vị : triệu người), trong đó tốc độ gia tăng dân số được cho bởi $S'(t) = 1,2698 \\cdot e^{0,014t}$, với $t$ là số năm kể từ năm 2014, $S'(t)$ tính bằng triệu người/ năm."
+  },
+  {
+    "bbox": [
+      212,
+      1122,
+      769,
+      1170
+    ],
+    "category": "List-item",
+    "text": "a) $S(t)$ là một nguyên hàm của $S'(t)$."
+  },
+  {
+    "bbox": [
+      212,
+      1178,
+      596,
+      1225
+    ],
+    "category": "List-item",
+    "text": "b) $S(t) = 90,7 \\cdot e^{0,014t} + 90,7$."
+  },
+  {
+    "bbox": [
+      212,
+      1235,
+      1574,
+      1324
+    ],
+    "category": "List-item",
+    "text": "c) Theo công thức trên, tốc độ tăng dân số nước ta năm 2034 ( làm tròn đến hàng phần mười của triệu người / năm ) khoảng 1,7 triệu người/ năm."
+  },
+  {
+    "bbox": [
+      212,
+      1330,
+      1574,
+      1419
+    ],
+    "category": "List-item",
+    "text": "d) Theo công thức trên, dân số nước ta năm 2034 ( làm tròn đến hàng đơn vị của triệu người) là khoảng 120 triệu người."
+  },
+  {
+    "bbox": [
+      833,
+      1421,
+      953,
+      1462
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1462,
+      1053,
+      1520
+    ],
+    "category": "Text",
+    "text": "Ta có: $S(t) = \\int S'(t)dt = \\int 1,2698 \\cdot e^{0,014t}dt + C = 90,7e^{0,014t} + C$;"
+  },
+  {
+    "bbox": [
+      212,
+      1524,
+      1488,
+      1629
+    ],
+    "category": "Text",
+    "text": "Đặt $G(2014+t) = S(t) = 90,7e^{0,014t} + C$; $G(2014+0) = 90,7 \\Rightarrow 90,7e^{0,014 \\cdot 0} + C = 90,7 \\Rightarrow C = 0$\n$\\Rightarrow S(t) = 90,7e^{0,014t}$."
+  },
+  {
+    "bbox": [
+      212,
+      1637,
+      1083,
+      1686
+    ],
+    "category": "Text",
+    "text": "$G(2034) = S(20) = 90,7 \\cdot e^{0,014 \\cdot 20} \\approx 120,0079$ Triệu người/ năm."
+  },
+  {
+    "bbox": [
+      212,
+      1696,
+      769,
+      1744
+    ],
+    "category": "List-item",
+    "text": "a) $S(t)$ là một nguyên hàm của $S'(t)$."
+  },
+  {
+    "bbox": [
+      212,
+      1750,
+      419,
+      1793
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      1797,
+      604,
+      1845
+    ],
+    "category": "List-item",
+    "text": "b) $S(t) = 90,7 \\cdot e^{0,014t} + 90,7$."
+  },
+  {
+    "bbox": [
+      212,
+      1857,
+      370,
+      1896
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1899,
+      1574,
+      1988
+    ],
+    "category": "List-item",
+    "text": "c) Theo công thức trên, tốc độ tăng dân số nước ta năm 2034 ( làm tròn đến hàng phần mười của triệu người / năm ) khoảng 1,7 triệu người/ năm."
+  },
+  {
+    "bbox": [
+      212,
+      1996,
+      370,
+      2035
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      2041,
+      1574,
+      2128
+    ],
+    "category": "List-item",
+    "text": "d) Theo công thức trên, dân số nước ta năm 2034 ( làm tròn đến hàng đơn vị của triệu người) là khoảng 120 triệu người."
+  },
+  {
+    "bbox": [
+      212,
+      2128,
+      419,
+      2171
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

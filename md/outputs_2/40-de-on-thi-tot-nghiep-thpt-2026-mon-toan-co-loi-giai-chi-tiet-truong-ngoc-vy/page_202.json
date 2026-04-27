@@ -1,0 +1,421 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      697,
+      95,
+      1034,
+      135
+    ],
+    "category": "Section-header",
+    "text": "## LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      155,
+      135,
+      1450,
+      178
+    ],
+    "category": "Text",
+    "text": "### PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      155,
+      200,
+      924,
+      247
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Tập nghiệm của bất phương trình $3^{x^2-13} < 27$ là"
+  },
+  {
+    "bbox": [
+      205,
+      268,
+      376,
+      315
+    ],
+    "category": "List-item",
+    "text": "A. $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      556,
+      268,
+      707,
+      315
+    ],
+    "category": "List-item",
+    "text": "B. $(-4; 4)$."
+  },
+  {
+    "bbox": [
+      906,
+      268,
+      1069,
+      315
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 4)$."
+  },
+  {
+    "bbox": [
+      1255,
+      268,
+      1389,
+      315
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 4)$."
+  },
+  {
+    "bbox": [
+      807,
+      343,
+      924,
+      381
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      401,
+      269,
+      439
+    ],
+    "category": "Text",
+    "text": "**Chọn B**"
+  },
+  {
+    "bbox": [
+      155,
+      461,
+      1227,
+      514
+    ],
+    "category": "Text",
+    "text": "Ta có: $3^{x^2-13} < 27 \\Leftrightarrow 3^{x^2-13} < 3^3 \\Leftrightarrow x^2-13 < 3 \\Leftrightarrow x^2 < 16 \\Leftrightarrow |x| < 4 \\Leftrightarrow -4 < x < 4$."
+  },
+  {
+    "bbox": [
+      155,
+      541,
+      958,
+      590
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình đã cho là $S = (-4; 4)$."
+  },
+  {
+    "bbox": [
+      155,
+      610,
+      956,
+      655
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hàm số nào dưới đây có bảng biến thiên như sau?"
+  },
+  {
+    "bbox": [
+      472,
+      694,
+      1244,
+      976
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1038,
+      419,
+      1080
+    ],
+    "category": "List-item",
+    "text": "A. $y = x^4 - 2x^2$."
+  },
+  {
+    "bbox": [
+      556,
+      1038,
+      779,
+      1080
+    ],
+    "category": "List-item",
+    "text": "B. $y = -x^3 + 3x$."
+  },
+  {
+    "bbox": [
+      906,
+      1023,
+      1084,
+      1102
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{x-2}{x+3}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1038,
+      1462,
+      1080
+    ],
+    "category": "List-item",
+    "text": "D. $y = x^3 - 3x$."
+  },
+  {
+    "bbox": [
+      807,
+      1126,
+      924,
+      1164
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1184,
+      279,
+      1222
+    ],
+    "category": "Text",
+    "text": "**Chọn D.**"
+  },
+  {
+    "bbox": [
+      155,
+      1239,
+      868,
+      1305
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta có $\\lim_{x \\to -\\infty} y = -\\infty$ nên loại A và B."
+  },
+  {
+    "bbox": [
+      155,
+      1326,
+      596,
+      1366
+    ],
+    "category": "Text",
+    "text": "Có $x \\in \\mathbb{R}$ nên loại C $\\Rightarrow$ chọn D."
+  },
+  {
+    "bbox": [
+      155,
+      1387,
+      1431,
+      1436
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho cấp số cộng $(u_n)$ với $u_1 = 4$ và $d = 8$. Số hạng $u_{20}$ của cấp số cộng đã cho bằng"
+  },
+  {
+    "bbox": [
+      205,
+      1462,
+      313,
+      1497
+    ],
+    "category": "List-item",
+    "text": "A. 156."
+  },
+  {
+    "bbox": [
+      556,
+      1462,
+      661,
+      1497
+    ],
+    "category": "List-item",
+    "text": "B. 165."
+  },
+  {
+    "bbox": [
+      906,
+      1462,
+      991,
+      1497
+    ],
+    "category": "List-item",
+    "text": "C. 12."
+  },
+  {
+    "bbox": [
+      1255,
+      1462,
+      1369,
+      1497
+    ],
+    "category": "List-item",
+    "text": "D. 245."
+  },
+  {
+    "bbox": [
+      807,
+      1521,
+      924,
+      1559
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1579,
+      279,
+      1617
+    ],
+    "category": "Text",
+    "text": "**Chọn A.**"
+  },
+  {
+    "bbox": [
+      155,
+      1638,
+      661,
+      1681
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_{20} = u_1 + 19d = 4 + 19 \\times 8 = 156$."
+  },
+  {
+    "bbox": [
+      155,
+      1714,
+      1061,
+      1789
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho $x = \\frac{\\pi}{2} + k\\pi$ là nghiệm của phương trình nào sau đây:"
+  },
+  {
+    "bbox": [
+      205,
+      1813,
+      372,
+      1848
+    ],
+    "category": "List-item",
+    "text": "A. $\\sin x = 1$."
+  },
+  {
+    "bbox": [
+      556,
+      1813,
+      725,
+      1848
+    ],
+    "category": "List-item",
+    "text": "B. $\\sin x = 0$."
+  },
+  {
+    "bbox": [
+      906,
+      1813,
+      1096,
+      1848
+    ],
+    "category": "List-item",
+    "text": "C. $\\cos 2x = 0$."
+  },
+  {
+    "bbox": [
+      1255,
+      1813,
+      1466,
+      1848
+    ],
+    "category": "List-item",
+    "text": "D. $\\cos 2x = -1$."
+  },
+  {
+    "bbox": [
+      807,
+      1872,
+      924,
+      1910
+    ],
+    "category": "Section-header",
+    "text": "#### Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1930,
+      304,
+      1968
+    ],
+    "category": "Text",
+    "text": "**Chọn D. v**"
+  },
+  {
+    "bbox": [
+      155,
+      1995,
+      1154,
+      2070
+    ],
+    "category": "Text",
+    "text": "Thay giá trị $x = \\frac{\\pi}{2} + k\\pi$ vào từng phương trình ở các phương án để thử lại."
+  },
+  {
+    "bbox": [
+      155,
+      2093,
+      1068,
+      2187
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\sin\\left(\\frac{\\pi}{2} + k\\pi\\right) = \\begin{cases} 1 & k \\text{ chan} \\\\ -1 & k \\text{ le} \\end{cases}$ nên các phương án A và B sai."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 7"
+  }
+]

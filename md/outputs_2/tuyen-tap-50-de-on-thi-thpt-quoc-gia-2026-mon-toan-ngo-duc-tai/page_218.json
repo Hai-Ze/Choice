@@ -1,0 +1,419 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      341,
+      153,
+      1305,
+      517
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      553,
+      626,
+      598
+    ],
+    "category": "Text",
+    "text": "Mind đề nào dưới đây sai?"
+  },
+  {
+    "bbox": [
+      221,
+      615,
+      831,
+      661
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số có giá trị cực tiểu bằng $-1$."
+  },
+  {
+    "bbox": [
+      221,
+      677,
+      696,
+      722
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số có ba điểm cực trị."
+  },
+  {
+    "bbox": [
+      221,
+      739,
+      819,
+      785
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số có giá trị cực đại bằng $-1$."
+  },
+  {
+    "bbox": [
+      221,
+      802,
+      717,
+      847
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số có hai điểm cực đại."
+  },
+  {
+    "bbox": [
+      192,
+      868,
+      1047,
+      949
+    ],
+    "category": "Text",
+    "text": "Câu 7. Tập nghiệm của bất phương trình $3^{3x+1} < \\frac{1}{9}$ là"
+  },
+  {
+    "bbox": [
+      221,
+      962,
+      420,
+      1004
+    ],
+    "category": "List-item",
+    "text": "A. $(-1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      524,
+      962,
+      696,
+      1004
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 1)$."
+  },
+  {
+    "bbox": [
+      827,
+      962,
+      997,
+      1004
+    ],
+    "category": "List-item",
+    "text": "C. $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1128,
+      962,
+      1327,
+      1004
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -1)$."
+  },
+  {
+    "bbox": [
+      192,
+      1027,
+      1453,
+      1124
+    ],
+    "category": "Text",
+    "text": "Câu 8. Cho cấp số nhân $(u_n)$ có $u_1 = 2$ và $u_6 = -64$. Số hạng $u_3$ của cấp số nhân đã cho là"
+  },
+  {
+    "bbox": [
+      221,
+      1149,
+      302,
+      1187
+    ],
+    "category": "List-item",
+    "text": "A. 8."
+  },
+  {
+    "bbox": [
+      524,
+      1149,
+      632,
+      1187
+    ],
+    "category": "List-item",
+    "text": "B. $-8$."
+  },
+  {
+    "bbox": [
+      827,
+      1149,
+      925,
+      1187
+    ],
+    "category": "List-item",
+    "text": "C. 16."
+  },
+  {
+    "bbox": [
+      1128,
+      1149,
+      1236,
+      1187
+    ],
+    "category": "List-item",
+    "text": "D. $-2$."
+  },
+  {
+    "bbox": [
+      192,
+      1231,
+      1106,
+      1388
+    ],
+    "category": "Text",
+    "text": "Câu 9. Cho hàm số $y = f(x)$ liên tục trên đoạn $[1;5]$ và có đồ thị như hình vẽ bên. Trên đoạn $[1;5]$ hàm số đã cho có giá trị lớn nhất tại điểm"
+  },
+  {
+    "bbox": [
+      1118,
+      1231,
+      1453,
+      1526
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      221,
+      1407,
+      359,
+      1445
+    ],
+    "category": "List-item",
+    "text": "A. $x = 1$."
+  },
+  {
+    "bbox": [
+      437,
+      1407,
+      575,
+      1445
+    ],
+    "category": "List-item",
+    "text": "B. $x = 5$."
+  },
+  {
+    "bbox": [
+      653,
+      1407,
+      791,
+      1445
+    ],
+    "category": "List-item",
+    "text": "C. $x = 2$."
+  },
+  {
+    "bbox": [
+      867,
+      1407,
+      1005,
+      1445
+    ],
+    "category": "List-item",
+    "text": "D. $x = 4$."
+  },
+  {
+    "bbox": [
+      192,
+      1542,
+      1453,
+      1592
+    ],
+    "category": "Text",
+    "text": "Câu 10. Cho hai biến cố $A, B$ có $P(A) = 0,6$; $P(B) = 0,8$; $P(AB) = 0,48$. Tính $P(\\bar{B} | A)$."
+  },
+  {
+    "bbox": [
+      221,
+      1664,
+      346,
+      1702
+    ],
+    "category": "List-item",
+    "text": "A. 0,48."
+  },
+  {
+    "bbox": [
+      524,
+      1664,
+      632,
+      1702
+    ],
+    "category": "List-item",
+    "text": "B. 0,6."
+  },
+  {
+    "bbox": [
+      827,
+      1664,
+      952,
+      1702
+    ],
+    "category": "List-item",
+    "text": "C. 0,75."
+  },
+  {
+    "bbox": [
+      1128,
+      1664,
+      1236,
+      1702
+    ],
+    "category": "List-item",
+    "text": "D. 0,2."
+  },
+  {
+    "bbox": [
+      192,
+      1725,
+      1453,
+      1897
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$ và $\\int_{-1}^{0} f(x)dx = 3$, $\\int_{0}^{3} f(x)dx = 1$. Tích phân $\\int_{-1}^{3} f(x)dx$ bằng"
+  },
+  {
+    "bbox": [
+      221,
+      1912,
+      302,
+      1950
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      524,
+      1912,
+      603,
+      1950
+    ],
+    "category": "List-item",
+    "text": "B. 4."
+  },
+  {
+    "bbox": [
+      827,
+      1912,
+      906,
+      1950
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1128,
+      1912,
+      1207,
+      1950
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      192,
+      1979,
+      1453,
+      2078
+    ],
+    "category": "Text",
+    "text": "Câu 12. Trong không gian với hệ tọa độ $Oxyz$, cho ba điểm $A(0;2;1)$, $B(3;0;1)$, $C(1;0;0)$. Phương trình mặt phẳng $(ABC)$ là"
+  },
+  {
+    "bbox": [
+      221,
+      2099,
+      566,
+      2137
+    ],
+    "category": "List-item",
+    "text": "A. $2x - 3y - 4z + 2 = 0$."
+  },
+  {
+    "bbox": [
+      833,
+      2099,
+      1176,
+      2137
+    ],
+    "category": "List-item",
+    "text": "B. $4x + 6y - 8z + 2 = 0$."
+  },
+  {
+    "bbox": [
+      221,
+      2160,
+      566,
+      2200
+    ],
+    "category": "List-item",
+    "text": "C. $2x + 3y - 4z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      833,
+      2160,
+      1176,
+      2200
+    ],
+    "category": "List-item",
+    "text": "D. $2x - 3y - 4z - 2 = 0$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1453,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

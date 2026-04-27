@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      109,
+      1576,
+      244
+    ],
+    "category": "List-item",
+    "text": "**Câu 15.** Một trường THPT Chuyên cử một đội tuyển gồm 90 học sinh tham dự kì thi Học sinh good cấp Quốc gia. Đội tuyển có cả học sinh nam và học sinh nữ. Sau kì thi, kết quả thống kê cho thấy có 85 học sinh đạt huy chương. Thông tin chi tiết như sau:"
+  },
+  {
+    "bbox": [
+      212,
+      246,
+      1188,
+      288
+    ],
+    "category": "Text",
+    "text": "Trong tổng số 90 học sinh, có 50 học sinh nam và 40 học sinh nữ."
+  },
+  {
+    "bbox": [
+      212,
+      291,
+      1079,
+      333
+    ],
+    "category": "Text",
+    "text": "Trong số 85 học sinh đạt huy chương, có 48 học sinh nam."
+  },
+  {
+    "bbox": [
+      212,
+      333,
+      1236,
+      379
+    ],
+    "category": "Text",
+    "text": "Chọn ngẫu nhiên một học sinh từ đội tuyển sau khi cuộc thi kết thúc."
+  },
+  {
+    "bbox": [
+      212,
+      382,
+      872,
+      461
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất chọn được một học sinh nữ là $\\frac{4}{9}$."
+  },
+  {
+    "bbox": [
+      212,
+      468,
+      1154,
+      549
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất chọn được một học sinh nam đạt huy chương là $\\frac{7}{15}$."
+  },
+  {
+    "bbox": [
+      212,
+      555,
+      1446,
+      637
+    ],
+    "category": "List-item",
+    "text": "c) Biết rằng học sinh được chọn là nam, xác suất học sinh đó đạt huy chương là $\\frac{24}{25}$."
+  },
+  {
+    "bbox": [
+      212,
+      642,
+      1469,
+      722
+    ],
+    "category": "List-item",
+    "text": "d) Biết rằng học sinh được chọn đã đạt huy chương, xác suất học sinh đó là nữ là $\\frac{37}{85}$."
+  },
+  {
+    "bbox": [
+      833,
+      730,
+      953,
+      771
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      198,
+      771,
+      1592,
+      818
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Đúng</td><td>b) Sai</td><td>c) Đúng</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      823,
+      933,
+      865
+    ],
+    "category": "Text",
+    "text": "Dựa vào giả thiết bài toán, ta có bảng số liệu sau:"
+  },
+  {
+    "bbox": [
+      282,
+      863,
+      1367,
+      1093
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Thành tích<br>Học sinh</th><th>Đạt huy chương</th><th>Không đạt huy<br>chương</th></tr></thead><tbody><tr><td>Nam</td><td>48</td><td>2</td></tr><tr><td>Nữ</td><td>37</td><td>3</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1098,
+      837,
+      1138
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố học sinh được chọn là nữ."
+  },
+  {
+    "bbox": [
+      212,
+      1142,
+      943,
+      1185
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố học sinh được chọn đạt huy chương."
+  },
+  {
+    "bbox": [
+      212,
+      1189,
+      341,
+      1230
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      1232,
+      545,
+      1327
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = \\frac{n(A)}{n(\\Omega)} = \\frac{40}{90} = \\frac{4}{9}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1337,
+      304,
+      1373
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      218,
+      1382,
+      663,
+      1486
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A} \\cap B) = \\frac{n(\\bar{A} \\cap B)}{n(\\Omega)} = \\frac{48}{90} = \\frac{8}{15}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1497,
+      339,
+      1538
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      1541,
+      661,
+      1652
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B | \\bar{A}) = \\frac{n(\\bar{A} \\cap B)}{n(\\bar{A})} = \\frac{48}{50} = \\frac{24}{25}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1664,
+      344,
+      1705
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      218,
+      1707,
+      574,
+      1801
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A | B) = \\frac{n(A \\cap B)}{n(B)} = \\frac{37}{85}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1814,
+      1567,
+      1920
+    ],
+    "category": "List-item",
+    "text": "**Câu 16.** Trong không gian $Oxyz$, cho hình lập phương $ABCD.A'B'C'D'$ có $A$ 0;0;0, $B$ 3;0;0, $D$ 0;3;0, $A'$ 0;0;3. Gọi $P$ là trung điểm $B'C'$, $K$ là điểm thuộc mặt phẳng $Oxz$."
+  },
+  {
+    "bbox": [
+      212,
+      1934,
+      654,
+      1976
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ điểm $C$ là $C$ 3;3;0."
+  },
+  {
+    "bbox": [
+      212,
+      1988,
+      986,
+      2083
+    ],
+    "category": "List-item",
+    "text": "b) Trọng tâm của tam giác $PCD$ có tọa độ là $\\left(2; \\frac{5}{4}; 1\\right)$."
+  },
+  {
+    "bbox": [
+      212,
+      2095,
+      1035,
+      2181
+    ],
+    "category": "List-item",
+    "text": "c) Giá trị nhỏ nhất của biểu thức $|\\overrightarrow{KP} + \\overrightarrow{KC} + \\overrightarrow{KD}|$ là $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      212,
+      2185,
+      965,
+      2233
+    ],
+    "category": "List-item",
+    "text": "d) Góc giữa hai đường thẳng $AP$ và $BC'$ bằng $60^\\circ$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

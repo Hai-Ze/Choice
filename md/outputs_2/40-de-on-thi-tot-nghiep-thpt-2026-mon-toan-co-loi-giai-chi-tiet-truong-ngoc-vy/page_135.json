@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      154,
+      94,
+      1574,
+      137
+    ],
+    "category": "Text",
+    "text": "thước ngắm 3 và đứng cách xa bia mục tiêu là 100 m, trục $d$ của nòng súng và cọc đỡ bia $d'$ lần lượt có"
+  },
+  {
+    "bbox": [
+      154,
+      157,
+      1574,
+      305
+    ],
+    "category": "Text",
+    "text": "phương trình $d: \\begin{cases} x = t \\\\ y = 2 \\\\ z = 4 \\end{cases}$ và $d': \\begin{cases} x = 1 \\\\ y = 2 \\\\ z = 1+3t' \\end{cases}$. Để bắn trúng hồng tâm (thang điểm 10) thì vận động viên"
+  },
+  {
+    "bbox": [
+      154,
+      332,
+      1574,
+      446
+    ],
+    "category": "Text",
+    "text": "phải ngắm bắn vào điểm $N(a;b;c) \\in d'$ và cách giao điểm của $d$ và $d'$ một khoảng 6 cm. Khi $c < 0$, tính giá trị biểu thức $2a-b+3c$."
+  },
+  {
+    "bbox": [
+      570,
+      470,
+      1152,
+      824
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      842,
+      494,
+      878
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      902,
+      924,
+      941
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      959,
+      323,
+      998
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** -6"
+  },
+  {
+    "bbox": [
+      154,
+      1019,
+      1171,
+      1167
+    ],
+    "category": "Text",
+    "text": "Gọi $I$ là giao điểm của $d$ và $d'$.解� hệ $\\begin{cases} t = 1 \\\\ 2 = 2 \\\\ 4 = 1+3t' \\end{cases} \\Leftrightarrow \\begin{cases} t = 1 \\\\ t' = 1 \\end{cases} \\Rightarrow I(1;2;4)$."
+  },
+  {
+    "bbox": [
+      154,
+      1194,
+      1368,
+      1243
+    ],
+    "category": "Text",
+    "text": "Vì $N(a;b;c) \\in d' \\Rightarrow N(1;2;1+3t')$ và $N$ cách giao điểm $I$ một khoảng 6 cm nên $IN = 6$"
+  },
+  {
+    "bbox": [
+      161,
+      1268,
+      655,
+      1335
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\sqrt{(1-1)^2 + (2-2)^2 + (3t' - 3)^2} = 6\n$$"
+  },
+  {
+    "bbox": [
+      161,
+      1358,
+      717,
+      1457
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow |3t' - 3| = 6 \\Leftrightarrow \\begin{cases} 3t' - 3 = 6 \\\\ 3t' - 3 = -6 \\end{cases} \\Leftrightarrow \\begin{cases} t' = 3 \\\\ t' = -1 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1480,
+      865,
+      1529
+    ],
+    "category": "Text",
+    "text": "Với $t' = 3 \\Rightarrow N(1;2;10)$ (không thỏa yêu cầu đề bài)."
+  },
+  {
+    "bbox": [
+      154,
+      1556,
+      800,
+      1605
+    ],
+    "category": "Text",
+    "text": "Với $t' = -1 \\Rightarrow N(1;2;-2)$ (thỏa yêu cầu đề bài)."
+  },
+  {
+    "bbox": [
+      154,
+      1634,
+      1000,
+      1680
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a = 1; b = 2; c = -2 \\Rightarrow 2a - b + 3c = 2 \\cdot 1 - 2 + 3 \\cdot (-2) = -6.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1707,
+      1574,
+      1880
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp $S.ABCD$ có đáy là hình thoi cạnh $2\\sqrt{5}$, tâm $O$ và $\\widehat{ABC} = 60^\\circ$, mặt bên $SAB$ là tam giác đều và nằm trong mặt phẳng vuông góc với đáy. Gọi $H$ là trung điểm cạnh $AB$. Tính bình phương khoảng cách từ $H$ đến mặt phẳng ($SAC$)."
+  },
+  {
+    "bbox": [
+      154,
+      1902,
+      494,
+      1939
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1961,
+      924,
+      2000
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      154,
+      2019,
+      302,
+      2058
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 3"
+  },
+  {
+    "bbox": [
+      154,
+      2257,
+      649,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

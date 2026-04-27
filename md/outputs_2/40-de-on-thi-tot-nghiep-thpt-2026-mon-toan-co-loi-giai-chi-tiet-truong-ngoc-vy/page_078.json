@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      1495,
+      147
+    ],
+    "category": "Text",
+    "text": "Do $(P)$ có đồ thị là parabol có định $(0;4)$ và đi qua điểm có tọa độ là $(2; 0)$ nên"
+  },
+  {
+    "bbox": [
+      79,
+      173,
+      461,
+      322
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} b = 0 \\\\ c = 4 \\\\ 4a + 2b + c = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = -1 \\\\ b = 0 \\\\ c = 4 \\end{cases} .\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      349,
+      593,
+      397
+    ],
+    "category": "Text",
+    "text": "Vậy $(P)$ có phương trình $y = -x^2 + 4$."
+  },
+  {
+    "bbox": [
+      76,
+      422,
+      1495,
+      545
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết điểm $D$ thuộc đồ thị $(P)$ có tung độ bằng 2 suy ra hoành độ là nghiệm phương trình\n$-x^2 + 4 = 2 \\Leftrightarrow x = \\pm\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      76,
+      564,
+      819,
+      626
+    ],
+    "category": "Text",
+    "text": "Theo đồ thị điểm $D$ có hoành độ dương nên $D(\\sqrt{2}; 2)$"
+  },
+  {
+    "bbox": [
+      76,
+      648,
+      696,
+      702
+    ],
+    "category": "Text",
+    "text": "Chiều rộng của cửa là $CF = 2 \\cdot OD = 2\\sqrt{2} (m)$."
+  },
+  {
+    "bbox": [
+      76,
+      730,
+      1086,
+      813
+    ],
+    "category": "Text",
+    "text": "Ta có, diện tích của $(P)$ tạo với trục hoành là: $S = \\int_{-2}^{2} (-x^2 + 4) dx = \\frac{32}{3} m^2$."
+  },
+  {
+    "bbox": [
+      76,
+      832,
+      831,
+      886
+    ],
+    "category": "Text",
+    "text": "Diện tích hình chữ nhật $CDEF$ là $S_{CDEF} = 2 \\cdot 2\\sqrt{2} = 4\\sqrt{2}$"
+  },
+  {
+    "bbox": [
+      76,
+      909,
+      942,
+      1003
+    ],
+    "category": "Text",
+    "text": "Diện tích cần trang trí là $S_1 = S - S_{CDEF} = \\frac{32}{3} - 4\\sqrt{2} = \\frac{32 - 12\\sqrt{2}}{3}$."
+  },
+  {
+    "bbox": [
+      76,
+      1024,
+      1095,
+      1128
+    ],
+    "category": "Text",
+    "text": "Chi phí để trang trí phần tô Đâm là $\\left(\\frac{32 - 12\\sqrt{2}}{3}\\right) \\cdot 1,5 = 7,514718626$ (đồng)"
+  },
+  {
+    "bbox": [
+      76,
+      1150,
+      1030,
+      1198
+    ],
+    "category": "Text",
+    "text": "Số tiền gia đình đó phải trả để trang trí phần tô Đâm là 7,5 (triệu đồng)"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

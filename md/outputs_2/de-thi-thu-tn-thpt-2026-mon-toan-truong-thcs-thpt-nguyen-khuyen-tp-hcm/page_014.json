@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      1522,
+      216
+    ],
+    "category": "Text",
+    "text": "Ta có $(S)$ có tâm $O(0;0;0)$, bán kính $R = 3,5$ nên Sao hỏa có tâm là gốc tọa độ, khoảng cách từ tâm của sao hỏa đến điểm ngoài cùng của khí quyển là $R = 3,5$. Suy ra мыn đề b) Sai."
+  },
+  {
+    "bbox": [
+      251,
+      216,
+      386,
+      259
+    ],
+    "category": "Text",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      261,
+      1056,
+      309
+    ],
+    "category": "Text",
+    "text": "Ta có $d_1$ đi qua điểm $A(-1;-2-0)$ và có vecto chỉ phương"
+  },
+  {
+    "bbox": [
+      251,
+      315,
+      1492,
+      457
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{u} = (1;2;1) \\Rightarrow \\overrightarrow{OM} = (-1;-2;0), [\\vec{u}, \\overrightarrow{OA}] = (2;-1;0) \\Rightarrow d(O,d_1) = \\frac{\\sqrt{4+1}}{\\sqrt{1+4+1}} = \\frac{\\sqrt{30}}{6} < 3,5 \\text{ nên tiểu hành tinh thứ nhất có thể đi vào vùng khí quyển của sao hỏa.}\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      453,
+      386,
+      494
+    ],
+    "category": "Text",
+    "text": "d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      251,
+      494,
+      1495,
+      606
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $d_1$ đi qua $A(-1;-2;0)$ và có vecto chỉ phương $\\vec{u}_1 = (1;2;1)$, đường thẳng $d_2$ đi qua điểm $B(2;1;1)$ và có vecto chỉ phương $\\vec{u}_2 = (2;1;1)$"
+  },
+  {
+    "bbox": [
+      251,
+      610,
+      1492,
+      719
+    ],
+    "category": "Text",
+    "text": "Ta có $[\\vec{u}_1, \\vec{u}_2] = (1;1;0), \\overrightarrow{AB} = (3;3;0) \\Rightarrow [\\vec{u}_1, \\vec{u}_2] \\cdot \\overrightarrow{AB} = 6 \\neq 0$ nên hai đường thẳng $d_1, d_2$ chéo nhau. Vậy hai tiểu hành tinh không có nguy cơ va chạm nhau."
+  },
+  {
+    "bbox": [
+      114,
+      750,
+      1515,
+      835
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một chậu nước có dạng một khối tròn xoay với thiết diện qua trục của chậu (mặt cắt đi qua hai tâm của hai đường tròn đáy) là hai đường parabol đối xứng nhau qua trục đó."
+  },
+  {
+    "bbox": [
+      413,
+      833,
+      1347,
+      1387
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1383,
+      1530,
+      1659
+    ],
+    "category": "Text",
+    "text": "Biết hai đường tròn đáy chậu cùng có bán kính bằng $0,5m$; thiết diện nhỏ nhất vuông góc với trục của chậu có bán kính $0,2m$; chiều cao của chậu nước bằng $1,5m$. Người ta bơm nước vào chậu với tốc độ $5$ lít/phút. Xét hệ trục tọa độ $Oxy$ với gốc $O$ trùng với tâm đường tròn đáy của chậu nước, tia $Ox$ chứa trục của chậu nước (đơn vị trên mỗi trục là mét). Мặt cắt qua trục của chậu nước cho ta hai nhánh parabol như hình vẽ. Gọi $y = f(x)$ là parabol nằm phía trên trục hoành. Xét tính đúng – sai của các мыn đề sau?"
+  },
+  {
+    "bbox": [
+      251,
+      1659,
+      597,
+      1742
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } f(x) = \\frac{8}{15}x^2 - \\frac{4}{5}x + \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1744,
+      1472,
+      1792
+    ],
+    "category": "Text",
+    "text": "b) Sức chứa tối đa của chậu nước bằng $0,5m^3$ (làm tròn đến hàng phần chục của mét khối)."
+  },
+  {
+    "bbox": [
+      251,
+      1792,
+      1368,
+      1838
+    ],
+    "category": "Text",
+    "text": "c) Sau $1,5$ giờ bơm nước (làm tròn đến hàng phần chục của giờ) thì chậu đầy nước."
+  },
+  {
+    "bbox": [
+      251,
+      1838,
+      1500,
+      1883
+    ],
+    "category": "Text",
+    "text": "d) Nếu bơm từ đầu như thế thì đến phút thứ $20$, tốc độ dang lên của nước bằng $0,01 m/phút$."
+  },
+  {
+    "bbox": [
+      817,
+      1887,
+      929,
+      1927
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  }
+]

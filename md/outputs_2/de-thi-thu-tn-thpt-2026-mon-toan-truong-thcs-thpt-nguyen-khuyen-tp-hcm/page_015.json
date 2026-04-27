@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      601,
+      113,
+      1142,
+      576
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      573,
+      385,
+      613
+    ],
+    "category": "Section-header",
+    "text": "a) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      618,
+      642,
+      664
+    ],
+    "category": "Text",
+    "text": "Gọi $y = f(x) = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      252,
+      672,
+      1049,
+      721
+    ],
+    "category": "Text",
+    "text": "Parabol cắt trục tung tại điểm $(0;0,5)$ và định $I(0,75;0,2)$"
+  },
+  {
+    "bbox": [
+      252,
+      727,
+      1217,
+      997
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có hệ: } \\begin{cases} c = 0,5 \\\\ a(0,75)^2 + b \\cdot 0,75 + c = 0,2 \\\\ -\\frac{b}{2a} = 0,75 \\end{cases} \\Leftrightarrow \\begin{cases} c = \\frac{1}{2} \\\\ \\frac{9a}{16} + \\frac{3b}{4} + c = \\frac{1}{5} \\\\ 3a + 2b = 0 \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{8}{15} \\\\ b = -\\frac{4}{5} \\\\ c = \\frac{1}{2} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1005,
+      675,
+      1084
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } f(x) = \\frac{8}{15}x^2 - \\frac{4}{5}x + \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1084,
+      385,
+      1125
+    ],
+    "category": "Section-header",
+    "text": "b) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      1125,
+      640,
+      1166
+    ],
+    "category": "Text",
+    "text": "Thể tích của chậu nước bằng"
+  },
+  {
+    "bbox": [
+      252,
+      1170,
+      1188,
+      1268
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{1,5} [f(x)]^2 dx = \\pi \\int_{0}^{1,5} \\left[ \\frac{8}{15}x^2 - \\frac{4}{5}x + \\frac{1}{2} \\right]^2 dx \\approx 0,4618141201 \\approx 0,5.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1271,
+      385,
+      1312
+    ],
+    "category": "Section-header",
+    "text": "c) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      1315,
+      1150,
+      1360
+    ],
+    "category": "Text",
+    "text": "Tốc độ bơm nước vào bể 5 lít/phút = $5 dm^3/\\text{phút} = 5 \\cdot 10^{-3} m^3/\\text{phút}$"
+  },
+  {
+    "bbox": [
+      252,
+      1368,
+      1355,
+      1411
+    ],
+    "category": "Text",
+    "text": "Thể tích nước bơm sau 1,5 giờ = $1,5 \\times 60 = 90$ phút là $5 \\cdot 10^{-3} \\times 90 = 0,45 \\approx 0,5 m^3$."
+  },
+  {
+    "bbox": [
+      252,
+      1413,
+      385,
+      1454
+    ],
+    "category": "Section-header",
+    "text": "d) ĐÚNG"
+  },
+  {
+    "bbox": [
+      252,
+      1456,
+      1096,
+      1497
+    ],
+    "category": "Text",
+    "text": "Gọi $h$ là độ cao của nước trong chậu sau khi bơm được $t$ phút."
+  },
+  {
+    "bbox": [
+      252,
+      1501,
+      1375,
+      1598
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } V_h = \\pi \\int_{0}^{h} \\left( \\frac{8}{15}x^2 - \\frac{4}{5}x + \\frac{1}{2} \\right)^2 dx = \\pi \\left( \\frac{64}{1125}h^5 - \\frac{16}{75}h^4 + \\frac{88}{225}h^3 - \\frac{2}{5}h^2 + \\frac{1}{4}h \\right) m^3.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1608,
+      884,
+      1651
+    ],
+    "category": "Text",
+    "text": "Thể tích nước bơm sau $t$ phút là $V = 0,005t m^3$"
+  },
+  {
+    "bbox": [
+      252,
+      1657,
+      1160,
+      1746
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó: } \\pi \\left( \\frac{64}{1125}h^5 - \\frac{16}{75}h^4 + \\frac{88}{225}h^3 - \\frac{2}{5}h^2 + \\frac{1}{4}h \\right) = 0,005t \\quad (*)\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1754,
+      1238,
+      1895
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tại thời điểm } t = 20 \\text{ ta có: } \\pi \\left( \\frac{64}{1125}h^5 - \\frac{16}{75}h^4 + \\frac{88}{225}h^3 - \\frac{2}{5}h^2 + \\frac{1}{4}h \\right) = 0,1 \\\\ \\Rightarrow h_0 \\approx 0,1640803548.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1903,
+      1508,
+      1991
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Đạo hàm theo biến } t \\text{ hai vế của } (*) \\text{ ta được: } \\left( \\frac{64}{225}h^4 - \\frac{64}{75}h^3 + \\frac{264}{225}h^2 - \\frac{4}{5}h + \\frac{1}{4} \\right) h'(t) = \\frac{0,005}{\\pi}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      1995,
+      599,
+      2038
+    ],
+    "category": "Text",
+    "text": "Tốc độ dâng lên của nước"
+  },
+  {
+    "bbox": [
+      324,
+      2040,
+      1014,
+      2168
+    ],
+    "category": "Formula",
+    "text": "$$\nv(t) = h'(t) = \\frac{0,005}{\\pi \\left( \\frac{64}{225}h^4 - \\frac{64}{75}h^3 + \\frac{264}{225}h^2 - \\frac{4}{5}h + \\frac{1}{4} \\right)}\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      2174,
+      1130,
+      2221
+    ],
+    "category": "Text",
+    "text": "Tại thời điểm $t = 20$, $h_0 \\approx 0,1640803548$ tốc độ dâng của nước là:"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      96,
+      414,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      155,
+      843,
+      193
+    ],
+    "category": "Section-header",
+    "text": "## Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      274,
+      251
+    ],
+    "category": "Text",
+    "text": "Đáp án: 6480"
+  },
+  {
+    "bbox": [
+      76,
+      268,
+      356,
+      311
+    ],
+    "category": "Text",
+    "text": "Thời gian sản xuất:"
+  },
+  {
+    "bbox": [
+      76,
+      324,
+      562,
+      369
+    ],
+    "category": "Text",
+    "text": "Một chiếc múi型式 thứ nhất: $t$ phút."
+  },
+  {
+    "bbox": [
+      76,
+      396,
+      626,
+      470
+    ],
+    "category": "Text",
+    "text": "Một chiếc múi型式 thứ nhất: $t' = \\frac{t}{2}$ phút."
+  },
+  {
+    "bbox": [
+      76,
+      496,
+      1403,
+      578
+    ],
+    "category": "Text",
+    "text": "Trong 1 giờ sản xuất được 60 chiếc múi型式 thứ hai: $t' = \\frac{60}{60} = 1$ (phút/mũ). Suy ra $t = 2$ (phút/mũ)."
+  },
+  {
+    "bbox": [
+      76,
+      596,
+      1255,
+      642
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ lần lượt là số lượng múi型式 thứ nhất và型式 thứ hai sản xuất được mỗi ngày."
+  },
+  {
+    "bbox": [
+      76,
+      659,
+      1494,
+      705
+    ],
+    "category": "Text",
+    "text": "Phân xưởng làm việc không quá 8 tiếng = 480 phút mỗi ngày và thị trường tiêu thụ tối đa trong một ngày"
+  },
+  {
+    "bbox": [
+      76,
+      725,
+      1196,
+      872
+    ],
+    "category": "Text",
+    "text": "là 200 chiếc múi型式 thứ nhất và 240 chiếc múi型式 thứ hai nên $\\begin{cases} 2x + y \\le 480 \\\\ 0 \\le x \\le 200 \\\\ 0 \\le y \\le 240 \\end{cases} (I)$."
+  },
+  {
+    "bbox": [
+      76,
+      895,
+      198,
+      934
+    ],
+    "category": "Text",
+    "text": "Tiền lãi:"
+  },
+  {
+    "bbox": [
+      76,
+      952,
+      665,
+      997
+    ],
+    "category": "Text",
+    "text": "Một chiếc múi型式 thứ nhất: 24 nghìn đồng."
+  },
+  {
+    "bbox": [
+      76,
+      1009,
+      672,
+      1054
+    ],
+    "category": "Text",
+    "text": "Một chiếc múi型式 thứ hai là 15 nghìn đồng."
+  },
+  {
+    "bbox": [
+      76,
+      1069,
+      572,
+      1114
+    ],
+    "category": "Text",
+    "text": "Do đó tổng tiền lãi là $P = 24x + 15y$."
+  },
+  {
+    "bbox": [
+      76,
+      1138,
+      1224,
+      1186
+    ],
+    "category": "Text",
+    "text": "Ta xét bài toán tìm $x, y$ đề $P = 24x + 15y$ đạt giá trị lớn nhất, với các điều kiện $(I)$."
+  },
+  {
+    "bbox": [
+      76,
+      1213,
+      1166,
+      1259
+    ],
+    "category": "Text",
+    "text": "Biểu diễn các ràng buộc trên mặt phẳng $(Oxy)$: $2x + y = 480$; $x = 200$; $y = 240$."
+  },
+  {
+    "bbox": [
+      76,
+      1286,
+      937,
+      1326
+    ],
+    "category": "Text",
+    "text": "Vùng nghiệm là hình ngũ giác được giới hạn bởi các đường này."
+  },
+  {
+    "bbox": [
+      565,
+      1341,
+      986,
+      1647
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1661,
+      927,
+      1705
+    ],
+    "category": "Text",
+    "text": "Tọa độ các đỉnh của ngũ giác $OHIJK$ và tính giá trị tiền lãi:"
+  },
+  {
+    "bbox": [
+      80,
+      1724,
+      654,
+      1773
+    ],
+    "category": "Text",
+    "text": "$O(0;0)$. Ta có tiền lãi $P = 24.0 + 15.0 = 0$."
+  },
+  {
+    "bbox": [
+      80,
+      1802,
+      677,
+      1848
+    ],
+    "category": "Text",
+    "text": "$H(200;0)$. Ta có $P = 24.200 + 15.0 = 4800$."
+  },
+  {
+    "bbox": [
+      80,
+      1875,
+      1478,
+      1922
+    ],
+    "category": "Text",
+    "text": "$I$ là giao điểm của các đường $2x + y = 480$ và $x = 200$ nên $I = (200;80) \\Rightarrow P = 24.200 + 15.80 = 6000$."
+  },
+  {
+    "bbox": [
+      80,
+      1951,
+      1088,
+      1998
+    ],
+    "category": "Text",
+    "text": "$J$ là giao điểm của các đường $2x + y = 480$ và $y = 240$ nên $J = (120;240)$"
+  },
+  {
+    "bbox": [
+      80,
+      2025,
+      501,
+      2061
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow P = 24.120 + 15.240 = 6480.\n$$"
+  },
+  {
+    "bbox": [
+      80,
+      2085,
+      772,
+      2132
+    ],
+    "category": "Text",
+    "text": "$K(0;240)$. Ta có tiền lãi $P = 24.0 + 15.240 = 3600$."
+  },
+  {
+    "bbox": [
+      76,
+      2153,
+      1239,
+      2199
+    ],
+    "category": "Text",
+    "text": "Vậy số tiền lãi lớn nhất mà phân xưởng thu được trong một ngày là: 6480 nghìn đồng."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

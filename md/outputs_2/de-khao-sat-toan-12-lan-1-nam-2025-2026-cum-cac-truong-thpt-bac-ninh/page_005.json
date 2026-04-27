@@ -1,0 +1,102 @@
+[
+  {
+    "bbox": [
+      51,
+      108,
+      2153,
+      939
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th rowspan=\"2\">Mã đề</th><th colspan=\"12\">PHẦN I: TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN</th><th colspan=\"12\">PHẦN II: TRẮC NGHIỆM ĐÚNG/SAI</th><th colspan=\"6\">PHẦN III: TRẮC NGHIỆM TRẢ LỜI NGẤN</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>1a</th><th>1b</th><th>1c</th><th>1d</th><th>2a</th><th>2b</th><th>2c</th><th>2d</th><th>3a</th><th>3b</th><th>3c</th><th>3d</th><th>4a</th><th>4b</th><th>4c</th><th>4d</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody><tr><td>0101</td><td>A</td><td>C</td><td>D</td><td>A</td><td>D</td><td>C</td><td>B</td><td>A</td><td>C</td><td>D</td><td>B</td><td>C</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>3</td><td>1</td><td>0,25</td><td>0,31</td><td>607</td><td>87</td></tr><tr><td>0102</td><td>C</td><td>D</td><td>C</td><td>D</td><td>C</td><td>B</td><td>D</td><td>B</td><td>B</td><td>B</td><td>C</td><td>A</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>1</td><td>0,31</td><td>607</td><td>87</td><td>3</td><td>0,25</td></tr><tr><td>0103</td><td>D</td><td>D</td><td>A</td><td>B</td><td>D</td><td>D</td><td>B</td><td>D</td><td>B</td><td>B</td><td>A</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>607</td><td>87</td><td>0,31</td><td>0,25</td><td>1</td><td>3</td></tr><tr><td>0104</td><td>B</td><td>D</td><td>C</td><td>A</td><td>C</td><td>A</td><td>D</td><td>A</td><td>A</td><td>C</td><td>A</td><td>A</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>1</td><td>0,25</td><td>3</td><td>0,31</td><td>607</td><td>87</td></tr><tr><td>0105</td><td>B</td><td>D</td><td>D</td><td>B</td><td>A</td><td>C</td><td>A</td><td>C</td><td>D</td><td>C</td><td>C</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>3</td><td>0,31</td><td>1</td><td>607</td><td>0,25</td><td>87</td></tr><tr><td>0106</td><td>B</td><td>D</td><td>C</td><td>D</td><td>B</td><td>B</td><td>A</td><td>B</td><td>C</td><td>A</td><td>B</td><td>B</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>3</td><td>0,25</td><td>607</td><td>0,31</td><td>1</td><td>87</td></tr><tr><td>0107</td><td>A</td><td>D</td><td>A</td><td>D</td><td>B</td><td>D</td><td>A</td><td>C</td><td>B</td><td>A</td><td>A</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>607</td><td>87</td><td>0,31</td><td>3</td><td>1</td><td>0,25</td></tr><tr><td>0108</td><td>D</td><td>B</td><td>A</td><td>D</td><td>C</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>C</td><td>A</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>0,31</td><td>607</td><td>1</td><td>0,25</td><td>3</td><td>87</td></tr><tr><td>0109</td><td>A</td><td>D</td><td>C</td><td>C</td><td>D</td><td>B</td><td>B</td><td>D</td><td>A</td><td>C</td><td>A</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>1</td><td>3</td><td>0,31</td><td>87</td><td>0,25</td><td>607</td></tr><tr><td>0110</td><td>B</td><td>D</td><td>A</td><td>A</td><td>D</td><td>A</td><td>B</td><td>D</td><td>D</td><td>C</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>0,25</td><td>1</td><td>0,31</td><td>3</td><td>607</td><td>87</td></tr><tr><td>0111</td><td>C</td><td>B</td><td>B</td><td>D</td><td>B</td><td>B</td><td>B</td><td>D</td><td>B</td><td>C</td><td>D</td><td>A</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>0,31</td><td>0,25</td><td>3</td><td>1</td><td>87</td><td>607</td></tr><tr><td>0112</td><td>A</td><td>C</td><td>C</td><td>D</td><td>B</td><td>B</td><td>D</td><td>D</td><td>D</td><td>D</td><td>B</td><td>C</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>87</td><td>0,31</td><td>3</td><td>607</td><td>0,25</td><td>1</td></tr><tr><td>0113</td><td>A</td><td>A</td><td>D</td><td>C</td><td>A</td><td>B</td><td>B</td><td>C</td><td>D</td><td>D</td><td>D</td><td>B</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>S</td><td>0,25</td><td>1</td><td>87</td><td>3</td><td>0,31</td><td>607</td></tr><tr><td>0114</td><td>C</td><td>C</td><td>D</td><td>C</td><td>A</td><td>B</td><td>D</td><td>D</td><td>B</td><td>A</td><td>A</td><td>B</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>1</td><td>3</td><td>607</td><td>87</td><td>0,25</td><td>0,31</td></tr><tr><td>0115</td><td>C</td><td>D</td><td>C</td><td>A</td><td>B</td><td>D</td><td>B</td><td>D</td><td>B</td><td>B</td><td>C</td><td>C</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>1</td><td>607</td><td>87</td><td>0,25</td><td>3</td><td>0,31</td></tr><tr><td>0116</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>D</td><td>D</td><td>C</td><td>A</td><td>D</td><td>D</td><td>C</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>87</td><td>0,31</td><td>3</td><td>607</td><td>0,25</td><td>1</td></tr><tr><td>0117</td><td>A</td><td>B</td><td>A</td><td>A</td><td>C</td><td>A</td><td>C</td><td>A</td><td>A</td><td>C</td><td>C</td><td>B</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>D</td><td>1</td><td>87</td><td>607</td><td>0,25</td><td>0,31</td><td>3</td></tr><tr><td>0118</td><td>D</td><td>D</td><td>A</td><td>C</td><td>C</td><td>D</td><td>A</td><td>C</td><td>A</td><td>B</td><td>C</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>87</td><td>0,31</td><td>607</td><td>1</td><td>0,25</td><td>3</td></tr><tr><td>0119</td><td>D</td><td>D</td><td>A</td><td>B</td><td>C</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>D</td><td>C</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>87</td><td>607</td><td>0,25</td><td>0,31</td><td>1</td><td>3</td></tr><tr><td>0120</td><td>C</td><td>B</td><td>C</td><td>D</td><td>B</td><td>D</td><td>D</td><td>A</td><td>C</td><td>D</td><td>A</td><td>A</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>0,25</td><td>1</td><td>0,31</td><td>87</td><td>3</td><td>607</td></tr><tr><td>0121</td><td>D</td><td>D</td><td>C</td><td>B</td><td>B</td><td>D</td><td>A</td><td>A</td><td>D</td><td>D</td><td>D</td><td>B</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>87</td><td>0,31</td><td>3</td><td>1</td><td>0,25</td><td>607</td></tr><tr><td>0122</td><td>A</td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>C</td><td>A</td><td>A</td><td>B</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>87</td><td>0,25</td><td>1</td><td>607</td><td>0,31</td><td>3</td></tr><tr><td>0123</td><td>A</td><td>C</td><td>C</td><td>D</td><td>D</td><td>D</td><td>C</td><td>A</td><td>C</td><td>B</td><td>B</td><td>C</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>D</td><td>0,31</td><td>3</td><td>87</td><td>607</td><td>0,25</td><td>1</td></tr><tr><td>0124</td><td>C</td><td>B</td><td>C</td><td>B</td><td>B</td><td>C</td><td>C</td><td>D</td><td>C</td><td>B</td><td>B</td><td>A</td><td>S</td><td>D</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>S</td><td>D</td><td>D</td><td>S</td><td>D</td><td>S</td><td>607</td><td>3</td><td>1</td><td>87</td><td>0,31</td><td>0,25</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      56,
+      968,
+      300,
+      997
+    ],
+    "category": "Section-header",
+    "text": "## HƯỚNG DẪN CHẤM"
+  },
+  {
+    "bbox": [
+      56,
+      1000,
+      513,
+      1031
+    ],
+    "category": "Text",
+    "text": "**Phần I:** Mỗi câu trả lời đúng được 0,25 điểm"
+  },
+  {
+    "bbox": [
+      56,
+      1031,
+      148,
+      1060
+    ],
+    "category": "Text",
+    "text": "**Phần II:**"
+  },
+  {
+    "bbox": [
+      63,
+      1063,
+      753,
+      1093
+    ],
+    "category": "Text",
+    "text": "Thí sinh chỉ lựa chọn chính xác 01 ý trong 01 câu hỏi được 0,1 điểm."
+  },
+  {
+    "bbox": [
+      63,
+      1095,
+      764,
+      1125
+    ],
+    "category": "Text",
+    "text": "Thí sinh chỉ lựa chọn chính xác 02 ý trong 01 câu hỏi được 0,25 điểm."
+  },
+  {
+    "bbox": [
+      63,
+      1127,
+      753,
+      1157
+    ],
+    "category": "Text",
+    "text": "Thí sinh chỉ lựa chọn chính xác 03 ý trong 01 câu hỏi được 0,5 điểm."
+  },
+  {
+    "bbox": [
+      63,
+      1159,
+      753,
+      1188
+    ],
+    "category": "Text",
+    "text": "Thí sinh chỉ lựa chọn chính xác 04 ý trong 01 câu hỏi được 1,0 điểm."
+  },
+  {
+    "bbox": [
+      56,
+      1190,
+      520,
+      1221
+    ],
+    "category": "Text",
+    "text": "**Phần III:** Mỗi câu trả lời đúng được 0,5 điểm"
+  },
+  {
+    "bbox": [
+      1006,
+      1256,
+      1196,
+      1282
+    ],
+    "category": "Text",
+    "text": "TOANMATH.com"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      193,
+      50,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1261,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      193,
+      156,
+      1456,
+      476
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Theo báo cáo của một cơ sở sản xuất nước tinh khiết, nếu mỗi ngày cơ sở này sản xuất $x$ (m$^3$) nước tinh khiết thì phải chi phí các khoản sau: 3 triệu đồng chi phí cố định; 0,15 triệu đồng cho mỗi mét khối sản phẩm; $0,0003x^2$ chi phí bảo dưỡng máy móc. Biết công suất tối đa mỗi ngày của cơ sở này là 200 (m$^3$). Gọi $C(x)$ là chi phí sản xuất $x$ (m$^3$) sản phẩm mỗi ngày và $\\bar{c}(x)$ là chi phí trung bình mỗi mét khối sản phẩm."
+  },
+  {
+    "bbox": [
+      223,
+      479,
+      896,
+      528
+    ],
+    "category": "Formula",
+    "text": "a) $C(x) = 0,0003x^2 + 0,15x + 5$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      223,
+      533,
+      1131,
+      583
+    ],
+    "category": "Formula",
+    "text": "b) Chi phí sản xuất 100 m$^3$ nước tinh khiết là 18 triệu đồng."
+  },
+  {
+    "bbox": [
+      223,
+      585,
+      672,
+      665
+    ],
+    "category": "Formula",
+    "text": "c) $\\bar{c}(x) = 0,0003x + 0,15 + \\frac{3}{x}$."
+  },
+  {
+    "bbox": [
+      223,
+      660,
+      1448,
+      761
+    ],
+    "category": "Formula",
+    "text": "d) Chi phí trung bình mỗi mét khối sản phẩm thấp nhất khi sản lượng nước tinh khiết trong ngày là 100 (m$^3$)."
+  },
+  {
+    "bbox": [
+      193,
+      782,
+      1456,
+      987
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cây cà chua khi trồng có chiều cao 5 cm. Tốc độ tăng chiều cao của cây cà chua sau khi trồng được cho bởi hàm số $v(t) = -0,1t^3 + t^2$, trong đó $t$ tính theo tuần, $v(t)$ tính bằng cm/tuần. Gọi $h(t)$ (tính bằng cm) là độ cao của cây cà chua ở tuần thứ $t$. Khi đó"
+  },
+  {
+    "bbox": [
+      223,
+      980,
+      672,
+      1068
+    ],
+    "category": "Formula",
+    "text": "a) $h(t) = \\frac{-t^4}{40} + \\frac{t^3}{3}$, với $t \\ge 0$."
+  },
+  {
+    "bbox": [
+      223,
+      1068,
+      1448,
+      1116
+    ],
+    "category": "Formula",
+    "text": "b) Chiều cao tối đa của cây cà chua đó là 88,3 cm (làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      223,
+      1123,
+      1230,
+      1171
+    ],
+    "category": "Formula",
+    "text": "c) Giai đoạn tăng trưởng của cây cà chua đó kéo dài trong 9 tuần."
+  },
+  {
+    "bbox": [
+      223,
+      1176,
+      1448,
+      1280
+    ],
+    "category": "Formula",
+    "text": "d) Vào thời điểm cây cà chua đó phát triển nhanh nhất thì chiều cao cây cà chua đạt 54,4 cm (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      193,
+      1299,
+      1456,
+      1511
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Tỉ lệ học sinh tiêm vắc xin phòng bệnh Thủy Đậu trong một trường $M$ là 70%. Trong số những học sinh đã được tiêm phòng, tỉ lệ mắc Thủy Đậu là 4%, còn trong số học sinh chưa tiêm, tỉ lệ mắc bệnh là 20%. Gặp ngẫu nhiên một học sinh ở trường đó."
+  },
+  {
+    "bbox": [
+      241,
+      1544,
+      1084,
+      1592
+    ],
+    "category": "List-item",
+    "text": "- Gọi $A$ là biến cố: “Gặp học sinh mắc bệnh thủy đậu”."
+  },
+  {
+    "bbox": [
+      241,
+      1626,
+      1380,
+      1674
+    ],
+    "category": "List-item",
+    "text": "- Gọi $B$ là biến cố: “Gặp học sinh đã tiêm vắc xin phòng bệnh Thủy Đậu”."
+  },
+  {
+    "bbox": [
+      193,
+      1709,
+      688,
+      1757
+    ],
+    "category": "Text",
+    "text": "Các phát biểu sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      223,
+      1762,
+      632,
+      1811
+    ],
+    "category": "Formula",
+    "text": "a) $P(B) = 0,3, P(\\bar{B}) = 0,7$."
+  },
+  {
+    "bbox": [
+      223,
+      1816,
+      824,
+      1866
+    ],
+    "category": "Formula",
+    "text": "b) Xác suất có điều kiện $P(A|\\bar{B}) = 0,2$."
+  },
+  {
+    "bbox": [
+      223,
+      1871,
+      998,
+      1919
+    ],
+    "category": "Formula",
+    "text": "c) Xác suất gặp học sinh bị bệnh thủy đậu là 7,8%."
+  },
+  {
+    "bbox": [
+      223,
+      1924,
+      1448,
+      2028
+    ],
+    "category": "Formula",
+    "text": "d) Biết học sinh đó bị bệnh Thủy Đậu. Xác suất học sinh đó không tiêm vắc xin phòng bệnh Thủy Đậu là 0,68 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      193,
+      2245,
+      476,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1319,
+      2245,
+      1453,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 40"
+  }
+]

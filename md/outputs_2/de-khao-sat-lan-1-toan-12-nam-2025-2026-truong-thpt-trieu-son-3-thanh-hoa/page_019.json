@@ -1,0 +1,380 @@
+[
+  {
+    "bbox": [
+      251,
+      120,
+      841,
+      207
+    ],
+    "category": "Text",
+    "text": "C. $F(x) = \\frac{9^{x+1}}{x+1} + C$. D. $F(x) = 9^x + C$."
+  },
+  {
+    "bbox": [
+      835,
+      210,
+      951,
+      248
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      251,
+      1146,
+      335
+    ],
+    "category": "Text",
+    "text": "Nguyên hàm của hàm số $f(x) = 9^x$ là $F(x) = \\frac{9^x}{\\ln 9} + C = \\frac{9^x}{2\\ln 3} + C$."
+  },
+  {
+    "bbox": [
+      114,
+      335,
+      1083,
+      386
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Cho hàm số bậc ba $y = f(x)$ có bảng biến thiên như hình sau"
+  },
+  {
+    "bbox": [
+      504,
+      408,
+      1255,
+      676
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      680,
+      1013,
+      729
+    ],
+    "category": "Text",
+    "text": "Hàm số $y = f(x)$ nghịch biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      251,
+      738,
+      402,
+      784
+    ],
+    "category": "List-item",
+    "text": "A. $(-2;1)$."
+  },
+  {
+    "bbox": [
+      586,
+      738,
+      733,
+      784
+    ],
+    "category": "List-item",
+    "text": "B. $(-1;1)$."
+  },
+  {
+    "bbox": [
+      901,
+      738,
+      1057,
+      784
+    ],
+    "category": "List-item",
+    "text": "C. $(-4;0)$."
+  },
+  {
+    "bbox": [
+      1215,
+      738,
+      1395,
+      784
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty;-1)$."
+  },
+  {
+    "bbox": [
+      835,
+      792,
+      951,
+      830
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      830,
+      1213,
+      878
+    ],
+    "category": "Text",
+    "text": "Dựa vào bảng biến thiên thì hàm số nghịch biến trong khoảng $(-\\infty;-1)$"
+  },
+  {
+    "bbox": [
+      114,
+      887,
+      1381,
+      971
+    ],
+    "category": "Text",
+    "text": "**Câu 7:** Tiệm cận xiên của đồ thị hàm số $y = 4x - 9 + \\frac{3}{2x-8}$ là đường thẳng có phương trình"
+  },
+  {
+    "bbox": [
+      251,
+      974,
+      440,
+      1014
+    ],
+    "category": "List-item",
+    "text": "A. $y = 4x - 9$."
+  },
+  {
+    "bbox": [
+      586,
+      974,
+      795,
+      1014
+    ],
+    "category": "List-item",
+    "text": "B. $y = -2x + 8$."
+  },
+  {
+    "bbox": [
+      901,
+      974,
+      1086,
+      1014
+    ],
+    "category": "List-item",
+    "text": "C. $y = 2x - 8$."
+  },
+  {
+    "bbox": [
+      1215,
+      974,
+      1424,
+      1014
+    ],
+    "category": "List-item",
+    "text": "D. $y = -4x + 9$."
+  },
+  {
+    "bbox": [
+      835,
+      1018,
+      951,
+      1056
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      256,
+      1060,
+      506,
+      1142
+    ],
+    "category": "Formula",
+    "text": "$$\ny = 4x - 9 + \\frac{3}{2x - 8}\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      1148,
+      742,
+      1228
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to \\pm\\infty} [y - (4x - 9)] = \\lim_{x \\to \\pm\\infty} \\frac{3}{2x - 8} = 0.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1235,
+      1533,
+      1359
+    ],
+    "category": "Text",
+    "text": "Do đó, tiệm cận xiên của đồ thị hàm số $y = 4x - 9 + \\frac{3}{2x-8}$ là đường thẳng có phương trình $y = 4x - 9$."
+  },
+  {
+    "bbox": [
+      114,
+      1359,
+      1366,
+      1404
+    ],
+    "category": "Text",
+    "text": "**Câu 8:** Cho hình hộp $ABCD.A'B'C'D'$ (minh họa hình bên). Đẳng thức nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      700,
+      1404,
+      1083,
+      1726
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1734,
+      463,
+      1776
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{BD} = \\overline{A'D'}$."
+  },
+  {
+    "bbox": [
+      586,
+      1734,
+      771,
+      1776
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AB} = \\overline{DC}$."
+  },
+  {
+    "bbox": [
+      901,
+      1734,
+      1112,
+      1776
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{BD} = \\overline{D'B'}$."
+  },
+  {
+    "bbox": [
+      1215,
+      1734,
+      1417,
+      1776
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AA'} = \\overline{B'B}$."
+  },
+  {
+    "bbox": [
+      835,
+      1780,
+      951,
+      1818
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1820,
+      364,
+      1858
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      251,
+      1860,
+      662,
+      1904
+    ],
+    "category": "Text",
+    "text": "Đẳng thức đúng là: $\\overline{AB} = \\overline{DC}$."
+  },
+  {
+    "bbox": [
+      114,
+      1904,
+      1533,
+      2008
+    ],
+    "category": "Text",
+    "text": "**Câu 9:** Trong không gian với hệ tọa độ $Oxyz$, hình chiếu vuông góc của điểm $M(2;-2;1)$ trên mặt phẳng $(Oyz)$ có tọa độ là"
+  },
+  {
+    "bbox": [
+      251,
+      2017,
+      430,
+      2063
+    ],
+    "category": "List-item",
+    "text": "A. $(2;-2;0)$."
+  },
+  {
+    "bbox": [
+      586,
+      2017,
+      742,
+      2063
+    ],
+    "category": "List-item",
+    "text": "B. $(2;0;1)$."
+  },
+  {
+    "bbox": [
+      901,
+      2017,
+      1076,
+      2063
+    ],
+    "category": "List-item",
+    "text": "C. $(0;-2;1)$."
+  },
+  {
+    "bbox": [
+      1215,
+      2017,
+      1372,
+      2063
+    ],
+    "category": "List-item",
+    "text": "D. $(0;0;1)$."
+  },
+  {
+    "bbox": [
+      835,
+      2071,
+      951,
+      2109
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      2111,
+      364,
+      2148
+    ],
+    "category": "Section-header",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      251,
+      2148,
+      1437,
+      2196
+    ],
+    "category": "Text",
+    "text": "Hình chiếu vuông góc của điểm $M(2;-2;1)$ trên mặt phẳng $(Oyz)$ là điểm $H(0;-2;1)$."
+  }
+]

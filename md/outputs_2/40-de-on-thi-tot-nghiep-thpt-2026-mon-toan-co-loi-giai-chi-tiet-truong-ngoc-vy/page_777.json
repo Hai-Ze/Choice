@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      95,
+      492,
+      146
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó } A = A_1 \\cup \\bar{A}_1 A_2 \\cup \\bar{A}_1 \\bar{A}_2 A_3\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      165,
+      859,
+      211
+    ],
+    "category": "Text",
+    "text": "Áp dụng công thức cộng và công thức nhân xác suất, ta có"
+  },
+  {
+    "bbox": [
+      82,
+      228,
+      719,
+      425
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nP(A) &= P(A_1) + P(\\bar{A}_1 A_2) + P(\\bar{A}_1 \\bar{A}_2 A_3) \\\\\n&= P(A_1) + P(\\bar{A}_1)P(A_2) + P(\\bar{A}_1)P(\\bar{A}_2)P(A_3) \\\\\n&= \\frac{1}{2} + \\frac{1}{2^2} + \\frac{1}{2^3} = \\frac{7}{8}.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      449,
+      492,
+      494
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } a = 7, b = 8 \\Rightarrow a^2 + b = 57.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      513,
+      1494,
+      674
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một chiếc truyền đang chuyển động đều với vận tốc 10 m/s theo hướng từ Nam lên Bắc trên mặt hồ. Trên cây cầu nằm cách mặt hồ 20m theo phương thẳng đứng, có một chiếc ô tô chuyển động đều với vận tốc 20m/s theo hướng từ Tây sang Đông."
+  },
+  {
+    "bbox": [
+      485,
+      691,
+      1082,
+      1243
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      1257,
+      1494,
+      1362
+    ],
+    "category": "Text",
+    "text": "Như hình vẽ, tại thời điểm hiện tại, truyền ở vị trí cách điểm P (năm dưới cầu) 40 m theo phương Nam, còn ô tô ở vị trí cách Q (trên cầu) 30 m theo phương Tây."
+  },
+  {
+    "bbox": [
+      76,
+      1373,
+      1494,
+      1477
+    ],
+    "category": "Text",
+    "text": "*(Bỏ qua kích thước của truyền và ô tô; đoạn thẳng PQ luôn vuông góc với hướng chuyển động của cả truyền và ô tô)*"
+  },
+  {
+    "bbox": [
+      76,
+      1489,
+      1117,
+      1535
+    ],
+    "category": "Text",
+    "text": "Hỏi khoảng cách giữa truyền và ô tô đạt giá trị nhỏ nhất bằng bao nhiêu mét?"
+  },
+  {
+    "bbox": [
+      76,
+      1552,
+      413,
+      1588
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1612,
+      843,
+      1649
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1668,
+      239,
+      1707
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 30"
+  },
+  {
+    "bbox": [
+      76,
+      1722,
+      1494,
+      1833
+    ],
+    "category": "Text",
+    "text": "Chọn hệ tọa độ như sau trên mặt phẳng ngang (trục $x$ hướng Đông, trục $y$ hướng Bắc, gốc $O$ tại điểm $P$ ngay trên mặt nước, bên dưới điểm $Q$ trên cầu):"
+  },
+  {
+    "bbox": [
+      76,
+      1856,
+      1400,
+      1905
+    ],
+    "category": "Text",
+    "text": "-úp điểm $B_1$ là vị trí truyền lúc $t = 0$ có tọa độ $(0; -40; 0)$ vì truyền cách $P$ 40 m theo phương Nam"
+  },
+  {
+    "bbox": [
+      76,
+      1931,
+      1494,
+      2045
+    ],
+    "category": "Text",
+    "text": "-úp điểm $C_1$ vị trí ô tô lúc $t = 0$ có tọa độ $(-30; 0; 20)$ vì ô tô cách $Q$ 30 m về phía Tây và cao 20m so với mặt nước."
+  },
+  {
+    "bbox": [
+      76,
+      2064,
+      342,
+      2103
+    ],
+    "category": "Text",
+    "text": "Khi $t$ giây trôi qua:"
+  },
+  {
+    "bbox": [
+      76,
+      2124,
+      1040,
+      2173
+    ],
+    "category": "Text",
+    "text": "- Thuyền đi lên Bắc với vận tốc $10 m/s \\Rightarrow$ vị trí $B(t) = (0; -40 + 10t; 0)$"
+  },
+  {
+    "bbox": [
+      76,
+      2198,
+      1088,
+      2247
+    ],
+    "category": "Text",
+    "text": "- Ô tô chạy về Đông với vận tốc $20 m/s \\Rightarrow$ vị trí $C(t) = (-30 + 20t; 0; 20)$ ."
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

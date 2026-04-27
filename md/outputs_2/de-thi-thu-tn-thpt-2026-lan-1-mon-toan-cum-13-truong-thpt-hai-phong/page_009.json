@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      524,
+      97,
+      1123,
+      140
+    ],
+    "category": "Section-header",
+    "text": "ĐÁP ÁN CHI TIẾT ĐỀ THI THỬ LẦN 1"
+  },
+  {
+    "bbox": [
+      98,
+      165,
+      1318,
+      210
+    ],
+    "category": "Text",
+    "text": "PHẦN 1: Thí sinh trả lời từ câu 1 tới câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      98,
+      215,
+      966,
+      264
+    ],
+    "category": "Text",
+    "text": "Câu 1. Tập nghiệm của bất phương trình $\\log_{0,5}(x-7)+2 > 0$ là:"
+  },
+  {
+    "bbox": [
+      234,
+      279,
+      380,
+      325
+    ],
+    "category": "List-item",
+    "text": "A. $(7;11)$."
+  },
+  {
+    "bbox": [
+      571,
+      279,
+      739,
+      325
+    ],
+    "category": "List-item",
+    "text": "B. $(11;+\\infty)$."
+  },
+  {
+    "bbox": [
+      885,
+      279,
+      1053,
+      325
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty;11)$."
+  },
+  {
+    "bbox": [
+      1199,
+      279,
+      1337,
+      325
+    ],
+    "category": "List-item",
+    "text": "D. $[7;11]$."
+  },
+  {
+    "bbox": [
+      836,
+      339,
+      950,
+      377
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      103,
+      382,
+      407,
+      419
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{ĐK: } x-7 > 0 \\Leftrightarrow x > 7\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      431,
+      856,
+      478
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{0,5}(x-7)+2 > 0 \\Leftrightarrow \\log_{0,5}(x-7) > -2 \\Rightarrow x-7 < 0,5^{-2}\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      490,
+      390,
+      525
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow x-7 < 4 \\Leftrightarrow x < 11\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      537,
+      242,
+      583
+    ],
+    "category": "Formula",
+    "text": "$$\nS = (7;11)\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      591,
+      1252,
+      636
+    ],
+    "category": "Text",
+    "text": "Câu 2. Cho $a,b,x$ là các số thực dương và $a,b \\neq 1$. Khẳng định nào sau đây là **đúng**?"
+  },
+  {
+    "bbox": [
+      139,
+      643,
+      402,
+      731
+    ],
+    "category": "List-item",
+    "text": "A. $\\log_a x = \\frac{\\log_b x}{\\log_b a}$."
+  },
+  {
+    "bbox": [
+      492,
+      643,
+      750,
+      731
+    ],
+    "category": "List-item",
+    "text": "B. $\\log_a x = \\frac{\\log_b x}{\\log_a b}$."
+  },
+  {
+    "bbox": [
+      844,
+      643,
+      1102,
+      731
+    ],
+    "category": "List-item",
+    "text": "C. $\\log_a x = \\frac{\\log_b a}{\\log_b x}$."
+  },
+  {
+    "bbox": [
+      1195,
+      643,
+      1454,
+      731
+    ],
+    "category": "List-item",
+    "text": "D. $\\log_a x = \\frac{\\log_a b}{\\log_b x}$."
+  },
+  {
+    "bbox": [
+      98,
+      744,
+      1507,
+      835
+    ],
+    "category": "Text",
+    "text": "Câu 3. Cho hàm số $y = f(x)$ có bảng biến thiên như sau. Số đường tiệm cận ngang của đồ thị hàm số đã cho là"
+  },
+  {
+    "bbox": [
+      562,
+      856,
+      1209,
+      1142
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      234,
+      1158,
+      314,
+      1193
+    ],
+    "category": "List-item",
+    "text": "A. 2."
+  },
+  {
+    "bbox": [
+      571,
+      1158,
+      639,
+      1193
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      885,
+      1158,
+      962,
+      1193
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1199,
+      1158,
+      1278,
+      1193
+    ],
+    "category": "List-item",
+    "text": "D. 0."
+  },
+  {
+    "bbox": [
+      836,
+      1203,
+      950,
+      1241
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      103,
+      1247,
+      1262,
+      1306
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to -\\infty} f(x) = 2 \\text{ suy ra } y = 2 \\text{ là một đường tiệm cận ngang của đồ thị hàm số } y = f(x).\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      1318,
+      1132,
+      1376
+    ],
+    "category": "Formula",
+    "text": "$$\n\\lim_{x \\to +\\infty} f(x) = +\\infty. \\text{ Vậy đồ thị hàm số } y = f(x) \\text{ có một đường tiệm cận ngang.}\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1388,
+      1259,
+      1437
+    ],
+    "category": "Text",
+    "text": "Câu 4. Cho cấp số nhân $(u_n)$ có $u_3 = 12$ và công bội $q = 2$. Số hạng đầu tiên $u_1$ bằng:"
+  },
+  {
+    "bbox": [
+      234,
+      1450,
+      304,
+      1485
+    ],
+    "category": "List-item",
+    "text": "A. 8."
+  },
+  {
+    "bbox": [
+      571,
+      1450,
+      637,
+      1485
+    ],
+    "category": "List-item",
+    "text": "B. 3."
+  },
+  {
+    "bbox": [
+      885,
+      1450,
+      952,
+      1485
+    ],
+    "category": "List-item",
+    "text": "C. 4."
+  },
+  {
+    "bbox": [
+      1199,
+      1450,
+      1268,
+      1485
+    ],
+    "category": "List-item",
+    "text": "D. 6."
+  },
+  {
+    "bbox": [
+      98,
+      1489,
+      1509,
+      1576
+    ],
+    "category": "Text",
+    "text": "Câu 5. Thống kê điểm kiểm tra toán của học sinh hai lớp 12A và 12B, được mẫu số liệu ghép nhóm như sau. Gọi $R_A$ và $R_B$ lần lượt là khoảng biến thiên của mẫu số liệu lớp 12A và 12B. Tính giá trị $R_A + R_B$."
+  },
+  {
+    "bbox": [
+      234,
+      1587,
+      1421,
+      1766
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm</td><td>[0;2)</td><td>[2;4)</td><td>[4;6)</td><td>[6;8)</td><td>[8;10]</td></tr><tr><td>Lớp 12A</td><td>0</td><td>1</td><td>10</td><td>15</td><td>17</td></tr><tr><td>Lớp 12B</td><td>1</td><td>5</td><td>17</td><td>10</td><td>9</td></tr></table>"
+  },
+  {
+    "bbox": [
+      234,
+      1781,
+      321,
+      1816
+    ],
+    "category": "List-item",
+    "text": "A. 20."
+  },
+  {
+    "bbox": [
+      571,
+      1781,
+      652,
+      1816
+    ],
+    "category": "List-item",
+    "text": "B. 18."
+  },
+  {
+    "bbox": [
+      885,
+      1781,
+      966,
+      1816
+    ],
+    "category": "List-item",
+    "text": "C. 25."
+  },
+  {
+    "bbox": [
+      1199,
+      1781,
+      1282,
+      1816
+    ],
+    "category": "List-item",
+    "text": "D. 14."
+  },
+  {
+    "bbox": [
+      836,
+      1826,
+      950,
+      1864
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      98,
+      1871,
+      599,
+      1911
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } R_A = 10 - 2 = 8; R_B = 10 - 0 = 10\n$$"
+  },
+  {
+    "bbox": [
+      103,
+      1923,
+      283,
+      1962
+    ],
+    "category": "Formula",
+    "text": "$$\nR_A + R_B = 18.\n$$"
+  },
+  {
+    "bbox": [
+      98,
+      1984,
+      1502,
+      2087
+    ],
+    "category": "Text",
+    "text": "Câu 6. Cho hình chóp $S.ABCD$ có đáy $ABCD$ hình vuông cạnh $a$. Đường thẳng $SA$ vuông góc với đáy và $SA = a\\sqrt{3}$. Số đo của góc giữa đường thẳng $SB$ và mặt phẳng (ABCD) bằng?"
+  }
+]

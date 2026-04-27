@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      250,
+      118,
+      1535,
+      266
+    ],
+    "category": "Text",
+    "text": "d) [2] Gọi $G(x)$ là một nguyên hàm của hàm số $f(x)$ và thỏa mãn $G(0)=1$. Khi đó $G(\\pi) = \\frac{\\pi^2}{2} + 3$."
+  },
+  {
+    "bbox": [
+      835,
+      270,
+      951,
+      308
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      308,
+      746,
+      348
+    ],
+    "category": "Text",
+    "text": "a) Ta có $f'(x) = 1 + \\cos x$ nên a) sai."
+  },
+  {
+    "bbox": [
+      250,
+      355,
+      1098,
+      457
+    ],
+    "category": "Text",
+    "text": "b) Ta $F'(x) = \\left(\\frac{x^2}{2} - \\cos x - 2\\right)' = x + \\sin x = f(x)$ nên b) đúng."
+  },
+  {
+    "bbox": [
+      250,
+      469,
+      1157,
+      557
+    ],
+    "category": "Text",
+    "text": "c) Ta có: $\\int f(x)dx = \\int (x + \\sin x)dx = \\frac{x^2}{2} - \\cos x + C$. vậy c) Đúng."
+  },
+  {
+    "bbox": [
+      250,
+      564,
+      1204,
+      652
+    ],
+    "category": "Text",
+    "text": "d) Gọi $G(x)$ là một nguyên hàm của $f(x)$ thì $G(x) = \\frac{x^2}{2} - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      250,
+      658,
+      1351,
+      747
+    ],
+    "category": "Text",
+    "text": "Vì $G(0)=1$ nên $0 - \\cos 0 + C = 1 \\Rightarrow C = 2$. Suy ra $G(\\pi) = \\frac{\\pi^2}{2} - \\cos \\pi + 2 = \\frac{\\pi^2}{2} + 3$"
+  },
+  {
+    "bbox": [
+      250,
+      751,
+      438,
+      789
+    ],
+    "category": "Text",
+    "text": "Vậy d) đúng."
+  },
+  {
+    "bbox": [
+      113,
+      785,
+      1535,
+      918
+    ],
+    "category": "Text",
+    "text": "Câu 4: Hai xạ thủ mỗi người một viên đạn bắn vào bia với xác suất bắn trúng của người thứ nhất là 0,9 và của người thứ hai là 0,75. Biết rằng kết quả bắn trúng hoặc không trúng bia của hai xạ thủ là độc lập với nhau."
+  },
+  {
+    "bbox": [
+      250,
+      915,
+      1062,
+      957
+    ],
+    "category": "Text",
+    "text": "a) [1] Khả năng xạ thủ thứ nhất không bắn trúng bia là 10%."
+  },
+  {
+    "bbox": [
+      250,
+      954,
+      969,
+      995
+    ],
+    "category": "Text",
+    "text": "b) [1] Khả năng cả hai viên đạn đều trúng bia là 67%."
+  },
+  {
+    "bbox": [
+      250,
+      992,
+      1001,
+      1034
+    ],
+    "category": "Text",
+    "text": "c) [2] Xác suất có đúng 1 viên đạn bắn trúng bia là 0,3."
+  },
+  {
+    "bbox": [
+      250,
+      1034,
+      1078,
+      1079
+    ],
+    "category": "Text",
+    "text": "d) [3] Khả năng có ít nhất 1 viên đạn bắn trúng bia là 95,7%."
+  },
+  {
+    "bbox": [
+      835,
+      1086,
+      951,
+      1124
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      1121,
+      1378,
+      1164
+    ],
+    "category": "Text",
+    "text": "a) Khả năng xạ thủ thứ nhất không bắn trúng bia là $1 - 0,9 = 0,1 = 10\\%$ nên a) đúng."
+  },
+  {
+    "bbox": [
+      250,
+      1164,
+      1449,
+      1209
+    ],
+    "category": "Text",
+    "text": "b) Khả năng cả hai viên đạn đều trúng bia là $P = 0,9 \\times 0,75 = 0,675 = 67,5\\%$. vậy b) sai."
+  },
+  {
+    "bbox": [
+      250,
+      1209,
+      1427,
+      1255
+    ],
+    "category": "Text",
+    "text": "c) Xác suất có đúng một viên đạn trúng bia là $0,9 \\times 0,25 + 0,1 \\times 0,75 = 0,3$. vậy c) đúng."
+  },
+  {
+    "bbox": [
+      250,
+      1255,
+      1060,
+      1300
+    ],
+    "category": "Text",
+    "text": "d) Có ít nhất một viên đạn trúng bia thì xảy ra 2 trường hợp:"
+  },
+  {
+    "bbox": [
+      250,
+      1297,
+      885,
+      1338
+    ],
+    "category": "Text",
+    "text": "- Có đúng 1 viên đạn trúng bia, xác suất là 0,3."
+  },
+  {
+    "bbox": [
+      250,
+      1338,
+      917,
+      1383
+    ],
+    "category": "Text",
+    "text": "- Cả hai viên đạn đều trúng bia, xác suất là 0,675"
+  },
+  {
+    "bbox": [
+      250,
+      1383,
+      1489,
+      1428
+    ],
+    "category": "Text",
+    "text": "$\\Rightarrow$ Khả năng có ít nhất 1 viên đạn bắn trúng bia là $0,3 + 0,675 = 0,975 = 97,5\\%$. vậy d) sai."
+  },
+  {
+    "bbox": [
+      113,
+      1428,
+      1535,
+      1519
+    ],
+    "category": "Text",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6. Kết quả là một số có tối đa 4 ký tự, bao gồm cả dấu trừ (-) và dấu phấy (,)."
+  },
+  {
+    "bbox": [
+      113,
+      1551,
+      1535,
+      1763
+    ],
+    "category": "Text",
+    "text": "Câu 1: Một卧i nhà có cấu trúc và một số kích thước được mô tả như hình bên: Phần dưới có dạng hình集合文字日文假名と、部分上部有日文假名と、部分上部有日文假名と、部分上部有日文假名と。"
+  },
+  {
+    "bbox": [
+      562,
+      1759,
+      1240,
+      2118
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      835,
+      2132,
+      951,
+      2170
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      2170,
+      429,
+      2210
+    ],
+    "category": "Text",
+    "text": "Đáp án: 773"
+  }
+]

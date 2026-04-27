@@ -1,0 +1,411 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      765,
+      111,
+      884,
+      152
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      157,
+      331,
+      196
+    ],
+    "category": "Section-header",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      211,
+      201,
+      449,
+      241
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $x > 0$"
+  },
+  {
+    "bbox": [
+      217,
+      247,
+      1090,
+      300
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_{0,5} x > 3 \\Leftrightarrow x < (0,5)^3 \\text{ (cơ số < 1 đổi chiều bất phương trình)}\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      309,
+      882,
+      362
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Kết hợp với điều kiện: } \\Rightarrow 0 < x < (0,5)^3 = 0,125\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      368,
+      1576,
+      472
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** Trong không gian $Oxyz$, cho hai vecto $\\vec{u}_1 = (x_1; y_1; z_1)$, $\\vec{u}_2 = (x_2; y_2; z_2)$. Vecto $\\vec{u}_1 + \\vec{u}_2$ có toạ độ là:"
+  },
+  {
+    "bbox": [
+      211,
+      481,
+      584,
+      529
+    ],
+    "category": "List-item",
+    "text": "A. $(x_1 - x_2; y_1 - y_2; z_1 - z_2)$."
+  },
+  {
+    "bbox": [
+      861,
+      481,
+      1228,
+      529
+    ],
+    "category": "List-item",
+    "text": "B. $(x_1 + x_2; y_1 + y_2; z_1 + z_2)$."
+  },
+  {
+    "bbox": [
+      211,
+      538,
+      579,
+      586
+    ],
+    "category": "List-item",
+    "text": "C. $(x_2 - x_1; y_2 - y_1; z_2 - z_1)$."
+  },
+  {
+    "bbox": [
+      861,
+      538,
+      1235,
+      586
+    ],
+    "category": "List-item",
+    "text": "D. $(x_1 - x_2; y_1 + y_2; z_1 - z_2)$."
+  },
+  {
+    "bbox": [
+      765,
+      596,
+      884,
+      638
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      642,
+      329,
+      681
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      214,
+      681,
+      973,
+      737
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{u}_1 + \\vec{u}_2 = (x_1; y_1; z_1) + (x_2; y_2; z_2) = (x_1 + x_2; y_1 + y_2; z_1 + z_2)\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      741,
+      1574,
+      833
+    ],
+    "category": "List-item",
+    "text": "**Câu 11.** Một mẫu số liệu ghép nhóm về chiều cao của một lớp (đơn vị là centimét) có phương sai 6,25. Độ lệch chuẩn của mẫu số liệu đó bằng:"
+  },
+  {
+    "bbox": [
+      211,
+      840,
+      365,
+      878
+    ],
+    "category": "List-item",
+    "text": "A. 2,5 cm."
+  },
+  {
+    "bbox": [
+      550,
+      840,
+      712,
+      878
+    ],
+    "category": "List-item",
+    "text": "B. 12,5 cm."
+  },
+  {
+    "bbox": [
+      861,
+      840,
+      1039,
+      878
+    ],
+    "category": "List-item",
+    "text": "C. 3,125 cm."
+  },
+  {
+    "bbox": [
+      1174,
+      840,
+      1361,
+      878
+    ],
+    "category": "List-item",
+    "text": "D. 42,25 cm."
+  },
+  {
+    "bbox": [
+      765,
+      889,
+      884,
+      931
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      935,
+      331,
+      974
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      974,
+      1205,
+      1029
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn bằng căn bậc 2 của phương sai: $\\sigma = \\sqrt{S} = \\sqrt{6,25} = 2,5$"
+  },
+  {
+    "bbox": [
+      74,
+      1035,
+      1574,
+      1143
+    ],
+    "category": "List-item",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ thoả mãn $f(-1) = 1$ và $f'(-1) = 4$. Phương trình tiếp tuyến của đồ thị hàm số $y = f(x)$ tại điểm $M(-1;1)$ là:"
+  },
+  {
+    "bbox": [
+      211,
+      1153,
+      427,
+      1193
+    ],
+    "category": "List-item",
+    "text": "A. $y = -4x - 5$."
+  },
+  {
+    "bbox": [
+      550,
+      1153,
+      761,
+      1193
+    ],
+    "category": "List-item",
+    "text": "B. $y = -4x + 3$."
+  },
+  {
+    "bbox": [
+      861,
+      1153,
+      1056,
+      1193
+    ],
+    "category": "List-item",
+    "text": "C. $y = 4x + 5$."
+  },
+  {
+    "bbox": [
+      1174,
+      1153,
+      1386,
+      1193
+    ],
+    "category": "List-item",
+    "text": "D. $y = -4x - 3$."
+  },
+  {
+    "bbox": [
+      765,
+      1202,
+      884,
+      1244
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      214,
+      1248,
+      331,
+      1287
+    ],
+    "category": "Section-header",
+    "text": "Chọn A"
+  },
+  {
+    "bbox": [
+      211,
+      1291,
+      605,
+      1465
+    ],
+    "category": "Text",
+    "text": "Ta có:\n$$ \\begin{cases} x_0 = -1 \\\\ y_0 = f(-1) = 1 \\\\ f'(x_0) = f'(-1) = 4 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      211,
+      1473,
+      869,
+      1523
+    ],
+    "category": "Text",
+    "text": "Phương trình có dạng: $y = f'(x_0)(x - x_0) + y_0$"
+  },
+  {
+    "bbox": [
+      579,
+      1532,
+      822,
+      1578
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = 4(x+1)+1\n$$"
+  },
+  {
+    "bbox": [
+      579,
+      1587,
+      802,
+      1625
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = 4x + 4 + 1\n$$"
+  },
+  {
+    "bbox": [
+      579,
+      1634,
+      756,
+      1672
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow y = 4x + 5\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      1672,
+      1576,
+      1767
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      74,
+      1771,
+      1085,
+      1817
+    ],
+    "category": "List-item",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và đồ thị hình 3."
+  },
+  {
+    "bbox": [
+      709,
+      1843,
+      1041,
+      2183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      828,
+      2196,
+      916,
+      2226
+    ],
+    "category": "Caption",
+    "text": "Hình 3"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 3 -"
+  }
+]

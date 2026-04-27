@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      527,
+      133
+    ],
+    "category": "Text",
+    "text": "Khi đó $T = 2.250 + 3.280 = 1340$."
+  },
+  {
+    "bbox": [
+      76,
+      152,
+      1496,
+      478
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian với hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục là mét), một thiết bị phát sóng wifi được đặt tại vị trí $I(3;4;2)$. Vùng phủ sóng của thiết bị là một hình cầu có bán kính $R = 10m$. Một người sử dụng điện thoại đứng ở vị trí $K(x-7;7;1)$. Sau đó, người đó di chuyển đến vị trí $H(x+11;7;1)$. Tìm giá trị nguyên của $x$ sao cho cả hai vị trí $K$ và $H$ đều có thể bắt được tín hiệu wifi từ thiết bị."
+  },
+  {
+    "bbox": [
+      76,
+      496,
+      414,
+      533
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      555,
+      843,
+      594
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      613,
+      218,
+      652
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 1"
+  },
+  {
+    "bbox": [
+      76,
+      670,
+      1211,
+      990
+    ],
+    "category": "Text",
+    "text": "Cả hai vị trí $K$ và $H$ đều có thể bắt được tín hiệu wifi từ thiết bị $\\Leftrightarrow \\begin{cases} IK \\le 10 \\\\ IH \\le 10 \\end{cases}$\n$\\Leftrightarrow \\begin{cases} (x-10)^2 + 3^2 + (-1)^2 \\le 100 \\\\ (x+8)^2 + 3^2 + (-1)^2 \\le 100 \\end{cases} \\Leftrightarrow \\begin{cases} x^2 - 20x + 10 \\le 0 \\\\ x^2 + 16x - 26 \\le 0 \\end{cases} \\Leftrightarrow \\begin{cases} 10 - 3\\sqrt{10} \\le x \\le 10 + 3\\sqrt{10} \\\\ -8 - 3\\sqrt{10} \\le x \\le -8 + 3\\sqrt{10} \\end{cases}$\n$10 - 3\\sqrt{10} \\le x \\le -8 + 3\\sqrt{10} \\ (0,5131 \\le x \\le 1,4868)$."
+  },
+  {
+    "bbox": [
+      76,
+      1016,
+      382,
+      1055
+    ],
+    "category": "Text",
+    "text": "Do $x$ nguyên nên $x = 1$"
+  },
+  {
+    "bbox": [
+      76,
+      1071,
+      1494,
+      1297
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho khối chóp $S.ABCD$ có đáy $ABCD$ là hình thang vuông tại $A$ và $B$, $AB = BC = 1$, $AD = 2$. Hình chiếu vuông góc của $S$ lên mặt phẳng đáy trùng với trung điểm $H$ của $AD$ và $SH = \\frac{\\sqrt{6}}{2}$.\nTính khoảng cách từ $B$ đến mặt phẳng $(SCD)$ (làm tròn kết quả đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      76,
+      1323,
+      414,
+      1360
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      1382,
+      843,
+      1421
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1439,
+      267,
+      1478
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,61"
+  },
+  {
+    "bbox": [
+      484,
+      1512,
+      1094,
+      2052
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2096,
+      1494,
+      2213
+    ],
+    "category": "Text",
+    "text": "Ta có: $BC // HD$ và $BC = HD = 1$ nên $BCDH$ là hình bình hành, suy ra $BH // CD \\Rightarrow BH // (SCD) \\Rightarrow d(B, (SCD)) = d(H, (SCD))$."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

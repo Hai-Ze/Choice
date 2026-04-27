@@ -1,0 +1,290 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      176,
+      94,
+      1553,
+      286
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Số tiền (triệu đồng)</td><td>[5;10)</td><td>[10;15)</td><td>[15;20)</td><td>[20;25)</td><td>[25;30)</td></tr><tr><td>Giá trị đại diện</td><td>7,5</td><td>12,5</td><td>17,5</td><td>22,5</td><td>27,5</td></tr><tr><td>Số tháng đầu tư vào lĩnh vực B</td><td>20</td><td>5</td><td>10</td><td>5</td><td>20</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      340,
+      1101,
+      386
+    ],
+    "category": "Text",
+    "text": "Số tiền trung bình thu được khi Cô Thúy đầu tư vào các lĩnh vực B là:"
+  },
+  {
+    "bbox": [
+      160,
+      406,
+      681,
+      487
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x}_B = \\frac{1}{60} (20 \\cdot 7,5 + \\dots + 20 \\cdot 27,5) = 17,5\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      503,
+      1362,
+      549
+    ],
+    "category": "Text",
+    "text": "Độ lệch chuẩn của số tiền thu được hàng tháng khi Cô Thúy đầu tư vào các lĩnh vực B là:"
+  },
+  {
+    "bbox": [
+      160,
+      569,
+      864,
+      661
+    ],
+    "category": "Formula",
+    "text": "$$\ns_B = \\sqrt{\\frac{1}{60} (20 \\cdot 7,5^2 + \\dots + 20 \\cdot 27,5^2) - (17,5)^2} \\approx 8,42.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      685,
+      1575,
+      875
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Khi cắt vật thể bởi mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ là $x$, ($0 \\le x \\le 3$) ta được mặt cắt là một hình vuông có cạnh là $\\sqrt{9-x^2}$ (được mô hình hóa bởi hình vẽ bên dưới). Thế tích của vật thể đó bằng"
+  },
+  {
+    "bbox": [
+      710,
+      888,
+      1018,
+      1128
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1150,
+      334,
+      1184
+    ],
+    "category": "List-item",
+    "text": "A. $171\\pi$."
+  },
+  {
+    "bbox": [
+      555,
+      1150,
+      657,
+      1184
+    ],
+    "category": "List-item",
+    "text": "B. 171."
+  },
+  {
+    "bbox": [
+      906,
+      1150,
+      1019,
+      1184
+    ],
+    "category": "List-item",
+    "text": "C. $18\\pi$."
+  },
+  {
+    "bbox": [
+      1255,
+      1150,
+      1345,
+      1184
+    ],
+    "category": "List-item",
+    "text": "D. 18."
+  },
+  {
+    "bbox": [
+      807,
+      1209,
+      924,
+      1247
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1267,
+      279,
+      1305
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      1325,
+      697,
+      1369
+    ],
+    "category": "Text",
+    "text": "Diện tích mặt cắt hình vuông: $S = 9 - x^2$"
+  },
+  {
+    "bbox": [
+      156,
+      1389,
+      686,
+      1485
+    ],
+    "category": "Text",
+    "text": "Thể tích của vật: $V = \\int_{0}^{3} (9 - x^2) dx = 18$."
+  },
+  {
+    "bbox": [
+      156,
+      1509,
+      965,
+      1549
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình集合 $ABCD.EFGH$ (minh họa hình bên)."
+  },
+  {
+    "bbox": [
+      663,
+      1567,
+      1049,
+      1838
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1865,
+      632,
+      1912
+    ],
+    "category": "Text",
+    "text": "Kết quả của phép toán $\\overline{AB} - \\overline{EH}$ là"
+  },
+  {
+    "bbox": [
+      205,
+      1932,
+      319,
+      1974
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{FH}$."
+  },
+  {
+    "bbox": [
+      555,
+      1932,
+      667,
+      1974
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{BH}$."
+  },
+  {
+    "bbox": [
+      906,
+      1932,
+      1013,
+      1974
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{DB}$."
+  },
+  {
+    "bbox": [
+      1255,
+      1932,
+      1362,
+      1974
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AE}$."
+  },
+  {
+    "bbox": [
+      803,
+      1998,
+      926,
+      2036
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2056,
+      279,
+      2094
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      2112,
+      603,
+      2156
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overline{AB} - \\overline{EH} = \\overline{AB} - \\overline{AD} = \\overline{DB}$"
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

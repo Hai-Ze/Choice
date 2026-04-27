@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      252,
+      115,
+      1494,
+      254
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Doang số (triệu đồng)</td><td>[20;30)</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td><td>[60;70)</td><td>[70;80)</td></tr><tr><td>Số cửa hàng</td><td>2</td><td>5</td><td>10</td><td>8</td><td>4</td><td>1</td></tr></table>"
+  },
+  {
+    "bbox": [
+      252,
+      254,
+      814,
+      295
+    ],
+    "category": "Text",
+    "text": "Khoảng_tứ phân vị của mẫu số liệu trên là"
+  },
+  {
+    "bbox": [
+      252,
+      304,
+      349,
+      337
+    ],
+    "category": "List-item",
+    "text": "A. 60."
+  },
+  {
+    "bbox": [
+      586,
+      304,
+      674,
+      337
+    ],
+    "category": "List-item",
+    "text": "B. 10."
+  },
+  {
+    "bbox": [
+      901,
+      304,
+      1051,
+      341
+    ],
+    "category": "List-item",
+    "text": "C. 16,375."
+  },
+  {
+    "bbox": [
+      1216,
+      304,
+      1372,
+      337
+    ],
+    "category": "List-item",
+    "text": "D. 26,375."
+  },
+  {
+    "bbox": [
+      836,
+      354,
+      950,
+      391
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      404,
+      481,
+      441
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu: $n = 30$."
+  },
+  {
+    "bbox": [
+      252,
+      464,
+      1060,
+      541
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\frac{n}{4} = 7,5 \\Rightarrow Q_1 \\in [40;50)$; $\\frac{3n}{4} = 22,5 \\Rightarrow Q_3 \\in [50;60)$."
+  },
+  {
+    "bbox": [
+      256,
+      563,
+      1317,
+      650
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_1 = 40 + \\frac{7,5 - (2 + 5)}{10} \\cdot 10 = 40,5; \\quad Q_3 = 50 + \\frac{22,5 - (2 + 5 + 10)}{8} \\cdot 10 = 56,875.\n$$"
+  },
+  {
+    "bbox": [
+      252,
+      671,
+      934,
+      715
+    ],
+    "category": "Text",
+    "text": "Khoảng_tứ phân vị: $\\Delta_Q = 56,875 - 40,5 = 16,375$."
+  },
+  {
+    "bbox": [
+      114,
+      741,
+      1533,
+      838
+    ],
+    "category": "List-item",
+    "text": "**Câu 12:** Cho khối chóp $S.ABCD$, có đáy là hình vuông cạnh $2a$, cạnh bên $SA$ vuông góc với mặt phẳng đáy; mặt bên $(SBC)$ tạo với đáy một góc $30^\\circ$. Thế tích của khối chóp đã cho bằng"
+  },
+  {
+    "bbox": [
+      252,
+      881,
+      385,
+      971
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{\\sqrt{3}a^3}{3}$."
+  },
+  {
+    "bbox": [
+      586,
+      881,
+      737,
+      971
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{8\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      901,
+      881,
+      1036,
+      971
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      1216,
+      881,
+      1348,
+      971
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{3}a^3}{9}$."
+  },
+  {
+    "bbox": [
+      836,
+      982,
+      950,
+      1019
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      735,
+      1060,
+      1062,
+      1356
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1406,
+      1226,
+      1688
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\begin{cases} SA \\perp BC \\ (\\text{Vì } SA \\perp (ABCD)) \\\\ AB \\perp BC \\end{cases} \\Rightarrow SB \\perp BC$;\n$$ \\begin{cases} (SBC) \\cap (ABCD) = BC \\\\ SB \\perp BC \\\\ AB \\perp BC \\end{cases} \\Rightarrow ((SBC), (ABCD)) = (SB, AB) = \\widehat{SBA} = 30^\\circ. $$"
+  },
+  {
+    "bbox": [
+      252,
+      1701,
+      1317,
+      1792
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SAB$ vuông tại $A$, ta có: $SA = AB \\cdot \\tan \\widehat{SBA} = 2a \\cdot \\tan 30^\\circ = \\frac{2\\sqrt{3}a}{3}$."
+  },
+  {
+    "bbox": [
+      252,
+      1796,
+      515,
+      1840
+    ],
+    "category": "Text",
+    "text": "Thế tích khối chóp:"
+  },
+  {
+    "bbox": [
+      256,
+      1845,
+      882,
+      1937
+    ],
+    "category": "Formula",
+    "text": "$$\nV_{S.ABCD} = \\frac{1}{3} \\cdot SA \\cdot S_{ABCD} = \\frac{1}{3} \\cdot \\frac{2\\sqrt{3}a}{3} \\cdot 4a^2 = \\frac{8\\sqrt{3}a^3}{9}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1985,
+      1533,
+      2074
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Trắc nghiệm chọn đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      114,
+      2093,
+      1533,
+      2218
+    ],
+    "category": "List-item",
+    "text": "**Câu 1:** Một công ty khí tượng sử dụng hai mô hình dự báo thời tiết hoạt động độc lập với nhau là Mô hình 1 và Mô hình 2. Dựa trên dữ liệu quá khứ, độ chính xác của các mô hình được quy định như sau:"
+  }
+]

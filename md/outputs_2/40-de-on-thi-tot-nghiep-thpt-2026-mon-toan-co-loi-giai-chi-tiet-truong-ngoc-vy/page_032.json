@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      160,
+      97,
+      1249,
+      196
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-2}^{2} |x^2 - (8 - x^2)| dx = \\int_{-2}^{2} |2x^2 - 8| dx = \\int_{-2}^{2} (-2x^2 + 8) dx \\quad \\text{vì } 2x^2 - 8 \\le 0, \\forall x \\in [-2; 2]\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      216,
+      1056,
+      311
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow S = \\left( -\\frac{2}{3}x^3 + 8x \\right) \\bigg|_{-2}^{2} = -\\frac{2}{3} \\cdot 2^3 + 8 \\cdot 2 - \\left( -\\frac{2}{3} \\cdot (-2)^3 + 8 \\cdot (-2) \\right) = \\frac{64}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      389,
+      1573,
+      492
+    ],
+    "category": "Text",
+    "text": "## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      155,
+      510,
+      755,
+      558
+    ],
+    "category": "Text",
+    "text": "### Câu 1. Cho hàm số $y = x^3 + 3x^2 - 9x + 15$."
+  },
+  {
+    "bbox": [
+      155,
+      582,
+      843,
+      628
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số đã cho là $y' = 3x^2 + 6x - 9$"
+  },
+  {
+    "bbox": [
+      155,
+      650,
+      773,
+      694
+    ],
+    "category": "Text",
+    "text": "c) Phương trình $y' = 0$ có hai nghiệm nguyên."
+  },
+  {
+    "bbox": [
+      155,
+      716,
+      1081,
+      766
+    ],
+    "category": "Text",
+    "text": "b) Đồ thị hàm số đã cho có điểm cực đại $(1;10)$ và cực tiểu $(-3;42)$."
+  },
+  {
+    "bbox": [
+      155,
+      794,
+      487,
+      842
+    ],
+    "category": "Text",
+    "text": "d) $f(-3) < f(0) < f(1)$"
+  },
+  {
+    "bbox": [
+      807,
+      868,
+      924,
+      907
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      920,
+      972,
+      1044
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1097,
+      601,
+      1142
+    ],
+    "category": "Text",
+    "text": "Tập xác định của hàm số $D = \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      155,
+      1164,
+      630,
+      1208
+    ],
+    "category": "Formula",
+    "text": "a) $y' = 3x^2 + 6x - 9 = 3(x-1)(x+3)$"
+  },
+  {
+    "bbox": [
+      155,
+      1232,
+      434,
+      1329
+    ],
+    "category": "Formula",
+    "text": "b) $y' = 0 \\Leftrightarrow \\begin{cases} x = 1 \\\\ x = -3 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      155,
+      1347,
+      441,
+      1392
+    ],
+    "category": "Text",
+    "text": "c) d) Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      384,
+      1405,
+      1343,
+      1535
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-3$</td><td>$1$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$+$</td><td>$0$</td><td>$-$</td><td>$0$</td><td>$+$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      1588,
+      502,
+      1632
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, ta có:"
+  },
+  {
+    "bbox": [
+      155,
+      1649,
+      1045,
+      1700
+    ],
+    "category": "Text",
+    "text": "Đồ thị hàm số đã cho có điểm cực đại $(-3;42)$ và cực tiểu $(1;10)$."
+  },
+  {
+    "bbox": [
+      155,
+      1725,
+      843,
+      1775
+    ],
+    "category": "Text",
+    "text": "Hàm số đồng biến trên khoảng $(-\\infty; -3)$ và $(1; +\\infty)$"
+  },
+  {
+    "bbox": [
+      155,
+      1801,
+      1050,
+      1852
+    ],
+    "category": "Text",
+    "text": "Hàm số nghịch biến trên khoảng $(-3;1)$ nên $f(-3) > f(0) > f(1)$"
+  },
+  {
+    "bbox": [
+      155,
+      1872,
+      1573,
+      1982
+    ],
+    "category": "Text",
+    "text": "### Câu 2. Một công ty đấu thầu 2 dự án. Khả năng thẳng thầu của dự án 1 là 0,4 và khả năng thẳng thầu của dự án 2 là 0,5. Khả năng thẳng thầu cả 2 dự án là 0,3."
+  },
+  {
+    "bbox": [
+      155,
+      2000,
+      696,
+      2045
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố: “Thắng thầu dự án 1”"
+  },
+  {
+    "bbox": [
+      155,
+      2058,
+      702,
+      2103
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố: “Thắng thầu dự án 2”."
+  },
+  {
+    "bbox": [
+      155,
+      2122,
+      260,
+      2157
+    ],
+    "category": "Text",
+    "text": "Khi đó:"
+  },
+  {
+    "bbox": [
+      155,
+      2175,
+      607,
+      2219
+    ],
+    "category": "Text",
+    "text": "a) A và B là hai biến cố độc lập."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

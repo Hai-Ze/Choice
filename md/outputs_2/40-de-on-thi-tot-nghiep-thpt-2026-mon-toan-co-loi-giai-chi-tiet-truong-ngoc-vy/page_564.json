@@ -1,0 +1,151 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      808,
+      133
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      155,
+      150,
+      1576,
+      556
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một khoảng sân của mộtgroup nhà có hình dạng là một phần của parabol, nếu chọn hệ trục tọa độ $Oxy$ như hình vẽ bên dưới thì parabol có phương trình là $y = x^2$. Chủ nhà muốn thiết kế một hồ nuôi cá cảnh có dạng hình tròn bán kính $1m$, hình tròn được thiết kế tiếp xúc với 2 nhánh của parabol, phía trên của hình tròn ngăn bởi mộtttức tường mỏng tiếp xúc với hình tròn. Phần đất còn lại của khoảng sân giới hạn bởi đường tròn, 2 nhánh của parabol vàttức tường được thiết kế trồng hoa (phần gạch sọc trong hình). Tính diện tích mà chủ nhà thiết kế để trồng hoa (đơn vị mét vuông), biết rằng đơn vị trên mỗi trục tọa độ là mét. (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      590,
+      573,
+      1134,
+      1158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1182,
+      493,
+      1218
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      808,
+      1241,
+      924,
+      1279
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1298,
+      343,
+      1338
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1,36"
+  },
+  {
+    "bbox": [
+      155,
+      1361,
+      1035,
+      1486
+    ],
+    "category": "Formula",
+    "text": "$$\n+ Gọi I(0, y_0) suy ra: (C): x^2 + (y - y_0)^2 = 1 \\Rightarrow \\begin{cases} y = y_0 + \\sqrt{1-x^2} \\\\ y = y_0 - \\sqrt{1-x^2} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1505,
+      1009,
+      1550
+    ],
+    "category": "Text",
+    "text": "+ Do Parabol luôn tiếp xúc nửa dưới của đường tròn nên ta có"
+  },
+  {
+    "bbox": [
+      155,
+      1567,
+      922,
+      1835
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} y_0 - \\sqrt{1-x^2} = x^2 \\\\ (y_0 - \\sqrt{1-x^2})' = (x^2)' \\Rightarrow x^2 = \\frac{3}{4} \\Rightarrow y_0 = \\frac{5}{4} \\end{cases} \\\\ + (AB) \\text{ có phương trình: } y = \\frac{9}{4} \\text{ và } A\\left(\\frac{3}{2}; \\frac{9}{4}\\right), B\\left(\\frac{-3}{2}, \\frac{9}{4}\\right)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1860,
+      1007,
+      2008
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó diện tích cần tìm là: } S = \\int_{-\\frac{3}{2}}^{\\frac{3}{2}} \\left(\\frac{9}{4} - x^2\\right) dx - 1^2 \\cdot \\pi \\approx 1,36(m^2)\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2024,
+      1573,
+      2196
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một xưởng thủ công mỹ nghệ sản xuất loại submersion camera, một submersion camera là $C(x) = x^2 + 108$ (nghìn đồng). Thời gian sản xuất cho một submersion camera được xác định"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

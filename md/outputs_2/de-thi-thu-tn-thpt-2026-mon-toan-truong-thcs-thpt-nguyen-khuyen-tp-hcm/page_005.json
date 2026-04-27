@@ -1,0 +1,139 @@
+[
+  {
+    "bbox": [
+      101,
+      247,
+      1593,
+      406
+    ],
+    "category": "List-item",
+    "text": "**Câu 2.** Một cửa hàng cần nhập 2500 chiếc máy tính bảng trong 1 năm. Cửa hàng chọn chia thành nhiều đợt giao hàng, mỗi đợt giao $x$ chiếc ($1 \\le x \\le 2500, x \\in \\mathbb{N}^*$). Công ty vận chuyển tính phí cho mỗi đợt như sau:"
+  },
+  {
+    "bbox": [
+      217,
+      406,
+      703,
+      449
+    ],
+    "category": "List-item",
+    "text": "- Phí điều xe cố định: 20 đô la/đợt."
+  },
+  {
+    "bbox": [
+      217,
+      453,
+      1033,
+      496
+    ],
+    "category": "List-item",
+    "text": "- Phí an ninh-bảo hiểm cho lô hàng lớn: $0,002x^2$ đô la/đợt."
+  },
+  {
+    "bbox": [
+      217,
+      500,
+      1096,
+      584
+    ],
+    "category": "Text",
+    "text": "Hỏi mỗi đợt công ty nên vận chuyển bao nhiêu máy tính bảng để **tổng chi phí vận chuyển trong năm** là nhỏ nhất?"
+  },
+  {
+    "bbox": [
+      217,
+      584,
+      542,
+      632
+    ],
+    "category": "Text",
+    "text": "Trả lời: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      1118,
+      308,
+      1586,
+      618
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      101,
+      875,
+      1295,
+      1069
+    ],
+    "category": "List-item",
+    "text": "**Câu 3.** Trên hệ trục tọa độ $Oxyz$ (đơn vị độ dài: m), một người lái mô tô xuất phát từ vị trí $A(0; 0; 0)$ đến $B(0; 600; 0)$ trong 6 phút. Từ $B$, người đó cho xe đổi hướng để tiến thẳng đến $C(1500; 600; 0)$ với tốc độ không đổi và bằng đúng tốc độ khi đi từ $A$ đến $B$."
+  },
+  {
+    "bbox": [
+      217,
+      1069,
+      1276,
+      1152
+    ],
+    "category": "Text",
+    "text": "Hỏi ở **phút thứ 8 kể từ khi xe đổi hướng**, tốc độ thay đổi khoảng cách của xe mô tô đối với vị trí xuất phát $A$ là bao nhiêu m/phút?"
+  },
+  {
+    "bbox": [
+      217,
+      1152,
+      542,
+      1200
+    ],
+    "category": "Text",
+    "text": "Trả lời: [ ] [ ] [ ] [ ]"
+  },
+  {
+    "bbox": [
+      1324,
+      873,
+      1586,
+      1158
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      101,
+      1494,
+      1096,
+      1974
+    ],
+    "category": "List-item",
+    "text": "**Câu 4.** Một loại gạch men có kích thước hình vuông $60 \\times 60$ cm. Người ta thiết kế hoa văn cho viên gạch bằng cách tạo đường tròn ($C_1$) nội tiếp hình vuông ban đầu, phần nằm ngoài đường tròn ($C_1$) mà thuộc viên gạch thì được tô màu Đầm.Tiếp theo họ tạo ra một hình vuông nội tiếp đường tròn ($C_1$), bên trong hình vuông này lại có một đường tròn nội tiếp ($C_2$); và họ tiếp tục tô màu Đầm cho phần nằm ngoài đường tròn ($C_2$) mà thuộc hình vuông này. Quy luật này cứ thế tiếp tục vô hạn lần (thảm khảo hình vẽ). Hỏi tổng diện tích thuộc về viên gạch được tô màu Đầm là bao nhiêu cm vuông? Kết quả được làm tròn đến hàng đơn vị của cm vuông."
+  },
+  {
+    "bbox": [
+      1122,
+      1515,
+      1569,
+      1966
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1336,
+      2015,
+      1498,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "MÃ ĐỀ 423"
+  },
+  {
+    "bbox": [
+      1540,
+      2021,
+      1558,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "5"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "bbox": [
+      168,
+      58,
+      1596,
+      482
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Điều A(6; 8; 0) nằm bên trong trạm vũ trụ hình cầu.</td><td>☐</td><td>☐</td></tr><tr><td>b) Phương trình quỹ đạo di chuyển của tàu vũ trụ là $\\Delta: \\begin{cases} x = 6 + 2t \\\\ y = 8 + 2t \\\\ z = -t \\end{cases}$ ($t$ là tham số).</td><td>☐</td><td>☐</td></tr><tr><td>c) Khoảng cách từ tâm của trạm vũ trụ đến đường thẳng quỹ đạo tàu vũ trụ là 3,8 km (làm tròn đến hàng phần chục theo đơn vị km).</td><td>☐</td><td>☐</td></tr><tr><td>d) Tàu vũ trụ sẽ tốn 2,3 giây (làm tròn đến hàng phần chục của giây) để vượt qua phạm vi hình cầu của trạm vũ trụ.</td><td>☐</td><td>☐</td></tr></table>"
+  },
+  {
+    "bbox": [
+      102,
+      741,
+      767,
+      781
+    ],
+    "category": "Text",
+    "text": "**Câu 16.** Một thùng chứa 4 quả bóng, trong đó có:"
+  },
+  {
+    "bbox": [
+      215,
+      785,
+      1023,
+      872
+    ],
+    "category": "List-item",
+    "text": "- 2 quả bóng **xanh**: mặt trơn, khi lấy ra và tác động thì nó luôn lăn về phía trước."
+  },
+  {
+    "bbox": [
+      215,
+      875,
+      1023,
+      964
+    ],
+    "category": "List-item",
+    "text": "- 1 quả bóng **đỏ**: mặt sần, khi lấy ra và tác động thì nó có 50% khả năng lăn về phía trước."
+  },
+  {
+    "bbox": [
+      215,
+      967,
+      1023,
+      1055
+    ],
+    "category": "List-item",
+    "text": "- 1 quả bóng **vàng**: mặt nhám, khi lấy ra và tác động thì nó luôn化学"
+  },
+  {
+    "bbox": [
+      215,
+      1080,
+      986,
+      1156
+    ],
+    "category": "Text",
+    "text": "Một quả bóng được chọn ngẫu nhiên và thử nghiệm lăn 3 lần."
+  },
+  {
+    "bbox": [
+      1044,
+      738,
+      1587,
+      1088
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      168,
+      1158,
+      1596,
+      1789
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Xét tính đúng sai các m emh đề sau:</td><td>Đúng</td><td>Sai</td></tr></thead><tbody><tr><td>a) Xác suất để quả bóng lăn về phía trước cả 3 lần là $\\frac{5}{16}$.</td><td>☐</td><td>☐</td></tr><tr><td>b) Nếu quả bóng lăn về phía trước cả 3 lần, xác suất để nó là bóng xanh bằng $\\frac{12}{13}$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Nếu quả bóng đã lăn về phía trước 3 lần, xác suất để lần thứ 4 nó tiếp tục lăn về phía trước là $\\frac{33}{34}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Nếu thay đổi số lần thử nghiệm từ 3 lần thành $n$ lần ($n \\in \\mathbb{N}$, $n \\ge 10$), xác suất để quả bóng là đỏ khi nó lăn về phía trước cả $n$ lần được tính bằng công thức $P = \\frac{1}{2^n + 1}$.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1443,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1546,
+      2022,
+      1564,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

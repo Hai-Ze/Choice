@@ -1,0 +1,183 @@
+[
+  {
+    "bbox": [
+      94,
+      42,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      255,
+      126,
+      1040,
+      679
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      900,
+      722,
+      952,
+      755
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      709,
+      1197,
+      771
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      796,
+      501,
+      1329
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Đường đi của một khinh khí cầu được gắn trong hệ trục tọa độ là một đường cong bậc hai trên bậc nhất có đồ thị cắt trục hoành tại hai điểm có tọa độ là (1;0) và (8;0) với đơn vị trên hệ trục tọa độ là 1 km. Biết rằng điểm cực đại của đồ thị hàm số là điểm (6; 5). Hỏi khi khí cầu đi qua điểm cực đại và cách mặt đất 3875 m thì khí cầu cách gốc tọa độ theo phương ngang bao nhiêu? (đơn vị: km)"
+  },
+  {
+    "bbox": [
+      532,
+      812,
+      1172,
+      1226
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      900,
+      1338,
+      952,
+      1371
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      958,
+      1325,
+      1197,
+      1387
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1411,
+      297,
+      1908
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Hệ thống lọc nước bể bơi vô cùng quan trọng khi tiến hành xây dựng công trình bơi lội để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá"
+  },
+  {
+    "bbox": [
+      329,
+      1421,
+      1172,
+      1928
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1926,
+      1197,
+      2115
+    ],
+    "category": "Text",
+    "text": "trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon và thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm 6"
+  },
+  {
+    "bbox": [
+      94,
+      2115,
+      1197,
+      2249
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{giờ sáng đến 6 giờ chiều được cho bởi } f(t) = \\begin{cases} 100t & \\text{khi } 0 \\le t \\le 3 \\\\ 900 - 200t & \\text{khi } 3 \\le t \\le 6 \\text{ với mốc} \\\\ 100t - 900 & \\text{khi } 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      1322,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      167,
+      1595,
+      2230
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 67"
+  }
+]

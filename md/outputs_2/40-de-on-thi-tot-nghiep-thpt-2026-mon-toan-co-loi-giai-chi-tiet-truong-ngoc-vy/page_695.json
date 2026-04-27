@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1167,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      99,
+      1386,
+      181
+    ],
+    "category": "Text",
+    "text": "Ta có $L(x):T(x) = 4:1$, suy ra $(2x-4400)(3200-x-a) = 4(2x-4400)a \\Rightarrow a = \\frac{3200-x}{5}$"
+  },
+  {
+    "bbox": [
+      155,
+      202,
+      252,
+      238
+    ],
+    "category": "Text",
+    "text": "Khi đó"
+  },
+  {
+    "bbox": [
+      162,
+      260,
+      1011,
+      442
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nL(x) &= (2x-4400)\\left(3200-x-\\frac{3200-x}{5}\\right) \\\\\n&= (2x-4400)\\frac{12800-4x}{5} = \\frac{1}{5}(-8x^2+43200x-56320000)\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      464,
+      849,
+      513
+    ],
+    "category": "Text",
+    "text": "Bài toán đưa về tìm $x$ để $L(x)$ đạt giá trị lớn nhất."
+  },
+  {
+    "bbox": [
+      155,
+      541,
+      1007,
+      622
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } L'(x) = \\frac{1}{5}(-16x+43200) = 0 \\Leftrightarrow x = 2700 \\in (200;4200).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      646,
+      1466,
+      729
+    ],
+    "category": "Text",
+    "text": "Lập bảng biến thiên ta thấy $L(x)$ đạt giá trị lớn nhất khi $x = 2700$, suy ra $a = \\frac{3200-2700}{5} = 100$."
+  },
+  {
+    "bbox": [
+      155,
+      745,
+      1573,
+      909
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Bác Tuyền gửi tiếtni量 200 triệu đồng với lãi suất 5% một năm và lãi hàng năm được nhập vào vốn. Sau ít nhất bao nhiêu năm, Bác Tuyền nhận được số tiền nhiều hơn 300 triệu đồng? Biết rằng lãi suất không thay đổi qua các năm và Bác Tuyền không rút tiền ra trong suốt quá trình gửi."
+  },
+  {
+    "bbox": [
+      700,
+      927,
+      1030,
+      1183
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1211,
+      493,
+      1247
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1271,
+      924,
+      1309
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1327,
+      302,
+      1365
+    ],
+    "category": "Text",
+    "text": "Đáp án: 9"
+  },
+  {
+    "bbox": [
+      155,
+      1391,
+      1573,
+      1513
+    ],
+    "category": "Text",
+    "text": "Đây là bài toán lãi kép, Áp dụng công thức $A_n = A_0(1+r)^n$ với $n$ là số kỳ hạn, $A_0$ là số tiền ban đầu, $A_n$ là số tiền có được sau $n$ kỳ hạn, $r$ là lãi suất."
+  },
+  {
+    "bbox": [
+      155,
+      1537,
+      1085,
+      1583
+    ],
+    "category": "Text",
+    "text": "Số tiền người đó nhận được sau $n$ năm là $A = 200 \\cdot 1,05^n$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      155,
+      1607,
+      1120,
+      1723
+    ],
+    "category": "Text",
+    "text": "Để nhận được số tiền nhiều hơn 300 triệu đồng $\\Rightarrow A = 200 \\cdot 1,05^n > 300$\n$\\Rightarrow 1,05^n > 1,5 \\Leftrightarrow n > \\log_{1,05} 1,5 \\Leftrightarrow n > 8,3$ (năm)."
+  },
+  {
+    "bbox": [
+      155,
+      1745,
+      1207,
+      1791
+    ],
+    "category": "Text",
+    "text": "Vậy sau ít nhất 9 năm Bác Tuyền nhận được số tiền nhiều hơn 300 triệu đồng."
+  },
+  {
+    "bbox": [
+      155,
+      1803,
+      1573,
+      2181
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong một đợt diễn tập quốc phòng, hai người ở vị trí khác nhau cùng ngắm bắn một mục tiêu cố định trên không. Người ta gắn một hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục tính theo mét), mặt phẳng $(Oxy)$ trùng với mặt đất. Người thứ nhất bắn một viên đạn đi qua hai điểm $A(5;7;10)$ và $B(6;9;12)$. Người thứ hai bắn một viên đạn đi qua hai điểm $C(15;17;5)$ và $D$ (điểm $D$ ở độ cao 26 m so với mặt đất). Biết rằng sau một thời gian rời khỏi nòng súng, hai viên đạn chậm với nhau tại vị trí cách điểm $A$ một khoảng 150 m (tham khảo hình vẽ)"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

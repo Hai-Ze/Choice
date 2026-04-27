@@ -1,0 +1,302 @@
+[
+  {
+    "bbox": [
+      251,
+      119,
+      1534,
+      212
+    ],
+    "category": "Text",
+    "text": "Thay $x=1$ vào $g(x)$: $g(1) = 1 - 27 - 0 = -26 \\neq 0$. vậy không có nghiệm nguyên dương trong khoảng này."
+  },
+  {
+    "bbox": [
+      251,
+      216,
+      1503,
+      356
+    ],
+    "category": "Text",
+    "text": "-) Trên khoảng $\\left(\\frac{1}{\\ln 2}; +\\infty\\right)$: Hàm số đồng biến. Do đó phương trình $g(x) = 0$ nếu có nghiệm thì nghiệm đó là duy nhất."
+  },
+  {
+    "bbox": [
+      251,
+      358,
+      1341,
+      404
+    ],
+    "category": "Text",
+    "text": "Nhẩm nghiệm: Ta thấy $x = 32$ thỏa mãn $g(32) = 32 - 27 - \\log_2(32) = 5 - 5 = 0$."
+  },
+  {
+    "bbox": [
+      251,
+      413,
+      1347,
+      460
+    ],
+    "category": "Text",
+    "text": "Vậy $x = 32$ là nghiệm nguyên dương duy nhất của phương trình. Suy ra $a_8 = 32$."
+  },
+  {
+    "bbox": [
+      251,
+      467,
+      935,
+      513
+    ],
+    "category": "Text",
+    "text": "Theo công thức số hạng tổng quát của cấp số cộng:"
+  },
+  {
+    "bbox": [
+      256,
+      519,
+      724,
+      561
+    ],
+    "category": "Formula",
+    "text": "$$\na_8 = a_1 + 7d = 32 \\Rightarrow a_1 = 32 - 7d.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      575,
+      1166,
+      657
+    ],
+    "category": "Text",
+    "text": "Vì $a_1 \\ge 1$ (do $a_1 \\in \\mathbb{Z}^+$) nên $32 - 7d \\ge 1 \\Leftrightarrow 7d \\le 31 \\Leftrightarrow d \\le \\frac{31}{7} \\approx 4,4$."
+  },
+  {
+    "bbox": [
+      251,
+      669,
+      656,
+      713
+    ],
+    "category": "Text",
+    "text": "Vì $d \\in \\mathbb{Z}^+$ nên $d \\in \\{1; 2; 3; 4\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      720,
+      809,
+      768
+    ],
+    "category": "Text",
+    "text": "Ta cần tìm giá trị nhỏ nhất của $a_3$. Ta có:"
+  },
+  {
+    "bbox": [
+      256,
+      782,
+      809,
+      824
+    ],
+    "category": "Formula",
+    "text": "$$\na_3 = a_1 + 2d = (32 - 7d) + 2d = 32 - 5d.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      833,
+      1013,
+      880
+    ],
+    "category": "Text",
+    "text": "Để $a_3$ nhỏ nhất thì $5d$ phải lớn nhất $\\Rightarrow d$ phải lớn nhất."
+  },
+  {
+    "bbox": [
+      251,
+      894,
+      817,
+      937
+    ],
+    "category": "Text",
+    "text": "Chọn $d_{\\max} = 4$. Khi đó $a_1 = 32 - 7 \\cdot 4 = 4$."
+  },
+  {
+    "bbox": [
+      251,
+      946,
+      797,
+      992
+    ],
+    "category": "Text",
+    "text": "Giá trị nhỏ nhất của $a_3$ là $32 - 5 \\cdot 4 = 12$."
+  },
+  {
+    "bbox": [
+      114,
+      1018,
+      1534,
+      1169
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Xét một bảng ô vuông kích thước $3 \\times 3$. Mỗi ô được điền ngẫu nhiên và độc lập một giá trị từ tập $\\{-1; 0; 1\\}$. Biết rằng tổng các số trên mỗi hàng đều bằng 0, gọi $p$ là xác suất để tổng các số trên mỗi cột cũng đều bằng 0. Tính giá trị của $3430p$."
+  },
+  {
+    "bbox": [
+      251,
+      1175,
+      422,
+      1218
+    ],
+    "category": "Text",
+    "text": "Đáp số: 310"
+  },
+  {
+    "bbox": [
+      835,
+      1223,
+      951,
+      1262
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      251,
+      1294,
+      1077,
+      1344
+    ],
+    "category": "Text",
+    "text": "Mỗi dòng có tổng bằng 0 có 2 dạng là $\\{0; 0; 0\\}$ và $\\{-1; 0; 1\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      1357,
+      926,
+      1409
+    ],
+    "category": "Text",
+    "text": "Suy ra không gian mẫu có $n(\\Omega) = (1+3!)^3 = 343$."
+  },
+  {
+    "bbox": [
+      251,
+      1424,
+      598,
+      1469
+    ],
+    "category": "Text",
+    "text": "**TH1. Có hàng là (0, 0, 0)**"
+  },
+  {
+    "bbox": [
+      251,
+      1480,
+      1534,
+      1590
+    ],
+    "category": "Text",
+    "text": "Nếu hàng 1 là $(0, 0, 0)$, thì để các cột có tổng bằng 0, hai hàng còn lại phải là đối ngẫu của nhau (ví dụ hàng 2 là $(1, -1, 0)$ thì hàng 3 phải là $(-1, 1, 0)$)."
+  },
+  {
+    "bbox": [
+      251,
+      1598,
+      1379,
+      1644
+    ],
+    "category": "Text",
+    "text": "Mối hàng 2 có 6 cách chọn, hàng 3 sẽ cố định theo hàng 2. Suy ra có $6 \\cdot 3 = 18$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      1646,
+      1208,
+      1696
+    ],
+    "category": "Text",
+    "text": "Nếu hàng 1 và 2 là $(0, 0, 0)$ thì hàng 3 cố định là $(0, 0, 0)$ (bảng toàn 0)."
+  },
+  {
+    "bbox": [
+      251,
+      1707,
+      614,
+      1745
+    ],
+    "category": "Text",
+    "text": "Do đó có $18 + 1 = 19$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      1756,
+      755,
+      1800
+    ],
+    "category": "Text",
+    "text": "**TH2. Không có hàng nào là (0, 0, 0)**"
+  },
+  {
+    "bbox": [
+      251,
+      1813,
+      880,
+      1861
+    ],
+    "category": "Text",
+    "text": "Hàng 1 có 6 cách xếp là hoán vị của $\\{-1; 0; 1\\}$."
+  },
+  {
+    "bbox": [
+      251,
+      1869,
+      1534,
+      1966
+    ],
+    "category": "Text",
+    "text": "Ở hàng 2 không được có cột trùng với hàng 1 nên mỗi hoán vị của hàng 1 có 2 cách để xếp tương ứng ở dòng 2. Ví dụ hàng 1 là $(-1, 0, 1)$ thì hàng 2 là $(0, 1, -1)$ hoặc $(1, -1, 0)$."
+  },
+  {
+    "bbox": [
+      251,
+      1974,
+      987,
+      2020
+    ],
+    "category": "Text",
+    "text": "Khi đó hàng 3 sẽ xác định duy nhất do tổng cột bằng 0."
+  },
+  {
+    "bbox": [
+      251,
+      2024,
+      588,
+      2060
+    ],
+    "category": "Text",
+    "text": "Do đó có $6 \\cdot 2 = 12$ cách."
+  },
+  {
+    "bbox": [
+      251,
+      2071,
+      979,
+      2155
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để mỗi cột bằng 0 là $p = \\frac{19+12}{343} = \\frac{31}{343}$."
+  },
+  {
+    "bbox": [
+      289,
+      2163,
+      637,
+      2205
+    ],
+    "category": "Text",
+    "text": "Giá trị của $3430p = 310$."
+  }
+]

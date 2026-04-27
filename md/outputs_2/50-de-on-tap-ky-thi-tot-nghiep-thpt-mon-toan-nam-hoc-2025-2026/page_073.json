@@ -1,0 +1,439 @@
+[
+  {
+    "bbox": [
+      20,
+      0,
+      221,
+      188
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      211,
+      43,
+      1044,
+      89
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP TỐT NGHIỆP 12 – NĂM HỌC 2025 – 2026"
+  },
+  {
+    "bbox": [
+      251,
+      168,
+      325,
+      203
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      586,
+      168,
+      666,
+      203
+    ],
+    "category": "List-item",
+    "text": "B. 2."
+  },
+  {
+    "bbox": [
+      901,
+      168,
+      976,
+      203
+    ],
+    "category": "List-item",
+    "text": "C. 3."
+  },
+  {
+    "bbox": [
+      1216,
+      168,
+      1300,
+      203
+    ],
+    "category": "List-item",
+    "text": "D. 4."
+  },
+  {
+    "bbox": [
+      114,
+      221,
+      943,
+      297
+    ],
+    "category": "Text",
+    "text": "» Câu 7. Phương trình $\\sin x = \\sin \\frac{\\pi}{8}$ có các họ nghiệm là"
+  },
+  {
+    "bbox": [
+      251,
+      302,
+      597,
+      479
+    ],
+    "category": "Formula",
+    "text": "$$\nA. \\begin{cases} x = \\frac{\\pi}{8} + k2\\pi \\\\ x = \\frac{5\\pi}{8} + k2\\pi \\end{cases}, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      302,
+      1247,
+      479
+    ],
+    "category": "Formula",
+    "text": "$$\nB. \\begin{cases} x = \\frac{\\pi}{8} + k2\\pi \\\\ x = \\frac{7\\pi}{8} + k2\\pi \\end{cases}, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      487,
+      597,
+      664
+    ],
+    "category": "Formula",
+    "text": "$$\nC. \\begin{cases} x = \\frac{5\\pi}{8} + k2\\pi \\\\ x = \\frac{7\\pi}{8} + k2\\pi \\end{cases}, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      487,
+      1275,
+      664
+    ],
+    "category": "Formula",
+    "text": "$$\nD. \\begin{cases} x = -\\frac{\\pi}{8} + k2\\pi \\\\ x = -\\frac{7\\pi}{8} + k2\\pi \\end{cases}, k \\in \\mathbb{Z}.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      672,
+      1228,
+      724
+    ],
+    "category": "Text",
+    "text": "» Câu 8. Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Khẳng định nào dưới đây đúng"
+  },
+  {
+    "bbox": [
+      251,
+      737,
+      648,
+      819
+    ],
+    "category": "Formula",
+    "text": "$$\nA. \\int 2f(x)dx = \\frac{1}{2} \\int f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      748,
+      1340,
+      810
+    ],
+    "category": "Formula",
+    "text": "$$\nB. \\int 2f(x)dx = \\int 2dx \\int f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      821,
+      636,
+      881
+    ],
+    "category": "Formula",
+    "text": "$$\nC. \\int 2f(x)dx = \\int f(2x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      821,
+      1288,
+      881
+    ],
+    "category": "Formula",
+    "text": "$$\nD. \\int 2f(x)dx = 2 \\int f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      887,
+      1562,
+      990
+    ],
+    "category": "Text",
+    "text": "» Câu 9. Trong không gian $Oxyz$, mặt phẳng nào dưới đây nhận $\\vec{n} = (3;1;-7)$ là một vecto pháp tuyến?"
+  },
+  {
+    "bbox": [
+      251,
+      993,
+      490,
+      1030
+    ],
+    "category": "Formula",
+    "text": "$$\nA. 3x+z+7=0.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      993,
+      1192,
+      1030
+    ],
+    "category": "Formula",
+    "text": "$$\nB. 3x-y-7z+1=0.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1044,
+      490,
+      1084
+    ],
+    "category": "Formula",
+    "text": "$$\nC. 3x+y-7=0.\n$$"
+  },
+  {
+    "bbox": [
+      901,
+      1044,
+      1200,
+      1084
+    ],
+    "category": "Formula",
+    "text": "$$\nD. 3x+y-7z-3=0.\n$$"
+  },
+  {
+    "bbox": [
+      114,
+      1099,
+      821,
+      1147
+    ],
+    "category": "Text",
+    "text": "» Câu 10. Số nghiệm phương trình $2^{2x^2-7x+5} = 1$ là"
+  },
+  {
+    "bbox": [
+      251,
+      1150,
+      333,
+      1185
+    ],
+    "category": "List-item",
+    "text": "A. 0."
+  },
+  {
+    "bbox": [
+      586,
+      1150,
+      654,
+      1185
+    ],
+    "category": "List-item",
+    "text": "B. 1."
+  },
+  {
+    "bbox": [
+      901,
+      1150,
+      976,
+      1185
+    ],
+    "category": "List-item",
+    "text": "C. 2."
+  },
+  {
+    "bbox": [
+      1216,
+      1150,
+      1300,
+      1185
+    ],
+    "category": "List-item",
+    "text": "D. 3."
+  },
+  {
+    "bbox": [
+      114,
+      1195,
+      1481,
+      1247
+    ],
+    "category": "Text",
+    "text": "» Câu 11. Cho hàm số $y = f(x)$ xác định và liên tục trên $\\mathbb{R} \\setminus \\{-1\\}$, có bảng biến thiên như sau."
+  },
+  {
+    "bbox": [
+      606,
+      1247,
+      1206,
+      1453
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      251,
+      1455,
+      751,
+      1501
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      251,
+      1503,
+      1257,
+      1545
+    ],
+    "category": "List-item",
+    "text": "A. Đồ thị hàm số có tiệm cận đứng $y = -1$ và tiệm cận ngang $x = -2$."
+  },
+  {
+    "bbox": [
+      251,
+      1553,
+      890,
+      1595
+    ],
+    "category": "List-item",
+    "text": "B. Đồ thị hàm số có duy nhất một tiệm cận."
+  },
+  {
+    "bbox": [
+      251,
+      1599,
+      726,
+      1641
+    ],
+    "category": "List-item",
+    "text": "C. Đồ thị hàm số có ba tiệm cận."
+  },
+  {
+    "bbox": [
+      251,
+      1645,
+      1257,
+      1687
+    ],
+    "category": "List-item",
+    "text": "D. Đồ thị hàm số có tiệm cận đứng $x = -1$ và tiệm cận ngang $y = -2$."
+  },
+  {
+    "bbox": [
+      114,
+      1695,
+      1562,
+      1845
+    ],
+    "category": "Text",
+    "text": "» Câu 12. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$ và cạnh bên $SA$ vuông góc với đáy. Gọi $M$ là trung điểm của $SC$, biết $AB = a$, $AC = 2a$, $SA = a\\sqrt{3}$. Tính thể tích khối chóp $S.AMB$ theo $a$."
+  },
+  {
+    "bbox": [
+      251,
+      1854,
+      366,
+      1936
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{1}{2}a^3$."
+  },
+  {
+    "bbox": [
+      586,
+      1854,
+      696,
+      1936
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{1}{4}a^3$."
+  },
+  {
+    "bbox": [
+      901,
+      1845,
+      1038,
+      1936
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\sqrt{2}}{4}a^3$."
+  },
+  {
+    "bbox": [
+      1216,
+      1845,
+      1355,
+      1936
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{3}}{2}a^3$."
+  },
+  {
+    "bbox": [
+      64,
+      1944,
+      493,
+      1986
+    ],
+    "category": "Section-header",
+    "text": "B. Câu hỏi – Trả lời đúng/sai"
+  },
+  {
+    "bbox": [
+      114,
+      1989,
+      828,
+      2075
+    ],
+    "category": "Text",
+    "text": "» Câu 13. Cho hàm số $y = f(x) = \\frac{x^2 + 3x}{x-1}$. Khi đó:"
+  },
+  {
+    "bbox": [
+      251,
+      2075,
+      1602,
+      2183
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th></th><th>M�n đề</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>(a)</td><td>Hàm số đồng biến trên khoảng $(-\\infty;1)$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      114,
+      2248,
+      615,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "» TOÁN TỪ TÂM – 0901.837.432"
+  },
+  {
+    "bbox": [
+      1313,
+      2252,
+      1457,
+      2290
+    ],
+    "category": "Page-footer",
+    "text": "Trang 72"
+  },
+  {
+    "bbox": [
+      1481,
+      2163,
+      1646,
+      2352
+    ],
+    "category": "Picture"
+  }
+]

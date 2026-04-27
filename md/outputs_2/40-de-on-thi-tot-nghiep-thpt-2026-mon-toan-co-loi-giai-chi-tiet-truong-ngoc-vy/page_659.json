@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      96,
+      1573,
+      217
+    ],
+    "category": "Text",
+    "text": "Vị trí bạn Minh Hiền là $M(x; y; z)$ thì Minh Hiền chính là giao điểm của bốn mặt cầu: Trái Đất và ba mặt cầu tâm lần lượt $M_1, M_2, M_3$ có bán kính lần lượt là khoảng cách từ các vệ tinh đến Minh Hiền"
+  },
+  {
+    "bbox": [
+      155,
+      244,
+      1069,
+      299
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình mặt cầu của trái đất là $x^2 + y^2 + z^2 = \\sqrt{41}^2 = 41$."
+  },
+  {
+    "bbox": [
+      155,
+      323,
+      1349,
+      378
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình mặt cầu của vệ tinh thứ nhất là $(x-4)^2 + (y-4)^2 + (z-6)^2 = 3^2 = 9$."
+  },
+  {
+    "bbox": [
+      155,
+      404,
+      1345,
+      458
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình mặt cầu của vệ tinh thứ hai là $(x-8)^2 + (y-4)^2 + (z-3)^2 = 4^2 = 16$."
+  },
+  {
+    "bbox": [
+      155,
+      484,
+      1340,
+      538
+    ],
+    "category": "Text",
+    "text": "Ta có phương trình mặt cầu của vệ tinh thứ ba là $(x-4)^2 + (y-9)^2 + (z-3)^2 = 5^2 = 25$."
+  },
+  {
+    "bbox": [
+      155,
+      562,
+      1201,
+      803
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có hệ } \\begin{cases} x^2 + y^2 + z^2 = 41 \\\\ (x-4)^2 + (y-4)^2 + (z-6)^2 = 9 \\\\ (x-8)^2 + (y-4)^2 + (z-3)^2 = 16 \\\\ (x-4)^2 + (y-9)^2 + (z-3)^2 = 25 \\end{cases} \\Rightarrow \\begin{cases} x^2 + y^2 + z^2 = 41 \\\\ 8x+8y+12z=100 \\\\ 16x+8y+6z=114 \\\\ 8x+18y+6z=122 \\end{cases} \\Leftrightarrow \\begin{cases} x=4 \\\\ y=4 \\\\ z=3 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      828,
+      1005,
+      878
+    ],
+    "category": "Text",
+    "text": "Vậy toạ độ bạn Minh Hiền là $M(4; 4; 3)$ với $(1 \\text{ đơn vị} = 10^6 \\text{ m})$."
+  },
+  {
+    "bbox": [
+      155,
+      902,
+      469,
+      942
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow T = 2x + 3y - 4z = 8\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      960,
+      1573,
+      1130
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hình chóp đều $S.ABC$ có cạnh đáy bằng 1. Góc giữa đường thẳng $SA$ và mặt phẳng $(ABC)$ bằng $60^\\circ$. Tính khoảng cách giữa hai đường thẳng $SA$ và $BC$ (kết quả viết dưới dạng số thập phân)."
+  },
+  {
+    "bbox": [
+      155,
+      1147,
+      494,
+      1185
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1206,
+      924,
+      1245
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1263,
+      348,
+      1303
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,75"
+  },
+  {
+    "bbox": [
+      252,
+      1326,
+      778,
+      1931
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      1964,
+      1130,
+      2009
+    ],
+    "category": "Text",
+    "text": "Gọi $M$ là trung điểm của cạnh $BC$, $G$ là trọng tâm của tam giác $ABC$."
+  },
+  {
+    "bbox": [
+      155,
+      2023,
+      1573,
+      2140
+    ],
+    "category": "Text",
+    "text": "Do $S.ABC$ là hình chóp đều nên $SG \\perp (ABC)$, do đó góc giữa đường thẳng $SA$ và mặt phẳng $(ABC)$ là $\\widehat{SAG}$."
+  },
+  {
+    "bbox": [
+      155,
+      2161,
+      446,
+      2201
+    ],
+    "category": "Text",
+    "text": "Kẻ $MH \\perp SA$ tại $H$."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2254,
+      924,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      202,
+      138,
+      1076,
+      183
+    ],
+    "category": "Text",
+    "text": "Khi đó: $y^2 + 3x = (y + z)^2 = y^2 + 2yz + z^2 \\Rightarrow 3x = 2yz + z^2$."
+  },
+  {
+    "bbox": [
+      202,
+      192,
+      911,
+      271
+    ],
+    "category": "Text",
+    "text": "Thay $x = \\frac{3y - 1}{2}$ vào phương trình trên, ta được:"
+  },
+  {
+    "bbox": [
+      345,
+      276,
+      1352,
+      356
+    ],
+    "category": "Formula",
+    "text": "$$\n3 \\cdot \\left( \\frac{3y - 1}{2} \\right) = 2yz + z^2 \\Leftrightarrow 9y - 3 = 4yz + 2z^2 \\Leftrightarrow y(9 - 4z) = 2z^2 + 3.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      363,
+      1168,
+      406
+    ],
+    "category": "Text",
+    "text": "Vì $y > 0$ và $2z^2 + 3 > 0$ nên $9 - 4z > 0 \\Rightarrow 4z < 9 \\Rightarrow z \\le 2$ (do $z \\in \\mathbb{N}^*$)."
+  },
+  {
+    "bbox": [
+      195,
+      419,
+      1544,
+      500
+    ],
+    "category": "List-item",
+    "text": "- Với $z = 1$: $y(9 - 4) = 2(1)^2 + 3 \\Rightarrow 5y = 5 \\Rightarrow y = 1$. Khi đó $x = \\frac{3(1) - 1}{2} = 1$ (loại vì $x \\neq y$)."
+  },
+  {
+    "bbox": [
+      195,
+      506,
+      1547,
+      621
+    ],
+    "category": "List-item",
+    "text": "- Với $z = 2$: $y(9 - 8) = 2(2)^2 + 3 \\Rightarrow y = 11$. Khi đó $x = \\frac{3(11) - 1}{2} = 16$ (thỏa mãn $x, y \\in A$ và $x \\neq y$)."
+  },
+  {
+    "bbox": [
+      153,
+      638,
+      1121,
+      681
+    ],
+    "category": "Text",
+    "text": "Vậy có duy nhất một cặp số thỏa mãn yêu cầu bài toán là $\\{11; 16\\}$."
+  },
+  {
+    "bbox": [
+      202,
+      692,
+      792,
+      778
+    ],
+    "category": "Text",
+    "text": "Xác suất của biến cố là: $P = \\frac{1}{C_{25}^2} = \\frac{1}{300}$."
+  },
+  {
+    "bbox": [
+      202,
+      785,
+      1032,
+      858
+    ],
+    "category": "Text",
+    "text": "Theo bài ra $P = \\frac{a}{b}$ là phân số tối简nên $a = 1, b = 300$."
+  },
+  {
+    "bbox": [
+      202,
+      872,
+      589,
+      911
+    ],
+    "category": "Text",
+    "text": "Vậy $a + b = 1 + 300 = 301$."
+  },
+  {
+    "bbox": [
+      153,
+      932,
+      1547,
+      1106
+    ],
+    "category": "Text",
+    "text": "### **Bài 3.** Một bờ hồ có dạng nửa đường tròn bán kính bằng 2 km, đường kính là $PR$. Từ điểm $P$, bạn Nam chèo một chiếc thuyền với vận tốc 3 km/h đến điểm $Q$ trên bờ hồ, rồi chạy bộ dọc theo bờ hồ đến điểm $R$ với vận tốc 6 km/h. Hỏi để di chuyển từ $P$ đến $R$ theo cách trên thì bạn Nam mất ít thời gian nhất là bao nhiêu giờ? (Làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      544,
+      1137,
+      1161,
+      1537
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1617,
+      1377,
+      1680
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Chọn hệ trục tọa độ $Oxy$ như hình vẽ, với $O$ là trung điểm $PR$."
+  },
+  {
+    "bbox": [
+      506,
+      1691,
+      1182,
+      2141
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      2177,
+      690,
+      2218
+    ],
+    "category": "Text",
+    "text": "Khi đó: $O(0, 0)$; $R(2, 0)$; $P(-2, 0)$."
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "62"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

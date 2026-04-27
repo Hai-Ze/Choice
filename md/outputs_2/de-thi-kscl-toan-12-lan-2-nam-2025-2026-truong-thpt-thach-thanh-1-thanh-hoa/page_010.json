@@ -1,0 +1,182 @@
+[
+  {
+    "bbox": [
+      153,
+      118,
+      1425,
+      309
+    ],
+    "category": "Text",
+    "text": "c) $f'(x) = 2 \\cos 2x - 1$ khi đó $f'(-\\frac{\\pi}{6}) = 2 \\cos(-\\frac{\\pi}{3}) - 1 = 0$ và $f'(\\frac{\\pi}{6}) = 2 \\cos \\frac{\\pi}{3} - 1 = 0$, suy ra $x = -\\frac{\\pi}{6}; x = \\frac{\\pi}{6}$ là nghiệm của phương trình $f'(x) = 0$ trên đoạn $[-\\frac{\\pi}{2}; \\frac{\\pi}{2}]$. Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      344,
+      430,
+      392
+    ],
+    "category": "Text",
+    "text": "d) $f(x) = \\sin 2x - x$,"
+  },
+  {
+    "bbox": [
+      166,
+      426,
+      858,
+      516
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 2 \\cos 2x - 1 \\text{ có nghiệm } x = \\pm \\frac{\\pi}{6} \\in [-\\frac{\\pi}{2}; \\frac{\\pi}{2}],\n$$"
+  },
+  {
+    "bbox": [
+      166,
+      549,
+      530,
+      639
+    ],
+    "category": "Formula",
+    "text": "$$\nf(-\\frac{\\pi}{2}) = \\frac{\\pi}{2}; f(\\frac{\\pi}{2}) = -\\frac{\\pi}{2},\n$$"
+  },
+  {
+    "bbox": [
+      158,
+      671,
+      1106,
+      771
+    ],
+    "category": "Formula",
+    "text": "$$\nf(-\\frac{\\pi}{6}) = \\sin(-\\frac{\\pi}{3}) - (-\\frac{\\pi}{6}) = -\\frac{\\sqrt{3}}{2} + \\frac{\\pi}{6}; f(\\frac{\\pi}{6}) = \\sin \\frac{\\pi}{3} - \\frac{\\pi}{6} = \\frac{\\sqrt{3}}{2} - \\frac{\\pi}{6}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      804,
+      1077,
+      893
+    ],
+    "category": "Text",
+    "text": "Do đó, giá trị nhỏ nhất của $f(x)$ trên đoạn $[-\\frac{\\pi}{2}; \\frac{\\pi}{2}]$ là $-\\frac{\\pi}{2}$. Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      981,
+      1332,
+      1032
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Một ô tô bắt đầu chuyển động thẳng nhanh dần đều với tốc độ $v(t) = 5t$ (m/s);"
+  },
+  {
+    "bbox": [
+      153,
+      1056,
+      1488,
+      1199
+    ],
+    "category": "Text",
+    "text": "trong đó $t$ là thời gian tính bằng giây kể từ khi ô tô bắt đầu chuyển động. Đi được 6 (s) người lái xe phát hiện chướng ngại vật và phanh cấp, ô tô tiếp tục chuyển động chậm dần đều với gia tốc $a = -5$ (m/s$^2$)."
+  },
+  {
+    "bbox": [
+      221,
+      1208,
+      1180,
+      1254
+    ],
+    "category": "Text",
+    "text": "a) Tốc độ của ô tô tại thời điểm 10 (s) tính từ lúc xuất phát là 10 (m/s)."
+  },
+  {
+    "bbox": [
+      221,
+      1254,
+      1166,
+      1300
+    ],
+    "category": "Text",
+    "text": "b) Quăng đường ô tô chuyển động được trong 6 giây đầu tiên là 80 m."
+  },
+  {
+    "bbox": [
+      212,
+      1302,
+      1457,
+      1416
+    ],
+    "category": "Text",
+    "text": "c) Quăng đường $S$ (đơn vị: mét) mà ô tô chuyển động được kể từ lúc bắt đầu đạp phanh đến khi止止 lại được tính theo công thức $S = \\int_{0}^{6} (30 - 5t)dt$."
+  },
+  {
+    "bbox": [
+      212,
+      1416,
+      1495,
+      1502
+    ],
+    "category": "Text",
+    "text": "d) Quăng đường ô tô chuyển động được kể từ lúc bắt đầu chuyển động cho đến khi止止 lại là 170 m."
+  },
+  {
+    "bbox": [
+      836,
+      1583,
+      950,
+      1623
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      139,
+      1647,
+      1439,
+      1763
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>Đúng</td><td>Sai</td><td>Đúng</td><td>Sai</td></tr></table>"
+  },
+  {
+    "bbox": [
+      296,
+      1835,
+      530,
+      1881
+    ],
+    "category": "Formula",
+    "text": "$$\nv(6) = 30 \\ (m/s).\n$$"
+  },
+  {
+    "bbox": [
+      292,
+      1912,
+      1375,
+      1958
+    ],
+    "category": "Text",
+    "text": "Tốc độ của ô tô tại thời điểm 10 (s) tính từ lúc xuất phát là $30 - 5 \\times 4 = 10$ (m/s)."
+  },
+  {
+    "bbox": [
+      292,
+      1991,
+      1425,
+      2088
+    ],
+    "category": "Text",
+    "text": "+) Quăng đường ô tô chuyển động được trong 6 giây đầu tiên là $S_1 = \\int_{0}^{6} 5t \\, dt = 90$ (m)."
+  },
+  {
+    "bbox": [
+      292,
+      2118,
+      1493,
+      2222
+    ],
+    "category": "Text",
+    "text": "Gọi $t_0$ là thời gian tính bằng giây kể từ lúc ô tô phanh cấp đến lúc止止 lại. Ta có:\n$$30 - 5 \\times t_0 = 0 \\Leftrightarrow t_0 = 6$$"
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "bbox": [
+      94,
+      42,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      170,
+      126,
+      1124,
+      565
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      635,
+      1198,
+      943
+    ],
+    "category": "Text",
+    "text": "**CÂU 47.** Hệ thống lọc nước bể bơi vô cùng quan trọng khi tiến hành xây dựng công trình bơi lội để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon, vào thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm 6 giờ sáng đến 6 giờ chiều được cho bởi"
+  },
+  {
+    "bbox": [
+      415,
+      989,
+      877,
+      1124
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\begin{cases} 100t & \\text{khi } 0 \\le t \\le 3 \\\\ 900 - 200t & \\text{khi } 3 \\le t \\le 6 \\\\ 100t - 900 & \\text{khi } 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      1175,
+      1198,
+      1252
+    ],
+    "category": "Text",
+    "text": "với mốc thời gian $t = 0$ tại thời điểm 6 giờ sáng. Hỏi ở thời điểm 6 giờ chiều thì trong bể chứa nhiều gallon nước?"
+  },
+  {
+    "bbox": [
+      980,
+      1217,
+      1032,
+      1252
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1209,
+      1198,
+      1261
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1288,
+      1198,
+      1596
+    ],
+    "category": "Text",
+    "text": "**CÂU 48.** Hệ thống lọc nước bể bơi vô cùng quan trọng khi tiến hành xây dựng công trình bơi lội để nguồn nước được làm sạch thường xuyên và giữ vệ sinh cho người bơi. Trong quá trình vận hành lọc nước thì lượng nước trong bể sẽ thay đổi theo thời gian. Lượng nước trong bể giảm nếu hệ thống đang xả nước bẩn ra khỏi bể và tăng nếu hệ thống đang cấp thêm nước sạch cho bể. Biết rằng 1 gallon gần bằng 3,785 lít, dung tích của bể là 1000 gallon, vào thời điểm 6 giờ sáng bể chứa 250 gallon nước. Hàm số $f(t)$ biểu thị cho tốc độ thay đổi lượng nước trong bể theo thời gian $t$ giờ, từ thời điểm 6 giờ sáng đến 6 giờ chiều được cho bởi"
+  },
+  {
+    "bbox": [
+      415,
+      1642,
+      877,
+      1777
+    ],
+    "category": "Formula",
+    "text": "$$\nf(t) = \\begin{cases} 100t & \\text{khi } 0 \\le t \\le 3 \\\\ 900 - 200t & \\text{khi } 3 \\le t \\le 6 \\\\ 100t - 900 & \\text{khi } 6 \\le t \\le 12 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      1829,
+      1198,
+      1906
+    ],
+    "category": "Text",
+    "text": "với mốc thời gian $t = 0$ tại thời điểm 6 giờ sáng. Hỏi ở thời điểm 6 giờ chiều thì trong bể chứa nhiều gallon nước?"
+  },
+  {
+    "bbox": [
+      980,
+      1872,
+      1032,
+      1906
+    ],
+    "category": "Text",
+    "text": "KQ:"
+  },
+  {
+    "bbox": [
+      1038,
+      1864,
+      1198,
+      1916
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1942,
+      1198,
+      2247
+    ],
+    "category": "Text",
+    "text": "**CÂU 49.** Một vật chuyển động thẳng. Khi vật bắt đầu qua điểm $O$, người ta bắt đầu quan sát, đo đạc chuyển động của vật thì thấy vận tốc tức thời của vật tại thời điểm $t(s)$ là $v(t)$ (m/s), hàm vận tốc $v(t)$ có đồ thị phụ thuộc thời gian là một phần của đường parabol định $I\\left(\\frac{4}{3}; -\\frac{7}{3}\\right)$ như hình bên (với $t \\ge 0$ và mốc tính thời gian là lúc bắt đầu quan sát chuyển động). Tính tổng quăng đường vật đi được từ lúc đầu đến lúc vật trở lại điểm $O$ lần cuối cùng (kết quả tính bằng mét và làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1322,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1235,
+      166,
+      1595,
+      2230
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1508,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 681"
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      1238,
+      148
+    ],
+    "category": "Text",
+    "text": "Nhìn hình ta thấy hàm số $f(x)$ liên tục và nhận giá trị không âm trên đoạn $[-1;1]$ nên"
+  },
+  {
+    "bbox": [
+      82,
+      172,
+      1212,
+      269
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{-1}^{1} |f(x)|dx = \\int_{-1}^{1} f(x)dx ; \\text{ hàm số } f(x) \\text{ liên tục và nhận giá trị âm trên đoạn } [1;2] \\text{ nên}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      292,
+      391,
+      389
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{1}^{2} |f(x)|dx = -\\int_{1}^{2} f(x)dx\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      412,
+      512,
+      509
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } S = \\int_{-1}^{1} f(x) dx - \\int_{1}^{2} f(x) dx\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      526,
+      1494,
+      635
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$ có độ dài mỗi cạnh bằng 1. Tính độ dài của vecto $\\overline{AC} + \\overline{C'D'}$"
+  },
+  {
+    "bbox": [
+      585,
+      658,
+      982,
+      1000
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      126,
+      1032,
+      197,
+      1066
+    ],
+    "category": "List-item",
+    "text": "A. 1."
+  },
+  {
+    "bbox": [
+      476,
+      1021,
+      593,
+      1066
+    ],
+    "category": "List-item",
+    "text": "B. $2\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      826,
+      1021,
+      926,
+      1066
+    ],
+    "category": "List-item",
+    "text": "C. $\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1021,
+      1279,
+      1066
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      723,
+      1095,
+      849,
+      1132
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1152,
+      197,
+      1189
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1208,
+      567,
+      1253
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\overline{AC} + \\overline{C'D'} = \\overline{AC} + \\overline{CD} = \\overline{AD}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1276,
+      458,
+      1337
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } |\\overline{AC} + \\overline{C'D'}| = |\\overline{AD}| = 1.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1362,
+      1391,
+      1409
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, mặt phẳng $(P): x+2y-3z+3=0$ có một vecto pháp tuyến là"
+  },
+  {
+    "bbox": [
+      126,
+      1441,
+      296,
+      1486
+    ],
+    "category": "List-item",
+    "text": "A. $(1;2;-3)$."
+  },
+  {
+    "bbox": [
+      476,
+      1441,
+      644,
+      1486
+    ],
+    "category": "List-item",
+    "text": "B. $(1;-2;3)$."
+  },
+  {
+    "bbox": [
+      826,
+      1441,
+      1019,
+      1486
+    ],
+    "category": "List-item",
+    "text": "C. $(-1;2;-3)$."
+  },
+  {
+    "bbox": [
+      1175,
+      1441,
+      1331,
+      1486
+    ],
+    "category": "List-item",
+    "text": "D. $(1;2;3)$."
+  },
+  {
+    "bbox": [
+      727,
+      1513,
+      843,
+      1550
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1571,
+      197,
+      1609
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1627,
+      827,
+      1676
+    ],
+    "category": "Text",
+    "text": "Ta có vecto pháp tuyến của mặt phẳng $(P)$ là $(1;2;-3)$."
+  },
+  {
+    "bbox": [
+      76,
+      1703,
+      1494,
+      1830
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Trong không gian $Oxyz$ phương trình tham số của đường thẳng đi qua điểm $A(-1;2;3)$ và có vecto chỉ phương $\\vec{u}(1;1;-5)$ là"
+  },
+  {
+    "bbox": [
+      126,
+      1892,
+      447,
+      1974
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A. } \\frac{x-1}{-1} = \\frac{y-1}{2} = \\frac{z+5}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      826,
+      1858,
+      1040,
+      2005
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B. } \\begin{cases} x = -1 - t \\\\ y = 1 + 2t \\\\ z = -5 + 3t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      126,
+      2033,
+      328,
+      2180
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C. } \\begin{cases} x = -1 + t \\\\ y = 2 + t \\\\ z = 3 - 5t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      826,
+      2068,
+      1151,
+      2148
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D. } \\frac{x+1}{1} = \\frac{y-2}{1} = \\frac{z-3}{-5}.\n$$"
+  },
+  {
+    "bbox": [
+      727,
+      2209,
+      843,
+      2246
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2291
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 10"
+  }
+]

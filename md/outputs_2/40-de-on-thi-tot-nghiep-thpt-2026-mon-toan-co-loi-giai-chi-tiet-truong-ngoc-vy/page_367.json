@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      517,
+      100,
+      1169,
+      753
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      773,
+      1194,
+      818
+    ],
+    "category": "Text",
+    "text": "a) Tốc độ gia tăng dân số của khu vực A với $t = 4$ là 8000 (người trên năm)."
+  },
+  {
+    "bbox": [
+      156,
+      839,
+      533,
+      885
+    ],
+    "category": "Text",
+    "text": "b) Ta có $P'_B(0) = 8$ và $a = 8$."
+  },
+  {
+    "bbox": [
+      156,
+      905,
+      1119,
+      950
+    ],
+    "category": "Text",
+    "text": "c) Dân số của khu vực A tăng thêm từ 0 đến 5 năm là 44000 (người)."
+  },
+  {
+    "bbox": [
+      156,
+      964,
+      1573,
+      1066
+    ],
+    "category": "Text",
+    "text": "d) Phần diện tích tô đâm trong hình vẽ biểu diễn sự chênh lệch dân số tăng thêm giữa hai khu vực trong giai đoạn từ 0 đến 5 năm là 10000 người."
+  },
+  {
+    "bbox": [
+      807,
+      1086,
+      924,
+      1125
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1140,
+      971,
+      1261
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      1323,
+      1298,
+      1404
+    ],
+    "category": "Text",
+    "text": "a) Ta có $P'_A(4) = -\\frac{1}{2}4^2 + 2.4 + 8 = 8$ (ngàn người trên năm) = 8000 (người trên năm)."
+  },
+  {
+    "bbox": [
+      156,
+      1429,
+      648,
+      1510
+    ],
+    "category": "Text",
+    "text": "b) Ta có $P'_B(0) = a - \\frac{1}{2} \\cdot 0 = 8 \\Rightarrow a = 8$"
+  },
+  {
+    "bbox": [
+      156,
+      1526,
+      897,
+      1571
+    ],
+    "category": "Text",
+    "text": "c) Dân số của khu vực A tăng thêm từ 0 đến 5 năm là"
+  },
+  {
+    "bbox": [
+      156,
+      1591,
+      1132,
+      1688
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{5} P'_{A}(t)dt = \\int_{0}^{5} \\left( -\\frac{1}{2}t^2 + 2t + 8 \\right)dt = 44,167 \\text{ (ngàn người)} = 44\\,167 \\text{ (người).}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1709,
+      686,
+      1753
+    ],
+    "category": "Text",
+    "text": "d) Diện tích tô đâm trong hình vẽ bằng:"
+  },
+  {
+    "bbox": [
+      156,
+      1772,
+      1311,
+      1867
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{5} \\left| -\\frac{1}{2}t^2 + 2t + 8 - 8 + \\frac{1}{2}t \\right| dt = \\int_{0}^{5} \\left| -\\frac{1}{2}t^2 + \\frac{5}{2}t \\right| dt = 10,417 \\text{ (ngàn người)} = 10\\,417 \\text{ (người).}\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1887,
+      1573,
+      2054
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thầy Nam muốn xây một卧i nhà có kích thước như hình 1.卧i nhà được gắn trong hệ trục tọa độ $Oxyz$ như hình 2 (đơn vị: mét), trong đó nền nhà, bốnхức tường là hình chữ nhật và hai mái nhà là hai hình chữ nhật bằng nhau."
+  },
+  {
+    "bbox": [
+      156,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

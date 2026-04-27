@@ -1,0 +1,282 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      106,
+      1576,
+      200
+    ],
+    "category": "Text",
+    "text": "m社区chiếcbằngchi phí sản xuất của mỗichiếcb vi mạch đó. Khi lợi nhuận đạt giá trị nhỏ nhất thì chu vi của vi mạch là bao nhiêu pm. (Kết quả làm tròn đến số thập phân thứ nhất)"
+  },
+  {
+    "bbox": [
+      833,
+      202,
+      953,
+      243
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      246,
+      404,
+      288
+    ],
+    "category": "Text",
+    "text": "Đáp án: 63,2"
+  },
+  {
+    "bbox": [
+      212,
+      291,
+      1455,
+      337
+    ],
+    "category": "Text",
+    "text": "Từ giả thiết ta có hàm chi phí sản xuất vi mạch là: $C(a,b) = 50 + 15.2(a + b) + 32(2ab)$"
+  },
+  {
+    "bbox": [
+      212,
+      342,
+      1574,
+      437
+    ],
+    "category": "Text",
+    "text": "Sau khi giảm đi 15 pm của mỗi kích thước của vi mạch thì chi phí sản xuất được biểu diễn lại theo hàm mới là: $C(a-15,b-15) = 50 + 15.2(a + b - 30) + 64(a-15)(b-15)$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      212,
+      444,
+      1473,
+      492
+    ],
+    "category": "Text",
+    "text": "Đơn giá bán ra mỗichiếcb vi mạch là: $R(a-15,b-15) = 428(a-15)(b-15)$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      212,
+      502,
+      1574,
+      636
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận = Doanh thu - Chi phí nên khi cả 2 kích thước thành phần của vi mạch giảm đi 15 pm thì lợi nhuận thu được mỗichiếcb bằng chi phí sản xuất của mỗichiếcb vi mạch đó sẽ tương ứng với đơn giá bán ra sẽ gấp 2 lần chi phí sản xuất."
+  },
+  {
+    "bbox": [
+      212,
+      638,
+      1129,
+      683
+    ],
+    "category": "Text",
+    "text": "Từ đó ta có thể suy ra được: $R(a-15,b-15) = 2C(a-15,b-15)$"
+  },
+  {
+    "bbox": [
+      212,
+      691,
+      1467,
+      788
+    ],
+    "category": "Text",
+    "text": "Khi đó ta có phương trình: $5 + 3(a + b - 30) = 15(a - 15)(b - 15) \\Rightarrow b = \\frac{4(57a - 865)}{3(5a - 76)}$ (1)."
+  },
+  {
+    "bbox": [
+      212,
+      792,
+      1095,
+      837
+    ],
+    "category": "Text",
+    "text": "Lợi nhuận ban đầu lúc này được biểu diễn theo hàm số sau:"
+  },
+  {
+    "bbox": [
+      212,
+      840,
+      1232,
+      935
+    ],
+    "category": "Formula",
+    "text": "$$\nT(a) = R(a) - C(a) = \\frac{82542a^2 - 1260190a + 115200}{3(5a - 76)}, a > 15 \\text{ (triệu đồng)}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      940,
+      1315,
+      1045
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } T'(a) = \\frac{27514}{5} - \\frac{770392.3}{5(15a - 228)^2} = 0 \\Leftrightarrow a = a_0 = \\frac{76}{5} + \\frac{2}{5}\\sqrt{\\frac{7}{3}} > 15 \\text{ (thỏa mãn).}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1053,
+      1365,
+      1150
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } T(a_0) \\text{ là giá trị lợi nhuận nhỏ nhất, thế vào (1) suy ra } b_0 = \\frac{4(57a_0 - 865)}{3(5a_0 - 76)}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1157,
+      585,
+      1204
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tức } 2.(a + b) \\approx 63,2 (pm).\n$$"
+  },
+  {
+    "bbox": [
+      1249,
+      1207,
+      1592,
+      1288
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>6</td><td>3</td><td>,</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      74,
+      1293,
+      1574,
+      1554
+    ],
+    "category": "List-item",
+    "text": "Câu 6: Có hai đồng xu có hình thức giống nhau, trong có một đồng xu cân đối đồng chất và một đồng xu không cân đối có xác suất khi tung đồng xu xuất hiện mặt ngửa là $\\frac{2}{3}$. Một người lấy ngẫu nhiên một đồng xu trong hai đồng xu đã cho, tung đồng xu đó 3 lần thì đều thấy xuất hiện mặt ngửa, xác suất người đó lấy được đồng xu cân đối là bao nhiêu? (Kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      833,
+      1556,
+      953,
+      1597
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1602,
+      385,
+      1644
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,3"
+  },
+  {
+    "bbox": [
+      212,
+      1644,
+      1574,
+      1741
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố: “Lấy được đồng xu cân đối đồng chất” và $B$ là biến cố: “Tung đồng xu ba lần đều xuất hiện mặt ngửa”. Khi đó ta cần tính $P(A|B)$."
+  },
+  {
+    "bbox": [
+      212,
+      1752,
+      1251,
+      1846
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(A) = \\frac{1}{2}, P(\\bar{A}) = \\frac{1}{2} \\text{ và } P(B|A) = \\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}, P(B|\\bar{A}) = \\left(\\frac{2}{3}\\right)^3 = \\frac{8}{27}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1854,
+      1095,
+      1898
+    ],
+    "category": "Text",
+    "text": "Theo công thức Bayes và công thức xác suất toàn phần ta có"
+  },
+  {
+    "bbox": [
+      459,
+      1901,
+      1332,
+      2062
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A|B) = \\frac{P(A)P(B|A)}{P(A)P(B|A) + P(\\bar{A})P(B|\\bar{A})} = \\frac{\\frac{1}{2} \\cdot \\frac{1}{8}}{\\frac{1}{2} \\cdot \\frac{1}{8} + \\frac{1}{2} \\cdot \\frac{8}{27}} \\approx 0,3.\n$$"
+  },
+  {
+    "bbox": [
+      1249,
+      2062,
+      1592,
+      2143
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>0</td><td>,</td><td>3</td><td></td></tr></table>"
+  },
+  {
+    "bbox": [
+      667,
+      2141,
+      1119,
+      2183
+    ],
+    "category": "Text",
+    "text": "------------------HẾT------------------"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

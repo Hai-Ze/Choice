@@ -1,0 +1,62 @@
+[
+  {
+    "bbox": [
+      154,
+      139,
+      881,
+      181
+    ],
+    "category": "Text",
+    "text": "Vậy xác suất để câu trả lời của Tuấn đúng là 70%."
+  },
+  {
+    "bbox": [
+      202,
+      193,
+      1189,
+      277
+    ],
+    "category": "Text",
+    "text": "d) Đúng. Áp dụng công thức Bayes $P(B|A) = \\frac{P(B)P(A|B)}{P(A)}$, ta có:"
+  },
+  {
+    "bbox": [
+      686,
+      284,
+      1013,
+      365
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B|A) = \\frac{0,6 \\cdot 1}{0,7} = \\frac{6}{7}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      371,
+      1546,
+      484
+    ],
+    "category": "Text",
+    "text": "Vậy với câu trắc nghiệm mà câu trả lời của Tuấn là đúng thì xác suất để câu đó là câu mà Tuấn biết đáp án đúng là $\\frac{6}{7}$."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2251,
+      1595,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "101"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      153,
+      139,
+      713,
+      182
+    ],
+    "category": "Text",
+    "text": "Từ (1) và (2), cộng vế theo vế ta được:"
+  },
+  {
+    "bbox": [
+      613,
+      190,
+      1082,
+      235
+    ],
+    "category": "Formula",
+    "text": "$$\n4h^2 = 72 \\Rightarrow h^2 = 18 \\Rightarrow h = 3\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      242,
+      891,
+      289
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thay vào (1) suy ra: } c^2 = 36 - 18 = 18 \\Rightarrow c = 3\\sqrt{2}.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      300,
+      1121,
+      388
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Diện tích đáy } ABC \\text{ là: } S_{ABC} = \\frac{1}{2}AB \\cdot BC = \\frac{1}{2} \\cdot 3\\sqrt{2} \\cdot 3 = \\frac{9\\sqrt{2}}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      382,
+      586,
+      424
+    ],
+    "category": "Text",
+    "text": "Thể tích khối chóp $S.ABC$ là:"
+  },
+  {
+    "bbox": [
+      476,
+      430,
+      1223,
+      517
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\frac{1}{3}S_{ABC} \\cdot SA = \\frac{1}{3} \\cdot \\frac{9\\sqrt{2}}{2} \\cdot 3\\sqrt{2} = \\frac{1}{3} \\cdot \\frac{9 \\cdot 2 \\cdot 3}{2} = 9.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      517,
+      698,
+      561
+    ],
+    "category": "Text",
+    "text": "Vậy thể tích khối chóp đã cho bằng 9."
+  },
+  {
+    "bbox": [
+      153,
+      579,
+      1547,
+      711
+    ],
+    "category": "Text",
+    "text": "Bài 2. Bạn Xuân Anh có một tờ giấy止正 hình chữ nhật $ABCD$ với $AB = 4$ dm, $AD = 2$ dm. Bạn chọn điểm $M$ thuộc cạnh $BC$ rồi dùng thước kẻ vạch và cắt tờ giấy theo đường $AM$, chia tờ giấy thành hai phần."
+  },
+  {
+    "bbox": [
+      195,
+      727,
+      1547,
+      816
+    ],
+    "category": "List-item",
+    "text": "* **Phần mảnh giấy chứa cạnh $CD$**: Bạn muốn cắt một **hình vuông** có định $D$, hai cạnh nằm trên đường $DA$ và $DC$, định còn lại của hình vuông thuộc đường cắt $AM$."
+  },
+  {
+    "bbox": [
+      195,
+      830,
+      1547,
+      918
+    ],
+    "category": "List-item",
+    "text": "* **Phần mảnh giấy chứa cạnh $AB$**: Bạn muốn cắt được một **hình tròn** sao cho hình tròn tiếp xúc với cả ba cạnh của tam giác $ABM$."
+  },
+  {
+    "bbox": [
+      153,
+      936,
+      1547,
+      1024
+    ],
+    "category": "Text",
+    "text": "Gọi $S$ (phần tô đâm trong hình vẽ) là tổng diện tích của hình vuông và hình tròn cắt được. Hỏi khi $M$ di động trên $BC$, giá trị nhỏ nhất của $S$ bằng bao nhiêu $dm^2$ (làm tròn đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      574,
+      1038,
+      1125,
+      1348
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1387,
+      1547,
+      1490
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Chọn hệ trục tọa độ $Oxy$ sao cho $A$ trùng với gốc tọa độ $O(0;0)$, tia $AB$ trùng với tia $Ox$ và tia $AD$ trùng với tia $Oy$."
+  },
+  {
+    "bbox": [
+      202,
+      1510,
+      1051,
+      1552
+    ],
+    "category": "Text",
+    "text": "Khi đó tọa độ các định là: $A(0; 0)$, $B(4; 0)$, $D(0; 2)$, $C(4; 2)$."
+  },
+  {
+    "bbox": [
+      202,
+      1572,
+      792,
+      1613
+    ],
+    "category": "Text",
+    "text": "Vì $M \\in BC$ nên $M(4; m)$ với $0 \\le m \\le 2$."
+  },
+  {
+    "bbox": [
+      202,
+      1619,
+      1285,
+      1696
+    ],
+    "category": "Text",
+    "text": "Đường thẳng $AM$ đi qua $O(0; 0)$ và $M(4; m)$ nên có phương trình: $y = \\frac{m}{4}x$."
+  },
+  {
+    "bbox": [
+      153,
+      1706,
+      1547,
+      1794
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là cạnh của hình vuông có định $D(0; 2)$. Đỉnh đối diện với $D$ là $H$ sẽ có tọa độ $H(x; 2-x)$ (do các cạnh hình vuông nằm trên $Ox, Oy$)."
+  },
+  {
+    "bbox": [
+      202,
+      1814,
+      450,
+      1851
+    ],
+    "category": "Text",
+    "text": "Vì $H \\in AM$ nên:"
+  },
+  {
+    "bbox": [
+      417,
+      1855,
+      1281,
+      1934
+    ],
+    "category": "Formula",
+    "text": "$$\n2 - x = \\frac{m}{4}x \\Leftrightarrow 8 - 4x = mx \\Leftrightarrow x(m + 4) = 8 \\Rightarrow x = \\frac{8}{m + 4}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1934,
+      823,
+      2021
+    ],
+    "category": "Text",
+    "text": "Diện tích hình vuông là: $S_1 = x^2 = \\left(\\frac{8}{m+4}\\right)^2$."
+  },
+  {
+    "bbox": [
+      153,
+      2035,
+      1547,
+      2123
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $ABM$ vuông tại $B$ có $AB = 4$, $BM = m$. Cạnh huyền $AM = \\sqrt{AB^2 + BM^2} = \\sqrt{16 + m^2}$."
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      821,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1550,
+      2250,
+      1587,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "75"
+  }
+]

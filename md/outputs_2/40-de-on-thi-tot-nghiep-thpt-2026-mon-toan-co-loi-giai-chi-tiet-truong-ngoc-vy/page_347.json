@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1451,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      94,
+      1491,
+      196
+    ],
+    "category": "Text",
+    "text": "c) Thời gian máy bay di chuyển trong phạm vi đài kiểm soát không lưu của sân bay theo dõi được là 35 phút."
+  },
+  {
+    "bbox": [
+      75,
+      213,
+      1494,
+      334
+    ],
+    "category": "Text",
+    "text": "d) Vùng kiểm không lưu của đài kiểm soát trên là vùng ở bên trong và trên bề mặt của mặt cầu $(S)$ có phương trình: $x^2 + y^2 + z^2 = 4900$."
+  },
+  {
+    "bbox": [
+      727,
+      359,
+      843,
+      398
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      411,
+      894,
+      535
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      472,
+      541,
+      1088,
+      1030
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      1050,
+      722,
+      1115
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Ta có } OA = \\sqrt{(-65)^2 + (-25)^2 + 30^2} \\approx 75,8\\text{km}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1142,
+      1494,
+      1252
+    ],
+    "category": "Text",
+    "text": "Khi máy bay ở vị trí $A(-65; -25; 30)$ thì cách đài kiểm soát không lưu của sân bay một khoảng $d \\approx 75,8\\text{km} > 70\\text{km}$"
+  },
+  {
+    "bbox": [
+      75,
+      1275,
+      1042,
+      1319
+    ],
+    "category": "Text",
+    "text": "Vậy đài kiểm soát không lưu của sân bay không theo dõi được máy bay."
+  },
+  {
+    "bbox": [
+      75,
+      1332,
+      1494,
+      1446
+    ],
+    "category": "Text",
+    "text": "b) Từ thông tin của hệ trục và máy bay di chuyển theo hướng Tây Nam với độ cao không đổi, quỹ đạo bay theo đường thẳng. Nên đường thẳng $d$ có một vecto chỉ phương $\\vec{u} = (1;1;0)$. Đường thẳng $d$ đi qua"
+  },
+  {
+    "bbox": [
+      75,
+      1473,
+      950,
+      1622
+    ],
+    "category": "Text",
+    "text": "điểm $A(-65; -25; 30)$ nên có phương trình tham số: $$ \\begin{cases} x = -65 + t \\\\ y = -25 + t \\\\ z = 30 \\end{cases} $$"
+  },
+  {
+    "bbox": [
+      75,
+      1648,
+      1081,
+      1697
+    ],
+    "category": "Text",
+    "text": "c) Thay $x, y, z$ theo $t$ vào phương trình mặt cầu $(S)$ ta được phương trình:"
+  },
+  {
+    "bbox": [
+      75,
+      1724,
+      1133,
+      1779
+    ],
+    "category": "Formula",
+    "text": "$$\n(-65 + t)^2 + (-25 + t)^2 + 30^2 = 4900 \\Leftrightarrow 2t^2 - 180t + 850 = 0 \\Leftrightarrow t = 5 \\text{ hoặc } t = 85\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1804,
+      1088,
+      1853
+    ],
+    "category": "Text",
+    "text": "Thay $t = 5$ vào phương trình của đường thẳng $d$ ta được $M(-60; -20; 30)$."
+  },
+  {
+    "bbox": [
+      75,
+      1881,
+      1064,
+      1929
+    ],
+    "category": "Text",
+    "text": "Thay $t = 85$ vào phương trình của đường thẳng $d$ ta được $N(20; 60; 30)$."
+  },
+  {
+    "bbox": [
+      75,
+      1955,
+      1254,
+      2005
+    ],
+    "category": "Text",
+    "text": "Suy ra đường thẳng $d$ cắt mặt cầu $(S)$ tại hai điểm $M(-60; -20; 30)$ và $N(20; 60; 30)$."
+  },
+  {
+    "bbox": [
+      75,
+      2024,
+      1494,
+      2129
+    ],
+    "category": "Text",
+    "text": "Hay độ dài đoạn $MN$ là khoảng cách giữa vị trí đầu tiên và vị trí cuối cùng mà máy bay di chuyển trong phạm vi theo dõi của đài kiểm soát không lưu."
+  },
+  {
+    "bbox": [
+      75,
+      2148,
+      643,
+      2213
+    ],
+    "category": "Formula",
+    "text": "$$\nMN = \\sqrt{(60 + 20)^2 + (20 + 60)^2} = 80\\sqrt{2}\\text{km}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      452,
+      107,
+      1133,
+      599
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      652,
+      414,
+      687
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      711,
+      843,
+      749
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      768,
+      271,
+      807
+    ],
+    "category": "Text",
+    "text": "Đáp án: 1600"
+  },
+  {
+    "bbox": [
+      76,
+      822,
+      1494,
+      925
+    ],
+    "category": "Text",
+    "text": "Ta chỉ cần tính diện tích phần chênh lệch giữa hai đường mái (mới và cũ) trong mặt cắt ngang, rồi nhân với chiều dài 60 m để ra thể tích tăng."
+  },
+  {
+    "bbox": [
+      76,
+      942,
+      541,
+      982
+    ],
+    "category": "Text",
+    "text": "Xác định phương trình hai parabol"
+  },
+  {
+    "bbox": [
+      76,
+      1003,
+      949,
+      1048
+    ],
+    "category": "Text",
+    "text": "Giả sử (trong hệ trục như hình) parabol có dạng $y = ax^2 + bx + c$."
+  },
+  {
+    "bbox": [
+      76,
+      1072,
+      347,
+      1107
+    ],
+    "category": "Text",
+    "text": "- Với mái cao 10 m:"
+  },
+  {
+    "bbox": [
+      76,
+      1126,
+      651,
+      1170
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $f(0) = 0, f(10) = 10, f(20) = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1199,
+      595,
+      1278
+    ],
+    "category": "Text",
+    "text": "Giải hệ thu được $a = -\\frac{1}{10}, b = 2, c = 0$."
+  },
+  {
+    "bbox": [
+      82,
+      1305,
+      342,
+      1384
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = -\\frac{1}{10}x^2 + 2x\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1407,
+      330,
+      1442
+    ],
+    "category": "Text",
+    "text": "- Với mái cao 8 m:"
+  },
+  {
+    "bbox": [
+      76,
+      1461,
+      630,
+      1505
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $g(0) = 0, g(10) = 8, g(20) = 0$."
+  },
+  {
+    "bbox": [
+      76,
+      1532,
+      476,
+      1612
+    ],
+    "category": "Text",
+    "text": "Giải ra $a = -\\frac{2}{25}, b = \\frac{8}{5}, c = 0$."
+  },
+  {
+    "bbox": [
+      82,
+      1637,
+      355,
+      1717
+    ],
+    "category": "Formula",
+    "text": "$$\ng(x) = -\\frac{2}{25}x^2 + \\frac{8}{5}x.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1736,
+      613,
+      1780
+    ],
+    "category": "Text",
+    "text": "Diện tích phần chênh lệch trong mặt cắt"
+  },
+  {
+    "bbox": [
+      82,
+      1799,
+      1114,
+      1905
+    ],
+    "category": "Formula",
+    "text": "$$\nA = \\int_{0}^{20} (f(x) - g(x)) dx = \\int_{0}^{20} \\left( -\\frac{1}{50}x^2 + \\frac{2}{5}x \\right) dx = \\left[ -\\frac{1}{150}x^3 + \\frac{1}{5}x^2 \\right]_{0}^{20} = \\frac{80}{3} m^2\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1932,
+      737,
+      2013
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích tăng thêm } V = A \\cdot 60 = \\frac{80}{3} \\cdot 60 = 1600 m^3.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2038,
+      1208,
+      2083
+    ],
+    "category": "Text",
+    "text": "Kết luận: Chọn mái cao 10 m thay vì 8 m làm thể tích không khí tăng thêm $1600 m^3$."
+  },
+  {
+    "bbox": [
+      76,
+      2096,
+      1494,
+      2201
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Ông Nam có một nông trại ao nuôi cá, mỗi ngày thu hoạch được 2 tấn cá. Nếu bán cho thương lái với giá 30 nghìn đồng/kg thì hết cá, nếu giá bán cứ tăng thêm 2 nghìn đồng/kg thì số cá thua sẽ tăng"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

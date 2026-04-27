@@ -1,0 +1,72 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      100,
+      927,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(B) \\cdot P(A|B) = P(A) \\cdot P(B|A) \\Rightarrow P(B) = \\frac{2}{5} \\cdot \\frac{7}{10} \\cdot \\frac{23}{14} = \\frac{23}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      198,
+      684,
+      243
+    ],
+    "category": "Text",
+    "text": "Mặt khác, theo công thức xác suất toàn phần:"
+  },
+  {
+    "bbox": [
+      81,
+      262,
+      1249,
+      344
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A) \\cdot P(B|A) + P(\\bar{A}) \\cdot P(B|\\bar{A}) \\Leftrightarrow \\frac{23}{50} = \\frac{2}{5} \\cdot \\frac{7}{10} + \\frac{3}{5} \\cdot P(B|\\bar{A}) \\Leftrightarrow P(B|\\bar{A}) = \\frac{3}{10} = 0,3\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 20"
+  }
+]

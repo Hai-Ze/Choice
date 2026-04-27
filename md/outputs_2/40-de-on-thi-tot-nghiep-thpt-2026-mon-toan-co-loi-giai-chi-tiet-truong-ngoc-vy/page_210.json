@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      953,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      95,
+      967,
+      150
+    ],
+    "category": "Text",
+    "text": "Xét parabol $(P): y = a\\sqrt{x}$ đi qua điểm $A(4;4)$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      585,
+      168,
+      1139,
+      596
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      608,
+      1019,
+      666
+    ],
+    "category": "Text",
+    "text": "Ta có: $A(4;4) \\in (P) \\Rightarrow 4 = a\\sqrt{4} \\Rightarrow a = 2$. Suy ra $(P): y = 2\\sqrt{x}$."
+  },
+  {
+    "bbox": [
+      155,
+      689,
+      1574,
+      806
+    ],
+    "category": "Text",
+    "text": "Khi đó thể tích parabol tròn xoay tạo ra bằng cách xoay hình phẳng giới hạn bởi parabol $(P)$, trục $Ox$ và hai đường thẳng $x = 0$, $x = h$ quanh trục $Ox$ là:"
+  },
+  {
+    "bbox": [
+      158,
+      824,
+      725,
+      926
+    ],
+    "category": "Formula",
+    "text": "$$\nV = \\pi \\int_{0}^{h} (2\\sqrt{x})^2 dx = \\frac{4\\pi x^2}{2} \\Big|_{0}^{h} = 2\\pi h^2 \\text{ (đvtt).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      949,
+      603,
+      1043
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra: } 2\\pi h^2 = 300 \\Rightarrow h = \\sqrt{\\frac{150}{\\pi}}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1066,
+      946,
+      1173
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy chiều cao khối trụ bên ngoài là: } 2 \\cdot \\left( \\frac{3}{2} \\cdot \\sqrt{\\frac{150}{\\pi}} \\right) \\approx 21 \\text{cm.}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1191,
+      1576,
+      1579
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Theo thống kê tại một nhà máy $Z$, nếu áp dụng tuần làm việc 40 giờ thì mỗi tuần có 100 tổ công nhân đi làm và mỗi tổ công nhân làm được 120 sản phẩm trong một giờ. Nếu tăng thời gian làm việc thêm 2 giờ mỗi tuần thì sẽ có 1 tổ công nhân nghỉ việc và năng suất lao động giảm 5 sản phẩm/1 tổ/1 giờ. Ngoài ra, số phế phẩm mỗi tuần ước tính là $P(x) = \\frac{95x^2 + 120x}{4}$, với $x$ là thời gian làm việc trong một tuần. Nhà máy cần áp dụng thời gian làm việc mỗi tuần bao nhiêu giờ để số lượng sản phẩm thu được mỗi tuần là lớn nhất?"
+  },
+  {
+    "bbox": [
+      155,
+      1598,
+      494,
+      1635
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1657,
+      924,
+      1696
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1713,
+      320,
+      1752
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 36"
+  },
+  {
+    "bbox": [
+      155,
+      1767,
+      788,
+      1813
+    ],
+    "category": "Text",
+    "text": "Gọi số giờ làm tăng thêm mỗi tuần là $t$, $t \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      155,
+      1838,
+      1163,
+      1916
+    ],
+    "category": "Text",
+    "text": "Số tổ công nhân bỏ việc là $\\frac{t}{2}$ nên số tổ công nhân làm việc là $100 - \\frac{t}{2}$ (tổ)."
+  },
+  {
+    "bbox": [
+      155,
+      1939,
+      965,
+      2022
+    ],
+    "category": "Text",
+    "text": "Năng suất của tổ công nhân còn $120 - \\frac{5t}{2}$ sản phẩm một giờ."
+  },
+  {
+    "bbox": [
+      155,
+      2037,
+      825,
+      2084
+    ],
+    "category": "Text",
+    "text": "Số thời gian làm việc một tuần là $40 + t = x$ (giờ)."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      649,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

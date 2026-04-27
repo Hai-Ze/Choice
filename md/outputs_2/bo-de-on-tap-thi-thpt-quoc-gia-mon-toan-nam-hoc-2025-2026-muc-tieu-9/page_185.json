@@ -1,0 +1,190 @@
+[
+  {
+    "bbox": [
+      153,
+      136,
+      632,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\sqrt{80 + k^2 - 12k + 36} = 26 - k\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      183,
+      1511,
+      227
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow k^2 - 12k + 116 = (26 - k)^2 \\text{ (vì } 0 \\le k \\le 26 \\text{ nên hai vế đều dương nên ta bình phương hai vế)}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      227,
+      665,
+      268
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow k^2 - 12k + 116 = 676 - 52k + k^2\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      274,
+      497,
+      311
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 40k = 560 \\Leftrightarrow k = 14.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      319,
+      952,
+      360
+    ],
+    "category": "Text",
+    "text": "Vậy cây thông gãy ở vị trí $K(5; 7; 14)$ và độ cao 14 mét."
+  },
+  {
+    "bbox": [
+      202,
+      379,
+      352,
+      420
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      153,
+      420,
+      1546,
+      509
+    ],
+    "category": "Text",
+    "text": "Khi bị gãy thì cành cây bị gãy là đoạn thẳng $AK$. Vì vị trí buộc dây $Q$ cao hơn vị trí bị gãy nên sau khi bị gãy thì $Q' \\in AK$."
+  },
+  {
+    "bbox": [
+      497,
+      556,
+      1186,
+      955
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1010,
+      1058,
+      1051
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } Q'A = QA = QS = 26 - 17 = 9; KQ' = 17 - 14 = 3.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1051,
+      1378,
+      1139
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } Q'A = 3KQ' \\Rightarrow \\overrightarrow{AQ'} = 3\\overrightarrow{Q'K} \\text{ (vì 3 điểm } Q', A, K \\text{ thẳng hàng và } Q' \\text{ nằm giữa).} \\\\ \\text{Với } \\overrightarrow{AQ'}(a - 1; b + 1; c - 6); \\overrightarrow{Q'K}(5 - a; 7 - b; 14 - c).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1137,
+      1005,
+      1302
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{AQ'} = 3\\overrightarrow{Q'K} \\Leftrightarrow \\begin{cases} a - 1 = 3(5 - a) \\\\ b + 1 = 3(7 - b) \\\\ c - 6 = 3(14 - c) \\end{cases} \\Leftrightarrow \\begin{cases} a - 1 = 15 - 3a \\\\ b + 1 = 21 - 3b \\\\ c - 6 = 42 - 3c \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1300,
+      1073,
+      1465
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} 4a = 16 \\\\ 4b = 20 \\\\ 4c = 48 \\end{cases} \\Leftrightarrow \\begin{cases} a = 4 \\\\ b = 5 \\\\ c = 12 \\end{cases} \\Rightarrow 2a + b + c = 2 \\cdot 4 + 5 + 12 = 25.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      1479,
+      1150,
+      1523
+    ],
+    "category": "Text",
+    "text": "Phần III. Câu trả lời ngắn Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      153,
+      1543,
+      1546,
+      1713
+    ],
+    "category": "Text",
+    "text": "Bài 1. Cho hình vẽ bên gồm 4 tam giác. Người ta chọn 3 số phân biệt từ tập hợp $S = \\{1; 2; \\dots; 26\\}$ để xếp vào 3 tam giác ở 3 góc. Sau đó, tính tổng bình phương của 3 số đó rồi ghi kết quả vào tam giác còn lại ở giữa. Hỏi có bao nhiêu cách xếp sao cho số ghi ở tam giác giữa là một số chia hết cho 5?"
+  },
+  {
+    "bbox": [
+      657,
+      1713,
+      1041,
+      2052
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      2083,
+      1071,
+      2147
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét số dư của $n^2$ khi chia cho 5 với $n \\in S$:"
+  },
+  {
+    "bbox": [
+      195,
+      2160,
+      809,
+      2203
+    ],
+    "category": "Formula",
+    "text": "$$\n\\diamond \\text{ Nếu } n \\equiv 0 \\pmod{5} \\text{ thì } n^2 \\equiv 0 \\pmod{5}.\n$$"
+  },
+  {
+    "bbox": [
+      158,
+      2253,
+      830,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu)dầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1554,
+      2250,
+      1603,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "185"
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      91
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      153,
+      1455,
+      272
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      304,
+      1455,
+      404
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Thế tích nước (đơn vị: m³) của một bể bơi sau $t$ phút bơm được cho bởi công thức"
+  },
+  {
+    "bbox": [
+      510,
+      396,
+      1134,
+      477
+    ],
+    "category": "Formula",
+    "text": "$$\nV(t) = \\frac{1}{100} (-0,5t^3 + 90t^2), \\quad 0 \\le t \\le 120.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      491,
+      741,
+      538
+    ],
+    "category": "Text",
+    "text": "Gọi $v(t) = V'(t)$ là tốc độ bơm nước."
+  },
+  {
+    "bbox": [
+      222,
+      546,
+      829,
+      592
+    ],
+    "category": "List-item",
+    "text": "a) Thế tích nước sau 10 phút là 80 m³."
+  },
+  {
+    "bbox": [
+      222,
+      600,
+      1162,
+      646
+    ],
+    "category": "List-item",
+    "text": "b) Tốc độ bơm nước tại thời điểm $t = 20$ phút là 30 m³/phút."
+  },
+  {
+    "bbox": [
+      222,
+      654,
+      1242,
+      700
+    ],
+    "category": "List-item",
+    "text": "c) Trong 30 phút đầu, thể tích nước lớn nhất trong bể là 675 m³."
+  },
+  {
+    "bbox": [
+      222,
+      708,
+      915,
+      754
+    ],
+    "category": "List-item",
+    "text": "d) Tốc độ bơm nước cao nhất là 60 m³/phút."
+  },
+  {
+    "bbox": [
+      192,
+      782,
+      1455,
+      990
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Trong một xưởng máy, số linh kiện do cơ sở I sản xuất chiếm 61%, số linh kiện do cơ sở II sản xuất chiếm 39%. Tỉ lệ linh kiện đạt tiêu chuẩn của cơ sở I, cơ sở II lần lượt là 93%, 82%. Kiểm tra ngẫu nhiên một linh kiện ở xưởng máy. Xét các biến cố"
+  },
+  {
+    "bbox": [
+      241,
+      1026,
+      1074,
+      1072
+    ],
+    "category": "List-item",
+    "text": "- $A_1$: “Linh kiện được kiểm tra do cơ sở I sản xuất”;"
+  },
+  {
+    "bbox": [
+      241,
+      1109,
+      1084,
+      1155
+    ],
+    "category": "List-item",
+    "text": "- $A_2$: “Linh kiện được kiểm tra do cơ sở II sản xuất”;"
+  },
+  {
+    "bbox": [
+      241,
+      1192,
+      993,
+      1238
+    ],
+    "category": "List-item",
+    "text": "- $B$: “Linh kiện được kiểm tra đạt tiêu chuẩn”."
+  },
+  {
+    "bbox": [
+      222,
+      1273,
+      623,
+      1318
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất $P(A_1) = 0,61$."
+  },
+  {
+    "bbox": [
+      222,
+      1326,
+      866,
+      1372
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất có điều kiện $P(B | A_2) = 0,82$."
+  },
+  {
+    "bbox": [
+      222,
+      1380,
+      638,
+      1426
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất $P(B) = 0,8871$."
+  },
+  {
+    "bbox": [
+      222,
+      1434,
+      866,
+      1480
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất có điều kiện $P(A_1 | B) = 0,55$."
+  },
+  {
+    "bbox": [
+      192,
+      1508,
+      1455,
+      1772
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Một người điều剂 ô tô đang ở đường dẫn muốn nhập làn vào đường cao tốc. Khi ô tô cách điểm nhập làn 400 (m) tốc độ của ô tô là 45 (km/h). Bốn giây sau đó, ô tô bắt đầu tăng tốc với tốc độ $v(t) = at + b$ ($a, b \\in \\mathbb{R}$), trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng ô tô nhập làn cao tốc sau 14 giây và duy trì sự tăng tốc trong 21 giây kể từ khi bắt đầu tăng tốc."
+  },
+  {
+    "bbox": [
+      222,
+      1780,
+      1448,
+      1878
+    ],
+    "category": "List-item",
+    "text": "a) Quăng đường ô tô đi được từ khi bắt đầu tăng tốc đến khi nhập làn là 350 (m)."
+  },
+  {
+    "bbox": [
+      222,
+      1894,
+      593,
+      1938
+    ],
+    "category": "List-item",
+    "text": "b) Giá trị của $b$ là 12,5."
+  },
+  {
+    "bbox": [
+      222,
+      1950,
+      1448,
+      2075
+    ],
+    "category": "List-item",
+    "text": "c) Quăng đường $s(t)$ (đơn vị: mét) mà ô tô đi được trong thời gian $t$ giây ($0 \\le t \\le 21$) kể từ khi tăng tốc được tính theo công thức $s(t) = \\int_{0}^{21} v(t)dt$."
+  },
+  {
+    "bbox": [
+      222,
+      2071,
+      1448,
+      2170
+    ],
+    "category": "List-item",
+    "text": "d) Sau 21 giây kể từ khi tăng tốc, tốc độ của ô tô không vượt quá tốc độ tối đa cho phép là 110 (km/h)."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1452,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

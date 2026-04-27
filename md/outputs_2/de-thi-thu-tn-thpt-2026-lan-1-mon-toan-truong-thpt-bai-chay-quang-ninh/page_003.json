@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      241,
+      123,
+      1461,
+      237
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      218,
+      237,
+      1045,
+      279
+    ],
+    "category": "Text",
+    "text": "Tứ phân vị thứ nhất $Q_1$ của mẫu số liệu thuộc nhóm nào sau đây?"
+  },
+  {
+    "bbox": [
+      248,
+      287,
+      423,
+      333
+    ],
+    "category": "List-item",
+    "text": "A. $[3,0;3,3)$."
+  },
+  {
+    "bbox": [
+      576,
+      287,
+      755,
+      333
+    ],
+    "category": "List-item",
+    "text": "B. $[2,7;3,0)$."
+  },
+  {
+    "bbox": [
+      905,
+      287,
+      1078,
+      333
+    ],
+    "category": "List-item",
+    "text": "C. $[3,6;3,9)$."
+  },
+  {
+    "bbox": [
+      1232,
+      287,
+      1407,
+      333
+    ],
+    "category": "List-item",
+    "text": "D. $[3,3;3,6)$."
+  },
+  {
+    "bbox": [
+      218,
+      358,
+      1488,
+      437
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      218,
+      447,
+      1488,
+      731
+    ],
+    "category": "Text",
+    "text": "**Câu 1:** Nhà máy $A$ chuyên sản xuất một loại sản phẩm cho nhà máy $B$. Hai nhà máy thỏa thuận rằng, hàng tháng nhà máy $A$ cung cấp cho nhà máy $B$ số lượng sản phẩm theo đơn đặt hàng của nhà máy $B$ (tối đa 100 tấn sản phẩm). Biết rằng, nếu số lượng đặt hàng là $x$ (tấn) sản phẩm thì giá bán cho mỗi tấn sản phẩm là $P(x) = 45 - 0,001x^2$ (triệu đồng) và chi phí để nhà máy $A$ sản xuất được $x$ (tấn) sản phẩm trong một tháng là $C(x) = 100 + 30x$ (triệu đồng, gồm 100 triệu đồng chi phí cố định và 30 triệu đồng cho mỗi tấn sản phẩm)."
+  },
+  {
+    "bbox": [
+      248,
+      731,
+      1401,
+      773
+    ],
+    "category": "Text",
+    "text": "a) Số tiền nhà máy $A$ thu được khi bán 10 tấn sản phẩm cho nhà máy $B$ là 500 triệu đồng."
+  },
+  {
+    "bbox": [
+      248,
+      773,
+      1488,
+      815
+    ],
+    "category": "Text",
+    "text": "b) Nhà máy $A$ bán cho nhà máy $B$ là 70 tấn sản phẩm mỗi tháng thì thu được lợi nhuận lớn nhất."
+  },
+  {
+    "bbox": [
+      248,
+      815,
+      1334,
+      857
+    ],
+    "category": "Text",
+    "text": "c) Chi phí để nhà máy $A$ sản xuất 10 tấn sản phẩm trong một tháng là 400 triệu đồng."
+  },
+  {
+    "bbox": [
+      221,
+      861,
+      1488,
+      964
+    ],
+    "category": "Text",
+    "text": "d) Lợi nhuận mà nhà máy $A$ thu được khi bán $x$ (tấn) sản phẩm ($0 \\le x \\le 100$) cho nhà máy $B$ là $H(x) = -0,001x^3 + 15x - 100$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      218,
+      993,
+      1290,
+      1039
+    ],
+    "category": "Text",
+    "text": "**Câu 2:** Trong không gian $Oxyz$, cho ba điểm $A(2;-1;1)$, $B(-1;3;-1)$, $C(5;-3;4)$."
+  },
+  {
+    "bbox": [
+      248,
+      1051,
+      959,
+      1098
+    ],
+    "category": "Text",
+    "text": "a) Tích vô hướng của hai véc tơ $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$ bằng $-23$."
+  },
+  {
+    "bbox": [
+      248,
+      1114,
+      582,
+      1162
+    ],
+    "category": "Text",
+    "text": "b) Góc $\\widehat{BAC}$ là góc nhọn."
+  },
+  {
+    "bbox": [
+      248,
+      1164,
+      958,
+      1244
+    ],
+    "category": "Text",
+    "text": "c) Côsin của góc giữa hai véc tơ $\\overrightarrow{AB}$, $\\overrightarrow{AC}$ bằng $-\\frac{23}{\\sqrt{638}}$."
+  },
+  {
+    "bbox": [
+      218,
+      1262,
+      1488,
+      1392
+    ],
+    "category": "Text",
+    "text": "d) Lấy điểm $M$ trên mặt phẳng $Oxy$ sao cho biểu thức $MA^2 + MB^2 + MC^2$ đạt giá trị nhỏ nhất. Khi đó, toạ độ của $M$ là $\\left(2; -\\frac{1}{3}; 0\\right)$."
+  },
+  {
+    "bbox": [
+      218,
+      1417,
+      1455,
+      1499
+    ],
+    "category": "Text",
+    "text": "**Câu 3:** Cho hàm số $y = \\frac{x^2 + bx + c}{x + n}$ có đồ thị và hai đường tiệm cận $d_1, d_2$ như hình vẽ dưới đây."
+  },
+  {
+    "bbox": [
+      644,
+      1519,
+      1058,
+      1931
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      248,
+      1941,
+      986,
+      1983
+    ],
+    "category": "Text",
+    "text": "a) Đồ thị hàm số có tiệm cận đứng là đường thẳng $x = -1$."
+  },
+  {
+    "bbox": [
+      248,
+      1985,
+      792,
+      2031
+    ],
+    "category": "Text",
+    "text": "b) Hàm số đồng biến trên khoảng $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1199,
+      2076,
+      1486,
+      2117
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/5 - Mã đề 101"
+  }
+]

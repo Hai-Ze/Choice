@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      154,
+      141,
+      614,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\nL = 85, h = 5, n_5 = 31, cf_4 = 71.\n$$"
+  },
+  {
+    "bbox": [
+      457,
+      185,
+      1242,
+      266
+    ],
+    "category": "Formula",
+    "text": "$$\nQ_3 = 85 + \\frac{76,5 - 71}{31} \\cdot 5 = 85 + \\frac{27,5}{31} \\approx 85,887 \\approx 85,9.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      266,
+      537,
+      308
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định b là đúng."
+  },
+  {
+    "bbox": [
+      154,
+      328,
+      1546,
+      412
+    ],
+    "category": "Text",
+    "text": "c) **Sai.** Giá trị đại diện các nhóm lần lượt là: $x_1 = 67,5; x_2 = 72,5; x_3 = 77,5; x_4 = 82,5; x_5 = 87,5$."
+  },
+  {
+    "bbox": [
+      202,
+      433,
+      644,
+      474
+    ],
+    "category": "Text",
+    "text": "Số trung bình của mẫu số liệu:"
+  },
+  {
+    "bbox": [
+      310,
+      478,
+      1386,
+      559
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bar{x} = \\frac{5 \\cdot 67,5 + 13 \\cdot 72,5 + 18 \\cdot 77,5 + 35 \\cdot 82,5 + 31 \\cdot 87,5}{102} = \\frac{8275}{102} \\approx 81,127.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      561,
+      548,
+      601
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu"
+  },
+  {
+    "bbox": [
+      375,
+      608,
+      1323,
+      695
+    ],
+    "category": "Formula",
+    "text": "$$\ns^2 = \\frac{1}{n} \\left( \\sum n_i x_i^2 \\right) - \\bar{x}^2 = \\frac{674787,5}{102} - \\left( \\frac{8275}{102} \\right)^2 \\approx 33,9004 \\approx 33,9.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      701,
+      500,
+      743
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định c là sai."
+  },
+  {
+    "bbox": [
+      154,
+      763,
+      1544,
+      849
+    ],
+    "category": "Text",
+    "text": "d) **Đúng.** Số học sinh có thời gian làm bài từ 65 phút đến dưới 75 phút thuộc hai nhóm [65; 70) và [70; 75) là: $5 + 13 = 18$ học sinh. Tỉ lệ phần trăm so với tổng số học sinh là:"
+  },
+  {
+    "bbox": [
+      581,
+      856,
+      1118,
+      935
+    ],
+    "category": "Formula",
+    "text": "$$\nP = \\frac{18}{102} \\cdot 100\\% \\approx 17,647\\% \\approx 17,6\\%.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      935,
+      537,
+      977
+    ],
+    "category": "Text",
+    "text": "Vậy khẳng định d là đúng."
+  },
+  {
+    "bbox": [
+      154,
+      998,
+      1546,
+      1305
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong không gian với hệ tọa độ $Oxyz$ (đơn vị trên các trục là mét), một thiết bị bay không người lái xuất phát từ điểm $A(1; 2; 0)$. thiết bị chuyển động thẳng nhanh dần theo hướng của vecto đơn vị $\\vec{u} = (a; b; c)$ với $|\\vec{u}| = 1$. Tốc độ của thiết bị phụ thuộc vào thời gian $t$ (giây) theo công thức $v(t) = mt + 10$ (m/s), trong đó $m$ là hằng số dương. Biết rằng sau 5 giây kể từ lúc xuất phát, thiết bị đi được quăng đường 125 m. Vecto chỉ phương chuyển động $\\vec{u}$ tạo với tia $Ox$ một góc 45°, tạo với tia $Oy$ một góc 60° và tạo với tia $Oz$ một góc nhọn. Kiểm tra tính đúng/sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      190,
+      1315,
+      327,
+      1394
+    ],
+    "category": "Formula",
+    "text": "a) $c = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      190,
+      1396,
+      1071,
+      1479
+    ],
+    "category": "Formula",
+    "text": "b) Phương trình quỹ đạo là đường thẳng $\\frac{x-1}{\\sqrt{2}} = \\frac{y-2}{1} = \\frac{z}{1}$."
+  },
+  {
+    "bbox": [
+      190,
+      1487,
+      335,
+      1525
+    ],
+    "category": "Formula",
+    "text": "c) $m = 4$."
+  },
+  {
+    "bbox": [
+      190,
+      1539,
+      1146,
+      1581
+    ],
+    "category": "Formula",
+    "text": "d) Sau 10 giây kể từ lúc xuất phát thì thiết bị đạt độ cao 200 mét."
+  },
+  {
+    "bbox": [
+      154,
+      1597,
+      198,
+      1637
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      204,
+      1597,
+      621,
+      1658
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a): Đúng."
+  },
+  {
+    "bbox": [
+      154,
+      1658,
+      1191,
+      1699
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha, \\beta, \\gamma$ lần lượt là góc tạo bởi vecto đơn vị $\\vec{u}$ với các tia $Ox, Oy, Oz$."
+  },
+  {
+    "bbox": [
+      154,
+      1693,
+      1546,
+      1850
+    ],
+    "category": "Text",
+    "text": "Ta có các hệ số $a, b, c$ chính là các cosin chỉ phương: $a = \\cos \\alpha = \\cos 45^\\circ = \\frac{\\sqrt{2}}{2}$ và $b = \\cos \\beta = \\cos 60^\\circ = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      154,
+      1842,
+      1546,
+      1943
+    ],
+    "category": "Text",
+    "text": "Vì $\\vec{u}$ là vecto đơn vị nên: $a^2 + b^2 + c^2 = 1 \\Rightarrow \\left(\\frac{\\sqrt{2}}{2}\\right)^2 + \\left(\\frac{1}{2}\\right)^2 + c^2 = 1 \\Rightarrow \\frac{1}{2} + \\frac{1}{4} + c^2 = 1 \\Rightarrow c^2 = \\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      154,
+      1941,
+      1050,
+      2019
+    ],
+    "category": "Text",
+    "text": "Do $\\vec{u}$ tạo với tia $Oz$ một góc nhọn nên $c = \\cos \\gamma > 0 \\Rightarrow c = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      202,
+      2028,
+      318,
+      2068
+    ],
+    "category": "Text",
+    "text": "c): Sai."
+  },
+  {
+    "bbox": [
+      154,
+      2062,
+      1610,
+      2226
+    ],
+    "category": "Text",
+    "text": "Quăng đường thiết bị đi được sau thời gian $t$ là: $S(t) = \\int_{0}^{t} v(x)dx = \\int_{0}^{t} (mx+10)dx = \\left[\\frac{1}{2}mx^2 + 10x\\right]_{0}^{t} = \\frac{1}{2}mt^2 + 10t$."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "113"
+  }
+]

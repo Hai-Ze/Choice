@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      156,
+      97,
+      592,
+      137
+    ],
+    "category": "Text",
+    "text": "Khoảng tức phân vị là $\\Delta Q = 3,27$"
+  },
+  {
+    "bbox": [
+      156,
+      161,
+      1568,
+      272
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Thế tích hình khối do hình phẳng giới hạn bởi các đường $y = x^2 - 4$, $y = 2x - 4$, $x = 0$, $x = 2$ quay quanh trục $Ox$ bằng:"
+  },
+  {
+    "bbox": [
+      781,
+      288,
+      976,
+      761
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      780,
+      344,
+      861
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{416\\pi}{15}$."
+  },
+  {
+    "bbox": [
+      555,
+      780,
+      692,
+      861
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{752\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      906,
+      780,
+      1027,
+      861
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{16\\pi}{15}$."
+  },
+  {
+    "bbox": [
+      1255,
+      780,
+      1374,
+      861
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{32\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      807,
+      884,
+      924,
+      923
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      942,
+      279,
+      981
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      156,
+      998,
+      982,
+      1096
+    ],
+    "category": "Text",
+    "text": "Phương trình hoành độ giao điểm là: $x^2 - 4 = 2x - 4 \\Leftrightarrow \\begin{cases} x = 0 \\\\ x = 2 \\end{cases}$"
+  },
+  {
+    "bbox": [
+      156,
+      1119,
+      1024,
+      1216
+    ],
+    "category": "Text",
+    "text": "Thể tích của hình khối là: $V = \\pi \\int_{0}^{2} \\left| (x^2 - 4)^2 - (2x - 4)^2 \\right| dx = \\frac{32\\pi}{5}$."
+  },
+  {
+    "bbox": [
+      156,
+      1240,
+      1573,
+      1354
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho ba véc tơ $\\vec{a}, \\vec{b}, \\vec{c}$ đồng phẳng. Xét các véc tơ $\\vec{x} = 2\\vec{a} - \\vec{b}$; $\\vec{y} = -4\\vec{a} + 2\\vec{b}$; $\\vec{z} = -3\\vec{b} - 2\\vec{c}$. Chọn khẳng định đúng?."
+  },
+  {
+    "bbox": [
+      205,
+      1371,
+      646,
+      1420
+    ],
+    "category": "List-item",
+    "text": "A. Hai véc tơ $\\vec{y}; \\vec{z}$ cùng phương."
+  },
+  {
+    "bbox": [
+      906,
+      1371,
+      1344,
+      1420
+    ],
+    "category": "List-item",
+    "text": "B. Hai véc tơ $\\vec{x}; \\vec{y}$ cùng phương."
+  },
+  {
+    "bbox": [
+      205,
+      1443,
+      643,
+      1492
+    ],
+    "category": "List-item",
+    "text": "C. Hai véc tơ $\\vec{x}; \\vec{z}$ cùng phương."
+  },
+  {
+    "bbox": [
+      906,
+      1443,
+      1327,
+      1492
+    ],
+    "category": "List-item",
+    "text": "D. Ba véc tơ $\\vec{x}; \\vec{y}; \\vec{z}$ đồng phẳng"
+  },
+  {
+    "bbox": [
+      804,
+      1517,
+      926,
+      1556
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1575,
+      277,
+      1614
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1631,
+      738,
+      1680
+    ],
+    "category": "Text",
+    "text": "Nhận thấy $\\vec{y} = -2\\vec{x}$ nên $\\vec{x}, \\vec{y}$ cùng phương."
+  },
+  {
+    "bbox": [
+      156,
+      1705,
+      1499,
+      1754
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, phương trình nào sau đây là phương trình của mặt phẳng $(Oyz)$?"
+  },
+  {
+    "bbox": [
+      205,
+      1781,
+      374,
+      1817
+    ],
+    "category": "List-item",
+    "text": "A. $x+1=0$."
+  },
+  {
+    "bbox": [
+      555,
+      1781,
+      684,
+      1817
+    ],
+    "category": "List-item",
+    "text": "B. $y=0$."
+  },
+  {
+    "bbox": [
+      906,
+      1781,
+      1037,
+      1817
+    ],
+    "category": "List-item",
+    "text": "C. $x=0$."
+  },
+  {
+    "bbox": [
+      1255,
+      1781,
+      1379,
+      1817
+    ],
+    "category": "List-item",
+    "text": "D. $z=0$."
+  },
+  {
+    "bbox": [
+      807,
+      1845,
+      924,
+      1884
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1903,
+      279,
+      1942
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      156,
+      1961,
+      1573,
+      2176
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, cho đường thẳng $d: \\begin{cases} x = 2+t \\\\ y = 1-2t \\\\ z = -1+3t \\end{cases}$. Vectơ nào dưới đây là một vectơ chỉ phương của $d$?"
+  },
+  {
+    "bbox": [
+      205,
+      2197,
+      434,
+      2246
+    ],
+    "category": "List-item",
+    "text": "A. $\\vec{u}_1 = (2;1;-1)$."
+  },
+  {
+    "bbox": [
+      555,
+      2197,
+      768,
+      2246
+    ],
+    "category": "List-item",
+    "text": "B. $\\vec{u}_2 = (1;2;3)$."
+  },
+  {
+    "bbox": [
+      906,
+      2197,
+      1163,
+      2246
+    ],
+    "category": "List-item",
+    "text": "C. $\\vec{u}_3 = (-2;4;-6)$."
+  },
+  {
+    "bbox": [
+      1255,
+      2197,
+      1468,
+      2246
+    ],
+    "category": "List-item",
+    "text": "D. $\\vec{u}_4 = (2;1;1)$."
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2255,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

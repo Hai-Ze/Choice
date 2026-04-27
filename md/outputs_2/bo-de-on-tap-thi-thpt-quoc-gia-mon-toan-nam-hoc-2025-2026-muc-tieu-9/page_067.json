@@ -1,0 +1,321 @@
+[
+  {
+    "bbox": [
+      298,
+      138,
+      573,
+      178
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THAM KHẢO"
+  },
+  {
+    "bbox": [
+      375,
+      182,
+      505,
+      221
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ SỐ 2"
+  },
+  {
+    "bbox": [
+      294,
+      229,
+      585,
+      271
+    ],
+    "category": "Page-header",
+    "text": "(Đề gồm có 6 trang)"
+  },
+  {
+    "bbox": [
+      894,
+      136,
+      1375,
+      179
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ ÔN TẬP THI THPTQG 2026"
+  },
+  {
+    "bbox": [
+      1023,
+      185,
+      1246,
+      219
+    ],
+    "category": "Page-header",
+    "text": "Môn: TOÁN 12"
+  },
+  {
+    "bbox": [
+      747,
+      226,
+      1528,
+      271
+    ],
+    "category": "Page-header",
+    "text": "Thời gian làm bài: 90 phút, không kể thời gian phát đề"
+  },
+  {
+    "bbox": [
+      155,
+      427,
+      1549,
+      515
+    ],
+    "category": "Text",
+    "text": "**Phần I. Câu trắc nghiệm nhiều phương án lựa chọn** *Thí sinh trả lời từ câu 1 đến câu 12 mỗi câu hỏi học sinh chỉ chọn một phương án.*"
+  },
+  {
+    "bbox": [
+      155,
+      535,
+      1547,
+      621
+    ],
+    "category": "Text",
+    "text": ">> **Câu 1.** Trong không gian $Oxyz$, cho mặt cầu $(S)$: $x^2 + y^2 + z^2 - 4x + 8y - 2z - 4 = 0$. Tọa độ tâm $I$ và bán kính $R$ của mặt cầu $(S)$ là"
+  },
+  {
+    "bbox": [
+      190,
+      640,
+      500,
+      682
+    ],
+    "category": "List-item",
+    "text": "A) $I(2; -4; 1), R = 5$."
+  },
+  {
+    "bbox": [
+      876,
+      640,
+      1200,
+      682
+    ],
+    "category": "List-item",
+    "text": "B) $I(2; -4; 1), R = 25$."
+  },
+  {
+    "bbox": [
+      190,
+      682,
+      543,
+      726
+    ],
+    "category": "List-item",
+    "text": "C) $I(2; -4; 1), R = \\sqrt{21}$."
+  },
+  {
+    "bbox": [
+      876,
+      682,
+      1228,
+      726
+    ],
+    "category": "List-item",
+    "text": "D) $I(-2; 4; -1), R = 21$."
+  },
+  {
+    "bbox": [
+      155,
+      726,
+      1480,
+      787
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Mặt cầu có phương trình dạng $x^2 + y^2 + z^2 - 2ax - 2by - 2cz + d = 0$."
+  },
+  {
+    "bbox": [
+      155,
+      783,
+      953,
+      860
+    ],
+    "category": "Text",
+    "text": "Ta có: $a = \\frac{-4}{-2} = 2$; $b = \\frac{8}{-2} = -4$; $c = \\frac{-2}{-2} = 1$; $d = -4$."
+  },
+  {
+    "bbox": [
+      155,
+      860,
+      486,
+      900
+    ],
+    "category": "Text",
+    "text": "Tọa độ tâm $I(2; -4; 1)$."
+  },
+  {
+    "bbox": [
+      155,
+      900,
+      1360,
+      947
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Bán kính } R = \\sqrt{a^2 + b^2 + c^2 - d} = \\sqrt{2^2 + (-4)^2 + 1^2 - (-4)} = \\sqrt{4 + 16 + 1 + 4} = 5.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      958,
+      1547,
+      1077
+    ],
+    "category": "Text",
+    "text": ">> **Câu 2.** Hình vẽ bên là đồ thị của hàm số $y = \\frac{ax + b}{cx + d}$. Dường tiệm cận đứng của đồ thị hàm số có phương trình là"
+  },
+  {
+    "bbox": [
+      613,
+      1077,
+      1070,
+      1620
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1652,
+      335,
+      1695
+    ],
+    "category": "List-item",
+    "text": "A) $x = 1$."
+  },
+  {
+    "bbox": [
+      535,
+      1652,
+      680,
+      1695
+    ],
+    "category": "List-item",
+    "text": "B) $x = 2$."
+  },
+  {
+    "bbox": [
+      879,
+      1652,
+      1022,
+      1695
+    ],
+    "category": "List-item",
+    "text": "C) $y = 1$."
+  },
+  {
+    "bbox": [
+      1224,
+      1652,
+      1367,
+      1695
+    ],
+    "category": "List-item",
+    "text": "D) $y = 2$."
+  },
+  {
+    "bbox": [
+      155,
+      1710,
+      1547,
+      1813
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Dựa vào đồ thị, ta thấy đồ thị hàm số có tiệm cận đứng là đường thẳng đi qua điểm 1 trên trục hoành và song song với trục tung. Vậy phương trình tiệm cận đứng là $x = 1$."
+  },
+  {
+    "bbox": [
+      155,
+      1832,
+      1547,
+      1918
+    ],
+    "category": "Text",
+    "text": ">> **Câu 3.** Cho cấp số nhân $(u_n)$ với $u_1 = -2$, $u_4 = -250$. Công bội của cấp số nhân đã cho bằng"
+  },
+  {
+    "bbox": [
+      190,
+      1947,
+      305,
+      1988
+    ],
+    "category": "List-item",
+    "text": "A) 125."
+  },
+  {
+    "bbox": [
+      535,
+      1947,
+      642,
+      1988
+    ],
+    "category": "List-item",
+    "text": "B) -5."
+  },
+  {
+    "bbox": [
+      879,
+      1929,
+      966,
+      2007
+    ],
+    "category": "List-item",
+    "text": "C) $\\frac{1}{5}$."
+  },
+  {
+    "bbox": [
+      1224,
+      1947,
+      1303,
+      1988
+    ],
+    "category": "List-item",
+    "text": "D) 5."
+  },
+  {
+    "bbox": [
+      155,
+      2018,
+      1297,
+      2081
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có: $u_4 = u_1 \\cdot q^3 \\Rightarrow -250 = -2 \\cdot q^3 \\Rightarrow q^3 = 125 \\Rightarrow q = 5$."
+  },
+  {
+    "bbox": [
+      155,
+      2096,
+      1492,
+      2138
+    ],
+    "category": "Text",
+    "text": ">> **Câu 4.** Mức thưởng Tết (triệu đồng) mà các công nhân một nhà máy nhận được như sau:"
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2250,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "67"
+  }
+]

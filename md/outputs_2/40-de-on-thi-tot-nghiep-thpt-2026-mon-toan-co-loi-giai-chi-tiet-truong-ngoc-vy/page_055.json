@@ -1,0 +1,170 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      162,
+      98,
+      1556,
+      365
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = \\begin{cases} x^3 - 1999x^2 + 1001000x + 250000 - \\frac{100000x^2}{\\frac{3}{2}x + 1} - \\frac{99}{100}(2x^3 + 100000x - 50000), & \\text{khi } 0 \\le x \\le 200 \\\\ x^3 - 1999x^2 + 1001000x + 250000 - \\frac{100000x^2}{\\frac{3}{2}x + 1} - \\frac{99}{100}H(200) - \\frac{98}{100}H(x - 200), & \\text{khi } 200 < x \\le 400 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      389,
+      611,
+      429
+    ],
+    "category": "Text",
+    "text": "*. Xét trường hợp khi $0 \\le x \\le 200$"
+  },
+  {
+    "bbox": [
+      162,
+      452,
+      1170,
+      726
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f(x) &= -0,98x^3 - 1999x^2 + 902000x + 299500 - \\frac{200000x^2}{3x + 2} \\\\ \\Rightarrow f'(x) &= \\frac{-26,46x^4 - 36017,28x^3 + 8070912,24x^2 + 10080008x + 3608000}{(3x + 2)^2} \\\\ \\Rightarrow f'(x) &= 0 \\Leftrightarrow x \\approx 196,98 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      753,
+      233,
+      786
+    ],
+    "category": "Text",
+    "text": "BBT:"
+  },
+  {
+    "bbox": [
+      403,
+      806,
+      1324,
+      1079
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      1099,
+      645,
+      1139
+    ],
+    "category": "Text",
+    "text": "*. Xét trường hợp khi $200 < x \\le 400$"
+  },
+  {
+    "bbox": [
+      162,
+      1163,
+      1098,
+      1448
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} f(x) &= -0,96x^3 - 823x^2 + 667800x - 11500 - \\frac{200000x^2}{3x + 2}, & 200 < x \\le 400 \\\\ \\Rightarrow f'(x) &= -2,88x^2 - 1646x + 667800 - \\frac{600000x^2 + 800000x}{(3x + 2)^2} \\\\ \\Rightarrow f'(x) &= 0 \\Leftrightarrow x \\approx 253,11 \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1475,
+      233,
+      1508
+    ],
+    "category": "Text",
+    "text": "BBT:"
+  },
+  {
+    "bbox": [
+      159,
+      1530,
+      1077,
+      1840
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      1863,
+      1341,
+      1913
+    ],
+    "category": "Text",
+    "text": "Vì số sản phẩm sản xuất được là số tự nhiên, từ BBT trên ta so sánh $f(253)$ và $f(254)$"
+  },
+  {
+    "bbox": [
+      157,
+      1942,
+      936,
+      1987
+    ],
+    "category": "Text",
+    "text": "Ta có: $f(253) \\approx 83893648,05$ và $f(254) \\approx 83892445,32$"
+  },
+  {
+    "bbox": [
+      157,
+      2008,
+      1096,
+      2052
+    ],
+    "category": "Text",
+    "text": "Vậy doanh nghiệp cần sản xuất 253 sản phẩm thì lợi nhuận là lớn nhất"
+  },
+  {
+    "bbox": [
+      157,
+      2067,
+      1572,
+      2170
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Ba lớp 12A, 12B, 12C trồng được 164 cây bạch đàn và 316 cây thông. Mỗi học sinh lớp 12A trồng được 3 cây bạch đàn và 2 cây thông; mỗi học sinh lớp 12B trồng được 2 cây bạch đàn và 3 cây"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

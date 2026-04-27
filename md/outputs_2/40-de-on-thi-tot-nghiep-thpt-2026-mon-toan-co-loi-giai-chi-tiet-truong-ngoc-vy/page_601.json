@@ -1,0 +1,212 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      953,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      100,
+      1276,
+      154
+    ],
+    "category": "Text",
+    "text": "+ Parabol $(P)$: $y = f(x)$ có định là điểm $M(-8;0)$ nên $f(x) = k(x+8)^2, (k \\neq 0)$."
+  },
+  {
+    "bbox": [
+      162,
+      185,
+      984,
+      261
+    ],
+    "category": "Formula",
+    "text": "$$\nH(-3; a) \\in (P) \\text{ nên } 25k = a \\Leftrightarrow k = \\frac{a}{25} \\Rightarrow f(x) = \\frac{a}{25}(x+8)^2.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      285,
+      1574,
+      415
+    ],
+    "category": "Text",
+    "text": "+ Đường cong $(C)$: $y = g(x)$ là hàm bậc ba có ba nghiệm $x = \\pm 2; x = 8$ nên $g(x) = h(x^2 - 4)(x - 8), (h \\neq 0)$."
+  },
+  {
+    "bbox": [
+      162,
+      446,
+      724,
+      522
+    ],
+    "category": "Formula",
+    "text": "$$\nH(-3; a) \\in (C) \\text{ nên } -55h = a \\Leftrightarrow h = -\\frac{a}{55}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      553,
+      927,
+      628
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow g(x) = -\\frac{a}{55}(x^2 - 4)(x - 8) = -\\frac{a}{55}(x^3 - 8x^2 - 4x + 32).\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      651,
+      1288,
+      749
+    ],
+    "category": "Text",
+    "text": "+ Dựa vào đồ thị, ta có: $S_1 = \\int_{-3}^{-2} g(x)dx; S_3 = \\int_{2}^{8} g(x)dx; S_2 = -\\int_{-2}^{2} g(x)dx; S_4 = \\int_{-8}^{-3} f(x)dx$"
+  },
+  {
+    "bbox": [
+      155,
+      774,
+      1210,
+      872
+    ],
+    "category": "Formula",
+    "text": "$$\n+ S_1 + S_3 = S_2 + S_4 + \\frac{109}{12} \\Leftrightarrow \\int_{-3}^{-2} g(x)dx + \\int_{2}^{8} g(x)dx = -\\int_{-2}^{2} g(x)dx + \\int_{-8}^{-3} f(x)dx + \\frac{109}{12}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      897,
+      870,
+      995
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\int_{-3}^{-2} g(x)dx + \\int_{-2}^{2} g(x)dx + \\int_{2}^{8} g(x)dx = \\int_{-8}^{-3} f(x)dx + \\frac{109}{12}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1020,
+      569,
+      1117
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\int_{-3}^{8} g(x)dx = \\int_{-8}^{-3} f(x)dx + \\frac{109}{12}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1142,
+      895,
+      1238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\int_{-3}^{8} -\\frac{a}{55}(x^3 - 8x^2 - 4x + 32)dx = \\int_{-8}^{-3} \\frac{a}{25}(x+8)^2dx + \\frac{109}{12}\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1265,
+      580,
+      1348
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\frac{209}{60}a = \\frac{5}{3}a + \\frac{109}{12} \\Leftrightarrow a = 5.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1373,
+      679,
+      1452
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } g(x) = -\\frac{1}{11}(x^3 - 8x^2 - 4x + 32)\n$$"
+  },
+  {
+    "bbox": [
+      162,
+      1475,
+      814,
+      1667
+    ],
+    "category": "Formula",
+    "text": "$$\ng'(x) = -\\frac{1}{11}(3x^2 - 16x - 4) = 0 \\Leftrightarrow \\begin{cases} x = \\frac{8+2\\sqrt{19}}{3} \\\\ x = \\frac{8-2\\sqrt{19}}{3} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1687,
+      371,
+      1730
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên"
+  },
+  {
+    "bbox": [
+      447,
+      1755,
+      1272,
+      2034
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$\\frac{8-2\\sqrt{19}}{3}$</td><td>$\\frac{8+2\\sqrt{19}}{3}$</td><td>$+\\infty$</td></tr><tr><td>$g'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$g(x)$</td><td>$+\\infty$</td><td>$\\approx -2,95$</td><td>$\\approx 5,97$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      2048,
+      1243,
+      2093
+    ],
+    "category": "Text",
+    "text": "Vậy độ cao lớn nhất mà đường trượt chìm xuống so với mặt đất là xấp xỉ 2,95m."
+  },
+  {
+    "bbox": [
+      155,
+      2113,
+      1574,
+      2215
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hàng tháng nhà máy A cung cấp cho nhà máy B số lượng sản phẩm theo đơn đặt hàng của B (tối đa 100 tấn sản phẩm). Nếu số lượng đặt hàng là $x$ tấn sản phẩm một tháng thì giá bán cho mỗi tấn"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 15"
+  }
+]

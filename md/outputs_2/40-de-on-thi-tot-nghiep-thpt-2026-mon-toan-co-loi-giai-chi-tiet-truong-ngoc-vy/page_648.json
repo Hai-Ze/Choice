@@ -1,0 +1,422 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      630,
+      95,
+      936,
+      132
+    ],
+    "category": "Section-header",
+    "text": "LỜI GIẢI CHI TIẾT"
+  },
+  {
+    "bbox": [
+      76,
+      150,
+      1373,
+      195
+    ],
+    "category": "Section-header",
+    "text": "PHẦN I. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      76,
+      216,
+      830,
+      263
+    ],
+    "category": "Text",
+    "text": "Câu 1. Tập nghiệm của bất phương trình $2^{x^2+2x} \\le 8$ là"
+  },
+  {
+    "bbox": [
+      125,
+      283,
+      307,
+      330
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; -3]$."
+  },
+  {
+    "bbox": [
+      476,
+      283,
+      612,
+      330
+    ],
+    "category": "List-item",
+    "text": "B. $[-3; 1]$."
+  },
+  {
+    "bbox": [
+      826,
+      283,
+      967,
+      330
+    ],
+    "category": "List-item",
+    "text": "C. $(-3; 1)$."
+  },
+  {
+    "bbox": [
+      1175,
+      283,
+      1311,
+      330
+    ],
+    "category": "List-item",
+    "text": "D. $(-3; 1]$."
+  },
+  {
+    "bbox": [
+      727,
+      356,
+      843,
+      394
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      415,
+      190,
+      453
+    ],
+    "category": "Text",
+    "text": "Chọn C"
+  },
+  {
+    "bbox": [
+      76,
+      474,
+      925,
+      519
+    ],
+    "category": "Text",
+    "text": "Ta có: $2^{x^2+2x} \\le 8 \\Leftrightarrow 2^{x^2+2x} \\le 2^3 \\Leftrightarrow x^2+2x-3 \\le 0 \\Leftrightarrow -3 \\le x \\le 1$."
+  },
+  {
+    "bbox": [
+      76,
+      544,
+      951,
+      624
+    ],
+    "category": "Text",
+    "text": "Câu 2. Đồ thị hàm số $y = x + 2025 - \\frac{2026}{x+1}$ có tiệm cận xiên là:"
+  },
+  {
+    "bbox": [
+      125,
+      648,
+      341,
+      685
+    ],
+    "category": "List-item",
+    "text": "A. $y = x + 2025$"
+  },
+  {
+    "bbox": [
+      476,
+      648,
+      688,
+      685
+    ],
+    "category": "List-item",
+    "text": "B. $y = x - 2025$"
+  },
+  {
+    "bbox": [
+      826,
+      648,
+      1039,
+      685
+    ],
+    "category": "List-item",
+    "text": "C. $y = x - 2026$"
+  },
+  {
+    "bbox": [
+      1175,
+      648,
+      1389,
+      685
+    ],
+    "category": "List-item",
+    "text": "D. $y = x + 2026$"
+  },
+  {
+    "bbox": [
+      727,
+      712,
+      843,
+      750
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      771,
+      198,
+      808
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      82,
+      829,
+      455,
+      909
+    ],
+    "category": "Formula",
+    "text": "$$\ny = f(x) = x + 2025 - \\frac{2026}{x+1}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      934,
+      1494,
+      1086
+    ],
+    "category": "Text",
+    "text": "$\\lim_{x \\to +\\infty} [f(x) - (x + 2025)] = \\lim_{x \\to +\\infty} \\left(-\\frac{2026}{x+1}\\right) = 0$; $\\lim_{x \\to -\\infty} [f(x) - (x + 2025)] = \\lim_{x \\to -\\infty} \\left(-\\frac{2026}{x+1}\\right) = 0$ nên đồ thị hàm số có tiệm cận xiên là $y = x + 2025$."
+  },
+  {
+    "bbox": [
+      76,
+      1112,
+      838,
+      1160
+    ],
+    "category": "Text",
+    "text": "Câu 3. Nguyên hàm của hàm số $f(x) = 4x^3 - 2026$ là"
+  },
+  {
+    "bbox": [
+      125,
+      1189,
+      386,
+      1226
+    ],
+    "category": "List-item",
+    "text": "A. $x^4 - 2026x + C$."
+  },
+  {
+    "bbox": [
+      476,
+      1189,
+      750,
+      1226
+    ],
+    "category": "List-item",
+    "text": "B. $4x^3 - 2026x + C$."
+  },
+  {
+    "bbox": [
+      826,
+      1189,
+      1003,
+      1226
+    ],
+    "category": "List-item",
+    "text": "C. $12x^3 + C$."
+  },
+  {
+    "bbox": [
+      1175,
+      1189,
+      1321,
+      1226
+    ],
+    "category": "List-item",
+    "text": "D. $x^4 + C$."
+  },
+  {
+    "bbox": [
+      727,
+      1251,
+      843,
+      1289
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1310,
+      198,
+      1348
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1367,
+      636,
+      1424
+    ],
+    "category": "Text",
+    "text": "Ta có $\\int (4x^3 - 2026) dx = x^4 - 2026x + C$."
+  },
+  {
+    "bbox": [
+      76,
+      1443,
+      1490,
+      1545
+    ],
+    "category": "Text",
+    "text": "Câu 4. Để đánh giá chất lượng một loại pin điện thoại mới, người ta ghi lại thời gian nghe nhạc liên tục của điện thoại được sạc đầy pin cho đến khi hết pin cho kết quả như sau:"
+  },
+  {
+    "bbox": [
+      181,
+      1568,
+      1385,
+      1728
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (giờ)</td><td>[5; 5,5)</td><td>[5, 5; 6)</td><td>[6; 6,5)</td><td>[6, 5; 7)</td><td>[7; 7,5)</td></tr><tr><td>Số chiếc điện thoại (tần số)</td><td>2</td><td>8</td><td>15</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      1748,
+      1365,
+      1793
+    ],
+    "category": "Text",
+    "text": "Tính độ lệch chuẩn của mẫu số liệu ghép nhóm trên (kết quả được làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      125,
+      1813,
+      247,
+      1850
+    ],
+    "category": "List-item",
+    "text": "A. 0,63."
+  },
+  {
+    "bbox": [
+      476,
+      1813,
+      592,
+      1850
+    ],
+    "category": "List-item",
+    "text": "B. 0,43."
+  },
+  {
+    "bbox": [
+      826,
+      1813,
+      946,
+      1850
+    ],
+    "category": "List-item",
+    "text": "C. 0,73."
+  },
+  {
+    "bbox": [
+      1175,
+      1813,
+      1298,
+      1850
+    ],
+    "category": "List-item",
+    "text": "D. 0,53."
+  },
+  {
+    "bbox": [
+      727,
+      1877,
+      843,
+      1915
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1936,
+      198,
+      1974
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      76,
+      1989,
+      734,
+      2032
+    ],
+    "category": "Text",
+    "text": "Chọn giá trị đại diện cho các nhóm số liệu, ta có:"
+  },
+  {
+    "bbox": [
+      98,
+      2047,
+      1470,
+      2239
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Thời gian (giờ)</td><td>[5; 5,5)</td><td>[5, 5; 6)</td><td>[6; 6,5)</td><td>[6, 5; 7)</td><td>[7; 7,5)</td></tr><tr><td>Giá trị đại diện</td><td>5,25</td><td>5,75</td><td>6,25</td><td>6,75</td><td>7,25</td></tr><tr><td>Số chiếc điện thoại (tần số)</td><td>2</td><td>8</td><td>15</td><td>10</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2255,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 6"
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      288,
+      94,
+      1442,
+      219
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Giá trị đại diện</td><td>4,75</td><td>5,25</td><td>5,75</td><td>6,25</td></tr><tr><td>Số học sinh</td><td>3</td><td>8</td><td>7</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      156,
+      275,
+      558,
+      315
+    ],
+    "category": "Text",
+    "text": "Cỡ mẫu: $n = 3 + 8 + 7 + 2 = 20$"
+  },
+  {
+    "bbox": [
+      156,
+      338,
+      1099,
+      421
+    ],
+    "category": "Text",
+    "text": "Số trung bình: $\\bar{x} = \\frac{4,75 \\cdot 3 + 5,25 \\cdot 8 + 5,75 \\cdot 7 + 6,25 \\cdot 2}{20} = \\frac{109}{20} = 5,45(\\mu m)$"
+  },
+  {
+    "bbox": [
+      156,
+      444,
+      1572,
+      569
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$. Gọi $D$ là diện tích hình phẳng giới hạn bởi đồ thị $(C)$: $y = f(x)$, trục hoành, hai đường thẳng $x = a, x = b$ (như hình vẽ dưới đây)."
+  },
+  {
+    "bbox": [
+      598,
+      602,
+      1114,
+      1086
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1105,
+      1043,
+      1150
+    ],
+    "category": "Text",
+    "text": "Giả sử $S_D$ là diện tích hình phẳng $D$, mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      205,
+      1177,
+      620,
+      1275
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ S_D = \\int_{a}^{0} f(x)dx + \\int_{0}^{b} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      1177,
+      1336,
+      1275
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ S_D = -\\int_{a}^{0} f(x)dx + \\int_{0}^{b} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1300,
+      620,
+      1397
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ S_D = \\int_{a}^{0} f(x)dx - \\int_{0}^{b} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      1300,
+      1338,
+      1397
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ S_D = -\\int_{a}^{0} f(x)dx - \\int_{0}^{b} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      1423,
+      924,
+      1461
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      1481,
+      276,
+      1518
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      1538,
+      804,
+      1635
+    ],
+    "category": "Text",
+    "text": "Ta có $S_D = \\int_{a}^{b} |f(x)|dx = \\int_{a}^{0} |f(x)|dx + \\int_{0}^{b} |f(x)|dx$."
+  },
+  {
+    "bbox": [
+      156,
+      1662,
+      831,
+      1711
+    ],
+    "category": "Text",
+    "text": "Vì $f(x) \\le 0, \\forall x \\in [a; 0], f(x) \\ge 0, \\forall x \\in [0; b]$ nên:"
+  },
+  {
+    "bbox": [
+      162,
+      1735,
+      899,
+      1833
+    ],
+    "category": "Formula",
+    "text": "$$\nS_D = \\int_{a}^{0} (-f(x))dx + \\int_{0}^{b} f(x)dx = -\\int_{a}^{0} f(x)dx + \\int_{0}^{b} f(x)dx.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      1854,
+      1572,
+      1974
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian với hệ trục tọa độ $Oxyz$, phương trình của mặt phẳng đi qua gốc tọa độ $O(0;0;0)$ có một vecto pháp tuyến $\\vec{n}(2;0;1)$ là"
+  },
+  {
+    "bbox": [
+      205,
+      2002,
+      403,
+      2039
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\ x + 2y = 0.\n$$"
+  },
+  {
+    "bbox": [
+      556,
+      2002,
+      744,
+      2039
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\ 2x + z = 0.\n$$"
+  },
+  {
+    "bbox": [
+      905,
+      2002,
+      1093,
+      2039
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\ x + 2z = 0.\n$$"
+  },
+  {
+    "bbox": [
+      1255,
+      2002,
+      1443,
+      2039
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\ 2x + y = 0.\n$$"
+  },
+  {
+    "bbox": [
+      807,
+      2066,
+      924,
+      2104
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      2125,
+      276,
+      2162
+    ],
+    "category": "Section-header",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      156,
+      2183,
+      1414,
+      2232
+    ],
+    "category": "Text",
+    "text": "Phương trình của mặt phẳng đi qua gốc tọa độ $O(0;0;0)$ có một vecto pháp tuyến $\\vec{n}(2;0;1)$ là"
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2256,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

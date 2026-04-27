@@ -1,0 +1,209 @@
+[
+  {
+    "bbox": [
+      53,
+      47,
+      411,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      951,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      447,
+      120,
+      1556,
+      302
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Giả sử có một đồng xu cân bằng (fair coin) và một đồng xu thiên lệch (biased coin) mà mặt ngửa (heads) xuất hiện với xác suất $\\frac{3}{4}$. Một người chọn ngẫu nhiên một trong hai đồng xu và tung nó ba lần. Gọi $A$ là biến cố “Người chơi chọn đồng xu cân bằng”; $B$ là biến cố: “Ba lần tung đồng xu đều xuất hiện mặt ngửa”."
+  },
+  {
+    "bbox": [
+      478,
+      310,
+      669,
+      382
+    ],
+    "category": "Formula",
+    "text": "a) $P(A) = \\frac{1}{2}$."
+  },
+  {
+    "bbox": [
+      478,
+      376,
+      701,
+      446
+    ],
+    "category": "Formula",
+    "text": "b) $P(B|A) = \\frac{1}{8}$."
+  },
+  {
+    "bbox": [
+      478,
+      442,
+      1551,
+      556
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất người đó chọn được đồng xu cân bằng biết rằng kết quả ba lần tung đồng xu đều xuất hiện mặt ngửa là 0,25 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      478,
+      558,
+      1551,
+      674
+    ],
+    "category": "List-item",
+    "text": "d) Giả sử bây giờ chúng ta đã thấy đồng xu được chọn xuất hiện mặt ngửa ba lần liên tiếp. Nếu người chơi tung đồng xu đó lần thứ tư, xác suất để nó tiếp tục xuất hiện mặt ngửa là 0,69 (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      447,
+      733,
+      1063,
+      1080
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Đường ống dẫn dầu trên cao là hệ thống đường ống được treo trên các giá đỡ hoặc cột cao, dùng để vận chuyển dầu thô hoặc các sản phẩm dầu mỏ từ nơi này đến nơi khác mà không cần chôn dưới lòng đất. Hệ thống này thường được sử dụng trong các khu vực có địa hình khó khăn, vùng băng giá, rừng rạm, những nơi mà việc đào đường ống ngầm không khả thi. Với hệ trục tọa độ $Oxyz$ thích hợp,"
+  },
+  {
+    "bbox": [
+      1088,
+      745,
+      1542,
+      1053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1088,
+      1556,
+      1336
+    ],
+    "category": "Text",
+    "text": "mặt đất là mặt phẳng ($Oxy$), đơn vị trên mỗi trục là mét, người ta thiết lập một đường ống dẫn dầu trên không dọc theo đường thẳng $d$: $$ \\begin{cases} x = 0 \\\\ y = t \\\\ z = 20 \\end{cases} $$ ($t$ là tham số). Vì địa hình phức tạp, người ta chọn điểm $A(15; 10; 15)$ để làm điểm trung chuyển dầu từ mặt đất đến đường ống này."
+  },
+  {
+    "bbox": [
+      478,
+      1350,
+      1106,
+      1390
+    ],
+    "category": "List-item",
+    "text": "a) Đường thẳng $d$ nằm trên mặt phẳng ($Oyz$)."
+  },
+  {
+    "bbox": [
+      478,
+      1392,
+      1480,
+      1431
+    ],
+    "category": "List-item",
+    "text": "b)úp $A$ qua mặt phẳng ($Oxy$) có tọa độ $A'(-15; -10; 15)$."
+  },
+  {
+    "bbox": [
+      478,
+      1431,
+      1551,
+      1576
+    ],
+    "category": "List-item",
+    "text": "c) Do thực tế công việc, người ta cần xác định vị trí điểm $B(0; b; 20)$ thuộc đường ống và vị trí điểm $C(m; n; 0)$ thuộc mặt đất sao cho tổng độ dài các đoạn đường $AB, BC, AC$ nhỏ nhất. Ta có $m + n + b = \\frac{200}{7}$."
+  },
+  {
+    "bbox": [
+      478,
+      1572,
+      1551,
+      1648
+    ],
+    "category": "List-item",
+    "text": "d) Giá trị nhỏ nhất của tổng độ dài các đoạn đường $AB, BC, AC$ làm tròn đến hàng phần chục là 45,5 m."
+  },
+  {
+    "bbox": [
+      464,
+      1695,
+      1247,
+      1749
+    ],
+    "category": "Section-header",
+    "text": "3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      447,
+      1773,
+      1556,
+      1921
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông cân tại $C$ và $AC = 4$. Biết $SA$ vuông góc với mặt phẳng đáy và khoảng cách từ $A$ đến mặt phẳng ($SBC$) bằng $\\frac{12}{5}$. Thể tích của khối chóp $S.ABC$ bằng bao nhiêu? KQ:"
+  },
+  {
+    "bbox": [
+      1333,
+      1862,
+      1554,
+      1913
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      1961,
+      1556,
+      2197
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Để tiết kia tiền sau này cho việc học đại học của con, cô Bình quyết định gửi 1,5 triệu đồng cuối mỗi tháng vào ngân hàng với lãi suất tháng là 0,3% theo hình thức lãi kép. Cô bắt đầu gửi tiền khi con cô tròn 3 tuổi. Cô Bình sẽ tiết kia được bao nhiêu tiền vào thời điểm con cô tròn 18 tuổi nếu không rút lãi và lãi suất ngân hàng không thay đổi trong suốt quá trình gửi tiết kia? (kết quả làm tròn đến hàng đơn vị theo triệu đồng). KQ:"
+  },
+  {
+    "bbox": [
+      1333,
+      2154,
+      1554,
+      2205
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      135,
+      2259,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "434 Bùi Tịnh Minh Lâm"
+  }
+]

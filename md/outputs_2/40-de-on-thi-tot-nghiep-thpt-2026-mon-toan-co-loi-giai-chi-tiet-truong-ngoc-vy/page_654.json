@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      547,
+      93,
+      986,
+      350
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      372,
+      691,
+      490
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) Ta có } d(I;P) = \\frac{|-1 - 2.2 + 2.(-1) - 2|}{\\sqrt{1 + (-2)^2 + 2^2}} = 3\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      515,
+      1037,
+      563
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) Ta có đường tròn } (C) \\text{ có diện tích là } S = \\pi \\cdot r^2 \\Leftrightarrow 25\\pi = \\pi \\cdot r^2 \\Rightarrow r = 5\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      591,
+      761,
+      639
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) Gọi } H(x_0; y_0; z_0) \\text{ là tọa độ tâm đường tròn } (C).\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      665,
+      566,
+      811
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có phương trình } IH : \\begin{cases} x = -1 + t \\\\ y = 2 - 2t \\\\ z = -1 + 2t \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      837,
+      1132,
+      1103
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy tọa độ là } H \\text{ là nghiệm của hệ } \\begin{cases} x = -1 + t \\\\ y = 2 - 2t \\\\ z = -1 + 2t \\\\ x - 2y + 2z - 2 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} x = 0 \\\\ y = 0 \\\\ z = 1 \\\\ t = 1 \\end{cases} \\Rightarrow H(0;0;1). \\\\ \\Rightarrow 2024x_0 + 2025y_0 + 2026z_0 = 2026\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1131,
+      1053,
+      1194
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) Ta có bán kính mặt cầu } (S) \\text{ là: } R^2 = [d(I;P)]^2 + r^2 = 3^2 + 5^2 = 34.\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1219,
+      961,
+      1273
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy phương trình mặt cầu } (S) \\text{ là } (x+1)^2 + (y-2)^2 + (z+1)^2 = 34\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1350,
+      1495,
+      1564
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Khi điều tra sức khỏe nhiều người cao tuổi ở một địa phương, người ta thấy rằng có 40% người cao tuổi bị bệnh tiểu đường. Bên cạnh đó, số người bị bệnh huyết áp cao trong số những người bị bệnh tiểu đường là 70%, trong những người không bị bệnh tiểu đường là 25%. Chọn ngẫu nhiên một người cao tuổi để kiểm tra sức khỏe."
+  },
+  {
+    "bbox": [
+      76,
+      1581,
+      815,
+      1627
+    ],
+    "category": "Text",
+    "text": "a) Xác suất chọn được người bị bệnh tiểu đường là 0,4."
+  },
+  {
+    "bbox": [
+      76,
+      1640,
+      1295,
+      1685
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó bị bệnh tiểu đường là 0,7."
+  },
+  {
+    "bbox": [
+      76,
+      1697,
+      1401,
+      1743
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó không bị bệnh tiểu đường là 0,75."
+  },
+  {
+    "bbox": [
+      76,
+      1755,
+      810,
+      1800
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được người bị bệnh huyết áp cao 0,8."
+  },
+  {
+    "bbox": [
+      727,
+      1820,
+      843,
+      1858
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1873,
+      893,
+      1994
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      2048,
+      897,
+      2094
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố “Chọn được người cao tuổi bị tiểu đường”."
+  },
+  {
+    "bbox": [
+      82,
+      2107,
+      863,
+      2152
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố “Chọn được người cao tuổi bị huyết áp cao”."
+  },
+  {
+    "bbox": [
+      76,
+      2173,
+      551,
+      2218
+    ],
+    "category": "Text",
+    "text": "a) Khi đó $P(A) = 0,4$ nên a) đúng."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

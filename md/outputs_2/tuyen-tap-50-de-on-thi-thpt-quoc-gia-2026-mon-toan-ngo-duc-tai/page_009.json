@@ -1,0 +1,171 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      154,
+      1456,
+      474
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một phầm mềm nhận dạng tin nhắn quăng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả tin nhắn gửi đến, có 20% số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có 10% số tin nhắn không phải广角 cáo. Trong các tin nhắn không bị đánh dấu, có 10% số tin nhắn là广角 cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại."
+  },
+  {
+    "bbox": [
+      222,
+      479,
+      1068,
+      526
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất để tin nhắn đó không bị đánh dấu là 0,8."
+  },
+  {
+    "bbox": [
+      222,
+      534,
+      1448,
+      635
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất để tin nhắn đó không phải là广角 cáo, biết rằng nó không bị đánh dấu, bằng 0,95."
+  },
+  {
+    "bbox": [
+      222,
+      645,
+      1222,
+      693
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất để tin nhắn đó không phải là广角 cáo bằng 0,76."
+  },
+  {
+    "bbox": [
+      222,
+      700,
+      1448,
+      801
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất để tin nhắn đó không bị đánh dấu, biết rằng nó không phải là广角 cáo, nhỏ hơn 0,95."
+  },
+  {
+    "bbox": [
+      192,
+      820,
+      1456,
+      1303
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủy sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày ($t \\ge 0$) kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k.y(t)$ ($t \\ge 0$), trong đó $k$ là hằng số khác không. Cho nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là 2 mg/lít; 1 mg/lít. Cho biết $y(t) = e^{g(t)}$ ($t \\ge 0$)."
+  },
+  {
+    "bbox": [
+      222,
+      1309,
+      1048,
+      1357
+    ],
+    "category": "List-item",
+    "text": "a) $g(t) = kt + C$ ($t \\ge 0$) với $C$ là một hằng số xác định."
+  },
+  {
+    "bbox": [
+      222,
+      1357,
+      423,
+      1441
+    ],
+    "category": "List-item",
+    "text": "b) $k = -\\frac{\\ln 2}{6}$."
+  },
+  {
+    "bbox": [
+      222,
+      1446,
+      418,
+      1485
+    ],
+    "category": "List-item",
+    "text": "c) $C = 4 \\ln 2$."
+  },
+  {
+    "bbox": [
+      222,
+      1495,
+      1448,
+      1597
+    ],
+    "category": "List-item",
+    "text": "d) Nồng độ thuốc tồn dư trong nước tại thời điểm $t = 21$ (ngày) kể từ lúc sử dụng thuốc lớn hơn 0,4 mg/lít."
+  },
+  {
+    "bbox": [
+      192,
+      1615,
+      1456,
+      2149
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\vec{i}, \\vec{j}, \\vec{k}$ lần lượt là các vecto đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vecto đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(7;7;0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\le t \\le 6$. Ở thời điểm ban đầu ($t = 0$) vật đi qua điểm $A$ với tốc độ 300 m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quăng đường 606 mét. Gọi $\\vec{u} = (a;b;c)$ là vecto cùng hướng với vecto $\\vec{AB}$. Biết rằng $|\\vec{u}| = 1$ và góc giữa vecto $\\vec{u}$ lần lượt với các vecto $\\vec{i}, \\vec{j}, \\vec{k}$ có số đo tương ứng bằng $60^{\\circ}, 60^{\\circ}, 45^{\\circ}$."
+  },
+  {
+    "bbox": [
+      222,
+      2161,
+      443,
+      2200
+    ],
+    "category": "List-item",
+    "text": "a) $a = \\cos 60^{\\circ}$."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

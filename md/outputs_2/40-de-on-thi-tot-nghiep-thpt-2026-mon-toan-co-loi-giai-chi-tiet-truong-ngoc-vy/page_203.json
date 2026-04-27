@@ -1,0 +1,351 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      80,
+      98,
+      965,
+      186
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos(2x) = \\cos 2\\left(\\frac{\\pi}{2} + k\\pi\\right) = \\cos(\\pi + k2\\pi) = -1 \\text{ nên C sai, D đúng.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      211,
+      1039,
+      261
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Cho hàm số $f(x) = 1 + \\sin x$. Khẳng định nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      125,
+      286,
+      513,
+      345
+    ],
+    "category": "Formula",
+    "text": "A. $\\int f(x)dx = x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      825,
+      286,
+      1204,
+      345
+    ],
+    "category": "Formula",
+    "text": "B. $\\int f(x)dx = x + \\sin x + C$."
+  },
+  {
+    "bbox": [
+      125,
+      366,
+      515,
+      425
+    ],
+    "category": "Formula",
+    "text": "C. $\\int f(x)dx = x + \\cos x + C$."
+  },
+  {
+    "bbox": [
+      825,
+      366,
+      1164,
+      425
+    ],
+    "category": "Formula",
+    "text": "D. $\\int f(x)dx = \\cos x + C$."
+  },
+  {
+    "bbox": [
+      727,
+      449,
+      843,
+      487
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      508,
+      198,
+      546
+    ],
+    "category": "Text",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      562,
+      956,
+      623
+    ],
+    "category": "Formula",
+    "text": "Ta có $\\int f(x)dx = \\int (1 + \\sin x)dx = \\int 1dx + \\int \\sin xdx = x - \\cos x + C$."
+  },
+  {
+    "bbox": [
+      76,
+      638,
+      1465,
+      684
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Mức thưởng tết (triệu đồng) cho các nhân viên của một công ty được thống kê trong bảng sau:"
+  },
+  {
+    "bbox": [
+      186,
+      699,
+      1379,
+      830
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức thưởng tết</td><td>[5;10)</td><td>[10;15)</td><td>[15;20)</td><td>[20;25)</td><td>[25;30)</td></tr><tr><td>Số nhân viên</td><td>10</td><td>5</td><td>6</td><td>4</td><td>5</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      885,
+      790,
+      930
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm này là"
+  },
+  {
+    "bbox": [
+      125,
+      948,
+      211,
+      982
+    ],
+    "category": "List-item",
+    "text": "A. 20."
+  },
+  {
+    "bbox": [
+      476,
+      948,
+      559,
+      982
+    ],
+    "category": "List-item",
+    "text": "B. 25."
+  },
+  {
+    "bbox": [
+      825,
+      948,
+      912,
+      982
+    ],
+    "category": "List-item",
+    "text": "C. 47."
+  },
+  {
+    "bbox": [
+      1175,
+      948,
+      1250,
+      982
+    ],
+    "category": "List-item",
+    "text": "D. 23"
+  },
+  {
+    "bbox": [
+      727,
+      1007,
+      843,
+      1045
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1065,
+      198,
+      1103
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1117,
+      546,
+      1160
+    ],
+    "category": "Formula",
+    "text": "Khoảng biến thiên: $R = 30 - 5 = 25$"
+  },
+  {
+    "bbox": [
+      76,
+      1180,
+      1493,
+      1291
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Thể tích khối tròn xoay thu được khi quay hình phẳng giới hạn bởi các đường $y = 4 - x^2$ và $y = 0$ quanh trục $Ox$ bằng"
+  },
+  {
+    "bbox": [
+      125,
+      1316,
+      247,
+      1396
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{32\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      476,
+      1316,
+      610,
+      1396
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{512\\pi}{15}$."
+  },
+  {
+    "bbox": [
+      825,
+      1316,
+      944,
+      1396
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{16\\pi}{3}$."
+  },
+  {
+    "bbox": [
+      1175,
+      1316,
+      1309,
+      1396
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{256\\pi}{15}$."
+  },
+  {
+    "bbox": [
+      727,
+      1421,
+      843,
+      1459
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1479,
+      198,
+      1517
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      76,
+      1537,
+      878,
+      1580
+    ],
+    "category": "Formula",
+    "text": "Xét phương trình hoành độ giao điểm: $4 - x^2 = 0 \\Leftrightarrow x = \\pm 2$."
+  },
+  {
+    "bbox": [
+      76,
+      1601,
+      949,
+      1697
+    ],
+    "category": "Formula",
+    "text": "Thể tích khối tròn xoay thu được là: $V = \\pi \\int_{-2}^{2} (4 - x^2)^2 dx = \\frac{512\\pi}{15}$."
+  },
+  {
+    "bbox": [
+      76,
+      1718,
+      797,
+      1758
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình集合 $ABCD.A'B'C'D'$ như hình vẽ"
+  },
+  {
+    "bbox": [
+      551,
+      1794,
+      986,
+      2136
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2197,
+      800,
+      2244
+    ],
+    "category": "Text",
+    "text": "Vecto tổng $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ bằng vecto nào dưới đây?"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      568,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2256,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

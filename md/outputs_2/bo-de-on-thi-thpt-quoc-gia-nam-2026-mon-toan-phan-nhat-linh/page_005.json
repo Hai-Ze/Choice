@@ -1,0 +1,110 @@
+[
+  {
+    "bbox": [
+      133,
+      75,
+      705,
+      117
+    ],
+    "category": "Page-header",
+    "text": "TÀI LIỆU LUYỆN THI THPT QUỐC GIA 2026"
+  },
+  {
+    "bbox": [
+      1226,
+      75,
+      1542,
+      117
+    ],
+    "category": "Page-header",
+    "text": "40 ĐỀ MINH HỌA 2026"
+  },
+  {
+    "bbox": [
+      113,
+      155,
+      1535,
+      359
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** [PNL] Một người đang lái xe ô tô thì bất ngờ phát hiện chướng ngại vật trên đường cách đầu xe 25 m, ngay lúc đó người lái xe đạp phanh khẩn cấp. Kể từ thời điểm này, ô tô chuyển động chậm dần đều với vận tốc $v(t) = -10t + 20$ (m/s), trong đó $t$ là thời gian tính bằng giây kể từ lúc đạp phanh. Gọi $s(t)$ là quăng đường xe ô tô đi được trong $t$ (giây) kể từ lúc đạp phanh."
+  },
+  {
+    "bbox": [
+      252,
+      369,
+      1535,
+      712
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>$s(t) = \\int v(t)dt$</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>$s(t) = -5t^2 + 20$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Thời gian kể từ lúc đạp phanh đến khi ô tô停止 hẩn là 20 giây</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Xe ô tô không va vào chướng ngại vật ở trên đường</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      113,
+      712,
+      1535,
+      913
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** [PNL] tại một nút giao thông của một khu vực đông dân cư với tốc độ tối đa cho phép đối với ô tô là 50 (km/h), người ta gắn một camera phạt nguội tại điểm $S(0;0;14)$ trong không gian $Oxyz$ (đơn vị trên mỗi trục tọa độ là mét), mặt phẳng $Oxy$ song song với mặt đường và chứa vùng nhận diện biển số xe của các phương tiện tham gia giao thông"
+  },
+  {
+    "bbox": [
+      705,
+      919,
+      1096,
+      1325
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      247,
+      1337,
+      1535,
+      1614
+    ],
+    "category": "Text",
+    "text": "Biết rằng camera nhận diện tốt nhất biển số xe của các phương tiện tham gia giao thông là khi biển số của chúng nằm trong hình thang cân $ABCD$ với: $SA = SB = 27$ mét, $OD = OC = 5$ mét, $AB = 14$ mét và $CD = 9,6$ mét. Tia $Ox$ nằm trên đường trung trực các đoạn thẳng $AB$ và $DC$ (xem hình vẽ minh họa). Giả sử tại thời điểm 9h00 (được xem là thời điểm xuất phát) một ô tô chuyển động thẳng đều theo phương song song với trục $Ox$, hướng về phía trục $Oy$ và có vị trí của biển số xe là $M(50;-6;0)$"
+  },
+  {
+    "bbox": [
+      252,
+      1621,
+      1535,
+      2226
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th colspan=\"2\">Khẳng định</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a)</td><td>$D(1,4;-4,8;0)$</td><td>☐</td><td>☐</td></tr><tr><td>b)</td><td>Đường thẳng $AD$ có phương trình là $\\begin{cases} x = 1,4 - 20,6t \\\\ y = -4,8 + 2,2t, (t \\in \\mathbb{R}) \\\\ z = 0 \\end{cases}$</td><td>☐</td><td>☐</td></tr><tr><td>c)</td><td>Nếu ô tô đi với vận tốc 45 (km/h) thì sau đúng 2,2 giây kể từ thời điểm xuất phát thì biển số của xe ô tô đã nằm trong vùng nhận diện tốt nhất của camera</td><td>☐</td><td>☐</td></tr><tr><td>d)</td><td>Nếu camera ghi nhận được hình ảnh biển số xe ô tô liên tục trong một khoảng thời gian kéo dài đúng 0,7 giây, và khoảng thời gian 0,7 giây này kết thúc đồng thời với thời điểm xe vừa ra khỏi vùng nhận diện tốt nhất, thì ô tô đã vượt quá tốc độ cho phép.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      821,
+      2261,
+      853,
+      2301
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      861,
+      2268,
+      1439,
+      2301
+    ],
+    "category": "Page-footer",
+    "text": "GV. Phan Nhật Linh - SĐT: 0817 098 716"
+  },
+  {
+    "bbox": [
+      1514,
+      2268,
+      1533,
+      2298
+    ],
+    "category": "Page-footer",
+    "text": "4"
+  }
+]

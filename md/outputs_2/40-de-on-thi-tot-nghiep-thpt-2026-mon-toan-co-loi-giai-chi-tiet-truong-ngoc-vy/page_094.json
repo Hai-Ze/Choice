@@ -1,0 +1,181 @@
+[
+  {
+    "bbox": [
+      82,
+      55,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      99,
+      1268,
+      198
+    ],
+    "category": "Text",
+    "text": "Chiều cao của mực nước sau khi đổ thêm: $\\pi \\int_{0}^{h_2} \\frac{8}{5} x dx = 2 \\cdot \\frac{1}{4} \\cdot 80\\pi \\Leftrightarrow \\frac{4h_2^2}{5} = 40 \\Leftrightarrow h_2 = 5\\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      75,
+      220,
+      1219,
+      274
+    ],
+    "category": "Text",
+    "text": "Chiều cao của mực nước tăng thêm so với ban đầu: $h = h_2 - h_1 = 5\\sqrt{2} - 5 \\approx 2,07$ (cm)."
+  },
+  {
+    "bbox": [
+      75,
+      291,
+      1496,
+      608
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Bốn ngư dân góp vốn mua chung một chiếc thuyền. Số tiền người đầu đóng góp bằng half tổng số tiền của ba người còn lại. Số tiền người thứ hai đóng góp bằng $\\frac{1}{3}$ tổng số tiền của ba người còn lại. Số tiền người thứ ba đóng góp bằng $\\frac{1}{4}$ tổng số tiền của ba người còn lại. Biết người thứ tư đóng góp 130 triệu đồng. Hỏi chiếc thuyền này được mua bao nhiêu triệu đồng?"
+  },
+  {
+    "bbox": [
+      75,
+      625,
+      415,
+      662
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      683,
+      844,
+      722
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      740,
+      258,
+      779
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 600"
+  },
+  {
+    "bbox": [
+      75,
+      796,
+      1493,
+      920
+    ],
+    "category": "Text",
+    "text": "Gọi $x_1, x_2, x_3, x_4$ lần lượt là số tiền mà bốn ngư dân góp vốn mua chung một chiếc thuyền. $(x_1, x_2, x_3, x_4 > 0)$"
+  },
+  {
+    "bbox": [
+      75,
+      939,
+      319,
+      980
+    ],
+    "category": "Text",
+    "text": "Theo đề bài ta có:"
+  },
+  {
+    "bbox": [
+      82,
+      1002,
+      1201,
+      1320
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x_1 = \\frac{1}{2}(x_2 + x_3 + x_4) \\\\ x_2 = \\frac{1}{3}(x_1 + x_3 + x_4) \\\\ x_3 = \\frac{1}{4}(x_1 + x_2 + x_4) \\\\ x_4 = 130 \\end{cases} \\Leftrightarrow \\begin{cases} 2x_1 - x_2 - x_3 - x_4 = 0 \\\\ 3x_2 - x_1 - x_3 - x_4 = 0 \\\\ 4x_3 - x_1 - x_2 - x_4 = 0 \\\\ x_4 = 130 \\end{cases} \\Leftrightarrow \\begin{cases} 2x_1 - x_2 - x_3 = 130 \\\\ -x_1 + 3x_2 - x_3 = 130 \\\\ -x_1 - x_2 + 4x_3 = 130 \\\\ x_4 = 130 \\end{cases} \\Leftrightarrow \\begin{cases} x_1 = 200 \\\\ x_2 = 150 \\\\ x_3 = 120 \\\\ x_4 = 130 \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      1339,
+      1192,
+      1387
+    ],
+    "category": "Text",
+    "text": "Vậy chiếc thuyền này được mua với giá là $200+150+120+130 = 600$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      75,
+      1398,
+      1496,
+      1791
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Trong một trò chơi điện tử, người chơi sẽ khởi đầu tại một trong năm vị trí xuất phát tại các điểm A,B,C,D,O. Ban đầu, người chơi sẽ có 50 HP (HP là từ viết tắt của: “Health Points”) và người chơi sẽ đi từ điểm xuất phát đến các điểm còn lại để tiêu diệt dịch (các đường đi qua sẽ không thể quay trở lại). Ứng với mỗi đường đi qua, người chơi sẽ mất một lượng HP nhất định được ký hiệu trên sơ đồ dưới đây. Sau cùng, người chơi phải quay lại vị trí xuất phát và tiêu diệt dịch cuối cùng ngay tại đó. Biết đường đi cuối cùng này sẽ mất cấp hai lượng HP yêu cầu. Hỏi sau khi hoàn thành nhiệm vụ thì người chơi có thể giữ lại tối đa bao nhiêu HP?"
+  },
+  {
+    "bbox": [
+      595,
+      1825,
+      976,
+      2086
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      75,
+      2124,
+      415,
+      2161
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      727,
+      2182,
+      844,
+      2221
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      840,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 16"
+  }
+]

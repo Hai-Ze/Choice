@@ -1,0 +1,230 @@
+[
+  {
+    "bbox": [
+      152,
+      138,
+      571,
+      181
+    ],
+    "category": "Formula",
+    "text": "$$\n= e^{t-6}(-t^2 + 4t + 6 - 2t + 4)\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      183,
+      472,
+      225
+    ],
+    "category": "Formula",
+    "text": "$$\n= e^{t-6}(-t^2 + 2t + 10).\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      227,
+      967,
+      270
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(t) = 0 \\Leftrightarrow e^{t-6}(-t^2 + 2t + 10) = 0 \\Leftrightarrow -t^2 + 2t + 10 = 0\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      266,
+      593,
+      373
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow \\begin{cases} t = 1 + \\sqrt{11} \\in [0; 6] & (tm) \\\\ t = 1 - \\sqrt{11} \\notin [0; 6] & (L) \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      152,
+      371,
+      1547,
+      461
+    ],
+    "category": "Text",
+    "text": "Suy ra tốc độ lây lan dịch bệnh lớn nhất xảy ra tại $t = 1 + \\sqrt{11} \\approx 4,3$, tức một thời điểm thuộc tuần thứ 5 (vì $(0; 1]$ là tuần 1; $(1; 2]$ là tuần 2; ...; $(4; 5]$ là tuần 5; ...)."
+  },
+  {
+    "bbox": [
+      152,
+      479,
+      1547,
+      880
+    ],
+    "category": "Text",
+    "text": "### Bài 2. Trong hệ tọa độ $Oxyz$, đơn vị trên mỗi trục tính bằng mét, mặt đất trùng với mặt phẳng $(Oxy)$. Trên một sân golf có một lớp đất $(E)$ nhô lên cao 30 mét so với mặt đất tạo thành một mặt phẳng ngang, trong đó mặt sường dốc $(H)$ có phương trình là $(H) : 2y - 4z - 75 = 0$. Một người chơi golf đánh bóng từ điểm $P(60; 0; 0)$ để cố gắng đưa bóng vào lỗ $L(60; 120; 30)$. Trong cú đánh thứ nhất, đường bay của bóng được mô tả bằng hàm số $z(y) = -\\frac{1}{80}y^2 + \\frac{3}{4}y$, còn trong cú đánh thứ hai, đường bay của bóng được mô tả bằng hàm số $z(y) = -\\frac{1}{80}y^2 + ay$ ($a \\in \\mathbb{R}$) (với $z(y)$ là cao độ của quả bóng khi tung độ của nó là $y$). Biết rằng quỹ đạo của quả bóng trong các lần đánh đều nằm trong mặt phẳng song song với mặt phẳng $(Oyz)$."
+  },
+  {
+    "bbox": [
+      436,
+      915,
+      1259,
+      1210
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1285,
+      656,
+      1324
+    ],
+    "category": "Text",
+    "text": "Cácatanh đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      192,
+      1346,
+      943,
+      1387
+    ],
+    "category": "List-item",
+    "text": "a. Quả bóng không rơi trúng lỗ ở lần ném thứ nhất."
+  },
+  {
+    "bbox": [
+      192,
+      1397,
+      1547,
+      1484
+    ],
+    "category": "List-item",
+    "text": "b. Ở lần ném thứ nhất quả bóng rơi trúng mặt sường tại vị trí có độ cao bằng 10 mét so với mặt đất."
+  },
+  {
+    "bbox": [
+      192,
+      1484,
+      1119,
+      1562
+    ],
+    "category": "List-item",
+    "text": "c. Để quả bóng rơi trúng lỗ $L$ ở lần thứ hai thì giá trị $a$ bằng $\\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      192,
+      1568,
+      1547,
+      1655
+    ],
+    "category": "List-item",
+    "text": "d. Biết rằng trong cú đánh thứ hai, quả bóng đã rơi trúng lỗ $L$. Tọa độ điểm có vị trí cao nhất trong đường bay quỹ đạo là $I(60; 70; 61, 25)$."
+  },
+  {
+    "bbox": [
+      152,
+      1671,
+      198,
+      1710
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1671,
+      609,
+      1733
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. a) Đúng."
+  },
+  {
+    "bbox": [
+      202,
+      1743,
+      1211,
+      1823
+    ],
+    "category": "Text",
+    "text": "Trong cú đánh thứ nhất, phương trình quỹ đạo là $z(y) = -\\frac{1}{80}y^2 + \\frac{3}{4}y$."
+  },
+  {
+    "bbox": [
+      202,
+      1835,
+      816,
+      1875
+    ],
+    "category": "Text",
+    "text": "Lỗ $L$ có tung độ $y = 120$ và cao độ $z = 30$."
+  },
+  {
+    "bbox": [
+      202,
+      1885,
+      1119,
+      1965
+    ],
+    "category": "Text",
+    "text": "Ta kiểm tra: $z(120) = -\\frac{1}{80}(120)^2 + \\frac{3}{4}(120) = -180 + 90 = -90$."
+  },
+  {
+    "bbox": [
+      202,
+      1975,
+      1195,
+      2018
+    ],
+    "category": "Text",
+    "text": "Vì $-90 \\neq 30$ nên quả bóng không rơi trúng lỗ $L$ ở lần đánh thứ nhất."
+  },
+  {
+    "bbox": [
+      202,
+      2040,
+      313,
+      2079
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      202,
+      2089,
+      1350,
+      2170
+    ],
+    "category": "Text",
+    "text": "Mặt sường dốc $(H)$ có phương trình $2y - 4z - 75 = 0 \\Leftrightarrow z = \\frac{2y - 75}{4} = \\frac{1}{2}y - \\frac{75}{4}$."
+  },
+  {
+    "bbox": [
+      202,
+      2180,
+      1292,
+      2223
+    ],
+    "category": "Text",
+    "text": "Vị trí bóng rơi trúng mặt sường là giao điểm của quỹ đạo và mặt phẳng $(H)$:"
+  },
+  {
+    "bbox": [
+      57,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "138"
+  },
+  {
+    "bbox": [
+      828,
+      2253,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu�tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      872,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      59,
+      1451,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      75,
+      100,
+      886,
+      193
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } t_2 = \\frac{10}{b} \\Rightarrow S_2 = 10 \\cdot \\frac{10}{b} - \\frac{1}{2}b \\left(\\frac{10}{b}\\right)^2 = \\frac{100}{b} - \\frac{50}{b} = \\frac{50}{b}(m)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      220,
+      744,
+      269
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Quăng đường chuyển động đều: } 10 \\cdot 40 = 400 (m)\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      296,
+      1362,
+      383
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tổng quăng đường: } S = S_1 + 400 + S_2 = \\frac{50}{a} + 400 + \\frac{50}{b} = 50\\left(\\frac{1}{a} + \\frac{1}{b}\\right) + 400 = 150 + 400 = 550 (m).\n$$"
+  },
+  {
+    "bbox": [
+      75,
+      411,
+      1494,
+      541
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian $Oxyz$, cho mặt cầu $(S)$ có phương trình $(x+1)^2 + (y+2)^2 + (z+3)^2 = 14$ và điểm $M(-1; -3; -2)$."
+  },
+  {
+    "bbox": [
+      75,
+      565,
+      625,
+      616
+    ],
+    "category": "Text",
+    "text": "a) **Mặt cầu $(S)$ có tâm là $I(-1; -2; -3)$**."
+  },
+  {
+    "bbox": [
+      75,
+      634,
+      758,
+      679
+    ],
+    "category": "Text",
+    "text": "b) Khoảng cách từ tâm $I$ đến điểm $M$ là $IM = 2$."
+  },
+  {
+    "bbox": [
+      75,
+      697,
+      569,
+      747
+    ],
+    "category": "Text",
+    "text": "c) **Điểm $M$ nằm trong mặt cầu $(S)$**."
+  },
+  {
+    "bbox": [
+      75,
+      772,
+      1494,
+      898
+    ],
+    "category": "Text",
+    "text": "d) Gọi $(P)$ là mặt phẳng đi qua $M$ và cắt mặt cầu $(S)$ theo giao tuyến là một đường tròn có bán kính nhỏ nhất. Khi đó phương trình mặt phẳng $(P)$ là $y - z + 5 = 0$."
+  },
+  {
+    "bbox": [
+      726,
+      924,
+      844,
+      963
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      75,
+      976,
+      894,
+      1100
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      75,
+      1102,
+      625,
+      1152
+    ],
+    "category": "Text",
+    "text": "a) **Mặt cầu $(S)$ có tâm là $I(-1; -2; -3)$**."
+  },
+  {
+    "bbox": [
+      75,
+      1177,
+      816,
+      1242
+    ],
+    "category": "Text",
+    "text": "b) Ta có: $IM = \\sqrt{(-1+1)^2 + (-3+2)^2 + (-2+3)^2} = \\sqrt{2}$."
+  },
+  {
+    "bbox": [
+      75,
+      1265,
+      994,
+      1320
+    ],
+    "category": "Text",
+    "text": "c) Ta có $IM = \\sqrt{2}$ và mặt cầu $(S)$ có bán kính $R = \\sqrt{14} \\Rightarrow IM < R$."
+  },
+  {
+    "bbox": [
+      75,
+      1345,
+      590,
+      1396
+    ],
+    "category": "Text",
+    "text": "Vậy điểm $M$ nằm trong mặt cầu $(S)$."
+  },
+  {
+    "bbox": [
+      75,
+      1421,
+      1494,
+      1537
+    ],
+    "category": "Text",
+    "text": "d) Do điểm $M$ nằm trong mặt cầu $(S)$ nên mặt phẳng $(P)$ đi qua $M$ luôn cắt mặt cầu $(S)$ theo giao tuyến là một đường tròn."
+  },
+  {
+    "bbox": [
+      75,
+      1554,
+      1494,
+      1682
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là tâm của đường tròn giao tuyến $\\Rightarrow IH \\perp (P)$, do đó bán kính đường tròn giao tuyến là $r = \\sqrt{R^2 - IH^2} = \\sqrt{14 - IH^2}$. Suy ra bán kính $r$ nhỏ nhất khi $IH$ lớn nhất."
+  },
+  {
+    "bbox": [
+      75,
+      1697,
+      1174,
+      1754
+    ],
+    "category": "Text",
+    "text": "Ta có: $IH \\le IM \\Leftrightarrow IH \\le \\sqrt{2} \\Rightarrow \\max IH = \\sqrt{2}$ khi $M$ trùng $H$, khi đó $IM \\perp (P)$."
+  },
+  {
+    "bbox": [
+      75,
+      1781,
+      965,
+      1833
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $(P)$ đi qua $M$ và có vecto pháp tuyến $\\overrightarrow{IM} = (0; -1; 1)$."
+  },
+  {
+    "bbox": [
+      75,
+      1858,
+      1191,
+      1908
+    ],
+    "category": "Text",
+    "text": "Vậy phương trình mặt phẳng $(P)$ là $0 \\cdot (x+1) - (y+3) + (z+2) = 0 \\Leftrightarrow y - z + 1 = 0$."
+  },
+  {
+    "bbox": [
+      75,
+      1985,
+      726,
+      2027
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      75,
+      2042,
+      1494,
+      2158
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một doanh nghiệp dự định sản xuất không quá 300 sản phẩm. Nếu doanh nghiệp sản xuất $x$ sản phẩm ($1 \\le x \\le 300$) thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -2x^2 + 1312x$."
+  },
+  {
+    "bbox": [
+      75,
+      2257,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      729,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

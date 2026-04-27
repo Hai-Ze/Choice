@@ -1,0 +1,312 @@
+[
+  {
+    "bbox": [
+      163,
+      56,
+      952,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      94,
+      1573,
+      191
+    ],
+    "category": "Text",
+    "text": "c) Chọn ngẫu nhiên hai nhân viên trong doanh nghiệp, xác suất để chọn được hai người khác giới lớn hơn 24,5%."
+  },
+  {
+    "bbox": [
+      155,
+      214,
+      1573,
+      317
+    ],
+    "category": "Text",
+    "text": "d) Chọn ngẫu nhiên hai nhân viên trong doanh nghiệp, xác suất để trong hai người được có đúng một người có bằng đại học không vượt quá 19,8%."
+  },
+  {
+    "bbox": [
+      807,
+      342,
+      924,
+      380
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      395,
+      971,
+      518
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      572,
+      829,
+      616
+    ],
+    "category": "Text",
+    "text": "a) Gọi $A$ là biến cố “Nhân viên được chọn là nữ”."
+  },
+  {
+    "bbox": [
+      161,
+      630,
+      881,
+      675
+    ],
+    "category": "Text",
+    "text": "$B$ là biến cố “Nhân viên được chọn có bằng đại học”."
+  },
+  {
+    "bbox": [
+      155,
+      694,
+      709,
+      742
+    ],
+    "category": "Text",
+    "text": "Theo giả thiết, ta có $P(A) = 45\\% = 0,45$."
+  },
+  {
+    "bbox": [
+      155,
+      769,
+      1403,
+      827
+    ],
+    "category": "Text",
+    "text": "Khi đó, tỉ lệ nhân viên nam trong tổng số nhân viên là $100\\% - 45\\% = 55\\%$ hay $P(\\bar{A}) = 0,55$."
+  },
+  {
+    "bbox": [
+      155,
+      856,
+      1374,
+      908
+    ],
+    "category": "Text",
+    "text": "b) Vì trong các nhân viên nữ có 30% nhân viên có bằng đại học nên $P(B|A) = 30\\% = 0,3$."
+  },
+  {
+    "bbox": [
+      155,
+      937,
+      1135,
+      1000
+    ],
+    "category": "Text",
+    "text": "Tỉ lệ này trong các nhân viên nam là 25%, tức là $P(B|\\bar{A}) = 25\\% = 0,25$."
+  },
+  {
+    "bbox": [
+      155,
+      1027,
+      1137,
+      1123
+    ],
+    "category": "Text",
+    "text": "Mặt khác $P(B|A) = \\frac{P(AB)}{P(A)} \\Leftrightarrow P(AB) = P(B|A) \\cdot P(A) = 0,135 = 13,5\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      1143,
+      1573,
+      1247
+    ],
+    "category": "Text",
+    "text": "Mà $AB$ là biến cố “Nhân viên nữ có bằng đại học” nên Tỉ lệ nhân viên nữ không có bằng đại học trong tổng số nhân viên là $45\\% - 13,5\\% = 31,5\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      1272,
+      270,
+      1309
+    ],
+    "category": "Text",
+    "text": "c) Ta có"
+  },
+  {
+    "bbox": [
+      155,
+      1325,
+      1362,
+      1370
+    ],
+    "category": "Text",
+    "text": "Xác suất chọn được người thứ nhất là nữ và người thứ hai là nam là: $0,45 \\cdot 0,55 = 0,2475$."
+  },
+  {
+    "bbox": [
+      155,
+      1389,
+      1362,
+      1434
+    ],
+    "category": "Text",
+    "text": "Xác suất chọn được người thứ nhất là nam và người thứ hai là nữ là: $0,55 \\cdot 0,45 = 0,2475$."
+  },
+  {
+    "bbox": [
+      155,
+      1453,
+      1119,
+      1499
+    ],
+    "category": "Text",
+    "text": "Xác suất để chọn được hai người khác giới là $0,2475 + 0,2475 = 0,495$."
+  },
+  {
+    "bbox": [
+      155,
+      1519,
+      1001,
+      1564
+    ],
+    "category": "Text",
+    "text": "Hay tỉ lệ để chọn được hai người khác giới là $49,5\\% > 24,5\\%$."
+  },
+  {
+    "bbox": [
+      155,
+      1582,
+      1365,
+      1627
+    ],
+    "category": "Text",
+    "text": "d) Để trong hai người được có đúng một người có bằng đại học, ta xét các trường hợp sau:"
+  },
+  {
+    "bbox": [
+      155,
+      1639,
+      1298,
+      1685
+    ],
+    "category": "Text",
+    "text": "Trường hợp 1: Người thứ nhất có bằng đại học, người thứ hai không có bằng đại học."
+  },
+  {
+    "bbox": [
+      206,
+      1697,
+      1306,
+      1743
+    ],
+    "category": "Text",
+    "text": "Xác suất người thứ nhất có bằng đại học là $0,135$ (nữ) $+ 0,1375$ (nam) $= 0,2725$."
+  },
+  {
+    "bbox": [
+      206,
+      1768,
+      1492,
+      1817
+    ],
+    "category": "Text",
+    "text": "Xác suất người thứ hai không có bằng đại học là: $0,315$ (nữ) $+ (0,55 - 0,1375)$ (nam) $= 0,7275$."
+  },
+  {
+    "bbox": [
+      206,
+      1839,
+      989,
+      1884
+    ],
+    "category": "Text",
+    "text": "Xác suất cho trường hợp này là $0,2725 \\times 0,7275 \\approx 0,1982$."
+  },
+  {
+    "bbox": [
+      155,
+      1902,
+      1298,
+      1948
+    ],
+    "category": "Text",
+    "text": "Trường hợp 2: Người thứ nhất không có bằng đại học, người thứ hai có bằng đại học."
+  },
+  {
+    "bbox": [
+      206,
+      1960,
+      987,
+      2006
+    ],
+    "category": "Text",
+    "text": "Xác suất người thứ nhất không có bằng đại học là $0,7275$."
+  },
+  {
+    "bbox": [
+      206,
+      2024,
+      884,
+      2070
+    ],
+    "category": "Text",
+    "text": "Xác suất người thứ hai có bằng đại học là $0,2725$."
+  },
+  {
+    "bbox": [
+      206,
+      2090,
+      989,
+      2136
+    ],
+    "category": "Text",
+    "text": "Xác suất cho trường hợp này là $0,7275 \\times 0,2725 \\approx 0,1982$."
+  },
+  {
+    "bbox": [
+      155,
+      2154,
+      1190,
+      2200
+    ],
+    "category": "Text",
+    "text": "Xác suất để trong hai người được chọn có đúng một người có bằng đại học là"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

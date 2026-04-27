@@ -1,0 +1,102 @@
+[
+  {
+    "bbox": [
+      154,
+      99,
+      884,
+      146
+    ],
+    "category": "Text",
+    "text": "số tiền anh rút ra hàng tháng là $m$ (triệu đồng) thì:"
+  },
+  {
+    "bbox": [
+      154,
+      146,
+      1040,
+      195
+    ],
+    "category": "Text",
+    "text": "- Sau 1 tháng gửi, số tiền anh Huy còn lại là: $C_1 = A(1+r)-m$"
+  },
+  {
+    "bbox": [
+      154,
+      205,
+      1349,
+      323
+    ],
+    "category": "Text",
+    "text": "- Sau 2 tháng gửi, số tiền anh Huy còn lại là: $C_2 = [A(1+r)-m](1+r)-m$\n$= A(1+r)^2 - m(1+r)-m$"
+  },
+  {
+    "bbox": [
+      154,
+      332,
+      1502,
+      461
+    ],
+    "category": "Text",
+    "text": "- Sau 3 tháng gửi, số tiền anh Huy còn lại là: $C_3 = [A(1+r)^2 - m(1+r)-m](1+r)-m$\n$= A(1+r)^3 - m(1+r)^2 - m(1+r)-m$"
+  },
+  {
+    "bbox": [
+      154,
+      546,
+      811,
+      594
+    ],
+    "category": "Text",
+    "text": "- Sau $n$ tháng gửi, số tiền anh Huy còn lại là:"
+  },
+  {
+    "bbox": [
+      447,
+      596,
+      1231,
+      754
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned}\nC_n &= A(1+r)^n - m(1+r)^{n-1} - m(1+r)^{n-2} - \\dots - m(1+r) - m \\\\\n&= A(1+r)^n - m \\cdot \\frac{(1+r)^n - 1}{r}.\n\\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      181,
+      765,
+      1075,
+      1089
+    ],
+    "category": "Text",
+    "text": "Anh Huy rút hết tiền khi: $C_n = 0 \\Leftrightarrow A(1+r)^n - m \\cdot \\frac{(1+r)^n - 1}{r} = 0$\n$\\Leftrightarrow (m - Ar)(1+r)^n = m$\n$\\Leftrightarrow (1+r)^n = \\frac{m}{m - Ar}$\n$\\Leftrightarrow n = \\log_{(1+r)} \\frac{m}{m - Ar}$"
+  },
+  {
+    "bbox": [
+      154,
+      1095,
+      922,
+      1136
+    ],
+    "category": "Text",
+    "text": "Thay $A = 1000$ (triệu), $m = 30$ (triệu), $r = 0,5\\% = 0,005$"
+  },
+  {
+    "bbox": [
+      154,
+      1136,
+      1298,
+      1184
+    ],
+    "category": "Text",
+    "text": "Ta được $n \\approx 36,6$. Tức là sau 37 tháng anh Huy sẽ rút hết tiền trong ngân hàng."
+  },
+  {
+    "bbox": [
+      1515,
+      2243,
+      1532,
+      2271
+    ],
+    "category": "Page-footer",
+    "text": "8"
+  }
+]

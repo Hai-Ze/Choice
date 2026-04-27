@@ -1,0 +1,92 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      111,
+      377,
+      152
+    ],
+    "category": "Text",
+    "text": "Đáp án: 18"
+  },
+  {
+    "bbox": [
+      212,
+      156,
+      1262,
+      262
+    ],
+    "category": "Text",
+    "text": "Khi $E = 12(V)$ và $r = 2 (\\Omega)$ thì $P = \\frac{144R}{(R+2)^2} \\quad (R > 0) \\Rightarrow P' = \\frac{-144R^2 + 576}{(R+2)^4}$"
+  },
+  {
+    "bbox": [
+      212,
+      270,
+      970,
+      378
+    ],
+    "category": "Text",
+    "text": "Cho $P' = 0 \\Leftrightarrow \\begin{cases} R = -2 (l) \\\\ R = 2 (n) \\end{cases}$ nên ta có bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      226,
+      403,
+      756,
+      645
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>R</td><td>0</td><td>2</td><td>+ ∞</td></tr><tr><td>P'</td><td>+</td><td>0</td><td>-</td></tr><tr><td>P</td><td colspan=\"3\">18</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      652,
+      862,
+      695
+    ],
+    "category": "Text",
+    "text": "Vậy công suất $P$ đạt giá trị cực đại là 18 W."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1517,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 11 -"
+  }
+]

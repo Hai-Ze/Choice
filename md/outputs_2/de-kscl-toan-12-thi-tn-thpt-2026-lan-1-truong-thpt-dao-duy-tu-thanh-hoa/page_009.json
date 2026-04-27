@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      133,
+      106,
+      1321,
+      195
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $y = \\frac{2x^2 + 5x}{x+3}$ có đồ thị $(C)$. Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      232,
+      199,
+      655,
+      247
+    ],
+    "category": "List-item",
+    "text": "a) Tập xác định $D = \\mathbb{R} \\setminus \\{-3\\}$."
+  },
+  {
+    "bbox": [
+      232,
+      249,
+      1147,
+      297
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số có hai cực trị có tổng hoành độ của cực trị bằng $-6$."
+  },
+  {
+    "bbox": [
+      232,
+      293,
+      827,
+      340
+    ],
+    "category": "List-item",
+    "text": "c) Đồ thị hàm số có tiệm cận đứng $x = 3$."
+  },
+  {
+    "bbox": [
+      232,
+      338,
+      1446,
+      429
+    ],
+    "category": "List-item",
+    "text": "d) Khoảng cách từ điểm $M(2;1)$ đến đường tiệm cận xiên của đồ thị $(C)$ bằng $\\frac{\\sqrt{5}}{5}$."
+  },
+  {
+    "bbox": [
+      133,
+      427,
+      1465,
+      531
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ sau. Xét tính đúng, sai của các khẳng định sau"
+  },
+  {
+    "bbox": [
+      403,
+      567,
+      1283,
+      836
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td></td><td></td><td>$+$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td></td><td></td><td>$0 \\to +\\infty$</td><td>$1 \\to -\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      232,
+      836,
+      881,
+      888
+    ],
+    "category": "List-item",
+    "text": "a) Hàm số $y = f(x)$ nghịch biến trên $(-2;0)$."
+  },
+  {
+    "bbox": [
+      232,
+      892,
+      861,
+      942
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ đạt cực tiểu tại $x = -2$."
+  },
+  {
+    "bbox": [
+      232,
+      946,
+      914,
+      998
+    ],
+    "category": "List-item",
+    "text": "c) Hàm số $y = f(x)$ có giá trị nhỏ nhất bằng 0."
+  },
+  {
+    "bbox": [
+      232,
+      1007,
+      1555,
+      1141
+    ],
+    "category": "List-item",
+    "text": "d) Đồ thị hàm số $y = \\frac{1}{f(x)-1}$ có $a$ đường tiệm cận đứng và $b$ đường tiệm cận ngang. Khi đó $a = 2b$."
+  },
+  {
+    "bbox": [
+      133,
+      1145,
+      1286,
+      1228
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Cho hàm số $y = f(x) = \\frac{ax+b}{cx+1}$ với $a,b,c \\in \\mathbb{R}$ có đồ thị như hình vẽ dưới:"
+  },
+  {
+    "bbox": [
+      698,
+      1230,
+      1069,
+      1542
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      232,
+      1548,
+      727,
+      1595
+    ],
+    "category": "Text",
+    "text": "Các khẳng định sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      232,
+      1593,
+      847,
+      1644
+    ],
+    "category": "List-item",
+    "text": "a) Đạo hàm của hàm số $f'(x) < 0, \\forall x \\in \\mathbb{R}$."
+  },
+  {
+    "bbox": [
+      232,
+      1649,
+      1192,
+      1702
+    ],
+    "category": "List-item",
+    "text": "b) Hàm số $y = f(x)$ nghịch biến trên các khoảng $(1;+\\infty)$; $(-\\infty;1)$."
+  },
+  {
+    "bbox": [
+      232,
+      1706,
+      1555,
+      1807
+    ],
+    "category": "List-item",
+    "text": "c) Đồ thị hàm số $y = f(x)$ có đường tiệm cận đứng là $x = 1$ và đường tiệm cận ngang là $y = 1$."
+  },
+  {
+    "bbox": [
+      232,
+      1807,
+      563,
+      1856
+    ],
+    "category": "List-item",
+    "text": "d) Tổng $a+b+c = -2$."
+  },
+  {
+    "bbox": [
+      173,
+      1850,
+      1307,
+      1898
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6"
+  },
+  {
+    "bbox": [
+      143,
+      1894,
+      1356,
+      1942
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một công ty sản xuất mỹ phẩm ước tính chi phí để sản xuất $x$ (sản phẩm) là"
+  },
+  {
+    "bbox": [
+      583,
+      1954,
+      1031,
+      2006
+    ],
+    "category": "Formula",
+    "text": "$$\nC(x) = 400x + 50 \\text{ (nghìn đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      232,
+      2031,
+      1546,
+      2187
+    ],
+    "category": "Text",
+    "text": "Khi đó $f(x) = \\frac{C(x)}{x}$ là chi phí sản xuất trung bình cho mỗi sản phẩm. Hỏi chi phí sản xuất trung bình cho mỗi sản phẩm không thấp hơn bao nhiêu nghìn đồng?"
+  },
+  {
+    "bbox": [
+      1256,
+      2209,
+      1491,
+      2249
+    ],
+    "category": "Page-footer",
+    "text": "4/5 - Mã đề 1702"
+  }
+]

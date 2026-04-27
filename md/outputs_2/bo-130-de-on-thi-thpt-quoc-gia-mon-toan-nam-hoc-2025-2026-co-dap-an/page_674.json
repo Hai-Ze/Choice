@@ -1,0 +1,161 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      40,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      142,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      714,
+      125,
+      1278,
+      856
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      482,
+      903,
+      1555,
+      976
+    ],
+    "category": "List-item",
+    "text": "a) Diểm $A$ xuất phát từ $O(0; 0)$, mỗi bước có thể đi một ô sang phải hoặc một ô lên trên."
+  },
+  {
+    "bbox": [
+      482,
+      1008,
+      1555,
+      1086
+    ],
+    "category": "List-item",
+    "text": "b) Diểm $B$ xuất phát từ $B(5; 7)$, mỗi bước có thể đi một ô sang trái hoặc một ô xuống dưới."
+  },
+  {
+    "bbox": [
+      448,
+      1125,
+      1555,
+      1202
+    ],
+    "category": "Text",
+    "text": "Giả sử mỗi điểm đều đi đúng 6 bước và trong số tất cả các đường đi ngắn nhất (đều gồm 6 bước) thì mỗi đường được chọn với xác suất như nhau."
+  },
+  {
+    "bbox": [
+      448,
+      1202,
+      1555,
+      1282
+    ],
+    "category": "Text",
+    "text": "Hỏi xác suất để hai điểm gặp nhau trên mặt phẳng tọa độ bằng bao nhiêu (làm tròn kết quả đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      1333,
+      1241,
+      1555,
+      1290
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      448,
+      1308,
+      1555,
+      1533
+    ],
+    "category": "Text",
+    "text": "**CÂU 7.** Một集合 chứa 10 viên bi xanh và 5 viên bi đỏ. Bạn An lấy ra ngẫu nhiên 1 viên bi từ集合, xem màu, rồi bỏ ra ngoài. Nếu viên bi An lấy ra có màu xanh, bạn Bình sẽ lấy ra ngẫu nhiên 2 viên bi từ集合; còn nếu viên bi An lấy ra có màu đỏ, bạn Bình sẽ lấy ra ngẫu nhiên 3 viên bi từ集合. Tính xác suất để An lấy được viên bi màu xanh, biết rằng tất cả các viên bi được hai bạn chọn ra đều có đủ cả hai màu."
+  },
+  {
+    "bbox": [
+      459,
+      1533,
+      681,
+      1584
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      448,
+      1602,
+      1555,
+      1872
+    ],
+    "category": "Text",
+    "text": "**CÂU 8.** Có ba đồng xu được待定 trong một集合 kín. Đồng xu thứ nhất là một đồng xu cân đối với tỷ lệ mặt ngửa và mặt sấp bằng nhau. Đồng xu thứ hai là một đồng xu bị lõi có khả năng mặt ngửa xuất hiện là 70%. Đồng xu thứ ba là một đồng xu hai mặt ngửa (khi tung luôn ra mặt ngửa). Bạn An lấy ngẫu nhiên một đồng xu từ集合 và tung nó hai lần. Kết quả của hai lần tung cho thấy xuất hiện một lần mặt sấp và một lần mặt ngửa. Tính xác suất để đồng xu bạn đã chọn là đồng xu thứ hai (đồng xu bị lõi) (Kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      1333,
+      1831,
+      1555,
+      1880
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      448,
+      1896,
+      1555,
+      2225
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Kỳ thi tốt nghiệp THPT năm 2025 dự kiến thi ba buổi. Ngày đầu thi chung Văn và Toán (buổi 1 & 2), buổi thứ ba tổ chức thi tất cả các môn còn lại theo đúng hai khung giờ. Bạn Hiền và bạn Hoà thi chung một phòng thi nhưng thuộc hai nhóm môn khác nhau. Bạn Hiền học nhóm môn (Sử; Anh; Lý; Hoá; Sinh; Tin) còn bạn Hoà học nhóm môn (Sử; Anh; Địa; KT & PL; Công nghệ). Mỗi bạn chọn ngẫu nhiên theo thứ tự 2 môn trong nhóm môn mình học để thi. Xác suất để bạn Hiền và bạn Hoà thi buổi thứ ba trùng đúng một môn thi trong cùng một khung giờ bằng $\\frac{a}{b}$ (tối giản). Tính $a + b$."
+  },
+  {
+    "bbox": [
+      1333,
+      2167,
+      1555,
+      2216
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      427,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "672 Bùi Tịnh Minh Lâm"
+  }
+]

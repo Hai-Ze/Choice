@@ -1,0 +1,150 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      606,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      666,
+      111,
+      972,
+      566
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      191,
+      575,
+      1575,
+      794
+    ],
+    "category": "Text",
+    "text": "Mặt đáy tào nhà là hình vuông có cạnh $L_0 = 26$ m, mặt đỉnh là hình vuông có cạnh $L_{30} = 20$ m. Мặt cắt ngang tại vị trí-hep nhất của tào nhà: Hình vuông có cạnh $L_{min} = 13,75$ m. Мặt cắt của tào nhà theo mặt phẳng đứng chứa đường chéo đáy có dạng là hình phẳng giới hạn bởi hai đường cong parabol đối xứng nhau qua trục thẳng đứng đi qua tâm đáy của tào nhà. Tính thể tích của tào nhà đó (làm tròn đến hàng đơn vị, đơn vị tính: mét khối)."
+  },
+  {
+    "bbox": [
+      767,
+      794,
+      882,
+      831
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      831,
+      415,
+      870
+    ],
+    "category": "Text",
+    "text": "Đáp án: 8976"
+  },
+  {
+    "bbox": [
+      537,
+      874,
+      1278,
+      1392
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1406,
+      715,
+      1445
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục toạ độ $Oxy$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      212,
+      1448,
+      1335,
+      1497
+    ],
+    "category": "Text",
+    "text": "Gọi $L(x)$ là hàm biến thiên của độ dài đường chéo mặt cắt của toà nhà tại độ cao $x$."
+  },
+  {
+    "bbox": [
+      212,
+      1504,
+      1575,
+      1667
+    ],
+    "category": "Text",
+    "text": "Theo đề ta có, $L(x)$ là một parabol đi qua ba điểm $(0;13\\sqrt{2})$, $(30;10\\sqrt{2})$, $\\left(x_o; \\frac{55\\sqrt{2}}{8}\\right)$, trong đó $x_o$ là vị trí toà nhà có cạnh cạnh $L_{min} = 13,75$ m."
+  },
+  {
+    "bbox": [
+      218,
+      1673,
+      577,
+      1766
+    ],
+    "category": "Formula",
+    "text": "$$\nL(x) = a(x - x_o)^2 + \\frac{55\\sqrt{2}}{8}.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1770,
+      1185,
+      2133
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{aligned} \\text{Ta có hệ: } & \\begin{cases} L(0) = a(0 - x_o)^2 + \\frac{55\\sqrt{2}}{8} = 13\\sqrt{2} \\\\ L(30) = a(30 - x_o)^2 + \\frac{55\\sqrt{2}}{8} = 10\\sqrt{2} \\end{cases} \\Leftrightarrow \\begin{cases} a(x_o)^2 = \\frac{49\\sqrt{2}}{8} \\\\ a(30 - x_o)^2 = \\frac{25\\sqrt{2}}{8} \\end{cases} \\\\ \\Rightarrow \\frac{x_o^2}{(30 - x_o)^2} = \\frac{49}{25} \\Rightarrow \\begin{cases} x_o = 105(L) \\\\ x_o = 17,5 (TM) \\end{cases} \\Rightarrow a = \\frac{\\sqrt{2}}{50} \\end{aligned}\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2139,
+      715,
+      2234
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Suy ra } L(x) = \\frac{\\sqrt{2}}{50}(x - 17,5)^2 + \\frac{55\\sqrt{2}}{8}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1506,
+      2304
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 8 -"
+  }
+]

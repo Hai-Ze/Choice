@@ -1,0 +1,272 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      198,
+      108,
+      1575,
+      152
+    ],
+    "category": "Text",
+    "text": "Có hệ ba phương trình ba ẩn:"
+  },
+  {
+    "bbox": [
+      203,
+      155,
+      1321,
+      429
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} h(0) = 520 \\\\ h(5) = 530 \\\\ h(15) = 520 \\end{cases} \\Leftrightarrow \\begin{cases} C = 520 \\\\ \\frac{125}{3}a + \\frac{25}{2}b + C = 530 \\\\ \\frac{15^3}{3}a + \\frac{15^2}{2}b + C = 520 \\end{cases} \\Leftrightarrow \\begin{cases} a = -\\frac{3}{25} \\\\ b = \\frac{6}{5} \\\\ C = 520 \\end{cases} \\Rightarrow h(t) = -\\frac{3}{25}t^3 + \\frac{6}{5}t^2 + 520\n$$"
+  },
+  {
+    "bbox": [
+      203,
+      438,
+      507,
+      521
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow v(t) = -\\frac{9}{25}t^2 + \\frac{12}{5}t\n$$"
+  },
+  {
+    "bbox": [
+      198,
+      524,
+      1575,
+      656
+    ],
+    "category": "Text",
+    "text": "Xét $v(t) > 0 \\Leftrightarrow 0 < t < \\frac{20}{3}$ vậy nên giai đoạn khinh khí cầu tăng độ cao kéo dài trong 10 phút kể từ thời điểm xuất phát là sai"
+  },
+  {
+    "bbox": [
+      200,
+      659,
+      292,
+      695
+    ],
+    "category": "Text",
+    "text": "d) Sai"
+  },
+  {
+    "bbox": [
+      198,
+      702,
+      519,
+      841
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét } v(t) = 0 \\Leftrightarrow \\begin{cases} t = 0 \\\\ t = \\frac{20}{3} \\end{cases}\n$$"
+  },
+  {
+    "bbox": [
+      198,
+      848,
+      1421,
+      937
+    ],
+    "category": "Text",
+    "text": "Với $h(0) = 520$, $h(\\frac{20}{3}) = 537,78$ nên độ cao tối đa của khinh khí cầu là 540 m là sai"
+  },
+  {
+    "bbox": [
+      74,
+      942,
+      1575,
+      1224
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Một nghiên cứu đã chỉ ra rằng tỉ lệ người bị lao phổi trong nhóm $X$ những người mắc phải hội chứng suy giảm miễn dịch $H$ là 15,2%. Kết quả nghiên cứu về một số triệu chứng lâm sàng như có ho trong vòng bốn tuần, hoặc có bị sốt trong vòng bốn tuần, hoặc ra mồ hôi ban đêm từ ba tuần trở lên của nhóm $X$ cho thấy: trong số những người mắc bệnh lao phổi, có 93,2% trường hợp có ít nhất một triệu chứng; trong số những người không mắc bệnh lao phổi có 35,8% trường hợp không có triệu chứng nào."
+  },
+  {
+    "bbox": [
+      211,
+      1226,
+      1566,
+      1274
+    ],
+    "category": "Text",
+    "text": "a) Gặp ngẫu nhiên một bệnh nhân thuộc nhóm $X$, xác suất bệnh nhân bị lao phổi là 0,152."
+  },
+  {
+    "bbox": [
+      211,
+      1276,
+      1573,
+      1367
+    ],
+    "category": "Text",
+    "text": "b) Gặp được bệnh nhân không mắc bệnh lao phổi, xác suất bệnh nhân đó có ít nhất một triệu chứng trên là 0,358."
+  },
+  {
+    "bbox": [
+      211,
+      1373,
+      1573,
+      1462
+    ],
+    "category": "Text",
+    "text": "c) Có 70% bệnh nhân thuộc nhóm $X$ có ít nhất một triệu chứng trên (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      211,
+      1462,
+      1573,
+      1553
+    ],
+    "category": "Text",
+    "text": "d) Trong số những bệnh nhân có ít nhất một triệu chứng trên, có 21% người mắc bệnh lao phổi (kết quả tính theo phần trăm được làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      814,
+      1555,
+      932,
+      1597
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      211,
+      1601,
+      347,
+      1642
+    ],
+    "category": "Text",
+    "text": "a) Đúng."
+  },
+  {
+    "bbox": [
+      211,
+      1642,
+      1573,
+      1733
+    ],
+    "category": "Text",
+    "text": "Gặp ngẫu nhiên một bệnh nhân thuộc nhóm $X$. Gọi $A$ là biến cố “Bccccnh nhân bị lao phổi”, $B$ là biến cố “Bccccnh nhân có ít nhất một triệu chứng”."
+  },
+  {
+    "bbox": [
+      211,
+      1735,
+      507,
+      1780
+    ],
+    "category": "Text",
+    "text": "Ta có $P(A) = 0,152$."
+  },
+  {
+    "bbox": [
+      211,
+      1790,
+      312,
+      1827
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      211,
+      1833,
+      1573,
+      1923
+    ],
+    "category": "Text",
+    "text": "Gặp được bệnh nhân không mắc bệnh lao phổi, xác suất bệnh nhân đó có ít nhất một triệu chứng trên là"
+  },
+  {
+    "bbox": [
+      699,
+      1923,
+      1083,
+      1978
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B | \\bar{A}) = 1 - 0,358 = 0,642\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      1990,
+      307,
+      2026
+    ],
+    "category": "Text",
+    "text": "c) Sai."
+  },
+  {
+    "bbox": [
+      211,
+      2034,
+      1233,
+      2076
+    ],
+    "category": "Text",
+    "text": "Xác suất bệnh nhân thuộc nhóm $X$ có ít nhất một triệu chứng trên là:"
+  },
+  {
+    "bbox": [
+      235,
+      2076,
+      1552,
+      2131
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(B | A) \\cdot P(A) + P(B | \\bar{A}) \\cdot P(\\bar{A}) = 0,152 \\cdot 0,932 + (1 - 0,152) \\cdot (1 - 0,358) = 0,68608 \\approx 69\\%\n$$"
+  },
+  {
+    "bbox": [
+      211,
+      2142,
+      351,
+      2184
+    ],
+    "category": "Text",
+    "text": "d) Đúng."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

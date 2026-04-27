@@ -1,0 +1,191 @@
+[
+  {
+    "bbox": [
+      235,
+      140,
+      1306,
+      182
+    ],
+    "category": "Text",
+    "text": "Trong tập $S$, có 5 số là $\\{5, 10, 15, 20, 25\\}$. Gọi tập này là $A$, khi đó $|A| = 5$."
+  },
+  {
+    "bbox": [
+      195,
+      198,
+      971,
+      240
+    ],
+    "category": "Text",
+    "text": "❖ Nếu $n \\equiv 1$ hoặc $n \\equiv 4 \\pmod{5}$ thì $n^2 \\equiv 1 \\pmod{5}$."
+  },
+  {
+    "bbox": [
+      235,
+      256,
+      919,
+      299
+    ],
+    "category": "Text",
+    "text": "Các số chia 5 dư 1 là $\\{1, 6, 11, 16, 21, 26\\}$ (6 số)."
+  },
+  {
+    "bbox": [
+      235,
+      315,
+      1546,
+      400
+    ],
+    "category": "Text",
+    "text": "Các số chia 5 dư 4 là $\\{4, 9, 14, 19, 24\\}$ (5 số). Vậy có $6 + 5 = 11$ số. Gọi tập này là $B$, khi đó $|B| = 11$."
+  },
+  {
+    "bbox": [
+      195,
+      417,
+      971,
+      459
+    ],
+    "category": "Text",
+    "text": "❖ Nếu $n \\equiv 2$ hoặc $n \\equiv 3 \\pmod{5}$ thì $n^2 \\equiv 4 \\pmod{5}$."
+  },
+  {
+    "bbox": [
+      235,
+      475,
+      1546,
+      561
+    ],
+    "category": "Text",
+    "text": "Các số chia 5 dư 2 là $\\{2, 7, 12, 17, 22\\}$ (5 số). Các số chia 5 dư 3 là $\\{3, 8, 13, 18, 23\\}$ (5 số).\nVậy có $5 + 5 = 10$ số. Gọi tập này là $C$, khi đó $|C| = 10$."
+  },
+  {
+    "bbox": [
+      154,
+      581,
+      1424,
+      622
+    ],
+    "category": "Text",
+    "text": "Gọi 3 số được chọn và xếp vào 3 góc là $a, b, c$. Số ghi ở tam giác giữa là $T = a^2 + b^2 + c^2$."
+  },
+  {
+    "bbox": [
+      154,
+      642,
+      1546,
+      729
+    ],
+    "category": "Text",
+    "text": "Để $T \\equiv 5 \\pmod{5}$, tức là $a^2 + b^2 + c^2 \\equiv 0 \\pmod{5}$, ta có các trường hợp sau về số dư của $(a^2, b^2, c^2)$ khi chia cho 5 (lấy từ tập $\\{0, 1, 4\\}$):"
+  },
+  {
+    "bbox": [
+      195,
+      749,
+      1181,
+      790
+    ],
+    "category": "Text",
+    "text": "❖ **Trường hợp 1:** Cả 3 số $a, b, c$ đều có bình phương chia hết cho 5."
+  },
+  {
+    "bbox": [
+      235,
+      806,
+      1546,
+      894
+    ],
+    "category": "Text",
+    "text": "Tức là $a, b, c \\in A$. Vì 3 số phân biệt và có thứ tự (xếp vào 3 góc khác nhau), số cách chọn và xếp là: $A_5^3 = 5 \\cdot 4 \\cdot 3 = 60$ (cách)."
+  },
+  {
+    "bbox": [
+      195,
+      910,
+      1546,
+      995
+    ],
+    "category": "Text",
+    "text": "❖ **Trường hợp 2:** Trong 3 số, có một số bình phương dư 0, một số bình phương dư 1 và một số bình phương dư 4."
+  },
+  {
+    "bbox": [
+      235,
+      1011,
+      1546,
+      1097
+    ],
+    "category": "Text",
+    "text": "Tức là một số thuộc $A$, một số thuộc $B$ và một số thuộc $C$. Số cách chọn 3 số từ 3 tập này là: $5 \\cdot 11 \\cdot 10 = 550$ (cách)."
+  },
+  {
+    "bbox": [
+      235,
+      1115,
+      1141,
+      1156
+    ],
+    "category": "Text",
+    "text": "Với mỗi bộ 3 số chọn được, có $3! = 6$ cách xếp chúng vào 3 góc."
+  },
+  {
+    "bbox": [
+      235,
+      1172,
+      1080,
+      1213
+    ],
+    "category": "Text",
+    "text": "Số cách xếp trong trường hợp này là: $550 \\cdot 6 = 3300$ (cách)."
+  },
+  {
+    "bbox": [
+      154,
+      1233,
+      1259,
+      1276
+    ],
+    "category": "Text",
+    "text": "Vậy tổng số cách xếp thỏa mãn yêu cầu bài toán là: $60 + 3300 = 3360$ (cách)."
+  },
+  {
+    "bbox": [
+      154,
+      1294,
+      1546,
+      1557
+    ],
+    "category": "Text",
+    "text": "» **Bài 2.** Một nhà địa chất học đang ở địa điểm $A$ trên sa mạc. Anh ta muốn đến điểm $B$ (cunk ở trên sa mạc) và cách $A$ một khoảng bằng 70 km. Trong sa mạc, xe anh ta chỉ có thể di chuyển với vận tốc 30 km/h. Nhà địa chất phải đến được điểm $B$ sau 2 giờ, vì vậy nếu anh ta đi thẳng từ $A$ đến $B$ sẽ không thể đến đúng giờ được. Rất may, có một con đường nhua song song với đường nối $A$ và $B$ và cách $AB$ một đoạn 10 km. Trên đường nhua đó, xe nhà địa chất có thể di chuyển với vận tốc 50 km/h. Thời gian ngắn nhất để nhà địa chất di chuyển từ $A$ đến $B$ là bao nhiêu phút?"
+  },
+  {
+    "bbox": [
+      455,
+      1573,
+      1253,
+      1862
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      58,
+      2250,
+      108,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "186"
+  },
+  {
+    "bbox": [
+      829,
+      2254,
+      1500,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

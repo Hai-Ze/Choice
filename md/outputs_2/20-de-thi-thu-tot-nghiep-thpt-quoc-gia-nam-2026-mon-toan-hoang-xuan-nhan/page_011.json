@@ -1,0 +1,249 @@
+[
+  {
+    "bbox": [
+      217,
+      56,
+      441,
+      101
+    ],
+    "category": "Section-header",
+    "text": "b) M event sai."
+  },
+  {
+    "bbox": [
+      217,
+      101,
+      1355,
+      184
+    ],
+    "category": "Text",
+    "text": "Năm 2015 ứng với $t = 15$. Khi đó $N(15) = \\frac{25 \\cdot 15 + 10}{15 + 5} = \\frac{385}{20} = 19,25$ (nghìn người)."
+  },
+  {
+    "bbox": [
+      217,
+      184,
+      471,
+      226
+    ],
+    "category": "Section-header",
+    "text": "c) M event đúng."
+  },
+  {
+    "bbox": [
+      217,
+      226,
+      903,
+      319
+    ],
+    "category": "Text",
+    "text": "Ta có: $N'(t) = \\frac{(25)(t+5) - (25t+10) \\cdot 1}{(t+5)^2} = \\frac{115}{(t+5)^2}$."
+  },
+  {
+    "bbox": [
+      217,
+      319,
+      475,
+      364
+    ],
+    "category": "Section-header",
+    "text": "d) M event đúng."
+  },
+  {
+    "bbox": [
+      217,
+      364,
+      1015,
+      451
+    ],
+    "category": "Text",
+    "text": "Vì $N'(t) = \\frac{115}{(t+5)^2} > 0$, với mọi $t \\ge 0$ nên $N(t)$ luôn tăng."
+  },
+  {
+    "bbox": [
+      217,
+      457,
+      1362,
+      583
+    ],
+    "category": "Text",
+    "text": "Mặt khác $N(t) = \\frac{25t+10}{t+5} = 25 - \\frac{115}{t+5} < 25$ (nghìn người) $\\Rightarrow N(t) < 25000$ (người).\nVậy dân số tăng nhưng không vượt quá 25000 người."
+  },
+  {
+    "bbox": [
+      92,
+      663,
+      1333,
+      808
+    ],
+    "category": "List-item",
+    "text": "Câu 14. Vận tốc $v(t)$ (tính bằng centimét/giây) của một con lắc đơn theo thời gian $t$ được cho bởi các công thức $v(t) = 2\\sin\\left(2t + \\frac{\\pi}{6}\\right)$."
+  },
+  {
+    "bbox": [
+      1351,
+      661,
+      1593,
+      930
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      167,
+      930,
+      1595,
+      1312
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Xét tính đúng sai các m event sau:</th><th>Đúng</th><th>Sai</th></tr></thead><tbody><tr><td>a) At thời điểm $t = 0$, vận tốc của con lắc đơn là $v(0) = 1$ (cm/s).</td><td>☐</td><td>☐</td></tr><tr><td>b) Đạo hàm của $v(t)$ là $v'(t) = -4\\cos\\left(2t + \\frac{\\pi}{6}\\right)$.</td><td>☐</td><td>☐</td></tr><tr><td>c) Phương trình $v'(t) = 0$ có nghiệm duy nhất trên đoạn $\\left[0; \\frac{\\pi}{2}\\right]$ là $\\frac{\\pi}{6}$.</td><td>☐</td><td>☐</td></tr><tr><td>d) Trong khoảng từ 0 đến 10 giây, con lắc đơn có 4 lần đạt vận tốc lớn nhất.</td><td>☐</td><td>☐</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      740,
+      1312,
+      965,
+      1354
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1372,
+      473,
+      1416
+    ],
+    "category": "Section-header",
+    "text": "a) M event đúng."
+  },
+  {
+    "bbox": [
+      217,
+      1416,
+      769,
+      1502
+    ],
+    "category": "Text",
+    "text": "Với $t = 0$ thì $v(0) = 2\\sin\\left(\\frac{\\pi}{6}\\right) = 1$ (cm/s)."
+  },
+  {
+    "bbox": [
+      217,
+      1504,
+      441,
+      1548
+    ],
+    "category": "Section-header",
+    "text": "b) M event sai."
+  },
+  {
+    "bbox": [
+      217,
+      1548,
+      805,
+      1635
+    ],
+    "category": "Text",
+    "text": "Đạo hàm của $v(t)$ là $v'(t) = 4\\cos\\left(2t + \\frac{\\pi}{6}\\right)$."
+  },
+  {
+    "bbox": [
+      217,
+      1637,
+      471,
+      1681
+    ],
+    "category": "Section-header",
+    "text": "c) M event đúng."
+  },
+  {
+    "bbox": [
+      217,
+      1681,
+      1377,
+      1768
+    ],
+    "category": "Text",
+    "text": "Ta có: $v'(t) = 0 \\Leftrightarrow 4\\cos\\left(2t + \\frac{\\pi}{6}\\right) = 0 \\Leftrightarrow 2t + \\frac{\\pi}{6} = \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z} \\Leftrightarrow t = \\frac{\\pi}{6} + k\\frac{\\pi}{2}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      217,
+      1774,
+      1010,
+      1862
+    ],
+    "category": "Text",
+    "text": "Vì $t \\in \\left[0; \\frac{\\pi}{2}\\right]$ nên chỉ có $t = \\frac{\\pi}{6}$ thỏa mãn (ứng với $k = 0$)."
+  },
+  {
+    "bbox": [
+      217,
+      1864,
+      475,
+      1908
+    ],
+    "category": "Section-header",
+    "text": "d) M event đúng."
+  },
+  {
+    "bbox": [
+      217,
+      1908,
+      1039,
+      1995
+    ],
+    "category": "Text",
+    "text": "Với mọi $t \\in \\mathbb{R}$ thì $-2 \\le 2\\sin\\left(2t + \\frac{\\pi}{6}\\right) \\le 2$ hay $-2 \\le v(t) \\le 2$."
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      166,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      171,
+      2017,
+      505,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1143,
+      2053
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1148,
+      2017,
+      1442,
+      2055
+    ],
+    "category": "Page-footer",
+    "text": "ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2021,
+      1558,
+      2053
+    ],
+    "category": "Page-footer",
+    "text": "3"
+  }
+]

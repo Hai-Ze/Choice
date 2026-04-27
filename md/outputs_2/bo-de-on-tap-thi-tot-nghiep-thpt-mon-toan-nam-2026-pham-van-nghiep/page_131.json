@@ -1,0 +1,210 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      608,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1507,
+      217
+    ],
+    "category": "Text",
+    "text": "$(S): (x-2)^2 + (y-3)^2 + (z-1)^2 = 9$ và sàn lều nằm trong mặt phẳng $(Oxy)$. Tính bán kính đường tròn sàn của lều (làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      833,
+      220,
+      953,
+      261
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      265,
+      403,
+      306
+    ],
+    "category": "Text",
+    "text": "Đáp án: 2,83"
+  },
+  {
+    "bbox": [
+      616,
+      348,
+      1215,
+      805
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1201,
+      777,
+      1249,
+      811
+    ],
+    "category": "Text",
+    "text": "Activat\nGo to Set"
+  },
+  {
+    "bbox": [
+      212,
+      816,
+      1347,
+      871
+    ],
+    "category": "Text",
+    "text": "+) Mặt cầu $(S): (x-2)^2 + (y-3)^2 + (z-1)^2 = 9$ có tâm $I(2;3;1)$, bán kính $R=3$."
+  },
+  {
+    "bbox": [
+      212,
+      877,
+      853,
+      925
+    ],
+    "category": "Text",
+    "text": "+) Mặt phẳng $(Oxy)$ có phương trình $z=0$."
+  },
+  {
+    "bbox": [
+      212,
+      932,
+      1328,
+      982
+    ],
+    "category": "Text",
+    "text": "Ta có: khoảng cách từ tâm $I(2;3;1)$ đến mặt phẳng $(Oxy)$ là $d(I;(Oxy))=1$."
+  },
+  {
+    "bbox": [
+      212,
+      988,
+      1507,
+      1051
+    ],
+    "category": "Text",
+    "text": "Suy ra bán kính đường tròn sàn của lều là: $r = \\sqrt{R^2 - d^2(I;(Oxy))} = \\sqrt{3^2 - 1^2} = 2\\sqrt{2} \\approx 2,83$."
+  },
+  {
+    "bbox": [
+      74,
+      1061,
+      1564,
+      1251
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Một doanh nghiệp kinh doanh một loại sản phẩm $T$ được sản xuất trong nước. Qua nghiên cứu thấy rằng nếu chi phí sản xuất mỗi sản phẩm $T$ là $x$ (USD) thì số sản phẩm $T$ các nhà máy sản xuất sẽ là $R(x) = x - 200$ và số sản phẩm $T$ mà doanh nghiệp bán được trên thị trường trong nước sẽ là $Q(x) = 4200 - x$."
+  },
+  {
+    "bbox": [
+      468,
+      1254,
+      1313,
+      1697
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1697,
+      1575,
+      1932
+    ],
+    "category": "Text",
+    "text": "Số sản phẩm còn dư doanh nghiệp xuất khẩu ra thị trường quốc tế với giá bán mỗi sản phẩm ổn định trên thị trường quốc tế là $x_0 = 3200$ (USD). Nhà nước đánh thuế trên mỗi sản phẩm xuất khẩu là $a$ (USD) và luôn đảm bảo tỉ lệ giữa lãi xuất khẩu của doanh nghiệp và thuế thu được của nhà nước tương ứng là $4:1$. Hãy xác định giá trị của $a$ biết lãi mà doanh nghiệp thu được do xuất khẩu là nhiều nhất."
+  },
+  {
+    "bbox": [
+      833,
+      1935,
+      953,
+      1976
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1980,
+      394,
+      2021
+    ],
+    "category": "Text",
+    "text": "Đáp án: 100"
+  },
+  {
+    "bbox": [
+      212,
+      2025,
+      1575,
+      2107
+    ],
+    "category": "Text",
+    "text": "Sản phẩm dư xuất khẩu khi số sản phẩm sản xuất lớn hơn số sản phẩm bán trong nước, tức là:"
+  },
+  {
+    "bbox": [
+      218,
+      2114,
+      1045,
+      2159
+    ],
+    "category": "Formula",
+    "text": "$$\nR(x) > Q(x) \\Leftrightarrow x - 200 > 4200 - x \\Leftrightarrow 2x > 4400 \\Leftrightarrow x > 2200\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2168,
+      1459,
+      2214
+    ],
+    "category": "Text",
+    "text": "Số lượng sản phẩm xuất khẩu là: $S_{XK} = R(x) - Q(x) = (x - 200) - (4200 - x) = 2x - 4400$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      741,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2264,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 7 -"
+  }
+]

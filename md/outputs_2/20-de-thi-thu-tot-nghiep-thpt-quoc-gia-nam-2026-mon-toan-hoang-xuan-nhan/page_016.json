@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      216,
+      64,
+      1432,
+      158
+    ],
+    "category": "Text",
+    "text": "Khi đó đồ thị hàm số $y = \\frac{x+a}{x-1}$ qua $(2; 3) \\Rightarrow 3 = \\frac{2+a}{2-1} \\Rightarrow a = 1$; hàm số là $\\boxed{y = \\frac{x+1}{x-1}}$ (C)."
+  },
+  {
+    "bbox": [
+      216,
+      184,
+      1423,
+      285
+    ],
+    "category": "Text",
+    "text": "Gọi $M\\left(x_0; \\frac{x_0+1}{x_0-1}\\right) \\in (C)$, $x_0 > 1$. Tổng khoảng cách từ $M$ đến hai đường thẳng $\\Delta_1, \\Delta_2$ là"
+  },
+  {
+    "bbox": [
+      221,
+      310,
+      1117,
+      456
+    ],
+    "category": "Formula",
+    "text": "$$\nd = d(M, \\Delta_1) + d(M, \\Delta_2) = \\frac{\\left|2x_0 + \\frac{x_0+1}{x_0-1} - 4\\right|}{\\sqrt{5}} + \\frac{\\left|x_0 + 2 \\cdot \\frac{x_0+1}{x_0-1} - 2\\right|}{\\sqrt{5}};\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      480,
+      1575,
+      641
+    ],
+    "category": "Formula",
+    "text": "$$\nd = \\frac{1}{\\sqrt{5}} \\left( \\left| \\frac{2x_0^2 - 5x_0 + 5}{x_0 - 1} \\right| + \\left| \\frac{x_0^2 - x_0 + 4}{x_0 - 1} \\right| \\right) = \\frac{1}{\\sqrt{5}} \\left( \\frac{2x_0^2 - 5x_0 + 5}{x_0 - 1} + \\frac{x_0^2 - x_0 + 4}{x_0 - 1} \\right) \\quad (\\text{vì } \\begin{cases} 2x_0^2 - 5x_0 + 5 > 0 \\\\ x_0 - 1 > 0 \\\\ x_0^2 - x_0 + 4 > 0 \\end{cases}, \\forall x_0 > 1).\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      664,
+      1066,
+      757
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } d_{\\min} = \\frac{6\\sqrt{10}}{5}; \\text{ khi đó } x_0 = 1 + \\sqrt{2} \\Rightarrow M(1 + \\sqrt{2}; 1 + \\sqrt{2}).\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      777,
+      1440,
+      858
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khoảng cách } OM \\text{ trên thực tế là } 10 \\times \\sqrt{(1+\\sqrt{2})^2 + (1+\\sqrt{2})^2} = 10 \\times (1+\\sqrt{2})\\sqrt{2} \\approx \\boxed{34,1} \\text{ mét.}\n$$"
+  },
+  {
+    "bbox": [
+      91,
+      876,
+      1255,
+      965
+    ],
+    "category": "Text",
+    "text": "**Câu 21.** Một chậu nước hình nón cụt với lòng chậu (phần có thể chứa nước) có bán kính đáy $r_1 = 5$ cm, bán kính miếng chậu $r_2 = 8$ cm, chiều cao chậu $h = 15$ cm."
+  },
+  {
+    "bbox": [
+      216,
+      973,
+      1255,
+      1181
+    ],
+    "category": "Text",
+    "text": "Ban đầu nước trong chậu chiếm $\\frac{2}{3}$ chiều cao của chậu. Sau đó người ta thỏa vào chậu một quả cầu kim loại thì đo được chiều cao mực nước dâng thêm là 1,5 cm, quả cầu chìm hoàn toàn trong nước. Tính bán kính quả cầu và làm tròn đến hàng phần trăm của cm."
+  },
+  {
+    "bbox": [
+      216,
+      1175,
+      542,
+      1229
+    ],
+    "category": "Text",
+    "text": "Trả lời: ☐ ☐ ☐ ☐"
+  },
+  {
+    "bbox": [
+      216,
+      1235,
+      392,
+      1279
+    ],
+    "category": "Text",
+    "text": "Đáp số: 3,86"
+  },
+  {
+    "bbox": [
+      1277,
+      878,
+      1591,
+      1252
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      739,
+      1281,
+      966,
+      1325
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      216,
+      1333,
+      819,
+      1413
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Chiều cao nước ban đầu: } h_0 = \\frac{2}{3} \\cdot 15 = 10 \\text{ cm.}\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1422,
+      1242,
+      1469
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi thỏa quả cầu vào chậu, mực nước dâng lên thành: } h_1 = h_0 + 1,5 = 11,5 \\text{ cm.}\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1482,
+      1392,
+      1593
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Bán kính mặt nước ở độ cao } h \\text{ trong chậu: } r(h) = 5 + \\frac{8-5}{15}h = 5 + \\frac{h}{5} \\Rightarrow \\begin{cases} r(10) = 7 \\\\ r(11,5) = 7,3 \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1611,
+      1193,
+      1692
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích nón cụt đến độ cao } h \\text{ là } V(h) = \\frac{\\pi h}{3} [r_1^2 + r_1 r(h) + r(h)^2], r_1 = 5.\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1703,
+      1509,
+      1787
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } V(10) = \\frac{10\\pi}{3}(25+35+49) = \\frac{1090\\pi}{3}, \\quad V(11,5) = \\frac{11,5\\pi}{3}(25+36,5+53,29) = \\frac{1320,085\\pi}{3}.\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1796,
+      961,
+      1848
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do đó: } V_{\\text{sphere}} = V(11,5) - V(10) \\approx 240,95 \\text{ cm}^3 \\text{ (sto A).}\n$$"
+  },
+  {
+    "bbox": [
+      216,
+      1862,
+      1255,
+      1946
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích nước tăng thêm chính là thể tích quả cầu: } \\frac{4}{3}\\pi R^3 = A \\Rightarrow R \\approx 3,86 \\text{ cm.}\n$$"
+  },
+  {
+    "bbox": [
+      133,
+      2016,
+      506,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1110,
+      2016,
+      1443,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2021,
+      1559,
+      2052
+    ],
+    "category": "Page-footer",
+    "text": "8"
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "bbox": [
+      237,
+      96,
+      644,
+      139
+    ],
+    "category": "Page-header",
+    "text": "TRƯỜNG THPT ĐÔNG ĐÔ"
+  },
+  {
+    "bbox": [
+      858,
+      100,
+      1459,
+      145
+    ],
+    "category": "Page-header",
+    "text": "KÌ THI TN THPT ĐỢT I NĂM 2025 - 2026"
+  },
+  {
+    "bbox": [
+      584,
+      136,
+      1077,
+      178
+    ],
+    "category": "Page-header",
+    "text": "ĐỀ THI MÔN TOÁN 12 – ĐỀ 1321"
+  },
+  {
+    "bbox": [
+      454,
+      176,
+      1205,
+      222
+    ],
+    "category": "Page-header",
+    "text": "(Thời gian làm bài: 90 phút, không tính thời gian phát đề)"
+  },
+  {
+    "bbox": [
+      138,
+      226,
+      1522,
+      311
+    ],
+    "category": "Text",
+    "text": "PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án."
+  },
+  {
+    "bbox": [
+      138,
+      311,
+      1403,
+      395
+    ],
+    "category": "Text",
+    "text": "Câu 1: Cho hàm số $y = f(x) = \\frac{ax^2 + bx + c}{mx + n}$ có đồ thị như Hình 1. Phát biểu nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      663,
+      395,
+      988,
+      681
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      271,
+      691,
+      1167,
+      742
+    ],
+    "category": "List-item",
+    "text": "A. Hàm số $y = f(x)$ nghịch biến trên các khoảng $(-\\infty; 1)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      271,
+      748,
+      1144,
+      799
+    ],
+    "category": "List-item",
+    "text": "B. Hàm số $y = f(x)$ đồng biến trên các khoảng $(-\\infty; 1)$ và $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      271,
+      804,
+      1422,
+      855
+    ],
+    "category": "List-item",
+    "text": "C. Hàm số $y = f(x)$ đồng biến trên khoảng $(-\\infty; 1)$ và nghịch biến trên khoảng $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      271,
+      861,
+      1422,
+      912
+    ],
+    "category": "List-item",
+    "text": "D. Hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty; 1)$ và đồng biến trên khoảng $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      138,
+      912,
+      646,
+      954
+    ],
+    "category": "Text",
+    "text": "Câu 2: Cho hàm số có đồ thị như hình."
+  },
+  {
+    "bbox": [
+      683,
+      958,
+      965,
+      1260
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      271,
+      1258,
+      1132,
+      1303
+    ],
+    "category": "Text",
+    "text": "Phương trình đường tiệm cận đứng của đồ thị hàm số $y = f(x)$ là:"
+  },
+  {
+    "bbox": [
+      271,
+      1307,
+      413,
+      1341
+    ],
+    "category": "List-item",
+    "text": "A. $x = -1$."
+  },
+  {
+    "bbox": [
+      594,
+      1307,
+      716,
+      1341
+    ],
+    "category": "List-item",
+    "text": "B. $x = 2$."
+  },
+  {
+    "bbox": [
+      894,
+      1307,
+      1036,
+      1346
+    ],
+    "category": "List-item",
+    "text": "C. $y = -1$."
+  },
+  {
+    "bbox": [
+      1195,
+      1307,
+      1330,
+      1346
+    ],
+    "category": "List-item",
+    "text": "D. $y = 2$."
+  },
+  {
+    "bbox": [
+      138,
+      1346,
+      1034,
+      1393
+    ],
+    "category": "Text",
+    "text": "Câu 3: Hàm số nào sau đây là một nguyên hàm của hàm số $y = 10^x$?"
+  },
+  {
+    "bbox": [
+      271,
+      1401,
+      491,
+      1460
+    ],
+    "category": "List-item",
+    "text": "A. $y = 10^x \\ln 10$."
+  },
+  {
+    "bbox": [
+      594,
+      1401,
+      745,
+      1460
+    ],
+    "category": "List-item",
+    "text": "B. $y = 10^x$."
+  },
+  {
+    "bbox": [
+      894,
+      1401,
+      1062,
+      1481
+    ],
+    "category": "List-item",
+    "text": "C. $y = \\frac{10^x}{\\ln 10}$"
+  },
+  {
+    "bbox": [
+      1195,
+      1401,
+      1366,
+      1481
+    ],
+    "category": "List-item",
+    "text": "D. $y = \\frac{10^{x+1}}{x+1}$"
+  },
+  {
+    "bbox": [
+      138,
+      1481,
+      1036,
+      1530
+    ],
+    "category": "Text",
+    "text": "Câu 4: Trong không gian $Oxyz$, toạ độ của vecto $\\vec{u} = 2\\vec{k} - 3\\vec{j} + 4\\vec{i}$ là:"
+  },
+  {
+    "bbox": [
+      271,
+      1536,
+      443,
+      1585
+    ],
+    "category": "List-item",
+    "text": "A. $(2; -3; 4)$."
+  },
+  {
+    "bbox": [
+      594,
+      1536,
+      745,
+      1585
+    ],
+    "category": "List-item",
+    "text": "B. $(2; 3; 4)$."
+  },
+  {
+    "bbox": [
+      894,
+      1536,
+      1046,
+      1585
+    ],
+    "category": "List-item",
+    "text": "C. $(4; 3; 2)$."
+  },
+  {
+    "bbox": [
+      1195,
+      1536,
+      1371,
+      1585
+    ],
+    "category": "List-item",
+    "text": "D. $(4; -3; 2)$."
+  },
+  {
+    "bbox": [
+      138,
+      1593,
+      1368,
+      1644
+    ],
+    "category": "Text",
+    "text": "Câu 5: Trong không gian $Oxyz$, khoảng cách giữa hai điểm $A(x_1; y_1; z_1)$ và $B(x_2; y_2; z_2)$ bằng:"
+  },
+  {
+    "bbox": [
+      271,
+      1654,
+      672,
+      1705
+    ],
+    "category": "List-item",
+    "text": "A. $|x_2 - x_1| + |y_2 - y_1| + |z_2 - z_1|$."
+  },
+  {
+    "bbox": [
+      894,
+      1654,
+      1397,
+      1705
+    ],
+    "category": "List-item",
+    "text": "B. $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$."
+  },
+  {
+    "bbox": [
+      271,
+      1713,
+      678,
+      1800
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{|x_2 - x_1| + |y_2 - y_1| + |z_2 - z_1|}{3}$."
+  },
+  {
+    "bbox": [
+      894,
+      1713,
+      1397,
+      1800
+    ],
+    "category": "List-item",
+    "text": "D. $\\sqrt{\\frac{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}{3}}$."
+  },
+  {
+    "bbox": [
+      138,
+      1812,
+      1507,
+      1908
+    ],
+    "category": "Text",
+    "text": "Câu 6: Trong không gian toạ độ $Oxyz$, mặt phẳng đi qua điểm $I(x_0; y_0; z_0)$ và nhận $\\vec{n} = (a; b; c)$ làm vecto pháp tuyến có phương trình"
+  },
+  {
+    "bbox": [
+      271,
+      1908,
+      781,
+      1953
+    ],
+    "category": "List-item",
+    "text": "A. $c(x - x_0) + b(y - y_0) + a(z - z_0) = 0$."
+  },
+  {
+    "bbox": [
+      894,
+      1908,
+      1404,
+      1953
+    ],
+    "category": "List-item",
+    "text": "B. $b(x - x_0) + a(y - y_0) + c(z - z_0) = 0$."
+  },
+  {
+    "bbox": [
+      271,
+      1959,
+      781,
+      2004
+    ],
+    "category": "List-item",
+    "text": "C. $a(x - x_0) + b(y - y_0) + c(z - z_0) = 0$."
+  },
+  {
+    "bbox": [
+      894,
+      1959,
+      1394,
+      2004
+    ],
+    "category": "List-item",
+    "text": "D. $c(x - x_0) + a(y - y_0) + b(z - z_0) = 0$."
+  },
+  {
+    "bbox": [
+      138,
+      2009,
+      1392,
+      2058
+    ],
+    "category": "Text",
+    "text": "Câu 7: Trong không gian toạ độ $Oxyz$, mặt cầu tâm $I(x_0; y_0; z_0)$ bán kính $R$ có phương trình là"
+  },
+  {
+    "bbox": [
+      271,
+      2064,
+      775,
+      2118
+    ],
+    "category": "List-item",
+    "text": "A. $(x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      894,
+      2064,
+      1401,
+      2118
+    ],
+    "category": "List-item",
+    "text": "B. $(x - x_0)^2 + (y - y_0)^2 - (z - z_0)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      271,
+      2126,
+      775,
+      2180
+    ],
+    "category": "List-item",
+    "text": "C. $(x - x_0)^2 - (y - y_0)^2 + (z - z_0)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      894,
+      2126,
+      1424,
+      2180
+    ],
+    "category": "List-item",
+    "text": "D. $-(x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 = R^2$."
+  },
+  {
+    "bbox": [
+      810,
+      2205,
+      828,
+      2237
+    ],
+    "category": "Page-footer",
+    "text": "1"
+  }
+]

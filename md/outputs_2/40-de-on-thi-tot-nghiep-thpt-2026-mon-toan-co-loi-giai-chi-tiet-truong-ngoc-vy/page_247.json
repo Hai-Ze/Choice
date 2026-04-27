@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      155,
+      98,
+      1072,
+      195
+    ],
+    "category": "Text",
+    "text": "a) Doanh thu sau 12 năm của máy A là $\\int_{0}^{12} (650 - 3t^2)dt$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      214,
+      1247,
+      260
+    ],
+    "category": "Text",
+    "text": "b) Tổng chi phí vận hành và bảo trì của máy A trong 6 năm là 1152 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      273,
+      1573,
+      376
+    ],
+    "category": "Text",
+    "text": "c) Tuổi thọ hữu ích của một máy là số năm $T$ trước khi lợi nhuận (bằng doanh thu trừ chi phí) mà nó tạo ra bắt đầu giảm. Tuổi thị hữu ích của máy A là 8 năm."
+  },
+  {
+    "bbox": [
+      155,
+      389,
+      1433,
+      435
+    ],
+    "category": "Text",
+    "text": "d) Lợi nhuận do máy A tạo ra trong suốt thời gian tuổi thọ hữu ích của nó là 2532 (triệu đồng)."
+  },
+  {
+    "bbox": [
+      807,
+      452,
+      925,
+      491
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      505,
+      972,
+      629
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>A.</td><td>B.</td><td>C.</td><td>D.</td></tr><tr><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td><td>ĐÚNG</td></tr></table>"
+  },
+  {
+    "bbox": [
+      155,
+      687,
+      574,
+      728
+    ],
+    "category": "Text",
+    "text": "a) Đúng b) Đúng c) Sai d) Đúng"
+  },
+  {
+    "bbox": [
+      155,
+      745,
+      1063,
+      842
+    ],
+    "category": "Text",
+    "text": "a) Doanh thu sau 12 năm của máy A là $\\int_{0}^{12} (650 - 3t^2)dt$ (triệu đồng)."
+  },
+  {
+    "bbox": [
+      155,
+      863,
+      960,
+      908
+    ],
+    "category": "Text",
+    "text": "b) Tổng chi phí vận hành và bảo trì của máy A trong 6 năm:"
+  },
+  {
+    "bbox": [
+      155,
+      926,
+      820,
+      1023
+    ],
+    "category": "Formula",
+    "text": "$$\n\\int_{0}^{6} (48 + 12t^2)dt = (48t + 4t^3)\\Big|_{0}^{6} = 1152 \\text{ (triệu đồng).}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1043,
+      899,
+      1088
+    ],
+    "category": "Text",
+    "text": "c) Doanh thu của máy A sau $t$ năm tuổi được xác định:"
+  },
+  {
+    "bbox": [
+      155,
+      1105,
+      812,
+      1167
+    ],
+    "category": "Formula",
+    "text": "$$\nR(t) = \\int R'(t)dt = \\int (650 - 3t^2)dt = 650t - t^3 + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1189,
+      984,
+      1238
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tại thời điểm } t = 0 \\text{ thì } R(t) = 0 \\Rightarrow C = 0 \\Rightarrow R(t) = 650t - t^3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1261,
+      1235,
+      1306
+    ],
+    "category": "Text",
+    "text": "Chi phí vận hành và bảo trì của máy A khi nó được . năm tuổi được xác định:"
+  },
+  {
+    "bbox": [
+      155,
+      1330,
+      662,
+      1391
+    ],
+    "category": "Formula",
+    "text": "$$\nC(t) = \\int (48 + 12t^2)dt = 48t + 4t^3 + C.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1412,
+      978,
+      1462
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tại thời điểm } t = 0 \\text{ thì } C(t) = 0 \\Rightarrow C = 0 \\Rightarrow C(t) = 48t + 4t^3.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1487,
+      1245,
+      1538
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow \\text{Hàm biểu diễn tuổi thọ hữu ích của máy A: } T(t) = R(t) - C(t) = -5t^3 + 602t.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1563,
+      1137,
+      1656
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xét hàm số } T(t) = -5t^3 + 602t \\text{ có } T'(t) = -15t^2 + 602 = 0 \\Leftrightarrow t = \\pm\\sqrt{\\frac{602}{15}}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1674,
+      379,
+      1719
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      603,
+      1742,
+      1121,
+      2023
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      2063,
+      1573,
+      2220
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên, lợi nhuận của máy A bắt đầu giảm tại thời điểm $t = \\sqrt{\\frac{602}{15}} \\approx 6,34$, đo đó tuổi thọ hữu ích của máy A là khoảng 6 năm."
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      227,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      240,
+      50,
+      858,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Bộ đề ôn thi THPT Quốc Gia 2026 - Part 2"
+  },
+  {
+    "bbox": [
+      1260,
+      53,
+      1448,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      259
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên đoạn $[a; b]$. Mindh đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      222,
+      262,
+      678,
+      351
+    ],
+    "category": "Formula",
+    "text": "A. $\\int_{a}^{b} f(x) \\, dx = F(b) - F(a)$."
+  },
+  {
+    "bbox": [
+      833,
+      262,
+      1286,
+      351
+    ],
+    "category": "Formula",
+    "text": "B. $\\int_{a}^{b} f(x) \\, dx = F(a) - F(b)$."
+  },
+  {
+    "bbox": [
+      222,
+      353,
+      678,
+      442
+    ],
+    "category": "Formula",
+    "text": "C. $\\int_{a}^{b} f(x) \\, dx = F(b) + F(a)$."
+  },
+  {
+    "bbox": [
+      833,
+      353,
+      1313,
+      442
+    ],
+    "category": "Formula",
+    "text": "D. $\\int_{a}^{b} f(x) \\, dx = -F(b) - F(a)$."
+  },
+  {
+    "bbox": [
+      192,
+      455,
+      1455,
+      558
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Trong không gian $Oxyz$, phương trình tham số của đường thẳng đi qua điểm $A(0; 8; 3)$ và có một véc-tơ chỉ phương $\\vec{u} = (2; 1; -1)$ là"
+  },
+  {
+    "bbox": [
+      222,
+      567,
+      497,
+      740
+    ],
+    "category": "Formula",
+    "text": "A. $\\begin{cases} x = 2 \\\\ y = 8 + t \\\\ z = -1 + 3t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      524,
+      567,
+      755,
+      740
+    ],
+    "category": "Formula",
+    "text": "B. $\\begin{cases} x = 2t \\\\ y = 8 + t \\\\ z = 3 + t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      824,
+      567,
+      1055,
+      740
+    ],
+    "category": "Formula",
+    "text": "C. $\\begin{cases} x = 2t \\\\ y = 8 \\\\ z = 3 - t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      1126,
+      567,
+      1357,
+      740
+    ],
+    "category": "Formula",
+    "text": "D. $\\begin{cases} x = 2t \\\\ y = 8 + t \\\\ z = 3 - t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      192,
+      762,
+      1455,
+      865
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Trong không gian $Oxyz$, mặt cầu $(S): (x + 2)^2 + (y - 1)^2 + z^2 = 4$ có tâm $I$ và bán kính $R$ lần lượt là"
+  },
+  {
+    "bbox": [
+      222,
+      884,
+      537,
+      926
+    ],
+    "category": "Formula",
+    "text": "A. $I(2; -1; 0), R = 2$."
+  },
+  {
+    "bbox": [
+      833,
+      884,
+      1145,
+      926
+    ],
+    "category": "Formula",
+    "text": "B. $I(2; -1; 0), R = 4$."
+  },
+  {
+    "bbox": [
+      222,
+      947,
+      537,
+      988
+    ],
+    "category": "Formula",
+    "text": "C. $I(-2; 1; 0), R = 4$."
+  },
+  {
+    "bbox": [
+      833,
+      947,
+      1145,
+      988
+    ],
+    "category": "Formula",
+    "text": "D. $I(-2; 1; 0), R = 2$."
+  },
+  {
+    "bbox": [
+      192,
+      1018,
+      963,
+      1064
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Phương trình $\\tan 2x = 1$ có họ nghiệm là"
+  },
+  {
+    "bbox": [
+      222,
+      1067,
+      576,
+      1150
+    ],
+    "category": "Formula",
+    "text": "A. $x = \\frac{\\pi}{8} + \\frac{k\\pi}{2}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      833,
+      1072,
+      1181,
+      1150
+    ],
+    "category": "Formula",
+    "text": "B. $x = \\frac{\\pi}{4} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      222,
+      1150,
+      586,
+      1226
+    ],
+    "category": "Formula",
+    "text": "C. $x = \\frac{\\pi}{4} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      833,
+      1150,
+      1195,
+      1226
+    ],
+    "category": "Formula",
+    "text": "D. $x = \\frac{\\pi}{4} + k2\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      192,
+      1239,
+      1455,
+      1342
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Một công ty xây dựng khảo sát khách hàng xem họ có nhu cầu mua nhà ở mức giá nào. Kết quả khảo sát được ghi lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      275,
+      1365,
+      1373,
+      1479
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Mức giá (triệu đồng/m²)</td><td>[10;15)</td><td>[15;20)</td><td>[20;25)</td><td>[25;30)</td><td>[30;35)</td></tr><tr><td>Số khách hàng</td><td>52</td><td>75</td><td>123</td><td>48</td><td>10</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      1506,
+      1017,
+      1554
+    ],
+    "category": "Text",
+    "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên là"
+  },
+  {
+    "bbox": [
+      222,
+      1571,
+      315,
+      1610
+    ],
+    "category": "List-item",
+    "text": "A. 42."
+  },
+  {
+    "bbox": [
+      524,
+      1571,
+      597,
+      1610
+    ],
+    "category": "List-item",
+    "text": "B. 5."
+  },
+  {
+    "bbox": [
+      824,
+      1571,
+      921,
+      1610
+    ],
+    "category": "List-item",
+    "text": "C. 13."
+  },
+  {
+    "bbox": [
+      1126,
+      1571,
+      1218,
+      1610
+    ],
+    "category": "List-item",
+    "text": "D. 25."
+  },
+  {
+    "bbox": [
+      192,
+      1641,
+      1455,
+      1744
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi. Gọi $H, K$ lần lượt là trung điểm của $SA, CD$. Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      222,
+      1761,
+      465,
+      1803
+    ],
+    "category": "List-item",
+    "text": "A. $HK \\parallel (SBC)$."
+  },
+  {
+    "bbox": [
+      524,
+      1761,
+      768,
+      1803
+    ],
+    "category": "List-item",
+    "text": "B. $HK \\parallel (SBD)$."
+  },
+  {
+    "bbox": [
+      824,
+      1761,
+      1072,
+      1803
+    ],
+    "category": "List-item",
+    "text": "C. $HK \\parallel (SAC)$."
+  },
+  {
+    "bbox": [
+      1126,
+      1761,
+      1375,
+      1803
+    ],
+    "category": "List-item",
+    "text": "D. $HK \\parallel (SAD)$."
+  },
+  {
+    "bbox": [
+      192,
+      1868,
+      1455,
+      1988
+    ],
+    "category": "Text",
+    "text": "**PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.**"
+  },
+  {
+    "bbox": [
+      192,
+      2019,
+      1455,
+      2177
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Có hai đội thi đấu môn bắn súng. Đội I có 8 vận động viên, đội II có 10 vận động viên. Xác suất đạt huy chương vàng của mỗi vận động viên đội I và đội II tương ứng là 0,6 và 0,55. Chọn ngẫu nhiên một vận động viên."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      476,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1318,
+      2244,
+      1455,
+      2287
+    ],
+    "category": "Page-footer",
+    "text": "Trang 13"
+  }
+]

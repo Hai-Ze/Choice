@@ -1,0 +1,180 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      727,
+      98,
+      843,
+      136
+    ],
+    "category": "Page-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      155,
+      269,
+      194
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 6,42"
+  },
+  {
+    "bbox": [
+      492,
+      222,
+      1066,
+      473
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      503,
+      530,
+      541
+    ],
+    "category": "Text",
+    "text": "- Chọn hệ trục toạ độ như hình vẽ"
+  },
+  {
+    "bbox": [
+      76,
+      563,
+      885,
+      611
+    ],
+    "category": "Text",
+    "text": "Với $A(-2,5;1,5), B(2,5;1,5), C(0;2), D(2,5;0), E(-2,5;0)$"
+  },
+  {
+    "bbox": [
+      76,
+      638,
+      1077,
+      685
+    ],
+    "category": "Text",
+    "text": "Gọi đường cong parabol phía trên có phương trình: $y = ax^2 + bx + c (a < 0)$"
+  },
+  {
+    "bbox": [
+      76,
+      713,
+      1242,
+      761
+    ],
+    "category": "Text",
+    "text": "Ta có các điểm thuộc parabol là: $A(-2,5;1,5), B(2,5;1,5), C(0;2)$. Do đó ta có hệ sau:"
+  },
+  {
+    "bbox": [
+      80,
+      787,
+      1186,
+      1014
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} 1,5 = 2,5^2 a + 2,5b + c \\\\ 1,5 = (-2,5)^2 a - 2,5b + c \\\\ 2 = 0^2 a + 0b + c \\end{cases} \\Leftrightarrow \\begin{cases} 1,5 = 6,25a + 2,5b + c \\\\ 1,5 = 6,25a - 2,5b + c \\\\ 2 = c \\end{cases} \\Leftrightarrow \\begin{cases} a = \\frac{-2}{25} \\\\ b = 0 \\\\ c = 2 \\end{cases} \\Rightarrow y = -\\frac{2}{25}x^2 + 2\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1042,
+      1494,
+      1186
+    ],
+    "category": "Text",
+    "text": "Diện tích cửa rào sixth là diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = -\\frac{2}{25}x^2 + 2$, $y = 0$ và hai đường thẳng $x = 2,5$; $x = -2,5$ nên ta có"
+  },
+  {
+    "bbox": [
+      80,
+      1214,
+      536,
+      1312
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{-2,5}^{2,5} \\left( -\\frac{2}{25}x^2 + 2 \\right) dx = \\frac{55}{6} (m^2)\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1341,
+      786,
+      1421
+    ],
+    "category": "Text",
+    "text": "Số tiền để làm cửa sixth là: $\\frac{55}{6} \\cdot 0,7 \\approx 6,42$ (triệu đồng)"
+  },
+  {
+    "bbox": [
+      76,
+      1440,
+      1494,
+      1770
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Một xe ô tô chở khách du lịch có sức chứa tối đa là 16 hành khách. Trong một khu du lịch, một đoàn khách gồm 24 người đang đi bộ và muốn thuê xe về khách sạn. Lái xe đưa ra thỏa thuận với đoàn khách du lịch như sau: Nếu một chuyển xe chở $x$ (người) thì giá tiền cho mỗi người là $\\frac{(44-x)^2}{2}$ (nghìn đồng). Với thỏa thuận như trên thì lái xe có thể thu được nhiều nhất bao nhiêu triệu đồng từ một chuyển chở khách (làm tròn kết quả đến hàng phần trăm)?"
+  },
+  {
+    "bbox": [
+      486,
+      1784,
+      1079,
+      2184
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      76,
+      2205,
+      413,
+      2240
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      841,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 14"
+  }
+]

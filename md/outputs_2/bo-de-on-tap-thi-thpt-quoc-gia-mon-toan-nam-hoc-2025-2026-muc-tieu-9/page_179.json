@@ -1,0 +1,391 @@
+[
+  {
+    "bbox": [
+      154,
+      136,
+      199,
+      176
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      136,
+      445,
+      198
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      636,
+      211,
+      1064,
+      609
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      628,
+      1546,
+      717
+    ],
+    "category": "Text",
+    "text": "Vì $BC // AD$ nên góc giữa $BC$ và $SA$ bằng góc giữa $AD$ và $SA$, đó là góc $\\widehat{SAD} = 60^\\circ$. Chọn đáp án A."
+  },
+  {
+    "bbox": [
+      154,
+      742,
+      196,
+      777
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      742,
+      1195,
+      783
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Một nguyên hàm $F(x)$ của hàm số $f(x) = 3x^2 - 2x + 2025$ là"
+  },
+  {
+    "bbox": [
+      189,
+      802,
+      592,
+      843
+    ],
+    "category": "Formula",
+    "text": "A) $F(x) = x^3 - x^2 + 2025x$."
+  },
+  {
+    "bbox": [
+      876,
+      802,
+      1262,
+      843
+    ],
+    "category": "Formula",
+    "text": "B) $F(x) = x^3 - x^2 + 2025$."
+  },
+  {
+    "bbox": [
+      189,
+      847,
+      459,
+      888
+    ],
+    "category": "Formula",
+    "text": "C) $F(x) = 6x - 2$."
+  },
+  {
+    "bbox": [
+      876,
+      847,
+      1157,
+      888
+    ],
+    "category": "Formula",
+    "text": "D) $F(x) = x^3 - x^2$."
+  },
+  {
+    "bbox": [
+      154,
+      890,
+      199,
+      928
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      888,
+      1546,
+      978
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $F(x) = \\int (3x^2 - 2x + 2025)dx = x^3 - x^2 + 2025x + C$. Chọn đáp án A."
+  },
+  {
+    "bbox": [
+      154,
+      1005,
+      196,
+      1040
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1005,
+      1546,
+      1087
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Trong một đội văn nghệ có 5 bạn nam và 7 bạn nữ. Hỏi có bao nhiêu cách chọn một đội song ca nam - nữ?"
+  },
+  {
+    "bbox": [
+      189,
+      1107,
+      288,
+      1149
+    ],
+    "category": "List-item",
+    "text": "A) 12."
+  },
+  {
+    "bbox": [
+      535,
+      1107,
+      634,
+      1149
+    ],
+    "category": "List-item",
+    "text": "B) 35."
+  },
+  {
+    "bbox": [
+      879,
+      1107,
+      974,
+      1149
+    ],
+    "category": "List-item",
+    "text": "C) 21."
+  },
+  {
+    "bbox": [
+      1224,
+      1107,
+      1319,
+      1149
+    ],
+    "category": "List-item",
+    "text": "D) 66."
+  },
+  {
+    "bbox": [
+      154,
+      1166,
+      199,
+      1204
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1164,
+      1089,
+      1227
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Số cách chọn là $5 \\times 7 = 35$. Chọn đáp án B."
+  },
+  {
+    "bbox": [
+      154,
+      1244,
+      196,
+      1279
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      202,
+      1244,
+      1459,
+      1285
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho các số thực dương $a, b$ thỏa mãn $\\log_2 a = x$; $\\log_2 b = y$. Tính $P = \\log_2(a^2b^3)$."
+  },
+  {
+    "bbox": [
+      189,
+      1304,
+      374,
+      1345
+    ],
+    "category": "Formula",
+    "text": "A) $P = 6xy$."
+  },
+  {
+    "bbox": [
+      876,
+      1304,
+      1119,
+      1345
+    ],
+    "category": "Formula",
+    "text": "B) $P = 2x + 3y$."
+  },
+  {
+    "bbox": [
+      189,
+      1349,
+      384,
+      1390
+    ],
+    "category": "Formula",
+    "text": "C) $P = x^2y^3$."
+  },
+  {
+    "bbox": [
+      876,
+      1349,
+      1113,
+      1390
+    ],
+    "category": "Formula",
+    "text": "D) $P = x^2 + y^3$."
+  },
+  {
+    "bbox": [
+      154,
+      1392,
+      199,
+      1430
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1390,
+      1430,
+      1451
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. $P = \\log_2 a^2 + \\log_2 b^3 = 2 \\log_2 a + 3 \\log_2 b = 2x + 3y$. Chọn đáp án B."
+  },
+  {
+    "bbox": [
+      154,
+      1466,
+      196,
+      1501
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1466,
+      1546,
+      1551
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình chóp tứ giác đều $S.ABCD$ có tất cả các cạnh bằng 2. Gọi $M$ là trung điểm $SD$. Giá trị của $\\overrightarrow{CM} \\cdot \\overrightarrow{BA}$ bằng"
+  },
+  {
+    "bbox": [
+      189,
+      1568,
+      326,
+      1613
+    ],
+    "category": "List-item",
+    "text": "A) $-\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      535,
+      1568,
+      642,
+      1613
+    ],
+    "category": "List-item",
+    "text": "B) $-3$."
+  },
+  {
+    "bbox": [
+      879,
+      1568,
+      960,
+      1613
+    ],
+    "category": "List-item",
+    "text": "C) 3."
+  },
+  {
+    "bbox": [
+      1224,
+      1568,
+      1333,
+      1613
+    ],
+    "category": "List-item",
+    "text": "D) $\\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      154,
+      1632,
+      199,
+      1670
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      1627,
+      445,
+      1691
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải."
+  },
+  {
+    "bbox": [
+      621,
+      1705,
+      1078,
+      2101
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      154,
+      2119,
+      1546,
+      2210
+    ],
+    "category": "Text",
+    "text": "Ta có $\\overrightarrow{BA} = \\overrightarrow{CD}$. Khi đó $\\overrightarrow{CM} \\cdot \\overrightarrow{BA} = \\overrightarrow{CM} \\cdot \\overrightarrow{CD} = CM \\cdot CD \\cdot \\cos 30^\\circ = \\sqrt{3} \\cdot 2 \\cdot \\frac{\\sqrt{3}}{2} = 3$. Chọn đáp án C."
+  },
+  {
+    "bbox": [
+      148,
+      2254,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tập và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2250,
+      1597,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "179"
+  }
+]

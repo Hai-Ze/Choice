@@ -1,0 +1,261 @@
+[
+  {
+    "bbox": [
+      248,
+      114,
+      1528,
+      206
+    ],
+    "category": "Text",
+    "text": "- Mô hình 1: Có xác suất dự báo đúng là 80%. Nghĩa là, nếu thực tế trời mua, xác suất mô hình báo có mua là 0,8, nếu thực tế không mua, xác suất mô hình báo không mua là 0,8."
+  },
+  {
+    "bbox": [
+      248,
+      240,
+      1528,
+      332
+    ],
+    "category": "Text",
+    "text": "- Mô hình 2: Có xác suất dự báo đúng là 90%. Nghĩa là, nếu thực tế trời mua, xác suất mô hình dự báo có mua là 0,9, nếu thực tế không mua, xác suất mô hình báo không mua là 0,9"
+  },
+  {
+    "bbox": [
+      250,
+      365,
+      942,
+      410
+    ],
+    "category": "Text",
+    "text": "Biết rằng tỷ lệ ngày có mua ở khu vực này là 20%."
+  },
+  {
+    "bbox": [
+      250,
+      410,
+      956,
+      455
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để cả hai mô hình đều dự báo sai là 0,2."
+  },
+  {
+    "bbox": [
+      250,
+      462,
+      1507,
+      552
+    ],
+    "category": "Text",
+    "text": "b) Trong trường hợp Mô hình 1 dự báo không mua và Mô hình 2 dự báo có mua, xác suất Mô hình 1 dự báo đúng thấp hơn xác suất Mô hình 2 dự báo đúng."
+  },
+  {
+    "bbox": [
+      250,
+      552,
+      1033,
+      596
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để cả hai mô hình đều dự báo có mua là 0,16."
+  },
+  {
+    "bbox": [
+      250,
+      603,
+      1438,
+      649
+    ],
+    "category": "Text",
+    "text": "d) Nếu cả hai mô hình đều dự báo trời có mua thì xác suất để thực tế trời có mua là 0,9."
+  },
+  {
+    "bbox": [
+      835,
+      659,
+      951,
+      698
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      250,
+      702,
+      1500,
+      800
+    ],
+    "category": "Text",
+    "text": "Gọi các biến cố như sau: $M$ : “trời mua”, $M_1$ : Mô hình 1 báo có mua”, $M_2$ : Mô hình 2 báo có mua”. Ta có sơ đồ cây sau:"
+  },
+  {
+    "bbox": [
+      400,
+      804,
+      1377,
+      1171
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      250,
+      1180,
+      336,
+      1218
+    ],
+    "category": "Text",
+    "text": "a) Sai"
+  },
+  {
+    "bbox": [
+      250,
+      1220,
+      858,
+      1262
+    ],
+    "category": "Text",
+    "text": "Xác suất để cả hai mô hình đều dự báo sai là:"
+  },
+  {
+    "bbox": [
+      250,
+      1269,
+      1524,
+      1335
+    ],
+    "category": "Formula",
+    "text": "$$\n[P(\\overline{M_1}M) + P(M_1\\overline{M})] \\cdot [P(\\overline{M_2}M) + P(M_2\\overline{M})] = (0,2 \\cdot 0,2 + 0,2 \\cdot 0,8) \\cdot (0,1 \\cdot 0,2 + 0,1 \\cdot 0,8) = 0,02\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      1346,
+      336,
+      1384
+    ],
+    "category": "Text",
+    "text": "b) Sai"
+  },
+  {
+    "bbox": [
+      250,
+      1391,
+      1500,
+      1478
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\overline{M} | \\overline{M_1}) = \\frac{0,8 \\cdot 0,8}{0,8 \\cdot 0,8 + 0,2 \\cdot 0,2} = \\frac{16}{17}; \\quad P(M | M_2) = \\frac{0,2 \\cdot 0,9}{0,2 \\cdot 0,9 + 0,1 \\cdot 0,8} = \\frac{9}{13} \\quad \\text{Vì } \\frac{16}{17} > \\frac{9}{13} \\text{ nên}\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      1485,
+      1128,
+      1529
+    ],
+    "category": "Text",
+    "text": "Mô hình 1 dự báo đúng cao hơn xác suất Mô hình 2 dự báo đúng."
+  },
+  {
+    "bbox": [
+      250,
+      1535,
+      368,
+      1573
+    ],
+    "category": "Text",
+    "text": "c) Đúng"
+  },
+  {
+    "bbox": [
+      250,
+      1573,
+      1505,
+      1661
+    ],
+    "category": "Text",
+    "text": "Không sử dụng sơ đồ hình cây phía trên vì: Để dự báo là có mua hay không thì hoàn toàn phụ thuộc vào thời tiết lúc đó, nên ta xét 2 TH:"
+  },
+  {
+    "bbox": [
+      250,
+      1661,
+      1086,
+      1704
+    ],
+    "category": "Text",
+    "text": "+ TH1: Nếu trời mua, tính xác suất của cả 2 mô hình báo mua"
+  },
+  {
+    "bbox": [
+      250,
+      1706,
+      1067,
+      1750
+    ],
+    "category": "Text",
+    "text": "+ TH2: Nếu trời không mua, xác suất cả 2 mô hình báo mua"
+  },
+  {
+    "bbox": [
+      250,
+      1750,
+      922,
+      1793
+    ],
+    "category": "Text",
+    "text": "Xác suất để cả hai mô hình đều dự báo có mua là:"
+  },
+  {
+    "bbox": [
+      250,
+      1797,
+      1248,
+      1846
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M_1 M_2) = P(M) \\cdot P(M_1 | M) \\cdot P(M_2 | M) + P(\\overline{M}) \\cdot P(M_1 | \\overline{M}) \\cdot P(M_2 | \\overline{M})\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      1854,
+      1148,
+      1896
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M_1 M_2) = (0,2 \\cdot 0,8 \\cdot 0,9) + (0,8 \\cdot 0,2 \\cdot 0,1) = 0,144 + 0,016 = 0,16\n$$"
+  },
+  {
+    "bbox": [
+      250,
+      1905,
+      372,
+      1945
+    ],
+    "category": "Text",
+    "text": "d) Đúng"
+  },
+  {
+    "bbox": [
+      250,
+      1952,
+      658,
+      2037
+    ],
+    "category": "Formula",
+    "text": "$$\nP(M | M_1 M_2) = \\frac{0,144}{0,16} = 0,9.\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      2061,
+      1534,
+      2196
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Chi phí vận hành trung bình (tình bằng triệu đồng/chuyễn) của một công ty vận tải khi vận hành $x$ chuyễn xe mỗi ngày được cho bởi hàm số $A(x) = 0,2x + 2 + \\frac{500}{x}$ với $10 \\le x \\le 100$."
+  }
+]

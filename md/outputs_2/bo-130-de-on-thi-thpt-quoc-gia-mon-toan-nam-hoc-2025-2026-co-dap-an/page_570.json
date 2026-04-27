@@ -1,0 +1,128 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      76,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      83,
+      48,
+      382,
+      78
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      387,
+      48,
+      408,
+      76
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      952,
+      42,
+      982,
+      74
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1001,
+      35,
+      1553,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      120,
+      326,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      474,
+      119,
+      1526,
+      376
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Đ</td><td>S</td></tr></thead><tbody><tr><td>c) Phương trình tiếp tuyến của đồ thị (C) tại điểm cực tiểu là $y = 2$.</td><td></td><td></td></tr><tr><td>d) Phương trình $x^3 - 2x^2 + x + m = 0$ có ba nghiệm phân biệt nếu $-\\frac{1}{7} < m < 0$.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      447,
+      420,
+      1241,
+      612
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Một cabin cáp treo xuất phát từ điểm $A(10; 3; 0)$ trong hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục tọa độ là mét) và chuyển động đều theo hướng của vectơ $\\vec{u} = (2; -2; 1)$ với tốc độ là 4,5 (m/s) được mô hình hóa như các hình vẽ."
+  },
+  {
+    "bbox": [
+      1265,
+      431,
+      1555,
+      721
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      474,
+      751,
+      1526,
+      1216
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Đ</td><td>S</td></tr></thead><tbody><tr><td>a) Phương trình chính tắc của đường cáp là $\\frac{x - 10}{2} = \\frac{y - 3}{-2} = \\frac{z}{1}$.</td><td></td><td></td></tr><tr><td>b) Giả sử sau $t$ giây kể từ lúc xuất phát ($t \\ge 0$), cabin đến vị trí điểm $M$. Khi đó tọa độ điểm $M$ là $(3t + 10; -3t + 3; \\frac{3t}{2})$.</td><td></td><td></td></tr><tr><td>c) Biết rằng cabin停止 ở điểm $B$ có hoành độ $x_B = 550$. Khi đó quăng đường $AB$ có độ dài bằng 810 (m) (làm tròn kết quả đến hàng đơn vị của mét).</td><td></td><td></td></tr><tr><td>d) Đường cáp $AB$ tạo với mặt phẳng ($Oxy$) một góc 71° (làm tròn đến hàng đơn vị của độ).</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      447,
+      1241,
+      1555,
+      1586
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Sữa chua là một sản phẩm tốt cho sức khỏe, hỗ trợ tiêu hóa, làm đẹp da. Sữa chua được tạo ra từ sữa nhờ vi�uẩn lên men lactic. Trong dây chuyền sản xuất sữa chua của một nhà máy, công đoạn lên men là công đoạn quyết định chất lượng của sữa chua. Số lượng vijuẩn lactic trong bồn lên men tại thời điểm $t$ (giờ) được kí hiệu là $N(t)$. Ban đầu ($t = 0$ giờ), số lượng vijuẩn là $N(0) = 10$ tỷ tế bào. Do sự thay đổi về nguồn dinh dưỡng (đường lactose giảm) và độ pH (axit lactic tăng) nên tốc độ thay đổi số lượng vijuẩn $N'(t)$ được mô hình hóa bởi công thức $N'(t) = 10,2^{2t}$ (tỷ tế bào/giờ) với $t$ là thời gian tính bằng giờ ($0 \\le t \\le 5$). Quá trình lên men kết thúc sau 5 giờ."
+  },
+  {
+    "bbox": [
+      474,
+      1615,
+      1526,
+      2062
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><td>Phát biểu</td><td>Đ</td><td>S</td></tr></thead><tbody><tr><td>a) Số lượng tế bào vijuẩn lactic tại thời điểm $t$ được xác định bởi công thức $N(t) = \\frac{5}{\\ln 2}(2^{2t} - 1) + 10$.</td><td></td><td></td></tr><tr><td>b) Sau 1 giờ lên men, số lượng vijuẩn là 31,7 tỷ tế bào.</td><td></td><td></td></tr><tr><td>c) So với lúc ban đầu ($t = 0$), số lượng vijuẩn (làm tròn đến hàng phần mười) đã tăng thêm 454,4 tỷ tế bào tại thời điểm $t = 3$ giờ.</td><td></td><td></td></tr><tr><td>d) Tại thời điểm kết thúc quá trình lên men, lượng vijuẩn trong bồn lên men lớn hơn 7389 tỷ tế bào.</td><td></td><td></td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      135,
+      2260,
+      426,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "568 Bùi Tịnh Minh Lâm"
+  }
+]

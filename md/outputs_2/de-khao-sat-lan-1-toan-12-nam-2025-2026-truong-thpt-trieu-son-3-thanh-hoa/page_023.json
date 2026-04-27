@@ -1,0 +1,231 @@
+[
+  {
+    "bbox": [
+      251,
+      119,
+      431,
+      155
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** 292."
+  },
+  {
+    "bbox": [
+      251,
+      160,
+      1395,
+      208
+    ],
+    "category": "Text",
+    "text": "Góc nhị diện tạo bởi hai nửa mặt phẳng chứa hai mái nhà có số đo bằng $\\widehat{BAC} = 120^\\circ$."
+  },
+  {
+    "bbox": [
+      251,
+      204,
+      1479,
+      248
+    ],
+    "category": "Text",
+    "text": "Gọi $H$ là hình chiếu vuông góc của $A$ trên mặt nền nhà, $M$ là giao điểm của $BC$ và $AH$."
+  },
+  {
+    "bbox": [
+      251,
+      250,
+      1395,
+      336
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } \\widehat{BAM} = 60^\\circ \\text{ và } BM = 3 \\Rightarrow \\tan \\widehat{BAM} = \\frac{BM}{AM} \\Rightarrow AM = \\frac{BM}{\\tan \\widehat{BAM}} = \\frac{3}{\\tan 60^\\circ} = \\sqrt{3}.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      342,
+      1270,
+      427
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Thể tích của卧室 là: } V = S_{ABFDC} \\cdot DE = \\left( 4 \\cdot 6 + \\frac{1}{2} \\cdot 6 \\cdot \\sqrt{3} \\right) \\cdot 10 \\approx 292 (m^3).\n$$"
+  },
+  {
+    "bbox": [
+      113,
+      434,
+      1535,
+      601
+    ],
+    "category": "List-item",
+    "text": "**Câu 2:** Một vật chuyển động theo quy luật $s(t) = -t^3 + 18t^2 + 5t$, với $t$ (giây) là khoảng thời gian tính từ lúc vật bắt đầu chuyển động và $s$ (mét) là quăng đường vật đi được trong thời gian đó. Hỏi trong khoảng thời gian 10 giây, kể từ lúc bắt đầu chuyển động, vận tốc lớn nhất của vật đạt được bằng bao nhiêu (m/s)?"
+  },
+  {
+    "bbox": [
+      836,
+      601,
+      950,
+      639
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      639,
+      439,
+      678
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 113."
+  },
+  {
+    "bbox": [
+      251,
+      680,
+      919,
+      728
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } v(t) = s'(t) = -3t^2 + 36t + 5 \\text{ với } t \\in [0;10].\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      736,
+      710,
+      782
+    ],
+    "category": "Formula",
+    "text": "$$\nv'(t) = -6t + 36; v'(t) = 0 \\Leftrightarrow t = 6\n$$"
+  },
+  {
+    "bbox": [
+      256,
+      790,
+      710,
+      836
+    ],
+    "category": "Formula",
+    "text": "$$\nv(0) = 5; v(10) = 65; v(6) = 113.\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      838,
+      1535,
+      930
+    ],
+    "category": "Text",
+    "text": "Vậy vận tốc lớn nhất của vật trong khoảng thời gian 10 giây, kể từ lúc bắt đầu chuyển động là 113 (m/s)."
+  },
+  {
+    "bbox": [
+      113,
+      932,
+      1535,
+      1145
+    ],
+    "category": "List-item",
+    "text": "**Câu 3:** Một bài thi trắc nghiệm gồm 10 câu hỏi, mỗi câu có 4 phương án trả lời, trong đó chỉ có một phương án đúng. Mỗi câu trả lời đúng được 4 điểm, mỗi câu trả lời sai trừ 1 điểm. Một thí sinh làm bài bằng cách ở mỗi câu hỏi chọn ngẫu nhiên một phương án trả lời. Gọi $p$ là xác suất khi thí sinh đó có kết quả 10 điểm. Giá trị của $100p$ bằng bao nhiêu? (kết quả làm tròn đến hàng phần mười)"
+  },
+  {
+    "bbox": [
+      836,
+      1145,
+      950,
+      1183
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1179,
+      431,
+      1221
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 14,6"
+  },
+  {
+    "bbox": [
+      251,
+      1217,
+      896,
+      1260
+    ],
+    "category": "Text",
+    "text": "Gọi $x, y$ là số câu trả lời đúng, số câu trả lời sai."
+  },
+  {
+    "bbox": [
+      259,
+      1265,
+      1037,
+      1361
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Để thí sinh được 10 điểm thì } \\begin{cases} 4x - y = 10 \\\\ x + y = 10 \\end{cases} \\Rightarrow x = 4, y = 6\n$$"
+  },
+  {
+    "bbox": [
+      251,
+      1371,
+      1264,
+      1464
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Xác suất để thí sinh đó được 10 điểm là } p = C_{10}^{4} \\left(\\frac{1}{4}\\right)^{4} \\left(\\frac{3}{4}\\right)^{6} \\Rightarrow 100p \\approx 14,6.\n$$"
+  },
+  {
+    "bbox": [
+      273,
+      1464,
+      1509,
+      1511
+    ],
+    "category": "Text",
+    "text": "(Câu 3 này lấy ý tưởng Bioscience 1.7 - Chuyên đề 1- Sách Chuyên đề học tập lớp 12- KNTT)"
+  },
+  {
+    "bbox": [
+      113,
+      1507,
+      1535,
+      1766
+    ],
+    "category": "List-item",
+    "text": "**Câu 4:** Trong không gian với hệ tọa độ $Oxyz$, mỗi đơn vị trên trục có độ dài 15 km. Một trạm theo dõi được đặt ở gốc tọa độ và có thể phát hiện được các vật thể cách nó một khoảng không quá 45 km. Một vệ tinh do thám di chuyển từ vị trí $A(4;2;1)$ đến vị trí $B\\left(-1; -\\frac{1}{2}; \\frac{7}{2}\\right)$ với vận tốc 80 km/h theo một đường thẳng. Thời gian mà vệ tinh di chuyển trong phạm vi phát hiện của trạm theo dõi là bao nhiêu phút? (kết quả làm tròn đến hàng phần mười)."
+  },
+  {
+    "bbox": [
+      836,
+      1766,
+      950,
+      1802
+    ],
+    "category": "Text",
+    "text": "**Lời giải**"
+  },
+  {
+    "bbox": [
+      251,
+      1798,
+      431,
+      1842
+    ],
+    "category": "Text",
+    "text": "**Đáp số:** 27,6"
+  },
+  {
+    "bbox": [
+      547,
+      1844,
+      1233,
+      2217
+    ],
+    "category": "Picture"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      155,
+      319,
+      194
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 21"
+  },
+  {
+    "bbox": [
+      156,
+      212,
+      1053,
+      254
+    ],
+    "category": "Text",
+    "text": "Gọi $\\alpha$ là góc giữa đường bay và sân bay. Khi đó $\\alpha = (AB, (Oxy))$."
+  },
+  {
+    "bbox": [
+      156,
+      278,
+      1108,
+      326
+    ],
+    "category": "Text",
+    "text": "Với đường thẳng $AB$, nhận vecto $\\overrightarrow{AB} = (5;6;3)$ làm vecto chỉ phương."
+  },
+  {
+    "bbox": [
+      156,
+      350,
+      1350,
+      399
+    ],
+    "category": "Text",
+    "text": "Với $(Oxy)$ do $Oz \\perp (Oxy)$ nên mặt phẳng $(Oxy)$ nhận $\\vec{k} = (0;0;1)$ làm vecto pháp tuyến."
+  },
+  {
+    "bbox": [
+      156,
+      422,
+      695,
+      534
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Khi đó ta có } \\sin \\alpha = \\frac{|\\overrightarrow{AB} \\cdot \\vec{k}|}{|\\overrightarrow{AB}| \\cdot |\\vec{k}|} = \\frac{3\\sqrt{70}}{70}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      557,
+      337,
+      603
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Vậy } \\alpha \\approx 21^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      622,
+      1574,
+      851
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh bằng $3$, $SA \\perp (ABCD)$, số đo của góc nhị diện $[S, BC, A]$ bằng $30^{\\circ}$. Khoảng cách giữa hai đường thẳng $SC$ và $BD$ bằng $\\frac{3\\sqrt{14}}{n}$. Giá trị của $n$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      156,
+      869,
+      493,
+      906
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      928,
+      925,
+      967
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      156,
+      985,
+      317,
+      1024
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 14"
+  },
+  {
+    "bbox": [
+      608,
+      1042,
+      1168,
+      1471
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      156,
+      1498,
+      1353,
+      1545
+    ],
+    "category": "Text",
+    "text": "Ta có $SA \\perp (ABCD) \\Rightarrow SA \\perp BC$; $ABCD$ là hình vuông $\\Rightarrow AB \\perp BC$. Suy ra $SB \\perp BC$."
+  },
+  {
+    "bbox": [
+      156,
+      1571,
+      1439,
+      1625
+    ],
+    "category": "Text",
+    "text": "Từ đó ta có $\\widehat{SBA}$ là góc phẳng nhị diện của góc nhị diện $[S, BC, A]$. Theo bài ra thì $\\widehat{SBA} = 30^{\\circ}$."
+  },
+  {
+    "bbox": [
+      156,
+      1649,
+      1154,
+      1701
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SAB$ vuông tại $A$ ta có: $SA = AB \\cdot \\tan \\widehat{SBA} = 3 \\cdot \\tan 30^{\\circ} = \\sqrt{3}$."
+  },
+  {
+    "bbox": [
+      156,
+      1723,
+      1521,
+      1784
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục toạ độ $Oxyz$ sao cho $A \\equiv O = (0;0;0)$; $B(3;0;0)$; $D(0;3;0)$; $S(0;0;\\sqrt{3})$; $C(3;3;0)$."
+  },
+  {
+    "bbox": [
+      156,
+      1808,
+      961,
+      1871
+    ],
+    "category": "Text",
+    "text": "Khi đó $\\overrightarrow{BD} = (-3;3;0)$; $\\overrightarrow{SC} = (3;3;-\\sqrt{3})$; $\\overrightarrow{SD} = (0;3;-\\sqrt{3})$."
+  },
+  {
+    "bbox": [
+      156,
+      1893,
+      698,
+      1958
+    ],
+    "category": "Text",
+    "text": "Suy ra $[\\overrightarrow{BD}, \\overrightarrow{SC}] = (-3\\sqrt{3};-3\\sqrt{3};-18)$."
+  },
+  {
+    "bbox": [
+      156,
+      1982,
+      1112,
+      2128
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } d(BD, SC) = \\frac{|[\\overrightarrow{BD}, \\overrightarrow{SC}] \\cdot \\overrightarrow{SD}|}{|[\\overrightarrow{BD}, \\overrightarrow{SC}]|} = \\frac{|-9\\sqrt{3} + 18\\sqrt{3}|}{\\sqrt{(3\\sqrt{3})^2 + (3\\sqrt{3})^2 + 18^2}} = \\frac{3\\sqrt{14}}{14}.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2152,
+      751,
+      2248
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Do } d(BD, SC) = \\frac{3\\sqrt{14}}{n} = \\frac{3\\sqrt{14}}{14} \\text{ nên } n = 14.\n$$"
+  },
+  {
+    "bbox": [
+      156,
+      2258,
+      648,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      923,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 17"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "bbox": [
+      83,
+      56,
+      871,
+      94
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      96,
+      414,
+      132
+    ],
+    "category": "Text",
+    "text": "Trả lời: ...................."
+  },
+  {
+    "bbox": [
+      727,
+      155,
+      843,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      213,
+      269,
+      252
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,24"
+  },
+  {
+    "bbox": [
+      76,
+      272,
+      862,
+      316
+    ],
+    "category": "Text",
+    "text": "Gọi A là biến cố “lấy được một thẻ xanh ở lần thứ nhất”."
+  },
+  {
+    "bbox": [
+      76,
+      330,
+      832,
+      374
+    ],
+    "category": "Text",
+    "text": "Gọi B là biến cố “lấy được một thẻ trắng ở lần thứ hai”."
+  },
+  {
+    "bbox": [
+      76,
+      386,
+      1267,
+      432
+    ],
+    "category": "Text",
+    "text": "Vậy AB là biến cố “lấy được một thẻ xanh ở lần thứ nhất và một thẻ trắng ở lần thứ hai”."
+  },
+  {
+    "bbox": [
+      76,
+      453,
+      389,
+      534
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có: } P(A) = \\frac{30}{50} = \\frac{3}{5},\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      558,
+      1114,
+      640
+    ],
+    "category": "Text",
+    "text": "Sau khi lấy thẻ xanh ở lần thứ nhất số thẻ còn lại là 49 thẻ nên $P(B|A) = \\frac{20}{49}$."
+  },
+  {
+    "bbox": [
+      76,
+      662,
+      1046,
+      758
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Ta có } P(B|A) = \\frac{P(AB)}{P(A)} \\Rightarrow P(AB) = P(A) \\cdot P(B|A) = \\frac{3}{5} \\cdot \\frac{20}{49} = \\frac{12}{49} = 0,24\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      2257,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 18"
+  }
+]

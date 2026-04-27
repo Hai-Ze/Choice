@@ -1,0 +1,311 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      1564,
+      153
+    ],
+    "category": "Text",
+    "text": "b) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó bị bệnh tiểu đường là 0,7."
+  },
+  {
+    "bbox": [
+      212,
+      159,
+      1574,
+      244
+    ],
+    "category": "Text",
+    "text": "c) Xác suất chọn được người bị bệnh huyết áp cao, biết người đó không bị bệnh tiểu đường là 0,75."
+  },
+  {
+    "bbox": [
+      212,
+      253,
+      1061,
+      297
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được người bị bệnh huyết áp cao là 0,8."
+  },
+  {
+    "bbox": [
+      833,
+      304,
+      953,
+      345
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      347,
+      1252,
+      395
+    ],
+    "category": "Text",
+    "text": "a) Gọi biến cố $A$ “người cao tuổi mắc bệnh tiểu đường”, $\\Rightarrow P(A) = 0,4$."
+  },
+  {
+    "bbox": [
+      212,
+      401,
+      419,
+      444
+    ],
+    "category": "Text",
+    "text": "Chọn ĐÚNG."
+  },
+  {
+    "bbox": [
+      212,
+      450,
+      1388,
+      507
+    ],
+    "category": "Text",
+    "text": "b) Suy ra biến cố $\\bar{A}$ “người cao tuổi không mắc bệnh tiểu đường” $\\Rightarrow P(\\bar{A}) = 0,6$"
+  },
+  {
+    "bbox": [
+      212,
+      516,
+      1574,
+      561
+    ],
+    "category": "Text",
+    "text": "Gọi biến cố $B$ “người bị bệnh huyết áp cao trong những người bị bệnh tiểu đường”"
+  },
+  {
+    "bbox": [
+      212,
+      561,
+      1182,
+      656
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow P(B / A) = 0,7 \\Leftrightarrow \\frac{P(BA)}{P(A)} = 0,7 \\Leftrightarrow P(A) + P(B) - P(AB) = 0,4 \\cdot 0,7.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      665,
+      649,
+      711
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow P(B) = 1 + 0,28 - 0,4 = 0,88.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      724,
+      370,
+      762
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      766,
+      1574,
+      810
+    ],
+    "category": "Text",
+    "text": "c) Gọi biến cố $C$ “người bị bệnh huyết áp cao trong những người không bị bệnh tiểu"
+  },
+  {
+    "bbox": [
+      212,
+      812,
+      858,
+      930
+    ],
+    "category": "Formula",
+    "text": "$$\nđường” $\\Rightarrow P(C / \\bar{A}) = 0,25 \\Leftrightarrow \\frac{P(C\\bar{A})}{P(\\bar{A})} = 0,25.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      938,
+      1153,
+      997
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow P(C) + P(\\bar{A}) - P(C\\bar{A}) = 0,25 \\cdot 0,6 \\Leftrightarrow P(C) = 1 + 0,15 - 0,6 = 0,55.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1009,
+      370,
+      1046
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      212,
+      1052,
+      995,
+      1095
+    ],
+    "category": "Text",
+    "text": "d) Xác suất chọn được người bị bệnh huyết áp cao là."
+  },
+  {
+    "bbox": [
+      212,
+      1097,
+      868,
+      1144
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B + C) = P(B) + P(C) - P(BC) = 0,88 + 0,55\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      1156,
+      370,
+      1194
+    ],
+    "category": "Text",
+    "text": "Chọn SAI."
+  },
+  {
+    "bbox": [
+      74,
+      1192,
+      1192,
+      1241
+    ],
+    "category": "Text",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6."
+  },
+  {
+    "bbox": [
+      74,
+      1245,
+      1574,
+      1379
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác vuông tại $A$, $AB = 1$, $BC = 2$. Gọi $M, N, P$ lãloot là trung điểm của $AC, CC', A'B$ và $H$ là hình chiếu của $A$ lên $BC$. Tính khoảng cách giữa $MP$ và $NH$. (kết quả làm tròn đến hàng phần trăm)"
+  },
+  {
+    "bbox": [
+      765,
+      1381,
+      884,
+      1422
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1426,
+      410,
+      1468
+    ],
+    "category": "Text",
+    "text": "Đáp án: 0,43"
+  },
+  {
+    "bbox": [
+      728,
+      1482,
+      1053,
+      1951
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      1962,
+      1413,
+      2006
+    ],
+    "category": "Text",
+    "text": "Vì $A'B'BA$ là hình bình hành nên $P$ cũng là trung điểm của $AB'$. Do đó $MP // B'C$."
+  },
+  {
+    "bbox": [
+      212,
+      2006,
+      1014,
+      2051
+    ],
+    "category": "Text",
+    "text": "Mặt phẳng $BCC'B'$ chứa $NH$ và song song với $MP$ nên"
+  },
+  {
+    "bbox": [
+      212,
+      2053,
+      1307,
+      2136
+    ],
+    "category": "Formula",
+    "text": "$$\nd(MP, NH) = d(MP, (BCC'B')) = d(M, (BCC'B')) = \\frac{1}{2} d(A, (BCC'B')) = \\frac{1}{2} AH.\n$$"
+  },
+  {
+    "bbox": [
+      212,
+      2138,
+      1432,
+      2232
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Tam giác } ABC \\text{ vuông tại } A, AB = 1, BC = 2 \\text{ suy ra } AC = \\sqrt{3} \\Rightarrow AH = \\frac{AC \\cdot AB}{BC} = \\frac{\\sqrt{3}}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dاء: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2262,
+      1505,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 6 -"
+  }
+]

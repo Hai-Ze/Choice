@@ -1,0 +1,292 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      97,
+      775,
+      143
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = 2e^{2x-1} - 2$."
+  },
+  {
+    "bbox": [
+      76,
+      166,
+      1326,
+      217
+    ],
+    "category": "Text",
+    "text": "c) Giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $[0;2]$ lần lượt là $e^3 - 4$ và $0$."
+  },
+  {
+    "bbox": [
+      76,
+      242,
+      871,
+      329
+    ],
+    "category": "Text",
+    "text": "d) Tập nghiệm của bất phương trình $f'(x) \\ge 0$ là $\\left[\\frac{1}{2};+\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      727,
+      354,
+      843,
+      392
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      407,
+      894,
+      530
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      76,
+      588,
+      720,
+      637
+    ],
+    "category": "Text",
+    "text": "a) Hàm số đã cho có tập xác định $D = (-\\infty;+\\infty)$"
+  },
+  {
+    "bbox": [
+      76,
+      664,
+      615,
+      708
+    ],
+    "category": "Text",
+    "text": "b) $f(x) = e^{2x-1} - 2x \\Rightarrow f'(x) = 2e^{2x-1} - 2$"
+  },
+  {
+    "bbox": [
+      76,
+      731,
+      734,
+      782
+    ],
+    "category": "Text",
+    "text": "d) Hàm số đã cho xác định và liên tục trên $[0;2]$."
+  },
+  {
+    "bbox": [
+      82,
+      807,
+      578,
+      851
+    ],
+    "category": "Formula",
+    "text": "$$\nf(x) = e^{2x-1} - 2x \\Rightarrow f'(x) = 2e^{2x-1} - 2\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      878,
+      785,
+      959
+    ],
+    "category": "Text",
+    "text": "ta có: $f'(x) = 0 \\Leftrightarrow 2e^{2x-1} - 2 = 0 \\Leftrightarrow e^{2x-1} = 1 \\Leftrightarrow x = \\frac{1}{2}$"
+  },
+  {
+    "bbox": [
+      82,
+      986,
+      202,
+      1067
+    ],
+    "category": "Formula",
+    "text": "$$\nf(0) = \\frac{1}{e}\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1075,
+      217,
+      1161
+    ],
+    "category": "Formula",
+    "text": "$$\nf\\left(\\frac{1}{2}\\right) = 0\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1173,
+      262,
+      1221
+    ],
+    "category": "Formula",
+    "text": "$$\nf(2) = e^3 - 4\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1247,
+      171,
+      1282
+    ],
+    "category": "Text",
+    "text": "Do đó:"
+  },
+  {
+    "bbox": [
+      82,
+      1307,
+      419,
+      1364
+    ],
+    "category": "Formula",
+    "text": "$$\n\\max_{x \\in [0;2]} f(x) = f(2) = e^3 - 4\n$$"
+  },
+  {
+    "bbox": [
+      82,
+      1376,
+      381,
+      1462
+    ],
+    "category": "Formula",
+    "text": "$$\n\\min_{x \\in [0;2]} f(x) = f\\left(\\frac{1}{2}\\right) = 0\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1489,
+      1347,
+      1539
+    ],
+    "category": "Text",
+    "text": "Vậy giá trị lớn nhất, giá trị nhỏ nhất của hàm số đã cho trên đoạn $[0;2]$ lần lượt là $e^3 - 4$ và $0$."
+  },
+  {
+    "bbox": [
+      76,
+      1565,
+      191,
+      1602
+    ],
+    "category": "Text",
+    "text": "d) Ta có"
+  },
+  {
+    "bbox": [
+      89,
+      1621,
+      213,
+      1661
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) \\ge 0\n$$"
+  },
+  {
+    "bbox": [
+      89,
+      1672,
+      307,
+      1712
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 2e^{2x-1} - 2 \\ge 0\n$$"
+  },
+  {
+    "bbox": [
+      89,
+      1727,
+      239,
+      1767
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow e^{2x-1} \\ge 1\n$$"
+  },
+  {
+    "bbox": [
+      89,
+      1782,
+      260,
+      1818
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow 2x - 1 \\ge 0\n$$"
+  },
+  {
+    "bbox": [
+      89,
+      1835,
+      207,
+      1912
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Leftrightarrow x \\ge \\frac{1}{2}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1935,
+      887,
+      2022
+    ],
+    "category": "Text",
+    "text": "Vậy tập nghiệm của bất phương trình $f'(x) \\ge 0$ là $\\left[\\frac{1}{2};+\\infty\\right)$."
+  },
+  {
+    "bbox": [
+      76,
+      2045,
+      1493,
+      2170
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Một chiếc xe đạp chuyển động theo quy luật vận tốc $v(t)(m/s)$ có dạng đường thẳng tại thời điểm $0 \\le t \\le 1(s)$ và $1 < t \\le 2(s)$ với vận tốc được cho bởi đồ thị trong hệ trục $tOv$ như hình sau:"
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      730,
+      2255,
+      839,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 12"
+  }
+]

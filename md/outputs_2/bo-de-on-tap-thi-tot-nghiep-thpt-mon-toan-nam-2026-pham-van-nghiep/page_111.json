@@ -1,0 +1,112 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Lpolation"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      106,
+      1562,
+      206
+    ],
+    "category": "Text",
+    "text": "xác suất trả lời đúng mỗi câu hỏi đều bằng 0,7. Tính xác suất của biến cố bạn Hà được 8,5 điểm ( kết quả làm tròn đến hàng phần trăm )"
+  },
+  {
+    "bbox": [
+      764,
+      208,
+      884,
+      250
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      254,
+      396,
+      291
+    ],
+    "category": "Text",
+    "text": "Trả lời: 0,12."
+  },
+  {
+    "bbox": [
+      212,
+      297,
+      1006,
+      347
+    ],
+    "category": "Text",
+    "text": "Gọi $x$ là số câu bạn Hà trả lời đúng ($n \\in \\mathbb{N}, 0 \\le x \\le 10$)."
+  },
+  {
+    "bbox": [
+      212,
+      356,
+      706,
+      397
+    ],
+    "category": "Text",
+    "text": "Số câu bạn Hà trả lời sai là $10-x$."
+  },
+  {
+    "bbox": [
+      212,
+      403,
+      1081,
+      452
+    ],
+    "category": "Text",
+    "text": "Nếu bạn Hà được 8,5 điểm thì $x - 0,5(10 - x) = 8,5 \\Leftrightarrow x = 9$"
+  },
+  {
+    "bbox": [
+      212,
+      459,
+      1572,
+      565
+    ],
+    "category": "Text",
+    "text": "Xác suất của biến cố Hà được 8,5 điểm bằng xác suất bạ Hà trả lời đúng 9 trong 10 câu hỏi bằng $C_{10}^1 \\cdot 0,7^9 \\cdot 0,3 \\approx 0,12$."
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1522,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 10 -"
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "bbox": [
+      217,
+      57,
+      471,
+      101
+    ],
+    "category": "Section-header",
+    "text": "### c) M�nh đề đúng."
+  },
+  {
+    "bbox": [
+      217,
+      101,
+      1552,
+      190
+    ],
+    "category": "Text",
+    "text": "Điều kiện của mật mã là 4 chữ số **tăng nghiêm ngặt**, nên không thể có chữ số 0 (nếu có thì 0 đứng đầu, không còn là số tự nhiên 4 chữ số)."
+  },
+  {
+    "bbox": [
+      217,
+      195,
+      1398,
+      245
+    ],
+    "category": "Text",
+    "text": "Chọn 4 chữ số từ $\\{1; 2; \\dots; 9\\}$ thì có $C_9^4 = 126$ (mối bộ cho đúng 1 mã theo thứ tự tăng)."
+  },
+  {
+    "bbox": [
+      217,
+      252,
+      441,
+      297
+    ],
+    "category": "Section-header",
+    "text": "### d) M�nh đề sai."
+  },
+  {
+    "bbox": [
+      217,
+      302,
+      1583,
+      414
+    ],
+    "category": "Text",
+    "text": "Mật mã là 4 chữ số tăng nghiêm ngặt trong $\\{1; \\dots; 9\\}$ mà luôn chứa 4; 5 nên cần chọn thêm 2 chữ số từ $\\{1; 2; 3; 6; 7; 8; 9\\}$, có $C_7^2 = 21$ mật mã như thế."
+  },
+  {
+    "bbox": [
+      217,
+      428,
+      950,
+      510
+    ],
+    "category": "Text",
+    "text": "Huy thử 5 lần **không lặp** thì xác suất trúng là $\\frac{5}{21} \\neq \\frac{1}{4}$."
+  },
+  {
+    "bbox": [
+      488,
+      513,
+      1216,
+      557
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN III. CÂU TRẮC NGHIỆM TRẢ LỜI NGẤN"
+  },
+  {
+    "bbox": [
+      92,
+      563,
+      1593,
+      712
+    ],
+    "category": "List-item",
+    "text": "**Câu 17.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Thế tích khối chóp bằng $4a^3$; tam giác $SBC$ cân tại $S$ và $SB = a$, $BSC = 45^\\circ$. Biết khoảng cách từ tâm $O$ đến mặt bên ($SBC$) của hình chóp bằng $m \\cdot a$ ($m > 0$). Tính giá trị $m$ và làm tròn đến hàng phần chục."
+  },
+  {
+    "bbox": [
+      217,
+      715,
+      542,
+      770
+    ],
+    "category": "Text",
+    "text": "Trả lời:"
+  },
+  {
+    "bbox": [
+      217,
+      774,
+      375,
+      817
+    ],
+    "category": "Text",
+    "text": "Đáp số: 8,5"
+  },
+  {
+    "bbox": [
+      740,
+      819,
+      966,
+      862
+    ],
+    "category": "Section-header",
+    "text": "### Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      869,
+      981,
+      950
+    ],
+    "category": "Text",
+    "text": "Ta có: $S_{\\Delta OBC} = \\frac{1}{4}S_{ABCD} \\Rightarrow V_{S.OBC} = \\frac{1}{4}V_{S.ABCD} = \\frac{1}{4}4a^3 = a^3$."
+  },
+  {
+    "bbox": [
+      217,
+      958,
+      978,
+      1051
+    ],
+    "category": "Text",
+    "text": "Xét tam giác $SBC$ có: $S_{\\Delta SBC} = \\frac{1}{2}SB \\cdot SC \\cdot \\sin BSC = \\frac{\\sqrt{2}}{4}a^2$."
+  },
+  {
+    "bbox": [
+      217,
+      1062,
+      975,
+      1197
+    ],
+    "category": "Text",
+    "text": "Khi đó: $d(O,(SBC)) = \\frac{3V_{S.OBC}}{S_{\\Delta SBC}} = \\frac{3 \\cdot a^3}{\\frac{\\sqrt{2}}{4}a^2} = 6\\sqrt{2}a = m \\cdot a$."
+  },
+  {
+    "bbox": [
+      217,
+      1204,
+      525,
+      1251
+    ],
+    "category": "Text",
+    "text": "Do đó $m = 6\\sqrt{2} \\approx 8,5$."
+  },
+  {
+    "bbox": [
+      1111,
+      887,
+      1588,
+      1207
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      92,
+      1266,
+      1593,
+      1417
+    ],
+    "category": "List-item",
+    "text": "**Câu 18.** Trong không gian $Oxyz$, một máy bay đang bay qua vị trí $A(300; 450; 12)$ với vận tốc $\\vec{u} = (450; 620; 230)$ thì vào một vùng có gió với vận tốc $\\vec{v} = (35; -20; 5)$ (đơn vị vận tốc là km/h)."
+  },
+  {
+    "bbox": [
+      217,
+      1417,
+      1065,
+      1456
+    ],
+    "category": "Text",
+    "text": "Máy bay bay trong vùng gió này mất 30 phút."
+  },
+  {
+    "bbox": [
+      217,
+      1454,
+      684,
+      1494
+    ],
+    "category": "Text",
+    "text": "Sau 30 phút, máy bay ở vị trí $B$ cách vị trí $A$ bao nhiêu km ?"
+  },
+  {
+    "bbox": [
+      217,
+      1490,
+      542,
+      1543
+    ],
+    "category": "Text",
+    "text": "Làm tròn kết quả đến hàng đơn vị."
+  },
+  {
+    "bbox": [
+      217,
+      1547,
+      381,
+      1590
+    ],
+    "category": "Text",
+    "text": "Đáp số: 403"
+  },
+  {
+    "bbox": [
+      1085,
+      1377,
+      1585,
+      1596
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      477,
+      1592,
+      703,
+      1635
+    ],
+    "category": "Section-header",
+    "text": "### Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      217,
+      1635,
+      1154,
+      1680
+    ],
+    "category": "Text",
+    "text": "Theo công thức cộng vận tốc, vận tốc của máy bay sau khi gặp gió là:"
+  },
+  {
+    "bbox": [
+      222,
+      1687,
+      597,
+      1735
+    ],
+    "category": "Formula",
+    "text": "$$\n\\vec{w} = \\vec{u} + \\vec{v} = (485; 600; 235)\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1746,
+      928,
+      1789
+    ],
+    "category": "Text",
+    "text": "Suy ra, độ lớn của vận tốc"
+  },
+  {
+    "bbox": [
+      222,
+      1794,
+      819,
+      1847
+    ],
+    "category": "Formula",
+    "text": "$$\n|\\vec{w}| = \\sqrt{485^2 + 600^2 + 235^2} \\approx 806,5048 \\text{ km/h.}\n$$"
+  },
+  {
+    "bbox": [
+      217,
+      1860,
+      930,
+      1901
+    ],
+    "category": "Text",
+    "text": "Quăng đường máy bay bay sau 30 phút là"
+  },
+  {
+    "bbox": [
+      222,
+      1907,
+      565,
+      1988
+    ],
+    "category": "Formula",
+    "text": "$$\nAB = |\\vec{w}| \\cdot t = 806,5048 \\cdot \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      951,
+      1717,
+      1574,
+      1929
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      134,
+      2017,
+      506,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ HOÀNG XUÂN NHÀN"
+  },
+  {
+    "bbox": [
+      1111,
+      2017,
+      1443,
+      2056
+    ],
+    "category": "Page-footer",
+    "text": "☐ ZALO: 0969 343 344"
+  },
+  {
+    "bbox": [
+      1539,
+      2022,
+      1559,
+      2054
+    ],
+    "category": "Page-footer",
+    "text": "6"
+  }
+]

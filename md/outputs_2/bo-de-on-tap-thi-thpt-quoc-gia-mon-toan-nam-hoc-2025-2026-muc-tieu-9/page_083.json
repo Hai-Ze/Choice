@@ -1,0 +1,278 @@
+[
+  {
+    "bbox": [
+      153,
+      131,
+      429,
+      210
+    ],
+    "category": "Text",
+    "text": "Xác suất là $P = \\frac{1}{8}$."
+  },
+  {
+    "bbox": [
+      153,
+      222,
+      923,
+      264
+    ],
+    "category": "Text",
+    "text": "→ **Câu 10.** Heo nguyên hàm của hàm số $f(x) = 5^x$ là"
+  },
+  {
+    "bbox": [
+      190,
+      277,
+      376,
+      358
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\frac{5^x}{\\ln 5} + C.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      277,
+      1085,
+      358
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\frac{5^{x+1}}{x+1} + C.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      356,
+      351,
+      397
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad 5^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      356,
+      1111,
+      397
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad 5^x \\cdot \\ln 5 + C.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      410,
+      198,
+      451
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      393,
+      1314,
+      544
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Áp dụng công thức nguyên hàm cơ bản: $\\int a^x dx = \\frac{a^x}{\\ln a} + C$.\nVới $a = 5$, ta có $\\int 5^x dx = \\frac{5^x}{\\ln 5} + C$."
+  },
+  {
+    "bbox": [
+      153,
+      556,
+      1546,
+      638
+    ],
+    "category": "Text",
+    "text": "→ **Câu 11.** Cho hình chóp có diện tích đáy bằng 10 và chiều cao bằng 6. Tính thể tích khối chóp đã cho."
+  },
+  {
+    "bbox": [
+      190,
+      660,
+      288,
+      703
+    ],
+    "category": "List-item",
+    "text": "A) 30."
+  },
+  {
+    "bbox": [
+      535,
+      660,
+      633,
+      703
+    ],
+    "category": "List-item",
+    "text": "B) 16."
+  },
+  {
+    "bbox": [
+      879,
+      660,
+      974,
+      703
+    ],
+    "category": "List-item",
+    "text": "C) 20."
+  },
+  {
+    "bbox": [
+      1224,
+      660,
+      1319,
+      703
+    ],
+    "category": "List-item",
+    "text": "D) 60."
+  },
+  {
+    "bbox": [
+      153,
+      734,
+      198,
+      775
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      717,
+      1405,
+      794
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Công thức tính thể tích khối chóp: $V = \\frac{1}{3}S_{\\Oy} \\cdot h = \\frac{1}{3} \\cdot 10 \\cdot 6 = 20$."
+  },
+  {
+    "bbox": [
+      153,
+      807,
+      1510,
+      849
+    ],
+    "category": "Text",
+    "text": "→ **Câu 12.** Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Tìm khẳng định đúng."
+  },
+  {
+    "bbox": [
+      596,
+      862,
+      1114,
+      1354
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      190,
+      1435,
+      485,
+      1482
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad \\overrightarrow{SA} = \\overrightarrow{SB} + \\overrightarrow{DC}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      1435,
+      1169,
+      1482
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad \\overrightarrow{SA} = \\overrightarrow{SB} + \\overrightarrow{CD}.\n$$"
+  },
+  {
+    "bbox": [
+      190,
+      1478,
+      493,
+      1527
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad \\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BD}.\n$$"
+  },
+  {
+    "bbox": [
+      876,
+      1478,
+      1256,
+      1527
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad \\overrightarrow{SA} - \\overrightarrow{SB} = \\overrightarrow{SC} - \\overrightarrow{SD}.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1527,
+      198,
+      1568
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      153,
+      1525,
+      1107,
+      1720
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Vì $ABCD$ là hình bình hành nên $\\overrightarrow{BA} = \\overrightarrow{CD}$.\nTheo quy tắc hiệu hai vecto chung gốc $S$, ta có: $\\overrightarrow{SA} - \\overrightarrow{SB} = \\overrightarrow{BA}$.\nThay $\\overrightarrow{BA} = \\overrightarrow{CD}$ vào, ta được: $\\overrightarrow{SA} - \\overrightarrow{SB} = \\overrightarrow{CD} \\Leftrightarrow \\overrightarrow{SA} = \\overrightarrow{SB} + \\overrightarrow{CD}$.\nKhẳng định đúng là $\\overrightarrow{SA} = \\overrightarrow{SB} + \\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      153,
+      1739,
+      1546,
+      1826
+    ],
+    "category": "Text",
+    "text": "**Phần II. Câu trắc nghiệm đúng sai** Thí sinh trả lời từ câu 1 đến câu 4. Mối ý a) b) c) d) thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      153,
+      1848,
+      1546,
+      2153
+    ],
+    "category": "Text",
+    "text": "→ **Bài 1.** “Cú nh아y tử thần” của ngỗng Barnacle ở Bắc Cực là một trong những hình ảnh ấn tượng và tạo ra nhiều cảm xúc nhất trong thế giới tự nhiên. Vào夏季 sinh sản, để tránh kẻ thù ngỗng bố mẹ sẽ làm tổ trên vách đá cao hơn 100 m. Khi ngỗng con ra đời được vài ngày thì phải cùng ngỗng bố mẹ nh아y từ vách đá xuống mặt đất để kiếm ăn. Nhờ bản năng sinh tồn cùng với lớp lông vũ bảo vệ mà tỉ lệ sống sót của ngỗng con khi thực hiện “Cú nh아y tử thần” rất cao, ngỗng con đực là 80% và ngỗng con cái là 90%. Hôm nay, ngỗng bố mẹ sẽ dùi dắt 3 ngỗng con gồm một con đực và hai con cái thực hiện cú nh아y đầu đời ngoạn mục này."
+  },
+  {
+    "bbox": [
+      190,
+      2173,
+      1222,
+      2214
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để cả 3 ngỗng con sống sót sau “Cú nh아y tử thần” là 0,648."
+  },
+  {
+    "bbox": [
+      148,
+      2255,
+      819,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1551,
+      2251,
+      1586,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "83"
+  }
+]

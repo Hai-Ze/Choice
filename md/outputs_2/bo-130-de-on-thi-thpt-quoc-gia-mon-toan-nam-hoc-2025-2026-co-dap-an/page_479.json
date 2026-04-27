@@ -1,0 +1,288 @@
+[
+  {
+    "bbox": [
+      94,
+      41,
+      128,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1565,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1574,
+      48,
+      1596,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      124,
+      121,
+      603,
+      237
+    ],
+    "category": "Formula",
+    "text": "c) Nếu $\\int_{0}^{2} af(x) \\, dx = 32$ thì $a = 6$."
+  },
+  {
+    "bbox": [
+      124,
+      235,
+      1194,
+      394
+    ],
+    "category": "Formula",
+    "text": "d) Cho $g(x) = (ax^2 + bx + c) \\cdot e^{3x}$ là một nguyên hàm của hàm số $e^{3x} \\cdot f(x)$, nếu $\\int_{0}^{2} e^{3x} f(x) \\, dx = a + \\frac{b \\cdot e^6}{27}$ Khi đó: $27a - b = -2$."
+  },
+  {
+    "bbox": [
+      108,
+      407,
+      893,
+      462
+    ],
+    "category": "Section-header",
+    "text": "### 3 CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN (3,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      94,
+      469,
+      1198,
+      625
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều cạnh $a$, cạnh bên $SA$ vuông góc với đáy. Biết khoảng cách từ điểm $A$ đến mặt phẳng ($SBC$) $m \\cdot a; m \\in \\mathbb{R}$. Khi đó giá trị của $m$ là (làm tròn đến hàng phần trăm), biết $SA = \\frac{a\\sqrt{6}}{2}$."
+  },
+  {
+    "bbox": [
+      105,
+      625,
+      325,
+      673
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      94,
+      686,
+      1198,
+      767
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Trong Vật lý, một dao động điều hòa là dao động có phương trình chuyển động"
+  },
+  {
+    "bbox": [
+      504,
+      767,
+      791,
+      806
+    ],
+    "category": "Formula",
+    "text": "$$\nx(t) = A \\cos(\\omega t + \\varphi)\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      824,
+      590,
+      861
+    ],
+    "category": "Text",
+    "text": "Trong đó $A$ là Biên độ của dao động."
+  },
+  {
+    "bbox": [
+      94,
+      861,
+      410,
+      899
+    ],
+    "category": "Text",
+    "text": "$\\omega$ (rad/s) là tần số góc."
+  },
+  {
+    "bbox": [
+      94,
+      899,
+      422,
+      937
+    ],
+    "category": "Text",
+    "text": "$\\varphi$ (rad) là pha ban đầu."
+  },
+  {
+    "bbox": [
+      94,
+      937,
+      1198,
+      1012
+    ],
+    "category": "Text",
+    "text": "Trong Vật lý, Động năng của một vật là năng lượng mà nó có được từ chuyển động của nó. Được xác định bởi công thức."
+  },
+  {
+    "bbox": [
+      539,
+      1037,
+      754,
+      1110
+    ],
+    "category": "Formula",
+    "text": "$$\nW = \\frac{1}{2}m \\cdot v^2(t)\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      1137,
+      617,
+      1175
+    ],
+    "category": "Text",
+    "text": "Trong đó $m$ (kg) là khối lượng của vật."
+  },
+  {
+    "bbox": [
+      94,
+      1175,
+      737,
+      1213
+    ],
+    "category": "Text",
+    "text": "$v(t)$ (m/s) là vận tốc của vật tại thời điểm $t$ (s)."
+  },
+  {
+    "bbox": [
+      94,
+      1213,
+      1198,
+      1352
+    ],
+    "category": "Text",
+    "text": "Giả sử một vật có khối lượng $m = 100$ (g) dao động điều hòa với phương trình chuyển động $x = 40 \\cos\\left(200\\pi t - \\frac{\\pi}{3}\\right)$ (cm). Khi đó Động năng vật đó đạt giá trị lớn nhất bằng bao nhiêu (J)? (Làm tròn đến hàng phần chục) KQ: [ ]"
+  },
+  {
+    "bbox": [
+      94,
+      1375,
+      1198,
+      1567
+    ],
+    "category": "Text",
+    "text": "**CÂU 3.** Xét hệ gồm hai nguyên tử khí argon (Ar) ở trạng thái cơ bản, mỗi nguyên tử được coi là một khối cầu, khoảng cách ($d$) giữa hai nguyên tử bằng khoảng cách giữa tâm của hai khối cầu (tham khảo hình bên). Coi như không có tương tác bên ngoài nào tác động đến hệ, sự phụ thuộc của thế năng tương tác $V(d)$ giữa hai nguyên tử khí vào khoảng cách $d$ được xác định theo công thức"
+  },
+  {
+    "bbox": [
+      388,
+      1597,
+      905,
+      1778
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      462,
+      1815,
+      828,
+      1890
+    ],
+    "category": "Formula",
+    "text": "$$\nV(d) = 4\\varepsilon \\left[ \\left(\\frac{\\sigma}{d}\\right)^{12} - \\left(\\frac{\\sigma}{d}\\right)^{6} \\right]\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      1908,
+      1198,
+      2024
+    ],
+    "category": "Text",
+    "text": "Trong đó $\\varepsilon$ và $\\sigma$ là các hằng số đặc trưng cho từng khí hiểm. Đối với Ar, $\\varepsilon = 0,930$ và $\\sigma = 3,62$. Biết rằng khi thế năng tương tác đạt nhỏ nhất thì hệ hai nguyên tử Ar là bền nhất, khoảng cách ($d$) mà hai nguyên tử đó bền nhất là?"
+  },
+  {
+    "bbox": [
+      94,
+      2024,
+      1238,
+      2074
+    ],
+    "category": "Text",
+    "text": "(Công thức $V(d)$ có tên gọi là Thế Lennard-Jones) (Nguồn Wikipedia) KQ: [ ]"
+  },
+  {
+    "bbox": [
+      94,
+      2087,
+      1198,
+      2205
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$ cho mặt cầu ($S$) : $x^2 + y^2 + z^2 - 4x + 2y - 2z - 3 = 0$ và điểm $A(5; 3; -2)$. Một đường thẳng $d$ thay đổi luôn đi qua $A$ và luôn cắt mặt cầu tại hai điểm phân biệt $M, N$. Tính giá trị nhỏ nhất của biểu thức $S = AM + 4AN$."
+  },
+  {
+    "bbox": [
+      105,
+      2205,
+      325,
+      2253
+    ],
+    "category": "Text",
+    "text": "KQ: [ ]"
+  },
+  {
+    "bbox": [
+      1321,
+      121,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "### QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 477"
+  }
+]

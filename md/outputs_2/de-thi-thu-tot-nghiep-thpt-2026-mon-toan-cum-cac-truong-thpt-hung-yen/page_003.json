@@ -1,0 +1,221 @@
+[
+  {
+    "bbox": [
+      253,
+      101,
+      1390,
+      264
+    ],
+    "category": "Table",
+    "text": "<table><thead><tr><th>Điểm trung bình</th><th>[5;6)</th><th>[6;7)</th><th>[7;8)</th><th>[8;9)</th><th>[9;10)</th></tr></thead><tbody><tr><td>12A</td><td>1</td><td>0</td><td>11</td><td>22</td><td>6</td></tr><tr><td>12B</td><td>0</td><td>6</td><td>8</td><td>14</td><td>12</td></tr></tbody></table>"
+  },
+  {
+    "bbox": [
+      94,
+      264,
+      552,
+      308
+    ],
+    "category": "Text",
+    "text": "Các мыnh đề sau đúng hay sai?"
+  },
+  {
+    "bbox": [
+      127,
+      306,
+      1285,
+      351
+    ],
+    "category": "Text",
+    "text": "a) Lớp 12A có 28 học sinh có điểm trung bình môn Toán cuối năm từ 8 trở lên."
+  },
+  {
+    "bbox": [
+      94,
+      347,
+      1555,
+      435
+    ],
+    "category": "Text",
+    "text": "b) Nếu so sánh theo độ lệch chuẩn thì học sinh lớp 12A có điểm trung bình môn Toán cuối năm ít phân tán hơn lớp 12B."
+  },
+  {
+    "bbox": [
+      127,
+      431,
+      1422,
+      476
+    ],
+    "category": "Text",
+    "text": "c) Số trung bình của mẫu số liệu lớp 12A lớn hơn số trung bình của mẫu số liệu lớp 12B."
+  },
+  {
+    "bbox": [
+      127,
+      472,
+      1312,
+      518
+    ],
+    "category": "Text",
+    "text": "d) Độ lệch chuẩn của mẫu số liệu lớp 12A (làm tròn đến hàng phần trăm) là 0,72."
+  },
+  {
+    "bbox": [
+      94,
+      518,
+      802,
+      577
+    ],
+    "category": "Text",
+    "text": "Câu 3: Cho hàm số $y = f(x) = (x^2 - 5x + 7)e^x$."
+  },
+  {
+    "bbox": [
+      127,
+      585,
+      1422,
+      639
+    ],
+    "category": "Text",
+    "text": "a) Giá trị nhỏ nhất và lớn nhất của hàm số $y = f(x)$ trên đoạn $[0;2]$ lần lượt là 7 và $3e$."
+  },
+  {
+    "bbox": [
+      127,
+      645,
+      918,
+      698
+    ],
+    "category": "Text",
+    "text": "b) Đạo hàm của hàm số đã cho là $f'(x) = (2x - 5)e^x$."
+  },
+  {
+    "bbox": [
+      127,
+      704,
+      1459,
+      800
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty; \\frac{5}{2})$ và đồng biến trên khoảng $\\frac{5}{2}; +\\infty$."
+  },
+  {
+    "bbox": [
+      127,
+      806,
+      328,
+      855
+    ],
+    "category": "Text",
+    "text": "d) $f(0) = 7$."
+  },
+  {
+    "bbox": [
+      94,
+      855,
+      1524,
+      952
+    ],
+    "category": "Text",
+    "text": "Câu 4: Cho hàm số $y = f(x)$ xác định trên $\\mathbb{R}$, có nguyên hàm trên $\\mathbb{R}$ là hàm số $y = F(x)$. Hàm số $y = f(x)$ có đồ thị như hình vẽ bên dưới:"
+  },
+  {
+    "bbox": [
+      594,
+      952,
+      1053,
+      1287
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      94,
+      1283,
+      1162,
+      1329
+    ],
+    "category": "Text",
+    "text": "Biết diện tích hai phần gạch chéo $S_1$; $S_2$ lần lượt là 8 và 20. Cho $F(4) = 7$."
+  },
+  {
+    "bbox": [
+      127,
+      1331,
+      414,
+      1434
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a) } \\int_{-1}^{4} |f(x)| dx = 28.\n$$"
+  },
+  {
+    "bbox": [
+      127,
+      1440,
+      404,
+      1543
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b) } \\int_{-1}^{4} f(x) dx = 28.\n$$"
+  },
+  {
+    "bbox": [
+      127,
+      1547,
+      474,
+      1587
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c) } 3F(1) - 7F(-1) = -52.\n$$"
+  },
+  {
+    "bbox": [
+      127,
+      1591,
+      372,
+      1694
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d) } \\int_{-1}^{1} f(x) dx = 8.\n$$"
+  },
+  {
+    "bbox": [
+      94,
+      1734,
+      1426,
+      1782
+    ],
+    "category": "Section-header",
+    "text": "PHẦN III. Câu trắc nghiệm trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6 (3,0 điểm)."
+  },
+  {
+    "bbox": [
+      94,
+      1817,
+      1555,
+      2065
+    ],
+    "category": "Text",
+    "text": "Câu 1: Sau khi phát hiện một bệnh dịch, các chuyên gia y tế ước tính số người nhiễm bệnh kể từ ngày xuất hiện bệnh nhân đầu tiên đến ngày thứ $t$ là $f(t) = 45t^2 - t^3, t = 0,1,2,\\dots,25$. Nếu coi $f(t)$ là hàm số xác định trên đoạn $[0;25]$ thì đạo hàm $f'(t)$ được xem là tốc độ truyền bệnh (người/ngày) tại thời điểm $t$. Giả sử khoảng thời gian mà tốc độ truyền bệnh giảm là từ ngày thứ $m$ đến ngày thứ $n$. Khi đó $n - m$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      94,
+      2061,
+      1549,
+      2192
+    ],
+    "category": "Text",
+    "text": "Câu 2: Một công ty tiến hành khai離 15 giếng dầu trong khu vực được chỉ định. Trung bình mỗi giếng dầu chiết xuất được 231 thùng dầu mỗi ngày. Công ty có thể khai離 nhiều hơn 15 giếng dầu nhưng cứ khai離 thêm một giếng thì lượng dầu mỗi giếng chiết xuất được hằng ngày sẽ giảm 7"
+  },
+  {
+    "bbox": [
+      1232,
+      2208,
+      1551,
+      2252
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3/4 - Mã đề 1001"
+  }
+]

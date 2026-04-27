@@ -1,0 +1,349 @@
+[
+  {
+    "bbox": [
+      153,
+      115,
+      1022,
+      164
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Diện tích hình phẳng tô đâm trong hình vẽ bên bằng"
+  },
+  {
+    "bbox": [
+      692,
+      167,
+      1095,
+      595
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      605,
+      346,
+      704
+    ],
+    "category": "List-item",
+    "text": "A. $\\int_{1}^{3} 2^{x} dx$."
+  },
+  {
+    "bbox": [
+      556,
+      605,
+      778,
+      704
+    ],
+    "category": "List-item",
+    "text": "B. $\\int_{1}^{3} (2^{x} + 2) dx$."
+  },
+  {
+    "bbox": [
+      920,
+      605,
+      1143,
+      704
+    ],
+    "category": "List-item",
+    "text": "C. $\\int_{1}^{3} (2^{x} - 2) dx$."
+  },
+  {
+    "bbox": [
+      1284,
+      605,
+      1506,
+      704
+    ],
+    "category": "List-item",
+    "text": "D. $\\int_{1}^{3} (2 - 2^{x}) dx$."
+  },
+  {
+    "bbox": [
+      153,
+      714,
+      1533,
+      811
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hình lập phương $ABCD.A'B'C'D'$ (tham khảo hình bên). Giá trị sin của góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ bằng"
+  },
+  {
+    "bbox": [
+      716,
+      820,
+      1081,
+      1163
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1170,
+      305,
+      1265
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{\\sqrt{3}}{2}$."
+  },
+  {
+    "bbox": [
+      556,
+      1170,
+      668,
+      1265
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\sqrt{6}}{3}$."
+  },
+  {
+    "bbox": [
+      920,
+      1170,
+      1035,
+      1265
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\sqrt{3}}{3}$."
+  },
+  {
+    "bbox": [
+      1284,
+      1170,
+      1397,
+      1265
+    ],
+    "category": "List-item",
+    "text": "D. $\\frac{\\sqrt{2}}{2}$."
+  },
+  {
+    "bbox": [
+      153,
+      1273,
+      1533,
+      1368
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều. Gọi các điểm $E, F$ lần lượt là trung điểm của $SB$ và $SC$. Khi đó góc giữa $EF$ và $AB$ bằng"
+  },
+  {
+    "bbox": [
+      192,
+      1374,
+      305,
+      1411
+    ],
+    "category": "List-item",
+    "text": "A. $60^{\\circ}$."
+  },
+  {
+    "bbox": [
+      556,
+      1374,
+      668,
+      1411
+    ],
+    "category": "List-item",
+    "text": "B. $45^{\\circ}$."
+  },
+  {
+    "bbox": [
+      920,
+      1374,
+      1035,
+      1411
+    ],
+    "category": "List-item",
+    "text": "C. $30^{\\circ}$."
+  },
+  {
+    "bbox": [
+      1284,
+      1374,
+      1397,
+      1411
+    ],
+    "category": "List-item",
+    "text": "D. $90^{\\circ}$."
+  },
+  {
+    "bbox": [
+      166,
+      1421,
+      861,
+      1472
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho $f(x) = 5^{x}$ thì $f(x+1) - f(x)$ bằng"
+  },
+  {
+    "bbox": [
+      192,
+      1491,
+      275,
+      1528
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      556,
+      1491,
+      705,
+      1534
+    ],
+    "category": "List-item",
+    "text": "B. $4f(x)$."
+  },
+  {
+    "bbox": [
+      920,
+      1491,
+      1073,
+      1534
+    ],
+    "category": "List-item",
+    "text": "C. $5f(x)$."
+  },
+  {
+    "bbox": [
+      1284,
+      1491,
+      1364,
+      1528
+    ],
+    "category": "List-item",
+    "text": "D. 5."
+  },
+  {
+    "bbox": [
+      153,
+      1547,
+      1521,
+      1654
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Trong không gian $Oxyz$, cho điểm $H(m;n;1)$ thuộc mặt phẳng $(\\alpha)$: $x + 2y - z + 3 = 0$. Mind đề nào dưới đây đúng?"
+  },
+  {
+    "bbox": [
+      192,
+      1662,
+      400,
+      1698
+    ],
+    "category": "List-item",
+    "text": "A. $m + 2n = 4$."
+  },
+  {
+    "bbox": [
+      556,
+      1662,
+      778,
+      1698
+    ],
+    "category": "List-item",
+    "text": "B. $m + 2n = -2$."
+  },
+  {
+    "bbox": [
+      920,
+      1662,
+      1127,
+      1698
+    ],
+    "category": "List-item",
+    "text": "C. $m + 2n = 2$."
+  },
+  {
+    "bbox": [
+      1284,
+      1662,
+      1506,
+      1698
+    ],
+    "category": "List-item",
+    "text": "D. $m + 2n = -4$."
+  },
+  {
+    "bbox": [
+      153,
+      1704,
+      1533,
+      1803
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình vẽ. Hàm số $y = f(x)$ nghịch biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      462,
+      1803,
+      1321,
+      2142
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2151,
+      341,
+      2196
+    ],
+    "category": "List-item",
+    "text": "A. $(2; 4)$."
+  },
+  {
+    "bbox": [
+      556,
+      2151,
+      701,
+      2196
+    ],
+    "category": "List-item",
+    "text": "B. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      920,
+      2151,
+      1095,
+      2196
+    ],
+    "category": "List-item",
+    "text": "C. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1284,
+      2151,
+      1485,
+      2196
+    ],
+    "category": "List-item",
+    "text": "D. $(-\\infty; -2)$."
+  },
+  {
+    "bbox": [
+      153,
+      2232,
+      313,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 9101"
+  },
+  {
+    "bbox": [
+      1399,
+      2232,
+      1533,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/6"
+  }
+]

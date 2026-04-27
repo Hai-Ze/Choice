@@ -1,0 +1,172 @@
+[
+  {
+    "bbox": [
+      205,
+      83,
+      604,
+      162
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet P = \\frac{57}{4845} = \\frac{1}{85} \\Rightarrow a = 85.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      166,
+      416,
+      205
+    ],
+    "category": "Text",
+    "text": "- Đáp án: 85"
+  },
+  {
+    "bbox": [
+      155,
+      205,
+      508,
+      243
+    ],
+    "category": "Text",
+    "text": "**Câu 4:** Thế tích ngọn núi."
+  },
+  {
+    "bbox": [
+      205,
+      246,
+      1067,
+      326
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Công thức thiết diện Parabol: } S(x) = \\frac{2}{3} \\cdot \\text{dáy} \\cdot \\text{cao} = \\frac{2}{3} \\cdot 2y \\cdot h.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      333,
+      805,
+      411
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet V = \\int_{-200}^{200} \\frac{2}{3}(200^2 - x^2)dx = 7,111,111 \\text{ m}^3.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      416,
+      438,
+      454
+    ],
+    "category": "Text",
+    "text": "- Đáp án: 7,11"
+  },
+  {
+    "bbox": [
+      155,
+      454,
+      585,
+      492
+    ],
+    "category": "Text",
+    "text": "**Câu 5:** Chi phí đường dây điện."
+  },
+  {
+    "bbox": [
+      205,
+      492,
+      857,
+      545
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Hàm chi phí: } f(x) = 50\\sqrt{3^2 + x^2} + 30(4 - x).\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      553,
+      759,
+      642
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet f'(x) = \\frac{50x}{\\sqrt{9 + x^2}} - 30 = 0 \\Rightarrow x = 2,25.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      644,
+      862,
+      690
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Chi phí thấp nhất: } f(2,25) = 240 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      695,
+      430,
+      733
+    ],
+    "category": "Text",
+    "text": "- Đáp án: 240"
+  },
+  {
+    "bbox": [
+      155,
+      733,
+      596,
+      771
+    ],
+    "category": "Text",
+    "text": "**Câu 6:** Lợi nhuận máy lọc nước."
+  },
+  {
+    "bbox": [
+      205,
+      773,
+      695,
+      811
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Hàm giá: } p(x) = -0,025x + 7,5.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      819,
+      1076,
+      862
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Lợi nhuận } L(x) = x \\cdot p(x) - (3x + 50) = -0,025x^2 + 4,5x - 50.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      870,
+      704,
+      954
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Cực đại tại } x = \\frac{-4,5}{2 \\cdot (-0,025)} = 90.\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      956,
+      714,
+      1000
+    ],
+    "category": "Formula",
+    "text": "$$\n\\bullet \\text{ Giá bán: } p(90) = 5,25 \\text{ triệu đồng.}\n$$"
+  },
+  {
+    "bbox": [
+      205,
+      1006,
+      440,
+      1044
+    ],
+    "category": "Text",
+    "text": "- Đáp án: 5,25"
+  }
+]

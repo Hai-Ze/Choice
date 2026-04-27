@@ -1,0 +1,340 @@
+[
+  {
+    "bbox": [
+      114,
+      82,
+      812,
+      123
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Nghiệm của phương trình $\\log_3(x-2) = 1$ là:"
+  },
+  {
+    "bbox": [
+      252,
+      134,
+      381,
+      168
+    ],
+    "category": "List-item",
+    "text": "A. $x = 3$."
+  },
+  {
+    "bbox": [
+      614,
+      134,
+      738,
+      168
+    ],
+    "category": "List-item",
+    "text": "B. $x = 1$."
+  },
+  {
+    "bbox": [
+      914,
+      134,
+      1100,
+      173
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\log_3 5$."
+  },
+  {
+    "bbox": [
+      1212,
+      134,
+      1342,
+      173
+    ],
+    "category": "List-item",
+    "text": "D. $x = 5$."
+  },
+  {
+    "bbox": [
+      114,
+      178,
+      1148,
+      224
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cấp số nhân $(u_n)$ có $u_1 = 3$ và $q = 2$. Số hạng $u_4$ của cấp số nhân là"
+  },
+  {
+    "bbox": [
+      252,
+      233,
+      325,
+      265
+    ],
+    "category": "List-item",
+    "text": "A. 6."
+  },
+  {
+    "bbox": [
+      614,
+      233,
+      685,
+      265
+    ],
+    "category": "List-item",
+    "text": "B. 9."
+  },
+  {
+    "bbox": [
+      914,
+      233,
+      991,
+      265
+    ],
+    "category": "List-item",
+    "text": "C. 24."
+  },
+  {
+    "bbox": [
+      1212,
+      233,
+      1295,
+      265
+    ],
+    "category": "List-item",
+    "text": "D. 48."
+  },
+  {
+    "bbox": [
+      114,
+      275,
+      925,
+      315
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Cho hình lập phương $ABCD.A_1B_1C_1D_1$ như hình vẽ."
+  },
+  {
+    "bbox": [
+      717,
+      328,
+      1079,
+      628
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      193,
+      634,
+      607,
+      676
+    ],
+    "category": "Text",
+    "text": "Khẳng định nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      252,
+      678,
+      604,
+      725
+    ],
+    "category": "List-item",
+    "text": "A. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AD} + \\overline{AC}$."
+  },
+  {
+    "bbox": [
+      901,
+      678,
+      1248,
+      725
+    ],
+    "category": "List-item",
+    "text": "B. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AB} + \\overline{AC}$."
+  },
+  {
+    "bbox": [
+      252,
+      733,
+      609,
+      781
+    ],
+    "category": "List-item",
+    "text": "C. $\\overline{AC_1} = \\overline{AB} + \\overline{AD} + \\overline{AD_1}$."
+  },
+  {
+    "bbox": [
+      901,
+      733,
+      1214,
+      781
+    ],
+    "category": "List-item",
+    "text": "D. $\\overline{AC_1} = \\overline{AA_1} + \\overline{AD} + \\overline{AB}$"
+  },
+  {
+    "bbox": [
+      114,
+      785,
+      901,
+      828
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Cho hàm số $y = f(x)$ có bảng biến thiên như sau:"
+  },
+  {
+    "bbox": [
+      489,
+      833,
+      1301,
+      1069
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$-1$</td><td>$0$</td><td>$+\\infty$</td></tr><tr><td>$f'(x)$</td><td>$-$</td><td>$0$</td><td>$+$</td><td>$+$</td><td>$0$</td><td>$-$</td></tr><tr><td>$f(x)$</td><td>$+\\infty$</td><td>$4$</td><td>$+\\infty$</td><td>$0$</td><td>$-\\infty$</td><td>$-\\infty$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      256,
+      1091,
+      962,
+      1135
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho đồng biến trên khoảng nào dưới đây?"
+  },
+  {
+    "bbox": [
+      252,
+      1159,
+      402,
+      1195
+    ],
+    "category": "List-item",
+    "text": "A. $(-2; 0)$."
+  },
+  {
+    "bbox": [
+      587,
+      1159,
+      741,
+      1195
+    ],
+    "category": "List-item",
+    "text": "B. $(4; +\\infty)$."
+  },
+  {
+    "bbox": [
+      901,
+      1159,
+      1053,
+      1195
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; 0)$."
+  },
+  {
+    "bbox": [
+      1215,
+      1159,
+      1375,
+      1195
+    ],
+    "category": "List-item",
+    "text": "D. $(-2; -1)$."
+  },
+  {
+    "bbox": [
+      114,
+      1243,
+      1532,
+      1320
+    ],
+    "category": "Text",
+    "text": "**PHẦN II.** Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      114,
+      1324,
+      1406,
+      1373
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Cho hàm số $y = f(x)$ có đạo hàm liên tục trên $\\mathbb{R}$. Hàm số $y = f'(x)$ có đồ thị như sau:"
+  },
+  {
+    "bbox": [
+      636,
+      1406,
+      1013,
+      1680
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      252,
+      1715,
+      1159,
+      1765
+    ],
+    "category": "Text",
+    "text": "a) Trên đoạn $[-1; 4]$, giá trị lớn nhất của hàm số $y = f(x)$ là $f(1)$."
+  },
+  {
+    "bbox": [
+      252,
+      1798,
+      804,
+      1848
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $y = f(x)$ có hai điểm cực trị."
+  },
+  {
+    "bbox": [
+      252,
+      1883,
+      958,
+      1933
+    ],
+    "category": "Text",
+    "text": "c) Hàm số $y = f(x)$ đồng biến trên khoảng $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      252,
+      1970,
+      581,
+      2019
+    ],
+    "category": "Text",
+    "text": "d) $f(1) > f(2) > f(4)$."
+  },
+  {
+    "bbox": [
+      767,
+      2054,
+      881,
+      2092
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      252,
+      2121,
+      370,
+      2158
+    ],
+    "category": "Text",
+    "text": "a) Đúng"
+  },
+  {
+    "bbox": [
+      252,
+      2187,
+      759,
+      2235
+    ],
+    "category": "Text",
+    "text": "Ta có bảng xét dấu của hàm số $f(x)$."
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      807,
+      98,
+      925,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      156,
+      279,
+      193
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      157,
+      209,
+      533,
+      251
+    ],
+    "category": "Text",
+    "text": "Hàm số đã cho xác định khi"
+  },
+  {
+    "bbox": [
+      160,
+      271,
+      1337,
+      359
+    ],
+    "category": "Formula",
+    "text": "$$\n\\cos\\left(2x + \\frac{\\pi}{3}\\right) \\neq 0 \\Leftrightarrow 2x + \\frac{\\pi}{3} \\neq \\frac{\\pi}{2} + k\\pi \\Leftrightarrow x \\neq \\frac{\\pi}{12} + \\frac{k\\pi}{2}, k \\in \\mathbb{Z} \\Rightarrow D = \\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{12} + \\frac{k\\pi}{2}, k \\in \\mathbb{Z}\\right\\}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      439,
+      1572,
+      543
+    ],
+    "category": "Text",
+    "text": "PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai."
+  },
+  {
+    "bbox": [
+      157,
+      562,
+      902,
+      643
+    ],
+    "category": "Text",
+    "text": "Câu 1. Cho đồ thị hàm số $y = \\frac{2x-1}{2x+4}$ có đồ thị $(C)$."
+  },
+  {
+    "bbox": [
+      157,
+      667,
+      832,
+      715
+    ],
+    "category": "Text",
+    "text": "a) Đường thẳng $y = 2$ là tiệm cận ngang của $(C)$."
+  },
+  {
+    "bbox": [
+      157,
+      742,
+      832,
+      790
+    ],
+    "category": "Text",
+    "text": "b) Đường thẳng $x = -2$ là tiệm cận đứng của $(C)$."
+  },
+  {
+    "bbox": [
+      157,
+      817,
+      1082,
+      866
+    ],
+    "category": "Text",
+    "text": "c) Hàm số đã cho đồng biến trên các khoảng $(-\\infty; -10)$ và $(10; +\\infty)$."
+  },
+  {
+    "bbox": [
+      157,
+      895,
+      1400,
+      976
+    ],
+    "category": "Text",
+    "text": "d) Trên đoạn $[3;5]$, hàm số đã cho có giá trị lớn nhất bằng $\\frac{5}{9}$ và có giá trị nhỏ nhất bằng $\\frac{9}{14}$."
+  },
+  {
+    "bbox": [
+      807,
+      998,
+      925,
+      1037
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1053,
+      971,
+      1173
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a)</td><td>b)</td><td>c)</td><td>d)</td></tr><tr><td>SAI</td><td>ĐÚNG</td><td>ĐÚNG</td><td>SAI</td></tr></table>"
+  },
+  {
+    "bbox": [
+      157,
+      1238,
+      1537,
+      1398
+    ],
+    "category": "Text",
+    "text": "a) Ta có $\\lim_{x \\to +\\infty} y = \\lim_{x \\to +\\infty} \\frac{2 - \\frac{1}{x}}{2 + \\frac{4}{x}} = \\frac{2}{2} = 1$; $\\lim_{x \\to -\\infty} y = \\lim_{x \\to -\\infty} \\frac{2 - \\frac{1}{x}}{2 + \\frac{4}{x}} = \\frac{2}{2} = 1 \\Rightarrow y = 1$ là tiệm cận ngang của của $(C)$."
+  },
+  {
+    "bbox": [
+      157,
+      1423,
+      1337,
+      1505
+    ],
+    "category": "Text",
+    "text": "b) Ta có $\\lim_{x \\to (-2)^+} \\frac{2x-1}{2x+4} = +\\infty$; $\\lim_{x \\to (-2)^-} \\frac{2x-1}{2x+4} = -\\infty \\Rightarrow x = -2$ là tiệm cận đứng của của $(C)$."
+  },
+  {
+    "bbox": [
+      157,
+      1530,
+      1572,
+      1701
+    ],
+    "category": "Text",
+    "text": "c) Ta có $y' = \\frac{10}{(2x+4)^2} > 0 \\forall x \\in \\mathbb{R} \\setminus \\{-2\\}$, do đó hàm số đã cho đồng biến trên các khoảng $(-\\infty; -2)$ và $(-2; +\\infty)$ nên cũng đồng biến trên các khoảng $(-\\infty; -10)$ và $(10; +\\infty)$."
+  },
+  {
+    "bbox": [
+      157,
+      1728,
+      971,
+      1822
+    ],
+    "category": "Text",
+    "text": "d) Ta có $y' = \\frac{10}{(2x+4)^2} > 0 \\forall x \\in \\mathbb{R} \\setminus \\{-2\\} \\Rightarrow y' > 0 \\forall x \\in [3;5]$"
+  },
+  {
+    "bbox": [
+      162,
+      1849,
+      659,
+      1929
+    ],
+    "category": "Formula",
+    "text": "$$\n\\min_{[3;5]} y = f(3) = \\frac{5}{9}; \\max_{[3;5]} y = f(5) = \\frac{9}{14}\n$$"
+  },
+  {
+    "bbox": [
+      157,
+      1954,
+      1418,
+      2036
+    ],
+    "category": "Text",
+    "text": "Vậy trên đoạn $[3;5]$, hàm số đã cho có giá trị lớn nhất bằng $\\frac{9}{14}$ và có giá trị nhỏ nhất bằng $\\frac{5}{9}$."
+  },
+  {
+    "bbox": [
+      157,
+      2053,
+      1572,
+      2214
+    ],
+    "category": "Text",
+    "text": "Câu 2. Một trường THPT Chuyên tử một đội tuyển gồm 90 học sinh tham dự kỳ thi Học sinh giải cấp Quốc gia. Đội tuyển có cả học sinh nam và học sinh nữ. Sau kỳ thi, kết quả thống kê cho thấy có 85 học sinh đạt huy chương. Thông tin chi tiết như sau:"
+  },
+  {
+    "bbox": [
+      157,
+      2258,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      810,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11"
+  }
+]

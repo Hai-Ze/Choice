@@ -1,0 +1,317 @@
+[
+  {
+    "bbox": [
+      192,
+      49,
+      228,
+      91
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      49,
+      786,
+      93
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1238,
+      52,
+      1446,
+      93
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      156,
+      1455,
+      256
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Trong không gian $Oxyz$, cho hai điểm $M(1;2;1)$ và $N(3;1;-2)$. Đường thẳng $MN$ có phương trình là"
+  },
+  {
+    "bbox": [
+      221,
+      256,
+      593,
+      336
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\frac{x+1}{4} = \\frac{y+2}{3} = \\frac{z+1}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      256,
+      1204,
+      336
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\frac{x-1}{2} = \\frac{y-2}{-1} = \\frac{z-1}{-3}.\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      339,
+      593,
+      420
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\frac{x-1}{4} = \\frac{y-2}{3} = \\frac{z-1}{-1}.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      339,
+      1204,
+      420
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\frac{x+1}{2} = \\frac{y+2}{-1} = \\frac{z+1}{-3}.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      434,
+      1161,
+      482
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cho hàm số $y = f(x)$ có bảng biến thiên như hình sau"
+  },
+  {
+    "bbox": [
+      432,
+      508,
+      1213,
+      765
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>$-\\infty$</td><td>$-2$</td><td>$+\\infty$</td></tr><tr><td>$y'$</td><td>$-$</td><td>$-$</td><td>$-$</td></tr><tr><td>$y$</td><td>$-1$</td><td>$+\\infty$</td><td>$-1$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      192,
+      814,
+      1388,
+      861
+    ],
+    "category": "Text",
+    "text": "Tiệm cận đứng của đồ thị hàm số đã cho là đường thẳng có phương trình là"
+  },
+  {
+    "bbox": [
+      221,
+      880,
+      386,
+      918
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} x = -1.\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      880,
+      689,
+      918
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} y = -1.\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      880,
+      986,
+      918
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} y = -2.\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      880,
+      1293,
+      918
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} x = -2.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      949,
+      855,
+      996
+    ],
+    "category": "Text",
+    "text": "**Câu 9.** Nguyên hàm của hàm số $y = 2^x$ là"
+  },
+  {
+    "bbox": [
+      221,
+      1009,
+      583,
+      1086
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} \\int 2^x dx = \\ln 2 \\cdot 2^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      1009,
+      1128,
+      1086
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} \\int 2^x dx = 2^x + C.\n$$"
+  },
+  {
+    "bbox": [
+      221,
+      1089,
+      542,
+      1174
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} \\int 2^x dx = \\frac{2^x}{\\ln 2} + C.\n$$"
+  },
+  {
+    "bbox": [
+      833,
+      1089,
+      1170,
+      1174
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} \\int 2^x dx = \\frac{2^x}{x+1} + C.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1187,
+      1455,
+      1343
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho hàm số $y = f(x)$ liên tục trên đoạn $[a;b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$, trục hoành và hai đường thẳng $x = a, x = b$ được tính theo công thức"
+  },
+  {
+    "bbox": [
+      221,
+      1349,
+      498,
+      1474
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{A.} S = \\int_{a}^{b} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      524,
+      1349,
+      779,
+      1474
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{B.} S = \\int_{a}^{b} f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      827,
+      1349,
+      1112,
+      1474
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{C.} S = - \\int_{a}^{b} f(x) dx.\n$$"
+  },
+  {
+    "bbox": [
+      1128,
+      1349,
+      1403,
+      1474
+    ],
+    "category": "Formula",
+    "text": "$$\n\\textbf{D.} S = \\int_{b}^{a} |f(x)| dx.\n$$"
+  },
+  {
+    "bbox": [
+      192,
+      1492,
+      1433,
+      1540
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Đồ thị hàm số $y = x^3 - 3x^2 + 2$ là đường cong trong hình nào dưới đây?"
+  },
+  {
+    "bbox": [
+      221,
+      1587,
+      524,
+      1813
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1540,
+      1132,
+      1813
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      221,
+      1830,
+      583,
+      2125
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      833,
+      1830,
+      1197,
+      2125
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1324,
+      2244,
+      1455,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2"
+  }
+]

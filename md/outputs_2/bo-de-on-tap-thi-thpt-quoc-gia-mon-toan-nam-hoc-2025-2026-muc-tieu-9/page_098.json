@@ -1,0 +1,251 @@
+[
+  {
+    "bbox": [
+      154,
+      142,
+      551,
+      181
+    ],
+    "category": "Text",
+    "text": "thí sinh chọn đúng hoặc sai"
+  },
+  {
+    "bbox": [
+      154,
+      202,
+      1548,
+      420
+    ],
+    "category": "Text",
+    "text": "Bài 1. Một công ty tổ chức chương trình bốc thăm trúng thưởng nhân迎dịp nghỉ lễ 30/4 và 1/5 cho 100 nhân viên. Trong hộp có 100 vé, trong đó có 4 vé trúng thưởng tour du lịch miễn phí ở Thái Lan, 10 vé trúng thưởng tour du lịch miễn phí ở Đà Nẵng và 20 vé trúng thưởng tour du lịch miễn phí tại Cửa Lò (Nghệ An), các vé còn lại trúng thưởng năm triệu đồng. Lần lượt từng nhân viên lên bốc ngẫu nhiên một vé (không hoàn lại)."
+  },
+  {
+    "bbox": [
+      202,
+      438,
+      1482,
+      488
+    ],
+    "category": "Text",
+    "text": "a) Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      154,
+      499,
+      1546,
+      587
+    ],
+    "category": "Text",
+    "text": "b) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{13}{20}$, biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng."
+  },
+  {
+    "bbox": [
+      202,
+      605,
+      1454,
+      654
+    ],
+    "category": "Text",
+    "text": "c) Xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $\\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      154,
+      666,
+      1548,
+      847
+    ],
+    "category": "Text",
+    "text": "d) Để tạo bất ngờ cho người bốc thăm tiếp theo, sau khi người thứ nhất bốc thăm, người dẫn chương trình giữ lại vé và không công bố kết quả. Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $\\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      154,
+      861,
+      199,
+      900
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      861,
+      694,
+      924
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Xét các biến cố:"
+  },
+  {
+    "bbox": [
+      202,
+      938,
+      1288,
+      980
+    ],
+    "category": "Text",
+    "text": "A: \" Người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng\" ;"
+  },
+  {
+    "bbox": [
+      202,
+      1000,
+      1268,
+      1041
+    ],
+    "category": "Text",
+    "text": "B: \" Người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng\" ."
+  },
+  {
+    "bbox": [
+      214,
+      1059,
+      1376,
+      1102
+    ],
+    "category": "Text",
+    "text": "a) Đúng. Ta có số vé trúng thưởng năm triệu đồng là: $100 - (4 + 10 + 20) = 66$."
+  },
+  {
+    "bbox": [
+      154,
+      1120,
+      1546,
+      1215
+    ],
+    "category": "Text",
+    "text": "Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là: $P(A) = \\frac{66}{100} = \\frac{33}{50}$."
+  },
+  {
+    "bbox": [
+      202,
+      1228,
+      313,
+      1269
+    ],
+    "category": "Text",
+    "text": "b) Sai."
+  },
+  {
+    "bbox": [
+      154,
+      1287,
+      1546,
+      1374
+    ],
+    "category": "Text",
+    "text": "Nếu người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng thì số vé trúng thưởng năm triệu đồng còn lại trong hộp là 65 vé."
+  },
+  {
+    "bbox": [
+      154,
+      1392,
+      1546,
+      1485
+    ],
+    "category": "Text",
+    "text": "Suy ra, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng là $P(B|A) = \\frac{65}{99}$."
+  },
+  {
+    "bbox": [
+      154,
+      1498,
+      1546,
+      1584
+    ],
+    "category": "Text",
+    "text": "c) Đúng. Xác suất để người bốc thăm thứ nhất không bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      202,
+      1602,
+      682,
+      1653
+    ],
+    "category": "Formula",
+    "text": "$$\nP(\\bar{A}) = 1 - P(A) = 1 - \\frac{66}{100} = \\frac{17}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1665,
+      1546,
+      1757
+    ],
+    "category": "Text",
+    "text": "Nếu người bốc thăm thứ nhất không bốc được vé trúng thưởng năm triệu đồng thì số vé trúng thưởng năm triệu đồng còn lại trong hộp là 66 nên $P(B|\\bar{A}) = \\frac{66}{99}$."
+  },
+  {
+    "bbox": [
+      154,
+      1771,
+      1546,
+      1857
+    ],
+    "category": "Text",
+    "text": "Theo công thức xác suất toàn phần, xác suất để người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là:"
+  },
+  {
+    "bbox": [
+      202,
+      1873,
+      1073,
+      1924
+    ],
+    "category": "Formula",
+    "text": "$$\nP(B) = P(A)P(B|A) + P(\\bar{A})P(B|\\bar{A}) = \\frac{33}{50} \\cdot \\frac{65}{99} + \\frac{17}{50} \\cdot \\frac{66}{99} = \\frac{33}{50}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      1936,
+      1546,
+      2024
+    ],
+    "category": "Text",
+    "text": "d) Đúng. Xác suất để người bốc thăm thứ nhất bốc được vé trúng thưởng năm triệu đồng biết rằng người bốc thăm thứ hai bốc được vé trúng thưởng năm triệu đồng là $P(A|B)$."
+  },
+  {
+    "bbox": [
+      202,
+      2036,
+      1124,
+      2106
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Theo công thức Bayes, ta có: } P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(B)} = \\frac{\\frac{33}{50} \\cdot \\frac{65}{99}}{\\frac{33}{50}} = \\frac{65}{99}.\n$$"
+  },
+  {
+    "bbox": [
+      154,
+      2121,
+      1546,
+      2213
+    ],
+    "category": "Text",
+    "text": "Bài 2. Trong một phòng thí nghiệm có máy đo nồng độ khí $\\text{CO}_2$ cho thấy: nồng độ khí $\\text{CO}_2$ trong phòng thay đổi theo thời gian $t$ (tính bằng giờ) và được thể hiện qua hàm số $f(t) = 400 + \\frac{2000t}{t^2+5}$"
+  },
+  {
+    "bbox": [
+      64,
+      2250,
+      101,
+      2283
+    ],
+    "category": "Page-footer",
+    "text": "98"
+  },
+  {
+    "bbox": [
+      828,
+      2254,
+      1500,
+      2296
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tầm và Biên soạn: Lê Minh Kha - 0399653362"
+  }
+]

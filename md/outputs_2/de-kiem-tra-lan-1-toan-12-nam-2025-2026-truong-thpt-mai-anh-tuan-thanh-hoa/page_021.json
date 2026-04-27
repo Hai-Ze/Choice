@@ -1,0 +1,211 @@
+[
+  {
+    "bbox": [
+      288,
+      95,
+      757,
+      556
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      290,
+      580,
+      1018,
+      629
+    ],
+    "category": "Text",
+    "text": "Dễ dàng tính được: $AI = AH - DK = 1 - 0,4 = 0,6$."
+  },
+  {
+    "bbox": [
+      294,
+      636,
+      1070,
+      694
+    ],
+    "category": "Formula",
+    "text": "$$\nHK = ID = \\sqrt{AD^2 - AI^2} = \\sqrt{1^2 - 0,6^2} = 0,8. \\quad BC = 0,5\n$$"
+  },
+  {
+    "bbox": [
+      290,
+      696,
+      1331,
+      748
+    ],
+    "category": "Text",
+    "text": "Đặt $HB = x(\\text{km})$ suy ra $CK = HK - HC = 0,3 - x$, điều kiện: $0 \\le x \\le 0,3$."
+  },
+  {
+    "bbox": [
+      290,
+      750,
+      1575,
+      867
+    ],
+    "category": "Text",
+    "text": "Quăng đường mà thầy Quang chạy mỗi sáng là $AB + BC + CD + DA = \\sqrt{x^2+1} + 1,5 + \\sqrt{(0,3-x)^2 + 0,4^2} = \\sqrt{x^2+1} + \\sqrt{x^2 - 0,6x + 0,25} + 1,5$."
+  },
+  {
+    "bbox": [
+      290,
+      876,
+      1214,
+      935
+    ],
+    "category": "Text",
+    "text": "Xét hàm $f(x) = \\sqrt{x^2+1} + \\sqrt{x^2 - 0,6x + 0,25} + 1,5$ với $x \\in [0; 0,3]$."
+  },
+  {
+    "bbox": [
+      294,
+      945,
+      784,
+      1039
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = \\frac{x}{\\sqrt{x^2+1}} + \\frac{x-0,3}{\\sqrt{x^2 - 0,6x + 0,25}}\n$$"
+  },
+  {
+    "bbox": [
+      294,
+      1048,
+      575,
+      1132
+    ],
+    "category": "Formula",
+    "text": "$$\nf'(x) = 0 \\Leftrightarrow x = \\frac{3}{14}.\n$$"
+  },
+  {
+    "bbox": [
+      290,
+      1134,
+      552,
+      1186
+    ],
+    "category": "Text",
+    "text": "Bảng biến thiên:"
+  },
+  {
+    "bbox": [
+      294,
+      1195,
+      1179,
+      1557
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>$x$</td><td>0</td><td>$\\frac{3}{14}$</td><td>0,3</td></tr><tr><td>$f'(x)$</td><td>-</td><td>0</td><td>+</td></tr><tr><td>$f(x)$</td><td>$f(0)$</td><td>$f(\\frac{3}{14})$</td><td>$f(0,3)$</td></tr></table>"
+  },
+  {
+    "bbox": [
+      290,
+      1570,
+      1066,
+      1661
+    ],
+    "category": "Text",
+    "text": "Từ bảng biến thiên ta có $\\min_{[0;0,3]} f(x) = f(\\frac{3}{14}) \\approx 2,932$."
+  },
+  {
+    "bbox": [
+      290,
+      1665,
+      1540,
+      1718
+    ],
+    "category": "Text",
+    "text": "Vậy quăng đường ngắn nhất thầy Quang chạy mỗi sáng là 2,932 km hay 2932 m."
+  },
+  {
+    "bbox": [
+      152,
+      1720,
+      1575,
+      1921
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Có 8 bạn cùng ngồi xung quanh một cái bàn tròn, mỗi bạn cầm một đồng xu như nhau. tất cả 8 bạn cùng tung đồng xu của mình, bạn có đồng xu ngửa thì đứng, bạn có đồng xu sấp thì ngồi. Xác suất để không có hai bạn liền kề cùng đứng bằng bao nhiêu? (Kết quả làm tròn đến hàng phần trăm) 0,18"
+  },
+  {
+    "bbox": [
+      801,
+      1921,
+      1066,
+      1968
+    ],
+    "category": "Section-header",
+    "text": "Hướng dẫn giải"
+  },
+  {
+    "bbox": [
+      152,
+      1966,
+      1032,
+      2018
+    ],
+    "category": "Text",
+    "text": "Gọi $A$ là biến cố không có hai người liền kề cùng đứng."
+  },
+  {
+    "bbox": [
+      152,
+      2016,
+      930,
+      2068
+    ],
+    "category": "Text",
+    "text": "Số phần tử của không gian mẫu là $n(\\Omega) = 2^8 = 256$."
+  },
+  {
+    "bbox": [
+      152,
+      2074,
+      1209,
+      2126
+    ],
+    "category": "Text",
+    "text": "Rõ ràng nếu nhiều hơn 4 đồng xu ngửa thì biến cố $A$ không xảy ra."
+  },
+  {
+    "bbox": [
+      152,
+      2124,
+      837,
+      2174
+    ],
+    "category": "Text",
+    "text": "Để biến cố $A$ xảy ra có các trường hợp sau:"
+  },
+  {
+    "bbox": [
+      152,
+      2172,
+      1344,
+      2224
+    ],
+    "category": "Text",
+    "text": "TH1: Có nhiều nhất 1 đồng xu ngửa. Kết quả của trường hợp này là $1+8=9$."
+  },
+  {
+    "bbox": [
+      152,
+      2232,
+      299,
+      2270
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 000"
+  },
+  {
+    "bbox": [
+      1405,
+      2236,
+      1569,
+      2274
+    ],
+    "category": "Page-footer",
+    "text": "Trang 11/13"
+  }
+]

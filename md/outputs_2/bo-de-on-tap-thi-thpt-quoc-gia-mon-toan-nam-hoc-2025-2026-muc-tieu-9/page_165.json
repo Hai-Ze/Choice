@@ -1,0 +1,291 @@
+[
+  {
+    "bbox": [
+      153,
+      138,
+      1189,
+      182
+    ],
+    "category": "Text",
+    "text": "Câu 10. Diện tích hình phẳng gạch sọc trong hình vẽ bên dưới bằng"
+  },
+  {
+    "bbox": [
+      565,
+      191,
+      1124,
+      685
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      188,
+      755,
+      452,
+      846
+    ],
+    "category": "Formula",
+    "text": "A $\\int_{1}^{3} (2^{x} - 2)dx$."
+  },
+  {
+    "bbox": [
+      876,
+      755,
+      1136,
+      846
+    ],
+    "category": "Formula",
+    "text": "B $\\int_{1}^{3} (2^{x} + 2)dx$."
+  },
+  {
+    "bbox": [
+      188,
+      840,
+      452,
+      931
+    ],
+    "category": "Formula",
+    "text": "C $\\int_{1}^{3} (2 - 2^{x})dx$."
+  },
+  {
+    "bbox": [
+      876,
+      840,
+      1063,
+      931
+    ],
+    "category": "Formula",
+    "text": "D $\\int_{1}^{3} 2^{x}dx$."
+  },
+  {
+    "bbox": [
+      153,
+      929,
+      1548,
+      1116
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Hình phẳng gạch sọc giới hạn bởi đồ thị $y = 2^{x}$, đường thẳng nằm ngang $y = 2$ (vì nó đi qua điểm $(1; 2)$), và hai cận $x = 1, x = 3$. Do đồ thị $y = 2^{x}$ nằm phía trên đường thẳng $y = 2$ trên đoạn $[1; 3]$, diện tích là $S = \\int_{1}^{3} (2^{x} - 2)dx$."
+  },
+  {
+    "bbox": [
+      153,
+      1128,
+      1545,
+      1215
+    ],
+    "category": "Text",
+    "text": "Câu 11. Cho tức diện $ABCD$. Gọi $M$ và $P$ lần lượt là trung điểm của các cạnh $AB$ và $CD$. Đặt $\\overrightarrow{BA} = \\vec{b}, \\overrightarrow{AC} = \\vec{c}, \\overrightarrow{AD} = \\vec{d}$. Khẳng định nào sau đây là đúng?"
+  },
+  {
+    "bbox": [
+      188,
+      1224,
+      569,
+      1303
+    ],
+    "category": "Formula",
+    "text": "A $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b})$."
+  },
+  {
+    "bbox": [
+      876,
+      1224,
+      1255,
+      1303
+    ],
+    "category": "Formula",
+    "text": "B $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{d} + \\vec{b} - \\vec{c})$."
+  },
+  {
+    "bbox": [
+      188,
+      1295,
+      569,
+      1374
+    ],
+    "category": "Formula",
+    "text": "C $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{b} - \\vec{d})$."
+  },
+  {
+    "bbox": [
+      876,
+      1295,
+      1255,
+      1374
+    ],
+    "category": "Formula",
+    "text": "D $\\overrightarrow{MP} = \\frac{1}{2}(\\vec{c} + \\vec{d} - \\vec{b})$."
+  },
+  {
+    "bbox": [
+      153,
+      1366,
+      1233,
+      1443
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Ta có $\\overrightarrow{MP} = \\overrightarrow{MA} + \\overrightarrow{AC} + \\overrightarrow{CP} = \\frac{1}{2}\\overrightarrow{BA} + \\overrightarrow{AC} + \\frac{1}{2}\\overrightarrow{CD}$."
+  },
+  {
+    "bbox": [
+      153,
+      1435,
+      828,
+      1482
+    ],
+    "category": "Text",
+    "text": "Mà $\\overrightarrow{CD} = \\overrightarrow{AD} - \\overrightarrow{AC}$. Thay vào biểu thức trên:"
+  },
+  {
+    "bbox": [
+      153,
+      1478,
+      1445,
+      1557
+    ],
+    "category": "Formula",
+    "text": "$$\n\\overrightarrow{MP} = \\frac{1}{2}\\vec{b} + \\vec{c} + \\frac{1}{2}(\\vec{d} - \\vec{c}) = \\frac{1}{2}\\vec{b} + \\vec{c} + \\frac{1}{2}\\vec{d} - \\frac{1}{2}\\vec{c} = \\frac{1}{2}\\vec{b} + \\frac{1}{2}\\vec{c} + \\frac{1}{2}\\vec{d} = \\frac{1}{2}(\\vec{c} + \\vec{d} + \\vec{b}).\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      1566,
+      1545,
+      1650
+    ],
+    "category": "Text",
+    "text": "Câu 12. Thống kê điểm trung bình môn Toán của một số học sinh lớp 12 được mẫu số liệu sau:"
+  },
+  {
+    "bbox": [
+      260,
+      1653,
+      1440,
+      1769
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Khoảng điểm</td><td>[6, 5; 7)</td><td>[7; 7, 5)</td><td>[7, 5; 8)</td><td>[8; 8, 5)</td><td>[8, 5; 9)</td><td>[9; 9, 5)</td><td>[9, 5; 10)</td></tr><tr><td>Tần số</td><td>8</td><td>10</td><td>16</td><td>24</td><td>13</td><td>7</td><td>4</td></tr></table>"
+  },
+  {
+    "bbox": [
+      153,
+      1777,
+      1309,
+      1820
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu về điểm trung bình môn Toán của các học sinh đó là"
+  },
+  {
+    "bbox": [
+      188,
+      1838,
+      337,
+      1882
+    ],
+    "category": "List-item",
+    "text": "A 0,616."
+  },
+  {
+    "bbox": [
+      534,
+      1838,
+      681,
+      1882
+    ],
+    "category": "List-item",
+    "text": "B 0,785."
+  },
+  {
+    "bbox": [
+      876,
+      1838,
+      1009,
+      1882
+    ],
+    "category": "List-item",
+    "text": "C 0,78."
+  },
+  {
+    "bbox": [
+      1222,
+      1838,
+      1369,
+      1882
+    ],
+    "category": "List-item",
+    "text": "D 0,609."
+  },
+  {
+    "bbox": [
+      153,
+      1895,
+      1545,
+      1958
+    ],
+    "category": "Text",
+    "text": "Hướng dẫn giải. Tính giá trị đại diện $x_i$ của các nhóm: 6, 75; 7, 25; 7, 75; 8, 25; 8, 75; 9, 25; 9, 75."
+  },
+  {
+    "bbox": [
+      153,
+      1958,
+      972,
+      1997
+    ],
+    "category": "Text",
+    "text": "Tổng số học sinh $n = 8 + 10 + 16 + 24 + 13 + 7 + 4 = 82$."
+  },
+  {
+    "bbox": [
+      153,
+      1993,
+      1157,
+      2072
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Số trung bình: } \\bar{x} = \\frac{8 \\cdot 6,75 + 10 \\cdot 7,25 + \\cdots + 4 \\cdot 9,75}{82} = \\frac{666}{82} \\approx 8,122.\n$$"
+  },
+  {
+    "bbox": [
+      153,
+      2064,
+      1309,
+      2149
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{Phương sai: } s^2 = \\frac{1}{n} \\sum n_i x_i^2 - \\bar{x}^2 = \\frac{8 \\cdot 6,75^2 + \\cdots + 4 \\cdot 9,75^2}{82} - \\left(\\frac{666}{82}\\right)^2 \\approx 0,609.\n$$"
+  },
+  {
+    "bbox": [
+      202,
+      2167,
+      1545,
+      2211
+    ],
+    "category": "Text",
+    "text": "Phần II. Câu trắc nghiệm đúng sai Thí sinh trả lời từ câu 1 đến câu 4. Mỗi ý a) b) c) d)"
+  },
+  {
+    "bbox": [
+      148,
+      2253,
+      820,
+      2295
+    ],
+    "category": "Page-footer",
+    "text": "» Sưu tần và Biên soạn: Lê Minh Kha - 0399653362"
+  },
+  {
+    "bbox": [
+      1543,
+      2249,
+      1596,
+      2282
+    ],
+    "category": "Page-footer",
+    "text": "165"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      95
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      74,
+      108,
+      1576,
+      536
+    ],
+    "category": "List-item",
+    "text": "**Câu 13.** Một robot tự hành ở một cảng vận chuyển công nghệ cao bắt đầu di chuyển từ vị trí nghỉ tại điểm $A$. Robot di chuyển như sau: Trong giai đoạn đầu, robot tăng tốc đều từ vận tốc $0 \\, (m/s)$ đến $10 \\, (m/s)$ trong thời gian chưa biết $t_1$ giây theo hàm số vận tốc $v_1(t) = at$ ($a$ gọi là gia tốc trong giai đoạn này, $a \\, (m/s^2)$). Sau đó, robot tiếp tục di chuyển với vận tốc không đổi trong $40$ giây. Cuối cùng, robot giảm tốc đều từ $10 \\, (m/s)$ và停止 lại đúng tại băng truyền điểm $B$ với thời gian $t_2$ giây theo hàm vận tốc $v_2(t) = 10 - bt$ ($b$ gọi là gia tốc trong giai đoạn này, $b \\, (m/s^2)$). Toàn bộ quá trình vận chuyển diễn ra trong tổng thời gian là $70$ giây."
+  },
+  {
+    "bbox": [
+      650,
+      530,
+      1133,
+      990
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      212,
+      994,
+      788,
+      1036
+    ],
+    "category": "Text",
+    "text": "Xét tính đúng sai của cácoorngheddeau:"
+  },
+  {
+    "bbox": [
+      212,
+      1039,
+      1210,
+      1092
+    ],
+    "category": "List-item",
+    "text": "a) Nếu gia tốc $b = 0,8 \\, (m/s^2)$, thời gian giảm tốc $t_2$ lớn hơn 13 giây."
+  },
+  {
+    "bbox": [
+      212,
+      1099,
+      1189,
+      1152
+    ],
+    "category": "List-item",
+    "text": "b) Nếu gia tốc $a = 0,5 \\, (m/s^2)$, thời gian tăng tốc $t_1$ bé hơn 21 giây."
+  },
+  {
+    "bbox": [
+      212,
+      1161,
+      398,
+      1242
+    ],
+    "category": "List-item",
+    "text": "c) $\\frac{1}{a} + \\frac{1}{b} \\le \\frac{5}{4}$."
+  },
+  {
+    "bbox": [
+      212,
+      1248,
+      1207,
+      1293
+    ],
+    "category": "List-item",
+    "text": "d) Tổng quăng đường mà robot đã di chuyển từ $A$ đến $B$ là $550 \\, m$."
+  },
+  {
+    "bbox": [
+      833,
+      1299,
+      952,
+      1340
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      197,
+      1383,
+      1591,
+      1432
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>a) Sai</td><td>b) Đúng</td><td>c) Sai</td><td>d) Đúng</td></tr></table>"
+  },
+  {
+    "bbox": [
+      212,
+      1483,
+      384,
+      1521
+    ],
+    "category": "Section-header",
+    "text": "a) Chọn Sai"
+  },
+  {
+    "bbox": [
+      212,
+      1526,
+      1472,
+      1608
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian giảm tốc $t_2$, vật停止 lại khi $v_2(t_2) = 0 \\Leftrightarrow 10 - bt_2 = 0 \\Leftrightarrow t_2 = \\frac{10}{b}$"
+  },
+  {
+    "bbox": [
+      212,
+      1613,
+      1138,
+      1664
+    ],
+    "category": "Text",
+    "text": "Nếu gia tốc $b = 0,8 \\, (m/s^2)$ thì thời gian giảm tốc $t_2 = 12,5$ giây."
+  },
+  {
+    "bbox": [
+      212,
+      1675,
+      426,
+      1716
+    ],
+    "category": "Section-header",
+    "text": "b) Chọn Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      1720,
+      1163,
+      1800
+    ],
+    "category": "Text",
+    "text": "Trong khoảng thời gian tăng tốc $t_1$, $v_1(t_1) = 10 \\Leftrightarrow at_1 = 10 \\Leftrightarrow t_1 = \\frac{10}{a}$"
+  },
+  {
+    "bbox": [
+      212,
+      1805,
+      1106,
+      1857
+    ],
+    "category": "Text",
+    "text": "Nếu gia tốc $a = 0,5 \\, (m/s^2)$ thì thời gian tăng tốc $t_1 = 20$ giây."
+  },
+  {
+    "bbox": [
+      212,
+      1869,
+      382,
+      1907
+    ],
+    "category": "Section-header",
+    "text": "c) Chọn Sai"
+  },
+  {
+    "bbox": [
+      212,
+      1912,
+      1573,
+      2040
+    ],
+    "category": "Text",
+    "text": "Vì toàn bộ quá trình vận chuyển diễn ra trong tổng thời gian là $70$ giây nên $t_1 + 40 + t_2 = 70 \\Leftrightarrow t_1 + t_2 = 30 \\Leftrightarrow \\frac{10}{a} + \\frac{10}{b} = 30 \\Leftrightarrow \\frac{1}{a} + \\frac{1}{b} = 3$"
+  },
+  {
+    "bbox": [
+      212,
+      2047,
+      426,
+      2087
+    ],
+    "category": "Section-header",
+    "text": "d) Chọn Đúng"
+  },
+  {
+    "bbox": [
+      212,
+      2091,
+      1067,
+      2134
+    ],
+    "category": "Text",
+    "text": "Tổng quăng đường mà robot đã di chuyển từ $A$ đến $B$ là"
+  },
+  {
+    "bbox": [
+      218,
+      2139,
+      1053,
+      2237
+    ],
+    "category": "Formula",
+    "text": "$$\nS = \\int_{0}^{t_1} at \\, dt + 10 \\cdot 40 + \\int_{0}^{t_2} (10 - bt) \\, dt = \\frac{1}{2} at^2 \\Big|_{0}^{t_1} + 400 + \\left( 10t - \\frac{1}{2}bt^2 \\right) \\Big|_{0}^{t_2}\n$$"
+  },
+  {
+    "bbox": [
+      74,
+      2263,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1373,
+      2263,
+      1507,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 4 -"
+  }
+]

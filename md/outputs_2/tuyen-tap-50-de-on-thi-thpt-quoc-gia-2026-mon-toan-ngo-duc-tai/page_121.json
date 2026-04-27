@@ -1,0 +1,220 @@
+[
+  {
+    "bbox": [
+      192,
+      50,
+      228,
+      90
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      241,
+      50,
+      786,
+      92
+    ],
+    "category": "Page-header",
+    "text": "50 đề ôn thi THPT Quốc Gia 2026"
+  },
+  {
+    "bbox": [
+      1239,
+      53,
+      1446,
+      94
+    ],
+    "category": "Page-header",
+    "text": "Ngô Đức Tài"
+  },
+  {
+    "bbox": [
+      192,
+      157,
+      1455,
+      252
+    ],
+    "category": "Text",
+    "text": "Toán có 40% sinh viên trượt môn Tâm lý. Gặp ngẫu nhiên một sinh viên trường X. Khi đó"
+  },
+  {
+    "bbox": [
+      222,
+      264,
+      1305,
+      311
+    ],
+    "category": "List-item",
+    "text": "a) Xác suất gặp sinh viên trượt cả hai môn Toán và Tâm lý là 0,066."
+  },
+  {
+    "bbox": [
+      222,
+      318,
+      1248,
+      365
+    ],
+    "category": "List-item",
+    "text": "b) Xác suất gặp sinh viên dot cả hai môn Toán và Tâm lý là 0,6."
+  },
+  {
+    "bbox": [
+      222,
+      372,
+      1448,
+      473
+    ],
+    "category": "List-item",
+    "text": "c) Xác suất gặp sinh viên dot môn Toán biết rằng sinh viên này trượt môn Tâm lý là 0,18."
+  },
+  {
+    "bbox": [
+      222,
+      482,
+      1042,
+      530
+    ],
+    "category": "List-item",
+    "text": "d) Xác suất gặp sinh viên dot môn Tâm lý là 0,726."
+  },
+  {
+    "bbox": [
+      192,
+      573,
+      907,
+      1000
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Hai chiếc flycam được điều khiển cùng bay lên tại một địa điểm. Sau một thời gian bay, chiếc flycam thứ nhất bay đến vị trí điểm A cách mặt đất 10 m, cách điểm xuất phát 5 m về phía nam và 3 m về phía đông. Chiес flycam thứ hai bay đến điểm B cách mặt đất 12 m, cách điểm xuất phát 5 m về phía bắc và 5 m về phía Tây."
+  },
+  {
+    "bbox": [
+      918,
+      584,
+      1446,
+      1005
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      192,
+      1032,
+      1455,
+      1187
+    ],
+    "category": "Text",
+    "text": "Chọn hệ trục tọa độ $Oxyz$ với gốc $O$ đặt tại điểm xuất phát của hai chiếc flycam, mặt phẳng ($Oxy$) trùng với mặt đất (coi như phẳng) có trục $Ox$ hướng về phía nam, trục $Oy$."
+  },
+  {
+    "bbox": [
+      222,
+      1197,
+      697,
+      1242
+    ],
+    "category": "List-item",
+    "text": "a) Tọa độ của điểm $A(5; 3; 10)$."
+  },
+  {
+    "bbox": [
+      222,
+      1249,
+      1448,
+      1296
+    ],
+    "category": "List-item",
+    "text": "b) Phương trình đường thẳng đi qua vị trí của hai chiếc flycam tại $A$ và $B$ là"
+  },
+  {
+    "bbox": [
+      275,
+      1298,
+      477,
+      1470
+    ],
+    "category": "Formula",
+    "text": "$$\n\\begin{cases} x = 5 + 10t \\\\ y = 3 + 8t \\\\ z = 10 - 2t \\end{cases}.\n$$"
+  },
+  {
+    "bbox": [
+      222,
+      1479,
+      1223,
+      1526
+    ],
+    "category": "List-item",
+    "text": "c) Mặt phẳng trung trực của đoạn thẳng $AB$ đi qua $M(2; -4; 9)$."
+  },
+  {
+    "bbox": [
+      222,
+      1533,
+      1448,
+      1744
+    ],
+    "category": "List-item",
+    "text": "d) Trên mặt đất người ta đặt một thiết bị phá sóng flycam sao cho có thể phá sóng hai chiếc flycam tại hai vị trí $A$, $B$ cùng một lúc. Tổng khoảng cách ngắn nhất từ thiết bị đó đến hai chiếc flycam tại hai vị trí $A$ và $B$ (làm tròn đến hàng phần trăm) bằng 25,46 (m)."
+  },
+  {
+    "bbox": [
+      192,
+      1765,
+      1455,
+      1940
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Khi loại thuốc A được tiêm vào bệnh nhân, nồng độ (mg/l) của thuốc trong 血u sau $x$ phút (kể từ khi bắt đầu tiêm) được xác định bởi công thức $C(x) = \\frac{30x}{x^2+2}$. (Nguồn: James Stewart, J. (2015). Calculus. Cengage Learning)."
+  },
+  {
+    "bbox": [
+      222,
+      1942,
+      1373,
+      1989
+    ],
+    "category": "List-item",
+    "text": "a) Thời điểm 1 phút sau khi tiêm, nồng độ thuốc trong 血u là 10 (mg/l)."
+  },
+  {
+    "bbox": [
+      222,
+      1992,
+      998,
+      2092
+    ],
+    "category": "List-item",
+    "text": "b) Đạo hàm của hàm số $C(x)$ là $C'(x) = \\frac{60 - 30x^2}{(x^2 + 2)^2}$."
+  },
+  {
+    "bbox": [
+      222,
+      2087,
+      1448,
+      2188
+    ],
+    "category": "List-item",
+    "text": "c) Trong khoảng thời gian từ 1 phút sau khi tiêm trở đi, nồng độ thuốc trong 血u giảm dần."
+  },
+  {
+    "bbox": [
+      192,
+      2244,
+      498,
+      2281
+    ],
+    "category": "Page-footer",
+    "text": "Zalo: 0889 971 004"
+  },
+  {
+    "bbox": [
+      1325,
+      2244,
+      1453,
+      2285
+    ],
+    "category": "Page-footer",
+    "text": "Trang 3"
+  }
+]

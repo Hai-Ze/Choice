@@ -1,0 +1,462 @@
+[
+  {
+    "bbox": [
+      74,
+      55,
+      607,
+      98
+    ],
+    "category": "Page-header",
+    "text": "Tài Liệu Học Tập Toán 12 & Luyên Thi Đại Học"
+  },
+  {
+    "bbox": [
+      1254,
+      45,
+      1542,
+      96
+    ],
+    "category": "Page-header",
+    "text": "LỚP TOÁN THẦY NGHIỆP"
+  },
+  {
+    "bbox": [
+      212,
+      110,
+      923,
+      153
+    ],
+    "category": "Text",
+    "text": "Sử dụng phương pháp loại trừ: Chọn đáp án D."
+  },
+  {
+    "bbox": [
+      74,
+      155,
+      1578,
+      312
+    ],
+    "category": "List-item",
+    "text": "**Câu 5.** [1] Cho hình phẳng $(H)$ giới hạn bởi các đường $y = x^3 + 3$, $y = 0$, $x = 0$, $x = 2$. Gọi $V$ là thể tích khối trong xoay được tạo thành khi quay hình $(H)$ xung quanh trục $Ox$. Mind đề nào sau đây đúng?"
+  },
+  {
+    "bbox": [
+      212,
+      312,
+      523,
+      410
+    ],
+    "category": "List-item",
+    "text": "A. $V = \\pi \\int_{0}^{2} (x^3 + 3)^2 dx$."
+  },
+  {
+    "bbox": [
+      574,
+      312,
+      857,
+      410
+    ],
+    "category": "List-item",
+    "text": "B. $V = \\int_{0}^{2} (x^3 + 3)^2 dx$."
+  },
+  {
+    "bbox": [
+      894,
+      312,
+      1176,
+      410
+    ],
+    "category": "List-item",
+    "text": "C. $V = \\pi \\int_{0}^{2} (x^3 + 3) dx$."
+  },
+  {
+    "bbox": [
+      1188,
+      312,
+      1461,
+      410
+    ],
+    "category": "List-item",
+    "text": "D. $V = \\int_{0}^{2} (x^3 + 3) dx$."
+  },
+  {
+    "bbox": [
+      833,
+      416,
+      953,
+      458
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      460,
+      1574,
+      610
+    ],
+    "category": "Text",
+    "text": "Thể tích khối tròn xoay được tạo thành khi quay hình $(H)$ quanh trục $Ox$ là\n$V = \\pi \\int_{0}^{2} (x^3 + 3)^2 dx$"
+  },
+  {
+    "bbox": [
+      74,
+      616,
+      1568,
+      725
+    ],
+    "category": "List-item",
+    "text": "**Câu 6.** [1] Trong không gian $Oxyz$, Phương trình tham số của đường thẳng đi qua điểm $M(2;1;-3)$ và nhận vecto $\\vec{u} = (3;-2;-5)$ làm một vecto chỉ phương là"
+  },
+  {
+    "bbox": [
+      212,
+      731,
+      519,
+      881
+    ],
+    "category": "List-item",
+    "text": "A. $\\begin{cases} x = 3 + 2t \\\\ y = -2 + t, t \\in \\mathbb{R}. \\\\ z = -5 - 3t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      546,
+      731,
+      849,
+      881
+    ],
+    "category": "List-item",
+    "text": "B. $\\begin{cases} x = 2 + 3t \\\\ y = 1 - 2t, t \\in \\mathbb{R}. \\\\ z = -3 - 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      861,
+      731,
+      1167,
+      881
+    ],
+    "category": "List-item",
+    "text": "C. $\\begin{cases} x = 2 + 3t \\\\ y = 1 + 2t, t \\in \\mathbb{R}. \\\\ z = -3 - 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      1176,
+      731,
+      1502,
+      881
+    ],
+    "category": "List-item",
+    "text": "D. $\\begin{cases} x = 2 + 3t \\\\ y = -1 + 2t, t \\in \\mathbb{R}. \\\\ z = 3 - 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      833,
+      892,
+      953,
+      934
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      934,
+      1568,
+      1142
+    ],
+    "category": "Text",
+    "text": "Phương trình tham số của đường thẳng đi qua điểm $M(2;1;-3)$ và nhận vecto $\\vec{u} = (3;-2;-5)$\nlàm một vecto chỉ phương là $\\begin{cases} x = 2 + 3t \\\\ y = 1 - 2t, t \\in \\mathbb{R}. \\\\ z = -3 - 5t \\end{cases}$"
+  },
+  {
+    "bbox": [
+      94,
+      1152,
+      940,
+      1246
+    ],
+    "category": "List-item",
+    "text": "**Câu 7:** [1] Bất phương trình $(\\frac{1}{2})^{2-3x} \\ge 2$ có tập nghiệm là"
+  },
+  {
+    "bbox": [
+      212,
+      1250,
+      389,
+      1341
+    ],
+    "category": "List-item",
+    "text": "A. $[\\frac{2}{3}; +\\infty)$."
+  },
+  {
+    "bbox": [
+      546,
+      1273,
+      705,
+      1319
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 1]$."
+  },
+  {
+    "bbox": [
+      861,
+      1273,
+      1018,
+      1319
+    ],
+    "category": "List-item",
+    "text": "C. $[1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1176,
+      1273,
+      1351,
+      1319
+    ],
+    "category": "List-item",
+    "text": "D. $(1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      765,
+      1348,
+      884,
+      1390
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1392,
+      951,
+      1486
+    ],
+    "category": "Text",
+    "text": "Ta có: $(\\frac{1}{2})^{2-3x} \\ge 2 \\Leftrightarrow (2)^{3x-2} \\ge 2 \\Leftrightarrow 3x-2 \\ge 1 \\Leftrightarrow x \\ge 1$."
+  },
+  {
+    "bbox": [
+      212,
+      1492,
+      919,
+      1540
+    ],
+    "category": "Text",
+    "text": "Vậy bất phương trình có tập nghiệm là: $[1; +\\infty)$."
+  },
+  {
+    "bbox": [
+      94,
+      1548,
+      825,
+      1645
+    ],
+    "category": "List-item",
+    "text": "**Câu 8:** [1] Cho $\\int_{0}^{2} f(x) dx = 3$, tính $\\int_{0}^{2} (1 + 2f(x)) dx$"
+  },
+  {
+    "bbox": [
+      212,
+      1653,
+      297,
+      1691
+    ],
+    "category": "List-item",
+    "text": "A. 4."
+  },
+  {
+    "bbox": [
+      546,
+      1653,
+      623,
+      1691
+    ],
+    "category": "List-item",
+    "text": "B. 8."
+  },
+  {
+    "bbox": [
+      861,
+      1653,
+      944,
+      1691
+    ],
+    "category": "List-item",
+    "text": "C. 7."
+  },
+  {
+    "bbox": [
+      1176,
+      1653,
+      1263,
+      1691
+    ],
+    "category": "List-item",
+    "text": "D. 6."
+  },
+  {
+    "bbox": [
+      765,
+      1699,
+      884,
+      1741
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      212,
+      1743,
+      976,
+      1841
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int_{0}^{2} (1 + 2f(x)) dx = \\int_{0}^{2} dx + 2\\int_{0}^{2} (f(x)) dx = 2 + 2 \\cdot 3 = 8$"
+  },
+  {
+    "bbox": [
+      94,
+      1845,
+      1338,
+      1893
+    ],
+    "category": "List-item",
+    "text": "**Câu 9:** [1] Cho cấp số nhân $(u_n)$ với $u_3 = 10$ và công bội $q = -2$. Giá trị của $u_2$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      1901,
+      287,
+      1939
+    ],
+    "category": "List-item",
+    "text": "A. 5."
+  },
+  {
+    "bbox": [
+      546,
+      1901,
+      656,
+      1939
+    ],
+    "category": "List-item",
+    "text": "B. -20."
+  },
+  {
+    "bbox": [
+      861,
+      1901,
+      959,
+      1939
+    ],
+    "category": "List-item",
+    "text": "C. -5."
+  },
+  {
+    "bbox": [
+      1176,
+      1901,
+      1257,
+      1939
+    ],
+    "category": "List-item",
+    "text": "D. 8."
+  },
+  {
+    "bbox": [
+      765,
+      1947,
+      884,
+      1989
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      224,
+      1995,
+      662,
+      2076
+    ],
+    "category": "Text",
+    "text": "Ta có: $u_3 = u_2q \\Leftrightarrow u_2 = \\frac{u_3}{q} = -5$."
+  },
+  {
+    "bbox": [
+      74,
+      2082,
+      1574,
+      2172
+    ],
+    "category": "List-item",
+    "text": "**Câu 10.** [2] Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác đều. Gọi các điểm $M, N$ lần lượt là trung điểm của $SB$ và $SC$. Khi đó góc giữa $MN$ và $AB$ bằng"
+  },
+  {
+    "bbox": [
+      212,
+      2174,
+      324,
+      2212
+    ],
+    "category": "List-item",
+    "text": "A. $30^\\circ$."
+  },
+  {
+    "bbox": [
+      546,
+      2174,
+      656,
+      2212
+    ],
+    "category": "List-item",
+    "text": "B. $45^\\circ$."
+  },
+  {
+    "bbox": [
+      861,
+      2174,
+      969,
+      2212
+    ],
+    "category": "List-item",
+    "text": "C. $90^\\circ$."
+  },
+  {
+    "bbox": [
+      1176,
+      2174,
+      1288,
+      2212
+    ],
+    "category": "List-item",
+    "text": "D. $60^\\circ$."
+  },
+  {
+    "bbox": [
+      74,
+      2262,
+      740,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "Giáo Viên Giảng Dạy: Phạm Văn Nghiệp – 0965 07 27 67"
+  },
+  {
+    "bbox": [
+      1372,
+      2262,
+      1506,
+      2306
+    ],
+    "category": "Page-footer",
+    "text": "- Trang 2 -"
+  }
+]

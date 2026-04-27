@@ -1,0 +1,412 @@
+[
+  {
+    "bbox": [
+      162,
+      82,
+      932,
+      217
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Điểm số</td><td>[4; 5)</td><td>[5; 6)</td><td>[6; 7)</td><td>[7; 8)</td><td>[8; 9)</td><td>[9; 10]</td></tr><tr><td>Số học sinh</td><td>3</td><td>7</td><td>12</td><td>10</td><td>6</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      154,
+      219,
+      1207,
+      266
+    ],
+    "category": "Text",
+    "text": "Giá trị trung bình của mẫu số liệu này (làm tròn đến hàng phần mười) là:"
+  },
+  {
+    "bbox": [
+      193,
+      266,
+      294,
+      304
+    ],
+    "category": "List-item",
+    "text": "A. 6,8."
+  },
+  {
+    "bbox": [
+      557,
+      266,
+      655,
+      304
+    ],
+    "category": "List-item",
+    "text": "B. 6,9."
+  },
+  {
+    "bbox": [
+      921,
+      266,
+      1022,
+      304
+    ],
+    "category": "List-item",
+    "text": "C. 7,0."
+  },
+  {
+    "bbox": [
+      1285,
+      266,
+      1382,
+      304
+    ],
+    "category": "List-item",
+    "text": "D. 6,7."
+  },
+  {
+    "bbox": [
+      154,
+      313,
+      1195,
+      410
+    ],
+    "category": "Text",
+    "text": "**Câu 10.** Cho $\\int_{1}^{3} f(x)dx = 5$ và $\\int_{1}^{3} g(x)dx = 2$. Tính $I = \\int_{1}^{3} [f(x) - g(x)]dx$."
+  },
+  {
+    "bbox": [
+      193,
+      416,
+      324,
+      452
+    ],
+    "category": "List-item",
+    "text": "A. $I = 9$."
+  },
+  {
+    "bbox": [
+      557,
+      416,
+      689,
+      452
+    ],
+    "category": "List-item",
+    "text": "B. $I = 7$."
+  },
+  {
+    "bbox": [
+      921,
+      416,
+      1052,
+      452
+    ],
+    "category": "List-item",
+    "text": "C. $I = 3$."
+  },
+  {
+    "bbox": [
+      1285,
+      416,
+      1427,
+      452
+    ],
+    "category": "List-item",
+    "text": "D. $I = 10$."
+  },
+  {
+    "bbox": [
+      154,
+      456,
+      1140,
+      504
+    ],
+    "category": "Text",
+    "text": "**Câu 11.** Hàm số $y = x^3 - 3x^2 + 1$ đồng biến trên khoảng nào sau đây?"
+  },
+  {
+    "bbox": [
+      193,
+      512,
+      351,
+      550
+    ],
+    "category": "List-item",
+    "text": "A. $(0; +\\infty)$."
+  },
+  {
+    "bbox": [
+      557,
+      512,
+      715,
+      550
+    ],
+    "category": "List-item",
+    "text": "B. $(-\\infty; 2)$."
+  },
+  {
+    "bbox": [
+      921,
+      512,
+      1080,
+      550
+    ],
+    "category": "List-item",
+    "text": "C. $(2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1285,
+      512,
+      1417,
+      550
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 2)$."
+  },
+  {
+    "bbox": [
+      154,
+      562,
+      1392,
+      644
+    ],
+    "category": "Text",
+    "text": "**Câu 12.** Tiệm cận đứng của đồ thị hàm số $y = \\frac{2x-1}{x+1}$ là đường thẳng có phương trình:"
+  },
+  {
+    "bbox": [
+      193,
+      650,
+      341,
+      686
+    ],
+    "category": "List-item",
+    "text": "A. $x = -1$."
+  },
+  {
+    "bbox": [
+      557,
+      650,
+      705,
+      686
+    ],
+    "category": "List-item",
+    "text": "B. $y = 2x$."
+  },
+  {
+    "bbox": [
+      921,
+      650,
+      1059,
+      686
+    ],
+    "category": "List-item",
+    "text": "C. $y = 2$."
+  },
+  {
+    "bbox": [
+      1285,
+      650,
+      1417,
+      686
+    ],
+    "category": "List-item",
+    "text": "D. $x = 2$."
+  },
+  {
+    "bbox": [
+      154,
+      734,
+      929,
+      782
+    ],
+    "category": "Section-header",
+    "text": "## PHẦN II: TRẮC NGHIỆM ĐÚNG SAI (4,0 điểm)"
+  },
+  {
+    "bbox": [
+      154,
+      776,
+      1556,
+      1044
+    ],
+    "category": "Text",
+    "text": "**Câu 1.** Một thông tin nóng hổi bắt đầu lan truyền trong một cộng đồng gồm 20 nghìn người. Gọi $P(t)$ là số lượng người đã biết thông tin này sau $t$ giờ. Tại thời điểm ban đầu ($t = 0$), có 2 nghìn người biết tin. Sau 2 giờ, số người biết tin tăng lên thành 8 nghìn người. Tốc độ lan truyền tin tức $P'(t)$ (nghìn người/giờ) tỉ lệ thuận với tích của số người đã biết tin và số người chưa biết tin, thỏa mãnelloth $P'(t) = \\frac{r}{20}P(t)[20 - P(t)]$ (với $r > 0$ là hệ số lan truyền)."
+  },
+  {
+    "bbox": [
+      154,
+      1048,
+      1074,
+      1130
+    ],
+    "category": "Text",
+    "text": "Đặt $Q(t) = \\frac{1}{P(t)} - \\frac{1}{20}$. Xét tính đúng, sai của các khẳng định sau:"
+  },
+  {
+    "bbox": [
+      193,
+      1138,
+      873,
+      1223
+    ],
+    "category": "Text",
+    "text": "a) Đạo hàm của hàm số $Q(t)$ là $Q'(t) = \\frac{P'(t)}{[P(t)]^2}$."
+  },
+  {
+    "bbox": [
+      193,
+      1227,
+      1015,
+      1275
+    ],
+    "category": "Text",
+    "text": "b) Biểu thức liên hệ giữa $Q'(t)$ và $Q(t)$ là $Q'(t) = -rQ(t)$."
+  },
+  {
+    "bbox": [
+      193,
+      1277,
+      815,
+      1325
+    ],
+    "category": "Text",
+    "text": "c) Giá trị của hệ số lan truyền $r$ lớn hơn 1."
+  },
+  {
+    "bbox": [
+      154,
+      1325,
+      1483,
+      1416
+    ],
+    "category": "Text",
+    "text": "d) Sau 4 giờ kể từ thời điểm ban đầu, tổng số người biết thông tin này vượt quá 15 nghìn người."
+  },
+  {
+    "bbox": [
+      154,
+      1416,
+      957,
+      1464
+    ],
+    "category": "Text",
+    "text": "**Câu 2.** Cho hàm số $f(x) = x^3 - 3x^2 + 2$ trên đoạn $[-1; 3]$."
+  },
+  {
+    "bbox": [
+      193,
+      1466,
+      760,
+      1514
+    ],
+    "category": "Text",
+    "text": "a) Hàm số có đạo hàm $f'(x) = 3x^2 - 6x$."
+  },
+  {
+    "bbox": [
+      193,
+      1516,
+      742,
+      1564
+    ],
+    "category": "Text",
+    "text": "b) Hàm số $f(x)$ đạt cực đại tại $x = 2$."
+  },
+  {
+    "bbox": [
+      193,
+      1568,
+      1052,
+      1616
+    ],
+    "category": "Text",
+    "text": "c) Giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[-1; 3]$ là $-2$."
+  },
+  {
+    "bbox": [
+      193,
+      1620,
+      1035,
+      1668
+    ],
+    "category": "Text",
+    "text": "d) Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[-1; 3]$ là $3$."
+  },
+  {
+    "bbox": [
+      154,
+      1670,
+      1568,
+      1937
+    ],
+    "category": "Text",
+    "text": "**Câu 3.** Thành phố A phát hành biển số xe mô tô gồm 5 chữ số chọn từ tập hợp $\\{0;1;2;3;4;5;6;7;8;9\\}$. Ở thời điểm hiện tại, cơ quan quản lý bắt đầu cấp dải biển số có dạng 12XXX. Giả thiết kho số gồm toàn bộ biển số thuộc dải này đều chưa được phát hành. Một người bấm ngẫu nhiên một biển số, người này mong muốn bấm được một biển số “tiến lên”, nghĩa là biển số có dạng $12abc$, trong đó $2 \\le a \\le b \\le c \\le 9$. Xét tính Đúng – Sai của các мыnhi đề sau?"
+  },
+  {
+    "bbox": [
+      193,
+      1937,
+      1311,
+      1985
+    ],
+    "category": "Text",
+    "text": "a) Tổng số biển số xe trong kho mà người này có thể bốc ngẫu nhiên là 1000."
+  },
+  {
+    "bbox": [
+      193,
+      1985,
+      1257,
+      2033
+    ],
+    "category": "Text",
+    "text": "b) Biển mang dãy số 12335 không phải là biển số người này mong muốn."
+  },
+  {
+    "bbox": [
+      193,
+      2033,
+      861,
+      2081
+    ],
+    "category": "Text",
+    "text": "c) Các số $a,b,c$ thuộc tập hợp $\\{3;4;5;6;7;8;9\\}$."
+  },
+  {
+    "bbox": [
+      193,
+      2083,
+      1146,
+      2131
+    ],
+    "category": "Text",
+    "text": "d) Xác suất người này bấm được biển số như mong muốn là 12%."
+  },
+  {
+    "bbox": [
+      154,
+      2131,
+      1556,
+      2221
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Trong không gian Oxyz (đơn vị trên các trục là mét), mặt phẳng (Oxy) trùng với mặt đất, trục Oz thẳng đứng hướng lên cao, một trạm radar tại gốc $O(0;0;0)$ phát hiện một tên lửa lạ (tên"
+  },
+  {
+    "bbox": [
+      154,
+      2233,
+      316,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Mã đề 9122"
+  },
+  {
+    "bbox": [
+      1440,
+      2233,
+      1572,
+      2269
+    ],
+    "category": "Page-footer",
+    "text": "Trang 2/4"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "bbox": [
+      93,
+      38,
+      130,
+      75
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      142,
+      35,
+      696,
+      77
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      1240,
+      48,
+      1262,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      1268,
+      48,
+      1566,
+      77
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      1573,
+      48,
+      1595,
+      77
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      116,
+      441,
+      191
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{A} \\quad F(x) = e^x + x^2 + \\frac{5}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      116,
+      983,
+      191
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{B} \\quad F(x) = e^x + x^2 - \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      185,
+      441,
+      252
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{C} \\quad F(x) = e^x + x^2 + \\frac{3}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      185,
+      983,
+      252
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{D} \\quad F(x) = e^x + x^2 + \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      284,
+      755,
+      466
+    ],
+    "category": "Text",
+    "text": "**CÂU 9.** Cho hàm số bậc ba $f(x) = ax^3 + bx^2 + cx + d$ và đường thẳng $d$: $g(x) = mx + n$ có đồ thị như hình vẽ. Nếu diện tích phần tô bằng $\\frac{1}{2}$, thì diện tích phần gạch bằng"
+  },
+  {
+    "bbox": [
+      123,
+      460,
+      202,
+      532
+    ],
+    "category": "List-item",
+    "text": "A $\\frac{5}{2}$."
+  },
+  {
+    "bbox": [
+      284,
+      460,
+      356,
+      532
+    ],
+    "category": "List-item",
+    "text": "B 2."
+  },
+  {
+    "bbox": [
+      445,
+      460,
+      518,
+      532
+    ],
+    "category": "List-item",
+    "text": "C 1."
+  },
+  {
+    "bbox": [
+      606,
+      460,
+      686,
+      532
+    ],
+    "category": "List-item",
+    "text": "D $\\frac{3}{2}$."
+  },
+  {
+    "bbox": [
+      807,
+      301,
+      1171,
+      675
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      93,
+      791,
+      1197,
+      982
+    ],
+    "category": "Text",
+    "text": "**CÂU 10.** Số lượng của loại vi kur ther $A$ trong một phòng thí nghiệm được tính theo công thức $s(t) = s(0) \\cdot s^t$ trong đó, $s(0)$ là số lượng vi kur ther $A$ lúc ban đầu, $s(t)$ là số lượng vi kur ther $A$ có sau $t$ phút. Biết sau 3 phút thì số lượng vi kur ther $A$ là 625 nghìn con. Hỏi sau bao lâu, kể từ lúc ban đầu, số lượng vi kur ther $A$ là 20 triệu con?"
+  },
+  {
+    "bbox": [
+      123,
+      984,
+      282,
+      1028
+    ],
+    "category": "List-item",
+    "text": "A 48 phút."
+  },
+  {
+    "bbox": [
+      395,
+      984,
+      538,
+      1028
+    ],
+    "category": "List-item",
+    "text": "B 7 phút."
+  },
+  {
+    "bbox": [
+      668,
+      984,
+      812,
+      1028
+    ],
+    "category": "List-item",
+    "text": "C 8 phút."
+  },
+  {
+    "bbox": [
+      940,
+      984,
+      1096,
+      1028
+    ],
+    "category": "List-item",
+    "text": "D 12 phút."
+  },
+  {
+    "bbox": [
+      93,
+      1076,
+      668,
+      1270
+    ],
+    "category": "Text",
+    "text": "**CÂU 11.** Cho $a, b, c$ là ba số thực dương và khác 1. Đồ thị các hàm số $y = \\log_a x$, $y = \\log_b x$, $y = \\log_c x$ được cho trong hình vẽ bên. Mind đề nào dưới đây là mind đề đúng?"
+  },
+  {
+    "bbox": [
+      706,
+      1096,
+      1171,
+      1474
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      123,
+      1474,
+      303,
+      1518
+    ],
+    "category": "List-item",
+    "text": "A $a < b < c$."
+  },
+  {
+    "bbox": [
+      395,
+      1474,
+      575,
+      1518
+    ],
+    "category": "List-item",
+    "text": "B $c < a < b$."
+  },
+  {
+    "bbox": [
+      668,
+      1474,
+      850,
+      1518
+    ],
+    "category": "List-item",
+    "text": "C $c < b < a$."
+  },
+  {
+    "bbox": [
+      940,
+      1474,
+      1121,
+      1518
+    ],
+    "category": "List-item",
+    "text": "D $b < c < a$."
+  },
+  {
+    "bbox": [
+      93,
+      1540,
+      1197,
+      1621
+    ],
+    "category": "Text",
+    "text": "**CÂU 12.** Mỗi ngày bác Hương đều đi bộ để rèn luyện sức khỏe. Quăng đường đi bộ mỗi ngày (đơn vị: km) của bác Hương trong 20 ngày được thống kê lại ở bảng sau:"
+  },
+  {
+    "bbox": [
+      167,
+      1663,
+      1126,
+      1762
+    ],
+    "category": "Table",
+    "text": "<table><tr><td>Quăng đường (km)</td><td>[2,7; 3,0)</td><td>[3,0; 3,3)</td><td>[3,3; 3,6)</td><td>[3,6; 3,9)</td><td>[3,9; 4,2)</td></tr><tr><td>Số ngày</td><td>3</td><td>6</td><td>5</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+    "bbox": [
+      93,
+      1802,
+      652,
+      1841
+    ],
+    "category": "Text",
+    "text": "Phương sai của mẫu số liệu ghép nhóm là"
+  },
+  {
+    "bbox": [
+      123,
+      1841,
+      234,
+      1885
+    ],
+    "category": "List-item",
+    "text": "A 3,39."
+  },
+  {
+    "bbox": [
+      395,
+      1841,
+      522,
+      1885
+    ],
+    "category": "List-item",
+    "text": "B 11,62."
+  },
+  {
+    "bbox": [
+      668,
+      1841,
+      812,
+      1885
+    ],
+    "category": "List-item",
+    "text": "C 0,1314."
+  },
+  {
+    "bbox": [
+      940,
+      1841,
+      1051,
+      1885
+    ],
+    "category": "List-item",
+    "text": "D 0,36."
+  },
+  {
+    "bbox": [
+      108,
+      1907,
+      823,
+      1962
+    ],
+    "category": "Section-header",
+    "text": "2 CÂU TRẮC NGHIỆM ĐÚNG SAI (4,0 ĐIỂM)"
+  },
+  {
+    "bbox": [
+      93,
+      1973,
+      1197,
+      2053
+    ],
+    "category": "Text",
+    "text": "**CÂU 1.** Cho tức diện $ABCD$ có $AB, AC, AD$ đối một vuông góc và $AB = AC = AD = 1$. Gọi $M$ là trung điểm đoạn thẳng $BC$."
+  },
+  {
+    "bbox": [
+      123,
+      2053,
+      467,
+      2122
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{a)} \\overrightarrow{AM} = \\frac{1}{2} (\\overrightarrow{AB} + \\overrightarrow{AC}).\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      2053,
+      951,
+      2107
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{b)} \\overrightarrow{AD} - \\overrightarrow{AB} = \\overrightarrow{BD}.\n$$"
+  },
+  {
+    "bbox": [
+      123,
+      2115,
+      572,
+      2186
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{c)} \\text{Tích vô hướng } \\overrightarrow{AM} \\cdot \\overrightarrow{BD} = \\frac{1}{2}.\n$$"
+  },
+  {
+    "bbox": [
+      668,
+      2115,
+      961,
+      2178
+    ],
+    "category": "Formula",
+    "text": "$$\n\\text{d)} (\\overrightarrow{AM}, \\overrightarrow{BD}) = 60^{\\circ}.\n$$"
+  },
+  {
+    "bbox": [
+      93,
+      2204,
+      961,
+      2246
+    ],
+    "category": "Text",
+    "text": "**CÂU 2.** Cho hàm số bậc ba $y = f(x)$ có bảng biến thiên như sau"
+  },
+  {
+    "bbox": [
+      1321,
+      120,
+      1504,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      1227,
+      2260,
+      1510,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "Bùi Tịnh Minh Lâm 249"
+  }
+]

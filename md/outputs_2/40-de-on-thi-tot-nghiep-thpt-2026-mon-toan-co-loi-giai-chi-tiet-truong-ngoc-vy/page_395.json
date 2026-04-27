@@ -1,0 +1,201 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      60,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      456,
+      105,
+      1257,
+      646
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      155,
+      682,
+      1092,
+      764
+    ],
+    "category": "Text",
+    "text": "Ta có : $AC = \\sqrt{AB^2 + BC^2} = 2$, mà $\\Delta SAC$ vuông tại $S \\Rightarrow SI = \\frac{AB}{2} = 1$"
+  },
+  {
+    "bbox": [
+      160,
+      784,
+      639,
+      880
+    ],
+    "category": "Formula",
+    "text": "$$\n\\Rightarrow SH = \\sqrt{SI^2 - HI^2} = \\sqrt{1 - \\frac{1}{4}} = \\frac{\\sqrt{3}}{2}\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      907,
+      1338,
+      956
+    ],
+    "category": "Text",
+    "text": "Kẻ $HK \\perp AB$; $AB \\perp SH \\Rightarrow AB \\perp (KHS) \\Rightarrow (SAB) \\perp (KHS)$. Mà $(SAB) \\cap (KHS) = SK$."
+  },
+  {
+    "bbox": [
+      155,
+      983,
+      856,
+      1031
+    ],
+    "category": "Text",
+    "text": "Kẻ $HE \\perp SK \\Rightarrow HE \\perp (SAB) \\Rightarrow d(H, (SCD)) = HE$"
+  },
+  {
+    "bbox": [
+      160,
+      1056,
+      1276,
+      1159
+    ],
+    "category": "Formula",
+    "text": "$$\nA = HC \\cap (SAB) \\Rightarrow \\frac{d(C, (SAB))}{d(H, (SAB))} = \\frac{CA}{HA} = 4 \\Rightarrow d(C, (SAB)) = 4d(H, (SAB)) = 4HE\n$$"
+  },
+  {
+    "bbox": [
+      160,
+      1181,
+      1089,
+      1364
+    ],
+    "category": "Formula",
+    "text": "$$\nHE = \\frac{HK \\cdot SH}{\\sqrt{HK^2 + SH^2}} = \\frac{\\frac{\\sqrt{3}}{4} \\cdot \\frac{\\sqrt{3}}{2}}{\\sqrt{\\frac{3}{16} + \\frac{3}{4}}} = \\frac{\\sqrt{15}}{10} \\Rightarrow d(C, (SAB)) = \\frac{2\\sqrt{15}}{5} \\approx 1,55\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      1393,
+      1575,
+      1696
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Xác suất bé An được mẹ dẫn theo khi đi mua sắm là $\\frac{2}{5}$. Khi bé An được đi theo mẹ thì 70% bé sẽ được mua đồ chơi. Khi bé không đi theo mẹ, có thể mẹ vẫn mua đồ chơi cho bé. Xác suất bé được đi theo mẹ biết rằng bé được mẹ mua cho đồ chơi là $\\frac{14}{23}$. Khi bé không đi theo mẹ, xác suất bé được mẹ mua cho đồ chơi là bao nhiêu?"
+  },
+  {
+    "bbox": [
+      155,
+      1716,
+      493,
+      1752
+    ],
+    "category": "Text",
+    "text": "**Trả lời:** ...................."
+  },
+  {
+    "bbox": [
+      807,
+      1775,
+      924,
+      1814
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      155,
+      1834,
+      330,
+      1872
+    ],
+    "category": "Text",
+    "text": "**Đáp án:** 0,3"
+  },
+  {
+    "bbox": [
+      155,
+      1892,
+      856,
+      1936
+    ],
+    "category": "Text",
+    "text": "Gọi $A$: “Bé An được mẹ dẫn theo khi đi mua sắm”."
+  },
+  {
+    "bbox": [
+      160,
+      1952,
+      634,
+      1994
+    ],
+    "category": "Text",
+    "text": "$B$: “Bé An được mẹ mua đồ chơi”."
+  },
+  {
+    "bbox": [
+      155,
+      2015,
+      440,
+      2061
+    ],
+    "category": "Text",
+    "text": "Ta cần tính $P(B | \\bar{A})$."
+  },
+  {
+    "bbox": [
+      155,
+      2079,
+      408,
+      2121
+    ],
+    "category": "Text",
+    "text": "Theo đề bài, ta có:"
+  },
+  {
+    "bbox": [
+      160,
+      2144,
+      921,
+      2226
+    ],
+    "category": "Formula",
+    "text": "$$\nP(A) = \\frac{2}{5}; P(\\bar{A}) = \\frac{3}{5}; P(B | A) = 70\\% = \\frac{7}{10}; P(A | B) = \\frac{14}{23}.\n$$"
+  },
+  {
+    "bbox": [
+      155,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      809,
+      2255,
+      922,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 19"
+  }
+]

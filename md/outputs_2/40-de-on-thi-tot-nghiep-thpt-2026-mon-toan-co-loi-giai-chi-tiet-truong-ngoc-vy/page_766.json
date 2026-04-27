@@ -1,0 +1,310 @@
+[
+  {
+    "bbox": [
+      162,
+      56,
+      952,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1168,
+      59,
+      1531,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      205,
+      105,
+      462,
+      179
+    ],
+    "category": "List-item",
+    "text": "A. $\\frac{-\\pi}{6} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      555,
+      105,
+      790,
+      179
+    ],
+    "category": "List-item",
+    "text": "B. $\\frac{\\pi}{3} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      906,
+      105,
+      1139,
+      179
+    ],
+    "category": "List-item",
+    "text": "C. $\\frac{\\pi}{6} + k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      1255,
+      118,
+      1434,
+      155
+    ],
+    "category": "List-item",
+    "text": "D. $k\\pi, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      807,
+      204,
+      924,
+      242
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      262,
+      279,
+      300
+    ],
+    "category": "Text",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      157,
+      320,
+      793,
+      497
+    ],
+    "category": "Text",
+    "text": "Điều kiện: $\\begin{cases} \\cos 2x \\neq 0 \\\\ \\cos x \\neq 0 \\end{cases} \\Leftrightarrow \\begin{cases} x \\neq \\frac{\\pi}{4} + \\frac{k\\pi}{2} \\\\ x \\neq \\frac{\\pi}{2} + k\\pi \\end{cases}, k \\in \\mathbb{Z}$."
+  },
+  {
+    "bbox": [
+      165,
+      522,
+      1245,
+      562
+    ],
+    "category": "Text",
+    "text": "Phương trình $\\tan 2x - \\tan x = 0 \\Leftrightarrow \\tan 2x = \\tan x \\Leftrightarrow 2x = x + k\\pi \\Leftrightarrow x = k\\pi, k \\in \\mathbb{Z}$"
+  },
+  {
+    "bbox": [
+      157,
+      582,
+      1575,
+      751
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hình lăng trụ tam giác $ABC.A'B'C'$. Biết diện tích mặt bên $ABB'A'$ bằng 15 và khoảng cách từ $C$ đến mặt phẳng ($ABB'A'$) bằng 6 (tham khảo hình vẽ bên cạnh). Thế tích của khối lăng trụ $ABC.A'B'C'$ bằng bao nhiêu?"
+  },
+  {
+    "bbox": [
+      744,
+      773,
+      986,
+      1009
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      205,
+      1036,
+      300,
+      1069
+    ],
+    "category": "List-item",
+    "text": "A. 90."
+  },
+  {
+    "bbox": [
+      555,
+      1036,
+      650,
+      1069
+    ],
+    "category": "List-item",
+    "text": "B. 60."
+  },
+  {
+    "bbox": [
+      906,
+      1036,
+      1003,
+      1069
+    ],
+    "category": "List-item",
+    "text": "C. 45."
+  },
+  {
+    "bbox": [
+      1255,
+      1036,
+      1348,
+      1069
+    ],
+    "category": "List-item",
+    "text": "D. 30."
+  },
+  {
+    "bbox": [
+      807,
+      1095,
+      924,
+      1133
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      1153,
+      279,
+      1191
+    ],
+    "category": "Text",
+    "text": "Chọn C."
+  },
+  {
+    "bbox": [
+      726,
+      1215,
+      1001,
+      1482
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      157,
+      1512,
+      879,
+      1591
+    ],
+    "category": "Text",
+    "text": "Ta có $V_{C.A'B'C'} = \\frac{1}{3} d(C, (A'B'C')). S_{A'B'C'} = \\frac{1}{3} V_{ABC.A'B'C'}$."
+  },
+  {
+    "bbox": [
+      157,
+      1616,
+      1095,
+      1696
+    ],
+    "category": "Text",
+    "text": "nên $V_{ABC.A'B'C'} = \\frac{3}{2} V_{C.A'B'C'} = \\frac{3}{2} \\cdot \\frac{1}{3} d(C, (ABB'A')). S_{ABB'A'} = \\frac{1}{2} \\cdot 15 \\cdot 6 = 45$."
+  },
+  {
+    "bbox": [
+      157,
+      1714,
+      1575,
+      1886
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Cắt một vật thể bởi hai mặt phẳng vuông góc với trục $Ox$ tại $x=1$ và $x=2$. Một mặt phẳng tùy ý vuông góc với trục $Ox$ tại điểm có hoành độ $x$ ($1 \\le x \\le 2$) cắt vật thể đó có diện tích $S(x) = 2026x$. Tính thể tích của phần vật thể giới hạn bởi hai mặt phẳng trên."
+  },
+  {
+    "bbox": [
+      205,
+      1913,
+      352,
+      1946
+    ],
+    "category": "List-item",
+    "text": "A. $1518\\pi$."
+  },
+  {
+    "bbox": [
+      555,
+      1913,
+      682,
+      1946
+    ],
+    "category": "List-item",
+    "text": "B. 3039."
+  },
+  {
+    "bbox": [
+      906,
+      1913,
+      1053,
+      1946
+    ],
+    "category": "List-item",
+    "text": "C. $3039\\pi$."
+  },
+  {
+    "bbox": [
+      1255,
+      1913,
+      1379,
+      1946
+    ],
+    "category": "List-item",
+    "text": "D. 3036."
+  },
+  {
+    "bbox": [
+      807,
+      1972,
+      924,
+      2010
+    ],
+    "category": "Section-header",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      157,
+      2030,
+      279,
+      2068
+    ],
+    "category": "Text",
+    "text": "Chọn B."
+  },
+  {
+    "bbox": [
+      157,
+      2088,
+      695,
+      2184
+    ],
+    "category": "Text",
+    "text": "Ta có $V = \\int_{1}^{2} S(x)dx = \\int_{1}^{2} 2026x dx = 3039$."
+  },
+  {
+    "bbox": [
+      157,
+      2257,
+      648,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      817,
+      2257,
+      915,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 9"
+  }
+]

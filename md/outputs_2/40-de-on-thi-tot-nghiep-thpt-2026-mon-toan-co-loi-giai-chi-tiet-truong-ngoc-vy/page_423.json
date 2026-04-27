@@ -1,0 +1,392 @@
+[
+  {
+    "bbox": [
+      82,
+      56,
+      871,
+      95
+    ],
+    "category": "Page-header",
+    "text": "40 đề ôn thi tốt nghiệp PTTH môn toán Năm 2026 có lời giải chi tiết"
+  },
+  {
+    "bbox": [
+      1088,
+      60,
+      1450,
+      95
+    ],
+    "category": "Page-header",
+    "text": "Trương Ngọc Vỹ 0978 333 093"
+  },
+  {
+    "bbox": [
+      76,
+      98,
+      199,
+      136
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      154,
+      626,
+      291
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\begin{cases} u_1 = \\frac{1}{2} \\\\ q = 2 \\end{cases} \\Rightarrow u_{10} = u_1 \\cdot q^9 = \\frac{1}{2} \\cdot 2^9 = 2^8$."
+  },
+  {
+    "bbox": [
+      76,
+      316,
+      969,
+      404
+    ],
+    "category": "Text",
+    "text": "**Câu 4.** Phương trình $\\sin\\left(\\frac{2x}{3} - \\frac{\\pi}{3}\\right) = 0$ (với $k \\in \\mathbb{Z}$) có nghiệm là"
+  },
+  {
+    "bbox": [
+      125,
+      431,
+      280,
+      487
+    ],
+    "category": "List-item",
+    "text": "A. $x = k\\pi$."
+  },
+  {
+    "bbox": [
+      475,
+      431,
+      721,
+      512
+    ],
+    "category": "List-item",
+    "text": "B. $x = \\frac{2\\pi}{3} + \\frac{k3\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      844,
+      431,
+      1051,
+      512
+    ],
+    "category": "List-item",
+    "text": "C. $x = \\frac{\\pi}{3} + k\\pi$."
+  },
+  {
+    "bbox": [
+      1175,
+      431,
+      1406,
+      512
+    ],
+    "category": "List-item",
+    "text": "D. $x = \\frac{\\pi}{2} + \\frac{k3\\pi}{2}$."
+  },
+  {
+    "bbox": [
+      727,
+      535,
+      844,
+      574
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      594,
+      190,
+      632
+    ],
+    "category": "Section-header",
+    "text": "Chọn D"
+  },
+  {
+    "bbox": [
+      80,
+      651,
+      1075,
+      738
+    ],
+    "category": "Formula",
+    "text": "$$\n\\sin\\left(\\frac{2x}{3} - \\frac{\\pi}{3}\\right) = 0 \\Leftrightarrow \\frac{2x}{3} - \\frac{\\pi}{3} = k\\pi \\Leftrightarrow \\frac{2x}{3} = \\frac{\\pi}{3} + k\\pi \\Leftrightarrow x = \\frac{\\pi}{2} + \\frac{k3\\pi}{2} \\ (k \\in \\mathbb{Z})\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      766,
+      929,
+      821
+    ],
+    "category": "Text",
+    "text": "**Câu 5.** Tập nghiệm của bất phương trình $\\log_3(31-x^2) \\ge 3$ là"
+  },
+  {
+    "bbox": [
+      125,
+      848,
+      282,
+      894
+    ],
+    "category": "List-item",
+    "text": "A. $(-\\infty; 2]$."
+  },
+  {
+    "bbox": [
+      475,
+      848,
+      622,
+      894
+    ],
+    "category": "List-item",
+    "text": "B. $[-2; 2]$."
+  },
+  {
+    "bbox": [
+      825,
+      848,
+      1130,
+      894
+    ],
+    "category": "List-item",
+    "text": "C. $(-\\infty; -2] \\cup [2; +\\infty)$."
+  },
+  {
+    "bbox": [
+      1175,
+      848,
+      1305,
+      894
+    ],
+    "category": "List-item",
+    "text": "D. $(0; 2]$."
+  },
+  {
+    "bbox": [
+      727,
+      922,
+      844,
+      960
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      979,
+      190,
+      1017
+    ],
+    "category": "Section-header",
+    "text": "Chọn B"
+  },
+  {
+    "bbox": [
+      80,
+      1036,
+      891,
+      1093
+    ],
+    "category": "Formula",
+    "text": "$$\n\\log_3(31-x^2) \\ge 3 \\Leftrightarrow 31-x^2 \\ge 27 \\Leftrightarrow x^2-4 \\le 0 \\Leftrightarrow x \\in [-2; 2].\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1122,
+      882,
+      1208
+    ],
+    "category": "Text",
+    "text": "**Câu 6.** Đồ thị hàm số $y = \\frac{x^2 - 3x + 2}{x - 1}$ có tiệm cận xiên là:"
+  },
+  {
+    "bbox": [
+      125,
+      1231,
+      291,
+      1268
+    ],
+    "category": "List-item",
+    "text": "A. $y = x - 2$"
+  },
+  {
+    "bbox": [
+      825,
+      1231,
+      986,
+      1268
+    ],
+    "category": "List-item",
+    "text": "B. $y = x + 2$"
+  },
+  {
+    "bbox": [
+      125,
+      1295,
+      285,
+      1333
+    ],
+    "category": "List-item",
+    "text": "C. $y = x - 1$"
+  },
+  {
+    "bbox": [
+      825,
+      1295,
+      1179,
+      1333
+    ],
+    "category": "List-item",
+    "text": "D. không có tiệm cận xiên"
+  },
+  {
+    "bbox": [
+      727,
+      1360,
+      844,
+      1398
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1417,
+      199,
+      1455
+    ],
+    "category": "Section-header",
+    "text": "Chọn D."
+  },
+  {
+    "bbox": [
+      80,
+      1474,
+      1164,
+      1563
+    ],
+    "category": "Formula",
+    "text": "$$\ny = \\frac{x^2 - 3x + 2}{x - 1} = \\frac{(x-1)(x-2)}{x-1} = x - 2 \\text{ nên đồ thị hàm số không có tiệm cận xiên.}\n$$"
+  },
+  {
+    "bbox": [
+      76,
+      1588,
+      956,
+      1670
+    ],
+    "category": "Text",
+    "text": "**Câu 7.** Cho hàm số $f(x) = \\frac{1}{x} + \\frac{1}{\\cos^2 x}$. Chọn khảm định đúng:"
+  },
+  {
+    "bbox": [
+      125,
+      1691,
+      554,
+      1749
+    ],
+    "category": "List-item",
+    "text": "A. $\\int f(x)dx = \\ln|x| + \\tan x + C$."
+  },
+  {
+    "bbox": [
+      825,
+      1691,
+      1240,
+      1749
+    ],
+    "category": "List-item",
+    "text": "B. $\\int f(x)dx = \\ln x + \\tan x + C$."
+  },
+  {
+    "bbox": [
+      125,
+      1772,
+      554,
+      1830
+    ],
+    "category": "List-item",
+    "text": "C. $\\int f(x)dx = \\ln x + \\tan|x| + C$."
+  },
+  {
+    "bbox": [
+      825,
+      1772,
+      1196,
+      1830
+    ],
+    "category": "List-item",
+    "text": "D. $\\int f(x)dx = \\ln|x| + \\tan x$."
+  },
+  {
+    "bbox": [
+      727,
+      1854,
+      844,
+      1892
+    ],
+    "category": "Text",
+    "text": "Lời giải"
+  },
+  {
+    "bbox": [
+      76,
+      1911,
+      199,
+      1949
+    ],
+    "category": "Section-header",
+    "text": "Chọn A."
+  },
+  {
+    "bbox": [
+      76,
+      1968,
+      789,
+      2057
+    ],
+    "category": "Text",
+    "text": "Ta có: $\\int f(x)dx = \\int\\left(\\frac{1}{x} + \\frac{1}{\\cos^2 x}\\right)dx = \\ln|x| + \\tan x + C$"
+  },
+  {
+    "bbox": [
+      76,
+      2076,
+      1494,
+      2240
+    ],
+    "category": "Text",
+    "text": "**Câu 8.** Biểu đồ dưới đây biểu diễn số lượng khách hàng đặt bàn qua hình thức trực tuyến mỗi ngày trong quý III năm 2022 của một nhà hàng. Cột thứ nhất biểu diễn số ngày có từ 1 đến 6 lượt đặt bàn, cột thứ hai biểu diễn số ngày có từ 6 đến 11 lượt đặt bàn;..."
+  },
+  {
+    "bbox": [
+      76,
+      2258,
+      569,
+      2292
+    ],
+    "category": "Page-footer",
+    "text": "https://www.facebook.com/truongngocvy8/"
+  },
+  {
+    "bbox": [
+      737,
+      2258,
+      832,
+      2288
+    ],
+    "category": "Page-footer",
+    "text": "Trang 8"
+  }
+]

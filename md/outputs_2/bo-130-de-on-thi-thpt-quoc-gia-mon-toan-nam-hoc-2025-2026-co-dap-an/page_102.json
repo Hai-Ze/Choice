@@ -1,0 +1,149 @@
+[
+  {
+    "bbox": [
+      54,
+      48,
+      410,
+      79
+    ],
+    "category": "Page-header",
+    "text": "Trường TH-THCS-THPT ......"
+  },
+  {
+    "bbox": [
+      952,
+      36,
+      1554,
+      78
+    ],
+    "category": "Page-header",
+    "text": "BỘ ĐỀ ÔN THI THPT QUỐC GIA 2025 -2026"
+  },
+  {
+    "bbox": [
+      141,
+      121,
+      327,
+      154
+    ],
+    "category": "Section-header",
+    "text": "QUICK NOTE"
+  },
+  {
+    "bbox": [
+      514,
+      121,
+      1485,
+      403
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      445,
+      1556,
+      635
+    ],
+    "category": "Text",
+    "text": "Đường lên của khu vực này dẫn đến một bề mặt nằm ngang (gọi là vùng bằng phẳng), tiếp theo là đoạn dốc xuống, hai đường dốc xứng nhau hai bên. Miặt trước và mặt sau của chướng ngại vật vuông góc với mặt đất ngang. Để mô tả mặt bên phía trước một cách toán học, ta xét mặt phẳng $Oxy$ với trục $Ox$ là phần bên dưới, trục $Oy$ là trục đối xứng của bề mặt đang xét."
+  },
+  {
+    "bbox": [
+      530,
+      665,
+      1461,
+      863
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      447,
+      903,
+      1556,
+      1056
+    ],
+    "category": "Text",
+    "text": "Vùng bằng phẳng trải dài trong mô hình từ $-2 \\le x \\le 2$. Đường cong mặt cắt ngang của đoạn dốc xuống trong khoảng $2 \\le x \\le 8$ được mô tả bởi đồ thị của hàm số $f(x) = 2 - \\ln(x - 1)$. Trong hệ tọa độ này, một đơn vị chiều dài tương ứng với một mét trong thực tế. Xét tính đúng sai của các keyffe định sau:"
+  },
+  {
+    "bbox": [
+      478,
+      1056,
+      1057,
+      1095
+    ],
+    "category": "List-item",
+    "text": "a) Chiều cao của vùng bằng phẳng là 2 m."
+  },
+  {
+    "bbox": [
+      478,
+      1097,
+      1550,
+      1211
+    ],
+    "category": "List-item",
+    "text": "b) Trên khoảng $(2; 8)$ có một điểm $x_0$ mà tại đó, tốc độ thay đổi tức thời của hàm $f(x)$ bằng tốc độ thay đổi trung bình của hàm $f(x)$ trên khoảng này. Khi đó $x_0 \\approx 4,3$ (kết quả làm tròn đến hàng phần chục)."
+  },
+  {
+    "bbox": [
+      478,
+      1213,
+      1550,
+      1328
+    ],
+    "category": "List-item",
+    "text": "c) Trên mô hình, giá trị của góc $\\alpha$ được xác định bởi mặt phẳng nằm ngang của vùng bằng phẳng và đoạn đường dốc xuống tại cạnh chuyển tiếp (tiếp tuyến tại điểm $x = 2$) là $45^\\circ$."
+  },
+  {
+    "bbox": [
+      478,
+      1330,
+      1550,
+      1521
+    ],
+    "category": "List-item",
+    "text": "d) Miặt bên phía trước của chướng ngại vật được sử dụng một phần làm khu vực quảng cáo (xem Hình 1). Trong mô hình, khu vực này bao gồm hai phần diện tích, cụ thể là diện tích giữa đồ thị hàm số $f(x)$ và trục hoành trong đoạn $[2; 6]$ và một phần đối xứng với nó trong góc phần tư thứ II. Diện tích của khu vực quảng cáo là $7,91 \\text{ m}^2$ (kết quả làm tròn đến hàng phần trăm)."
+  },
+  {
+    "bbox": [
+      447,
+      1535,
+      1556,
+      2174
+    ],
+    "category": "Text",
+    "text": "**CÂU 4.** Trong không gian $Oxyz$, đơn vị trên mỗi trục tọa độ dài 1 km, mặt đất là mặt phẳng ($Oxy$) một chiếc máy bay bắt đầu di chuyển từ điểm $A(700; 850; 100)$ với vận tốc không đổi 150 km/h theo hướng về điểm $B(800; 900; 200)$. Khi tới $B$, máy bay thay đổi hướng bay theo hướng về điểm $C(1100; 1400; 300)$ với vận tốc giữ nguyên là 150 km/h. Мáy bay di chuyển theo hướng mới trong $30\\sqrt{35}$ phút (tức là mới tới điểm $D \\in BC$) thì bất ngờ gặp gió lớn, khiến hướng bay của nó lệch đi 45 độ theo phương nằm ngang (tức là nếu $\\vec{u}$ là vecto hình chiếu xuống mặt đất của đoạn đường từ điểm $D$ trở đi thì góc lượng giác $(\\vec{i}, \\vec{u}) = 45^\\circ$), và vận tốc giảm còn 120 km/h. Мáy bay tiếp tục bay theo hướng lệch trong 30 phút. Xét tính đúng sai của các keyffe định sau:"
+  },
+  {
+    "bbox": [
+      478,
+      2174,
+      1550,
+      2251
+    ],
+    "category": "List-item",
+    "text": "a) Tổng thời gian bay thực tế của máy bay trong cả hành trình này là 142 phút (kết quả làm tròn đến hàng đơn vị)."
+  },
+  {
+    "bbox": [
+      885,
+      1547,
+      1519,
+      1911
+    ],
+    "category": "Picture"
+  },
+  {
+    "bbox": [
+      136,
+      2260,
+      427,
+      2293
+    ],
+    "category": "Page-footer",
+    "text": "100 Bùi Tịnh Minh Lâm"
+  }
+]
