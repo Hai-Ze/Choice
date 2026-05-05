@@ -25,11 +25,11 @@
         "requirements": [
           {
             "id_problem": "1_2_1",
-            "description": "Nhận biết được các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và biết sử dụng các kí hiệu , , ."
+            "description": "Nhận biết được các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và biết sử dụng các kí hiệu ⊂, ⊃, ∅."
           },
           {
             "id_problem": "1_2_2",
-            "description": "Thực hiện được phép toán trên các tập hợp (hợp, giao, hiệu của hai tập hợp, phần bù của một tập con) và biết dùng biểu đồ Ven để biểu diễn chúng trong những trường hợp cụ thể."
+            "description": "Thực hiện được phép toán trên các tập hợp (hợp, giao, hiệu của hai tập hợp, phần bù của một tập con) và biết dùng biểu đồ Venn để biểu diễn chúng trong những trường hợp cụ thể."
           },
           {
             "id_problem": "1_2_3",
@@ -103,11 +103,11 @@
           },
           {
             "id_problem": "3_2_2",
-            "description": "Vẽ được Parabola (parabol) là đồ thị hàm số bậc hai."
+            "description": "Vẽ được Parabol (parabol) là đồ thị hàm số bậc hai."
           },
           {
             "id_problem": "3_2_3",
-            "description": "Nhận biết được các tính chất cơ bản của Parabola như đỉnh, trục đối xứng."
+            "description": "Nhận biết được các tính chất cơ bản của Parabol như đỉnh, trục đối xứng."
           },
           {
             "id_problem": "3_2_4",
@@ -115,7 +115,7 @@
           },
           {
             "id_problem": "3_2_5",
-            "description": "Vận dụng được kiến thức về hàm số bậc hai và đồ thị vào giải quyết bài toán thực tiễn (ví dụ: xác định độ cao của cầu, cổng có hình dạng Parabola,...)."
+            "description": "Vận dụng được kiến thức về hàm số bậc hai và đồ thị vào giải quyết bài toán thực tiễn (ví dụ: xác định độ cao của cầu, cổng có hình dạng Parabol,...)."
           }
         ]
       },
@@ -137,7 +137,7 @@
           },
           {
             "id_problem": "3_3_4",
-            "description": "thực tiễn (ví dụ: xác định chiều cao tối đa để xe có thể qua hầm có hình dạng Parabola,...)."
+            "description": "thực tiễn (ví dụ: xác định chiều cao tối đa để xe có thể qua hầm có hình dạng Parabol,...)."
           }
         ]
       },
@@ -147,7 +147,7 @@
         "requirements": [
           {
             "id_problem": "3_4_1",
-            "description": "Giải được phương trình chứa căn thức có dạng: ax2 +bx +c  dx2 +ex + f ; ax2 +bx+c  dx+e."
+            "description": "Giải được phương trình chứa căn thức có dạng: ax2 +bx +c = dx2 +ex + f ; ax2 +bx+c = dx+e."
           }
         ]
       }
@@ -205,11 +205,11 @@
         "requirements": [
           {
             "id_problem": "5_1_1",
-            "description": "Nhận biết được giá trị lượng giác của một góc từ ° đến 18°."
+            "description": "Nhận biết được giá trị lượng giác của một góc từ 0° đến 180°."
           },
           {
             "id_problem": "5_1_2",
-            "description": "Tính được giá trị lượng giác (đúng hoặc gần đúng) của một góc từ ° đến 18° bằng máy tính cầm tay."
+            "description": "Tính được giá trị lượng giác (đúng hoặc gần đúng) của một góc từ 0° đến 180° bằng máy tính cầm tay."
           },
           {
             "id_problem": "5_1_3",
@@ -605,11 +605,7 @@
           },
           {
             "id_problem": "13_2_2",
-            "description": "Vận dụng cách giải hệ phương trình bậc nhất ba ẩn để giải quyết một số vấn đề thực tiễn cuộc sống (ví dụ: bài toán lập kế hoạch sản"
-          },
-          {
-            "id_problem": "13_2_3",
-            "description": "xuất, mô hình cân bằng thị trường, phân bố vốn đầu tư,...)."
+            "description": "Vận dụng cách giải hệ phương trình bậc nhất ba ẩn để giải quyết một số vấn đề thực tiễn cuộc sống (ví dụ: bài toán lập kế hoạch sản xuất, mô hình cân bằng thị trường, phân bố vốn đầu tư,...)."
           }
         ]
       }
@@ -727,11 +723,11 @@
           },
           {
             "id_problem": "16_1_2",
-            "description": "Giải thích được một số giới hạn cơ bản như: lim 0 (k×*); n+×nk lim qn  0 (|q|1); lim c c với c là hằng số. n+× n+×"
+            "description": "Giải thích được một số giới hạn cơ bản như: lim n→∞ n^k = 0 (k ∈ ℕ*); lim n→∞ q^n = 0 (|q| < 1); lim n→∞ c = c với c là hằng số."
           },
           {
             "id_problem": "16_1_3",
-            "description": "Vận dụng được các phép toán giới hạn dãy số để tìm giới hạn của một 2n+1 4n2 +1 số dãy số đơn giản (ví dụ: lim ; lim ). n+× n n+× n"
+            "description": "Vận dụng được các phép toán giới hạn dãy số để tìm giới hạn của một số dãy số đơn giản (ví dụ: lim (2n+1)/n = 2; lim (4n²+1)/n = 4)."
           },
           {
             "id_problem": "16_1_4",
@@ -745,19 +741,19 @@
         "requirements": [
           {
             "id_problem": "16_2_1",
-            "description": "Nhận biết được khái niệm giới hạn hữu hạn của hàm số, giới hạn hữu hạn một phía của hàm số tại một điểm."
+            "description": "Nhận biết được khái niệm giới hạn hữu hạn của hàm số, giới hạn hữu hạn của hàm số tại một điểm và tại vô cực."
           },
           {
             "id_problem": "16_2_2",
-            "description": "Nhận biết được khái niệm giới hạn hữu hạn của hàm số tại vô cực và mô"
+            "description": "Nhận biết được khái niệm giới hạn hữu hạn của hàm số tại vô cực và mô tả được tính chất của giới hạn hữu hạn."
           },
           {
             "id_problem": "16_2_3",
-            "description": "c c tả được một số giới hạn cơ bản như: lim 0, lim 0 với c là hằng x+×xk x-×xk số và k là số nguyên dương."
+            "description": "Mô tả được một số giới hạn cơ bản như: lim x→+∞ 1/x^k = 0, lim x→-∞ 1/x^k = 0 với c là hằng số và k là số nguyên dương."
           },
           {
             "id_problem": "16_2_4",
-            "description": "Nhận biết được khái niệm giới hạn vô cực (một phía) của hàm số tại một điểm và hiểu được một số giới hạn cơ bản như: 1 1 lim +×;lim -×. xa+ x-a xa- x-a"
+            "description": "Nhận biết được khái niệm giới hạn vô cực (một phía) của hàm số tại một điểm và hiểu được một số giới hạn cơ bản như: lim x→a+ 1/(x-a) = +∞; lim x→a- 1/(x-a) = -∞."
           },
           {
             "id_problem": "16_2_5",
@@ -831,7 +827,7 @@
         "requirements": [
           {
             "id_problem": "17_2_1",
-            "description": "Nhận biết được khái niệm lôgarit cơ số a (a > 0, a  1) của một số thực dương."
+            "description": "Nhận biết được khái niệm lôgarit cơ số a (a > 0, a ≠ 1) của một số thực dương."
           },
           {
             "id_problem": "17_2_2",
@@ -879,7 +875,7 @@
         "requirements": [
           {
             "id_problem": "17_4_1",
-            "description": "Giải được phương trình, bất phương trình mũ, lôgarit ở dạng đơn giản 1 (ví dụ 2x+1  ; 2x+1 23x+5; log (x +1)  3; log (x+1)log (x2 -1)). 4 2 3 3"
+            "description": "Giải được phương trình, bất phương trình mũ, lôgarit ở dạng đơn giản 1 (ví dụ 2x+1 = ; 2x+1 =23x+5; log (x +1) = 3; log (x+1)=log (x2 -1)). 4 2 3 3"
           },
           {
             "id_problem": "17_4_2",
@@ -1503,7 +1499,7 @@
           },
           {
             "id_problem": "28_3_3",
-            "description": "Khảo sát được tập xác định, chiều biến thiên, cực trị, tiệm cận, bảng biến thiên và vẽ đồ thị của các hàm số: ax+b y = ax3 + bx2 + cx + d (a  0); y  (c  0, ad - bc  0); cx+d ax2 +bx+c y  (a  0, m  0 và đa thức tử không chia hết cho đa thức mx+n mẫu)."
+            "description": "Khảo sát được tập xác định, chiều biến thiên, cực trị, tiệm cận, bảng biến thiên và vẽ đồ thị của các hàm số: ax+b y = ax3 + bx2 + cx + d (a ≠ 0); y = (c ≠ 0, ad - bc ≠ 0); cx+d ax2 +bx+c y = (a ≠ 0, m ≠ 0 và đa thức tử không chia hết cho đa thức mx+n mẫu)."
           },
           {
             "id_problem": "28_3_4",
@@ -1543,7 +1539,7 @@
           },
           {
             "id_problem": "29_1_3",
-            "description": "Xác định được nguyên hàm của một số hàm số sơ cấp như: 1 y  x≠ -1≈ ; y  ; y sin x; ycos x; x 1 1 y  ; y  ; y  ax;y e x. cos2 x sin2 x"
+            "description": "Xác định được nguyên hàm của một số hàm số sơ cấp như: 1 y = xα≠α≠ -1≈ ; y = ; y =sin x; y=cos x; x 1 1 y = ; y = ; y = ax;y =e x. cos2 x sin2 x"
           },
           {
             "id_problem": "29_1_4",
