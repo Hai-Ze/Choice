@@ -2,12 +2,70 @@ import fitz  # PyMuPDF
 import json
 import re
 import os
+import sys
+from typing import List, Dict, Tuple, Optional
+
+# Fix encoding cho Windows CMD
+if sys.platform == "win32":
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
 # ============================================================
-# PARSE PDF TABLE -> JSON (PHIÊN BẢN CHUẨN)
+# PARSE PDF TABLE -> JSON (PHIÊN BẢN CHUẨN - BMAD ENHANCED)
 # ============================================================
 
 SKIP_KEYWORDS = ["thực hành và trải nghiệm", "hoạt động thực hành", "thực hành"]
+
+# Mapping ký tự Unicode bị lỗi từ PDF → Unicode chuẩn
+UNICODE_FIX_MAP = {
+    '': '⊂',      # Tập con
+    '': '⊃',      # Tập cha
+    '': '∅',      # Tập rỗng
+    '': '∀',      # For all
+    '': '∃',      # Exists
+    '': '°',      # Degree
+    '': '°',      # Degree variant
+    '': '+',      # Plus sign
+    '': '-',      # Minus sign
+    '': '→',      # Arrow right
+    '': '←',      # Arrow left
+    '': '⇒',      # Implies
+    '': '∑',      # Sum
+    '': '∫',      # Integral
+    '': '√',      # Square root
+    '': '∞',      # Infinity
+    '': '≤',      # Less or equal
+    '': '≥',      # Greater or equal
+    '': '≠',      # Not equal
+    '': '≈',      # Approximately
+    '': '∪',      # Union
+    '': '∩',      # Intersection
+    '': '∈',      # Element of
+    '': 'π',      # Pi
+    '': 'α',      # Alpha
+    '': 'β',      # Beta
+    '': 'γ',      # Gamma
+    '': 'δ',      # Delta
+    '': 'θ',      # Theta
+    '': 'λ',      # Lambda
+    '': 'μ',      # Mu
+    '': 'σ',      # Sigma
+    '': 'φ',      # Phi
+    '': 'ω',      # Omega
+    '': '×',      # Multiplication
+    '': '÷',      # Division
+    '': 'ε',      # Epsilon
+}
+
+def fix_unicode_chars(text: str) -> str:
+    """Fix các ký tự Unicode bị lỗi từ PDF"""
+    if not text:
+        return text
+    result = text
+    for bad_char, good_char in UNICODE_FIX_MAP.items():
+        result = result.replace(bad_char, good_char)
+    return result
 
 BIG_HEADERS = [
     "ĐẠI SỐ VÀ MỘT SỐ YẾU TỐ GIẢI TÍCH",
@@ -26,9 +84,11 @@ VALID_TOPICS = [
 ]
 
 def clean_text(text):
+    """Làm sạch text và fix Unicode"""
     if not text: return ""
     text = text.replace('\n', ' ')
     text = re.sub(r' {2,}', ' ', text)
+    text = fix_unicode_chars(text)
     return text.strip()
 
 def is_big_header(text):
@@ -49,11 +109,84 @@ def check_topic(col0, col1, col2):
     return None
 
 def split_requirements(text):
+    """Tách requirements, có merge các câu bị tách sai"""
     if not text: return []
     parts = re.split(r'(?:\n|^| )[–-]\s+', text)
     results = [clean_text(p) for p in parts if len(p.strip()) > 5]
     if not results and len(text.strip()) > 5: results.append(clean_text(text))
     return results
+
+
+def merge_broken_requirements(requirements: List[Dict]) -> List[Dict]:
+    """
+    Merge các requirement bị tách sai thành một.
+    Ví dụ: "Vận dụng được..." + "một số bài toán..." → "Vận dụng được một số bài toán..."
+    """
+    if not requirements:
+        return []
+
+    merged = []
+    i = 0
+    current_id_prefix = None
+    accumulated_desc = ""
+
+    for req in requirements:
+        desc = req.get("description", "")
+        if not desc:
+            continue
+
+        # Phát hiện dấu hiệu câu bị tách:
+        # - Kết thúc bằng từ nối: "và", "của", "liên", "sản", "xuất", "thực"
+        # - Bắt đầu bằng từ thường (không viết hoa)
+        # - Có dấu 3 chấm hoặc dấu gạch ngang ở cuối
+        prev_desc = accumulated_desc
+
+        # Từ kết thúc có thể bị tách
+        continuation_ends = ["và", "của", "liên", "sản", "xuất", "thực", "thực",
+                            "một số", "các", "những", "với", "cho", "đến"]
+
+        should_merge = False
+        if accumulated_desc:
+            # Check xem desc hiện tại có phải là continuation không
+            if any(desc.lower().startswith(w) for w in ["một số", "các", "những", "bài toán"]):
+                # Check xem câu trước có kết thúc bằng từ nối không
+                for end_word in continuation_ends:
+                    if prev_desc.rstrip().endswith(end_word) or prev_desc.rstrip().endswith(end_word + " "):
+                        should_merge = True
+                        break
+            # Check kết thúc bằng dấu 3 chấm hoặc gạch ngang
+            if prev_desc.rstrip().endswith(("...", "…", "–", "-")):
+                should_merge = True
+
+        if should_merge:
+            accumulated_desc += " " + desc
+        else:
+            # Flush accumulated nếu có
+            if accumulated_desc:
+                merged.append({
+                    "id_problem": current_id_prefix,
+                    "description": accumulated_desc.strip()
+                })
+            # Bắt đầu requirement mới
+            accumulated_desc = desc
+            current_id_prefix = req.get("id_problem", "")
+
+    # Flush requirement cuối cùng
+    if accumulated_desc:
+        merged.append({
+            "id_problem": current_id_prefix,
+            "description": accumulated_desc.strip()
+        })
+
+    # Re-index ID sau khi merge
+    for idx, req in enumerate(merged, 1):
+        # Giữ nguyên prefix, thay suffix
+        if current_id_prefix:
+            parts = current_id_prefix.rsplit("_", 1)
+            if len(parts) == 2:
+                req["id_problem"] = f"{parts[0]}_{idx}"
+
+    return merged
 
 def extract_tables_from_pages(doc, pages):
     all_rows = []
@@ -68,7 +201,7 @@ def extract_tables_from_pages(doc, pages):
     return all_rows
 
 def parse_grade(doc, grade, pages, section_counter_ref):
-    print(f"\n📖 Lớp {grade} (trang {list(pages)[0]+1}→{list(pages)[-1]+1})...")
+    print(f"\n[Lop {grade}] Trang {list(pages)[0]+1}->{list(pages)[-1]+1}...")
     all_rows = extract_tables_from_pages(doc, pages)
     
     sections = []
@@ -115,7 +248,7 @@ def parse_grade(doc, grade, pages, section_counter_ref):
                     # Riêng với 'hàm số lượng giác', dừng luôn không cần thấy chuyên đề
                     # Các cái khác cần seen_special_topics để tránh dừng quá sớm ở đầu lớp
                     if boundary == "hàm số lượng giác" or seen_special_topics:
-                        print(f"   🛑 Dừng: Gặp ranh giới '{boundary}' lớp {grade}")
+                        print(f"   [DUNG] Gap ranh gioi '{boundary}' lop {grade}")
                         flush_section()
                         section_counter_ref[0] = sec_id
                         return sections
@@ -125,7 +258,7 @@ def parse_grade(doc, grade, pages, section_counter_ref):
             flush_section()
             current_topic = detected_topic
             if "Chuyên đề" in detected_topic: seen_special_topics = True
-            print(f"   🏷️  Topic: {current_topic}")
+            print(f"   [Topic] {current_topic}")
             skip_mode = False
             continue
 
@@ -164,7 +297,7 @@ def parse_grade(doc, grade, pages, section_counter_ref):
             current_section_name = col0
             current_section = {"grade": grade, "topic": current_topic, "section": col0, "id_section": str(sec_id), "content": []}
             sub_id = 1
-            print(f"   📂 [{sec_id}] {col0[:60]}...")
+            print(f"   [{sec_id}] {col0[:60]}...")
             if col1:
                 current_subsection = {"subsection": col1, "id_subsection": str(sub_id), "requirements": []}
                 if col2:
@@ -204,7 +337,8 @@ def main():
 
     with open(os.path.join(BASE_DIR, "KhungChuongTrinh_no_api.json"), 'w', encoding='utf-8') as f:
         json.dump(final_json, f, ensure_ascii=False, indent=2)
-    print(f"\n✅ Xong! Tổng: {len(final_json)} sections.")
+    print(f"\n[XONG] Tong: {len(final_json)} sections.")
+    print(f"[FILE] Output: KhungChuongTrinh_no_api.json")
 
 if __name__ == "__main__":
     main()

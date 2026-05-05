@@ -5,9 +5,47 @@ import time
 import os
 from dotenv import load_dotenv
 from google import genai
+from typing import List, Dict
 
 # Tải trước các biến môi trường từ tệp .env ẩn
 load_dotenv()
+
+# Mapping ký tự Unicode bị lỗi từ PDF → Unicode chuẩn
+UNICODE_FIX_MAP = {
+    '': '⊂', '': '⊂',      # Tập con
+    '': '⊃', '': '⊃',      # Tập cha
+    '': '∅', '': '∅',      # Tập rỗng
+    '': '∀',              # For all
+    '': '∃',              # Exists
+    '': '°', '': '°',      # Degree
+    '': '°',              # Degree variant
+    '': '+',              # Plus sign
+    '': '-',              # Minus sign
+    '': '→',              # Arrow right
+    '': '←',              # Arrow left
+    '': '⇒',              # Implies
+    '': '∑',              # Sum
+    '': '∫',              # Integral
+    '': '√',              # Square root
+    '': '∞',              # Infinity
+    '': '≤',              # Less or equal
+    '': '≥',              # Greater or equal
+    '': '≠',              # Not equal
+    '': '≈',              # Approximately
+    '': '∪',              # Union
+    '': '∩',              # Intersection
+    '': '×',              # Multiplication
+    '': '÷',              # Division
+}
+
+def fix_unicode_chars(text: str) -> str:
+    """Fix các ký tự Unicode bị lỗi từ PDF"""
+    if not text:
+        return text
+    result = text
+    for bad_char, good_char in UNICODE_FIX_MAP.items():
+        result = result.replace(bad_char, good_char)
+    return result
 
 # =========================================================
 # PHẦN 1: TRÍCH XUẤT VÀ LÀM SẠCH DỮ LIỆU TỪ PDF RA JSON
@@ -18,22 +56,24 @@ def extract_pdf_by_grades(pdf_path):
     Hàm đọc file PDF và chia nhỏ khối text theo từng lớp (10, 11, 12).
     """
     doc = fitz.open(pdf_path)
-    
+
     # Định nghĩa ranh giới các trang dựa vào mục lục của file PDF (Trang 10: 79, 11: 89, 12: 105)
     # Lưu ý: Index trong PyMuPDF đếm từ 0, nên trang 79 tương ứng là index 78.
     sections = {
-        10: (78, 88), 
+        10: (78, 88),
         11: (88, 105), # Kéo dài thêm 1 index để lấy nốt phần dư của Lớp 11 bị vắt sang trang 105
         12: (104, 114) # Lớp 12 cũng bắt đầu xài chung trang 105
     }
-    
+
     grade_texts = {}
     for grade, (start_page, end_page) in sections.items():
         text = ""
         for i in range(start_page, min(end_page, doc.page_count)):
-            text += doc.load_page(i).get_text() + "\n"
+            page_text = doc.load_page(i).get_text()
+            # Fix Unicode ngay khi extract
+            text += fix_unicode_chars(page_text) + "\n"
         grade_texts[grade] = text
-        
+
     return grade_texts
 
 def process_text_with_llm_to_json(text_chunk, grade, api_key):
@@ -43,9 +83,9 @@ def process_text_with_llm_to_json(text_chunk, grade, api_key):
     client = genai.Client(api_key=api_key)
 
     prompt = rf"""
-    Bạn là chuyên gia về chương trình giáo dục Toán học Việt Nam. 
+    Bạn là chuyên gia về chương trình giáo dục Toán học Việt Nam.
     Hãy phân tích đoạn văn bản thô (được trích xuất từ PDF) của Lớp {grade} dưới đây và chuyển đổi nó về ĐÚNG MỘT KHỐI JSON ARRAY.
-    
+
     YÊU CẦU BẮT BUỘC (CRITICAL):
     1. Trả về đúng cấu trúc. Chú ý cách xác định Topic, Section, Subsection từ bảng trong PDF.
     [
@@ -68,18 +108,33 @@ def process_text_with_llm_to_json(text_chunk, grade, api_key):
         ]
       }}
     ]
-    2. CHUYỂN HÓA LATEX: Mọi kí tự toán học (độ, góc, tích phân, giới hạn...) bọc trong dấu `$`. 
+
+    2. CHUYỂN HÓA LATEX: Mọi kí tự toán học (độ, góc, tích phân, giới hạn...) bọc trong dấu `$`.
     !!CẢNH BÁO JSON!!: TẤT CẢ các dấu backslash (`\\`) trong chuỗi của bạn PHẢI ĐƯỢC NHÂN ĐÔI (ESCAPE) THÀNH `\\\\`. Ví dụ: `"\\\\lim_{{n\\\\to\\\\infty}}"` KHÔNG ĐƯỢC gõ `"\\lim_{{n\\to\\infty}}"`. Dấu xuyệt đơn sẽ làm sập hàm json.loads().
+
     3. LOẠI BỎ THỰC HÀNH: TUYỆT ĐỐI BỎ QUA toàn bộ các phần có tiêu đề là "Thực hành", "Hoạt động thực hành", hoặc "HOẠT ĐỘNG THỰC HÀNH VÀ TRẢI NGHIỆM". Không đưa chúng vào mảng JSON. Chỉ giữ lại lý thuyết và chuyên đề Toán học. (Bạn cũng phải thông minh lọc bỏ phần thừa của Lớp khác bị dính vào do cắt trang PDF).
+
     4. MẢNG PHẲNG 1 CẤP SECTION: Array ngoài cùng phải là list các Section độc lập. Tuyệt đối không lồng các Section vào bên trong bất kỳ mảng Content nào khác.
+
     5. TUYỆT ĐỐI CHỈ OUTPUT JSON, không có chữ mở đầu/kết thúc hay ```json.
+
+    6. QUAN TRỌNG - KHÔNG TÁCH CÂU: Khi phân tích requirements (cột 3), NHẬN DIỆN VÀ GỘP CÁC CÂU BỊ TÁCH SAI:
+       - Nếu một gạch đầu dòng kết thúc bằng: "và", "của", "liên", "một số", "thực tiễn" + dấu ngắt dòng → ĐÂY LÀ MỘT CÂU BỊ TÁCH
+       - VÍ DỤ: "Vận dụng được kiến thức về" + "một số bài toán" → PHẢI GỘP THÀNH "Vận dụng được kiến thức về một số bài toán"
+       - CHỈ TÁCH requirements khi thực sự có dấu gạch đầu dòng (-) riêng biệt
+
+    7. UNICODE: Dùng ký hiệu toán học Unicode chuẩn:
+       - Tập con: ⊂, Tập cha: ⊃, Tập rỗng: ∅
+       - For all: ∀, Exists: ∃
+       - Degree: °, Plus: +, Minus: -
+       - Infinity: ∞, Integral: ∫, Sum: ∑
 
     Dưới đây là văn bản cần phân tích:
     {text_chunk}
     """
     
     response = client.models.generate_content(
-        model='gemini-1.5-flash',
+        model='gemini-2.5-flash',  # Update model mới
         contents=prompt,
     )
     raw_response = response.text.strip()
@@ -96,14 +151,16 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
     print("-> Đang trích text từ file PDF...")
     grade_texts = extract_pdf_by_grades(pdf_path)
     final_json = []
-    
+
     for grade, text in grade_texts.items():
         print(f"🔧 Đang chạy AI biên dịch chương trình Lớp {grade}...")
-        
+
         # Thử gọi API (Tối đa 5 lần, chờ lâu hơn để vượt Rate Limit 429)
         for attempt in range(5):
             try:
                 grade_json = process_text_with_llm_to_json(text, grade, api_key)
+                # Post-process để merge các requirement bị tách
+                grade_json = post_process_requirements(grade_json)
                 final_json.extend(grade_json)
                 print(f"✅ Bóc tách hoàn tất Lớp {grade}.")
                 break
@@ -117,11 +174,76 @@ def build_new_khung_chuong_trinh(pdf_path, output_json, api_key):
                 else:
                     print(f"❌ Lỗi khi xử lý Lớp {grade}: {e}")
                     break
-                    
+
         # Nghỉ 60s giữa mỗi Lớp để tránh bị Google block Rate Limit
         if grade != 12:
             print(f"⏳ Nghỉ 60 giây trước khi xử lý lớp tiếp theo...")
             time.sleep(60)
+
+
+def post_process_requirements(grade_json: List[Dict]) -> List[Dict]:
+    """
+    Post-process để merge các requirement bị tách sai sau khi AI trả về.
+    AI đôi khi tách câu không đúng, hàm này sẽ gộp lại.
+    """
+    continuation_patterns = [
+        r'^một số', r'^các', r'^những', r'^bài toán', r'^vấn đề',
+        r'^liên quan', r'^thực tiễn', r'^trong', r'^với', r'^đến'
+    ]
+
+    ending_patterns = [
+        r'và$', r'của$', r'liên$', r'một số$', r'thực$', r'thiện$',
+        r'sản$', r'xuất$', r'với$', r'cho$', r'đến$'
+    ]
+
+    for section in grade_json:
+        for content in section.get("content", []):
+            requirements = content.get("requirements", [])
+            if not requirements:
+                continue
+
+            merged = []
+            skip_next = False
+
+            for i, req in enumerate(requirements):
+                if skip_next:
+                    skip_next = False
+                    continue
+
+                desc = req.get("description", "")
+                if not desc:
+                    continue
+
+                # Check xem requirement hiện tại có kết thúc bằng từ nối không
+                should_merge = False
+                clean_desc = desc.strip()
+
+                for pattern in ending_patterns:
+                    if re.search(pattern, clean_desc, re.IGNORECASE):
+                        # Check xem requirement tiếp theo có phải là continuation không
+                        if i + 1 < len(requirements):
+                            next_desc = requirements[i + 1].get("description", "")
+                            for cont_pattern in continuation_patterns:
+                                if re.match(cont_pattern, next_desc.strip(), re.IGNORECASE):
+                                    # Merge hai requirement
+                                    merged_desc = clean_desc + " " + next_desc.strip()
+                                    merged.append({
+                                        "id_problem": req.get("id_problem"),
+                                        "description": merged_desc
+                                    })
+                                    should_merge = True
+                                    skip_next = True
+                                    break
+                        if should_merge:
+                            break
+
+                if not should_merge:
+                    merged.append(req)
+
+            # Update requirements đã merge
+            content["requirements"] = merged
+
+    return grade_json
             
     # TÁI CẤU TRÚC: Đánh lại toàn bộ ID để tăng dần từ 1 -> N bằng phương pháp đệ quy, đề phòng AI tạo mảng lồng nhau
     current_section_id = 1
@@ -224,7 +346,7 @@ def validate_json_vs_pdf(json_path, pdf_path):
 if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     PDF_FILE = os.path.join(BASE_DIR, "3__CT_Toan_59b5e.pdf")
-    OUTPUT_JSON = os.path.join(BASE_DIR, "KhungChuongTrinh_Moi.json")
+    OUTPUT_JSON = os.path.join(BASE_DIR, "KhungChuongTrinh_gemini.json")
     
     # Đã giấu API KEY sang file .env để tránh bị lộ khi đẩy lên Git
     env_path = os.path.join(BASE_DIR, ".env")

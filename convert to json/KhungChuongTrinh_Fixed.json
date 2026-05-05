@@ -11,7 +11,7 @@
         "requirements": [
           {
             "id_problem": "1_1_1",
-            "description": "Thiết lập và phát biểu được các mệnh đề toán học, bao gồm: mệnh đề phủ định; mệnh đề đảo; mệnh đề tương đương; mệnh đề có chứa kí hiệu , ; điều kiện cần, điều kiện đủ, điều kiện cần và đủ."
+            "description": "Thiết lập và phát biểu được các mệnh đề toán học, bao gồm: mệnh đề phủ định; mệnh đề đảo; mệnh đề tương đương; mệnh đề có chứa kí hiệu ⊂, ∈; điều kiện cần, điều kiện đủ, điều kiện cần và đủ."
           },
           {
             "id_problem": "1_1_2",
@@ -25,7 +25,7 @@
         "requirements": [
           {
             "id_problem": "1_2_1",
-            "description": "Nhận biết được các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và biết sử dụng các kí hiệu , , ."
+            "description": "Nhận biết được các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và biết sử dụng các kí hiệu ⊂, ⊃, ∅."
           },
           {
             "id_problem": "1_2_2",
@@ -147,7 +147,7 @@
         "requirements": [
           {
             "id_problem": "3_4_1",
-            "description": "Giải được phương trình chứa căn thức có dạng: ax2 bx c  dx2 ex  f ; ax2 bxc  dxe."
+            "description": "Giải được phương trình chứa căn thức có dạng: ax2 +bx +c = dx2 +ex + f ; ax2 +bx+c = dx+e."
           }
         ]
       }
@@ -205,11 +205,11 @@
         "requirements": [
           {
             "id_problem": "5_1_1",
-            "description": "Nhận biết được giá trị lượng giác của một góc từ  đến 18."
+            "description": "Nhận biết được giá trị lượng giác của một góc từ °° đến 18°°."
           },
           {
             "id_problem": "5_1_2",
-            "description": "Tính được giá trị lượng giác (đúng hoặc gần đúng) của một góc từ  đến 18 bằng máy tính cầm tay."
+            "description": "Tính được giá trị lượng giác (đúng hoặc gần đúng) của một góc từ °° đến 18°° bằng máy tính cầm tay."
           },
           {
             "id_problem": "5_1_3",
@@ -727,11 +727,11 @@
           },
           {
             "id_problem": "16_1_2",
-            "description": "Giải thích được một số giới hạn cơ bản như: lim 0 (k*); nnk lim qn  0 (|q|1); lim c c với c là hằng số. n n"
+            "description": "Giải thích được một số giới hạn cơ bản như: lim =0 (k×*); n+×nk lim qn = 0 (|q|1); lim c =c với c là hằng số. n+× n+×"
           },
           {
             "id_problem": "16_1_3",
-            "description": "Vận dụng được các phép toán giới hạn dãy số để tìm giới hạn của một 2n1 4n2 1 số dãy số đơn giản (ví dụ: lim ; lim ). n n n n"
+            "description": "Vận dụng được các phép toán giới hạn dãy số để tìm giới hạn của một 2n+1 4n2 +1 số dãy số đơn giản (ví dụ: lim ; lim ). n+× n n+× n"
           },
           {
             "id_problem": "16_1_4",
@@ -753,11 +753,11 @@
           },
           {
             "id_problem": "16_2_3",
-            "description": "c c tả được một số giới hạn cơ bản như: lim 0, lim 0 với c là hằng xxk xxk số và k là số nguyên dương."
+            "description": "c c tả được một số giới hạn cơ bản như: lim =0, lim =0 với c là hằng x+×xk x-×xk số và k là số nguyên dương."
           },
           {
             "id_problem": "16_2_4",
-            "description": "Nhận biết được khái niệm giới hạn vô cực (một phía) của hàm số tại một điểm và hiểu được một số giới hạn cơ bản như: 1 1 lim ;lim . xa xa xa xa"
+            "description": "Nhận biết được khái niệm giới hạn vô cực (một phía) của hàm số tại một điểm và hiểu được một số giới hạn cơ bản như: 1 1 lim =+×;lim =-×. xa+ x-a xa- x-a"
           },
           {
             "id_problem": "16_2_5",
@@ -879,7 +879,7 @@
         "requirements": [
           {
             "id_problem": "17_4_1",
-            "description": "Giải được phương trình, bất phương trình mũ, lôgarit ở dạng đơn giản 1 (ví dụ 2x1  ; 2x1 23x5; log (x 1)  3; log (x1)log (x2 1)). 4 2 3 3"
+            "description": "Giải được phương trình, bất phương trình mũ, lôgarit ở dạng đơn giản 1 (ví dụ 2x+1 = ; 2x+1 =23x+5; log (x +1) = 3; log (x+1)=log (x2 -1)). 4 2 3 3"
           },
           {
             "id_problem": "17_4_2",
@@ -1503,7 +1503,7 @@
           },
           {
             "id_problem": "28_3_3",
-            "description": "Khảo sát được tập xác định, chiều biến thiên, cực trị, tiệm cận, bảng biến thiên và vẽ đồ thị của các hàm số: axb y = ax3 + bx2 + cx + d (a  0); y  (c  0, ad  bc  0); cxd ax2 bxc y  (a  0, m  0 và đa thức tử không chia hết cho đa thức mxn mẫu)."
+            "description": "Khảo sát được tập xác định, chiều biến thiên, cực trị, tiệm cận, bảng biến thiên và vẽ đồ thị của các hàm số: ax+b y = ax3 + bx2 + cx + d (a  0); y = (c  0, ad - bc  0); cx+d ax2 +bx+c y = (a  0, m  0 và đa thức tử không chia hết cho đa thức mx+n mẫu)."
           },
           {
             "id_problem": "28_3_4",
@@ -1543,7 +1543,7 @@
           },
           {
             "id_problem": "29_1_3",
-            "description": "Xác định được nguyên hàm của một số hàm số sơ cấp như: 1 y  x 1 ; y  ; y sin x; ycos x; x 1 1 y  ; y  ; y  ax;y e x. cos2 x sin2 x"
+            "description": "Xác định được nguyên hàm của một số hàm số sơ cấp như: 1 y = x≠ -1≈ ; y = ; y =sin x; y=cos x; x 1 1 y = ; y = ; y = ax;y =e x. cos2 x sin2 x"
           },
           {
             "id_problem": "29_1_4",

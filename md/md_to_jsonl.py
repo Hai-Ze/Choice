@@ -16,12 +16,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Khoi tao OpenRouter client
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+# Khoi tao GLM client
+GLM_API_KEY = os.getenv("GLM_API_KEY")
 
 client = OpenAI(
-    api_key=OPENROUTER_API_KEY,
-    base_url=os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
+    api_key=GLM_API_KEY,
+    base_url=os.getenv("GLM_BASE_URL", "https://api.z.ai/api/paas/v4")
 )
 
 # ====================================================================
@@ -400,7 +400,7 @@ def process_with_ai(questions, system_prompt, chunk_size=5):
             time.sleep(3.5)
 
             response = client.chat.completions.create(
-                model="z-ai/glm-4.5-air:free",  # OpenRouter free model
+                model="glm-4.5-air",  # GLM model
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
